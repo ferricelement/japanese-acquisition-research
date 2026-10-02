@@ -1,0 +1,4349 @@
+{
+ "A-ta-ato-de": {
+  "verdict": "covered",
+  "reason": "-te kara already says 'after doing'; ato de is kept for 'later'.",
+  "coveredBy": "-te kara (A8), ato de (A5)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "A-mou-ikkai": {
+  "verdict": "covered",
+  "reason": "Same phrase is already kept in responses.",
+  "coveredBy": "mou ikkai (G)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "A-toriaezu": {
+  "verdict": "covered",
+  "reason": "Same word is already kept in stance.",
+  "coveredBy": "toriaezu (C)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "A-ta-bakari": {
+  "verdict": "covered",
+  "reason": "-tokoro already teaches 'just did', saikin covers 'recently'; it would be a near-duplicate beside bakkari.",
+  "coveredBy": null,
+  "joinBlock": "A9",
+  "proposed": "maybe"
+ },
+ "A-koro": {
+  "verdict": "covered",
+  "reason": "kodomo no toki does the same job in speech.",
+  "coveredBy": "-toki (A8)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "A-ichido": {
+  "verdict": "covered",
+  "reason": "Numeral-ish; 'ever', 'again' and 'not once' are handled by kept items.",
+  "coveredBy": "-ta koto ga aru (I), mou ikkai (G), zenzen (B)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "A-konkai": {
+  "verdict": "covered",
+  "reason": "kondo already carries 'this time'.",
+  "coveredBy": "kondo (A5)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "A-saki-ni": {
+  "verdict": "readd",
+  "reason": "Real hole: 'go ahead / I'll go first' (saki ni itte); mazu and saisho can't say it. #446.",
+  "coveredBy": null,
+  "joinBlock": "A7",
+  "proposed": "readd"
+ },
+ "A-aida": {
+  "verdict": "covered",
+  "reason": "'While / during' is already handled three ways.",
+  "coveredBy": "-nagara (A8), -chuu (A9), -uchi ni (A10)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "A-goro": {
+  "verdict": "covered",
+  "reason": "gurai is widely used for approximate times in speech; ごろ alone ranks #3829.",
+  "coveredBy": "gurai (B)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "A-taitei": {
+  "verdict": "covered",
+  "reason": "itsumo already glosses 'usually'; taitei ranks #4463.",
+  "coveredBy": "itsumo (A3)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "A-shotchuu": {
+  "verdict": "covered",
+  "reason": "yoku and itsumo cover 'all the time'.",
+  "coveredBy": "yoku, itsumo (A3)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "A-mettani": {
+  "verdict": "covered",
+  "reason": "anmari / hotondo + negative say 'rarely'; mettani ranks #5306.",
+  "coveredBy": "anmari, hotondo (B)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "A-ototoi": {
+  "verdict": "covered",
+  "reason": "Low frequency (#4331). kono aida and kinou cover recent past well enough for conversation.",
+  "coveredBy": null,
+  "joinBlock": "A1",
+  "proposed": "maybe"
+ },
+ "A-asatte": {
+  "verdict": "covered",
+  "reason": "Low frequency (#3247). ashita, kondo and raishuu handle near-future plans adequately.",
+  "coveredBy": null,
+  "joinBlock": "A1",
+  "proposed": "maybe"
+ },
+ "A-yuube": {
+  "verdict": "covered",
+  "reason": "kinou no yoru is built from kept words and does the same job.",
+  "coveredBy": null,
+  "joinBlock": "A11",
+  "proposed": "maybe"
+ },
+ "A-yuugata": {
+  "verdict": "covered",
+  "reason": "yoru and hiru cover the slot loosely; it adds little that's distinct beyond the kept times of day.",
+  "coveredBy": null,
+  "joinBlock": "A11",
+  "proposed": "maybe"
+ },
+ "A-tsui-ni": {
+  "verdict": "covered",
+  "reason": "yatto is the spoken 'finally'; tsui ni leans narration.",
+  "coveredBy": "yatto (A2)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "A-dandan": {
+  "verdict": "readd",
+  "reason": "No gradual-change adverb is kept; it pairs constantly with kept -ku naru / -te kuru.",
+  "coveredBy": null,
+  "joinBlock": "A4",
+  "proposed": "readd"
+ },
+ "A-fudan": {
+  "verdict": "covered",
+  "reason": "itsumo wa ... kedo kyou wa makes the same habit-versus-now contrast.",
+  "coveredBy": "itsumo (A3)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "A-motomoto": {
+  "verdict": "covered",
+  "reason": "saisho kara and mukashi already express 'originally / to begin with' well enough.",
+  "coveredBy": null,
+  "joinBlock": "A6",
+  "proposed": "maybe"
+ },
+ "A-nando-mo": {
+  "verdict": "readd",
+  "reason": "No 'many times / over and over' item; yoku means 'often', not 'repeatedly'. #1290.",
+  "coveredBy": null,
+  "joinBlock": "A5",
+  "proposed": "readd"
+ },
+ "A-itsu-no-ma-ni-ka": {
+  "verdict": "covered",
+  "reason": "Optional storytelling phrase. kyuu ni or -nai uchi ni get the idea across.",
+  "coveredBy": null,
+  "joinBlock": "new: time passing",
+  "proposed": "maybe"
+ },
+ "A-sono-uchi": {
+  "verdict": "covered",
+  "reason": "itsuka does the vague 'someday / eventually' job.",
+  "coveredBy": "itsuka (J)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "A-tochuu": {
+  "verdict": "covered",
+  "reason": "-toki (kaeru toki), -chuu and saigo made cover 'on the way' and 'partway'; confusable with -chuu.",
+  "coveredBy": null,
+  "joinBlock": "A9",
+  "proposed": "maybe"
+ },
+ "A-aikawarazu": {
+  "verdict": "covered",
+  "reason": "itsumo and zutto cover 'as always / same as ever' well enough for a learner.",
+  "coveredBy": null,
+  "joinBlock": "A2",
+  "proposed": "maybe"
+ },
+ "A-nido-to": {
+  "verdict": "covered",
+  "reason": "mou + negative already says 'not anymore'; nido to only adds force.",
+  "coveredBy": "mou (A2)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "A-tokku-ni": {
+  "verdict": "covered",
+  "reason": "Just an emphatic mou.",
+  "coveredBy": "mou (A2)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "A-imasara": {
+  "verdict": "covered",
+  "reason": "Stance nuance only; ima and mou osoi from kept words express the idea.",
+  "coveredBy": null,
+  "joinBlock": "A15",
+  "proposed": "maybe"
+ },
+ "A-ikinari": {
+  "verdict": "covered",
+  "reason": "kyuu ni is the everyday 'suddenly'.",
+  "coveredBy": "kyuu ni (A4)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "A-maikai": {
+  "verdict": "covered",
+  "reason": "itsumo handles 'every time' complaints (itsumo osoi jan).",
+  "coveredBy": "itsumo (A3)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "A-imagoro": {
+  "verdict": "skip",
+  "reason": "Narrow; ima covers the guessing use, and 'only now?!' is mostly recognition.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "A-isshou": {
+  "verdict": "covered",
+  "reason": "zutto already covers 'forever' (zutto wasurenai). isshou no onegai is a fixed-phrase extra.",
+  "coveredBy": null,
+  "joinBlock": "new: time passing",
+  "proposed": "maybe"
+ },
+ "A-isshun": {
+  "verdict": "covered",
+  "reason": "chotto (chotto bikkuri shita) and sugu cover brief moments well enough.",
+  "coveredBy": null,
+  "joinBlock": "new: time passing",
+  "proposed": "maybe"
+ },
+ "A-atto-iu-ma": {
+  "verdict": "covered",
+  "reason": "hayakatta ne, from the kept word hayai, does the same 'it flew by' job. Optional fixed phrase.",
+  "coveredBy": null,
+  "joinBlock": "new: time passing",
+  "proposed": "maybe"
+ },
+ "B-minna": {
+  "verdict": "covered",
+  "reason": "Same word and job as the kept J item; minasan can sit on that card.",
+  "coveredBy": "J minna (everyone; all of you)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "B-sonna-ni": {
+  "verdict": "readd",
+  "reason": "Everyday pushback: 'not THAT much' (sonna ni warukunai). Anmari can't express 'as much as you imply'.",
+  "coveredBy": null,
+  "joinBlock": "B5",
+  "proposed": "readd"
+ },
+ "B-mou-sukoshi": {
+  "verdict": "covered",
+  "reason": "Same meaning as mou chotto, which also works in polite requests.",
+  "coveredBy": "B1 mou chotto",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "B-totemo": {
+  "verdict": "covered",
+  "reason": "Already kept: the B2 card is labelled 'metcha / totemo'.",
+  "coveredBy": "B2 metcha / totemo",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "B-juubun": {
+  "verdict": "covered",
+  "reason": "Covered: mou ii, daijoubu and 'kore de ii' (-de ii) already decline or say enough.",
+  "coveredBy": null,
+  "joinBlock": "B4",
+  "proposed": "maybe"
+ },
+ "B-onaji-gurai": {
+  "verdict": "covered",
+  "reason": "Built from two kept items, onaji and gurai, so it needs no card of its own.",
+  "coveredBy": "D onaji + B6 gurai",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "B-nakanaka": {
+  "verdict": "maybe",
+  "reason": "#494. The 'just won't…' sense (nakanaka konai) isn't covered elsewhere; 'pretty good' is.",
+  "coveredBy": null,
+  "joinBlock": "B2",
+  "proposed": "maybe"
+ },
+ "B-zutto-by-far": {
+  "verdict": "covered",
+  "reason": "Same headword as kept zutto; add 'zutto ii' as an example there, not a new item.",
+  "coveredBy": null,
+  "joinBlock": "B7",
+  "proposed": "maybe"
+ },
+ "B-daibu": {
+  "verdict": "covered",
+  "reason": "Kanari and kekkou already report how much something changed (kanari yoku natta).",
+  "coveredBy": "B2 kanari, kekkou",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "B-hanbun": {
+  "verdict": "covered",
+  "reason": "A fraction, close to out-of-scope numbers; not a gap in conversational intent.",
+  "coveredBy": null,
+  "joinBlock": "B4",
+  "proposed": "maybe"
+ },
+ "B-warito": {
+  "verdict": "covered",
+  "reason": "Rare in speech once spellings are combined; kekkou does the same 'fairly' job.",
+  "coveredBy": "B2 kekkou",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "B-igai": {
+  "verdict": "covered",
+  "reason": "Kept hoka (#613) already does 'other than / besides' (sono hoka, hoka ni).",
+  "coveredBy": null,
+  "joinBlock": "B3",
+  "proposed": "maybe"
+ },
+ "B-ryouhou": {
+  "verdict": "covered",
+  "reason": "'Dotchi mo' (kept dotchi + mo) and zenbu answer 'which one?' with 'both'.",
+  "coveredBy": "J dotchi + B3 mo; B4 zenbu",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "B-konna-ni": {
+  "verdict": "covered",
+  "reason": "Derivable from kept konna plus sonna ni; fold onto the sonna ni card instead.",
+  "coveredBy": null,
+  "joinBlock": "B2",
+  "proposed": "maybe"
+ },
+ "B-kanzen-ni": {
+  "verdict": "covered",
+  "reason": "In casual talk zenzen chigau and zenbu wasureta do the 'totally' job.",
+  "coveredBy": "B5 zenzen, B4 zenbu",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "B-mattaku": {
+  "verdict": "covered",
+  "reason": "A stronger, stiffer zenzen; the kept item already gives the meaning.",
+  "coveredBy": "B5 zenzen",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "B-chou": {
+  "verdict": "covered",
+  "reason": "Casual-only slang booster; metcha fills the same slot.",
+  "coveredBy": "B2 metcha",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "B-zuibun": {
+  "verdict": "covered",
+  "reason": "Kekkou, kanari and sugoku already react to 'quite a lot'.",
+  "coveredBy": "B2 kekkou, kanari, sugoku",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "B-ijou": {
+  "verdict": "covered",
+  "reason": "Kept mou covers 'any more' (mou muri); amount uses are out of scope.",
+  "coveredBy": null,
+  "joinBlock": "B7",
+  "proposed": "maybe"
+ },
+ "B-dondon": {
+  "verdict": "covered",
+  "reason": "Covered by -ku naru / -te iku and motto; 'dig in' via douzo.",
+  "coveredBy": null,
+  "joinBlock": "B1",
+  "proposed": "maybe"
+ },
+ "B-sukkari": {
+  "verdict": "covered",
+  "reason": "Zenzen oboetenai and zenbu wasureta say 'completely forgot' well enough.",
+  "coveredBy": "B5 zenzen, B4 zenbu",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "B-anna-ni": {
+  "verdict": "covered",
+  "reason": "Derivable from kept anna plus sonna ni; would be a confusable near-duplicate.",
+  "coveredBy": null,
+  "joinBlock": "B2",
+  "proposed": "maybe"
+ },
+ "B-zenin": {
+  "verdict": "covered",
+  "reason": "Minna does the casual 'everyone'.",
+  "coveredBy": "J minna",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "B-tatta": {
+  "verdict": "covered",
+  "reason": "'Go-fun dake' already says 'only five minutes'. Tatta just adds stress.",
+  "coveredBy": "B3 dake",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "B-zutsu": {
+  "verdict": "covered",
+  "reason": "Most uses need counters; gradual change already covered by -te kuru and -you ni naru.",
+  "coveredBy": null,
+  "joinBlock": "B1",
+  "proposed": "maybe"
+ },
+ "B-semete": {
+  "verdict": "covered",
+  "reason": "Kept dake plus -demo gives 'dake demo' (at least), natural and already producible.",
+  "coveredBy": null,
+  "joinBlock": "B3",
+  "proposed": "maybe"
+ },
+ "B-hobo": {
+  "verdict": "covered",
+  "reason": "Hotondo already says 'almost all / nearly'.",
+  "coveredBy": "B5 hotondo",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "B-sappari": {
+  "verdict": "covered",
+  "reason": "Mostly the fixed 'sappari wakaranai'; zenzen wakannai says the same.",
+  "coveredBy": "B5 zenzen",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "B-sae": {
+  "verdict": "covered",
+  "reason": "Mostly heard, not produced; 'kodomo de mo wakaru' with mo says the same.",
+  "coveredBy": "B3 mo",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "B-donna-ni": {
+  "verdict": "skip",
+  "reason": "#3341. Narrow 'no matter how' frame that E's -te mo already carries.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "B-sorezore": {
+  "verdict": "covered",
+  "reason": "Rarely needed; kept '-ni yoru' (hito ni yoru) covers 'each to their own'.",
+  "coveredBy": null,
+  "joinBlock": "B4",
+  "proposed": "maybe"
+ },
+ "B-yoppodo": {
+  "verdict": "skip",
+  "reason": "Expressive and mostly heard. Sugoku with n da ne covers 'you must really be…'.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "B-girigiri": {
+  "verdict": "covered",
+  "reason": "Low rank and narrow; kept nantoka covers 'barely made it' (nantoka ma ni atta).",
+  "coveredBy": null,
+  "joinBlock": "B6",
+  "proposed": "maybe"
+ },
+ "B-sukunaku-tomo": {
+  "verdict": "skip",
+  "reason": "#1939 and stiffer. If the list gets an 'at least', semete is the casual pick.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "B-aru-teido": {
+  "verdict": "covered",
+  "reason": "'Daitai wakaru' already hedges skill or knowledge.",
+  "coveredBy": "B6 daitai",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "B-nashi": {
+  "verdict": "covered",
+  "reason": "-naide, dame and 'X wa ii' cover without/off; not worth a new block.",
+  "coveredBy": null,
+  "joinBlock": "new: with / without",
+  "proposed": "maybe"
+ },
+ "B-koso": {
+  "verdict": "covered",
+  "reason": "Kondo koso is covered by zettai; kochira koso belongs in G as a phrase.",
+  "coveredBy": null,
+  "joinBlock": "B3",
+  "proposed": "maybe"
+ },
+ "B-seizei": {
+  "verdict": "skip",
+  "reason": "#3097. Narrow 'at most' that is usually attached to numbers, which are out of scope.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "C-honto-ni": {
+  "verdict": "covered",
+  "reason": "Same word and job as kept honto ni (B) and hontou ni (C5).",
+  "coveredBy": "B honto ni; C5 maji de / hontou ni",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "C-tashika-ni": {
+  "verdict": "covered",
+  "reason": "Already kept in G with the same agreeing/conceding job.",
+  "coveredBy": "G tashika ni",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "C-jibun-de": {
+  "verdict": "covered",
+  "reason": "jibun is kept, and adding de is regular; hitori de already does 'by myself'.",
+  "coveredBy": "J jibun; C3 hitori de",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "C-sekkaku": {
+  "verdict": "readd",
+  "reason": "#465. Nothing kept says 'since we went to the trouble'; sekkaku dakara is an everyday invitation phrase.",
+  "coveredBy": null,
+  "joinBlock": "new: Effort & intent",
+  "proposed": "readd"
+ },
+ "C-douse": {
+  "verdict": "maybe",
+  "reason": "#580, common resigned stance, but more drama-emotional than learner-essential; tonikaku covers some ground.",
+  "coveredBy": null,
+  "joinBlock": "C7",
+  "proposed": "maybe"
+ },
+ "C-kanarazu": {
+  "verdict": "covered",
+  "reason": "In casual promises zettai does this job (zettai renraku suru).",
+  "coveredBy": "C2 zettai",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "C-katte-ni": {
+  "verdict": "readd",
+  "reason": "#438. No kept item says 'without asking' or 'on its own'; constant in everyday complaints and explanations.",
+  "coveredBy": null,
+  "joinBlock": "C3",
+  "proposed": "readd"
+ },
+ "C-shikkari": {
+  "verdict": "covered",
+  "reason": "Chanto (#169) already covers 'properly'. Adding shikkari mainly creates a near-synonym that's easy to confuse.",
+  "coveredBy": null,
+  "joinBlock": "C1",
+  "proposed": "maybe"
+ },
+ "C-honto-wa": {
+  "verdict": "covered",
+  "reason": "jitsu wa does the 'actually, in truth' job; honto wa is easy to understand from kept honto.",
+  "coveredBy": "C5 jitsu wa; G honto?",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "C-doushitemo": {
+  "verdict": "covered",
+  "reason": "Kept dou plus -te mo already builds dou shite mo; zettai and zenzen dekinai cover the rest.",
+  "coveredBy": null,
+  "joinBlock": "C7",
+  "proposed": "maybe"
+ },
+ "C-wazawaza": {
+  "verdict": "covered",
+  "reason": "Thanks and waving off effort already work with arigatou and -nakute ii. It overlaps with sekkaku's effort framing.",
+  "coveredBy": null,
+  "joinBlock": "new: Effort & intent",
+  "proposed": "maybe"
+ },
+ "C-tashika": {
+  "verdict": "covered",
+  "reason": "Kke and tabun already hedge memory, and it's easy to confuse with the kept tashika ni.",
+  "coveredBy": null,
+  "joinBlock": "C2",
+  "proposed": "maybe"
+ },
+ "C-hakkiri": {
+  "verdict": "skip",
+  "reason": "#1033 and fairly narrow; chanto and yukkuri cover the learner's 'say it clearly' needs.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "C-futsuu-ni": {
+  "verdict": "covered",
+  "reason": "futsuu is kept and futsuu ni is regular; the slang 'pretty' sense is optional.",
+  "coveredBy": "D futsuu",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "C-tsui": {
+  "verdict": "covered",
+  "reason": "-chau already carries the 'oops, didn't mean to' sense; tsui only boosts it.",
+  "coveredBy": "I -chau",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "C-minna-de": {
+  "verdict": "covered",
+  "reason": "minna plus de is regular, and issho ni does the 'together' job.",
+  "coveredBy": "J minna; C3 issho ni",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "C-igai-to": {
+  "verdict": "covered",
+  "reason": "omotta yori does the 'surprisingly' job (omotta yori oishii).",
+  "coveredBy": "B omotta yori",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "C-zehi": {
+  "verdict": "covered",
+  "reason": "Invitations and eager yeses are already covered by -nai?, yokattara, ii ne and mochiron. #1143.",
+  "coveredBy": null,
+  "joinBlock": "C2",
+  "proposed": "maybe"
+ },
+ "C-dondon": {
+  "verdict": "skip",
+  "reason": "Narrow; motto covers escalation, and 'dig in' is a host phrase.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "C-nantonaku": {
+  "verdict": "covered",
+  "reason": "Betsu ni already answers nande? with 'no particular reason'. Its frequency is low: #2554 kanji, #4044 kana.",
+  "coveredBy": null,
+  "joinBlock": "C6",
+  "proposed": "maybe"
+ },
+ "C-gyaku-ni": {
+  "verdict": "skip",
+  "reason": "#1144, an optional pivot; demo and -kedo carry contrast for a learner.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "C-jissai": {
+  "verdict": "skip",
+  "reason": "#1110 and adds little beyond jitsu wa and honto ni.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "C-honki-de": {
+  "verdict": "covered",
+  "reason": "maji de / hontou ni do the sincerity check (maji de?).",
+  "coveredBy": "C5 maji de / hontou ni",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "C-mushiro": {
+  "verdict": "skip",
+  "reason": "#1127, argument-flavoured; no hou ga and yori cover comparisons.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "C-tamatama": {
+  "verdict": "covered",
+  "reason": "Optional for coincidence stories, low spread, #1139. Gives little versatility per slot.",
+  "coveredBy": null,
+  "joinBlock": "C4",
+  "proposed": "maybe"
+ },
+ "C-tekitou-ni": {
+  "verdict": "skip",
+  "reason": "Rank #1392 for all uses of tekitou; it's a casual extra, and its 'sloppy' sense can mislead.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "C-wazato": {
+  "verdict": "covered",
+  "reason": "Gomen and -ru tsumori ja nakatta already handle disputes about intent. #1378, low spread.",
+  "coveredBy": null,
+  "joinBlock": "new: Effort & intent",
+  "proposed": "maybe"
+ },
+ "C-isshoukenmei": {
+  "verdict": "covered",
+  "reason": "ganbaru and ganbatte do the effort talk.",
+  "coveredBy": "H ganbaru; G ganbatte",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "C-somosomo": {
+  "verdict": "skip",
+  "reason": "Mostly heard in arguments; low need to say it.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "C-kihonteki-ni": {
+  "verdict": "covered",
+  "reason": "Rare in drama speech (#4814); daitai and itsumo already frame routines.",
+  "coveredBy": "B daitai; A itsumo",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "C-kojinteki-ni": {
+  "verdict": "covered",
+  "reason": "watashi wa ... to omou already marks an opinion as one's own.",
+  "coveredBy": "J watashi; F to omou",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "C-tsuide-ni": {
+  "verdict": "skip",
+  "reason": "#1938 and errand-specific; ato (oh, and also) adds extra requests.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "C-sasuga-ni": {
+  "verdict": "covered",
+  "reason": "It sits right next to the kept sasuga and is easy to confuse with it. Chotto muri already concedes limits. #1098.",
+  "coveredBy": null,
+  "joinBlock": "C4",
+  "proposed": "maybe"
+ },
+ "C-marude": {
+  "verdict": "covered",
+  "reason": "mitai carries the comparison; marude only strengthens it.",
+  "coveredBy": "F mitai",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "C-narubeku": {
+  "verdict": "covered",
+  "reason": "dekireba does the 'if possible' softening (dekireba hayaku).",
+  "coveredBy": "C6 dekireba",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "C-tekkiri": {
+  "verdict": "covered",
+  "reason": "-to omotta (kedo) already clears up a wrong assumption; tekkiri is #2954.",
+  "coveredBy": "F to omou; E -kedo",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "C-chokusetsu": {
+  "verdict": "skip",
+  "reason": "Situational (asking or buying directly); not a stance word, and optional.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "C-sassato": {
+  "verdict": "covered",
+  "reason": "hayaku does 'hurry up and' (hayaku kimete).",
+  "coveredBy": "C1 hayaku",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "C-nazeka": {
+  "verdict": "covered",
+  "reason": "Nande ka wakannai kedo, built from kept parts, already says it. #1893, optional.",
+  "coveredBy": null,
+  "joinBlock": "C4",
+  "proposed": "maybe"
+ },
+ "C-massugu": {
+  "verdict": "skip",
+  "reason": "Mostly about directions, which are out of scope; #2303.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "C-aru-imi": {
+  "verdict": "skip",
+  "reason": "#4266; a rare framing hedge.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "D-atarashii": {
+  "verdict": "readd",
+  "reason": "#301, above most kept adjectives; the list has no way to say 'new'.",
+  "coveredBy": null,
+  "joinBlock": "new: New & old",
+  "proposed": "readd"
+ },
+ "D-daisuki": {
+  "verdict": "maybe",
+  "reason": "#579; 'daisuki!' is the natural way to say love it. 'sugoku suki' sounds off. Can share suki's card.",
+  "coveredBy": null,
+  "joinBlock": "D2",
+  "proposed": "readd"
+ },
+ "D-okashii": {
+  "verdict": "covered",
+  "reason": "hen covers 'weird/off', omoshiroi covers 'funny'; would be a confusable near-duplicate of hen.",
+  "coveredBy": null,
+  "joinBlock": "D11",
+  "proposed": "maybe"
+ },
+ "D-raku": {
+  "verdict": "covered",
+  "reason": "kantan and -yasui cover 'easy, low effort'; comfort sense is optional.",
+  "coveredBy": null,
+  "joinBlock": "D7",
+  "proposed": "maybe"
+ },
+ "D-nagai": {
+  "verdict": "maybe",
+  "reason": "#467 and covers time too, but the list works without length words.",
+  "coveredBy": null,
+  "joinBlock": "new: New & old",
+  "proposed": "maybe"
+ },
+ "D-furui": {
+  "verdict": "covered",
+  "reason": "mukashi no and atarashiku nai roughly cover it; much lower rank than atarashii.",
+  "coveredBy": null,
+  "joinBlock": "new: New & old",
+  "proposed": "maybe"
+ },
+ "D-tanoshimi": {
+  "verdict": "readd",
+  "reason": "The only way to say 'looking forward to it'. You need it for any plan. #869.",
+  "coveredBy": null,
+  "joinBlock": "D9",
+  "proposed": "readd"
+ },
+ "D-mazui": {
+  "verdict": "covered",
+  "reason": "D4 already teaches mazui desu as yabai's polite form; 'tastes bad' is oishikunai.",
+  "coveredBy": "yabai / mazui desu (D4)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "D-mendokusai": {
+  "verdict": "covered",
+  "reason": "iya and taihen already cover 'don't want to / a hassle' well enough.",
+  "coveredBy": null,
+  "joinBlock": "D7",
+  "proposed": "maybe"
+ },
+ "D-jouzu": {
+  "verdict": "readd",
+  "reason": "Learners hear 'nihongo jouzu' all the time and use it to compliment any skill.",
+  "coveredBy": null,
+  "joinBlock": "new: Good at & bad at",
+  "proposed": "readd"
+ },
+ "D-heta": {
+  "verdict": "covered",
+  "reason": "'jouzu ja nai' via the kept -ja nai pattern covers it.",
+  "coveredBy": null,
+  "joinBlock": "new: Good at & bad at",
+  "proposed": "maybe"
+ },
+ "D-tokui": {
+  "verdict": "covered",
+  "reason": "dekiru and suki cover own strengths; near-duplicate of jouzu.",
+  "coveredBy": null,
+  "joinBlock": "new: Good at & bad at",
+  "proposed": "maybe"
+ },
+ "D-nigate": {
+  "verdict": "maybe",
+  "reason": "The polite 'not my thing' for food, people, tasks; kirai is too blunt. #980.",
+  "coveredBy": null,
+  "joinBlock": "new: Good at & bad at",
+  "proposed": "readd"
+ },
+ "D-kirei": {
+  "verdict": "readd",
+  "reason": "No 'pretty/beautiful/clean' in the list; 'kirei!' is a standard reaction to views and places. #679.",
+  "coveredBy": null,
+  "joinBlock": "new: Pretty & kind",
+  "proposed": "readd"
+ },
+ "D-tsurai": {
+  "verdict": "covered",
+  "reason": "taihen covers 'tough' in most uses; iya covers 'can't stand'.",
+  "coveredBy": null,
+  "joinBlock": "D7",
+  "proposed": "maybe"
+ },
+ "D-kitsui": {
+  "verdict": "covered",
+  "reason": "In casual speech, taihen does the 'that's rough, demanding' job.",
+  "coveredBy": "taihen (D7)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "D-chikai": {
+  "verdict": "covered",
+  "reason": "sugu soko and mou sugu cover nearness in place and time well enough.",
+  "coveredBy": null,
+  "joinBlock": "new: Near & far",
+  "proposed": "maybe"
+ },
+ "D-tooi": {
+  "verdict": "covered",
+  "reason": "Lower rank partner of chikai; neither needed for coverage.",
+  "coveredBy": null,
+  "joinBlock": "new: Near & far",
+  "proposed": "maybe"
+ },
+ "D-yasashii": {
+  "verdict": "readd",
+  "reason": "#419, the most common word for describing people. The list has no warm character adjective.",
+  "coveredBy": null,
+  "joinBlock": "new: Pretty & kind",
+  "proposed": "readd"
+ },
+ "D-hazukashii": {
+  "verdict": "maybe",
+  "reason": "Common self-report (#672), especially when getting compliments, but optional.",
+  "coveredBy": null,
+  "joinBlock": "D9",
+  "proposed": "maybe"
+ },
+ "D-tekitou": {
+  "verdict": "covered",
+  "reason": "-de ii and nandemo ii already cover 'whatever works'.",
+  "coveredBy": null,
+  "joinBlock": "D11",
+  "proposed": "maybe"
+ },
+ "D-sabishii": {
+  "verdict": "covered",
+  "reason": "Optional; zannen covers goodbye 'too bad'. Default false.",
+  "coveredBy": null,
+  "joinBlock": "D9",
+  "proposed": "maybe"
+ },
+ "D-kanashii": {
+  "verdict": "skip",
+  "reason": "Speakers use zannen or sabishii instead; kanashii leans toward narrative and drama.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "D-atsui": {
+  "verdict": "readd",
+  "reason": "'atsui ne' is the top small-talk opener; both kanji together rank around #1000.",
+  "coveredBy": null,
+  "joinBlock": "new: Hot, cold, ouch",
+  "proposed": "readd"
+ },
+ "D-samui": {
+  "verdict": "readd",
+  "reason": "Pairs with atsui for weather and how you feel; daily small talk. #1214.",
+  "coveredBy": null,
+  "joinBlock": "new: Hot, cold, ouch",
+  "proposed": "readd"
+ },
+ "D-itai": {
+  "verdict": "readd",
+  "reason": "#336; has to be produced on the spot for pain and 'ouch'. The list has nothing for it.",
+  "coveredBy": null,
+  "joinBlock": "new: Hot, cold, ouch",
+  "proposed": "readd"
+ },
+ "D-nemui": {
+  "verdict": "covered",
+  "reason": "tsukareta (kept tsukareru) covers the tired excuse; low drama rank.",
+  "coveredBy": null,
+  "joinBlock": "new: Hot, cold, ouch",
+  "proposed": "maybe"
+ },
+ "D-abunai": {
+  "verdict": "maybe",
+  "reason": "Warning shout and 'abunakatta' close call; frequent (#513) but tied to situations.",
+  "coveredBy": null,
+  "joinBlock": "D9",
+  "proposed": "maybe"
+ },
+ "D-benri": {
+  "verdict": "covered",
+  "reason": "ii and kantan cover rating tools and places; low rank #3369.",
+  "coveredBy": null,
+  "joinBlock": "D7",
+  "proposed": "maybe"
+ },
+ "D-urusai": {
+  "verdict": "covered",
+  "reason": "Risky to say; narrow; hearing-only value doesn't fill a production gap.",
+  "coveredBy": null,
+  "joinBlock": "D10",
+  "proposed": "maybe"
+ },
+ "D-zurui": {
+  "verdict": "covered",
+  "reason": "Playful extra; 'ii naa' covers envy among friends.",
+  "coveredBy": null,
+  "joinBlock": "D4",
+  "proposed": "maybe"
+ },
+ "D-umai": {
+  "verdict": "covered",
+  "reason": "Skill and success are covered by umaku; tasty by oishii. Rank includes umaku.",
+  "coveredBy": "umaku (C), oishii (D5)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "D-kakkoii": {
+  "verdict": "covered",
+  "reason": "sugoi, kawaii and ii ne cover most praise for people and things.",
+  "coveredBy": null,
+  "joinBlock": "new: Pretty & kind",
+  "proposed": "maybe"
+ },
+ "D-erai": {
+  "verdict": "covered",
+  "reason": "sugoi and sasuga already praise effort.",
+  "coveredBy": null,
+  "joinBlock": "D4",
+  "proposed": "maybe"
+ },
+ "D-atarimae": {
+  "verdict": "covered",
+  "reason": "mochiron covers 'of course'; desho? and jan cover 'obviously'.",
+  "coveredBy": null,
+  "joinBlock": "D11",
+  "proposed": "maybe"
+ },
+ "D-kawaisou": {
+  "verdict": "covered",
+  "reason": "zannen and hidoi cover nearby sympathy; optional, default false.",
+  "coveredBy": null,
+  "joinBlock": "D9",
+  "proposed": "maybe"
+ },
+ "D-mottainai": {
+  "verdict": "covered",
+  "reason": "Optional reaction; not a gap the learner needs to fill.",
+  "coveredBy": null,
+  "joinBlock": "D9",
+  "proposed": "maybe"
+ },
+ "D-natsukashii": {
+  "verdict": "covered",
+  "reason": "Optional one-word reaction; mukashi and yokatta handle past talk.",
+  "coveredBy": null,
+  "joinBlock": "D9",
+  "proposed": "maybe"
+ },
+ "D-kuyashii": {
+  "verdict": "skip",
+  "reason": "Mostly for losing or competing; zannen covers the general letdown.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "D-mezurashii": {
+  "verdict": "covered",
+  "reason": "hen, futsuu ja nai and masaka cover 'unusual'.",
+  "coveredBy": null,
+  "joinBlock": "D11",
+  "proposed": "maybe"
+ },
+ "D-majime": {
+  "verdict": "skip",
+  "reason": "Mainly describes people; maji de covers 'seriously' in conversation.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "D-kibishii": {
+  "verdict": "skip",
+  "reason": "Muzukashii and taihen cover tough situations; strict people is a narrower use.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "D-shiawase": {
+  "verdict": "covered",
+  "reason": "ureshii covers everyday happiness; rank inflated by drama.",
+  "coveredBy": null,
+  "joinBlock": "D9",
+  "proposed": "maybe"
+ },
+ "D-tokubetsu": {
+  "verdict": "skip",
+  "reason": "toku ni is already kept; 'special' rarely gets said in casual talk.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "D-kanpeki": {
+  "verdict": "covered",
+  "reason": "saikou and choudo cover 'perfect'.",
+  "coveredBy": null,
+  "joinBlock": "D4",
+  "proposed": "maybe"
+ },
+ "D-muda": {
+  "verdict": "skip",
+  "reason": "Frequency inflated by drama; dame and imi nai cover 'no use' when speaking.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "D-urayamashii": {
+  "verdict": "covered",
+  "reason": "'ii naa' already says 'I'm jealous'; long word, low rank.",
+  "coveredBy": null,
+  "joinBlock": "D9",
+  "proposed": "maybe"
+ },
+ "D-kimochi-ii-warui": {
+  "verdict": "covered",
+  "reason": "Useful but low rank; iya and daijoubu ja nai partly cover gross/sick.",
+  "coveredBy": null,
+  "joinBlock": "new: Hot, cold, ouch",
+  "proposed": "maybe"
+ },
+ "D-tsuyoi": {
+  "verdict": "covered",
+  "reason": "Drama-inflated rank; useful 'osake ni tsuyoi' sense is narrow.",
+  "coveredBy": null,
+  "joinBlock": "new: Strong & weak",
+  "proposed": "maybe"
+ },
+ "D-yowai": {
+  "verdict": "covered",
+  "reason": "Partner of rejected tsuyoi; optional.",
+  "coveredBy": null,
+  "joinBlock": "new: Strong & weak",
+  "proposed": "maybe"
+ },
+ "D-tadashii": {
+  "verdict": "covered",
+  "reason": "Speakers check with 'kore de ii?' and correct with chigau; tadashii is bookish.",
+  "coveredBy": "-de ii (I), chigau (H)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "D-kitanai": {
+  "verdict": "covered",
+  "reason": "'kirei ja nai' covers it once kirei is in.",
+  "coveredBy": null,
+  "joinBlock": "new: Pretty & kind",
+  "proposed": "maybe"
+ },
+ "D-shizuka": {
+  "verdict": "covered",
+  "reason": "Optional; not a needed gap for general conversation.",
+  "coveredBy": null,
+  "joinBlock": "D10",
+  "proposed": "maybe"
+ },
+ "D-mijikai": {
+  "verdict": "covered",
+  "reason": "'nagaku nai' via -kunai covers it; lower rank.",
+  "coveredBy": null,
+  "joinBlock": "new: New & old",
+  "proposed": "maybe"
+ },
+ "D-jama": {
+  "verdict": "covered",
+  "reason": "gomen covers apologies; optional.",
+  "coveredBy": null,
+  "joinBlock": "new: Trouble & bother",
+  "proposed": "maybe"
+ },
+ "D-meiwaku": {
+  "verdict": "covered",
+  "reason": "Already taught through kept kakeru 'cause (trouble)'.",
+  "coveredBy": null,
+  "joinBlock": "new: Trouble & bother",
+  "proposed": "maybe"
+ },
+ "D-anshin": {
+  "verdict": "covered",
+  "reason": "In speech, yokatta does relief and daijoubu does 'don't worry'.",
+  "coveredBy": "yokatta (G), daijoubu (D1)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "D-tsugou": {
+  "verdict": "covered",
+  "reason": "'ashita daijoubu?' and 'chotto...' handle scheduling and polite refusal.",
+  "coveredBy": null,
+  "joinBlock": "D1",
+  "proposed": "maybe"
+ },
+ "D-baka": {
+  "verdict": "skip",
+  "reason": "Rough and risky to produce; hen and hidoi cover the safe uses.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "D-yokei": {
+  "verdict": "skip",
+  "reason": "Idiomatic ('yokei na osewa', 'yokei ni'); hard to produce and not needed.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "D-kuwashii": {
+  "verdict": "covered",
+  "reason": "'motto oshiete' covers 'tell me more'.",
+  "coveredBy": null,
+  "joinBlock": "D11",
+  "proposed": "maybe"
+ },
+ "D-fuan": {
+  "verdict": "covered",
+  "reason": "shinpai does 'uneasy about it' in casual speech.",
+  "coveredBy": "shinpai (D9)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "D-fushigi": {
+  "verdict": "covered",
+  "reason": "hen covers 'strange'; little need to produce 'mysterious'.",
+  "coveredBy": "hen (D11)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "D-kimochi-warui": {
+  "verdict": "covered",
+  "reason": "Duplicate of the rejected kimochi pair card.",
+  "coveredBy": null,
+  "joinBlock": "new: Hot, cold, ouch",
+  "proposed": "maybe"
+ },
+ "D-kimochi-ii": {
+  "verdict": "covered",
+  "reason": "Duplicate of the rejected kimochi pair card.",
+  "coveredBy": null,
+  "joinBlock": "new: Hot, cold, ouch",
+  "proposed": "maybe"
+ },
+ "D-tsugou-ga-ii": {
+  "verdict": "covered",
+  "reason": "Duplicate of D-tsugou; daijoubu covers it.",
+  "coveredBy": null,
+  "joinBlock": "D1",
+  "proposed": "maybe"
+ },
+ "D-fukuzatsu": {
+  "verdict": "covered",
+  "reason": "muzukashii covers 'complicated' in casual speech; rank #2491.",
+  "coveredBy": "muzukashii (D7)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "D-mashi": {
+  "verdict": "covered",
+  "reason": "'kotchi no hou ga ii' already does the comparison.",
+  "coveredBy": "no hou ga (B), ii (D1)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "D-bimyou": {
+  "verdict": "covered",
+  "reason": "chotto..., maa and futsuu cover the soft 'meh' verdict.",
+  "coveredBy": null,
+  "joinBlock": "D4",
+  "proposed": "maybe"
+ },
+ "D-komakai": {
+  "verdict": "skip",
+  "reason": "Low rank (#3381) and spread across narrow senses.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "D-anshin-2": {
+  "verdict": "covered",
+  "reason": "Duplicate of anshin; yokatta is the spoken 'what a relief'.",
+  "coveredBy": "yokatta (G)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "D-kyoumi-aru": {
+  "verdict": "covered",
+  "reason": "ki ni naru and suki cover interest; 'betsu ni' covers refusal.",
+  "coveredBy": null,
+  "joinBlock": "D2",
+  "proposed": "maybe"
+ },
+ "D-choushi": {
+  "verdict": "covered",
+  "reason": "genki? and daijoubu? cover asking about condition.",
+  "coveredBy": null,
+  "joinBlock": "D6",
+  "proposed": "maybe"
+ },
+ "D-kibun": {
+  "verdict": "covered",
+  "reason": "Overlaps choushi; 'iya' and '-tai' patterns cover not being in the mood.",
+  "coveredBy": null,
+  "joinBlock": "D6",
+  "proposed": "maybe"
+ },
+ "D-kimochi": {
+  "verdict": "covered",
+  "reason": "'wakaru' already works as a sympathy line; a noun, not an adjective.",
+  "coveredBy": null,
+  "joinBlock": "D9",
+  "proposed": "maybe"
+ },
+ "D-heiki": {
+  "verdict": "covered",
+  "reason": "daijoubu does 'fine, no problem' in nearly every context.",
+  "coveredBy": "daijoubu (D1)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "D-oshii": {
+  "verdict": "covered",
+  "reason": "Narrow to games and guesses; zannen covers near misses loosely.",
+  "coveredBy": null,
+  "joinBlock": "D4",
+  "proposed": "maybe"
+ },
+ "D-arigatai": {
+  "verdict": "covered",
+  "reason": "'arigatou' and 'ureshii' cover 'that would be great' in speech.",
+  "coveredBy": "arigatou (G), ureshii (D9)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "D-ayashii": {
+  "verdict": "skip",
+  "reason": "Rank inflated by crime dramas; narrower in daily chat.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "D-yoyuu": {
+  "verdict": "skip",
+  "reason": "Abstract noun; 'jikan nai' and 'kantan' cover the everyday uses.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "D-buji": {
+  "verdict": "skip",
+  "reason": "Drama-inflated; 'tsuita?' and 'daijoubu?' handle check-ins.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "D-wakai": {
+  "verdict": "covered",
+  "reason": "Narrow to describing people's age; optional.",
+  "coveredBy": null,
+  "joinBlock": "new: New & old",
+  "proposed": "maybe"
+ },
+ "D-amai": {
+  "verdict": "skip",
+  "reason": "Mainly a taste word; the figurative 'naive' sense is narrow.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "D-omoi-karui": {
+  "verdict": "covered",
+  "reason": "Optional pair; taihen and ookii cover most figurative uses.",
+  "coveredBy": null,
+  "joinBlock": "D10",
+  "proposed": "maybe"
+ },
+ "D-tsumetai": {
+  "verdict": "skip",
+  "reason": "Touch temperature is narrow; low speakNeed.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "D-akarui-kurai": {
+  "verdict": "covered",
+  "reason": "Optional; kurai would be confusable with kept gurai particle by ear.",
+  "coveredBy": null,
+  "joinBlock": "new: Pretty & kind",
+  "proposed": "maybe"
+ },
+ "D-suteki": {
+  "verdict": "covered",
+  "reason": "ii ne and kirei cover 'lovely' compliments.",
+  "coveredBy": null,
+  "joinBlock": "new: Pretty & kind",
+  "proposed": "maybe"
+ },
+ "D-yuumei": {
+  "verdict": "covered",
+  "reason": "Optional; 'minna shitteru' via kept shitteru covers it.",
+  "coveredBy": null,
+  "joinBlock": "D11",
+  "proposed": "maybe"
+ },
+ "D-ninki-aru": {
+  "verdict": "skip",
+  "reason": "Shopping or ordering use; yuumei is the better 'famous' word.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "D-jiyuu": {
+  "verdict": "skip",
+  "reason": "Drama-inflated; 'suki ni shite' or 'nandemo ii' cover 'up to you'.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "D-sunao": {
+  "verdict": "skip",
+  "reason": "Hard to translate and narrow; rarely needed in speech.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "D-jishin-aru": {
+  "verdict": "covered",
+  "reason": "tabun and 'wakannai kedo' already hedge claims.",
+  "coveredBy": null,
+  "joinBlock": "D7",
+  "proposed": "maybe"
+ },
+ "D-iraira": {
+  "verdict": "covered",
+  "reason": "iya and taihen cover irritation; low rank.",
+  "coveredBy": null,
+  "joinBlock": "new: Feeling mimetics",
+  "proposed": "maybe"
+ },
+ "D-dokidoki": {
+  "verdict": "covered",
+  "reason": "kowai and shinpai cover nervousness; optional mimetic.",
+  "coveredBy": null,
+  "joinBlock": "new: Feeling mimetics",
+  "proposed": "maybe"
+ },
+ "D-wakuwaku": {
+  "verdict": "covered",
+  "reason": "tanoshimi covers excited anticipation.",
+  "coveredBy": null,
+  "joinBlock": "new: Feeling mimetics",
+  "proposed": "maybe"
+ },
+ "D-gakkari": {
+  "verdict": "covered",
+  "reason": "zannen covers 'disappointing' in conversation.",
+  "coveredBy": "zannen (D9)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "D-sukkiri": {
+  "verdict": "skip",
+  "reason": "Spread across narrow senses; low rank (#2905).",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "D-dasai": {
+  "verdict": "skip",
+  "reason": "Slang; low rank (#3663).",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "D-saitei": {
+  "verdict": "covered",
+  "reason": "saiaku already condemns things as the worst.",
+  "coveredBy": "saiaku (D4)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "D-omoi": {
+  "verdict": "covered",
+  "reason": "Duplicate of the omoi / karui pair.",
+  "coveredBy": null,
+  "joinBlock": "D10",
+  "proposed": "maybe"
+ },
+ "D-kudaranai": {
+  "verdict": "covered",
+  "reason": "tsumaranai handles dismissing a show, joke or talk.",
+  "coveredBy": "tsumaranai (D5)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "D-naka-ga-ii": {
+  "verdict": "covered",
+  "reason": "Optional; ii and tomodachi-type phrasing cover relationships loosely.",
+  "coveredBy": null,
+  "joinBlock": "new: Pretty & kind",
+  "proposed": "maybe"
+ },
+ "D-tsuiteru": {
+  "verdict": "skip",
+  "reason": "Rank includes 'attached / on'; casual speakers often just say rakkii.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "D-karui": {
+  "verdict": "covered",
+  "reason": "Duplicate of the omoi / karui pair.",
+  "coveredBy": null,
+  "joinBlock": "D10",
+  "proposed": "maybe"
+ },
+ "D-akarui": {
+  "verdict": "covered",
+  "reason": "Duplicate of the akarui / kurai pair.",
+  "coveredBy": null,
+  "joinBlock": "new: Pretty & kind",
+  "proposed": "maybe"
+ },
+ "D-kurai": {
+  "verdict": "covered",
+  "reason": "Duplicate pair item; sounds like kept gurai particle.",
+  "coveredBy": null,
+  "joinBlock": "new: Pretty & kind",
+  "proposed": "maybe"
+ },
+ "D-hikui": {
+  "verdict": "skip",
+  "reason": "Low speakNeed; mainly height and level, which are narrow.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "D-hiroi-semai": {
+  "verdict": "covered",
+  "reason": "ookii and chiisai cover room and space size well enough.",
+  "coveredBy": null,
+  "joinBlock": "D10",
+  "proposed": "maybe"
+ },
+ "D-attakai": {
+  "verdict": "covered",
+  "reason": "Only worth it beside atsui/samui; atsuku nai and ii cover pleasant warmth.",
+  "coveredBy": null,
+  "joinBlock": "new: Hot, cold, ouch",
+  "proposed": "maybe"
+ },
+ "D-onaka-suita": {
+  "verdict": "covered",
+  "reason": "'nanika tabetai' via kept -tai covers hunger; food-tied fixed phrase.",
+  "coveredBy": null,
+  "joinBlock": "new: Hot, cold, ouch",
+  "proposed": "maybe"
+ },
+ "D-junchou": {
+  "verdict": "skip",
+  "reason": "'dou?' and 'ii kanji' handle check-ins; somewhat formal.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "D-oogesa": {
+  "verdict": "skip",
+  "reason": "Narrow reaction; 'uso' or 'sonna koto nai' cover most of it.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "D-yaruki": {
+  "verdict": "covered",
+  "reason": "iya and '-tai' negatives cover can't be bothered; optional.",
+  "coveredBy": null,
+  "joinBlock": "D6",
+  "proposed": "maybe"
+ },
+ "D-atama-ii": {
+  "verdict": "covered",
+  "reason": "sugoi and sasuga cover the compliment; low rank.",
+  "coveredBy": null,
+  "joinBlock": "new: Pretty & kind",
+  "proposed": "maybe"
+ },
+ "D-yaru-ki": {
+  "verdict": "covered",
+  "reason": "Duplicate of D-yaruki.",
+  "coveredBy": null,
+  "joinBlock": "D6",
+  "proposed": "maybe"
+ },
+ "E-n-da-kedo": {
+  "verdict": "covered",
+  "reason": "Already kept in F as the lead-in 'n da kedo'; the meaning is the same.",
+  "coveredBy": "F n da kedo",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "E-dakedo": {
+  "verdict": "covered",
+  "reason": "At the start of a sentence, demo does the job. Mid-sentence 'hima da kedo' is just -kedo after da.",
+  "coveredBy": "E1 demo, -kedo / desu kedo",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "E-tokoro-de": {
+  "verdict": "covered",
+  "reason": "Kept sou ieba (#607, similar rank) already changes topic in casual talk; ato adds points.",
+  "coveredBy": null,
+  "joinBlock": "E5",
+  "proposed": "maybe"
+ },
+ "E-soretomo": {
+  "verdict": "covered",
+  "reason": "'koohii ka ocha?' says the same thing with the kept -ka.",
+  "coveredBy": "E4 -ka",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "E-ka-dou-ka": {
+  "verdict": "covered",
+  "reason": "Plain -ka already embeds questions (iku ka wakaranai); dou ka is easy to recognise from ka and dou.",
+  "coveredBy": null,
+  "joinBlock": "E4",
+  "proposed": "maybe"
+ },
+ "E-soshitara": {
+  "verdict": "covered",
+  "reason": "'And then' and 'in that case' are already handled by de/sorede, jaa and dattara.",
+  "coveredBy": "E3 de / sorede, jaa; E7 dattara",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "E-sore-demo": {
+  "verdict": "covered",
+  "reason": "demo is kept with the gloss 'even so'.",
+  "coveredBy": "E1 demo",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "E-tte-iu-ka": {
+  "verdict": "covered",
+  "reason": "Kept -tte iu + -ka builds it, iya covers self-correction; also easy to confuse with kept nante iu ka.",
+  "coveredBy": null,
+  "joinBlock": "E5",
+  "proposed": "maybe"
+ },
+ "E-sore-ni": {
+  "verdict": "covered",
+  "reason": "-shi and ato already add another point. Also much rarer than shikamo (#1672).",
+  "coveredBy": "E2 -shi; E3 ato",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "E-tte-koto-wa": {
+  "verdict": "covered",
+  "reason": "F's 'tte koto?' and tsumari already draw the inference.",
+  "coveredBy": "F tte koto?; E5 tsumari",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "E-tada": {
+  "verdict": "covered",
+  "reason": "A caveat after agreeing works with demo or -kedo. The #164 rank mostly counts 'just / free'.",
+  "coveredBy": "E1 demo, -kedo",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "E-sorekara": {
+  "verdict": "covered",
+  "reason": "Rare in dramas (#2967). de/sorede, -te kara and ato cover 'and then' and 'also'.",
+  "coveredBy": "E3 de / sorede, ato; A -te kara",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "E-soshite": {
+  "verdict": "covered",
+  "reason": "Sounds like narration. In casual speech, de/sorede are the 'and then'.",
+  "coveredBy": "E3 de / sorede",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "E-sore-to": {
+  "verdict": "covered",
+  "reason": "Does the same job as ato, 'oh, and; also'.",
+  "coveredBy": "E3 ato",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "E-tonikaku": {
+  "verdict": "covered",
+  "reason": "Already kept in C with the same function.",
+  "coveredBy": "C tonikaku",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "E-sore-yori": {
+  "verdict": "covered",
+  "reason": "Built straight from the kept words sore and yori.",
+  "coveredBy": "J sore; B yori",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "E-dekireba": {
+  "verdict": "covered",
+  "reason": "Already kept in C.",
+  "coveredBy": "C dekireba",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "E-nanode": {
+  "verdict": "covered",
+  "reason": "Already kept in E2 next to dakara.",
+  "coveredBy": "E2 dakara / nanode",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "E-ja-nai-to": {
+  "verdict": "covered",
+  "reason": "It is -nai plus the kept -to: 'shinai to okureru' is built from items already on the list.",
+  "coveredBy": "E6 -to; I -nai, -ja nai",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "E-sei-de": {
+  "verdict": "covered",
+  "reason": "Blame is covered by 'X ga warui'; plain cause by -de, -kara and -node.",
+  "coveredBy": null,
+  "joinBlock": "E2",
+  "proposed": "maybe"
+ },
+ "E-okage-de": {
+  "verdict": "covered",
+  "reason": "Credit and thanks work with arigatou and -te kureta kara; okage adds nuance, not a new intent.",
+  "coveredBy": null,
+  "joinBlock": "E2",
+  "proposed": "maybe"
+ },
+ "E-chinami-ni": {
+  "verdict": "skip",
+  "reason": "Narrow side remark you rarely need to say; sou ieba and ato already do enough.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "E-dakara-tte": {
+  "verdict": "skip",
+  "reason": "A narrow way to argue back. Learners rarely need to say it.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "E-tatte": {
+  "verdict": "covered",
+  "reason": "The casual twin of the kept -te mo. Recognise it, but no need to produce it.",
+  "coveredBy": "E6 -te mo",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "E-kuse-ni": {
+  "verdict": "covered",
+  "reason": "-noni does the 'even though' job without the accusing tone.",
+  "coveredBy": "E1 -noni",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "E-shikamo": {
+  "verdict": "covered",
+  "reason": "Kept -shi already adds points, and ato does it at the start of a sentence.",
+  "coveredBy": null,
+  "joinBlock": "E2",
+  "proposed": "maybe"
+ },
+ "E-kawari-ni": {
+  "verdict": "maybe",
+  "reason": "Noun 'instead of' and 'in exchange' have no kept equivalent. -naide covers only verbs.",
+  "coveredBy": null,
+  "joinBlock": "E8",
+  "proposed": "maybe"
+ },
+ "E-sore-ni-shite-mo": {
+  "verdict": "skip",
+  "reason": "Just discourse flavour (#1459). Learners would not miss saying it.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "E-ni-totte": {
+  "verdict": "covered",
+  "reason": "In casual speech, 'watashi ni wa' / 'watashi wa' say 'for me'; ni totte sounds stiff.",
+  "coveredBy": null,
+  "joinBlock": "E8",
+  "proposed": "maybe"
+ },
+ "E-you-ni": {
+  "verdict": "readd",
+  "reason": "Needed for 'so that (not)', which tame ni can't do: wasurenai you ni, kaze hikanai you ni.",
+  "coveredBy": null,
+  "joinBlock": "E8",
+  "proposed": "readd"
+ },
+ "E-baai": {
+  "verdict": "covered",
+  "reason": "Sounds like instructions. In conversation, -tara, -nara and -toki cover contingencies.",
+  "coveredBy": "E6 -tara, -nara; A -toki",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "E-dake-ja-nakute": {
+  "verdict": "covered",
+  "reason": "Built from kept parts: dake + ja nakute + mo.",
+  "coveredBy": "B dake, mo; I -kunai / -ja nai, -kutte / -de",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "E-ni-shite-wa": {
+  "verdict": "skip",
+  "reason": "Narrow and fairly rare (#2685).",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "E-ni-kurabete": {
+  "verdict": "covered",
+  "reason": "yori and no hou ga already make any comparison.",
+  "coveredBy": "B yori, no hou ga",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "F-te-kureru": {
+  "verdict": "covered",
+  "reason": "-te kurenai? already gives the casual favour request; plain kureru? is the same move.",
+  "coveredBy": "-te kurenai? (F4), -te kureru (I)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "F-ta-hou-ga-ii": {
+  "verdict": "covered",
+  "reason": "Same pattern already kept in grammar block I.",
+  "coveredBy": "-ta hou ga ii (I)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "F-kara-final": {
+  "verdict": "covered",
+  "reason": "Kept -kara already says it; 'sugu modoru kara' is just the clause dropped. Teach it as an example sentence.",
+  "coveredBy": null,
+  "joinBlock": "F9",
+  "proposed": "maybe"
+ },
+ "F-kedo-final": {
+  "verdict": "covered",
+  "reason": "Trailing kedo is the kept -kedo stopped short; n da kedo already teaches the trail-off.",
+  "coveredBy": "-kedo (E), n da kedo (F2)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "F-ou-kana": {
+  "verdict": "covered",
+  "reason": "Built from kept -ou and kana; -ou to omou already covers 'I think I'll'.",
+  "coveredBy": null,
+  "joinBlock": "F3",
+  "proposed": "maybe"
+ },
+ "F-n-da-tte": {
+  "verdict": "covered",
+  "reason": "Simply n da plus hearsay tte, both kept; decodes and composes directly.",
+  "coveredBy": "n da (F2), tte (F8)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "F-ki-ga-suru": {
+  "verdict": "covered",
+  "reason": "Already kept as a verb phrase in H.",
+  "coveredBy": "ki ga suru (H)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "F-kamo-shirenai": {
+  "verdict": "covered",
+  "reason": "Full form of kept kamo, whose polite form is already kamo shiremasen.",
+  "coveredBy": "kamo (F6)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "F-ppoi": {
+  "verdict": "covered",
+  "reason": "Kept mitai does the same 'seems / kind of' job; it would be a near-duplicate hedge.",
+  "coveredBy": null,
+  "joinBlock": "F8",
+  "proposed": "maybe"
+ },
+ "F-sou-da-hearsay": {
+  "verdict": "covered",
+  "reason": "The kept hearsay tte item already lists sou desu as its polite form.",
+  "coveredBy": "tte / sou desu (F8)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "F-tara-ii-na": {
+  "verdict": "readd",
+  "reason": "Only way on the list to say 'I hope'; a core social and conversational function.",
+  "coveredBy": null,
+  "joinBlock": "F3",
+  "proposed": "readd"
+ },
+ "F-te-yo": {
+  "verdict": "covered",
+  "reason": "Just the kept -te request plus kept yo; tone is learnable from parts.",
+  "coveredBy": "-te (F4), yo (F1)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "F-ou-yo": {
+  "verdict": "covered",
+  "reason": "Kept volitional plus kept yo; nothing new to learn.",
+  "coveredBy": "-ou / -you (F7), yo (F1)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "F-mon": {
+  "verdict": "covered",
+  "reason": "Kept datte and n da cover excuses and explanations; mon mostly adds a sulky tone.",
+  "coveredBy": null,
+  "joinBlock": "F10",
+  "proposed": "maybe"
+ },
+ "F-noni-final": {
+  "verdict": "covered",
+  "reason": "Same 'even though / and yet' meaning as the kept connector, clause dropped.",
+  "coveredBy": "-noni (E)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "F-yotei": {
+  "verdict": "covered",
+  "reason": "Kept hima?, tsumori and -ou to omou already cover asking about and stating plans.",
+  "coveredBy": null,
+  "joinBlock": "F7",
+  "proposed": "maybe"
+ },
+ "F-you-da": {
+  "verdict": "covered",
+  "reason": "Formal counterpart of mitai; casual learner gets the same job from mitai.",
+  "coveredBy": "mitai (F8)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "F-hazu-ga-nai": {
+  "verdict": "covered",
+  "reason": "Kept hazu plus nai composes it directly (sonna hazu nai).",
+  "coveredBy": "hazu (F6)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "F-nai-kana": {
+  "verdict": "skip",
+  "reason": "Narrow wishful use; low spread and speak need.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "F-no-yo": {
+  "verdict": "covered",
+  "reason": "Feminine variant of the explanatory ending; n da yo and no do the job.",
+  "coveredBy": "n da yo (F9), no? (F2)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "F-tteba": {
+  "verdict": "skip",
+  "reason": "Casual-only exasperation, rank 2263; narrow.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "F-nasai": {
+  "verdict": "skip",
+  "reason": "Parent/teacher command; bare form rare (#11203) and bossy to produce.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "F-te-kure": {
+  "verdict": "skip",
+  "reason": "Masculine, rank 2829; -te and -te kurenai? cover requests.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "F-ze": {
+  "verdict": "skip",
+  "reason": "Rough masculine ender; recognition only, not for production.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "F-imperative-ro-e": {
+  "verdict": "covered",
+  "reason": "Verb root plus tone gives the meaning; -te covers requests; never needed in speech.",
+  "coveredBy": null,
+  "joinBlock": "F10",
+  "proposed": "maybe"
+ },
+ "F-na-prohibitive": {
+  "verdict": "skip",
+  "reason": "Rough, mostly male (ki ni suru na); -naide covers it, and drama-weighted rather than weekly.",
+  "coveredBy": null,
+  "joinBlock": "F10",
+  "proposed": "maybe"
+ },
+ "F-ka-yo": {
+  "verdict": "skip",
+  "reason": "Rough, rank 2506; maji? and uso cover the reaction.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "F-ssu": {
+  "verdict": "skip",
+  "reason": "Junior male slang for desu; recognition only.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "F-choudai": {
+  "verdict": "skip",
+  "reason": "Feminine/childlike request; -te and -te kurenai? cover it.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "F-kansai-ya-nen": {
+  "verdict": "skip",
+  "reason": "Regional dialect bundle; out of scope for a standard casual list.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "F-kai-dai": {
+  "verdict": "skip",
+  "reason": "Dated masculine question style.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "F-kashira": {
+  "verdict": "skip",
+  "reason": "Rank 41769; dated feminine kana.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "F-wake-nai": {
+  "verdict": "maybe",
+  "reason": "Common flat denial (#449); easily confused with kept wake ja nai, which means the opposite.",
+  "coveredBy": null,
+  "joinBlock": "F6",
+  "proposed": "readd"
+ },
+ "F-dou-yara": {
+  "verdict": "covered",
+  "reason": "Narrative-leaning opener (#1812); rashii and mitai carry the evidential meaning alone.",
+  "coveredBy": "rashii, mitai (F8)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "F-machigai-nai": {
+  "verdict": "covered",
+  "reason": "Certainty already carried by zettai and kitto.",
+  "coveredBy": "zettai, kitto (C)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "F-ni-kimatteru": {
+  "verdict": "covered",
+  "reason": "zettai, mochiron and kitto already express certainty; at rank ~1648 it is too rare to fill a gap.",
+  "coveredBy": null,
+  "joinBlock": "F6",
+  "proposed": "maybe"
+ },
+ "G-daijoubu": {
+  "verdict": "covered",
+  "reason": "Same word is kept in D with both the 'fine' and 'no thanks' uses.",
+  "coveredBy": "daijoubu (D)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "G-sugoi": {
+  "verdict": "covered",
+  "reason": "Kept in D; the reaction use is the same word.",
+  "coveredBy": "sugoi (D)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "G-da-yo-ne": {
+  "verdict": "covered",
+  "reason": "Built from kept yo ne plus sou da ne; strong agreement is already sayable.",
+  "coveredBy": "yo ne (F), sou da ne (G7)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "G-mata-ne": {
+  "verdict": "covered",
+  "reason": "jaa ne plus kept mata gives 'jaa, mata ne' directly.",
+  "coveredBy": "jaa ne (G3), mata (A)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "G-sou-sou": {
+  "verdict": "covered",
+  "reason": "Just sou doubled for emphasis; nothing new to learn.",
+  "coveredBy": "sou (G7)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "G-ja-nakute": {
+  "verdict": "covered",
+  "reason": "Kept -ja nai plus -kute/-de already produce 'ja nakute'; chigau handles the correction.",
+  "coveredBy": null,
+  "joinBlock": "G4",
+  "proposed": "maybe"
+ },
+ "G-ii-ya": {
+  "verdict": "covered",
+  "reason": "Declining and dropping a topic already work with daijoubu and chotto...",
+  "coveredBy": "daijoubu (D), chotto... (G8)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "G-dame": {
+  "verdict": "covered",
+  "reason": "Kept in D; the exclamation is the same word.",
+  "coveredBy": "dame (D)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "G-zannen": {
+  "verdict": "covered",
+  "reason": "Kept in D; 'zannen' as a reaction is the same word.",
+  "coveredBy": "zannen (D)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "G-ryoukai": {
+  "verdict": "covered",
+  "reason": "wakatta does the same acknowledgement and is safer with anyone.",
+  "coveredBy": "wakatta (G4)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "G-mochiron": {
+  "verdict": "covered",
+  "reason": "Kept in C; it already works as a standalone reply.",
+  "coveredBy": "mochiron (C)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "G-masaka": {
+  "verdict": "covered",
+  "reason": "Kept in C; the reaction use is the same word.",
+  "coveredBy": "masaka (C)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "G-dou-shiyou": {
+  "verdict": "covered",
+  "reason": "Built from kept dou + suru + -ou/-you, and -ou ka covers 'shall I'.",
+  "coveredBy": null,
+  "joinBlock": "G12",
+  "proposed": "maybe"
+ },
+ "G-ii-na": {
+  "verdict": "covered",
+  "reason": "ii plus naa says exactly 'lucky you'; worth an example sentence, not a card.",
+  "coveredBy": "ii (D), naa (F)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "G-taihen-da-ne": {
+  "verdict": "covered",
+  "reason": "taihen plus da ne, all kept; the sympathy reply comes for free.",
+  "coveredBy": "taihen (D), sou da ne (G7)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "G-ki-ni-shinaide": {
+  "verdict": "covered",
+  "reason": "ii yo and daijoubu already answer gomen; this is a nicer synonym.",
+  "coveredBy": "ii yo (G8), daijoubu (D)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "G-otsukare": {
+  "verdict": "readd",
+  "reason": "Daily hello, goodbye and thanks after any shared effort (#504/#848); nothing kept does this.",
+  "coveredBy": null,
+  "joinBlock": "new: Greetings for the moment",
+  "proposed": "readd"
+ },
+ "G-a": {
+  "verdict": "covered",
+  "reason": "aa already covers 'oh!' noticing and remembering; the difference is just length.",
+  "coveredBy": "aa (G6)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "G-ee-aww": {
+  "verdict": "covered",
+  "reason": "Drawn-out e?; tone carries the protest, no separate card needed.",
+  "coveredBy": "e? (G5)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "G-maji": {
+  "verdict": "covered",
+  "reason": "honto? and kept maji de already give 'really? seriously?'.",
+  "coveredBy": "honto? (G5), maji de (C)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "G-yatta": {
+  "verdict": "covered",
+  "reason": "Kept yokatta, ureshii and saikou already express delight; the literal sense comes from yaru + -ta.",
+  "coveredBy": null,
+  "joinBlock": "G12",
+  "proposed": "maybe"
+ },
+ "G-ie-ie": {
+  "verdict": "covered",
+  "reason": "iie said twice; kept iie already deflects thanks and apologies.",
+  "coveredBy": "iie (G1)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "G-oyasumi": {
+  "verdict": "readd",
+  "reason": "The everyday night goodbye, spoken and texted; no kept item replaces it.",
+  "coveredBy": null,
+  "joinBlock": "new: Greetings for the moment",
+  "proposed": "readd"
+ },
+ "G-hisashiburi": {
+  "verdict": "readd",
+  "reason": "The reunion greeting (#594); nothing kept says it and it opens many conversations.",
+  "coveredBy": null,
+  "joinBlock": "new: Greetings for the moment",
+  "proposed": "readd"
+ },
+ "G-ki-o-tsukete": {
+  "verdict": "maybe",
+  "reason": "Common parting 'take care' and warning; jaa ne works without it.",
+  "coveredBy": null,
+  "joinBlock": "G3",
+  "proposed": "maybe"
+ },
+ "G-omedetou": {
+  "verdict": "readd",
+  "reason": "Core reply to good news and birthdays (#774); yokatta doesn't do the congratulating.",
+  "coveredBy": null,
+  "joinBlock": "new: Greetings for the moment",
+  "proposed": "readd"
+ },
+ "G-shitsurei-shimasu": {
+  "verdict": "covered",
+  "reason": "Already kept as the polite form of jaa ne.",
+  "coveredBy": "jaa ne / shitsurei shimasu (G3)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "G-itadakimasu": {
+  "verdict": "maybe",
+  "reason": "Said at every meal (#486); a ritual, learned in one exposure.",
+  "coveredBy": null,
+  "joinBlock": "new: Meal phrases",
+  "proposed": "maybe"
+ },
+ "G-gochisousama": {
+  "verdict": "maybe",
+  "reason": "Pairs with itadakimasu after eating or being treated; ritual, not conversational.",
+  "coveredBy": null,
+  "joinBlock": "new: Meal phrases",
+  "proposed": "maybe"
+ },
+ "G-moshimoshi": {
+  "verdict": "maybe",
+  "reason": "Opens calls and checks the line (#442); handy for online calls.",
+  "coveredBy": null,
+  "joinBlock": "G3",
+  "proposed": "maybe"
+ },
+ "G-tadaima": {
+  "verdict": "skip",
+  "reason": "Home-only ritual; produced only when living with Japanese people.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "G-okaeri": {
+  "verdict": "skip",
+  "reason": "Reply to tadaima; home-only ritual, recognised instantly.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "G-itte-kimasu": {
+  "verdict": "skip",
+  "reason": "Leaving-home ritual; narrow to household life.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "G-itterasshai": {
+  "verdict": "skip",
+  "reason": "Seeing-off ritual; narrow to household life.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "G-ojama-shimasu": {
+  "verdict": "skip",
+  "reason": "Only for entering someone's home; narrow and lower frequency (#2393).",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "G-konbanwa": {
+  "verdict": "covered",
+  "reason": "Near-duplicate of kept konnichiwa; friends skip it, so the gap is small.",
+  "coveredBy": null,
+  "joinBlock": "G3",
+  "proposed": "maybe"
+ },
+ "G-yoshi": {
+  "verdict": "covered",
+  "reason": "Kept jaa (well then) and ii/ii yo already cover starting up and approving.",
+  "coveredBy": null,
+  "joinBlock": "G11",
+  "proposed": "maybe"
+ },
+ "G-saa": {
+  "verdict": "covered",
+  "reason": "'Dunno' is wakannai; 'come on, let's' is jaa or -ou.",
+  "coveredBy": "wakannai (G4), jaa (E)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "G-doumo": {
+  "verdict": "covered",
+  "reason": "Kept arigatou and sumimasen do the thanks job; doumo would mostly be a confusable duplicate.",
+  "coveredBy": null,
+  "joinBlock": "G2",
+  "proposed": "maybe"
+ },
+ "G-oi": {
+  "verdict": "skip",
+  "reason": "Rough, masculine; risky to produce, easy to recognise.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "G-mou-ii": {
+  "verdict": "covered",
+  "reason": "mou plus ii, both kept; 'enough / I'm fine' follows directly.",
+  "coveredBy": "mou (A), ii (D)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "G-nandemonai": {
+  "verdict": "covered",
+  "reason": "nandemo plus -nai, and betsu ni, already say 'it's nothing'.",
+  "coveredBy": "nandemo (J), betsu ni (C)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "G-arienai": {
+  "verdict": "covered",
+  "reason": "Incredulity is handled by uso and masaka; lower frequency (#2915).",
+  "coveredBy": "uso (G5), masaka (C)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "G-kochira-koso": {
+  "verdict": "readd",
+  "reason": "Standard reply to arigatou, gomen and yoroshiku (#1155); no kept item returns them.",
+  "coveredBy": null,
+  "joinBlock": "G2",
+  "proposed": "readd"
+ },
+ "G-omatase": {
+  "verdict": "covered",
+  "reason": "Kept gomen plus osoku natte (osoi + -ku naru) gets this across well enough.",
+  "coveredBy": null,
+  "joinBlock": "G2",
+  "proposed": "maybe"
+ },
+ "G-odaiji-ni": {
+  "verdict": "skip",
+  "reason": "Only to someone ill; narrow and lower frequency (#3401).",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "G-kanpai": {
+  "verdict": "skip",
+  "reason": "Drinking ritual only; learned in one exposure.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "G-maa-maa": {
+  "verdict": "covered",
+  "reason": "'So-so' is sayable with futsuu or maa; calming use is narrow.",
+  "coveredBy": "futsuu (D), maa (G11)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "G-fuun": {
+  "verdict": "covered",
+  "reason": "hee covers the listening reply; flat fuun is tone, mostly recognised.",
+  "coveredBy": "hee (G6)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "G-baibai": {
+  "verdict": "covered",
+  "reason": "jaa ne is the casual goodbye; bye-bye adds nothing.",
+  "coveredBy": "jaa ne (G3)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "G-dou-demo-ii": {
+  "verdict": "covered",
+  "reason": "betsu ni and nandemo ii already dismiss choices and details.",
+  "coveredBy": "betsu ni (C), nandemo (J), ii (D)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "G-mondai-nai": {
+  "verdict": "covered",
+  "reason": "daijoubu does 'no problem' everywhere.",
+  "coveredBy": "daijoubu (D)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "G-osaki-ni": {
+  "verdict": "skip",
+  "reason": "Workplace leaving phrase; narrow.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "G-okagesama-de": {
+  "verdict": "skip",
+  "reason": "Polite small-talk formula; outside casual default, lower frequency.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "G-moushiwake-nai": {
+  "verdict": "skip",
+  "reason": "Formal heavy apology; gomen and sumimasen cover casual needs.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "G-tondemonai": {
+  "verdict": "covered",
+  "reason": "sonna koto nai already deflects thanks and praise.",
+  "coveredBy": "sonna koto nai (G12)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "G-douitashimashite": {
+  "verdict": "skip",
+  "reason": "Textbook phrase, rare in speech (#4414); iie does the job.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "G-kekkou-desu": {
+  "verdict": "covered",
+  "reason": "daijoubu desu is the everyday polite 'no thanks'.",
+  "coveredBy": "daijoubu (D)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "G-joudan": {
+  "verdict": "covered",
+  "reason": "'uso uso' and 'uso da yo' already mean 'just kidding'.",
+  "coveredBy": "uso (G5)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "G-kankei-nai": {
+  "verdict": "covered",
+  "reason": "Kept betsu ni, nandemo ii and dotchi demo ii cover 'doesn't matter' well enough.",
+  "coveredBy": null,
+  "joinBlock": "G12",
+  "proposed": "maybe"
+ },
+ "G-yoji": {
+  "verdict": "covered",
+  "reason": "chotto... already declines; yoji is an extra noun excuse.",
+  "coveredBy": "chotto... (G8)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "G-hanashi": {
+  "verdict": "covered",
+  "reason": "Kept hanasu + koto cover it: nan no koto?, hanashitai koto ga aru.",
+  "coveredBy": null,
+  "joinBlock": "G9",
+  "proposed": "maybe"
+ },
+ "G-bikkuri-shita": {
+  "verdict": "maybe",
+  "reason": "Everyday 'that surprised me'; e? and uso cover reacting, not reporting it.",
+  "coveredBy": null,
+  "joinBlock": "G5",
+  "proposed": "maybe"
+ },
+ "G-nani-sore": {
+  "verdict": "covered",
+  "reason": "nani plus sore, both kept; the phrase builds itself.",
+  "coveredBy": "nani (J), sore (J)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "G-okkee": {
+  "verdict": "covered",
+  "reason": "ii yo and wakatta handle casual agreement; loanword needs no card.",
+  "coveredBy": "ii yo (G8), wakatta (G4)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "G-mada-mada": {
+  "verdict": "covered",
+  "reason": "sonna koto nai deflects praise; mada mada is kept mada doubled.",
+  "coveredBy": "mada (A), sonna koto nai (G12)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "G-taishita-koto-nai": {
+  "verdict": "covered",
+  "reason": "daijoubu and sonna koto nai already downplay; full phrase only #3108.",
+  "coveredBy": "daijoubu (D), sonna koto nai (G12)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "G-mukatsuku": {
+  "verdict": "skip",
+  "reason": "Rough slang; low production need.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "G-maa-ii-ka": {
+  "verdict": "covered",
+  "reason": "maa plus ii plus ka, all kept; shouganai covers the attitude.",
+  "coveredBy": "maa (G11), ii (D), shouganai (G12)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "G-osusume": {
+  "verdict": "skip",
+  "reason": "Topic-leaning noun, low in spoken data (#5216); pick up when ordering.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "G-uwa": {
+  "verdict": "skip",
+  "reason": "Duplicate of uwaa (same interjection); judged there.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "G-sorya-sou-da": {
+  "verdict": "covered",
+  "reason": "sou plus desho already say 'well, obviously'.",
+  "coveredBy": "sou (G7), desho? (F)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "G-maa-ne": {
+  "verdict": "covered",
+  "reason": "maa plus ne, both kept; the half-yes builds itself.",
+  "coveredBy": "maa (G11), ne (F)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "G-shimatta": {
+  "verdict": "covered",
+  "reason": "yabai is the everyday 'uh-oh'; shimatta is rarer (#3395).",
+  "coveredBy": "yabai (D)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "G-ano-ne": {
+  "verdict": "covered",
+  "reason": "nee / ano 'hey, listen' already raises a topic.",
+  "coveredBy": "nee / ano (G10)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "G-nantoka-naru": {
+  "verdict": "covered",
+  "reason": "nantoka plus naru, both kept.",
+  "coveredBy": "nantoka (C), naru (H)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "G-nanda": {
+  "verdict": "skip",
+  "reason": "Mostly a recognition item; the letdown sense comes from tone.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "G-enryo-shinaide": {
+  "verdict": "skip",
+  "reason": "Hosting phrase; narrow situations.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "G-kocchi-koso": {
+  "verdict": "skip",
+  "reason": "Duplicate of kochira koso; casual kocchi koso is absent from the data.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "G-uwaa": {
+  "verdict": "covered",
+  "reason": "An interjection close to kept e?, are? and yabai; it is easy to recognise and adds little.",
+  "coveredBy": null,
+  "joinBlock": "G5",
+  "proposed": "maybe"
+ },
+ "G-ii-kanji": {
+  "verdict": "covered",
+  "reason": "ii ne plus tte kanji already say 'looking good'.",
+  "coveredBy": "ii ne (G8), tte kanji (F)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "G-osewa-ni-natta": {
+  "verdict": "skip",
+  "reason": "Polite work and host formula; beyond casual scope.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "G-ii-kagen-ni-shite": {
+  "verdict": "skip",
+  "reason": "Confrontational and narrow; mostly recognised.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "G-sansei-hantai": {
+  "verdict": "skip",
+  "reason": "Meeting-style voting words; ii ne and chotto... handle casual plans.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "G-dou-kana": {
+  "verdict": "covered",
+  "reason": "sou kana, dou and kana are all kept.",
+  "coveredBy": "sou kana (G7), dou (J), kana (F)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "G-imi-nai": {
+  "verdict": "covered",
+  "reason": "imi is already taught in dou iu imi?; adding nai is transparent.",
+  "coveredBy": "dou iu imi? (G9)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "G-himitsu": {
+  "verdict": "skip",
+  "reason": "Playful noun; nice but not a gap in core responses.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "G-iiwake": {
+  "verdict": "skip",
+  "reason": "Narrow noun; not a response in itself.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "G-ouen-shiteru": {
+  "verdict": "covered",
+  "reason": "ganbatte already cheers someone on.",
+  "coveredBy": "ganbatte (G12)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "G-kanben-shite": {
+  "verdict": "skip",
+  "reason": "Exasperated set phrase; mostly recognised, low production need.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "G-hottoite": {
+  "verdict": "skip",
+  "reason": "Rude boundary phrase; low production need, #3002.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "G-sansei": {
+  "verdict": "skip",
+  "reason": "Duplicate of sansei / hantai; meeting-style, ii ne covers casual approval.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "G-sayounara": {
+  "verdict": "covered",
+  "reason": "Rarer than jaa ne in daily speech; jaa ne does the job.",
+  "coveredBy": "jaa ne (G3)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "G-waa": {
+  "verdict": "covered",
+  "reason": "Delighted reaction is handled by sugoi and hee.",
+  "coveredBy": "sugoi (D), hee (G6)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "G-muri-shinaide": {
+  "verdict": "covered",
+  "reason": "muri plus -naide, both kept.",
+  "coveredBy": "muri (D), -naide (F)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "G-irasshai": {
+  "verdict": "skip",
+  "reason": "Staff and host phrase; heard constantly, almost never produced.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "G-haa": {
+  "verdict": "skip",
+  "reason": "Rude irritated reaction; recognise only.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "G-gokurousama": {
+  "verdict": "skip",
+  "reason": "Downward-only and narrow; otsukare is the safe one.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "G-shitsumon": {
+  "verdict": "covered",
+  "reason": "chotto ii? and kiku already ask permission to ask.",
+  "coveredBy": "chotto ii? (G10), kiku (H)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "G-mata-kondo": {
+  "verdict": "covered",
+  "reason": "mata plus kondo, both kept; chotto... softens the refusal.",
+  "coveredBy": "mata (A), kondo (A), chotto... (G8)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "H-ki-o-tsukeru": {
+  "verdict": "readd",
+  "reason": "ki o tsukete is the everyday take-care farewell; nothing kept says it. Ranks combined well above #1226.",
+  "coveredBy": null,
+  "joinBlock": "H8",
+  "proposed": "readd"
+ },
+ "H-ki-ni-suru": {
+  "verdict": "maybe",
+  "reason": "ki ni shinaide is the standard reply to any apology or thanks. #725, better than several kept verbs.",
+  "coveredBy": null,
+  "joinBlock": "H8",
+  "proposed": "readd"
+ },
+ "H-kawaru": {
+  "verdict": "readd",
+  "reason": "#226. kawatta ne / kawaranai covers people, plans and places. naru does not mean change.",
+  "coveredBy": null,
+  "joinBlock": "H2",
+  "proposed": "readd"
+ },
+ "H-hajimaru": {
+  "verdict": "maybe",
+  "reason": "Things starting by themselves (nanji kara hajimaru?). Learners misuse hajimeru without it. #435.",
+  "coveredBy": null,
+  "joinBlock": "H12",
+  "proposed": "readd"
+ },
+ "H-mieru": {
+  "verdict": "covered",
+  "reason": "mitai and -sou cover appearance; miru plus the potential pattern covers can-you-see.",
+  "coveredBy": null,
+  "joinBlock": "H5",
+  "proposed": "maybe"
+ },
+ "H-dasu": {
+  "verdict": "readd",
+  "reason": "#163, more frequent than most kept verbs. gomi dasu, genki dashite and take-it-out have no other verb.",
+  "coveredBy": null,
+  "joinBlock": "H3",
+  "proposed": "readd"
+ },
+ "H-tasukaru": {
+  "verdict": "covered",
+  "reason": "arigatou already thanks for favours; tasukaru only adds warmth.",
+  "coveredBy": null,
+  "joinBlock": "H13",
+  "proposed": "maybe"
+ },
+ "H-tetsudau": {
+  "verdict": "readd",
+  "reason": "Offering and asking for help (tetsudaou ka?, tetsudatte) is daily. No kept verb covers it. #508.",
+  "coveredBy": null,
+  "joinBlock": "H13",
+  "proposed": "readd"
+ },
+ "H-yasumu": {
+  "verdict": "covered",
+  "reason": "yukkuri shite covers rest; ikanai and hima cover days off.",
+  "coveredBy": null,
+  "joinBlock": "H4",
+  "proposed": "maybe"
+ },
+ "H-kamawanai": {
+  "verdict": "covered",
+  "reason": "ii yo, daijoubu and -te mo ii already handle 'that's fine'. #3272 is rare.",
+  "coveredBy": "ii yo, daijoubu, -te mo ii",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "H-mitsukeru": {
+  "verdict": "covered",
+  "reason": "atta! / kagi atta? (kept aru) is the natural found-it; sagasu covers searching.",
+  "coveredBy": null,
+  "joinBlock": "H5",
+  "proposed": "maybe"
+ },
+ "H-tsuzukeru": {
+  "verdict": "covered",
+  "reason": "zutto / mada yatteru and yamenaide cover keeping going.",
+  "coveredBy": null,
+  "joinBlock": "H12",
+  "proposed": "maybe"
+ },
+ "H-omoidasu": {
+  "verdict": "covered",
+  "reason": "wasureta, kke and oboeteru? cover recall and tip-of-the-tongue moments.",
+  "coveredBy": null,
+  "joinBlock": "H6",
+  "proposed": "maybe"
+ },
+ "H-hataraku": {
+  "verdict": "covered",
+  "reason": "Job talk is topical; shigoto shiteru and nani shiteru? cover it via suru.",
+  "coveredBy": null,
+  "joinBlock": "H10",
+  "proposed": "maybe"
+ },
+ "H-asobu": {
+  "verdict": "maybe",
+  "reason": "asobou / asobi ni kite is the casual hang-out invitation between friends. au doesn't carry it.",
+  "coveredBy": null,
+  "joinBlock": "H9",
+  "proposed": "readd"
+ },
+ "H-kanjiru": {
+  "verdict": "covered",
+  "reason": "ki ga suru and to omou already carry impressions about anything.",
+  "coveredBy": null,
+  "joinBlock": "H8",
+  "proposed": "maybe"
+ },
+ "H-tsuku-arrive": {
+  "verdict": "maybe",
+  "reason": "tsuita / mou sugu tsuku is the core meet-up message. Kana つく ranks #355.",
+  "coveredBy": null,
+  "joinBlock": "H3",
+  "proposed": "readd"
+ },
+ "H-mitsukaru": {
+  "verdict": "covered",
+  "reason": "aru covers it: atta? / nai handle found or missing items.",
+  "coveredBy": null,
+  "joinBlock": "H5",
+  "proposed": "maybe"
+ },
+ "H-tomaru": {
+  "verdict": "covered",
+  "reason": "yameru covers stopping activities; stopping devices and staying over are narrow.",
+  "coveredBy": null,
+  "joinBlock": "new: Things and devices",
+  "proposed": "maybe"
+ },
+ "H-kikoeru": {
+  "verdict": "covered",
+  "reason": "mou ikkai, nante? and wakannai already handle not-hearing repairs on calls.",
+  "coveredBy": null,
+  "joinBlock": "H7",
+  "proposed": "maybe"
+ },
+ "H-ki-ni-iru": {
+  "verdict": "covered",
+  "reason": "suki already covers liking something you got or saw.",
+  "coveredBy": "suki",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "H-niau": {
+  "verdict": "covered",
+  "reason": "ii ne and kawaii carry the compliment; niau is limited to clothes and looks.",
+  "coveredBy": null,
+  "joinBlock": "new: Social moves",
+  "proposed": "maybe"
+ },
+ "H-ireru": {
+  "verdict": "maybe",
+  "reason": "#222, partner of hairu (put in, make tea, include me). A strong maybe next to dasu.",
+  "coveredBy": null,
+  "joinBlock": "H3",
+  "proposed": "maybe"
+ },
+ "H-oku": {
+  "verdict": "covered",
+  "reason": "-toku and sono mama cover leaving things; placing objects is a narrow job.",
+  "coveredBy": null,
+  "joinBlock": "H14",
+  "proposed": "maybe"
+ },
+ "H-ma-ni-au": {
+  "verdict": "covered",
+  "reason": "jikan daijoubu? and -made ni cover deadlines; daijoubu desu covers declining.",
+  "coveredBy": null,
+  "joinBlock": "H9",
+  "proposed": "maybe"
+ },
+ "H-okureru": {
+  "verdict": "maybe",
+  "reason": "okurete gomen and 'running late' come up daily. osoi doesn't say it. Rank close to kept machigaeru.",
+  "coveredBy": null,
+  "joinBlock": "H9",
+  "proposed": "readd"
+ },
+ "H-tariru": {
+  "verdict": "maybe",
+  "reason": "tarinai / tariru? (enough money, time, food) has no substitute anywhere in the list. #764.",
+  "coveredBy": null,
+  "joinBlock": "H14",
+  "proposed": "readd"
+ },
+ "H-warau": {
+  "verdict": "covered",
+  "reason": "omoshiroi carries the funny reaction; laughing as a story event is optional.",
+  "coveredBy": null,
+  "joinBlock": "new: Feelings and reactions",
+  "proposed": "maybe"
+ },
+ "H-naku": {
+  "verdict": "covered",
+  "reason": "Story verb; kept feeling words (zannen, ureshii, kowai) carry emotion talk without it.",
+  "coveredBy": null,
+  "joinBlock": "new: Feelings and reactions",
+  "proposed": "maybe"
+ },
+ "H-okoru": {
+  "verdict": "maybe",
+  "reason": "okotteru? and okorareta are common, but emotion talk works without it.",
+  "coveredBy": null,
+  "joinBlock": "new: Feelings and reactions",
+  "proposed": "maybe"
+ },
+ "H-kizuku": {
+  "verdict": "covered",
+  "reason": "shiranakatta and ima wakatta already cover not noticing and realising.",
+  "coveredBy": null,
+  "joinBlock": "H6",
+  "proposed": "maybe"
+ },
+ "H-nareru": {
+  "verdict": "covered",
+  "reason": "mou daijoubu and -you ni natta paraphrase getting used to well enough.",
+  "coveredBy": null,
+  "joinBlock": "H6",
+  "proposed": "maybe"
+ },
+ "H-akirameru": {
+  "verdict": "covered",
+  "reason": "yameru covers giving up; ganbatte and yamenaide cover don't give up.",
+  "coveredBy": null,
+  "joinBlock": "H12",
+  "proposed": "maybe"
+ },
+ "H-kasu": {
+  "verdict": "maybe",
+  "reason": "chotto kashite is one of the most common casual requests. Fold kariru into the same card.",
+  "coveredBy": null,
+  "joinBlock": "H13",
+  "proposed": "readd"
+ },
+ "H-kariru": {
+  "verdict": "covered",
+  "reason": "Same job as kasu, covered by tsukatte ii? and motte itte ii?",
+  "coveredBy": null,
+  "joinBlock": "H13",
+  "proposed": "maybe"
+ },
+ "H-yobu": {
+  "verdict": "covered",
+  "reason": "X-san de ii? and iu ('call') cover naming; -nai? covers inviting.",
+  "coveredBy": null,
+  "joinBlock": "H7",
+  "proposed": "maybe"
+ },
+ "H-okuru": {
+  "verdict": "covered",
+  "reason": "renraku suru and noun + suru (meeru suru) cover sending messages.",
+  "coveredBy": null,
+  "joinBlock": "H9",
+  "proposed": "maybe"
+ },
+ "H-shiraberu": {
+  "verdict": "covered",
+  "reason": "mite miru and sagashite miru cover looking things up.",
+  "coveredBy": null,
+  "joinBlock": "H5",
+  "proposed": "maybe"
+ },
+ "H-niteru": {
+  "verdict": "covered",
+  "reason": "X mitai already says looks like X; onaji and chigau cover comparisons.",
+  "coveredBy": null,
+  "joinBlock": "H11",
+  "proposed": "maybe"
+ },
+ "H-isogu": {
+  "verdict": "covered",
+  "reason": "hayaku already covers 'hurry up' in casual speech.",
+  "coveredBy": "hayaku",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "H-shinjiru": {
+  "verdict": "covered",
+  "reason": "Drama inflates its rank. Disbelief reactions are covered by uso, honto? and maji de.",
+  "coveredBy": "uso, honto?, maji de",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "H-tsutaeru": {
+  "verdict": "covered",
+  "reason": "itte oku (iu + -toku) already says I'll pass it on.",
+  "coveredBy": null,
+  "joinBlock": "H7",
+  "proposed": "maybe"
+ },
+ "H-erabu": {
+  "verdict": "covered",
+  "reason": "Choosing is handled by kimeru and -ni suru (dore ni suru?).",
+  "coveredBy": "kimeru, -ni suru",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "H-nakunaru": {
+  "verdict": "covered",
+  "reason": "mou nai (kept aru) covers running out and missing items.",
+  "coveredBy": null,
+  "joinBlock": "new: Things and devices",
+  "proposed": "maybe"
+ },
+ "H-ochitsuku": {
+  "verdict": "covered",
+  "reason": "daijoubu and yukkuri de ii cover calming someone; not needed for basic talk.",
+  "coveredBy": null,
+  "joinBlock": "new: Feelings and reactions",
+  "proposed": "maybe"
+ },
+ "H-tasukeru": {
+  "verdict": "skip",
+  "reason": "Rank inflated by rescue scenes in drama. tetsudau handles everyday help.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "H-kimaru": {
+  "verdict": "covered",
+  "reason": "kimeta? from kept kimeru does the same job.",
+  "coveredBy": null,
+  "joinBlock": "H9",
+  "proposed": "maybe"
+ },
+ "H-makaseru": {
+  "verdict": "covered",
+  "reason": "watashi ga yaru yo covers taking it on; makasete is flavour, not a gap.",
+  "coveredBy": null,
+  "joinBlock": "H13",
+  "proposed": "maybe"
+ },
+ "H-soudan-suru": {
+  "verdict": "covered",
+  "reason": "chotto ii? plus n da kedo already opens problem talk.",
+  "coveredBy": null,
+  "joinBlock": "H7",
+  "proposed": "maybe"
+ },
+ "H-dekakeru": {
+  "verdict": "covered",
+  "reason": "Going out is covered by deru and iku. #1420.",
+  "coveredBy": "deru, iku",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "H-tsukiau": {
+  "verdict": "covered",
+  "reason": "issho ni kite covers keeping company; dating is a narrow topic.",
+  "coveredBy": null,
+  "joinBlock": "H9",
+  "proposed": "maybe"
+ },
+ "H-junbi-suru": {
+  "verdict": "covered",
+  "reason": "dekita? (kept dekiru: be ready) already asks if someone is ready.",
+  "coveredBy": null,
+  "joinBlock": "H9",
+  "proposed": "maybe"
+ },
+ "H-gaman-suru": {
+  "verdict": "covered",
+  "reason": "mou muri covers can't take it; enduring is optional.",
+  "coveredBy": null,
+  "joinBlock": "new: Feelings and reactions",
+  "proposed": "maybe"
+ },
+ "H-enryo-suru": {
+  "verdict": "covered",
+  "reason": "douzo and ii yo cover hosting; chotto... covers polite declining.",
+  "coveredBy": null,
+  "joinBlock": "new: Social moves",
+  "proposed": "maybe"
+ },
+ "H-kowareru": {
+  "verdict": "covered",
+  "reason": "dame ni natta and hen da cover broken things; tied to objects.",
+  "coveredBy": null,
+  "joinBlock": "new: Things and devices",
+  "proposed": "maybe"
+ },
+ "H-naosu": {
+  "verdict": "covered",
+  "reason": "machigatteta? oshiete covers asking for correction; repairs are object-bound.",
+  "coveredBy": null,
+  "joinBlock": "new: Things and devices",
+  "proposed": "maybe"
+ },
+ "H-tanoshimu": {
+  "verdict": "covered",
+  "reason": "tanoshii already covers enjoyment talk, and tanoshinde is a minor send-off.",
+  "coveredBy": "tanoshii",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "H-mayou": {
+  "verdict": "covered",
+  "reason": "dotchi ni shiyou kana (ni suru + -ou + kana) covers indecision.",
+  "coveredBy": null,
+  "joinBlock": "H9",
+  "proposed": "maybe"
+ },
+ "H-kinchou-suru": {
+  "verdict": "covered",
+  "reason": "shinpai and kowai cover nervousness well enough.",
+  "coveredBy": null,
+  "joinBlock": "new: Feelings and reactions",
+  "proposed": "maybe"
+ },
+ "H-tsuujiru": {
+  "verdict": "covered",
+  "reason": "wakaru? / wakatta? handle checking understanding. #1733.",
+  "coveredBy": "wakaru",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "H-aiteru": {
+  "verdict": "covered",
+  "reason": "hima? covers 'are you free'. The vacant-seat sense is narrow.",
+  "coveredBy": "hima",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "H-kyoumi-ga-aru": {
+  "verdict": "covered",
+  "reason": "ki ni naru and suki cover interest in hobbies and plans.",
+  "coveredBy": null,
+  "joinBlock": "H8",
+  "proposed": "maybe"
+ },
+ "H-kaku": {
+  "verdict": "covered",
+  "reason": "Writing is peripheral for an audio-first learner; no conversational gap.",
+  "coveredBy": null,
+  "joinBlock": "H10",
+  "proposed": "maybe"
+ },
+ "H-yomu": {
+  "verdict": "covered",
+  "reason": "mita? covers checking messages; reading is peripheral for audio-first study.",
+  "coveredBy": null,
+  "joinBlock": "H10",
+  "proposed": "maybe"
+ },
+ "H-yaku-ni-tatsu": {
+  "verdict": "skip",
+  "reason": "Formal-leaning. tasukaru or ii covers 'useful' in casual speech. #1516.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "H-koukai-suru": {
+  "verdict": "skip",
+  "reason": "Heavy and drama-flavoured. Not versatile enough for casual conversation.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "H-ugoku": {
+  "verdict": "covered",
+  "reason": "dame, hen da and tsukaenai cover a frozen device.",
+  "coveredBy": null,
+  "joinBlock": "new: Things and devices",
+  "proposed": "maybe"
+ },
+ "H-yurusu": {
+  "verdict": "skip",
+  "reason": "Rank inflated by drama. gomen covers apologising in everyday speech.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "H-ayamaru": {
+  "verdict": "skip",
+  "reason": "Talking about apologies is narrow and drama-inflated. gomen does the act.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "H-yakusoku-suru": {
+  "verdict": "covered",
+  "reason": "zettai ne covers promising; chotto... covers already having plans.",
+  "coveredBy": null,
+  "joinBlock": "H9",
+  "proposed": "maybe"
+ },
+ "H-sasou": {
+  "verdict": "covered",
+  "reason": "-nai? and -ou already make invitations; talking about invites is optional.",
+  "coveredBy": null,
+  "joinBlock": "H9",
+  "proposed": "maybe"
+ },
+ "H-kotowaru": {
+  "verdict": "skip",
+  "reason": "Talking about refusals is narrow. Declining itself uses chotto...",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "H-harau": {
+  "verdict": "covered",
+  "reason": "Paying is topical; if dasu returns, ore ga dasu covers it.",
+  "coveredBy": null,
+  "joinBlock": "H10",
+  "proposed": "maybe"
+ },
+ "H-kakunin-suru": {
+  "verdict": "covered",
+  "reason": "mite miru and kiite miru cover checking; work register.",
+  "coveredBy": null,
+  "joinBlock": "H5",
+  "proposed": "maybe"
+ },
+ "H-setsumei-suru": {
+  "verdict": "covered",
+  "reason": "dou iu imi? and oshiete already ask for explanations.",
+  "coveredBy": null,
+  "joinBlock": "H7",
+  "proposed": "maybe"
+ },
+ "H-shippai-suru": {
+  "verdict": "covered",
+  "reason": "machigaeta, yacchatta and dame datta cover messing up.",
+  "coveredBy": null,
+  "joinBlock": "H11",
+  "proposed": "maybe"
+ },
+ "H-makeru": {
+  "verdict": "skip",
+  "reason": "Mostly games and sports. The figurative uses are narrow.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "H-yorokobu": {
+  "verdict": "skip",
+  "reason": "ureshii covers gladness. Drama inflates its rank.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "H-ochikomu": {
+  "verdict": "covered",
+  "reason": "genki nai and zannen cover feeling down.",
+  "coveredBy": null,
+  "joinBlock": "new: Feelings and reactions",
+  "proposed": "maybe"
+ },
+ "H-akiru": {
+  "verdict": "covered",
+  "reason": "mou ii and tsumaranaku natta cover being sick of something.",
+  "coveredBy": null,
+  "joinBlock": "new: Feelings and reactions",
+  "proposed": "maybe"
+ },
+ "H-hamaru": {
+  "verdict": "covered",
+  "reason": "saikin metcha suki and ki ni naru cover current interests.",
+  "coveredBy": null,
+  "joinBlock": "H8",
+  "proposed": "maybe"
+ },
+ "H-ouen-suru": {
+  "verdict": "skip",
+  "reason": "Sports and fan talk. ganbatte covers encouragement.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "H-kireru": {
+  "verdict": "covered",
+  "reason": "Battery and call senses are device-bound; nai and dame cover them.",
+  "coveredBy": null,
+  "joinBlock": "new: Things and devices",
+  "proposed": "maybe"
+ },
+ "H-bareru": {
+  "verdict": "covered",
+  "reason": "shitteta? and wakatchatta cover being found out well enough.",
+  "coveredBy": null,
+  "joinBlock": "H6",
+  "proposed": "maybe"
+ },
+ "H-sumu": {
+  "verdict": "readd",
+  "reason": "doko ni sunderu? comes up in every getting-to-know-you conversation. Nothing else covers it. #548.",
+  "coveredBy": null,
+  "joinBlock": "H1",
+  "proposed": "readd"
+ },
+ "H-noru": {
+  "verdict": "covered",
+  "reason": "densha de iku covers transport; the count-me-in sense is covered by ii ne.",
+  "coveredBy": null,
+  "joinBlock": "new: Moving about",
+  "proposed": "maybe"
+ },
+ "H-suwaru": {
+  "verdict": "covered",
+  "reason": "koko ii? and douzo already handle seats naturally.",
+  "coveredBy": null,
+  "joinBlock": "new: Moving about",
+  "proposed": "maybe"
+ },
+ "H-aruku": {
+  "verdict": "covered",
+  "reason": "Transport topic; chikai and densha de iku cover most plan talk.",
+  "coveredBy": null,
+  "joinBlock": "new: Moving about",
+  "proposed": "maybe"
+ },
+ "H-kaesu": {
+  "verdict": "covered",
+  "reason": "Only needed alongside kasu/kariru, which tsukatte ii? already covers.",
+  "coveredBy": null,
+  "joinBlock": "H13",
+  "proposed": "maybe"
+ },
+ "H-damaru": {
+  "verdict": "skip",
+  "reason": "Drama-inflated and blunt. Not a versatile verb.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "H-nattoku-suru": {
+  "verdict": "skip",
+  "reason": "Abstract and somewhat formal. Not needed for casual conversation.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "H-kanchigai-suru": {
+  "verdict": "covered",
+  "reason": "machigaeru and chigau already cover misunderstandings; confusable near-duplicate.",
+  "coveredBy": null,
+  "joinBlock": "H11",
+  "proposed": "maybe"
+ },
+ "H-kitai-suru": {
+  "verdict": "skip",
+  "reason": "Abstract and narrower. The list works fine without it.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "H-nayamu": {
+  "verdict": "covered",
+  "reason": "komaru and dou shiyou kana cover worries and being torn.",
+  "coveredBy": null,
+  "joinBlock": "H11",
+  "proposed": "maybe"
+ },
+ "H-fueru-heru": {
+  "verdict": "covered",
+  "reason": "-ku naru (ooku naru, sukunaku naru) already says increase and decrease.",
+  "coveredBy": null,
+  "joinBlock": "H2",
+  "proposed": "maybe"
+ },
+ "H-uru": {
+  "verdict": "skip",
+  "reason": "Narrow shopping verb. aru? usually covers 'do they sell it'.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "H-tsureru": {
+  "verdict": "skip",
+  "reason": "Duplicate of tsurete iku. The bare form is rarely used on its own.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "H-ki-o-tsukau": {
+  "verdict": "covered",
+  "reason": "ii yo and daijoubu cover replying when someone fusses.",
+  "coveredBy": null,
+  "joinBlock": "new: Social moves",
+  "proposed": "maybe"
+ },
+ "H-monku-iu": {
+  "verdict": "skip",
+  "reason": "Narrower. The noun phrase is easy to pick up later.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "H-tsurete-iku": {
+  "verdict": "covered",
+  "reason": "issho ni iku / kuru already says bring or take someone along.",
+  "coveredBy": null,
+  "joinBlock": "H3",
+  "proposed": "maybe"
+ },
+ "H-akeru": {
+  "verdict": "covered",
+  "reason": "Opening things is object-bound; no conversational gap.",
+  "coveredBy": null,
+  "joinBlock": "new: Things and devices",
+  "proposed": "maybe"
+ },
+ "H-kiru": {
+  "verdict": "covered",
+  "reason": "Cutting and hanging up are object-bound; jaa ne ends calls.",
+  "coveredBy": null,
+  "joinBlock": "new: Things and devices",
+  "proposed": "maybe"
+ },
+ "H-suteru": {
+  "verdict": "covered",
+  "reason": "Rubbish is object-bound; figurative dumping is optional.",
+  "coveredBy": null,
+  "joinBlock": "new: Things and devices",
+  "proposed": "maybe"
+ },
+ "H-okosu": {
+  "verdict": "covered",
+  "reason": "Narrow need; okiru and renraku shite cover wake-up arrangements.",
+  "coveredBy": null,
+  "joinBlock": "H4",
+  "proposed": "maybe"
+ },
+ "H-kotaeru": {
+  "verdict": "skip",
+  "reason": "Drama inflates kotaete. Everyday replying uses henji or just iu.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "H-otosu": {
+  "verdict": "covered",
+  "reason": "Dropping is object-bound; kore, X no? covers handing something back.",
+  "coveredBy": null,
+  "joinBlock": "new: Things and devices",
+  "proposed": "maybe"
+ },
+ "H-ochiru": {
+  "verdict": "covered",
+  "reason": "Falling is object-bound; exam failure is covered by dame datta.",
+  "coveredBy": null,
+  "joinBlock": "new: Things and devices",
+  "proposed": "maybe"
+ },
+ "H-kesu": {
+  "verdict": "covered",
+  "reason": "Device-bound; no conversational gap for a general list.",
+  "coveredBy": null,
+  "joinBlock": "new: Things and devices",
+  "proposed": "maybe"
+ },
+ "H-nokoru": {
+  "verdict": "covered",
+  "reason": "mada aru? (mada + aru) already asks if any is left.",
+  "coveredBy": null,
+  "joinBlock": "H14",
+  "proposed": "maybe"
+ },
+ "H-shoukai-suru": {
+  "verdict": "covered",
+  "reason": "kono hito, tomodachi no X da yo covers introductions.",
+  "coveredBy": null,
+  "joinBlock": "H7",
+  "proposed": "maybe"
+ },
+ "H-benkyou-suru": {
+  "verdict": "readd",
+  "reason": "The learner's own story (nihongo benkyou shiteru), and benkyou ni naru is a common reply.",
+  "coveredBy": null,
+  "joinBlock": "H2",
+  "proposed": "readd"
+ },
+ "H-moriagaru": {
+  "verdict": "covered",
+  "reason": "tanoshikatta and saikou datta report a good night.",
+  "coveredBy": null,
+  "joinBlock": "new: Feelings and reactions",
+  "proposed": "maybe"
+ },
+ "H-ogoru": {
+  "verdict": "covered",
+  "reason": "kyou wa ii yo covers my treat; narrow eating-out move.",
+  "coveredBy": null,
+  "joinBlock": "new: Social moves",
+  "proposed": "maybe"
+ },
+ "H-tsuzuku": {
+  "verdict": "covered",
+  "reason": "mada and zutto cover things lasting or going on.",
+  "coveredBy": null,
+  "joinBlock": "H12",
+  "proposed": "maybe"
+ },
+ "H-agaru-sagaru": {
+  "verdict": "covered",
+  "reason": "takaku naru / yasuku naru via -ku naru; douzo / haitte cover come in.",
+  "coveredBy": null,
+  "joinBlock": "H2",
+  "proposed": "maybe"
+ },
+ "H-aseru": {
+  "verdict": "covered",
+  "reason": "yukkuri de ii yo already reassures; being flustered is optional.",
+  "coveredBy": null,
+  "joinBlock": "new: Feelings and reactions",
+  "proposed": "maybe"
+ },
+ "H-mukau": {
+  "verdict": "covered",
+  "reason": "ima iku / ima kara iku already answers 'where are you?'.",
+  "coveredBy": "iku, kore kara",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "H-tsukeru": {
+  "verdict": "covered",
+  "reason": "Device-bound; the only gap is switching things on.",
+  "coveredBy": null,
+  "joinBlock": "new: Things and devices",
+  "proposed": "maybe"
+ },
+ "H-motte-kuru-iku": {
+  "verdict": "covered",
+  "reason": "Built from the kept motsu plus -te kuru / -te iku ('take along').",
+  "coveredBy": "motsu, -te kuru, -te iku",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "H-shinu": {
+  "verdict": "covered",
+  "reason": "metcha, sugoku and yabai already carry hyperbole.",
+  "coveredBy": null,
+  "joinBlock": "new: Feelings and reactions",
+  "proposed": "maybe"
+ },
+ "H-tsuite-iku": {
+  "verdict": "covered",
+  "reason": "watashi mo iku and issho ni iku cover joining plans.",
+  "coveredBy": null,
+  "joinBlock": "H3",
+  "proposed": "maybe"
+ },
+ "H-tomeru": {
+  "verdict": "covered",
+  "reason": "yameru covers stopping; stopping objects or parking is narrow.",
+  "coveredBy": null,
+  "joinBlock": "new: Things and devices",
+  "proposed": "maybe"
+ },
+ "H-motte-iku-kuru": {
+  "verdict": "covered",
+  "reason": "Duplicate of motte kuru. Built from motsu plus -te iku / -te kuru.",
+  "coveredBy": "motsu, -te kuru, -te iku",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "H-nakusu": {
+  "verdict": "covered",
+  "reason": "nai! (kept aru) covers losing things: saifu ga nai.",
+  "coveredBy": null,
+  "joinBlock": "new: Things and devices",
+  "proposed": "maybe"
+ },
+ "H-mamoru": {
+  "verdict": "skip",
+  "reason": "Drama inflates 'protect'. 'Keep a promise' alone is too narrow.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "I-volitional": {
+  "verdict": "covered",
+  "reason": "Already kept in sentence endings as the let's form.",
+  "coveredBy": "F -ou / -you (let's (do)), F -ou ka / -you ka",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "I-tsumori": {
+  "verdict": "covered",
+  "reason": "Kept in sentence endings with the same job.",
+  "coveredBy": "F tsumori (intend to / plan to)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "I-ou-to-omou": {
+  "verdict": "covered",
+  "reason": "Kept in sentence endings word for word.",
+  "coveredBy": "F -ou / -you to omou (I'm thinking of (doing))",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "I-naide": {
+  "verdict": "covered",
+  "reason": "Both senses are already kept: the request and 'without doing'.",
+  "coveredBy": "F -naide (don't... (casual request)), E -naide (without doing)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "I-koto-ni-naru": {
+  "verdict": "covered",
+  "reason": "Noun + kept -ni naru already reports outcomes (tenkin ni natta, chuushi ni natta); wake da covers 'so that means'.",
+  "coveredBy": null,
+  "joinBlock": "I4",
+  "proposed": "maybe"
+ },
+ "I-koto-ni-suru": {
+  "verdict": "covered",
+  "reason": "Kept -ni suru, kimeru ('yameru tte kimeta'), -ou to omou and tsumori already announce decisions.",
+  "coveredBy": null,
+  "joinBlock": "I4",
+  "proposed": "maybe"
+ },
+ "I-te-yokatta": {
+  "verdict": "covered",
+  "reason": "Kept -te (so) plus kept yokatta builds it correctly; near-duplicate of -te kurete arigatou's frame.",
+  "coveredBy": null,
+  "joinBlock": "I9",
+  "proposed": "maybe"
+ },
+ "I-te-gomen": {
+  "verdict": "covered",
+  "reason": "Naive combination of kept -te and gomen already gives the correct 'okurete gomen'; no gap.",
+  "coveredBy": null,
+  "joinBlock": "I9",
+  "proposed": "maybe"
+ },
+ "I-nai-to": {
+  "verdict": "covered",
+  "reason": "Near-synonym of kept -nakya; -nai plus kept -to makes it recognisable when heard.",
+  "coveredBy": null,
+  "joinBlock": "I5",
+  "proposed": "maybe"
+ },
+ "I-koto-ga-dekiru": {
+  "verdict": "covered",
+  "reason": "Casual speech uses the potential form, which is kept, for ability.",
+  "coveredBy": "I3 -eru / -rareru (can (do))",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "I-tame-ni": {
+  "verdict": "covered",
+  "reason": "Already kept among connectors.",
+  "coveredBy": "E -tame ni (in order to; for)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "I-yotei": {
+  "verdict": "covered",
+  "reason": "Kept tsumori already covers 'plan to'; the noun 'plans' is closer to a topic word.",
+  "coveredBy": "F tsumori (intend to / plan to)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "I-ba-ii": {
+  "verdict": "covered",
+  "reason": "Near-twin with the same job: dou shitara ii? covers dou sureba ii?",
+  "coveredBy": "I10 -tara ii (should I / you could)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "I-nakucha": {
+  "verdict": "covered",
+  "reason": "Second contraction of the same obligation as the kept -nakya.",
+  "coveredBy": "I5 -nakya (have to, must)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "I-hajimeru": {
+  "verdict": "covered",
+  "reason": "Kept -te kuru (start to) and main verb hajimeru already express onset; confusable overlap.",
+  "coveredBy": null,
+  "joinBlock": "I2",
+  "proposed": "maybe"
+ },
+ "I-ba-yokatta": {
+  "verdict": "covered",
+  "reason": "Past of kept -ta hou ga ii ('kiita hou ga yokatta') already expresses regret naturally.",
+  "coveredBy": null,
+  "joinBlock": "I10",
+  "proposed": "maybe"
+ },
+ "I-passive": {
+  "verdict": "readd",
+  "reason": "Being told, scolded or dumped (iwareta, okorareta) is everyday talk; nothing kept expresses it.",
+  "coveredBy": null,
+  "joinBlock": "new: Done to me (passive, causative)",
+  "proposed": "readd"
+ },
+ "I-causative": {
+  "verdict": "covered",
+  "reason": "Overlaps -sasete, which carries the causative's main conversational payoff; adding both creates a near-duplicate.",
+  "coveredBy": null,
+  "joinBlock": "new: Done to me (passive, causative)",
+  "proposed": "maybe"
+ },
+ "I-tari-suru": {
+  "verdict": "covered",
+  "reason": "Already kept among connectors.",
+  "coveredBy": "E -tari ... -tari suru (doing things like ... and ...)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "I-you-ni-suru": {
+  "verdict": "covered",
+  "reason": "Confusable with kept -you ni naru; -tame ni and itsumo cover purpose and habits well enough.",
+  "coveredBy": null,
+  "joinBlock": "I6",
+  "proposed": "maybe"
+ },
+ "I-owaru": {
+  "verdict": "skip",
+  "reason": "In conversation the plain past or mou ... -ta usually does this job.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "I-te-aru": {
+  "verdict": "covered",
+  "reason": "-teru covers result states and -toku covers deliberate preparation; you rarely need to say it yourself.",
+  "coveredBy": "I2 -teru (is in a state), I2 -toku (do in advance)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "I-ou-to-suru": {
+  "verdict": "skip",
+  "reason": "Mostly used in storytelling; -te miru and -tokoro cover trying and 'about to'.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "I-te-kurete-arigatou": {
+  "verdict": "readd",
+  "reason": "Thanking someone for a specific act is a top social need; learners won't guess the kureru.",
+  "coveredBy": null,
+  "joinBlock": "I9",
+  "proposed": "readd"
+ },
+ "I-sasete": {
+  "verdict": "maybe",
+  "reason": "'Let me' (harawasete, kangaesasete) is handy for offers and stalling; this is where the causative earns its place.",
+  "coveredBy": null,
+  "joinBlock": "new: Done to me (passive, causative)",
+  "proposed": "maybe"
+ },
+ "I-naosu-suffix": {
+  "verdict": "skip",
+  "reason": "Mostly a few fixed verbs (yarinaosu, iinaosu); mou ikkai and mata cover 'again'.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "I-ta-mama": {
+  "verdict": "covered",
+  "reason": "Kept kono mama / sono mama teach mama; -ta mama is recognisable and -te linking approximates it.",
+  "coveredBy": null,
+  "joinBlock": "I2",
+  "proposed": "maybe"
+ },
+ "I-koto-wa-nai": {
+  "verdict": "covered",
+  "reason": "'No need to' is the same job as the kept 'don't have to'.",
+  "coveredBy": "I5 -nakute mo ii (don't have to)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "I-beki": {
+  "verdict": "covered",
+  "reason": "Casual advice uses -ta hou ga ii; beki sounds stronger and preachy.",
+  "coveredBy": "I10 -ta hou ga ii (you should)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "I-nante-dismissive": {
+  "verdict": "covered",
+  "reason": "Mainly recognition; uso, masaka and wa-contrast already let the learner express disbelief and dismissal.",
+  "coveredBy": null,
+  "joinBlock": "I11",
+  "proposed": "maybe"
+ },
+ "I-ni-yotte": {
+  "verdict": "covered",
+  "reason": "Already kept among connectors as 'it depends on'.",
+  "coveredBy": "E -ni yoru (it depends on)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "I-toori": {
+  "verdict": "covered",
+  "reason": "Kept itta jan / itta desho, onaji and sou cover 'as I said' and 'exactly'.",
+  "coveredBy": null,
+  "joinBlock": "I11",
+  "proposed": "maybe"
+ },
+ "I-furi": {
+  "verdict": "covered",
+  "reason": "Pretending is a real but narrow meaning (#2643); not a versatility gap for everyday conversation.",
+  "coveredBy": null,
+  "joinBlock": "I11",
+  "proposed": "maybe"
+ },
+ "I-no-koto": {
+  "verdict": "covered",
+  "reason": "Kept koto already carries 'about X'.",
+  "coveredBy": "J koto (thing, matter; about X)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "I-to-shite": {
+  "verdict": "covered",
+  "reason": "Particle de (shumi de) and kept -nara cover role/capacity well enough; #136 inflated by other uses.",
+  "coveredBy": null,
+  "joinBlock": "I11",
+  "proposed": "maybe"
+ },
+ "I-dasu-suffix": {
+  "verdict": "skip",
+  "reason": "Mostly fixed words (omoidasu, iidasu); kyuu ni plus a past verb covers the sense.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "I-rashii-typical": {
+  "verdict": "skip",
+  "reason": "Narrow character teasing; shares its sound with the kept hearsay rashii, so it can confuse.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "I-teki-ni": {
+  "verdict": "covered",
+  "reason": "Kept -nara and 'watashi wa' already hedge 'personally / X-wise'; slightly youthful, optional.",
+  "coveredBy": null,
+  "joinBlock": "I11",
+  "proposed": "maybe"
+ },
+ "I-wake-ni-wa-ikanai": {
+  "verdict": "skip",
+  "reason": "Stiff and narrow; you rarely need to say it, and -shika nai covers the nearby ground.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "I-shidai": {
+  "verdict": "skip",
+  "reason": "Narrow and a bit formal; ni yoru covers 'depends', and 'anata shidai' can be learned as a phrase.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "I-zurai": {
+  "verdict": "covered",
+  "reason": "Same job as the kept -nikui; the nuance difference doesn't block communication.",
+  "coveredBy": "I7 -nikui (hard to)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "I-garu-tagaru": {
+  "verdict": "covered",
+  "reason": "Kept mitai, -sou, rashii and -tai tte already report others' feelings and wants in casual speech.",
+  "coveredBy": null,
+  "joinBlock": "I3",
+  "proposed": "maybe"
+ },
+ "J-dou-iu": {
+  "verdict": "maybe",
+  "reason": "'dou iu koto?' is a constant reaction (#177); completes the kept sou iu pair.",
+  "coveredBy": null,
+  "joinBlock": "J6",
+  "proposed": "readd"
+ },
+ "J-doushite": {
+  "verdict": "covered",
+  "reason": "Already kept: J2 lists nande / doushite together.",
+  "coveredBy": "J2 nande / doushite",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "J-ano-hito": {
+  "verdict": "covered",
+  "reason": "Composes from kept ano + hito; worth adding 'ano hito = he/she' to the hito gloss.",
+  "coveredBy": "J4 ano + J10 hito",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "J-boku": {
+  "verdict": "covered",
+  "reason": "Near-synonym of kept watashi; same meaning, only a register variant.",
+  "coveredBy": null,
+  "joinBlock": "J5",
+  "proposed": "maybe"
+ },
+ "J-nanka": {
+  "verdict": "covered",
+  "reason": "Casual contraction of kept nanika; the filler sense is already in G.",
+  "coveredBy": "J11 nanika; G nanka",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "J-nante": {
+  "verdict": "covered",
+  "reason": "Both uses are already kept as G phrases.",
+  "coveredBy": "G nante?; G nihongo de nante iu?",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "J-yatsu": {
+  "verdict": "covered",
+  "reason": "mono, hito and the -no nominaliser already cover 'the X one' and 'that person'.",
+  "coveredBy": null,
+  "joinBlock": "J10",
+  "proposed": "maybe"
+ },
+ "J-tachi": {
+  "verdict": "readd",
+  "reason": "The list has no 'we'; watashitachi is #395, and -tachi also makes 'X and co.'",
+  "coveredBy": null,
+  "joinBlock": "J5",
+  "proposed": "readd"
+ },
+ "J-kou-iu": {
+  "verdict": "covered",
+  "reason": "kou iu no and konna no do the same job; konna is kept.",
+  "coveredBy": "J7 konna; J6 kou",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "J-dore-kurai": {
+  "verdict": "covered",
+  "reason": "Built from kept dore plus gurai; answers need numbers, which are out of scope.",
+  "coveredBy": null,
+  "joinBlock": "J2",
+  "proposed": "maybe"
+ },
+ "J-docchi-demo": {
+  "verdict": "covered",
+  "reason": "Follows directly from dotchi plus the kept nandemo/dokodemo pattern.",
+  "coveredBy": "J8 dotchi + J13 -demo series",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "J-kono-hen": {
+  "verdict": "covered",
+  "reason": "koko covers 'around here'; hen would also clash with the kept hen 'weird'.",
+  "coveredBy": null,
+  "joinBlock": "J3",
+  "proposed": "maybe"
+ },
+ "J-ikutsu": {
+  "verdict": "skip",
+  "reason": "Answers need numbers and counters, which are out of scope; #1556.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "J-chan": {
+  "verdict": "covered",
+  "reason": "-san covers name suffixes in speech; -chan is easy to tell from context.",
+  "coveredBy": null,
+  "joinBlock": "J5",
+  "proposed": "maybe"
+ },
+ "J-kun": {
+  "verdict": "skip",
+  "reason": "Narrower than -chan (boys, juniors); -san always works, and -kun is obvious when heard.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "J-ore": {
+  "verdict": "covered",
+  "reason": "Near-synonym of kept watashi; a blunt male register variant with no new meaning.",
+  "coveredBy": null,
+  "joinBlock": "J5",
+  "proposed": "maybe"
+ },
+ "J-anata": {
+  "verdict": "covered",
+  "reason": "Name plus -san and sotchi ('you') already do the job; anata is better avoided in speech.",
+  "coveredBy": null,
+  "joinBlock": "J5",
+  "proposed": "maybe"
+ },
+ "J-kare": {
+  "verdict": "skip",
+  "reason": "Names or ano hito do 'he'; the boyfriend sense is topic vocabulary.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "J-kanojo": {
+  "verdict": "skip",
+  "reason": "Same as kare: ano hito does 'she', and 'girlfriend' is topic vocabulary.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "J-dou-shita": {
+  "verdict": "maybe",
+  "reason": "'dou shita no?' (#285) is the everyday what's-wrong check-in; not obvious from dou + suru.",
+  "coveredBy": null,
+  "joinBlock": "J6",
+  "proposed": "readd"
+ },
+ "J-sonna-ni": {
+  "verdict": "covered",
+  "reason": "anmari covers 'not that much'; sonna plus honto? cover the pushback.",
+  "coveredBy": null,
+  "joinBlock": "J7",
+  "proposed": "maybe"
+ },
+ "J-nan-no": {
+  "verdict": "covered",
+  "reason": "Regular nani + no; nothing new to learn.",
+  "coveredBy": "J2 nani",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "J-naze": {
+  "verdict": "covered",
+  "reason": "Formal 'why'; nande / doushite are already kept for conversation.",
+  "coveredBy": "J2 nande / doushite",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "J-kimi": {
+  "verdict": "skip",
+  "reason": "Used in songs and to juniors; masculine and risky to say. Recognition only.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "J-aa-iu": {
+  "verdict": "covered",
+  "reason": "Means the same as kept anna, and is less frequent (#1183).",
+  "coveredBy": "J7 anna",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "J-atashi": {
+  "verdict": "skip",
+  "reason": "Casual female variant of watashi; easy to recognise and optional to use.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "J-aitsu": {
+  "verdict": "skip",
+  "reason": "Rough, and rude about outsiders. Mostly recognition; ano hito is the safe form.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "J-ittai": {
+  "verdict": "skip",
+  "reason": "Emphatic 'on earth'; heard more than said, and not needed to ask anything.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "J-otagai": {
+  "verdict": "skip",
+  "reason": "Narrow (#817); mostly in set phrases like otagai-sama.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "J-omae": {
+  "verdict": "skip",
+  "reason": "Rough male 'you'; insulting if misused. Recognition only, and drama inflates its count.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "J-anta": {
+  "verdict": "skip",
+  "reason": "Blunt 'you'; don't produce it. Recognition only.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "J-uchi": {
+  "verdict": "readd",
+  "reason": "The list has no 'home'; uchi ni iru, uchi kuru? and the in-group 'our' are everyday (#113).",
+  "coveredBy": null,
+  "joinBlock": "J5",
+  "proposed": "readd"
+ },
+ "J-rei-no": {
+  "verdict": "covered",
+  "reason": "ano already points at shared knowledge (ano mise); rei no is more businesslike.",
+  "coveredBy": "J4 ano",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "J-mukou": {
+  "verdict": "covered",
+  "reason": "atchi and asoko cover 'over there' and 'their side' in casual speech.",
+  "coveredBy": "J8 atchi; J3 asoko",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "J-ikurademo": {
+  "verdict": "skip",
+  "reason": "Optional and less frequent (#2178); takusan and ippai handle 'plenty'.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "J-aite": {
+  "verdict": "covered",
+  "reason": "hito ('person; others') covers 'the other person' well enough for a learner.",
+  "coveredBy": null,
+  "joinBlock": "J10",
+  "proposed": "maybe"
+ },
+ "J-docchi-mo": {
+  "verdict": "covered",
+  "reason": "Built from kept dotchi plus mo, like daremo and nanimo; zenbu also covers 'all of them'.",
+  "coveredBy": null,
+  "joinBlock": "J8",
+  "proposed": "maybe"
+ },
+ "J-mae-ushiro": {
+  "verdict": "readd",
+  "reason": "Spatial mae (eki no mae) is missing because A's mae is time only; ushiro completes the pair.",
+  "coveredBy": null,
+  "joinBlock": "J9",
+  "proposed": "readd"
+ },
+ "J-tonari-yoko": {
+  "verdict": "covered",
+  "reason": "Optional; when talking face to face, koko, soko and kotchi already handle locating things.",
+  "coveredBy": null,
+  "joinBlock": "J9",
+  "proposed": "maybe"
+ },
+ "J-chikaku": {
+  "verdict": "readd",
+  "reason": "Nothing on the list means 'near'; eki no chikaku and chikaku ni are everyday (#464).",
+  "coveredBy": null,
+  "joinBlock": "J9",
+  "proposed": "readd"
+ },
+ "J-mawari": {
+  "verdict": "covered",
+  "reason": "minna, hito and hoka no hito cover 'the people around'; it is optional.",
+  "coveredBy": null,
+  "joinBlock": "J9",
+  "proposed": "maybe"
+ },
+ "J-naka": {
+  "verdict": "covered",
+  "reason": "Same word as the kept naka / soto pair.",
+  "coveredBy": "J9 naka / soto",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "J-ue": {
+  "verdict": "covered",
+  "reason": "Same word as the kept ue / shita pair.",
+  "coveredBy": "J9 ue / shita",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "J-shita": {
+  "verdict": "covered",
+  "reason": "Same word as the kept ue / shita pair.",
+  "coveredBy": "J9 ue / shita",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "J-soto": {
+  "verdict": "covered",
+  "reason": "Same word as the kept naka / soto pair.",
+  "coveredBy": "J9 naka / soto",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "J-tonari": {
+  "verdict": "covered",
+  "reason": "Duplicates the tonari / yoko entry, which is also rejected.",
+  "coveredBy": null,
+  "joinBlock": "J9",
+  "proposed": "maybe"
+ },
+ "J-ushiro": {
+  "verdict": "covered",
+  "reason": "Duplicate; it comes in with the mae / ushiro re-add.",
+  "coveredBy": "J-mae-ushiro (re-add)",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "J-koitsu": {
+  "verdict": "skip",
+  "reason": "Rough, like aitsu; recognise it, but kono hito is the safe form.",
+  "coveredBy": null,
+  "joinBlock": null,
+  "proposed": "skip"
+ },
+ "J-imi": {
+  "verdict": "covered",
+  "reason": "G's 'dou iu imi?' already teaches imi; imi wakannai is built with the kept wakannai.",
+  "coveredBy": null,
+  "joinBlock": "J10",
+  "proposed": "maybe"
+ },
+ "J-wake": {
+  "verdict": "covered",
+  "reason": "wake da and -wake ja nai are kept; dou iu wake follows from them.",
+  "coveredBy": "F wake da; I -wake ja nai",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "J-migi-hidari": {
+  "verdict": "covered",
+  "reason": "kotchi, atchi and pointing cover live locating; giving directions is a topic area.",
+  "coveredBy": null,
+  "joinBlock": "J9",
+  "proposed": "maybe"
+ },
+ "J-sensei": {
+  "verdict": "covered",
+  "reason": "-san covers addressing people; sensei is a role noun, closer to a topic word.",
+  "coveredBy": null,
+  "joinBlock": "J5",
+  "proposed": "maybe"
+ },
+ "J-kotoba": {
+  "verdict": "covered",
+  "reason": "-tte nani? and nihongo de nante iu? already cover asking about a word.",
+  "coveredBy": null,
+  "joinBlock": "J10",
+  "proposed": "maybe"
+ },
+ "J-docchi-ka": {
+  "verdict": "covered",
+  "reason": "Follows from dotchi plus the kept nanika/dareka pattern.",
+  "coveredBy": "J8 dotchi + J11 -ka series",
+  "joinBlock": null,
+  "proposed": "covered"
+ },
+ "J-konna-kanji": {
+  "verdict": "covered",
+  "reason": "The kept 'tte kanji' teaches kanji; donna/konna plus kanji builds it, and dou? also asks it.",
+  "coveredBy": null,
+  "joinBlock": "J7",
+  "proposed": "maybe"
+ }
+}

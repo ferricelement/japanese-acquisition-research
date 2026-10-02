@@ -1,0 +1,1052 @@
+[
+ {
+  "blocks": [
+   {
+    "label": "Times of day",
+    "rationale": "The parts of the day that routines and plans hang on, plus kesa and konban for this morning and tonight.",
+    "interference": "kesa and konban always mean this morning and tonight. Bare asa and yoru just name the part of the day, and context picks which day: yoru denwa suru ne said at lunch means tonight, and asa denwa suru ne said at night means tomorrow morning. konban wa hima? starts exactly like the greeting konbanwa. If more words follow, it means tonight.",
+    "items": [
+     {
+      "slug": "asa",
+      "romaji": "asa",
+      "polite": null,
+      "ja": "朝",
+      "kana": "あさ",
+      "politeJa": null,
+      "english": "morning",
+      "use": "The morning as a part of the day, for routines (asa hayaku, asagohan) and spans like asa kara (since the morning).",
+      "flags": [],
+      "contrastGroup": "asa-hiru-yoru",
+      "example": {
+       "romaji": "asa denwa suru ne.",
+       "ja": "朝電話するね。",
+       "english": "I'll call you in the morning."
+      },
+      "examplePolite": {
+       "romaji": "asa denwa shimasu ne.",
+       "ja": "朝電話しますね。",
+       "english": "I'll call you in the morning."
+      },
+      "freqRank": 453,
+      "freqNote": "朝(あさ) #453",
+      "spread": 4,
+      "reach": 3,
+      "speakNeed": 4,
+      "prereqs": [],
+      "alsoIn": [
+       "10-list-nouns #96",
+       "vocab-trainer utility-vocab: times-of-day"
+      ],
+      "notes": "For 'this morning' say kesa or kyou no asa."
+     },
+     {
+      "slug": "hiru",
+      "romaji": "hiru",
+      "polite": null,
+      "ja": "昼",
+      "kana": "ひる",
+      "politeJa": null,
+      "english": "noon, daytime, lunch",
+      "use": "Midday and the daytime as opposed to yoru, mostly in set phrases: hiru made (till noon), hiru kara (from noon), hirusugi (just after noon), hirugohan (lunch). Casually, bare hiru also means lunch (hiru nani taberu?).",
+      "flags": [],
+      "contrastGroup": "asa-hiru-yoru",
+      "example": {
+       "romaji": "hiru made neteta.",
+       "ja": "昼まで寝てた。",
+       "english": "I slept till noon."
+      },
+      "examplePolite": {
+       "romaji": "hiru made netemashita.",
+       "ja": "昼まで寝てました。",
+       "english": "I slept until noon."
+      },
+      "freqRank": 2294,
+      "freqNote": "昼(ひる) #2294; お昼(おひる) #2219, 昼間(ひるま) #2019",
+      "spread": 3,
+      "reach": 3,
+      "speakNeed": 3,
+      "prereqs": [],
+      "alsoIn": [
+       "10-list-nouns #97",
+       "vocab-trainer utility-vocab: times-of-day"
+      ],
+      "notes": "For 'at lunchtime' say ohiru ni (ohiru ni denwa suru ne). ohiru on its own also means lunch, and hiruma means the daytime hours. For the afternoon say gogo (午後, #1394): gogo wa hima?"
+     },
+     {
+      "slug": "yoru",
+      "romaji": "yoru",
+      "polite": null,
+      "ja": "夜",
+      "kana": "よる",
+      "politeJa": null,
+      "english": "night, evening",
+      "use": "Evening and night, for plans and routines. kyou no yoru is a common casual way to say tonight.",
+      "flags": [],
+      "contrastGroup": "asa-hiru-yoru",
+      "example": {
+       "romaji": "yoru denwa suru ne.",
+       "ja": "夜電話するね。",
+       "english": "I'll call you tonight."
+      },
+      "examplePolite": {
+       "romaji": "yoru denwa shimasu ne.",
+       "ja": "夜電話しますね。",
+       "english": "I'll call you tonight."
+      },
+      "freqRank": 376,
+      "freqNote": "夜(よる) #376",
+      "spread": 4,
+      "reach": 3,
+      "speakNeed": 4,
+      "prereqs": [],
+      "alsoIn": [
+       "10-list-nouns #98",
+       "vocab-trainer utility-vocab: times-of-day"
+      ],
+      "notes": "ban (晩, #4729) is a near-synonym that lives in set words: konban, konbanwa, bangohan (dinner), maiban (every night). For late afternoon to dusk say yuugata (夕方, #2124); yoru starts once it is dark."
+     },
+     {
+      "slug": "kesa",
+      "romaji": "kesa",
+      "polite": null,
+      "ja": "今朝",
+      "kana": "けさ",
+      "politeJa": null,
+      "english": "this morning",
+      "use": "One word for kyou no asa. It often looks back at earlier this morning with past tense (kesa nani tabeta?), but while it is still morning non-past is fine too: kesa wa samui ne.",
+      "flags": [],
+      "contrastGroup": "kesa-konban",
+      "example": {
+       "romaji": "kesa wa samukatta ne.",
+       "ja": "今朝は寒かったね。",
+       "english": "It was cold this morning, huh."
+      },
+      "examplePolite": {
+       "romaji": "kesa wa samukatta desu ne.",
+       "ja": "今朝は寒かったですね。",
+       "english": "It was cold this morning, wasn't it?"
+      },
+      "freqRank": 1391,
+      "freqNote": "今朝(けさ) #1391",
+      "spread": 4,
+      "reach": 3,
+      "speakNeed": 4,
+      "prereqs": [
+       "asa"
+      ],
+      "alsoIn": [
+       "10-list-nouns #99"
+      ],
+      "notes": "An irregular word (not kon-asa). Like kyou, it takes no ni. kyou no asa means the same and is always safe."
+     },
+     {
+      "slug": "konban",
+      "romaji": "konban",
+      "polite": null,
+      "ja": "今晩",
+      "kana": "こんばん",
+      "politeJa": null,
+      "english": "tonight",
+      "use": "Tonight, for evening plans and invitations. It has the same kon- ('this') as konshuu and kongetsu.",
+      "flags": [],
+      "contrastGroup": "kesa-konban",
+      "example": {
+       "romaji": "konban nomi ni ikanai?",
+       "ja": "今晩飲みに行かない？",
+       "english": "Want to go for a drink tonight?"
+      },
+      "examplePolite": {
+       "romaji": "konban nomi ni ikimasen ka?",
+       "ja": "今晩飲みに行きませんか？",
+       "english": "Would you like to go for a drink tonight?"
+      },
+      "freqRank": 3984,
+      "freqNote": "今晩(こんばん) #3984; same-meaning 今夜(こんや) #770",
+      "spread": 4,
+      "reach": 3,
+      "speakNeed": 4,
+      "prereqs": [
+       "yoru"
+      ],
+      "alsoIn": [
+       "vocab-trainer utility-vocab: greetings (konbanwa)"
+      ],
+      "notes": "konya (今夜) means the same and is more frequent in dramas, so recognise it. Among friends, plain kyou often covers tonight: kyou nomi ni ikanai? For last night say yuube (ゆうべ, #2525) or kinou no yoru."
+     }
+    ]
+   },
+   {
+    "label": "Last, this, next week",
+    "rationale": "kinou, kyou and ashita stretched to weeks: sen- is last, kon- is this, rai- is next. Plus the weekend that everyone asks about.",
+    "interference": "senshuu, konshuu and raishuu differ only in the first syllable. sen- goes with past tense like kinou, and rai- with plans like ashita. Like kinou and ashita, all three take no ni: raishuu iku, not raishuu ni iku. shuumatsu is the weekend, and the tense tells you which one; it can take ni or go without.",
+    "items": [
+     {
+      "slug": "senshuu",
+      "romaji": "senshuu",
+      "polite": null,
+      "ja": "先週",
+      "kana": "せんしゅう",
+      "politeJa": null,
+      "english": "last week",
+      "use": "Last week, for recaps. Like kinou, it pairs with past tense, and the same sen- gives sengetsu.",
+      "flags": [],
+      "contrastGroup": "senshuu-konshuu-raishuu",
+      "example": {
+       "romaji": "senshuu wa isogashikatta.",
+       "ja": "先週は忙しかった。",
+       "english": "Last week was busy."
+      },
+      "examplePolite": {
+       "romaji": "senshuu wa isogashikatta desu.",
+       "ja": "先週は忙しかったです。",
+       "english": "Last week was busy."
+      },
+      "freqRank": 2652,
+      "freqNote": "先週(せんしゅう) #2652",
+      "spread": 4,
+      "reach": 3,
+      "speakNeed": 4,
+      "prereqs": [],
+      "alsoIn": [
+       "vocab-trainer utility-vocab: relative-periods"
+      ],
+      "notes": null
+     },
+     {
+      "slug": "konshuu",
+      "romaji": "konshuu",
+      "polite": null,
+      "ja": "今週",
+      "kana": "こんしゅう",
+      "politeJa": null,
+      "english": "this week",
+      "use": "This week. It works like kyou, taking past or non-past tense, and the same kon- gives kongetsu and konban.",
+      "flags": [],
+      "contrastGroup": "senshuu-konshuu-raishuu",
+      "example": {
+       "romaji": "konshuu wa chotto isogashii n da.",
+       "ja": "今週はちょっと忙しいんだ。",
+       "english": "I'm kind of busy this week."
+      },
+      "examplePolite": {
+       "romaji": "konshuu wa chotto isogashii n desu.",
+       "ja": "今週はちょっと忙しいんです。",
+       "english": "I'm a bit busy this week."
+      },
+      "freqRank": 2825,
+      "freqNote": "今週(こんしゅう) #2825",
+      "spread": 3,
+      "reach": 3,
+      "speakNeed": 3,
+      "prereqs": [],
+      "alsoIn": [
+       "vocab-trainer utility-vocab: relative-periods"
+      ],
+      "notes": null
+     },
+     {
+      "slug": "raishuu",
+      "romaji": "raishuu",
+      "polite": null,
+      "ja": "来週",
+      "kana": "らいしゅう",
+      "politeJa": null,
+      "english": "next week",
+      "use": "Next week, a scheduling staple. Like ashita, it pairs with non-past tense, and the same rai- gives raigetsu and rainen.",
+      "flags": [],
+      "contrastGroup": "senshuu-konshuu-raishuu",
+      "example": {
+       "romaji": "raishuu wa isogashii?",
+       "ja": "来週は忙しい？",
+       "english": "Are you busy next week?"
+      },
+      "examplePolite": {
+       "romaji": "raishuu wa isogashii desu ka?",
+       "ja": "来週は忙しいですか？",
+       "english": "Are you busy next week?"
+      },
+      "freqRank": 1291,
+      "freqNote": "来週(らいしゅう) #1291",
+      "spread": 4,
+      "reach": 3,
+      "speakNeed": 4,
+      "prereqs": [],
+      "alsoIn": [
+       "vocab-trainer utility-vocab: relative-periods"
+      ],
+      "notes": null
+     },
+     {
+      "slug": "shuumatsu",
+      "romaji": "shuumatsu",
+      "polite": null,
+      "ja": "週末",
+      "kana": "しゅうまつ",
+      "politeJa": null,
+      "english": "weekend",
+      "use": "The weekend, mostly in small-talk questions. Non-past (nani suru?) asks about the coming weekend, past (nani shita?) about the one just gone, and -teru about habit: shuumatsu wa nani shiteru no? (what do you usually do at weekends?).",
+      "flags": [],
+      "contrastGroup": null,
+      "example": {
+       "romaji": "shuumatsu nani suru?",
+       "ja": "週末何する？",
+       "english": "What are you doing this weekend?"
+      },
+      "examplePolite": {
+       "romaji": "shuumatsu wa nani shimasu ka?",
+       "ja": "週末は何しますか？",
+       "english": "What are you doing this weekend?"
+      },
+      "freqRank": 3278,
+      "freqNote": "週末(しゅうまつ) #3278",
+      "spread": 3,
+      "reach": 3,
+      "speakNeed": 4,
+      "prereqs": [],
+      "alsoIn": [],
+      "notes": "To pin down which weekend, say konshuumatsu (今週末) or raishuumatsu (来週末), one word each. konshuu no shuumatsu also works."
+     }
+    ]
+   },
+   {
+    "label": "Last, this, next month",
+    "rationale": "The sen-, kon- and rai- of the week words applied to months, with no exceptions.",
+    "interference": "sengetsu, kongetsu and raigetsu differ only in the first syllable, exactly like senshuu, konshuu and raishuu. Like the week words, they take no ni: raigetsu hikkosu, not raigetsu ni hikkosu.",
+    "items": [
+     {
+      "slug": "sengetsu",
+      "romaji": "sengetsu",
+      "polite": null,
+      "ja": "先月",
+      "kana": "せんげつ",
+      "politeJa": null,
+      "english": "last month",
+      "use": "Last month, for recaps. It uses the same sen- as senshuu, so it pairs with past tense.",
+      "flags": [],
+      "contrastGroup": "sengetsu-kongetsu-raigetsu",
+      "example": {
+       "romaji": "sengetsu hikkoshita n da.",
+       "ja": "先月引っ越したんだ。",
+       "english": "I moved last month."
+      },
+      "examplePolite": {
+       "romaji": "sengetsu hikkoshita n desu.",
+       "ja": "先月引っ越したんです。",
+       "english": "I moved last month."
+      },
+      "freqRank": 2840,
+      "freqNote": "先月(せんげつ) #2840",
+      "spread": 3,
+      "reach": 3,
+      "speakNeed": 3,
+      "prereqs": [
+       "senshuu"
+      ],
+      "alsoIn": [
+       "vocab-trainer utility-vocab: relative-periods"
+      ],
+      "notes": null
+     },
+     {
+      "slug": "kongetsu",
+      "romaji": "kongetsu",
+      "polite": null,
+      "ja": "今月",
+      "kana": "こんげつ",
+      "politeJa": null,
+      "english": "this month",
+      "use": "This month, for budgets, schedules and deadlines. It uses the same kon- as konshuu.",
+      "flags": [],
+      "contrastGroup": "sengetsu-kongetsu-raigetsu",
+      "example": {
+       "romaji": "kongetsu hikkosu n da.",
+       "ja": "今月引っ越すんだ。",
+       "english": "I'm moving this month."
+      },
+      "examplePolite": {
+       "romaji": "kongetsu hikkosu n desu.",
+       "ja": "今月引っ越すんです。",
+       "english": "I'm moving this month."
+      },
+      "freqRank": 2267,
+      "freqNote": "今月(こんげつ) #2267",
+      "spread": 3,
+      "reach": 3,
+      "speakNeed": 3,
+      "prereqs": [
+       "konshuu"
+      ],
+      "alsoIn": [
+       "vocab-trainer utility-vocab: relative-periods"
+      ],
+      "notes": null
+     },
+     {
+      "slug": "raigetsu",
+      "romaji": "raigetsu",
+      "polite": null,
+      "ja": "来月",
+      "kana": "らいげつ",
+      "politeJa": null,
+      "english": "next month",
+      "use": "Next month, for plans and deadlines. It uses the same rai- as raishuu.",
+      "flags": [],
+      "contrastGroup": "sengetsu-kongetsu-raigetsu",
+      "example": {
+       "romaji": "raigetsu hikkosu n da.",
+       "ja": "来月引っ越すんだ。",
+       "english": "I'm moving next month."
+      },
+      "examplePolite": {
+       "romaji": "raigetsu hikkosu n desu.",
+       "ja": "来月引っ越すんです。",
+       "english": "I'm moving next month."
+      },
+      "freqRank": 2256,
+      "freqNote": "来月(らいげつ) #2256",
+      "spread": 3,
+      "reach": 3,
+      "speakNeed": 3,
+      "prereqs": [
+       "raishuu"
+      ],
+      "alsoIn": [
+       "vocab-trainer utility-vocab: relative-periods"
+      ],
+      "notes": null
+     }
+    ]
+   },
+   {
+    "label": "Last, this, next year",
+    "rationale": "The same grid for years, where two of the three words are irregular.",
+    "interference": "Only rainen fits the sen-/kon-/rai- pattern: this year is kotoshi and last year is kyonen. kyonen has a short kyo- (kyo-ne-n), unlike the long kyou of 'today', so don't stretch it. Like the week and month words, all three take no ni.",
+    "items": [
+     {
+      "slug": "kyonen",
+      "romaji": "kyonen",
+      "polite": null,
+      "ja": "去年",
+      "kana": "きょねん",
+      "politeJa": null,
+      "english": "last year",
+      "use": "Last year, the usual anchor for recaps. Like kinou, it pairs with past tense.",
+      "flags": [],
+      "contrastGroup": "kyonen-kotoshi-rainen",
+      "example": {
+       "romaji": "kyonen kekkon shita n da.",
+       "ja": "去年結婚したんだ。",
+       "english": "I got married last year."
+      },
+      "examplePolite": {
+       "romaji": "kyonen kekkon shita n desu.",
+       "ja": "去年結婚したんです。",
+       "english": "I got married last year."
+      },
+      "freqRank": 1422,
+      "freqNote": "去年(きょねん) #1422",
+      "spread": 4,
+      "reach": 3,
+      "speakNeed": 4,
+      "prereqs": [],
+      "alsoIn": [
+       "vocab-trainer utility-vocab: relative-periods"
+      ],
+      "notes": "It breaks the sen- pattern. Say a short kyo- (kyo-ne-n, three beats), not the long kyou of 'today'. sakunen (昨年, #5231) is the formal version heard in business talk and the news: recognise it, but say kyonen even in desu/masu."
+     },
+     {
+      "slug": "kotoshi",
+      "romaji": "kotoshi",
+      "polite": null,
+      "ja": "今年",
+      "kana": "ことし",
+      "politeJa": null,
+      "english": "this year",
+      "use": "This year, for yearly plans and recaps, and the New Year line kotoshi mo yoroshiku.",
+      "flags": [],
+      "contrastGroup": "kyonen-kotoshi-rainen",
+      "example": {
+       "romaji": "kotoshi kekkon suru n da.",
+       "ja": "今年結婚するんだ。",
+       "english": "I'm getting married this year."
+      },
+      "examplePolite": {
+       "romaji": "kotoshi kekkon suru n desu.",
+       "ja": "今年結婚するんです。",
+       "english": "I'm getting married this year."
+      },
+      "freqRank": 1145,
+      "freqNote": "今年(ことし) #1145",
+      "spread": 4,
+      "reach": 3,
+      "speakNeed": 4,
+      "prereqs": [],
+      "alsoIn": [
+       "vocab-trainer utility-vocab: relative-periods"
+      ],
+      "notes": "It breaks the kon- pattern: kotoshi. The kon- reading turns up in work talk as konnendo (今年度, this fiscal year)."
+     },
+     {
+      "slug": "rainen",
+      "romaji": "rainen",
+      "polite": null,
+      "ja": "来年",
+      "kana": "らいねん",
+      "politeJa": null,
+      "english": "next year",
+      "use": "Next year, for plans and hopes. It is the one year word that fits the rai- pattern of raishuu and raigetsu.",
+      "flags": [],
+      "contrastGroup": "kyonen-kotoshi-rainen",
+      "example": {
+       "romaji": "rainen kekkon suru n da.",
+       "ja": "来年結婚するんだ。",
+       "english": "I'm getting married next year."
+      },
+      "examplePolite": {
+       "romaji": "rainen kekkon suru n desu.",
+       "ja": "来年結婚するんです。",
+       "english": "I'm getting married next year."
+      },
+      "freqRank": 2055,
+      "freqNote": "来年(らいねん) #2055",
+      "spread": 3,
+      "reach": 3,
+      "speakNeed": 3,
+      "prereqs": [
+       "raishuu"
+      ],
+      "alsoIn": [
+       "vocab-trainer utility-vocab: relative-periods"
+      ],
+      "notes": null
+     }
+    ]
+   },
+   {
+    "label": "So far, from now",
+    "rationale": "Phrases that place a statement relative to now: up to now, from here on, as things stand, and for a while.",
+    "interference": "ima made and ima no tokoro can both mean 'so far'. ima made looks back, and ima made wa with past tense hints that something has changed, while ima no tokoro reports a state that still holds. kore kara looks forward.",
+    "items": [
+     {
+      "slug": "ima-made",
+      "romaji": "ima made",
+      "polite": null,
+      "ja": "今まで",
+      "kana": "いままで",
+      "politeJa": null,
+      "english": "until now, so far",
+      "use": "Looks back over the time up to now, often with past tense or experience (ima made ichido mo nai), and in ima made nani shiteta no? (what have you been doing all this time?). kore made is a more formal synonym.",
+      "flags": [],
+      "contrastGroup": "so-far",
+      "example": {
+       "romaji": "ima made wa daijoubu datta n da kedo.",
+       "ja": "今までは大丈夫だったんだけど。",
+       "english": "It was fine until now, though."
+      },
+      "examplePolite": {
+       "romaji": "ima made wa daijoubu datta n desu kedo.",
+       "ja": "今までは大丈夫だったんですけど。",
+       "english": "It was fine until now, though."
+      },
+      "freqRank": 370,
+      "freqNote": "今まで(いままで) #370; formal-leaning これまで #952",
+      "spread": 4,
+      "reach": 4,
+      "speakNeed": 4,
+      "prereqs": [
+       "ima",
+       "made"
+      ],
+      "alsoIn": [
+       "kotoba particles: made"
+      ],
+      "notes": "ima made arigatou is the standard thanks when someone leaves or something ends."
+     },
+     {
+      "slug": "kore-kara",
+      "romaji": "kore kara",
+      "polite": null,
+      "ja": "これから",
+      "kana": "これから",
+      "politeJa": null,
+      "english": "from now (on), about to",
+      "use": "Points forward from this moment, to something about to start (kore kara dekakeru) or to everything from here on. ima kara means the same for the immediate moment.",
+      "flags": [],
+      "contrastGroup": null,
+      "example": {
+       "romaji": "kore kara dou suru?",
+       "ja": "これからどうする？",
+       "english": "What do we do now?"
+      },
+      "examplePolite": {
+       "romaji": "kore kara dou shimasu ka?",
+       "ja": "これからどうしますか？",
+       "english": "What shall we do now?"
+      },
+      "freqRank": 2065,
+      "freqNote": "これから #2065 (likely undercounted: the tokenizer can split これ + から); near-synonym 今から(いまから) #972",
+      "spread": 4,
+      "reach": 4,
+      "speakNeed": 4,
+      "prereqs": [
+       "kore"
+      ],
+      "alsoIn": [
+       "kotoba particles: kara"
+      ],
+      "notes": "kore kara mo yoroshiku ('I'm counting on you going forward') is a common closing line."
+     },
+     {
+      "slug": "ima-no-tokoro",
+      "romaji": "ima no tokoro",
+      "polite": null,
+      "ja": "今のところ",
+      "kana": "いまのところ",
+      "politeJa": null,
+      "english": "for now, so far",
+      "use": "Hedges a status or plan as true for now but open to change (ima no tokoro yotei nai).",
+      "flags": [],
+      "contrastGroup": "so-far",
+      "example": {
+       "romaji": "ima no tokoro daijoubu.",
+       "ja": "今のところ大丈夫。",
+       "english": "So far so good."
+      },
+      "examplePolite": {
+       "romaji": "ima no tokoro daijoubu desu.",
+       "ja": "今のところ大丈夫です。",
+       "english": "So far so good."
+      },
+      "freqRank": 2474,
+      "freqNote": "今のところ(いまのところ) #2474",
+      "spread": 4,
+      "reach": 3,
+      "speakNeed": 4,
+      "prereqs": [
+       "ima"
+      ],
+      "alsoIn": [],
+      "notes": "toriaezu is 'for now' for a stopgap action, while ima no tokoro describes how things stand."
+     },
+     {
+      "slug": "shibaraku",
+      "romaji": "shibaraku",
+      "polite": null,
+      "ja": "しばらく",
+      "kana": "しばらく",
+      "politeJa": null,
+      "english": "for a while",
+      "use": "Gives a vague stretch of time, short or long, without numbers (shibaraku matte, shibaraku aenai).",
+      "flags": [],
+      "contrastGroup": null,
+      "example": {
+       "romaji": "shibaraku isogashii n da.",
+       "ja": "しばらく忙しいんだ。",
+       "english": "I'll be busy for a while."
+      },
+      "examplePolite": {
+       "romaji": "shibaraku isogashii n desu.",
+       "ja": "しばらく忙しいんです。",
+       "english": "I'll be busy for a while."
+      },
+      "freqRank": 602,
+      "freqNote": "しばらく #602",
+      "spread": 4,
+      "reach": 4,
+      "speakNeed": 4,
+      "prereqs": [],
+      "alsoIn": [],
+      "notes": "For 'long time no see', friends say hisashiburi and the polite form is ohisashiburi desu (お久しぶり, #1495). shibaraku desu is an older, formal version: recognise it, but don't produce it."
+     }
+    ]
+   }
+  ],
+  "changelog": [
+   {
+    "slug": "asa",
+    "change": "Times of day interference rewritten (natural + nuance, major). kesa/konban are pinned to today; bare asa/yoru take their day from context; the greeting trap is now konban wa hima?, which sounds exactly like konbanwa. use: asa gohan -> asagohan, matching the joined compound spelling used elsewhere in the list."
+   },
+   {
+    "slug": "asa",
+    "change": "BLOCK PLACEMENT, NOT APPLIED HERE (nuance, major): only the additions are returned, so the merge must do this. Insert the four time-noun blocks (Times of day; Last, this, next week; Last, this, next month; Last, this, next year) directly after A1 'Now and nearby days', before 'Already, still, finally'. Keep 'So far, from now' last, after 'Until, by, while still'."
+   },
+   {
+    "slug": "hiru",
+    "change": "Example replaced (natural, major), because bare 昼 as a time adverb sounds off: now hiru made neteta / hiru made netemashita. english -> 'noon, daytime, lunch'. use now lists the set phrases bare hiru lives in (hiru made, hiru kara, hirusugi, hirugohan) and the casual 'lunch' sense. notes give ohiru ni for 'at lunchtime' and gogo (午後 #1394, verified) for the afternoon."
+   },
+   {
+    "slug": "yoru",
+    "change": "notes: ban is now described by its set words (konban, konbanwa, bangohan, maiban), and yuugata (夕方 #2124, verified) is added for late afternoon to dusk (natural + nuance). The form review's request to re-gloss the example as 'in the evening' was not applied: natural and nuance both confirm 'tonight' is correct, and the contradiction is fixed in the interference instead."
+   },
+   {
+    "slug": "kesa",
+    "change": "use corrected (nuance, major + natural): past tense comes from looking back, and non-past is fine while it is still morning (kesa wa samui ne). contrastGroup null -> kesa-konban. notes: added that it takes no ni, like kyou."
+   },
+   {
+    "slug": "konban",
+    "change": "notes: kon'ya -> konya, following the no-apostrophe convention (form + nuance). Added that plain kyou often covers tonight among friends (natural) and that last night is yuube (ゆうべ #2525, verified) (nuance). alsoIn: added the greetings (konbanwa) pointer. contrastGroup null -> kesa-konban."
+   },
+   {
+    "slug": "senshuu",
+    "change": "Week block interference: added the no-ni production trap (raishuu iku, not raishuu ni iku), with a note that shuumatsu can take ni or not (nuance, major)."
+   },
+   {
+    "slug": "konshuu",
+    "change": "Example softened to konshuu wa chotto isogashii n da / n desu (natural)."
+   },
+   {
+    "slug": "shuumatsu",
+    "change": "use: added -teru for habit (shuumatsu wa nani shiteru no?) (nuance). notes now give the one-word forms konshuumatsu and raishuumatsu (natural)."
+   },
+   {
+    "slug": "sengetsu",
+    "change": "The 6-item 'Months and years' block is split into 'Last, this, next month' and 'Last, this, next year' (nuance), chunking by meaning, as the existing 3-item A blocks do. The month interference carries the no-ni line."
+   },
+   {
+    "slug": "kyonen",
+    "change": "Fixed the vowel-length error (form, major): kyonen has a short kyo- (kyo-ne-n), not the long kyou. Dropped the 'not sennen' claim. Added sakunen (昨年 #5231, verified) as formal, for recognition only (natural). The year block interference is rewritten to match and repeats the no-ni line."
+   },
+   {
+    "slug": "kotoshi",
+    "change": "notes: the kon- reading turns up as konnendo (今年度, this fiscal year), replacing 'not konnen' (form)."
+   },
+   {
+    "slug": "ima-made",
+    "change": "Example completed with kedo (natural, major): ima made wa daijoubu datta n da kedo / n desu kedo. use: added ima made nani shiteta no? (nuance). Block interference now ties the sense of change to ima made wa + past. alsoIn: kotoba particles: made."
+   },
+   {
+    "slug": "kore-kara",
+    "change": "english -> 'from now (on), about to' (nuance). examplePolite.english -> 'What shall we do now?' so the subject matches the casual line (natural wording). freqNote now flags a likely tokenizer undercount. alsoIn: kotoba particles: kara."
+   },
+   {
+    "slug": "shibaraku",
+    "change": "notes rewritten (all three reviewers): the polite form of hisashiburi is ohisashiburi desu (お久しぶり #1495, verified). shibaraku desu is older and formal, so recognise it only."
+   }
+  ],
+  "dropped": [],
+  "cat": "A",
+  "reviewSummaries": [
+   "natural: All 19 additions belong and most examples sound native (kesa, the week, month and year sentences, konban, shuumatsu, ima no tokoro, kore kara). Four need real fixes: the hiru example (bare 昼 used as a time adverb sounds off), the ima-made example (cut off without けど), the Times-of-day interference line, which contradicts the block's own 'tonight' translation, and the shibaraku note presenting the dated shibaraku desu as the polite 'long time no see' (ohisashiburi desu). The rest is polish on notes and English. I checked every alsoIn pointer and frequency rank with the tool.",
+   "nuance: All 19 items earn a place and nothing needs cutting. Every freqRank matches the tool output, and the alsoIn pointers check out. Main problems: kesa's 'morning is over' reason is wrong; the Times of day interference contradicts its own 'tonight' example; the no-ni trap (*raishuu ni) is missing; and shibaraku's note mislabels shibaraku desu as the polite pair of hisashiburi (it should be ohisashiburi desu).\nStructure: the three plain time-noun blocks should go right after A1, not after the clause-timing patterns, and the 6-item Months and years block should be split. The rest is polish: ban/bangohan, yuube, a gogo gap, the lunch gloss for hiru, and gloss consistency.",
+   "form: The mechanical checks pass. All 19 romaji/kana/ja triples follow the convention, the examples match word for word, the polite pairs are correct, there are no duplicate slugs, the blocks hold 5/4/6/4 items, all 25 checked freqRanks match the tool exactly, all 16 checked alsoIn pointers are valid (10-list-nouns #96–99, utility-vocab times-of-day and relative-periods), and every prereq slug exists (ima, made, kore). Two content errors are worth fixing before merge. The yoru example renders bare yoru as 'tonight', which contradicts the block's own interference note. 'kyonen starts like kyou' misstates vowel length for an audio-first learner. The rest is polish: a kon'ya apostrophe, mismatched kore-kara English, kotoshi/shibaraku notes, missing particle pointers and an likely-undercounted これから note."
+  ]
+ },
+ {
+  "blocks": [
+   {
+    "label": "More enders",
+    "rationale": "Three endings built on items you already have: -te plus ne for a friendly ask, n da plus yo for an insistent reason, and darou, the plain form of deshou, for wondering aloud.",
+    "interference": "darou is the plain deshou, but in casual speech only its wondering uses (nan darou, daijoubu darou ka) are neutral, so say kamo for 'probably' and desho? for 'right?'. n da yo pushes a reason across where n da just explains, and -te ne assumes a yes where -te kurenai? asks.",
+    "items": [
+     {
+      "slug": "te-ne",
+      "romaji": "-te ne",
+      "polite": "-te kudasai ne",
+      "ja": "〜てね",
+      "kana": "〜てね",
+      "politeJa": "〜てくださいね",
+      "english": "do..., OK?",
+      "use": "Adds ne to a casual -te request so it sounds warm rather than bossy. It is the everyday way to ask or remind friends, family and kids (mata renraku shite ne, ki o tsukete ne). It assumes they'll go along, so it's a friendly instruction, not a question.",
+      "flags": [],
+      "contrastGroup": "request-ladder",
+      "example": {
+       "romaji": "gomen, chotto matte ne",
+       "ja": "ごめん、ちょっと待ってね",
+       "english": "Sorry, hang on a sec, OK?"
+      },
+      "examplePolite": {
+       "romaji": "sumimasen, chotto matte kudasai ne",
+       "ja": "すみません、ちょっと待ってくださいね",
+       "english": "Sorry, just a moment, please."
+      },
+      "freqRank": null,
+      "freqNote": "no usable rank — てね #24031 undercounts (tokenizer splits)",
+      "spread": 4,
+      "reach": 4,
+      "speakNeed": 4,
+      "prereqs": [
+       "te-request",
+       "ne"
+      ],
+      "alsoIn": [
+       "12-list-te-dependents #3",
+       "13-list-exit-battery #62",
+       "kotoba particles: ne"
+      ],
+      "notes": "-naide ne is the 'don't' version (wasurenaide ne). -te kudasai ne sounds like giving instructions, which is fine from staff or between coworkers but bossy to a superior, so ask them with -te moraemasu ka. Mid-story -te ne (kinou eki ni itte ne, ...) is just 'and then' plus ne, not a request."
+     },
+     {
+      "slug": "n-da-yo",
+      "romaji": "n da yo",
+      "polite": "n desu yo",
+      "ja": "んだよ",
+      "kana": "んだよ",
+      "politeJa": "んですよ",
+      "english": "it's that..., you see",
+      "use": "Gives the listener an explanation they don't have yet, with yo pushing it across: why something happened, news, or a correction. Everyone uses it. After a question word it turns into a rough, masculine rebuke (nani shiteru n da yo! = what the hell are you doing?), so recognise that one; the neutral version is nani shiteru no!?",
+      "flags": [],
+      "contrastGroup": "n-da",
+      "example": {
+       "romaji": "atama itai n da yo",
+       "ja": "頭痛いんだよ",
+       "english": "I've got a headache, that's why."
+      },
+      "examplePolite": {
+       "romaji": "atama ga itai n desu yo",
+       "ja": "頭が痛いんですよ",
+       "english": "I have a headache, you see."
+      },
+      "freqRank": 20,
+      "freqNote": "tokenizer splits; rank of んだ (んだよ not found)",
+      "spread": 4,
+      "reach": 5,
+      "speakNeed": 4,
+      "prereqs": [
+       "n-da",
+       "yo"
+      ],
+      "alsoIn": [
+       "13-list-exit-battery #93",
+       "kotoba particles: yo"
+      ],
+      "notes": "no yo (atama itai no yo) is the feminine version, now mostly heard from older women and in dramas; young women just say n da yo or no. Giving a superior an excuse with n desu yo sounds defensive; plain n desu is safer."
+     },
+     {
+      "slug": "darou",
+      "romaji": "darou",
+      "polite": "deshou",
+      "ja": "だろう",
+      "kana": "だろう",
+      "politeJa": "でしょう",
+      "english": "I wonder... (what / how / if)",
+      "use": "The plain form of deshou. Wondering aloud is neutral and everyone says it, whether with a question word (nan darou, dou darou, doko itta n darou) or with ka (daijoubu darou ka). As a falling 'probably' (ashita wa ame darou) or the rising tag daro? (right?), it sounds masculine and blunt, so most casual speakers say kamo (or tabun) for 'probably' and desho? for 'right?' instead.",
+      "flags": [
+       "masc"
+      ],
+      "contrastGroup": "kana-kke",
+      "example": {
+       "romaji": "kaigi itsu darou",
+       "ja": "会議いつだろう",
+       "english": "When's the meeting, I wonder?"
+      },
+      "examplePolite": {
+       "romaji": "kaigi wa itsu deshou ka",
+       "ja": "会議はいつでしょうか",
+       "english": "When is the meeting, I wonder?"
+      },
+      "freqRank": 102,
+      "freqNote": "#102 だろう (だろ #119; でしょう #147, which also counts casual でしょ)",
+      "spread": 3,
+      "reach": 5,
+      "speakNeed": 3,
+      "prereqs": [
+       "kana",
+       "desho"
+      ],
+      "alsoIn": [],
+      "notes": "dou darou on its own is a handy non-answer ('hmm, hard to say'). Polite deshou is neutral for everyone, whether as 'probably' (ame deshou) or as deshou ka (I wonder). In fast speech the wondering form is often just daro, said falling (itsu daro); that is neutral. Only the rising daro? (right?) is the masculine tag."
+     }
+    ]
+   },
+   {
+    "label": "Speaker-marking enders",
+    "rationale": "Variants of yo and ne that you'll hear constantly from friends and in dramas, each marking the speaker as young, male, rough, feminine or from Kansai. Mid-sentence sa is fine in moderation and yo na is normal if you're a man; zo and the rising wa are mostly for recognising, not copying.",
+    "interference": "zo and wa both take the place of yo: zo pushes, falling wa just announces your own move or reaction, and rising wa is the feminine one. sa fills pauses inside a sentence the way mid-sentence ne does, and yo na is simply a masculine yo ne.",
+    "items": [
+     {
+      "slug": "sa",
+      "romaji": "sa",
+      "polite": "desu ne",
+      "ja": "さ",
+      "kana": "さ",
+      "politeJa": "ですね",
+      "english": "like, you know (filler)",
+      "use": "Dropped after a phrase to hold the listener's attention while you talk (ano sa = hey, listen; kinou sa, ...). Both genders use it, younger speakers especially. At the end of a sentence it sounds offhand and leans masculine (nantoka naru sa = eh, it'll work out).",
+      "flags": [
+       "casual-only"
+      ],
+      "contrastGroup": null,
+      "example": {
+       "romaji": "kinou sa, tanaka-san ni atta n da",
+       "ja": "昨日さ、田中さんに会ったんだ",
+       "english": "So yesterday, I ran into Tanaka-san."
+      },
+      "examplePolite": {
+       "romaji": "kinou desu ne, tanaka-san ni atta n desu yo",
+       "ja": "昨日ですね、田中さんに会ったんですよ",
+       "english": "So yesterday, I ran into Tanaka-san."
+      },
+      "freqRank": 88,
+      "freqNote": "#88 さ, which may also count the noun suffix -sa split off words like 優しさ/大切さ (not found whole), so treat as an upper bound; さあ 'well' #263 is separate",
+      "spread": 4,
+      "reach": 5,
+      "speakNeed": 3,
+      "prereqs": [
+       "ne"
+      ],
+      "alsoIn": [],
+      "notes": "It replaces da, never follows it (sou sa, not *sou da sa). Tacked onto every phrase it sounds sloppy; mid-sentence ne does the same job more softly."
+     },
+     {
+      "slug": "yo-na",
+      "romaji": "yo na",
+      "polite": "desu yo ne",
+      "ja": "よな",
+      "kana": "よな",
+      "politeJa": "ですよね",
+      "english": "right? (masculine)",
+      "use": "The masculine counterpart of yo ne. It checks or agrees with something you both believe (sou da yo na = yeah, exactly). Men say it all the time with friends; women mostly say yo ne.",
+      "flags": [
+       "masc"
+      ],
+      "contrastGroup": "da-ka-ne-yo",
+      "example": {
+       "romaji": "ashita yasumi da yo na?",
+       "ja": "明日休みだよな？",
+       "english": "We're off tomorrow, right?"
+      },
+      "examplePolite": {
+       "romaji": "ashita wa yasumi desu yo ne?",
+       "ja": "明日は休みですよね？",
+       "english": "Tomorrow's a day off, right?"
+      },
+      "freqRank": null,
+      "freqNote": "no usable rank — よな #12379 undercounts (tokenizer splits)",
+      "spread": 3,
+      "reach": 5,
+      "speakNeed": 2,
+      "prereqs": [
+       "yo-ne",
+       "naa"
+      ],
+      "alsoIn": [
+       "kotoba particles: yo"
+      ],
+      "notes": "Said to yourself, it's a rueful 'yeah, I guess' (muri da yo na...). Polite speech has only desu yo ne, so the gender difference disappears."
+     },
+     {
+      "slug": "wa-ending",
+      "romaji": "wa",
+      "polite": "desu ne / -masu ne",
+      "ja": "わ",
+      "kana": "わ",
+      "politeJa": "ですね／〜ますね",
+      "english": "I'll..., then (falling, announcing) / soft assertion (rising, fem)",
+      "use": "Two endings that sound alike. Said falling, it announces your own decision or reaction (jaa, iku wa; muri da wa); it is Kansai, gender-neutral and now common among young people everywhere. Said rising, it is the soft feminine assertion of older women and drama characters, dated in real Tokyo speech.",
+      "flags": [
+       "fem",
+       "kansai",
+       "dated"
+      ],
+      "contrastGroup": "zo-wa",
+      "example": {
+       "romaji": "jaa, iku wa",
+       "ja": "じゃあ、行くわ",
+       "english": "Okay, I'm off, then. (falling wa)"
+      },
+      "examplePolite": {
+       "romaji": "jaa, ikimasu ne",
+       "ja": "じゃあ、行きますね",
+       "english": "Okay, I'll be off, then."
+      },
+      "freqRank": 75,
+      "freqNote": "#75 わ, which merges rising (feminine) and falling (Kansai / neutral) wa (わよ #489, わね #647)",
+      "spread": 3,
+      "reach": 5,
+      "speakNeed": 2,
+      "prereqs": [
+       "yo"
+      ],
+      "alsoIn": [],
+      "notes": "Polite speech drops it (jaa, ikimasu ne; muri desu ne), though Kansai speakers keep it (ikimasu wa). It is unrelated to the topic particle wa (kore wa). Record and drill only the falling wa; the rising one is the feminine wa."
+     },
+     {
+      "slug": "zo",
+      "romaji": "zo",
+      "polite": "desu yo / -masu yo",
+      "ja": "ぞ",
+      "kana": "ぞ",
+      "politeJa": "ですよ／〜ますよ",
+      "english": "I'm telling you! (rough)",
+      "use": "A forceful masculine yo for warnings, rallying a group and announcements (abunai zo!, iku zo!). You hear it constantly from fathers, coaches, bosses and drama heroes; recognise it, but say yo.",
+      "flags": [
+       "rough",
+       "masc"
+      ],
+      "contrastGroup": "zo-wa",
+      "example": {
+       "romaji": "jaa, iku zo",
+       "ja": "じゃあ、行くぞ",
+       "english": "Okay, we're going. Come on!"
+      },
+      "examplePolite": {
+       "romaji": "jaa, ikimasu yo",
+       "ja": "じゃあ、行きますよ",
+       "english": "Okay, we're going now."
+      },
+      "freqRank": 82,
+      "freqNote": "#82 ぞ",
+      "spread": 3,
+      "reach": 4,
+      "speakNeed": 1,
+      "prereqs": [
+       "yo"
+      ],
+      "alsoIn": [],
+      "notes": "Pepping yourself up (yoshi, ganbaru zo) is the mildest use, and women say that too. ze (ikou ze, yatta ze) is its swaggering cousin, always aimed at a buddy and never said to yourself; most men only say it jokingly."
+     }
+    ]
+   }
+  ],
+  "changelog": [
+   {
+    "slug": "block: More enders",
+    "change": "Not dissolved into F2/F3/F4 (nuance, major). This step cannot do it: additions are appended as their own blocks (merge.py) and existing blocks must not be rewritten. Kept as a 3-item block. Place it after F5 in course order so that n-da, kana, te-request and desho all come before it. Interference now names the neutral darou ka use and pairs kamo with 'probably' and desho? with 'right?'."
+   },
+   {
+    "slug": "block: Mostly heard",
+    "change": "Renamed to 'Speaker-marking enders' (nuance; the old label described how to treat the items and was easy to confuse with F8 'Seems / I heard'). New rationale says mid-sentence sa is fine in moderation, yo na is normal for men, and zo and rising wa are mostly for recognising (natural + nuance). Removed ze from the interference line."
+   },
+   {
+    "slug": "te-ne",
+    "change": "Notes: -te kudasai ne is an instructing tone (fine from staff or between coworkers, bossy to a superior), and added the audio trap of mid-story -te ne (kinou eki ni itte ne, ...). alsoIn: added 13-list-exit-battery #62."
+   },
+   {
+    "slug": "n-da-yo",
+    "change": "Use: the question-word rebuke (nani shiteru n da yo!) is now marked rough and masculine, with nani shiteru no!? as the neutral version. Notes: no yo is now plainly feminine and mostly heard from older women and in dramas (merged natural + nuance wording). Added that n desu yo as an excuse to a superior sounds defensive. Dropped the na n da yo line, which F2 already covers."
+   },
+   {
+    "slug": "darou",
+    "change": "english is now 'I wonder... (what / how / if)', so the gloss no longer promotes the masculine 'probably'. contrastGroup is now kana-kke (natural + nuance; form's 'certainty' overruled on meaning). The example now uses the group's base sentence: kaigi itsu darou / kaigi wa itsu deshou ka. This also replaces the quiz-host 'kore wa nan deshou ne'. Use: wondering with ka (daijoubu darou ka) is neutral, and the replacements are paired: kamo/tabun for 'probably', desho? for 'right?'. Notes: falling daro (itsu daro) is neutral; only the rising daro? is the masculine tag. freqNote: でしょう #147 also counts casual でしょ (でしょ alone is #43859). Prereqs stay [kana, desho]: nuance dropped desho only because the item was moving into F3, which did not happen, and the use line points to desho?."
+   },
+   {
+    "slug": "sa",
+    "change": "Use: replaced the weak 'dakara sa!' with nantoka naru sa, and the sentence-final use now reads as offhand. example.english now keeps -san (Tanaka-san), matching the Japanese. freqNote: #88 may include the -sa noun suffix (優しさ/大切さ not found whole), so it is an upper bound."
+   },
+   {
+    "slug": "yo-na",
+    "change": "Notes: replaced the line repeating naa's notes with the self-directed rueful use (muri da yo na...)."
+   },
+   {
+    "slug": "wa-ending",
+    "change": "english: leads with the falling announcing wa and keeps the rising feminine one second (form wording, matching the natural and nuance intent). Use reordered so the falling form comes first. flags: added 'dated'. example.english tagged '(falling wa)', and notes say to record and drill only the falling wa. speakNeed 1 -> 2. polite changed from 'desu / -masu' to the functional counterpart 'desu ne / -masu ne'. This settles the conflict between nuance (desu/-masu is not a counterpart) and natural + form (add a polite example). examplePolite: jaa, ikimasu ne. freqNote: the rank merges rising (feminine) and falling (Kansai / neutral) wa. contrastGroup zo-ze-wa -> zo-wa."
+   },
+   {
+    "slug": "zo",
+    "change": "examplePolite added: jaa, ikimasu yo (all three reviewers). contrastGroup zo-ze-wa -> zo-wa. Notes now cover ze as a recognition pointer: swaggering cousin, aimed at a buddy, mostly said jokingly."
+   }
+  ],
+  "dropped": [
+   {
+    "slug": "ze",
+    "reason": "Cut by two reviewers (natural, nuance). Drama rank #614 (far below zo #82 and wa #75), spread 2, speakNeed 1, and speakers mostly use it jokingly or in anime voices. A recorded card would invite the learner to produce it. Recognition is covered by a line in zo's notes."
+   }
+  ],
+  "cat": "F",
+  "reviewSummaries": [
+   "natural: All eight casual examples are things people really say, and the jaa, iku wa / zo / ze set is a good audio contrast. The one serious problem is wa-ending: its English gloss describes the feminine/Kansai use, but the example and the recommended use are the neutral falling wa. Smaller fixes: fill the missing polite examples (wa, zo), tighten the darou, sa and no yo notes, and soften the \"don't copy\" wording of the Mostly heard block. ze should be folded into zo's notes rather than kept as its own card. Frequency ranks match the tool output (てね #24031, んだ #20, だろう #102, さ #88, よな #12379, わ #75, ぞ #82, ぜ #614), and the alsoIn pointers check out.",
+   "nuance: All 8 freqRanks match the tool output, and the alsoIn pointers check out. Overall: dissolve the 3-item 'More enders' grab-bag into F2/F3/F4 (each then has 5 items), and cut ze. Item fixes:\n- darou: give it a kana-kke contrastGroup and a base sentence that matches the group.\n- n da yo: warn that the question-word rebuke (nani shiteru n da yo!) is rough and masculine.\n- wa: rewrite the gloss around the falling 'announcing' wa, add the 'dated' flag, and set polite to null.\n- zo: add a polite example.\n- Notes on te-ne, yo-na and n-da-yo, plus the 'Mostly heard' label, need polishing.",
+   "form: The form is clean overall. All 13 example romaji/ja pairs match word for word and the kana and polite pairs agree. All 13 cited ranks match the frequency tool (plus 12 more spot checks). All 5 alsoIn pointers are real (12-te #3, 13-battery #93, kotoba ne/yo). All prereqs name real F slugs, there are no duplicate slugs, and the blocks have 3 and 5 items.\nThe one real risk: wa-ending's example must be recorded falling, and nothing in the data says so. The other fixes are smaller. wa, zo and ze have polite values but no polite example (the only such items in the list), and ze's polite field should also cover desu yo. Then there are freqNote fixes (さ may count the noun suffix -sa; でしょう #147 also counts でしょ), darou's missing contrastGroup and its 'probably'/'right?' wording, and one missed pointer.\nNote: result.json's cuts already contain F-sa (1 vote), so this draft re-adds an item that was cut earlier."
+  ]
+ }
+]

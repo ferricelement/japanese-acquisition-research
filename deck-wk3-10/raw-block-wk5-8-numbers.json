@@ -1,0 +1,3108 @@
+{
+ "block": "C",
+ "weeks": "5-8 (runs parallel to blocks B and D; gated on the week 1-2 perception block, not on grammar). ~20-25 min/day inside the 90-100 min budget. 175 items, ~9 new items/day.",
+ "items": [
+  {
+   "n": 1,
+   "romaji": "ichi",
+   "accent": "[2]",
+   "gloss": "one",
+   "pos": "numeral",
+   "cardType": "RECOG",
+   "audioText": "ichi"
+  },
+  {
+   "n": 2,
+   "romaji": "ni",
+   "accent": "[1]",
+   "gloss": "two",
+   "pos": "numeral",
+   "cardType": "RECOG",
+   "audioText": "ni"
+  },
+  {
+   "n": 3,
+   "romaji": "san",
+   "accent": "[1]",
+   "gloss": "three",
+   "pos": "numeral",
+   "cardType": "RECOG",
+   "audioText": "san",
+   "note": "2 morae: sa-N. The N is a full beat."
+  },
+  {
+   "n": 4,
+   "romaji": "yon",
+   "accent": "[1]",
+   "gloss": "four (default form)",
+   "pos": "numeral",
+   "cardType": "PROD",
+   "audioText": "yon",
+   "note": "wago. This is the form you say when counting or when nothing forces shi."
+  },
+  {
+   "n": 5,
+   "romaji": "go",
+   "accent": "[1]",
+   "gloss": "five",
+   "pos": "numeral",
+   "cardType": "RECOG",
+   "audioText": "go"
+  },
+  {
+   "n": 6,
+   "romaji": "roku",
+   "accent": "[2]",
+   "gloss": "six",
+   "pos": "numeral",
+   "cardType": "RECOG",
+   "audioText": "roku"
+  },
+  {
+   "n": 7,
+   "romaji": "nana",
+   "accent": "[1]",
+   "gloss": "seven (default form)",
+   "pos": "numeral",
+   "cardType": "PROD",
+   "audioText": "nana"
+  },
+  {
+   "n": 8,
+   "romaji": "hachi",
+   "accent": "[2]",
+   "gloss": "eight",
+   "pos": "numeral",
+   "cardType": "RECOG",
+   "audioText": "hachi"
+  },
+  {
+   "n": 9,
+   "romaji": "kyuu",
+   "accent": "[1]",
+   "gloss": "nine (default form)",
+   "pos": "numeral",
+   "cardType": "PROD",
+   "audioText": "kyuu",
+   "note": "2 morae: kyu-u. kyu is ONE mora (yoon), the second u is the second beat."
+  },
+  {
+   "n": 10,
+   "romaji": "juu",
+   "accent": "[1]",
+   "gloss": "ten",
+   "pos": "numeral",
+   "cardType": "RECOG",
+   "audioText": "juu",
+   "note": "2 morae. Never *ju."
+  },
+  {
+   "n": 11,
+   "romaji": "shi",
+   "accent": "[1]",
+   "gloss": "four (bound variant)",
+   "pos": "numeral",
+   "cardType": "RECOG",
+   "audioText": "shi",
+   "note": "Survives only in fixed slots: shigatsu, shichi. Never volunteer it for a count."
+  },
+  {
+   "n": 12,
+   "romaji": "shichi",
+   "accent": "[1]",
+   "gloss": "seven (bound variant)",
+   "pos": "numeral",
+   "cardType": "RECOG",
+   "audioText": "shichi",
+   "note": "Obligatory in shichiji, shichigatsu. Easily misheard as ichi on the phone; ree-tokens and nana exist because of this."
+  },
+  {
+   "n": 13,
+   "romaji": "ku",
+   "accent": "[1]",
+   "gloss": "nine (bound variant)",
+   "pos": "numeral",
+   "cardType": "RECOG",
+   "audioText": "ku",
+   "note": "Obligatory in kuji, kugatsu. Never *kyuuji, never *kyuugatsu."
+  },
+  {
+   "n": 14,
+   "romaji": "zero",
+   "accent": "[1]",
+   "gloss": "zero",
+   "pos": "numeral",
+   "cardType": "RECOG",
+   "audioText": "zero"
+  },
+  {
+   "n": 15,
+   "romaji": "ree",
+   "accent": "[1]",
+   "gloss": "zero (formal, phone numbers)",
+   "pos": "numeral",
+   "cardType": "RECOG",
+   "audioText": "ree",
+   "note": "NOT rei. Two beats, both /e/."
+  },
+  {
+   "n": 16,
+   "romaji": "ichi ni san yon go roku nana hachi kyuu juu",
+   "accent": "-",
+   "gloss": "count 1-10, default forms",
+   "pos": "chunk",
+   "cardType": "CHUNK",
+   "audioText": "ichi ni san yon go roku nana hachi kyuu juu",
+   "note": "Run against a beat. ichi/roku/hachi are 2 morae with a short vowel; san/kyuu/juu are 2 morae with a special mora. Ten even beats, no rushing."
+  },
+  {
+   "n": 17,
+   "romaji": "juu kyuu hachi nana roku go yon san ni ichi",
+   "accent": "-",
+   "gloss": "count 10-1 backwards",
+   "pos": "chunk",
+   "cardType": "CHUNK",
+   "audioText": "juu kyuu hachi nana roku go yon san ni ichi",
+   "note": "Backwards is the real test that the digits are individually retrievable and not one memorised ribbon."
+  },
+  {
+   "n": 18,
+   "romaji": "ichi ni san shi go roku shichi hachi ku juu",
+   "accent": "-",
+   "gloss": "count 1-10, traditional forms",
+   "pos": "chunk",
+   "cardType": "CHUNK",
+   "audioText": "ichi ni san shi go roku shichi hachi ku juu",
+   "note": "RECOG only. You will hear this one; you say chant 16."
+  },
+  {
+   "n": 19,
+   "romaji": "juuichi",
+   "accent": "[4]",
+   "gloss": "eleven",
+   "pos": "numeral",
+   "cardType": "PROD",
+   "audioText": "juuichi",
+   "note": "Additive: juu + digit. No sound change anywhere in 11-19."
+  },
+  {
+   "n": 20,
+   "romaji": "juuni",
+   "accent": "[1]",
+   "gloss": "twelve",
+   "pos": "numeral",
+   "cardType": "PROD",
+   "audioText": "juuni"
+  },
+  {
+   "n": 21,
+   "romaji": "juuyon",
+   "accent": "[1]",
+   "gloss": "fourteen",
+   "pos": "numeral",
+   "cardType": "PROD",
+   "audioText": "juuyon",
+   "note": "juushi exists but is avoided; say juuyon."
+  },
+  {
+   "n": 22,
+   "romaji": "juunana",
+   "accent": "[1]",
+   "gloss": "seventeen",
+   "pos": "numeral",
+   "cardType": "PROD",
+   "audioText": "juunana"
+  },
+  {
+   "n": 23,
+   "romaji": "juukyuu",
+   "accent": "[1]",
+   "gloss": "nineteen",
+   "pos": "numeral",
+   "cardType": "PROD",
+   "audioText": "juukyuu"
+  },
+  {
+   "n": 24,
+   "romaji": "nijuu",
+   "accent": "[1]",
+   "gloss": "twenty",
+   "pos": "numeral",
+   "cardType": "PROD",
+   "audioText": "nijuu",
+   "note": "Multiplicative: digit + juu. 20-90 is one clean pattern with zero exceptions."
+  },
+  {
+   "n": 25,
+   "romaji": "sanjuu",
+   "accent": "[1]",
+   "gloss": "thirty",
+   "pos": "numeral",
+   "cardType": "PROD",
+   "audioText": "sanjuu"
+  },
+  {
+   "n": 26,
+   "romaji": "yonjuu",
+   "accent": "[1]",
+   "gloss": "forty",
+   "pos": "numeral",
+   "cardType": "PROD",
+   "audioText": "yonjuu",
+   "note": "Never *shijuu in modern counting."
+  },
+  {
+   "n": 27,
+   "romaji": "gojuu",
+   "accent": "[1]",
+   "gloss": "fifty",
+   "pos": "numeral",
+   "cardType": "PROD",
+   "audioText": "gojuu"
+  },
+  {
+   "n": 28,
+   "romaji": "rokujuu",
+   "accent": "[1]",
+   "gloss": "sixty",
+   "pos": "numeral",
+   "cardType": "PROD",
+   "audioText": "rokujuu"
+  },
+  {
+   "n": 29,
+   "romaji": "nanajuu",
+   "accent": "[1]",
+   "gloss": "seventy",
+   "pos": "numeral",
+   "cardType": "PROD",
+   "audioText": "nanajuu"
+  },
+  {
+   "n": 30,
+   "romaji": "hachijuu",
+   "accent": "[1]",
+   "gloss": "eighty",
+   "pos": "numeral",
+   "cardType": "PROD",
+   "audioText": "hachijuu"
+  },
+  {
+   "n": 31,
+   "romaji": "kyuujuu",
+   "accent": "[1]",
+   "gloss": "ninety",
+   "pos": "numeral",
+   "cardType": "PROD",
+   "audioText": "kyuujuu"
+  },
+  {
+   "n": 32,
+   "romaji": "nijuugo",
+   "accent": "[1]",
+   "gloss": "twenty-five",
+   "pos": "numeral",
+   "cardType": "PROD",
+   "audioText": "nijuugo",
+   "note": "Exemplar: tens then units, no linker. 99 = kyuujuukyuu."
+  },
+  {
+   "n": 33,
+   "romaji": "hyaku",
+   "accent": "[2]",
+   "gloss": "one hundred",
+   "pos": "numeral",
+   "cardType": "PROD",
+   "audioText": "hyaku",
+   "note": "hya is ONE mora. hyaku = 2 morae, not 3. Never *ichihyaku."
+  },
+  {
+   "n": 34,
+   "romaji": "nihyaku",
+   "accent": "[1]",
+   "gloss": "two hundred",
+   "pos": "numeral",
+   "cardType": "PROD",
+   "audioText": "nihyaku"
+  },
+  {
+   "n": 35,
+   "romaji": "sanbyaku",
+   "accent": "[1]",
+   "gloss": "three hundred",
+   "pos": "numeral",
+   "cardType": "PROD",
+   "audioText": "sanbyaku",
+   "note": "Nasal-triggered voicing: N + hy -> by. Same phonology as sanbon, sanbiki, sanbai."
+  },
+  {
+   "n": 36,
+   "romaji": "gohyaku",
+   "accent": "[1]",
+   "gloss": "five hundred",
+   "pos": "numeral",
+   "cardType": "PROD",
+   "audioText": "gohyaku"
+  },
+  {
+   "n": 37,
+   "romaji": "roppyaku",
+   "accent": "[4]",
+   "gloss": "six hundred",
+   "pos": "numeral",
+   "cardType": "PROD",
+   "audioText": "roppyaku",
+   "note": "Obstruent-triggered gemination: roku + hyaku -> roppyaku. 4 morae: ro-Q-pya-ku."
+  },
+  {
+   "n": 38,
+   "romaji": "happyaku",
+   "accent": "[4]",
+   "gloss": "eight hundred",
+   "pos": "numeral",
+   "cardType": "PROD",
+   "audioText": "happyaku",
+   "note": "hachi + hyaku -> happyaku. 4 morae: ha-Q-pya-ku."
+  },
+  {
+   "n": 39,
+   "romaji": "sen",
+   "accent": "[1]",
+   "gloss": "one thousand",
+   "pos": "numeral",
+   "cardType": "PROD",
+   "audioText": "sen",
+   "note": "Never *ichisen for a bare 1000 (ichisen appears only inside larger numbers)."
+  },
+  {
+   "n": 40,
+   "romaji": "nisen",
+   "accent": "[1]",
+   "gloss": "two thousand",
+   "pos": "numeral",
+   "cardType": "PROD",
+   "audioText": "nisen"
+  },
+  {
+   "n": 41,
+   "romaji": "sanzen",
+   "accent": "[1]",
+   "gloss": "three thousand",
+   "pos": "numeral",
+   "cardType": "PROD",
+   "audioText": "sanzen",
+   "note": "N + s -> z. Same nasal voicing as sanbyaku, different consonant."
+  },
+  {
+   "n": 42,
+   "romaji": "hassen",
+   "accent": "[3]",
+   "gloss": "eight thousand",
+   "pos": "numeral",
+   "cardType": "PROD",
+   "audioText": "hassen",
+   "note": "hachi + sen -> hassen. Geminate ss, 4 morae: ha-Q-se-N. Contrast happyaku."
+  },
+  {
+   "n": 43,
+   "romaji": "ichiman",
+   "accent": "[3]",
+   "gloss": "ten thousand",
+   "pos": "numeral",
+   "cardType": "PROD",
+   "audioText": "ichiman",
+   "note": "THE MYRIAD BREAK. Japanese regroups every FOUR digits, not three. 10,000 is ichiman, never *juusen. And the ichi is obligatory: never bare *man. 100,000 = juuman, 1,000,000 = hyakuman."
+  },
+  {
+   "n": 44,
+   "romaji": "hitotsu",
+   "accent": "[2]",
+   "gloss": "one (thing)",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "hitotsu"
+  },
+  {
+   "n": 45,
+   "romaji": "futatsu",
+   "accent": "[3]",
+   "gloss": "two (things)",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "futatsu",
+   "note": "hito-/futa- is the same wago pair as hitori/futari."
+  },
+  {
+   "n": 46,
+   "romaji": "mittsu",
+   "accent": "[3]",
+   "gloss": "three (things)",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "mittsu",
+   "note": "Geminate. mi + tsu -> mittsu. 3 morae: mi-Q-tsu."
+  },
+  {
+   "n": 47,
+   "romaji": "yottsu",
+   "accent": "[3]",
+   "gloss": "four (things)",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "yottsu"
+  },
+  {
+   "n": 48,
+   "romaji": "itsutsu",
+   "accent": "[2]",
+   "gloss": "five (things)",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "itsutsu",
+   "note": "NO geminate here. itsutsu, not *ittsu. The odd one out in the run mittsu-yottsu-itsutsu-muttsu."
+  },
+  {
+   "n": 49,
+   "romaji": "muttsu",
+   "accent": "[3]",
+   "gloss": "six (things)",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "muttsu"
+  },
+  {
+   "n": 50,
+   "romaji": "nanatsu",
+   "accent": "[2]",
+   "gloss": "seven (things)",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "nanatsu",
+   "note": "No geminate."
+  },
+  {
+   "n": 51,
+   "romaji": "yattsu",
+   "accent": "[3]",
+   "gloss": "eight (things)",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "yattsu"
+  },
+  {
+   "n": 52,
+   "romaji": "kokonotsu",
+   "accent": "[2]",
+   "gloss": "nine (things)",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "kokonotsu",
+   "note": "5 morae. The longest counter word you will meet; do not clip it."
+  },
+  {
+   "n": 53,
+   "romaji": "too",
+   "accent": "[1]",
+   "gloss": "ten (things)",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "too",
+   "note": "Breaks the series: NOT *tootsu, NOT *tokoo. Two morae, one long o. Past ten the -tsu series stops and you switch to juu + a real counter."
+  },
+  {
+   "n": 54,
+   "romaji": "ikutsu",
+   "accent": "[1]",
+   "gloss": "how many (things)?",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "ikutsu"
+  },
+  {
+   "n": 55,
+   "romaji": "hitotsu futatsu mittsu yottsu itsutsu muttsu nanatsu yattsu kokonotsu too",
+   "accent": "-",
+   "gloss": "the -tsu chant",
+   "pos": "chunk",
+   "cardType": "CHUNK",
+   "audioText": "hitotsu futatsu mittsu yottsu itsutsu muttsu nanatsu yattsu kokonotsu too",
+   "note": "THE ESCAPE HATCH. -tsu counts almost any concrete inanimate thing up to ten. Owning this chant makes the entire counter tail droppable: if you cannot retrieve -ko, -hon or -mai in time, say the -tsu form and you are still correct-sounding."
+  },
+  {
+   "n": 56,
+   "romaji": "hitori",
+   "accent": "[2]",
+   "gloss": "one person",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "hitori",
+   "note": "Also means 'alone'."
+  },
+  {
+   "n": 57,
+   "romaji": "futari",
+   "accent": "[3]",
+   "gloss": "two people",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "futari"
+  },
+  {
+   "n": 58,
+   "romaji": "sannin",
+   "accent": "[3]",
+   "gloss": "three people",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "sannin",
+   "note": "4 morae: sa-N-ni-N. Two separate nasal beats; do not merge them."
+  },
+  {
+   "n": 59,
+   "romaji": "yonin",
+   "accent": "[2]",
+   "gloss": "four people",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "yonin",
+   "note": "THE REAL IRREGULAR. yo-nin, 3 morae. NOT *yonnin, NOT *yonin with a doubled n. Compare yoji, which drops the n the same way."
+  },
+  {
+   "n": 60,
+   "romaji": "gonin",
+   "accent": "[2]",
+   "gloss": "five people",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "gonin"
+  },
+  {
+   "n": 61,
+   "romaji": "rokunin",
+   "accent": "[2]",
+   "gloss": "six people",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "rokunin",
+   "note": "No gemination: -nin does not trigger it. rokunin, not *rokunnin."
+  },
+  {
+   "n": 62,
+   "romaji": "nannin",
+   "accent": "[1]",
+   "gloss": "how many people?",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "nannin",
+   "note": "4 morae: na-N-ni-N."
+  },
+  {
+   "n": 63,
+   "romaji": "ikko",
+   "accent": "[1]",
+   "gloss": "one piece/unit",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "ikko",
+   "note": "ichi + ko -> ikko. Geminate."
+  },
+  {
+   "n": 64,
+   "romaji": "niko",
+   "accent": "[1]",
+   "gloss": "two pieces",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "niko"
+  },
+  {
+   "n": 65,
+   "romaji": "sanko",
+   "accent": "[1]",
+   "gloss": "three pieces",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "sanko",
+   "note": "No voicing: -ko starts with k, which the nasal does not voice here. sanko, not *sango."
+  },
+  {
+   "n": 66,
+   "romaji": "rokko",
+   "accent": "[1]",
+   "gloss": "six pieces",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "rokko",
+   "note": "roku + ko -> rokko."
+  },
+  {
+   "n": 67,
+   "romaji": "nanko",
+   "accent": "[1]",
+   "gloss": "how many pieces?",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "nanko"
+  },
+  {
+   "n": 68,
+   "romaji": "ippon",
+   "accent": "[1]",
+   "gloss": "one long thin thing",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "ippon",
+   "note": "ichi + hon -> ippon. 4 morae: i-Q-po-N."
+  },
+  {
+   "n": 69,
+   "romaji": "nihon",
+   "accent": "[1]",
+   "gloss": "two long thin things",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "nihon",
+   "note": "MINIMAL PAIR WITH ACCENT ONLY: nihon [1] = two bottles; Nihon [2] = Japan. Same segments, different drop. This is why accent is on every card."
+  },
+  {
+   "n": 70,
+   "romaji": "sanbon",
+   "accent": "[1]",
+   "gloss": "three long thin things",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "sanbon",
+   "note": "N + h -> b."
+  },
+  {
+   "n": 71,
+   "romaji": "yonhon",
+   "accent": "[1]",
+   "gloss": "four long thin things",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "yonhon",
+   "note": "Stays h. yon does not trigger voicing even though it ends in n."
+  },
+  {
+   "n": 72,
+   "romaji": "gohon",
+   "accent": "[1]",
+   "gloss": "five long thin things",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "gohon"
+  },
+  {
+   "n": 73,
+   "romaji": "roppon",
+   "accent": "[1]",
+   "gloss": "six long thin things",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "roppon",
+   "note": "roku + hon -> roppon."
+  },
+  {
+   "n": 74,
+   "romaji": "nanbon",
+   "accent": "[1]",
+   "gloss": "how many long thin things?",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "nanbon"
+  },
+  {
+   "n": 75,
+   "romaji": "ichimai",
+   "accent": "[2]",
+   "gloss": "one flat thing",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "ichimai",
+   "note": "-mai is the easy series: NO sound changes at all in 1-10. Use it as the rest cell."
+  },
+  {
+   "n": 76,
+   "romaji": "nimai",
+   "accent": "[1]",
+   "gloss": "two flat things",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "nimai"
+  },
+  {
+   "n": 77,
+   "romaji": "sanmai",
+   "accent": "[1]",
+   "gloss": "three flat things",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "sanmai"
+  },
+  {
+   "n": 78,
+   "romaji": "rokumai",
+   "accent": "[1]",
+   "gloss": "six flat things",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "rokumai",
+   "note": "rokumai, NOT *rokkumai. -mai never geminates."
+  },
+  {
+   "n": 79,
+   "romaji": "nanmai",
+   "accent": "[1]",
+   "gloss": "how many flat things?",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "nanmai"
+  },
+  {
+   "n": 80,
+   "romaji": "ippiki",
+   "accent": "[1]",
+   "gloss": "one small animal",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "ippiki",
+   "note": "Same p/b/h alternation as -hon, on a different base."
+  },
+  {
+   "n": 81,
+   "romaji": "nihiki",
+   "accent": "[1]",
+   "gloss": "two small animals",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "nihiki"
+  },
+  {
+   "n": 82,
+   "romaji": "sanbiki",
+   "accent": "[1]",
+   "gloss": "three small animals",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "sanbiki"
+  },
+  {
+   "n": 83,
+   "romaji": "roppiki",
+   "accent": "[1]",
+   "gloss": "six small animals",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "roppiki"
+  },
+  {
+   "n": 84,
+   "romaji": "nanbiki",
+   "accent": "[1]",
+   "gloss": "how many small animals?",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "nanbiki"
+  },
+  {
+   "n": 85,
+   "romaji": "ippai",
+   "accent": "[1]",
+   "gloss": "one cupful/glassful",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "ippai",
+   "note": "Third instance of the same p/b/h series. Once -hon is automatic, -hiki and -hai cost almost nothing."
+  },
+  {
+   "n": 86,
+   "romaji": "nihai",
+   "accent": "[1]",
+   "gloss": "two cupfuls",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "nihai"
+  },
+  {
+   "n": 87,
+   "romaji": "sanbai",
+   "accent": "[1]",
+   "gloss": "three cupfuls",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "sanbai",
+   "note": "Homophone with sanbai 'threefold' [0]; they differ by accent. Keep 'threefold' out of the deck for now."
+  },
+  {
+   "n": 88,
+   "romaji": "roppai",
+   "accent": "[1]",
+   "gloss": "six cupfuls",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "roppai"
+  },
+  {
+   "n": 89,
+   "romaji": "nanbai",
+   "accent": "[1]",
+   "gloss": "how many cupfuls?",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "nanbai"
+  },
+  {
+   "n": 90,
+   "romaji": "ikkai",
+   "accent": "[1]",
+   "gloss": "first floor",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "ikkai"
+  },
+  {
+   "n": 91,
+   "romaji": "nikai",
+   "accent": "[1]",
+   "gloss": "second floor",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "nikai"
+  },
+  {
+   "n": 92,
+   "romaji": "sangai",
+   "accent": "[1]",
+   "gloss": "third floor",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "sangai",
+   "note": "THE ONE FLOOR IRREGULAR: N + k -> g. sangai, not *sankai. Everything else in the floor series keeps k."
+  },
+  {
+   "n": 93,
+   "romaji": "yonkai",
+   "accent": "[1]",
+   "gloss": "fourth floor",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "yonkai"
+  },
+  {
+   "n": 94,
+   "romaji": "rokkai",
+   "accent": "[1]",
+   "gloss": "sixth floor",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "rokkai"
+  },
+  {
+   "n": 95,
+   "romaji": "nangai",
+   "accent": "[1]",
+   "gloss": "which floor?",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "nangai"
+  },
+  {
+   "n": 96,
+   "romaji": "sankai",
+   "accent": "[1]",
+   "gloss": "three times",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "sankai",
+   "note": "THE PAYOFF CONTRAST: sangai = 3rd floor, sankai = 3 times. Identical except the g/k, and that one consonant is the whole meaning."
+  },
+  {
+   "n": 97,
+   "romaji": "rokkai",
+   "accent": "[1]",
+   "gloss": "six times",
+   "pos": "counter",
+   "cardType": "RECOG",
+   "audioText": "rokkai",
+   "note": "Fully homophonous with rokkai '6th floor'. Context alone disambiguates - which is fine, and worth saying out loud so it stops feeling like a mistake."
+  },
+  {
+   "n": 98,
+   "romaji": "nankai",
+   "accent": "[1]",
+   "gloss": "how many times?",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "nankai"
+  },
+  {
+   "n": 99,
+   "romaji": "juuen",
+   "accent": "[1]",
+   "gloss": "ten yen",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "juuen"
+  },
+  {
+   "n": 100,
+   "romaji": "hyakuen",
+   "accent": "[3]",
+   "gloss": "one hundred yen",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "hyakuen"
+  },
+  {
+   "n": 101,
+   "romaji": "hyakugojuuen",
+   "accent": "-",
+   "gloss": "one hundred fifty yen",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "hyakugojuuen",
+   "note": "Assembly exemplar: hundreds, then tens, then -en, no pauses and no linkers."
+  },
+  {
+   "n": 102,
+   "romaji": "gohyakuen",
+   "accent": "[3]",
+   "gloss": "five hundred yen",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "gohyakuen"
+  },
+  {
+   "n": 103,
+   "romaji": "sen'en",
+   "accent": "[3]",
+   "gloss": "one thousand yen",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "sen'en",
+   "note": "SYLLABIC N BEFORE A VOWEL: written sen'en, four morae se-N-e-N. The N is its own beat and does NOT slur into the e. *senen would be three morae and wrong."
+  },
+  {
+   "n": 104,
+   "romaji": "ichiman'en",
+   "accent": "[5]",
+   "gloss": "ten thousand yen",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "ichiman'en",
+   "note": "Again n' before a vowel. 6 morae: i-chi-ma-N-e-N. The commonest banknote; you will hear it constantly."
+  },
+  {
+   "n": 105,
+   "romaji": "ikura",
+   "accent": "[1]",
+   "gloss": "how much (money)?",
+   "pos": "interrogative",
+   "cardType": "PROD",
+   "audioText": "ikura"
+  },
+  {
+   "n": 106,
+   "romaji": "ichiji",
+   "accent": "[2]",
+   "gloss": "one o'clock",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "ichiji"
+  },
+  {
+   "n": 107,
+   "romaji": "niji",
+   "accent": "[1]",
+   "gloss": "two o'clock",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "niji"
+  },
+  {
+   "n": 108,
+   "romaji": "sanji",
+   "accent": "[1]",
+   "gloss": "three o'clock",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "sanji"
+  },
+  {
+   "n": 109,
+   "romaji": "yoji",
+   "accent": "[1]",
+   "gloss": "four o'clock",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "yoji",
+   "note": "LEXICALIZED EXCEPTION: yo-ji, never *yonji and never *shiji. Same yo- as in yonin."
+  },
+  {
+   "n": 110,
+   "romaji": "goji",
+   "accent": "[1]",
+   "gloss": "five o'clock",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "goji"
+  },
+  {
+   "n": 111,
+   "romaji": "rokuji",
+   "accent": "[2]",
+   "gloss": "six o'clock",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "rokuji",
+   "note": "No gemination: rokuji, not *rokkuji."
+  },
+  {
+   "n": 112,
+   "romaji": "shichiji",
+   "accent": "[1]",
+   "gloss": "seven o'clock",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "shichiji",
+   "note": "LEXICALIZED EXCEPTION: the shichi form is required. *nanaji is not said (nanaji is heard occasionally for clarity but do not produce it)."
+  },
+  {
+   "n": 113,
+   "romaji": "kuji",
+   "accent": "[1]",
+   "gloss": "nine o'clock",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "kuji",
+   "note": "LEXICALIZED EXCEPTION: ku-ji, never *kyuuji. Two morae only."
+  },
+  {
+   "n": 114,
+   "romaji": "juuji",
+   "accent": "[1]",
+   "gloss": "ten o'clock",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "juuji"
+  },
+  {
+   "n": 115,
+   "romaji": "juuniji",
+   "accent": "[3]",
+   "gloss": "twelve o'clock",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "juuniji"
+  },
+  {
+   "n": 116,
+   "romaji": "nanji",
+   "accent": "[1]",
+   "gloss": "what time?",
+   "pos": "interrogative",
+   "cardType": "PROD",
+   "audioText": "nanji"
+  },
+  {
+   "n": 117,
+   "romaji": "ippun",
+   "accent": "[1]",
+   "gloss": "one minute",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "ippun",
+   "note": "-fun/-pun is the fourth p/b/h-type series, and the busiest one."
+  },
+  {
+   "n": 118,
+   "romaji": "nifun",
+   "accent": "[1]",
+   "gloss": "two minutes",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "nifun"
+  },
+  {
+   "n": 119,
+   "romaji": "sanpun",
+   "accent": "[1]",
+   "gloss": "three minutes",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "sanpun",
+   "note": "N + f -> p here, NOT b. Contrast sanbon/sanbiki/sanbai, which do voice. -fun is the one that geminates the nasal into p."
+  },
+  {
+   "n": 120,
+   "romaji": "yonpun",
+   "accent": "[1]",
+   "gloss": "four minutes",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "yonpun"
+  },
+  {
+   "n": 121,
+   "romaji": "gofun",
+   "accent": "[1]",
+   "gloss": "five minutes",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "gofun",
+   "note": "The single most useful minute word: clock faces are read in fives."
+  },
+  {
+   "n": 122,
+   "romaji": "roppun",
+   "accent": "[1]",
+   "gloss": "six minutes",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "roppun"
+  },
+  {
+   "n": 123,
+   "romaji": "juppun",
+   "accent": "[1]",
+   "gloss": "ten minutes",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "juppun",
+   "note": "jippun also exists and is older/formal; juppun is what you say and mostly what you hear."
+  },
+  {
+   "n": 124,
+   "romaji": "juugofun",
+   "accent": "-",
+   "gloss": "fifteen minutes",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "juugofun"
+  },
+  {
+   "n": 125,
+   "romaji": "sanjuppun",
+   "accent": "-",
+   "gloss": "thirty minutes",
+   "pos": "counter",
+   "cardType": "PROD",
+   "audioText": "sanjuppun"
+  },
+  {
+   "n": 126,
+   "romaji": "nanpun",
+   "accent": "[1]",
+   "gloss": "how many minutes?",
+   "pos": "interrogative",
+   "cardType": "PROD",
+   "audioText": "nanpun"
+  },
+  {
+   "n": 127,
+   "romaji": "han",
+   "accent": "[1]",
+   "gloss": "half past",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "han",
+   "note": "Goes AFTER the hour: sanji han. Two morae, ha-N."
+  },
+  {
+   "n": 128,
+   "romaji": "gozen",
+   "accent": "[1]",
+   "gloss": "a.m.",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "gozen",
+   "note": "Goes BEFORE the hour: gozen juuji. The opposite side from han."
+  },
+  {
+   "n": 129,
+   "romaji": "gogo",
+   "accent": "[1]",
+   "gloss": "p.m.",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "gogo"
+  },
+  {
+   "n": 130,
+   "romaji": "kara",
+   "accent": "[1]",
+   "gloss": "from, starting at",
+   "pos": "particle",
+   "cardType": "PROD",
+   "audioText": "sanji kara"
+  },
+  {
+   "n": 131,
+   "romaji": "made",
+   "accent": "[1]",
+   "gloss": "until, up to",
+   "pos": "particle",
+   "cardType": "PROD",
+   "audioText": "goji made"
+  },
+  {
+   "n": 132,
+   "romaji": "made ni",
+   "accent": "-",
+   "gloss": "by (deadline)",
+   "pos": "particle",
+   "cardType": "PROD",
+   "audioText": "yoji made ni",
+   "note": "made = the whole stretch up to then. made ni = at some point before then. goji made hatarakimasu vs goji made ni onegaishimasu."
+  },
+  {
+   "n": 133,
+   "romaji": "hitotsume",
+   "accent": "[3]",
+   "gloss": "the first one",
+   "pos": "ordinal",
+   "cardType": "PROD",
+   "audioText": "hitotsume",
+   "note": "-me turns a count into a position. Built straight off the -tsu series you already own."
+  },
+  {
+   "n": 134,
+   "romaji": "futatsume",
+   "accent": "[3]",
+   "gloss": "the second one",
+   "pos": "ordinal",
+   "cardType": "PROD",
+   "audioText": "futatsume"
+  },
+  {
+   "n": 135,
+   "romaji": "mittsume",
+   "accent": "[3]",
+   "gloss": "the third one",
+   "pos": "ordinal",
+   "cardType": "PROD",
+   "audioText": "mittsume"
+  },
+  {
+   "n": 136,
+   "romaji": "ichibanme",
+   "accent": "[4]",
+   "gloss": "the first (in a series)",
+   "pos": "ordinal",
+   "cardType": "PROD",
+   "audioText": "ichibanme",
+   "note": "-banme is the general ordinal, usable where -tsume is not."
+  },
+  {
+   "n": 137,
+   "romaji": "nibanme",
+   "accent": "[3]",
+   "gloss": "the second (in a series)",
+   "pos": "ordinal",
+   "cardType": "PROD",
+   "audioText": "nibanme"
+  },
+  {
+   "n": 138,
+   "romaji": "tsuitachi",
+   "accent": "[4]",
+   "gloss": "the 1st of the month",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "tsuitachi ga",
+   "note": "Totally unrelated to hitotsu. Must be memorised whole. 5 morae: tsu-i-ta-chi."
+  },
+  {
+   "n": 139,
+   "romaji": "futsuka",
+   "accent": "[0]",
+   "gloss": "the 2nd; two days",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "futsuka ga"
+  },
+  {
+   "n": 140,
+   "romaji": "mikka",
+   "accent": "[0]",
+   "gloss": "the 3rd; three days",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "mikka ga",
+   "note": "Geminate. Compare mittsu: same mi- root, different tail."
+  },
+  {
+   "n": 141,
+   "romaji": "yokka",
+   "accent": "[0]",
+   "gloss": "the 4th; four days",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "yokka ga",
+   "note": "yo- again, as in yoji and yonin. Never *yonka."
+  },
+  {
+   "n": 142,
+   "romaji": "itsuka",
+   "accent": "[0]",
+   "gloss": "the 5th; five days",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "itsuka ga",
+   "note": "Homophone with itsuka 'someday' [1] - the accent differs. Date sense stays in a date frame for now."
+  },
+  {
+   "n": 143,
+   "romaji": "muika",
+   "accent": "[0]",
+   "gloss": "the 6th; six days",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "muika ga",
+   "note": "NO geminate, unlike mikka/yokka. mu-i-ka, 3 morae."
+  },
+  {
+   "n": 144,
+   "romaji": "nanoka",
+   "accent": "[0]",
+   "gloss": "the 7th; seven days",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "nanoka ga"
+  },
+  {
+   "n": 145,
+   "romaji": "yooka",
+   "accent": "[0]",
+   "gloss": "the 8th; eight days",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "yooka ga",
+   "note": "LENGTH IS THE WHOLE CONTRAST: yooka (8th) vs yokka (4th). Long vowel versus geminate, and nothing else. Drill this pair to death."
+  },
+  {
+   "n": 146,
+   "romaji": "kokonoka",
+   "accent": "[0]",
+   "gloss": "the 9th; nine days",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "kokonoka ga"
+  },
+  {
+   "n": 147,
+   "romaji": "tooka",
+   "accent": "[0]",
+   "gloss": "the 10th; ten days",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "tooka ga",
+   "note": "Built on too. Contrast tooka / yooka / yokka as a three-way length-and-gemination set."
+  },
+  {
+   "n": 148,
+   "romaji": "juuyokka",
+   "accent": "[0]",
+   "gloss": "the 14th; fourteen days",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "juuyokka ga",
+   "note": "The yo- irregular survives inside the teens. Never *juuyonnichi."
+  },
+  {
+   "n": 149,
+   "romaji": "hatsuka",
+   "accent": "[0]",
+   "gloss": "the 20th; twenty days",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "hatsuka ga",
+   "note": "The last wago date. From 21 on it is regular: nijuuichinichi."
+  },
+  {
+   "n": 150,
+   "romaji": "juuichinichi",
+   "accent": "-",
+   "gloss": "the 11th",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "juuichinichi ga",
+   "note": "Regular exemplar: number + nichi. Everything outside the twelve wago dates works this way."
+  },
+  {
+   "n": 151,
+   "romaji": "nannichi",
+   "accent": "[1]",
+   "gloss": "what day of the month?",
+   "pos": "interrogative",
+   "cardType": "PROD",
+   "audioText": "nannichi"
+  },
+  {
+   "n": 152,
+   "romaji": "getsuyoobi",
+   "accent": "[3]",
+   "gloss": "Monday",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "getsuyoobi ga",
+   "note": "5 morae, long oo. Never -yobi."
+  },
+  {
+   "n": 153,
+   "romaji": "kayoobi",
+   "accent": "[2]",
+   "gloss": "Tuesday",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "kayoobi ga"
+  },
+  {
+   "n": 154,
+   "romaji": "suiyoobi",
+   "accent": "[2]",
+   "gloss": "Wednesday",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "suiyoobi ga"
+  },
+  {
+   "n": 155,
+   "romaji": "mokuyoobi",
+   "accent": "[3]",
+   "gloss": "Thursday",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "mokuyoobi ga"
+  },
+  {
+   "n": 156,
+   "romaji": "kin'yoobi",
+   "accent": "[3]",
+   "gloss": "Friday",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "kin'yoobi ga",
+   "note": "n' BEFORE y: ki-N-yo-o-bi, 5 morae. Not *kinyoobi with a palatal nyo - the N is its own beat."
+  },
+  {
+   "n": 157,
+   "romaji": "doyoobi",
+   "accent": "[2]",
+   "gloss": "Saturday",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "doyoobi ga"
+  },
+  {
+   "n": 158,
+   "romaji": "nichiyoobi",
+   "accent": "[3]",
+   "gloss": "Sunday",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "nichiyoobi ga"
+  },
+  {
+   "n": 159,
+   "romaji": "nan'yoobi",
+   "accent": "[1]",
+   "gloss": "what day of the week?",
+   "pos": "interrogative",
+   "cardType": "PROD",
+   "audioText": "nan'yoobi",
+   "note": "n' before y again."
+  },
+  {
+   "n": 160,
+   "romaji": "ichigatsu",
+   "accent": "[4]",
+   "gloss": "January",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "ichigatsu ga",
+   "note": "Months are just number + gatsu. Only three cells misbehave: 4, 7, 9."
+  },
+  {
+   "n": 161,
+   "romaji": "shigatsu",
+   "accent": "[3]",
+   "gloss": "April",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "shigatsu ga",
+   "note": "LEXICALIZED: shi-, never *yongatsu. Note this is shi, NOT the yo- used by yoji/yonin/yokka - the exceptions do not all pick the same alternate."
+  },
+  {
+   "n": 162,
+   "romaji": "shichigatsu",
+   "accent": "[4]",
+   "gloss": "July",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "shichigatsu ga",
+   "note": "LEXICALIZED: never *nanagatsu."
+  },
+  {
+   "n": 163,
+   "romaji": "kugatsu",
+   "accent": "[1]",
+   "gloss": "September",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "kugatsu ga",
+   "note": "LEXICALIZED: ku-, never *kyuugatsu. Same ku as kuji."
+  },
+  {
+   "n": 164,
+   "romaji": "juunigatsu",
+   "accent": "[5]",
+   "gloss": "December",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "juunigatsu ga"
+  },
+  {
+   "n": 165,
+   "romaji": "nangatsu",
+   "accent": "[1]",
+   "gloss": "what month?",
+   "pos": "interrogative",
+   "cardType": "PROD",
+   "audioText": "nangatsu"
+  },
+  {
+   "n": 166,
+   "romaji": "kyoo",
+   "accent": "[1]",
+   "gloss": "today",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "kyoo ga",
+   "note": "2 morae: kyo-o. kyo is one mora. NOT kyou."
+  },
+  {
+   "n": 167,
+   "romaji": "ashita",
+   "accent": "[0]",
+   "gloss": "tomorrow",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "ashita ga"
+  },
+  {
+   "n": 168,
+   "romaji": "kinoo",
+   "accent": "[2]",
+   "gloss": "yesterday",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "kinoo ga",
+   "note": "3 morae: ki-no-o."
+  },
+  {
+   "n": 169,
+   "romaji": "asatte",
+   "accent": "[3]",
+   "gloss": "the day after tomorrow",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "asatte ga",
+   "note": "Geminate. 4 morae: a-sa-Q-te."
+  },
+  {
+   "n": 170,
+   "romaji": "ototoi",
+   "accent": "[3]",
+   "gloss": "the day before yesterday",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "ototoi ga"
+  },
+  {
+   "n": 171,
+   "romaji": "raishuu",
+   "accent": "[0]",
+   "gloss": "next week",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "raishuu ga",
+   "note": "4 morae: ra-i-shu-u."
+  },
+  {
+   "n": 172,
+   "romaji": "senshuu",
+   "accent": "[0]",
+   "gloss": "last week",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "senshuu ga"
+  },
+  {
+   "n": 173,
+   "romaji": "konshuu",
+   "accent": "[0]",
+   "gloss": "this week",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "konshuu ga"
+  },
+  {
+   "n": 174,
+   "romaji": "isshuukan",
+   "accent": "[3]",
+   "gloss": "one week (duration)",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "isshuukan ga",
+   "note": "SIX morae: i-Q-shu-u-ka-N. Geminate, then a long vowel, then a moraic N. The heaviest word in this block - say it slow and full before you ever say it fast."
+  },
+  {
+   "n": 175,
+   "romaji": "kudasai",
+   "accent": "[3]",
+   "gloss": "please give me",
+   "pos": "chunk",
+   "cardType": "PROD",
+   "audioText": "kudasai"
+  },
+  {
+   "n": 176,
+   "romaji": "kore kudasai",
+   "accent": "-",
+   "gloss": "this one, please",
+   "pos": "chunk",
+   "cardType": "PROD",
+   "audioText": "kore kudasai",
+   "note": "The o drops in casual shop speech. kore o kudasai is the full form; kore kudasai is what is said."
+  },
+  {
+   "n": 177,
+   "romaji": "onegaishimasu",
+   "accent": "[6]",
+   "gloss": "please (I request it)",
+   "pos": "chunk",
+   "cardType": "PROD",
+   "audioText": "onegaishimasu",
+   "note": "Softer and wider than kudasai. Works on its own as a whole turn."
+  },
+  {
+   "n": 178,
+   "romaji": "ikura desu ka",
+   "accent": "-",
+   "gloss": "how much is it?",
+   "pos": "chunk",
+   "cardType": "PROD",
+   "audioText": "ikura desu ka"
+  },
+  {
+   "n": 179,
+   "romaji": "ee to",
+   "accent": "[1]",
+   "gloss": "um..., let me see",
+   "pos": "chunk",
+   "cardType": "PROD",
+   "audioText": "ee to",
+   "note": "The buying-time filler. Learn it early: it is what keeps a slow number from sounding like a breakdown. Long ee, two beats."
+  },
+  {
+   "n": 180,
+   "romaji": "sore ja",
+   "accent": "-",
+   "gloss": "in that case, right then",
+   "pos": "chunk",
+   "cardType": "PROD",
+   "audioText": "sore ja",
+   "note": "Marks the decision point in a transaction."
+  },
+  {
+   "n": 181,
+   "romaji": "kore de",
+   "accent": "-",
+   "gloss": "with this / this'll do",
+   "pos": "chunk",
+   "cardType": "PROD",
+   "audioText": "kore de onegaishimasu",
+   "note": "What you say handing over cash or a card."
+  },
+  {
+   "n": 182,
+   "romaji": "fukuro",
+   "accent": "[0]",
+   "gloss": "bag",
+   "pos": "noun",
+   "cardType": "RECOG",
+   "audioText": "fukuro ga"
+  },
+  {
+   "n": 183,
+   "romaji": "fukuro irimasu ka",
+   "accent": "-",
+   "gloss": "do you need a bag?",
+   "pos": "chunk",
+   "cardType": "RECOG",
+   "audioText": "fukuro irimasu ka",
+   "note": "RECOG ONLY - the clerk says it, you answer hai or daijoobu desu. You will hear this at every register."
+  },
+  {
+   "n": 184,
+   "romaji": "reshiito",
+   "accent": "[2]",
+   "gloss": "receipt",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "reshiito ga",
+   "note": "5 morae: re-shi-i-to. The long ii is a full extra beat."
+  },
+  {
+   "n": 185,
+   "romaji": "zenbu de",
+   "accent": "-",
+   "gloss": "all together, in total",
+   "pos": "chunk",
+   "cardType": "RECOG",
+   "audioText": "zenbu de",
+   "note": "Precedes the total: zenbu de sen'en desu."
+  }
+ ],
+ "sentences": [
+  {
+   "n": 1,
+   "romaji": "ikura desu ka.",
+   "gloss": "How much is it?",
+   "newElement": "ikura (105)",
+   "usesPrior": [
+    "desu ka"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 2,
+   "romaji": "kore wa hyakuen desu.",
+   "gloss": "This is a hundred yen.",
+   "newElement": "hyakuen (100)",
+   "usesPrior": [
+    "kore",
+    "wa",
+    "desu"
+   ],
+   "cardType": "RECOG"
+  },
+  {
+   "n": 3,
+   "romaji": "sore wa gohyakuen desu ka.",
+   "gloss": "Is that five hundred yen?",
+   "newElement": "gohyakuen (102)",
+   "usesPrior": [
+    "sore",
+    "wa",
+    "desu ka"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 4,
+   "romaji": "are wa sen'en desu.",
+   "gloss": "That one over there is a thousand yen.",
+   "newElement": "sen'en (103)",
+   "usesPrior": [
+    "are",
+    "wa",
+    "desu"
+   ],
+   "cardType": "RECOG",
+   "note": "Listen for the N beat before the e. sen'en is four beats, not three."
+  },
+  {
+   "n": 5,
+   "romaji": "kore wa ichiman'en desu.",
+   "gloss": "This is ten thousand yen.",
+   "newElement": "ichiman'en (104)",
+   "usesPrior": [
+    "kore",
+    "wa",
+    "desu"
+   ],
+   "cardType": "RECOG"
+  },
+  {
+   "n": 6,
+   "romaji": "kore kudasai.",
+   "gloss": "This one, please.",
+   "newElement": "kudasai (175)",
+   "usesPrior": [
+    "kore"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 7,
+   "romaji": "mizu o hitotsu kudasai.",
+   "gloss": "One water, please.",
+   "newElement": "hitotsu (44)",
+   "usesPrior": [
+    "mizu",
+    "o",
+    "kudasai"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 8,
+   "romaji": "biiru o futatsu kudasai.",
+   "gloss": "Two beers, please.",
+   "newElement": "futatsu (45)",
+   "usesPrior": [
+    "biiru",
+    "o",
+    "kudasai"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 9,
+   "romaji": "ringo o mittsu kudasai.",
+   "gloss": "Three apples, please.",
+   "newElement": "mittsu (46)",
+   "usesPrior": [
+    "ringo",
+    "o",
+    "kudasai"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 10,
+   "romaji": "tamago o yottsu kudasai.",
+   "gloss": "Four eggs, please.",
+   "newElement": "yottsu (47)",
+   "usesPrior": [
+    "tamago",
+    "o",
+    "kudasai"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 11,
+   "romaji": "pan o itsutsu kudasai.",
+   "gloss": "Five breads, please.",
+   "newElement": "itsutsu (48)",
+   "usesPrior": [
+    "pan",
+    "o",
+    "kudasai"
+   ],
+   "cardType": "PROD",
+   "note": "The one cell in the run with no geminate. Feel the difference against yottsu on the card before it."
+  },
+  {
+   "n": 12,
+   "romaji": "koohii o muttsu kudasai.",
+   "gloss": "Six coffees, please.",
+   "newElement": "muttsu (49)",
+   "usesPrior": [
+    "koohii",
+    "o",
+    "kudasai"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 13,
+   "romaji": "onegaishimasu.",
+   "gloss": "Please. / If you would.",
+   "newElement": "onegaishimasu (177)",
+   "usesPrior": [],
+   "cardType": "PROD"
+  },
+  {
+   "n": 14,
+   "romaji": "ikutsu desu ka.",
+   "gloss": "How many?",
+   "newElement": "ikutsu (54)",
+   "usesPrior": [
+    "desu ka"
+   ],
+   "cardType": "RECOG"
+  },
+  {
+   "n": 15,
+   "romaji": "nanatsu onegaishimasu.",
+   "gloss": "Seven, please.",
+   "newElement": "nanatsu (50)",
+   "usesPrior": [
+    "onegaishimasu"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 16,
+   "romaji": "tamago wa yattsu arimasu.",
+   "gloss": "There are eight eggs.",
+   "newElement": "yattsu (51)",
+   "usesPrior": [
+    "tamago",
+    "wa",
+    "arimasu"
+   ],
+   "cardType": "RECOG"
+  },
+  {
+   "n": 17,
+   "romaji": "too kudasai.",
+   "gloss": "Ten, please.",
+   "newElement": "too (53)",
+   "usesPrior": [
+    "kudasai"
+   ],
+   "cardType": "PROD",
+   "note": "Two beats. A clipped *to is a different word entirely."
+  },
+  {
+   "n": 18,
+   "romaji": "hitori desu.",
+   "gloss": "Just me. / Party of one.",
+   "newElement": "hitori (56)",
+   "usesPrior": [
+    "desu"
+   ],
+   "cardType": "PROD",
+   "note": "What you answer at a restaurant door."
+  },
+  {
+   "n": 19,
+   "romaji": "futari desu ka.",
+   "gloss": "Two of you?",
+   "newElement": "futari (57)",
+   "usesPrior": [
+    "desu ka"
+   ],
+   "cardType": "RECOG"
+  },
+  {
+   "n": 20,
+   "romaji": "tomodachi ga sannin imasu.",
+   "gloss": "I have three friends here.",
+   "newElement": "sannin (58)",
+   "usesPrior": [
+    "tomodachi",
+    "ga",
+    "imasu"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 21,
+   "romaji": "yonin onegaishimasu.",
+   "gloss": "Four people, please.",
+   "newElement": "yonin (59)",
+   "usesPrior": [
+    "onegaishimasu"
+   ],
+   "cardType": "PROD",
+   "note": "Three beats. If you hear four in your own mouth you have said *yonnin."
+  },
+  {
+   "n": 22,
+   "romaji": "nannin desu ka.",
+   "gloss": "How many people?",
+   "newElement": "nannin (62)",
+   "usesPrior": [
+    "desu ka"
+   ],
+   "cardType": "RECOG"
+  },
+  {
+   "n": 23,
+   "romaji": "biiru o ippai kudasai.",
+   "gloss": "One beer (one glass), please.",
+   "newElement": "ippai (85)",
+   "usesPrior": [
+    "biiru",
+    "o",
+    "kudasai"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 24,
+   "romaji": "mizu o nihai onegaishimasu.",
+   "gloss": "Two glasses of water, please.",
+   "newElement": "nihai (86)",
+   "usesPrior": [
+    "mizu",
+    "o",
+    "onegaishimasu"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 25,
+   "romaji": "koohii o sanbai kudasai.",
+   "gloss": "Three coffees, please.",
+   "newElement": "sanbai (87)",
+   "usesPrior": [
+    "koohii",
+    "o",
+    "kudasai"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 26,
+   "romaji": "nanbai desu ka.",
+   "gloss": "How many glasses?",
+   "newElement": "nanbai (89)",
+   "usesPrior": [
+    "desu ka"
+   ],
+   "cardType": "RECOG"
+  },
+  {
+   "n": 27,
+   "romaji": "kippu o ichimai kudasai.",
+   "gloss": "One ticket, please.",
+   "newElement": "ichimai (75)",
+   "usesPrior": [
+    "kippu",
+    "o",
+    "kudasai"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 28,
+   "romaji": "kippu o nimai onegaishimasu.",
+   "gloss": "Two tickets, please.",
+   "newElement": "nimai (76)",
+   "usesPrior": [
+    "kippu",
+    "o",
+    "onegaishimasu"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 29,
+   "romaji": "nanmai desu ka.",
+   "gloss": "How many (flat things)?",
+   "newElement": "nanmai (79)",
+   "usesPrior": [
+    "desu ka"
+   ],
+   "cardType": "RECOG"
+  },
+  {
+   "n": 30,
+   "romaji": "biiru o ippon kudasai.",
+   "gloss": "One bottle of beer, please.",
+   "newElement": "ippon (68)",
+   "usesPrior": [
+    "biiru",
+    "o",
+    "kudasai"
+   ],
+   "cardType": "PROD",
+   "note": "Contrast card 23: ippai is a glassful, ippon is the bottle."
+  },
+  {
+   "n": 31,
+   "romaji": "mizu o nihon onegaishimasu.",
+   "gloss": "Two bottles of water, please.",
+   "newElement": "nihon (69)",
+   "usesPrior": [
+    "mizu",
+    "o",
+    "onegaishimasu"
+   ],
+   "cardType": "PROD",
+   "note": "nihon [1], not Nihon [2]. The drop is the only thing keeping you from asking for two Japans."
+  },
+  {
+   "n": 32,
+   "romaji": "sanbon arimasu.",
+   "gloss": "There are three (bottles).",
+   "newElement": "sanbon (70)",
+   "usesPrior": [
+    "arimasu"
+   ],
+   "cardType": "RECOG"
+  },
+  {
+   "n": 33,
+   "romaji": "roppon kudasai.",
+   "gloss": "Six, please.",
+   "newElement": "roppon (73)",
+   "usesPrior": [
+    "kudasai"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 34,
+   "romaji": "neko ga ippiki imasu.",
+   "gloss": "There's one cat.",
+   "newElement": "ippiki (80)",
+   "usesPrior": [
+    "neko",
+    "ga",
+    "imasu"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 35,
+   "romaji": "inu ga sanbiki imasu.",
+   "gloss": "There are three dogs.",
+   "newElement": "sanbiki (82)",
+   "usesPrior": [
+    "inu",
+    "ga",
+    "imasu"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 36,
+   "romaji": "tamago o ikko kudasai.",
+   "gloss": "One egg, please.",
+   "newElement": "ikko (63)",
+   "usesPrior": [
+    "tamago",
+    "o",
+    "kudasai"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 37,
+   "romaji": "ringo o rokko onegaishimasu.",
+   "gloss": "Six apples, please.",
+   "newElement": "rokko (66)",
+   "usesPrior": [
+    "ringo",
+    "o",
+    "onegaishimasu"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 38,
+   "romaji": "mise wa nikai desu.",
+   "gloss": "The shop is on the second floor.",
+   "newElement": "nikai (91)",
+   "usesPrior": [
+    "mise",
+    "wa",
+    "desu"
+   ],
+   "cardType": "RECOG"
+  },
+  {
+   "n": 39,
+   "romaji": "resutoran wa sangai desu.",
+   "gloss": "The restaurant is on the third floor.",
+   "newElement": "sangai (92)",
+   "usesPrior": [
+    "resutoran",
+    "wa",
+    "desu"
+   ],
+   "cardType": "PROD",
+   "note": "The g is the whole point. *sankai here means 'three times'."
+  },
+  {
+   "n": 40,
+   "romaji": "sankai desu.",
+   "gloss": "Three times.",
+   "newElement": "sankai (96)",
+   "usesPrior": [
+    "desu"
+   ],
+   "cardType": "RECOG",
+   "note": "Play back-to-back with card 39 in the same session. Same word shape, one consonant apart, two unrelated meanings."
+  },
+  {
+   "n": 41,
+   "romaji": "nanji desu ka.",
+   "gloss": "What time is it?",
+   "newElement": "nanji (116)",
+   "usesPrior": [
+    "desu ka"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 42,
+   "romaji": "sanji desu.",
+   "gloss": "It's three o'clock.",
+   "newElement": "sanji (108)",
+   "usesPrior": [
+    "desu"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 43,
+   "romaji": "yoji desu ka.",
+   "gloss": "Is it four o'clock?",
+   "newElement": "yoji (109)",
+   "usesPrior": [
+    "desu ka"
+   ],
+   "cardType": "PROD",
+   "note": "Two beats. *yonji does not exist."
+  },
+  {
+   "n": 44,
+   "romaji": "shichiji desu.",
+   "gloss": "It's seven o'clock.",
+   "newElement": "shichiji (112)",
+   "usesPrior": [
+    "desu"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 45,
+   "romaji": "kuji desu.",
+   "gloss": "It's nine o'clock.",
+   "newElement": "kuji (113)",
+   "usesPrior": [
+    "desu"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 46,
+   "romaji": "sanji han desu.",
+   "gloss": "It's half past three.",
+   "newElement": "han (127)",
+   "usesPrior": [
+    "sanji",
+    "desu"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 47,
+   "romaji": "juuji desu.",
+   "gloss": "It's ten o'clock.",
+   "newElement": "juuji (114)",
+   "usesPrior": [
+    "desu"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 48,
+   "romaji": "gozen juuji desu.",
+   "gloss": "It's ten a.m.",
+   "newElement": "gozen (128)",
+   "usesPrior": [
+    "juuji",
+    "desu"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 49,
+   "romaji": "gogo yoji desu.",
+   "gloss": "It's four p.m.",
+   "newElement": "gogo (129)",
+   "usesPrior": [
+    "yoji",
+    "desu"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 50,
+   "romaji": "mise wa juuji kara desu.",
+   "gloss": "The shop opens at ten.",
+   "newElement": "kara (130)",
+   "usesPrior": [
+    "mise",
+    "wa",
+    "juuji",
+    "desu"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 51,
+   "romaji": "mise wa kuji made desu.",
+   "gloss": "The shop is open until nine.",
+   "newElement": "made (131)",
+   "usesPrior": [
+    "mise",
+    "wa",
+    "kuji",
+    "desu"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 52,
+   "romaji": "gogo yoji made ni onegaishimasu.",
+   "gloss": "By four p.m., please.",
+   "newElement": "made ni (132)",
+   "usesPrior": [
+    "gogo",
+    "yoji",
+    "onegaishimasu"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 53,
+   "romaji": "gofun desu.",
+   "gloss": "It's five minutes.",
+   "newElement": "gofun (121)",
+   "usesPrior": [
+    "desu"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 54,
+   "romaji": "sanji juppun desu.",
+   "gloss": "It's three ten.",
+   "newElement": "juppun (123)",
+   "usesPrior": [
+    "sanji",
+    "desu"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 55,
+   "romaji": "sanpun desu ka.",
+   "gloss": "Three minutes?",
+   "newElement": "sanpun (119)",
+   "usesPrior": [
+    "desu ka"
+   ],
+   "cardType": "PROD",
+   "note": "p, not b. Say sanbon and sanpun back to back and hear that they do not rhyme."
+  },
+  {
+   "n": 56,
+   "romaji": "nanpun desu ka.",
+   "gloss": "How many minutes?",
+   "newElement": "nanpun (126)",
+   "usesPrior": [
+    "desu ka"
+   ],
+   "cardType": "RECOG"
+  },
+  {
+   "n": 57,
+   "romaji": "sanji ni onegaishimasu.",
+   "gloss": "At three, please.",
+   "newElement": "ni with clock time (particle use)",
+   "usesPrior": [
+    "sanji",
+    "ni",
+    "onegaishimasu"
+   ],
+   "cardType": "PROD",
+   "note": "THE RULE: ni attaches to times you could point to on a calendar or a clock face. sanji ni, getsuyoobi ni, tsuitachi ni."
+  },
+  {
+   "n": 58,
+   "romaji": "kyoo desu.",
+   "gloss": "It's today.",
+   "newElement": "kyoo (166)",
+   "usesPrior": [
+    "desu"
+   ],
+   "cardType": "PROD",
+   "note": "NO ni. kyoo means 'today' only relative to the moment you speak - it is deictic, so it takes no particle. Never *kyoo ni."
+  },
+  {
+   "n": 59,
+   "romaji": "ashita onegaishimasu.",
+   "gloss": "Tomorrow, please.",
+   "newElement": "ashita (167)",
+   "usesPrior": [
+    "onegaishimasu"
+   ],
+   "cardType": "PROD",
+   "note": "Bare again. Same reason as kyoo."
+  },
+  {
+   "n": 60,
+   "romaji": "kinoo desu ka.",
+   "gloss": "Yesterday?",
+   "newElement": "kinoo (168)",
+   "usesPrior": [
+    "desu ka"
+   ],
+   "cardType": "RECOG"
+  },
+  {
+   "n": 61,
+   "romaji": "asatte onegaishimasu.",
+   "gloss": "The day after tomorrow, please.",
+   "newElement": "asatte (169)",
+   "usesPrior": [
+    "onegaishimasu"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 62,
+   "romaji": "raishuu desu.",
+   "gloss": "It's next week.",
+   "newElement": "raishuu (171)",
+   "usesPrior": [
+    "desu"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 63,
+   "romaji": "doyoobi desu.",
+   "gloss": "It's Saturday.",
+   "newElement": "doyoobi (157)",
+   "usesPrior": [
+    "desu"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 64,
+   "romaji": "kyoo wa getsuyoobi desu.",
+   "gloss": "Today is Monday.",
+   "newElement": "getsuyoobi (152)",
+   "usesPrior": [
+    "kyoo",
+    "wa",
+    "desu"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 65,
+   "romaji": "getsuyoobi ni onegaishimasu.",
+   "gloss": "On Monday, please.",
+   "newElement": "getsuyoobi ni (the calendrical ni)",
+   "usesPrior": [
+    "getsuyoobi",
+    "ni",
+    "onegaishimasu"
+   ],
+   "cardType": "PROD",
+   "note": "Weekday takes ni; kyoo does not. Put cards 58 and 65 in the same review run so the contrast is felt, not memorised."
+  },
+  {
+   "n": 66,
+   "romaji": "kin'yoobi desu ka.",
+   "gloss": "Friday?",
+   "newElement": "kin'yoobi (156)",
+   "usesPrior": [
+    "desu ka"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 67,
+   "romaji": "nan'yoobi desu ka.",
+   "gloss": "What day of the week is it?",
+   "newElement": "nan'yoobi (159)",
+   "usesPrior": [
+    "desu ka"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 68,
+   "romaji": "tsuitachi desu.",
+   "gloss": "It's the first.",
+   "newElement": "tsuitachi (138)",
+   "usesPrior": [
+    "desu"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 69,
+   "romaji": "yokka desu ka.",
+   "gloss": "The fourth?",
+   "newElement": "yokka (141)",
+   "usesPrior": [
+    "desu ka"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 70,
+   "romaji": "yooka desu.",
+   "gloss": "It's the eighth.",
+   "newElement": "yooka (145)",
+   "usesPrior": [
+    "desu"
+   ],
+   "cardType": "RECOG",
+   "note": "Immediately after card 69. Long vowel versus geminate: yooka / yokka. If you cannot hear it here, go back to the week 1-2 length drills for one session."
+  },
+  {
+   "n": 71,
+   "romaji": "tooka onegaishimasu.",
+   "gloss": "The tenth, please.",
+   "newElement": "tooka (147)",
+   "usesPrior": [
+    "onegaishimasu"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 72,
+   "romaji": "hatsuka desu.",
+   "gloss": "It's the twentieth.",
+   "newElement": "hatsuka (149)",
+   "usesPrior": [
+    "desu"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 73,
+   "romaji": "nannichi desu ka.",
+   "gloss": "What's the date?",
+   "newElement": "nannichi (151)",
+   "usesPrior": [
+    "desu ka"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 74,
+   "romaji": "shigatsu desu.",
+   "gloss": "It's April.",
+   "newElement": "shigatsu (161)",
+   "usesPrior": [
+    "desu"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 75,
+   "romaji": "kugatsu tooka desu.",
+   "gloss": "It's September tenth.",
+   "newElement": "kugatsu (163)",
+   "usesPrior": [
+    "tooka",
+    "desu"
+   ],
+   "cardType": "PROD",
+   "note": "Order is big-to-small, always: month then day."
+  },
+  {
+   "n": 76,
+   "romaji": "nangatsu desu ka.",
+   "gloss": "What month?",
+   "newElement": "nangatsu (165)",
+   "usesPrior": [
+    "desu ka"
+   ],
+   "cardType": "RECOG"
+  },
+  {
+   "n": 77,
+   "romaji": "futatsume no shingoo desu.",
+   "gloss": "It's the second light.",
+   "newElement": "futatsume (134)",
+   "usesPrior": [
+    "no",
+    "shingoo",
+    "desu"
+   ],
+   "cardType": "PROD",
+   "note": "The single most useful sentence in this block for finding anything on foot."
+  },
+  {
+   "n": 78,
+   "romaji": "nibanme desu.",
+   "gloss": "It's the second one.",
+   "newElement": "nibanme (137)",
+   "usesPrior": [
+    "desu"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 79,
+   "romaji": "ee to, sanbon kudasai.",
+   "gloss": "Um... three, please.",
+   "newElement": "ee to (179)",
+   "usesPrior": [
+    "sanbon",
+    "kudasai"
+   ],
+   "cardType": "PROD",
+   "note": "Practise stalling on purpose. A filled pause is fluent; a silent one is not."
+  },
+  {
+   "n": 80,
+   "romaji": "sore ja, kore kudasai.",
+   "gloss": "In that case, I'll take this.",
+   "newElement": "sore ja (180)",
+   "usesPrior": [
+    "kore",
+    "kudasai"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 81,
+   "romaji": "kore de onegaishimasu.",
+   "gloss": "I'll pay with this.",
+   "newElement": "kore de (181)",
+   "usesPrior": [
+    "kore",
+    "onegaishimasu"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 82,
+   "romaji": "fukuro irimasu ka.",
+   "gloss": "Do you need a bag?",
+   "newElement": "fukuro irimasu ka (183)",
+   "usesPrior": [],
+   "cardType": "RECOG",
+   "note": "RECOG only. You answer hai or iie - never produce this one."
+  },
+  {
+   "n": 83,
+   "romaji": "reshiito onegaishimasu.",
+   "gloss": "Receipt, please.",
+   "newElement": "reshiito (184)",
+   "usesPrior": [
+    "onegaishimasu"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 84,
+   "romaji": "zenbu de sen'en desu.",
+   "gloss": "That's a thousand yen in total.",
+   "newElement": "zenbu de (185)",
+   "usesPrior": [
+    "sen'en",
+    "desu"
+   ],
+   "cardType": "RECOG",
+   "note": "The clerk's line. Recognising zenbu de tells you the total is arriving next - that half-second of warning is what makes the number catchable."
+  }
+ ],
+ "drills": [
+  {
+   "name": "Two-second dictation: 30 quantities, times and dates",
+   "type": "DICTATION",
+   "target": "27 of 30 correct, each answer begun within 2.0 s of the audio ending. Run daily from W5D3; the block is not finished until this is passed twice on consecutive days.",
+   "spec": "Audio plays ONE item at a time. Learner says the English back aloud within 2 s (a stopwatch beep at 2.0 s marks the deadline; an answer that starts after the beep is wrong even if correct). No replays, no pausing. Score aloud, move on. Full set, in the order run:\n1. audio 'sanbon' -> 'three (bottles)'\n2. 'sanbai' -> 'three glasses'\n3. 'sanbiki' -> 'three animals'\n4. 'sanpun' -> 'three minutes'\n5. 'sanmai' -> 'three flat things'\n6. 'sangai' -> 'third floor'\n7. 'sankai' -> 'three times'\n8. 'sannin' -> 'three people'\n9. 'mittsu' -> 'three (things)'\n10. 'roppon' -> 'six (bottles)'\n11. 'rokunin' -> 'six people'\n12. 'rokuji' -> 'six o'clock'\n13. 'roppun' -> 'six minutes'\n14. 'rokko' -> 'six pieces'\n15. 'yoji' -> 'four o'clock'\n16. 'yonin' -> 'four people'\n17. 'yokka' -> 'the 4th'\n18. 'yooka' -> 'the 8th'\n19. 'tooka' -> 'the 10th'\n20. 'juuyokka' -> 'the 14th'\n21. 'hatsuka' -> 'the 20th'\n22. 'tsuitachi' -> 'the 1st'\n23. 'kuji han' -> 'half past nine'\n24. 'gozen juuji' -> 'ten a.m.'\n25. 'gogo shichiji juugofun' -> 'seven fifteen p.m.'\n26. 'sen'en' -> 'one thousand yen'\n27. 'ichiman'en' -> 'ten thousand yen'\n28. 'roppyaku' -> 'six hundred'\n29. 'happyaku' -> 'eight hundred'\n30. 'hyakugojuuen' -> 'one hundred fifty yen'\nItems 1-8 are deliberately one minimal set: the same numeral against eight counters. If a miss happens, it will happen there, and that is the diagnostic."
+  },
+  {
+   "name": "Reverse dictation: English in, Japanese out",
+   "type": "DICTATION_PROD",
+   "target": "25 of 30 within 2.0 s. Run it only after the RECOG version is passing.",
+   "spec": "Same 30 items, direction flipped. English prompt, learner produces the Japanese aloud, native audio plays to check. E.g. prompt 'six minutes' -> say 'roppun' -> audio 'roppun'. Prompt 'the 8th' -> 'yooka' -> audio 'yooka'. Prompt 'four o'clock' -> 'yoji' -> audio 'yoji'. Prompt 'ten thousand yen' -> 'ichiman'en' -> audio 'ichiman'en'. A hesitation past 2 s counts as a miss even if the word is right - the whole point of this block is retrieval speed at conversational tempo."
+  },
+  {
+   "name": "The p/b/h chant",
+   "type": "DRILL",
+   "target": "Run all four series without a stumble at 100 bpm, one cell per beat. No grading, no scoring - it is a rhythm exercise.",
+   "spec": "Four series, same phonology, run one after another against a metronome:\n-hon: 'ippon nihon sanbon yonhon gohon roppon' | 'nanbon'\n-hiki: 'ippiki nihiki sanbiki yonhiki gohiki roppiki' | 'nanbiki'\n-hai: 'ippai nihai sanbai yonhai gohai roppai' | 'nanbai'\n-fun: 'ippun nifun sanpun yonpun gofun roppun' | 'nanpun'\nThe shape is identical every time: 1 geminates, 3 changes at the nasal, 6 geminates, 4 and 5 do nothing. The one thing to notice out loud: the first three series voice at 3 (b), and -fun does not (sanpun, p). Say 'sanbon sanbiki sanbai SANPUN' as a tag at the end of every run until the odd one is felt rather than recalled."
+  },
+  {
+   "name": "The escape hatch",
+   "type": "DRILL",
+   "target": "Under pressure, produce a usable -tsu form instead of freezing. Success is fluency, not counter accuracy.",
+   "spec": "Prompt with an object and a number; the learner must answer within 1.5 s using ANY correct counter. If the specific counter does not arrive in time, -tsu is the required fallback and scores as a pass. E.g. 'three apples' -> 'ringo o mittsu kudasai' (pass) or 'ringo o sanko kudasai' (also pass). 'two bottles of water' -> 'mizu o nihon kudasai' (pass) or 'mizu o futatsu kudasai' (pass). 'five tickets' -> 'kippu o gomai' (pass) or 'kippu o itsutsu' (pass). Freezing is the only fail. Run twenty items a session, mixed objects, numbers 1-9."
+  },
+  {
+   "name": "The myriad ladder",
+   "type": "DRILL",
+   "target": "Say each rung without recomputing from English. The break at 10,000 must stop feeling like a break.",
+   "spec": "Ascending, then descending, said aloud: 'juu, hyaku, sen, ichiman' then 'juuman, hyakuman'. Then the prices: 'hyakuen, gohyakuen, sen'en, sanzen'en, ichiman'en'. Then the trap, said as an explicit self-correction: 'ten thousand is NOT juusen - ichiman'. English regroups at 1,000; Japanese regroups at 10,000, so every large number has to be re-cut, not translated digit by digit."
+  },
+  {
+   "name": "Date irregular sweep",
+   "type": "DRILL",
+   "target": "All twelve wago dates in order, then in shuffled order, under 20 s.",
+   "spec": "In order: 'tsuitachi futsuka mikka yokka itsuka muika nanoka yooka kokonoka tooka juuyokka hatsuka'. Then shuffled prompts, English to Japanese: 'the 6th' -> 'muika', 'the 8th' -> 'yooka', 'the 3rd' -> 'mikka', 'the 1st' -> 'tsuitachi', 'the 20th' -> 'hatsuka', 'the 14th' -> 'juuyokka'. Then the length triad on its own, ten slow repetitions: 'yokka - yooka - tooka'."
+  },
+  {
+   "name": "Transaction shadow",
+   "type": "DRILL",
+   "target": "Get through the whole exchange without a silent pause. ee to is allowed and encouraged.",
+   "spec": "Recorded clerk audio, learner takes the customer turns aloud in real time:\nclerk: 'irasshaimase' | learner: 'sumimasen, kore ikura desu ka'\nclerk: 'sen'en desu' | learner: 'ee to... sore ja, kore kudasai'\nclerk: 'fukuro irimasu ka' | learner: 'hai, onegaishimasu'\nclerk: 'zenbu de sen'en desu' | learner: 'kore de onegaishimasu'\nclerk: 'arigatoo gozaimashita' | learner: 'reshiito onegaishimasu'\nRun three variants with different prices (hyakugojuuen, gohyakuen, ichiman'en) and different quantities so the frame stays live instead of becoming one memorised recording."
+  },
+  {
+   "name": "Counter cell round-robin",
+   "type": "DRILL",
+   "target": "Any of the ~70 cells retrievable in under 1.5 s from a random prompt. This is the block's exit criterion alongside the dictation.",
+   "spec": "Random prompt of the form '<number> + <counter name>' in English, learner says the Japanese cell. E.g. 'six, animals' -> 'roppiki'. 'three, floors' -> 'sangai'. 'one, minutes' -> 'ippun'. 'four, people' -> 'yonin'. 'nine, o'clock' -> 'kuji'. 'six, flat' -> 'rokumai'. 'one, cups' -> 'ippai'. 'three, pieces' -> 'sanko'. Forty prompts a session, drawn evenly across the ten counters, cells 1-6 plus nan-."
+  }
+ ],
+ "lessons": [
+  {
+   "day": "W5D1",
+   "title": "Digits and the beat",
+   "introduces": [
+    "1-15",
+    "16",
+    "17"
+   ],
+   "minutes": "20",
+   "drill": "Chant 1-10 forward and back against a metronome. ichi/roku/hachi are two morae with short vowels; san/kyuu/juu are two morae with a special mora. Ten even beats.",
+   "sentenceRange": "-"
+  },
+  {
+   "day": "W5D2",
+   "title": "The three-way alternation",
+   "introduces": [
+    "11",
+    "12",
+    "13",
+    "18"
+   ],
+   "minutes": "20",
+   "drill": "yon/shi, nana/shichi, kyuu/ku said as pairs. Flag now that the bound variants are not free choices: shichiji, kuji, shigatsu are fixed.",
+   "sentenceRange": "-"
+  },
+  {
+   "day": "W5D3",
+   "title": "Prices, and the myriad break",
+   "introduces": [
+    "33",
+    "36",
+    "39",
+    "43",
+    "99",
+    "100",
+    "102",
+    "103",
+    "104",
+    "105"
+   ],
+   "minutes": "25",
+   "drill": "Myriad ladder. Dictation set items 26-30 only.",
+   "sentenceRange": "1-5"
+  },
+  {
+   "day": "W5D4",
+   "title": "Buying one of something",
+   "introduces": [
+    "175",
+    "176",
+    "177",
+    "178",
+    "44",
+    "45"
+   ],
+   "minutes": "25",
+   "drill": "Transaction shadow, price hyakuen only.",
+   "sentenceRange": "6-8"
+  },
+  {
+   "day": "W5D5",
+   "title": "The -tsu series, top half",
+   "introduces": [
+    "46",
+    "47",
+    "48",
+    "49",
+    "54"
+   ],
+   "minutes": "25",
+   "drill": "-tsu chant. Hold on itsutsu - it is the cell with no geminate, sitting between two that have one.",
+   "sentenceRange": "9-14"
+  },
+  {
+   "day": "W6D1",
+   "title": "The -tsu series completed, and the escape hatch",
+   "introduces": [
+    "50",
+    "51",
+    "52",
+    "53",
+    "55"
+   ],
+   "minutes": "25",
+   "drill": "Escape hatch drill, first run. Say out loud what it buys you: any inanimate thing up to ten, always acceptable.",
+   "sentenceRange": "15-17"
+  },
+  {
+   "day": "W6D2",
+   "title": "Counting people",
+   "introduces": [
+    "56",
+    "57",
+    "58",
+    "59",
+    "60",
+    "61",
+    "62"
+   ],
+   "minutes": "25",
+   "drill": "Round-robin, -nin only. yonin gets ten extra reps on its own - three beats, not four.",
+   "sentenceRange": "18-22"
+  },
+  {
+   "day": "W6D3",
+   "title": "Tens and teens",
+   "introduces": [
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32"
+   ],
+   "minutes": "20",
+   "drill": "Count 11-99 by ones from 11-25, then by tens. Fourteen and seventeen use yon and nana.",
+   "sentenceRange": "-"
+  },
+  {
+   "day": "W6D4",
+   "title": "Hundreds and thousands, with sound changes",
+   "introduces": [
+    "34",
+    "35",
+    "37",
+    "38",
+    "40",
+    "41",
+    "42"
+   ],
+   "minutes": "25",
+   "drill": "Myriad ladder plus the alternating cells alone: sanbyaku, roppyaku, happyaku, sanzen, hassen. Same two processes as the counters, met here first.",
+   "sentenceRange": "-"
+  },
+  {
+   "day": "W6D5",
+   "title": "Glasses and cups: the p/b/h shape, first pass",
+   "introduces": [
+    "85",
+    "86",
+    "87",
+    "88",
+    "89"
+   ],
+   "minutes": "25",
+   "drill": "p/b/h chant, -hai line only.",
+   "sentenceRange": "23-26"
+  },
+  {
+   "day": "W7D1",
+   "title": "Flat things (the easy series)",
+   "introduces": [
+    "75",
+    "76",
+    "77",
+    "78",
+    "79"
+   ],
+   "minutes": "20",
+   "drill": "Round-robin -mai. Deliberately restful: no sound changes anywhere. Use it to prove the alternations elsewhere are real and not just difficulty.",
+   "sentenceRange": "27-29"
+  },
+  {
+   "day": "W7D2",
+   "title": "Long thin things, and one accent minimal pair",
+   "introduces": [
+    "68",
+    "69",
+    "70",
+    "71",
+    "72",
+    "73",
+    "74"
+   ],
+   "minutes": "25",
+   "drill": "p/b/h chant, -hon line. Then nihon [1] against Nihon [2], twenty alternations.",
+   "sentenceRange": "30-33"
+  },
+  {
+   "day": "W7D3",
+   "title": "Animals and pieces",
+   "introduces": [
+    "80",
+    "81",
+    "82",
+    "83",
+    "84",
+    "63",
+    "64",
+    "65",
+    "66",
+    "67"
+   ],
+   "minutes": "25",
+   "drill": "p/b/h chant, all four lines for the first time, plus the sanbon/sanbiki/sanbai/SANPUN tag.",
+   "sentenceRange": "34-37"
+  },
+  {
+   "day": "W7D4",
+   "title": "Floors and times: one consonant, two meanings",
+   "introduces": [
+    "90",
+    "91",
+    "92",
+    "93",
+    "94",
+    "95",
+    "96",
+    "97",
+    "98"
+   ],
+   "minutes": "25",
+   "drill": "sangai/sankai alternation, thirty reps. Then rokkai said twice with the two meanings named aloud - full homophony, and that is allowed.",
+   "sentenceRange": "38-40"
+  },
+  {
+   "day": "W7D5",
+   "title": "Telling the hour",
+   "introduces": [
+    "106",
+    "107",
+    "108",
+    "109",
+    "110",
+    "111",
+    "112",
+    "113",
+    "114",
+    "115",
+    "116"
+   ],
+   "minutes": "25",
+   "drill": "Round-robin -ji. yoji, shichiji, kuji get triple weight: these three are the whole reason the alternation chant exists.",
+   "sentenceRange": "41-47"
+  },
+  {
+   "day": "W8D1",
+   "title": "Minutes, a.m., p.m., half past",
+   "introduces": [
+    "117",
+    "118",
+    "119",
+    "120",
+    "121",
+    "122",
+    "123",
+    "124",
+    "125",
+    "126",
+    "127",
+    "128",
+    "129"
+   ],
+   "minutes": "25",
+   "drill": "Full 30-item dictation, first complete run. Expect the failure to land in items 1-8.",
+   "sentenceRange": "48-56"
+  },
+  {
+   "day": "W8D2",
+   "title": "kara, made, made ni - and when time takes ni",
+   "introduces": [
+    "130",
+    "131",
+    "132"
+   ],
+   "minutes": "25",
+   "drill": "Sort twenty time expressions into takes-ni and takes-nothing. The rule to state plainly: a time you could point to on a calendar or clock face takes ni (sanji ni, getsuyoobi ni, tsuitachi ni); a time that only means anything relative to right now does not (kyoo, ashita, kinoo, raishuu). It is calendrical versus deictic, not arbitrary.",
+   "sentenceRange": "57"
+  },
+  {
+   "day": "W8D3",
+   "title": "Today, tomorrow, and the days of the week",
+   "introduces": [
+    "166",
+    "167",
+    "168",
+    "169",
+    "170",
+    "171",
+    "172",
+    "173",
+    "174",
+    "152",
+    "153",
+    "154",
+    "155",
+    "156",
+    "157",
+    "158",
+    "159"
+   ],
+   "minutes": "25",
+   "drill": "Weekday chant. Hold kin'yoobi apart: ki-N-yo-o-bi, five beats, the N standing alone before the y. Then isshuukan said slowly six times - six morae, three different special morae in one word.",
+   "sentenceRange": "58-67"
+  },
+  {
+   "day": "W8D4",
+   "title": "The date irregulars",
+   "introduces": [
+    "138",
+    "139",
+    "140",
+    "141",
+    "142",
+    "143",
+    "144",
+    "145",
+    "146",
+    "147",
+    "148",
+    "149",
+    "150",
+    "151"
+   ],
+   "minutes": "25",
+   "drill": "Date irregular sweep, both directions. Then the length triad yokka / yooka / tooka on its own for five minutes - this is the one place in the block where mishearing a beat changes the appointment.",
+   "sentenceRange": "68-73"
+  },
+  {
+   "day": "W8D5",
+   "title": "Months, ordinals, and the whole transaction",
+   "introduces": [
+    "160",
+    "161",
+    "162",
+    "163",
+    "164",
+    "165",
+    "133",
+    "134",
+    "135",
+    "136",
+    "137",
+    "179",
+    "180",
+    "181",
+    "182",
+    "183",
+    "184",
+    "185"
+   ],
+   "minutes": "25",
+   "drill": "Transaction shadow, all three price variants. Then the full 30-item dictation for the exit check, followed by the reverse-direction version.",
+   "sentenceRange": "74-84"
+  }
+ ]
+}

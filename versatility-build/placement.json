@@ -1,0 +1,50 @@
+{
+ "A:Times of day": [
+  1,
+  "A3"
+ ],
+ "A:Last, this, next week": [
+  1,
+  "A11"
+ ],
+ "A:Last, this, next month": [
+  2,
+  "A5"
+ ],
+ "A:Last, this, next year": [
+  2,
+  "A13"
+ ],
+ "A:So far, from now": [
+  2,
+  "A6"
+ ],
+ "F:More enders": [
+  2,
+  "F6"
+ ],
+ "F:Speaker-marking enders": [
+  3,
+  "F8"
+ ],
+ "D:Hot, cold, ouch": [
+  1,
+  "D3"
+ ],
+ "D:New, pretty, kind, skilled": [
+  2,
+  "D5"
+ ],
+ "G:Phrases for occasions": [
+  0,
+  "G3"
+ ],
+ "H:Meeting up": [
+  2,
+  "H9"
+ ],
+ "J:Me, us, home": [
+  0,
+  "J5"
+ ]
+}

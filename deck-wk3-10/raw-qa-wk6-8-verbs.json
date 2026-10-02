@@ -1,0 +1,155 @@
+{
+ "oneTargetViolations": [
+  "FATAL — naru (item 4, 'become') is never introduced anywhere: it appears in no lesson's `introduces` list and in no sentence card, yet the W-INSERTION GATE drill demands 'naru' -> naranai. Every one of the 65 verbs except naru is placed on a day; the pair count of 65 is therefore unreachable (64 pairs are actually taught).",
+  "Item 66 (KEY 1, taught day 36) audioText 'mainichi iku. ashita iku.' — mainichi is item 110, not introduced until day 46 (and re-listed day 55). The very first card of the block carries an unintroduced item.",
+  "Item 130 (PAIR STORAGE, recited daily from day 36) audioText 'kaku, kaite. kiku, kiite. iku, itte.' — kaku and kiku are day 39. Two unintroduced items on a day-36 card.",
+  "Item 76 (e, day 36) audioText 'uchi e kaeru' — kaeru is day 43. The sentence card for the same particle (S4) correctly uses iku; the item card contradicts it.",
+  "Item 78 (kara, day 38) 'eki kara aruku' and item 79 (made, day 38) 'eki made aruku' — aruku is day 40. S22 uses the same string correctly on day 40, so the item cards run two days ahead of their own verb.",
+  "Item 67 (godan/ichidan operator, day 42) audioText 'taberu, tabete. toru, totte.' — toru is day 56, fourteen days later.",
+  "Item 127 (doko de, day 42) 'doko de tabemasu ka' and item 128 (nan-ji ni, day 42) 'nan-ji ni okimasu ka' — the -masu ka shell is item 89, day 45. Both cards use a shell three days early.",
+  "Item 93 (-kata, day 47) audioText 'tsukaikata' — tsukau is day 50.",
+  "Item 121 (yasumi, day 47) is glossed 'From yasumu. Same point as hanashi.' — but yasumu is day 56. The derivational point cannot be made; the noun precedes its source verb by nine days. (hanashi/hanasu is correctly ordered, which makes the yasumi slip clearly an error.)",
+  "CODA-CLASS SORT is opened on day 42 as a 'seed, 14 items' drill, and its 14 items are erabu (d50), nugu (d49), kasu (d49), utsu (d56), sumu (d56), oku (d56), hashiru (d43), sawagu (d49), naosu (d49), tatsu (d56), tobu (d50), tsuku (d46), warau (d53), tanomu (d56). Thirteen of fourteen are unintroduced on day 42. Its -ite/-ide voicing sub-block (kaite / isoide / kiite / oyoide / aruite / nuide / tsuite / sawaide) is likewise day-46-and-later material.",
+  "-NAI FORMATION opens day 52 ('ichidan and consonant-godan only, 20 verbs') but the spec list includes shinu (d54), katsu (d56) and toru (d56).",
+  "W-INSERTION GATE runs day 53 but its list includes motsu (d56), sumu (d56), oku (d56) and naru (never taught).",
+  "S90 'doko ni sumimasu ka' — the declared new element is sumu, but doko ni is a second unintroduced element: only doko de is carded (item 127); doko ni exists solely inside that card's note and in item 129's inventory line.",
+  "S64 'tomodachi ni moraimashita' — the declared new element is morau, but the ni here marks the SOURCE/giver, a fourth function of ni that is never carded. Items 70-73 give only existence, goal, recipient/target and clock time; 'receive FROM' is a distinct use (kara-substitutable) and arrives unannounced.",
+  "S6 'koohii, nomu?' carries two novelties at once: the verb nomu AND the particle-dropped plain-form rising question. It is also the first plain-form question in the course, thirteen days before register (item 109, day 52) is discussed.",
+  "Unverifiable by construction: the block never declares its inherited inventory, so roughly forty nouns and function words used in sentences (asa, jikan, uchi, eki, gakkoo, tomodachi, koohii, mizu, gohan, terebi, hon, kuruma, michi, nihongo, namae, shigoto, yoru, heya, kinoo, biiru, tabako, okane, niku, shatsu, kutsu, tegami, minna, denwa, koko, kore, kono, soo, nani mo, wa, mo, ga, hachi-ji/ku-ji/go-ji/juu-ji) cannot be 1T-checked. A block that claims mechanical 1T verification must ship the cumulative inventory it inherits.",
+  "Bookkeeping duplicates that break the one-new-element accounting: S82 is assigned to both day 46 and day 55; S92 to day 46 and day 56; S96 to day 50 and day 56; and day 55 re-lists 'nani o shimasu ka frame' which was already item 126 on day 45 (S42)."
+ ],
+ "notationViolations": [
+  "KANJI IN THE DECK — contract breach, two occurrences: item 5's note ('Written 言う but pronounced YUU') and day 41's drill text ('THE YUU SESSION: 言う is heard, produced and drilled as yu-u'). The contract is 'no kana, no kanji, ever'. State it as 'the character the learner will never see' or delete it; do not print the glyph.",
+  "Wrong mora decomposition: S73's note writes suwanai as 'su-u-wa-na-i' (five morae). suwanai is FOUR morae, su-wa-na-i — the long vowel of suu does not survive into the -wanai form. As written it also contradicts the drill's own suwanai [3] indexing.",
+  "Items shipped without the required accent integer: items 92 (-ni iku), 93 (-kata), 97 (-hajimeru), 98 (-owaru), 99 (-tsuzukeru) all carry accent '-' plus 'verify before recording'. All five are cardType PROD. The contract says every item carries an accent integer; a PROD card with no accent is not recordable. (The particle/operator items 68-81 carrying '-' is defensible — they are unaccented clitics — but the four i-stem compound tails are not.)",
+  "Item 110 mainichi is tagged pos 'noun / adverb' but its audioText is the bare word 'mainichi', not the required 'X ga' frame. Either drop 'noun' from the pos tag or frame it. (The four true nouns — hanashi, yasumi, tabemono, nomimono — are correctly framed 'X ga'.)",
+  "Format inconsistency, not a spelling breach: items 83-91 and 94-96, 101-102, 108 put prose in the accent field ('[3] on nomimasu') rather than an integer, so the field is not machine-checkable against the audioText it labels.",
+  "No -ei- spellings, no macrons, no undoubled long vowels, no missing n' anywhere in items, sentences, drills or audioText. sensee/kookoosee/isshuukan/ren'yookee/mizenkee/jishokee, gakkoo, kinoo, kyoo, koohii, biiru, juu-ji, -mashoo, issho, zenzen, denwa, minna all check out. Mora counts asserted in notes are correct except the suwanai case above (ga-Q-ko-o 4, i-Q-sho 3, na-N-ji 3, ze-N-ze-N 4, sha-be-ru 3, wakarimasen 6, kookoosee 6, isshuukan 6 all verified)."
+ ],
+ "japaneseErrors": [
+  {
+   "item": "items 101, 102, 103, 104, 105, 106 and the whole -NAI FORMATION / W-INSERTION GATE answer keys",
+   "problem": "Every plain-negative accent integer is one mora too late. The block states the correct rule — 'the accent lands on the mora immediately before -nai' — and then indexes the drop onto the NA of -nai itself. nomanai is no-ma-na-i and the mora before -nai is MA, so it is [2], not [3]. The deck's own hedge on konai ('some references list [1]') is the tell: [1] is the correct value and the same shift applies to all ~35 integers. Anchors: shiranai is shi-RA-nai [2] (the deck's schema would give [3]); wakaranai is wa-ka-RA-nai [3] (deck says [4]); tabenai is ta-BE-nai [2] (deck says [3]). In a deck whose selling point is a load-bearing accent integer on every card, this ships a systematically wrong melody on the single most drilled form family, and it contradicts the deck's own stated rule.",
+   "fix": "Subtract 1 from every -nai integer: nomanai [2], yomanai [2], ikanai [2], kakanai [2], matanai [2], motanai [2], katanai [2], dasanai [2], toranai [2], yobanai [2], shinanai [2], tabenai [2], minai [1], nenai [1], okinai [2], dekinai [2], shiranai [2], hanasanai [3], asobanai [3], isoganai [3], arukanai [3], wakaranai [3], kaeranai [3], hairanai [3], kawanai [2], iwanai [2], awanai [2], suwanai [2], omowanai [3], morawanai [3], tsukawanai [3], narawanai [3], warawanai [3], shinai [1], konai [1]. Leave -nakatta as is — ikanakatta [4], hanasanakatta [5], standalone nakatta [1] and nai [1] are already correct — and note in the card that -nai and -nakatta therefore do NOT sit on the same mora.",
+   "severity": "fatal"
+  },
+  {
+   "item": "item 4, naru",
+   "problem": "An item in the inventory that no lesson introduces and no sentence uses, but that the W-INSERTION GATE drills. This is the unlearnable-card case the 1T rule exists to prevent, and it is also a high-frequency verb (X ni naru, samuku naru) being silently dropped.",
+   "fix": "Give naru a day and a sentence card. It is a godan -ru [1] with natte [1]; a clean 1T frame on an existing base is 'sensee ni naru' or, once adjectives return, 'osoku naru'. Then re-count the block: it is 64 pairs without naru, 65 with.",
+   "severity": "fatal"
+  },
+  {
+   "item": "block header gate tally, repeated verbatim in day 56's closing audit",
+   "problem": "The coda arithmetic is wrong and does not sum to the claimed total. Actual membership: -ru 14 (aru, naru, wakaru, toru, yaru, shiru, kaeru, hairu, hashiru, kiru-cut, tsukuru, iru-need, shaberu, kagiru — the notes forget to number shaberu and kagiru), -ku 7 (kaku, kiku, aruku, hataraku, tsuku, oku + iku), -u 9, -mu 5, -su 5, -tsu 5, -bu 4, -gu 4, -nu 1. The header's '-ru 12, -ku 6' sums with 9 ichidan and 2 irregulars to 62, not 65. The entire premise of the block is this gate count, so it cannot be off by three.",
+   "fix": "Publish -ru 14, -ku 7 (6 regular + iku), and re-derive the closure items: -ru closes at hashiru/kaeru by teaching order, not at toru.",
+   "severity": "major"
+  },
+  {
+   "item": "lesson day 42, 'Week 6 audit: 22 pairs stored; -ru class already closed at toru'",
+   "problem": "Both halves are false. toru is introduced on day 56, fourteen days later. By day 42 the -ru class holds exactly two members (aru d36, wakaru d41). The pair count by day 42 is 21, not 22 (3+3+2+4+2+5+2). The item-16 note that says 'THE -ru CLASS CLOSES HERE (item 16)' is talking about frequency index, not teaching day, and the lesson plan has silently converted one into the other.",
+   "fix": "Re-audit every closure claim by DAY, not by item number, and state which of the two orders each note is using. By day: -ru closes d43, -u d46, -ku d46, -su d49, -gu d49, -bu d50, -mu d56, -tsu d56.",
+   "severity": "major"
+  },
+  {
+   "item": "lesson day 56 ('Block D audit') plus the -tsu and -mu classes",
+   "problem": "The audit day introduces 13 new verbs and carries 12 sentence cards, so nothing is consolidated on the day the block E gate is checked. Worse, two coda classes reach four members only on that same day: -tsu holds one member (matsu, d39) until day 56 delivers motsu, tatsu, katsu and utsu at once, and -mu holds two (nomu, yomu) until day 56 delivers yasumu, sumu and tanomu. The induction base is 'complete' with zero days of exposure for a third of it.",
+   "fix": "Redistribute: move motsu/tatsu and yasumu/sumu into days 44-48 (the -masu and i-stem weeks, where they cost nothing new), and leave day 56 as a true audit with no more than two or three new items.",
+   "severity": "major"
+  },
+  {
+   "item": "item 5 / item 8 / item 62 / PAIR RECALL and TRAP DRILL answer keys for 'itte [0]'",
+   "problem": "The deck teaches 言って exclusively as yutte and lists itte [0] as a two-way phrase-only item (iku / iru-need). But 言って is standardly itte in careful and semi-careful speech — ゆって is the casual variant the deck has chosen as citation. An audio-only learner meets itte for 'say' constantly (itte kudasai, nante itta no), so itte [0] is a THREE-way homophone, and the drill's requirement to answer 'both readings' is an incomplete key that will train a wrong exclusion.",
+   "fix": "Keep yutte as the production citation form per the brief, but add itte as a listed comprehension variant on item 5 and extend the itte [0] answer key to three readings with three frames: eki ni itte / okane ga itte / nihongo de itte.",
+   "severity": "major"
+  },
+  {
+   "item": "sentence 98, 'okane o motsu' — 'I carry money'",
+   "problem": "Not a sentence a native produces for this meaning. 持つ in the plain non-past reads as inceptive or generic ('come to have', 'to hold' in the abstract, e.g. okane o motsu to hito wa kawaru); the habitual 'I carry money' is okane o motteru. The card teaches the exact error the block spends its notes trying to prevent elsewhere (cf. the flags on sumu and shitteru).",
+   "fix": "Reframe with a verb where plain motsu is natural, e.g. 'kaban o motsu' ('I'll take the bag' — offering to carry it), or move the money frame to block E as okane o motteru and use 'nimotsu o motsu' here.",
+   "severity": "major"
+  },
+  {
+   "item": "sentences 67, 100, 102 vs items 29, 37, 50",
+   "problem": "Three PROD sentence cards are built on items marked RECOG-only: kiru 'cut' (item 29, RECOG) drives S67 'niku o kirimasu' PROD; nugu (item 37, RECOG) drives S100 'kutsu o nugimasu' PROD; warau (item 50, RECOG) drives S102 'minna ga waraimashita' PROD. The -NAI FORMATION drill likewise demands production of wakaranai from wakaru, which is RECOG. Either the item tags or the card types are wrong.",
+   "fix": "Promote kiru-cut, nugu, warau and wakaru to PROD (all four are production-worthy at this level), or downgrade the four cards to RECOG. Pick one and make the tags agree.",
+   "severity": "minor"
+  },
+  {
+   "item": "sentence 90, 'doko ni sumimasu ka'",
+   "problem": "Marginal as a standalone card. 住みます in the non-past needs an explicit future context (rainen kara doko ni sumimasu ka); the bare question is almost always どこに住んでいますか. The card's own note admits this, which is an argument for not shipping the sentence rather than for shipping it with a disclaimer.",
+   "fix": "Either add the future adverbial the reading requires ('rainen wa doko ni sumimasu ka') or introduce sumu with a first-person plan frame ('Tookyoo ni sumimasu') and hold the question for block E.",
+   "severity": "minor"
+  },
+  {
+   "item": "W-INSERTION GATE drill script",
+   "problem": "The answer key contains a wrong answer in-line: \"'motsu' -> matanai... (caller correction: motanai)\". matanai is matsu's negative. A recording pass will voice 'matanai' after the prompt 'motsu' before the correction lands, which is exactly the interference the drill is meant to prevent. The list also contains 18 items while the target demands '20/20 on the shuffled list'.",
+   "fix": "Delete the editing artifact: 'motsu' -> motanai. Add two items to reach 20 (e.g. 'narau' -> narawanai, 'naru' -> naranai once naru is actually taught).",
+   "severity": "minor"
+  },
+  {
+   "item": "CODA-CLASS SORT target statement",
+   "problem": "'nine godan codas, seven of them I can hear a pattern in' contradicts the block header's own 'Eight of nine classes are >= 4'. Eight codas reach four members; only -nu does not. Also, -mu, -bu and -nu all surface as -nde, so 'nine codas' and 'four buckets' are two different counts being used interchangeably in one drill.",
+   "fix": "'Nine godan codas, eight of them inducible, four te-endings, one memorized singleton (-nu) plus one true exception (iku).'",
+   "severity": "minor"
+  },
+  {
+   "item": "item 88 note and lesson day 45 ('Three of five break the naive rule')",
+   "problem": "The -MASU SHELL drill runs SIX tails (-masu, -masen, -mashita, -masen deshita, -mashoo, -masen ka) and FOUR of them take an accent other than ma. The 'three of five' figure only holds if -masu ka is excluded, but day 45's own recitation is 'ma, SE, ma, SE, SHO, SE' — six slots, four breaks.",
+   "fix": "'Four of the six shell forms break the naive ma rule: masen, masen deshita, masen ka take SE; mashoo takes SHO.'",
+   "severity": "minor"
+  },
+  {
+   "item": "item 19 cross-reference",
+   "problem": "'also the noun hanashi [3], item 122' — hanashi is item 120; item 122 is tabemono. In a deck that navigates by item number, a wrong pointer breaks the trap-set and pair scheduling machinery that the notes depend on.",
+   "fix": "item 120.",
+   "severity": "minor"
+  },
+  {
+   "item": "item 14 note and sentence 97 note (kau / katsu separation)",
+   "problem": "Internal contradictions in the scheduling arithmetic the deck uses to justify admitting the katte [0] / katte [1] pair. Item 14 says the two are on 'days 37 and 56'; the lesson plan puts kau on day 38. S97 says 'nineteen days apart'; 38 to 56 is eighteen.",
+   "fix": "kau d38, katsu d56, eighteen days apart. Fix both notes to the same numbers.",
+   "severity": "minor"
+  },
+  {
+   "item": "drill target counts across four drills",
+   "problem": "Every target demands more items than its own spec lists: CODA-CLASS SORT targets '40 items' against a 24-item spec (14 + 2 exceptions + 8 voicing); NI/DE/O targets '40 items' against 20; -NAI FORMATION targets '30 verbs' against 33 listed; W-INSERTION targets 20 against 18.",
+   "fix": "Make each target equal the list, or publish the extra items.",
+   "severity": "minor"
+  },
+  {
+   "item": "I-STEM TAIL CHAIN, the 'shi-' and 'aruki-' runs",
+   "problem": "The chain is generated mechanically and several outputs are not things anyone says: 'shi ni iku' (and it is homophonous with 死にいく), 'shiowaru', 'arukiowaru', 'aruki ni iku' (Japanese uses sanpo ni iku). 'shikata' is a real word but means 'method/way' as a frozen noun and collides with the shikata ga nai frame taught at item 107 — worth naming rather than colliding silently.",
+   "fix": "Mark the ungrammatical or non-occurring cells of the matrix and skip them aloud; a drill whose point is that the shelf is uniform must still not teach non-words. Substitute yari-/tsukuri- for shi- on the -owaru and -ni iku tails.",
+   "severity": "minor"
+  },
+  {
+   "item": "sentence 61 and sentence 52 glosses",
+   "problem": "gohan is glossed 'a meal' at S8 and 'dinner' at S61 with no signal that the word did not change. yobinikui glossed 'hard to say' — 呼びにくい is 'hard to call out / awkward to address someone by', not 'hard to pronounce' (that is iinikui, which is also the more natural sentence here).",
+   "fix": "Keep gohan = 'a meal/rice' consistently. Either regloss S52 as 'this name is awkward to call out' or switch the card to 'kono namae wa iinikui' — which also fixes the fact that yuu's i-stem ii- is otherwise never produced anywhere in the block.",
+   "severity": "minor"
+  },
+  {
+   "item": "lesson day 36 contract ('I will never work out a te-form; I will remember it') vs CODA-CLASS SORT",
+   "problem": "The block's load-bearing design decision is that class and te-form are stored, never computed, yet the CODA-CLASS SORT — opened day 42, six days in — asks the learner to derive the te-ending from a dictionary form by coda, and its target has the learner announce the pattern aloud. That is the block E induction, run inside block D and against unintroduced verbs.",
+   "fix": "Either restate day 36 honestly ('I will store first and notice later'), or convert CODA-CLASS SORT into a sorting task over pairs the learner already holds (caller says both members, learner names the bucket) until the day-56 gate.",
+   "severity": "minor"
+  }
+ ],
+ "missing": [
+  "shiranai — the plain negative of shiru appears nowhere: not in the -NAI FORMATION list, not in a sentence, not as an item. The block cards shirimasen and devotes item 125 to the shiru/shitteru asymmetry, yet omits the form that asymmetry actually produces, and 'shiranai' is among the highest-frequency negative plain forms in speech.",
+  "The i-stem of yuu (ii-) is never produced. Item 104 mentions 'iimasu' in passing and then nothing: yuu is absent from the -MASU SHELL drill and from the I-STEM TAIL CHAIN, so the learner leaves the block able to say iwanai but not iimasu, iikata, iitai, or ii ni iku. yuu's stem is irregular in TWO directions (yu- ~ i-) and only one is drilled.",
+  "naru (item 4) — listed but never taught anywhere (also filed as a 1T defect).",
+  "Sentence cards for oyogu and shiru. Both are introduced on a lesson day (49 and 43) but get no sentence, and neither is named in S102's declared item-only list (tobu, shinu, sawagu, utsu, yaru, kagiru) — so they are undeclared omissions rather than deliberate ones.",
+  "kariru 'borrow' — kasu 'lend' is taught (item 40, S57) without its partner; the two are a fixed pair and kariru also fills the honest-ichidan set. Likewise oshieru 'teach' is absent although narau 'learn from a teacher' is taught.",
+  "doko ni and doko kara are named in item 129's inventory line ('nani o, doko de, doko ni, nan-ji ni, dare to, doko kara') but never carded — and doko ni is then used in S90.",
+  "itsu 'when' and dooshite / nande 'why' — the wh + particle set is declared complete without them, and nande is one of the most frequent question words in casual speech.",
+  "Frequency adverbs itsumo and tokidoki. The block teaches mainichi and yoku, which is exactly the point at which the frequency scale is learnable as a set; also missing: chotto, takusan, sukoshi.",
+  "Standalone hajimeru, owaru, tsuzukeru. Items 97-99 cite their standalone accents ([0] each) to explain the compounds but never card the verbs themselves, and all three are common as main verbs (jugyoo ga hajimaru/owaru).",
+  "High-frequency verbs absent from a 65-verb 'frequency-60' base: noru (ride — also fills -ru and pairs with tsuku/iku for the transport frame), deru (leave/go out — the natural antonym of hairu, which IS taught), and oboeru / wasureru.",
+  "Sentence-final ne and yo. If they are not already in blocks A-C the deck should say so: an audio-first learner cannot parse a single line of natural speech without them, and this is the first block where the learner produces whole predicates.",
+  "The inherited inventory itself. The block header lists no prior vocabulary, so the 1T claim cannot be mechanically checked against blocks A-C — the audit the block asks for is not runnable as shipped.",
+  "(Check 4, allomorphs) In scope, the block is clean: the -te voicing pairs -ite/-ide are both present and drilled against each other, and -tte / -nde / -shite are all stocked, with -nde correctly covering -mu, -bu and -nu. The contraction allomorph pairs (-chau/-jau, -toku/-doku, -tara/-dara, -cha/-ja dame) are explicitly and legitimately deferred to block E — but block E must be checked for both members of each, since the earlier pass shipped only the voiceless halves."
+ ],
+ "verdict": "REJECT — major revision before recording. The block is unusually well-built on the axes it was told to watch (romaji spelling is clean: no -ei-, no macrons, no undoubled long vowels, no missing n'; the verified corrections yuu/yutte/iwanai, au [1], nai [1] as aru's suppletive negative, shinu as the only -nu verb, and the -masen/-mashoo accent corrections are all correctly applied; the 65 dictionary accents are right and the claim that the te-form keeps the dictionary index holds for every pair I checked). It fails on three things it did not watch. (1) FATAL, accent: every plain-negative integer is one mora late. The block states the correct rule and then indexes the drop onto the na of -nai — nomanai [3] should be [2], wakaranai [4] should be [3], shiranai/tabenai/minai/shinai/konai all shift down one. That is ~35 wrong integers on the most-drilled form family in the block, and the deck's own hedge on konai [1] is the proof. (2) FATAL, 1T: naru is an inventory item that no lesson introduces and no sentence uses, yet a drill demands it — the unlearnable-card case. (3) SYSTEMIC, sequencing: the 1T discipline is enforced on sentence cards and abandoned everywhere else. Nine item cards carry audioText built from verbs or shells taught 2-14 days later (mainichi on day 36, toru on day 42, -masu ka on day 42, tsukau on day 47, kaeru/kaku/kiku/aruku on days 36-38), the noun yasumi is taught nine days before yasumu, and three drills open on days when most of their content does not exist yet — CODA-CLASS SORT opens day 42 with 13 of its 14 items unintroduced. Alongside that, the gate arithmetic the whole block exists to satisfy is wrong (-ru is 14 not 12, -ku is 7 not 6; the header sums to 62 of 65), day 42's audit contradicts the lesson plan outright, and the audit day itself introduces 13 new verbs while two coda classes reach four members only on that final day. Also fix: itte's three-way homophony (言って is itte as well as yutte) and the unnatural okane o motsu. Fix (1), (2) and the audioText sequencing before any audio is recorded — the accent integers are the deck's product, and a third of them are currently wrong."
+}

@@ -1,0 +1,196 @@
+{
+ "japaneseErrors": [
+  {
+   "item": "item 5 (nete [0])",
+   "problem": "neru '寝る' is accented [1] in standard Tokyo (ne'ru, HL), so the -te form is nete [1] and the past is neta [1]. The card gives [0], and the error propagates into the R0 chant row (item 1) and into S5/S9 ('...neta').",
+   "fix": "nete [1], neta [1]; correct the R0 call sheet and the two sentence cards. Verify with a native voice as the block itself demands elsewhere.",
+   "severity": "major"
+  },
+  {
+   "item": "item 27 (tabeta / mita / oshieta / dekaketa, accent [2])",
+   "problem": "One accent integer is stamped on a card holding four forms with three different accents: tabeta [2], mita [1], oshieta [0], dekaketa [0]. The learner drilling this card is told all four drop after mora 2.",
+   "fix": "Split into one form per card, or list the integer per member. Same fix for every composite -ta card.",
+   "severity": "fatal"
+  },
+  {
+   "item": "item 28 (hanashita / kashita / dashita, accent [2])",
+   "problem": "kashita is [0] (kasu [0]) and dashita is [1] (dasu [1]); only hanashita is [2].",
+   "fix": "Per-member integers: hanashita [2], kashita [0], dashita [1].",
+   "severity": "fatal"
+  },
+  {
+   "item": "item 29 (kaita / kiita / aruita, accent [1])",
+   "problem": "kiita is [0] (kiku [0]) and aruita is [2] (aruku [2]); only kaita is [1]. The card also sits directly under the block's own 'accent law', so it teaches the law and breaks it in the same breath.",
+   "fix": "kaita [1], kiita [0], aruita [2].",
+   "severity": "fatal"
+  },
+  {
+   "item": "item 36 (oyoida / isoida / nuida, accent [2])",
+   "problem": "nuida is [1] (nugu [1]); the card's own item 34 already gives nuide [1].",
+   "fix": "oyoida [2], isoida [2], nuida [1].",
+   "severity": "major"
+  },
+  {
+   "item": "item 48 (nonda / yonda / asonda / shinda, accent [1])",
+   "problem": "asonda is [0] (asobu [0]) and shinda is [0] (shinu [0]); items 44 and 47 already card those verbs as heiban, so the block contradicts itself two cards later.",
+   "fix": "nonda [1], yonda [1], asonda [0], shinda [0].",
+   "severity": "fatal"
+  },
+  {
+   "item": "item 77 (katta / matta / totta / itta / shita / kita, accent [0])",
+   "problem": "Three of the six are accented: matta [1], totta [1], kita [1]. Stamping [0] on the card destroys exactly the kita/kite contrast item 75 calls 'load-bearing'.",
+   "fix": "katta [0], matta [1], totta [1], itta [0], shita [0], kita [1].",
+   "severity": "fatal"
+  },
+  {
+   "item": "items 90, 91, 92 (-tenai [2], -teta [2], -tenakatta [2])",
+   "problem": "These shells inherit the host verb's accent index (the block's own law), so a fixed [2] is wrong for most hosts, and each card's own audioText disproves it: 'yondeta' is [1] (yomu [1]) and 'kitenakatta' is [1] (kuru [1]), not [2]. All three are additionally self-labelled 'accent approximate', which the notation contract does not permit.",
+   "fix": "Replace the integer with the inheritance statement ('index = host verb's index') and give a verified integer for each carded token.",
+   "severity": "major"
+  },
+  {
+   "item": "item 104 (-chatta [3])",
+   "problem": "-chau/-jau accents the cha/ja mora, whichever mora that is. The card's own example wasurechatta (wa-su-re-cha-t-ta) accents mora 4, hanashichatta mora 5. [3] is right only for four-mora stems like tabechau.",
+   "fix": "State the rule as 'accent on the cha/ja mora' and drop the fixed integer.",
+   "severity": "major"
+  },
+  {
+   "item": "THE ACCENT LAW (block defence) vs items 102-107",
+   "problem": "The law is asserted without its single exception: -chau/-jau does NOT preserve the host accent. nomu [1] > nonjau [3], kau [0] > katchau [3], shiru [0] > shitchau [3]. A learner applying the stated law produces *no'njau and *kattchau with heiban contour.",
+   "fix": "Add one line to item 102: 'the chant preserves accent; -chau/-jau is the one shell that moves it, always onto cha/ja'.",
+   "severity": "major"
+  },
+  {
+   "item": "item 94 (shiranai [3])",
+   "problem": "For a heiban verb the plain negative is heiban: shiru [0] > shiranai [0]. [3] is the pattern for accented verbs (wakaru [2] > wakaranai [3]). Also 'SUPPLETIVE' is a terminological error: shiranai is the perfectly regular negative of shiru; the irregularity is that the affirmative requires -teru.",
+   "fix": "Verify with a native voice, expect [0]; relabel as 'the affirmative is -teru but the negative is the plain -nai form'.",
+   "severity": "major"
+  },
+  {
+   "item": "item 84 (resultant-state diagnostic) and item 42/87 (sunde / sunderu)",
+   "problem": "The diagnostic offered is 'does the verb name something instantaneous?', and 'sum-' is listed as one of the punctual verbs. sumu 'live' is not punctual under any reading; a learner running the stated test on sumu will answer 'durative' and derive the progressive. The diagnostic misclassifies its own exemplar.",
+   "fix": "Either drop sumu from the punctual list and card sunderu as a lexicalised state, or restate the test as 'does the verb name a change that leaves a state behind'.",
+   "severity": "major"
+  },
+  {
+   "item": "item 38 (R4 induction audio)",
+   "problem": "The row-defining stimulus is 'nomu, nonde. yomu, yonde. yobu, yonde. asobu, asonde.' - it contains the yonde/yonde homophone pair inside the very audio that is supposed to induce the rule, on day 3, before the pitch contrast has been trained.",
+   "fix": "Induct R4 on non-colliding members (nomu, yasumu, asobu, tobu) and introduce the yonde pair as a separate contrast card after the row is stable.",
+   "severity": "major"
+  },
+  {
+   "item": "item 65 note vs sentences 13 and 14",
+   "problem": "Item 65 says of atte (au) / atte (aru): 'Never drill the two adjacently.' S13 ('tomodachi ni atta') and S14 ('kagi ga atte') are adjacent cards in the same session, D4. The items themselves are 14 indices apart (51 and 65), under the contract's 15-index minimum for accent-identical pairs; yonde [1] (40) and yonde [0] (43) are three apart.",
+   "fix": "Move S14 to a later day; separate items 51/65 and 40/43 to at least 15 indices.",
+   "severity": "major"
+  },
+  {
+   "item": "item 127 ('okane ga itte.')",
+   "problem": "A bare -te form is not an utterance - this is a fragment with no continuation, and the -te form of iru 'need' is vanishingly rare in speech. The itte the learner will actually meet from this verb is essentially never the -te form; the live collision is okane ga iru / okane ga itta.",
+   "fix": "Frame it as a complete utterance the learner could really hear ('okane ga itte, komatteru') or replace the card with okane ga iru as recognition-only.",
+   "severity": "minor"
+  },
+  {
+   "item": "sentence 7 ('kutsu o nuide, ie ni ita.')",
+   "problem": "No one says this. Taking your shoes off and then 'being in the house' is not a coherent sequence; ita is stative and clashes with the sequential reading being taught on this very card.",
+   "fix": "'kutsu o nuide, ie ni haitta.' or 'kutsu o nuide, uchi ni agatta.'",
+   "severity": "major"
+  },
+  {
+   "item": "sentence 3 ('mise ni dekakete, kutsu o mita.')",
+   "problem": "dekakeru does not take a plain shop-destination with ni comfortably; it wants a purpose or a broad destination (kaimono ni dekakeru, machi ni dekakeru). 'mise ni dekakete' reads as translationese.",
+   "fix": "'kaimono ni dekakete, kutsu o mita.' or use itte for the destination reading.",
+   "severity": "minor"
+  },
+  {
+   "item": "sentence 10 ('zasshi o yonde, nete, kesa okita.')",
+   "problem": "kesa is stranded at the end of a chain whose first two links necessarily happened the previous night, and the -te chain carries its tense from the final clause - so the sentence asserts the reading and sleeping happened this morning too.",
+   "fix": "'yuube zasshi o yonde nete, kesa okita.' (requires yuube, or reorder the beats).",
+   "severity": "minor"
+  },
+  {
+   "item": "sentence 60 ('tomodachi ga katte, minna waratta.')",
+   "problem": "Semantically odd - everyone laughing when a friend wins reads as laughing at them. This is the H4 pitch-contrast card, so it should not also be carrying a strange scenario.",
+   "fix": "'tomodachi ga katte, minna yorokonda' - or keep waratta and change the frame to something laughter fits.",
+   "severity": "minor"
+  },
+  {
+   "item": "NASAL-VS-SILENCE stimulus pair 'asonde / atatte'",
+   "problem": "The drill promises stimuli matched for mora count and contour, but this pair also differs at mora 2 (so vs ta), so the learner can answer it without hearing the nasal-vs-geminate cue at all. Every other pair in the list is minimal.",
+   "fix": "asonde / asotte.",
+   "severity": "major"
+  },
+  {
+   "item": "Scheduling: ROW-MIX / CHANT-7 constraints vs lesson W9 D5",
+   "problem": "Three hard constraints are broken by the next day's lesson. (a) 'R4 and R5 never enter the same mix until R5 has passed target blocked on two consecutive days' - D5 runs all seven rows randomised, one day after R5 opens. (b) CHANT-7 says blocked for a row's first TWO sessions - R5 gets one. (c) IKU ISOLATION says iku is drilled only against R5 members, never against R2 members, until 100% for three consecutive sessions - D5 puts iku into the full mix that contains R2.",
+   "fix": "Delay full randomisation until R5 and iku have met their own gates, or drop the gates. As written the block cannot be run as specified.",
+   "severity": "major"
+  },
+  {
+   "item": "NASAL-VS-SILENCE gate vs lesson W9 D4",
+   "problem": "The gate reads 'BELOW 90% ON DAY 4, R5 DOES NOT OPEN', but R5 opens on day 4, in the same session, with the drill scheduled inside it. The one gate allowed to stop the schedule cannot fire.",
+   "fix": "Move the gating run to day 3's close, with R5's opening conditional on it, or move R5 to day 5.",
+   "severity": "major"
+  },
+  {
+   "item": "sentence 63 note",
+   "problem": "'Every link is a different chant row' followed by a list containing R0 twice (okite, tabete) and R5 twice (atte, kaetta).",
+   "fix": "Either rewrite the claim or swap a link so the rows really are distinct.",
+   "severity": "minor"
+  },
+  {
+   "item": "Block header vs item 72 (tte)",
+   "problem": "tte is listed in the ASSUMED FUNCTION-WORD INVENTORY from blocks A-D and then carded as a new item on day 4, and S18's newElement names it as new. It is either prior or it is not.",
+   "fix": "Decide; if it is prior, S18 has one new element (yuu) and item 72 becomes a review card.",
+   "severity": "minor"
+  },
+  {
+   "item": "items 1, 13, 19, 26, 30, 31, 37, 38, 49, 73, 78, 84, 102 (accent integers on rows, rules and constructions)",
+   "problem": "Chant rows ('R0: -ru > -te' [2]), derivation rules ('-ta: te > ta' [2]) and abstract constructions ('-te junctive' [0], [2] for the same construction's second sense) carry accent integers that denote nothing - there is no word to drop after mora 2. Two cards for the same construction (30 and 37) carry different integers.",
+   "fix": "Omit the integer on non-lexical entries, or attach it to the card's exemplar token and say so.",
+   "severity": "minor"
+  }
+ ],
+ "missing": [
+  "-de HOSTS FOR EVERY DEPENDENT CONSTRUCTION. Outside -jau, not one dependent is ever shown on a -de stem. -te kudasai, bare -te, -te kureru/-kureta/-kurenai?/-kuremasen ka, -te morau/-moratta/-moraeru?, -te kuru/-kita/-kite, -te mo ii/-te ii/-te mo ii yo all use only voiceless hosts (matte, oshiete, kashite, mite, katte, dashite, wakatte, motte, tsukatte, suwatte, tabete). The learner never hears yonde kureru, nonde mo ii, isoide kite. This is the same one-sided-allomorph defect the block congratulates itself on fixing for -chau/-jau.",
+  "-te kara ('after doing X'). The highest-frequency -te dependent in the language after -teru, and it is neither carded nor deferred anywhere.",
+  "-te miru ('try doing'). Absent and not deferred; it is a top-ten -te slot.",
+  "-te ageru. The benefactive paradigm is opened with kureru (day 8) and morau (day 10) and left open - the outward member is never taught, though ageru itself is carded as item 9.",
+  "-te iku, the directional twin of -te kuru. Day 11 teaches both senses of -te kuru and never mentions that the away-direction member exists; 'motte iku' is unbuildable.",
+  "-te aru. Directly relevant to day 5: 'mado ga aiteru' vs 'mado ga akete aru' is the contrast that makes the resultant-state reading precise, and it is the transitive half of the same idea.",
+  "naru > natte / natta. One of the most frequent godan -ru verbs in the language and absent from the entire 60-verb ledger, so '-ku naru', 'ni natta' and the whole change-of-state family have no host.",
+  "The i-adjective -kute and -katta forms. The block USES both (konakute in S56, yokatta in S14) without ever teaching either.",
+  "The i-adjective NAI (jikan ga nai, shikata ga nai) - named in the standing corrections list as a fatal earlier omission, still absent here.",
+  "The -te form of the copula (X de, Y) for linking noun and na-adjective clauses - the junctive is taught as verb-only.",
+  "tanomu > tanonde. Drilled in the CHANT-7 R4 call sheet, carded nowhere.",
+  "-temasu, the contracted polite -te iru named in the notation contract as a citation form; only -teru and the labelled long form -te iru appear.",
+  "Sentence cards for item 117 (-te kite) and item 127 (X ga itte). Both are introduced in a lesson whose sentence range contains no card for them.",
+  "-tari or -tara, at least as a preview. The block's own defence sells the -ta branch as the chant's second dividend and then ships no member of it beyond plain -ta."
+ ],
+ "notationViolations": [
+  "item 89: 'carded ONLY in this 5-mora collocation frame' - kekkon shiteru is SEVEN morae (ke-k-ko-n-shi-te-ru); kekkon alone is four. The stated mora count is wrong in a block that gates cards on mora counts.",
+  "items 34, 90, 91, 92: accent given as '[1] / [2] - accent approximate'. The contract requires every item to carry an accent integer, not an estimate; three of these are the -teru family shells the whole day-6 session rests on.",
+  "item 89 (kekkon): the only noun-class item introduced in the block, and its audioText is 'ane wa kekkon shiteru' - not the required 'X ga' frame. Since kekkon [0] and an odaka noun are acoustically identical bare, the recorded frame does not test the integer it asserts.",
+  "items 1, 13, 19, 31, 38, 49, 73: the romaji field carries metalanguage ('R0: -ru > -te (ICHIDAN)', 'R6: IRREGULARS - two words, not a row') plus an accent integer. There is no romaji string for the integer to describe.",
+  "items 26, 30, 37, 78, 84, 102: accent integers on derivation rules and abstract constructions; items 30 and 37 give [0] and [2] for the same construction under two senses.",
+  "CLEAN, for the record: no -ei- spelling anywhere (sensee, kooen, sooji, kinoo, koohii, gakkoo, kyoo, biiru all correctly doubled), no macrons, no undoubled long vowel, geminates rigorously doubled (kitte, gakkoo, zasshi, chotto, katchau, itchau), and no environment in the block requires n' so none is missing. yoon mora counts where stated (kiite three, kiita four) are correct. The notation failures above are all counting and field-discipline failures, not spelling failures."
+ ],
+ "oneTargetViolations": [
+  "STRUCTURAL, AND IT INVALIDATES THE WHOLE CHECK: the block declares only a FUNCTION-WORD inventory from blocks A-D. Every content word in every sentence is therefore unverifiable. The following appear in sentence or drill material and are introduced nowhere in this block and nowhere in the declared inventory: sooji, hanashi, kami, minna, mushi, gomi, sakki, kaban, michi, te, okane, mado, ane, ani, kasa, pen, shatsu, mise, kutsu, ongaku, umi, biiru, koohii, machi, hito, ame, asa. Until the block declares its assumed content inventory, no sentence can be certified 1T.",
+  "S52 'ame ga futte kita.' - the newElement field itself names TWO items (115 AND 116). futte is a NEW LEXEME (furu) and -te kita inchoative is a new construction, in one four-mora sentence. Textbook 1T breach, self-declared.",
+  "S18 \"'ashita kuru' tte yutta.\" - newElement names items 71 AND 72: the new lexeme yuu (in its -ta form, before its -te form has been drilled) and the quotative tte. Two new elements.",
+  "S14 'kagi ga atte, yokatta.' - new item 65 (atte from aru) PLUS yokatta, the past of the i-adjective ii, which requires the -katta inflection and the suppletive yo- stem. Neither is taught anywhere in this block, and -katta is not derivable from the -ta rule the block teaches (that rule is te>ta, de>da, verbs only).",
+  "S56 'kyoo wa konakute mo ii.' - new item 121 PLUS the -kute form of an i-adjective (nai > nakute), which the block never introduces. usesPrior lists 'konai', which is not the form in the sentence.",
+  "S13 'kooen de matte, tomodachi ni atta.' - matte (item 55) and atta (au, item 51) both make their first sentence appearance here, on the same day. The card's own note has to explain which atta this is, which is the tell.",
+  "S15 'sooji shite, yasunda.' - sooji is in no item card, in no declared inventory, and appears elsewhere only inside the COLLISION FRAMES drill. Two unknowns with the new R6 shite.",
+  "S58 'hanashi kiite. / kami o kitte.' - new item 123 (kitte) PLUS two uncarded nouns. hanashi is not recoverable from hanasu for an audio-only learner, and kami is introduced nowhere.",
+  "S60 'tomodachi ga katte, minna waratta.' - new item 125 (katte from katsu) PLUS minna, uncarded and not in the function-word list.",
+  "S29 'dare mo kitenakatta.' - new item 92 (-tenakatta) PLUS the negative-polarity construction dare mo + NEG, which is not the sum of dare and mo and is taught nowhere.",
+  "S44 'mushi ga shinjatta.' and S50 'gomi dashite kita.' - each pairs its new construction with an uncarded noun (mushi, gomi).",
+  "S28 'sakki made zasshi o yondeta.' - new item 91 (-teta) plus sakki, uncarded.",
+  "SAME-SESSION ITEMS ARE COUNTED AS 'PRIOR' THROUGHOUT. S17 lists motte (item 56, introduced that same day) in usesPrior while the new element is itte; S13 does the same with atta; S2 with hanashita; S22 with shitte. The 1T guarantee is only as strong as its definition of 'already met', and this block's definition is 'appears earlier in the same 100-minute session'.",
+  "DRILL-SIDE VIOLATIONS. CHANT-7's R4 call sheet contains tanomu>tanonde, an item with no card anywhere in the block. ASPECT SORT requires categorising tsuiteru, haitteru, yonderu, nonderu, asonderu and hataraiteru, none of which are carded as -teru forms - and tsuiteru and haitteru are two of the seven exemplars of the 'state' reading, i.e. the drill teaches the category on items the learner has never met.",
+  "S64 and S63 declare newElements ('mixed-aspect turn', 'five-link -te chain') that are not items. They happen to be safe - every component is prior - but they are formally outside the 1T scheme, and if a reviewer accepts 'a combination' as an element the rule stops constraining anything."
+ ],
+ "verdict": "The pedagogy is strong and the notation discipline is genuinely good - the spelling contract is clean (no -ei-, no macrons, correct doubling and gemination throughout), the -chau/-jau fatal defect from the earlier pass really is fixed, yuu is correctly installed as the citation form, au [1] is corrected, and the row ordering argument is sound. But the block does not currently pass. THREE CLASSES OF DEFECT BLOCK SHIPMENT. (1) The composite -ta cards (items 27, 28, 29, 36, 48, 77) stamp a single accent integer on sets whose members carry two or three different accents - fifteen wrong integers, including matta, totta and kita on one card, which destroys the kita/kite contrast the block itself calls load-bearing. This is the block teaching its own accent law and violating it four cards later, and it is fatal because the learner is audio-only and the integer is the whole signal. (2) The -de allomorph is systematically absent from every dependent construction except -jau: no yonde kureru, no nonde mo ii, no isoide kite, no yonde kudasai. This is exactly the one-sided-pair defect the block congratulates itself on having fixed, reproduced across eight constructions instead of one. (3) The 1T rule cannot be certified at all, because the block declares only a function-word inventory while its sentences run on roughly thirty uncarded content words; on top of that, S52 and S18 declare two new items in their own newElement fields, and S14 and S56 lean on i-adjective inflection (-katta, -kute) that is taught nowhere. Also fix before running: nete is [1] not [0]; -chau/-jau is the one shell that does not preserve the host accent, and the block never says so; shiranai is almost certainly [0], not [3]; and the schedule is internally unrunnable - the NASAL-VS-SILENCE gate is supposed to decide whether R5 opens on day 4 but runs inside the day-4 session that opens R5, and day 5's permanent full randomisation breaks the R4/R5 separation rule, the two-blocked-sessions rule and the IKU ISOLATION rule simultaneously."
+}

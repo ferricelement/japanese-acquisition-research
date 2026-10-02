@@ -1,0 +1,465 @@
+n,romaji,kana,gloss,newElement,cardType,src
+1,"aa, soo soo.",ああ、そうそう。,"Ah, right right.",soo,PROD,wk3-4
+2,"hee, soo desu ka.",へえ、そうですか。,"Huh, is that so.",soo desu ka,RECOG,wk3-4
+3,"aa, naruhodo.",ああ、なるほど。,"Ah, that makes sense.",naruhodo,PROD,wk3-4
+4,"aa, sokka.",ああ、そっか。,"Oh, I see.",sokka,PROD,wk3-4
+5,"hee, honto?",へえ、ほんと？,"Huh, really?",honto,PROD,wk3-4
+6,"un, majide.",うん、まじで。,"Yeah, seriously.",majide,PROD,wk3-4
+7,"aa, tashika ni.",ああ、たしかに。,"Ah, fair point.",tashika ni,PROD,wk3-4
+8,"aa, yappari.",ああ、やっぱり。,"Ah, knew it.",yappari,PROD,wk3-4
+9,nanka... uun.,なんか…ううん。,It's kinda... nah.,nanka,RECOG,wk3-4
+10,"eeto, nanka...",ええと、なんか…,"Um, like...",eeto,PROD,wk3-4
+11,"ano, eeto...",あの、ええと…,"Uh, um...",ano (filler),PROD,wk3-4
+12,"ano, chotto...",あの、ちょっと…,"Uh, that's a bit... (= no)",chotto,PROD,wk3-4
+13,"maa, soo desu ka.",まあ、そうですか。,"Well, is that so.",maa,RECOG,wk3-4
+14,"aa, arigatoo.",ああ、ありがとう。,"Ah, thanks.",arigatoo,PROD,wk3-4
+15,"ano, chotto sumimasen.",あの、ちょっとすみません。,"Uh, excuse me a second.",sumimasen,PROD,wk3-4
+16,"aa, gomen gomen.",ああ、ごめんごめん。,"Ah, sorry sorry.",gomen,PROD,wk3-4
+17,"ohayoo. — aa, ohayoo.",おはよう。—ああ、おはよう。,"Morning. — Ah, morning.",ohayoo,PROD,wk3-4
+18,"aa, konnichiwa.",ああ、こんにちわ。,"Oh, hello.",konnichiwa,PROD,wk3-4
+19,"konbanwa. — aa, konbanwa.",こんばんわ。—ああ、こんばんわ。,"Evening. — Ah, evening.",konbanwa,PROD,wk3-4
+20,"jaa, oyasumi.",じゃあ、おやすみ。,"Well then, night.",oyasumi,PROD,wk3-4
+21,"jaa ne, oyasumi.",じゃあね、おやすみ。,"See ya, night.",jaa ne,PROD,wk3-4
+22,"jaa ne. — un, mata ne.",じゃあね。—うん、またね。,"See ya. — Yeah, later.",mata ne,PROD,wk3-4
+23,itadakimasu.,いただきます。,(said before eating),itadakimasu,PROD,wk3-4
+24,"aa, gochisoosama.",ああ、ごちそうさま。,"Ah, that was great, thanks.",gochisoosama,PROD,wk3-4
+25,"otsukaresama. — aa, otsukaresama.",おつかれさま。—ああ、おつかれさま。,"Good work. — Ah, you too.",otsukaresama,PROD,wk3-4
+26,"yoroshiku. — hai, yoroshiku.",よろしく。—はい、よろしく。,"Nice to meet you. — Yes, likewise.",yoroshiku,PROD,wk3-4
+27,"daijoobu? — un, daijoobu daijoobu.",だいじょうぶ？—うん、だいじょうぶだいじょうぶ。,"You okay? — Yeah, I'm fine.",daijoobu,PROD,wk3-4
+28,"un, ganbatte.",うん、がんばって。,"Yeah, go get 'em.",ganbatte,PROD,wk3-4
+29,'chotto' tte yutta.,ちょっとってゆった。,I said 'chotto'.,yuu (as yutta),RECOG,wk3-4
+30,'chotto' tte nani?,ちょっとってなに？,What does 'chotto' mean?,X tte nani?,PROD,wk3-4
+31,nihongo de nan te yuu no?,にほんごでなんてゆうの？,How do you say it in Japanese?,nihongo de nan te yuu no?,PROD,wk3-4
+32,"sumimasen, moo ichido onegai.",すみません、もういちどおねがい。,"Sorry, one more time please.",moo ichido onegai,PROD,wk3-4
+33,"ano, yukkuri onegai.",あの、ゆっくりおねがい。,"Um, slowly please.",yukkuri onegai,PROD,wk3-4
+34,soo da.,そうだ。,That's right.,da,PROD,wk3-4
+35,"hai, soo desu.",はい、そうです。,"Yes, that's right.",desu,PROD,wk3-4
+36,"uun, soo ja nai.",ううん、そうじゃない。,"Nah, that's not it.",ja nai,PROD,wk3-4
+37,"aa, soo datta.",ああ、そうだった。,"Ah, that's right, it was.",datta,PROD,wk3-4
+38,"hai, soo deshita.",はい、そうでした。,"Yes, that was so.",deshita,PROD,wk3-4
+39,"uun, soo ja nakatta.",ううん、そうじゃなかった。,"No, it wasn't like that.",ja nakatta,PROD,wk3-4
+40,soo de wa nai.,そうでわない。,That is not the case. (formal),de wa nai,RECOG,wk3-4
+41,"aa, kore da.",ああ、これだ。,"Ah, this is it.",kore,PROD,wk3-4
+42,"uun, sore ja nai.",ううん、それじゃない。,"Nope, not that one.",sore,PROD,wk3-4
+43,are datta.,あれだった。,It was that one over there.,are,PROD,wk3-4
+44,dore? kore?,どれ？これ？,Which one? This one?,dore,PROD,wk3-4
+45,koko da.,ここだ。,It's here.,koko,PROD,wk3-4
+46,"un, soko soko.",うん、そこそこ。,"Yeah, right there.",soko,PROD,wk3-4
+47,"aa, asoko da.",ああ、あそこだ。,"Ah, it's over there.",asoko,PROD,wk3-4
+48,"sumimasen, doko?",すみません、どこ？,"Excuse me, where?",doko,PROD,wk3-4
+49,"koo? — un, koo koo.",こう？—うん、こうこう。,"Like this? — Yeah, like that.",koo,PROD,wk3-4
+50,"doo? — maa, chotto...",どう？—まあ、ちょっと…,"How is it? — Well, kinda...",doo,PROD,wk3-4
+51,sonna...,そんな…,That kind of thing... / oh come on.,sonna,RECOG,wk3-4
+52,donna? — eeto...,どんな？—ええと…,What kind? — Um...,donna,PROD,wk3-4
+53,"dore? — aa, kore ga.",どれ？—ああ、これが。,"Which one? — Ah, this one.",ga,PROD,wk3-4
+54,"kore, doko no?",これ、どこの？,This — where's it from?,no (genitive),PROD,wk3-4
+55,soo? ... soo.,そう？…そう。,Really? ... Right.,rising terminal,RECOG,wk3-4
+56,kore desu ka?,これですか？,Is it this one? (polite),ka,RECOG,wk3-4
+57,soo da ne.,そうだね。,"Yeah, isn't it.",ne,PROD,wk3-4
+58,kore da yo.,これだよ。,It's THIS one (telling you).,yo,PROD,wk3-4
+59,soo da yo ne.,そうだよね。,"That's right, isn't it.",yo ne,PROD,wk3-4
+60,soo da na...,そうだな…,"Hmm, I suppose so...",na,RECOG,wk3-4
+61,"eeto, doko datta kke.",ええと、どこだったっけ。,"Um, where was it again.",kke,PROD,wk3-4
+62,"ano sa, chotto sa,",あのさ、ちょっとさ、,"Hey, so, like,",sa,RECOG,wk3-4
+63,sore na no?,それなの？,Is it that one?,no (rising),PROD,wk3-4
+64,"kore, neko?",これ、ねこ？,Is this a cat?,neko,PROD,wk3-4
+65,"aa, inu da.",ああ、いぬだ。,"Ah, it's a dog.",inu,PROD,wk3-4
+66,kono hito da yo.,このひとだよ。,It's this person.,hito,PROD,wk3-4
+67,sono kodomo?,そのこども？,That kid?,kodomo,PROD,wk3-4
+68,"sumimasen, mizu, doko?",すみません、みず、どこ？,"Excuse me, where's the water?",mizu,PROD,wk3-4
+69,sono hako da yo.,そのはこだよ。,It's that box.,hako,PROD,wk3-4
+70,"isu, doko?",いす、どこ？,Where's the chair?,isu,PROD,wk3-4
+71,"kore, tsukue ja nai.",これ、つくえじゃない。,This isn't a desk.,tsukue,PROD,wk3-4
+72,ano kuruma da yo.,あのくるまだよ。,It's that car over there.,kuruma,PROD,wk3-4
+73,tsukue no ue.,つくえのうえ。,On the desk.,ue,PROD,wk3-4
+74,isu no shita da yo.,いすのしただよ。,It's under the chair.,shita,PROD,wk3-4
+75,hako no naka.,はこのなか。,Inside the box.,naka,PROD,wk3-4
+76,kuruma no mae.,くるまのまえ。,In front of the car.,mae,PROD,wk3-4
+77,tonari no hito.,となりのひと。,The person next to me.,tonari,PROD,wk3-4
+78,isu no soba da yo.,いすのそばだよ。,It's right by the chair.,soba,RECOG,wk3-4
+79,uchi no neko.,うちのねこ。,Our cat.,uchi,PROD,wk3-4
+80,kono ie?,このいえ？,This house?,ie,PROD,wk3-4
+81,"heya, doko?",へや、どこ？,Where's the room?,heya,PROD,wk3-4
+82,mado no soto.,まどのそと。,Outside the window.,mado,PROD,wk3-4
+83,"kagi, doko datta kke.",かぎ、どこだったっけ。,Where was the key again.,kagi,PROD,wk3-4
+84,"kore, tegami da.",これ、てがみだ。,This is a letter.,tegami,PROD,wk3-4
+85,kutsu no naka.,くつのなか。,Inside the shoe.,kutsu,PROD,wk3-4
+86,"kasa, doko?",かさ、どこ？,Where's the umbrella?,kasa,PROD,wk3-4
+87,mise no mae da yo.,みせのまえだよ。,It's in front of the shop.,mise,PROD,wk3-4
+88,eki no chikaku.,えきのちかく。,Near the station.,eki,RECOG,wk3-4
+89,asoko no yama.,あそこのやま。,That mountain over there.,yama,PROD,wk3-4
+90,"umi, doo?",うみ、どう？,How's the sea?,umi,PROD,wk3-4
+91,"aa, hoshi da.",ああ、ほしだ。,"Ah, stars.",hoshi,PROD,wk3-4
+92,"ame? — un, ame.",あめ？—うん、あめ。,"Rain? — Yeah, rain.",ame,PROD,wk3-4
+93,ano ki no shita.,あのきのした。,Under that tree.,ki,RECOG,wk3-4
+94,kono hana?,このはな？,This flower?,hana,PROD,wk3-4
+95,"aa, tori da.",ああ、とりだ。,"Ah, a bird.",tori,PROD,wk3-4
+96,"kore, sakana?",これ、さかな？,Is this fish?,sakana,PROD,wk3-4
+97,mushi da! chotto!,むしだ！ちょっと！,A bug! Hang on!,mushi,PROD,wk3-4
+98,"niku, doo?",にく、どう？,How about meat?,niku,PROD,wk3-4
+99,tamago no sara.,たまごのさら。,The egg plate.,tamago,PROD,wk3-4
+100,"sumimasen, shio, doko?",すみません、しお、どこ？,"Excuse me, where's the salt?",shio,PROD,wk3-4
+101,"kore, yasai ja nai.",これ、やさいじゃない。,This isn't a vegetable.,yasai,PROD,wk3-4
+102,"aa, ichigo da.",ああ、いちごだ。,"Ah, strawberries.",ichigo,RECOG,wk3-4
+103,uchi no haha.,うちのはは。,My mother.,haha,PROD,wk3-4
+104,ani no kuruma da yo.,あにのくるまだよ。,It's my brother's car.,ani,PROD,wk3-4
+105,uchi no kazoku.,うちのかぞく。,My family.,kazoku,PROD,wk3-4
+106,tomodachi no ie.,ともだちのいえ。,A friend's house.,tomodachi,PROD,wk3-4
+107,namae? eeto...,なまえ？ええと…,Name? Um...,namae,PROD,wk3-4
+108,ani no koe da.,あにのこえだ。,That's my brother's voice.,koe,PROD,wk3-4
+109,"me? — un, me.",め？—うん、め。,"Eyes? — Yeah, eyes.",me,PROD,wk3-4
+110,"atama? — aa, chotto...",あたま？—ああ、ちょっと…,"Your head? — Ah, kinda...",atama,PROD,wk3-4
+111,"karada, doo?",からだ、どう？,How's your body holding up?,karada,PROD,wk3-4
+112,"shigoto, doo?",しごと、どう？,How's work?,shigoto,PROD,wk3-4
+113,kono kotoba tte nani?,このことばってなに？,What does this word mean?,kotoba,PROD,wk3-4
+114,"asa? — un, asa.",あさ？—うん、あさ。,"Morning? — Yeah, morning.",asa,PROD,wk3-4
+115,yoru da ne.,よるだね。,"It's night, huh.",yoru,PROD,wk3-4
+116,"ima? — un, ima.",いま？—うん、いま。,"Now? — Yeah, now.",ima,PROD,wk3-4
+117,"te, doo?",て、どう？,How's your hand?,te,PROD,wk3-4
+118,sonna koto ja nai yo.,そんなことじゃないよ。,It's not like that.,koto,PROD,wk3-4
+119,kane no hanashi.,かねのはなし。,A money conversation.,kane,PROD,wk3-4
+120,shikata ga nai.,しかたがない。,Nothing to be done about it.,nai,PROD,wk3-4
+121,Iru.,いる。,It's here. / There is one (animate).,iru,PROD,wk4-6
+122,Neko ga iru.,ねこがいる。,There's a cat.,ga,PROD,wk4-6
+123,Aru.,ある。,There is one. / I've got one.,aru,PROD,wk4-6
+124,Mizu ga aru.,みずがある。,There's water.,ga with aru (inanimate),RECOG,wk4-6
+125,Tori ga iru.,とりがいる。,There's a bird.,tori,RECOG,wk4-6
+126,Kagi ga aru.,かぎがある。,There's a key. / I have the key.,kagi,PROD,wk4-6
+127,Neko wa iru.,ねこわいる。,"The cat, at least, is here.",wa,PROD,wk4-6
+128,Kore wa kagi da.,これわかぎだ。,This is the key.,wa on a nominal predicate,RECOG,wk4-6
+129,Hana ga aru.,はながある。,There are flowers.,hana,PROD,wk4-6
+130,Dare ga iru?,だれがいる？,Who's there?,dare,PROD,wk4-6
+131,Nani ga aru?,なにがある？,What's there?,nani,PROD,wk4-6
+132,Tomodachi ga iru.,ともだちがいる。,A friend is here.,tomodachi,RECOG,wk4-6
+133,Dare ga iru? Tomodachi ga iru.,だれがいる？ともだちがいる。,Who's there? A friend is.,exhaustive-listing ga (wh-answer),PROD,wk4-6
+134,Neko wa doko?,ねこわどこ？,Where's the cat?,wa with a wh-predicate,PROD,wk4-6
+135,Sakana ga iru.,さかながいる。,There's a fish.,sakana,RECOG,wk4-6
+136,Ocha wa aru.,おちゃわある。,There is tea (whatever else there isn't).,ocha,PROD,wk4-6
+137,Mizu wa aru. Ocha wa?,みずわある。おちゃわ？,There's water. What about tea?,contrastive wa (paired X wa / Y wa),PROD,wk4-6
+138,Yasai wa?,やさいわ？,And vegetables?,elliptical contrastive wa,PROD,wk4-6
+139,Uchi ga aru.,うちがある。,There's a house. / I have a place.,uchi,RECOG,wk4-6
+140,Uchi wa niwa ga aru.,うちわにわがある。,My place has a garden.,double-nominative (X wa Y ga),PROD,wk4-6
+141,Ie ga aru.,いえがある。,There's a house.,ie,RECOG,wk4-6
+142,Kono ie wa mado ga aru.,このいえわまどがある。,This house has windows.,mado,PROD,wk4-6
+143,Neko wa uchi ni iru.,ねこわうちにいる。,The cat is at home.,ni (existence),PROD,wk4-6
+144,Asobu.,あそぶ。,(I'll) play / hang out.,asobu,PROD,wk4-6
+145,Kodomo wa niwa de asobu.,こどもわにわであそぶ。,The kids play in the garden.,de (action),PROD,wk4-6
+146,Kooen ni iru.,こうえんにいる。,(He's) at the park.,kooen,RECOG,wk4-6
+147,Kooen de asobu.,こうえんであそぶ。,(We) play at the park.,ni/de minimal pair on one place noun,PROD,wk4-6
+148,Taberu.,たべる。,(I'll) eat.,taberu,PROD,wk4-6
+149,Uchi de taberu.,うちでたべる。,(I'll) eat at home.,de with taberu,PROD,wk4-6
+150,Neko wa inai.,ねこわいない。,The cat isn't here.,inai,PROD,wk4-6
+151,Kagi ga nai.,かぎがない。,The key's gone.,nai (suppletive neg of aru),PROD,wk4-6
+152,Shikata ga nai.,しかたがない。,It can't be helped.,shikata,PROD,wk4-6
+153,Ano hito no koe da.,あのひとのこえだ。,That's his voice.,koe,RECOG,wk4-6
+154,Nomu.,のむ。,(I'll) drink.,nomu,PROD,wk4-6
+155,Neko ga ita.,ねこがいた。,There was a cat.,ita,PROD,wk4-6
+156,Kagi ga atta.,かぎがあった。,The key was there. / Found it.,atta,PROD,wk4-6
+157,Kagi ga nakatta.,かぎがなかった。,The key wasn't there.,nakatta,PROD,wk4-6
+158,Tomodachi wa inakatta.,ともだちわいなかった。,My friend wasn't there.,inakatta,PROD,wk4-6
+159,Kesa wa uchi ni ita.,けさわうちにいた。,This morning I was at home.,kesa,RECOG,wk4-6
+160,Neko wa isu no shita ni iru.,ねこわいすのしたにいる。,The cat's under the chair.,N no + relational noun + ni,PROD,wk4-6
+161,Kuruma wa ie no tonari ni aru.,くるまわいえのとなりにある。,The car is next to the house.,tonari,PROD,wk4-6
+162,Eki no chikaku ni mise ga aru.,えきのちかくにみせがある。,There's a shop near the station.,chikaku,PROD,wk4-6
+163,Kawa ga aru.,かわがある。,There's a river.,kawa,RECOG,wk4-6
+164,Kawa no soba ni ie ga aru.,かわのそばにいえがある。,There's a house beside the river.,soba,PROD,wk4-6
+165,Kagi wa hako no yoko ni aru.,かぎわはこのよこにある。,The key's beside the box.,yoko,PROD,wk4-6
+166,Yasai o taberu.,やさいおたべる。,(I) eat vegetables.,o,PROD,wk4-6
+167,Mizu o nomu.,みずおのむ。,(I) drink water.,o with nomu,PROD,wk4-6
+168,Miru.,みる。,(I'll) look.,miru,PROD,wk4-6
+169,E o miru.,えおみる。,(I) look at a picture.,e,RECOG,wk4-6
+170,Kutsu o kau.,くつおかう。,(I'll) buy shoes.,kau,PROD,wk4-6
+171,Tegami o yomu.,てがみおよむ。,(I) read a letter.,yomu,PROD,wk4-6
+172,Kami ni kaku.,かみにかく。,(I) write on paper.,kaku,RECOG,wk4-6
+173,Uta o kiku.,うたおきく。,(I) listen to a song.,kiku,PROD,wk4-6
+174,Nani o suru?,なにおする？,What are you doing?,suru,PROD,wk4-6
+175,Neko iru?,ねこいる？,Is the cat around?,ga-drop,PROD,wk4-6
+176,Yasai taberu?,やさいたべる？,You eating the veg?,o-drop,PROD,wk4-6
+177,Koko de matsu.,ここでまつ。,(I'll) wait here.,matsu,PROD,wk4-6
+178,Tomodachi ni au.,ともだちにあう。,(I'll) meet a friend.,au,PROD,wk4-6
+179,Nani tte yutta?,なにってゆった？,What did you say?,yuu (yutta),PROD,wk4-6
+180,Namae wa?,なまえわ？,And your name?,namae,PROD,wk4-6
+181,Neko ga suki.,ねこがすき。,I like cats.,suki,PROD,wk4-6
+182,Watashi wa inu ga suki.,わたしわいぬがすき。,"Me, I like dogs.",wa ... ga suki (double-nominative with a ga-predicate),PROD,wk4-6
+183,Niku ga kirai.,にくがきらい。,I don't like meat.,kirai,PROD,wk4-6
+184,Yasai ga daisuki.,やさいがだいすき。,I love vegetables.,daisuki,PROD,wk4-6
+185,Yume o miru.,ゆめおみる。,(I) have a dream.,yume,RECOG,wk4-6
+186,Uta ga joozu.,うたがじょうず。,(She's) good at singing.,joozu,PROD,wk4-6
+187,E ga heta.,えがへた。,(I'm) bad at drawing.,heta,PROD,wk4-6
+188,Mizu ga hoshii.,みずがほしい。,I want water.,hoshii,PROD,wk4-6
+189,Yasumi ga hoshii.,やすみがほしい。,I want a day off.,yasumi,PROD,wk4-6
+190,Imi ga wakaru.,いみがわかる。,I get the meaning.,wakaru,PROD,wk4-6
+191,Sukoshi wakaru.,すこしわかる。,I understand a little.,sukoshi,PROD,wk4-6
+192,Kore ga dekiru.,これができる。,I can do this one.,dekiru,PROD,wk4-6
+193,Ano hito wa hanashi ga joozu.,あのひとわはなしがじょうず。,He's a good talker.,hanashi,RECOG,wk4-6
+194,Kodomo no te da.,こどものてだ。,It's a child's hand.,te,RECOG,wk4-6
+195,Neko mo iru.,ねこもいる。,There's a cat too.,mo,PROD,wk4-6
+196,Yasai mo taberu.,やさいもたべる。,(I) eat vegetables too.,mo replacing o,PROD,wk4-6
+197,Watashi mo suki.,わたしもすき。,I like it too.,mo replacing wa,PROD,wk4-6
+198,Sono koto wa wakaru.,そのことわわかる。,That much I do understand.,koto,PROD,wk4-6
+199,Itsumo koko ni iru.,いつもここにいる。,(He's) always here.,itsumo,RECOG,wk4-6
+200,Gohan o taberu.,ごはんおたべる。,(I) eat a meal.,gohan,PROD,wk4-6
+201,Pan mo taberu.,パンもたべる。,(I) eat bread too.,pan,PROD,wk4-6
+202,Hon o yomu.,ほんおよむ。,(I) read a book.,hon,PROD,wk4-6
+203,Onna no hito ga iru.,おんなのひとがいる。,There's a woman there.,onna,RECOG,wk4-6
+204,Minna iru?,みんないる？,Is everyone here?,minna,PROD,wk4-6
+205,Jikan ga nai.,じかんがない。,There's no time.,jikan,PROD,wk4-6
+206,"Ima, doko ni iru?",いま、どこにいる？,Where are you now?,ima,PROD,wk4-6
+207,Otoosan wa uchi ni iru.,おとうさんわうちにいる。,Your dad's at home.,otoosan,PROD,wk4-6
+208,Chichi wa shigoto da.,ちちわしごとだ。,My father's at work.,chichi,PROD,wk4-6
+209,Okaasan wa doko?,おかあさんわどこ？,Where's your mum?,okaasan,PROD,wk4-6
+210,Haha wa uchi ni ita.,ははわうちにいた。,My mother was at home.,haha,PROD,wk4-6
+211,Oniisan ga iru.,おにいさんがいる。,You have an older brother.,oniisan,PROD,wk4-6
+212,Ane wa eki ni iru.,あねわえきにいる。,My older sister's at the station.,ane,PROD,wk4-6
+213,Imooto ga iru.,いもうとがいる。,I have a younger sister.,imooto,PROD,wk4-6
+214,Otooto mo iru.,おとうともいる。,I have a younger brother too.,otooto,PROD,wk4-6
+215,ikura desu ka.,いくらですか。,How much is it?,ikura (105),PROD,wk5-8-numbers
+216,kore wa hyakuen desu.,これわひゃくえんです。,This is a hundred yen.,hyakuen (100),RECOG,wk5-8-numbers
+217,sore wa gohyakuen desu ka.,それわごひゃくえんですか。,Is that five hundred yen?,gohyakuen (102),PROD,wk5-8-numbers
+218,are wa sen'en desu.,あれわせんえんです。,That one over there is a thousand yen.,sen'en (103),RECOG,wk5-8-numbers
+219,kore wa ichiman'en desu.,これわいちまんえんです。,This is ten thousand yen.,ichiman'en (104),RECOG,wk5-8-numbers
+220,kore kudasai.,これください。,"This one, please.",kudasai (175),PROD,wk5-8-numbers
+221,mizu o hitotsu kudasai.,みずおひとつください。,"One water, please.",hitotsu (44),PROD,wk5-8-numbers
+222,biiru o futatsu kudasai.,ビールおふたつください。,"Two beers, please.",futatsu (45),PROD,wk5-8-numbers
+223,ringo o mittsu kudasai.,りんごおみっつください。,"Three apples, please.",mittsu (46),PROD,wk5-8-numbers
+224,tamago o yottsu kudasai.,たまごおよっつください。,"Four eggs, please.",yottsu (47),PROD,wk5-8-numbers
+225,pan o itsutsu kudasai.,パンおいつつください。,"Five breads, please.",itsutsu (48),PROD,wk5-8-numbers
+226,koohii o muttsu kudasai.,コーヒーおむっつください。,"Six coffees, please.",muttsu (49),PROD,wk5-8-numbers
+227,onegaishimasu.,おねがいします。,Please. / If you would.,onegaishimasu (177),PROD,wk5-8-numbers
+228,ikutsu desu ka.,いくつですか。,How many?,ikutsu (54),RECOG,wk5-8-numbers
+229,nanatsu onegaishimasu.,ななつおねがいします。,"Seven, please.",nanatsu (50),PROD,wk5-8-numbers
+230,tamago wa yattsu arimasu.,たまごわやっつあります。,There are eight eggs.,yattsu (51),RECOG,wk5-8-numbers
+231,too kudasai.,とおください。,"Ten, please.",too (53),PROD,wk5-8-numbers
+232,hitori desu.,ひとりです。,Just me. / Party of one.,hitori (56),PROD,wk5-8-numbers
+233,futari desu ka.,ふたりですか。,Two of you?,futari (57),RECOG,wk5-8-numbers
+234,tomodachi ga sannin imasu.,ともだちがさんにんいます。,I have three friends here.,sannin (58),PROD,wk5-8-numbers
+235,yonin onegaishimasu.,よにんおねがいします。,"Four people, please.",yonin (59),PROD,wk5-8-numbers
+236,nannin desu ka.,なんにんですか。,How many people?,nannin (62),RECOG,wk5-8-numbers
+237,biiru o ippai kudasai.,ビールおいっぱいください。,"One beer (one glass), please.",ippai (85),PROD,wk5-8-numbers
+238,mizu o nihai onegaishimasu.,みずおにはいおねがいします。,"Two glasses of water, please.",nihai (86),PROD,wk5-8-numbers
+239,koohii o sanbai kudasai.,コーヒーおさんばいください。,"Three coffees, please.",sanbai (87),PROD,wk5-8-numbers
+240,nanbai desu ka.,なんばいですか。,How many glasses?,nanbai (89),RECOG,wk5-8-numbers
+241,kippu o ichimai kudasai.,きっぷおいちまいください。,"One ticket, please.",ichimai (75),PROD,wk5-8-numbers
+242,kippu o nimai onegaishimasu.,きっぷおにまいおねがいします。,"Two tickets, please.",nimai (76),PROD,wk5-8-numbers
+243,nanmai desu ka.,なんまいですか。,How many (flat things)?,nanmai (79),RECOG,wk5-8-numbers
+244,biiru o ippon kudasai.,ビールおいっぽんください。,"One bottle of beer, please.",ippon (68),PROD,wk5-8-numbers
+245,mizu o nihon onegaishimasu.,みずおにほんおねがいします。,"Two bottles of water, please.",nihon (69),PROD,wk5-8-numbers
+246,sanbon arimasu.,さんぼんあります。,There are three (bottles).,sanbon (70),RECOG,wk5-8-numbers
+247,roppon kudasai.,ろっぽんください。,"Six, please.",roppon (73),PROD,wk5-8-numbers
+248,neko ga ippiki imasu.,ねこがいっぴきいます。,There's one cat.,ippiki (80),PROD,wk5-8-numbers
+249,inu ga sanbiki imasu.,いぬがさんびきいます。,There are three dogs.,sanbiki (82),PROD,wk5-8-numbers
+250,tamago o ikko kudasai.,たまごおいっこください。,"One egg, please.",ikko (63),PROD,wk5-8-numbers
+251,ringo o rokko onegaishimasu.,りんごおろっこおねがいします。,"Six apples, please.",rokko (66),PROD,wk5-8-numbers
+252,mise wa nikai desu.,みせわにかいです。,The shop is on the second floor.,nikai (91),RECOG,wk5-8-numbers
+253,resutoran wa sangai desu.,れすとらんわさんがいです。,The restaurant is on the third floor.,sangai (92),PROD,wk5-8-numbers
+254,sankai desu.,さんかいです。,Three times.,sankai (96),RECOG,wk5-8-numbers
+255,nanji desu ka.,なんじですか。,What time is it?,nanji (116),PROD,wk5-8-numbers
+256,sanji desu.,さんじです。,It's three o'clock.,sanji (108),PROD,wk5-8-numbers
+257,yoji desu ka.,よじですか。,Is it four o'clock?,yoji (109),PROD,wk5-8-numbers
+258,shichiji desu.,しちじです。,It's seven o'clock.,shichiji (112),PROD,wk5-8-numbers
+259,kuji desu.,くじです。,It's nine o'clock.,kuji (113),PROD,wk5-8-numbers
+260,sanji han desu.,さんじはんです。,It's half past three.,han (127),PROD,wk5-8-numbers
+261,juuji desu.,じゅうじです。,It's ten o'clock.,juuji (114),PROD,wk5-8-numbers
+262,gozen juuji desu.,ごぜんじゅうじです。,It's ten a.m.,gozen (128),PROD,wk5-8-numbers
+263,gogo yoji desu.,ごごよじです。,It's four p.m.,gogo (129),PROD,wk5-8-numbers
+264,mise wa juuji kara desu.,みせわじゅうじからです。,The shop opens at ten.,kara (130),PROD,wk5-8-numbers
+265,mise wa kuji made desu.,みせわくじまでです。,The shop is open until nine.,made (131),PROD,wk5-8-numbers
+266,gogo yoji made ni onegaishimasu.,ごごよじまでにおねがいします。,"By four p.m., please.",made ni (132),PROD,wk5-8-numbers
+267,gofun desu.,ごふんです。,It's five minutes.,gofun (121),PROD,wk5-8-numbers
+268,sanji juppun desu.,さんじじゅっぷんです。,It's three ten.,juppun (123),PROD,wk5-8-numbers
+269,sanpun desu ka.,さんぷんですか。,Three minutes?,sanpun (119),PROD,wk5-8-numbers
+270,nanpun desu ka.,なんぷんですか。,How many minutes?,nanpun (126),RECOG,wk5-8-numbers
+271,sanji ni onegaishimasu.,さんじにおねがいします。,"At three, please.",ni with clock time (particle use),PROD,wk5-8-numbers
+272,kyoo desu.,きょうです。,It's today.,kyoo (166),PROD,wk5-8-numbers
+273,ashita onegaishimasu.,あしたおねがいします。,"Tomorrow, please.",ashita (167),PROD,wk5-8-numbers
+274,kinoo desu ka.,きのうですか。,Yesterday?,kinoo (168),RECOG,wk5-8-numbers
+275,asatte onegaishimasu.,あさっておねがいします。,"The day after tomorrow, please.",asatte (169),PROD,wk5-8-numbers
+276,raishuu desu.,らいしゅうです。,It's next week.,raishuu (171),PROD,wk5-8-numbers
+277,doyoobi desu.,どようびです。,It's Saturday.,doyoobi (157),PROD,wk5-8-numbers
+278,kyoo wa getsuyoobi desu.,きょうわげつようびです。,Today is Monday.,getsuyoobi (152),PROD,wk5-8-numbers
+279,getsuyoobi ni onegaishimasu.,げつようびにおねがいします。,"On Monday, please.",getsuyoobi ni (the calendrical ni),PROD,wk5-8-numbers
+280,kin'yoobi desu ka.,きんようびですか。,Friday?,kin'yoobi (156),PROD,wk5-8-numbers
+281,nan'yoobi desu ka.,なんようびですか。,What day of the week is it?,nan'yoobi (159),PROD,wk5-8-numbers
+282,tsuitachi desu.,ついたちです。,It's the first.,tsuitachi (138),PROD,wk5-8-numbers
+283,yokka desu ka.,よっかですか。,The fourth?,yokka (141),PROD,wk5-8-numbers
+284,yooka desu.,ようかです。,It's the eighth.,yooka (145),RECOG,wk5-8-numbers
+285,tooka onegaishimasu.,とおかおねがいします。,"The tenth, please.",tooka (147),PROD,wk5-8-numbers
+286,hatsuka desu.,はつかです。,It's the twentieth.,hatsuka (149),PROD,wk5-8-numbers
+287,nannichi desu ka.,なんにちですか。,What's the date?,nannichi (151),PROD,wk5-8-numbers
+288,shigatsu desu.,しがつです。,It's April.,shigatsu (161),PROD,wk5-8-numbers
+289,kugatsu tooka desu.,くがつとおかです。,It's September tenth.,kugatsu (163),PROD,wk5-8-numbers
+290,nangatsu desu ka.,なんがつですか。,What month?,nangatsu (165),RECOG,wk5-8-numbers
+291,futatsume no shingoo desu.,ふたつめのしんごうです。,It's the second light.,futatsume (134),PROD,wk5-8-numbers
+292,nibanme desu.,にばんめです。,It's the second one.,nibanme (137),PROD,wk5-8-numbers
+293,"ee to, sanbon kudasai.",ええと、さんぼんください。,"Um... three, please.",ee to (179),PROD,wk5-8-numbers
+294,"sore ja, kore kudasai.",それじゃ、これください。,"In that case, I'll take this.",sore ja (180),PROD,wk5-8-numbers
+295,kore de onegaishimasu.,これでおねがいします。,I'll pay with this.,kore de (181),PROD,wk5-8-numbers
+296,fukuro irimasu ka.,ふくろいりますか。,Do you need a bag?,fukuro irimasu ka (183),RECOG,wk5-8-numbers
+297,reshiito onegaishimasu.,レシートおねがいします。,"Receipt, please.",reshiito (184),PROD,wk5-8-numbers
+298,zenbu de sen'en desu.,ぜんぶでせんえんです。,That's a thousand yen in total.,zenbu de (185),RECOG,wk5-8-numbers
+299,"asa, jikan ga aru.",あさ、じかんがある。,In the morning I have time.,KEY 1 — dictionary form as plain non-past (habitual),RECOG,wk6-8-verbs
+300,ashita mo uchi ni iru.,あしたもうちにいる。,Tomorrow too I'll be at home.,ni (existence location),RECOG,wk6-8-verbs
+301,eki ni iku.,えきにいく。,I'm going to the station.,iku,RECOG,wk6-8-verbs
+302,gakkoo e iku.,がっこうえいく。,I'm heading to school.,e (direction),RECOG,wk6-8-verbs
+303,tomodachi ga kuru.,ともだちがくる。,A friend is coming.,kuru,RECOG,wk6-8-verbs
+304,"koohii, nomu?",コーヒー、のむ？,Coffee? / Want a drink?,nomu,RECOG,wk6-8-verbs
+305,mizu o nomu.,みずおのむ。,I drink water.,o (direct object),PROD,wk6-8-verbs
+306,gohan o taberu.,ごはんおたべる。,I eat a meal.,taberu,PROD,wk6-8-verbs
+307,uchi de taberu.,うちでたべる。,I eat at home.,de (locus of action),PROD,wk6-8-verbs
+308,terebi o miru.,テレビおみる。,I watch TV.,miru,PROD,wk6-8-verbs
+309,hon o kau.,ほんおかう。,I buy a book.,kau,PROD,wk6-8-verbs
+310,kuruma de iku.,くるまでいく。,I go by car.,de (means / instrument),PROD,wk6-8-verbs
+311,gakkoo kara kuru.,がっこうからくる。,He's coming from school.,kara (source),RECOG,wk6-8-verbs
+312,eki made iku.,えきまでいく。,I'll go as far as the station.,made (limit),PROD,wk6-8-verbs
+313,tomodachi to iku.,ともだちといく。,I'm going with a friend.,to (comitative),PROD,wk6-8-verbs
+314,eki de matsu.,えきでまつ。,I'll wait at the station.,matsu,PROD,wk6-8-verbs
+315,hon o yomu.,ほんおよむ。,I read a book.,yomu,PROD,wk6-8-verbs
+316,namae o kaku.,なまえおかく。,I write my name.,kaku,PROD,wk6-8-verbs
+317,namae o kiku.,なまえおきく。,I ask his name.,kiku,PROD,wk6-8-verbs
+318,tomodachi ni kiku.,ともだちにきく。,I'll ask my friend.,ni (recipient / target),PROD,wk6-8-verbs
+319,tomodachi to hanasu.,ともだちとはなす。,I talk with a friend.,hanasu,PROD,wk6-8-verbs
+320,eki made aruku.,えきまであるく。,I walk to the station.,aruku,PROD,wk6-8-verbs
+321,michi o aruku.,みちおあるく。,I walk along the street.,o (path),RECOG,wk6-8-verbs
+322,nihongo ga wakaru.,にほんごがわかる。,I understand Japanese.,wakaru,RECOG,wk6-8-verbs
+323,nihongo ga dekiru.,にほんごができる。,I can speak Japanese.,dekiru,PROD,wk6-8-verbs
+324,nihongo de yuu.,にほんごでゆう。,I say it in Japanese.,yuu,RECOG,wk6-8-verbs
+325,soo omou.,そうおもう。,I think so.,omou,PROD,wk6-8-verbs
+326,shigoto o suru.,しごとおする。,I do my work.,suru,PROD,wk6-8-verbs
+327,hachi-ji ni iku.,はちじにいく。,I'll go at eight.,ni (clock time),PROD,wk6-8-verbs
+328,asa okiru.,あさおきる。,I get up in the morning.,okiru,PROD,wk6-8-verbs
+329,"yoru, neru.",よる、ねる。,"At night, I sleep.",neru,PROD,wk6-8-verbs
+330,uchi ni kaeru.,うちにかえる。,I go home.,"kaeru (GODAN, trap)",PROD,wk6-8-verbs
+331,heya ni hairu.,へやにはいる。,I go into the room.,"hairu (GODAN, trap)",PROD,wk6-8-verbs
+332,eki made hashiru.,えきまではしる。,I run to the station.,"hashiru (GODAN, trap)",PROD,wk6-8-verbs
+333,tomodachi o yobu.,ともだちおよぶ。,I'll invite a friend.,yobu,PROD,wk6-8-verbs
+334,koohii o nomimasu.,コーヒーおのみます。,I drink coffee. (polite),-masu,PROD,wk6-8-verbs
+335,biiru wa nomimasen.,ビールわのみません。,I don't drink beer.,-masen,PROD,wk6-8-verbs
+336,"kinoo, hon o yomimashita.",きのう、ほんおよみました。,Yesterday I read a book.,-mashita,PROD,wk6-8-verbs
+337,kinoo wa ikimasen deshita.,きのうわいきませんでした。,Yesterday I didn't go.,-masen deshita,PROD,wk6-8-verbs
+338,eki de machimashoo.,えきでまちましょう。,Let's wait at the station.,-mashoo,PROD,wk6-8-verbs
+339,koohii o nomimasen ka.,コーヒーおのみませんか。,Won't you have a coffee?,-masen ka,PROD,wk6-8-verbs
+340,nani o shimasu ka.,なにおしますか。,What are you going to do?,-masu ka,RECOG,wk6-8-verbs
+341,tomodachi ni aimashita.,ともだちにあいました。,I met a friend.,au [1],PROD,wk6-8-verbs
+342,asa kara hatarakimasu.,あさからはたらきます。,I work from the morning.,hataraku,PROD,wk6-8-verbs
+343,ku-ji kara go-ji made hatarakimasu.,くじからごじまではたらきます。,I work from nine to five.,kara ... made (span frame),PROD,wk6-8-verbs
+344,mizu ga nomitai.,みずがのみたい。,I want to drink water.,-tai,PROD,wk6-8-verbs
+345,arukinagara hanashimasu.,あるきながらはなします。,I talk while walking.,-nagara,PROD,wk6-8-verbs
+346,gohan o tabe ni ikimasu.,ごはんおたべにいきます。,I'm going out to eat.,-ni iku,PROD,wk6-8-verbs
+347,yomikata o kikimashita.,よみかたおききました。,I asked how to read it.,-kata,PROD,wk6-8-verbs
+348,"kinoo, nomisugimashita.",きのう、のみすぎました。,I drank too much yesterday.,-sugiru,RECOG,wk6-8-verbs
+349,kono hon wa yomiyasui.,このほんわよみやすい。,This book is easy to read.,-yasui,PROD,wk6-8-verbs
+350,kono namae wa yobinikui.,このなまえわよびにくい。,This name is hard to say.,-nikui,PROD,wk6-8-verbs
+351,hon o yomihajimemashita.,ほんおよみはじめました。,I started reading the book.,-hajimeru,PROD,wk6-8-verbs
+352,gohan o tabeowarimashita.,ごはんおたべおわりました。,I finished eating.,-owaru,PROD,wk6-8-verbs
+353,hatarakitsuzukemasu.,はたらきつずけます。,I'll keep on working.,-tsuzukeru,RECOG,wk6-8-verbs
+354,tegami o dashimasu.,てがみおだします。,I'll send the letter.,dasu,PROD,wk6-8-verbs
+355,hon o kashimasu.,ほんおかします。,I'll lend you the book.,kasu,PROD,wk6-8-verbs
+356,hon o kaeshimasu.,ほんおかえします。,I'll give the book back.,kaesu,PROD,wk6-8-verbs
+357,isogimashoo.,いそぎましょう。,Let's hurry.,isogu,PROD,wk6-8-verbs
+358,tomodachi to asobimasu.,ともだちとあそびます。,I'll hang out with a friend.,asobu,PROD,wk6-8-verbs
+359,gohan o tsukurimasu.,ごはんおつくります。,I'll make dinner.,tsukuru,PROD,wk6-8-verbs
+360,nihongo o naraimasu.,にほんごおならいます。,I'm learning Japanese.,narau,PROD,wk6-8-verbs
+361,kono kuruma o tsukaimasu.,このくるまおつかいます。,I'll use this car.,tsukau,PROD,wk6-8-verbs
+362,tomodachi ni moraimashita.,ともだちにもらいました。,I got it from a friend.,morau,PROD,wk6-8-verbs
+363,tomodachi ni agemashita.,ともだちにあげました。,I gave it to a friend.,ageru,PROD,wk6-8-verbs
+364,tomodachi ga kuremashita.,ともだちがくれました。,A friend gave it to me.,kureru,PROD,wk6-8-verbs
+365,niku o kirimasu.,にくおきります。,I'll cut the meat.,"kiru (cut, GODAN [1])",PROD,wk6-8-verbs
+366,shatsu o kimasu.,シャツおきます。,I'll put on a shirt.,"kiru (wear, ICHIDAN [0])",RECOG,wk6-8-verbs
+367,kyoo wa tabenai.,きょうわたべない。,I'm not eating today.,KEY 2 — -nai (ichidan),PROD,wk6-8-verbs
+368,biiru wa nomanai.,ビールわのまない。,I don't drink beer.,-anai (godan),PROD,wk6-8-verbs
+369,nani mo kawanai.,なにもかわない。,I'm not buying anything.,-wanai (W-INSERTION),PROD,wk6-8-verbs
+370,nani mo iwanai.,なにもいわない。,He doesn't say anything.,iwanai (yuu's suppletive -nai stem),PROD,wk6-8-verbs
+371,tabako o suwanai.,たばこおすわない。,I don't smoke.,suu,PROD,wk6-8-verbs
+372,kyoo wa shinai.,きょうわしない。,I'm not doing it today.,"shinai (suru, irregular)",PROD,wk6-8-verbs
+373,ashita wa konai.,あしたわこない。,He isn't coming tomorrow.,"konai (kuru, irregular)",PROD,wk6-8-verbs
+374,jikan ga nai.,じかんがない。,There's no time.,nai (aru's suppletive negative),PROD,wk6-8-verbs
+375,kinoo wa ikanakatta.,きのうわいかなかった。,I didn't go yesterday.,-nakatta,PROD,wk6-8-verbs
+376,amari nomimasen.,あまりのみません。,I don't drink much.,amari,PROD,wk6-8-verbs
+377,zenzen wakarimasen.,ぜんぜんわかりません。,I don't understand at all.,zenzen,PROD,wk6-8-verbs
+378,moo tabemashita.,もうたべました。,I've already eaten.,moo,RECOG,wk6-8-verbs
+379,mada jikan ga aru.,まだじかんがある。,There's still time.,mada,RECOG,wk6-8-verbs
+380,mainichi hatarakimasu.,まいにちはたらきます。,I work every day.,mainichi,PROD,wk6-8-verbs
+381,issho ni ikimasen ka.,いっしょにいきませんか。,Won't you come along?,issho ni,PROD,wk6-8-verbs
+382,ato de denwa o shimasu.,あとででんわおします。,I'll call later.,ato de,PROD,wk6-8-verbs
+383,sugu ikimasu.,すぐいきます。,I'll go right away.,sugu,PROD,wk6-8-verbs
+384,hayaku okimashita.,はやくおきました。,I got up early.,hayaku,PROD,wk6-8-verbs
+385,yoku aimasu.,よくあいます。,I see him often.,yoku,PROD,wk6-8-verbs
+386,okane ga iru.,おかねがいる。,I need money.,"iru (need, GODAN)",RECOG,wk6-8-verbs
+387,tomodachi to shaberimasu.,ともだちとしゃべります。,I chat with my friends.,"shaberu (GODAN, trap)",PROD,wk6-8-verbs
+388,doko ni sumimasu ka.,どこにすみますか。,Where will you live?,sumu,PROD,wk6-8-verbs
+389,tomodachi ni tanomimasu.,ともだちにたのみます。,I'll ask my friend to do it.,tanomu,PROD,wk6-8-verbs
+390,juu-ji ni tsukimasu.,じゅうじにつきます。,I arrive at ten.,tsuku,PROD,wk6-8-verbs
+391,koko ni okimasu.,ここにおきます。,I'll put it here.,oku,PROD,wk6-8-verbs
+392,kyoo wa yasumimasu.,きょうわやすみます。,I'm taking today off.,yasumu,PROD,wk6-8-verbs
+393,hon o torimasu.,ほんおとります。,I'll take the book.,toru,PROD,wk6-8-verbs
+394,kore o erabimasu.,これおえらびます。,I'll choose this one.,erabu,PROD,wk6-8-verbs
+395,kyoo wa katsu.,きょうわかつ。,Today we win.,katsu,PROD,wk6-8-verbs
+396,okane o motsu.,おかねおもつ。,I carry money.,motsu,PROD,wk6-8-verbs
+397,koko ni tatsu.,ここにたつ。,I'll stand here.,tatsu,PROD,wk6-8-verbs
+398,kutsu o nugimasu.,くつおぬぎます。,I take my shoes off.,nugu,PROD,wk6-8-verbs
+399,kuruma o naoshimasu.,くるまおなおします。,I'll fix the car.,naosu,PROD,wk6-8-verbs
+400,minna ga waraimashita.,みんながわらいました。,Everyone laughed.,warau,PROD,wk6-8-verbs
+401,"asa okite, gohan o tabeta.",あさおきて、ごはんおたべた。,I got up in the morning and ate.,"-te junctive, SEQUENCE (item 30)",PROD,wk9-10-te
+402,"tomodachi ni namae o oshiete, hanashita.",ともだちになまえおおしえて、はなした。,I told my friend my name and we talked.,oshiete (item 10),RECOG,wk9-10-te
+403,"mise ni dekakete, kutsu o mita.",みせにでかけて、くつおみた。,I went out to the shop and looked at shoes.,dekakete (item 11),PROD,wk9-10-te
+404,"tegami o kaite, dashita.",てがみおかいて、だした。,I wrote a letter and sent it.,kaite (item 20),PROD,wk9-10-te
+405,"ongaku o kiite, neta.",おんがくおきいて、ねた。,I listened to music and went to sleep.,kiite (item 21),RECOG,wk9-10-te
+406,isoide tegami o kaita.,いそいでてがみおかいた。,I wrote the letter in a hurry.,"-te junctive, MANNER (item 37)",PROD,wk9-10-te
+407,"kutsu o nuide, ie ni ita.",くつおぬいで、いえにいた。,I took my shoes off and stayed in the house.,nuide (item 34),PROD,wk9-10-te
+408,kinoo umi de oyoida.,きのううみでおよいだ。,I swam in the sea yesterday.,oyoida (item 36),PROD,wk9-10-te
+409,"biiru o nonde, neta.",ビールおのんで、ねた。,I drank a beer and went to bed.,nonde (item 39),PROD,wk9-10-te
+410,"zasshi o yonde, nete, kesa okita.",ざっしおよんで、ねて、けさおきた。,"I read a magazine, slept, and got up this morning.",yonde from yomu [1] (item 40),PROD,wk9-10-te
+411,"tomodachi o yonde, asonda.",ともだちおよんで、あそんだ。,I called my friend over and we hung out.,yonde from yobu [0] (item 43),RECOG,wk9-10-te
+412,"pan o katte, uchi ni kaetta.",パンおかって、うちにかえった。,I bought bread and went home.,katte from kau [0] (item 50),PROD,wk9-10-te
+413,"kooen de matte, tomodachi ni atta.",こうえんでまって、ともだちにあった。,I waited in the park and met my friend.,matte (item 55),PROD,wk9-10-te
+414,"kagi ga atte, yokatta.",かぎがあって、よかった。,"The key was there, thank goodness.",atte from aru [1] (item 65),RECOG,wk9-10-te
+415,"sooji shite, yasunda.",そうじして、やすんだ。,I cleaned up and rested.,"shite from suru, R6 (item 74)",PROD,wk9-10-te
+416,"tomodachi ga kite, asonda.",ともだちがきて、あそんだ。,My friend came over and we hung out.,"kite from kuru, R6 (item 75)",RECOG,wk9-10-te
+417,"kaban o motte, gakkoo ni itta.",かばんおもって、がっこうにいった。,I took my bag and went to school.,"itte / itta from iku, THE EXCEPTION (item 76)",PROD,wk9-10-te
+418,'ashita kuru' tte yutta.,あしたくるってゆった。,He said he's coming tomorrow.,"yutte / yutta from yuu (items 71, 72)",PROD,wk9-10-te
+419,ima gohan tabeteru.,いまごはんたべてる。,I'm eating right now.,-teru PROGRESSIVE (item 78),PROD,wk9-10-te
+420,nani shiteru?,なにしてる？,What are you doing?,shiteru (item 80),RECOG,wk9-10-te
+421,kooen de matteru.,こうえんでまってる。,I'm waiting in the park.,matteru (item 81),PROD,wk9-10-te
+422,"ano hito, shitteru.",あのひと、しってる。,I know that person.,"-teru RESULTANT STATE (items 84, 85)",PROD,wk9-10-te
+423,kagi motteru?,かぎもってる？,Have you got the key?,motteru (item 86),PROD,wk9-10-te
+424,kono machi ni sunderu.,このまちにすんでる。,I live in this town.,sunderu (item 87),RECOG,wk9-10-te
+425,mado ga aiteru.,まどがあいてる。,The window is open.,aiteru (item 88),RECOG,wk9-10-te
+426,ane wa kekkon shiteru.,あねわけっこんしてる。,My older sister is married.,kekkon shiteru (item 89),PROD,wk9-10-te
+427,mada tabetenai.,まだたべてない。,I haven't eaten yet.,-tenai (item 90),PROD,wk9-10-te
+428,sakki made zasshi o yondeta.,さっきまでざっしおよんでた。,I was reading a magazine until just now.,-teta (item 91),PROD,wk9-10-te
+429,dare mo kitenakatta.,だれもきてなかった。,Nobody had come.,-tenakatta (item 92),RECOG,wk9-10-te
+430,nani shiten no?,なにしてんの？,So what are you doing?,-ten no? (item 93),RECOG,wk9-10-te
+431,"ano hito no namae, shiranai.",あのひとのなまえ、しらない。,I don't know that person's name.,shiranai (item 94),PROD,wk9-10-te
+432,chotto matte kudasai.,ちょっとまってください。,Please wait a moment.,-te kudasai (item 95),PROD,wk9-10-te
+433,chotto matte.,ちょっとまって。,Hang on.,bare -te request (item 96),PROD,wk9-10-te
+434,namae o oshiete kudasai.,なまえおおしえてください。,Please tell me your name.,-te kudasai with an o-marked object,PROD,wk9-10-te
+435,mada tabenaide kudasai.,まだたべないでください。,Please don't eat yet.,-naide kudasai (item 97),PROD,wk9-10-te
+436,tetsudatte kureru?,てつだってくれる？,Will you give me a hand?,-te kureru (item 98),PROD,wk9-10-te
+437,sensee ga oshiete kureta.,せんせいがおしえてくれた。,The teacher taught me.,-te kureta (item 99),RECOG,wk9-10-te
+438,chotto matte kurenai?,ちょっとまってくれない？,Could you wait a sec?,-te kurenai? (item 100),PROD,wk9-10-te
+439,"kasa, kashite kuremasen ka.",かさ、かしてくれませんか。,Would you lend me an umbrella?,-te kuremasen ka (item 101),RECOG,wk9-10-te
+440,kagi wasurechatta.,かぎわすれちゃった。,I went and forgot my key.,-chatta (item 104),PROD,wk9-10-te
+441,"kore, tabechau.",これ、たべちゃう。,I'll finish this off.,-chau (item 103),PROD,wk9-10-te
+442,koohii nonjatta.,コーヒーのんじゃった。,I drank the coffee - all of it.,"-jatta, VOICED (item 106)",PROD,wk9-10-te
+443,"sono zasshi, kyoo yonjau.",そのざっし、きょうよんじゃう。,I'll finish that magazine today.,"-jau, VOICED (item 105)",RECOG,wk9-10-te
+444,mushi ga shinjatta.,むしがしんじゃった。,The bug died.,shinjatta (item 107),RECOG,wk9-10-te
+445,sensee ni oshiete moratta.,せんせいにおしえてもらった。,I got the teacher to teach me.,-te moratta (item 109),PROD,wk9-10-te
+446,ani ni tetsudatte morau.,あににてつだってもらう。,I'll get my brother to help.,-te morau non-past (item 108),PROD,wk9-10-te
+447,chotto mite moraeru?,ちょっとみてもらえる？,Could you take a look at this?,-te moraeru? (item 110),PROD,wk9-10-te
+448,tomodachi ga kashite kureta. tomodachi ni kashite moratta.,ともだちがかしてくれた。ともだちにかしてもらった。,"My friend lent it to me. (two sentences, one event)",kureru / morau direction frame (item 111),RECOG,wk9-10-te
+449,pan katte kuru.,パンかってくる。,I'll go buy some bread.,-te kuru DIRECTIONAL (item 112),PROD,wk9-10-te
+450,gomi dashite kita.,ごみだしてきた。,I went and put the rubbish out.,-te kita directional past (item 113),PROD,wk9-10-te
+451,sukoshi wakatte kita.,すこしわかってきた。,I'm starting to get it.,-te kuru INCHOATIVE (item 114),PROD,wk9-10-te
+452,ame ga futte kita.,あめがふってきた。,It's started raining.,"futte and -te kita inchoative (items 115, 116)",RECOG,wk9-10-te
+453,kore tabete mo ii?,これたべてもいい？,Can I eat this?,-te mo ii (item 118),PROD,wk9-10-te
+454,suwatte ii?,すわっていい？,Mind if I sit?,-te ii reduced (item 119),PROD,wk9-10-te
+455,kono pen tsukatte mo ii yo.,このぺんつかってもいいよ。,You can use this pen.,"-te mo ii yo, granting (item 120)",RECOG,wk9-10-te
+456,kyoo wa konakute mo ii.,きょうわこなくてもいい。,You don't have to come today.,-nakute mo ii (item 121),PROD,wk9-10-te
+457,koko ni kite. / shatsu kite.,ここにきて。・しゃつきて。,Come here. / Put your shirt on.,kite from kiru 'wear' [0] (item 122),RECOG,wk9-10-te
+458,hanashi kiite. / kami o kitte.,はなしきいて。・かみおきって。,Listen to what I'm saying. / Cut the paper.,kitte from kiru 'cut' [1] (item 123),RECOG,wk9-10-te
+459,kitte ga aru?,きってがある？,Have you got a stamp?,kitte the NOUN [0] (item 124),RECOG,wk9-10-te
+460,"tomodachi ga katte, minna waratta.",ともだちがかって、みんなわらった。,My friend won and everyone laughed.,katte from katsu [1] (item 125),RECOG,wk9-10-te
+461,"uchi ni kaette, gohan o tsukutta. / shatsu o kaete, dekaketa.",うちにかえって、ごはんおつくった。・しゃつおかえて、でかけた。,I went home and cooked. / I changed my shirt and went out.,"kaete from kaeru 'change', ichidan [0] (item 126)",RECOG,wk9-10-te
+462,"gakkoo ni itte, sensee ni atta. / 'ashita kuru' tte yutteta.",がっこうにいって、せんせいにあった。・あしたくるってゆってた。,I went to school and met the teacher. / He was saying he'd come tomorrow.,tte yutteta (item 128),PROD,wk9-10-te
+463,"kesa okite, gohan tabete, gakkoo ni itte, tomodachi ni atte, sukoshi hanashite, uchi ni kaetta.",けさおきて、ごはんたべて、がっこうにいって、ともだちにあって、すこしはなして、うちにかえった。,"I got up this morning, ate, went to school, met a friend, talked a bit, and came home.",five-link -te chain in one breath,PROD,wk9-10-te
+464,ima nani shiten no? - zasshi yondeta. demo moo yonjatta.,いまなにしてんの？-ざっしよんでた。でももうよんじゃった。,What are you up to? - I was reading a magazine. But I've finished it now.,mixed-aspect turn: -ten no? plus -teta plus -jatta in one exchange,RECOG,wk9-10-te

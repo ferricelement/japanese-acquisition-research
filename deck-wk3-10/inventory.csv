@@ -1,0 +1,682 @@
+n,cardDay,week,romaji,kana,accent,moraCount,gloss,pos,cardType,audioText,teForm,frameDisambiguated,note,src
+1,1,3,un,うん。,[1],2,yeah / mm (affirmative),response token,RECOG,un.,,,"2 morae, sharp HL. Minimal pair with #2 by LENGTH + CONTOUR only. The payoff card for weeks 1-2.",wk3-4
+2,1,3,uun,ううん。,[1],3,nuh-uh / no,response token,RECOG,uun.,,,3 morae with a dip-then-rise on the doubled u. Never write as 'un'.,wk3-4
+3,1,3,hai,はい。,[1],2,yes / here / go ahead,response token,PROD,hai.,,,,wk3-4
+4,1,3,iie,いいえ。,[1],3,"no (formal, rarer than uun)",response token,RECOG,iie.,,,,wk3-4
+5,1,3,ee,ええ。,[1],2,"yes (soft, warm)",response token,RECOG,ee.,,,Doubled e. Contrast length against a short 'e'.,wk3-4
+6,1,3,aa,ああ。,[1],2,ah / oh I see,response token,PROD,aa.,,,,wk3-4
+7,1,3,hee,へえ。,[1],2,"huh, interesting",response token,RECOG,hee.,,,"Doubled e, long fall. Never 'he'.",wk3-4
+8,1,3,soo,そう。,[1],2,that's right / so,response token,PROD,soo.,,,Doubled o. Snaps into the kosoado grid as the SO- cell of row 4 on day 5.,wk3-4
+9,1,3,soo desu ka,そうですか。,[1],5,is that so / oh really,chunk,CHUNK,soo desu ka.,,,Frozen. Falling = acknowledgment; rising = genuine surprise. Do not analyze desu/ka yet.,wk3-4
+10,1,3,naruhodo,なるほど。,[0],4,"ah, that makes sense",response token,PROD,naruhodo.,,,,wk3-4
+11,1,3,sokka,そっか。,[1],3,"oh, I see (casual)",response token,PROD,sokka.,,,"Geminate kk. so-Q-ka, 3 morae.",wk3-4
+12,1,3,honto,ほんと？,[0],3,really?,response token,PROD,honto?,,,3 morae ho-N-to; the n is its own mora. Rising terminal.,wk3-4
+13,2,3,majide,まじで？,[1],3,seriously?,response token,PROD,majide?,,,,wk3-4
+14,2,3,tashika ni,たしかに。,[1],4,"true, fair point",response token,PROD,tashika ni.,,,,wk3-4
+15,2,3,yappari,やっぱり。,[3],4,knew it / as expected,response token,PROD,yappari.,,,"Geminate pp. ya-Q-pa-ri, 4 morae.",wk3-4
+16,2,3,nanka,なんか。,[1],3,"like, kinda (hedge)",filler,RECOG,nanka.,,,,wk3-4
+17,2,3,eeto,ええと…,[1],3,"um, let me think",filler,PROD,eeto...,,,Doubled e.,wk3-4
+18,2,3,ano,あの…,[0],2,um / excuse me (opener),filler,PROD,ano...,,,"Homophone with demonstrative ano (#54). Filler ano is drawn out; demonstrative ano is not, and is always followed by a noun.",wk3-4
+19,2,3,chotto,ちょっと。,[1],3,a bit / hang on / (soft refusal),adverb / hedge,PROD,chotto.,,,Geminate tt. Trailing 'chotto...' means no.,wk3-4
+20,2,3,maa,まあ。,[1],2,"well, sort of",response token,RECOG,maa.,,,Doubled a.,wk3-4
+21,2,3,arigatoo,ありがとう。,[2],5,thanks,chunk,CHUNK,arigatoo.,,,Doubled o at the end. Never 'arigatou'.,wk3-4
+22,2,3,sumimasen,すみません。,[4],5,excuse me / sorry / thanks,chunk,CHUNK,sumimasen.,,,,wk3-4
+23,2,3,gomen,ごめん。,[2],3,sorry (casual),chunk,CHUNK,gomen.,,,,wk3-4
+24,2,3,ohayoo,おはよう。,[4],4,morning!,chunk,CHUNK,ohayoo.,,,Doubled o. Never 'ohayou'.,wk3-4
+25,3,3,konnichiwa,こんにちわ。,[5],5,hello (daytime),chunk,CHUNK,konnichiwa.,,,FROZEN. The final -wa is NOT the topic particle; topic wa is withheld until block B. Also note ko-N-ni-chi-wa: the doubled nn is moraic N followed by n.,wk3-4
+26,3,3,konbanwa,こんばんわ。,[5],5,good evening,chunk,CHUNK,konbanwa.,,,"Frozen, same note as #25. Two moraic N.",wk3-4
+27,3,3,oyasumi,おやすみ。,[0],4,night,chunk,CHUNK,oyasumi.,,,,wk3-4
+28,3,3,jaa ne,じゃあね。,[1],3,see ya,chunk,CHUNK,jaa ne.,,,Doubled a.,wk3-4
+29,3,3,mata ne,またね。,[1],3,later,chunk,CHUNK,mata ne.,,,,wk3-4
+30,3,3,itadakimasu,いただきます。,[5],6,(said before eating),chunk,CHUNK,itadakimasu.,,,,wk3-4
+31,3,3,gochisoosama,ごちそうさま。,[5],6,(said after eating),chunk,CHUNK,gochisoosama.,,,Doubled o in -soo-.,wk3-4
+32,3,3,otsukaresama,おつかれさま。,[2],6,good work / hi-and-bye at work,chunk,CHUNK,otsukaresama.,,,,wk3-4
+33,3,3,yoroshiku,よろしく。,[2],4,nice to meet you / please look after this,chunk,CHUNK,yoroshiku.,,,,wk3-4
+34,3,3,daijoobu,だいじょうぶ。,[3],5,okay / fine / no thanks,chunk,CHUNK,daijoobu.,,,"Doubled o. Rising = 'you okay?', falling = 'I'm fine'.",wk3-4
+35,3,3,ganbatte,がんばって。,[3],5,go for it / hang in there,chunk,CHUNK,ganbatte.,,,"Moraic N plus geminate tt: ga-N-ba-Q-te, 5 morae.",wk3-4
+36,3,3,yuu,ゆう。,[0],2,to say,godan-u,PROD,yuu.,yutte,,"CRITICAL: the verb spelled with the kanji for 'say' is PRONOUNCED yuu. Past = yutta. Reported speech = tte yutteta. The learner never sees kanji, so yuu is the citation form. Never 'iu'.",wk3-4
+37,4,3,X tte nani?,ちょっとってなに？,[1],4,what's X? / what does X mean?,chunk (extraction tool),CHUNK,'chotto' tte nani?,,,Slot chunk: any heard word goes in X. The first tool that lets the learner mine vocabulary from live speech instead of only from prepared material.,wk3-4
+38,4,3,nihongo de nan te yuu no?,にほんごでなんてゆうの？,[0],11,how do you say that in Japanese?,chunk (extraction tool),CHUNK,nihongo de nan te yuu no?,,,"Contains yuu (#36) and rising -no. nihongo [0] is kango but rides only inside this frame, never bare.",wk3-4
+39,4,3,moo ichido onegai,もういちどおねがい。,[1],9,one more time please,chunk (extraction tool),CHUNK,moo ichido onegai.,,,Doubled o in moo.,wk3-4
+40,4,3,yukkuri onegai,ゆっくりおねがい。,[3],8,slowly please,chunk (extraction tool),CHUNK,yukkuri onegai.,,,Geminate kk.,wk3-4
+41,4,3,da,そうだ。,-,1,is (plain),copula,PROD,soo da.,,,Accentless clitic; takes its pitch from the preceding word.,wk3-4
+42,4,3,desu,そうです。,-,2,is (polite),copula,PROD,soo desu.,,,Final u is normally devoiced to near-zero: 'des'.,wk3-4
+43,4,3,ja nai,そうじゃない。,-,3,isn't (plain negative),copula,PROD,soo ja nai.,,,"THIS is the citation form. de wa nai (#47) is the formal expansion, recognition only.",wk3-4
+44,4,3,datta,そうだった。,-,3,was (plain past),copula,PROD,soo datta.,,,Geminate tt.,wk3-4
+45,4,3,deshita,そうでした。,-,3,was (polite past),copula,PROD,soo deshita.,,,,wk3-4
+46,4,3,ja nakatta,そうじゃなかった。,-,5,wasn't,copula,PROD,soo ja nakatta.,,,Geminate tt.,wk3-4
+47,4,3,de wa nai,そうでわない。,-,4,is not (formal expansion of ja nai),copula,RECOG,soo de wa nai.,,,RECOGNITION ONLY. Never requested in production in block A.,wk3-4
+48,4,3,kore,これが,[0],2,this one (near me),"pronoun (KO-, grid row 1)",PROD,kore ga,,,,wk3-4
+49,5,3,sore,それが,[0],2,that one (near you),"pronoun (SO-, grid row 1)",PROD,sore ga,,,,wk3-4
+50,5,3,are,あれが,[0],2,that one over there,"pronoun (A-, grid row 1)",PROD,are ga,,,,wk3-4
+51,5,3,dore,どれが,[1],2,which one,"pronoun (DO-, grid row 1)",PROD,dore ga,,,The entire DO- column is accent [1]. Teach the column as one accent fact rather than four.,wk3-4
+52,5,3,kono,この,[0],2,this ___,"adnominal (KO-, grid row 2)",DRILL,kono,,,Cannot stand alone; always kono + noun. Sentence cards begin day 7 once nouns exist.,wk3-4
+53,5,3,sono,その,[0],2,that ___,"adnominal (SO-, grid row 2)",DRILL,sono,,,,wk3-4
+54,5,3,ano,あの,[0],2,that ___ over there,"adnominal (A-, grid row 2)",DRILL,ano,,,Homophone with filler ano (#18); disambiguated by whether a noun follows.,wk3-4
+55,5,3,dono,どの,[1],2,which ___,"adnominal (DO-, grid row 2)",DRILL,dono,,,,wk3-4
+56,5,3,koko,ここが,[0],2,here,"place noun (KO-, grid row 3)",PROD,koko ga,,,,wk3-4
+57,5,3,soko,そこが,[0],2,there (by you),"place noun (SO-, grid row 3)",PROD,soko ga,,,,wk3-4
+58,5,3,asoko,あそこが,[0],3,over there,"place noun (A-, grid row 3)",PROD,asoko ga,,,"IRREGULAR CELL. The grid predicts *ako; it is asoko, 3 morae. This is the only broken cell in the 5x4 grid and must be flagged out loud.",wk3-4
+59,5,3,doko,どこが,[1],2,where,"place noun (DO-, grid row 3)",PROD,doko ga,,,,wk3-4
+60,5,3,koo,こう。,[1],2,this way / like this,"adverb (KO-, grid row 4)",PROD,koo.,,,Row 4 is koo / soo (#8) / aa (#6) / doo (#61). soo and aa were learned on day 1 as response tokens and now snap into the grid — point this out explicitly.,wk3-4
+61,6,3,doo,どう？,[1],2,how / how about,"adverb (DO-, grid row 4)",PROD,doo?,,,Doubled o. The highest-yield question word in casual speech.,wk3-4
+62,6,3,konna,こんな,[0],3,this kind of ___,"adnominal (KO-, grid row 5)",RECOG,konna,,,ko-N-na: moraic N plus n.,wk3-4
+63,6,3,sonna,そんな,[0],3,that kind of ___,"adnominal (SO-, grid row 5)",PROD,sonna,,,,wk3-4
+64,6,3,anna,あんな,[0],3,that kind of ___ (over there),"adnominal (A-, grid row 5)",RECOG,anna,,,,wk3-4
+65,6,3,donna,どんな,[1],3,what kind of ___,"adnominal (DO-, grid row 5)",PROD,donna,,,,wk3-4
+66,6,3,ga,これが,-,1,(subject / identifying particle),particle,DRILL,kore ga,,,"Introduced BEFORE any noun, because every noun card is delivered in the 'X ga' frame: heiban [0] and odaka are identical on the bare noun and differ only in whether the drop lands on ga. Topic wa is deliberately withheld to block B.",wk3-4
+67,6,3,no,これ、どこの？,-,1,'s / of (genitive),particle,PROD,"kore, doko no?",,,,wk3-4
+68,6,3,(rising terminal),そう？…そう。,-,6,"question, in plain speech",prosody,RECOG,soo? ... soo.,,,"THE plain-speech question marker. ka (#69) is the POLITE variant, not the default. Taught as a contour, not a word.",wk3-4
+69,6,3,ka,これですか？,-,1,question (polite register only),particle,RECOG,kore desu ka?,,,Never attaches to plain forms in this course; 'kore da ka' is not a thing.,wk3-4
+70,6,3,ne,そうだね。,-,1,right? / shared feeling,final particle,PROD,soo da ne.,,,"Prosody, not semantics: short flat ne = seeking agreement; long fall nee = savoring.",wk3-4
+71,6,3,yo,これだよ。,-,1,telling you something new,final particle,PROD,kore da yo.,,,,wk3-4
+72,6,3,yo ne,そうだよね。,-,2,"it's ___, right? (assert plus check)",final particle,PROD,soo da yo ne.,,,,wk3-4
+73,7,3,na,そうだな…,-,1,(musing to oneself),final particle,RECOG,soo da na...,,,,wk3-4
+74,7,3,kke,どこだったっけ。,-,2,was it...? (retrieving from memory),final particle,PROD,doko datta kke.,,,Geminate kk. Attaches to the PAST form even for present meaning.,wk3-4
+75,7,3,sa,あのさ、ちょっとさ、,-,1,(clause-medial 'y'know'),filler particle,RECOG,"ano sa, chotto sa,",,,Not sentence-final here; it is the mid-utterance rhythm keeper.,wk3-4
+76,7,3,no (rising),それなの？,-,4,(soft question ending),final particle,PROD,sore na no?,,,After a noun it requires na: 'X na no?'. Already heard inside #38.,wk3-4
+77,7,3,neko,ねこが,[1],2,cat,noun,PROD,neko ga,,,,wk3-4
+78,7,3,inu,いぬが,[2],2,dog,noun,PROD,inu ga,,,Odaka: the drop lands ON ga. Contrast directly with neko [1].,wk3-4
+79,7,3,hito,ひとが,[0],2,person,noun,PROD,hito ga,,,Heiban: ga stays high. This is the minimal accent contrast against inu [2].,wk3-4
+80,7,3,kodomo,こどもが,[0],3,child,noun,PROD,kodomo ga,,,,wk3-4
+81,7,3,mizu,みずが,[0],2,water,noun,PROD,mizu ga,,,,wk3-4
+82,7,3,hako,はこが,[1],2,box,noun,PROD,hako ga,,,,wk3-4
+83,7,3,sara,さらが,[0],2,plate,noun,PROD,sara ga,,,,wk3-4
+84,7,3,isu,いすが,[0],2,chair,noun,PROD,isu ga,,,,wk3-4
+85,8,4,tsukue,つくえが,[0],3,desk,noun,PROD,tsukue ga,,,tsu is one mora.,wk3-4
+86,8,4,kuruma,くるまが,[0],3,car,noun,PROD,kuruma ga,,,,wk3-4
+87,8,4,ue,うえが,[0],2,on top / above,noun (relational),PROD,ue ga,,,,wk3-4
+88,8,4,shita,したが,[0],2,under / below,noun (relational),PROD,shita ga,,,,wk3-4
+89,8,4,naka,なかが,[1],2,inside,noun (relational),PROD,naka ga,,,,wk3-4
+90,8,4,soto,そとが,[1],2,outside,noun (relational),PROD,soto ga,,,,wk3-4
+91,8,4,mae,まえが,[1],2,in front / before,noun (relational),PROD,mae ga,,,,wk3-4
+92,8,4,ushiro,うしろが,[0],3,behind,noun (relational),PROD,ushiro ga,,,,wk3-4
+93,8,4,tonari,となりが,[0],3,next to (same kind of thing),noun (relational),PROD,tonari ga,,,,wk3-4
+94,8,4,yoko,よこが,[0],2,beside (lateral),noun (relational),PROD,yoko ga,,,,wk3-4
+95,8,4,chikaku,ちかくが,[2],3,nearby,noun (relational),PROD,chikaku ga,,,chi is one mora; 4 morae total.,wk3-4
+96,8,4,soba,いすのそばが,[1],2,right beside,noun (relational),RECOG,isu no soba ga,,,"PHRASE-ONLY, PERMANENTLY. soba 'noodles' is ALSO [1] — accent-identical. The food sense is withheld from this course entirely so the frame 'X no soba' carries the meaning alone.",wk3-4
+97,9,4,tokoro,ところが,[3],3,place,noun,PROD,tokoro ga,,,,wk3-4
+98,9,4,uchi,うちが,[0],2,home / my side,noun,PROD,uchi ga,,,,wk3-4
+99,9,4,ie,いえが,[2],2,house,noun,PROD,ie ga,,,"i-e, two morae, both full vowels. Not a diphthong.",wk3-4
+100,9,4,heya,へやが,[2],2,room,noun,PROD,heya ga,,,,wk3-4
+101,9,4,mado,まどが,[1],2,window,noun,PROD,mado ga,,,,wk3-4
+102,9,4,kabe,かべが,[0],2,wall,noun,PROD,kabe ga,,,,wk3-4
+103,9,4,yuka,ゆかが,[0],2,floor,noun,RECOG,yuka ga,,,,wk3-4
+104,9,4,doa,ドアが,[1],2,door,noun,PROD,doa ga,,,"do-a, two morae.",wk3-4
+105,9,4,kagi,かぎが,[2],2,key / lock,noun,PROD,kagi ga,,,,wk3-4
+106,9,4,kami,かみが,[2],2,paper,noun,PROD,kami ga,,,kami 'hair' [2] and kami 'god' [1] are withheld from block A to keep this slot unambiguous.,wk3-4
+107,9,4,tegami,てがみが,[0],3,letter (mail),noun,PROD,tegami ga,,,,wk3-4
+108,9,4,fuku,ふくが,[2],2,clothes,noun,PROD,fuku ga,,,,wk3-4
+109,10,4,kutsu,くつが,[2],2,shoes,noun,PROD,kutsu ga,,,"ku-tsu, two morae; the tsu is a full mora, NOT a geminate.",wk3-4
+110,10,4,kasa,かさが,[1],2,umbrella,noun,PROD,kasa ga,,,,wk3-4
+111,10,4,mise,みせが,[2],2,shop,noun,PROD,mise ga,,,,wk3-4
+112,10,4,michi,みちが,[0],2,road / street,noun,PROD,michi ga,,,,wk3-4
+113,10,4,eki,えきのまえが,[1],2,station,noun (kango),RECOG,eki no mae ga,,,"KANGO: delivered only inside 'eki no mae' / 'eki no chikaku', never as a bare 2-mora card.",wk3-4
+114,10,4,yama,やまが,[2],2,mountain,noun,PROD,yama ga,,,,wk3-4
+115,10,4,kawa,かわのちかくが,[2],2,river,noun,RECOG,kawa no chikaku ga,,,"PHRASE-ONLY, PERMANENTLY. kawa 'skin/leather' is also [2] — accent-identical. The skin sense is withheld; river always rides in a frame.",wk3-4
+116,10,4,umi,うみが,[1],2,sea,noun,PROD,umi ga,,,,wk3-4
+117,10,4,sora,そらが,[1],2,sky,noun,PROD,sora ga,,,,wk3-4
+118,10,4,hoshi,ほしが,[0],2,star,noun,PROD,hoshi ga,,,,wk3-4
+119,10,4,tsuki,つきが,[2],2,moon,noun,PROD,tsuki ga,,,,wk3-4
+120,10,4,hi,ひが,[1],1,sun / day,noun,RECOG,hi ga,,,One mora. Accent [1] means the drop lands on ga.,wk3-4
+121,11,4,ame,あめが,[1],2,rain,noun,PROD,ame ga,,,ame [0] 'candy' is withheld from block A; only the rain sense exists in this deck for now.,wk3-4
+122,11,4,kaze,かぜが,[0],2,wind,noun,PROD,kaze ga,,,,wk3-4
+123,11,4,ki,きが,[1],1,tree,noun,RECOG,ki ga,,,,wk3-4
+124,11,4,hana,はなが,[2],2,flower,noun,PROD,hana ga,,,hana [0] 'nose' is DELIBERATELY WITHHELD from block A. Only the [2] flower sense is in the deck.,wk3-4
+125,11,4,tori,とりが,[0],2,bird,noun,PROD,tori ga,,,,wk3-4
+126,11,4,sakana,さかなが,[0],3,fish,noun,PROD,sakana ga,,,,wk3-4
+127,11,4,mushi,むしが,[0],2,bug / insect,noun,PROD,mushi ga,,,,wk3-4
+128,11,4,uma,うまが,[2],2,horse,noun,RECOG,uma ga,,,,wk3-4
+129,11,4,ushi,うしが,[0],2,cow,noun,RECOG,ushi ga,,,,wk3-4
+130,11,4,niku,にくが,[2],2,meat,noun,PROD,niku ga,,,,wk3-4
+131,11,4,tamago,たまごが,[2],3,egg,noun,PROD,tamago ga,,,,wk3-4
+132,11,4,shio,しおが,[2],2,salt,noun,PROD,shio ga,,,"shi-o, two morae.",wk3-4
+133,12,4,yasai,やさいが,[0],3,vegetables,noun,PROD,yasai ga,,,,wk3-4
+134,12,4,kudamono,くだものが,[2],4,fruit,noun,PROD,kudamono ga,,,,wk3-4
+135,12,4,ichigo,いちごが,[0],3,strawberry,noun,RECOG,ichigo ga,,,,wk3-4
+136,12,4,sake,さけが,[0],2,alcohol / sake,noun,PROD,sake ga,,,,wk3-4
+137,12,4,haha,ははが,[1],2,my mother,noun,PROD,haha ga,,,,wk3-4
+138,12,4,chichi,ちちが,[2],2,my father,noun,PROD,chichi ga,,,"chi-chi, two morae. Not a geminate.",wk3-4
+139,12,4,ani,あにが,[1],2,my older brother,noun,PROD,ani ga,,,,wk3-4
+140,12,4,ane,あねが,[0],2,my older sister,noun,PROD,ane ga,,,,wk3-4
+141,12,4,musuko,むすこが,[0],3,son,noun,RECOG,musuko ga,,,,wk3-4
+142,12,4,kazoku,うちのかぞくが,[1],3,family,noun (kango),PROD,uchi no kazoku ga,,,"Kango: framed as 'uchi no kazoku', never bare.",wk3-4
+143,12,4,tomodachi,ともだちが,[0],4,friend,noun,PROD,tomodachi ga,,,,wk3-4
+144,12,4,namae,なまえが,[0],3,name,noun,PROD,namae ga,,,,wk3-4
+145,13,4,koe,こえが,[1],2,voice,noun,PROD,koe ga,,,,wk3-4
+146,13,4,kao,かおが,[0],2,face,noun,PROD,kao ga,,,,wk3-4
+147,13,4,me,めが,[1],1,eye,noun,PROD,me ga,,,One mora; the drop lands on ga. Kept 15 indices clear of te [1] (#162) — never schedule the two in one session.,wk3-4
+148,13,4,kuchi,くちが,[0],2,mouth,noun,PROD,kuchi ga,,,,wk3-4
+149,13,4,atama,あたまが,[3],3,head,noun,PROD,atama ga,,,,wk3-4
+150,13,4,ashi,あしが,[2],2,leg / foot,noun,PROD,ashi ga,,,,wk3-4
+151,13,4,mimi,みみが,[2],2,ear,noun,PROD,mimi ga,,,,wk3-4
+152,13,4,karada,からだが,[0],3,body,noun,PROD,karada ga,,,,wk3-4
+153,13,4,shigoto,しごとが,[0],3,work / job,noun,PROD,shigoto ga,,,,wk3-4
+154,13,4,hanashi,はなしが,[3],3,talk / story,noun,PROD,hanashi ga,,,,wk3-4
+155,13,4,kotoba,ことばが,[3],3,word / language,noun,PROD,kotoba ga,,,,wk3-4
+156,13,4,kimochi,きもちが,[0],3,feeling,noun,PROD,kimochi ga,,,,wk3-4
+157,14,4,asa,あさが,[1],2,morning,noun,PROD,asa ga,,,,wk3-4
+158,14,4,hiru,ひるが,[2],2,midday / lunchtime,noun,PROD,hiru ga,,,,wk3-4
+159,14,4,yoru,よるが,[1],2,night,noun,PROD,yoru ga,,,,wk3-4
+160,14,4,ima,いまが,[1],2,now,noun,PROD,ima ga,,,,wk3-4
+161,14,4,toki,ときが,[2],2,time / when,noun,PROD,toki ga,,,,wk3-4
+162,14,4,te,てが,[1],1,hand / arm,noun,PROD,te ga,,,"One mora, drop on ga — segmentally distinct from me (#147) but prosodically identical; 15 indices apart by design.",wk3-4
+163,14,4,mono,ものが,[2],2,thing (physical),noun,PROD,mono ga,,,,wk3-4
+164,14,4,koto,ことが,[2],2,"thing (abstract, matter)",noun,PROD,koto ga,,,,wk3-4
+165,14,4,iro,いろが,[2],2,color,noun,PROD,iro ga,,,,wk3-4
+166,14,4,kane,かねが,[0],2,money,noun,PROD,kane ga,,,Normally heard as okane [0]; the bare stem is carded here because the honorific o- prefix is not yet analyzed.,wk3-4
+167,14,4,shikata,しかたが,[0],3,way of doing / means,noun,RECOG,shikata ga,,,,wk3-4
+168,14,4,nai,しかたがない。,[1],2,there isn't / doesn't exist,i-adj,PROD,shikata ga nai.,,,"REQUIRED ITEM — omitted from the earlier pass. Block-A anchor phrases: 'shikata ga nai' and 'kane ga nai'. Its full paradigm (nakatta, nakute, nai n da) lands in block B.",wk3-4
+169,15,5,iru,いる,[0],2,exist (animate),ichidan,PROD,iru,ite [0],,Unaccented throughout: ite/ita/inai/inakatta all [0].,wk4-6
+170,15,5,aru,ある,[1],2,exist (inanimate),godan-r,PROD,aru,atte [1],,atte [1] identical to atte from au [1]. Negative is suppletive nai.,wk4-6
+171,15,5,wa,ねこわいる,-,1,topic particle,particle,DRILL,neko wa iru,,,Never on a question word. Taught only inside the wa/ga unit.,wk4-6
+172,15,5,machi,まちが,[2],2,town,noun,RECOG,machi ga,,,,wk4-6
+173,15,5,niwa,にわが,[0],2,garden,noun,PROD,niwa ga,,,,wk4-6
+174,15,5,dare,だれが,[1],2,who,interrogative,PROD,dare ga,,,Diagnostic anchor: *dare wa is impossible.,wk4-6
+175,15,5,nani,なにが,[1],2,what,interrogative,PROD,nani ga,,,,wk4-6
+176,15,5,otoko,おとこが,[3],3,man,noun,RECOG,otoko ga,,,,wk4-6
+177,15,5,ocha,おちゃが,[0],2,tea,noun,PROD,ocha ga,,,cha is one mora.,wk4-6
+178,15,5,ni,こうえんにいる,-,1,ni of existence (location of being),particle,DRILL,kooen ni iru,,,,wk4-6
+179,15,5,de,こうえんであそぶ,-,1,de of action (location of doing),particle,DRILL,kooen de asobu,,,"Introduced in the same session as ni, never separately.",wk4-6
+180,15,5,asobu,あそぶ,[0],3,"play, hang out",godan-b,PROD,asobu,asonde [0],,,wk4-6
+181,15,5,taberu,たべる,[2],3,eat,ichidan,PROD,taberu,tabete [2],,,wk4-6
+182,15,5,nomu,のむ,[1],2,drink,godan-m,PROD,nomu,nonde [1],,,wk4-6
+183,15,5,kooen,こうえんが,[0],4,park,noun,PROD,kooen ga,,,"First long-vowel place noun; four morae ko-o-e-n, two special morae. Off-tier, admitted because the ni/de contrast needs a public place.",wk4-6
+184,15,5,tana,たなが,[0],2,shelf,noun,PROD,tana ga,,,,wk4-6
+185,15,5,inai,いない,[0],3,not be there (neg of iru),neg form,PROD,inai,,,,wk4-6
+186,15,5,imi,いみが,[1],2,meaning,noun,PROD,imi ga,,,,wk4-6
+187,16,5,atta,あった,[1],3,there was (inanimate),past of aru,PROD,atta,,,,wk4-6
+188,16,5,ita,いた,[0],2,there was (animate),past of iru,PROD,ita,,,,wk4-6
+189,16,5,nakatta,なかった,[1],4,there was not (inanimate),neg past,PROD,nakatta,,,,wk4-6
+190,16,5,inakatta,いなかった,[0],5,there was not (animate),neg past,PROD,inakatta,,,,wk4-6
+191,16,5,kesa,けさ,[1],2,this morning,noun (time),PROD,kesa,,,,wk4-6
+192,16,5,tonari,となりが,[0],3,"next door, adjacent",relational noun,PROD,tonari ga,,,,wk4-6
+193,16,5,yoko,よこが,[0],2,"side, beside",relational noun,PROD,yoko ga,,,,wk4-6
+194,16,5,aida,あいだが,[0],3,between,relational noun,RECOG,aida ga,,,,wk4-6
+195,16,5,mawari,まわりが,[0],3,"around, surroundings",relational noun,RECOG,mawari ga,,,,wk4-6
+196,16,5,hidari,ひだりが,[0],3,left,relational noun,PROD,hidari ga,,,,wk4-6
+197,16,5,migi,みぎが,[0],2,right,relational noun,PROD,migi ga,,,,wk4-6
+198,16,5,soba,かわのそばに,[1],2,beside,relational noun,CHUNK,kawa no soba ni,,,"PHRASE-ONLY, permanently. soba 'buckwheat noodles' is also [1] and accent-identical; only this member ever gets a card, and only inside 'N no soba ni'.",wk4-6
+199,16,5,o,やさいおたべる,-,1,direct-object particle,particle,DRILL,yasai o taberu,,,Drops constantly in speech; the elliptical form is the production target from day 34.,wk4-6
+200,16,5,miru,みる,[1],2,"look at, watch",ichidan,PROD,miru,mite [1],,,wk4-6
+201,16,5,watashi,わたしが。,[0],3,"I, me",noun,PROD,watashi ga.,,,,repair
+202,16,5,ii,いい。,[1],2,"good, fine",i-adj (irregular),PROD,ii.,,,"Long vowel, so it breaks the special-mora-ascending rule. Admitted early anyway: it is needed by three later blocks and its suppletive stem (yoku / yokatta / yokunai, never *iikatta) has to be in place before adjective inflection.",repair
+203,16,5,demo,でも。,[1],2,"but, however",conjunction,PROD,demo.,,,,repair
+204,16,5,itsu,いつ？,[1],2,when,question word,PROD,itsu?,,,,repair
+205,17,5,kau,かう,[0],2,buy,godan-u,PROD,kau,katte [0],,,wk4-6
+206,17,5,yomu,よむ,[1],2,read,godan-m,PROD,yomu,yonde [1],,,wk4-6
+207,17,5,kaku,かく,[1],2,write,godan-k,PROD,kaku,kaite [1],,,wk4-6
+208,17,5,kiku,きく,[0],2,"listen, ask",godan-k,PROD,kiku,kiite [0],,,wk4-6
+209,17,5,suru,する,[0],2,do,irregular,PROD,suru,shite [0],,,wk4-6
+210,17,5,hanasu,はなす,[2],3,speak,godan-s,PROD,hanasu,hanashite [2],,,wk4-6
+211,17,5,uta,うたが,[2],2,song,noun,PROD,uta ga,,,,wk4-6
+212,17,5,e,えが,[1],1,picture,noun,PROD,e ga,,,One mora; the accent shows only on the particle.,wk4-6
+213,17,5,(particle drop),ねこいる？やさいたべる？,-,4,o and ga deleted in casual speech,process,DRILL,neko iru? yasai taberu?,,,"Taught as the production default, with the full-particle version labelled as the careful expansion.",wk4-6
+214,17,5,matsu,まつ,[1],2,wait,godan-ts,PROD,matsu,matte [1],,,wk4-6
+215,17,5,au,あう,[1],2,meet,godan-u,PROD,au,atte [1],,"ACCENT [1], not [0]. atte is HL, indistinguishable from atte < aru [1]; only the frame disambiguates.",wk4-6
+216,17,5,yuu,ゆう,[0],2,say,godan-u,PROD,yuu,yutte [0],,"PRONOUNCED yuu, never 'iu'. Past yutta [0]; reported speech tte yutteta [0]. Citation form on the card is yuu.",wk4-6
+217,17,5,suki,すきだ,[2],2,"liked, likeable",na-adj,PROD,suki da,,,"Takes its object with ga, not o. Head of the ga-object block.",wk4-6
+218,17,5,kirai,きらいだ,[0],3,disliked,na-adj,PROD,kirai da,,,,wk4-6
+219,17,5,daisuki,だいすきだ,[1],4,"loved, favourite",na-adj,PROD,daisuki da,,,,wk4-6
+220,17,5,yume,ゆめが,[2],2,dream,noun,RECOG,yume ga,,,,wk4-6
+221,17,5,kusuri,くすりが,[0],3,medicine,noun,PROD,kusuri ga,,,,wk4-6
+222,17,5,joozu,じょうずだ,[3],3,skilled at,na-adj,PROD,joozu da,,,"Three morae jo-o-zu, odaka. Long vowel: off the noun tier, admitted with the ga-object block.",wk4-6
+223,18,5,heta,へただ,[2],2,bad at,na-adj,PROD,heta da,,,,wk4-6
+224,18,5,hoshii,ほしい,[2],3,wanted (I want it),i-adj,PROD,hoshii,,,,wk4-6
+225,18,5,okane,おかねが,[0],3,money,noun,PROD,okane ga,,,,wk4-6
+226,18,5,yasumi,やすみが,[3],3,"day off, rest",noun,PROD,yasumi ga,,,,wk4-6
+227,18,5,wakaru,わかる,[2],3,"understand, be clear",godan-r,PROD,wakaru,wakatte [2],,Object is ga. wakatta is the commonest response token built on it.,wk4-6
+228,18,5,dekiru,できる,[2],3,"can do, be able",ichidan,PROD,dekiru,dekite [2],,,wk4-6
+229,18,5,sukoshi,すこし,[2],3,a little,adverb,PROD,sukoshi,,,,wk4-6
+230,18,5,mo,ねこもいる,-,1,"also, too",particle,DRILL,neko mo iru,,,Substitutes for wa/ga/o (never stacks with them); stacks onto ni/de.,wk4-6
+231,18,5,hoka,ほかが,[0],2,"other, else",noun,RECOG,hoka ga,,,,wk4-6
+232,18,5,itsumo,いつも,[1],3,always,adverb,PROD,itsumo,,,,wk4-6
+233,18,5,gohan,ごはんが,[1],3,"rice, a meal",noun,PROD,gohan ga,,,First moraic-N noun. Three morae go-ha-N.,wk4-6
+234,18,5,pan,パンが,[1],2,bread,noun,PROD,pan ga,,,Two morae pa-N. The N must be held full length.,wk4-6
+235,18,5,hon,ほんが,[1],2,book,noun,PROD,hon ga,,,,wk4-6
+236,18,5,sen,せんが,[1],2,line,noun,RECOG,sen ga,,,"Contrast sen'en, where n' precedes a vowel.",wk4-6
+237,18,5,onna,おんなが,[3],3,woman,noun,PROD,onna ga,,,"o-N-na, three morae; the N is moraic, not a geminate.",wk4-6
+238,18,5,minna,みんなが,[3],3,everyone,noun,PROD,minna ga,,,,wk4-6
+239,18,5,mikan,みかんが,[1],3,mandarin,noun,RECOG,mikan ga,,,,wk4-6
+240,18,5,ringo,りんごが,[0],3,apple,noun,PROD,ringo ga,,,,wk4-6
+241,19,5,jikan,じかんがない,[0],3,time,noun (kango),CHUNK,jikan ga nai,,,Kango: carded only in the collocation jikan ga nai.,wk4-6
+242,19,5,tenki,てんきがいい,[1],3,weather,noun (kango),CHUNK,tenki ga ii,,,,wk4-6
+243,19,5,densha,でんしゃがある,[0],3,train,noun (kango),CHUNK,densha ga aru,,,,wk4-6
+244,19,5,shashin,しゃしんおみる,[0],3,photo,noun (kango),CHUNK,shashin o miru,,,,wk4-6
+245,19,5,otoosan,おとうさんが,[2],5,father (other's / address),noun,PROD,otoosan ga,,,Out-group / vocative member of the row. Five morae o-to-o-sa-N.,wk4-6
+246,19,5,okaasan,おかあさんが,[2],5,mother (other's / address),noun,PROD,okaasan ga,,,,wk4-6
+247,19,5,oniisan,おにいさんが,[2],5,older brother (other's / address),noun,PROD,oniisan ga,,,,wk4-6
+248,19,5,oneesan,おねえさんが,[2],5,older sister (other's / address),noun,PROD,oneesan ga,,,"Spelled ee, never ei. Five morae o-ne-e-sa-N.",wk4-6
+249,19,5,imooto,いもうとが,[4],4,younger sister,noun,PROD,imooto ga,,,"Four morae i-mo-o-to, odaka; no in/out-group split, one form for both.",wk4-6
+250,19,5,otooto,おとうとが,[4],4,younger brother,noun,PROD,otooto ga,,,,wk4-6
+251,19,5,kyoodai,きょうだいがいる,[1],4,siblings,noun (kango),CHUNK,kyoodai ga iru,,,Four morae kyo-o-da-i; kyo is one mora.,wk4-6
+252,19,5,ichi,いち,[2],2,one,numeral,RECOG,ichi,,,,wk5-8-numbers
+253,19,5,ni,に,[1],1,two,numeral,RECOG,ni,,,,wk5-8-numbers
+254,19,5,san,さん,[1],2,three,numeral,RECOG,san,,,2 morae: sa-N. The N is a full beat.,wk5-8-numbers
+255,19,5,yon,よん,[1],2,four (default form),numeral,PROD,yon,,,wago. This is the form you say when counting or when nothing forces shi.,wk5-8-numbers
+256,19,5,go,ご,[1],1,five,numeral,RECOG,go,,,,wk5-8-numbers
+257,19,5,roku,ろく,[2],2,six,numeral,RECOG,roku,,,,wk5-8-numbers
+258,19,5,nana,なな,[1],2,seven (default form),numeral,PROD,nana,,,,wk5-8-numbers
+259,20,5,hachi,はち,[2],2,eight,numeral,RECOG,hachi,,,,wk5-8-numbers
+260,20,5,kyuu,きゅう,[1],2,nine (default form),numeral,PROD,kyuu,,,"2 morae: kyu-u. kyu is ONE mora (yoon), the second u is the second beat.",wk5-8-numbers
+261,20,5,juu,じゅう,[1],2,ten,numeral,RECOG,juu,,,2 morae. Never *ju.,wk5-8-numbers
+262,20,5,shi,し,[1],1,four (bound variant),numeral,RECOG,shi,,,"Survives only in fixed slots: shigatsu, shichi. Never volunteer it for a count.",wk5-8-numbers
+263,20,5,shichi,しち,[1],2,seven (bound variant),numeral,RECOG,shichi,,,"Obligatory in shichiji, shichigatsu. Easily misheard as ichi on the phone; ree-tokens and nana exist because of this.",wk5-8-numbers
+264,20,5,ku,く,[1],1,nine (bound variant),numeral,RECOG,ku,,,"Obligatory in kuji, kugatsu. Never *kyuuji, never *kyuugatsu.",wk5-8-numbers
+265,20,5,zero,ぜろ,[1],2,zero,numeral,RECOG,zero,,,,wk5-8-numbers
+266,20,5,ree,れい,[1],2,"zero (formal, phone numbers)",numeral,RECOG,ree,,,"NOT rei. Two beats, both /e/.",wk5-8-numbers
+267,20,5,ichi ni san yon go roku nana hachi kyuu juu,いちにさんよんごろくななはちきゅうじゅう,-,18,"count 1-10, default forms",chunk,CHUNK,ichi ni san yon go roku nana hachi kyuu juu,,,"Run against a beat. ichi/roku/hachi are 2 morae with a short vowel; san/kyuu/juu are 2 morae with a special mora. Ten even beats, no rushing.",wk5-8-numbers
+268,20,5,juu kyuu hachi nana roku go yon san ni ichi,じゅうきゅうはちななろくごよんさんにいち,-,18,count 10-1 backwards,chunk,CHUNK,juu kyuu hachi nana roku go yon san ni ichi,,,Backwards is the real test that the digits are individually retrievable and not one memorised ribbon.,wk5-8-numbers
+269,20,5,ichi ni san shi go roku shichi hachi ku juu,いちにさんしごろくしちはちくじゅう,-,16,"count 1-10, traditional forms",chunk,CHUNK,ichi ni san shi go roku shichi hachi ku juu,,,RECOG only. You will hear this one; you say chant 16.,wk5-8-numbers
+270,20,5,juuichi,じゅういち,[4],4,eleven,numeral,PROD,juuichi,,,Additive: juu + digit. No sound change anywhere in 11-19.,wk5-8-numbers
+271,20,5,juuni,じゅうに,[1],3,twelve,numeral,PROD,juuni,,,,wk5-8-numbers
+272,20,5,juuyon,じゅうよん,[1],4,fourteen,numeral,PROD,juuyon,,,juushi exists but is avoided; say juuyon.,wk5-8-numbers
+273,20,5,juunana,じゅうなな,[1],4,seventeen,numeral,PROD,juunana,,,,wk5-8-numbers
+274,20,5,juukyuu,じゅうきゅう,[1],4,nineteen,numeral,PROD,juukyuu,,,,wk5-8-numbers
+275,20,5,nijuu,にじゅう,[1],3,twenty,numeral,PROD,nijuu,,,Multiplicative: digit + juu. 20-90 is one clean pattern with zero exceptions.,wk5-8-numbers
+276,20,5,sanjuu,さんじゅう,[1],4,thirty,numeral,PROD,sanjuu,,,,wk5-8-numbers
+277,21,5,yonjuu,よんじゅう,[1],4,forty,numeral,PROD,yonjuu,,,Never *shijuu in modern counting.,wk5-8-numbers
+278,21,5,gojuu,ごじゅう,[1],3,fifty,numeral,PROD,gojuu,,,,wk5-8-numbers
+279,21,5,rokujuu,ろくじゅう,[1],4,sixty,numeral,PROD,rokujuu,,,,wk5-8-numbers
+280,21,5,nanajuu,ななじゅう,[1],4,seventy,numeral,PROD,nanajuu,,,,wk5-8-numbers
+281,21,5,hachijuu,はちじゅう,[1],4,eighty,numeral,PROD,hachijuu,,,,wk5-8-numbers
+282,21,5,kyuujuu,きゅうじゅう,[1],4,ninety,numeral,PROD,kyuujuu,,,,wk5-8-numbers
+283,21,5,nijuugo,にじゅうご,[1],4,twenty-five,numeral,PROD,nijuugo,,,"Exemplar: tens then units, no linker. 99 = kyuujuukyuu.",wk5-8-numbers
+284,21,5,hyaku,ひゃく,[2],2,one hundred,numeral,PROD,hyaku,,,"hya is ONE mora. hyaku = 2 morae, not 3. Never *ichihyaku.",wk5-8-numbers
+285,21,5,nihyaku,にひゃく,[1],3,two hundred,numeral,PROD,nihyaku,,,,wk5-8-numbers
+286,21,5,sanbyaku,さんびゃく,[1],4,three hundred,numeral,PROD,sanbyaku,,,"Nasal-triggered voicing: N + hy -> by. Same phonology as sanbon, sanbiki, sanbai.",wk5-8-numbers
+287,21,5,gohyaku,ごひゃく,[1],3,five hundred,numeral,PROD,gohyaku,,,,wk5-8-numbers
+288,21,5,roppyaku,ろっぴゃく,[4],4,six hundred,numeral,PROD,roppyaku,,,Obstruent-triggered gemination: roku + hyaku -> roppyaku. 4 morae: ro-Q-pya-ku.,wk5-8-numbers
+289,21,5,happyaku,はっぴゃく,[4],4,eight hundred,numeral,PROD,happyaku,,,hachi + hyaku -> happyaku. 4 morae: ha-Q-pya-ku.,wk5-8-numbers
+290,21,5,sen,せん,[1],2,one thousand,numeral,PROD,sen,,,Never *ichisen for a bare 1000 (ichisen appears only inside larger numbers).,wk5-8-numbers
+291,21,5,nisen,にせん,[1],3,two thousand,numeral,PROD,nisen,,,,wk5-8-numbers
+292,21,5,sanzen,さんぜん,[1],4,three thousand,numeral,PROD,sanzen,,,"N + s -> z. Same nasal voicing as sanbyaku, different consonant.",wk5-8-numbers
+293,21,5,hassen,はっせん,[3],4,eight thousand,numeral,PROD,hassen,,,"hachi + sen -> hassen. Geminate ss, 4 morae: ha-Q-se-N. Contrast happyaku.",wk5-8-numbers
+294,21,5,ichiman,いちまん,[3],4,ten thousand,numeral,PROD,ichiman,,,"THE MYRIAD BREAK. Japanese regroups every FOUR digits, not three. 10,000 is ichiman, never *juusen. And the ichi is obligatory: never bare *man. 100,000 = juuman, 1,000,000 = hyakuman.",wk5-8-numbers
+295,22,6,hitotsu,ひとつ,[2],3,one (thing),counter,PROD,hitotsu,,,,wk5-8-numbers
+296,22,6,futatsu,ふたつ,[3],3,two (things),counter,PROD,futatsu,,,hito-/futa- is the same wago pair as hitori/futari.,wk5-8-numbers
+297,22,6,mittsu,みっつ,[3],3,three (things),counter,PROD,mittsu,,,Geminate. mi + tsu -> mittsu. 3 morae: mi-Q-tsu.,wk5-8-numbers
+298,22,6,yottsu,よっつ,[3],3,four (things),counter,PROD,yottsu,,,,wk5-8-numbers
+299,22,6,itsutsu,いつつ,[2],3,five (things),counter,PROD,itsutsu,,,"NO geminate here. itsutsu, not *ittsu. The odd one out in the run mittsu-yottsu-itsutsu-muttsu.",wk5-8-numbers
+300,22,6,muttsu,むっつ,[3],3,six (things),counter,PROD,muttsu,,,,wk5-8-numbers
+301,22,6,nanatsu,ななつ,[2],3,seven (things),counter,PROD,nanatsu,,,No geminate.,wk5-8-numbers
+302,22,6,yattsu,やっつ,[3],3,eight (things),counter,PROD,yattsu,,,,wk5-8-numbers
+303,22,6,kokonotsu,ここのつ,[2],4,nine (things),counter,PROD,kokonotsu,,,5 morae. The longest counter word you will meet; do not clip it.,wk5-8-numbers
+304,22,6,too,とお,[1],2,ten (things),counter,PROD,too,,,"Breaks the series: NOT *tootsu, NOT *tokoo. Two morae, one long o. Past ten the -tsu series stops and you switch to juu + a real counter.",wk5-8-numbers
+305,22,6,ikutsu,いくつ,[1],3,how many (things)?,counter,PROD,ikutsu,,,,wk5-8-numbers
+306,22,6,hitotsu futatsu mittsu yottsu itsutsu muttsu nanatsu yattsu kokonotsu too,ひとつふたつみっつよっついつつむっつななつやっつここのつとお,-,30,the -tsu chant,chunk,CHUNK,hitotsu futatsu mittsu yottsu itsutsu muttsu nanatsu yattsu kokonotsu too,,,"THE ESCAPE HATCH. -tsu counts almost any concrete inanimate thing up to ten. Owning this chant makes the entire counter tail droppable: if you cannot retrieve -ko, -hon or -mai in time, say the -tsu form and you are still correct-sounding.",wk5-8-numbers
+307,22,6,hitori,ひとり,[2],3,one person,counter,PROD,hitori,,,Also means 'alone'.,wk5-8-numbers
+308,22,6,futari,ふたり,[3],3,two people,counter,PROD,futari,,,,wk5-8-numbers
+309,22,6,sannin,さんにん,[3],4,three people,counter,PROD,sannin,,,4 morae: sa-N-ni-N. Two separate nasal beats; do not merge them.,wk5-8-numbers
+310,22,6,yonin,よにん,[2],3,four people,counter,PROD,yonin,,,"THE REAL IRREGULAR. yo-nin, 3 morae. NOT *yonnin, NOT *yonin with a doubled n. Compare yoji, which drops the n the same way.",wk5-8-numbers
+311,22,6,gonin,ごにん,[2],3,five people,counter,PROD,gonin,,,,wk5-8-numbers
+312,22,6,rokunin,ろくにん,[2],4,six people,counter,PROD,rokunin,,,"No gemination: -nin does not trigger it. rokunin, not *rokunnin.",wk5-8-numbers
+313,23,6,nannin,なんにん,[1],4,how many people?,counter,PROD,nannin,,,4 morae: na-N-ni-N.,wk5-8-numbers
+314,23,6,ikko,いっこ,[1],3,one piece/unit,counter,PROD,ikko,,,ichi + ko -> ikko. Geminate.,wk5-8-numbers
+315,23,6,niko,にこ,[1],2,two pieces,counter,PROD,niko,,,,wk5-8-numbers
+316,23,6,sanko,さんこ,[1],3,three pieces,counter,PROD,sanko,,,"No voicing: -ko starts with k, which the nasal does not voice here. sanko, not *sango.",wk5-8-numbers
+317,23,6,rokko,ろっこ,[1],3,six pieces,counter,PROD,rokko,,,roku + ko -> rokko.,wk5-8-numbers
+318,23,6,nanko,なんこ,[1],3,how many pieces?,counter,PROD,nanko,,,,wk5-8-numbers
+319,23,6,ippon,いっぽん,[1],4,one long thin thing,counter,PROD,ippon,,,ichi + hon -> ippon. 4 morae: i-Q-po-N.,wk5-8-numbers
+320,23,6,nihon,にほん,[1],3,two long thin things,counter,PROD,nihon,,,"MINIMAL PAIR WITH ACCENT ONLY: nihon [1] = two bottles; Nihon [2] = Japan. Same segments, different drop. This is why accent is on every card.",wk5-8-numbers
+321,23,6,sanbon,さんぼん,[1],4,three long thin things,counter,PROD,sanbon,,,N + h -> b.,wk5-8-numbers
+322,23,6,yonhon,よんほん,[1],4,four long thin things,counter,PROD,yonhon,,,Stays h. yon does not trigger voicing even though it ends in n.,wk5-8-numbers
+323,23,6,gohon,ごほん,[1],3,five long thin things,counter,PROD,gohon,,,,wk5-8-numbers
+324,23,6,roppon,ろっぽん,[1],4,six long thin things,counter,PROD,roppon,,,roku + hon -> roppon.,wk5-8-numbers
+325,23,6,nanbon,なんぼん,[1],4,how many long thin things?,counter,PROD,nanbon,,,,wk5-8-numbers
+326,23,6,ichimai,いちまい,[2],4,one flat thing,counter,PROD,ichimai,,,-mai is the easy series: NO sound changes at all in 1-10. Use it as the rest cell.,wk5-8-numbers
+327,23,6,nimai,にまい,[1],3,two flat things,counter,PROD,nimai,,,,wk5-8-numbers
+328,23,6,sanmai,さんまい,[1],4,three flat things,counter,PROD,sanmai,,,,wk5-8-numbers
+329,23,6,rokumai,ろくまい,[1],4,six flat things,counter,PROD,rokumai,,,"rokumai, NOT *rokkumai. -mai never geminates.",wk5-8-numbers
+330,23,6,nanmai,なんまい,[1],4,how many flat things?,counter,PROD,nanmai,,,,wk5-8-numbers
+331,24,6,ippiki,いっぴき,[1],4,one small animal,counter,PROD,ippiki,,,"Same p/b/h alternation as -hon, on a different base.",wk5-8-numbers
+332,24,6,nihiki,にひき,[1],3,two small animals,counter,PROD,nihiki,,,,wk5-8-numbers
+333,24,6,sanbiki,さんびき,[1],4,three small animals,counter,PROD,sanbiki,,,,wk5-8-numbers
+334,24,6,roppiki,ろっぴき,[1],4,six small animals,counter,PROD,roppiki,,,,wk5-8-numbers
+335,24,6,nanbiki,なんびき,[1],4,how many small animals?,counter,PROD,nanbiki,,,,wk5-8-numbers
+336,24,6,ippai,いっぱい,[1],4,one cupful/glassful,counter,PROD,ippai,,,"Third instance of the same p/b/h series. Once -hon is automatic, -hiki and -hai cost almost nothing.",wk5-8-numbers
+337,24,6,nihai,にはい,[1],3,two cupfuls,counter,PROD,nihai,,,,wk5-8-numbers
+338,24,6,sanbai,さんばい,[1],4,three cupfuls,counter,PROD,sanbai,,,Homophone with sanbai 'threefold' [0]; they differ by accent. Keep 'threefold' out of the deck for now.,wk5-8-numbers
+339,24,6,roppai,ろっぱい,[1],4,six cupfuls,counter,PROD,roppai,,,,wk5-8-numbers
+340,24,6,nanbai,なんばい,[1],4,how many cupfuls?,counter,PROD,nanbai,,,,wk5-8-numbers
+341,24,6,ikkai,いっかい,[1],4,first floor,counter,PROD,ikkai,,,,wk5-8-numbers
+342,24,6,nikai,にかい,[1],3,second floor,counter,PROD,nikai,,,,wk5-8-numbers
+343,24,6,sangai,さんがい,[1],4,third floor,counter,PROD,sangai,,,"THE ONE FLOOR IRREGULAR: N + k -> g. sangai, not *sankai. Everything else in the floor series keeps k.",wk5-8-numbers
+344,24,6,yonkai,よんかい,[1],4,fourth floor,counter,PROD,yonkai,,,,wk5-8-numbers
+345,24,6,rokkai,ろっかい,[1],4,sixth floor,counter,PROD,rokkai,,,,wk5-8-numbers
+346,24,6,nangai,なんがい,[1],4,which floor?,counter,PROD,nangai,,,,wk5-8-numbers
+347,24,6,sankai,さんかい,[1],4,three times,counter,PROD,sankai,,,"THE PAYOFF CONTRAST: sangai = 3rd floor, sankai = 3 times. Identical except the g/k, and that one consonant is the whole meaning.",wk5-8-numbers
+348,24,6,rokkai,ろっかい,[1],4,six times,counter,RECOG,rokkai,,,"Fully homophonous with rokkai '6th floor'. Context alone disambiguates - which is fine, and worth saying out loud so it stops feeling like a mistake.",wk5-8-numbers
+349,25,6,nankai,なんかい,[1],4,how many times?,counter,PROD,nankai,,,,wk5-8-numbers
+350,25,6,juuen,じゅうえん,[1],4,ten yen,counter,PROD,juuen,,,,wk5-8-numbers
+351,25,6,hyakuen,ひゃくえん,[3],4,one hundred yen,counter,PROD,hyakuen,,,,wk5-8-numbers
+352,25,6,hyakugojuuen,ひゃくごじゅうえん,-,7,one hundred fifty yen,counter,PROD,hyakugojuuen,,,"Assembly exemplar: hundreds, then tens, then -en, no pauses and no linkers.",wk5-8-numbers
+353,25,6,gohyakuen,ごひゃくえん,[3],5,five hundred yen,counter,PROD,gohyakuen,,,,wk5-8-numbers
+354,25,6,sen'en,せんえん,[3],4,one thousand yen,counter,PROD,sen'en,,,"SYLLABIC N BEFORE A VOWEL: written sen'en, four morae se-N-e-N. The N is its own beat and does NOT slur into the e. *senen would be three morae and wrong.",wk5-8-numbers
+355,25,6,ichiman'en,いちまんえん,[5],6,ten thousand yen,counter,PROD,ichiman'en,,,Again n' before a vowel. 6 morae: i-chi-ma-N-e-N. The commonest banknote; you will hear it constantly.,wk5-8-numbers
+356,25,6,ikura,いくら,[1],3,how much (money)?,interrogative,PROD,ikura,,,,wk5-8-numbers
+357,25,6,ichiji,いちじ,[2],3,one o'clock,counter,PROD,ichiji,,,,wk5-8-numbers
+358,25,6,niji,にじ,[1],2,two o'clock,counter,PROD,niji,,,,wk5-8-numbers
+359,25,6,sanji,さんじ,[1],3,three o'clock,counter,PROD,sanji,,,,wk5-8-numbers
+360,25,6,yoji,よじ,[1],2,four o'clock,counter,PROD,yoji,,,"LEXICALIZED EXCEPTION: yo-ji, never *yonji and never *shiji. Same yo- as in yonin.",wk5-8-numbers
+361,25,6,goji,ごじ,[1],2,five o'clock,counter,PROD,goji,,,,wk5-8-numbers
+362,25,6,rokuji,ろくじ,[2],3,six o'clock,counter,PROD,rokuji,,,"No gemination: rokuji, not *rokkuji.",wk5-8-numbers
+363,25,6,shichiji,しちじ,[1],3,seven o'clock,counter,PROD,shichiji,,,LEXICALIZED EXCEPTION: the shichi form is required. *nanaji is not said (nanaji is heard occasionally for clarity but do not produce it).,wk5-8-numbers
+364,25,6,kuji,くじ,[1],2,nine o'clock,counter,PROD,kuji,,,"LEXICALIZED EXCEPTION: ku-ji, never *kyuuji. Two morae only.",wk5-8-numbers
+365,25,6,juuji,じゅうじ,[1],3,ten o'clock,counter,PROD,juuji,,,,wk5-8-numbers
+366,25,6,juuniji,じゅうにじ,[3],4,twelve o'clock,counter,PROD,juuniji,,,,wk5-8-numbers
+367,26,6,nanji,なんじ,[1],3,what time?,interrogative,PROD,nanji,,,,wk5-8-numbers
+368,26,6,ippun,いっぷん,[1],4,one minute,counter,PROD,ippun,,,"-fun/-pun is the fourth p/b/h-type series, and the busiest one.",wk5-8-numbers
+369,26,6,nifun,にふん,[1],3,two minutes,counter,PROD,nifun,,,,wk5-8-numbers
+370,26,6,sanpun,さんぷん,[1],4,three minutes,counter,PROD,sanpun,,,"N + f -> p here, NOT b. Contrast sanbon/sanbiki/sanbai, which do voice. -fun is the one that geminates the nasal into p.",wk5-8-numbers
+371,26,6,yonpun,よんぷん,[1],4,four minutes,counter,PROD,yonpun,,,,wk5-8-numbers
+372,26,6,gofun,ごふん,[1],3,five minutes,counter,PROD,gofun,,,The single most useful minute word: clock faces are read in fives.,wk5-8-numbers
+373,26,6,roppun,ろっぷん,[1],4,six minutes,counter,PROD,roppun,,,,wk5-8-numbers
+374,26,6,juppun,じゅっぷん,[1],4,ten minutes,counter,PROD,juppun,,,jippun also exists and is older/formal; juppun is what you say and mostly what you hear.,wk5-8-numbers
+375,26,6,juugofun,じゅうごふん,-,5,fifteen minutes,counter,PROD,juugofun,,,,wk5-8-numbers
+376,26,6,sanjuppun,さんじゅっぷん,-,6,thirty minutes,counter,PROD,sanjuppun,,,,wk5-8-numbers
+377,26,6,nanpun,なんぷん,[1],4,how many minutes?,interrogative,PROD,nanpun,,,,wk5-8-numbers
+378,26,6,han,はん,[1],2,half past,noun,PROD,han,,,"Goes AFTER the hour: sanji han. Two morae, ha-N.",wk5-8-numbers
+379,26,6,gozen,ごぜん,[1],3,a.m.,noun,PROD,gozen,,,Goes BEFORE the hour: gozen juuji. The opposite side from han.,wk5-8-numbers
+380,26,6,gogo,ごご,[1],2,p.m.,noun,PROD,gogo,,,,wk5-8-numbers
+381,26,6,kara,さんじから,[1],2,"from, starting at",particle,PROD,sanji kara,,,,wk5-8-numbers
+382,26,6,made,ごじまで,[1],2,"until, up to",particle,PROD,goji made,,,,wk5-8-numbers
+383,26,6,made ni,よじまでに,-,3,by (deadline),particle,PROD,yoji made ni,,,made = the whole stretch up to then. made ni = at some point before then. goji made hatarakimasu vs goji made ni onegaishimasu.,wk5-8-numbers
+384,26,6,hitotsume,ひとつめ,[3],4,the first one,ordinal,PROD,hitotsume,,,-me turns a count into a position. Built straight off the -tsu series you already own.,wk5-8-numbers
+385,27,6,futatsume,ふたつめ,[3],4,the second one,ordinal,PROD,futatsume,,,,wk5-8-numbers
+386,27,6,mittsume,みっつめ,[3],4,the third one,ordinal,PROD,mittsume,,,,wk5-8-numbers
+387,27,6,ichibanme,いちばんめ,[4],5,the first (in a series),ordinal,PROD,ichibanme,,,"-banme is the general ordinal, usable where -tsume is not.",wk5-8-numbers
+388,27,6,nibanme,にばんめ,[3],4,the second (in a series),ordinal,PROD,nibanme,,,,wk5-8-numbers
+389,27,6,tsuitachi,ついたちが,[4],4,the 1st of the month,noun,PROD,tsuitachi ga,,,Totally unrelated to hitotsu. Must be memorised whole. 5 morae: tsu-i-ta-chi.,wk5-8-numbers
+390,27,6,futsuka,ふつかが,[0],3,the 2nd; two days,noun,PROD,futsuka ga,,,,wk5-8-numbers
+391,27,6,mikka,みっかが,[0],3,the 3rd; three days,noun,PROD,mikka ga,,,"Geminate. Compare mittsu: same mi- root, different tail.",wk5-8-numbers
+392,27,6,yokka,よっかが,[0],3,the 4th; four days,noun,PROD,yokka ga,,,"yo- again, as in yoji and yonin. Never *yonka.",wk5-8-numbers
+393,27,6,itsuka,いつかが,[0],3,the 5th; five days,noun,PROD,itsuka ga,,,Homophone with itsuka 'someday' [1] - the accent differs. Date sense stays in a date frame for now.,wk5-8-numbers
+394,27,6,muika,むいかが,[0],3,the 6th; six days,noun,PROD,muika ga,,,"NO geminate, unlike mikka/yokka. mu-i-ka, 3 morae.",wk5-8-numbers
+395,27,6,nanoka,なのかが,[0],3,the 7th; seven days,noun,PROD,nanoka ga,,,,wk5-8-numbers
+396,27,6,yooka,ようかが,[0],3,the 8th; eight days,noun,PROD,yooka ga,,,"LENGTH IS THE WHOLE CONTRAST: yooka (8th) vs yokka (4th). Long vowel versus geminate, and nothing else. Drill this pair to death.",wk5-8-numbers
+397,27,6,kokonoka,ここのかが,[0],4,the 9th; nine days,noun,PROD,kokonoka ga,,,,wk5-8-numbers
+398,27,6,tooka,とおかが,[0],3,the 10th; ten days,noun,PROD,tooka ga,,,Built on too. Contrast tooka / yooka / yokka as a three-way length-and-gemination set.,wk5-8-numbers
+399,27,6,juuyokka,じゅうよっかが,[0],5,the 14th; fourteen days,noun,PROD,juuyokka ga,,,The yo- irregular survives inside the teens. Never *juuyonnichi.,wk5-8-numbers
+400,27,6,hatsuka,はつかが,[0],3,the 20th; twenty days,noun,PROD,hatsuka ga,,,The last wago date. From 21 on it is regular: nijuuichinichi.,wk5-8-numbers
+401,27,6,juuichinichi,じゅういちにちが,-,6,the 11th,noun,PROD,juuichinichi ga,,,Regular exemplar: number + nichi. Everything outside the twelve wago dates works this way.,wk5-8-numbers
+402,27,6,nannichi,なんにち,[1],4,what day of the month?,interrogative,PROD,nannichi,,,,wk5-8-numbers
+403,28,6,getsuyoobi,げつようびが,[3],5,Monday,noun,PROD,getsuyoobi ga,,,"5 morae, long oo. Never -yobi.",wk5-8-numbers
+404,28,6,kayoobi,かようびが,[2],4,Tuesday,noun,PROD,kayoobi ga,,,,wk5-8-numbers
+405,28,6,suiyoobi,すいようびが,[2],5,Wednesday,noun,PROD,suiyoobi ga,,,,wk5-8-numbers
+406,28,6,mokuyoobi,もくようびが,[3],5,Thursday,noun,PROD,mokuyoobi ga,,,,wk5-8-numbers
+407,28,6,kin'yoobi,きんようびが,[3],5,Friday,noun,PROD,kin'yoobi ga,,,"n' BEFORE y: ki-N-yo-o-bi, 5 morae. Not *kinyoobi with a palatal nyo - the N is its own beat.",wk5-8-numbers
+408,28,6,doyoobi,どようびが,[2],4,Saturday,noun,PROD,doyoobi ga,,,,wk5-8-numbers
+409,28,6,nichiyoobi,にちようびが,[3],5,Sunday,noun,PROD,nichiyoobi ga,,,,wk5-8-numbers
+410,28,6,nan'yoobi,なんようび,[1],5,what day of the week?,interrogative,PROD,nan'yoobi,,,n' before y again.,wk5-8-numbers
+411,28,6,ichigatsu,いちがつが,[4],4,January,noun,PROD,ichigatsu ga,,,"Months are just number + gatsu. Only three cells misbehave: 4, 7, 9.",wk5-8-numbers
+412,28,6,shigatsu,しがつが,[3],3,April,noun,PROD,shigatsu ga,,,"LEXICALIZED: shi-, never *yongatsu. Note this is shi, NOT the yo- used by yoji/yonin/yokka - the exceptions do not all pick the same alternate.",wk5-8-numbers
+413,28,6,shichigatsu,しちがつが,[4],4,July,noun,PROD,shichigatsu ga,,,LEXICALIZED: never *nanagatsu.,wk5-8-numbers
+414,28,6,kugatsu,くがつが,[1],3,September,noun,PROD,kugatsu ga,,,"LEXICALIZED: ku-, never *kyuugatsu. Same ku as kuji.",wk5-8-numbers
+415,28,6,juunigatsu,じゅうにがつが,[5],5,December,noun,PROD,juunigatsu ga,,,,wk5-8-numbers
+416,28,6,nangatsu,なんがつ,[1],4,what month?,interrogative,PROD,nangatsu,,,,wk5-8-numbers
+417,28,6,kyoo,きょうが,[1],2,today,noun,PROD,kyoo ga,,,2 morae: kyo-o. kyo is one mora. NOT kyou.,wk5-8-numbers
+418,28,6,biiru,ビールが。,[1],3,beer,noun,PROD,biiru ga.,,,,repair
+419,28,6,koohii,コーヒーが。,[3],4,coffee,noun,PROD,koohii ga.,,,Two long vowels — tier 2. Contrast with biiru for the length drill.,repair
+420,28,6,sensee,せんせいが。,[3],4,teacher,noun,PROD,sensee ga.,,,NEVER 'sensei'. Heard as /sensee/; the learner has no kanji.,repair
+421,29,7,ashita,あしたが,[0],3,tomorrow,noun,PROD,ashita ga,,,,wk5-8-numbers
+422,29,7,kinoo,きのうが,[2],3,yesterday,noun,PROD,kinoo ga,,,3 morae: ki-no-o.,wk5-8-numbers
+423,29,7,asatte,あさってが,[3],4,the day after tomorrow,noun,PROD,asatte ga,,,Geminate. 4 morae: a-sa-Q-te.,wk5-8-numbers
+424,29,7,ototoi,おとといが,[3],4,the day before yesterday,noun,PROD,ototoi ga,,,,wk5-8-numbers
+425,29,7,raishuu,らいしゅうが,[0],4,next week,noun,PROD,raishuu ga,,,4 morae: ra-i-shu-u.,wk5-8-numbers
+426,29,7,senshuu,せんしゅうが,[0],4,last week,noun,PROD,senshuu ga,,,,wk5-8-numbers
+427,29,7,konshuu,こんしゅうが,[0],4,this week,noun,PROD,konshuu ga,,,,wk5-8-numbers
+428,29,7,isshuukan,いっしゅうかんが,[3],6,one week (duration),noun,PROD,isshuukan ga,,,"SIX morae: i-Q-shu-u-ka-N. Geminate, then a long vowel, then a moraic N. The heaviest word in this block - say it slow and full before you ever say it fast.",wk5-8-numbers
+429,29,7,kudasai,ください,[3],4,please give me,chunk,PROD,kudasai,,,,wk5-8-numbers
+430,29,7,kore kudasai,これください,-,6,"this one, please",chunk,PROD,kore kudasai,,,The o drops in casual shop speech. kore o kudasai is the full form; kore kudasai is what is said.,wk5-8-numbers
+431,29,7,onegaishimasu,おねがいします,[6],7,please (I request it),chunk,PROD,onegaishimasu,,,Softer and wider than kudasai. Works on its own as a whole turn.,wk5-8-numbers
+432,29,7,ikura desu ka,いくらですか,-,6,how much is it?,chunk,PROD,ikura desu ka,,,,wk5-8-numbers
+433,29,7,ee to,ええと,[1],3,"um..., let me see",chunk,PROD,ee to,,,"The buying-time filler. Learn it early: it is what keeps a slow number from sounding like a breakdown. Long ee, two beats.",wk5-8-numbers
+434,29,7,sore ja,それじゃ,-,3,"in that case, right then",chunk,PROD,sore ja,,,Marks the decision point in a transaction.,wk5-8-numbers
+435,29,7,kore de,これでおねがいします,-,3,with this / this'll do,chunk,PROD,kore de onegaishimasu,,,What you say handing over cash or a card.,wk5-8-numbers
+436,29,7,fukuro,ふくろが,[0],3,bag,noun,RECOG,fukuro ga,,,,wk5-8-numbers
+437,29,7,fukuro irimasu ka,ふくろいりますか,-,8,do you need a bag?,chunk,RECOG,fukuro irimasu ka,,,"RECOG ONLY - the clerk says it, you answer hai or daijoobu desu. You will hear this at every register.",wk5-8-numbers
+438,29,7,reshiito,レシートが,[2],4,receipt,noun,PROD,reshiito ga,,,5 morae: re-shi-i-to. The long ii is a full extra beat.,wk5-8-numbers
+439,30,7,zenbu de,ぜんぶで,-,4,"all together, in total",chunk,RECOG,zenbu de,,,Precedes the total: zenbu de sen'en desu.,wk5-8-numbers
+440,30,7,naru,なる、なって,[1],2,become,"verb, godan -ru",PROD,"naru, natte",natte [1],,godan -ru member 2.,wk6-8-verbs
+441,30,7,omou,おもう、おもって,[2],3,think,"verb, godan -u",PROD,"omou, omotte",omotte [2],,godan -u member 2. -wanai verb: omowanai [4].,wk6-8-verbs
+442,30,7,iku,いく、いって,[0],2,go,"verb, godan -ku (EXCEPTION)",PROD,"iku, itte",itte [0],,"EXCEPTION 1 OF 2. te-form is itte, not *iite. Because the pair is stored as audio from day one, this costs nothing — there is no rule to except. itte [0] is homophonous with itte [0] from iru 'need' (62): both phrase-only.",wk6-8-verbs
+443,30,7,kuru,くる、きて,[1],2,come,"verb, irregular (class 3)",PROD,"kuru, kite",kite [1],,ACCENT MINIMAL PAIR: kite [1] = kuru; kite [0] = kiru 'wear' (61). Also kitte [1] = kiru 'cut' (29) — gemination + accent.,wk6-8-verbs
+444,30,7,toru,とる、とって,[1],2,"take, pick up","verb, godan -ru",PROD,"toru, totte",totte [1],,"CODA FLAG: godan -ru member 4. THE -ru CLASS CLOSES HERE (item 16), exactly as derived.",wk6-8-verbs
+445,30,7,yaru,やる、やって,[0],2,do (casual); give (downward),"verb, godan -ru",RECOG,"yaru, yatte",yatte [0],,godan -ru member 5. RECOG only in block D — it is heard constantly (yatta!) but suru is the production default.,wk6-8-verbs
+446,30,7,morau,もらう、もらって,[0],3,"receive, get","verb, godan -u",PROD,"morau, moratte",moratte [0],,"CODA FLAG: godan -u member 4. THE -u CLASS CLOSES HERE (item 22), exactly as derived. -wanai verb: morawanai [4].",wk6-8-verbs
+447,30,7,kureru,くれる、くれて,[0],3,give (to me / my side),"verb, ichidan",PROD,"kureru, kurete",kurete [0],,ichidan member 5. Direction is baked into the verb — no pronoun needed.,wk6-8-verbs
+448,30,7,ageru,あげる、あげて,[0],3,give (away from me),"verb, ichidan",PROD,"ageru, agete",agete [0],,"ichidan member 6. Taught same day as kureru and morau — a three-way direction set, not three words.",wk6-8-verbs
+449,30,7,shiru,しる、しって,[0],2,"come to know, learn of","verb, godan -ru",RECOG,"shiru, shitte",shitte [0],,"TRAP SET: looks ichidan (-iru), is GODAN. godan -ru member 6. Plain non-past shiru is marked; the everyday form is shitteru (block E). RECOG only here.",wk6-8-verbs
+450,30,7,kaeru,かえる、かえって,[1],3,"go home, return","verb, godan -ru",PROD,"kaeru, kaette",kaette [1],,"TRAP SET: looks ichidan (-eru), is GODAN. The pair settles it by ear: kaette, never *kaete. godan -ru member 7.",wk6-8-verbs
+451,30,7,hairu,はいる、はいって,[1],3,"enter, go in","verb, godan -ru",PROD,"hairu, haitte",haitte [1],,"TRAP SET (-iru, godan). godan -ru member 8. haitte, never *haite.",wk6-8-verbs
+452,30,7,hashiru,はしる、はしって,[2],3,run,"verb, godan -ru",PROD,"hashiru, hashitte",hashitte [2],,"TRAP SET (-iru, godan). godan -ru member 9.",wk6-8-verbs
+453,30,7,kiru,きる、きって,[1],2,cut,"verb, godan -ru",RECOG,"kiru, kitte",kitte [1],,TRAP SET + ACCENT PAIR. kiru [1] cut = godan (kitte [1]); kiru [0] wear = ichidan (kite [0]). The accent AND the gemination both separate them — this is why the pair is admitted here rather than earlier. godan -ru member 10.,wk6-8-verbs
+454,30,7,yobu,よぶ、よんで,[0],2,"call, summon, invite","verb, godan -bu",PROD,"yobu, yonde",yonde [0],,"godan -bu member 2. ACCENT PAIR with yomu (18): yonde [0] = yobu, yonde [1] = yomu. Introduced on a different day and drilled as a pair in drill 7.",wk6-8-verbs
+455,30,7,tobu,とぶ、とんで,[0],2,"fly, jump","verb, godan -bu",RECOG,"tobu, tonde",tonde [0],,godan -bu member 3. Item-only in block D (no sentence card) — it is here to fill the -bu class for induction.,wk6-8-verbs
+456,30,7,erabu,えらぶ、えらんで,[2],3,"choose, pick","verb, godan -bu",PROD,"erabu, erande",erande [2],,"CODA FLAG: godan -bu member 4. THE -bu CLASS CLOSES HERE (item 33), exactly as derived.",wk6-8-verbs
+457,31,7,shinu,しぬ、しんで,[0],2,die,"verb, godan -nu",RECOG,"shinu, shinde",shinde [0],,"EXCEPTION 2 OF 2, AND THE STRUCTURAL ONE. -nu HAS EXACTLY ONE MEMBER IN THE ENTIRE LANGUAGE. The class can never reach four and can never be induced — shinu/shinde is memorized alongside iku/itte, and block E's chant is stated as 'seven inducible classes plus two memorized pairs'. shinde [0] vs shinde... no competitor. Item-only, no sentence card.",wk6-8-verbs
+458,31,7,isogu,いそぐ、いそいで,[2],3,hurry,"verb, godan -gu",PROD,"isogu, isoide",isoide [2],,godan -gu member 1. First -ide pair: the VOICING of the -gu class is what the ear must catch (-ite vs -ide).,wk6-8-verbs
+459,31,7,oyogu,およぐ、およいで,[2],3,swim,"verb, godan -gu",PROD,"oyogu, oyoide",oyoide [2],,godan -gu member 2.,wk6-8-verbs
+460,31,7,nugu,ぬぐ、ぬいで,[1],2,"take off (clothes, shoes)","verb, godan -gu",RECOG,"nugu, nuide",nuide [1],,godan -gu member 3.,wk6-8-verbs
+461,31,7,sawagu,さわぐ、さわいで,[2],3,"make noise, be rowdy","verb, godan -gu",RECOG,"sawagu, sawaide",sawaide [2],,"CODA FLAG: godan -gu member 4. THE -gu CLASS CLOSES HERE (item 38), exactly as derived. Item-only, no sentence card.",wk6-8-verbs
+462,31,7,dasu,だす、だして,[1],2,"put out, take out, send (mail)","verb, godan -su",PROD,"dasu, dashite",dashite [1],,godan -su member 2.,wk6-8-verbs
+463,31,7,kasu,かす、かして,[0],2,lend,"verb, godan -su",PROD,"kasu, kashite",kashite [0],,godan -su member 3.,wk6-8-verbs
+464,31,7,naosu,なおす、なおして,[2],3,"fix, repair, correct","verb, godan -su",PROD,"naosu, naoshite",naoshite [2],,"CODA FLAG: godan -su member 4. THE -su CLASS CLOSES HERE (item 41), exactly as derived.",wk6-8-verbs
+465,31,7,kaesu,かえす、かえして,[1],3,"return, give back (something)","verb, godan -su",PROD,"kaesu, kaeshite",kaeshite [1],,"godan -su member 5. Pair with kaeru (26) on the same day: kaeru = I go back, kaesu = I send it back. kaette vs kaeshite separates them by ear.",wk6-8-verbs
+466,31,7,motsu,もつ、もって,[1],2,"hold, carry, have","verb, godan -tsu",PROD,"motsu, motte",motte [1],,godan -tsu member 2.,wk6-8-verbs
+467,31,7,tatsu,たつ、たって,[1],2,"stand, stand up","verb, godan -tsu",PROD,"tatsu, tatte",tatte [1],,godan -tsu member 3.,wk6-8-verbs
+468,31,7,katsu,かつ、かって,[1],2,win,"verb, godan -tsu",PROD,"katsu, katte",katte [1],,"CODA FLAG: godan -tsu member 4. THE -tsu CLASS CLOSES HERE (item 45), exactly as derived. ACCENT PAIR: katte [1] = katsu; katte [0] = kau (14).",wk6-8-verbs
+469,31,7,utsu,うつ、うって,[1],2,"hit, strike","verb, godan -tsu",RECOG,"utsu, utte",utte [1],,"godan -tsu member 5. Item-only, no sentence card.",wk6-8-verbs
+470,31,7,tsukau,つかう、つかって,[0],3,use,"verb, godan -u",PROD,"tsukau, tsukatte",tsukatte [0],,godan -u member 6. -wanai verb: tsukawanai [4].,wk6-8-verbs
+471,31,7,narau,ならう、ならって,[2],3,learn (from a teacher),"verb, godan -u",PROD,"narau, naratte",naratte [2],,godan -u member 7.,wk6-8-verbs
+472,31,7,warau,わらう、わらって,[0],3,"laugh, smile","verb, godan -u",RECOG,"warau, waratte",waratte [0],,godan -u member 8.,wk6-8-verbs
+473,31,7,yasumu,やすむ、やすんで,[2],3,"rest, take time off","verb, godan -mu",PROD,"yasumu, yasunde",yasunde [2],,godan -mu member 3.,wk6-8-verbs
+474,31,7,sumu,すむ、すんで,[1],2,"live, reside","verb, godan -mu",PROD,"sumu, sunde",sunde [1],,"CODA FLAG: godan -mu member 4. THE -mu CLASS CLOSES HERE (item 52), exactly as derived. In real speech this verb is almost always sunderu (block E) — flagged now so the -teru form lands as expected, not as a surprise.",wk6-8-verbs
+475,32,7,tanomu,たのむ、たのんで,[2],3,"ask for, request, order","verb, godan -mu",PROD,"tanomu, tanonde",tanonde [2],,godan -mu member 5.,wk6-8-verbs
+476,32,7,aruku,あるく、あるいて,[2],3,walk,"verb, godan -ku",PROD,"aruku, aruite",aruite [2],,godan -ku regular member 3. Carries path-o: michi o aruku.,wk6-8-verbs
+477,32,7,hataraku,はたらく、はたらいて,[0],4,work,"verb, godan -ku",PROD,"hataraku, hataraite",hataraite [0],,"CODA FLAG, WITH A CORRECTION TO THE BRIEF'S ARITHMETIC. Counting only INDUCIBLE (regular) -ku verbs — kaku 17, kiku 20, aruku 54, hataraku 55 — the -ku class reaches four HERE, at item 55, not 56. The brief's flag at 56 holds only if iku is counted inside the class it is an exception to. Either way the class, and with it the whole induction base, is closed by item 56.",wk6-8-verbs
+478,32,7,tsuku,つく、ついて,[1],2,"arrive, get there","verb, godan -ku",PROD,"tsuku, tsuite",tsuite [1],,"THE GATE ITEM. With tsuku stored, every godan coda class except -nu has >= 4 audio pairs and the learner has >= 40 pairs total. Block E's -te chant is now inducible rather than memorizable. -ku regular member 5.",wk6-8-verbs
+479,32,7,oku,おく、おいて,[0],2,"put, place, set down","verb, godan -ku",PROD,"oku, oite",oite [0],,godan -ku regular member 6. Also the future host of -toku/-doku (block E) — store the pair cleanly now.,wk6-8-verbs
+480,32,7,neru,ねる、ねて,[0],2,"sleep, go to bed","verb, ichidan",PROD,"neru, nete",nete [0],,ichidan member 7. Genuinely ichidan (-eru) — contrast against kaeru (26) the same week.,wk6-8-verbs
+481,32,7,okiru,おきる、おきて,[2],3,"get up, wake up; happen","verb, ichidan",PROD,"okiru, okite",okite [2],,ichidan member 8. Genuinely ichidan (-iru) — contrast against hairu/hashiru/shiru.,wk6-8-verbs
+482,32,7,tsukuru,つくる、つくって,[2],3,"make, cook, build","verb, godan -ru",PROD,"tsukuru, tsukutte",tsukutte [2],,godan -ru member 11. Closes the frequency-60.,wk6-8-verbs
+483,32,7,kiru,きる、きて,[0],2,"wear, put on (torso)","verb, ichidan",RECOG,"kiru, kite",kite [0],,"TRAP SET, THE SHARPEST PAIR IN THE BLOCK. kiru [0] wear (ichidan, kite [0]) vs kiru [1] cut (godan, kitte [1]) vs kuru [1] come (kite [1]). Three-way: kite [0] = wearing, kite [1] = coming, kitte [1] = cutting. Accent AND gemination both load-bearing. ichidan member 9.",wk6-8-verbs
+484,32,7,iru,いる、いって,[0],2,"need, be necessary","verb, godan -ru",RECOG,"iru, itte",itte [0],,"TRAP SET. iru [0] need = GODAN (itte [0]); iru [0] exist = ICHIDAN (ite [0]). Same accent, same shape, different class — separated only by the pair. And itte [0] here is homophonous with itte [0] from iku (8). PERMANENTLY PHRASE-ONLY: okane ga itte / eki ni itte. godan -ru member 12.",wk6-8-verbs
+485,32,7,shaberu,しゃべる、しゃべって,[2],3,"chat, talk (casual)","verb, godan -ru",PROD,"shaberu, shabette",shabette [2],,"TRAP SET (-eru, godan). sha = 1 mora, so shaberu is 3 morae. shabette, never *shabete.",wk6-8-verbs
+486,32,7,kagiru,かぎる、かぎって,[2],3,limit; (X ni kagiru) nothing beats X,"verb, godan -ru",RECOG,"kagiru, kagitte",kagitte [2],,"TRAP SET (-iru, godan), low frequency, admitted only to complete the trap inventory. RECOG, item-only, no sentence card.",wk6-8-verbs
+487,32,7,suu,すう、すって,[0],2,"smoke; inhale, suck","verb, godan -u",PROD,"suu, sutte",sutte [0],,godan -u member 9. Admitted here because it is the -UU member of the w-insertion set: suu/suwanai. Without it the rule looks like it is about -au only.,wk6-8-verbs
+488,32,7,KEY 1: jishokee = plain non-past,まいにちいく。あしたいく。,-,11,"the dictionary form is the comprehension citation form; it covers HABITUAL and FUTURE, never 'right now'",operator (key),DRILL,mainichi iku. ashita iku.,,,State the negative fact loudly: taberu does NOT mean 'I am eating'. 'Right now' is -teru and it arrives in block E. Two classes (godan / ichidan) plus suru and kuru — that is the entire verb system.,wk6-8-verbs
+489,32,7,"godan / ichidan: class is STORED, not computed",たべる、たべて。とる、とって。,-,17,the class tag rides on the audio pair; it is never derived from the spelling,operator,DRILL,"taberu, tabete. toru, totte.",,,"THE LOAD-BEARING DESIGN DECISION OF THE BLOCK. One extra syllable of storage (the -te form) eliminates a rule, a diagnostic, and an exception list. The -eru/-iru trap ceases to exist because nothing is ever inferred from the ending.",wk6-8-verbs
+490,32,7,o (direct object),みずおのむ,-,5,marks what the action affects,particle,DRILL,mizu o nomu,,,"Pronounced o, never wo. Unaccented, attaches to the preceding phrase.",wk6-8-verbs
+491,32,7,o (path),みちおあるく,-,2,marks the space traversed: along/through/across,particle,DRILL,michi o aruku,,,"SAME PARTICLE, NOT A HOMOPHONE. With motion verbs (aruku, hashiru, tobu) the 'object' is the ground covered. Teaching it as one particle with two uses is cheaper than two entries.",wk6-8-verbs
+492,32,7,ni (existence location),うちにいる,-,11,where a thing SITS,particle,DRILL,uchi ni iru,,,Pairs with aru/iru only. This is the ni that contrasts with de.,wk6-8-verbs
+493,33,7,ni (goal / destination),えきにいく,-,9,"where a thing GOES, endpoint",particle,DRILL,eki ni iku,,,Interchangeable with e in most destination uses; ni is the default and also does non-motion goals.,wk6-8-verbs
+494,33,7,ni (recipient / target),ともだちにきく,-,8,the person the action lands on,particle,DRILL,tomodachi ni kiku,,,"tomodachi ni kiku (ask), tomodachi ni au (meet), tomodachi ni ageru (give). Note that au takes ni, not o — an early and permanent error source.",wk6-8-verbs
+495,33,7,ni (clock time),はちじにおきる,-,4,at (a specified time),particle,DRILL,hachi-ji ni okiru,,,"Only with times that can be pointed at on a clock or calendar. NOT with kyoo, ashita, kinoo, mainichi — those take no particle. Card the ban explicitly.",wk6-8-verbs
+496,33,7,de (locus of action),うちでたべる,-,8,where the action HAPPENS,particle,DRILL,uchi de taberu,,,The ni/de split is the single highest-yield particle contrast in the block: uchi ni iru (sit) vs uchi de taberu (act).,wk6-8-verbs
+497,33,7,de (means / instrument),くるまでいく,-,9,"by, with, using",particle,DRILL,kuruma de iku,,,"kuruma de, denwa de, nihongo de. Same particle as locus — one entry, two uses.",wk6-8-verbs
+498,33,7,e,うちえかえる,-,1,"toward, in the direction of",particle,DRILL,uchi e kaeru,,,"Pronounced e, never he. Directional feel, slightly softer than ni; safe substitute for destination-ni only.",wk6-8-verbs
+499,33,7,to (comitative),ともだちといく,-,6,together with (a person),particle,DRILL,tomodachi to iku,,,"Also the exhaustive 'and' between nouns (block C). The quotative to (X to omou) is DEFERRED to block E with the -tte contraction, so it is not a competing sense here.",wk6-8-verbs
+500,33,7,kara ... made,くじからごじまではたらきます,-,4,from X to Y (span),frame,DRILL,ku-ji kara go-ji made hatarakimasu,,,"Drilled as one prosodic unit, not two particles.",wk6-8-verbs
+501,33,7,ni / de / o three-way selection,うちにいる。うちでたべる。みちおあるく。,-,11,ni = where it sits / where it goes / when; de = where it happens / by what means; o = what it affects / what it traverses,operator,DRILL,uchi ni iru. uchi de taberu. michi o aruku.,,,The learner must be able to SAY this split in one English line before block E opens.,wk6-8-verbs
+502,33,7,KEY 3: the i-stem (ren'yookee),のみ、たべ、まち、はなし、し、き,-,10,the shelf every non-te ending hangs on,operator (key),DRILL,"nomi, tabe, machi, hanashi, shi, ki",,,"THE HIGHEST-LEVERAGE MOVE IN THE COURSE. Named HERE because it is free: it is already the -masu stem the learner is about to drill 500 times. Formation: ichidan drop -ru (tabe-); godan -u to -i (nomi-, machi-, hanashi-, aruki-); suru to shi-; kuru to ki-. Naming it converts twenty later 'grammar points' into ONE operation plus twenty tails. Note ki- from kuru vs ki- from kiru (wear) — kimasu is genuinely ambiguous, resolved by the object.",wk6-8-verbs
+503,33,7,-masu,のみます,[3] on nomimasu,2,polite non-past,suffix (i-stem tail),PROD,nomimasu,,,"ACCENT: on ma. nomimásu, ikimásu, tabemásu. This is the one that obeys the naive rule.",wk6-8-verbs
+504,33,7,-masen,のみません,[4] on nomimasen,3,polite negative non-past,suffix (i-stem tail),PROD,nomimasen,,,"CORRECTION APPLIED: ACCENT IS ON SE, NOT MA. nomimasén, ikimasén, tabemasén. Producing *nomímasen is a drill failure, not a nuance.",wk6-8-verbs
+505,33,7,-mashita,のみました,[3] on nomimashita,3,polite past,suffix (i-stem tail),PROD,nomimashita,,,"ACCENT: on ma. nomimáshita. Obeys the naive rule. Final -ta is devoiced-short: mashta in the stream — expect it, do not teach a spelling.",wk6-8-verbs
+506,33,7,-masen deshita,のみませんでした,[4] on nomimasen deshita,6,polite negative past,suffix (i-stem tail),PROD,nomimasen deshita,,,ACCENT: on se; deshita rides flat behind it. Breaks the naive rule.,wk6-8-verbs
+507,33,7,-mashoo,いきましょう,[4] on ikimashoo,3,let's ...; shall I ...,suffix (i-stem tail),PROD,ikimashoo,,,"CORRECTION APPLIED: ACCENT IS ON SHO, NOT MA. ikimashóo, nomimashóo, tabemashóo. sho-o is two morae (long vowel doubled). Breaks the naive rule.",wk6-8-verbs
+508,33,7,-masen ka,のみませんか,[4] on nomimasen ka,4,"won't you ...? (invitation, softer than -mashoo)",suffix (i-stem tail),PROD,nomimasen ka,,,ACCENT: on se. Breaks the naive rule. Rising final ka. Three of the five shell forms break the ma rule — that is the headline of week 7.,wk6-8-verbs
+509,33,7,-masu ka,のみますか,[3] on nomimasu ka,3,polite question,suffix (i-stem tail),RECOG,nomimasu ka,,,ACCENT: stays on ma. So -masu ka and -masen ka differ in BOTH segment and accent — a clean listening contrast.,wk6-8-verbs
+510,33,7,-tai,のみたい,[3] on nomitai,2,want to ...,i-stem tail (inflects as i-adjective),PROD,nomitai,,,"ACCENT RULE: -tai compounds take the i-adjective accent, on the PENULTIMATE mora (the ta). nomitai [3], tabetai [3], ikitai [3], hanashitai [4]. Object may take ga: mizu ga nomitai. First-person only in plain statement.",wk6-8-verbs
+511,34,7,-nagara,あるきながら,[4] on arukinagara,3,"while ...ing (simultaneous, same subject)",i-stem tail,PROD,arukinagara,,,"ACCENT: on the na of -nagara. nominagara [3], arukinagara [4], tabenagara [3]. The -nagara clause is the BACKGROUND action; the main verb carries the point.",wk6-8-verbs
+512,34,7,-ni iku,たべにいく,-,3,go in order to ...,i-stem tail (+ motion verb),PROD,tabe ni iku,,,"Two accent phrases: the i-stem + ni is unaccented and leans onto iku/kuru/kaeru. tabe ni iku, nomi ni iku, mi ni iku, kai ni iku. Verify the phrasing against native audio before recording.",wk6-8-verbs
+513,34,7,-kata,つかいかた,-,2,the way of ...ing; how to ...,i-stem tail (makes a noun),PROD,tsukaikata,,,"Makes an ordinary noun: tsukaikata, yomikata, tabekata, tsukurikata. ACCENT: -kata compounds carry ONE accent near the junction; VERIFY EACH AGAINST NHK BEFORE RECORDING — do not ship a guessed integer. Flagged for the recording pass rather than asserted.",wk6-8-verbs
+514,34,7,-sugiru,のみすぎる,[3] on nomisugiru,3,"...too much, over-...",i-stem tail (makes an ichidan verb),PROD,nomisugiru,,,"ACCENT: on the su of -sugiru. nomisugiru [3], tabesugiru [3]. Output is ichidan, so it re-enters the whole system: nomisugimashita, nomisuginai. Also attaches to adjective stems (takasugiru) — previewed, not carded.",wk6-8-verbs
+515,34,7,-yasui,よみやすい,[4] on yomiyasui,3,"easy to ..., tends to ...",i-stem tail (makes an i-adjective),PROD,yomiyasui,,,"ACCENT: i-adjective penultimate rule, on the su. yomiyasui [4], tabeyasui [4], wakariyasui [5].",wk6-8-verbs
+516,34,7,-nikui,よみにくい,[4] on yominikui,3,hard to ...,i-stem tail (makes an i-adjective),PROD,yominikui,,,"ACCENT: penultimate, on the ku. yominikui [4], tabenikui [4]. Taught in the same session as -yasui — they are one antonym pair, not two items.",wk6-8-verbs
+517,34,7,-hajimeru,よみはじめる,-,4,start ...ing,i-stem tail (makes an ichidan verb),PROD,yomihajimeru,,,Output is ichidan. ACCENT of the compound: VERIFY AGAINST NATIVE AUDIO before recording; do not ship a guessed integer. The standalone verb hajimeru is [0].,wk6-8-verbs
+518,34,7,-owaru,たべおわる,-,3,finish ...ing,i-stem tail (makes a godan -ru verb),PROD,tabeowaru,,,"Output is GODAN -ru: tabeowatte, tabeowarimashita. ACCENT of the compound: verify before recording. Standalone owaru is [0].",wk6-8-verbs
+519,34,7,-tsuzukeru,はたらきつずける,-,4,"keep ...ing, go on ...ing",i-stem tail (makes an ichidan verb),PROD,hatarakitsuzukeru,,,"Output is ichidan. ACCENT of the compound: verify before recording. Standalone tsuzukeru is [0]. Completes the aspect trio hajimeru/owaru/tsuzukeru — all three ride the SAME shelf, which is the whole point.",wk6-8-verbs
+520,34,7,KEY 2: the -nai stem (mizenkee),たべない。のまない。,-,10,the second shelf: plain negative and everything built on it,operator (key),DRILL,tabenai. nomanai.,,,"Ichidan: drop -ru, add -nai. Godan: -u to -a, add -nai. suru to shinai, kuru to konai, aru to NAI. Later tenants of this shelf: -nakya, -naide, -nakute, passive, causative. Named now for the same reason the i-stem was.",wk6-8-verbs
+521,34,7,-anai (godan),のまない,[3] on nomanai,6,"plain negative, godan verbs",operator,PROD,nomanai,,,"ACCENT RULE, UNIFORM: the accent sits on the mora immediately before -nai (the na). nomanai [3], ikanai [3], matanai [3], hanasanai [4], asobanai [4], isoganai [4], wakaranai [4]. One rule, no exceptions in this set.",wk6-8-verbs
+522,34,7,-nai (ichidan),たべない,[3] on tabenai,6,"plain negative, ichidan verbs",operator,PROD,tabenai,,,"Drop -ru. tabenai [3], minai [2], nenai [2], okinai [3], dekinai [3]. Same penult-na accent.",wk6-8-verbs
+523,34,7,-wanai (W-INSERTION),かわない、いわない、おもわない、すわない,[3] on kawanai,9,plain negative of verbs ending VOWEL + u,operator,PROD,"kawanai, iwanai, omowanai, suwanai",,,"THE RULE STATED CORRECTLY: any verb whose dictionary form ends in VOWEL + u — that is -au, -iu, -ou, -uu — takes -wanai. kau/kawanai [3], YUU/IWANAI [3], omou/omowanai [4], suu/suwanai [3], au/awanai [3], morau/morawanai [4], tsukau/tsukawanai [4], narau/narawanai [4], warau/warawanai [4]. THE CONVENTIONAL STATEMENT SAYS '-au' AND THEREFORE MIS-GENERATES FOR YUU, one of the highest-frequency verbs in speech. Card the four vowel shapes, not one.",wk6-8-verbs
+524,34,7,iwanai,なにもいわない,[3],4,doesn't say,irregular negative stem,PROD,nani mo iwanai,,,"DOUBLE IRREGULARITY, CARDED SEPARATELY BECAUSE IT IS TWO SURPRISES AT ONCE: yuu takes -wanai (rule), AND its stem reverts to i- rather than yu- (memorized). yuu / yutte / yutta / IWANAI / iimasu. Never *yuwanai, never *yuanai.",wk6-8-verbs
+525,34,7,shinai,きょうわしない,[2],3,doesn't do,irregular negative,PROD,kyoo wa shinai,,,"suru to shinai. Memorized. Not to be confused with shinanai [3] (shinu, item 34) — a real and grim minimal pair, deliberately introduced on different days.",wk6-8-verbs
+526,34,7,konai,あしたわこない,[2],3,doesn't come,irregular negative,PROD,ashita wa konai,,,"kuru to konai — the stem vowel changes to o, which happens nowhere else. Memorized. Some references list [1]; VERIFY against NHK at the recording pass and pick one for the whole deck.",wk6-8-verbs
+527,34,7,-nakatta,いかなかった,[4] on ikanakatta,4,plain negative past,operator,PROD,ikanakatta,,,"ACCENT: on the ka. ikanakatta [4], tabenakatta [4], nomanakatta [4], hanasanakatta [5]. Standalone nakatta is [1].",wk6-8-verbs
+528,34,7,register: plain vs -masu,のみません。のまない。,-,8,-masu is the PRODUCTION default for the first four months; plain is what you HEAR,operator,DRILL,nomimasen. nomanai.,,,"Stated explicitly so the learner does not treat the two as free variants. Produce -masu, comprehend both. The plain forms are stocked now because block E's contractions all attach to them.",wk6-8-verbs
+529,35,7,mainichi,まいにち,[1],4,every day,noun / adverb,PROD,mainichi,,,"Takes NO particle. mainichi hatarakimasu, never *mainichi ni. The natural partner of the habitual dictionary form.",wk6-8-verbs
+530,35,7,moo,もうたべました,[1],2,already; now,adverb,RECOG,moo tabemashita,,,Long vowel doubled. With affirmative past = already.,wk6-8-verbs
+531,35,7,mada,まだじかんがある,[1],2,still; (with negative) not yet,adverb,RECOG,mada jikan ga aru,,,"The 'not yet' sense needs a negative, and its most natural form is mada tabetenai — deferred to block E. Here only the affirmative 'still'.",wk6-8-verbs
+532,35,7,amari,あまりのみません,[0],3,"(with negative) not much, not very",adverb,PROD,amari nomimasen,,,POLARITY ITEM: ungrammatical without a negative. Colloquial anmari [0] taught as a variant.,wk6-8-verbs
+533,35,7,zenzen,ぜんぜんわかりません,[0],4,(with negative) not at all,adverb,PROD,zenzen wakarimasen,,,POLARITY ITEM. Two moraic N in four morae — a deliberate mora-timing workout as well as a word. ze-N-ze-N.,wk6-8-verbs
+534,35,7,yoku,よくあいます,[1],2,often; well,adverb,PROD,yoku aimasu,,,Adverbial form of ii/yoi. Frequency sense with habitual verbs.,wk6-8-verbs
+535,35,7,hayaku,はやくおきました,[1],3,early; quickly,adverb,PROD,hayaku okimashita,,,"From hayai [2]; the -ku form shifts to [1]. Card the shift, it recurs across i-adjectives.",wk6-8-verbs
+536,35,7,sugu,すぐいきます,[1],2,"right away, immediately",adverb,PROD,sugu ikimasu,,,"Also sugu ni. All-CV, 2 morae — a cheap card.",wk6-8-verbs
+537,35,7,issho ni,いっしょにいきましょう,[0] on issho,4,together,adverbial phrase,PROD,issho ni ikimashoo,,,"Geminate doubled: i-Q-sho, 3 morae, sho is one mora. The default partner of -mashoo and -masen ka.",wk6-8-verbs
+538,35,7,ato de,あとででんわおします,[1] on ato,3,"later, afterwards",adverbial phrase,PROD,ato de denwa o shimasu,,,Contrast with sugu. The 'after X' use (X no ato de) is previewed only.,wk6-8-verbs
+539,35,7,yasumi,やすみが,[3],3,"break, rest, day off",noun (from i-stem),PROD,yasumi ga,,,From yasumu. Same point as hanashi.,wk6-8-verbs
+540,35,7,tabemono,たべものが,[2],4,food,noun (i-stem compound),PROD,tabemono ga,,,i-stem + mono. Verify [2] vs [3] at the recording pass and apply the same choice to nomimono.,wk6-8-verbs
+541,35,7,gakkoo,がっこうが。,[0],4,school,noun,PROD,gakkoo ga.,,,"Geminate + long vowel: ga-Q-ko-o, 4 morae.",repair
+542,35,7,kippu,きっぷが。,[0],3,ticket,noun,PROD,kippu ga.,,,,repair
+543,35,7,zasshi,ざっしが。,[0],3,magazine,noun,PROD,zasshi ga.,,,,repair
+544,35,7,shatsu,シャツが。,[1],2,shirt,noun,PROD,shatsu ga.,,,"sha is ONE mora (yoon). sha-tsu = 2 morae, no geminate despite looking like one.",repair
+545,35,7,nomimono,のみものが,[3],4,"drink, beverage",noun (i-stem compound),PROD,nomimono ga,,,"Paired with tabemono in one session — one operation, two words.",wk6-8-verbs
+546,35,7,wakarimasen,わかりません,[5],6,I don't understand / I don't know,chunk,CHUNK,wakarimasen,,,"Accent on se, consistent with -masen. Six morae. The single most useful sentence the learner can own in week 7 — carded whole, then re-derived from wakaru once the shell is drilled.",wk6-8-verbs
+547,36,8,shirimasen,しりません,[4],5,I don't know (that information),chunk,CHUNK,shirimasen,,,Accent on se. Contrast with wakarimasen: shirimasen = the fact is not in my head; wakarimasen = I can't make sense of it. Affirmative is NOT shirimasu but shitte imasu / shitteru (block E) — flag the asymmetry now.,wk6-8-verbs
+548,36,8,nani o shimasu ka,なにおしますか,[1] on nani,7,what are you going to do?,wh-frame,PROD,nani o shimasu ka,,,wh-word + particle + shell. Drilled as a frame with a swappable head.,wk6-8-verbs
+549,36,8,doko de,どこでたべますか,[1] on doko,3,where (action happens),wh-frame,PROD,doko de tabemasu ka,,,Contrast pair with doko ni. doko de = where do you do it; doko ni = where is it / where are you going.,wk6-8-verbs
+550,36,8,nan-ji ni,なんじにおきますか,[1] on nan-ji,4,at what time,wh-frame,PROD,nan-ji ni okimasu ka,,,"Carries the clock-time ni. na-N-ji, 3 morae.",wk6-8-verbs
+551,36,8,dare to,だれといきますか,[1] on dare,3,with whom,wh-frame,PROD,dare to ikimasu ka,,,"Completes the wh + particle set: nani o, doko de, doko ni, nan-ji ni, dare to, doko kara.",wk6-8-verbs
+552,36,8,PAIR STORAGE (the block's contract),かく、かいて。きく、きいて。いく、いって。,-,10,"every verb enters memory as two sounds, never one",operator,DRILL,"kaku, kaite. kiku, kiite. iku, itte.",,,"THE CLOSING AUDIT ITEM. Recited daily. By day 56 the learner holds 65 pairs; the -te chant in block E is then a description of something already in the ear, not a rule to apply. The three-item audioText is deliberate: two regular -ku pairs then the exception, so iku is heard as odd rather than learned as odd.",wk6-8-verbs
+553,36,8,R0: -ru > -te (ICHIDAN),たべる、たべて。みる、みて。おきる、おきて。ねる、ねて。,[2],6,"CHANT ROW 0. Drop -ru, add -te. Zero segment change.",chant row,DRILL,"taberu, tabete. miru, mite. okiru, okite. neru, nete.",tabete,,"Opens the chant. The true one-to-one row: the ichidan stem is already isolated from the -masu shell in wk 6-7, so -te merely occupies a slot.",wk9-10-te
+554,36,8,tabete,たべる、たべて,[2],3,eat-TE,ichidan -te,DRILL,"taberu, tabete",tabete,,"ACCENT LAW: -te keeps the dictionary accent index. Teach once, applies to all 60 verbs.",wk9-10-te
+555,36,8,mite,みる、みて,[1],2,look-TE,ichidan -te,DRILL,"miru, mite",mite,,,wk9-10-te
+556,36,8,okite,おきる、おきて,[2],3,get-up-TE,ichidan -te,DRILL,"okiru, okite",okite,,,wk9-10-te
+557,36,8,nete,ねる、ねて,[0],2,sleep-TE,ichidan -te,DRILL,"neru, nete",nete,,,wk9-10-te
+558,36,8,ite,いる、いて,[0],2,be-present-TE (animate),ichidan -te,DRILL,"iru, ite",ite,,ite vs itte is the cleanest one-word gemination contrast the learner now owns. Feed it to the perception drill.,wk9-10-te
+559,36,8,dekite,できる、できて,[2],3,be-able-TE / be-done-TE,ichidan -te,DRILL,"dekiru, dekite",dekite,,,wk9-10-te
+560,36,8,kurete,くれる、くれて,[0],3,give-me-TE,ichidan -te,DRILL,"kureru, kurete",kurete,,"Pre-loads day 8, -te kureru.",wk9-10-te
+561,36,8,agete,あげる、あげて,[0],3,give-out-TE,ichidan -te,DRILL,"ageru, agete",agete,,,wk9-10-te
+562,36,8,oshiete,おしえる、おしえて,[0],4,teach/tell-TE,ichidan -te (NEW LEXEME oshieru [0]),PROD,"oshieru, oshiete",oshiete,,"New lexeme, budgeted. Named in the brief for R0, and the workhorse object of -te kureru and -te morau on days 8 and 10.",wk9-10-te
+563,36,8,dekakete,でかける、でかけて,[0],4,go-out-TE,ichidan -te (NEW LEXEME dekakeru [0]),PROD,"dekakeru, dekakete",dekakete,,"New lexeme, budgeted.",wk9-10-te
+564,36,8,wasurete,わすれる、わすれて,[0],4,forget-TE,ichidan -te (NEW LEXEME wasureru [0]),PROD,"wasureru, wasurete",wasurete,,"New lexeme, budgeted. Required by day 9: wasurechatta is the highest-frequency -chatta token in the language.",wk9-10-te
+565,37,8,R1: -su > -shite,はなす、はなして。かす、かして。だす、だして。なおす、なおして。,[2],3,"CHANT ROW 1. One-to-one, zero sound change.",chant row,DRILL,"hanasu, hanashite. kasu, kashite. dasu, dashite. naosu, naoshite.",hanashite,,This is literally the i-stem they already own from wk 6-7: hanashi- plus te. Perception load nil. NEVER drilled alone - R2 follows in the same session.,wk9-10-te
+566,37,8,hanashite,はなす、はなして,[2],4,speak-TE,godan -su -te,DRILL,"hanasu, hanashite",hanashite,,,wk9-10-te
+567,37,8,kashite,かす、かして,[0],3,lend-TE,godan -su -te,DRILL,"kasu, kashite",kashite,,,wk9-10-te
+568,37,8,dashite,だす、だして,[1],3,put-out-TE,godan -su -te,DRILL,"dasu, dashite",dashite,,,wk9-10-te
+569,37,8,naoshite,なおす、なおして,[2],4,fix-TE,godan -su -te,DRILL,"naosu, naoshite",naoshite,,,wk9-10-te
+570,37,8,kaeshite,かえす、かえして,[1],4,give-back-TE,godan -su -te,DRILL,"kaesu, kaeshite",kaeshite,,Keep at least 6 indices from kaette (n59): kaeshite and kaette are a transitivity pair AND a near-collision.,wk9-10-te
+571,37,8,R2: -ku > -ite,かく、かいて。きく、きいて。あるく、あるいて。はたらく、はたらいて。,[1],3,CHANT ROW 2. One-to-one. The consonant drops to a fully voiced vowel.,chant row,DRILL,"kaku, kaite. kiku, kiite. aruku, aruite. hataraku, hataraite.",kaite,,Every mora carries acoustic energy - the easiest change row to hear. iku is EXCLUDED from this induction set and is not shown until day 4.,wk9-10-te
+572,37,8,kaite,かく、かいて,[1],3,write-TE,godan -ku -te,DRILL,"kaku, kaite",kaite,,,wk9-10-te
+573,37,8,kiite,おんがくおきいて。,[0],3,listen/ask-TE,godan -ku -te,DRILL,ongaku o kiite.,kiite,True,"THREE morae, ki-i-te. Collides with kite [1] and kitte [1]/[0]. Vowel length is the cue; the whole triple is framed on day 13. COLLISION SET: identical to another -te form by ear. Disambiguated by argument frame (o-marked sound -> kiku), never by spacing — these are carded deliberately adjacent as a discrimination set.",wk9-10-te
+574,37,8,aruite,あるく、あるいて,[2],4,walk-TE,godan -ku -te,DRILL,"aruku, aruite",aruite,,,wk9-10-te
+575,37,8,hataraite,はたらく、はたらいて,[0],5,work-TE,godan -ku -te,DRILL,"hataraku, hataraite",hataraite,,,wk9-10-te
+576,37,8,tsuite,つく、ついて,[1],3,arrive-TE,godan -ku -te,DRILL,"tsuku, tsuite",tsuite,,,wk9-10-te
+577,37,8,oite,おく、おいて,[0],3,put/leave-TE,godan -ku -te,DRILL,"oku, oite",oite,,Silent parent of -toku in wk 11. Do not mention the contraction yet.,wk9-10-te
+578,37,8,"-ta: te > ta, de > da",たべて、たべた。かいて、かいた。はなして、はなした。,[2],5,"PLAIN PAST. Identical slot, final vowel e > a. Costs nothing.",derivation rule,CHUNK,"tabete, tabeta. kaite, kaita. hanashite, hanashita.",,,"SHIPS IN THE SAME SESSION AS THE CHANT, every row, no exceptions. Deferring -ta is the largest unforced error available in this part of the course: it is one vowel swap and it buys -ta, -tara, -tari, -tatte, -ta koto ga aru, -ta hoo ga ii, -ta ato de and -ta bakari.",wk9-10-te
+579,37,8,tabeta / mita / oshieta / dekaketa,たべた。みた。おしえた。でかけた。,[2],13,R0 past forms,ichidan -ta,DRILL,tabeta. mita. oshieta. dekaketa.,,,"Accent index preserved from the dictionary form, same law as -te.",wk9-10-te
+580,37,8,hanashita / kashita / dashita,はなした。かした。だした。,[2],10,R1 past forms,godan -su -ta,DRILL,hanashita. kashita. dashita.,,,,wk9-10-te
+581,37,8,kaita / kiita / aruita,かいた。きいた。あるいた。,[1],10,R2 past forms,godan -ku -ta,DRILL,kaita. kiita. aruita.,,,"kiita is four morae, ki-i-ta. Contrast with kita [1] from kuru on day 13.",wk9-10-te
+582,37,8,-te (junctive: SEQUENCE),あさおきて、ごはんおたべた。,[0],10,"'and then' - clause 1 in -te, clause 2 finite","construction, slot 1, F10 x Q10 = 100",CHUNK,"asa okite, gohan o tabeta.",,,Highest-scoring node in the whole tree. Tense is carried by the FINAL clause only - the -te clause is tenseless. That is the hardest idea here for an English speaker and it is worth a card of its own.,wk9-10-te
+583,38,8,R3: -gu > -ide,およぐ、およいで。いそぐ、いそいで。ぬぐ、ぬいで。さわぐ、さわいで。,[2],3,"CHANT ROW 3. One-to-one, voiced twin of R2.",chant row,DRILL,"oyogu, oyoide. isogu, isoide. nugu, nuide. sawagu, sawaide.",oyoide,,"Drilled ADJACENT to R2 so ku/gu is learned as one contrast, not two rules. Only about five common members exist - say so, so the learner does not go hunting.",wk9-10-te
+584,38,8,oyoide,およぐ、およいで,[2],4,swim-TE,godan -gu -te,DRILL,"oyogu, oyoide",oyoide,,,wk9-10-te
+585,38,8,isoide,いそぐ、いそいで,[2],4,hurry-TE,godan -gu -te,DRILL,"isogu, isoide",isoide,,"Doubles as the frozen adverb 'quickly, in a hurry'. That is the manner-junctive card on day 2.",wk9-10-te
+586,38,8,nuide,ぬぐ、ぬいで,[1],3,take-off (clothes)-TE,godan -gu -te,DRILL,"nugu, nuide",nuide,,accent approximate,wk9-10-te
+587,38,8,sawaide,さわぐ、さわいで,[2],4,make-noise-TE,godan -gu -te,DRILL,"sawagu, sawaide",sawaide,,,wk9-10-te
+588,38,8,oyoida / isoida / nuida,およいだ。いそいだ。ぬいだ。,[2],11,R3 past forms,godan -gu -ta,DRILL,oyoida. isoida. nuida.,,,"VOICED past, -ida not *-ita. First appearance of the de > da half of the -ta rule.",wk9-10-te
+589,38,8,-te (junctive: MANNER),いそいでてがみおかいた。,[2],8,"'by -ing', 'in an X way' - the -te clause says HOW","construction, sense 2 of slot 1",CHUNK,isoide tegami o kaita.,,,"Same form, second reading, taught the day after sequence so -te does not fossilise as 'and then' only. Prosody is the cue: manner -te binds tight with no pause, sequence -te takes a pause.",wk9-10-te
+590,38,8,R4: -mu / -bu > -nde,のむ、のんで。よむ、よんで。よぶ、よんで。あそぶ、あそんで。,[1],4,CHANT ROW 4. FIRST MANY-TO-ONE. Cue is an AUDIBLE SEGMENT.,chant row,DRILL,"nomu, nonde. yomu, yonde. yobu, yonde. asobu, asonde.",nonde,,"Drilled as TWO codas, -mu and -bu, with shinde attached separately as a lexical item. shinu is the only -nu verb; one member cannot support induction and presenting it as a class invites a hunt for verbs that do not exist. The cue is a moraic nasal plus voicing on the /d/ - both have sound in them. NEVER in the same session as R5.",wk9-10-te
+591,38,8,nonde,のむ、のんで,[1],3,drink-TE,godan -mu -te,DRILL,"nomu, nonde",nonde,,,wk9-10-te
+592,38,8,yonde,よむ、よんで,[1],3,read-TE,godan -mu -te,DRILL,"yomu, yonde",yonde,,"MINIMAL PAIR with n43 yonde from yobu [0]. Pitch separates them, but only if the audio runs at least 4 morae past the verb so the contour is recoverable.",wk9-10-te
+593,38,8,yasunde,やすむ、やすんで,[2],4,rest-TE,godan -mu -te,DRILL,"yasumu, yasunde",yasunde,,,wk9-10-te
+594,38,8,sunde,すむ、すんで,[1],3,live-TE,godan -mu -te,DRILL,"sumu, sunde",sunde,,"ALWAYS framed with an obligatory locative: ie ni sunde. Pitch does NOT reliably separate it from sunde 'finish', which stays deferred at least 6 weeks.",wk9-10-te
+595,38,8,yonde,よぶ、よんで,[0],3,call-TE,godan -bu -te,DRILL,"yobu, yonde",yonde,,"The other yonde, heiban. Carded three indices after the [1] member and always with an animate object, so semantics backs up the pitch.",wk9-10-te
+596,38,8,asonde,あそぶ、あそんで,[0],4,play-TE,godan -bu -te,DRILL,"asobu, asonde",asonde,,,wk9-10-te
+597,38,8,tonde,とぶ、とんで,[0],3,fly-TE,godan -bu -te,DRILL,"tobu, tonde",tonde,,,wk9-10-te
+598,38,8,erande,えらぶ、えらんで,[2],4,choose-TE,godan -bu -te,DRILL,"erabu, erande",erande,,,wk9-10-te
+599,38,8,shinde,しぬ、しんで,[0],3,die-TE,"LEXICAL ATTACHMENT to R4, not a class",DRILL,"shinu, shinde",shinde,,"The ONLY -nu verb in the language. Taught as one word, never as a row.",wk9-10-te
+600,38,8,nonda / yonda / asonda / shinda,のんだ。よんだ。あそんだ。しんだ。,[1],13,R4 past forms,godan -nde -ta,DRILL,nonda. yonda. asonda. shinda.,,,de > da. Voiced throughout.,wk9-10-te
+601,39,8,R5: -u / -tsu / -ru > -tte,かう、かって。まつ、まって。とる、とって。つかう、つかって。,[0],5,CHANT ROW 5. MANY-TO-ONE and the cue is A BEAT OF SILENCE.,chant row,DRILL,"kau, katte. matsu, matte. toru, totte. tsukau, tsukatte.",katte,,LAST of the rule rows. Three codas collapse to one output AND the only acoustic evidence is a mora with no energy in it - the hardest thing an audio-only ear does. Gets the longest session in the block. iku is not in this induction set either; it is appended afterwards as a defector.,wk9-10-te
+602,39,8,katte,パンおかって。,[0],3,buy-TE,godan -u -te,DRILL,pan o katte.,katte,True,"Heiban. Anchors R5 and anchors the H4 collision set. COLLISION SET: identical to another -te form by ear. Disambiguated by argument frame (o-marked goods -> kau), never by spacing — these are carded deliberately adjacent as a discrimination set.",wk9-10-te
+603,39,8,atte,ともだちにあって。,[1],3,meet-TE,godan -u -te,DRILL,tomodachi ni atte.,atte,True,"CORRECTION APPLIED: au is [1], NOT [0]. Its -te form atte is therefore HL and ACCENT-IDENTICAL to atte from aru [1]. The earlier pass's pitch-separation claim for this pair is FALSE and is withdrawn here. Separate them by argument structure instead: tomodachi ni atte (dative animate) vs kagi ga atte (nominative inanimate). COLLISION SET: identical to another -te form by ear. Disambiguated by argument frame (ni-marked person -> au [1]), never by spacing — these are carded deliberately adjacent as a discrimination set.",wk9-10-te
+604,39,8,tsukatte,つかう、つかって,[0],4,use-TE,godan -u -te,DRILL,"tsukau, tsukatte",tsukatte,,,wk9-10-te
+605,39,8,waratte,わらう、わらって,[0],4,laugh-TE,godan -u -te,DRILL,"warau, waratte",waratte,,,wk9-10-te
+606,39,8,naratte,ならう、ならって,[2],4,learn-TE,godan -u -te,DRILL,"narau, naratte",naratte,,,wk9-10-te
+607,39,8,matte,まつ、まって,[1],3,wait-TE,godan -tsu -te,DRILL,"matsu, matte",matte,,Becomes the single most-used token of week 9 - chotto matte.,wk9-10-te
+608,39,8,motte,もつ、もって,[1],3,hold/carry-TE,godan -tsu -te,DRILL,"motsu, motte",motte,,,wk9-10-te
+609,39,8,tatte,たつ、たって,[1],3,stand-TE,godan -tsu -te,DRILL,"tatsu, tatte",tatte,,,wk9-10-te
+610,39,8,totte,とる、とって,[1],3,take-TE,godan -ru -te,DRILL,"toru, totte",totte,,"Frame obligatorily: te de totte. Pitch does NOT separate it from tootte (tooru) - vowel length is the only cue, and tooru stays deferred at least 6 weeks.",wk9-10-te
+611,39,8,haitte,はいる、はいって,[1],4,enter-TE,"godan -ru -te (looks ichidan, is godan)",DRILL,"hairu, haitte",haitte,,The -eru/-iru trap set. The geminate proves the class.,wk9-10-te
+612,39,8,hashitte,はしる、はしって,[2],4,run-TE,godan -ru -te (trap set),DRILL,"hashiru, hashitte",hashitte,,,wk9-10-te
+613,39,8,tsukutte,つくる、つくって,[2],4,make-TE,godan -ru -te,DRILL,"tsukuru, tsukutte",tsukutte,,,wk9-10-te
+614,39,8,wakatte,わかる、わかって,[2],4,understand-TE,godan -ru -te,DRILL,"wakaru, wakatte",wakatte,,"Feeds wakatte kita on day 11, the model inchoative.",wk9-10-te
+615,39,8,atte,つくえにあって。,[1],3,exist-TE (inanimate),godan -ru -te,DRILL,tsukue ni atte.,atte,True,"ACCENT-IDENTICAL to atte from au [1]. Separated by argument frame only: kagi ga atte. COLLISION SET: identical to another -te form by ear. Disambiguated by argument frame (ni-marked location -> aru [1]), never by spacing — these are carded deliberately adjacent as a discrimination set.",wk9-10-te
+616,39,8,yatte,やる、やって,[0],3,do-TE (casual),godan -ru -te,DRILL,"yaru, yatte",yatte,,,wk9-10-te
+617,39,8,moratte,もらう、もらって,[0],4,receive-TE,godan -u -te,DRILL,"morau, moratte",moratte,,Pre-loads day 10.,wk9-10-te
+618,39,8,omotte,おもう、おもって,[2],4,think-TE,godan -u -te,DRILL,"omou, omotte",omotte,,,wk9-10-te
+619,40,8,tetsudatte,てつだう、てつだって,[3],5,help-TE,godan -u -te (NEW LEXEME tetsudau [3]),PROD,"tetsudau, tetsudatte",tetsudatte,,"New lexeme, budgeted. The canonical object of -te kureru and -te morau.",wk9-10-te
+620,40,8,suwatte,すわる、すわって,[0],4,sit-TE,godan -ru -te (NEW LEXEME suwaru [0]),PROD,"suwaru, suwatte",suwatte,,"New lexeme, budgeted. Needed for suwatte ii? on day 12.",wk9-10-te
+621,40,8,yutte,ゆう、ゆって,[0],3,say-TE,godan -u -te; CITATION FORM yuu [0],PROD,"yuu, yutte",yutte,,"THE SINGLE MOST-CITED OMISSION FROM THE EARLIER PASS, fixed here. iu is PRONOUNCED yuu; card it as yuu, past yutta, -teru yutteta. Not stylistic - it DISSOLVES the itte collision, because yutta vs itta is genuinely audible and the past is where most of this verb's tokens live. It also removes the near-collision between the citation forms iu and iku. itte 'say' stays passive recognition only and is never produced.",wk9-10-te
+622,40,8,kaette,うちにかえって。,[1],4,return-home-TE,godan -ru -te,DRILL,uchi ni kaette.,kaette,True,"SELL THIS TO THE LEARNER: kaette vs kaete is the only AUDIBLE godan/ichidan test that exists for -ru verbs. The chant is a class diagnostic. The ichidan partner kaete is withheld until day 13. COLLISION SET: identical to another -te form by ear. Disambiguated by argument frame (ni-marked home -> kaeru godan), never by spacing — these are carded deliberately adjacent as a discrimination set.",wk9-10-te
+623,40,8,tte,あしたくるってゆった。,[0],2,"quotative particle, casual",particle,CHUNK,'ashita kuru' tte yutta.,,,Carded here because tte yutteta is a top-20 conversational chunk and is unbuildable without yuu.,wk9-10-te
+624,40,8,"R6: IRREGULARS - two words, not a row",する、して。くる、きて。,[0],10,"suru > shite, kuru > kite. Memorised, not induced.",chant row (lexical),CHUNK,"suru, shite. kuru, kite.",,,"Placed after every rule row has closed, precisely so the learner cannot mistake them for a row and induce a pattern that does not exist. Label them out loud as exceptions.",wk9-10-te
+625,40,8,shite,しゅくだいおして。,[0],2,do-TE,irregular -te,DRILL,shukudai o shite.,shite,True,"Contrast pair with shitte (n62) IN THIS SESSION. The pair that actually costs points is shiteru vs shitteru on day 5. COLLISION SET: identical to another -te form by ear. Disambiguated by argument frame (o-marked task -> suru), never by spacing — these are carded deliberately adjacent as a discrimination set.",wk9-10-te
+626,40,8,kite,うちにきて。,[1],2,come-TE,irregular -te,DRILL,uchi ni kite.,kite,True,"Accented [1], H-L. That integer is load-bearing: it is the only thing separating it from kite [0] (kiru 'wear', day 13) once meaning is stripped. VERIFY with a native voice, do not guess. COLLISION SET: identical to another -te form by ear. Disambiguated by argument frame (ni-marked goal -> motion verb), never by spacing — these are carded deliberately adjacent as a discrimination set.",wk9-10-te
+627,40,8,iku > ITTE - THE SOLE GODAN EXCEPTION,いく、いって。いく、いった。,[0],16,"iku takes -tte, not *iite. One verb, no class.",exception (taught alone),CHUNK,"iku, itte. iku, itta.",,,"Deliberately KEPT OUT of the R2 induction set and shown three days after R2 closed, so -ku > -ite is stable before its defector appears. Framed as 'iku defects into the -tte row'. If the learner ever produces *iite, stop the mix and re-block R2 for one full session.",wk9-10-te
+628,40,8,katta / matta / totta / itta / shita / kita,かった。まった。とった。いった。した。きた。,[0],16,"R5, R6 and iku past forms",-ta,DRILL,katta. matta. totta. itta. shita. kita.,,,itta [0] from iku and itta [0] from yuu are both heiban and identical. Pitch separates nothing. This is exactly why yutta is the production citation.,wk9-10-te
+629,40,8,-teru (READING 1: PROGRESSIVE),いまごはんたべてる。,[2],11,DURATIVE verb + -teru = doing it right now,"construction, slot 2, F9 x Q10 = 90",CHUNK,ima gohan tabeteru.,,,"CITATION IS -teru, NOT -te iru. -te iru is taught in the same session but labelled the formal expansion, never the primary. The two readings are CO-TAUGHT in one session and keyed on the verb's aktionsart; teaching them sequentially installs a default that is then wrong half the time.",wk9-10-te
+630,40,8,tabeteru,いまごはんたべてる。,[2],4,is eating,-teru progressive,PROD,ima gohan tabeteru.,tabete,,,wk9-10-te
+631,40,8,shiteru,なにしてる？,[0],3,is doing,-teru progressive,PROD,nani shiteru?,,,Carded inside the question frame - that is where most of its tokens are.,wk9-10-te
+632,40,8,matteru,こうえんでまってる。,[1],4,is waiting,-teru progressive,PROD,kooen de matteru.,matte,,,wk9-10-te
+633,40,8,hanashiteru,せんせいとはなしてる。,[2],5,is talking,-teru progressive,PROD,sensee to hanashiteru.,hanashite,,,wk9-10-te
+634,40,8,aruiteru,みちおあるいてる。,[2],5,is walking,-teru progressive,PROD,michi o aruiteru.,aruite,,,wk9-10-te
+635,40,8,-teru (READING 2: RESULTANT STATE),あのひと、しってる。,[0],12,PUNCTUAL or CHANGE-OF-STATE verb + -teru = the state that resulted,"construction, sense 2 of slot 2",CHUNK,"ano hito, shitteru.",,,"THE KEY IS THE VERB, NOT THE CONTEXT. Give the learner the test out loud: does the verb name something that takes time (tabe-, hanashi-, mat-, aruk-) or something instantaneous that leaves a state behind (shir-, mots-, sum-, ak-, kekkon)? Durative gives progressive, punctual gives state. One rule with one diagnostic, not two homonymous constructions.",wk9-10-te
+636,40,8,shitteru,あのひと、しってる。,[0],4,knows (state of having come to know),-teru resultant,PROD,"ano hito, shitteru.",shitte,,"Minimal pair with shiteru [0] - identical pitch, one extra beat of silence. Deliberately co-carded on the same day as its partner so gemination is the trained cue rather than an avoided one.",wk9-10-te
+637,41,8,motteru,かぎもってる？,[1],4,"has, is holding",-teru resultant,PROD,kagi motteru?,motte,,,wk9-10-te
+638,41,8,sunderu,このまちにすんでる。,[1],4,lives (in),-teru resultant,PROD,kono machi ni sunderu.,sunde,,"Obligatory locative in the frame, always.",wk9-10-te
+639,41,8,aiteru,まどがあいてる。,[0],4,is open (state),-teru resultant (NEW LEXEME aku [0]),PROD,mado ga aiteru.,aite,,"New lexeme, budgeted. The clearest change-of-state exemplar: aku is instantaneous, so -teru can only mean the resulting state.",wk9-10-te
+640,41,8,kekkon shiteru,あねわけっこんしてる。,[0],7,is married,"-teru resultant (NEW LEXEME kekkon [0], kango, framed)",PROD,ane wa kekkon shiteru.,,,"New lexeme, budgeted, carded ONLY in this 5-mora collocation frame per the kango rule - never bare. Also the sharpest proof of reading 2 for an English speaker, who will otherwise hear 'is getting married'.",wk9-10-te
+641,41,8,-tenai,まだたべてない。,[2],3,is not -ing / has not -ed,-teru negative,PROD,mada tabetenai.,,,accent approximate. Formal expansion -te inai taught as a label only.,wk9-10-te
+642,41,8,-teta,さっきまでざっしおよんでた。,[2],2,was -ing / had been in the state,-teru past,PROD,sakki made zasshi o yondeta.,,,accent approximate. -te ita is the labelled formal expansion.,wk9-10-te
+643,41,8,-tenakatta,だれもきてなかった。,[2],5,was not -ing / had not -ed,-teru negative past,PROD,dare mo kitenakatta.,,,accent approximate.,wk9-10-te
+644,41,8,-teru no? / -ten no?,なにしてるの？なにしてんの？,[0],6,"explanatory question, 'so you're -ing?'",-teru question,PROD,nani shiteru no? nani shiten no?,,,BOTH forms on one card. -ten no? is what actually occurs in the stream; -teru no? is the slower variant. The contracted one is the primary.,wk9-10-te
+645,41,8,shiranai,あのひとのなまえ、しらない。,[3],4,don't know,SUPPLETIVE negative of shitteru,PROD,"ano hito no namae, shiranai.",,,"FLAGGED: shitteru's negative is shiranai, NOT *shittenai and NOT *shitte inai. Card it as a distinct lexical item on the same day as -tenai, or the learner builds it wrong and it fossilises. This is the one place -tenai does not apply.",wk9-10-te
+646,41,8,shitte,なまえおしって（る）。,[0],3,know-TE,godan -ru -te (trap set),DRILL,namae o shitte(ru).,shitte,True,"DELIBERATE DEVIATION from the earlier pass, which deferred shiru to wk 13. shitteru is required by the -teru resultant-state session on day 5 and that session is unbuildable without it. Mitigation: shite and shitte are introduced in the SAME session as an explicitly contrasted pair with an obligatory 4+ mora tail, so gemination is trained rather than dodged, and the H3 perception drill already ran in wks 1-2. COLLISION SET: identical to another -te form by ear. Disambiguated by argument frame (always -teru; bare shitte is ungrammatical), never by spacing — these are carded deliberately adjacent as a discrimination set.",wk9-10-te
+647,41,8,-te kudasai,ちょっとまってください。,[3],5,please do X,"construction, slot 3, F6 x Q8 = 48 (promoted by TB1)",PROD,chotto matte kudasai.,,,kudasai is [3]. Promoted above its raw score because a learner who cannot make a request cannot hold a conversation.,wk9-10-te
+648,41,8,bare -te (request),ちょっとまって。,[1],6,do X (casual request / imperative),"construction, same slot as 95",PROD,chotto matte.,,,"Carded WITH -te kudasai, not after it. In the target register the bare form is by far the more frequent, so it is the unmarked member and the polite one is marked.",wk9-10-te
+649,41,8,-naide kudasai,まだたべないでください。,[3],7,please DON'T do X,the -nai-stem TWIN of 95,PROD,mada tabenaide kudasai.,,,"REACHES ACROSS STEMS DELIBERATELY. The negative request takes the -nai stem from wk 8, not -te. If it is not carded in the same session as -te kudasai the learner produces *-te nai kudasai. Two cards, and it closes the request paradigm.",wk9-10-te
+650,41,8,-te kureru,てつだってくれる？,[0],4,does it FOR ME (inward benefactive),"construction, slot 4, F7 x Q7 = 49",PROD,tetsudatte kureru?,,,"kureru [0]. Direction is inward and fixed: the subject is someone else, the beneficiary is me. State it as a rule, do not leave it to examples.",wk9-10-te
+651,41,8,-te kureta,せんせいがおしえてくれた。,[0],4,did it for me,-te kureru past,RECOG,sensee ga oshiete kureta.,,,ga marks the doer. Hold this against the morau frame on day 10.,wk9-10-te
+652,41,8,-te kurenai?,ちょっとまってくれない？,[0],5,won't you do X for me? (softened request),"2nd-order off slot 4, F3 x Q6 = 18",PROD,chotto matte kurenai?,,,"Explain that the negative here is politeness, not negation, or it is heard as a complaint.",wk9-10-te
+653,41,8,-te kuremasen ka,かさ、かしてくれませんか。,[0],7,would you do X for me? (polite),2nd-order off slot 4,RECOG,"kasa, kashite kuremasen ka.",,,,wk9-10-te
+654,41,8,"-te > -chau, -de > -jau (THE ALLOMORPH RULE)",たべて、たべちゃう。よんで、よんじゃう。かって、かっちゃう。のんで、のんじゃう。,[3],12,"the completive / regret contraction, BOTH members",derivation rule,CHUNK,"tabete, tabechau. yonde, yonjau. katte, katchau. nonde, nonjau.",,,"THE VOICED MEMBER WAS MISSING FROM AN EARLIER PASS - a fatal defect, fixed here. The rule is stated ONCE and generally: a -te ending gives -chau, a -de ending gives -jau. Say out loud that the same voiced/voiceless split governs -toku/-doku, -tara/-dara and -cha/-ja dame in weeks 11-12, so the learner pays for the alternation once and collects three times.",wk9-10-te
+655,42,8,-chau,これ、たべちゃう。,[3],2,do it completely / end up doing it,"construction, slot 5, F5 x Q8 = 40",PROD,"kore, tabechau.",,,"Accent falls on the cha mora. Citation is -chau, not -te shimau; the long form is a labelled formal expansion only.",wk9-10-te
+656,42,8,-chatta,かぎわすれちゃった。,[3],3,"went and did it (regret / completion, past)",-chau past,PROD,kagi wasurechatta.,,,Higher frequency than the non-past. Lead the session with this one - wasurechatta alone earns the card.,wk9-10-te
+657,42,8,-jau,そのざっし、きょうよんじゃう。,[3],2,VOICED allomorph of -chau,"construction, allomorph",PROD,"sono zasshi, kyoo yonjau.",,,Never card -chau without -jau in the same session. Zero *yonchau tolerated in drill.,wk9-10-te
+658,42,8,-jatta,コーヒーのんじゃった。,[3],3,VOICED allomorph of -chatta,-jau past,PROD,koohii nonjatta.,nonde,,,wk9-10-te
+659,42,8,shinjau / shinjatta,むしがしんじゃった。,[3],9,dies on one / died,"-jau, lexical",RECOG,mushi ga shinjatta.,,,"Proves the split is conditioned by the -de ending, not by verb class.",wk9-10-te
+660,42,8,-te morau,あににてつだってもらう。,[0],4,get someone to do X for me (receive a favour),"construction, slot 6, F7 x Q6 = 42",PROD,ani ni tetsudatte morau.,,,"morau [0]. THE SUBJECT IS ME. That is the whole difference from -te kureru and it must be drilled as a swap, not learned as two separate facts.",wk9-10-te
+661,42,8,-te moratta,せんせいにおしえてもらった。,[0],5,got someone to do X for me,-te morau past,PROD,sensee ni oshiete moratta.,,,,wk9-10-te
+662,42,8,-te moraeru?,ちょっとみてもらえる？,[0],5,could I get you to do X? (casual polite request),2nd-order off slot 6,PROD,chotto mite moraeru?,,,,wk9-10-te
+663,42,8,kureru / morau DIRECTION FRAME,ともだちがかしてくれた。ともだちにかしてもらった。,[0],13,"same event, flipped subject: X ga ...-te kureta = X ni ...-te moratta",contrast card,CHUNK,tomodachi ga kashite kureta. tomodachi ni kashite moratta.,,,"Note the particle flip, ga vs ni. English collapses both into one sentence, so this must be a swap drill or the learner picks one and never uses the other.",wk9-10-te
+664,42,8,-te kuru (DIRECTIONAL),パンかってくる。,[1],8,go do X and come back,"construction, slot 7, F5 x Q7 = 35",PROD,pan katte kuru.,,,"kuru [1]. Two unrelated senses, TWO cards, both in this session.",wk9-10-te
+665,42,8,-te kita (DIRECTIONAL past),ごみだしてきた。,[1],9,went and did X and came back,-te kuru past,PROD,gomi dashite kita.,,,,wk9-10-te
+666,42,8,-te kuru (INCHOATIVE),すこしわかってきた。,[1],9,has started to / is coming to be,sense 2 of slot 7,PROD,sukoshi wakatte kita.,,,"Sense 2 is keyed on the verb again: a motion verb gives the directional reading, a cognition or change verb gives the inchoative. Same aktionsart diagnostic the learner built for -teru - say so explicitly, it is the second payoff for one idea.",wk9-10-te
+667,42,8,-te kita (INCHOATIVE),あめがふってきた。,[1],9,"has come to be, has started",inchoative past,RECOG,ame ga futte kita.,,,,wk9-10-te
+668,42,8,futte,ふる、ふって,[1],3,fall (of rain or snow)-TE,godan -ru -te (NEW LEXEME furu [1]),PROD,"furu, futte",futte,,"New lexeme, budgeted. ame ga futte kita is the model inchoative token.",wk9-10-te
+669,42,8,-te kite,かばんもってきて。,[1],3,go get X / go do X and come back (request),bare -te request stacked on slot 7,PROD,kaban motte kite.,,,First stacked construction: two -te forms in one clause. Flag that only the LAST verb carries the request.,wk9-10-te
+670,42,8,-te mo ii,これたべてもいい？,[1],4,may I / it's OK to,"construction, slot 8, F4 x Q7 = 28 (PROMOTED by TB1)",PROD,kore tabete mo ii?,,,Promoted above four higher-scoring nodes because a learner who cannot ask permission cannot function. ii is [1].,wk9-10-te
+671,42,8,-te ii,すわっていい？,[1],3,reduced form of -te mo ii,"construction, reduced",PROD,suwatte ii?,,,"The mo drops in casual speech. This is the form in the stream, so it is carded as an equal, not as a footnote.",wk9-10-te
+672,42,8,-te mo ii yo,このぺんつかってもいいよ。,[1],5,"go ahead, you may (granting)","construction, granting",RECOG,kono pen tsukatte mo ii yo.,,,"The learner must be able to RECOGNISE permission being granted, not only request it.",wk9-10-te
+673,43,9,-nakute mo ii,きょうわこなくてもいい。,[1],6,you don't have to,the -nai-stem TWIN of 118,PROD,kyoo wa konakute mo ii.,,,"Second deliberate cross-stem reach, same reason as -naide kudasai: permission-not-to takes the -nai stem, and if it is not carded beside -te mo ii the learner builds *-te nai mo ii.",wk9-10-te
+674,43,9,-ta,たべた。,-,1,plain past suffix,suffix,DRILL,tabeta.,,,"Same onbin slot as -te, final vowel e>a. Costs nothing once the chant exists.",repair
+675,43,9,kite,シャツおきて。,[0],2,"wear-TE (kiru, ichidan)","COLLISION card, RECOG only",RECOG,shatsu o kite.,,True,"H1. HEIBAN [0], L-H, against kite [1] H-L from kuru. The accent integer is the ONLY phonological cue and must be verified with a native voice, not guessed. Non-phonological cue supplied by the frame: a garment noun licenses only the wear reading. RECOG only in this block; production opens wk 12 per the separation rule. COLLISION SET: identical to another -te form by ear. Disambiguated by argument frame (o-marked garment -> kiru ichidan), never by spacing — these are carded deliberately adjacent as a discrimination set.",wk9-10-te
+676,43,9,kitte ga aru?,きってがある？,[0],6,'is there a stamp?' - the NOUN kitte [0] in a verb-shaped slot,"COLLISION card, RECOG only",RECOG,kitte ga aru?,,,"H1 closes. The full set is kite / kiite / kitte (verb) / kitte (noun) and it is the best perception item in the language: vowel length, gemination and accent in one family. Non-phonological cue: the noun takes ga and cannot be followed by kudasai.",wk9-10-te
+677,43,9,katte,しあいにかって。,[1],3,win-TE (katsu),"COLLISION card, RECOG only",RECOG,shiai ni katte.,,True,"H4. Accented [1] against katte [0] from kau. Pitch DOES separate these two, but only with at least 4 morae of tail after the verb. Frame cue: an animate ga-subject and no direct object. katte from karu, and katte 'selfish', stay outside the first 1,000 items entirely. COLLISION SET: identical to another -te form by ear. Disambiguated by argument frame (ni-marked contest -> katsu), never by spacing — these are carded deliberately adjacent as a discrimination set.",wk9-10-te
+678,43,9,kaete,よていおかえて。,[0],3,"change-TE (kaeru, ICHIDAN)","COLLISION card, RECOG only",RECOG,yotee o kaete.,,True,"H5. No geminate and heiban, against kaette [1] with a geminate. The pair that proves the class diagnostic: same citation form kaeru, and only the -te form tells you which verb you heard. Frame cue: an inanimate o-object for 'change', a ni-goal for 'return'. COLLISION SET: identical to another -te form by ear. Disambiguated by argument frame (o-marked plan -> kaeru ichidan), never by spacing — these are carded deliberately adjacent as a discrimination set.",wk9-10-te
+679,43,9,X ga itte,おかねがいって。,[0],4,"need-TE (iru, godan) - WARNING CARD","COLLISION card, phrase-only, RECOG",RECOG,okane ga itte.,,,"H2. The third heiban itte. Pitch separates NOTHING here: itte from iku, itte from iu and itte from iru are all [0]. Carded phrase-only, forever, inside 'X ga itte', and never produced. It exists so the learner has somewhere to file the sound when they hear it.",wk9-10-te
+680,43,9,tte yutteta,あしたくるってゆってた。,[0],6,'...' - was saying / said (reported speech),chunk: yuu + tte + -teta,PROD,'ashita kuru' tte yutteta.,,,"Top-20 conversational chunk, unbuildable without the yuu citation - which is exactly why the earlier pass's omission of yuu was fatal. NOT itte. yutteta.",wk9-10-te
+681,43,9,kitte,かみおきって。,[1],3,"cut-TE (kiru, godan)","COLLISION card, RECOG only",RECOG,kami o kitte.,,True,"H1. Geminate, accented [1]. Frame cue: a cuttable o-marked object. RECOG only; production opens wk 14. COLLISION SET: identical to another -te form by ear. Disambiguated by argument frame (o-marked object -> kiru godan), never by spacing — these are carded deliberately adjacent as a discrimination set.",wk9-10-te

@@ -1,0 +1,2686 @@
+{
+ "block": "B",
+ "weeks": "4-6 (days 22-42)",
+ "items": [
+  {
+   "n": 1,
+   "romaji": "iru",
+   "accent": "[0]",
+   "gloss": "exist (animate)",
+   "pos": "ichidan",
+   "cardType": "PROD",
+   "audioText": "iru",
+   "teForm": "ite [0]",
+   "note": "Unaccented throughout: ite/ita/inai/inakatta all [0]."
+  },
+  {
+   "n": 2,
+   "romaji": "ga",
+   "accent": "-",
+   "gloss": "subject particle",
+   "pos": "particle",
+   "cardType": "DRILL",
+   "audioText": "neko ga iru"
+  },
+  {
+   "n": 3,
+   "romaji": "aru",
+   "accent": "[1]",
+   "gloss": "exist (inanimate)",
+   "pos": "godan-r",
+   "cardType": "PROD",
+   "audioText": "aru",
+   "teForm": "atte [1]",
+   "note": "atte [1] identical to atte from au [1]. Negative is suppletive nai."
+  },
+  {
+   "n": 4,
+   "romaji": "tori",
+   "accent": "[0]",
+   "gloss": "bird",
+   "pos": "noun",
+   "cardType": "RECOG",
+   "audioText": "tori ga"
+  },
+  {
+   "n": 5,
+   "romaji": "kagi",
+   "accent": "[2]",
+   "gloss": "key",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "kagi ga"
+  },
+  {
+   "n": 6,
+   "romaji": "kasa",
+   "accent": "[1]",
+   "gloss": "umbrella",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "kasa ga"
+  },
+  {
+   "n": 7,
+   "romaji": "wa",
+   "accent": "-",
+   "gloss": "topic particle",
+   "pos": "particle",
+   "cardType": "DRILL",
+   "audioText": "neko wa iru",
+   "note": "Never on a question word. Taught only inside the wa/ga unit."
+  },
+  {
+   "n": 8,
+   "romaji": "machi",
+   "accent": "[2]",
+   "gloss": "town",
+   "pos": "noun",
+   "cardType": "RECOG",
+   "audioText": "machi ga"
+  },
+  {
+   "n": 9,
+   "romaji": "niwa",
+   "accent": "[0]",
+   "gloss": "garden",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "niwa ga"
+  },
+  {
+   "n": 10,
+   "romaji": "hana",
+   "accent": "[2]",
+   "gloss": "flower",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "hana ga",
+   "note": "Odaka; hana 'nose' is [0]. Keep 'nose' out of this block."
+  },
+  {
+   "n": 11,
+   "romaji": "yama",
+   "accent": "[2]",
+   "gloss": "mountain",
+   "pos": "noun",
+   "cardType": "RECOG",
+   "audioText": "yama ga"
+  },
+  {
+   "n": 12,
+   "romaji": "dare",
+   "accent": "[1]",
+   "gloss": "who",
+   "pos": "interrogative",
+   "cardType": "PROD",
+   "audioText": "dare ga",
+   "note": "Diagnostic anchor: *dare wa is impossible."
+  },
+  {
+   "n": 13,
+   "romaji": "nani",
+   "accent": "[1]",
+   "gloss": "what",
+   "pos": "interrogative",
+   "cardType": "PROD",
+   "audioText": "nani ga"
+  },
+  {
+   "n": 14,
+   "romaji": "otoko",
+   "accent": "[3]",
+   "gloss": "man",
+   "pos": "noun",
+   "cardType": "RECOG",
+   "audioText": "otoko ga"
+  },
+  {
+   "n": 15,
+   "romaji": "tomodachi",
+   "accent": "[0]",
+   "gloss": "friend",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "tomodachi ga"
+  },
+  {
+   "n": 16,
+   "romaji": "mise",
+   "accent": "[2]",
+   "gloss": "shop",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "mise ga"
+  },
+  {
+   "n": 17,
+   "romaji": "eki",
+   "accent": "[1]",
+   "gloss": "station",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "eki ga"
+  },
+  {
+   "n": 18,
+   "romaji": "michi",
+   "accent": "[0]",
+   "gloss": "road",
+   "pos": "noun",
+   "cardType": "RECOG",
+   "audioText": "michi ga"
+  },
+  {
+   "n": 19,
+   "romaji": "sakana",
+   "accent": "[0]",
+   "gloss": "fish",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "sakana ga"
+  },
+  {
+   "n": 20,
+   "romaji": "ocha",
+   "accent": "[0]",
+   "gloss": "tea",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "ocha ga",
+   "note": "cha is one mora."
+  },
+  {
+   "n": 21,
+   "romaji": "niku",
+   "accent": "[2]",
+   "gloss": "meat",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "niku ga"
+  },
+  {
+   "n": 22,
+   "romaji": "yasai",
+   "accent": "[0]",
+   "gloss": "vegetables",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "yasai ga"
+  },
+  {
+   "n": 23,
+   "romaji": "uchi",
+   "accent": "[0]",
+   "gloss": "home (my place)",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "uchi ga"
+  },
+  {
+   "n": 24,
+   "romaji": "ie",
+   "accent": "[2]",
+   "gloss": "house (building)",
+   "pos": "noun",
+   "cardType": "RECOG",
+   "audioText": "ie ga"
+  },
+  {
+   "n": 25,
+   "romaji": "heya",
+   "accent": "[2]",
+   "gloss": "room",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "heya ga"
+  },
+  {
+   "n": 26,
+   "romaji": "mado",
+   "accent": "[1]",
+   "gloss": "window",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "mado ga"
+  },
+  {
+   "n": 27,
+   "romaji": "ni",
+   "accent": "-",
+   "gloss": "ni of existence (location of being)",
+   "pos": "particle",
+   "cardType": "DRILL",
+   "audioText": "kooen ni iru"
+  },
+  {
+   "n": 28,
+   "romaji": "de",
+   "accent": "-",
+   "gloss": "de of action (location of doing)",
+   "pos": "particle",
+   "cardType": "DRILL",
+   "audioText": "kooen de asobu",
+   "note": "Introduced in the same session as ni, never separately."
+  },
+  {
+   "n": 29,
+   "romaji": "asobu",
+   "accent": "[0]",
+   "gloss": "play, hang out",
+   "pos": "godan-b",
+   "cardType": "PROD",
+   "audioText": "asobu",
+   "teForm": "asonde [0]"
+  },
+  {
+   "n": 30,
+   "romaji": "taberu",
+   "accent": "[2]",
+   "gloss": "eat",
+   "pos": "ichidan",
+   "cardType": "PROD",
+   "audioText": "taberu",
+   "teForm": "tabete [2]"
+  },
+  {
+   "n": 31,
+   "romaji": "nomu",
+   "accent": "[1]",
+   "gloss": "drink",
+   "pos": "godan-m",
+   "cardType": "PROD",
+   "audioText": "nomu",
+   "teForm": "nonde [1]"
+  },
+  {
+   "n": 32,
+   "romaji": "kooen",
+   "accent": "[0]",
+   "gloss": "park",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "kooen ga",
+   "note": "First long-vowel place noun; four morae ko-o-e-n, two special morae. Off-tier, admitted because the ni/de contrast needs a public place."
+  },
+  {
+   "n": 33,
+   "romaji": "yuka",
+   "accent": "[0]",
+   "gloss": "floor",
+   "pos": "noun",
+   "cardType": "RECOG",
+   "audioText": "yuka ga"
+  },
+  {
+   "n": 34,
+   "romaji": "kabe",
+   "accent": "[0]",
+   "gloss": "wall",
+   "pos": "noun",
+   "cardType": "RECOG",
+   "audioText": "kabe ga"
+  },
+  {
+   "n": 35,
+   "romaji": "tana",
+   "accent": "[0]",
+   "gloss": "shelf",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "tana ga"
+  },
+  {
+   "n": 36,
+   "romaji": "nai",
+   "accent": "[1]",
+   "gloss": "not exist (neg of aru)",
+   "pos": "suppletive negative",
+   "cardType": "PROD",
+   "audioText": "nai",
+   "note": "Suppletive: aru has no *aranai."
+  },
+  {
+   "n": 37,
+   "romaji": "inai",
+   "accent": "[0]",
+   "gloss": "not be there (neg of iru)",
+   "pos": "neg form",
+   "cardType": "PROD",
+   "audioText": "inai"
+  },
+  {
+   "n": 38,
+   "romaji": "nai",
+   "accent": "[1]",
+   "gloss": "nonexistent, lacking (adjective)",
+   "pos": "i-adj",
+   "cardType": "CHUNK",
+   "audioText": "jikan ga nai",
+   "teForm": "nakute [1]",
+   "note": "Same shape as item 36 but a real i-adjective; carded separately in the frames jikan ga nai / shikata ga nai."
+  },
+  {
+   "n": 39,
+   "romaji": "shikata",
+   "accent": "[0]",
+   "gloss": "way of doing",
+   "pos": "noun",
+   "cardType": "CHUNK",
+   "audioText": "shikata ga nai"
+  },
+  {
+   "n": 40,
+   "romaji": "imi",
+   "accent": "[1]",
+   "gloss": "meaning",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "imi ga"
+  },
+  {
+   "n": 41,
+   "romaji": "koe",
+   "accent": "[1]",
+   "gloss": "voice",
+   "pos": "noun",
+   "cardType": "RECOG",
+   "audioText": "koe ga"
+  },
+  {
+   "n": 42,
+   "romaji": "atta",
+   "accent": "[1]",
+   "gloss": "there was (inanimate)",
+   "pos": "past of aru",
+   "cardType": "PROD",
+   "audioText": "atta"
+  },
+  {
+   "n": 43,
+   "romaji": "ita",
+   "accent": "[0]",
+   "gloss": "there was (animate)",
+   "pos": "past of iru",
+   "cardType": "PROD",
+   "audioText": "ita"
+  },
+  {
+   "n": 44,
+   "romaji": "nakatta",
+   "accent": "[1]",
+   "gloss": "there was not (inanimate)",
+   "pos": "neg past",
+   "cardType": "PROD",
+   "audioText": "nakatta"
+  },
+  {
+   "n": 45,
+   "romaji": "inakatta",
+   "accent": "[0]",
+   "gloss": "there was not (animate)",
+   "pos": "neg past",
+   "cardType": "PROD",
+   "audioText": "inakatta"
+  },
+  {
+   "n": 46,
+   "romaji": "kesa",
+   "accent": "[1]",
+   "gloss": "this morning",
+   "pos": "noun (time)",
+   "cardType": "PROD",
+   "audioText": "kesa"
+  },
+  {
+   "n": 47,
+   "romaji": "asa",
+   "accent": "[1]",
+   "gloss": "morning",
+   "pos": "noun (time)",
+   "cardType": "RECOG",
+   "audioText": "asa ga"
+  },
+  {
+   "n": 48,
+   "romaji": "yoru",
+   "accent": "[1]",
+   "gloss": "night",
+   "pos": "noun (time)",
+   "cardType": "RECOG",
+   "audioText": "yoru ga"
+  },
+  {
+   "n": 49,
+   "romaji": "tonari",
+   "accent": "[0]",
+   "gloss": "next door, adjacent",
+   "pos": "relational noun",
+   "cardType": "PROD",
+   "audioText": "tonari ga"
+  },
+  {
+   "n": 50,
+   "romaji": "ushiro",
+   "accent": "[0]",
+   "gloss": "behind",
+   "pos": "relational noun",
+   "cardType": "PROD",
+   "audioText": "ushiro ga"
+  },
+  {
+   "n": 51,
+   "romaji": "yoko",
+   "accent": "[0]",
+   "gloss": "side, beside",
+   "pos": "relational noun",
+   "cardType": "PROD",
+   "audioText": "yoko ga"
+  },
+  {
+   "n": 52,
+   "romaji": "chikaku",
+   "accent": "[2]",
+   "gloss": "vicinity, near",
+   "pos": "relational noun",
+   "cardType": "PROD",
+   "audioText": "chikaku ga"
+  },
+  {
+   "n": 53,
+   "romaji": "aida",
+   "accent": "[0]",
+   "gloss": "between",
+   "pos": "relational noun",
+   "cardType": "RECOG",
+   "audioText": "aida ga"
+  },
+  {
+   "n": 54,
+   "romaji": "mawari",
+   "accent": "[0]",
+   "gloss": "around, surroundings",
+   "pos": "relational noun",
+   "cardType": "RECOG",
+   "audioText": "mawari ga"
+  },
+  {
+   "n": 55,
+   "romaji": "hidari",
+   "accent": "[0]",
+   "gloss": "left",
+   "pos": "relational noun",
+   "cardType": "PROD",
+   "audioText": "hidari ga"
+  },
+  {
+   "n": 56,
+   "romaji": "migi",
+   "accent": "[0]",
+   "gloss": "right",
+   "pos": "relational noun",
+   "cardType": "PROD",
+   "audioText": "migi ga"
+  },
+  {
+   "n": 57,
+   "romaji": "soba",
+   "accent": "[1]",
+   "gloss": "beside",
+   "pos": "relational noun",
+   "cardType": "CHUNK",
+   "audioText": "kawa no soba ni",
+   "note": "PHRASE-ONLY, permanently. soba 'buckwheat noodles' is also [1] and accent-identical; only this member ever gets a card, and only inside 'N no soba ni'."
+  },
+  {
+   "n": 58,
+   "romaji": "tokoro",
+   "accent": "[3]",
+   "gloss": "place",
+   "pos": "noun",
+   "cardType": "RECOG",
+   "audioText": "tokoro ga"
+  },
+  {
+   "n": 59,
+   "romaji": "kawa",
+   "accent": "[2]",
+   "gloss": "river",
+   "pos": "noun",
+   "cardType": "CHUNK",
+   "audioText": "kawa no soba ni",
+   "note": "PHRASE-ONLY. kawa 'skin/leather' is also [2]; this member lives only in the collocation."
+  },
+  {
+   "n": 60,
+   "romaji": "o",
+   "accent": "-",
+   "gloss": "direct-object particle",
+   "pos": "particle",
+   "cardType": "DRILL",
+   "audioText": "yasai o taberu",
+   "note": "Drops constantly in speech; the elliptical form is the production target from day 34."
+  },
+  {
+   "n": 61,
+   "romaji": "miru",
+   "accent": "[1]",
+   "gloss": "look at, watch",
+   "pos": "ichidan",
+   "cardType": "PROD",
+   "audioText": "miru",
+   "teForm": "mite [1]"
+  },
+  {
+   "n": 62,
+   "romaji": "kau",
+   "accent": "[0]",
+   "gloss": "buy",
+   "pos": "godan-u",
+   "cardType": "PROD",
+   "audioText": "kau",
+   "teForm": "katte [0]"
+  },
+  {
+   "n": 63,
+   "romaji": "yomu",
+   "accent": "[1]",
+   "gloss": "read",
+   "pos": "godan-m",
+   "cardType": "PROD",
+   "audioText": "yomu",
+   "teForm": "yonde [1]"
+  },
+  {
+   "n": 64,
+   "romaji": "kaku",
+   "accent": "[1]",
+   "gloss": "write",
+   "pos": "godan-k",
+   "cardType": "PROD",
+   "audioText": "kaku",
+   "teForm": "kaite [1]"
+  },
+  {
+   "n": 65,
+   "romaji": "kiku",
+   "accent": "[0]",
+   "gloss": "listen, ask",
+   "pos": "godan-k",
+   "cardType": "PROD",
+   "audioText": "kiku",
+   "teForm": "kiite [0]"
+  },
+  {
+   "n": 66,
+   "romaji": "suru",
+   "accent": "[0]",
+   "gloss": "do",
+   "pos": "irregular",
+   "cardType": "PROD",
+   "audioText": "suru",
+   "teForm": "shite [0]"
+  },
+  {
+   "n": 67,
+   "romaji": "hanasu",
+   "accent": "[2]",
+   "gloss": "speak",
+   "pos": "godan-s",
+   "cardType": "PROD",
+   "audioText": "hanasu",
+   "teForm": "hanashite [2]"
+  },
+  {
+   "n": 68,
+   "romaji": "uta",
+   "accent": "[2]",
+   "gloss": "song",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "uta ga"
+  },
+  {
+   "n": 69,
+   "romaji": "e",
+   "accent": "[1]",
+   "gloss": "picture",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "e ga",
+   "note": "One mora; the accent shows only on the particle."
+  },
+  {
+   "n": 70,
+   "romaji": "kami",
+   "accent": "[2]",
+   "gloss": "paper",
+   "pos": "noun",
+   "cardType": "RECOG",
+   "audioText": "kami ga",
+   "note": "kami 'hair' [1] is deliberately excluded from this block."
+  },
+  {
+   "n": 71,
+   "romaji": "tegami",
+   "accent": "[0]",
+   "gloss": "letter",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "tegami ga"
+  },
+  {
+   "n": 72,
+   "romaji": "kutsu",
+   "accent": "[2]",
+   "gloss": "shoes",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "kutsu ga"
+  },
+  {
+   "n": 73,
+   "romaji": "fuku",
+   "accent": "[2]",
+   "gloss": "clothes",
+   "pos": "noun",
+   "cardType": "RECOG",
+   "audioText": "fuku ga"
+  },
+  {
+   "n": 74,
+   "romaji": "(particle drop)",
+   "accent": "-",
+   "gloss": "o and ga deleted in casual speech",
+   "pos": "process",
+   "cardType": "DRILL",
+   "audioText": "neko iru? yasai taberu?",
+   "note": "Taught as the production default, with the full-particle version labelled as the careful expansion."
+  },
+  {
+   "n": 75,
+   "romaji": "matsu",
+   "accent": "[1]",
+   "gloss": "wait",
+   "pos": "godan-ts",
+   "cardType": "PROD",
+   "audioText": "matsu",
+   "teForm": "matte [1]"
+  },
+  {
+   "n": 76,
+   "romaji": "au",
+   "accent": "[1]",
+   "gloss": "meet",
+   "pos": "godan-u",
+   "cardType": "PROD",
+   "audioText": "au",
+   "teForm": "atte [1]",
+   "note": "ACCENT [1], not [0]. atte is HL, indistinguishable from atte < aru [1]; only the frame disambiguates."
+  },
+  {
+   "n": 77,
+   "romaji": "yuu",
+   "accent": "[0]",
+   "gloss": "say",
+   "pos": "godan-u",
+   "cardType": "PROD",
+   "audioText": "yuu",
+   "teForm": "yutte [0]",
+   "note": "PRONOUNCED yuu, never 'iu'. Past yutta [0]; reported speech tte yutteta [0]. Citation form on the card is yuu."
+  },
+  {
+   "n": 78,
+   "romaji": "me",
+   "accent": "[1]",
+   "gloss": "eye",
+   "pos": "noun",
+   "cardType": "RECOG",
+   "audioText": "me ga"
+  },
+  {
+   "n": 79,
+   "romaji": "namae",
+   "accent": "[0]",
+   "gloss": "name",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "namae ga"
+  },
+  {
+   "n": 80,
+   "romaji": "suki",
+   "accent": "[2]",
+   "gloss": "liked, likeable",
+   "pos": "na-adj",
+   "cardType": "PROD",
+   "audioText": "suki da",
+   "note": "Takes its object with ga, not o. Head of the ga-object block."
+  },
+  {
+   "n": 81,
+   "romaji": "kirai",
+   "accent": "[0]",
+   "gloss": "disliked",
+   "pos": "na-adj",
+   "cardType": "PROD",
+   "audioText": "kirai da"
+  },
+  {
+   "n": 82,
+   "romaji": "daisuki",
+   "accent": "[1]",
+   "gloss": "loved, favourite",
+   "pos": "na-adj",
+   "cardType": "PROD",
+   "audioText": "daisuki da"
+  },
+  {
+   "n": 83,
+   "romaji": "yume",
+   "accent": "[2]",
+   "gloss": "dream",
+   "pos": "noun",
+   "cardType": "RECOG",
+   "audioText": "yume ga"
+  },
+  {
+   "n": 84,
+   "romaji": "kusuri",
+   "accent": "[0]",
+   "gloss": "medicine",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "kusuri ga"
+  },
+  {
+   "n": 85,
+   "romaji": "tamago",
+   "accent": "[2]",
+   "gloss": "egg",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "tamago ga"
+  },
+  {
+   "n": 86,
+   "romaji": "joozu",
+   "accent": "[3]",
+   "gloss": "skilled at",
+   "pos": "na-adj",
+   "cardType": "PROD",
+   "audioText": "joozu da",
+   "note": "Three morae jo-o-zu, odaka. Long vowel: off the noun tier, admitted with the ga-object block."
+  },
+  {
+   "n": 87,
+   "romaji": "heta",
+   "accent": "[2]",
+   "gloss": "bad at",
+   "pos": "na-adj",
+   "cardType": "PROD",
+   "audioText": "heta da"
+  },
+  {
+   "n": 88,
+   "romaji": "hoshii",
+   "accent": "[2]",
+   "gloss": "wanted (I want it)",
+   "pos": "i-adj",
+   "cardType": "PROD",
+   "audioText": "hoshii"
+  },
+  {
+   "n": 89,
+   "romaji": "okane",
+   "accent": "[0]",
+   "gloss": "money",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "okane ga"
+  },
+  {
+   "n": 90,
+   "romaji": "shigoto",
+   "accent": "[2]",
+   "gloss": "work, job",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "shigoto ga"
+  },
+  {
+   "n": 91,
+   "romaji": "yasumi",
+   "accent": "[3]",
+   "gloss": "day off, rest",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "yasumi ga"
+  },
+  {
+   "n": 92,
+   "romaji": "wakaru",
+   "accent": "[2]",
+   "gloss": "understand, be clear",
+   "pos": "godan-r",
+   "cardType": "PROD",
+   "audioText": "wakaru",
+   "teForm": "wakatte [2]",
+   "note": "Object is ga. wakatta is the commonest response token built on it."
+  },
+  {
+   "n": 93,
+   "romaji": "dekiru",
+   "accent": "[2]",
+   "gloss": "can do, be able",
+   "pos": "ichidan",
+   "cardType": "PROD",
+   "audioText": "dekiru",
+   "teForm": "dekite [2]"
+  },
+  {
+   "n": 94,
+   "romaji": "hanashi",
+   "accent": "[3]",
+   "gloss": "talk, story",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "hanashi ga"
+  },
+  {
+   "n": 95,
+   "romaji": "te",
+   "accent": "[1]",
+   "gloss": "hand",
+   "pos": "noun",
+   "cardType": "RECOG",
+   "audioText": "te ga",
+   "note": "Held 17 indices from me [1] to keep the one-mora [1] pair apart."
+  },
+  {
+   "n": 96,
+   "romaji": "ashi",
+   "accent": "[2]",
+   "gloss": "leg, foot",
+   "pos": "noun",
+   "cardType": "RECOG",
+   "audioText": "ashi ga"
+  },
+  {
+   "n": 97,
+   "romaji": "sukoshi",
+   "accent": "[2]",
+   "gloss": "a little",
+   "pos": "adverb",
+   "cardType": "PROD",
+   "audioText": "sukoshi"
+  },
+  {
+   "n": 98,
+   "romaji": "mo",
+   "accent": "-",
+   "gloss": "also, too",
+   "pos": "particle",
+   "cardType": "DRILL",
+   "audioText": "neko mo iru",
+   "note": "Substitutes for wa/ga/o (never stacks with them); stacks onto ni/de."
+  },
+  {
+   "n": 99,
+   "romaji": "hoka",
+   "accent": "[0]",
+   "gloss": "other, else",
+   "pos": "noun",
+   "cardType": "RECOG",
+   "audioText": "hoka ga"
+  },
+  {
+   "n": 100,
+   "romaji": "mono",
+   "accent": "[2]",
+   "gloss": "thing (physical)",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "mono ga"
+  },
+  {
+   "n": 101,
+   "romaji": "koto",
+   "accent": "[2]",
+   "gloss": "thing (matter)",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "koto ga"
+  },
+  {
+   "n": 102,
+   "romaji": "itsumo",
+   "accent": "[1]",
+   "gloss": "always",
+   "pos": "adverb",
+   "cardType": "PROD",
+   "audioText": "itsumo"
+  },
+  {
+   "n": 103,
+   "romaji": "gohan",
+   "accent": "[1]",
+   "gloss": "rice, a meal",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "gohan ga",
+   "note": "First moraic-N noun. Three morae go-ha-N."
+  },
+  {
+   "n": 104,
+   "romaji": "pan",
+   "accent": "[1]",
+   "gloss": "bread",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "pan ga",
+   "note": "Two morae pa-N. The N must be held full length."
+  },
+  {
+   "n": 105,
+   "romaji": "hon",
+   "accent": "[1]",
+   "gloss": "book",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "hon ga"
+  },
+  {
+   "n": 106,
+   "romaji": "sen",
+   "accent": "[1]",
+   "gloss": "line",
+   "pos": "noun",
+   "cardType": "RECOG",
+   "audioText": "sen ga",
+   "note": "Contrast sen'en, where n' precedes a vowel."
+  },
+  {
+   "n": 107,
+   "romaji": "onna",
+   "accent": "[3]",
+   "gloss": "woman",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "onna ga",
+   "note": "o-N-na, three morae; the N is moraic, not a geminate."
+  },
+  {
+   "n": 108,
+   "romaji": "minna",
+   "accent": "[3]",
+   "gloss": "everyone",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "minna ga"
+  },
+  {
+   "n": 109,
+   "romaji": "mikan",
+   "accent": "[1]",
+   "gloss": "mandarin",
+   "pos": "noun",
+   "cardType": "RECOG",
+   "audioText": "mikan ga"
+  },
+  {
+   "n": 110,
+   "romaji": "ringo",
+   "accent": "[0]",
+   "gloss": "apple",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "ringo ga"
+  },
+  {
+   "n": 111,
+   "romaji": "jikan",
+   "accent": "[0]",
+   "gloss": "time",
+   "pos": "noun (kango)",
+   "cardType": "CHUNK",
+   "audioText": "jikan ga nai",
+   "note": "Kango: carded only in the collocation jikan ga nai."
+  },
+  {
+   "n": 112,
+   "romaji": "tenki",
+   "accent": "[1]",
+   "gloss": "weather",
+   "pos": "noun (kango)",
+   "cardType": "CHUNK",
+   "audioText": "tenki ga ii"
+  },
+  {
+   "n": 113,
+   "romaji": "densha",
+   "accent": "[0]",
+   "gloss": "train",
+   "pos": "noun (kango)",
+   "cardType": "CHUNK",
+   "audioText": "densha ga aru"
+  },
+  {
+   "n": 114,
+   "romaji": "shashin",
+   "accent": "[0]",
+   "gloss": "photo",
+   "pos": "noun (kango)",
+   "cardType": "CHUNK",
+   "audioText": "shashin o miru"
+  },
+  {
+   "n": 115,
+   "romaji": "ima",
+   "accent": "[1]",
+   "gloss": "now",
+   "pos": "noun (time)",
+   "cardType": "PROD",
+   "audioText": "ima"
+  },
+  {
+   "n": 116,
+   "romaji": "otoosan",
+   "accent": "[2]",
+   "gloss": "father (other's / address)",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "otoosan ga",
+   "note": "Out-group / vocative member of the row. Five morae o-to-o-sa-N."
+  },
+  {
+   "n": 117,
+   "romaji": "chichi",
+   "accent": "[2]",
+   "gloss": "my father (humble)",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "chichi ga",
+   "note": "In-group member; used about my own father to outsiders."
+  },
+  {
+   "n": 118,
+   "romaji": "okaasan",
+   "accent": "[2]",
+   "gloss": "mother (other's / address)",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "okaasan ga"
+  },
+  {
+   "n": 119,
+   "romaji": "haha",
+   "accent": "[1]",
+   "gloss": "my mother (humble)",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "haha ga"
+  },
+  {
+   "n": 120,
+   "romaji": "oniisan",
+   "accent": "[2]",
+   "gloss": "older brother (other's / address)",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "oniisan ga"
+  },
+  {
+   "n": 121,
+   "romaji": "ani",
+   "accent": "[1]",
+   "gloss": "my older brother",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "ani ga"
+  },
+  {
+   "n": 122,
+   "romaji": "oneesan",
+   "accent": "[2]",
+   "gloss": "older sister (other's / address)",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "oneesan ga",
+   "note": "Spelled ee, never ei. Five morae o-ne-e-sa-N."
+  },
+  {
+   "n": 123,
+   "romaji": "ane",
+   "accent": "[0]",
+   "gloss": "my older sister",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "ane ga"
+  },
+  {
+   "n": 124,
+   "romaji": "imooto",
+   "accent": "[4]",
+   "gloss": "younger sister",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "imooto ga",
+   "note": "Four morae i-mo-o-to, odaka; no in/out-group split, one form for both."
+  },
+  {
+   "n": 125,
+   "romaji": "otooto",
+   "accent": "[4]",
+   "gloss": "younger brother",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "otooto ga"
+  },
+  {
+   "n": 126,
+   "romaji": "kyoodai",
+   "accent": "[1]",
+   "gloss": "siblings",
+   "pos": "noun (kango)",
+   "cardType": "CHUNK",
+   "audioText": "kyoodai ga iru",
+   "note": "Four morae kyo-o-da-i; kyo is one mora."
+  }
+ ],
+ "sentences": [
+  {
+   "n": 1,
+   "romaji": "Iru.",
+   "gloss": "It's here. / There is one (animate).",
+   "newElement": "iru",
+   "usesPrior": [],
+   "cardType": "PROD"
+  },
+  {
+   "n": 2,
+   "romaji": "Neko ga iru.",
+   "gloss": "There's a cat.",
+   "newElement": "ga",
+   "usesPrior": [
+    "neko",
+    "iru"
+   ],
+   "cardType": "PROD",
+   "note": "Neutral description: the whole event is new."
+  },
+  {
+   "n": 3,
+   "romaji": "Aru.",
+   "gloss": "There is one. / I've got one.",
+   "newElement": "aru",
+   "usesPrior": [],
+   "cardType": "PROD"
+  },
+  {
+   "n": 4,
+   "romaji": "Mizu ga aru.",
+   "gloss": "There's water.",
+   "newElement": "ga with aru (inanimate)",
+   "usesPrior": [
+    "mizu",
+    "ga",
+    "aru"
+   ],
+   "cardType": "RECOG"
+  },
+  {
+   "n": 5,
+   "romaji": "Tori ga iru.",
+   "gloss": "There's a bird.",
+   "newElement": "tori",
+   "usesPrior": [
+    "ga",
+    "iru"
+   ],
+   "cardType": "RECOG"
+  },
+  {
+   "n": 6,
+   "romaji": "Kagi ga aru.",
+   "gloss": "There's a key. / I have the key.",
+   "newElement": "kagi",
+   "usesPrior": [
+    "ga",
+    "aru"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 7,
+   "romaji": "Neko wa iru.",
+   "gloss": "The cat, at least, is here.",
+   "newElement": "wa",
+   "usesPrior": [
+    "neko",
+    "iru"
+   ],
+   "cardType": "PROD",
+   "note": "Same words as card 2. Played back-to-back with it: ga = news, wa = already in play."
+  },
+  {
+   "n": 8,
+   "romaji": "Kore wa kagi da.",
+   "gloss": "This is the key.",
+   "newElement": "wa on a nominal predicate",
+   "usesPrior": [
+    "kore",
+    "da",
+    "kagi",
+    "wa"
+   ],
+   "cardType": "RECOG"
+  },
+  {
+   "n": 9,
+   "romaji": "Hana ga aru.",
+   "gloss": "There are flowers.",
+   "newElement": "hana",
+   "usesPrior": [
+    "ga",
+    "aru"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 10,
+   "romaji": "Dare ga iru?",
+   "gloss": "Who's there?",
+   "newElement": "dare",
+   "usesPrior": [
+    "ga",
+    "iru"
+   ],
+   "cardType": "PROD",
+   "note": "The question word takes ga. *Dare wa iru is impossible."
+  },
+  {
+   "n": 11,
+   "romaji": "Nani ga aru?",
+   "gloss": "What's there?",
+   "newElement": "nani",
+   "usesPrior": [
+    "ga",
+    "aru"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 12,
+   "romaji": "Tomodachi ga iru.",
+   "gloss": "A friend is here.",
+   "newElement": "tomodachi",
+   "usesPrior": [
+    "ga",
+    "iru"
+   ],
+   "cardType": "RECOG"
+  },
+  {
+   "n": 13,
+   "romaji": "Dare ga iru? Tomodachi ga iru.",
+   "gloss": "Who's there? A friend is.",
+   "newElement": "exhaustive-listing ga (wh-answer)",
+   "usesPrior": [
+    "dare",
+    "ga",
+    "iru",
+    "tomodachi"
+   ],
+   "cardType": "PROD",
+   "note": "The answer to a ga-question is ga, never wa. The whole diagnostic in one card."
+  },
+  {
+   "n": 14,
+   "romaji": "Neko wa doko?",
+   "gloss": "Where's the cat?",
+   "newElement": "wa with a wh-predicate",
+   "usesPrior": [
+    "neko",
+    "wa",
+    "doko"
+   ],
+   "cardType": "PROD",
+   "note": "wa is fine on the known topic; the wh word sits in the predicate."
+  },
+  {
+   "n": 15,
+   "romaji": "Sakana ga iru.",
+   "gloss": "There's a fish.",
+   "newElement": "sakana",
+   "usesPrior": [
+    "ga",
+    "iru"
+   ],
+   "cardType": "RECOG"
+  },
+  {
+   "n": 16,
+   "romaji": "Ocha wa aru.",
+   "gloss": "There is tea (whatever else there isn't).",
+   "newElement": "ocha",
+   "usesPrior": [
+    "wa",
+    "aru"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 17,
+   "romaji": "Mizu wa aru. Ocha wa?",
+   "gloss": "There's water. What about tea?",
+   "newElement": "contrastive wa (paired X wa / Y wa)",
+   "usesPrior": [
+    "mizu",
+    "wa",
+    "aru",
+    "ocha"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 18,
+   "romaji": "Yasai wa?",
+   "gloss": "And vegetables?",
+   "newElement": "elliptical contrastive wa",
+   "usesPrior": [
+    "yasai",
+    "wa"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 19,
+   "romaji": "Uchi ga aru.",
+   "gloss": "There's a house. / I have a place.",
+   "newElement": "uchi",
+   "usesPrior": [
+    "ga",
+    "aru"
+   ],
+   "cardType": "RECOG"
+  },
+  {
+   "n": 20,
+   "romaji": "Uchi wa niwa ga aru.",
+   "gloss": "My place has a garden.",
+   "newElement": "double-nominative (X wa Y ga)",
+   "usesPrior": [
+    "uchi",
+    "wa",
+    "niwa",
+    "ga",
+    "aru"
+   ],
+   "cardType": "PROD",
+   "note": "One wa slot, one ga slot, one predicate. The frame the whole unit was building toward."
+  },
+  {
+   "n": 21,
+   "romaji": "Ie ga aru.",
+   "gloss": "There's a house.",
+   "newElement": "ie",
+   "usesPrior": [
+    "ga",
+    "aru"
+   ],
+   "cardType": "RECOG"
+  },
+  {
+   "n": 22,
+   "romaji": "Kono ie wa mado ga aru.",
+   "gloss": "This house has windows.",
+   "newElement": "mado",
+   "usesPrior": [
+    "kono",
+    "ie",
+    "wa",
+    "ga",
+    "aru"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 23,
+   "romaji": "Neko wa uchi ni iru.",
+   "gloss": "The cat is at home.",
+   "newElement": "ni (existence)",
+   "usesPrior": [
+    "neko",
+    "wa",
+    "uchi",
+    "iru"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 24,
+   "romaji": "Asobu.",
+   "gloss": "(I'll) play / hang out.",
+   "newElement": "asobu",
+   "usesPrior": [],
+   "cardType": "PROD"
+  },
+  {
+   "n": 25,
+   "romaji": "Kodomo wa niwa de asobu.",
+   "gloss": "The kids play in the garden.",
+   "newElement": "de (action)",
+   "usesPrior": [
+    "kodomo",
+    "wa",
+    "niwa",
+    "asobu"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 26,
+   "romaji": "Kooen ni iru.",
+   "gloss": "(He's) at the park.",
+   "newElement": "kooen",
+   "usesPrior": [
+    "ni",
+    "iru"
+   ],
+   "cardType": "RECOG"
+  },
+  {
+   "n": 27,
+   "romaji": "Kooen de asobu.",
+   "gloss": "(We) play at the park.",
+   "newElement": "ni/de minimal pair on one place noun",
+   "usesPrior": [
+    "kooen",
+    "de",
+    "asobu",
+    "ni"
+   ],
+   "cardType": "PROD",
+   "note": "Cards 26 and 27 are always drilled adjacent. Being = ni, doing = de."
+  },
+  {
+   "n": 28,
+   "romaji": "Taberu.",
+   "gloss": "(I'll) eat.",
+   "newElement": "taberu",
+   "usesPrior": [],
+   "cardType": "PROD"
+  },
+  {
+   "n": 29,
+   "romaji": "Uchi de taberu.",
+   "gloss": "(I'll) eat at home.",
+   "newElement": "de with taberu",
+   "usesPrior": [
+    "uchi",
+    "de",
+    "taberu"
+   ],
+   "cardType": "PROD",
+   "note": "Paired in the same run with uchi ni aru."
+  },
+  {
+   "n": 30,
+   "romaji": "Neko wa inai.",
+   "gloss": "The cat isn't here.",
+   "newElement": "inai",
+   "usesPrior": [
+    "neko",
+    "wa"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 31,
+   "romaji": "Kagi ga nai.",
+   "gloss": "The key's gone.",
+   "newElement": "nai (suppletive neg of aru)",
+   "usesPrior": [
+    "kagi",
+    "ga"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 32,
+   "romaji": "Shikata ga nai.",
+   "gloss": "It can't be helped.",
+   "newElement": "shikata",
+   "usesPrior": [
+    "ga",
+    "nai"
+   ],
+   "cardType": "PROD",
+   "note": "Fixed chunk; carries the i-adjective nai. Drilled as a response token."
+  },
+  {
+   "n": 33,
+   "romaji": "Ano hito no koe da.",
+   "gloss": "That's his voice.",
+   "newElement": "koe",
+   "usesPrior": [
+    "ano",
+    "hito",
+    "no",
+    "da"
+   ],
+   "cardType": "RECOG"
+  },
+  {
+   "n": 34,
+   "romaji": "Nomu.",
+   "gloss": "(I'll) drink.",
+   "newElement": "nomu",
+   "usesPrior": [],
+   "cardType": "PROD"
+  },
+  {
+   "n": 35,
+   "romaji": "Neko ga ita.",
+   "gloss": "There was a cat.",
+   "newElement": "ita",
+   "usesPrior": [
+    "neko",
+    "ga"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 36,
+   "romaji": "Kagi ga atta.",
+   "gloss": "The key was there. / Found it.",
+   "newElement": "atta",
+   "usesPrior": [
+    "kagi",
+    "ga"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 37,
+   "romaji": "Kagi ga nakatta.",
+   "gloss": "The key wasn't there.",
+   "newElement": "nakatta",
+   "usesPrior": [
+    "kagi",
+    "ga"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 38,
+   "romaji": "Tomodachi wa inakatta.",
+   "gloss": "My friend wasn't there.",
+   "newElement": "inakatta",
+   "usesPrior": [
+    "tomodachi",
+    "wa"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 39,
+   "romaji": "Kesa wa uchi ni ita.",
+   "gloss": "This morning I was at home.",
+   "newElement": "kesa",
+   "usesPrior": [
+    "wa",
+    "uchi",
+    "ni",
+    "ita"
+   ],
+   "cardType": "RECOG"
+  },
+  {
+   "n": 40,
+   "romaji": "Neko wa isu no shita ni iru.",
+   "gloss": "The cat's under the chair.",
+   "newElement": "N no + relational noun + ni",
+   "usesPrior": [
+    "neko",
+    "wa",
+    "isu",
+    "no",
+    "shita",
+    "ni",
+    "iru"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 41,
+   "romaji": "Kuruma wa ie no tonari ni aru.",
+   "gloss": "The car is next to the house.",
+   "newElement": "tonari",
+   "usesPrior": [
+    "kuruma",
+    "wa",
+    "ie",
+    "no",
+    "ni",
+    "aru"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 42,
+   "romaji": "Eki no chikaku ni mise ga aru.",
+   "gloss": "There's a shop near the station.",
+   "newElement": "chikaku",
+   "usesPrior": [
+    "eki",
+    "no",
+    "ni",
+    "mise",
+    "ga",
+    "aru"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 43,
+   "romaji": "Kawa ga aru.",
+   "gloss": "There's a river.",
+   "newElement": "kawa",
+   "usesPrior": [
+    "ga",
+    "aru"
+   ],
+   "cardType": "RECOG"
+  },
+  {
+   "n": 44,
+   "romaji": "Kawa no soba ni ie ga aru.",
+   "gloss": "There's a house beside the river.",
+   "newElement": "soba",
+   "usesPrior": [
+    "kawa",
+    "no",
+    "ni",
+    "ie",
+    "ga",
+    "aru"
+   ],
+   "cardType": "PROD",
+   "note": "soba appears only here and only in this shape."
+  },
+  {
+   "n": 45,
+   "romaji": "Kagi wa hako no yoko ni aru.",
+   "gloss": "The key's beside the box.",
+   "newElement": "yoko",
+   "usesPrior": [
+    "kagi",
+    "wa",
+    "hako",
+    "no",
+    "ni",
+    "aru"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 46,
+   "romaji": "Yasai o taberu.",
+   "gloss": "(I) eat vegetables.",
+   "newElement": "o",
+   "usesPrior": [
+    "yasai",
+    "taberu"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 47,
+   "romaji": "Mizu o nomu.",
+   "gloss": "(I) drink water.",
+   "newElement": "o with nomu",
+   "usesPrior": [
+    "mizu",
+    "o",
+    "nomu"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 48,
+   "romaji": "Miru.",
+   "gloss": "(I'll) look.",
+   "newElement": "miru",
+   "usesPrior": [],
+   "cardType": "PROD"
+  },
+  {
+   "n": 49,
+   "romaji": "E o miru.",
+   "gloss": "(I) look at a picture.",
+   "newElement": "e",
+   "usesPrior": [
+    "o",
+    "miru"
+   ],
+   "cardType": "RECOG"
+  },
+  {
+   "n": 50,
+   "romaji": "Kutsu o kau.",
+   "gloss": "(I'll) buy shoes.",
+   "newElement": "kau",
+   "usesPrior": [
+    "kutsu",
+    "o"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 51,
+   "romaji": "Tegami o yomu.",
+   "gloss": "(I) read a letter.",
+   "newElement": "yomu",
+   "usesPrior": [
+    "tegami",
+    "o"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 52,
+   "romaji": "Kami ni kaku.",
+   "gloss": "(I) write on paper.",
+   "newElement": "kaku",
+   "usesPrior": [
+    "kami",
+    "ni"
+   ],
+   "cardType": "RECOG",
+   "note": "ni here is the goal-surface, contrasted aloud with ni of existence."
+  },
+  {
+   "n": 53,
+   "romaji": "Uta o kiku.",
+   "gloss": "(I) listen to a song.",
+   "newElement": "kiku",
+   "usesPrior": [
+    "uta",
+    "o"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 54,
+   "romaji": "Nani o suru?",
+   "gloss": "What are you doing?",
+   "newElement": "suru",
+   "usesPrior": [
+    "nani",
+    "o"
+   ],
+   "cardType": "PROD",
+   "note": "nani takes o, never wa: the diagnostic again on a new particle."
+  },
+  {
+   "n": 55,
+   "romaji": "Neko iru?",
+   "gloss": "Is the cat around?",
+   "newElement": "ga-drop",
+   "usesPrior": [
+    "neko",
+    "iru"
+   ],
+   "cardType": "PROD",
+   "note": "Production target. Careful expansion: Neko wa iru?"
+  },
+  {
+   "n": 56,
+   "romaji": "Yasai taberu?",
+   "gloss": "You eating the veg?",
+   "newElement": "o-drop",
+   "usesPrior": [
+    "yasai",
+    "taberu"
+   ],
+   "cardType": "PROD",
+   "note": "Careful expansion: Yasai o taberu?"
+  },
+  {
+   "n": 57,
+   "romaji": "Koko de matsu.",
+   "gloss": "(I'll) wait here.",
+   "newElement": "matsu",
+   "usesPrior": [
+    "koko",
+    "de"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 58,
+   "romaji": "Tomodachi ni au.",
+   "gloss": "(I'll) meet a friend.",
+   "newElement": "au",
+   "usesPrior": [
+    "tomodachi",
+    "ni"
+   ],
+   "cardType": "PROD",
+   "note": "au is [1]; its target is ni, not o."
+  },
+  {
+   "n": 59,
+   "romaji": "Nani tte yutta?",
+   "gloss": "What did you say?",
+   "newElement": "yuu (yutta)",
+   "usesPrior": [
+    "nani"
+   ],
+   "cardType": "PROD",
+   "note": "Say yutta, never 'itta'. Expansion set: yuu / yutta / tte yutteta."
+  },
+  {
+   "n": 60,
+   "romaji": "Namae wa?",
+   "gloss": "And your name?",
+   "newElement": "namae",
+   "usesPrior": [
+    "wa"
+   ],
+   "cardType": "PROD",
+   "note": "Topic with the predicate wholly ellipted: the commonest wa sentence there is."
+  },
+  {
+   "n": 61,
+   "romaji": "Neko ga suki.",
+   "gloss": "I like cats.",
+   "newElement": "suki",
+   "usesPrior": [
+    "neko",
+    "ga"
+   ],
+   "cardType": "PROD",
+   "note": "The liked thing is ga-marked. Never *neko o suki."
+  },
+  {
+   "n": 62,
+   "romaji": "Watashi wa inu ga suki.",
+   "gloss": "Me, I like dogs.",
+   "newElement": "wa ... ga suki (double-nominative with a ga-predicate)",
+   "usesPrior": [
+    "watashi",
+    "wa",
+    "inu",
+    "ga",
+    "suki"
+   ],
+   "cardType": "PROD",
+   "note": "Same frame as uchi wa niwa ga aru; pointed out explicitly."
+  },
+  {
+   "n": 63,
+   "romaji": "Niku ga kirai.",
+   "gloss": "I don't like meat.",
+   "newElement": "kirai",
+   "usesPrior": [
+    "niku",
+    "ga"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 64,
+   "romaji": "Yasai ga daisuki.",
+   "gloss": "I love vegetables.",
+   "newElement": "daisuki",
+   "usesPrior": [
+    "yasai",
+    "ga"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 65,
+   "romaji": "Yume o miru.",
+   "gloss": "(I) have a dream.",
+   "newElement": "yume",
+   "usesPrior": [
+    "o",
+    "miru"
+   ],
+   "cardType": "RECOG"
+  },
+  {
+   "n": 66,
+   "romaji": "Uta ga joozu.",
+   "gloss": "(She's) good at singing.",
+   "newElement": "joozu",
+   "usesPrior": [
+    "uta",
+    "ga"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 67,
+   "romaji": "E ga heta.",
+   "gloss": "(I'm) bad at drawing.",
+   "newElement": "heta",
+   "usesPrior": [
+    "e",
+    "ga"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 68,
+   "romaji": "Mizu ga hoshii.",
+   "gloss": "I want water.",
+   "newElement": "hoshii",
+   "usesPrior": [
+    "mizu",
+    "ga"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 69,
+   "romaji": "Yasumi ga hoshii.",
+   "gloss": "I want a day off.",
+   "newElement": "yasumi",
+   "usesPrior": [
+    "ga",
+    "hoshii"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 70,
+   "romaji": "Imi ga wakaru.",
+   "gloss": "I get the meaning.",
+   "newElement": "wakaru",
+   "usesPrior": [
+    "imi",
+    "ga"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 71,
+   "romaji": "Sukoshi wakaru.",
+   "gloss": "I understand a little.",
+   "newElement": "sukoshi",
+   "usesPrior": [
+    "wakaru"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 72,
+   "romaji": "Kore ga dekiru.",
+   "gloss": "I can do this one.",
+   "newElement": "dekiru",
+   "usesPrior": [
+    "kore",
+    "ga"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 73,
+   "romaji": "Ano hito wa hanashi ga joozu.",
+   "gloss": "He's a good talker.",
+   "newElement": "hanashi",
+   "usesPrior": [
+    "ano",
+    "hito",
+    "wa",
+    "ga",
+    "joozu"
+   ],
+   "cardType": "RECOG",
+   "note": "Full double-nominative with a ga-predicate."
+  },
+  {
+   "n": 74,
+   "romaji": "Kodomo no te da.",
+   "gloss": "It's a child's hand.",
+   "newElement": "te",
+   "usesPrior": [
+    "kodomo",
+    "no",
+    "da"
+   ],
+   "cardType": "RECOG"
+  },
+  {
+   "n": 75,
+   "romaji": "Neko mo iru.",
+   "gloss": "There's a cat too.",
+   "newElement": "mo",
+   "usesPrior": [
+    "neko",
+    "iru"
+   ],
+   "cardType": "PROD",
+   "note": "mo replaces ga; *neko ga mo is impossible."
+  },
+  {
+   "n": 76,
+   "romaji": "Yasai mo taberu.",
+   "gloss": "(I) eat vegetables too.",
+   "newElement": "mo replacing o",
+   "usesPrior": [
+    "yasai",
+    "mo",
+    "taberu"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 77,
+   "romaji": "Watashi mo suki.",
+   "gloss": "I like it too.",
+   "newElement": "mo replacing wa",
+   "usesPrior": [
+    "watashi",
+    "mo",
+    "suki"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 78,
+   "romaji": "Sono koto wa wakaru.",
+   "gloss": "That much I do understand.",
+   "newElement": "koto",
+   "usesPrior": [
+    "sono",
+    "wa",
+    "wakaru"
+   ],
+   "cardType": "PROD",
+   "note": "Contrastive wa on an object: wa displacing ga, not adding to it."
+  },
+  {
+   "n": 79,
+   "romaji": "Itsumo koko ni iru.",
+   "gloss": "(He's) always here.",
+   "newElement": "itsumo",
+   "usesPrior": [
+    "koko",
+    "ni",
+    "iru"
+   ],
+   "cardType": "RECOG"
+  },
+  {
+   "n": 80,
+   "romaji": "Gohan o taberu.",
+   "gloss": "(I) eat a meal.",
+   "newElement": "gohan",
+   "usesPrior": [
+    "o",
+    "taberu"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 81,
+   "romaji": "Pan mo taberu.",
+   "gloss": "(I) eat bread too.",
+   "newElement": "pan",
+   "usesPrior": [
+    "mo",
+    "taberu"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 82,
+   "romaji": "Hon o yomu.",
+   "gloss": "(I) read a book.",
+   "newElement": "hon",
+   "usesPrior": [
+    "o",
+    "yomu"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 83,
+   "romaji": "Onna no hito ga iru.",
+   "gloss": "There's a woman there.",
+   "newElement": "onna",
+   "usesPrior": [
+    "no",
+    "hito",
+    "ga",
+    "iru"
+   ],
+   "cardType": "RECOG"
+  },
+  {
+   "n": 84,
+   "romaji": "Minna iru?",
+   "gloss": "Is everyone here?",
+   "newElement": "minna",
+   "usesPrior": [
+    "iru"
+   ],
+   "cardType": "PROD",
+   "note": "Also recycles the ga-drop."
+  },
+  {
+   "n": 85,
+   "romaji": "Jikan ga nai.",
+   "gloss": "There's no time.",
+   "newElement": "jikan",
+   "usesPrior": [
+    "ga",
+    "nai"
+   ],
+   "cardType": "PROD",
+   "note": "Fixed chunk: the i-adjective nai in its highest-frequency frame."
+  },
+  {
+   "n": 86,
+   "romaji": "Ima, doko ni iru?",
+   "gloss": "Where are you now?",
+   "newElement": "ima",
+   "usesPrior": [
+    "doko",
+    "ni",
+    "iru"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 87,
+   "romaji": "Otoosan wa uchi ni iru.",
+   "gloss": "Your dad's at home.",
+   "newElement": "otoosan",
+   "usesPrior": [
+    "wa",
+    "uchi",
+    "ni",
+    "iru"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 88,
+   "romaji": "Chichi wa shigoto da.",
+   "gloss": "My father's at work.",
+   "newElement": "chichi",
+   "usesPrior": [
+    "wa",
+    "shigoto",
+    "da"
+   ],
+   "cardType": "PROD",
+   "note": "Drilled immediately against 87: out-group otoosan vs in-group chichi."
+  },
+  {
+   "n": 89,
+   "romaji": "Okaasan wa doko?",
+   "gloss": "Where's your mum?",
+   "newElement": "okaasan",
+   "usesPrior": [
+    "wa",
+    "doko"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 90,
+   "romaji": "Haha wa uchi ni ita.",
+   "gloss": "My mother was at home.",
+   "newElement": "haha",
+   "usesPrior": [
+    "wa",
+    "uchi",
+    "ni",
+    "ita"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 91,
+   "romaji": "Oniisan ga iru.",
+   "gloss": "You have an older brother.",
+   "newElement": "oniisan",
+   "usesPrior": [
+    "ga",
+    "iru"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 92,
+   "romaji": "Ane wa eki ni iru.",
+   "gloss": "My older sister's at the station.",
+   "newElement": "ane",
+   "usesPrior": [
+    "wa",
+    "eki",
+    "ni",
+    "iru"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 93,
+   "romaji": "Imooto ga iru.",
+   "gloss": "I have a younger sister.",
+   "newElement": "imooto",
+   "usesPrior": [
+    "ga",
+    "iru"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 94,
+   "romaji": "Otooto mo iru.",
+   "gloss": "I have a younger brother too.",
+   "newElement": "otooto",
+   "usesPrior": [
+    "mo",
+    "iru"
+   ],
+   "cardType": "PROD"
+  }
+ ],
+ "drills": [
+  {
+   "name": "Wh-answer chain",
+   "type": "substitution",
+   "spec": "Beat at 60bpm. English cue, learner answers aloud in Japanese, native audio confirms. 'Who's there?' > Dare ga iru? | 'A friend.' > Tomodachi ga iru. | 'What's there?' > Nani ga aru? | 'A key.' > Kagi ga aru. | 'Who ate it?' > Dare ga tabeta? | 'The kid did.' > Kodomo ga tabeta. Twelve cues, no wa anywhere in the run.",
+   "target": "12/12 with ga on both question and answer, no hesitation over one beat."
+  },
+  {
+   "name": "Star rejection",
+   "type": "negative evidence",
+   "spec": "Audio plays a mix of good and bad strings; learner says 'nai' (bad) or 'aru' (good) on the beat. Bad: *Dare wa iru. *Nani wa aru. *Dare wa tabeta. Good: Dare ga iru. Neko wa iru. Neko wa doko? Eki wa doko? This is the only negative evidence the learner will ever get for bare wa; run it every day of the six-day unit.",
+   "target": "18/20, and zero false 'good' on any *dare wa item."
+  },
+  {
+   "name": "ni / de switch",
+   "type": "substitution",
+   "spec": "One place noun, two predicates, alternating on the beat. kooen > kooen ni iru / kooen de asobu | uchi > uchi ni aru / uchi de taberu | mise > mise ni aru / mise de kau | heya > heya ni iru / heya de yomu | eki > eki ni iru / eki de matsu. Cue is the place noun plus English 'be' or 'do'.",
+   "target": "20 switches, no particle error, under 90 seconds."
+  },
+  {
+   "name": "Animacy sort",
+   "type": "sort",
+   "spec": "Rapid noun cue, learner supplies the right existence verb: neko > iru. kagi > aru. kodomo > iru. mizu > aru. tori > iru. kuruma > aru. sakana > iru. hako > aru. tomodachi > iru. densha > aru. Then the same list negative (inai / nai) and past (ita / atta).",
+   "target": "30 items, 100% on the positive run, 28/30 across negative and past."
+  },
+  {
+   "name": "Existence square",
+   "type": "paradigm",
+   "spec": "Four-cell grid called against the beat, animate row then inanimate row. iru / ita / inai / inakatta, then aru / atta / nai / nakatta. Cue is English tense plus polarity ('was not, animate'). Say aloud each round that aru's negative is nai, not *aranai.",
+   "target": "Both rows cold, 8 cells in under 12 seconds, accent correct ([0] row flat, [1] row falling)."
+  },
+  {
+   "name": "Particle strip",
+   "type": "reduction",
+   "spec": "Native audio plays the careful version; learner immediately produces the stripped version, which is what gets graded. Yasai o taberu? > Yasai taberu? | Neko ga iru? > Neko iru? | Kagi ga atta? > Kagi atta? | Nani o suru? > Nani suru? | Kore ga wakaru? > Kore wakaru? Then reverse: stripped in, careful out.",
+   "target": "10 pairs each direction; the stripped form must come out faster than the careful one."
+  },
+  {
+   "name": "ga-object frame",
+   "type": "substitution",
+   "spec": "Fixed frame 'watashi wa ___ ga ___', both slots swapped on the beat. Objects: neko, niku, yasai, uta, e, okane, mizu. Predicates: suki, kirai, daisuki, joozu, heta, hoshii, wakaru, dekiru. A stray o is called out on the spot.",
+   "target": "24 productions, zero o-intrusions."
+  },
+  {
+   "name": "mo substitution",
+   "type": "substitution",
+   "spec": "Sentence in, mo-version out. Neko ga iru > Neko mo iru. | Yasai o taberu > Yasai mo taberu. | Watashi wa suki > Watashi mo suki. | Kooen ni iru > Kooen ni mo iru. | Uchi de taberu > Uchi de mo taberu. Point out that wa/ga/o vanish under mo but ni/de survive.",
+   "target": "15 items, correct deletion of wa/ga/o and correct retention of ni/de."
+  },
+  {
+   "name": "tte yutta",
+   "type": "quotation",
+   "spec": "Learner reports what the audio said. Audio 'Kooen ni iru.' > Kooen ni iru tte yutta. Audio 'Kagi ga nai.' > Kagi ga nai tte yutta. Then the imperfective: ... tte yutteta. Every production says yuu / yutta / yutteta; an 'itta' pronunciation is marked wrong immediately.",
+   "target": "10 reports, zero 'itta' pronunciations."
+  },
+  {
+   "name": "Family row",
+   "type": "paradigm",
+   "spec": "English cue names referent and audience. 'your dad' > otoosan. 'my dad, to a stranger' > chichi. 'your mum' > okaasan. 'my mum' > haha. 'your older brother' > oniisan. 'my older brother' > ani. 'your older sister' > oneesan. 'my older sister' > ane. 'my or your younger sister' > imooto. 'my or your younger brother' > otooto. Always run the row complete, never one member alone.",
+   "target": "10/10 on the in-group/out-group choice, every long vowel held full length (o-to-o-sa-N = 5 morae)."
+  },
+  {
+   "name": "Noun-ga accent",
+   "type": "perception",
+   "spec": "Accent pairs heard in the ga frame, learner calls the pattern. hana ga (flower [2], fall on ga) against flat [0] nouns tori ga, niwa ga, michi ga, yasai ga. Also kagi ga [2], kutsu ga [2], niku ga [2] against okane ga [0], tegami ga [0], kusuri ga [0]. Bare word first, then the ga frame, so the learner hears why the frame is required.",
+   "target": "16/20 on the bare word, 20/20 in the ga frame."
+  },
+  {
+   "name": "Two-mention narration",
+   "type": "free production",
+   "spec": "Learner narrates a scene twice over. First mention takes ga (Neko ga iru), every later mention takes wa (Neko wa isu no shita ni iru. Neko wa gohan o taberu). Prompts: a room, a park, a shop. Ungraded; run at the end of days 27, 35 and 42.",
+   "target": "First mention ga, later mentions wa, sustained over six or more sentences."
+  }
+ ],
+ "lessons": [
+  {
+   "day": "D22",
+   "title": "wa/ga unit 1 of 6: ga of neutral description",
+   "introduces": [
+    "iru",
+    "ga",
+    "aru",
+    "tori",
+    "kagi",
+    "kasa"
+   ],
+   "minutes": "90-100",
+   "sentenceRange": "1-6",
+   "drill": "Animacy sort"
+  },
+  {
+   "day": "D23",
+   "title": "wa/ga unit 2 of 6: wa is what is already in play",
+   "introduces": [
+    "wa",
+    "machi",
+    "niwa",
+    "hana",
+    "yama"
+   ],
+   "minutes": "90-100",
+   "sentenceRange": "7-9",
+   "drill": "Two-mention narration (short) plus Star rejection"
+  },
+  {
+   "day": "D24",
+   "title": "wa/ga unit 3 of 6: a question word never takes wa",
+   "introduces": [
+    "dare",
+    "nani",
+    "otoko",
+    "tomodachi"
+   ],
+   "minutes": "90-100",
+   "sentenceRange": "10-12",
+   "drill": "Star rejection"
+  },
+  {
+   "day": "D25",
+   "title": "wa/ga unit 4 of 6: the answer takes ga (exhaustive listing)",
+   "introduces": [
+    "mise",
+    "eki",
+    "michi",
+    "sakana"
+   ],
+   "minutes": "90-100",
+   "sentenceRange": "13-15",
+   "drill": "Wh-answer chain"
+  },
+  {
+   "day": "D26",
+   "title": "wa/ga unit 5 of 6: contrastive wa",
+   "introduces": [
+    "ocha",
+    "niku",
+    "yasai"
+   ],
+   "minutes": "90-100",
+   "sentenceRange": "16-18",
+   "drill": "Wh-answer chain plus Star rejection"
+  },
+  {
+   "day": "D27",
+   "title": "wa/ga unit 6 of 6: double-nominative X wa Y ga",
+   "introduces": [
+    "uchi",
+    "ie",
+    "heya",
+    "mado"
+   ],
+   "minutes": "90-100",
+   "sentenceRange": "19-22",
+   "drill": "Two-mention narration"
+  },
+  {
+   "day": "D28",
+   "title": "Consolidation: the wa/ga diagnostic under time pressure",
+   "introduces": [],
+   "minutes": "90-100",
+   "sentenceRange": "1-22 review",
+   "drill": "Star rejection plus Wh-answer chain, both cold"
+  },
+  {
+   "day": "D29",
+   "title": "ni of existence against de of action",
+   "introduces": [
+    "ni",
+    "de",
+    "asobu",
+    "taberu",
+    "nomu",
+    "kooen",
+    "yuka",
+    "kabe",
+    "tana"
+   ],
+   "minutes": "90-100",
+   "sentenceRange": "23-29",
+   "drill": "ni / de switch"
+  },
+  {
+   "day": "D30",
+   "title": "Negative existence, and nai the adjective",
+   "introduces": [
+    "nai (neg of aru)",
+    "inai",
+    "nai (i-adj)",
+    "shikata",
+    "imi",
+    "koe"
+   ],
+   "minutes": "90-100",
+   "sentenceRange": "30-34",
+   "drill": "Existence square, negative row"
+  },
+  {
+   "day": "D31",
+   "title": "Past existence: atta / ita / nakatta / inakatta",
+   "introduces": [
+    "atta",
+    "ita",
+    "nakatta",
+    "inakatta",
+    "kesa",
+    "asa",
+    "yoru"
+   ],
+   "minutes": "90-100",
+   "sentenceRange": "35-39",
+   "drill": "Existence square, all eight cells"
+  },
+  {
+   "day": "D32",
+   "title": "Relational and place nouns in the ni frame",
+   "introduces": [
+    "tonari",
+    "ushiro",
+    "yoko",
+    "chikaku",
+    "aida",
+    "mawari",
+    "hidari",
+    "migi",
+    "soba",
+    "tokoro",
+    "kawa"
+   ],
+   "minutes": "90-100",
+   "sentenceRange": "40-45",
+   "drill": "ni / de switch, extended with N no X ni"
+  },
+  {
+   "day": "D33",
+   "title": "o for the direct object; the de-of-action verb set",
+   "introduces": [
+    "o",
+    "miru",
+    "kau",
+    "yomu",
+    "kaku",
+    "kiku",
+    "suru",
+    "hanasu",
+    "uta",
+    "e",
+    "kami",
+    "tegami",
+    "kutsu",
+    "fuku"
+   ],
+   "minutes": "90-100",
+   "sentenceRange": "46-54",
+   "drill": "Particle strip, careful direction only"
+  },
+  {
+   "day": "D34",
+   "title": "Particle dropping as the production default",
+   "introduces": [
+    "(particle drop)",
+    "matsu",
+    "au",
+    "yuu",
+    "me",
+    "namae"
+   ],
+   "minutes": "90-100",
+   "sentenceRange": "55-60",
+   "drill": "Particle strip both directions plus tte yutta"
+  },
+  {
+   "day": "D35",
+   "title": "Consolidation: particles present and absent",
+   "introduces": [],
+   "minutes": "90-100",
+   "sentenceRange": "23-60 review",
+   "drill": "Particle strip cold plus Two-mention narration"
+  },
+  {
+   "day": "D36",
+   "title": "ga-marked objects 1: suki / kirai / daisuki",
+   "introduces": [
+    "suki",
+    "kirai",
+    "daisuki",
+    "yume",
+    "kusuri",
+    "tamago"
+   ],
+   "minutes": "90-100",
+   "sentenceRange": "61-65",
+   "drill": "ga-object frame"
+  },
+  {
+   "day": "D37",
+   "title": "ga-marked objects 2: joozu / heta / hoshii",
+   "introduces": [
+    "joozu",
+    "heta",
+    "hoshii",
+    "okane",
+    "shigoto",
+    "yasumi"
+   ],
+   "minutes": "90-100",
+   "sentenceRange": "66-69",
+   "drill": "ga-object frame"
+  },
+  {
+   "day": "D38",
+   "title": "ga-marked objects 3: wakaru / dekiru, frame closed",
+   "introduces": [
+    "wakaru",
+    "dekiru",
+    "hanashi",
+    "te",
+    "ashi",
+    "sukoshi"
+   ],
+   "minutes": "90-100",
+   "sentenceRange": "70-74",
+   "drill": "ga-object frame, all eight predicates cold"
+  },
+  {
+   "day": "D39",
+   "title": "mo as a substitute for wa, ga and o",
+   "introduces": [
+    "mo",
+    "hoka",
+    "mono",
+    "koto",
+    "itsumo"
+   ],
+   "minutes": "90-100",
+   "sentenceRange": "75-79",
+   "drill": "mo substitution"
+  },
+  {
+   "day": "D40",
+   "title": "The first moraic-N nouns",
+   "introduces": [
+    "gohan",
+    "pan",
+    "hon",
+    "sen",
+    "onna",
+    "minna",
+    "mikan",
+    "ringo",
+    "jikan",
+    "tenki",
+    "densha",
+    "shashin",
+    "ima"
+   ],
+   "minutes": "90-100",
+   "sentenceRange": "80-86",
+   "drill": "Noun-ga accent, with N held to full mora length"
+  },
+  {
+   "day": "D41",
+   "title": "The family row, in-group against out-group",
+   "introduces": [
+    "otoosan",
+    "chichi",
+    "okaasan",
+    "haha",
+    "oniisan",
+    "ani",
+    "oneesan",
+    "ane",
+    "imooto",
+    "otooto",
+    "kyoodai"
+   ],
+   "minutes": "90-100",
+   "sentenceRange": "87-94",
+   "drill": "Family row"
+  },
+  {
+   "day": "D42",
+   "title": "Block integration: a scene, a household, a preference",
+   "introduces": [],
+   "minutes": "90-100",
+   "sentenceRange": "1-94 mixed review",
+   "drill": "Two-mention narration plus Family row plus ga-object frame, all cold"
+  }
+ ]
+}

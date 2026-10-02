@@ -1,0 +1,2453 @@
+{
+ "block": "E — THE -TE CHANT (the onbin stem and its first dependents)",
+ "weeks": "Weeks 9-10, 14 days, 90-100 min/day. COMMITTED ROW ORDER: R0 ichidan, R1 -su, R2 -ku, R3 -gu, R4 -mu/-bu(+shinu), R5 -u/-tsu/-ru, R6 irregulars, then iku>itte alone. DEFENCE, three stacked principles. (P1) TRANSFORMATION SIZE: R0 is the identity case, drop -ru add -te, zero segment change; it opens because it establishes THAT THERE IS A SLOT before any alternation must be induced. The earlier pass omitted R0 and R6 entirely, which is a fatal coverage gap: ichidan is about a third of the 60-verb ledger. (P2) ONE-TO-ONE BEFORE MANY-TO-ONE: R1, R2, R3 each map one coda to one output; R4 maps -mu/-bu to one output and R5 maps -u/-tsu/-ru to one output. Three-to-one is a categorically harder induction than one-to-one, so all the one-to-one rows precede all the many-to-one rows. (P3) AUDIBLE CUE BEFORE SILENT CUE: between the two many-to-one rows, R4's cue is a moraic nasal plus voicing on the /d/ - both acoustically present; R5's cue is gemination, a mora of NO acoustic energy. For an audio-only ear the silent cue is the hardest discrimination in the language, so R5 is last of the rule rows. This is the principle the brief names and I commit to it, noting it is subsumed by P2, which is the stronger and more general statement. R6 PLACEMENT: suru>shite and kuru>kite are two memorised lexemes, not a rule. Placed inside R0-R5 they invite the learner to induce a row that does not exist, so they land after every rule row has closed and are labelled out loud as 'two words, not a row'. iku>itte LAST AND ALONE, three days after R2 has closed, so the -ku>-ite rule is already stable before its single defector is shown; it is never run inside an R2 block. THE TEXTBOOK ORDER (u/tsu/ru first) IS A WRITING-SYSTEM ORDER walking the kana columns; this learner has no writing system, so that ordering optimises for something inaccessible to them. Invert it. ACCEPTED RISK AND ITS NON-NEGOTIABLE MITIGATION: opening on two consecutive zero-change rows (R0 then R1) maximally invites over-generalisation, *kakite and *matite. Mitigation: R0, R1 and R2 all run in the SAME session on day 1, so 'something changes' lands within minutes; R1 is never drilled alone for even one session. THE ACCENT LAW, the chant's hidden dividend: the -te and -ta forms KEEP the dictionary form's accent mora index, and heiban stays heiban. True across all 60 ledger verbs. One rule, not 60 facts. SECOND DIVIDEND, sell it explicitly: the -te form is the ONLY reliable AUDIBLE test of godan vs ichidan for -ru verbs (kaette vs kaete), so the chant doubles as a verb-class diagnostic. WHAT THE CHANT BUYS: not 35 constructions but 41, because the onbin stem also feeds the whole -ta branch (-ta, -tara, -tari, -tatte, -ta koto ga aru, -ta hoo ga ii, -ta ato de, -ta bakari), and roughly two thirds of the tree's total fanout value is delivered by slots 1-8 inside these fourteen days. ASSUMED FUNCTION-WORD INVENTORY from blocks A-D, relied on by the sentence cards: ga, o, ni, de, to, wa, mo, kara, made, no, ne, yo, ka, tte; kore/sore/are, kono/sono/ano, koko/soko/asoko, dare, nani, doko, itsu, doo; chotto, sukoshi, mada, moo, zenbu, demo, un, kesa, ima. If any of these is not in blocks A-D it must be carded on day 1 of this block.",
+ "items": [
+  {
+   "n": 1,
+   "romaji": "R0: -ru > -te (ICHIDAN)",
+   "accent": "[2]",
+   "gloss": "CHANT ROW 0. Drop -ru, add -te. Zero segment change.",
+   "pos": "chant row",
+   "cardType": "DRILL",
+   "audioText": "taberu, tabete. miru, mite. okiru, okite. neru, nete.",
+   "teForm": "tabete",
+   "note": "Opens the chant. The true one-to-one row: the ichidan stem is already isolated from the -masu shell in wk 6-7, so -te merely occupies a slot."
+  },
+  {
+   "n": 2,
+   "romaji": "tabete",
+   "accent": "[2]",
+   "gloss": "eat-TE",
+   "pos": "ichidan -te",
+   "cardType": "DRILL",
+   "audioText": "taberu, tabete",
+   "teForm": "tabete",
+   "note": "ACCENT LAW: -te keeps the dictionary accent index. Teach once, applies to all 60 verbs."
+  },
+  {
+   "n": 3,
+   "romaji": "mite",
+   "accent": "[1]",
+   "gloss": "look-TE",
+   "pos": "ichidan -te",
+   "cardType": "DRILL",
+   "audioText": "miru, mite",
+   "teForm": "mite"
+  },
+  {
+   "n": 4,
+   "romaji": "okite",
+   "accent": "[2]",
+   "gloss": "get-up-TE",
+   "pos": "ichidan -te",
+   "cardType": "DRILL",
+   "audioText": "okiru, okite",
+   "teForm": "okite"
+  },
+  {
+   "n": 5,
+   "romaji": "nete",
+   "accent": "[0]",
+   "gloss": "sleep-TE",
+   "pos": "ichidan -te",
+   "cardType": "DRILL",
+   "audioText": "neru, nete",
+   "teForm": "nete"
+  },
+  {
+   "n": 6,
+   "romaji": "ite",
+   "accent": "[0]",
+   "gloss": "be-present-TE (animate)",
+   "pos": "ichidan -te",
+   "cardType": "DRILL",
+   "audioText": "iru, ite",
+   "teForm": "ite",
+   "note": "ite vs itte is the cleanest one-word gemination contrast the learner now owns. Feed it to the perception drill."
+  },
+  {
+   "n": 7,
+   "romaji": "dekite",
+   "accent": "[2]",
+   "gloss": "be-able-TE / be-done-TE",
+   "pos": "ichidan -te",
+   "cardType": "DRILL",
+   "audioText": "dekiru, dekite",
+   "teForm": "dekite"
+  },
+  {
+   "n": 8,
+   "romaji": "kurete",
+   "accent": "[0]",
+   "gloss": "give-me-TE",
+   "pos": "ichidan -te",
+   "cardType": "DRILL",
+   "audioText": "kureru, kurete",
+   "teForm": "kurete",
+   "note": "Pre-loads day 8, -te kureru."
+  },
+  {
+   "n": 9,
+   "romaji": "agete",
+   "accent": "[0]",
+   "gloss": "give-out-TE",
+   "pos": "ichidan -te",
+   "cardType": "DRILL",
+   "audioText": "ageru, agete",
+   "teForm": "agete"
+  },
+  {
+   "n": 10,
+   "romaji": "oshiete",
+   "accent": "[0]",
+   "gloss": "teach/tell-TE",
+   "pos": "ichidan -te (NEW LEXEME oshieru [0])",
+   "cardType": "PROD",
+   "audioText": "oshieru, oshiete",
+   "teForm": "oshiete",
+   "note": "New lexeme, budgeted. Named in the brief for R0, and the workhorse object of -te kureru and -te morau on days 8 and 10."
+  },
+  {
+   "n": 11,
+   "romaji": "dekakete",
+   "accent": "[0]",
+   "gloss": "go-out-TE",
+   "pos": "ichidan -te (NEW LEXEME dekakeru [0])",
+   "cardType": "PROD",
+   "audioText": "dekakeru, dekakete",
+   "teForm": "dekakete",
+   "note": "New lexeme, budgeted."
+  },
+  {
+   "n": 12,
+   "romaji": "wasurete",
+   "accent": "[0]",
+   "gloss": "forget-TE",
+   "pos": "ichidan -te (NEW LEXEME wasureru [0])",
+   "cardType": "PROD",
+   "audioText": "wasureru, wasurete",
+   "teForm": "wasurete",
+   "note": "New lexeme, budgeted. Required by day 9: wasurechatta is the highest-frequency -chatta token in the language."
+  },
+  {
+   "n": 13,
+   "romaji": "R1: -su > -shite",
+   "accent": "[2]",
+   "gloss": "CHANT ROW 1. One-to-one, zero sound change.",
+   "pos": "chant row",
+   "cardType": "DRILL",
+   "audioText": "hanasu, hanashite. kasu, kashite. dasu, dashite. naosu, naoshite.",
+   "teForm": "hanashite",
+   "note": "This is literally the i-stem they already own from wk 6-7: hanashi- plus te. Perception load nil. NEVER drilled alone - R2 follows in the same session."
+  },
+  {
+   "n": 14,
+   "romaji": "hanashite",
+   "accent": "[2]",
+   "gloss": "speak-TE",
+   "pos": "godan -su -te",
+   "cardType": "DRILL",
+   "audioText": "hanasu, hanashite",
+   "teForm": "hanashite"
+  },
+  {
+   "n": 15,
+   "romaji": "kashite",
+   "accent": "[0]",
+   "gloss": "lend-TE",
+   "pos": "godan -su -te",
+   "cardType": "DRILL",
+   "audioText": "kasu, kashite",
+   "teForm": "kashite"
+  },
+  {
+   "n": 16,
+   "romaji": "dashite",
+   "accent": "[1]",
+   "gloss": "put-out-TE",
+   "pos": "godan -su -te",
+   "cardType": "DRILL",
+   "audioText": "dasu, dashite",
+   "teForm": "dashite"
+  },
+  {
+   "n": 17,
+   "romaji": "naoshite",
+   "accent": "[2]",
+   "gloss": "fix-TE",
+   "pos": "godan -su -te",
+   "cardType": "DRILL",
+   "audioText": "naosu, naoshite",
+   "teForm": "naoshite"
+  },
+  {
+   "n": 18,
+   "romaji": "kaeshite",
+   "accent": "[1]",
+   "gloss": "give-back-TE",
+   "pos": "godan -su -te",
+   "cardType": "DRILL",
+   "audioText": "kaesu, kaeshite",
+   "teForm": "kaeshite",
+   "note": "Keep at least 6 indices from kaette (n59): kaeshite and kaette are a transitivity pair AND a near-collision."
+  },
+  {
+   "n": 19,
+   "romaji": "R2: -ku > -ite",
+   "accent": "[1]",
+   "gloss": "CHANT ROW 2. One-to-one. The consonant drops to a fully voiced vowel.",
+   "pos": "chant row",
+   "cardType": "DRILL",
+   "audioText": "kaku, kaite. kiku, kiite. aruku, aruite. hataraku, hataraite.",
+   "teForm": "kaite",
+   "note": "Every mora carries acoustic energy - the easiest change row to hear. iku is EXCLUDED from this induction set and is not shown until day 4."
+  },
+  {
+   "n": 20,
+   "romaji": "kaite",
+   "accent": "[1]",
+   "gloss": "write-TE",
+   "pos": "godan -ku -te",
+   "cardType": "DRILL",
+   "audioText": "kaku, kaite",
+   "teForm": "kaite"
+  },
+  {
+   "n": 21,
+   "romaji": "kiite",
+   "accent": "[0]",
+   "gloss": "listen/ask-TE",
+   "pos": "godan -ku -te",
+   "cardType": "DRILL",
+   "audioText": "kiku, kiite",
+   "teForm": "kiite",
+   "note": "THREE morae, ki-i-te. Collides with kite [1] and kitte [1]/[0]. Vowel length is the cue; the whole triple is framed on day 13."
+  },
+  {
+   "n": 22,
+   "romaji": "aruite",
+   "accent": "[2]",
+   "gloss": "walk-TE",
+   "pos": "godan -ku -te",
+   "cardType": "DRILL",
+   "audioText": "aruku, aruite",
+   "teForm": "aruite"
+  },
+  {
+   "n": 23,
+   "romaji": "hataraite",
+   "accent": "[0]",
+   "gloss": "work-TE",
+   "pos": "godan -ku -te",
+   "cardType": "DRILL",
+   "audioText": "hataraku, hataraite",
+   "teForm": "hataraite"
+  },
+  {
+   "n": 24,
+   "romaji": "tsuite",
+   "accent": "[1]",
+   "gloss": "arrive-TE",
+   "pos": "godan -ku -te",
+   "cardType": "DRILL",
+   "audioText": "tsuku, tsuite",
+   "teForm": "tsuite"
+  },
+  {
+   "n": 25,
+   "romaji": "oite",
+   "accent": "[0]",
+   "gloss": "put/leave-TE",
+   "pos": "godan -ku -te",
+   "cardType": "DRILL",
+   "audioText": "oku, oite",
+   "teForm": "oite",
+   "note": "Silent parent of -toku in wk 11. Do not mention the contraction yet."
+  },
+  {
+   "n": 26,
+   "romaji": "-ta: te > ta, de > da",
+   "accent": "[2]",
+   "gloss": "PLAIN PAST. Identical slot, final vowel e > a. Costs nothing.",
+   "pos": "derivation rule",
+   "cardType": "CHUNK",
+   "audioText": "tabete, tabeta. kaite, kaita. hanashite, hanashita.",
+   "note": "SHIPS IN THE SAME SESSION AS THE CHANT, every row, no exceptions. Deferring -ta is the largest unforced error available in this part of the course: it is one vowel swap and it buys -ta, -tara, -tari, -tatte, -ta koto ga aru, -ta hoo ga ii, -ta ato de and -ta bakari."
+  },
+  {
+   "n": 27,
+   "romaji": "tabeta / mita / oshieta / dekaketa",
+   "accent": "[2]",
+   "gloss": "R0 past forms",
+   "pos": "ichidan -ta",
+   "cardType": "DRILL",
+   "audioText": "tabeta. mita. oshieta. dekaketa.",
+   "note": "Accent index preserved from the dictionary form, same law as -te."
+  },
+  {
+   "n": 28,
+   "romaji": "hanashita / kashita / dashita",
+   "accent": "[2]",
+   "gloss": "R1 past forms",
+   "pos": "godan -su -ta",
+   "cardType": "DRILL",
+   "audioText": "hanashita. kashita. dashita."
+  },
+  {
+   "n": 29,
+   "romaji": "kaita / kiita / aruita",
+   "accent": "[1]",
+   "gloss": "R2 past forms",
+   "pos": "godan -ku -ta",
+   "cardType": "DRILL",
+   "audioText": "kaita. kiita. aruita.",
+   "note": "kiita is four morae, ki-i-ta. Contrast with kita [1] from kuru on day 13."
+  },
+  {
+   "n": 30,
+   "romaji": "-te (junctive: SEQUENCE)",
+   "accent": "[0]",
+   "gloss": "'and then' - clause 1 in -te, clause 2 finite",
+   "pos": "construction, slot 1, F10 x Q10 = 100",
+   "cardType": "CHUNK",
+   "audioText": "asa okite, gohan o tabeta.",
+   "note": "Highest-scoring node in the whole tree. Tense is carried by the FINAL clause only - the -te clause is tenseless. That is the hardest idea here for an English speaker and it is worth a card of its own."
+  },
+  {
+   "n": 31,
+   "romaji": "R3: -gu > -ide",
+   "accent": "[2]",
+   "gloss": "CHANT ROW 3. One-to-one, voiced twin of R2.",
+   "pos": "chant row",
+   "cardType": "DRILL",
+   "audioText": "oyogu, oyoide. isogu, isoide. nugu, nuide. sawagu, sawaide.",
+   "teForm": "oyoide",
+   "note": "Drilled ADJACENT to R2 so ku/gu is learned as one contrast, not two rules. Only about five common members exist - say so, so the learner does not go hunting."
+  },
+  {
+   "n": 32,
+   "romaji": "oyoide",
+   "accent": "[2]",
+   "gloss": "swim-TE",
+   "pos": "godan -gu -te",
+   "cardType": "DRILL",
+   "audioText": "oyogu, oyoide",
+   "teForm": "oyoide"
+  },
+  {
+   "n": 33,
+   "romaji": "isoide",
+   "accent": "[2]",
+   "gloss": "hurry-TE",
+   "pos": "godan -gu -te",
+   "cardType": "DRILL",
+   "audioText": "isogu, isoide",
+   "teForm": "isoide",
+   "note": "Doubles as the frozen adverb 'quickly, in a hurry'. That is the manner-junctive card on day 2."
+  },
+  {
+   "n": 34,
+   "romaji": "nuide",
+   "accent": "[1]",
+   "gloss": "take-off (clothes)-TE",
+   "pos": "godan -gu -te",
+   "cardType": "DRILL",
+   "audioText": "nugu, nuide",
+   "teForm": "nuide",
+   "note": "accent approximate"
+  },
+  {
+   "n": 35,
+   "romaji": "sawaide",
+   "accent": "[2]",
+   "gloss": "make-noise-TE",
+   "pos": "godan -gu -te",
+   "cardType": "DRILL",
+   "audioText": "sawagu, sawaide",
+   "teForm": "sawaide"
+  },
+  {
+   "n": 36,
+   "romaji": "oyoida / isoida / nuida",
+   "accent": "[2]",
+   "gloss": "R3 past forms",
+   "pos": "godan -gu -ta",
+   "cardType": "DRILL",
+   "audioText": "oyoida. isoida. nuida.",
+   "note": "VOICED past, -ida not *-ita. First appearance of the de > da half of the -ta rule."
+  },
+  {
+   "n": 37,
+   "romaji": "-te (junctive: MANNER)",
+   "accent": "[2]",
+   "gloss": "'by -ing', 'in an X way' - the -te clause says HOW",
+   "pos": "construction, sense 2 of slot 1",
+   "cardType": "CHUNK",
+   "audioText": "isoide tegami o kaita.",
+   "note": "Same form, second reading, taught the day after sequence so -te does not fossilise as 'and then' only. Prosody is the cue: manner -te binds tight with no pause, sequence -te takes a pause."
+  },
+  {
+   "n": 38,
+   "romaji": "R4: -mu / -bu > -nde",
+   "accent": "[1]",
+   "gloss": "CHANT ROW 4. FIRST MANY-TO-ONE. Cue is an AUDIBLE SEGMENT.",
+   "pos": "chant row",
+   "cardType": "DRILL",
+   "audioText": "nomu, nonde. yomu, yonde. yobu, yonde. asobu, asonde.",
+   "teForm": "nonde",
+   "note": "Drilled as TWO codas, -mu and -bu, with shinde attached separately as a lexical item. shinu is the only -nu verb; one member cannot support induction and presenting it as a class invites a hunt for verbs that do not exist. The cue is a moraic nasal plus voicing on the /d/ - both have sound in them. NEVER in the same session as R5."
+  },
+  {
+   "n": 39,
+   "romaji": "nonde",
+   "accent": "[1]",
+   "gloss": "drink-TE",
+   "pos": "godan -mu -te",
+   "cardType": "DRILL",
+   "audioText": "nomu, nonde",
+   "teForm": "nonde"
+  },
+  {
+   "n": 40,
+   "romaji": "yonde",
+   "accent": "[1]",
+   "gloss": "read-TE",
+   "pos": "godan -mu -te",
+   "cardType": "DRILL",
+   "audioText": "yomu, yonde",
+   "teForm": "yonde",
+   "note": "MINIMAL PAIR with n43 yonde from yobu [0]. Pitch separates them, but only if the audio runs at least 4 morae past the verb so the contour is recoverable."
+  },
+  {
+   "n": 41,
+   "romaji": "yasunde",
+   "accent": "[2]",
+   "gloss": "rest-TE",
+   "pos": "godan -mu -te",
+   "cardType": "DRILL",
+   "audioText": "yasumu, yasunde",
+   "teForm": "yasunde"
+  },
+  {
+   "n": 42,
+   "romaji": "sunde",
+   "accent": "[1]",
+   "gloss": "live-TE",
+   "pos": "godan -mu -te",
+   "cardType": "DRILL",
+   "audioText": "sumu, sunde",
+   "teForm": "sunde",
+   "note": "ALWAYS framed with an obligatory locative: ie ni sunde. Pitch does NOT reliably separate it from sunde 'finish', which stays deferred at least 6 weeks."
+  },
+  {
+   "n": 43,
+   "romaji": "yonde",
+   "accent": "[0]",
+   "gloss": "call-TE",
+   "pos": "godan -bu -te",
+   "cardType": "DRILL",
+   "audioText": "yobu, yonde",
+   "teForm": "yonde",
+   "note": "The other yonde, heiban. Carded three indices after the [1] member and always with an animate object, so semantics backs up the pitch."
+  },
+  {
+   "n": 44,
+   "romaji": "asonde",
+   "accent": "[0]",
+   "gloss": "play-TE",
+   "pos": "godan -bu -te",
+   "cardType": "DRILL",
+   "audioText": "asobu, asonde",
+   "teForm": "asonde"
+  },
+  {
+   "n": 45,
+   "romaji": "tonde",
+   "accent": "[0]",
+   "gloss": "fly-TE",
+   "pos": "godan -bu -te",
+   "cardType": "DRILL",
+   "audioText": "tobu, tonde",
+   "teForm": "tonde"
+  },
+  {
+   "n": 46,
+   "romaji": "erande",
+   "accent": "[2]",
+   "gloss": "choose-TE",
+   "pos": "godan -bu -te",
+   "cardType": "DRILL",
+   "audioText": "erabu, erande",
+   "teForm": "erande"
+  },
+  {
+   "n": 47,
+   "romaji": "shinde",
+   "accent": "[0]",
+   "gloss": "die-TE",
+   "pos": "LEXICAL ATTACHMENT to R4, not a class",
+   "cardType": "DRILL",
+   "audioText": "shinu, shinde",
+   "teForm": "shinde",
+   "note": "The ONLY -nu verb in the language. Taught as one word, never as a row."
+  },
+  {
+   "n": 48,
+   "romaji": "nonda / yonda / asonda / shinda",
+   "accent": "[1]",
+   "gloss": "R4 past forms",
+   "pos": "godan -nde -ta",
+   "cardType": "DRILL",
+   "audioText": "nonda. yonda. asonda. shinda.",
+   "note": "de > da. Voiced throughout."
+  },
+  {
+   "n": 49,
+   "romaji": "R5: -u / -tsu / -ru > -tte",
+   "accent": "[0]",
+   "gloss": "CHANT ROW 5. MANY-TO-ONE and the cue is A BEAT OF SILENCE.",
+   "pos": "chant row",
+   "cardType": "DRILL",
+   "audioText": "kau, katte. matsu, matte. toru, totte. tsukau, tsukatte.",
+   "teForm": "katte",
+   "note": "LAST of the rule rows. Three codas collapse to one output AND the only acoustic evidence is a mora with no energy in it - the hardest thing an audio-only ear does. Gets the longest session in the block. iku is not in this induction set either; it is appended afterwards as a defector."
+  },
+  {
+   "n": 50,
+   "romaji": "katte",
+   "accent": "[0]",
+   "gloss": "buy-TE",
+   "pos": "godan -u -te",
+   "cardType": "DRILL",
+   "audioText": "kau, katte",
+   "teForm": "katte",
+   "note": "Heiban. Anchors R5 and anchors the H4 collision set."
+  },
+  {
+   "n": 51,
+   "romaji": "atte",
+   "accent": "[1]",
+   "gloss": "meet-TE",
+   "pos": "godan -u -te",
+   "cardType": "DRILL",
+   "audioText": "au, atte",
+   "teForm": "atte",
+   "note": "CORRECTION APPLIED: au is [1], NOT [0]. Its -te form atte is therefore HL and ACCENT-IDENTICAL to atte from aru [1]. The earlier pass's pitch-separation claim for this pair is FALSE and is withdrawn here. Separate them by argument structure instead: tomodachi ni atte (dative animate) vs kagi ga atte (nominative inanimate)."
+  },
+  {
+   "n": 52,
+   "romaji": "tsukatte",
+   "accent": "[0]",
+   "gloss": "use-TE",
+   "pos": "godan -u -te",
+   "cardType": "DRILL",
+   "audioText": "tsukau, tsukatte",
+   "teForm": "tsukatte"
+  },
+  {
+   "n": 53,
+   "romaji": "waratte",
+   "accent": "[0]",
+   "gloss": "laugh-TE",
+   "pos": "godan -u -te",
+   "cardType": "DRILL",
+   "audioText": "warau, waratte",
+   "teForm": "waratte"
+  },
+  {
+   "n": 54,
+   "romaji": "naratte",
+   "accent": "[2]",
+   "gloss": "learn-TE",
+   "pos": "godan -u -te",
+   "cardType": "DRILL",
+   "audioText": "narau, naratte",
+   "teForm": "naratte"
+  },
+  {
+   "n": 55,
+   "romaji": "matte",
+   "accent": "[1]",
+   "gloss": "wait-TE",
+   "pos": "godan -tsu -te",
+   "cardType": "DRILL",
+   "audioText": "matsu, matte",
+   "teForm": "matte",
+   "note": "Becomes the single most-used token of week 9 - chotto matte."
+  },
+  {
+   "n": 56,
+   "romaji": "motte",
+   "accent": "[1]",
+   "gloss": "hold/carry-TE",
+   "pos": "godan -tsu -te",
+   "cardType": "DRILL",
+   "audioText": "motsu, motte",
+   "teForm": "motte"
+  },
+  {
+   "n": 57,
+   "romaji": "tatte",
+   "accent": "[1]",
+   "gloss": "stand-TE",
+   "pos": "godan -tsu -te",
+   "cardType": "DRILL",
+   "audioText": "tatsu, tatte",
+   "teForm": "tatte"
+  },
+  {
+   "n": 58,
+   "romaji": "totte",
+   "accent": "[1]",
+   "gloss": "take-TE",
+   "pos": "godan -ru -te",
+   "cardType": "DRILL",
+   "audioText": "toru, totte",
+   "teForm": "totte",
+   "note": "Frame obligatorily: te de totte. Pitch does NOT separate it from tootte (tooru) - vowel length is the only cue, and tooru stays deferred at least 6 weeks."
+  },
+  {
+   "n": 59,
+   "romaji": "kaette",
+   "accent": "[1]",
+   "gloss": "return-home-TE",
+   "pos": "godan -ru -te",
+   "cardType": "DRILL",
+   "audioText": "kaeru, kaette",
+   "teForm": "kaette",
+   "note": "SELL THIS TO THE LEARNER: kaette vs kaete is the only AUDIBLE godan/ichidan test that exists for -ru verbs. The chant is a class diagnostic. The ichidan partner kaete is withheld until day 13."
+  },
+  {
+   "n": 60,
+   "romaji": "haitte",
+   "accent": "[1]",
+   "gloss": "enter-TE",
+   "pos": "godan -ru -te (looks ichidan, is godan)",
+   "cardType": "DRILL",
+   "audioText": "hairu, haitte",
+   "teForm": "haitte",
+   "note": "The -eru/-iru trap set. The geminate proves the class."
+  },
+  {
+   "n": 61,
+   "romaji": "hashitte",
+   "accent": "[2]",
+   "gloss": "run-TE",
+   "pos": "godan -ru -te (trap set)",
+   "cardType": "DRILL",
+   "audioText": "hashiru, hashitte",
+   "teForm": "hashitte"
+  },
+  {
+   "n": 62,
+   "romaji": "shitte",
+   "accent": "[0]",
+   "gloss": "know-TE",
+   "pos": "godan -ru -te (trap set)",
+   "cardType": "DRILL",
+   "audioText": "shiru, shitte",
+   "teForm": "shitte",
+   "note": "DELIBERATE DEVIATION from the earlier pass, which deferred shiru to wk 13. shitteru is required by the -teru resultant-state session on day 5 and that session is unbuildable without it. Mitigation: shite and shitte are introduced in the SAME session as an explicitly contrasted pair with an obligatory 4+ mora tail, so gemination is trained rather than dodged, and the H3 perception drill already ran in wks 1-2."
+  },
+  {
+   "n": 63,
+   "romaji": "tsukutte",
+   "accent": "[2]",
+   "gloss": "make-TE",
+   "pos": "godan -ru -te",
+   "cardType": "DRILL",
+   "audioText": "tsukuru, tsukutte",
+   "teForm": "tsukutte"
+  },
+  {
+   "n": 64,
+   "romaji": "wakatte",
+   "accent": "[2]",
+   "gloss": "understand-TE",
+   "pos": "godan -ru -te",
+   "cardType": "DRILL",
+   "audioText": "wakaru, wakatte",
+   "teForm": "wakatte",
+   "note": "Feeds wakatte kita on day 11, the model inchoative."
+  },
+  {
+   "n": 65,
+   "romaji": "atte",
+   "accent": "[1]",
+   "gloss": "exist-TE (inanimate)",
+   "pos": "godan -ru -te",
+   "cardType": "DRILL",
+   "audioText": "aru, atte",
+   "teForm": "atte",
+   "note": "ACCENT-IDENTICAL to atte from au [1]. Separated by argument frame only: kagi ga atte."
+  },
+  {
+   "n": 66,
+   "romaji": "yatte",
+   "accent": "[0]",
+   "gloss": "do-TE (casual)",
+   "pos": "godan -ru -te",
+   "cardType": "DRILL",
+   "audioText": "yaru, yatte",
+   "teForm": "yatte"
+  },
+  {
+   "n": 67,
+   "romaji": "moratte",
+   "accent": "[0]",
+   "gloss": "receive-TE",
+   "pos": "godan -u -te",
+   "cardType": "DRILL",
+   "audioText": "morau, moratte",
+   "teForm": "moratte",
+   "note": "Pre-loads day 10."
+  },
+  {
+   "n": 68,
+   "romaji": "omotte",
+   "accent": "[2]",
+   "gloss": "think-TE",
+   "pos": "godan -u -te",
+   "cardType": "DRILL",
+   "audioText": "omou, omotte",
+   "teForm": "omotte"
+  },
+  {
+   "n": 69,
+   "romaji": "tetsudatte",
+   "accent": "[3]",
+   "gloss": "help-TE",
+   "pos": "godan -u -te (NEW LEXEME tetsudau [3])",
+   "cardType": "PROD",
+   "audioText": "tetsudau, tetsudatte",
+   "teForm": "tetsudatte",
+   "note": "New lexeme, budgeted. The canonical object of -te kureru and -te morau."
+  },
+  {
+   "n": 70,
+   "romaji": "suwatte",
+   "accent": "[0]",
+   "gloss": "sit-TE",
+   "pos": "godan -ru -te (NEW LEXEME suwaru [0])",
+   "cardType": "PROD",
+   "audioText": "suwaru, suwatte",
+   "teForm": "suwatte",
+   "note": "New lexeme, budgeted. Needed for suwatte ii? on day 12."
+  },
+  {
+   "n": 71,
+   "romaji": "yutte",
+   "accent": "[0]",
+   "gloss": "say-TE",
+   "pos": "godan -u -te; CITATION FORM yuu [0]",
+   "cardType": "PROD",
+   "audioText": "yuu, yutte",
+   "teForm": "yutte",
+   "note": "THE SINGLE MOST-CITED OMISSION FROM THE EARLIER PASS, fixed here. iu is PRONOUNCED yuu; card it as yuu, past yutta, -teru yutteta. Not stylistic - it DISSOLVES the itte collision, because yutta vs itta is genuinely audible and the past is where most of this verb's tokens live. It also removes the near-collision between the citation forms iu and iku. itte 'say' stays passive recognition only and is never produced."
+  },
+  {
+   "n": 72,
+   "romaji": "tte",
+   "accent": "[0]",
+   "gloss": "quotative particle, casual",
+   "pos": "particle",
+   "cardType": "CHUNK",
+   "audioText": "'ashita kuru' tte yutta.",
+   "note": "Carded here because tte yutteta is a top-20 conversational chunk and is unbuildable without yuu."
+  },
+  {
+   "n": 73,
+   "romaji": "R6: IRREGULARS - two words, not a row",
+   "accent": "[0]",
+   "gloss": "suru > shite, kuru > kite. Memorised, not induced.",
+   "pos": "chant row (lexical)",
+   "cardType": "CHUNK",
+   "audioText": "suru, shite. kuru, kite.",
+   "note": "Placed after every rule row has closed, precisely so the learner cannot mistake them for a row and induce a pattern that does not exist. Label them out loud as exceptions."
+  },
+  {
+   "n": 74,
+   "romaji": "shite",
+   "accent": "[0]",
+   "gloss": "do-TE",
+   "pos": "irregular -te",
+   "cardType": "DRILL",
+   "audioText": "suru, shite",
+   "teForm": "shite",
+   "note": "Contrast pair with shitte (n62) IN THIS SESSION. The pair that actually costs points is shiteru vs shitteru on day 5."
+  },
+  {
+   "n": 75,
+   "romaji": "kite",
+   "accent": "[1]",
+   "gloss": "come-TE",
+   "pos": "irregular -te",
+   "cardType": "DRILL",
+   "audioText": "kuru, kite",
+   "teForm": "kite",
+   "note": "Accented [1], H-L. That integer is load-bearing: it is the only thing separating it from kite [0] (kiru 'wear', day 13) once meaning is stripped. VERIFY with a native voice, do not guess."
+  },
+  {
+   "n": 76,
+   "romaji": "iku > ITTE - THE SOLE GODAN EXCEPTION",
+   "accent": "[0]",
+   "gloss": "iku takes -tte, not *iite. One verb, no class.",
+   "pos": "exception (taught alone)",
+   "cardType": "CHUNK",
+   "audioText": "iku, itte. iku, itta.",
+   "note": "Deliberately KEPT OUT of the R2 induction set and shown three days after R2 closed, so -ku > -ite is stable before its defector appears. Framed as 'iku defects into the -tte row'. If the learner ever produces *iite, stop the mix and re-block R2 for one full session."
+  },
+  {
+   "n": 77,
+   "romaji": "katta / matta / totta / itta / shita / kita",
+   "accent": "[0]",
+   "gloss": "R5, R6 and iku past forms",
+   "pos": "-ta",
+   "cardType": "DRILL",
+   "audioText": "katta. matta. totta. itta. shita. kita.",
+   "note": "itta [0] from iku and itta [0] from yuu are both heiban and identical. Pitch separates nothing. This is exactly why yutta is the production citation."
+  },
+  {
+   "n": 78,
+   "romaji": "-teru (READING 1: PROGRESSIVE)",
+   "accent": "[2]",
+   "gloss": "DURATIVE verb + -teru = doing it right now",
+   "pos": "construction, slot 2, F9 x Q10 = 90",
+   "cardType": "CHUNK",
+   "audioText": "ima gohan tabeteru.",
+   "note": "CITATION IS -teru, NOT -te iru. -te iru is taught in the same session but labelled the formal expansion, never the primary. The two readings are CO-TAUGHT in one session and keyed on the verb's aktionsart; teaching them sequentially installs a default that is then wrong half the time."
+  },
+  {
+   "n": 79,
+   "romaji": "tabeteru",
+   "accent": "[2]",
+   "gloss": "is eating",
+   "pos": "-teru progressive",
+   "cardType": "PROD",
+   "audioText": "ima gohan tabeteru.",
+   "teForm": "tabete"
+  },
+  {
+   "n": 80,
+   "romaji": "shiteru",
+   "accent": "[0]",
+   "gloss": "is doing",
+   "pos": "-teru progressive",
+   "cardType": "PROD",
+   "audioText": "nani shiteru?",
+   "note": "Carded inside the question frame - that is where most of its tokens are."
+  },
+  {
+   "n": 81,
+   "romaji": "matteru",
+   "accent": "[1]",
+   "gloss": "is waiting",
+   "pos": "-teru progressive",
+   "cardType": "PROD",
+   "audioText": "kooen de matteru.",
+   "teForm": "matte"
+  },
+  {
+   "n": 82,
+   "romaji": "hanashiteru",
+   "accent": "[2]",
+   "gloss": "is talking",
+   "pos": "-teru progressive",
+   "cardType": "PROD",
+   "audioText": "sensee to hanashiteru.",
+   "teForm": "hanashite"
+  },
+  {
+   "n": 83,
+   "romaji": "aruiteru",
+   "accent": "[2]",
+   "gloss": "is walking",
+   "pos": "-teru progressive",
+   "cardType": "PROD",
+   "audioText": "michi o aruiteru.",
+   "teForm": "aruite"
+  },
+  {
+   "n": 84,
+   "romaji": "-teru (READING 2: RESULTANT STATE)",
+   "accent": "[0]",
+   "gloss": "PUNCTUAL or CHANGE-OF-STATE verb + -teru = the state that resulted",
+   "pos": "construction, sense 2 of slot 2",
+   "cardType": "CHUNK",
+   "audioText": "ano hito, shitteru.",
+   "note": "THE KEY IS THE VERB, NOT THE CONTEXT. Give the learner the test out loud: does the verb name something that takes time (tabe-, hanashi-, mat-, aruk-) or something instantaneous that leaves a state behind (shir-, mots-, sum-, ak-, kekkon)? Durative gives progressive, punctual gives state. One rule with one diagnostic, not two homonymous constructions."
+  },
+  {
+   "n": 85,
+   "romaji": "shitteru",
+   "accent": "[0]",
+   "gloss": "knows (state of having come to know)",
+   "pos": "-teru resultant",
+   "cardType": "PROD",
+   "audioText": "ano hito, shitteru.",
+   "teForm": "shitte",
+   "note": "Minimal pair with shiteru [0] - identical pitch, one extra beat of silence. Deliberately co-carded on the same day as its partner so gemination is the trained cue rather than an avoided one."
+  },
+  {
+   "n": 86,
+   "romaji": "motteru",
+   "accent": "[1]",
+   "gloss": "has, is holding",
+   "pos": "-teru resultant",
+   "cardType": "PROD",
+   "audioText": "kagi motteru?",
+   "teForm": "motte"
+  },
+  {
+   "n": 87,
+   "romaji": "sunderu",
+   "accent": "[1]",
+   "gloss": "lives (in)",
+   "pos": "-teru resultant",
+   "cardType": "PROD",
+   "audioText": "kono machi ni sunderu.",
+   "teForm": "sunde",
+   "note": "Obligatory locative in the frame, always."
+  },
+  {
+   "n": 88,
+   "romaji": "aiteru",
+   "accent": "[0]",
+   "gloss": "is open (state)",
+   "pos": "-teru resultant (NEW LEXEME aku [0])",
+   "cardType": "PROD",
+   "audioText": "mado ga aiteru.",
+   "teForm": "aite",
+   "note": "New lexeme, budgeted. The clearest change-of-state exemplar: aku is instantaneous, so -teru can only mean the resulting state."
+  },
+  {
+   "n": 89,
+   "romaji": "kekkon shiteru",
+   "accent": "[0]",
+   "gloss": "is married",
+   "pos": "-teru resultant (NEW LEXEME kekkon [0], kango, framed)",
+   "cardType": "PROD",
+   "audioText": "ane wa kekkon shiteru.",
+   "note": "New lexeme, budgeted, carded ONLY in this 5-mora collocation frame per the kango rule - never bare. Also the sharpest proof of reading 2 for an English speaker, who will otherwise hear 'is getting married'."
+  },
+  {
+   "n": 90,
+   "romaji": "-tenai",
+   "accent": "[2]",
+   "gloss": "is not -ing / has not -ed",
+   "pos": "-teru negative",
+   "cardType": "PROD",
+   "audioText": "mada tabetenai.",
+   "note": "accent approximate. Formal expansion -te inai taught as a label only."
+  },
+  {
+   "n": 91,
+   "romaji": "-teta",
+   "accent": "[2]",
+   "gloss": "was -ing / had been in the state",
+   "pos": "-teru past",
+   "cardType": "PROD",
+   "audioText": "sakki made zasshi o yondeta.",
+   "note": "accent approximate. -te ita is the labelled formal expansion."
+  },
+  {
+   "n": 92,
+   "romaji": "-tenakatta",
+   "accent": "[2]",
+   "gloss": "was not -ing / had not -ed",
+   "pos": "-teru negative past",
+   "cardType": "PROD",
+   "audioText": "dare mo kitenakatta.",
+   "note": "accent approximate."
+  },
+  {
+   "n": 93,
+   "romaji": "-teru no? / -ten no?",
+   "accent": "[0]",
+   "gloss": "explanatory question, 'so you're -ing?'",
+   "pos": "-teru question",
+   "cardType": "PROD",
+   "audioText": "nani shiteru no? nani shiten no?",
+   "note": "BOTH forms on one card. -ten no? is what actually occurs in the stream; -teru no? is the slower variant. The contracted one is the primary."
+  },
+  {
+   "n": 94,
+   "romaji": "shiranai",
+   "accent": "[3]",
+   "gloss": "don't know",
+   "pos": "SUPPLETIVE negative of shitteru",
+   "cardType": "PROD",
+   "audioText": "ano hito no namae, shiranai.",
+   "note": "FLAGGED: shitteru's negative is shiranai, NOT *shittenai and NOT *shitte inai. Card it as a distinct lexical item on the same day as -tenai, or the learner builds it wrong and it fossilises. This is the one place -tenai does not apply."
+  },
+  {
+   "n": 95,
+   "romaji": "-te kudasai",
+   "accent": "[3]",
+   "gloss": "please do X",
+   "pos": "construction, slot 3, F6 x Q8 = 48 (promoted by TB1)",
+   "cardType": "PROD",
+   "audioText": "chotto matte kudasai.",
+   "note": "kudasai is [3]. Promoted above its raw score because a learner who cannot make a request cannot hold a conversation."
+  },
+  {
+   "n": 96,
+   "romaji": "bare -te (request)",
+   "accent": "[1]",
+   "gloss": "do X (casual request / imperative)",
+   "pos": "construction, same slot as 95",
+   "cardType": "PROD",
+   "audioText": "chotto matte.",
+   "note": "Carded WITH -te kudasai, not after it. In the target register the bare form is by far the more frequent, so it is the unmarked member and the polite one is marked."
+  },
+  {
+   "n": 97,
+   "romaji": "-naide kudasai",
+   "accent": "[3]",
+   "gloss": "please DON'T do X",
+   "pos": "the -nai-stem TWIN of 95",
+   "cardType": "PROD",
+   "audioText": "mada tabenaide kudasai.",
+   "note": "REACHES ACROSS STEMS DELIBERATELY. The negative request takes the -nai stem from wk 8, not -te. If it is not carded in the same session as -te kudasai the learner produces *-te nai kudasai. Two cards, and it closes the request paradigm."
+  },
+  {
+   "n": 98,
+   "romaji": "-te kureru",
+   "accent": "[0]",
+   "gloss": "does it FOR ME (inward benefactive)",
+   "pos": "construction, slot 4, F7 x Q7 = 49",
+   "cardType": "PROD",
+   "audioText": "tetsudatte kureru?",
+   "note": "kureru [0]. Direction is inward and fixed: the subject is someone else, the beneficiary is me. State it as a rule, do not leave it to examples."
+  },
+  {
+   "n": 99,
+   "romaji": "-te kureta",
+   "accent": "[0]",
+   "gloss": "did it for me",
+   "pos": "-te kureru past",
+   "cardType": "RECOG",
+   "audioText": "sensee ga oshiete kureta.",
+   "note": "ga marks the doer. Hold this against the morau frame on day 10."
+  },
+  {
+   "n": 100,
+   "romaji": "-te kurenai?",
+   "accent": "[0]",
+   "gloss": "won't you do X for me? (softened request)",
+   "pos": "2nd-order off slot 4, F3 x Q6 = 18",
+   "cardType": "PROD",
+   "audioText": "chotto matte kurenai?",
+   "note": "Explain that the negative here is politeness, not negation, or it is heard as a complaint."
+  },
+  {
+   "n": 101,
+   "romaji": "-te kuremasen ka",
+   "accent": "[0]",
+   "gloss": "would you do X for me? (polite)",
+   "pos": "2nd-order off slot 4",
+   "cardType": "RECOG",
+   "audioText": "kasa, kashite kuremasen ka."
+  },
+  {
+   "n": 102,
+   "romaji": "-te > -chau, -de > -jau (THE ALLOMORPH RULE)",
+   "accent": "[3]",
+   "gloss": "the completive / regret contraction, BOTH members",
+   "pos": "derivation rule",
+   "cardType": "CHUNK",
+   "audioText": "tabete, tabechau. yonde, yonjau. katte, katchau. nonde, nonjau.",
+   "note": "THE VOICED MEMBER WAS MISSING FROM AN EARLIER PASS - a fatal defect, fixed here. The rule is stated ONCE and generally: a -te ending gives -chau, a -de ending gives -jau. Say out loud that the same voiced/voiceless split governs -toku/-doku, -tara/-dara and -cha/-ja dame in weeks 11-12, so the learner pays for the alternation once and collects three times."
+  },
+  {
+   "n": 103,
+   "romaji": "-chau",
+   "accent": "[3]",
+   "gloss": "do it completely / end up doing it",
+   "pos": "construction, slot 5, F5 x Q8 = 40",
+   "cardType": "PROD",
+   "audioText": "kore, tabechau.",
+   "note": "Accent falls on the cha mora. Citation is -chau, not -te shimau; the long form is a labelled formal expansion only."
+  },
+  {
+   "n": 104,
+   "romaji": "-chatta",
+   "accent": "[3]",
+   "gloss": "went and did it (regret / completion, past)",
+   "pos": "-chau past",
+   "cardType": "PROD",
+   "audioText": "kagi wasurechatta.",
+   "note": "Higher frequency than the non-past. Lead the session with this one - wasurechatta alone earns the card."
+  },
+  {
+   "n": 105,
+   "romaji": "-jau",
+   "accent": "[3]",
+   "gloss": "VOICED allomorph of -chau",
+   "pos": "construction, allomorph",
+   "cardType": "PROD",
+   "audioText": "sono zasshi, kyoo yonjau.",
+   "note": "Never card -chau without -jau in the same session. Zero *yonchau tolerated in drill."
+  },
+  {
+   "n": 106,
+   "romaji": "-jatta",
+   "accent": "[3]",
+   "gloss": "VOICED allomorph of -chatta",
+   "pos": "-jau past",
+   "cardType": "PROD",
+   "audioText": "koohii nonjatta.",
+   "teForm": "nonde"
+  },
+  {
+   "n": 107,
+   "romaji": "shinjau / shinjatta",
+   "accent": "[3]",
+   "gloss": "dies on one / died",
+   "pos": "-jau, lexical",
+   "cardType": "RECOG",
+   "audioText": "mushi ga shinjatta.",
+   "note": "Proves the split is conditioned by the -de ending, not by verb class."
+  },
+  {
+   "n": 108,
+   "romaji": "-te morau",
+   "accent": "[0]",
+   "gloss": "get someone to do X for me (receive a favour)",
+   "pos": "construction, slot 6, F7 x Q6 = 42",
+   "cardType": "PROD",
+   "audioText": "ani ni tetsudatte morau.",
+   "note": "morau [0]. THE SUBJECT IS ME. That is the whole difference from -te kureru and it must be drilled as a swap, not learned as two separate facts."
+  },
+  {
+   "n": 109,
+   "romaji": "-te moratta",
+   "accent": "[0]",
+   "gloss": "got someone to do X for me",
+   "pos": "-te morau past",
+   "cardType": "PROD",
+   "audioText": "sensee ni oshiete moratta."
+  },
+  {
+   "n": 110,
+   "romaji": "-te moraeru?",
+   "accent": "[0]",
+   "gloss": "could I get you to do X? (casual polite request)",
+   "pos": "2nd-order off slot 6",
+   "cardType": "PROD",
+   "audioText": "chotto mite moraeru?"
+  },
+  {
+   "n": 111,
+   "romaji": "kureru / morau DIRECTION FRAME",
+   "accent": "[0]",
+   "gloss": "same event, flipped subject: X ga ...-te kureta = X ni ...-te moratta",
+   "pos": "contrast card",
+   "cardType": "CHUNK",
+   "audioText": "tomodachi ga kashite kureta. tomodachi ni kashite moratta.",
+   "note": "Note the particle flip, ga vs ni. English collapses both into one sentence, so this must be a swap drill or the learner picks one and never uses the other."
+  },
+  {
+   "n": 112,
+   "romaji": "-te kuru (DIRECTIONAL)",
+   "accent": "[1]",
+   "gloss": "go do X and come back",
+   "pos": "construction, slot 7, F5 x Q7 = 35",
+   "cardType": "PROD",
+   "audioText": "pan katte kuru.",
+   "note": "kuru [1]. Two unrelated senses, TWO cards, both in this session."
+  },
+  {
+   "n": 113,
+   "romaji": "-te kita (DIRECTIONAL past)",
+   "accent": "[1]",
+   "gloss": "went and did X and came back",
+   "pos": "-te kuru past",
+   "cardType": "PROD",
+   "audioText": "gomi dashite kita."
+  },
+  {
+   "n": 114,
+   "romaji": "-te kuru (INCHOATIVE)",
+   "accent": "[1]",
+   "gloss": "has started to / is coming to be",
+   "pos": "sense 2 of slot 7",
+   "cardType": "PROD",
+   "audioText": "sukoshi wakatte kita.",
+   "note": "Sense 2 is keyed on the verb again: a motion verb gives the directional reading, a cognition or change verb gives the inchoative. Same aktionsart diagnostic the learner built for -teru - say so explicitly, it is the second payoff for one idea."
+  },
+  {
+   "n": 115,
+   "romaji": "-te kita (INCHOATIVE)",
+   "accent": "[1]",
+   "gloss": "has come to be, has started",
+   "pos": "inchoative past",
+   "cardType": "RECOG",
+   "audioText": "ame ga futte kita."
+  },
+  {
+   "n": 116,
+   "romaji": "futte",
+   "accent": "[1]",
+   "gloss": "fall (of rain or snow)-TE",
+   "pos": "godan -ru -te (NEW LEXEME furu [1])",
+   "cardType": "PROD",
+   "audioText": "furu, futte",
+   "teForm": "futte",
+   "note": "New lexeme, budgeted. ame ga futte kita is the model inchoative token."
+  },
+  {
+   "n": 117,
+   "romaji": "-te kite",
+   "accent": "[1]",
+   "gloss": "go get X / go do X and come back (request)",
+   "pos": "bare -te request stacked on slot 7",
+   "cardType": "PROD",
+   "audioText": "kaban motte kite.",
+   "note": "First stacked construction: two -te forms in one clause. Flag that only the LAST verb carries the request."
+  },
+  {
+   "n": 118,
+   "romaji": "-te mo ii",
+   "accent": "[1]",
+   "gloss": "may I / it's OK to",
+   "pos": "construction, slot 8, F4 x Q7 = 28 (PROMOTED by TB1)",
+   "cardType": "PROD",
+   "audioText": "kore tabete mo ii?",
+   "note": "Promoted above four higher-scoring nodes because a learner who cannot ask permission cannot function. ii is [1]."
+  },
+  {
+   "n": 119,
+   "romaji": "-te ii",
+   "accent": "[1]",
+   "gloss": "reduced form of -te mo ii",
+   "pos": "construction, reduced",
+   "cardType": "PROD",
+   "audioText": "suwatte ii?",
+   "note": "The mo drops in casual speech. This is the form in the stream, so it is carded as an equal, not as a footnote."
+  },
+  {
+   "n": 120,
+   "romaji": "-te mo ii yo",
+   "accent": "[1]",
+   "gloss": "go ahead, you may (granting)",
+   "pos": "construction, granting",
+   "cardType": "RECOG",
+   "audioText": "kono pen tsukatte mo ii yo.",
+   "note": "The learner must be able to RECOGNISE permission being granted, not only request it."
+  },
+  {
+   "n": 121,
+   "romaji": "-nakute mo ii",
+   "accent": "[1]",
+   "gloss": "you don't have to",
+   "pos": "the -nai-stem TWIN of 118",
+   "cardType": "PROD",
+   "audioText": "kyoo wa konakute mo ii.",
+   "note": "Second deliberate cross-stem reach, same reason as -naide kudasai: permission-not-to takes the -nai stem, and if it is not carded beside -te mo ii the learner builds *-te nai mo ii."
+  },
+  {
+   "n": 122,
+   "romaji": "kite",
+   "accent": "[0]",
+   "gloss": "wear-TE (kiru, ichidan)",
+   "pos": "COLLISION card, RECOG only",
+   "cardType": "RECOG",
+   "audioText": "shatsu kite.",
+   "note": "H1. HEIBAN [0], L-H, against kite [1] H-L from kuru. The accent integer is the ONLY phonological cue and must be verified with a native voice, not guessed. Non-phonological cue supplied by the frame: a garment noun licenses only the wear reading. RECOG only in this block; production opens wk 12 per the separation rule."
+  },
+  {
+   "n": 123,
+   "romaji": "kitte",
+   "accent": "[1]",
+   "gloss": "cut-TE (kiru, godan)",
+   "pos": "COLLISION card, RECOG only",
+   "cardType": "RECOG",
+   "audioText": "kami o kitte.",
+   "note": "H1. Geminate, accented [1]. Frame cue: a cuttable o-marked object. RECOG only; production opens wk 14."
+  },
+  {
+   "n": 124,
+   "romaji": "kitte ga aru?",
+   "accent": "[0]",
+   "gloss": "'is there a stamp?' - the NOUN kitte [0] in a verb-shaped slot",
+   "pos": "COLLISION card, RECOG only",
+   "cardType": "RECOG",
+   "audioText": "kitte ga aru?",
+   "note": "H1 closes. The full set is kite / kiite / kitte (verb) / kitte (noun) and it is the best perception item in the language: vowel length, gemination and accent in one family. Non-phonological cue: the noun takes ga and cannot be followed by kudasai."
+  },
+  {
+   "n": 125,
+   "romaji": "katte",
+   "accent": "[1]",
+   "gloss": "win-TE (katsu)",
+   "pos": "COLLISION card, RECOG only",
+   "cardType": "RECOG",
+   "audioText": "tomodachi ga katte, minna waratta.",
+   "note": "H4. Accented [1] against katte [0] from kau. Pitch DOES separate these two, but only with at least 4 morae of tail after the verb. Frame cue: an animate ga-subject and no direct object. katte from karu, and katte 'selfish', stay outside the first 1,000 items entirely."
+  },
+  {
+   "n": 126,
+   "romaji": "kaete",
+   "accent": "[0]",
+   "gloss": "change-TE (kaeru, ICHIDAN)",
+   "pos": "COLLISION card, RECOG only",
+   "cardType": "RECOG",
+   "audioText": "shatsu o kaete, dekaketa.",
+   "note": "H5. No geminate and heiban, against kaette [1] with a geminate. The pair that proves the class diagnostic: same citation form kaeru, and only the -te form tells you which verb you heard. Frame cue: an inanimate o-object for 'change', a ni-goal for 'return'."
+  },
+  {
+   "n": 127,
+   "romaji": "X ga itte",
+   "accent": "[0]",
+   "gloss": "need-TE (iru, godan) - WARNING CARD",
+   "pos": "COLLISION card, phrase-only, RECOG",
+   "cardType": "RECOG",
+   "audioText": "okane ga itte.",
+   "note": "H2. The third heiban itte. Pitch separates NOTHING here: itte from iku, itte from iu and itte from iru are all [0]. Carded phrase-only, forever, inside 'X ga itte', and never produced. It exists so the learner has somewhere to file the sound when they hear it."
+  },
+  {
+   "n": 128,
+   "romaji": "tte yutteta",
+   "accent": "[0]",
+   "gloss": "'...' - was saying / said (reported speech)",
+   "pos": "chunk: yuu + tte + -teta",
+   "cardType": "PROD",
+   "audioText": "'ashita kuru' tte yutteta.",
+   "note": "Top-20 conversational chunk, unbuildable without the yuu citation - which is exactly why the earlier pass's omission of yuu was fatal. NOT itte. yutteta."
+  }
+ ],
+ "sentences": [
+  {
+   "n": 1,
+   "romaji": "asa okite, gohan o tabeta.",
+   "gloss": "I got up in the morning and ate.",
+   "newElement": "-te junctive, SEQUENCE (item 30)",
+   "usesPrior": [
+    "asa",
+    "okite",
+    "gohan",
+    "o",
+    "tabeta"
+   ],
+   "cardType": "PROD",
+   "note": "Tense lives in the final clause only. Model card for the highest-fanout node in the tree."
+  },
+  {
+   "n": 2,
+   "romaji": "tomodachi ni namae o oshiete, hanashita.",
+   "gloss": "I told my friend my name and we talked.",
+   "newElement": "oshiete (item 10)",
+   "usesPrior": [
+    "tomodachi",
+    "ni",
+    "namae",
+    "o",
+    "hanashita",
+    "-te junctive"
+   ],
+   "cardType": "RECOG"
+  },
+  {
+   "n": 3,
+   "romaji": "mise ni dekakete, kutsu o mita.",
+   "gloss": "I went out to the shop and looked at shoes.",
+   "newElement": "dekakete (item 11)",
+   "usesPrior": [
+    "mise",
+    "ni",
+    "kutsu",
+    "o",
+    "mita",
+    "-te junctive"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 4,
+   "romaji": "tegami o kaite, dashita.",
+   "gloss": "I wrote a letter and sent it.",
+   "newElement": "kaite (item 20)",
+   "usesPrior": [
+    "tegami",
+    "o",
+    "dashita",
+    "-te junctive"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 5,
+   "romaji": "ongaku o kiite, neta.",
+   "gloss": "I listened to music and went to sleep.",
+   "newElement": "kiite (item 21)",
+   "usesPrior": [
+    "ongaku",
+    "o",
+    "neta",
+    "-te junctive"
+   ],
+   "cardType": "RECOG",
+   "note": "ki-i-te, three morae. Hold the long vowel - the whole day-13 collision set depends on it being audible here."
+  },
+  {
+   "n": 6,
+   "romaji": "isoide tegami o kaita.",
+   "gloss": "I wrote the letter in a hurry.",
+   "newElement": "-te junctive, MANNER (item 37)",
+   "usesPrior": [
+    "isoide",
+    "tegami",
+    "o",
+    "kaita"
+   ],
+   "cardType": "PROD",
+   "note": "No comma pause in the audio: manner -te binds tight to the verb, sequence -te takes a pause. That prosodic difference is the only cue."
+  },
+  {
+   "n": 7,
+   "romaji": "kutsu o nuide, ie ni ita.",
+   "gloss": "I took my shoes off and stayed in the house.",
+   "newElement": "nuide (item 34)",
+   "usesPrior": [
+    "kutsu",
+    "o",
+    "ie",
+    "ni",
+    "ita",
+    "-te junctive"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 8,
+   "romaji": "kinoo umi de oyoida.",
+   "gloss": "I swam in the sea yesterday.",
+   "newElement": "oyoida (item 36)",
+   "usesPrior": [
+    "kinoo",
+    "umi",
+    "de"
+   ],
+   "cardType": "PROD",
+   "note": "-ida, voiced. The first -da past the learner produces."
+  },
+  {
+   "n": 9,
+   "romaji": "biiru o nonde, neta.",
+   "gloss": "I drank a beer and went to bed.",
+   "newElement": "nonde (item 39)",
+   "usesPrior": [
+    "biiru",
+    "o",
+    "neta",
+    "-te junctive"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 10,
+   "romaji": "zasshi o yonde, nete, kesa okita.",
+   "gloss": "I read a magazine, slept, and got up this morning.",
+   "newElement": "yonde from yomu [1] (item 40)",
+   "usesPrior": [
+    "zasshi",
+    "o",
+    "nete",
+    "kesa",
+    "okita",
+    "-te junctive"
+   ],
+   "cardType": "PROD",
+   "note": "First three-link chain, and the accented member of the yonde pair."
+  },
+  {
+   "n": 11,
+   "romaji": "tomodachi o yonde, asonda.",
+   "gloss": "I called my friend over and we hung out.",
+   "newElement": "yonde from yobu [0] (item 43)",
+   "usesPrior": [
+    "tomodachi",
+    "o",
+    "asonda",
+    "-te junctive"
+   ],
+   "cardType": "RECOG",
+   "note": "PITCH MINIMAL PAIR with sentence 10. Heiban here. The animate o-object is the non-phonological backup cue."
+  },
+  {
+   "n": 12,
+   "romaji": "pan o katte, uchi ni kaetta.",
+   "gloss": "I bought bread and went home.",
+   "newElement": "katte from kau [0] (item 50)",
+   "usesPrior": [
+    "pan",
+    "o",
+    "uchi",
+    "ni",
+    "kaetta",
+    "-te junctive"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 13,
+   "romaji": "kooen de matte, tomodachi ni atta.",
+   "gloss": "I waited in the park and met my friend.",
+   "newElement": "matte (item 55)",
+   "usesPrior": [
+    "kooen",
+    "de",
+    "tomodachi",
+    "ni",
+    "atta",
+    "-te junctive"
+   ],
+   "cardType": "PROD",
+   "note": "atta here is au [1]. The dative animate argument is the cue against atta from aru."
+  },
+  {
+   "n": 14,
+   "romaji": "kagi ga atte, yokatta.",
+   "gloss": "The key was there, thank goodness.",
+   "newElement": "atte from aru [1] (item 65)",
+   "usesPrior": [
+    "kagi",
+    "ga",
+    "yokatta",
+    "-te junctive"
+   ],
+   "cardType": "RECOG",
+   "note": "ACCENT-IDENTICAL to atte from au. Separated by argument frame alone: ga plus inanimate. Never drill the two adjacently."
+  },
+  {
+   "n": 15,
+   "romaji": "sooji shite, yasunda.",
+   "gloss": "I cleaned up and rested.",
+   "newElement": "shite from suru, R6 (item 74)",
+   "usesPrior": [
+    "sooji",
+    "yasunda",
+    "-te junctive"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 16,
+   "romaji": "tomodachi ga kite, asonda.",
+   "gloss": "My friend came over and we hung out.",
+   "newElement": "kite from kuru, R6 (item 75)",
+   "usesPrior": [
+    "tomodachi",
+    "ga",
+    "asonda",
+    "-te junctive"
+   ],
+   "cardType": "RECOG",
+   "note": "kite [1], H-L, two morae. Hold this against kiite (three morae) and kitte (geminate) from day 13 onward."
+  },
+  {
+   "n": 17,
+   "romaji": "kaban o motte, gakkoo ni itta.",
+   "gloss": "I took my bag and went to school.",
+   "newElement": "itte / itta from iku, THE EXCEPTION (item 76)",
+   "usesPrior": [
+    "kaban",
+    "o",
+    "motte",
+    "gakkoo",
+    "ni",
+    "-te junctive"
+   ],
+   "cardType": "PROD",
+   "note": "Run this card only after R2 has been clean for two sessions, and never in the same block as kaita or kiita."
+  },
+  {
+   "n": 18,
+   "romaji": "'ashita kuru' tte yutta.",
+   "gloss": "He said he's coming tomorrow.",
+   "newElement": "yutte / yutta from yuu (items 71, 72)",
+   "usesPrior": [
+    "ashita",
+    "kuru"
+   ],
+   "cardType": "PROD",
+   "note": "yutta, NOT itta. The whole reason this verb is cited as yuu."
+  },
+  {
+   "n": 19,
+   "romaji": "ima gohan tabeteru.",
+   "gloss": "I'm eating right now.",
+   "newElement": "-teru PROGRESSIVE (item 78)",
+   "usesPrior": [
+    "ima",
+    "gohan",
+    "tabete"
+   ],
+   "cardType": "PROD",
+   "note": "Durative verb. Card 1 of the co-taught pair."
+  },
+  {
+   "n": 20,
+   "romaji": "nani shiteru?",
+   "gloss": "What are you doing?",
+   "newElement": "shiteru (item 80)",
+   "usesPrior": [
+    "nani",
+    "shite",
+    "-teru progressive"
+   ],
+   "cardType": "RECOG",
+   "note": "No geminate. Directly contrasted with sentence 22 in the same session."
+  },
+  {
+   "n": 21,
+   "romaji": "kooen de matteru.",
+   "gloss": "I'm waiting in the park.",
+   "newElement": "matteru (item 81)",
+   "usesPrior": [
+    "kooen",
+    "de",
+    "matte",
+    "-teru progressive"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 22,
+   "romaji": "ano hito, shitteru.",
+   "gloss": "I know that person.",
+   "newElement": "-teru RESULTANT STATE (items 84, 85)",
+   "usesPrior": [
+    "ano",
+    "hito",
+    "shitte"
+   ],
+   "cardType": "PROD",
+   "note": "Card 2 of the co-taught pair, SAME SESSION as sentence 19. shiru is punctual - the moment of coming to know - so -teru can only name the resulting state. Also the geminate partner of sentence 20."
+  },
+  {
+   "n": 23,
+   "romaji": "kagi motteru?",
+   "gloss": "Have you got the key?",
+   "newElement": "motteru (item 86)",
+   "usesPrior": [
+    "kagi",
+    "motte",
+    "-teru resultant"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 24,
+   "romaji": "kono machi ni sunderu.",
+   "gloss": "I live in this town.",
+   "newElement": "sunderu (item 87)",
+   "usesPrior": [
+    "kono",
+    "machi",
+    "ni",
+    "sunde",
+    "-teru resultant"
+   ],
+   "cardType": "RECOG",
+   "note": "Obligatory locative. Never present sunderu without one."
+  },
+  {
+   "n": 25,
+   "romaji": "mado ga aiteru.",
+   "gloss": "The window is open.",
+   "newElement": "aiteru (item 88)",
+   "usesPrior": [
+    "mado",
+    "ga",
+    "-teru resultant"
+   ],
+   "cardType": "RECOG",
+   "note": "The cleanest change-of-state exemplar. The English error 'is opening' is pre-empted out loud on this card."
+  },
+  {
+   "n": 26,
+   "romaji": "ane wa kekkon shiteru.",
+   "gloss": "My older sister is married.",
+   "newElement": "kekkon shiteru (item 89)",
+   "usesPrior": [
+    "ane",
+    "wa",
+    "shiteru",
+    "-teru resultant"
+   ],
+   "cardType": "PROD",
+   "note": "Kango carded only in this collocation. The English-speaker error 'is getting married' is the whole point of the card."
+  },
+  {
+   "n": 27,
+   "romaji": "mada tabetenai.",
+   "gloss": "I haven't eaten yet.",
+   "newElement": "-tenai (item 90)",
+   "usesPrior": [
+    "mada",
+    "tabete",
+    "-teru"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 28,
+   "romaji": "sakki made zasshi o yondeta.",
+   "gloss": "I was reading a magazine until just now.",
+   "newElement": "-teta (item 91)",
+   "usesPrior": [
+    "sakki",
+    "made",
+    "zasshi",
+    "o",
+    "yonde",
+    "-teru"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 29,
+   "romaji": "dare mo kitenakatta.",
+   "gloss": "Nobody had come.",
+   "newElement": "-tenakatta (item 92)",
+   "usesPrior": [
+    "dare",
+    "mo",
+    "kite",
+    "-teru"
+   ],
+   "cardType": "RECOG"
+  },
+  {
+   "n": 30,
+   "romaji": "nani shiten no?",
+   "gloss": "So what are you doing?",
+   "newElement": "-ten no? (item 93)",
+   "usesPrior": [
+    "nani",
+    "shiteru"
+   ],
+   "cardType": "RECOG",
+   "note": "The contracted form is the primary; -teru no? is the labelled slow variant on the same card."
+  },
+  {
+   "n": 31,
+   "romaji": "ano hito no namae, shiranai.",
+   "gloss": "I don't know that person's name.",
+   "newElement": "shiranai (item 94)",
+   "usesPrior": [
+    "ano",
+    "hito",
+    "no",
+    "namae"
+   ],
+   "cardType": "PROD",
+   "note": "THE FLAG CARD. Not *shittenai. Run it immediately after sentence 27 so the learner meets the exception in the same breath as the rule it breaks."
+  },
+  {
+   "n": 32,
+   "romaji": "chotto matte kudasai.",
+   "gloss": "Please wait a moment.",
+   "newElement": "-te kudasai (item 95)",
+   "usesPrior": [
+    "chotto",
+    "matte"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 33,
+   "romaji": "chotto matte.",
+   "gloss": "Hang on.",
+   "newElement": "bare -te request (item 96)",
+   "usesPrior": [
+    "chotto",
+    "matte"
+   ],
+   "cardType": "PROD",
+   "note": "Same session as 32. In the target register this is the unmarked form and -te kudasai is the marked one - state it that way round."
+  },
+  {
+   "n": 34,
+   "romaji": "namae o oshiete kudasai.",
+   "gloss": "Please tell me your name.",
+   "newElement": "-te kudasai with an o-marked object",
+   "usesPrior": [
+    "namae",
+    "o",
+    "oshiete",
+    "-te kudasai"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 35,
+   "romaji": "mada tabenaide kudasai.",
+   "gloss": "Please don't eat yet.",
+   "newElement": "-naide kudasai (item 97)",
+   "usesPrior": [
+    "mada",
+    "tabenai",
+    "kudasai"
+   ],
+   "cardType": "PROD",
+   "note": "The -nai-stem twin, carded in the same session as 32 to block *-te nai kudasai."
+  },
+  {
+   "n": 36,
+   "romaji": "tetsudatte kureru?",
+   "gloss": "Will you give me a hand?",
+   "newElement": "-te kureru (item 98)",
+   "usesPrior": [
+    "tetsudatte"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 37,
+   "romaji": "sensee ga oshiete kureta.",
+   "gloss": "The teacher taught me.",
+   "newElement": "-te kureta (item 99)",
+   "usesPrior": [
+    "sensee",
+    "ga",
+    "oshiete",
+    "-te kureru"
+   ],
+   "cardType": "RECOG",
+   "note": "ga marks the doer. Hold this against sentence 48."
+  },
+  {
+   "n": 38,
+   "romaji": "chotto matte kurenai?",
+   "gloss": "Could you wait a sec?",
+   "newElement": "-te kurenai? (item 100)",
+   "usesPrior": [
+    "chotto",
+    "matte",
+    "-te kureru"
+   ],
+   "cardType": "PROD",
+   "note": "Say explicitly that the negative here is softening, not negation."
+  },
+  {
+   "n": 39,
+   "romaji": "kasa, kashite kuremasen ka.",
+   "gloss": "Would you lend me an umbrella?",
+   "newElement": "-te kuremasen ka (item 101)",
+   "usesPrior": [
+    "kasa",
+    "kashite",
+    "-te kureru"
+   ],
+   "cardType": "RECOG"
+  },
+  {
+   "n": 40,
+   "romaji": "kagi wasurechatta.",
+   "gloss": "I went and forgot my key.",
+   "newElement": "-chatta (item 104)",
+   "usesPrior": [
+    "kagi",
+    "wasurete"
+   ],
+   "cardType": "PROD",
+   "note": "Lead the -chau session with the past, not the non-past: it is far more frequent and it carries the regret reading that makes the construction memorable."
+  },
+  {
+   "n": 41,
+   "romaji": "kore, tabechau.",
+   "gloss": "I'll finish this off.",
+   "newElement": "-chau (item 103)",
+   "usesPrior": [
+    "kore",
+    "tabete",
+    "-chatta"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 42,
+   "romaji": "koohii nonjatta.",
+   "gloss": "I drank the coffee - all of it.",
+   "newElement": "-jatta, VOICED (item 106)",
+   "usesPrior": [
+    "koohii",
+    "nonde",
+    "-chatta"
+   ],
+   "cardType": "PROD",
+   "note": "SAME SESSION as 40 and 41. A -de ending gives -ja. Omitting this member was the fatal defect of the earlier pass."
+  },
+  {
+   "n": 43,
+   "romaji": "sono zasshi, kyoo yonjau.",
+   "gloss": "I'll finish that magazine today.",
+   "newElement": "-jau, VOICED (item 105)",
+   "usesPrior": [
+    "sono",
+    "zasshi",
+    "kyoo",
+    "yonde",
+    "-chau"
+   ],
+   "cardType": "RECOG"
+  },
+  {
+   "n": 44,
+   "romaji": "mushi ga shinjatta.",
+   "gloss": "The bug died.",
+   "newElement": "shinjatta (item 107)",
+   "usesPrior": [
+    "mushi",
+    "ga",
+    "shinde",
+    "-jatta"
+   ],
+   "cardType": "RECOG",
+   "note": "Proves the split is conditioned by the -de ending, not by verb class."
+  },
+  {
+   "n": 45,
+   "romaji": "sensee ni oshiete moratta.",
+   "gloss": "I got the teacher to teach me.",
+   "newElement": "-te moratta (item 109)",
+   "usesPrior": [
+    "sensee",
+    "ni",
+    "oshiete",
+    "moratte"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 46,
+   "romaji": "ani ni tetsudatte morau.",
+   "gloss": "I'll get my brother to help.",
+   "newElement": "-te morau non-past (item 108)",
+   "usesPrior": [
+    "ani",
+    "ni",
+    "tetsudatte",
+    "-te moratta"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 47,
+   "romaji": "chotto mite moraeru?",
+   "gloss": "Could you take a look at this?",
+   "newElement": "-te moraeru? (item 110)",
+   "usesPrior": [
+    "chotto",
+    "mite",
+    "-te morau"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 48,
+   "romaji": "tomodachi ga kashite kureta. tomodachi ni kashite moratta.",
+   "gloss": "My friend lent it to me. (two sentences, one event)",
+   "newElement": "kureru / morau direction frame (item 111)",
+   "usesPrior": [
+    "tomodachi",
+    "ga",
+    "ni",
+    "kashite",
+    "-te kureta",
+    "-te moratta"
+   ],
+   "cardType": "RECOG",
+   "note": "One card, two sentences, one event. The ga/ni flip is the whole lesson. English collapses them, so this must be drilled as a swap."
+  },
+  {
+   "n": 49,
+   "romaji": "pan katte kuru.",
+   "gloss": "I'll go buy some bread.",
+   "newElement": "-te kuru DIRECTIONAL (item 112)",
+   "usesPrior": [
+    "pan",
+    "katte",
+    "kuru"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 50,
+   "romaji": "gomi dashite kita.",
+   "gloss": "I went and put the rubbish out.",
+   "newElement": "-te kita directional past (item 113)",
+   "usesPrior": [
+    "gomi",
+    "dashite",
+    "-te kuru"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 51,
+   "romaji": "sukoshi wakatte kita.",
+   "gloss": "I'm starting to get it.",
+   "newElement": "-te kuru INCHOATIVE (item 114)",
+   "usesPrior": [
+    "sukoshi",
+    "wakatte",
+    "-te kuru"
+   ],
+   "cardType": "PROD",
+   "note": "Same session as 49. Same aktionsart diagnostic as -teru: motion verb gives direction, cognition or change verb gives inchoative."
+  },
+  {
+   "n": 52,
+   "romaji": "ame ga futte kita.",
+   "gloss": "It's started raining.",
+   "newElement": "futte and -te kita inchoative (items 115, 116)",
+   "usesPrior": [
+    "ame",
+    "ga",
+    "-te kuru inchoative"
+   ],
+   "cardType": "RECOG"
+  },
+  {
+   "n": 53,
+   "romaji": "kore tabete mo ii?",
+   "gloss": "Can I eat this?",
+   "newElement": "-te mo ii (item 118)",
+   "usesPrior": [
+    "kore",
+    "tabete",
+    "ii"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 54,
+   "romaji": "suwatte ii?",
+   "gloss": "Mind if I sit?",
+   "newElement": "-te ii reduced (item 119)",
+   "usesPrior": [
+    "suwatte",
+    "-te mo ii"
+   ],
+   "cardType": "PROD",
+   "note": "Carded as an equal to 53, not a footnote - the mo drops in most real tokens."
+  },
+  {
+   "n": 55,
+   "romaji": "kono pen tsukatte mo ii yo.",
+   "gloss": "You can use this pen.",
+   "newElement": "-te mo ii yo, granting (item 120)",
+   "usesPrior": [
+    "kono",
+    "pen",
+    "tsukatte",
+    "-te mo ii"
+   ],
+   "cardType": "RECOG"
+  },
+  {
+   "n": 56,
+   "romaji": "kyoo wa konakute mo ii.",
+   "gloss": "You don't have to come today.",
+   "newElement": "-nakute mo ii (item 121)",
+   "usesPrior": [
+    "kyoo",
+    "wa",
+    "konai",
+    "-te mo ii"
+   ],
+   "cardType": "PROD",
+   "note": "Second cross-stem twin, same session as 53, blocking *-te nai mo ii."
+  },
+  {
+   "n": 57,
+   "romaji": "koko ni kite. / shatsu kite.",
+   "gloss": "Come here. / Put your shirt on.",
+   "newElement": "kite from kiru 'wear' [0] (item 122)",
+   "usesPrior": [
+    "koko",
+    "ni",
+    "kite (kuru)",
+    "shatsu"
+   ],
+   "cardType": "RECOG",
+   "note": "H1 frame card. kite [1] H-L against kite [0] L-H. Non-phonological cue: a garment noun licenses only the wear reading. RECOG only."
+  },
+  {
+   "n": 58,
+   "romaji": "hanashi kiite. / kami o kitte.",
+   "gloss": "Listen to what I'm saying. / Cut the paper.",
+   "newElement": "kitte from kiru 'cut' [1] (item 123)",
+   "usesPrior": [
+    "hanashi",
+    "kiite",
+    "kami",
+    "o"
+   ],
+   "cardType": "RECOG",
+   "note": "H1 frame card, second half. Three morae with a long vowel against three morae with a silent one. This is the pair the wk 1-2 perception block was built for - cash it in here."
+  },
+  {
+   "n": 59,
+   "romaji": "kitte ga aru?",
+   "gloss": "Have you got a stamp?",
+   "newElement": "kitte the NOUN [0] (item 124)",
+   "usesPrior": [
+    "ga",
+    "aru"
+   ],
+   "cardType": "RECOG",
+   "note": "H1 closes. Cue: ga-marking and the impossibility of kudasai after it. Nothing phonological is asked of the learner beyond the accent."
+  },
+  {
+   "n": 60,
+   "romaji": "tomodachi ga katte, minna waratta.",
+   "gloss": "My friend won and everyone laughed.",
+   "newElement": "katte from katsu [1] (item 125)",
+   "usesPrior": [
+    "tomodachi",
+    "ga",
+    "minna",
+    "waratta",
+    "-te junctive"
+   ],
+   "cardType": "RECOG",
+   "note": "H4. Pitch DOES separate this from katte [0] from kau, given four morae of tail after the verb. Animate ga-subject with no o-object is the backup cue."
+  },
+  {
+   "n": 61,
+   "romaji": "uchi ni kaette, gohan o tsukutta. / shatsu o kaete, dekaketa.",
+   "gloss": "I went home and cooked. / I changed my shirt and went out.",
+   "newElement": "kaete from kaeru 'change', ichidan [0] (item 126)",
+   "usesPrior": [
+    "uchi",
+    "ni",
+    "kaette",
+    "gohan",
+    "o",
+    "tsukutta",
+    "shatsu",
+    "dekaketa"
+   ],
+   "cardType": "RECOG",
+   "note": "H5, the class-diagnostic card. Same citation form, and only the geminate tells you which verb ran. Say the payoff out loud: this is why the chant is worth two weeks."
+  },
+  {
+   "n": 62,
+   "romaji": "gakkoo ni itte, sensee ni atta. / 'ashita kuru' tte yutteta.",
+   "gloss": "I went to school and met the teacher. / He was saying he'd come tomorrow.",
+   "newElement": "tte yutteta (item 128)",
+   "usesPrior": [
+    "gakkoo",
+    "ni",
+    "itte",
+    "sensee",
+    "atta",
+    "ashita",
+    "kuru",
+    "tte",
+    "-teta"
+   ],
+   "cardType": "PROD",
+   "note": "H2 closes. itte and yutteta side by side, both heiban, with the SEGMENTS as the only separator - which is exactly why yuu had to be the citation form."
+  },
+  {
+   "n": 63,
+   "romaji": "kesa okite, gohan tabete, gakkoo ni itte, tomodachi ni atte, sukoshi hanashite, uchi ni kaetta.",
+   "gloss": "I got up this morning, ate, went to school, met a friend, talked a bit, and came home.",
+   "newElement": "five-link -te chain in one breath",
+   "usesPrior": [
+    "kesa",
+    "okite",
+    "gohan",
+    "tabete",
+    "gakkoo",
+    "ni",
+    "itte",
+    "tomodachi",
+    "atte",
+    "sukoshi",
+    "hanashite",
+    "uchi",
+    "kaetta"
+   ],
+   "cardType": "PROD",
+   "note": "The exit sentence for the block. Every link is a different chant row - R0, R0, iku-exception, R5, R1, R5-past - and there is one tense marker, at the end. Target: produced in under 8 s with no restart."
+  },
+  {
+   "n": 64,
+   "romaji": "ima nani shiten no? - zasshi yondeta. demo moo yonjatta.",
+   "gloss": "What are you up to? - I was reading a magazine. But I've finished it now.",
+   "newElement": "mixed-aspect turn: -ten no? plus -teta plus -jatta in one exchange",
+   "usesPrior": [
+    "ima",
+    "nani",
+    "shiten no",
+    "zasshi",
+    "yondeta",
+    "demo",
+    "moo",
+    "yonjatta"
+   ],
+   "cardType": "RECOG",
+   "note": "Exit recognition card. Three of the block's four highest-value nodes in one four-second turn, at conversational speed."
+  }
+ ],
+ "drills": [
+  {
+   "name": "CHANT-7 - the seven-row call and response",
+   "type": "DRILL (production, ungraded, timed)",
+   "spec": "Audio only, no screen, eyes closed or walking. Prompt = dictionary form, single voice. Learner SAYS the -te form aloud; the native -te form plays 500 ms later as the check. Never any English.\n\nTHE CALL SHEET, in committed row order:\nR0  taberu>tabete, miru>mite, okiru>okite, neru>nete, iru>ite, dekiru>dekite, kureru>kurete, ageru>agete, oshieru>oshiete, dekakeru>dekakete, wasureru>wasurete\nR1  hanasu>hanashite, kasu>kashite, dasu>dashite, naosu>naoshite, kaesu>kaeshite\nR2  kaku>kaite, kiku>kiite, aruku>aruite, hataraku>hataraite, tsuku>tsuite, oku>oite\nR3  oyogu>oyoide, isogu>isoide, nugu>nuide, sawagu>sawaide\nR4  nomu>nonde, yomu>yonde, yasumu>yasunde, sumu>sunde, tanomu>tanonde, yobu>yonde, asobu>asonde, tobu>tonde, erabu>erande, [attached] shinu>shinde\nR5  kau>katte, au>atte, tsukau>tsukatte, warau>waratte, narau>naratte, matsu>matte, motsu>motte, tatsu>tatte, toru>totte, kaeru>kaette, hairu>haitte, hashiru>hashitte, shiru>shitte, tsukuru>tsukutte, wakaru>wakatte, aru>atte, yaru>yatte, morau>moratte, omou>omotte, yuu>yutte, tetsudau>tetsudatte, suwaru>suwatte\nR6  suru>shite, kuru>kite\nX   iku>itte  --  RUN SEPARATELY. Never inside an R2 block. Never before day 4.\n\nSCHEDULE: blocked by row for that row's first two sessions, then permanently randomised. R4 and R5 never share a session until R5 has had two clean blocked days.\n\nMETRONOME LADDER, one response per beat: 60 bpm (1000 ms) on the day of introduction, then 72, 84, 96, 108 across the next four sessions. A response inside a 100 bpm beat is a 600 ms window, which comfortably contains a 300 ms onset plus a three-mora form.\n\nDAILY DOSE: three runs of 40 items, spaced across the session (open, middle, close), about 12 min total.",
+   "target": "MEDIAN VOICE-ONSET LATENCY UNDER 300 ms, measured from prompt offset to first glottal energy, with accuracy at or above 90%, over a 40-item RANDOMISED (never blocked) list, on TWO CONSECUTIVE DAYS. Blocked-list latency does not count and must not be reported as a pass. Secondary gate: no single row's median exceeds the overall median by more than 120 ms - a slow row means that row is being retrieved lexically rather than generated, and it goes back to blocked."
+  },
+  {
+   "name": "TA-SWAP",
+   "type": "DRILL (production, timed)",
+   "spec": "Prompt = -te form, response = -ta form. Nothing else changes.\ntabete>tabeta, mite>mita, oshiete>oshieta, hanashite>hanashita, kashite>kashita, kaite>kaita, kiite>kiita, aruite>aruita, oyoide>oyoida, isoide>isoida, nonde>nonda, yonde>yonda, asonde>asonda, shinde>shinda, katte>katta, matte>matta, totte>totta, kaette>kaetta, shite>shita, kite>kita, itte>itta, yutte>yutta.\nRun it in the SAME session as each row's -te introduction, immediately after, never on a later day.",
+   "target": "Median onset under 250 ms. It must be FASTER than CHANT-7, because it is one vowel and no decision. If it is not faster, the learner is re-deriving from the dictionary form instead of operating on the -te form, and the -ta rule has not landed."
+  },
+  {
+   "name": "ROW-MIX LADDER",
+   "type": "DRILL (production, interference schedule)",
+   "spec": "Stage 1, day of introduction: single row, blocked, 40 items.\nStage 2, next session: that row plus the one before it, alternating in pairs.\nStage 3: three rows randomised.\nStage 4, from day 5 onward: all seven rows plus the iku exception, fully randomised, 40 items, every session for the rest of the course.\nHARD CONSTRAINT: R4 and R5 are the only two many-to-one rows and the only two confusable with each other (-Xnde vs -Xtte, both bimoraic endings on a truncated stem). They never enter the same mix until R5 has passed target blocked on two consecutive days.",
+   "target": "Randomised-mix accuracy within 5 points of blocked accuracy on the same rows. A larger gap means the rows are being retrieved by session context rather than by rule, and the ladder drops back one stage."
+  },
+  {
+   "name": "NASAL-VS-SILENCE",
+   "type": "DRILL (perception, RECOG, GATING)",
+   "spec": "Two-alternative forced choice. A form plays; the learner answers 'N' or 'stop'. Stimuli matched for mora count and pitch contour.\nyonde / yotte, nonde / notte, sunde / sutte, tonde / totte, kande / katte, shinde / shitte, asonde / atatte.\nSTIMULI ARE PERCEPTION MATERIAL, NOT VOCABULARY - several are not words the learner owns, and no meanings are attached. This is the wk 1-2 gemination block being cashed in on real morphology.\nRun 30 trials on day 3 and again on day 4, then twice weekly.",
+   "target": "95% over 30 trials with a 700 ms response window. BELOW 90% ON DAY 4, R5 DOES NOT OPEN - re-run the perception block instead. This is the one gate in the block that is allowed to stop the schedule, and it exists because drilling a silent-cue production a learner cannot hear installs a motor program with no feedback loop."
+  },
+  {
+   "name": "ASPECT SORT",
+   "type": "DRILL (categorisation, RECOG)",
+   "spec": "A -teru form plays; the learner answers 'now' or 'state'. No English sentence, no context - the point is that the VERB decides.\nnow: tabeteru, hanashiteru, matteru, aruiteru, yonderu, nonderu, asonderu, hataraiteru\nstate: shitteru, motteru, sunderu, aiteru, kekkon shiteru, tsuiteru, haitteru\nRun it in the SAME session as the -teru introduction, both readings interleaved from the first trial. NEVER run a block of one reading followed by a block of the other - that installs a default, and the default is then wrong half the time.\nFrom day 11 the same drill extends to -te kuru: motion verb gives direction, cognition or change verb gives inchoative.",
+   "target": "95% over 40 interleaved trials, response under 400 ms. Repeat daily until two consecutive passes, then twice weekly."
+  },
+  {
+   "name": "VOICED-ALLOMORPH PAIRS",
+   "type": "DRILL (production, error-gated)",
+   "spec": "Prompt = -te form, response = the -chau/-jau form, with the two allomorphs alternating unpredictably.\ntabete>tabechau, kaite>kaichau, shite>shichau, kite>kichau, katte>katchau, matte>matchau, itte>itchau, hanashite>hanashichau,\nyonde>yonjau, nonde>nonjau, asonde>asonjau, sunde>sunjau, shinde>shinjau, oyoide>oyoijau, isoide>isoijau, nuide>nuijau.\nThen the same list to the past: -chatta / -jatta.\nSTATE THE RULE ONCE, GENERALLY, in this session: a -te ending takes cha, a -de ending takes ja. Name the three later constructions the same alternation governs - -toku/-doku, -tara/-dara, -cha dame/-ja dame - so the learner pays for it once and collects three times in weeks 11-12.",
+   "target": "ZERO voiceless leakage in 40 trials: not one *yonchau, *nonchau, *oyoichau. Accuracy on the voiced half must equal accuracy on the voiceless half. An asymmetry means only one allomorph was ever carded, which is the exact defect this drill exists to prevent."
+  },
+  {
+   "name": "BENEFACTIVE DIRECTION SWAP",
+   "type": "DRILL (production, transformation)",
+   "spec": "Prompt is a kureru sentence; response is the morau sentence for the same event, then back the other way. The particle must flip with it.\ntomodachi ga kashite kureta  <->  tomodachi ni kashite moratta\nsensee ga oshiete kureta  <->  sensee ni oshiete moratta\nani ga tetsudatte kureta  <->  ani ni tetsudatte moratta\nano hito ga mite kureta  <->  ano hito ni mite moratta\nBoth directions in the same set, order shuffled.",
+   "target": "90% over 24 transformations WITH the correct particle. Particle errors count as failures: ga/ni is the only thing carrying the subject flip, and English gives the learner no cue at all."
+  },
+  {
+   "name": "COLLISION FRAMES",
+   "type": "DRILL (perception plus meaning, RECOG)",
+   "spec": "Every stimulus is a 4-8 mora PHRASE, never a bare form, and every frame supplies a non-phonological cue - argument structure, animacy, particle, or a semantically restricted collocate. Learner gives the English meaning.\nH1  koko ni kite (come) | shatsu kite (wear) | hanashi kiite (listen) | kami o kitte (cut) | kitte ga aru? (stamp)\nH2  gakkoo ni itte (go) | namae yutte (say) | okane ga itte (need - recognition only, forever)\nH3  sooji shite (do) | namae shitteru? (know) | nani shiteru? (doing) - shiteru/shitteru is the money pair\nH4  pan katte (buy) | tomodachi ga katte (win)\nH5  uchi ni kaette (return) | shatsu o kaete (change)\nH6  zasshi yonde (read) | tomodachi yonde (call) | tomodachi ni atte (meet) | kagi ga atte (exist) | ie ni sunde (live) | te de totte (take)\nAudio must carry at least four morae AFTER the verb wherever pitch is doing the separating, or the contour is not recoverable.\nWHERE PITCH SEPARATES NOTHING - the three heiban itte forms, atte from au vs atte from aru, sunde 'live' vs sunde 'finish' - the frame is the ONLY cue, and the card says so out loud rather than pretending pitch will save it.",
+   "target": "95% over 50 trials at conversational speed with a 700 ms response window. Any member below 80% drops to phrase-only recognition and its production card is pulled until week 14."
+  },
+  {
+   "name": "IKU ISOLATION",
+   "type": "DRILL (production, contamination check)",
+   "spec": "iku>itte is drilled ONLY against R5 members, never against R2 members, until it is at 100% for three consecutive sessions.\nSafe list: kau>katte, iku>itte, matsu>matte, toru>totte, iku>itte, tsukau>tsukatte.\nContamination probe, run ONCE per session at the very end, five items only: kaku, kiku, iku, aruku, hataraku.\nIF THE LEARNER PRODUCES *iite: stop the mix immediately, re-block R2 alone for one full session, and do not run the probe again for two days.",
+   "target": "Zero *iite and zero *ikite on the probe, three sessions running. Also zero *kaitte and zero *kitte-for-kiku on the same probe - contamination runs both ways, and the reverse error (a regular -ku verb pulled into the -tte row) is the more damaging one because it has 30-plus members to spread to."
+  },
+  {
+   "name": "CHAIN BUILDER",
+   "type": "DRILL (production, fluency, ungraded)",
+   "spec": "The learner hears three to five English beats and produces ONE -te chain with a single tense marker at the end.\n'got up / ate / went out'  >  asa okite, gohan tabete, dekaketa.\n'bought bread / went home / cooked'  >  pan katte, uchi ni kaette, gohan tsukutta.\n'waited / met a friend / talked'  >  matte, tomodachi ni atte, hanashita.\n'read a magazine / slept / got up'  >  zasshi yonde, nete, okita.\n'hurried / wrote a letter / sent it'  >  isoide tegami kaite, dashita.\nBeats are drawn so consecutive links come from DIFFERENT chant rows.\nOne breath, no restart, no mid-chain self-correction - a restart is a failure even if the second attempt is correct.",
+   "target": "A three-link chain in under 5 s and a five-link chain in under 8 s, no restarts, on 8 of 10 attempts. This is the block's fluency exit and the only drill that tests the -te form doing its actual job rather than being conjugated."
+  }
+ ],
+ "lessons": [
+  {
+   "day": "W9 D1",
+   "title": "R0, R1, R2 - the slot, the free row, and the first real change",
+   "introduces": [
+    "R0 ichidan -ru > -te",
+    "R1 -su > -shite",
+    "R2 -ku > -ite",
+    "the -ta rule (te>ta, de>da)",
+    "-te junctive SEQUENCE",
+    "new lexemes: oshieru, dekakeru, wasureru"
+   ],
+   "minutes": "100 (chant teaching 30 / CHANT-7 + TA-SWAP 15 / item cards 25 / sentences 20 / free listening 10)",
+   "sentenceRange": "S1-S5",
+   "drill": "CHANT-7 blocked R0, then R1, then R2; TA-SWAP immediately after each row; ROW-MIX stage 1. RATIONALE FOR THREE ROWS IN ONE SESSION - deliberate and non-negotiable: R0 and R1 both change nothing segmental, and two consecutive zero-change rows maximally invite *kakite and *matite. R2 must land within minutes so that 'something changes' is part of the first impression. R1 is never drilled alone for even one session. -ta ships today, with every row, and with every row hereafter."
+  },
+  {
+   "day": "W9 D2",
+   "title": "R3 and the manner reading",
+   "introduces": [
+    "R3 -gu > -ide",
+    "-ida voiced past",
+    "-te junctive MANNER"
+   ],
+   "minutes": "90 (chant 20 / item cards 15 / sentences 20 / junctive work 20 / listening 15)",
+   "sentenceRange": "S6-S8",
+   "drill": "CHANT-7 blocked R3, then R2+R3 alternating in pairs so ku/gu is learned as ONE contrast; ROW-MIX stages 2-3 across R0-R3. Light day by design - it is the consolidation buffer after a heavy day 1. Say out loud that R3 has about five members in total, so the learner does not go hunting for more. The second junctive reading lands today so -te does not fossilise as 'and then' only; prosody is the cue, manner -te takes no pause."
+  },
+  {
+   "day": "W9 D3",
+   "title": "R4 - the first many-to-one row, and the audible cue",
+   "introduces": [
+    "R4 -mu / -bu > -nde",
+    "shinde as a lexical attachment",
+    "-nda past",
+    "the yonde / yonde pitch pair"
+   ],
+   "minutes": "95 (chant 25 / NASAL-VS-SILENCE 10 / item cards 25 / sentences 20 / listening 15)",
+   "sentenceRange": "S9-S11",
+   "drill": "CHANT-7 blocked R4; NASAL-VS-SILENCE 30 trials; ROW-MIX across R0-R4 EXCLUDING any -tte material. R4 is drilled as TWO codas, -mu and -bu, with shinde attached as a single word: shinu is the only -nu verb, one member cannot support induction, and presenting it as a class invites a hunt for members that do not exist. R5 must not appear anywhere today - R4 and R5 are the only two rows confusable with each other."
+  },
+  {
+   "day": "W9 D4",
+   "title": "R5, R6 and the defector - the chant closes",
+   "introduces": [
+    "R5 -u/-tsu/-ru > -tte",
+    "R6 irregulars suru>shite, kuru>kite",
+    "iku > ITTE taught alone",
+    "yuu > yutte, the citation correction",
+    "tte quotative",
+    "new lexemes: tetsudau, suwaru",
+    "-tta past"
+   ],
+   "minutes": "100 (chant 35 / NASAL-VS-SILENCE 10 / item cards 25 / sentences 20 / IKU ISOLATION 10)",
+   "sentenceRange": "S12-S18",
+   "drill": "CHANT-7 blocked R5 (the long one), then R6 presented explicitly as 'two words, not a row', then IKU ISOLATION against R5 members only with the five-item R2 contamination probe at the very end; first full seven-row assembly at 60 bpm. THE LONGEST SESSION IN THE COURSE. R5 is many-to-one AND its only cue is a beat of silence. iku is shown here, three days after R2 closed, framed as 'iku defects into the -tte row' - never as an R2 irregular. yuu is carded today with yutta/yutte as the citation forms; itte 'say' is recognition-only from here on."
+  },
+  {
+   "day": "W9 D5",
+   "title": "-teru, both readings, one session",
+   "introduces": [
+    "-teru PROGRESSIVE (durative verbs)",
+    "-teru RESULTANT STATE (punctual and change-of-state verbs)",
+    "tabeteru, shiteru, matteru, hanashiteru, aruiteru",
+    "shitteru, motteru, sunderu, aiteru, kekkon shiteru",
+    "new lexemes: aku, kekkon"
+   ],
+   "minutes": "95 (chant randomised 15 / -teru teaching 25 / ASPECT SORT 15 / item cards 20 / sentences 20)",
+   "sentenceRange": "S19-S26",
+   "drill": "CHANT-7 fully randomised, all seven rows plus iku, from today onward and permanently. ASPECT SORT with the two readings interleaved from trial one. THE HUB, F9 x Q10 = 90. Both readings co-taught and keyed on the VERB, never on context and never sequentially - a sequential presentation installs a default that is wrong half the time. Citation is -teru; -te iru is labelled the formal expansion only. shiteru and shitteru are introduced deliberately adjacent, as a trained gemination contrast rather than an avoided one: this is a committed deviation from the earlier pass's wk-13 deferral of shiru, taken because the resultant-state session is unbuildable without shitteru, and paid for with the wk 1-2 perception block."
+  },
+  {
+   "day": "W9 D6",
+   "title": "The -teru family, and the one place it breaks",
+   "introduces": [
+    "-tenai",
+    "-teta",
+    "-tenakatta",
+    "-teru no? / -ten no?",
+    "shiranai as a suppletive"
+   ],
+   "minutes": "90 (chant 15 / family cards 25 / sentences 20 / ASPECT SORT 10 / listening 20)",
+   "sentenceRange": "S27-S31",
+   "drill": "CHANT-7 randomised; ASPECT SORT second pass; NEW - the -teru family substitution run: one verb, four shells (-teru, -tenai, -teta, -tenakatta) against a 72 bpm beat, verb swapped every four beats. shiranai is carded in the same breath as -tenai, deliberately: if the exception is met later than the rule, *shittenai fossilises and is very hard to remove. -ten no? is the primary form; -teru no? is the slow variant on the same card."
+  },
+  {
+   "day": "W9 D7",
+   "title": "Requests - and the negative twin that lives on the other stem",
+   "introduces": [
+    "-te kudasai",
+    "bare -te request",
+    "-naide kudasai"
+   ],
+   "minutes": "90 (chant 15 / request cards 20 / sentences 20 / COLLISION FRAMES first pass 15 / listening 20)",
+   "sentenceRange": "S32-S35",
+   "drill": "CHANT-7 randomised; first COLLISION FRAMES pass restricted to H3 and H6 (shite/shitte, yonde/yonde, atte/atte) - the members already resident in inventory; CHAIN BUILDER three-link introduced. The bare -te form is presented as unmarked and -te kudasai as the marked polite member, which is the right way round for the target register. -naide kudasai reaches across to the -nai stem on purpose: without it the learner builds *-te nai kudasai and it sticks."
+  },
+  {
+   "day": "W10 D8",
+   "title": "-te kureru - the inward benefactive",
+   "introduces": [
+    "-te kureru",
+    "-te kureta",
+    "-te kurenai?",
+    "-te kuremasen ka"
+   ],
+   "minutes": "95 (chant 15 / benefactive cards 25 / sentences 20 / COLLISION FRAMES 15 / listening 20)",
+   "sentenceRange": "S36-S39",
+   "drill": "CHANT-7 randomised; COLLISION FRAMES H3/H6; CHAIN BUILDER three-link to time. Direction is stated as a rule, not left to examples: the subject is someone else and the beneficiary is me. Flag that the negative question -kurenai? is softening rather than negation, or an English speaker hears a complaint."
+  },
+  {
+   "day": "W10 D9",
+   "title": "-chau and -jau - both allomorphs, one session",
+   "introduces": [
+    "the te>cha / de>ja rule",
+    "-chau",
+    "-chatta",
+    "-jau",
+    "-jatta",
+    "shinjau / shinjatta"
+   ],
+   "minutes": "100 (chant 15 / allomorph teaching 20 / VOICED-ALLOMORPH PAIRS 20 / item cards 15 / sentences 20 / listening 10)",
+   "sentenceRange": "S40-S44",
+   "drill": "VOICED-ALLOMORPH PAIRS, 40 trials, error-gated to zero leakage; CHANT-7 randomised. THIS IS THE FIX FOR THE EARLIER PASS'S FATAL DEFECT: the voiced member is never optional and never a later session. Lead with -chatta rather than -chau - it is more frequent and it carries the regret reading. State the alternation ONCE and generally, naming -toku/-doku, -tara/-dara and -cha/-ja dame as the three later constructions it also governs, so the learner pays once and collects three times."
+  },
+  {
+   "day": "W10 D10",
+   "title": "-te morau, and the direction swap",
+   "introduces": [
+    "-te morau",
+    "-te moratta",
+    "-te moraeru?",
+    "the kureru / morau direction frame"
+   ],
+   "minutes": "90 (chant 15 / morau cards 20 / BENEFACTIVE DIRECTION SWAP 20 / sentences 20 / listening 15)",
+   "sentenceRange": "S45-S48",
+   "drill": "BENEFACTIVE DIRECTION SWAP, both directions, 24 transformations; VOICED-ALLOMORPH PAIRS second pass. English has one sentence where Japanese has two, so this is drilled as a transformation and never as two independent facts. Particle errors count as failures: ga/ni is the only thing carrying the subject flip."
+  },
+  {
+   "day": "W10 D11",
+   "title": "-te kuru - two senses, one diagnostic",
+   "introduces": [
+    "-te kuru DIRECTIONAL",
+    "-te kita directional",
+    "-te kuru INCHOATIVE",
+    "-te kita inchoative",
+    "-te kite",
+    "new lexeme: furu"
+   ],
+   "minutes": "90 (chant 15 / -te kuru cards 25 / sentences 20 / ASPECT SORT extended 10 / listening 20)",
+   "sentenceRange": "S49-S52",
+   "drill": "CHANT-7 randomised; ASPECT SORT extended to -te kuru - motion verb gives direction, cognition or change verb gives inchoative; CHAIN BUILDER four-link. This is the second payoff for the aktionsart diagnostic built on day 5, and the learner should be told so explicitly: they are reusing a tool, not learning a second unrelated rule. -te kite is the first stacked two-verb -te structure - flag that only the last verb carries the request."
+  },
+  {
+   "day": "W10 D12",
+   "title": "Permission - the first speech act, and its negative twin",
+   "introduces": [
+    "-te mo ii",
+    "-te ii",
+    "-te mo ii yo",
+    "-nakute mo ii"
+   ],
+   "minutes": "90 (chant 15 / permission cards 20 / sentences 20 / COLLISION FRAMES 15 / listening 20)",
+   "sentenceRange": "S53-S56",
+   "drill": "CHANT-7 randomised; COLLISION FRAMES across H3/H4/H6; CHAIN BUILDER four-link to time. -te mo ii is promoted above four higher-scoring nodes by the prerequisite tie-break: a learner who cannot ask permission cannot function. The reduced -te ii is carded as an equal rather than a footnote, because the mo drops in most real tokens. -nakute mo ii is the second cross-stem twin and lands in this session, not later."
+  },
+  {
+   "day": "W10 D13",
+   "title": "The collisions the ear cannot resolve",
+   "introduces": [
+    "kite (kiru wear) RECOG",
+    "kitte (kiru cut) RECOG",
+    "kitte the noun in a verb slot",
+    "katte (katsu) RECOG",
+    "kaete (kaeru change) RECOG",
+    "X ga itte (iru need) phrase-only",
+    "tte yutteta"
+   ],
+   "minutes": "95 (chant 15 / collision teaching 25 / COLLISION FRAMES full 20 / sentences 20 / listening 15)",
+   "sentenceRange": "S57-S62",
+   "drill": "COLLISION FRAMES, all six sets, 50 trials, 700 ms window; NASAL-VS-SILENCE refresher, 30 trials. Every card here is a FRAME carrying a non-phonological cue - argument structure, animacy, particle, or a semantically restricted collocate - because for the three heiban itte forms and for atte-from-au vs atte-from-aru, pitch separates nothing at all. The non-resident members (kiru 'wear', kiru 'cut', katsu, kaeru 'change') are RECOGNITION ONLY in this block and their production cards open in weeks 12-14 per the separation rule. This is a deliberate partial override of the earlier pass's blanket deferrals: the brief requires the collisions be framed now, and recognition-only framing satisfies that without spending the separation budget."
+  },
+  {
+   "day": "W10 D14",
+   "title": "Consolidation and the timed exit",
+   "introduces": [],
+   "minutes": "100 (CHANT-7 timed 20 / TA-SWAP timed 10 / full drill battery 30 / sentences 15 / free listening 25)",
+   "sentenceRange": "S63-S64",
+   "drill": "THE EXIT BATTERY in this order: CHANT-7 randomised 40 items to the 300 ms gate, twice; TA-SWAP to the 250 ms gate; ASPECT SORT 40 interleaved; VOICED-ALLOMORPH PAIRS 40 to zero leakage; COLLISION FRAMES 50; IKU ISOLATION probe; CHAIN BUILDER five-link. EXIT CRITERIA, all of which must pass on two consecutive days before week 11 opens: chant median onset under 300 ms randomised at 90% accuracy with no row more than 120 ms off the median; TA-SWAP faster than the chant; ASPECT SORT 95%; zero voiceless leakage on the allomorph drill; COLLISION FRAMES 95% with no member under 80%; zero *iite; a five-link chain in under 8 s with no restart. IF THE FAILING ITEM IS THE GEMINATION PERCEPTION SCORE, do not re-drill production - return to the week 1-2 perception block. Producing a contrast the ear cannot hear installs a motor program with no feedback loop, which is the exact failure this block's row order was designed to avoid."
+  }
+ ]
+}

@@ -1,0 +1,151 @@
+{
+ "oneTargetViolations": [
+  "BLOCK-LEVEL, FATAL: the block declares no 'available at block start' inventory, and it explicitly runs PARALLEL to blocks B and D. Therefore none of the following, relied on by the sentence cards, can be assumed known: desu, desu ka, wa, ga, o, ni, no, kore, sore, are, mizu, biiru, ringo, tamago, pan, koohii, tomodachi, neko, inu, mise, resutoran, kippu, shingoo, imasu, arimasu, irimasu, zenbu, hai, iie, sumimasen, irasshaimase, arigatoo gozaimashita, daijoobu desu. Under the stated gating, essentially every one of the 84 sentence cards carries two or more unknowns and 1T is mechanically unverifiable. Fix: publish an explicit prior-inventory list, or hard-gate C on the specific B items it consumes.",
+  "Sentence 46 'sanji han desu.' — new element han (127) is not introduced until W8D1, but the sentence falls inside W7D5's sentenceRange 41-47. The card is scheduled before its own target exists.",
+  "Sentences 50, 51, 52 ('mise wa juuji kara desu', 'mise wa kuji made desu', 'gogo yoji made ni onegaishimasu') fall inside W8D1's sentenceRange 48-56, but their new elements kara (130), made (131), made ni (132) are introduced on W8D2. W8D2's sentenceRange is a single card ('57'), so three cards fire a day early and W8D2 introduces three items with no practice.",
+  "Item 101 hyakugojuuen is never introduced on any lesson day — the union of all 21 'introduces' arrays covers 1-100 and 102-185 but skips 101. It is nonetheless required by dictation item 30, by the W5D3 drill instruction 'Dictation set items 26-30 only', and by the transaction-shadow price variants. Also unreachable before W6D3, since the tens (24-32) are not taught until then.",
+  "Drill 'The p/b/h chant' requires yonhiki, gohiki, yonhai and gohai. None of these is an item anywhere in the block (-hiki and -hai only card cells 1, 2, 3, 6 and nan-).",
+  "Drill 'The escape hatch' requires gomai ('five tickets' -> 'kippu o gomai'). gomai is never an item; -mai only cards 1, 2, 3, 6 and nan-.",
+  "Drill 'The myriad ladder' requires juuman, hyakuman and sanzen'en to be produced aloud. juuman and hyakuman appear only inside item 43's note; none of the three is a card.",
+  "Drill 'Transaction shadow' requires sumimasen, irasshaimase, arigatoo gozaimashita and hai. None is an item and none is declared available.",
+  "Sentence 82 'fukuro irimasu ka.' lists usesPrior [] and newElement 183, but the card depends on two items introduced the same day (182 fukuro and 183 the chunk) plus irimasu, which is never taught as an item anywhere in the deck.",
+  "Sentence 77 'futatsume no shingoo desu.' — besides the target futatsume (134) it needs no and shingoo, neither of which is an item in this block or declared prior. Two extra unknowns on the card the block calls 'the single most useful sentence'.",
+  "Sentence 84 'zenbu de sen'en desu.' — zenbu is never introduced; only the fused chunk 'zenbu de' (185) exists, so 'de' and 'zenbu' are both opaque.",
+  "Sentence 1 'ikura desu ka.' is a byte-for-byte duplicate of item 178, and sentence 13 'onegaishimasu.' duplicates item 177 while sitting in W5D5 although 177 is introduced W5D4. Both cards carry zero new material; the newElement field is wrong on each.",
+  "Drill target conflict: the two-second dictation is specified to 'run daily from W5D3' over the full 30 items, but items 15-25 (yoji, yonin, yokka, yooka, tooka, juuyokka, hatsuka, tsuitachi, kuji han, gozen juuji, gogo shichiji juugofun) are not introduced until W7D5-W8D4. W5D3 and W8D1 lesson notes contradict the drill's own target text."
+ ],
+ "notationViolations": [
+  "Missing accent integers on non-chunk lexical items: 101 hyakugojuuen, 124 juugofun, 125 sanjuppun and 150 juuichinichi all carry accent '-'. The contract requires an accent integer on every item; '-' is only defensible for the CHUNK cards (16, 17, 18, 55).",
+  "Nouns not in the required 'X ga' frame: item 127 han (pos: noun, audioText 'han'), item 128 gozen (audioText 'gozen'), item 129 gogo (audioText 'gogo'). Every other noun in the block is framed correctly.",
+  "Odaka items recorded bare, which is exactly the ambiguity the 'X ga' rule exists to remove — on the bare word these are acoustically identical to [0]: ichi [2] (2 morae), roku [2], hachi [2], hyaku [2], too [1] (2 morae), futatsu [3] (3 morae), mittsu [3], yottsu [3], muttsu [3], yattsu [3], futari [3], juuichi [4] (4 morae), roppyaku [4], happyaku [4]. Numerals and counters need a following particle in audioText ('ichi ga', 'mittsu ga') or the accent integer is untestable by ear.",
+  "Wrong mora counts stated in notes: item 52 kokonotsu 'The longest counter word... 5 morae' — ko-ko-no-tsu is 4. Item 138 tsuitachi '5 morae: tsu-i-ta-chi' — the breakdown printed on the same line lists 4. Item 184 reshiito '5 morae: re-shi-i-to' — the breakdown lists 4.",
+  "Item 16/17 chant notes claim 'Ten even beats, no rushing' and enumerate only ichi/roku/hachi and san/kyuu/juu as 2-mora. ni and go are monomoraic; the chant is not ten even beats unless the conventional counting-chant lengthening (nii, goo) is stated, and it is not. For a block gated on the perception module this is a mora-timing error, not a rounding.",
+  "Header count is wrong: 'weeks' field says 175 items; the list runs n=1 to n=185.",
+  "Item 12's note claims 'ree-tokens and nana exist because of this' — ree is the alternate reading of zero, not a repair strategy for shichi/ichi confusion. (No -ei- spellings, no macrons, and no missing n' were found anywhere: sen'en, ichiman'en, kin'yoobi, nan'yoobi, sanzen'en are all correct. Notation on that axis is clean.)"
+ ],
+ "japaneseErrors": [
+  {
+   "item": "149 hatsuka (note) and 150 juuichinichi (note)",
+   "problem": "'The last wago date. From 21 on it is regular: nijuuichinichi' and 'Everything outside the twelve wago dates works this way' are both false. 24th is nijuuyokka (the yokka irregular survives), 29th is nijuukunichi, 17th is juushichinichi, 19th is juukunichi. A learner taught this rule will produce *nijuuyonnichi and *nijuukyuunichi.",
+   "fix": "Add nijuuyokka as a 13th irregular item, and rewrite both notes: from 21 on it is number + nichi EXCEPT 24 (nijuuyokka), and 17/19/27/29 take the bound shichi/ku readings.",
+   "severity": "fatal"
+  },
+  {
+   "item": "94 rokkai / 97 rokkai",
+   "problem": "Two items with identical romaji, identical accent [1] and identical audioText, differing only in gloss ('sixth floor' vs 'six times'). In an audio-only SRS the learner is shown the same stimulus and expected to give different answers; the card is unanswerable, and one is PROD while the other is RECOG. They also sit only 3 indices apart, violating the deck's own 15-index separation rule for confusable pairs.",
+   "fix": "Merge into one card carrying both glosses, or frame each in a disambiguating phrase ('rokkai desu' vs 'rokkai ikimashita') and separate by 15+ indices.",
+   "severity": "fatal"
+  },
+  {
+   "item": "97 rokkai (note)",
+   "problem": "'Fully homophonous with rokkai 6th floor' implies rokkai is the only fully homophonous cell. ikkai, nikai, yonkai, gokai, nanakai, kyuukai, juukkai and nankai are all equally homophonous between 階 and 回. Singling out rokkai teaches a false generalisation.",
+   "fix": "State the true rule: the two series differ ONLY at 3 (sangai vs sankai) and optionally at nan-; everything else is homophonous.",
+   "severity": "major"
+  },
+  {
+   "item": "92 sangai (note)",
+   "problem": "'THE ONE FLOOR IRREGULAR' is contradicted by the block's own item 95 nangai, which also voices. Additionally, modern Tokyo speech widely accepts sankai for the 3rd floor, so 'the g is the whole point' in sentence 39 overstates.",
+   "fix": "Say 'two cells voice: sangai and nangai', and add a line that sankai for 3F is heard and is not an error, though sangai is the safe production target.",
+   "severity": "major"
+  },
+  {
+   "item": "55 -tsu chant (note) and drill 'The escape hatch'",
+   "problem": "'-tsu counts almost any concrete inanimate thing up to ten... you are still correct-sounding' is an overclaim, and the drill scores 'kippu o itsutsu' for five tickets as a pass. Tickets are -mai; kippu o itsutsu is marked and will sound foreign. -tsu also cannot substitute for people, animals, minutes, floors, times, money or ordinals — most of what this block teaches.",
+   "fix": "Restrict the escape hatch explicitly to discrete solid objects (food, fruit, boxes, small goods) and remove the ticket example, replacing it with e.g. 'three apples' or 'two boxes'.",
+   "severity": "major"
+  },
+  {
+   "item": "19 juuichi [4], and the teens set 20-23",
+   "problem": "juuichi is given [4] (odaka) while juuni, juuyon, juunana and juukyuu are all [1], with a note asserting 'No sound change anywhere in 11-19' — i.e. the block claims uniformity and then prints a non-uniform accent. Standard Tokyo for 十一 is [3], not [4].",
+   "fix": "Set juuichi to [3] and state plainly that the teens are NOT accentually uniform, rather than implying they are.",
+   "severity": "major"
+  },
+  {
+   "item": "34-42 (hundreds and thousands) and 24-31 (tens)",
+   "problem": "The accent set is internally incoherent. nihyaku, sanbyaku, gohyaku, nisen and sanzen are all [1], but roppyaku and happyaku are [4] and hassen is [3] — yet rokujuu and hachijuu are given [1] like all the other tens. If roku-/hachi- compounds shift the accent in the hundreds and thousands, the same items cannot be flat [1] in the tens, and the block never explains the split. Several of the [1] values (notably nihyaku, usually [2]) also look wrong.",
+   "fix": "Re-derive the whole 20-9000 accent table against the NHK accent dictionary and print the roku-/hachi- pattern as an explicit rule rather than as unexplained per-cell integers.",
+   "severity": "major"
+  },
+  {
+   "item": "103 sen'en [3]",
+   "problem": "千円 is normally se↓n'en, i.e. [1]. [3] places the drop after the second e (se-N-e-N), which is not the standard Tokyo contour. The related ichiman'en [5] should be checked the same way (一万円 is usually [3]).",
+   "fix": "sen'en [1]; verify ichiman'en against NHK before recording, since these two are the block's most-heard money words.",
+   "severity": "major"
+  },
+  {
+   "item": "119 sanpun (note)",
+   "problem": "'-fun is the one that geminates the nasal into p' describes nothing that happens. There is no gemination in sanpun; the moraic nasal is unchanged and the counter-initial /h/ surfaces as /p/ after N. The note also risks teaching a spurious *sanppun.",
+   "fix": "Rewrite: after the moraic N, -hon/-hiki/-hai voice to b-, while -fun devoices to p-. sanbon / sanbiki / sanbai / sanpun.",
+   "severity": "major"
+  },
+  {
+   "item": "24 nihai, 25 sanbai vs 12 muttsu (sentences)",
+   "problem": "koohii is counted with -tsu in sentence 12 and with -hai in sentence 25 with no comment, and 'mizu o nihai onegaishimasu' is not how water is ordered (omizu futatsu / omizu o futatsu). -hai is primarily a counting-what-was-consumed counter; using it to place an order is marked.",
+   "fix": "Keep -hai for reporting quantity (biiru o ippai nomimashita, mizu o nihai nomimashita) and move ordering cards onto -tsu / -hon; add a one-line note on why the same noun takes different counters.",
+   "severity": "major"
+  },
+  {
+   "item": "59 yonin (note)",
+   "problem": "'NOT *yonnin, NOT *yonin with a doubled n' is self-contradictory — 'yonin with a doubled n' IS yonnin, so the note bans the same form twice and reads as if it bans the correct form. The second clause about yoji 'dropping the n' is also backwards: the base is the wago yo-, and yon is the form with an added n.",
+   "fix": "'yo-nin, three beats. Never *yonnin. yoji, yonin, yokka all use the bare wago yo-.'",
+   "severity": "minor"
+  },
+  {
+   "item": "130 kara [1] / 131 made [1]",
+   "problem": "Both are enclitic particles that attach to the preceding accent phrase and carry no independent accent there; printing [1] on them is meaningless as a production target (the audioText frames 'sanji kara' / 'goji made' are correct and should carry the whole phrase contour instead).",
+   "fix": "Replace the integer with '-' plus a phrase-contour note, as is already done for made ni (132).",
+   "severity": "minor"
+  },
+  {
+   "item": "182 fukuro [0]",
+   "problem": "袋 is normally fukuró, [3], not heiban. As a RECOG item inside the clerk's line this matters less, but the integer is still wrong.",
+   "fix": "fukuro [3]; verify against NHK.",
+   "severity": "minor"
+  },
+  {
+   "item": "90 ikkai",
+   "problem": "Glossed only 'first floor' with no mention that ikkai is equally 一回 'once' — despite the block making the 階/回 contrast its centrepiece three items later. The learner meets the ambiguity unlabelled at the very first cell of the series.",
+   "fix": "Gloss 'first floor; once' and point forward to items 96-98.",
+   "severity": "minor"
+  },
+  {
+   "item": "180 sore ja",
+   "problem": "Given as the citation form with no labelled formal expansion, while the parallel item 176 correctly supplies 'kore o kudasai is the full form'. The contract requires the long form to be taught alongside as a labelled expansion.",
+   "fix": "Add note: 'Contracted from sore de wa. sore de wa is the formal expansion; sore ja is what is said.'",
+   "severity": "minor"
+  },
+  {
+   "item": "15 ree",
+   "problem": "Glossed 'zero (formal, phone numbers)'. In phone numbers the ordinary reading is zero, and maru is the common alternative for reading digit strings; ree is the formal/announcement reading (times, measurements, broadcast). The gloss mis-scopes where the learner will actually hear it.",
+   "fix": "'zero (formal / announcement reading)'; add maru as a RECOG item for phone and room numbers.",
+   "severity": "minor"
+  },
+  {
+   "item": "11 sentence 'pan o itsutsu kudasai' / 20 sentence 'tomodachi ga sannin imasu'",
+   "problem": "Gloss errors. 'Five breads, please.' is ungrammatical English. 'I have three friends here.' imports both a possessor and a locative that are not in the Japanese, which says 'there are three friends'.",
+   "fix": "'Five rolls, please.' and 'There are three friends.' / 'Three of my friends are here.' — pick one and make the Japanese match.",
+   "severity": "minor"
+  },
+  {
+   "item": "Drill 'Transaction shadow'",
+   "problem": "The price is quoted twice for what reads as a single-item purchase ('sen'en desu' then 'zenbu de sen'en desu'), and the learner says 'kore kudasai' AFTER already being quoted the price. That is not the order a register exchange runs in.",
+   "fix": "Sequence: greeting -> learner asks price -> clerk quotes -> learner decides (sore ja, kore kudasai) -> clerk scans -> zenbu de X-en desu -> kore de onegaishimasu -> bag question -> receipt.",
+   "severity": "minor"
+  }
+ ],
+ "missing": [
+  "hachiji (8 o'clock) and juuichiji (11 o'clock) — the hour series cards 1,2,3,4,5,6,7,9,10,12 and simply skips 8 and 11. 8 o'clock is high frequency and hachiji tests the hachi [2] carry-over.",
+  "Minutes: nanafun/shichifun, happun, kyuufun are absent, as are nijuppun, yonjuppun and gojuppun. Clock faces are read in fives, so 20/40/50 minutes are needed more than several cells that are present.",
+  "Counter cells 4 and 5 across five series: yonko, goko; yonhiki, gohiki; yonhai, gohai; yonmai, gomai; gokai. The round-robin drill explicitly targets 'cells 1-6 plus nan-' for ten counters and four of those series only card 1, 2, 3, 6 and nan-. Four of these missing cells are also demanded by the p/b/h chant and the escape-hatch drill.",
+  "gosen'en — the 5000-yen note. The block teaches sen'en and ichiman'en and skips the third banknote the learner will handle daily. Also absent: ichien, goen, gojuuen (the coin set below 100 yen).",
+  "nijuuyokka (24th), juushichinichi (17th), juukunichi (19th), nijuukunichi (29th) — the surviving irregulars past 20, which items 149/150 wrongly declare do not exist.",
+  "Seven of twelve months: nigatsu, sangatsu, gogatsu, rokugatsu, hachigatsu, juugatsu, juuichigatsu. All seven weekdays are carded, so the asymmetry is not a deliberate pattern-only decision.",
+  "gurai / kurai (approximation) — the single highest-frequency modifier attached to numbers ('sanjuppun gurai', 'sen'en gurai'). Absent entirely from a numbers block.",
+  "-sai (age): issai, nisai, hatachi, nansai / oikutsu. Absent entirely, though it is the counter most often demanded of a visitor after money and time.",
+  "kongetsu / raigetsu / sengetsu and kotoshi / rainen / kyonen. Weeks are covered in full (konshuu, raishuu, senshuu, isshuukan); months and years as time-words are not covered at all.",
+  "otsuri (change), choodo (exactly), and zenbu as a standalone item rather than only inside the chunk 'zenbu de'.",
+  "juuman and hyakuman — named in item 43's note and drilled in the myriad ladder, but never carded.",
+  "hyakugojuuen (item 101 exists but is never scheduled on any lesson day) — see the 1T list."
+ ],
+ "verdict": "Notation is the strongest part of the block: no -ei- spellings, no macrons, no undoubled long vowels, and every n' environment (sen'en, ichiman'en, kin'yoobi, nan'yoobi, sanzen'en) is written correctly. The prompt's specific spot-checks mostly pass: too not *tokoo, yonin as three morae, ichiman not *juusen, yoji/kuji/shichiji all present and correctly marked as lexicalized. The verb checks (au, iu/yuu, shinu, shitteru, nai) are not applicable — this block contains no verbs, and correspondingly no contractions, so section 4's allomorph audit has nothing to bite on beyond item 180 sore ja lacking its labelled expansion. Everything else fails. The block does not ship as written. Three defects are disqualifying. First, 1T is unverifiable and almost certainly broken everywhere: the block declares no prior inventory while running parallel to B and D, so all 84 sentence cards lean on roughly thirty undeclared items (desu, wa, o, kore, mizu, kippu, imasu, arimasu and the rest); this is a structural hole, not a list of individual slips. Second, the schedule is internally inconsistent — sentence 46 fires before han is introduced, sentences 50-52 fire before kara/made/made ni are introduced, item 101 is never introduced at all, and six drills demand a dozen items (yonhiki, gohiki, yonhai, gohai, gomai, juuman, hyakuman, sumimasen, irasshaimase, hai) that were never carded. Third, items 94 and 97 are the identical audio stimulus with different required answers, which is unanswerable in an audio-only deck. Beneath those, item 149/150's claim that dates from 21 on are regular is flatly wrong and will train *nijuuyonnichi, the -tsu escape hatch is oversold and the drill scores a marked form as a pass, the hundreds/thousands/tens accent table is internally incoherent, sen'en's accent looks wrong, three mora counts are misstated as five when the printed breakdown shows four, and a set of odaka numerals and -tsu counters is recorded bare, which makes their accent integers untestable by ear — the exact failure the 'X ga' frame rule exists to prevent. Fix order: declare the prior inventory, repair the day-to-sentence mapping, split or merge 94/97, correct the date rule, re-derive the numeral accent table against NHK, then add the framed audioText and the missing cells."
+}

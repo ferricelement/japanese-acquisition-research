@@ -1,0 +1,540 @@
+<title>The Acquisition Order</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,400;0,500;1,400&family=IBM+Plex+Sans:wght@400;450;600&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&display=swap">
+
+<style>
+:root{
+  --ground:#F4F5F1; --surface:#FFFFFF; --sunk:#EBEDE7;
+  --ink:#171C24; --ink-2:#3D4550; --ink-3:#6E7566;
+  --rule:#D9DCD3; --rule-soft:#E6E8E1;
+  --now:#B23A2E; --now-soft:#F3E1DD;
+  --deep:#2A3A4A; --deep-soft:#DFE5EA;
+  --gate:#7A6410; --gate-soft:#F2EBD4;
+  --shadow:0 1px 2px rgba(23,28,36,.05);
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --ground:#12151A; --surface:#191D24; --sunk:#1F242C;
+  --ink:#E9EBE4; --ink-2:#B4BAB2; --ink-3:#8A9086;
+  --rule:#2E343D; --rule-soft:#252A32;
+  --now:#E0705C; --now-soft:#3A241F;
+  --deep:#9FB6C6; --deep-soft:#212B33;
+  --gate:#D8BC63; --gate-soft:#2F2916;
+  --shadow:0 1px 2px rgba(0,0,0,.3);
+}}
+:root[data-theme="dark"]{
+  --ground:#12151A; --surface:#191D24; --sunk:#1F242C;
+  --ink:#E9EBE4; --ink-2:#B4BAB2; --ink-3:#8A9086;
+  --rule:#2E343D; --rule-soft:#252A32;
+  --now:#E0705C; --now-soft:#3A241F;
+  --deep:#9FB6C6; --deep-soft:#212B33;
+  --gate:#D8BC63; --gate-soft:#2F2916;
+  --shadow:0 1px 2px rgba(0,0,0,.3);
+}
+
+*{box-sizing:border-box}
+body{margin:0;background:var(--ground);color:var(--ink);
+  font-family:"IBM Plex Sans",-apple-system,BlinkMacSystemFont,sans-serif;
+  font-size:16px;line-height:1.62;-webkit-font-smoothing:antialiased}
+.rj{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:.92em;font-weight:500;color:var(--ink)}
+.shell{max-width:1200px;margin:0 auto;padding:0 24px 120px}
+.grid{display:grid;grid-template-columns:1fr}
+@media (min-width:1060px){.grid{grid-template-columns:178px minmax(0,1fr);gap:60px;align-items:start}}
+
+.rail{display:none}
+@media (min-width:1060px){
+ .rail{display:block;position:sticky;top:0;padding-top:118px;
+   font-family:"IBM Plex Mono",monospace;font-size:11.5px;line-height:1.45}
+ .rail ol{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:10px}
+ .rail a{display:grid;grid-template-columns:20px 1fr;gap:7px;color:var(--ink-3);text-decoration:none;
+   border-left:2px solid transparent;padding-left:9px;margin-left:-11px;transition:color .15s,border-color .15s}
+ .rail a:hover,.rail a:focus-visible{color:var(--ink);border-left-color:var(--now)}
+ .rail .n{color:var(--now);font-variant-numeric:tabular-nums}
+}
+
+.mast{padding:86px 0 0;border-bottom:1px solid var(--rule);margin-bottom:54px}
+.eyebrow{font-family:"IBM Plex Mono",monospace;font-size:11.5px;letter-spacing:.14em;
+  text-transform:uppercase;color:var(--now);margin:0 0 19px}
+h1{font-family:Newsreader,Georgia,serif;font-weight:500;font-size:clamp(38px,6vw,60px);
+  line-height:1.04;letter-spacing:-.021em;margin:0 0 22px;text-wrap:balance;max-width:16ch}
+h1 em{font-style:italic;color:var(--now)}
+.standfirst{font-family:Newsreader,Georgia,serif;font-size:clamp(19px,2.2vw,22px);line-height:1.5;
+  color:var(--ink-2);max-width:62ch;margin:0 0 38px}
+.byline{display:flex;flex-wrap:wrap;gap:8px 26px;padding-bottom:26px;
+  font-family:"IBM Plex Mono",monospace;font-size:11.5px;letter-spacing:.04em;color:var(--ink-3)}
+.byline b{color:var(--ink-2);font-weight:500}
+
+section{margin:0 0 74px;scroll-margin-top:26px}
+.shead{display:flex;align-items:baseline;gap:13px;margin:0 0 8px}
+.shead .n{font-family:"IBM Plex Mono",monospace;font-size:12px;color:var(--now);
+  font-variant-numeric:tabular-nums;flex:none;padding-top:5px}
+h2{font-family:Newsreader,Georgia,serif;font-weight:500;font-size:clamp(26px,3.3vw,33px);
+  line-height:1.15;letter-spacing:-.013em;margin:0;text-wrap:balance}
+.dek{color:var(--ink-3);max-width:64ch;margin:0 0 28px;font-size:15.5px}
+p{max-width:66ch;margin:0 0 16px}
+p.wide{max-width:76ch}
+strong{font-weight:600}
+.pull{border-left:2px solid var(--now);padding:3px 0 3px 21px;margin:32px 0;
+  font-family:Newsreader,Georgia,serif;font-size:20.5px;line-height:1.43;max-width:53ch}
+
+/* diagram */
+figure{margin:30px 0 10px;padding:22px 18px 16px;background:var(--surface);
+  border:1px solid var(--rule);border-radius:3px;overflow-x:auto}
+figure svg{display:block;min-width:700px;width:100%;height:auto}
+figcaption{font-size:13.5px;color:var(--ink-3);margin-top:12px;max-width:72ch;padding:0 4px}
+.d-spine{stroke:var(--rule);stroke-width:1.5}
+.d-fan{stroke:var(--deep);stroke-width:1;opacity:.42}
+.d-fan-hot{stroke:var(--now);stroke-width:1;opacity:.5}
+.d-node{fill:var(--surface);stroke:var(--deep);stroke-width:2}
+.d-node-hot{fill:var(--surface);stroke:var(--now);stroke-width:2.5}
+.d-lab{fill:var(--ink);font-family:"IBM Plex Mono",monospace;font-size:12px;font-weight:500}
+.d-sub{fill:var(--ink-3);font-family:"IBM Plex Mono",monospace;font-size:10.5px}
+.d-cnt{fill:var(--deep);font-family:"IBM Plex Mono",monospace;font-size:11px;font-weight:500}
+.d-cnt-hot{fill:var(--now);font-family:"IBM Plex Mono",monospace;font-size:12px;font-weight:500}
+.d-wk{fill:var(--ink-3);font-family:"IBM Plex Mono",monospace;font-size:10.5px}
+.d-edge{stroke:var(--ink-3);stroke-width:1.5;fill:none;marker-end:url(#ah)}
+
+/* laws */
+.law{border:1px solid var(--rule);border-radius:3px;background:var(--surface);
+  margin:0 0 12px;box-shadow:var(--shadow);overflow:hidden}
+.law-h{display:flex;align-items:baseline;gap:12px;padding:15px 20px 12px;border-bottom:1px solid var(--rule-soft)}
+.law-n{font-family:"IBM Plex Mono",monospace;font-size:11px;color:var(--now);flex:none;letter-spacing:.1em}
+.law-h h3{font-family:Newsreader,Georgia,serif;font-weight:600;font-size:19.5px;margin:0;line-height:1.2}
+.law-b{padding:14px 20px 18px;display:flex;flex-direction:column;gap:11px}
+.law-b p{margin:0;font-size:14.5px;max-width:74ch}
+.tag{font-family:"IBM Plex Mono",monospace;font-size:9.5px;letter-spacing:.13em;text-transform:uppercase;
+  color:var(--ink-3);display:block;margin-bottom:2px}
+
+/* stages */
+.arc{margin:0 0 38px}
+.arc-h{display:flex;align-items:baseline;gap:12px;padding:0 0 10px;border-bottom:1px solid var(--rule);margin-bottom:16px}
+.arc-h h3{font-family:Newsreader,Georgia,serif;font-weight:600;font-size:21px;margin:0}
+.arc-h .w{font-family:"IBM Plex Mono",monospace;font-size:11px;color:var(--ink-3);margin-left:auto}
+.stage{border:1px solid var(--rule);border-left:3px solid var(--deep);border-radius:2px;
+  background:var(--surface);margin:0 0 10px;padding:14px 18px 16px}
+.stage.gatestage{border-left-color:var(--now)}
+.stage-h{display:flex;flex-wrap:wrap;align-items:baseline;gap:5px 12px;margin-bottom:9px}
+.stage-n{font-family:"IBM Plex Mono",monospace;font-size:11px;color:var(--now);flex:none;font-weight:500}
+.stage-h h4{font-family:"IBM Plex Sans",sans-serif;font-weight:600;font-size:15.5px;margin:0;line-height:1.35}
+.stage-w{font-family:"IBM Plex Mono",monospace;font-size:10.5px;color:var(--ink-3);margin-left:auto;white-space:nowrap}
+.f{display:grid;grid-template-columns:1fr;gap:2px 16px;padding:7px 0;border-top:1px solid var(--rule-soft);font-size:14px}
+@media (min-width:620px){.f{grid-template-columns:76px minmax(0,1fr)}}
+.f b{font-family:"IBM Plex Mono",monospace;font-size:9.5px;letter-spacing:.1em;text-transform:uppercase;
+  color:var(--ink-3);font-weight:400;padding-top:4px}
+.f span{color:var(--ink-2)}
+.f.exit span{color:var(--gate)}
+.f.exit b{color:var(--gate)}
+
+/* calls */
+.call{border:1px solid var(--rule);border-radius:3px;background:var(--surface);margin:0 0 12px;overflow:hidden}
+.call-q{padding:14px 20px 12px;background:var(--sunk);font-size:15px;font-weight:600;line-height:1.4;border-bottom:1px solid var(--rule)}
+.call-b{padding:14px 20px 17px;display:flex;flex-direction:column;gap:10px}
+.call-b p{margin:0;font-size:14.5px;max-width:74ch}
+.verdict{color:var(--now);font-weight:600}
+
+/* against */
+.vs{display:grid;grid-template-columns:1fr;gap:0;border:1px solid var(--rule);border-radius:3px;
+  background:var(--surface);margin:0 0 11px;overflow:hidden}
+@media (min-width:780px){.vs{grid-template-columns:1fr 1fr}}
+.vs > div{padding:14px 18px 16px}
+.vs .std{background:var(--sunk);border-bottom:1px solid var(--rule)}
+@media (min-width:780px){.vs .std{border-bottom:0;border-right:1px solid var(--rule)}}
+.vs h4{font-family:"IBM Plex Mono",monospace;font-size:9.5px;letter-spacing:.13em;text-transform:uppercase;
+  margin:0 0 7px;font-weight:500}
+.vs .std h4{color:var(--ink-3)}
+.vs .ours h4{color:var(--now)}
+.vs p{margin:0;font-size:14px;color:var(--ink-2);max-width:none}
+.vs .cost{margin-top:9px;padding-top:9px;border-top:1px solid var(--rule-soft);font-size:13.5px;color:var(--ink-3)}
+
+/* corrections */
+.corr{border-top:1px solid var(--rule);padding:14px 0;display:grid;grid-template-columns:1fr;gap:4px 20px}
+.corr:last-of-type{border-bottom:1px solid var(--rule)}
+@media (min-width:720px){.corr{grid-template-columns:minmax(0,1fr) minmax(0,1.35fr)}}
+.corr h4{margin:0;font-size:14.5px;font-weight:600;line-height:1.4}
+.corr p{margin:0;font-size:14px;color:var(--ink-2);max-width:58ch}
+.sev{font-family:"IBM Plex Mono",monospace;font-size:9.5px;letter-spacing:.1em;text-transform:uppercase;
+  padding:2px 6px;border-radius:2px;background:var(--now-soft);color:var(--now);margin-right:7px;white-space:nowrap}
+
+.coda{border-top:2px solid var(--ink);padding-top:22px;margin-top:18px}
+.coda p{font-family:Newsreader,Georgia,serif;font-size:19px;line-height:1.5;max-width:57ch}
+:focus-visible{outline:2px solid var(--now);outline-offset:3px;border-radius:2px}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+
+<div class="shell"><div class="grid">
+
+<nav class="rail" aria-label="Sections"><ol>
+  <li><a href="#thesis"><span class="n">01</span><span>The thesis</span></a></li>
+  <li><a href="#keys"><span class="n">02</span><span>Five keys</span></a></li>
+  <li><a href="#laws"><span class="n">03</span><span>Ordering laws</span></a></li>
+  <li><a href="#stages"><span class="n">04</span><span>The sequence</span></a></li>
+  <li><a href="#calls"><span class="n">05</span><span>Contested calls</span></a></li>
+  <li><a href="#vs"><span class="n">06</span><span>Vs. textbooks</span></a></li>
+  <li><a href="#corrections"><span class="n">07</span><span>Corrections</span></a></li>
+</ol></nav>
+
+<main>
+
+<header class="mast">
+  <p class="eyebrow">Audio-first Japanese / item-level sequencing</p>
+  <h1>Order by <em>fanout</em>, gate on the ear</h1>
+  <p class="standfirst">Twenty-one stages with measurable entry triggers and exit tests, derived from eleven ordering laws. Grammar is a dependency graph, not a list — sort it by downstream subtree, but never open a node before its induction base exists, and never admit a card before the contrasts that distinguish words are categorical percepts.</p>
+  <p class="byline">
+    <span><b>Grammar retires</b> — month 9, on a 140-item audio battery</span>
+    <span><b>6,000 words</b> — month 12–13</span>
+  </p>
+</header>
+
+<section id="thesis">
+  <div class="shead"><span class="n">01</span><h2>The thesis</h2></div>
+  <p class="wide">Order by downstream fanout, not by difficulty and not by category — but <strong>gate every rule on an induction base and every card on a validated ear</strong>. An SRS review strengthens the phonological trace you held at encoding; it does not repair it. If <span class="rj">kite / kiite / kitte</span> collapse into one blurred form, you have not stored a fuzzy word — you have stored the same form three times with contradictory meanings, and every review deepens the collision.</p>
+
+  <p class="wide">That gives one braid: roughly two weeks of pure discrimination before card one, a vocabulary track capped at <strong>20 new cards/day</strong>, a closed-set grammar sprint that opens on an induction base at week 6 and retires on a test at month 9, and an input regime that ignites on a <em>timed comprehension test at ~350 morae/min</em> rather than on a word count.</p>
+
+  <p class="wide">Where the dependency graph and the interference analysis conflict — potential and transitivity pairs both want the <span class="rj">-eru</span> slot, relative clauses and nominalization both want to be first — the tiebreak is always the same: <strong>the ear has one cue, so the item whose disambiguator survives in the audio stream goes first, and its homophone waits five weeks.</strong></p>
+
+  <blockquote class="pull">Unlocking a node with fanout N does not add one construction to your output. It converts N constructions in the incoming stream from noise into structure.</blockquote>
+</section>
+
+<section id="keys">
+  <div class="shead"><span class="n">02</span><h2>Verb morphology is five keys, not fifty patterns</h2></div>
+  <p class="dek">Everything textbooks present as dozens of separate grammar points is five stem operations plus their tails. Sorting by subtree size puts them in an order no textbook uses.</p>
+
+  <figure>
+    <svg viewBox="0 0 760 330" role="img" aria-label="Dependency chain of five verb-stem keys across weeks 6 to 14, with fanout counts: dictionary form and verb classes at week 6, the i-stem at weeks 6 to 7 with about 20 dependents, the -nai stem at week 8 with about 8, the -te form at week 9 with about 35 dependents, and the e-stem at week 13 with about 6.">
+      <defs><marker id="ah" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="6" markerHeight="6" orient="auto">
+        <path d="M0,1 L7,4 L0,7" fill="none" stroke="var(--ink-3)" stroke-width="1.3"/></marker></defs>
+
+      <line x1="60" y1="238" x2="712" y2="238" class="d-spine"></line>
+
+      <!-- fans -->
+      <g class="d-fan">
+        <path d="M188,222 L128,150"/><path d="M188,222 L146,143"/><path d="M188,222 L165,138"/>
+        <path d="M188,222 L188,136"/><path d="M188,222 L211,138"/><path d="M188,222 L230,143"/><path d="M188,222 L248,150"/>
+      </g>
+      <g class="d-fan">
+        <path d="M330,222 L296,168"/><path d="M330,222 L313,161"/><path d="M330,222 L330,158"/>
+        <path d="M330,222 L347,161"/><path d="M330,222 L364,168"/>
+      </g>
+      <g class="d-fan-hot">
+        <path d="M472,222 L372,108"/><path d="M472,222 L392,98"/><path d="M472,222 L412,90"/><path d="M472,222 L432,84"/>
+        <path d="M472,222 L452,80"/><path d="M472,222 L472,78"/><path d="M472,222 L492,80"/><path d="M472,222 L512,84"/>
+        <path d="M472,222 L532,90"/><path d="M472,222 L552,98"/><path d="M472,222 L572,108"/>
+      </g>
+      <g class="d-fan">
+        <path d="M648,222 L618,176"/><path d="M648,222 L633,170"/><path d="M648,222 L648,168"/>
+        <path d="M648,222 L663,170"/><path d="M648,222 L678,176"/>
+      </g>
+
+      <!-- edges along spine -->
+      <path d="M76,252 L172,252" class="d-edge"></path>
+      <path d="M204,252 L314,252" class="d-edge"></path>
+      <path d="M346,252 L456,252" class="d-edge"></path>
+      <path d="M488,252 L632,252" class="d-edge"></path>
+
+      <!-- nodes -->
+      <circle cx="66" cy="238" r="7" class="d-node"></circle>
+      <text x="66" y="278" class="d-lab" text-anchor="middle">verb</text>
+      <text x="66" y="292" class="d-sub" text-anchor="middle">wk 6</text>
+
+      <circle cx="188" cy="238" r="9" class="d-node"></circle>
+      <text x="188" y="278" class="d-lab" text-anchor="middle">i-stem</text>
+      <text x="188" y="292" class="d-sub" text-anchor="middle">wk 6–7</text>
+      <text x="188" y="124" class="d-cnt" text-anchor="middle">~20 tails</text>
+
+      <circle cx="330" cy="238" r="8" class="d-node"></circle>
+      <text x="330" y="278" class="d-lab" text-anchor="middle">-nai stem</text>
+      <text x="330" y="292" class="d-sub" text-anchor="middle">wk 8</text>
+      <text x="330" y="146" class="d-cnt" text-anchor="middle">~8</text>
+
+      <circle cx="472" cy="238" r="12" class="d-node-hot"></circle>
+      <text x="472" y="280" class="d-lab" text-anchor="middle">-te form</text>
+      <text x="472" y="294" class="d-sub" text-anchor="middle">wk 9</text>
+      <text x="472" y="64" class="d-cnt-hot" text-anchor="middle">~35 dependents</text>
+
+      <circle cx="648" cy="238" r="8" class="d-node"></circle>
+      <text x="648" y="278" class="d-lab" text-anchor="middle">e-stem</text>
+      <text x="648" y="292" class="d-sub" text-anchor="middle">wk 13</text>
+      <text x="648" y="156" class="d-cnt" text-anchor="middle">~6</text>
+
+      <text x="60" y="318" class="d-wk">week 6 →→→ week 14   ·   node size = subtree size</text>
+    </svg>
+    <figcaption>Fanout counts are approximate. The commonly cited "45 dependents" for the <span class="rj">-te</span> form double-counts second-order nodes hanging off <span class="rj">-te iru</span>; ~35 direct dependents is the defensible figure, still roughly double the runner-up.</figcaption>
+  </figure>
+
+  <p class="wide">Two consequences fall straight out. <strong>The <span class="rj">-te</span> chant gets the largest single time budget in the course</strong> and lands the week its induction base closes. And <strong>naming the i-stem at week 6</strong> — where it is free, because you need it for the <span class="rj">-masu</span> shell anyway — converts twenty later "grammar points" into one morphological operation plus twenty tails: <span class="rj">-tai, -nagara, -ni iku, -kata, -sugiru, -yasui, -nikui, -hajimeru, -dasu, -owaru, -tsuzukeru, -naosu, -komu, -soo, -nasai</span>.</p>
+</section>
+
+<section id="laws">
+  <div class="shead"><span class="n">03</span><h2>The eleven ordering laws</h2></div>
+  <p class="dek">These generate the sequence. If you disagree with a stage, the productive move is to argue with the law behind it rather than the stage itself.</p>
+
+  <div class="law"><div class="law-h"><span class="law-n">L1</span><h3>Perception gates encoding</h3></div><div class="law-b">
+    <p><span class="tag">Statement</span>No lexical item is admitted until the contrasts that distinguish words are categorical percepts. Vowel length, gemination and moraic <span class="rj">N</span> gate absolutely. Pitch accent does <em>not</em> gate — but it is a card-format constraint from card one.</p>
+    <p><span class="tag">Mechanism</span>Length is phonemic and functionally loaded (<span class="rj">ojisan/ojiisan</span>, <span class="rj">shitte/shite</span>, <span class="rj">biru/biiru</span>, <span class="rj">kookoo/koko</span>), so collapse destroys lexical identity rather than naturalness. Accent is different in kind: a per-word lexical property, acquired far more cheaply distributed across 6,000 items than concentrated into 60 pairs — but absent at first encoding it costs a second full pass over the lexicon plus a re-recording of the deck.</p>
+    <p><span class="tag">Consequence</span>10–14 days of discrimination before card one, hard ceiling four weeks, <strong>tiered exit</strong>: ≥85% on novel talkers releases; 75–85% releases with a continuing 10 min/day track; below 75% at four weeks releases anyway with monthly re-test. Every noun is recorded as <span class="rj">X ga</span> from item one, because heiban and odaka are acoustically identical on the bare word. And the TTS pipeline is validated against an accent reference before a single card is generated.</p>
+  </div></div>
+
+  <div class="law"><div class="law-h"><span class="law-n">L2</span><h3>Fanout-weighted topological sort, with a bootstrapping override</h3></div><div class="law-b">
+    <p><span class="tag">Statement</span>Among nodes whose prerequisites are satisfied, take the one maximising (subtree size × conversational token frequency). Never the easiest, never the one that completes a tidy category. Override: items that let you extract further items from a speaker in real time jump the queue regardless of their own frequency.</p>
+    <p><span class="tag">Mechanism</span>Grammar for a listener is a gating problem, not an accumulation problem. Separately, <span class="rj">X tte nani?</span> and <span class="rj">nihongo de nan te iimasu ka</span> change the shape of the acquisition curve rather than a point on it: without them vocabulary arrives only from prepared material; with them every conversation becomes an item source.</p>
+    <p><span class="tag">Consequence</span><span class="rj">X tte nani?</span> is item ~30 — roughly 400 items before the quotative <span class="rj">-tte</span> it contains. Adjective inflection loses every scheduling contest to the <span class="rj">-te</span> subtree, except its <span class="rj">-ku/-kunai</span> core, which is pulled forward because six later nodes need it.</p>
+  </div></div>
+
+  <div class="law"><div class="law-h"><span class="law-n">L3</span><h3>The citation form is the form in the signal</h3></div><div class="law-b">
+    <p><span class="tag">Statement</span>Whatever sits on the prompt side gets automatized, and the stream contains the reduced form. So the contraction is the citation form and the long form is the labelled formal expansion.</p>
+    <p><span class="tag">Mechanism</span>A reader can afford the long form because the page always shows it. A listener cannot: training on <span class="rj">-te iru</span> inserts a decompression step into every act of listening, and decompression fails first under load. Reductions come in two perceptually distinct kinds — <strong>mora-deleting</strong> (<span class="rj">te iru › teru</span>, <span class="rj">te shimau › chau</span>, <span class="rj">te oku › toku</span>) and <strong>mora-preserving segmental substitution</strong> (<span class="rj">wakaranai › wakannai</span>, <span class="rj">suru no › sun no</span>, <span class="rj">samui › samii</span>). Only the first is a shortening; the second keeps the rhythm identical and needs a different drill entirely.</p>
+  </div></div>
+
+  <div class="law"><div class="law-h"><span class="law-n">L4</span><h3>One grammar, two shells, split by channel</h3></div><div class="law-b">
+    <p><span class="tag">Statement</span>Teach the plain grammar once. Comprehend plain from the first verb; produce <span class="rj">-masu/-desu</span> for four months. Politeness is a suffix shell, not a second curriculum.</p>
+    <p><span class="tag">Mechanism</span>Politeness surfaces almost entirely on the final predicate, so clause-internal structure is register-invariant. But the usual claim is overstated and worth stating correctly: plain is obligatory in prenominal, quotative, nominalized and conditional/temporal positions — about 25 constructions — and is <em>fully optional</em> before <span class="rj">kara, node, kedo, ga, shi</span>. <span class="rj">Ame ga furimasu kara, yamemashoo</span> is grammatical.</p>
+    <p><span class="tag">Consequence</span>Cuts roughly 40% off the card count, which is what makes a four-month sprint arithmetically possible.</p>
+  </div></div>
+
+  <div class="law"><div class="law-h"><span class="law-n">L5</span><h3>Contrast to define; separate to encode; frame when both</h3></div><div class="law-b">
+    <p><span class="tag">Statement</span>Items whose meaning <em>is</em> the opposition must be co-taught in one unit. Items sharing a sound shape must be admitted one at a time behind a retrieval-strength gate. When an item is both, no spacing saves you — encode it in a frame whose particle supplies a non-phonological cue.</p>
+    <p><span class="tag">Mechanism</span>A one-member category has no boundary, so the learner fills it from L1: <span class="rj">wa</span> taught alone becomes "the subject slot," and because bare <span class="rj">wa</span> is almost never ungrammatical in a main clause there is <em>zero negative evidence</em> — every fluent-sounding sentence reinforces the wrong hypothesis for years. The hard case is the <span class="rj">-eru</span> family, where potential, transitive, passive and honorific wear one shape. Inflection cannot separate them, because the potential of a godan verb is itself an ichidan verb with an identical <span class="rj">-te</span> form. The surviving cue is argument structure: potential takes <span class="rj">ga</span>, transitive takes <span class="rj">o</span>.</p>
+    <p><span class="tag">Consequence</span>Accent does part of this work for free — <span class="rj">kaeru [1]</span> vs <span class="rj">kaeru [0]</span>, <span class="rj">kiru [1]</span> vs <span class="rj">kiru [0]</span> are accent minimal pairs, so they train in the phonology block instead of being deferred by months. Only accent-identical collisions get separation.</p>
+  </div></div>
+
+  <div class="law"><div class="law-h"><span class="law-n">L6</span><h3>Rules front-loaded, but never before their induction base</h3></div><div class="law-b">
+    <p><span class="tag">Statement</span>A multiplier enters as soon as ~40 applicable bases exist, presented with 12–15 attested types spanning varied bases before extension is licensed.</p>
+    <p><span class="tag">Mechanism</span>Morphological patterns become productive as a function of <em>type</em> frequency, not token frequency. The corollary bites hardest on the <span class="rj">-te</span> chant: the standard induction set (<span class="rj">taberu, iku, suru, kuru</span>) contains one ichidan verb, both irregulars, and the single verb that violates the <span class="rj">-ku › -ite</span> rule — <strong>not one regular godan verb</strong>. It cannot possibly teach the five-way alternation.</p>
+    <p><span class="tag">Consequence</span>The grammar gate is an induction base, not a word count: ≥500 recognized words including ≥40 verbs already stored as (dictionary, <span class="rj">-te</span>) audio pairs, ≥4 per godan coda class, with <span class="rj">iku</span> deliberately excluded and taught afterward as the sole exception.</p>
+  </div></div>
+
+  <div class="law"><div class="law-h"><span class="law-n">L7</span><h3>Closed sets sprint and retire on a test; open sets change source and never stop</h3></div><div class="law-b">
+    <p><span class="tag">Statement</span>Every closed set gets a measurable exit condition <em>and</em> a hard calendar ceiling. Every open set switches supply rather than terminating.</p>
+    <p><span class="tag">Mechanism</span>Past roughly 90% comprehension of the core closed set, remaining patterns are rare enough that their expected encounter rate in ordinary input exceeds any plausible drilling efficiency. Syllabi have no terminal point; publishers do, which is why the N4→N3→N2 regress consumes years. The hard ceiling exists because failing the exit test is usually evidence of a <em>speed</em> deficit, and more drilling cannot touch speed.</p>
+    <p><span class="tag">Consequence</span>But the closed set has to actually be closed. The conventional list omits adjective inflection, the volitional, the request and prohibition paradigm, obligation forms, comparison, question words including <span class="rj">nande</span>, and the entire numeral-and-counter system.</p>
+  </div></div>
+
+  <div class="law"><div class="law-h"><span class="law-n">L8</span><h3>Review load is the schedule — and it obeys a different formula than everyone uses</h3></div><div class="law-b">
+    <p><span class="tag">Statement</span>Steady-state reviews/day ≈ <strong>6–7 × new cards/day</strong>, not new-per-day × the sum of reciprocal intervals.</p>
+    <p><span class="tag">Mechanism</span>A card occupies interval step <em>I<sub>k</sub></em> for <em>I<sub>k</sub></em> days and generates exactly one review to leave it, so each step contributes N reviews/day once filled. Reviews scale with the <em>count of ladder steps reached</em>, not the sum of their reciprocals. Sanity check: ladder {1 day, then 100 days}, N=1. The reciprocal model predicts ~1 review/day; reality after 1,000 days is ~10.</p>
+    <p><span class="tag">Consequence</span>N caps at 20/day, ramping 10 → 15 → 20. Six thousand items lands month 12–13, not month 9. Roughly a quarter of them arrive free from multipliers rather than from cards, which is what makes the target reachable at all. The taper at month 12 is a <strong>cliff, not a glide</strong> — short-interval steps carry almost all the cost, and a glide keeps refilling them.</p>
+  </div></div>
+
+  <div class="law"><div class="law-h"><span class="law-n">L9</span><h3>Coverage gates whether input is acquisition; latency gates whether it is comprehension</h3></div><div class="law-b">
+    <p><span class="tag">Statement</span>Below ~95% lemma coverage, input is decoration. Above it, the binding constraint stops being what you know and becomes how fast you retrieve it. The metric must switch at that point.</p>
+    <p><span class="tag">Mechanism</span>Word counts are the wrong trigger — two learners with identical decks can differ by 40 points on running speech. Japanese conversation runs ~7–8 morae/second, i.e. <strong>420–480 morae/min, not the ~250 that graded material uses</strong>, and lexical access must complete in a few hundred milliseconds or the parse falls behind and collapses. A flashcard gives you five seconds and rewards you for using them.</p>
+    <p><span class="tag">Consequence</span>Input ignition fires on a comprehension test at ~350 morae/min, not on a word count. Card latency is measured from clip <em>offset</em>, not onset. Hard rule: if listening comprehension does not improve for six consecutive weeks while vocabulary grows by 1,000+, halve new cards that week.</p>
+  </div></div>
+
+  <div class="law"><div class="law-h"><span class="law-n">L10</span><h3>Head-final parsing is capacity, not knowledge</h3></div><div class="law-b">
+    <p><span class="tag">Statement</span>Noun-modifying clauses, embedded questions and the clause-final predicate complex respond to time-on-task, not explanation. Budget 3–5× what a textbook does, and start exposure well before instruction.</p>
+    <p><span class="tag">Mechanism</span>English is head-initial and parsed incrementally — "the book [that I bought]" lets you attach the head before the modifier arrives. Japanese is head-final: <span class="rj">kinoo katta hon</span> forces you to hold an unresolved, complete-sounding predicate in working memory with no relative pronoun, no comma, and in speech no prosodic break. Worse, tense, negation, modality, evidentiality and politeness all stack clause-finally (<span class="rj">tabenakatta n ja nai ka to omou</span>). <strong>This is the one place audio-first is materially harder than reading-first</strong>, because the page supplies word boundaries and the option to re-read.</p>
+    <p><span class="tag">Consequence</span>Relative clauses <em>precede</em> nominalization and quotation — <span class="rj">[clause]+no</span>, <span class="rj">[clause]+koto</span>, <span class="rj">ka doo ka</span> and <span class="rj">N to iu N</span> are all the same prenominal parse, so the conventional order puts the dependent before its prerequisite.</p>
+  </div></div>
+
+  <div class="law"><div class="law-h"><span class="law-n">L11</span><h3>The card unit is whatever the ear can identify</h3></div><div class="law-b">
+    <p><span class="tag">Statement</span>Merge orthographic splits that are phonologically and accentually identical; split phonological near-pairs; and for the Sino-Japanese half of the lexicon, the card unit is a collocation, not a word.</p>
+    <p><span class="tag">Mechanism</span>A reader disambiguates <span class="rj">kikan</span> (period / institution / engine) by kanji. An ear-only learner has nothing. Kango is 2-morae × 2 with heavy long vowels, geminates and moraic <span class="rj">N</span> — low distinctiveness, extreme homophone density, exactly the wrong profile. Conversely, three kanji spellings with one sound and one accent are literally one signal, and separate cards produce <em>identical prompts</em>, which is unlearnable by construction and becomes a permanent leech.</p>
+    <p><span class="tag">Consequence</span>Wago cards are bare audio; kango cards carry a 2–4 mora frame from the start. The wago:kango ratio runs ~85:15 through the first 1,000 items and flips to ~40:60 by 6,000.</p>
+  </div></div>
+</section>
+
+<section id="ledger">
+  <div class="shead"><span class="n">04</span><h2>The ledger: the first sixty verbs, in order</h2></div>
+  <p class="dek">This list is the input to five separate gates — the <span class="rj">-te</span> chant, the <span class="rj">-nai</span> stem, class assignment, potential, and transitivity. Writing it out is also the falsification test, and it immediately breaks two claims the plan was resting on.</p>
+
+  <p class="wide">Ordered by conversational frequency, tagged with class and godan coda. The <strong>induction base</strong> for the <span class="rj">-te</span> chant needs four regular verbs per coda class before the rule can be induced rather than memorized. The right-hand column marks the verb at which each coda class closes.</p>
+
+  <div class="tablewrap" style="overflow-x:auto;margin:24px 0 10px;border:1px solid var(--rule);border-radius:3px;background:var(--surface)">
+  <table style="border-collapse:collapse;width:100%;min-width:660px;font-size:14px">
+    <thead><tr>
+      <th style="text-align:left;padding:10px 14px;border-bottom:1px solid var(--rule);font-family:'IBM Plex Mono',monospace;font-size:10px;letter-spacing:.11em;text-transform:uppercase;color:var(--ink-3);font-weight:500">#</th>
+      <th style="text-align:left;padding:10px 14px;border-bottom:1px solid var(--rule);font-family:'IBM Plex Mono',monospace;font-size:10px;letter-spacing:.11em;text-transform:uppercase;color:var(--ink-3);font-weight:500">Verb</th>
+      <th style="text-align:left;padding:10px 14px;border-bottom:1px solid var(--rule);font-family:'IBM Plex Mono',monospace;font-size:10px;letter-spacing:.11em;text-transform:uppercase;color:var(--ink-3);font-weight:500">-te</th>
+      <th style="text-align:left;padding:10px 14px;border-bottom:1px solid var(--rule);font-family:'IBM Plex Mono',monospace;font-size:10px;letter-spacing:.11em;text-transform:uppercase;color:var(--ink-3);font-weight:500">Class</th>
+      <th style="text-align:left;padding:10px 14px;border-bottom:1px solid var(--rule);font-family:'IBM Plex Mono',monospace;font-size:10px;letter-spacing:.11em;text-transform:uppercase;color:var(--ink-3);font-weight:500">Note</th>
+    </tr></thead>
+    <tbody>
+      <tr><td class="num">1–4</td><td><span class="rj">suru · iru · aru · naru</span></td><td><span class="rj">shite · ite · atte · natte</span></td><td>irr / ichi / <b>-ru</b> / <b>-ru</b></td><td><span class="gloss"><span class="rj">aru</span> negative is <span class="rj">nai</span>, suppletive</span></td></tr>
+      <tr><td class="num">5–9</td><td><span class="rj">iu · omou · miru · iku · kuru</span></td><td><span class="rj">itte · omotte · mite · itte · kite</span></td><td><b>-u</b> / <b>-u</b> / ichi / <b>-ku</b> / irr</td><td><span class="gloss"><span class="rj">iu</span> is pronounced <b>yuu</b>; <span class="rj">iku</span> excluded from induction</span></td></tr>
+      <tr><td class="num">10–16</td><td><span class="rj">wakaru · dekiru · taberu · nomu · kau · matsu · toru</span></td><td><span class="rj">wakatte · dekite · tabete · nonde · katte · matte · totte</span></td><td><b>-ru</b> / ichi / ichi / <b>-mu</b> / <b>-u</b> / <b>-tsu</b> / <b>-ru</b></td><td><b style="color:var(--gate)">-ru closes at 16</b></td></tr>
+      <tr><td class="num">17–22</td><td><span class="rj">kaku · yomu · hanasu · kiku · yaru · morau</span></td><td><span class="rj">kaite · yonde · hanashite · kiite · yatte · moratte</span></td><td><b>-ku</b> / <b>-mu</b> / <b>-su</b> / <b>-ku</b> / <b>-ru</b> / <b>-u</b></td><td><b style="color:var(--gate)">-u closes at 22</b></td></tr>
+      <tr><td class="num">23–29</td><td><span class="rj">kureru · ageru · shiru · kaeru · hairu · hashiru · kiru</span></td><td><span class="rj">kurete · agete · shitte · kaette · haitte · hashitte · kitte</span></td><td>ichi / ichi / <b>-ru</b> ×5</td><td><span class="gloss">the <span class="rj">-eru/-iru</span> trap set: look ichidan, are godan</span></td></tr>
+      <tr><td class="num">30–34</td><td><span class="rj">asobu · yobu · tobu · erabu · shinu</span></td><td><span class="rj">asonde · yonde · tonde · erande · shinde</span></td><td><b>-bu</b> ×4 / <b>-nu</b></td><td><b style="color:var(--gate)">-bu closes at 33</b></td></tr>
+      <tr><td class="num">35–42</td><td><span class="rj">isogu · oyogu · nugu · sawagu · dasu · kasu · naosu · kaesu</span></td><td><span class="rj">isoide · oyoide · nuide · sawaide · dashite · kashite · naoshite · kaeshite</span></td><td><b>-gu</b> ×4 / <b>-su</b> ×4</td><td><b style="color:var(--gate)">-gu closes at 38, -su at 41</b></td></tr>
+      <tr><td class="num">43–52</td><td><span class="rj">motsu · tatsu · katsu · utsu · au · tsukau · narau · warau · yasumu · sumu</span></td><td><span class="rj">motte · tatte · katte · utte · atte · tsukatte · naratte · waratte · yasunde · sunde</span></td><td><b>-tsu</b> ×4 / <b>-u</b> / <b>-mu</b></td><td><b style="color:var(--gate)">-tsu closes at 45, -mu at 52</b></td></tr>
+      <tr><td class="num">53–60</td><td><span class="rj">tanomu · aruku · hataraku · tsuku · oku · neru · okiru · tsukuru</span></td><td><span class="rj">tanonde · aruite · hataraite · tsuite · oite · nete · okite · tsukutte</span></td><td><b>-ku</b> ×3 / ichi ×2</td><td><b style="color:var(--now)">-ku closes at 56 — the gate</b></td></tr>
+    </tbody>
+  </table>
+  </div>
+
+  <p class="wide" style="margin-top:22px">Two things fall out of writing this down, and neither survives contact with the list.</p>
+
+  <div class="law" style="border-left:3px solid var(--now)"><div class="law-h"><span class="law-n">Break 1</span><h3>The <span class="rj">-nu</span> class has exactly one member, so it cannot be induced at all</h3></div><div class="law-b">
+    <p>The plan requires "≥4 regular verbs per godan coda class" before the <span class="rj">-te</span> chant opens. For <span class="rj">-nu</span> that requirement is unsatisfiable in principle: <span class="rj">shinu</span> is the only <span class="rj">-nu</span> verb in the modern language. <span class="rj">-bu</span> and <span class="rj">-gu</span> are thin but workable at four. So the rule must be restated: <strong>induce on the six classes that support induction, and memorize <span class="rj">shinu</span> as a second exception alongside <span class="rj">iku</span></strong>. Two exceptions, not one.</p>
+  </div></div>
+
+  <div class="law" style="border-left:3px solid var(--now)"><div class="law-h"><span class="law-n">Break 2</span><h3>The grammar gate's word count contradicts its own card cap</h3></div><div class="law-b">
+    <p>The gate demands ≥500 recognized words by week 6–7. Under the plan's own ramp — 10/day for weeks 3–4, 15/day thereafter — the maximum reachable by end of week 7 is 14×10 + 21×15 = <strong>455</strong>. The most emphasized gate in the plan is unreachable at its stated date by its own arithmetic.</p>
+    <p>The fix is to notice the word count was never the real constraint. At ~30% verb share, verb #56 arrives around day 17–19 of carding — <strong>week 5–6</strong>, ahead of the word count. So drop the 500 figure as redundant and state the gate purely as what actually binds: <span class="rj">hataraku</span> is carded, four-per-class holds on six coda classes, and <span class="rj">iku</span> and <span class="rj">shinu</span> are quarantined outside the induction set.</p>
+  </div></div>
+</section>
+
+<section id="stages">
+  <div class="shead"><span class="n">05</span><h2>The sequence, in six arcs</h2></div>
+  <p class="dek">Twenty-one stages. Every entry is a measurable trigger, not a date; every exit is a test. Dates are consequences, not targets.</p>
+
+  <div class="arc"><div class="arc-h"><h3>I · The ear</h3><span class="w">DAYS 1–16, CEILING WK 4</span></div>
+    <div class="stage gatestage"><div class="stage-h"><span class="stage-n">S0</span><h4>Pipeline validation and the notation contract</h4><span class="stage-w">days 1–2</span></div>
+      <div class="f"><b>Vocab</b><span>Zero. No cards exist yet.</span></div>
+      <div class="f exit"><b>Exit</b><span>TTS agrees with an accent reference (NHK / OJAD / UniDic accent field) on ≥95% of a 200-item sample. Without this the entire accent-tagging plan is unfalsifiable.</span></div></div>
+    <div class="stage gatestage"><div class="stage-h"><span class="stage-n">S1–2</span><h4>The mora grid, then the three length contrasts; devoicing last</h4><span class="stage-w">days 1–16</span></div>
+      <div class="f"><b>Order</b><span>Isochrony on all-CV words first, because length is a ratio and needs a stable denominator. Fricative geminates (<span class="rj">issho, zasshi, massugu</span>) before stop geminates — audible friction before a beat of silence. Devoicing last, framed as perception with the beat explicitly preserved.</span></div>
+      <div class="f"><b>Corpus</b><span>All-voiced only: <span class="rj">neko, inu, sakana, tamago, kokoro, otoko, kudamono, mado, yama, umi</span>. Not <span class="rj">watashi, tomodachi, murasaki</span> — every one ends in a devoicing environment, which is the phenomenon deferred to day 11.</span></div>
+      <div class="f exit"><b>Exit</b><span>Tiered, 4-week ceiling. ≥85% on 100+ trials, novel talkers, accent-matched minimal triples, single-token identification. 75–85% releases with a continuing 10 min/day track. Below 75% at four weeks releases anyway onto a restricted lexicon avoiding length neighbours.</span></div></div>
+  </div>
+
+  <div class="arc"><div class="arc-h"><h3>II · The bootstrapping lexicon</h3><span class="w">WEEKS 3–8</span></div>
+    <div class="stage"><div class="stage-h"><span class="stage-n">S3</span><h4>Predicate core, kosoado, and the extraction toolkit</h4><span class="stage-w">wks 3–4</span></div>
+      <div class="f"><b>Vocab</b><span>Response tokens first — top 20 of any conversational corpus, outside the top 3000 of any written one: <span class="rj">un, uun</span> (the highest-frequency minimal pair in the language — yes vs no by length and contour alone), <span class="rj">hai, ee, aa, hee, soo, naruhodo, sokka, honto?, majide, tashika ni</span>.</span></div>
+      <div class="f"><b>Grammar</b><span>Copula paradigm. <span class="rj">N no N</span>. Final particles taught prosodically, not semantically. Rising terminal intonation IS the plain-speech question marker; <span class="rj">ka</span> is the polite variant. <strong>Topic <span class="rj">wa</span> deliberately withheld.</strong></span></div>
+      <div class="f exit"><b>Exit</b><span>Extracts 10 unknown nouns from a scripted interlocutor using only <span class="rj">X tte nani?</span> and <span class="rj">nihongo de nan te iimasu ka</span> — no English. Item ~30 in the deck, ~400 items before the quotative <span class="rj">-tte</span> it contains.</span></div></div>
+    <div class="stage gatestage"><div class="stage-h"><span class="stage-n">S4</span><h4><span class="rj">wa</span> and <span class="rj">ga</span> as one indivisible contrast</h4><span class="stage-w">wks 4–6</span></div>
+      <div class="f"><b>Grammar</b><span>One six-day unit, never <span class="rj">wa</span> alone. Diagnostic taught operationally: a question word never takes <span class="rj">wa</span> and its answer takes <span class="rj">ga</span>. <span class="rj">ni</span>-existence against <span class="rj">de</span>-action in the same session. The <span class="rj">ga</span>-marked-object predicates most curricula scatter: <span class="rj">suki, kirai, joozu, heta, hoshii, wakaru, dekiru</span>.</span></div>
+      <div class="f exit"><b>Exit</b><span>≥18/20 including wh-answers, contrastive <span class="rj">wa</span>, double-nominatives, and 5 particle-dropped items.</span></div></div>
+    <div class="stage"><div class="stage-h"><span class="stage-n">S5</span><h4>Numbers, counters, and the transaction script</h4><span class="stage-w">wks 5–8, parallel</span></div>
+      <div class="f"><b>Why here</b><span>Gated on the mora grid, not on grammar — the counter sound changes <em>are</em> the special-mora contrasts already trained. <span class="rj">ippon/sanbon/roppon/happon</span>, <span class="rj">ikkai/sangai/jukkai</span>, <span class="rj">ippun/sanpun/roppun</span> drill as rhythm in twenty minutes.</span></div>
+      <div class="f"><b>Scope</b><span>Ten counters × cells 1–6 plus the <span class="rj">nan-</span> interrogative, not 300 items. The <span class="rj">-tsu</span> series in full is the escape hatch that makes the tail safely droppable. Lexicalized exceptions drilled explicitly: <span class="rj">yoji</span> not <span class="rj">*yonji</span>, <span class="rj">kuji</span> not <span class="rj">*kyuuji</span>, <span class="rj">tsuitachi, futsuka, yokka, hatsuka</span>.</span></div></div>
+  </div>
+
+  <div class="arc"><div class="arc-h"><h3>III · The five keys</h3><span class="w">WEEKS 6–14</span></div>
+    <div class="stage gatestage"><div class="stage-h"><span class="stage-n">S6</span><h4>Keys 1 and 3 — dictionary form, classes, the i-stem named</h4><span class="stage-w">wks 6–7</span></div>
+      <div class="f"><b>Gate</b><span>Verb #56 carded, four-per-class on six coda classes, <span class="rj">iku</span> and <span class="rj">shinu</span> quarantined.</span></div>
+      <div class="f"><b>Move</b><span>Every verb stored as an (dictionary, <span class="rj">-te</span>) audio pair — class never computed. One extra syllable of storage buys the elimination of a rule, a diagnostic, and an exception list. Naming the i-stem <em>here</em>, where it is free, converts twenty later grammar points into one operation plus twenty tails.</span></div>
+      <div class="f"><b>Correction</b><span>The <span class="rj">-masu</span> shell is <em>not</em> uniformly accented on <span class="rj">ma</span>: <span class="rj">nomimásu</span> and <span class="rj">nomimáshita</span>, but <span class="rj">nomimasén</span> and <span class="rj">ikimashóo</span>. Three of the five endings break the rule.</span></div></div>
+    <div class="stage"><div class="stage-h"><span class="stage-n">S7</span><h4>Key 2 — the <span class="rj">-nai</span> stem</h4><span class="stage-w">wk 8</span></div>
+      <div class="f"><b>Rule</b><span>The w-insertion rule stated correctly: any verb whose dictionary form ends in <em>vowel + u</em> — <span class="rj">-au, -iu, -ou, -uu</span> — takes <span class="rj">-wanai</span>. <span class="rj">kau/kawanai</span>, <span class="rj">iu/iwanai</span>, <span class="rj">omou/omowanai</span>. The conventional statement omits <span class="rj">-iu</span> and therefore mis-generates for one of the highest-frequency verbs in speech.</span></div></div>
+    <div class="stage gatestage"><div class="stage-h"><span class="stage-n">S8</span><h4>Key 4 — the <span class="rj">-te</span> chant</h4><span class="stage-w">wks 9–10</span></div>
+      <div class="f"><b>Rows</b><span>Ordered audible-cue-first, by the same logic that put fricative geminates before stops: <span class="rj">-mu/-bu/-nu › -nde</span> (nasal voicing, audible) before <span class="rj">-u/-tsu/-ru › -tte</span> (gemination, a beat of silence). Then <span class="rj">-ku › -ite</span>, <span class="rj">-gu › -ide</span>, <span class="rj">-su › -shite</span>.</span></div>
+      <div class="f exit"><b>Exit</b><span><span class="rj">-te</span> and <span class="rj">-ta</span> for any of 80 unheard verbs under <strong>300 ms</strong> at ≥95%. <span class="rj">-ta</span> costs nothing — same slot, final vowel <span class="rj">e›a</span>.</span></div></div>
+    <div class="stage"><div class="stage-h"><span class="stage-n">S9–11</span><h4>Aspect, adjective inflection, potential</h4><span class="stage-w">wks 10–14</span></div>
+      <div class="f"><b>S9</b><span><span class="rj">-teru</span> is the citation form. The two readings co-taught in one session, keyed on aktionsart: durative › progressive (<span class="rj">tabeteru</span>); punctual › resultant state (<span class="rj">shitteru, motteru, sunderu</span>).</span></div>
+      <div class="f"><b>S10</b><span>Pulled forward from its fanout rank because six later nodes need <span class="rj">-ku</span>. <span class="rj">ii › yoku/yokatta</span> as full suppletion, drilled separately — <span class="rj">yokatta</span> alone is a top-30 spoken utterance.</span></div>
+      <div class="f"><b>S11</b><span>Potential six weeks early, and calibrated: <em>ra-nuki</em> (<span class="rj">tabereru, mireru</span>) for 1–2 mora stems where it is at parity; <span class="rj">-rareru</span> for 3+ mora stems, where <span class="rj">*oshiereru</span> is a form the learner will never hear.</span></div></div>
+  </div>
+
+  <div class="arc"><div class="arc-h"><h3>IV · Clause building</h3><span class="w">WEEKS 14–20</span></div>
+    <div class="stage"><div class="stage-h"><span class="stage-n">S12–13</span><h4><span class="rj">-tara</span> alone; the <span class="rj">-te</span> auxiliaries and benefactive triangle</h4><span class="stage-w">wks 14–18</span></div>
+      <div class="f"><b>Move</b><span><span class="rj">-tara</span> taught <em>alone</em> and given ten weeks to become the unmarked default before the other three conditionals arrive. <span class="rj">-chau</span> with both senses co-taught — as "regret" alone <span class="rj">tabechatta</span> reads apologetic; as "completion" alone <span class="rj">wasurechatta</span> loses its affect.</span></div></div>
+    <div class="stage gatestage"><div class="stage-h"><span class="stage-n">S14</span><h4>Noun-modifying clauses — the ear-hard node</h4><span class="stage-w">wks 18–20</span></div>
+      <div class="f"><b>Budget</b><span>Five days plus a permanent background track. Passive exposure began at S10, six weeks before instruction. A truncation drill runs from week 9: hear a clause with the final predicate complex clipped, predict polarity and tense.</span></div>
+      <div class="f exit"><b>Exit</b><span>≥8/10 content questions on sentences carrying 3+ mora pre-nominal modifiers at 300 morae/min; <span class="rj">iku toki</span> vs <span class="rj">itta toki</span> 10/10.</span></div></div>
+  </div>
+
+  <div class="arc"><div class="arc-h"><h3>V · Embedding, then termination</h3><span class="w">MONTHS 5.5–11</span></div>
+    <div class="stage"><div class="stage-h"><span class="stage-n">S15–16</span><h4>Nominalization and quotation; then clause linking</h4><span class="stage-w">mo 5.5–7.5</span></div>
+      <div class="f"><b>Inversion</b><span>Deliberately <em>after</em> relative clauses. <span class="rj">[clause]+no</span>, <span class="rj">+koto</span>, <span class="rj">ka doo ka</span>, <span class="rj">N to iu N</span> are all the same prenominal parse — the conventional order puts the dependent before its prerequisite.</span></div>
+      <div class="f"><b>Missing rule</b><span>The copula allomorph table, absent from every source: <span class="rj">na</span> before <span class="rj">no / n da / node / noni / hazu</span> — <span class="rj">gakusei na n da</span>, <span class="rj">byooki na node</span>.</span></div></div>
+    <div class="stage gatestage"><div class="stage-h"><span class="stage-n">S17–18</span><h4>Evidentials, passive, transitivity pairs; then grammar terminates</h4><span class="stage-w">mo 7.5–11</span></div>
+      <div class="f"><b>Separation</b><span>Transitivity pairs held ≥5 weeks after potential, because the <span class="rj">-eru</span> collision is systematic and the ear has one cue.</span></div>
+      <div class="f exit"><b>Terminates</b><span>≥90% on a 140-item unseen audio battery at natural speed, no rewind. Hard ceiling month 9 whether passed or not — failing is usually a <em>speed</em> deficit, and more drilling cannot touch speed.</span></div></div>
+  </div>
+
+  <div class="arc"><div class="arc-h"><h3>VI · Input, then latency</h3><span class="w">MONTHS 11–24</span></div>
+    <div class="stage"><div class="stage-h"><span class="stage-n">S19–20</span><h4>Mining, then output dominance</h4><span class="stage-w">mo 11–24</span></div>
+      <div class="f"><b>Switch</b><span>Frequency list exhausts when the unknown-word rate drops below ~15 per 10 min. 6,000 items lands month 12–13 — roughly a quarter arriving free from multipliers rather than cards.</span></div>
+      <div class="f"><b>Metric</b><span>Changes from coverage to latency. Card latency measured from clip <em>offset</em>. The taper at month 12 is a cliff, not a glide.</span></div></div>
+  </div>
+</section>
+
+<section id="calls">
+  <div class="shead"><span class="n">06</span><h2>Contested calls</h2></div>
+  <p class="dek">Ordering questions where two defensible answers exist. Each gets a committed verdict and a statement of what it costs if wrong.</p>
+
+  <div class="call"><div class="call-q">Does the <span class="rj">-te</span> form land at day 22 (the pure dependency-graph answer) or week 9?</div><div class="call-b">
+    <p><span class="verdict">Week 9.</span> Later than fanout alone would put it, and still roughly six weeks earlier than any textbook.</p>
+    <p>The fanout argument is right, but day 22 assumes two false things: there is no validated ear at day 22, and the <span class="rj">-te</span> alternations are precisely a gemination-and-voicing chant, so drilling them on uncalibrated categories installs the wrong motor program at volume. Decisively, the conventional induction set cannot teach the rule at all.</p>
+    <p><span class="tag">If wrong</span>Four extra weeks in which a third of verb tokens stay unparseable — real, and the missed exposure is not recoverable. Mitigated because those verbs are stored as (dictionary, <span class="rj">-te</span>) pairs from week 5, so the learner already parses <span class="rj">tabete</span> and <span class="rj">itta</span> before the rule exists. The chant compresses data they already hold, which is why it takes ten days rather than four weeks.</p>
+  </div></div>
+
+  <div class="call"><div class="call-q">Is the target 6,000 words by month 9 at 30 new cards/day?</div><div class="call-b">
+    <p><span class="verdict">No. N caps at 20/day and 6,000 lands month 12–13.</span> The 30/day figure rests on arithmetic wrong by roughly 3×.</p>
+    <p>At N=30 under the corrected 6–7N model, reviews alone consume over an hour of a 90-minute budget before any input, output or shadowing. Audio-first makes this worse, not better, because Sino-Japanese homophony forces collocation-length cards for a large share of the lexicon.</p>
+    <p><span class="tag">If wrong</span>If the true cost is lower, you have headroom and raise N — cheaply corrected. If the plan had kept 30/day, the failure is the single highest-attrition event in self-directed study: around month 9 the review count arrives at three to four times budget, two days get missed, and a 900-card backlog ends the project.</p>
+  </div></div>
+
+  <div class="call"><div class="call-q">Which corpus ranks the vocabulary, and does it matter?</div><div class="call-b">
+    <p><span class="verdict">CEJC (Corpus of Everyday Japanese Conversation), not the CSJ.</span> This corrects an instrument error that would have inverted the list.</p>
+    <p>The CSJ is roughly three-quarters academic presentation and simulated public speech — spontaneous in the sense of unscripted, not in the sense of conversational. Lecture monologue is exactly the register dense in <span class="rj">shikashi, mata, sarani, tsumari</span> and thin in <span class="rj">yo ne, kke, -chau, tteka</span>.</p>
+    <p><span class="tag">If wrong</span>Ranking against a lecture corpus while believing it is conversation is the worse error, because it is invisible: the list looks empirically grounded and is systematically wrong at exactly the top of the distribution, where function words and interactional particles live.</p>
+  </div></div>
+
+  <div class="call"><div class="call-q">Do relative clauses come before or after nominalization and quotation?</div><div class="call-b">
+    <p><span class="verdict">Before.</span> Relative clauses weeks 18–20; nominalization and quotation months 5.5–6.5.</p>
+    <p>The edge runs one way only — nothing in nominalization is a prerequisite for relative clauses. Every curriculum inverts this because nominalization looks like a small vocabulary item on the page while relative clauses look like syntax. By ear the difficulty ranks the other way.</p>
+    <p><span class="tag">If wrong</span><span class="rj">n da</span> and <span class="rj">to omou</span> arrive later than their frequency deserves. Mitigated directly: <span class="rj">n da</span> is admitted at week 3 as a frozen four-cell pattern with a scheduled unpack at S15. Chunk-before-parse applied to a grammar point, at a cost of one card.</p>
+  </div></div>
+
+  <div class="call"><div class="call-q">How much passive and causative, and when?</div><div class="call-b">
+    <p><span class="verdict">Month 8, both narrow.</span> Passive productive only in adversative and possessor frames; causative productive only inside <span class="rj">-sasete kudasai / -sasete morau</span>. Causative-passive recognition only.</p>
+    <p>In conversational audio the passive plausibly loses a frequency contest to <span class="rj">-chau</span>, which mainstream curricula never teach at all. The functions English speakers reach for the passive to express are handled in Japanese by benefactives and intransitives, both taught earlier here.</p>
+    <p><span class="tag">If wrong</span>A learner who ends up in a Japanese workplace finds their passive stiff — recoverable in weeks once the need is real. The alternative spends five weeks of a nine-month sprint on constructions that lose to <span class="rj">-chau</span>.</p>
+  </div></div>
+</section>
+
+<section id="vs">
+  <div class="shead"><span class="n">07</span><h2>Where this contradicts the textbooks</h2></div>
+  <p class="dek">Not stylistic disagreement. Each of these is a place the standard order violates a dependency, and the cost is stated.</p>
+
+  <div class="vs"><div class="std"><h4>Standard</h4><p>Teaches <span class="rj">-masu</span> for 8–14 chapters (Genki reveals plain form at ch. 8, Minna at L20), then presents plain form as "casual speech." Same sequence for comprehension and production.</p></div>
+  <div class="ours"><h4>Here</h4><p>Split by channel. Plain is the comprehension citation form from the first verb; production runs a <span class="rj">-masu</span> shell for four months on social-risk grounds.</p>
+  <p class="cost"><b>Cost of standard:</b> every subordinate clause is relearned, so the plain-form chapter feels like restarting. Learners produce <span class="rj">*tabemasu toki</span>, <span class="rj">*kaimashita hon</span> for months. It also doubles the card count, which is the overhead that makes a four-month sprint impossible.</p></div></div>
+
+  <div class="vs"><div class="std"><h4>Standard</h4><p>Places <span class="rj">-te</span> at Genki ch. 6 / Minna L14 — month 3 at classroom pace — as a five-row table keyed to kana columns, induction set <span class="rj">taberu, iku, suru, kuru</span>.</p></div>
+  <div class="ours"><h4>Here</h4><p>Week 9, ten days, drilled to sub-300 ms on ≥4 regular godan verbs per coda class, with <span class="rj">iku</span> and <span class="rj">shinu</span> excluded and taught as exceptions.</p>
+  <p class="cost"><b>Cost of standard:</b> eight-plus weeks in which a third of spoken verb tokens are unparseable. And the conventional induction set contains no regular godan verb at all, so it produces a memorized table that fails under time pressure — exactly where it matters.</p></div></div>
+
+  <div class="vs"><div class="std"><h4>Standard</h4><p>Treats contractions as slang or an appendix. Most decks put the long form on the answer side.</p></div>
+  <div class="ours"><h4>Here</h4><p>The contracted form <em>is</em> the citation form, with the long form taught alongside as the formal expansion. A systematizing pass at month 10 splits mora-deleting from mora-preserving reductions.</p>
+  <p class="cost"><b>Cost of standard:</b> catastrophic for a listener specifically — trained representations never match the signal, so every act of listening carries a decompression tax paid under real-time pressure, and decompression fails first under load.</p></div></div>
+
+  <div class="vs"><div class="std"><h4>Standard</h4><p>Orders vocabulary by written frequency — JLPT levels, newspaper corpora, any kanji-graded core 2k/6k deck — and front-loads Sino-Japanese because the word count climbs fast. Splits homophones by kanji.</p></div>
+  <div class="ours"><h4>Here</h4><p>Ranked against dialogue corpora, ~85:15 wago:kango through the first 1,000, flipping to ~40:60 by 6,000. Merge orthographic splits that are phonologically <em>and</em> accentually identical; split ones that are not.</p>
+  <p class="cost"><b>Cost of standard:</b> you arrive at 2,000 words knowing <span class="rj">shikashi, keizai, de aru</span> and not <span class="rj">yappari, nanka, -chau, yo ne, kke</span> — and because the missing items are function words, the gap does not close with more listening, it <em>blocks</em> listening. Kanji-driven sense splits produce cards with identical prompts, unlearnable by construction.</p></div></div>
+
+  <div class="vs"><div class="std"><h4>Standard</h4><p>Never terminates grammar, rolling N5→N4→N3→N2 indefinitely. Drills productive keigo as the beginner capstone.</p></div>
+  <div class="ours"><h4>Here</h4><p>Terminates on a 140-item audio battery, hard ceiling month 9. Keigo split by channel: the receptive service-encounter script at week 5, a year earlier than standard; the productive <span class="rj">o-V-ni naru</span> template never drilled.</p>
+  <p class="cost"><b>Cost of standard:</b> roughly 200 hours across two years on patterns encountered less than once per ten hours of speech — while the keigo you cannot avoid hearing in every shop and station is not installed until month 20.</p></div></div>
+</section>
+
+<section id="corrections">
+  <div class="shead"><span class="n">08</span><h2>What this still gets wrong</h2></div>
+  <p class="dek">An adversarial pass ran against every claim above. These survived as genuine defects — reported rather than quietly patched, because several are load-bearing.</p>
+
+  <div class="corr"><h4><span class="sev">Structural</span>Within-stage order is still absent</h4>
+    <p>The deepest gap. Stage 17 contains roughly forty items presented as a set — the whole thesis is that sets are not orders. The stage boundaries are ordered; their contents are not. Same in stages 12, 13, 16, 18.</p></div>
+
+  <div class="corr"><h4><span class="sev">Structural</span>The 35 <span class="rj">-te</span> dependents are never enumerated or ranked</h4>
+    <p>The entire <span class="rj">-te</span> budget is justified by fanout, and then exactly one child is ranked first before the rest scatter across four stages with no application of the fanout rule. Where does <span class="rj">-te mo ii</span> sit relative to <span class="rj">-te miru</span>, <span class="rj">-te oku</span>, <span class="rj">-te kara</span>? Unanswered.</p></div>
+
+  <div class="corr"><h4><span class="sev">Circular</span>The fanout metric counts a graph the author drew</h4>
+    <p>"~35 direct dependents" is a count over a curriculum-defined notion of direct dependent. The revision from 45 to 35 is a statement about unitization choices, not about Japanese. Neither number is independently checkable, and the largest scheduling decision rests on their ratio to a runner-up that is never named.</p></div>
+
+  <div class="corr"><h4><span class="sev">Broken</span>The <span class="rj">-eru</span> disambiguation fails on its own examples</h4>
+    <p>"Potential takes <span class="rj">ga</span>, transitive takes <span class="rj">o</span>" works for <span class="rj">kaeru</span>. It fails for <span class="rj">kireru, yakeru, toreru, wareru, nukeru</span> — every one a potential colliding with an <em>intransitive</em>, where both members take <span class="rj">ga</span>. Worse, the plan trains the learner to expect particles to be dropped. The real surviving cue is the presence of an animate experiencer, not the object particle — and the five-week separation is asserted with no mechanism.</p></div>
+
+  <div class="corr"><h4><span class="sev">Missing</span>~25 named items have no position</h4>
+    <p>The i-stem tails are the headline claim of Law 2 and then never scheduled: <span class="rj">-nagara, -kata, -ni iku, -sugiru, -yasui, -nikui, -hajimeru, -owaru, -tsuzukeru</span> appear nowhere in the sequence. Same for the <span class="rj">ka/mo/demo</span> indefinite paradigm, purpose clauses (<span class="rj">tame ni, yoo ni, yoo ni naru</span>), and <span class="rj">mama</span>.</p></div>
+
+  <div class="corr"><h4><span class="sev">Missing</span><span class="rj">iu</span> is pronounced <span class="rj">yuu</span></h4>
+    <p>言う is <span class="rj">yuu</span>, 言った is <span class="rj">yutta</span>, って言ってた is <span class="rj">tte yutteta</span>. The plan leans on <span class="rj">-tte</span> harder than on any other item and never mentions that the citation pronunciation of its source verb is not what the learner will hear. Exactly the class of error the plan exists to prevent.</p></div>
+
+  <div class="corr"><h4><span class="sev">Underpowered</span>Half the exit tests cannot distinguish pass from fail</h4>
+    <p>≥18/20 and ≥16/20 thresholds on 20-item batteries carry a binomial standard error near 10 points. The original 40-trial phonology gate at 90% fails a true-90% learner about 42% of the time. Gates need 100+ trials, or a sequential stopping rule.</p></div>
+
+  <div class="corr"><h4><span class="sev">Rhetorical</span>Every "if wrong" is asymmetric by construction</h4>
+    <p>Mild cost if this plan errs, catastrophe if the alternative had been taken — ten times out of ten. That is a signature, not an analysis. The epistemic standard is also applied unevenly: one source's frequency claim is rejected as unsupported while "<span class="rj">-chau</span> beats the passive" is asserted with nothing behind it and then used to cut passive instruction.</p></div>
+
+  <div class="coda">
+    <p><strong>The strongest objection, steelmanned.</strong> A competent pedagogue would not attack any placement. They would attack the premise that placement is the high-variance term — arguing that instructional sequence is a small-effect variable and input volume is a large-effect variable, and that this plan trades the large for the small. Its active-input allocation accumulates perhaps 100 hours of attended listening in nine months; a cruder plan spending 15 minutes on cards and 75 on graded audio from week 3 would accumulate three to four times that, and would likely have better listening at month 9 <em>despite a worse order</em>.</p>
+    <p style="margin-top:14px">This lands, partly. The 95%-coverage gate that justifies capping input is imported from <em>reading</em> research, and its transfer to listening is contested — speech carries prosodic and interactional cues that text does not. It does <em>not</em> land on the interference work, which is the best-supported part here, nor on reductions-as-citation-form, which is a claim about what the input contains rather than about acquisition order. Net: the ordering is defensible; "order of acquisition is everything" is not. Honestly, the order buys perhaps twenty percent and volume buys the rest.</p>
+  </div>
+</section>
+
+</main></div></div>

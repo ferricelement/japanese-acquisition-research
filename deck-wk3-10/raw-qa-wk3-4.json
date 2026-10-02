@@ -1,0 +1,126 @@
+{
+ "oneTargetViolations": [
+  "S20 'jaa, oyasumi.' — TWO unknowns, and one of them is never carded at all. 'jaa' exists nowhere in the 168-item inventory (#28 is the multi-word chunk 'jaa ne', introduced one sentence LATER at S21). The deck's own note admits the smuggle ('jaa arrives here only as part of the oyasumi frame'). Fix: 'aa, oyasumi.' and let jaa arrive at S21 with jaa ne.",
+  "S29 \"'chotto' tte yutta.\" — at least two new elements. The quotative 'tte' is unintroduced on day 3: it first enters the inventory only inside chunk #37 'X tte nani?' on day 4 (S30). On top of that the sentence uses the PAST form yutta, while the item card #36 gives the citation yuu — the -tta morphology is itself unintroduced (no past-tense verb morphology exists anywhere in block A). Fix: move S29 after S30, or reduce it to a bare recognition card for yuu.",
+  "'rising terminal' (#68) is taught on day 6 at S55, but it is used as the question marker in S5 ('hee, honto?', day 1), S44 ('dore? kore?'), S48 ('sumimasen, doko?'), S49 ('koo?'), S50 ('doo?'), S52 ('donna?') — six sentences and drill D1's day-1 target ('un?' (rising) -> 'huh?') before it exists. This is not a harmless prosody question: the deck itself counts 'rising terminal' as an element and lists it in usesPrior for S64, S67, S80, S92, S94, S96, S107, S109, S114, S116. Either move it to day 1 (where the un/uun drill already needs it) or strip the question mark from every pre-S55 card.",
+  "S63 'sore na no?' — usesPrior credits 'na' to #73, the musing sentence-final particle from S60 ('soo da na...'). That is a different morpheme. The na in 'X na no?' is the prenominal/pre-nominalizer form of the copula da, which has never been introduced. So the card carries two new elements (copula na + rising no). Item #76's own note ('After a noun it requires na') proves the deck knows this and still books it as prior.",
+  "S53 'dore? — aa, kore ga.' — new element is ga, but the card also uses the not-yet-introduced rising terminal on 'dore?' (see above). This is the single card on which the whole ga programme rests, so it should be the cleanest card in the block.",
+  "kawa (#115) is declared PHRASE-ONLY PERMANENTLY and must always ride in 'kawa no chikaku', but it has NO sentence card anywhere (day 10's range S85-S91 covers kutsu, kasa, mise, eki, yama, umi, hoshi and skips kawa, michi, sora, tsuki, hi). The mandatory frame is therefore never delivered in a sentence — only eki got that treatment (S88). An item whose entire safety mechanism is a frame, delivered without the frame, is unlearnable.",
+  "Systemic: 48 of 168 items never appear in any sentence card, ~30 of them marked PROD. Sentence coverage falls from 12 items / 12 sentences on day 2 to 12 items / 6 sentences on day 9 and day 13. Items with no sentence at all include tokoro, kabe, doa, kami, fuku, michi, sora, tsuki, kaze, kudamono, sake, chichi, ane, kao, kuchi, ashi, mimi, kimochi, hiru, toki, mono, iro, ushiro, yoko, dono, konna, anna, uma, ushi, musuko, yuka, hi, kawa. For an audio-first deck a PROD item that is never heard in a sentence is a vocabulary-list card, not a production card."
+ ],
+ "notationViolations": [
+  "CLEAN on the headline rules: no -ei- spellings anywhere (sensei/kirei/keitai/eiga all absent), no macrons, no undoubled long vowels (arigatoo, ohayoo, gochisoosama, daijoobu, moo, soo, koo, doo, hee, ee, aa, maa, jaa, eeto all correctly doubled), geminates rigorously doubled (sokka, yappari, chotto, ganbatte, yukkuri, kke, datta, ja nakatta, kutsu correctly NOT geminate, chichi correctly NOT geminate).",
+  "#95 chikaku — the note says 'chi is one mora; 4 morae total'. chikaku is THREE morae (chi-ka-ku). The mora count is simply wrong, and it sits in a note whose whole purpose is teaching mora counting.",
+  "#12 honto is carded as 3 morae (ho-N-to) with no mention that the full form is hontoo (4 morae, doubled o). Under a doubling contract this is a trap: the learner who has only 'honto' will produce a short final o in 'hontoo ni' and 'hontoo desu ka'. Card hontoo [0] as the base and honto as the labelled casual clip.",
+  "The n'-before-vowel/y rule is graded but never instantiated. Not one item in 168 requires n' (no kin'en, hon'ya, tan'i, sen'en, shin'yoo), yet D12's target explicitly grades the learner on transcribing \"n' before a vowel\". The learner is being scored on a convention the deck never models.",
+  "Multi-word chunks carry a single accent integer that is either wrong or undefined: #39 'moo ichido onegai' [1] (moo ichido is [3], onegai is [0] — the phrase has two accent phrases, neither of which is [1] over the whole string), #40 'yukkuri onegai' [3] (that is yukkuri's accent only), #38 'nihongo de nan te yuu no?' [0], #37 'X tte nani?' [1], #9 'soo desu ka' [1], #14 'tashika ni' [1], #28 'jaa ne' [1]. Either give these a per-phrase accent pattern or mark the field '-' as the copula items do.",
+  "Methodological gap parallel to the ga-frame problem: for #24 ohayoo [4] (4 morae), #25 konnichiwa [5] (5 morae) and #26 konbanwa [5] (5 morae) the stated accent is odaka on a form that NEVER takes a following particle, so [4]/[5] is acoustically indistinguishable from [0] for the learner. The deck solved exactly this problem for nouns with the ga frame and then left these three untestable.",
+  "All 92 noun items are correctly delivered in the 'X ga' frame, including the frame-only items (eki no mae ga, kawa no chikaku ga, isu no soba ga, uchi no kazoku ga). No bare-noun audioText violations found."
+ ],
+ "japaneseErrors": [
+  {
+   "item": "#82 hako, and drill D9",
+   "problem": "hako is given accent [1]. Standard Tokyo 箱 is heiban [0] (hako ga stays high). D9 then builds the minimal pair \"'sara ga' [0] vs 'hako ga' [1]\" — if hako is [0] the pair is not a pair at all and the learner is drilled to hear a distinction that is not in the audio.",
+   "fix": "hako [0]. Replace the D9 pair with a real one, e.g. 'sara ga' [0] vs 'kasa ga' [1], or 'sara ga' [0] vs 'yama ga' [2].",
+   "severity": "major"
+  },
+  {
+   "item": "#36 yuu / S29 / S31 / D4",
+   "problem": "The deck cards yuu as the citation form (correct) but never states that the paradigm is irregular around it: the negative is IWANAI, not *yuwanai, and the polite is IIMASU, not *yuimasu. A learner who has only ever heard 'yuu / yutta / yutteta' will generate *yuwanai and *yuimasu with total confidence, which is precisely the class of error the yuu correction was introduced to prevent.",
+   "fix": "Add to #36: 'yuu / yutta / yutteta, BUT negative iwanai and polite iimasu — the a- and i- stems keep the i.' Add a recognition sentence: 'nani mo iwanai.'",
+   "severity": "fatal"
+  },
+  {
+   "item": "#60 note and drill D6",
+   "problem": "The claim that asoko is 'the only broken cell in the 5x4 grid' is false. Row 4 is koo / soo / aa / doo: the A-cell breaks the same pattern (the grid predicts *ao). Worse, the deck fills that cell with item #6 aa, which is glossed as the interjection 'ah / oh I see' — that is a homophone of the deictic ああ 'that way', not the same item. D6 then makes the learner 'state the asoko irregularity unprompted' while a second irregularity in the same grid goes unmentioned.",
+   "fix": "Flag TWO broken cells (asoko in row 3, aa in row 4), and split deictic aa from interjection aa the way filler ano (#18) and adnominal ano (#54) were correctly split.",
+   "severity": "major"
+  },
+  {
+   "item": "Drill D9 response categories",
+   "problem": "The learner marks 'DROP-ON-GA' or 'NO-DROP', which only covers heiban [0] and odaka. For a 2-mora [1] noun (hako as carded, and also neko, kasa, naka, soto, mae, ame, umi, sora, ki, koe, me, asa, yoru, ima, te — a large slice of the deck) the drop lands BEFORE ga, so the correct answer is neither category. The drill's own listed pair 'sara ga [0] vs hako ga [1]' falls into this hole.",
+   "fix": "Three categories: no drop / drop inside the word / drop on ga. Or restrict D9 strictly to [0] vs odaka pairs, which is what the drill's stated rationale actually requires.",
+   "severity": "major"
+  },
+  {
+   "item": "S53 'dore? — aa, kore ga.'",
+   "problem": "Bare 'kore ga' is not a well-formed answer. Ga marks a subject and needs a predicate ('kore ga ii', 'kore ga soo desu'); as a standalone reply to 'dore?' a native speaker says 'kore.' / 'kore kore.' / 'kore desu.' This is the ONE card that introduces ga, and it teaches an ungrammatical fragment.",
+   "fix": "'dore ga ii? — aa, kore ga ii.' is out of inventory in block A; use 'dore? — kore, kore.' for the answer card and introduce ga only through the noun frame (D9) plus 'shikata ga nai', which is where it actually earns its keep.",
+   "severity": "major"
+  },
+  {
+   "item": "S49 'koo? — un, koo koo.'",
+   "problem": "Deictic error. When speaker B confirms the way speaker A is doing something, B uses the SO- cell: 'soo soo.' Answering 'koo koo' means 'this way (the way I, B, am doing it)', which contradicts the gloss 'Yeah, like that.' 'koo koo' is also not an idiomatic reduplication the way 'soo soo' is.",
+   "fix": "'koo? — un, soo soo.' This also makes the row-4 grid contrast audible in one card.",
+   "severity": "major"
+  },
+  {
+   "item": "#166 kane, S119 'kane no hanashi', D14 capstone 'kane ga nai'",
+   "problem": "Bare kane is marked — rough, and in 'kane no hanashi' it reads as tough-guy register. The ordinary word is okane, and the natural forms are 'okane no hanashi' and 'okane ga nai'. Making 'kane ga nai' a block-A capstone drilled 'cold' installs a register error at the highest-salience point in the block. The item note's justification (the honorific o- is not yet analyzed) is backwards: okane is lexicalized and nobody needs to analyze the o-.",
+   "fix": "Card okane [0] as the item, with bare kane noted as rough/marked. Capstone: 'okane ga nai.'",
+   "severity": "major"
+  },
+  {
+   "item": "S46 'un, soko soko.'",
+   "problem": "sokosoko is a real and reasonably common adverb meaning 'so-so / passably / to a moderate degree' [0]. The deck flags accent-identical collisions carefully elsewhere (ame, hana, kami, soba, kawa) but reduplicates soko on the very card that teaches it, creating an unflagged homograph in the learner's only notation.",
+   "fix": "'un, soko soko da yo' is no better; use 'un, soko.' or 'aa, soko da.'",
+   "severity": "minor"
+  },
+  {
+   "item": "#97 tokoro, audioText 'tokoro ga'",
+   "problem": "The mandatory ga frame produces 'tokoro ga', which is a high-frequency conjunction ('however'). For an audio-only learner with no kanji, the probe frame and a distinct function word are the same string.",
+   "fix": "Frame it as 'kono tokoro ga' or 'tokoro no namae', or drop tokoro from block A — it is doing little work here and has no sentence card anyway.",
+   "severity": "minor"
+  },
+  {
+   "item": "#122 kaze, #120 hi, #160 ima",
+   "problem": "Unflagged accent-identical or near-identical homophones, in a deck that flags them meticulously elsewhere: kaze 'wind' [0] vs kaze 'a cold' [0] (identical, and the cold sense is extremely frequent in exactly the conversational register this block targets); hi 'sun/day' [1] vs hi 'fire' [1] (identical); ima 'now' [1] vs ima 'living room' [0] (segmentally identical).",
+   "fix": "Add withholding notes of the same kind used for ame/hana/kami, at minimum for kaze.",
+   "severity": "minor"
+  },
+  {
+   "item": "Drill D11 location wheel",
+   "problem": "The fixed frame 'tsukue no ___' rotated across all ten relational nouns generates nonsense and semantic clashes: 'tsukue no soto' (outside the desk) is not a thing, and 'tsukue no tonari' violates the deck's own gloss for tonari ('next to, same kind of thing') — a desk's tonari is another desk, not an arbitrary object.",
+   "fix": "Use two head nouns: 'hako no ue/naka/shita/soto' for the containment set, 'isu no tonari/yoko/mae/ushiro/soba/chikaku' for the lateral set.",
+   "severity": "minor"
+  },
+  {
+   "item": "Drill D10 'my family's cat' -> 'uchi no kazoku no neko.'",
+   "problem": "Nobody says this. 'uchi no neko' already means the family's cat; stacking kazoku is a translationese chain built to hit the three-link target rather than to be said.",
+   "fix": "'tomodachi no ie no neko' or 'ani no kuruma no kagi' — both are in inventory and both are things people say.",
+   "severity": "minor"
+  },
+  {
+   "item": "S99 'tamago no sara.' gloss 'The egg plate.'",
+   "problem": "The NP is odd in both directions: 'tamago no sara' would be read as a plate made of egg or, at a stretch, the plate the eggs are on, and neither is what an English speaker means by 'the egg plate'. The card is being used to smuggle in tamago rather than to say anything.",
+   "fix": "'sara no ue, tamago.' or 'kore, tamago?'",
+   "severity": "minor"
+  },
+  {
+   "item": "S103 'uchi no haha.'",
+   "problem": "Attested but redundant: haha is already the humble 'my mother', so uchi no adds nothing and sounds like a learner stacking possessives. Compare S105 'uchi no kazoku', where uchi no is doing real work.",
+   "fix": "'haha no kuruma.' or 'uchi no haha ja nai.' if the uchi no frame must be reused.",
+   "severity": "minor"
+  },
+  {
+   "item": "Drill D3 target",
+   "problem": "The target says 'Under 0.8s latency on all 12 cues' but only 8 cues are specified in the spec. Either four cues were dropped or the target is stale — and 0.8s for an 8-mora chunk like 'ano, chotto sumimasen' is not achievable on day 2 anyway.",
+   "fix": "List all cues, and set day-2 latency at 1.5s falling to 0.8s by day 5.",
+   "severity": "minor"
+  }
+ ],
+ "missing": [
+  "aru / iru. This is the largest hole in the block. Ten relational nouns (ue, shita, naka, soto, mae, ushiro, tonari, yoko, chikaku, soba) plus the ga particle plus a full location wheel are taught, and there is no way to predicate any of it: 'tsukue no ue ni aru' is unsayable. Worse, nai (#168) is introduced as the negative of an existence verb that the learner has never met, so 'shikata ga nai' can only be memorized as an opaque noise.",
+  "Verbs and adjectives generally. In 168 items there is exactly ONE verb (yuu) and ONE adjective (nai). A 14-day block that produces a learner who can name 90 nouns and predicate none of them will not survive contact with the 4-minute conversation D14 promises. At minimum: aru, iru, ii, wakaru (and wakannai / wakaranai — arguably the single highest-yield survival item for an audio-only learner, and completely absent), shitteru / shiranai.",
+  "Short 'e?' (surprise). Item #5's own note instructs the tutor to 'Contrast length against a short e' — and short e is never carded. The block's entire premise is a length contrast (un/uun, day 1); ee vs e is the same contrast in the most frequent reaction token in casual Japanese and it is left on the table.",
+  "Reaction tokens: sugoi, yabai, iya (casual no, distinct from uun), and 'un un' (double backchannel). D2 asks for 12+ non-repeating placements in 60 seconds from a pool of 7 tokens, which forces near-repeats; the pool needs to be 10-12 deep.",
+  "Question words. The kosoado grid is complete to 20 cells but the interrogative inventory is not: dare, itsu, nande / naze, nanji, and bare nani (nani exists only welded inside the chunk 'X tte nani?', so the learner cannot ask 'nani?' or 'nani kore?'). dare and nande are higher-frequency than half the nouns in days 9-13.",
+  "Connectors: demo, kedo, dakara, de. Without these the day-14 cumulative conversation can only be a sequence of unlinked fragments.",
+  "Numbers and counters, entirely absent — no ichi-juu, no too, no hitotsu/futatsu, no nanji, no yoji/kuji/shichiji, no yonin, no ichiman. If they are deferred to block B that should be stated in the block header, because the QA checklist for this course explicitly verifies these forms and there is nothing here to verify.",
+  "'de wa nakatta' — the one-sided formal pair. de wa nai (#47) is present as the labelled RECOG expansion of ja nai, but ja nakatta (#46) has no corresponding de wa nakatta. Every other member of the copula paradigm is matched.",
+  "mada / moo as free adverbs. moo appears only welded inside 'moo ichido onegai'; mada is absent. 'moo ii', 'mada' and 'mada mada' are day-1-frequency items.",
+  "'jan' (soo jan) and the explanatory -n da. #76 gives rising no, which is the question side; the assertion side ('nan da', 'soo na n da') is the more frequent half and is missing. If deferred, say so — day 14's handoff note lists the -teru/-chau/-jau/-toku/-doku/-tara/-dara/-cha dame/-ja dame families with both allomorphs correctly, so the deferral convention already exists.",
+  "No allomorph defects INSIDE block A: it contains no contraction families, and the block-B handoff correctly names both members of every pair. The only asymmetry in this block is de wa nai / de wa nakatta above."
+ ],
+ "verdict": "Not shippable as-is; roughly eight blocking fixes. The good news first: the notation contract is essentially clean — no -ei- spellings, no macrons, no undoubled long vowels, geminates doubled rigorously, kutsu and chichi correctly marked as non-geminates, all 92 nouns delivered in the 'X ga' frame including the frame-only kango, and the accent integers are right on well over 90% of items (haha [1] / chichi [2], hana [2] with nose [0] withheld, ame [1] with candy [0] withheld, hito [0] vs inu [2], atama [3], kotoba [3], tokoro [3] are all correct). The yuu correction was applied and the required nai item is present. Now the damage. Four hard one-target breaks: 'jaa' is used at S20 and carded nowhere in the entire 168-item inventory; S29 uses the quotative tte a full day before it exists AND the unintroduced past -tta; the rising terminal is used as the question marker in six sentences and a day-1 drill before S55 introduces it; and S63 books the prenominal copula na as if it were the musing final particle, which is a different morpheme. Beyond 1T: hako is almost certainly [0] not [1], and that error takes drill D9's minimal pair down with it, while D9's binary DROP-ON-GA / NO-DROP response set cannot express the [1] class it is drilling. The grid lesson asserts asoko is the only broken cell when row 4's aa breaks the same pattern and is additionally a homophone conflation with the day-1 interjection. Two core cards are not Japanese: bare 'kore ga' as an answer, and 'koo koo' where a speaker must say 'soo soo'. The capstone drills 'kane ga nai' when the word is okane. And yuu is carded without its irregular iwanai / iimasu, which reproduces in a new form the exact defect the yuu correction was introduced to fix. Structurally, the block teaches 90 nouns, 10 relational nouns and the ga particle with no aru, no iru, no ii and no wakannai — one verb and one adjective in 168 items — so nothing in the second week can be predicated, and 48 items (about 30 of them PROD) never appear in a sentence card at all, with kawa never receiving the mandatory frame that is its only safety mechanism. Fix order: the four 1T breaks, hako plus D9, the yuu paradigm, kane to okane, then backfill aru/iru/ii/wakannai and the missing sentence cards before this block goes anywhere near a learner."
+}

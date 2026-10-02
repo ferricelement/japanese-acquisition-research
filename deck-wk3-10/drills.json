@@ -1,0 +1,366 @@
+[
+ {
+  "name": "D1 — un / uun length-and-contour discrimination",
+  "type": "perception + production, no grading",
+  "spec": "Beat at 60 bpm, one token per beat. Tutor plays a randomized 20-item string of un / uun. Learner taps LEFT for un, RIGHT for uun, then echoes. Pairs: 'un.' -> learner marks yes; 'uun.' -> no; 'un?' (rising) -> 'huh?'; 'uun.' -> no. Then reverse: English cue ('say yes' / 'say no'), learner produces, native audio checks. Direct payoff of the weeks 1-2 mora-timing block.",
+  "target": "18/20 correct discrimination and no leaked English 'uh-huh' on production.",
+  "block": "wk3-4"
+ },
+ {
+  "name": "D2 — backchannel over a monologue",
+  "type": "timing drill, no grading",
+  "spec": "Tutor speaks 60 seconds of Japanese the learner cannot parse. Learner must place a token in every pause: aa / hee / soo / naruhodo / sokka / honto? / majide? Rule: never the same token twice running. [pause] -> 'aa.'; [pause] -> 'hee.'; [pause] -> 'naruhodo.'; [pause] -> 'honto?'",
+  "target": "12 or more placements in 60s, all in-pause, no back-to-back repeats.",
+  "block": "wk3-4"
+ },
+ {
+  "name": "D3 — greeting call-and-response sprint",
+  "type": "chunk automaticity",
+  "spec": "Rapid situational cue -> chunk. 'It's 8am, neighbor' -> 'ohayoo.'; 'you bump someone' -> 'ano, chotto sumimasen.'; 'leaving for the night' -> 'jaa ne, oyasumi.'; 'food arrives' -> 'itadakimasu.'; 'plate is empty' -> 'gochisoosama.'; 'colleague heads home' -> 'otsukaresama.'; 'first meeting' -> 'yoroshiku.'; 'friend has an exam' -> 'ganbatte.'",
+  "target": "Under 0.8s latency on all 12 cues, two clean passes.",
+  "block": "wk3-4"
+ },
+ {
+  "name": "D4 — extraction toolkit under pressure",
+  "type": "survival drill",
+  "spec": "Tutor drops one unknown Japanese word into a stream every 15s. Learner fires the right tool: unknown word heard -> \"'___' tte nani?\"; couldn't catch it -> 'sumimasen, moo ichido onegai.'; too fast -> 'ano, yukkuri onegai.'; wants an English-to-Japanese lookup -> 'nihongo de nan te yuu no?'",
+  "target": "4/4 tools fired correctly and unprompted inside a 2-minute stream.",
+  "block": "wk3-4"
+ },
+ {
+  "name": "D5 — copula paradigm against a beat",
+  "type": "conjugation beat",
+  "spec": "One form per beat, cycling: soo da / soo desu / soo ja nai / soo datta / soo deshita / soo ja nakatta. Then randomized: 'plain, negative' -> 'soo ja nai.'; 'polite, past' -> 'soo deshita.'; 'plain, past negative' -> 'soo ja nakatta.'; 'polite, present' -> 'soo desu.' de wa nai is played to the learner but never requested.",
+  "target": "Full 6-form cycle twice with no dropped beat; 10/10 on randomized cue.",
+  "block": "wk3-4"
+ },
+ {
+  "name": "D6 — kosoado grid, column then row",
+  "type": "grid substitution",
+  "spec": "Read DOWN the columns first (kore/kono/koko/koo/konna, then the so-, a-, do- columns), then ACROSS the rows (kore/sore/are/dore). Then cue by coordinate: 'row 3, A-column' -> 'asoko' plus the spoken flag that the pattern predicts *ako; 'row 1, DO-column' -> 'dore', plus the observation that the whole DO- column is accent [1].",
+  "target": "All 20 cells produced from coordinates in under 45s; learner states the asoko irregularity unprompted.",
+  "block": "wk3-4"
+ },
+ {
+  "name": "D7 — adnominal plus noun substitution",
+  "type": "slot substitution",
+  "spec": "Fixed frame 'kono ___ da yo' with kono/sono/ano/dono rotating and the day's nouns filling the slot. 'this car' -> 'kono kuruma da yo.'; 'that box by you' -> 'sono hako da yo.'; 'which chair?' -> 'dono isu?'; 'that person over there' -> 'ano hito da yo.' Runs daily from day 7 using the newest 12 nouns.",
+  "target": "24 substitutions in 90s with correct accent on the noun.",
+  "block": "wk3-4"
+ },
+ {
+  "name": "D8 — final-particle prosody",
+  "type": "prosody drill, no grading",
+  "spec": "One segmental string, six tails, meaning carried entirely by the ending: 'soo da.' (flat statement) / 'soo da ne.' (seeking agreement) / 'soo da yo.' (informing) / 'soo da yo ne.' (assert plus check) / 'soo da na...' (musing) / 'soo?' (rising, doubting). Tutor plays one, learner names the stance in English; then reverse, English stance -> Japanese tail.",
+  "target": "6/6 in both directions; learner never attaches ka to a plain form.",
+  "block": "wk3-4"
+ },
+ {
+  "name": "D9 — 'X ga' accent discrimination (heiban vs odaka)",
+  "type": "perception, no grading",
+  "spec": "Pairs where the bare noun is acoustically identical and only ga reveals the accent: 'hito ga' [0] vs 'inu ga' [2]; 'sara ga' [0] vs 'hako ga' [1]; 'kaze ga' [0] vs 'ame ga' [1]; 'kabe ga' [0] vs 'kagi ga' [2]; 'hoshi ga' [0] vs 'tsuki ga' [2]. Learner marks DROP-ON-GA or NO-DROP.",
+  "target": "16/20. This drill is the reason every noun is stored in the ga frame.",
+  "block": "wk3-4"
+ },
+ {
+  "name": "D10 — N no N chains",
+  "type": "chain building",
+  "spec": "Build two- then three-link chains. 'my brother's car' -> 'ani no kuruma.'; 'my friend's house's window' -> 'tomodachi no ie no mado.'; 'the top of the desk' -> 'tsukue no ue.'; 'my family's cat' -> 'uchi no kazoku no neko.'; then the question form: 'where's this from?' -> 'kore, doko no?'",
+  "target": "Ten chains, at least four of them three-link, with no dropped no.",
+  "block": "wk3-4"
+ },
+ {
+  "name": "D11 — location-noun wheel",
+  "type": "slot substitution",
+  "spec": "Fixed head noun, rotating relational noun: 'tsukue no ue / shita / naka / soto / mae / ushiro / tonari / yoko / chikaku / soba'. Then cued from English: 'under the chair' -> 'isu no shita.'; 'inside the box' -> 'hako no naka.'; 'right beside the chair' -> 'isu no soba.' (soba is produced only inside this frame, never bare.)",
+  "target": "All ten relational nouns produced from English cue in under 60s.",
+  "block": "wk3-4"
+ },
+ {
+  "name": "D12 — live mining",
+  "type": "open drill",
+  "spec": "Tutor talks for three minutes about the room. Each time the learner hears an unknown noun they interrupt with \"'___' tte nani?\", write the romaji themselves, and re-use the item within 30 seconds inside 'kore, ___?' or '___, doko?'",
+  "target": "Three items mined, transcribed in correct Hepburn (doubled long vowels, doubled geminates, n' before a vowel), and re-used in a sentence.",
+  "block": "wk3-4"
+ },
+ {
+  "name": "D13 — full-sentence copula beat",
+  "type": "production sprint",
+  "spec": "English cue -> full Japanese sentence, one per beat. 'Is this a cat?' -> 'kore, neko?'; 'This isn't a desk.' -> 'kore, tsukue ja nai.'; 'It's that car over there.' -> 'ano kuruma da yo.'; 'It was over there.' -> 'asoko datta.'; 'Where was the key again?' -> 'kagi, doko datta kke.'; 'It's my brother's car.' -> 'ani no kuruma da yo.'",
+  "target": "20 cues, 18 correct, average latency under 1.5s.",
+  "block": "wk3-4"
+ },
+ {
+  "name": "D14 — block A cumulative shadow",
+  "type": "shadowing plus recall, no grading",
+  "spec": "A 4-minute scripted conversation built from block-A inventory only, with no topic wa anywhere. Learner shadows at 0.8x, then 1.0x, then produces the second speaker's lines from English prompts alone. Closes on the two capstone frames: 'shikata ga nai.' and 'kane ga nai.'",
+  "target": "Shadowing at 1.0x with no more than three dropped morae; both capstone frames produced cold.",
+  "block": "wk3-4"
+ },
+ {
+  "name": "Wh-answer chain",
+  "type": "substitution",
+  "spec": "Beat at 60bpm. English cue, learner answers aloud in Japanese, native audio confirms. 'Who's there?' > Dare ga iru? | 'A friend.' > Tomodachi ga iru. | 'What's there?' > Nani ga aru? | 'A key.' > Kagi ga aru. | 'Who ate it?' > Dare ga tabeta? | 'The kid did.' > Kodomo ga tabeta. Twelve cues, no wa anywhere in the run.",
+  "target": "12/12 with ga on both question and answer, no hesitation over one beat.",
+  "block": "wk4-6"
+ },
+ {
+  "name": "Star rejection",
+  "type": "negative evidence",
+  "spec": "Audio plays a mix of good and bad strings; learner says 'nai' (bad) or 'aru' (good) on the beat. Bad: *Dare wa iru. *Nani wa aru. *Dare wa tabeta. Good: Dare ga iru. Neko wa iru. Neko wa doko? Eki wa doko? This is the only negative evidence the learner will ever get for bare wa; run it every day of the six-day unit.",
+  "target": "18/20, and zero false 'good' on any *dare wa item.",
+  "block": "wk4-6"
+ },
+ {
+  "name": "ni / de switch",
+  "type": "substitution",
+  "spec": "One place noun, two predicates, alternating on the beat. kooen > kooen ni iru / kooen de asobu | uchi > uchi ni aru / uchi de taberu | mise > mise ni aru / mise de kau | heya > heya ni iru / heya de yomu | eki > eki ni iru / eki de matsu. Cue is the place noun plus English 'be' or 'do'.",
+  "target": "20 switches, no particle error, under 90 seconds.",
+  "block": "wk4-6"
+ },
+ {
+  "name": "Animacy sort",
+  "type": "sort",
+  "spec": "Rapid noun cue, learner supplies the right existence verb: neko > iru. kagi > aru. kodomo > iru. mizu > aru. tori > iru. kuruma > aru. sakana > iru. hako > aru. tomodachi > iru. densha > aru. Then the same list negative (inai / nai) and past (ita / atta).",
+  "target": "30 items, 100% on the positive run, 28/30 across negative and past.",
+  "block": "wk4-6"
+ },
+ {
+  "name": "Existence square",
+  "type": "paradigm",
+  "spec": "Four-cell grid called against the beat, animate row then inanimate row. iru / ita / inai / inakatta, then aru / atta / nai / nakatta. Cue is English tense plus polarity ('was not, animate'). Say aloud each round that aru's negative is nai, not *aranai.",
+  "target": "Both rows cold, 8 cells in under 12 seconds, accent correct ([0] row flat, [1] row falling).",
+  "block": "wk4-6"
+ },
+ {
+  "name": "Particle strip",
+  "type": "reduction",
+  "spec": "Native audio plays the careful version; learner immediately produces the stripped version, which is what gets graded. Yasai o taberu? > Yasai taberu? | Neko ga iru? > Neko iru? | Kagi ga atta? > Kagi atta? | Nani o suru? > Nani suru? | Kore ga wakaru? > Kore wakaru? Then reverse: stripped in, careful out.",
+  "target": "10 pairs each direction; the stripped form must come out faster than the careful one.",
+  "block": "wk4-6"
+ },
+ {
+  "name": "ga-object frame",
+  "type": "substitution",
+  "spec": "Fixed frame 'watashi wa ___ ga ___', both slots swapped on the beat. Objects: neko, niku, yasai, uta, e, okane, mizu. Predicates: suki, kirai, daisuki, joozu, heta, hoshii, wakaru, dekiru. A stray o is called out on the spot.",
+  "target": "24 productions, zero o-intrusions.",
+  "block": "wk4-6"
+ },
+ {
+  "name": "mo substitution",
+  "type": "substitution",
+  "spec": "Sentence in, mo-version out. Neko ga iru > Neko mo iru. | Yasai o taberu > Yasai mo taberu. | Watashi wa suki > Watashi mo suki. | Kooen ni iru > Kooen ni mo iru. | Uchi de taberu > Uchi de mo taberu. Point out that wa/ga/o vanish under mo but ni/de survive.",
+  "target": "15 items, correct deletion of wa/ga/o and correct retention of ni/de.",
+  "block": "wk4-6"
+ },
+ {
+  "name": "tte yutta",
+  "type": "quotation",
+  "spec": "Learner reports what the audio said. Audio 'Kooen ni iru.' > Kooen ni iru tte yutta. Audio 'Kagi ga nai.' > Kagi ga nai tte yutta. Then the imperfective: ... tte yutteta. Every production says yuu / yutta / yutteta; an 'itta' pronunciation is marked wrong immediately.",
+  "target": "10 reports, zero 'itta' pronunciations.",
+  "block": "wk4-6"
+ },
+ {
+  "name": "Family row",
+  "type": "paradigm",
+  "spec": "English cue names referent and audience. 'your dad' > otoosan. 'my dad, to a stranger' > chichi. 'your mum' > okaasan. 'my mum' > haha. 'your older brother' > oniisan. 'my older brother' > ani. 'your older sister' > oneesan. 'my older sister' > ane. 'my or your younger sister' > imooto. 'my or your younger brother' > otooto. Always run the row complete, never one member alone.",
+  "target": "10/10 on the in-group/out-group choice, every long vowel held full length (o-to-o-sa-N = 5 morae).",
+  "block": "wk4-6"
+ },
+ {
+  "name": "Noun-ga accent",
+  "type": "perception",
+  "spec": "Accent pairs heard in the ga frame, learner calls the pattern. hana ga (flower [2], fall on ga) against flat [0] nouns tori ga, niwa ga, michi ga, yasai ga. Also kagi ga [2], kutsu ga [2], niku ga [2] against okane ga [0], tegami ga [0], kusuri ga [0]. Bare word first, then the ga frame, so the learner hears why the frame is required.",
+  "target": "16/20 on the bare word, 20/20 in the ga frame.",
+  "block": "wk4-6"
+ },
+ {
+  "name": "Two-mention narration",
+  "type": "free production",
+  "spec": "Learner narrates a scene twice over. First mention takes ga (Neko ga iru), every later mention takes wa (Neko wa isu no shita ni iru. Neko wa gohan o taberu). Prompts: a room, a park, a shop. Ungraded; run at the end of days 27, 35 and 42.",
+  "target": "First mention ga, later mentions wa, sustained over six or more sentences.",
+  "block": "wk4-6"
+ },
+ {
+  "name": "Two-second dictation: 30 quantities, times and dates",
+  "type": "DICTATION",
+  "target": "27 of 30 correct, each answer begun within 2.0 s of the audio ending. Run daily from W5D3; the block is not finished until this is passed twice on consecutive days.",
+  "spec": "Audio plays ONE item at a time. Learner says the English back aloud within 2 s (a stopwatch beep at 2.0 s marks the deadline; an answer that starts after the beep is wrong even if correct). No replays, no pausing. Score aloud, move on. Full set, in the order run:\n1. audio 'sanbon' -> 'three (bottles)'\n2. 'sanbai' -> 'three glasses'\n3. 'sanbiki' -> 'three animals'\n4. 'sanpun' -> 'three minutes'\n5. 'sanmai' -> 'three flat things'\n6. 'sangai' -> 'third floor'\n7. 'sankai' -> 'three times'\n8. 'sannin' -> 'three people'\n9. 'mittsu' -> 'three (things)'\n10. 'roppon' -> 'six (bottles)'\n11. 'rokunin' -> 'six people'\n12. 'rokuji' -> 'six o'clock'\n13. 'roppun' -> 'six minutes'\n14. 'rokko' -> 'six pieces'\n15. 'yoji' -> 'four o'clock'\n16. 'yonin' -> 'four people'\n17. 'yokka' -> 'the 4th'\n18. 'yooka' -> 'the 8th'\n19. 'tooka' -> 'the 10th'\n20. 'juuyokka' -> 'the 14th'\n21. 'hatsuka' -> 'the 20th'\n22. 'tsuitachi' -> 'the 1st'\n23. 'kuji han' -> 'half past nine'\n24. 'gozen juuji' -> 'ten a.m.'\n25. 'gogo shichiji juugofun' -> 'seven fifteen p.m.'\n26. 'sen'en' -> 'one thousand yen'\n27. 'ichiman'en' -> 'ten thousand yen'\n28. 'roppyaku' -> 'six hundred'\n29. 'happyaku' -> 'eight hundred'\n30. 'hyakugojuuen' -> 'one hundred fifty yen'\nItems 1-8 are deliberately one minimal set: the same numeral against eight counters. If a miss happens, it will happen there, and that is the diagnostic.",
+  "block": "wk5-8-numbers"
+ },
+ {
+  "name": "Reverse dictation: English in, Japanese out",
+  "type": "DICTATION_PROD",
+  "target": "25 of 30 within 2.0 s. Run it only after the RECOG version is passing.",
+  "spec": "Same 30 items, direction flipped. English prompt, learner produces the Japanese aloud, native audio plays to check. E.g. prompt 'six minutes' -> say 'roppun' -> audio 'roppun'. Prompt 'the 8th' -> 'yooka' -> audio 'yooka'. Prompt 'four o'clock' -> 'yoji' -> audio 'yoji'. Prompt 'ten thousand yen' -> 'ichiman'en' -> audio 'ichiman'en'. A hesitation past 2 s counts as a miss even if the word is right - the whole point of this block is retrieval speed at conversational tempo.",
+  "block": "wk5-8-numbers"
+ },
+ {
+  "name": "The p/b/h chant",
+  "type": "DRILL",
+  "target": "Run all four series without a stumble at 100 bpm, one cell per beat. No grading, no scoring - it is a rhythm exercise.",
+  "spec": "Four series, same phonology, run one after another against a metronome:\n-hon: 'ippon nihon sanbon yonhon gohon roppon' | 'nanbon'\n-hiki: 'ippiki nihiki sanbiki yonhiki gohiki roppiki' | 'nanbiki'\n-hai: 'ippai nihai sanbai yonhai gohai roppai' | 'nanbai'\n-fun: 'ippun nifun sanpun yonpun gofun roppun' | 'nanpun'\nThe shape is identical every time: 1 geminates, 3 changes at the nasal, 6 geminates, 4 and 5 do nothing. The one thing to notice out loud: the first three series voice at 3 (b), and -fun does not (sanpun, p). Say 'sanbon sanbiki sanbai SANPUN' as a tag at the end of every run until the odd one is felt rather than recalled.",
+  "block": "wk5-8-numbers"
+ },
+ {
+  "name": "The escape hatch",
+  "type": "DRILL",
+  "target": "Under pressure, produce a usable -tsu form instead of freezing. Success is fluency, not counter accuracy.",
+  "spec": "Prompt with an object and a number; the learner must answer within 1.5 s using ANY correct counter. If the specific counter does not arrive in time, -tsu is the required fallback and scores as a pass. E.g. 'three apples' -> 'ringo o mittsu kudasai' (pass) or 'ringo o sanko kudasai' (also pass). 'two bottles of water' -> 'mizu o nihon kudasai' (pass) or 'mizu o futatsu kudasai' (pass). 'five tickets' -> 'kippu o gomai' (pass) or 'kippu o itsutsu' (pass). Freezing is the only fail. Run twenty items a session, mixed objects, numbers 1-9.",
+  "block": "wk5-8-numbers"
+ },
+ {
+  "name": "The myriad ladder",
+  "type": "DRILL",
+  "target": "Say each rung without recomputing from English. The break at 10,000 must stop feeling like a break.",
+  "spec": "Ascending, then descending, said aloud: 'juu, hyaku, sen, ichiman' then 'juuman, hyakuman'. Then the prices: 'hyakuen, gohyakuen, sen'en, sanzen'en, ichiman'en'. Then the trap, said as an explicit self-correction: 'ten thousand is NOT juusen - ichiman'. English regroups at 1,000; Japanese regroups at 10,000, so every large number has to be re-cut, not translated digit by digit.",
+  "block": "wk5-8-numbers"
+ },
+ {
+  "name": "Date irregular sweep",
+  "type": "DRILL",
+  "target": "All twelve wago dates in order, then in shuffled order, under 20 s.",
+  "spec": "In order: 'tsuitachi futsuka mikka yokka itsuka muika nanoka yooka kokonoka tooka juuyokka hatsuka'. Then shuffled prompts, English to Japanese: 'the 6th' -> 'muika', 'the 8th' -> 'yooka', 'the 3rd' -> 'mikka', 'the 1st' -> 'tsuitachi', 'the 20th' -> 'hatsuka', 'the 14th' -> 'juuyokka'. Then the length triad on its own, ten slow repetitions: 'yokka - yooka - tooka'.",
+  "block": "wk5-8-numbers"
+ },
+ {
+  "name": "Transaction shadow",
+  "type": "DRILL",
+  "target": "Get through the whole exchange without a silent pause. ee to is allowed and encouraged.",
+  "spec": "Recorded clerk audio, learner takes the customer turns aloud in real time:\nclerk: 'irasshaimase' | learner: 'sumimasen, kore ikura desu ka'\nclerk: 'sen'en desu' | learner: 'ee to... sore ja, kore kudasai'\nclerk: 'fukuro irimasu ka' | learner: 'hai, onegaishimasu'\nclerk: 'zenbu de sen'en desu' | learner: 'kore de onegaishimasu'\nclerk: 'arigatoo gozaimashita' | learner: 'reshiito onegaishimasu'\nRun three variants with different prices (hyakugojuuen, gohyakuen, ichiman'en) and different quantities so the frame stays live instead of becoming one memorised recording.",
+  "block": "wk5-8-numbers"
+ },
+ {
+  "name": "Counter cell round-robin",
+  "type": "DRILL",
+  "target": "Any of the ~70 cells retrievable in under 1.5 s from a random prompt. This is the block's exit criterion alongside the dictation.",
+  "spec": "Random prompt of the form '<number> + <counter name>' in English, learner says the Japanese cell. E.g. 'six, animals' -> 'roppiki'. 'three, floors' -> 'sangai'. 'one, minutes' -> 'ippun'. 'four, people' -> 'yonin'. 'nine, o'clock' -> 'kuji'. 'six, flat' -> 'rokumai'. 'one, cups' -> 'ippai'. 'three, pieces' -> 'sanko'. Forty prompts a session, drawn evenly across the ten counters, cells 1-6 plus nan-.",
+  "block": "wk5-8-numbers"
+ },
+ {
+  "name": "PAIR RECALL (dictionary <-> -te)",
+  "type": "pair-storage, both directions, metronome",
+  "spec": "THE SPINE OF THE BLOCK. Run daily from day 36, growing as pairs accumulate. Metronome at 66 bpm, one beat per answer.\n\nLEG A (dict -> te), caller/learner:\n'nomu' -> 'nonde' | 'kaku' -> 'kaite' | 'kiku' -> 'kiite' | 'matsu' -> 'matte' | 'toru' -> 'totte' | 'hanasu' -> 'hanashite' | 'asobu' -> 'asonde' | 'erabu' -> 'erande' | 'isogu' -> 'isoide' | 'oyogu' -> 'oyoide' | 'taberu' -> 'tabete' | 'okiru' -> 'okite' | 'suru' -> 'shite' | 'kuru' -> 'kite' | 'IKU' -> 'ITTE' | 'SHINU' -> 'SHINDE' | 'kaeru' -> 'kaette' | 'hairu' -> 'haitte' | 'shiru' -> 'shitte' | 'shaberu' -> 'shabette'\n\nLEG B (te -> dict), harder, run from day 43:\n'nonde' -> 'nomu' | 'asonde' -> 'asobu' | 'aruite' -> 'aruku' | 'isoide' -> 'isogu' | 'kaeshite' -> 'kaesu' | 'tabete' -> 'taberu'\nAMBIGUOUS ITEMS — the required answer is BOTH members plus the disambiguating accent or frame:\n'yonde [1]' -> 'yomu' ; 'yonde [0]' -> 'yobu'\n'kitte [1]' -> 'kiru, cut' ; 'kite [0]' -> 'kiru, wear' ; 'kite [1]' -> 'kuru'\n'itte [0]' -> 'iku OR iru need — phrase-only: eki ni itte / okane ga itte'\n'atte [1]' -> 'au OR aru — phrase-only: tomodachi ni atte / jikan ga atte'\n'shite [0]' -> 'suru' ; 'shitte [0]' -> 'shiru'\n\nRULE THE LEARNER STATES ALOUD ONCE PER SESSION: 'the te-form carries the same accent number as the dictionary form.' True for all 65 pairs in the block — verify it, do not just assert it.",
+  "target": "By day 56: 65 pairs, both legs, answer inside one beat (< 1.0 s), 95% correct across two consecutive sessions, with te-form accent matching the dictionary index. The four ambiguous te-forms must be answered 'phrase-only' with both readings named. THIS IS THE BLOCK E GATE — do not open the -te chant until it passes.",
+  "block": "wk6-8-verbs"
+ },
+ {
+  "name": "CODA-CLASS SORT",
+  "type": "audio-only classification, no writing",
+  "spec": "Caller says a dictionary form; learner answers with the TE-ENDING SOUND ONLY, not a grammatical label. Four buckets: -tte / -nde / -ite~-ide / -shite.\n\n'erabu' -> '-nde' | 'nugu' -> '-ide' | 'kasu' -> '-shite' | 'utsu' -> '-tte' | 'sumu' -> '-nde' | 'oku' -> '-ite' | 'hashiru' -> '-tte' | 'sawagu' -> '-ide' | 'naosu' -> '-shite' | 'tatsu' -> '-tte' | 'tobu' -> '-nde' | 'tsuku' -> '-ite' | 'warau' -> '-tte' | 'tanomu' -> '-nde'\n\nEXCEPTION SUB-SET, answered by name not by rule:\n'iku' -> 'EXCEPTION: itte' | 'shinu' -> 'THE ONLY -nu VERB: shinde'\n\nThe voicing contrast -ite / -ide is run as its own block against the metronome: kaite / isoide / kiite / oyoide / aruite / nuide / tsuite / sawaide.",
+  "target": "40 items at 95%, with both exceptions named on sight rather than derived. Learner can state without prompting: 'nine godan codas, seven of them I can hear a pattern in, -nu has one member in the whole language, and iku just does its own thing.'",
+  "block": "wk6-8-verbs"
+ },
+ {
+  "name": "-MASU SHELL SUBSTITUTION",
+  "type": "six-tail substitution against a beat, accent-gated",
+  "spec": "REQUIRED DRILL, week 7. 60 bpm, one form per beat, no pause between tails. Caller gives the dictionary form; learner runs the whole shell.\n\nCALLER 'nomu' ->\n  nomimasu [3] / nomimasen [4] / nomimashita [3] / nomimasen deshita [4] / nomimashoo [4] / nomimasen ka [4]\nCALLER 'iku' ->\n  ikimasu [3] / ikimasen [4] / ikimashita [3] / ikimasen deshita [4] / ikimashoo [4] / ikimasen ka [4]\nCALLER 'taberu' ->\n  tabemasu [3] / tabemasen [4] / tabemashita [3] / tabemasen deshita [4] / tabemashoo [4] / tabemasen ka [4]\nCALLER 'matsu' ->\n  machimasu / machimasen / machimashita / machimasen deshita / machimashoo / machimasen ka\nCALLER 'hanasu' ->\n  hanashimasu / hanashimasen / hanashimashita / hanashimasen deshita / hanashimashoo / hanashimasen ka\nCALLER 'kuru' ->\n  kimasu / kimasen / kimashita / kimasen deshita / kimashoo / kimasen ka\nCALLER 'suru' ->\n  shimasu / shimasen / shimashita / shimasen deshita / shimashoo / shimasen ka\nCALLER 'au' ->\n  aimasu / aimasen / aimashita / aimasen deshita / aimashoo / aimasen ka\n\nACCENT GATE, THE POINT OF THE DRILL: -masu and -mashita take MA. -masen, -masen deshita and -masen ka take SE. -mashoo takes SHO. THREE OF THE FIVE BREAK THE NAIVE 'ALWAYS MA' RULE. Any run containing *nomímasen or *ikímashoo is a failed run and is repeated from the top, not corrected mid-stream.",
+  "target": "8 verbs x 6 tails, one form per beat at 60 bpm, ZERO accent errors, on two consecutive days. Then re-run with the caller giving English prompts ('let's wait' -> machimashoo) at the same tempo.",
+  "block": "wk6-8-verbs"
+ },
+ {
+  "name": "I-STEM TAIL CHAIN",
+  "type": "one shelf, ten tails, spoken as a single run",
+  "spec": "Caller gives the i-stem alone; learner runs all ten tails without stopping. The drill exists to make the SHELF audible as one object.\n\n'nomi-' -> nomitai / nominagara / nomi ni iku / nomikata / nomisugiru / nomiyasui / nominikui / nomihajimeru / nomiowaru / nomitsuzukeru\n'tabe-' -> tabetai / tabenagara / tabe ni iku / tabekata / tabesugiru / tabeyasui / tabenikui / tabehajimeru / tabeowaru / tabetsuzukeru\n'yomi-' -> yomitai / yominagara / yomi ni iku / yomikata / yomisugiru / yomiyasui / yominikui / yomihajimeru / yomiowaru / yomitsuzukeru\n'aruki-' -> arukitai / arukinagara / aruki ni iku / arukikata / arukisugiru / arukiyasui / arukinikui / arukihajimeru / arukiowaru / arukitsuzukeru\n'hanashi-' -> hanashitai / hanashinagara / hanashi ni iku / hanashikata / hanashisugiru / hanashiyasui / hanashinikui / hanashihajimeru / hanashiowaru / hanashitsuzukeru\n'shi-' -> shitai / shinagara / shi ni iku / shikata / shisugiru / shiyasui / shinikui / shihajimeru / shiowaru / shitsuzukeru\n\nOUTPUT-CLASS TAG, said aloud after each run: -tai and -yasui and -nikui make I-ADJECTIVES; -sugiru and -hajimeru and -tsuzukeru make ICHIDAN VERBS; -owaru makes a GODAN -ru VERB; -kata makes a NOUN. So each tail re-enters the system it came from.",
+  "target": "6 stems x 10 tails with no hesitation, plus the output-class tag correct for all ten. Learner can state the block's thesis in one sentence: 'it is one shelf and twenty tails, not twenty grammar points.' ACCENT NOTE: the -kata, -hajimeru, -owaru and -tsuzukeru compounds carry accents flagged for verification — drill them from native audio, not from a written number.",
+  "block": "wk6-8-verbs"
+ },
+ {
+  "name": "-NAI FORMATION",
+  "type": "dictionary -> negative -> negative past, metronome",
+  "spec": "REQUIRED DRILL, week 8. Caller gives the dictionary form; learner gives -nai then -nakatta, two beats.\n\nICHIDAN: 'taberu' -> tabenai [3], tabenakatta [4] | 'miru' -> minai [2], minakatta [3] | 'neru' -> nenai [2] | 'okiru' -> okinai [3] | 'dekiru' -> dekinai [3]\nGODAN -mu/-bu/-nu: 'nomu' -> nomanai [3] | 'yomu' -> yomanai [3] | 'asobu' -> asobanai [4] | 'yobu' -> yobanai [3] | 'shinu' -> shinanai [3]\nGODAN -ku/-gu: 'iku' -> ikanai [3] | 'kaku' -> kakanai [3] | 'aruku' -> arukanai [4] | 'isogu' -> isoganai [4]\nGODAN -su/-tsu: 'hanasu' -> hanasanai [4], hanasanakatta [5] | 'dasu' -> dasanai [3] | 'matsu' -> matanai [3] | 'katsu' -> katanai [3]\nGODAN -ru: 'toru' -> toranai [3] | 'kaeru' -> kaeranai [4] | 'hairu' -> hairanai [4] | 'wakaru' -> wakaranai [4]\nVOWEL + U — W-INSERTION: 'kau' -> kawanai [3] | 'YUU' -> IWANAI [3] | 'omou' -> omowanai [4] | 'suu' -> suwanai [3] | 'au' -> awanai [3] | 'morau' -> morawanai [4] | 'tsukau' -> tsukawanai [4] | 'narau' -> narawanai [4]\nIRREGULARS: 'suru' -> shinai [2] | 'kuru' -> konai [2] | 'ARU' -> NAI [1], nakatta [1]\n\nACCENT RULE, uniform and stated once: the accent lands on the mora immediately before -nai. -nakatta moves it to the ka.\nBANNED OUTPUTS, called out by name before the drill starts: *aranai, *yuwanai, *iunai, *kaanai, *shinai-for-shinu (shinu -> shinanai).",
+  "target": "30 verbs, -nai and -nakatta both, under 1.2 s each, 95%. Separate hard gates: aru -> nai correct 10/10 with no hesitation, and all eight vowel+u verbs correct on three consecutive runs.",
+  "block": "wk6-8-verbs"
+ },
+ {
+  "name": "W-INSERTION GATE",
+  "type": "polarity discrimination, mixed list",
+  "spec": "Sub-drill of the -nai drill, run on day 53 and then weekly. The caller reads a SHUFFLED list mixing vowel+u verbs with consonant+u verbs that look similar. Learner answers the -nai form only.\n\n'kau' -> kawanai | 'kaku' -> kakanai | 'YUU' -> IWANAI | 'yomu' -> yomanai | 'omou' -> omowanai | 'oku' -> okanai | 'suu' -> suwanai | 'sumu' -> sumanai | 'au' -> awanai | 'aru' -> NAI | 'morau' -> morawanai | 'motsu' -> matanai... (caller correction: motanai) | 'warau' -> warawanai | 'wakaru' -> wakaranai | 'narau' -> narawanai | 'naru' -> naranai | 'tsukau' -> tsukawanai | 'tsuku' -> tsukanai\n\nTHE RULE THE LEARNER MUST BE ABLE TO SAY, in this form and not the textbook form: 'if the dictionary form ends in a VOWEL plus u — -au, -iu, -ou, -uu — put a w in. The book says -au and the book is wrong about yuu.'",
+  "target": "20/20 on the shuffled list, twice. Zero *iunai and zero *yuwanai. Learner states the rule with all four vowel shapes, unprompted.",
+  "block": "wk6-8-verbs"
+ },
+ {
+  "name": "-ERU/-IRU TRAP AND ACCENT MINIMAL PAIRS",
+  "type": "recognition, accent-forced",
+  "spec": "Caller plays a TE-FORM with its accent; learner names the verb and its class. Everything hangs on hearing the pitch drop, so this is audio-only with no romaji shown.\n\n'kitte [1]' -> kiru, cut, GODAN\n'kite [0]' -> kiru, wear, ICHIDAN\n'kite [1]' -> kuru, irregular\n'kaette [1]' -> kaeru, GODAN (not *kaete)\n'haitte [1]' -> hairu, GODAN\n'hashitte [2]' -> hashiru, GODAN\n'shitte [0]' -> shiru, GODAN\n'shite [0]' -> suru, irregular\n'shabette [2]' -> shaberu, GODAN\n'kagitte [2]' -> kagiru, GODAN\n'nete [0]' -> neru, ICHIDAN (a genuine one)\n'okite [2]' -> okiru, ICHIDAN (a genuine one)\n'yonde [1]' -> yomu | 'yonde [0]' -> yobu\n'katte [1]' -> katsu | 'katte [0]' -> kau\nPHRASE-ONLY ITEMS, answered with both readings and a frame:\n'itte [0]' -> iku or iru-need: eki ni itte / okane ga itte\n'atte [1]' -> au or aru: tomodachi ni atte / jikan ga atte\n\nSECOND LEG: caller gives the dictionary form and the learner must say GODAN or ICHIDAN — but is required to justify it by producing the te-form, never by looking at the ending. 'How do you know?' -> 'because it's kaette.'",
+  "target": "100% on the four accent minimal pairs (kite/kite, yonde/yonde, katte/katte, kitte/kite). The two phrase-only items answered with both readings plus a disambiguating frame — answering with only one reading is a failure even if that reading is more common.",
+  "block": "wk6-8-verbs"
+ },
+ {
+  "name": "NI / DE / O SELECTION",
+  "type": "particle supply, spoken",
+  "spec": "Caller gives noun + blank + verb; learner supplies the particle and then says the whole sentence.\n\nuchi __ iru -> ni | uchi __ taberu -> de | eki __ iku -> ni (e also accepted) | kuruma __ iku -> de | mizu __ nomu -> o | michi __ aruku -> o | hachi-ji __ okiru -> ni | ashita __ iku -> NO PARTICLE | mainichi __ hataraku -> NO PARTICLE | tomodachi __ kiku -> ni | tomodachi __ au -> ni (NOT o) | tomodachi __ hanasu -> to | eki __ matsu -> de | nihongo __ wakaru -> ga (NOT o) | nihongo __ hanasu -> o | nihongo __ yuu -> de | heya __ hairu -> ni | eki __ aruku -> made or kara, both accepted with different meanings | tegami __ dasu -> o | koko __ oku -> ni\n\nTRAP ITEMS, deliberately included: au takes ni; wakaru and dekiru take ga; ashita and mainichi take nothing.\n\nTHE ONE-LINE SPLIT, recited at the end of every run: 'ni is where a thing sits, where it goes, and when. de is where the action happens and what I'm using. o is what I affect and what I travel along.'",
+  "target": "40 items at 95%, and the one-line split produced from memory. The three traps (au ni, wakaru ga, mainichi bare) at 100% before block E opens.",
+  "block": "wk6-8-verbs"
+ },
+ {
+  "name": "CHANT-7 - the seven-row call and response",
+  "type": "DRILL (production, ungraded, timed)",
+  "spec": "Audio only, no screen, eyes closed or walking. Prompt = dictionary form, single voice. Learner SAYS the -te form aloud; the native -te form plays 500 ms later as the check. Never any English.\n\nTHE CALL SHEET, in committed row order:\nR0  taberu>tabete, miru>mite, okiru>okite, neru>nete, iru>ite, dekiru>dekite, kureru>kurete, ageru>agete, oshieru>oshiete, dekakeru>dekakete, wasureru>wasurete\nR1  hanasu>hanashite, kasu>kashite, dasu>dashite, naosu>naoshite, kaesu>kaeshite\nR2  kaku>kaite, kiku>kiite, aruku>aruite, hataraku>hataraite, tsuku>tsuite, oku>oite\nR3  oyogu>oyoide, isogu>isoide, nugu>nuide, sawagu>sawaide\nR4  nomu>nonde, yomu>yonde, yasumu>yasunde, sumu>sunde, tanomu>tanonde, yobu>yonde, asobu>asonde, tobu>tonde, erabu>erande, [attached] shinu>shinde\nR5  kau>katte, au>atte, tsukau>tsukatte, warau>waratte, narau>naratte, matsu>matte, motsu>motte, tatsu>tatte, toru>totte, kaeru>kaette, hairu>haitte, hashiru>hashitte, shiru>shitte, tsukuru>tsukutte, wakaru>wakatte, aru>atte, yaru>yatte, morau>moratte, omou>omotte, yuu>yutte, tetsudau>tetsudatte, suwaru>suwatte\nR6  suru>shite, kuru>kite\nX   iku>itte  --  RUN SEPARATELY. Never inside an R2 block. Never before day 4.\n\nSCHEDULE: blocked by row for that row's first two sessions, then permanently randomised. R4 and R5 never share a session until R5 has had two clean blocked days.\n\nMETRONOME LADDER, one response per beat: 60 bpm (1000 ms) on the day of introduction, then 72, 84, 96, 108 across the next four sessions. A response inside a 100 bpm beat is a 600 ms window, which comfortably contains a 300 ms onset plus a three-mora form.\n\nDAILY DOSE: three runs of 40 items, spaced across the session (open, middle, close), about 12 min total.",
+  "target": "MEDIAN VOICE-ONSET LATENCY UNDER 300 ms, measured from prompt offset to first glottal energy, with accuracy at or above 90%, over a 40-item RANDOMISED (never blocked) list, on TWO CONSECUTIVE DAYS. Blocked-list latency does not count and must not be reported as a pass. Secondary gate: no single row's median exceeds the overall median by more than 120 ms - a slow row means that row is being retrieved lexically rather than generated, and it goes back to blocked.",
+  "block": "wk9-10-te"
+ },
+ {
+  "name": "TA-SWAP",
+  "type": "DRILL (production, timed)",
+  "spec": "Prompt = -te form, response = -ta form. Nothing else changes.\ntabete>tabeta, mite>mita, oshiete>oshieta, hanashite>hanashita, kashite>kashita, kaite>kaita, kiite>kiita, aruite>aruita, oyoide>oyoida, isoide>isoida, nonde>nonda, yonde>yonda, asonde>asonda, shinde>shinda, katte>katta, matte>matta, totte>totta, kaette>kaetta, shite>shita, kite>kita, itte>itta, yutte>yutta.\nRun it in the SAME session as each row's -te introduction, immediately after, never on a later day.",
+  "target": "Median onset under 250 ms. It must be FASTER than CHANT-7, because it is one vowel and no decision. If it is not faster, the learner is re-deriving from the dictionary form instead of operating on the -te form, and the -ta rule has not landed.",
+  "block": "wk9-10-te"
+ },
+ {
+  "name": "ROW-MIX LADDER",
+  "type": "DRILL (production, interference schedule)",
+  "spec": "Stage 1, day of introduction: single row, blocked, 40 items.\nStage 2, next session: that row plus the one before it, alternating in pairs.\nStage 3: three rows randomised.\nStage 4, from day 5 onward: all seven rows plus the iku exception, fully randomised, 40 items, every session for the rest of the course.\nHARD CONSTRAINT: R4 and R5 are the only two many-to-one rows and the only two confusable with each other (-Xnde vs -Xtte, both bimoraic endings on a truncated stem). They never enter the same mix until R5 has passed target blocked on two consecutive days.",
+  "target": "Randomised-mix accuracy within 5 points of blocked accuracy on the same rows. A larger gap means the rows are being retrieved by session context rather than by rule, and the ladder drops back one stage.",
+  "block": "wk9-10-te"
+ },
+ {
+  "name": "NASAL-VS-SILENCE",
+  "type": "DRILL (perception, RECOG, GATING)",
+  "spec": "Two-alternative forced choice. A form plays; the learner answers 'N' or 'stop'. Stimuli matched for mora count and pitch contour.\nyonde / yotte, nonde / notte, sunde / sutte, tonde / totte, kande / katte, shinde / shitte, asonde / atatte.\nSTIMULI ARE PERCEPTION MATERIAL, NOT VOCABULARY - several are not words the learner owns, and no meanings are attached. This is the wk 1-2 gemination block being cashed in on real morphology.\nRun 30 trials on day 3 and again on day 4, then twice weekly.",
+  "target": "95% over 30 trials with a 700 ms response window. BELOW 90% ON DAY 4, R5 DOES NOT OPEN - re-run the perception block instead. This is the one gate in the block that is allowed to stop the schedule, and it exists because drilling a silent-cue production a learner cannot hear installs a motor program with no feedback loop.",
+  "block": "wk9-10-te"
+ },
+ {
+  "name": "ASPECT SORT",
+  "type": "DRILL (categorisation, RECOG)",
+  "spec": "A -teru form plays; the learner answers 'now' or 'state'. No English sentence, no context - the point is that the VERB decides.\nnow: tabeteru, hanashiteru, matteru, aruiteru, yonderu, nonderu, asonderu, hataraiteru\nstate: shitteru, motteru, sunderu, aiteru, kekkon shiteru, tsuiteru, haitteru\nRun it in the SAME session as the -teru introduction, both readings interleaved from the first trial. NEVER run a block of one reading followed by a block of the other - that installs a default, and the default is then wrong half the time.\nFrom day 11 the same drill extends to -te kuru: motion verb gives direction, cognition or change verb gives inchoative.",
+  "target": "95% over 40 interleaved trials, response under 400 ms. Repeat daily until two consecutive passes, then twice weekly.",
+  "block": "wk9-10-te"
+ },
+ {
+  "name": "VOICED-ALLOMORPH PAIRS",
+  "type": "DRILL (production, error-gated)",
+  "spec": "Prompt = -te form, response = the -chau/-jau form, with the two allomorphs alternating unpredictably.\ntabete>tabechau, kaite>kaichau, shite>shichau, kite>kichau, katte>katchau, matte>matchau, itte>itchau, hanashite>hanashichau,\nyonde>yonjau, nonde>nonjau, asonde>asonjau, sunde>sunjau, shinde>shinjau, oyoide>oyoijau, isoide>isoijau, nuide>nuijau.\nThen the same list to the past: -chatta / -jatta.\nSTATE THE RULE ONCE, GENERALLY, in this session: a -te ending takes cha, a -de ending takes ja. Name the three later constructions the same alternation governs - -toku/-doku, -tara/-dara, -cha dame/-ja dame - so the learner pays for it once and collects three times in weeks 11-12.",
+  "target": "ZERO voiceless leakage in 40 trials: not one *yonchau, *nonchau, *oyoichau. Accuracy on the voiced half must equal accuracy on the voiceless half. An asymmetry means only one allomorph was ever carded, which is the exact defect this drill exists to prevent.",
+  "block": "wk9-10-te"
+ },
+ {
+  "name": "BENEFACTIVE DIRECTION SWAP",
+  "type": "DRILL (production, transformation)",
+  "spec": "Prompt is a kureru sentence; response is the morau sentence for the same event, then back the other way. The particle must flip with it.\ntomodachi ga kashite kureta  <->  tomodachi ni kashite moratta\nsensee ga oshiete kureta  <->  sensee ni oshiete moratta\nani ga tetsudatte kureta  <->  ani ni tetsudatte moratta\nano hito ga mite kureta  <->  ano hito ni mite moratta\nBoth directions in the same set, order shuffled.",
+  "target": "90% over 24 transformations WITH the correct particle. Particle errors count as failures: ga/ni is the only thing carrying the subject flip, and English gives the learner no cue at all.",
+  "block": "wk9-10-te"
+ },
+ {
+  "name": "COLLISION FRAMES",
+  "type": "DRILL (perception plus meaning, RECOG)",
+  "spec": "Every stimulus is a 4-8 mora PHRASE, never a bare form, and every frame supplies a non-phonological cue - argument structure, animacy, particle, or a semantically restricted collocate. Learner gives the English meaning.\nH1  koko ni kite (come) | shatsu kite (wear) | hanashi kiite (listen) | kami o kitte (cut) | kitte ga aru? (stamp)\nH2  gakkoo ni itte (go) | namae yutte (say) | okane ga itte (need - recognition only, forever)\nH3  sooji shite (do) | namae shitteru? (know) | nani shiteru? (doing) - shiteru/shitteru is the money pair\nH4  pan katte (buy) | tomodachi ga katte (win)\nH5  uchi ni kaette (return) | shatsu o kaete (change)\nH6  zasshi yonde (read) | tomodachi yonde (call) | tomodachi ni atte (meet) | kagi ga atte (exist) | ie ni sunde (live) | te de totte (take)\nAudio must carry at least four morae AFTER the verb wherever pitch is doing the separating, or the contour is not recoverable.\nWHERE PITCH SEPARATES NOTHING - the three heiban itte forms, atte from au vs atte from aru, sunde 'live' vs sunde 'finish' - the frame is the ONLY cue, and the card says so out loud rather than pretending pitch will save it.",
+  "target": "95% over 50 trials at conversational speed with a 700 ms response window. Any member below 80% drops to phrase-only recognition and its production card is pulled until week 14.",
+  "block": "wk9-10-te"
+ },
+ {
+  "name": "IKU ISOLATION",
+  "type": "DRILL (production, contamination check)",
+  "spec": "iku>itte is drilled ONLY against R5 members, never against R2 members, until it is at 100% for three consecutive sessions.\nSafe list: kau>katte, iku>itte, matsu>matte, toru>totte, iku>itte, tsukau>tsukatte.\nContamination probe, run ONCE per session at the very end, five items only: kaku, kiku, iku, aruku, hataraku.\nIF THE LEARNER PRODUCES *iite: stop the mix immediately, re-block R2 alone for one full session, and do not run the probe again for two days.",
+  "target": "Zero *iite and zero *ikite on the probe, three sessions running. Also zero *kaitte and zero *kitte-for-kiku on the same probe - contamination runs both ways, and the reverse error (a regular -ku verb pulled into the -tte row) is the more damaging one because it has 30-plus members to spread to.",
+  "block": "wk9-10-te"
+ },
+ {
+  "name": "CHAIN BUILDER",
+  "type": "DRILL (production, fluency, ungraded)",
+  "spec": "The learner hears three to five English beats and produces ONE -te chain with a single tense marker at the end.\n'got up / ate / went out'  >  asa okite, gohan tabete, dekaketa.\n'bought bread / went home / cooked'  >  pan katte, uchi ni kaette, gohan tsukutta.\n'waited / met a friend / talked'  >  matte, tomodachi ni atte, hanashita.\n'read a magazine / slept / got up'  >  zasshi yonde, nete, okita.\n'hurried / wrote a letter / sent it'  >  isoide tegami kaite, dashita.\nBeats are drawn so consecutive links come from DIFFERENT chant rows.\nOne breath, no restart, no mid-chain self-correction - a restart is a failure even if the second attempt is correct.",
+  "target": "A three-link chain in under 5 s and a five-link chain in under 8 s, no restarts, on 8 of 10 attempts. This is the block's fluency exit and the only drill that tests the -te form doing its actual job rather than being conjugated.",
+  "block": "wk9-10-te"
+ }
+]

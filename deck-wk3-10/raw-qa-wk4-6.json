@@ -1,0 +1,125 @@
+{
+ "oneTargetViolations": [
+  "FATAL — Sentence 59 'Nani tte yutta?' carries THREE unintroduced elements: (a) yuu itself, (b) the quotative tte, which is carded nowhere in the block (not an item, not a prior declaration), and (c) the plain past -ta of a non-existence verb, which is never taught anywhere (only ita/atta/nakatta/inakatta exist). The card is unlearnable as placed.",
+  "FATAL — Drill 'Wh-answer chain', first run on D25, contains 'Dare ga tabeta?' / 'Kodomo ga tabeta.' taberu is not introduced until D29, and the plain past -ta of regular verbs is never introduced in this block at all. The drill cannot be run on the day it is scheduled and uses a form the learner never meets.",
+  "FATAL — Item 38 (nai, i-adj) has audioText 'jikan ga nai' and is introduced D30, but jikan is item 111, introduced D40. The card that teaches the i-adjective nai is built on a noun the learner will not meet for ten days. Sentence 85 then re-introduces jikan as its newElement, contradicting item 38.",
+  "FATAL — Item 112 (tenki) has audioText 'tenki ga ii'. ii is never introduced anywhere in the block: not in the item list, not in any sentence, not in any drill. The chunk card is unlearnable.",
+  "Sentence 52 'Kami ni kaku.' — two new elements: kaku AND ni of goal/surface, a function distinct from ni of existence (item 27). The note itself admits the second one ('ni here is the goal-surface'). Split into two cards.",
+  "Sentence 58 'Tomodachi ni au.' — two new elements: au AND ni of animate target, a third distinct ni function. The note again admits it ('its target is ni, not o').",
+  "Sentence 40 'Neko wa isu no shita ni iru.' — shita appears in no item entry anywhere in Block B (the D32 relational-noun set is tonari/ushiro/yoko/chikaku/aida/mawari/hidari/migi/soba/tokoro/kawa; shita, ue and naka are all absent). The card also debuts the N no + relational + ni frame, so it is two new things at once, one of them uncarded.",
+  "Sentence 43 'Kawa ga aru.' directly contradicts item 59, which declares kawa PHRASE-ONLY, permanently, living 'only in the collocation'. Either the item note or the sentence must go.",
+  "Items 27 (ni) and 28 (de) have audioText 'kooen ni iru' / 'kooen de asobu', but kooen is item 32 and asobu is item 29 — both carded later in the same day's list. Within-day ordering puts the frame before its own vocabulary.",
+  "Drill 'Animacy sort', scheduled D22, uses sakana (D25), tomodachi (D24) and densha (D40), then demands the negative row (inai/nai, D30) and the past row (ita/atta, D31). Unrunnable on D22 by 18 days.",
+  "Drill 'Star rejection', scheduled first on D23, uses dare and nani (D24), eki (D25) and *Dare wa tabeta (taberu D29, past never), and requires the learner to answer with the tokens 'nai'/'aru' — nai is not introduced until D30.",
+  "Drill 'ni / de switch', scheduled D29, uses mise de kau (kau is D33), heya de yomu (yomu is D33) and eki de matsu (matsu is D34).",
+  "Drill 'Particle strip', scheduled D33, contains 'Kore ga wakaru? > Kore wakaru?' — wakaru is D38.",
+  "Drill 'ga-object frame', first scheduled D36, lists all eight predicates (joozu/heta/hoshii are D37; wakaru/dekiru are D38) and okane (D37). On D36 only suki/kirai/daisuki exist.",
+  "Drill 'Two-mention narration', run at the end of D27 (and inside D23's lesson), uses 'Neko wa isu no shita ni iru. Neko wa gohan o taberu.' — ni is D29, taberu is D29, o is D33, gohan is D40.",
+  "Drill 'tte yutta', D34, is built entirely on the quotative tte (never carded) and on yutteta, i.e. the -teru contraction (never carded, never introduced as a construction anywhere in Block B).",
+  "STRUCTURAL — The block declares no prior inventory at all, so the 1T rule cannot be checked mechanically. The following appear in sentences/drills with no introduction anywhere: neko, mizu, kodomo, isu, shita, kuruma, hako, hito, inu, watashi, kore, kono, sono, ano, koko, doko, no, da, tabeta. Most are plausibly Block A, but shita and tabeta are not: shita belongs to this block's own D32 topic and tabeta is the past of a D29 verb. Block B needs an explicit 'assumes' list."
+ ],
+ "notationViolations": [
+  "Item 46 kesa: audioText is bare 'kesa', not the required 'X ga' noun frame. It is tagged 'noun (time)' and its own row-mates asa and yoru are correctly framed as 'asa ga' / 'yoru ga'. Inconsistent application of the frame rule.",
+  "Item 115 ima: audioText is bare 'ima', same violation as kesa. Both are [1] so nothing is lost acoustically, but the contract states nouns are recorded in the ga frame and the deck must not have two rules.",
+  "Relational-noun audioText uses an unusable frame: 'aida ga', 'mawari ga', 'ushiro ga', 'chikaku ga', 'yoko ga', 'tonari ga' are barely Japanese as isolated audio. The accent-disambiguating frame for a relational noun should be 'N no ushiro ni' / 'ushiro ni', which carries the following mora just as well.",
+  "Item 99 hoka: 'hoka ga' is the same problem — hoka is almost never a bare ga-subject; 'hoka ni' is the live frame.",
+  "NOT violated, for the record: no -ei- spelling anywhere (oneesan is correctly ee, eki is genuine e+ki); no macrons; every long vowel is doubled (kooen, joozu, otoosan, okaasan, oniisan, imooto, otooto, kyoodai); no missing n' (sen'en is correctly cited in item 106's note); every stated mora count is correct (ko-o-e-N 4, jo-o-zu 3, go-ha-N 3, o-N-na 3, o-to-o-sa-N 5, o-ne-e-sa-N 5, i-mo-o-to 4, kyo-o-da-i 4, cha 1 mora)."
+ ],
+ "japaneseErrors": [
+  {
+   "item": "Item 70 kami, note: \"kami 'hair' [1] is deliberately excluded\"",
+   "problem": "Wrong accent. 髪 'hair' is [2], identical to 紙 'paper' [2]. [1] is 神 'god'. So the note both misstates the accent and misses the real hazard: hair and paper are accent-identical minimal twins, exactly the case the deck elsewhere handles with a permanent phrase-only rule (soba/soba, kawa/kawa).",
+   "fix": "Correct the note to: kami 'hair' is also [2] and accent-identical to kami 'paper'; keep 'hair' out of the block entirely, or make one member permanently phrase-only.",
+   "severity": "major"
+  },
+  {
+   "item": "Item 90 shigoto [2]",
+   "problem": "仕事 is heiban [0] in standard Tokyo (shigoto ga stays high on ga), not [2]. This also breaks the 'Noun-ga accent' drill's premise, since shigoto would be sorted into the wrong column.",
+   "fix": "shigoto [0].",
+   "severity": "major"
+  },
+  {
+   "item": "Sentence 59 'Nani tte yutta?'",
+   "problem": "Before t/d/n, nani reduces to nan: the live form is 'Nan te yutta?' / 'Nante yutta?'. 'Nani tte' is at best a marked, emphatic re-ask. The nani~nan alternation is nowhere taught, so the learner is being given the wrong citation form of the commonest question in the block.",
+   "fix": "Card 'Nante yutta?' and add nan as an explicit alternant of nani (nan da, nante, nan de).",
+   "severity": "major"
+  },
+  {
+   "item": "Sentence 22 'Kono ie wa mado ga aru.'",
+   "problem": "Unnatural. Bare aru does not predicate an inherent part of a building. Japanese says mado ga ookii / mado ga ooi / mado ga takusan aru.",
+   "fix": "Replace with 'Kono ie wa mado ga ooi.' (needs ooi carded) or 'Kono heya wa mado ga aru?' as a genuine existence question; simplest fix inside current inventory: 'Kono ie ni wa niwa ga aru.'",
+   "severity": "major"
+  },
+  {
+   "item": "Every verb item (1,3,29,30,31,61,62,63,64,65,66,67,75,76,77,92,93) carries a teForm",
+   "problem": "The -te form is recorded on 17 items but is never introduced by any lesson, never appears in any sentence, and never appears in any drill. Meanwhile drill 'tte yutta' requires yutteta, which is the -teru contraction of that same form. The block ships -te data the learner never meets and then demands a -te-based contraction.",
+   "fix": "Either move teForm out of Block B, or add a -te/-teru unit before D34 so that yutteta is licensed.",
+   "severity": "major"
+  },
+  {
+   "item": "Coverage: roughly 30 of 126 items never appear in any sentence card",
+   "problem": "kasa, machi, yama, otoko, michi, yuka, kabe, tana, asa, yoru, ushiro, aida, mawari, hidari, migi, tokoro, hanasu, fuku, me, ashi, hoka, mono, sen, mikan, ringo, tenki, densha, shashin, kusuri, tamago, heya, ani, oneesan, kyoodai occur only in the item list (a handful appear in one drill). Whole sub-sets die on arrival: of the eleven D32 relational nouns only tonari, chikaku, yoko and soba are ever used; hanasu is a PROD verb with no sentence; kyoodai is a CHUNK with no chunk.",
+   "fix": "Either give each PROD item at least one sentence card, or demote the unused ones to RECOG-only and cut the dead weight from D32/D33/D40.",
+   "severity": "major"
+  },
+  {
+   "item": "Items 36 and 38 (nai / nai)",
+   "problem": "The same lexeme is carded twice with identical romaji and identical accent. The 'suppletive negative of aru' IS the i-adjective nai; the split is grammatical fiction and produces two cards the learner cannot tell apart except by the frame.",
+   "fix": "Keep one nai [1] item, and teach 'aru has no *aranai' as a note on aru plus the two chunks jikan ga nai / shikata ga nai.",
+   "severity": "minor"
+  },
+  {
+   "item": "Sentence 55 note: \"Careful expansion: Neko wa iru?\"",
+   "problem": "The newElement is declared as ga-drop, but the expansion supplied restores wa, not ga. Drill 'Particle strip' gives the opposite pairing ('Neko ga iru? > Neko iru?'). The two contradict each other on the same card.",
+   "fix": "Make the note 'Careful expansion: Neko ga iru?'",
+   "severity": "minor"
+  },
+  {
+   "item": "Sentence 87 'Otoosan wa uchi ni iru.' glossed 'Your dad's at home.'",
+   "problem": "Item 23 glosses uchi as 'home (my place)'. Under that gloss the sentence says the addressee's father is at the speaker's house. The out-group card and the in-group noun clash on the one card that is supposed to teach out-group reference.",
+   "fix": "'Otoosan wa ie ni iru?' or 'Otoosan wa doko?' — keep uchi for chichi/haha sentences.",
+   "severity": "minor"
+  },
+  {
+   "item": "Sentence 19 'Uchi ga aru.'",
+   "problem": "Marginal as a neutral-description card; uchi ga aru is normally heard only in a contrastive or possession context, and the gloss hedges with two readings.",
+   "fix": "Use 'Uchi ni neko ga iru.' or drop the card and let sentence 20 carry uchi.",
+   "severity": "minor"
+  },
+  {
+   "item": "Drill 'Noun-ga accent': \"hana ga (flower [2], fall on ga)\"",
+   "problem": "Misleading wording. For odaka [2] the accented mora is na and the particle ga is LOW; nothing 'falls on ga'. Stated this way the learner may target a high ga, which is precisely the heiban pattern the drill is contrasting against.",
+   "fix": "Write 'flower [2]: ha-NA, ga drops LOW; contrast tori ga where ga stays HIGH.'",
+   "severity": "minor"
+  },
+  {
+   "item": "Adjacency: items 55/56 (hidari/migi), 100/101 (mono/koto), 23/24 (uchi/ie)",
+   "problem": "Three confusable pairs are carded back-to-back. Left/right and mono/koto are classic interference pairs for an audio-only learner, and uchi/ie are near-synonyms whose distinction is register, not meaning. The block's own rule keeps te/me 17 indices apart but ignores these.",
+   "fix": "Separate each pair by the same minimum 15 indices used elsewhere.",
+   "severity": "minor"
+  },
+  {
+   "item": "na-adjective items 80-82, 86-87 vs sentences 61-67",
+   "problem": "audioText is 'suki da / kirai da / daisuki da / joozu da / heta da' but every sentence card drops the copula ('Neko ga suki.', 'Uta ga joozu.'). The citation form and the production target disagree.",
+   "fix": "Pick one; for an audio-first casual deck the bare form is right, with 'X da' kept only as the accent frame and labelled as such.",
+   "severity": "minor"
+  }
+ ],
+ "missing": [
+  "ue and naka — the two highest-frequency relational nouns, both absent, while shita is used in sentence 40 without ever being carded. The D32 set is unusable without them.",
+  "The -te form and the -teru contraction. Every verb carries a teForm field, drill 'tte yutta' demands yutteta, and nothing teaches either. For an audio-first learner at week 6, -teru (nani shiteru?, matteru, shitteru) is the single most frequent verb shape in the stream.",
+  "The quotative tte. Used in sentence 59 and throughout drill 'tte yutta'; carded nowhere.",
+  "General plain past -ta and general plain negative -nai for non-existence verbs. The block teaches only ita/atta/nakatta/inakatta, yet drills use tabeta and yutta, and item 92's own note calls wakatta 'the commonest response token built on it' while wakatta is never carded. wakaranai, dekinai, tabenai, suki ja nai are all absent — the learner leaves day 42 unable to negate any verb except aru and iru.",
+  "to (with / and). 'tomodachi to au' is the normal form of sentence 58; the block teaches only ni. Also blocks 'neko to inu'.",
+  "iku and kuru. Absent, together with goal-ni, although sentence 52 quietly uses goal-ni for kaku.",
+  "ii. Required by item 112's own chunk 'tenki ga ii' and by any evaluation at all.",
+  "nan, the pre-t/d/n alternant of nani (nan da, nante, nan de). Needed for sentence 59 and for 'Nani suru?' in drill 'Particle strip'.",
+  "ne and yo. The two most frequent tokens in casual speech; if they are not in Block A they must be here — 'aru yo', 'inai ne' are the natural outputs of every drill in this block.",
+  "mada and moo. 'Mada aru', 'Moo nai' are the highest-frequency modifications of the existence predicate the whole block is built on.",
+  "takusan / ippai and sukoshi's counterpart amari. Only sukoshi is present.",
+  "shitteru / shiranai. Top-frequency, and the suppletion (shitteru's negative is shiranai, not *shitte(i)nai) is exactly the kind of item this deck exists to pre-empt.",
+  "The four required contraction pairs are entirely absent from the block: -chau/-jau, -toku/-doku, -tara/-dara, -cha dame/-ja dame. Because none appear, there is no one-sided pair to flag — but a block that ends at day 42 having taught zero contractions except particle-drop and tte contradicts the deck's own premise that contractions are the citation form.",
+  "An explicit prior-inventory ('assumes') declaration listing what Block A leaves available. Without it neither a human nor a checker can verify the 1T rule, and 19 items currently float unintroduced."
+ ],
+ "verdict": "The notation contract is, unusually, clean: no -ei-, no macrons, no undoubled long vowels, no missing n', and every stated mora count is right. The failures are elsewhere and they are structural. First, the drills are scheduled against days whose inventory does not exist yet — six of twelve drills are unrunnable as placed, and two of them (Animacy sort on D22, Wh-answer chain on D25) reach 8-18 days forward, including tabeta, a form the block never teaches at all. Second, the 1T rule is broken at the item level, not just the sentence level: item 38 teaches the i-adjective nai on D30 using a noun from D40, and item 112 is built on ii, which exists nowhere. Third, three constructions are smuggled in as free riders on vocabulary cards — goal-ni on kaku, target-ni on au, and the quotative tte plus -teru on yuu — the last of which puts three unknowns on one card. Fourth, the block leaves the learner unable to negate or past-tense any verb outside aru/iru while its own notes reference wakatta and yutteta. Two accent errors need correcting (shigoto is [0], and 髪 'hair' is [2] and therefore accent-identical to 'paper', which the note gets backwards), sentence 22 is not something a Japanese speaker would say, and roughly thirty items — including the entire left/right/behind/between/around set and the PROD verb hanasu — never appear in a single sentence. Not shippable as it stands; the drill scheduling and the four fatal 1T items are the blocking fixes, followed by ue/naka/shita, -teru, tte, and a declared prior inventory."
+}

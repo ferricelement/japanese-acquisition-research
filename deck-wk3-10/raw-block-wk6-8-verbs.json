@@ -1,0 +1,2985 @@
+{
+ "block": "D",
+ "weeks": "6-8 (days 36-56). NOTATION AUDIT: all long vowels doubled (sensee, kookoo-, -mashoo, koohii, Tookyoo); geminates doubled; n' before vowel/y; every item accented; yoon = 1 mora; nouns framed \"X ga\". CONTRACTIONS: none are the citation form in this block — block D is dictionary/-masu/-nai only; the -te form is stored as AUDIO ONLY (half of a pair), never analysed. -teru/-toku/-chau/-jau/-nakya/-cha/-ja/-tte/-n da all land in block E where the -te chant is induced from the pairs stocked here. VERIFIED CORRECTIONS APPLIED: yuu (not iu), yutte/yutta, and its -nai stem is IWANAI not *yuwanai; au = [1] not [0], so atte [1] is homophonous with atte from aru [1] (both permanently phrase-only); nai [1] is present as an i-adjective and as aru's suppletive negative; kookoosee = 6 morae, isshuukan = 6 morae (audited in the mora-count warm-up, no new cards). GATE STATUS AT END OF BLOCK: 65 verbs stored as (dictionary, -te) AUDIO PAIRS. Godan coda members: -ru 12, -u 9, -ku 6 (5 regular + iku), -mu 5, -su 5, -tsu 5, -bu 4, -gu 4, -nu 1. Eight of nine classes are >= 4; -nu has exactly one member in the language (shinu) and is therefore MEMORIZED, never induced — two exceptions total, iku and shinu. Block E's -te chant is inducible.",
+ "items": [
+  {
+   "n": 1,
+   "romaji": "suru",
+   "accent": "[0]",
+   "gloss": "do",
+   "pos": "verb, irregular (class 3)",
+   "cardType": "PROD",
+   "audioText": "suru, shite",
+   "teForm": "shite [0]",
+   "note": "i-stem shi-. te-form accent index ALWAYS equals the dictionary index — true for all 65 pairs in this block. shite [0] vs shitte [0] (shiru) is a gemination pair, not an accent pair."
+  },
+  {
+   "n": 2,
+   "romaji": "iru",
+   "accent": "[0]",
+   "gloss": "be, exist (animate)",
+   "pos": "verb, ichidan",
+   "cardType": "RECOG",
+   "audioText": "iru, ite",
+   "teForm": "ite [0]",
+   "note": "Word is known from block B. What is NEW here is the PAIR and the class tag. ichidan member 1."
+  },
+  {
+   "n": 3,
+   "romaji": "aru",
+   "accent": "[1]",
+   "gloss": "be, exist (inanimate); have",
+   "pos": "verb, godan -ru",
+   "cardType": "RECOG",
+   "audioText": "aru, atte",
+   "teForm": "atte [1]",
+   "note": "godan -ru member 1. atte [1] is ACOUSTICALLY IDENTICAL to atte [1] from au (47). Both permanently phrase-only: jikan ga atte / tomodachi ni atte."
+  },
+  {
+   "n": 4,
+   "romaji": "naru",
+   "accent": "[1]",
+   "gloss": "become",
+   "pos": "verb, godan -ru",
+   "cardType": "PROD",
+   "audioText": "naru, natte",
+   "teForm": "natte [1]",
+   "note": "godan -ru member 2."
+  },
+  {
+   "n": 5,
+   "romaji": "yuu",
+   "accent": "[0]",
+   "gloss": "say",
+   "pos": "verb, godan -u",
+   "cardType": "PROD",
+   "audioText": "yuu, yutte",
+   "teForm": "yutte [0]",
+   "note": "THE HIGHEST-VALUE CORRECTION IN THE BLOCK. Written 言う but pronounced YUU (2 morae, yu-u). Past = yutta. Reported speech = tte yutteta (block E). BUT the -nai stem is suppletive: IWANAI, not *yuwanai. Card the mismatch explicitly. godan -u member 1."
+  },
+  {
+   "n": 6,
+   "romaji": "omou",
+   "accent": "[2]",
+   "gloss": "think",
+   "pos": "verb, godan -u",
+   "cardType": "PROD",
+   "audioText": "omou, omotte",
+   "teForm": "omotte [2]",
+   "note": "godan -u member 2. -wanai verb: omowanai [4]."
+  },
+  {
+   "n": 7,
+   "romaji": "miru",
+   "accent": "[1]",
+   "gloss": "see, watch, look at",
+   "pos": "verb, ichidan",
+   "cardType": "PROD",
+   "audioText": "miru, mite",
+   "teForm": "mite [1]",
+   "note": "ichidan member 2."
+  },
+  {
+   "n": 8,
+   "romaji": "iku",
+   "accent": "[0]",
+   "gloss": "go",
+   "pos": "verb, godan -ku (EXCEPTION)",
+   "cardType": "PROD",
+   "audioText": "iku, itte",
+   "teForm": "itte [0]",
+   "note": "EXCEPTION 1 OF 2. te-form is itte, not *iite. Because the pair is stored as audio from day one, this costs nothing — there is no rule to except. itte [0] is homophonous with itte [0] from iru 'need' (62): both phrase-only."
+  },
+  {
+   "n": 9,
+   "romaji": "kuru",
+   "accent": "[1]",
+   "gloss": "come",
+   "pos": "verb, irregular (class 3)",
+   "cardType": "PROD",
+   "audioText": "kuru, kite",
+   "teForm": "kite [1]",
+   "note": "ACCENT MINIMAL PAIR: kite [1] = kuru; kite [0] = kiru 'wear' (61). Also kitte [1] = kiru 'cut' (29) — gemination + accent."
+  },
+  {
+   "n": 10,
+   "romaji": "wakaru",
+   "accent": "[2]",
+   "gloss": "understand, be clear",
+   "pos": "verb, godan -ru",
+   "cardType": "RECOG",
+   "audioText": "wakaru, wakatte",
+   "teForm": "wakatte [2]",
+   "note": "godan -ru member 3. Takes ga, not o: nihongo ga wakaru."
+  },
+  {
+   "n": 11,
+   "romaji": "dekiru",
+   "accent": "[2]",
+   "gloss": "can do, be able",
+   "pos": "verb, ichidan",
+   "cardType": "PROD",
+   "audioText": "dekiru, dekite",
+   "teForm": "dekite [2]",
+   "note": "ichidan member 3. Takes ga."
+  },
+  {
+   "n": 12,
+   "romaji": "taberu",
+   "accent": "[2]",
+   "gloss": "eat",
+   "pos": "verb, ichidan",
+   "cardType": "PROD",
+   "audioText": "taberu, tabete",
+   "teForm": "tabete [2]",
+   "note": "ichidan member 4 — ichidan class closed at item 12, the first class to close."
+  },
+  {
+   "n": 13,
+   "romaji": "nomu",
+   "accent": "[1]",
+   "gloss": "drink",
+   "pos": "verb, godan -mu",
+   "cardType": "PROD",
+   "audioText": "nomu, nonde",
+   "teForm": "nonde [1]",
+   "note": "godan -mu member 1. The anchor verb for every drill in this block."
+  },
+  {
+   "n": 14,
+   "romaji": "kau",
+   "accent": "[0]",
+   "gloss": "buy",
+   "pos": "verb, godan -u",
+   "cardType": "PROD",
+   "audioText": "kau, katte",
+   "teForm": "katte [0]",
+   "note": "godan -u member 3. ACCENT MINIMAL PAIR: katte [0] = kau; katte [1] = katsu (45). Keep 31 indices apart in scheduling — they are, days 37 and 56."
+  },
+  {
+   "n": 15,
+   "romaji": "matsu",
+   "accent": "[1]",
+   "gloss": "wait",
+   "pos": "verb, godan -tsu",
+   "cardType": "PROD",
+   "audioText": "matsu, matte",
+   "teForm": "matte [1]",
+   "note": "godan -tsu member 1. i-stem machi- (yoon-free, but note chi)."
+  },
+  {
+   "n": 16,
+   "romaji": "toru",
+   "accent": "[1]",
+   "gloss": "take, pick up",
+   "pos": "verb, godan -ru",
+   "cardType": "PROD",
+   "audioText": "toru, totte",
+   "teForm": "totte [1]",
+   "note": "CODA FLAG: godan -ru member 4. THE -ru CLASS CLOSES HERE (item 16), exactly as derived."
+  },
+  {
+   "n": 17,
+   "romaji": "kaku",
+   "accent": "[1]",
+   "gloss": "write",
+   "pos": "verb, godan -ku",
+   "cardType": "PROD",
+   "audioText": "kaku, kaite",
+   "teForm": "kaite [1]",
+   "note": "godan -ku regular member 1. First -ite pair; contrast against iku/itte on the same day so the exception is heard, never reasoned."
+  },
+  {
+   "n": 18,
+   "romaji": "yomu",
+   "accent": "[1]",
+   "gloss": "read",
+   "pos": "verb, godan -mu",
+   "cardType": "PROD",
+   "audioText": "yomu, yonde",
+   "teForm": "yonde [1]",
+   "note": "godan -mu member 2. ACCENT MINIMAL PAIR: yonde [1] = yomu; yonde [0] = yobu (31). Only 13 indices apart in the frequency order, under the 15 minimum — so they are SPLIT ACROSS DAYS (yomu d39, yobu d43) and taught as an explicit accent pair in drill 7 rather than reordered."
+  },
+  {
+   "n": 19,
+   "romaji": "hanasu",
+   "accent": "[2]",
+   "gloss": "speak, talk",
+   "pos": "verb, godan -su",
+   "cardType": "PROD",
+   "audioText": "hanasu, hanashite",
+   "teForm": "hanashite [2]",
+   "note": "godan -su member 1. i-stem hanashi- (also the noun hanashi [3], item 122)."
+  },
+  {
+   "n": 20,
+   "romaji": "kiku",
+   "accent": "[0]",
+   "gloss": "listen, hear; ask",
+   "pos": "verb, godan -ku",
+   "cardType": "PROD",
+   "audioText": "kiku, kiite",
+   "teForm": "kiite [0]",
+   "note": "godan -ku regular member 2. Two senses, split by particle: X o kiku (listen), X ni kiku (ask)."
+  },
+  {
+   "n": 21,
+   "romaji": "yaru",
+   "accent": "[0]",
+   "gloss": "do (casual); give (downward)",
+   "pos": "verb, godan -ru",
+   "cardType": "RECOG",
+   "audioText": "yaru, yatte",
+   "teForm": "yatte [0]",
+   "note": "godan -ru member 5. RECOG only in block D — it is heard constantly (yatta!) but suru is the production default."
+  },
+  {
+   "n": 22,
+   "romaji": "morau",
+   "accent": "[0]",
+   "gloss": "receive, get",
+   "pos": "verb, godan -u",
+   "cardType": "PROD",
+   "audioText": "morau, moratte",
+   "teForm": "moratte [0]",
+   "note": "CODA FLAG: godan -u member 4. THE -u CLASS CLOSES HERE (item 22), exactly as derived. -wanai verb: morawanai [4]."
+  },
+  {
+   "n": 23,
+   "romaji": "kureru",
+   "accent": "[0]",
+   "gloss": "give (to me / my side)",
+   "pos": "verb, ichidan",
+   "cardType": "PROD",
+   "audioText": "kureru, kurete",
+   "teForm": "kurete [0]",
+   "note": "ichidan member 5. Direction is baked into the verb — no pronoun needed."
+  },
+  {
+   "n": 24,
+   "romaji": "ageru",
+   "accent": "[0]",
+   "gloss": "give (away from me)",
+   "pos": "verb, ichidan",
+   "cardType": "PROD",
+   "audioText": "ageru, agete",
+   "teForm": "agete [0]",
+   "note": "ichidan member 6. Taught same day as kureru and morau — a three-way direction set, not three words."
+  },
+  {
+   "n": 25,
+   "romaji": "shiru",
+   "accent": "[0]",
+   "gloss": "come to know, learn of",
+   "pos": "verb, godan -ru",
+   "cardType": "RECOG",
+   "audioText": "shiru, shitte",
+   "teForm": "shitte [0]",
+   "note": "TRAP SET: looks ichidan (-iru), is GODAN. godan -ru member 6. Plain non-past shiru is marked; the everyday form is shitteru (block E). RECOG only here."
+  },
+  {
+   "n": 26,
+   "romaji": "kaeru",
+   "accent": "[1]",
+   "gloss": "go home, return",
+   "pos": "verb, godan -ru",
+   "cardType": "PROD",
+   "audioText": "kaeru, kaette",
+   "teForm": "kaette [1]",
+   "note": "TRAP SET: looks ichidan (-eru), is GODAN. The pair settles it by ear: kaette, never *kaete. godan -ru member 7."
+  },
+  {
+   "n": 27,
+   "romaji": "hairu",
+   "accent": "[1]",
+   "gloss": "enter, go in",
+   "pos": "verb, godan -ru",
+   "cardType": "PROD",
+   "audioText": "hairu, haitte",
+   "teForm": "haitte [1]",
+   "note": "TRAP SET (-iru, godan). godan -ru member 8. haitte, never *haite."
+  },
+  {
+   "n": 28,
+   "romaji": "hashiru",
+   "accent": "[2]",
+   "gloss": "run",
+   "pos": "verb, godan -ru",
+   "cardType": "PROD",
+   "audioText": "hashiru, hashitte",
+   "teForm": "hashitte [2]",
+   "note": "TRAP SET (-iru, godan). godan -ru member 9."
+  },
+  {
+   "n": 29,
+   "romaji": "kiru",
+   "accent": "[1]",
+   "gloss": "cut",
+   "pos": "verb, godan -ru",
+   "cardType": "RECOG",
+   "audioText": "kiru, kitte",
+   "teForm": "kitte [1]",
+   "note": "TRAP SET + ACCENT PAIR. kiru [1] cut = godan (kitte [1]); kiru [0] wear = ichidan (kite [0]). The accent AND the gemination both separate them — this is why the pair is admitted here rather than earlier. godan -ru member 10."
+  },
+  {
+   "n": 30,
+   "romaji": "asobu",
+   "accent": "[0]",
+   "gloss": "play, hang out",
+   "pos": "verb, godan -bu",
+   "cardType": "PROD",
+   "audioText": "asobu, asonde",
+   "teForm": "asonde [0]",
+   "note": "godan -bu member 1. First -bu pair."
+  },
+  {
+   "n": 31,
+   "romaji": "yobu",
+   "accent": "[0]",
+   "gloss": "call, summon, invite",
+   "pos": "verb, godan -bu",
+   "cardType": "PROD",
+   "audioText": "yobu, yonde",
+   "teForm": "yonde [0]",
+   "note": "godan -bu member 2. ACCENT PAIR with yomu (18): yonde [0] = yobu, yonde [1] = yomu. Introduced on a different day and drilled as a pair in drill 7."
+  },
+  {
+   "n": 32,
+   "romaji": "tobu",
+   "accent": "[0]",
+   "gloss": "fly, jump",
+   "pos": "verb, godan -bu",
+   "cardType": "RECOG",
+   "audioText": "tobu, tonde",
+   "teForm": "tonde [0]",
+   "note": "godan -bu member 3. Item-only in block D (no sentence card) — it is here to fill the -bu class for induction."
+  },
+  {
+   "n": 33,
+   "romaji": "erabu",
+   "accent": "[2]",
+   "gloss": "choose, pick",
+   "pos": "verb, godan -bu",
+   "cardType": "PROD",
+   "audioText": "erabu, erande",
+   "teForm": "erande [2]",
+   "note": "CODA FLAG: godan -bu member 4. THE -bu CLASS CLOSES HERE (item 33), exactly as derived."
+  },
+  {
+   "n": 34,
+   "romaji": "shinu",
+   "accent": "[0]",
+   "gloss": "die",
+   "pos": "verb, godan -nu",
+   "cardType": "RECOG",
+   "audioText": "shinu, shinde",
+   "teForm": "shinde [0]",
+   "note": "EXCEPTION 2 OF 2, AND THE STRUCTURAL ONE. -nu HAS EXACTLY ONE MEMBER IN THE ENTIRE LANGUAGE. The class can never reach four and can never be induced — shinu/shinde is memorized alongside iku/itte, and block E's chant is stated as 'seven inducible classes plus two memorized pairs'. shinde [0] vs shinde... no competitor. Item-only, no sentence card."
+  },
+  {
+   "n": 35,
+   "romaji": "isogu",
+   "accent": "[2]",
+   "gloss": "hurry",
+   "pos": "verb, godan -gu",
+   "cardType": "PROD",
+   "audioText": "isogu, isoide",
+   "teForm": "isoide [2]",
+   "note": "godan -gu member 1. First -ide pair: the VOICING of the -gu class is what the ear must catch (-ite vs -ide)."
+  },
+  {
+   "n": 36,
+   "romaji": "oyogu",
+   "accent": "[2]",
+   "gloss": "swim",
+   "pos": "verb, godan -gu",
+   "cardType": "PROD",
+   "audioText": "oyogu, oyoide",
+   "teForm": "oyoide [2]",
+   "note": "godan -gu member 2."
+  },
+  {
+   "n": 37,
+   "romaji": "nugu",
+   "accent": "[1]",
+   "gloss": "take off (clothes, shoes)",
+   "pos": "verb, godan -gu",
+   "cardType": "RECOG",
+   "audioText": "nugu, nuide",
+   "teForm": "nuide [1]",
+   "note": "godan -gu member 3."
+  },
+  {
+   "n": 38,
+   "romaji": "sawagu",
+   "accent": "[2]",
+   "gloss": "make noise, be rowdy",
+   "pos": "verb, godan -gu",
+   "cardType": "RECOG",
+   "audioText": "sawagu, sawaide",
+   "teForm": "sawaide [2]",
+   "note": "CODA FLAG: godan -gu member 4. THE -gu CLASS CLOSES HERE (item 38), exactly as derived. Item-only, no sentence card."
+  },
+  {
+   "n": 39,
+   "romaji": "dasu",
+   "accent": "[1]",
+   "gloss": "put out, take out, send (mail)",
+   "pos": "verb, godan -su",
+   "cardType": "PROD",
+   "audioText": "dasu, dashite",
+   "teForm": "dashite [1]",
+   "note": "godan -su member 2."
+  },
+  {
+   "n": 40,
+   "romaji": "kasu",
+   "accent": "[0]",
+   "gloss": "lend",
+   "pos": "verb, godan -su",
+   "cardType": "PROD",
+   "audioText": "kasu, kashite",
+   "teForm": "kashite [0]",
+   "note": "godan -su member 3."
+  },
+  {
+   "n": 41,
+   "romaji": "naosu",
+   "accent": "[2]",
+   "gloss": "fix, repair, correct",
+   "pos": "verb, godan -su",
+   "cardType": "PROD",
+   "audioText": "naosu, naoshite",
+   "teForm": "naoshite [2]",
+   "note": "CODA FLAG: godan -su member 4. THE -su CLASS CLOSES HERE (item 41), exactly as derived."
+  },
+  {
+   "n": 42,
+   "romaji": "kaesu",
+   "accent": "[1]",
+   "gloss": "return, give back (something)",
+   "pos": "verb, godan -su",
+   "cardType": "PROD",
+   "audioText": "kaesu, kaeshite",
+   "teForm": "kaeshite [1]",
+   "note": "godan -su member 5. Pair with kaeru (26) on the same day: kaeru = I go back, kaesu = I send it back. kaette vs kaeshite separates them by ear."
+  },
+  {
+   "n": 43,
+   "romaji": "motsu",
+   "accent": "[1]",
+   "gloss": "hold, carry, have",
+   "pos": "verb, godan -tsu",
+   "cardType": "PROD",
+   "audioText": "motsu, motte",
+   "teForm": "motte [1]",
+   "note": "godan -tsu member 2."
+  },
+  {
+   "n": 44,
+   "romaji": "tatsu",
+   "accent": "[1]",
+   "gloss": "stand, stand up",
+   "pos": "verb, godan -tsu",
+   "cardType": "PROD",
+   "audioText": "tatsu, tatte",
+   "teForm": "tatte [1]",
+   "note": "godan -tsu member 3."
+  },
+  {
+   "n": 45,
+   "romaji": "katsu",
+   "accent": "[1]",
+   "gloss": "win",
+   "pos": "verb, godan -tsu",
+   "cardType": "PROD",
+   "audioText": "katsu, katte",
+   "teForm": "katte [1]",
+   "note": "CODA FLAG: godan -tsu member 4. THE -tsu CLASS CLOSES HERE (item 45), exactly as derived. ACCENT PAIR: katte [1] = katsu; katte [0] = kau (14)."
+  },
+  {
+   "n": 46,
+   "romaji": "utsu",
+   "accent": "[1]",
+   "gloss": "hit, strike",
+   "pos": "verb, godan -tsu",
+   "cardType": "RECOG",
+   "audioText": "utsu, utte",
+   "teForm": "utte [1]",
+   "note": "godan -tsu member 5. Item-only, no sentence card."
+  },
+  {
+   "n": 47,
+   "romaji": "au",
+   "accent": "[1]",
+   "gloss": "meet",
+   "pos": "verb, godan -u",
+   "cardType": "PROD",
+   "audioText": "au, atte",
+   "teForm": "atte [1]",
+   "note": "CORRECTION APPLIED: au is [1], NOT [0]. Consequence: atte [1] from au is acoustically IDENTICAL to atte [1] from aru (3). Both are permanently phrase-only — resolved by the particle, never by the accent: tomodachi NI atte vs jikan GA atte. godan -u member 5. Takes ni: tomodachi ni au."
+  },
+  {
+   "n": 48,
+   "romaji": "tsukau",
+   "accent": "[0]",
+   "gloss": "use",
+   "pos": "verb, godan -u",
+   "cardType": "PROD",
+   "audioText": "tsukau, tsukatte",
+   "teForm": "tsukatte [0]",
+   "note": "godan -u member 6. -wanai verb: tsukawanai [4]."
+  },
+  {
+   "n": 49,
+   "romaji": "narau",
+   "accent": "[2]",
+   "gloss": "learn (from a teacher)",
+   "pos": "verb, godan -u",
+   "cardType": "PROD",
+   "audioText": "narau, naratte",
+   "teForm": "naratte [2]",
+   "note": "godan -u member 7."
+  },
+  {
+   "n": 50,
+   "romaji": "warau",
+   "accent": "[0]",
+   "gloss": "laugh, smile",
+   "pos": "verb, godan -u",
+   "cardType": "RECOG",
+   "audioText": "warau, waratte",
+   "teForm": "waratte [0]",
+   "note": "godan -u member 8."
+  },
+  {
+   "n": 51,
+   "romaji": "yasumu",
+   "accent": "[2]",
+   "gloss": "rest, take time off",
+   "pos": "verb, godan -mu",
+   "cardType": "PROD",
+   "audioText": "yasumu, yasunde",
+   "teForm": "yasunde [2]",
+   "note": "godan -mu member 3."
+  },
+  {
+   "n": 52,
+   "romaji": "sumu",
+   "accent": "[1]",
+   "gloss": "live, reside",
+   "pos": "verb, godan -mu",
+   "cardType": "PROD",
+   "audioText": "sumu, sunde",
+   "teForm": "sunde [1]",
+   "note": "CODA FLAG: godan -mu member 4. THE -mu CLASS CLOSES HERE (item 52), exactly as derived. In real speech this verb is almost always sunderu (block E) — flagged now so the -teru form lands as expected, not as a surprise."
+  },
+  {
+   "n": 53,
+   "romaji": "tanomu",
+   "accent": "[2]",
+   "gloss": "ask for, request, order",
+   "pos": "verb, godan -mu",
+   "cardType": "PROD",
+   "audioText": "tanomu, tanonde",
+   "teForm": "tanonde [2]",
+   "note": "godan -mu member 5."
+  },
+  {
+   "n": 54,
+   "romaji": "aruku",
+   "accent": "[2]",
+   "gloss": "walk",
+   "pos": "verb, godan -ku",
+   "cardType": "PROD",
+   "audioText": "aruku, aruite",
+   "teForm": "aruite [2]",
+   "note": "godan -ku regular member 3. Carries path-o: michi o aruku."
+  },
+  {
+   "n": 55,
+   "romaji": "hataraku",
+   "accent": "[0]",
+   "gloss": "work",
+   "pos": "verb, godan -ku",
+   "cardType": "PROD",
+   "audioText": "hataraku, hataraite",
+   "teForm": "hataraite [0]",
+   "note": "CODA FLAG, WITH A CORRECTION TO THE BRIEF'S ARITHMETIC. Counting only INDUCIBLE (regular) -ku verbs — kaku 17, kiku 20, aruku 54, hataraku 55 — the -ku class reaches four HERE, at item 55, not 56. The brief's flag at 56 holds only if iku is counted inside the class it is an exception to. Either way the class, and with it the whole induction base, is closed by item 56."
+  },
+  {
+   "n": 56,
+   "romaji": "tsuku",
+   "accent": "[1]",
+   "gloss": "arrive, get there",
+   "pos": "verb, godan -ku",
+   "cardType": "PROD",
+   "audioText": "tsuku, tsuite",
+   "teForm": "tsuite [1]",
+   "note": "THE GATE ITEM. With tsuku stored, every godan coda class except -nu has >= 4 audio pairs and the learner has >= 40 pairs total. Block E's -te chant is now inducible rather than memorizable. -ku regular member 5."
+  },
+  {
+   "n": 57,
+   "romaji": "oku",
+   "accent": "[0]",
+   "gloss": "put, place, set down",
+   "pos": "verb, godan -ku",
+   "cardType": "PROD",
+   "audioText": "oku, oite",
+   "teForm": "oite [0]",
+   "note": "godan -ku regular member 6. Also the future host of -toku/-doku (block E) — store the pair cleanly now."
+  },
+  {
+   "n": 58,
+   "romaji": "neru",
+   "accent": "[0]",
+   "gloss": "sleep, go to bed",
+   "pos": "verb, ichidan",
+   "cardType": "PROD",
+   "audioText": "neru, nete",
+   "teForm": "nete [0]",
+   "note": "ichidan member 7. Genuinely ichidan (-eru) — contrast against kaeru (26) the same week."
+  },
+  {
+   "n": 59,
+   "romaji": "okiru",
+   "accent": "[2]",
+   "gloss": "get up, wake up; happen",
+   "pos": "verb, ichidan",
+   "cardType": "PROD",
+   "audioText": "okiru, okite",
+   "teForm": "okite [2]",
+   "note": "ichidan member 8. Genuinely ichidan (-iru) — contrast against hairu/hashiru/shiru."
+  },
+  {
+   "n": 60,
+   "romaji": "tsukuru",
+   "accent": "[2]",
+   "gloss": "make, cook, build",
+   "pos": "verb, godan -ru",
+   "cardType": "PROD",
+   "audioText": "tsukuru, tsukutte",
+   "teForm": "tsukutte [2]",
+   "note": "godan -ru member 11. Closes the frequency-60."
+  },
+  {
+   "n": 61,
+   "romaji": "kiru",
+   "accent": "[0]",
+   "gloss": "wear, put on (torso)",
+   "pos": "verb, ichidan",
+   "cardType": "RECOG",
+   "audioText": "kiru, kite",
+   "teForm": "kite [0]",
+   "note": "TRAP SET, THE SHARPEST PAIR IN THE BLOCK. kiru [0] wear (ichidan, kite [0]) vs kiru [1] cut (godan, kitte [1]) vs kuru [1] come (kite [1]). Three-way: kite [0] = wearing, kite [1] = coming, kitte [1] = cutting. Accent AND gemination both load-bearing. ichidan member 9."
+  },
+  {
+   "n": 62,
+   "romaji": "iru",
+   "accent": "[0]",
+   "gloss": "need, be necessary",
+   "pos": "verb, godan -ru",
+   "cardType": "RECOG",
+   "audioText": "iru, itte",
+   "teForm": "itte [0]",
+   "note": "TRAP SET. iru [0] need = GODAN (itte [0]); iru [0] exist = ICHIDAN (ite [0]). Same accent, same shape, different class — separated only by the pair. And itte [0] here is homophonous with itte [0] from iku (8). PERMANENTLY PHRASE-ONLY: okane ga itte / eki ni itte. godan -ru member 12."
+  },
+  {
+   "n": 63,
+   "romaji": "shaberu",
+   "accent": "[2]",
+   "gloss": "chat, talk (casual)",
+   "pos": "verb, godan -ru",
+   "cardType": "PROD",
+   "audioText": "shaberu, shabette",
+   "teForm": "shabette [2]",
+   "note": "TRAP SET (-eru, godan). sha = 1 mora, so shaberu is 3 morae. shabette, never *shabete."
+  },
+  {
+   "n": 64,
+   "romaji": "kagiru",
+   "accent": "[2]",
+   "gloss": "limit; (X ni kagiru) nothing beats X",
+   "pos": "verb, godan -ru",
+   "cardType": "RECOG",
+   "audioText": "kagiru, kagitte",
+   "teForm": "kagitte [2]",
+   "note": "TRAP SET (-iru, godan), low frequency, admitted only to complete the trap inventory. RECOG, item-only, no sentence card."
+  },
+  {
+   "n": 65,
+   "romaji": "suu",
+   "accent": "[0]",
+   "gloss": "smoke; inhale, suck",
+   "pos": "verb, godan -u",
+   "cardType": "PROD",
+   "audioText": "suu, sutte",
+   "teForm": "sutte [0]",
+   "note": "godan -u member 9. Admitted here because it is the -UU member of the w-insertion set: suu/suwanai. Without it the rule looks like it is about -au only."
+  },
+  {
+   "n": 66,
+   "romaji": "KEY 1: jishokee = plain non-past",
+   "accent": "-",
+   "gloss": "the dictionary form is the comprehension citation form; it covers HABITUAL and FUTURE, never 'right now'",
+   "pos": "operator (key)",
+   "cardType": "DRILL",
+   "audioText": "mainichi iku. ashita iku.",
+   "note": "State the negative fact loudly: taberu does NOT mean 'I am eating'. 'Right now' is -teru and it arrives in block E. Two classes (godan / ichidan) plus suru and kuru — that is the entire verb system."
+  },
+  {
+   "n": 67,
+   "romaji": "godan / ichidan: class is STORED, not computed",
+   "accent": "-",
+   "gloss": "the class tag rides on the audio pair; it is never derived from the spelling",
+   "pos": "operator",
+   "cardType": "DRILL",
+   "audioText": "taberu, tabete. toru, totte.",
+   "note": "THE LOAD-BEARING DESIGN DECISION OF THE BLOCK. One extra syllable of storage (the -te form) eliminates a rule, a diagnostic, and an exception list. The -eru/-iru trap ceases to exist because nothing is ever inferred from the ending."
+  },
+  {
+   "n": 68,
+   "romaji": "o (direct object)",
+   "accent": "-",
+   "gloss": "marks what the action affects",
+   "pos": "particle",
+   "cardType": "DRILL",
+   "audioText": "mizu o nomu",
+   "note": "Pronounced o, never wo. Unaccented, attaches to the preceding phrase."
+  },
+  {
+   "n": 69,
+   "romaji": "o (path)",
+   "accent": "-",
+   "gloss": "marks the space traversed: along/through/across",
+   "pos": "particle",
+   "cardType": "DRILL",
+   "audioText": "michi o aruku",
+   "note": "SAME PARTICLE, NOT A HOMOPHONE. With motion verbs (aruku, hashiru, tobu) the 'object' is the ground covered. Teaching it as one particle with two uses is cheaper than two entries."
+  },
+  {
+   "n": 70,
+   "romaji": "ni (existence location)",
+   "accent": "-",
+   "gloss": "where a thing SITS",
+   "pos": "particle",
+   "cardType": "DRILL",
+   "audioText": "uchi ni iru",
+   "note": "Pairs with aru/iru only. This is the ni that contrasts with de."
+  },
+  {
+   "n": 71,
+   "romaji": "ni (goal / destination)",
+   "accent": "-",
+   "gloss": "where a thing GOES, endpoint",
+   "pos": "particle",
+   "cardType": "DRILL",
+   "audioText": "eki ni iku",
+   "note": "Interchangeable with e in most destination uses; ni is the default and also does non-motion goals."
+  },
+  {
+   "n": 72,
+   "romaji": "ni (recipient / target)",
+   "accent": "-",
+   "gloss": "the person the action lands on",
+   "pos": "particle",
+   "cardType": "DRILL",
+   "audioText": "tomodachi ni kiku",
+   "note": "tomodachi ni kiku (ask), tomodachi ni au (meet), tomodachi ni ageru (give). Note that au takes ni, not o — an early and permanent error source."
+  },
+  {
+   "n": 73,
+   "romaji": "ni (clock time)",
+   "accent": "-",
+   "gloss": "at (a specified time)",
+   "pos": "particle",
+   "cardType": "DRILL",
+   "audioText": "hachi-ji ni okiru",
+   "note": "Only with times that can be pointed at on a clock or calendar. NOT with kyoo, ashita, kinoo, mainichi — those take no particle. Card the ban explicitly."
+  },
+  {
+   "n": 74,
+   "romaji": "de (locus of action)",
+   "accent": "-",
+   "gloss": "where the action HAPPENS",
+   "pos": "particle",
+   "cardType": "DRILL",
+   "audioText": "uchi de taberu",
+   "note": "The ni/de split is the single highest-yield particle contrast in the block: uchi ni iru (sit) vs uchi de taberu (act)."
+  },
+  {
+   "n": 75,
+   "romaji": "de (means / instrument)",
+   "accent": "-",
+   "gloss": "by, with, using",
+   "pos": "particle",
+   "cardType": "DRILL",
+   "audioText": "kuruma de iku",
+   "note": "kuruma de, denwa de, nihongo de. Same particle as locus — one entry, two uses."
+  },
+  {
+   "n": 76,
+   "romaji": "e",
+   "accent": "-",
+   "gloss": "toward, in the direction of",
+   "pos": "particle",
+   "cardType": "DRILL",
+   "audioText": "uchi e kaeru",
+   "note": "Pronounced e, never he. Directional feel, slightly softer than ni; safe substitute for destination-ni only."
+  },
+  {
+   "n": 77,
+   "romaji": "to (comitative)",
+   "accent": "-",
+   "gloss": "together with (a person)",
+   "pos": "particle",
+   "cardType": "DRILL",
+   "audioText": "tomodachi to iku",
+   "note": "Also the exhaustive 'and' between nouns (block C). The quotative to (X to omou) is DEFERRED to block E with the -tte contraction, so it is not a competing sense here."
+  },
+  {
+   "n": 78,
+   "romaji": "kara",
+   "accent": "-",
+   "gloss": "from (source, starting point)",
+   "pos": "particle",
+   "cardType": "DRILL",
+   "audioText": "eki kara aruku",
+   "note": "Place and time both: eki kara, ku-ji kara."
+  },
+  {
+   "n": 79,
+   "romaji": "made",
+   "accent": "-",
+   "gloss": "up to, as far as, until",
+   "pos": "particle",
+   "cardType": "DRILL",
+   "audioText": "eki made aruku",
+   "note": "The endpoint is INCLUDED and the whole stretch is implied — contrast with ni, which is the endpoint alone."
+  },
+  {
+   "n": 80,
+   "romaji": "kara ... made",
+   "accent": "-",
+   "gloss": "from X to Y (span)",
+   "pos": "frame",
+   "cardType": "DRILL",
+   "audioText": "ku-ji kara go-ji made hatarakimasu",
+   "note": "Drilled as one prosodic unit, not two particles."
+  },
+  {
+   "n": 81,
+   "romaji": "ni / de / o three-way selection",
+   "accent": "-",
+   "gloss": "ni = where it sits / where it goes / when; de = where it happens / by what means; o = what it affects / what it traverses",
+   "pos": "operator",
+   "cardType": "DRILL",
+   "audioText": "uchi ni iru. uchi de taberu. michi o aruku.",
+   "note": "The learner must be able to SAY this split in one English line before block E opens."
+  },
+  {
+   "n": 82,
+   "romaji": "KEY 3: the i-stem (ren'yookee)",
+   "accent": "-",
+   "gloss": "the shelf every non-te ending hangs on",
+   "pos": "operator (key)",
+   "cardType": "DRILL",
+   "audioText": "nomi, tabe, machi, hanashi, shi, ki",
+   "note": "THE HIGHEST-LEVERAGE MOVE IN THE COURSE. Named HERE because it is free: it is already the -masu stem the learner is about to drill 500 times. Formation: ichidan drop -ru (tabe-); godan -u to -i (nomi-, machi-, hanashi-, aruki-); suru to shi-; kuru to ki-. Naming it converts twenty later 'grammar points' into ONE operation plus twenty tails. Note ki- from kuru vs ki- from kiru (wear) — kimasu is genuinely ambiguous, resolved by the object."
+  },
+  {
+   "n": 83,
+   "romaji": "-masu",
+   "accent": "[3] on nomimasu",
+   "gloss": "polite non-past",
+   "pos": "suffix (i-stem tail)",
+   "cardType": "PROD",
+   "audioText": "nomimasu",
+   "note": "ACCENT: on ma. nomimásu, ikimásu, tabemásu. This is the one that obeys the naive rule."
+  },
+  {
+   "n": 84,
+   "romaji": "-masen",
+   "accent": "[4] on nomimasen",
+   "gloss": "polite negative non-past",
+   "pos": "suffix (i-stem tail)",
+   "cardType": "PROD",
+   "audioText": "nomimasen",
+   "note": "CORRECTION APPLIED: ACCENT IS ON SE, NOT MA. nomimasén, ikimasén, tabemasén. Producing *nomímasen is a drill failure, not a nuance."
+  },
+  {
+   "n": 85,
+   "romaji": "-mashita",
+   "accent": "[3] on nomimashita",
+   "gloss": "polite past",
+   "pos": "suffix (i-stem tail)",
+   "cardType": "PROD",
+   "audioText": "nomimashita",
+   "note": "ACCENT: on ma. nomimáshita. Obeys the naive rule. Final -ta is devoiced-short: mashta in the stream — expect it, do not teach a spelling."
+  },
+  {
+   "n": 86,
+   "romaji": "-masen deshita",
+   "accent": "[4] on nomimasen deshita",
+   "gloss": "polite negative past",
+   "pos": "suffix (i-stem tail)",
+   "cardType": "PROD",
+   "audioText": "nomimasen deshita",
+   "note": "ACCENT: on se; deshita rides flat behind it. Breaks the naive rule."
+  },
+  {
+   "n": 87,
+   "romaji": "-mashoo",
+   "accent": "[4] on ikimashoo",
+   "gloss": "let's ...; shall I ...",
+   "pos": "suffix (i-stem tail)",
+   "cardType": "PROD",
+   "audioText": "ikimashoo",
+   "note": "CORRECTION APPLIED: ACCENT IS ON SHO, NOT MA. ikimashóo, nomimashóo, tabemashóo. sho-o is two morae (long vowel doubled). Breaks the naive rule."
+  },
+  {
+   "n": 88,
+   "romaji": "-masen ka",
+   "accent": "[4] on nomimasen ka",
+   "gloss": "won't you ...? (invitation, softer than -mashoo)",
+   "pos": "suffix (i-stem tail)",
+   "cardType": "PROD",
+   "audioText": "nomimasen ka",
+   "note": "ACCENT: on se. Breaks the naive rule. Rising final ka. Three of the five shell forms break the ma rule — that is the headline of week 7."
+  },
+  {
+   "n": 89,
+   "romaji": "-masu ka",
+   "accent": "[3] on nomimasu ka",
+   "gloss": "polite question",
+   "pos": "suffix (i-stem tail)",
+   "cardType": "RECOG",
+   "audioText": "nomimasu ka",
+   "note": "ACCENT: stays on ma. So -masu ka and -masen ka differ in BOTH segment and accent — a clean listening contrast."
+  },
+  {
+   "n": 90,
+   "romaji": "-tai",
+   "accent": "[3] on nomitai",
+   "gloss": "want to ...",
+   "pos": "i-stem tail (inflects as i-adjective)",
+   "cardType": "PROD",
+   "audioText": "nomitai",
+   "note": "ACCENT RULE: -tai compounds take the i-adjective accent, on the PENULTIMATE mora (the ta). nomitai [3], tabetai [3], ikitai [3], hanashitai [4]. Object may take ga: mizu ga nomitai. First-person only in plain statement."
+  },
+  {
+   "n": 91,
+   "romaji": "-nagara",
+   "accent": "[4] on arukinagara",
+   "gloss": "while ...ing (simultaneous, same subject)",
+   "pos": "i-stem tail",
+   "cardType": "PROD",
+   "audioText": "arukinagara",
+   "note": "ACCENT: on the na of -nagara. nominagara [3], arukinagara [4], tabenagara [3]. The -nagara clause is the BACKGROUND action; the main verb carries the point."
+  },
+  {
+   "n": 92,
+   "romaji": "-ni iku",
+   "accent": "-",
+   "gloss": "go in order to ...",
+   "pos": "i-stem tail (+ motion verb)",
+   "cardType": "PROD",
+   "audioText": "tabe ni iku",
+   "note": "Two accent phrases: the i-stem + ni is unaccented and leans onto iku/kuru/kaeru. tabe ni iku, nomi ni iku, mi ni iku, kai ni iku. Verify the phrasing against native audio before recording."
+  },
+  {
+   "n": 93,
+   "romaji": "-kata",
+   "accent": "-",
+   "gloss": "the way of ...ing; how to ...",
+   "pos": "i-stem tail (makes a noun)",
+   "cardType": "PROD",
+   "audioText": "tsukaikata",
+   "note": "Makes an ordinary noun: tsukaikata, yomikata, tabekata, tsukurikata. ACCENT: -kata compounds carry ONE accent near the junction; VERIFY EACH AGAINST NHK BEFORE RECORDING — do not ship a guessed integer. Flagged for the recording pass rather than asserted."
+  },
+  {
+   "n": 94,
+   "romaji": "-sugiru",
+   "accent": "[3] on nomisugiru",
+   "gloss": "...too much, over-...",
+   "pos": "i-stem tail (makes an ichidan verb)",
+   "cardType": "PROD",
+   "audioText": "nomisugiru",
+   "note": "ACCENT: on the su of -sugiru. nomisugiru [3], tabesugiru [3]. Output is ichidan, so it re-enters the whole system: nomisugimashita, nomisuginai. Also attaches to adjective stems (takasugiru) — previewed, not carded."
+  },
+  {
+   "n": 95,
+   "romaji": "-yasui",
+   "accent": "[4] on yomiyasui",
+   "gloss": "easy to ..., tends to ...",
+   "pos": "i-stem tail (makes an i-adjective)",
+   "cardType": "PROD",
+   "audioText": "yomiyasui",
+   "note": "ACCENT: i-adjective penultimate rule, on the su. yomiyasui [4], tabeyasui [4], wakariyasui [5]."
+  },
+  {
+   "n": 96,
+   "romaji": "-nikui",
+   "accent": "[4] on yominikui",
+   "gloss": "hard to ...",
+   "pos": "i-stem tail (makes an i-adjective)",
+   "cardType": "PROD",
+   "audioText": "yominikui",
+   "note": "ACCENT: penultimate, on the ku. yominikui [4], tabenikui [4]. Taught in the same session as -yasui — they are one antonym pair, not two items."
+  },
+  {
+   "n": 97,
+   "romaji": "-hajimeru",
+   "accent": "-",
+   "gloss": "start ...ing",
+   "pos": "i-stem tail (makes an ichidan verb)",
+   "cardType": "PROD",
+   "audioText": "yomihajimeru",
+   "note": "Output is ichidan. ACCENT of the compound: VERIFY AGAINST NATIVE AUDIO before recording; do not ship a guessed integer. The standalone verb hajimeru is [0]."
+  },
+  {
+   "n": 98,
+   "romaji": "-owaru",
+   "accent": "-",
+   "gloss": "finish ...ing",
+   "pos": "i-stem tail (makes a godan -ru verb)",
+   "cardType": "PROD",
+   "audioText": "tabeowaru",
+   "note": "Output is GODAN -ru: tabeowatte, tabeowarimashita. ACCENT of the compound: verify before recording. Standalone owaru is [0]."
+  },
+  {
+   "n": 99,
+   "romaji": "-tsuzukeru",
+   "accent": "-",
+   "gloss": "keep ...ing, go on ...ing",
+   "pos": "i-stem tail (makes an ichidan verb)",
+   "cardType": "PROD",
+   "audioText": "hatarakitsuzukeru",
+   "note": "Output is ichidan. ACCENT of the compound: verify before recording. Standalone tsuzukeru is [0]. Completes the aspect trio hajimeru/owaru/tsuzukeru — all three ride the SAME shelf, which is the whole point."
+  },
+  {
+   "n": 100,
+   "romaji": "KEY 2: the -nai stem (mizenkee)",
+   "accent": "-",
+   "gloss": "the second shelf: plain negative and everything built on it",
+   "pos": "operator (key)",
+   "cardType": "DRILL",
+   "audioText": "tabenai. nomanai.",
+   "note": "Ichidan: drop -ru, add -nai. Godan: -u to -a, add -nai. suru to shinai, kuru to konai, aru to NAI. Later tenants of this shelf: -nakya, -naide, -nakute, passive, causative. Named now for the same reason the i-stem was."
+  },
+  {
+   "n": 101,
+   "romaji": "-anai (godan)",
+   "accent": "[3] on nomanai",
+   "gloss": "plain negative, godan verbs",
+   "pos": "operator",
+   "cardType": "PROD",
+   "audioText": "nomanai",
+   "note": "ACCENT RULE, UNIFORM: the accent sits on the mora immediately before -nai (the na). nomanai [3], ikanai [3], matanai [3], hanasanai [4], asobanai [4], isoganai [4], wakaranai [4]. One rule, no exceptions in this set."
+  },
+  {
+   "n": 102,
+   "romaji": "-nai (ichidan)",
+   "accent": "[3] on tabenai",
+   "gloss": "plain negative, ichidan verbs",
+   "pos": "operator",
+   "cardType": "PROD",
+   "audioText": "tabenai",
+   "note": "Drop -ru. tabenai [3], minai [2], nenai [2], okinai [3], dekinai [3]. Same penult-na accent."
+  },
+  {
+   "n": 103,
+   "romaji": "-wanai (W-INSERTION)",
+   "accent": "[3] on kawanai",
+   "gloss": "plain negative of verbs ending VOWEL + u",
+   "pos": "operator",
+   "cardType": "PROD",
+   "audioText": "kawanai, iwanai, omowanai, suwanai",
+   "note": "THE RULE STATED CORRECTLY: any verb whose dictionary form ends in VOWEL + u — that is -au, -iu, -ou, -uu — takes -wanai. kau/kawanai [3], YUU/IWANAI [3], omou/omowanai [4], suu/suwanai [3], au/awanai [3], morau/morawanai [4], tsukau/tsukawanai [4], narau/narawanai [4], warau/warawanai [4]. THE CONVENTIONAL STATEMENT SAYS '-au' AND THEREFORE MIS-GENERATES FOR YUU, one of the highest-frequency verbs in speech. Card the four vowel shapes, not one."
+  },
+  {
+   "n": 104,
+   "romaji": "iwanai",
+   "accent": "[3]",
+   "gloss": "doesn't say",
+   "pos": "irregular negative stem",
+   "cardType": "PROD",
+   "audioText": "nani mo iwanai",
+   "note": "DOUBLE IRREGULARITY, CARDED SEPARATELY BECAUSE IT IS TWO SURPRISES AT ONCE: yuu takes -wanai (rule), AND its stem reverts to i- rather than yu- (memorized). yuu / yutte / yutta / IWANAI / iimasu. Never *yuwanai, never *yuanai."
+  },
+  {
+   "n": 105,
+   "romaji": "shinai",
+   "accent": "[2]",
+   "gloss": "doesn't do",
+   "pos": "irregular negative",
+   "cardType": "PROD",
+   "audioText": "kyoo wa shinai",
+   "note": "suru to shinai. Memorized. Not to be confused with shinanai [3] (shinu, item 34) — a real and grim minimal pair, deliberately introduced on different days."
+  },
+  {
+   "n": 106,
+   "romaji": "konai",
+   "accent": "[2]",
+   "gloss": "doesn't come",
+   "pos": "irregular negative",
+   "cardType": "PROD",
+   "audioText": "ashita wa konai",
+   "note": "kuru to konai — the stem vowel changes to o, which happens nowhere else. Memorized. Some references list [1]; VERIFY against NHK at the recording pass and pick one for the whole deck."
+  },
+  {
+   "n": 107,
+   "romaji": "nai",
+   "accent": "[1]",
+   "gloss": "there isn't; doesn't have; not",
+   "pos": "i-adjective (suppletive negative of aru)",
+   "cardType": "PROD",
+   "audioText": "jikan ga nai",
+   "note": "REQUIRED ITEM, OMITTED IN THE EARLIER PASS. aru's negative is NAI, never *aranai. It is a full i-adjective: nai [1], nakatta [1], nakute. Frames: jikan ga nai, shikata ga nai, okane ga nai. It is also the tail on every negative verb form, so its accent behaviour is worth its own card."
+  },
+  {
+   "n": 108,
+   "romaji": "-nakatta",
+   "accent": "[4] on ikanakatta",
+   "gloss": "plain negative past",
+   "pos": "operator",
+   "cardType": "PROD",
+   "audioText": "ikanakatta",
+   "note": "ACCENT: on the ka. ikanakatta [4], tabenakatta [4], nomanakatta [4], hanasanakatta [5]. Standalone nakatta is [1]."
+  },
+  {
+   "n": 109,
+   "romaji": "register: plain vs -masu",
+   "accent": "-",
+   "gloss": "-masu is the PRODUCTION default for the first four months; plain is what you HEAR",
+   "pos": "operator",
+   "cardType": "DRILL",
+   "audioText": "nomimasen. nomanai.",
+   "note": "Stated explicitly so the learner does not treat the two as free variants. Produce -masu, comprehend both. The plain forms are stocked now because block E's contractions all attach to them."
+  },
+  {
+   "n": 110,
+   "romaji": "mainichi",
+   "accent": "[1]",
+   "gloss": "every day",
+   "pos": "noun / adverb",
+   "cardType": "PROD",
+   "audioText": "mainichi",
+   "note": "Takes NO particle. mainichi hatarakimasu, never *mainichi ni. The natural partner of the habitual dictionary form."
+  },
+  {
+   "n": 111,
+   "romaji": "moo",
+   "accent": "[1]",
+   "gloss": "already; now",
+   "pos": "adverb",
+   "cardType": "RECOG",
+   "audioText": "moo tabemashita",
+   "note": "Long vowel doubled. With affirmative past = already."
+  },
+  {
+   "n": 112,
+   "romaji": "mada",
+   "accent": "[1]",
+   "gloss": "still; (with negative) not yet",
+   "pos": "adverb",
+   "cardType": "RECOG",
+   "audioText": "mada jikan ga aru",
+   "note": "The 'not yet' sense needs a negative, and its most natural form is mada tabetenai — deferred to block E. Here only the affirmative 'still'."
+  },
+  {
+   "n": 113,
+   "romaji": "amari",
+   "accent": "[0]",
+   "gloss": "(with negative) not much, not very",
+   "pos": "adverb",
+   "cardType": "PROD",
+   "audioText": "amari nomimasen",
+   "note": "POLARITY ITEM: ungrammatical without a negative. Colloquial anmari [0] taught as a variant."
+  },
+  {
+   "n": 114,
+   "romaji": "zenzen",
+   "accent": "[0]",
+   "gloss": "(with negative) not at all",
+   "pos": "adverb",
+   "cardType": "PROD",
+   "audioText": "zenzen wakarimasen",
+   "note": "POLARITY ITEM. Two moraic N in four morae — a deliberate mora-timing workout as well as a word. ze-N-ze-N."
+  },
+  {
+   "n": 115,
+   "romaji": "yoku",
+   "accent": "[1]",
+   "gloss": "often; well",
+   "pos": "adverb",
+   "cardType": "PROD",
+   "audioText": "yoku aimasu",
+   "note": "Adverbial form of ii/yoi. Frequency sense with habitual verbs."
+  },
+  {
+   "n": 116,
+   "romaji": "hayaku",
+   "accent": "[1]",
+   "gloss": "early; quickly",
+   "pos": "adverb",
+   "cardType": "PROD",
+   "audioText": "hayaku okimashita",
+   "note": "From hayai [2]; the -ku form shifts to [1]. Card the shift, it recurs across i-adjectives."
+  },
+  {
+   "n": 117,
+   "romaji": "sugu",
+   "accent": "[1]",
+   "gloss": "right away, immediately",
+   "pos": "adverb",
+   "cardType": "PROD",
+   "audioText": "sugu ikimasu",
+   "note": "Also sugu ni. All-CV, 2 morae — a cheap card."
+  },
+  {
+   "n": 118,
+   "romaji": "issho ni",
+   "accent": "[0] on issho",
+   "gloss": "together",
+   "pos": "adverbial phrase",
+   "cardType": "PROD",
+   "audioText": "issho ni ikimashoo",
+   "note": "Geminate doubled: i-Q-sho, 3 morae, sho is one mora. The default partner of -mashoo and -masen ka."
+  },
+  {
+   "n": 119,
+   "romaji": "ato de",
+   "accent": "[1] on ato",
+   "gloss": "later, afterwards",
+   "pos": "adverbial phrase",
+   "cardType": "PROD",
+   "audioText": "ato de denwa o shimasu",
+   "note": "Contrast with sugu. The 'after X' use (X no ato de) is previewed only."
+  },
+  {
+   "n": 120,
+   "romaji": "hanashi",
+   "accent": "[3]",
+   "gloss": "talk, story, conversation",
+   "pos": "noun (from i-stem)",
+   "cardType": "PROD",
+   "audioText": "hanashi ga",
+   "note": "Framed with ga per the noun rule. FIRST DEMONSTRATION that the i-stem is also a noun factory — this is the same shelf, not a coincidence."
+  },
+  {
+   "n": 121,
+   "romaji": "yasumi",
+   "accent": "[3]",
+   "gloss": "break, rest, day off",
+   "pos": "noun (from i-stem)",
+   "cardType": "PROD",
+   "audioText": "yasumi ga",
+   "note": "From yasumu. Same point as hanashi."
+  },
+  {
+   "n": 122,
+   "romaji": "tabemono",
+   "accent": "[2]",
+   "gloss": "food",
+   "pos": "noun (i-stem compound)",
+   "cardType": "PROD",
+   "audioText": "tabemono ga",
+   "note": "i-stem + mono. Verify [2] vs [3] at the recording pass and apply the same choice to nomimono."
+  },
+  {
+   "n": 123,
+   "romaji": "nomimono",
+   "accent": "[3]",
+   "gloss": "drink, beverage",
+   "pos": "noun (i-stem compound)",
+   "cardType": "PROD",
+   "audioText": "nomimono ga",
+   "note": "Paired with tabemono in one session — one operation, two words."
+  },
+  {
+   "n": 124,
+   "romaji": "wakarimasen",
+   "accent": "[5]",
+   "gloss": "I don't understand / I don't know",
+   "pos": "chunk",
+   "cardType": "CHUNK",
+   "audioText": "wakarimasen",
+   "note": "Accent on se, consistent with -masen. Six morae. The single most useful sentence the learner can own in week 7 — carded whole, then re-derived from wakaru once the shell is drilled."
+  },
+  {
+   "n": 125,
+   "romaji": "shirimasen",
+   "accent": "[4]",
+   "gloss": "I don't know (that information)",
+   "pos": "chunk",
+   "cardType": "CHUNK",
+   "audioText": "shirimasen",
+   "note": "Accent on se. Contrast with wakarimasen: shirimasen = the fact is not in my head; wakarimasen = I can't make sense of it. Affirmative is NOT shirimasu but shitte imasu / shitteru (block E) — flag the asymmetry now."
+  },
+  {
+   "n": 126,
+   "romaji": "nani o shimasu ka",
+   "accent": "[1] on nani",
+   "gloss": "what are you going to do?",
+   "pos": "wh-frame",
+   "cardType": "PROD",
+   "audioText": "nani o shimasu ka",
+   "note": "wh-word + particle + shell. Drilled as a frame with a swappable head."
+  },
+  {
+   "n": 127,
+   "romaji": "doko de",
+   "accent": "[1] on doko",
+   "gloss": "where (action happens)",
+   "pos": "wh-frame",
+   "cardType": "PROD",
+   "audioText": "doko de tabemasu ka",
+   "note": "Contrast pair with doko ni. doko de = where do you do it; doko ni = where is it / where are you going."
+  },
+  {
+   "n": 128,
+   "romaji": "nan-ji ni",
+   "accent": "[1] on nan-ji",
+   "gloss": "at what time",
+   "pos": "wh-frame",
+   "cardType": "PROD",
+   "audioText": "nan-ji ni okimasu ka",
+   "note": "Carries the clock-time ni. na-N-ji, 3 morae."
+  },
+  {
+   "n": 129,
+   "romaji": "dare to",
+   "accent": "[1] on dare",
+   "gloss": "with whom",
+   "pos": "wh-frame",
+   "cardType": "PROD",
+   "audioText": "dare to ikimasu ka",
+   "note": "Completes the wh + particle set: nani o, doko de, doko ni, nan-ji ni, dare to, doko kara."
+  },
+  {
+   "n": 130,
+   "romaji": "PAIR STORAGE (the block's contract)",
+   "accent": "-",
+   "gloss": "every verb enters memory as two sounds, never one",
+   "pos": "operator",
+   "cardType": "DRILL",
+   "audioText": "kaku, kaite. kiku, kiite. iku, itte.",
+   "note": "THE CLOSING AUDIT ITEM. Recited daily. By day 56 the learner holds 65 pairs; the -te chant in block E is then a description of something already in the ear, not a rule to apply. The three-item audioText is deliberate: two regular -ku pairs then the exception, so iku is heard as odd rather than learned as odd."
+  }
+ ],
+ "sentences": [
+  {
+   "n": 1,
+   "romaji": "asa, jikan ga aru.",
+   "gloss": "In the morning I have time.",
+   "newElement": "KEY 1 — dictionary form as plain non-past (habitual)",
+   "usesPrior": [
+    "asa",
+    "jikan",
+    "ga",
+    "aru"
+   ],
+   "cardType": "RECOG",
+   "note": "The first verb sentence in the course deliberately uses aru, already known from block B, so the ONLY new thing is the idea that a bare verb is a finished sentence."
+  },
+  {
+   "n": 2,
+   "romaji": "ashita mo uchi ni iru.",
+   "gloss": "Tomorrow too I'll be at home.",
+   "newElement": "ni (existence location)",
+   "usesPrior": [
+    "ashita",
+    "mo",
+    "uchi",
+    "iru",
+    "KEY1"
+   ],
+   "cardType": "RECOG",
+   "note": "Also demonstrates that the dictionary form covers the future — ashita does the tense work, not the verb."
+  },
+  {
+   "n": 3,
+   "romaji": "eki ni iku.",
+   "gloss": "I'm going to the station.",
+   "newElement": "iku",
+   "usesPrior": [
+    "eki",
+    "ni"
+   ],
+   "cardType": "RECOG"
+  },
+  {
+   "n": 4,
+   "romaji": "gakkoo e iku.",
+   "gloss": "I'm heading to school.",
+   "newElement": "e (direction)",
+   "usesPrior": [
+    "gakkoo",
+    "iku"
+   ],
+   "cardType": "RECOG",
+   "note": "gakkoo has a geminate and a long vowel — ga-Q-ko-o, 4 morae. Heard against eki (2 morae) it doubles as a timing check."
+  },
+  {
+   "n": 5,
+   "romaji": "tomodachi ga kuru.",
+   "gloss": "A friend is coming.",
+   "newElement": "kuru",
+   "usesPrior": [
+    "tomodachi",
+    "ga"
+   ],
+   "cardType": "RECOG"
+  },
+  {
+   "n": 6,
+   "romaji": "koohii, nomu?",
+   "gloss": "Coffee? / Want a drink?",
+   "newElement": "nomu",
+   "usesPrior": [
+    "koohii"
+   ],
+   "cardType": "RECOG",
+   "note": "Particle-dropped colloquial frame, which is what the ear actually meets. Rising intonation carries the question."
+  },
+  {
+   "n": 7,
+   "romaji": "mizu o nomu.",
+   "gloss": "I drink water.",
+   "newElement": "o (direct object)",
+   "usesPrior": [
+    "mizu",
+    "nomu"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 8,
+   "romaji": "gohan o taberu.",
+   "gloss": "I eat a meal.",
+   "newElement": "taberu",
+   "usesPrior": [
+    "gohan",
+    "o"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 9,
+   "romaji": "uchi de taberu.",
+   "gloss": "I eat at home.",
+   "newElement": "de (locus of action)",
+   "usesPrior": [
+    "uchi",
+    "taberu"
+   ],
+   "cardType": "PROD",
+   "note": "Run back to back with sentence 2 (uchi ni iru). Same noun, two particles, two meanings — the ni/de contrast in its cheapest form."
+  },
+  {
+   "n": 10,
+   "romaji": "terebi o miru.",
+   "gloss": "I watch TV.",
+   "newElement": "miru",
+   "usesPrior": [
+    "terebi",
+    "o"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 11,
+   "romaji": "hon o kau.",
+   "gloss": "I buy a book.",
+   "newElement": "kau",
+   "usesPrior": [
+    "hon",
+    "o"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 12,
+   "romaji": "kuruma de iku.",
+   "gloss": "I go by car.",
+   "newElement": "de (means / instrument)",
+   "usesPrior": [
+    "kuruma",
+    "iku"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 13,
+   "romaji": "gakkoo kara kuru.",
+   "gloss": "He's coming from school.",
+   "newElement": "kara (source)",
+   "usesPrior": [
+    "gakkoo",
+    "kuru"
+   ],
+   "cardType": "RECOG"
+  },
+  {
+   "n": 14,
+   "romaji": "eki made iku.",
+   "gloss": "I'll go as far as the station.",
+   "newElement": "made (limit)",
+   "usesPrior": [
+    "eki",
+    "iku"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 15,
+   "romaji": "tomodachi to iku.",
+   "gloss": "I'm going with a friend.",
+   "newElement": "to (comitative)",
+   "usesPrior": [
+    "tomodachi",
+    "iku"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 16,
+   "romaji": "eki de matsu.",
+   "gloss": "I'll wait at the station.",
+   "newElement": "matsu",
+   "usesPrior": [
+    "eki",
+    "de"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 17,
+   "romaji": "hon o yomu.",
+   "gloss": "I read a book.",
+   "newElement": "yomu",
+   "usesPrior": [
+    "hon",
+    "o"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 18,
+   "romaji": "namae o kaku.",
+   "gloss": "I write my name.",
+   "newElement": "kaku",
+   "usesPrior": [
+    "namae",
+    "o"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 19,
+   "romaji": "namae o kiku.",
+   "gloss": "I ask his name.",
+   "newElement": "kiku",
+   "usesPrior": [
+    "namae",
+    "o"
+   ],
+   "cardType": "PROD",
+   "note": "Minimal pair with 18 on one segment: kaku / kiku. Deliberately adjacent — this is a vowel contrast the perception block already trained."
+  },
+  {
+   "n": 20,
+   "romaji": "tomodachi ni kiku.",
+   "gloss": "I'll ask my friend.",
+   "newElement": "ni (recipient / target)",
+   "usesPrior": [
+    "tomodachi",
+    "kiku"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 21,
+   "romaji": "tomodachi to hanasu.",
+   "gloss": "I talk with a friend.",
+   "newElement": "hanasu",
+   "usesPrior": [
+    "tomodachi",
+    "to"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 22,
+   "romaji": "eki made aruku.",
+   "gloss": "I walk to the station.",
+   "newElement": "aruku",
+   "usesPrior": [
+    "eki",
+    "made"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 23,
+   "romaji": "michi o aruku.",
+   "gloss": "I walk along the street.",
+   "newElement": "o (path)",
+   "usesPrior": [
+    "michi",
+    "aruku"
+   ],
+   "cardType": "RECOG",
+   "note": "Immediately after 22 so the learner hears the same verb take made and o for different jobs: made = how far, o = what I'm covering."
+  },
+  {
+   "n": 24,
+   "romaji": "nihongo ga wakaru.",
+   "gloss": "I understand Japanese.",
+   "newElement": "wakaru",
+   "usesPrior": [
+    "nihongo",
+    "ga"
+   ],
+   "cardType": "RECOG",
+   "note": "ga, not o. Flag it once here rather than repairing it for a year."
+  },
+  {
+   "n": 25,
+   "romaji": "nihongo ga dekiru.",
+   "gloss": "I can speak Japanese.",
+   "newElement": "dekiru",
+   "usesPrior": [
+    "nihongo",
+    "ga"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 26,
+   "romaji": "nihongo de yuu.",
+   "gloss": "I say it in Japanese.",
+   "newElement": "yuu",
+   "usesPrior": [
+    "nihongo",
+    "de"
+   ],
+   "cardType": "RECOG",
+   "note": "The pronunciation card. Learner must hear yu-u, two morae, and must never say *iu."
+  },
+  {
+   "n": 27,
+   "romaji": "soo omou.",
+   "gloss": "I think so.",
+   "newElement": "omou",
+   "usesPrior": [
+    "soo"
+   ],
+   "cardType": "PROD",
+   "note": "Quotative to (X to omou) is held back to block E so this card stays 1T."
+  },
+  {
+   "n": 28,
+   "romaji": "shigoto o suru.",
+   "gloss": "I do my work.",
+   "newElement": "suru",
+   "usesPrior": [
+    "shigoto",
+    "o"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 29,
+   "romaji": "hachi-ji ni iku.",
+   "gloss": "I'll go at eight.",
+   "newElement": "ni (clock time)",
+   "usesPrior": [
+    "hachi-ji",
+    "iku"
+   ],
+   "cardType": "PROD",
+   "note": "Counter-example drilled aloud on the same card: ashita iku, NOT *ashita ni iku."
+  },
+  {
+   "n": 30,
+   "romaji": "asa okiru.",
+   "gloss": "I get up in the morning.",
+   "newElement": "okiru",
+   "usesPrior": [
+    "asa"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 31,
+   "romaji": "yoru, neru.",
+   "gloss": "At night, I sleep.",
+   "newElement": "neru",
+   "usesPrior": [
+    "yoru"
+   ],
+   "cardType": "PROD",
+   "note": "Both genuinely ichidan (okiru, neru) — banked one day before the -eru/-iru trap opens, so the honest members are in the ear first."
+  },
+  {
+   "n": 32,
+   "romaji": "uchi ni kaeru.",
+   "gloss": "I go home.",
+   "newElement": "kaeru (GODAN, trap)",
+   "usesPrior": [
+    "uchi",
+    "ni"
+   ],
+   "cardType": "PROD",
+   "note": "Card carries the pair audio kaeru/kaette right behind the sentence. Contrast neru/nete from 31 in the same session."
+  },
+  {
+   "n": 33,
+   "romaji": "heya ni hairu.",
+   "gloss": "I go into the room.",
+   "newElement": "hairu (GODAN, trap)",
+   "usesPrior": [
+    "heya",
+    "ni"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 34,
+   "romaji": "eki made hashiru.",
+   "gloss": "I run to the station.",
+   "newElement": "hashiru (GODAN, trap)",
+   "usesPrior": [
+    "eki",
+    "made"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 35,
+   "romaji": "tomodachi o yobu.",
+   "gloss": "I'll invite a friend.",
+   "newElement": "yobu",
+   "usesPrior": [
+    "tomodachi",
+    "o"
+   ],
+   "cardType": "PROD",
+   "note": "Four days after yomu (17). The te-forms collide (yonde [0] vs yonde [1]) and that collision is taught, not avoided."
+  },
+  {
+   "n": 36,
+   "romaji": "koohii o nomimasu.",
+   "gloss": "I drink coffee. (polite)",
+   "newElement": "-masu",
+   "usesPrior": [
+    "koohii",
+    "o",
+    "nomu",
+    "i-stem"
+   ],
+   "cardType": "PROD",
+   "note": "nomimásu — accent on ma."
+  },
+  {
+   "n": 37,
+   "romaji": "biiru wa nomimasen.",
+   "gloss": "I don't drink beer.",
+   "newElement": "-masen",
+   "usesPrior": [
+    "biiru",
+    "wa",
+    "nomu"
+   ],
+   "cardType": "PROD",
+   "note": "nomimasén — ACCENT ON SE. wa here is contrastive: beer specifically."
+  },
+  {
+   "n": 38,
+   "romaji": "kinoo, hon o yomimashita.",
+   "gloss": "Yesterday I read a book.",
+   "newElement": "-mashita",
+   "usesPrior": [
+    "kinoo",
+    "hon",
+    "o",
+    "yomu"
+   ],
+   "cardType": "PROD",
+   "note": "yomimáshita — accent on ma."
+  },
+  {
+   "n": 39,
+   "romaji": "kinoo wa ikimasen deshita.",
+   "gloss": "Yesterday I didn't go.",
+   "newElement": "-masen deshita",
+   "usesPrior": [
+    "kinoo",
+    "wa",
+    "iku"
+   ],
+   "cardType": "PROD",
+   "note": "ikimasén deshita — accent on se, deshita flat behind."
+  },
+  {
+   "n": 40,
+   "romaji": "eki de machimashoo.",
+   "gloss": "Let's wait at the station.",
+   "newElement": "-mashoo",
+   "usesPrior": [
+    "eki",
+    "de",
+    "matsu"
+   ],
+   "cardType": "PROD",
+   "note": "machimashóo — ACCENT ON SHO. Also the first i-stem with chi (machi-)."
+  },
+  {
+   "n": 41,
+   "romaji": "koohii o nomimasen ka.",
+   "gloss": "Won't you have a coffee?",
+   "newElement": "-masen ka",
+   "usesPrior": [
+    "koohii",
+    "o",
+    "nomu"
+   ],
+   "cardType": "PROD",
+   "note": "nomimasén ka — accent on se, rising ka."
+  },
+  {
+   "n": 42,
+   "romaji": "nani o shimasu ka.",
+   "gloss": "What are you going to do?",
+   "newElement": "-masu ka",
+   "usesPrior": [
+    "nani",
+    "o",
+    "suru"
+   ],
+   "cardType": "RECOG",
+   "note": "Contrast drill against 41: -masu ka [ma] vs -masen ka [se]. Segment and accent both differ."
+  },
+  {
+   "n": 43,
+   "romaji": "tomodachi ni aimashita.",
+   "gloss": "I met a friend.",
+   "newElement": "au [1]",
+   "usesPrior": [
+    "tomodachi",
+    "ni",
+    "-mashita"
+   ],
+   "cardType": "PROD",
+   "note": "Takes NI, not o. Pair audio au/atte on the same card, explicitly contrasted with aru/atte — identical sound, different particle frame."
+  },
+  {
+   "n": 44,
+   "romaji": "asa kara hatarakimasu.",
+   "gloss": "I work from the morning.",
+   "newElement": "hataraku",
+   "usesPrior": [
+    "asa",
+    "kara",
+    "-masu"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 45,
+   "romaji": "ku-ji kara go-ji made hatarakimasu.",
+   "gloss": "I work from nine to five.",
+   "newElement": "kara ... made (span frame)",
+   "usesPrior": [
+    "ku-ji",
+    "go-ji",
+    "kara",
+    "made",
+    "hataraku"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 46,
+   "romaji": "mizu ga nomitai.",
+   "gloss": "I want to drink water.",
+   "newElement": "-tai",
+   "usesPrior": [
+    "mizu",
+    "ga",
+    "nomu",
+    "i-stem"
+   ],
+   "cardType": "PROD",
+   "note": "nomitai [3]. Object flips to ga — the same behaviour as wakaru and dekiru, so it is a pattern by now, not an exception."
+  },
+  {
+   "n": 47,
+   "romaji": "arukinagara hanashimasu.",
+   "gloss": "I talk while walking.",
+   "newElement": "-nagara",
+   "usesPrior": [
+    "aruku",
+    "hanasu",
+    "-masu",
+    "i-stem"
+   ],
+   "cardType": "PROD",
+   "note": "arukinagara [4]. The -nagara clause is background, the -masu verb is the point."
+  },
+  {
+   "n": 48,
+   "romaji": "gohan o tabe ni ikimasu.",
+   "gloss": "I'm going out to eat.",
+   "newElement": "-ni iku",
+   "usesPrior": [
+    "gohan",
+    "o",
+    "taberu",
+    "iku",
+    "-masu"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 49,
+   "romaji": "yomikata o kikimashita.",
+   "gloss": "I asked how to read it.",
+   "newElement": "-kata",
+   "usesPrior": [
+    "yomu",
+    "o",
+    "kiku",
+    "-mashita"
+   ],
+   "cardType": "PROD",
+   "note": "The i-stem making a noun. Same shelf as -masu — say that aloud on this card."
+  },
+  {
+   "n": 50,
+   "romaji": "kinoo, nomisugimashita.",
+   "gloss": "I drank too much yesterday.",
+   "newElement": "-sugiru",
+   "usesPrior": [
+    "kinoo",
+    "nomu",
+    "-mashita"
+   ],
+   "cardType": "RECOG",
+   "note": "The output is ichidan, so it re-enters the shell: nomisugi- + masu."
+  },
+  {
+   "n": 51,
+   "romaji": "kono hon wa yomiyasui.",
+   "gloss": "This book is easy to read.",
+   "newElement": "-yasui",
+   "usesPrior": [
+    "kono",
+    "hon",
+    "wa",
+    "yomu"
+   ],
+   "cardType": "PROD",
+   "note": "yomiyasui [4] — i-adjective penultimate accent."
+  },
+  {
+   "n": 52,
+   "romaji": "kono namae wa yobinikui.",
+   "gloss": "This name is hard to say.",
+   "newElement": "-nikui",
+   "usesPrior": [
+    "kono",
+    "namae",
+    "wa",
+    "yobu"
+   ],
+   "cardType": "PROD",
+   "note": "Taught in the same breath as 51. One antonym pair, one operation."
+  },
+  {
+   "n": 53,
+   "romaji": "hon o yomihajimemashita.",
+   "gloss": "I started reading the book.",
+   "newElement": "-hajimeru",
+   "usesPrior": [
+    "hon",
+    "o",
+    "yomu",
+    "-mashita"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 54,
+   "romaji": "gohan o tabeowarimashita.",
+   "gloss": "I finished eating.",
+   "newElement": "-owaru",
+   "usesPrior": [
+    "gohan",
+    "o",
+    "taberu",
+    "-mashita"
+   ],
+   "cardType": "PROD",
+   "note": "Output is godan -ru: tabeowarimashita, tabeowatte."
+  },
+  {
+   "n": 55,
+   "romaji": "hatarakitsuzukemasu.",
+   "gloss": "I'll keep on working.",
+   "newElement": "-tsuzukeru",
+   "usesPrior": [
+    "hataraku",
+    "-masu"
+   ],
+   "cardType": "RECOG",
+   "note": "Eight morae on one shelf. Completes the aspect trio."
+  },
+  {
+   "n": 56,
+   "romaji": "tegami o dashimasu.",
+   "gloss": "I'll send the letter.",
+   "newElement": "dasu",
+   "usesPrior": [
+    "tegami",
+    "o",
+    "-masu"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 57,
+   "romaji": "hon o kashimasu.",
+   "gloss": "I'll lend you the book.",
+   "newElement": "kasu",
+   "usesPrior": [
+    "hon",
+    "o",
+    "-masu"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 58,
+   "romaji": "hon o kaeshimasu.",
+   "gloss": "I'll give the book back.",
+   "newElement": "kaesu",
+   "usesPrior": [
+    "hon",
+    "o",
+    "-masu"
+   ],
+   "cardType": "PROD",
+   "note": "Run directly against kaeru (32): kaeru = I go back, kaesu = I send it back. kaette vs kaeshite settles it."
+  },
+  {
+   "n": 59,
+   "romaji": "isogimashoo.",
+   "gloss": "Let's hurry.",
+   "newElement": "isogu",
+   "usesPrior": [
+    "-mashoo"
+   ],
+   "cardType": "PROD",
+   "note": "isogimashóo. First -gu verb in a sentence; its pair isoide is the first -ide the learner produces."
+  },
+  {
+   "n": 60,
+   "romaji": "tomodachi to asobimasu.",
+   "gloss": "I'll hang out with a friend.",
+   "newElement": "asobu",
+   "usesPrior": [
+    "tomodachi",
+    "to",
+    "-masu"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 61,
+   "romaji": "gohan o tsukurimasu.",
+   "gloss": "I'll make dinner.",
+   "newElement": "tsukuru",
+   "usesPrior": [
+    "gohan",
+    "o",
+    "-masu"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 62,
+   "romaji": "nihongo o naraimasu.",
+   "gloss": "I'm learning Japanese.",
+   "newElement": "narau",
+   "usesPrior": [
+    "nihongo",
+    "o",
+    "-masu"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 63,
+   "romaji": "kono kuruma o tsukaimasu.",
+   "gloss": "I'll use this car.",
+   "newElement": "tsukau",
+   "usesPrior": [
+    "kono",
+    "kuruma",
+    "o",
+    "-masu"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 64,
+   "romaji": "tomodachi ni moraimashita.",
+   "gloss": "I got it from a friend.",
+   "newElement": "morau",
+   "usesPrior": [
+    "tomodachi",
+    "ni",
+    "-mashita"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 65,
+   "romaji": "tomodachi ni agemashita.",
+   "gloss": "I gave it to a friend.",
+   "newElement": "ageru",
+   "usesPrior": [
+    "tomodachi",
+    "ni",
+    "-mashita"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 66,
+   "romaji": "tomodachi ga kuremashita.",
+   "gloss": "A friend gave it to me.",
+   "newElement": "kureru",
+   "usesPrior": [
+    "tomodachi",
+    "ga",
+    "-mashita"
+   ],
+   "cardType": "PROD",
+   "note": "64-66 are one three-card set: direction is in the verb, so no pronoun is ever needed. Note the particle flip to ga on kureru."
+  },
+  {
+   "n": 67,
+   "romaji": "niku o kirimasu.",
+   "gloss": "I'll cut the meat.",
+   "newElement": "kiru (cut, GODAN [1])",
+   "usesPrior": [
+    "niku",
+    "o",
+    "-masu"
+   ],
+   "cardType": "PROD",
+   "note": "Pair audio kiru/kitte on the card."
+  },
+  {
+   "n": 68,
+   "romaji": "shatsu o kimasu.",
+   "gloss": "I'll put on a shirt.",
+   "newElement": "kiru (wear, ICHIDAN [0])",
+   "usesPrior": [
+    "shatsu",
+    "o",
+    "-masu"
+   ],
+   "cardType": "RECOG",
+   "note": "THE THREE-WAY CARD. kimasu here = wear; kimasu from kuru = come; kirimasu = cut. Object resolves it in speech, accent resolves the te-forms: kite [0] / kite [1] / kitte [1]."
+  },
+  {
+   "n": 69,
+   "romaji": "kyoo wa tabenai.",
+   "gloss": "I'm not eating today.",
+   "newElement": "KEY 2 — -nai (ichidan)",
+   "usesPrior": [
+    "kyoo",
+    "wa",
+    "taberu"
+   ],
+   "cardType": "PROD",
+   "note": "tabenai [3]. Drop -ru, add -nai."
+  },
+  {
+   "n": 70,
+   "romaji": "biiru wa nomanai.",
+   "gloss": "I don't drink beer.",
+   "newElement": "-anai (godan)",
+   "usesPrior": [
+    "biiru",
+    "wa",
+    "nomu"
+   ],
+   "cardType": "PROD",
+   "note": "nomanai [3]. Paired directly with 37 (nomimasen) so the register split is audible: same meaning, two shelves."
+  },
+  {
+   "n": 71,
+   "romaji": "nani mo kawanai.",
+   "gloss": "I'm not buying anything.",
+   "newElement": "-wanai (W-INSERTION)",
+   "usesPrior": [
+    "nani mo",
+    "kau"
+   ],
+   "cardType": "PROD",
+   "note": "kawanai [3], never *kaanai. -au member of the vowel+u set."
+  },
+  {
+   "n": 72,
+   "romaji": "nani mo iwanai.",
+   "gloss": "He doesn't say anything.",
+   "newElement": "iwanai (yuu's suppletive -nai stem)",
+   "usesPrior": [
+    "nani mo",
+    "yuu",
+    "-wanai"
+   ],
+   "cardType": "PROD",
+   "note": "THE CARD THE EARLIER PASS WAS MISSING. yuu / yutte / yutta / IWANAI. The -iu member of the w-set AND a stem change. Never *yuwanai."
+  },
+  {
+   "n": 73,
+   "romaji": "tabako o suwanai.",
+   "gloss": "I don't smoke.",
+   "newElement": "suu",
+   "usesPrior": [
+    "tabako",
+    "o",
+    "-wanai"
+   ],
+   "cardType": "PROD",
+   "note": "The -uu member. su-u-wa-na-i. With 71, 72 and omowanai the learner has heard all four vowel shapes in one session."
+  },
+  {
+   "n": 74,
+   "romaji": "kyoo wa shinai.",
+   "gloss": "I'm not doing it today.",
+   "newElement": "shinai (suru, irregular)",
+   "usesPrior": [
+    "kyoo",
+    "wa",
+    "suru"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 75,
+   "romaji": "ashita wa konai.",
+   "gloss": "He isn't coming tomorrow.",
+   "newElement": "konai (kuru, irregular)",
+   "usesPrior": [
+    "ashita",
+    "wa",
+    "kuru"
+   ],
+   "cardType": "PROD",
+   "note": "The stem vowel goes to o — happens nowhere else in the language."
+  },
+  {
+   "n": 76,
+   "romaji": "jikan ga nai.",
+   "gloss": "There's no time.",
+   "newElement": "nai (aru's suppletive negative)",
+   "usesPrior": [
+    "jikan",
+    "ga",
+    "aru"
+   ],
+   "cardType": "PROD",
+   "note": "REQUIRED ITEM. Never *aranai. Sister frame shikata ga nai taught on the same card."
+  },
+  {
+   "n": 77,
+   "romaji": "kinoo wa ikanakatta.",
+   "gloss": "I didn't go yesterday.",
+   "newElement": "-nakatta",
+   "usesPrior": [
+    "kinoo",
+    "wa",
+    "iku",
+    "-nai"
+   ],
+   "cardType": "PROD",
+   "note": "ikanakatta [4] — accent on the ka."
+  },
+  {
+   "n": 78,
+   "romaji": "amari nomimasen.",
+   "gloss": "I don't drink much.",
+   "newElement": "amari",
+   "usesPrior": [
+    "nomu",
+    "-masen"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 79,
+   "romaji": "zenzen wakarimasen.",
+   "gloss": "I don't understand at all.",
+   "newElement": "zenzen",
+   "usesPrior": [
+    "wakaru",
+    "-masen"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 80,
+   "romaji": "moo tabemashita.",
+   "gloss": "I've already eaten.",
+   "newElement": "moo",
+   "usesPrior": [
+    "taberu",
+    "-mashita"
+   ],
+   "cardType": "RECOG"
+  },
+  {
+   "n": 81,
+   "romaji": "mada jikan ga aru.",
+   "gloss": "There's still time.",
+   "newElement": "mada",
+   "usesPrior": [
+    "jikan",
+    "ga",
+    "aru"
+   ],
+   "cardType": "RECOG",
+   "note": "Deliberately the affirmative sense only; mada + negative wants mada tabetenai, which is block E."
+  },
+  {
+   "n": 82,
+   "romaji": "mainichi hatarakimasu.",
+   "gloss": "I work every day.",
+   "newElement": "mainichi",
+   "usesPrior": [
+    "hataraku",
+    "-masu"
+   ],
+   "cardType": "PROD",
+   "note": "No particle. Say the ban aloud: never *mainichi ni."
+  },
+  {
+   "n": 83,
+   "romaji": "issho ni ikimasen ka.",
+   "gloss": "Won't you come along?",
+   "newElement": "issho ni",
+   "usesPrior": [
+    "iku",
+    "-masen ka"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 84,
+   "romaji": "ato de denwa o shimasu.",
+   "gloss": "I'll call later.",
+   "newElement": "ato de",
+   "usesPrior": [
+    "denwa",
+    "o",
+    "suru",
+    "-masu"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 85,
+   "romaji": "sugu ikimasu.",
+   "gloss": "I'll go right away.",
+   "newElement": "sugu",
+   "usesPrior": [
+    "iku",
+    "-masu"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 86,
+   "romaji": "hayaku okimashita.",
+   "gloss": "I got up early.",
+   "newElement": "hayaku",
+   "usesPrior": [
+    "okiru",
+    "-mashita"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 87,
+   "romaji": "yoku aimasu.",
+   "gloss": "I see him often.",
+   "newElement": "yoku",
+   "usesPrior": [
+    "au",
+    "-masu"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 88,
+   "romaji": "okane ga iru.",
+   "gloss": "I need money.",
+   "newElement": "iru (need, GODAN)",
+   "usesPrior": [
+    "okane",
+    "ga"
+   ],
+   "cardType": "RECOG",
+   "note": "Against sentence 2 (uchi ni iru, ichidan). Identical word, identical accent, different class — only the pair separates them: itte [0] vs ite [0]."
+  },
+  {
+   "n": 89,
+   "romaji": "tomodachi to shaberimasu.",
+   "gloss": "I chat with my friends.",
+   "newElement": "shaberu (GODAN, trap)",
+   "usesPrior": [
+    "tomodachi",
+    "to",
+    "-masu"
+   ],
+   "cardType": "PROD",
+   "note": "sha is one mora: sha-be-ru, 3 morae."
+  },
+  {
+   "n": 90,
+   "romaji": "doko ni sumimasu ka.",
+   "gloss": "Where will you live?",
+   "newElement": "sumu",
+   "usesPrior": [
+    "doko",
+    "ni",
+    "-masu ka"
+   ],
+   "cardType": "PROD",
+   "note": "Flag on the card: the everyday question is doko ni sunderu, which arrives in block E. This form is the future/habitual reading only."
+  },
+  {
+   "n": 91,
+   "romaji": "tomodachi ni tanomimasu.",
+   "gloss": "I'll ask my friend to do it.",
+   "newElement": "tanomu",
+   "usesPrior": [
+    "tomodachi",
+    "ni",
+    "-masu"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 92,
+   "romaji": "juu-ji ni tsukimasu.",
+   "gloss": "I arrive at ten.",
+   "newElement": "tsuku",
+   "usesPrior": [
+    "juu-ji",
+    "ni",
+    "-masu"
+   ],
+   "cardType": "PROD",
+   "note": "THE GATE SENTENCE — with tsuku stored the -ku class is closed and the induction base is complete."
+  },
+  {
+   "n": 93,
+   "romaji": "koko ni okimasu.",
+   "gloss": "I'll put it here.",
+   "newElement": "oku",
+   "usesPrior": [
+    "koko",
+    "ni",
+    "-masu"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 94,
+   "romaji": "kyoo wa yasumimasu.",
+   "gloss": "I'm taking today off.",
+   "newElement": "yasumu",
+   "usesPrior": [
+    "kyoo",
+    "wa",
+    "-masu"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 95,
+   "romaji": "hon o torimasu.",
+   "gloss": "I'll take the book.",
+   "newElement": "toru",
+   "usesPrior": [
+    "hon",
+    "o",
+    "-masu"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 96,
+   "romaji": "kore o erabimasu.",
+   "gloss": "I'll choose this one.",
+   "newElement": "erabu",
+   "usesPrior": [
+    "kore",
+    "o",
+    "-masu"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 97,
+   "romaji": "kyoo wa katsu.",
+   "gloss": "Today we win.",
+   "newElement": "katsu",
+   "usesPrior": [
+    "kyoo",
+    "wa"
+   ],
+   "cardType": "PROD",
+   "note": "katte [1] vs katte [0] (kau) drilled on the reverse of this card — nineteen days apart in introduction, so the pair is a discrimination test, not a confusion."
+  },
+  {
+   "n": 98,
+   "romaji": "okane o motsu.",
+   "gloss": "I carry money.",
+   "newElement": "motsu",
+   "usesPrior": [
+    "okane",
+    "o"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 99,
+   "romaji": "koko ni tatsu.",
+   "gloss": "I'll stand here.",
+   "newElement": "tatsu",
+   "usesPrior": [
+    "koko",
+    "ni"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 100,
+   "romaji": "kutsu o nugimasu.",
+   "gloss": "I take my shoes off.",
+   "newElement": "nugu",
+   "usesPrior": [
+    "kutsu",
+    "o",
+    "-masu"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 101,
+   "romaji": "kuruma o naoshimasu.",
+   "gloss": "I'll fix the car.",
+   "newElement": "naosu",
+   "usesPrior": [
+    "kuruma",
+    "o",
+    "-masu"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 102,
+   "romaji": "minna ga waraimashita.",
+   "gloss": "Everyone laughed.",
+   "newElement": "warau",
+   "usesPrior": [
+    "minna",
+    "ga",
+    "-mashita"
+   ],
+   "cardType": "PROD",
+   "note": "Closes the -u class at nine members. Verbs left item-only, with no sentence card in block D: tobu, shinu, sawagu, utsu, yaru, kagiru — all present in the pair drills, which is where they do their work."
+  }
+ ],
+ "drills": [
+  {
+   "name": "PAIR RECALL (dictionary <-> -te)",
+   "type": "pair-storage, both directions, metronome",
+   "spec": "THE SPINE OF THE BLOCK. Run daily from day 36, growing as pairs accumulate. Metronome at 66 bpm, one beat per answer.\n\nLEG A (dict -> te), caller/learner:\n'nomu' -> 'nonde' | 'kaku' -> 'kaite' | 'kiku' -> 'kiite' | 'matsu' -> 'matte' | 'toru' -> 'totte' | 'hanasu' -> 'hanashite' | 'asobu' -> 'asonde' | 'erabu' -> 'erande' | 'isogu' -> 'isoide' | 'oyogu' -> 'oyoide' | 'taberu' -> 'tabete' | 'okiru' -> 'okite' | 'suru' -> 'shite' | 'kuru' -> 'kite' | 'IKU' -> 'ITTE' | 'SHINU' -> 'SHINDE' | 'kaeru' -> 'kaette' | 'hairu' -> 'haitte' | 'shiru' -> 'shitte' | 'shaberu' -> 'shabette'\n\nLEG B (te -> dict), harder, run from day 43:\n'nonde' -> 'nomu' | 'asonde' -> 'asobu' | 'aruite' -> 'aruku' | 'isoide' -> 'isogu' | 'kaeshite' -> 'kaesu' | 'tabete' -> 'taberu'\nAMBIGUOUS ITEMS — the required answer is BOTH members plus the disambiguating accent or frame:\n'yonde [1]' -> 'yomu' ; 'yonde [0]' -> 'yobu'\n'kitte [1]' -> 'kiru, cut' ; 'kite [0]' -> 'kiru, wear' ; 'kite [1]' -> 'kuru'\n'itte [0]' -> 'iku OR iru need — phrase-only: eki ni itte / okane ga itte'\n'atte [1]' -> 'au OR aru — phrase-only: tomodachi ni atte / jikan ga atte'\n'shite [0]' -> 'suru' ; 'shitte [0]' -> 'shiru'\n\nRULE THE LEARNER STATES ALOUD ONCE PER SESSION: 'the te-form carries the same accent number as the dictionary form.' True for all 65 pairs in the block — verify it, do not just assert it.",
+   "target": "By day 56: 65 pairs, both legs, answer inside one beat (< 1.0 s), 95% correct across two consecutive sessions, with te-form accent matching the dictionary index. The four ambiguous te-forms must be answered 'phrase-only' with both readings named. THIS IS THE BLOCK E GATE — do not open the -te chant until it passes."
+  },
+  {
+   "name": "CODA-CLASS SORT",
+   "type": "audio-only classification, no writing",
+   "spec": "Caller says a dictionary form; learner answers with the TE-ENDING SOUND ONLY, not a grammatical label. Four buckets: -tte / -nde / -ite~-ide / -shite.\n\n'erabu' -> '-nde' | 'nugu' -> '-ide' | 'kasu' -> '-shite' | 'utsu' -> '-tte' | 'sumu' -> '-nde' | 'oku' -> '-ite' | 'hashiru' -> '-tte' | 'sawagu' -> '-ide' | 'naosu' -> '-shite' | 'tatsu' -> '-tte' | 'tobu' -> '-nde' | 'tsuku' -> '-ite' | 'warau' -> '-tte' | 'tanomu' -> '-nde'\n\nEXCEPTION SUB-SET, answered by name not by rule:\n'iku' -> 'EXCEPTION: itte' | 'shinu' -> 'THE ONLY -nu VERB: shinde'\n\nThe voicing contrast -ite / -ide is run as its own block against the metronome: kaite / isoide / kiite / oyoide / aruite / nuide / tsuite / sawaide.",
+   "target": "40 items at 95%, with both exceptions named on sight rather than derived. Learner can state without prompting: 'nine godan codas, seven of them I can hear a pattern in, -nu has one member in the whole language, and iku just does its own thing.'"
+  },
+  {
+   "name": "-MASU SHELL SUBSTITUTION",
+   "type": "six-tail substitution against a beat, accent-gated",
+   "spec": "REQUIRED DRILL, week 7. 60 bpm, one form per beat, no pause between tails. Caller gives the dictionary form; learner runs the whole shell.\n\nCALLER 'nomu' ->\n  nomimasu [3] / nomimasen [4] / nomimashita [3] / nomimasen deshita [4] / nomimashoo [4] / nomimasen ka [4]\nCALLER 'iku' ->\n  ikimasu [3] / ikimasen [4] / ikimashita [3] / ikimasen deshita [4] / ikimashoo [4] / ikimasen ka [4]\nCALLER 'taberu' ->\n  tabemasu [3] / tabemasen [4] / tabemashita [3] / tabemasen deshita [4] / tabemashoo [4] / tabemasen ka [4]\nCALLER 'matsu' ->\n  machimasu / machimasen / machimashita / machimasen deshita / machimashoo / machimasen ka\nCALLER 'hanasu' ->\n  hanashimasu / hanashimasen / hanashimashita / hanashimasen deshita / hanashimashoo / hanashimasen ka\nCALLER 'kuru' ->\n  kimasu / kimasen / kimashita / kimasen deshita / kimashoo / kimasen ka\nCALLER 'suru' ->\n  shimasu / shimasen / shimashita / shimasen deshita / shimashoo / shimasen ka\nCALLER 'au' ->\n  aimasu / aimasen / aimashita / aimasen deshita / aimashoo / aimasen ka\n\nACCENT GATE, THE POINT OF THE DRILL: -masu and -mashita take MA. -masen, -masen deshita and -masen ka take SE. -mashoo takes SHO. THREE OF THE FIVE BREAK THE NAIVE 'ALWAYS MA' RULE. Any run containing *nomímasen or *ikímashoo is a failed run and is repeated from the top, not corrected mid-stream.",
+   "target": "8 verbs x 6 tails, one form per beat at 60 bpm, ZERO accent errors, on two consecutive days. Then re-run with the caller giving English prompts ('let's wait' -> machimashoo) at the same tempo."
+  },
+  {
+   "name": "I-STEM TAIL CHAIN",
+   "type": "one shelf, ten tails, spoken as a single run",
+   "spec": "Caller gives the i-stem alone; learner runs all ten tails without stopping. The drill exists to make the SHELF audible as one object.\n\n'nomi-' -> nomitai / nominagara / nomi ni iku / nomikata / nomisugiru / nomiyasui / nominikui / nomihajimeru / nomiowaru / nomitsuzukeru\n'tabe-' -> tabetai / tabenagara / tabe ni iku / tabekata / tabesugiru / tabeyasui / tabenikui / tabehajimeru / tabeowaru / tabetsuzukeru\n'yomi-' -> yomitai / yominagara / yomi ni iku / yomikata / yomisugiru / yomiyasui / yominikui / yomihajimeru / yomiowaru / yomitsuzukeru\n'aruki-' -> arukitai / arukinagara / aruki ni iku / arukikata / arukisugiru / arukiyasui / arukinikui / arukihajimeru / arukiowaru / arukitsuzukeru\n'hanashi-' -> hanashitai / hanashinagara / hanashi ni iku / hanashikata / hanashisugiru / hanashiyasui / hanashinikui / hanashihajimeru / hanashiowaru / hanashitsuzukeru\n'shi-' -> shitai / shinagara / shi ni iku / shikata / shisugiru / shiyasui / shinikui / shihajimeru / shiowaru / shitsuzukeru\n\nOUTPUT-CLASS TAG, said aloud after each run: -tai and -yasui and -nikui make I-ADJECTIVES; -sugiru and -hajimeru and -tsuzukeru make ICHIDAN VERBS; -owaru makes a GODAN -ru VERB; -kata makes a NOUN. So each tail re-enters the system it came from.",
+   "target": "6 stems x 10 tails with no hesitation, plus the output-class tag correct for all ten. Learner can state the block's thesis in one sentence: 'it is one shelf and twenty tails, not twenty grammar points.' ACCENT NOTE: the -kata, -hajimeru, -owaru and -tsuzukeru compounds carry accents flagged for verification — drill them from native audio, not from a written number."
+  },
+  {
+   "name": "-NAI FORMATION",
+   "type": "dictionary -> negative -> negative past, metronome",
+   "spec": "REQUIRED DRILL, week 8. Caller gives the dictionary form; learner gives -nai then -nakatta, two beats.\n\nICHIDAN: 'taberu' -> tabenai [3], tabenakatta [4] | 'miru' -> minai [2], minakatta [3] | 'neru' -> nenai [2] | 'okiru' -> okinai [3] | 'dekiru' -> dekinai [3]\nGODAN -mu/-bu/-nu: 'nomu' -> nomanai [3] | 'yomu' -> yomanai [3] | 'asobu' -> asobanai [4] | 'yobu' -> yobanai [3] | 'shinu' -> shinanai [3]\nGODAN -ku/-gu: 'iku' -> ikanai [3] | 'kaku' -> kakanai [3] | 'aruku' -> arukanai [4] | 'isogu' -> isoganai [4]\nGODAN -su/-tsu: 'hanasu' -> hanasanai [4], hanasanakatta [5] | 'dasu' -> dasanai [3] | 'matsu' -> matanai [3] | 'katsu' -> katanai [3]\nGODAN -ru: 'toru' -> toranai [3] | 'kaeru' -> kaeranai [4] | 'hairu' -> hairanai [4] | 'wakaru' -> wakaranai [4]\nVOWEL + U — W-INSERTION: 'kau' -> kawanai [3] | 'YUU' -> IWANAI [3] | 'omou' -> omowanai [4] | 'suu' -> suwanai [3] | 'au' -> awanai [3] | 'morau' -> morawanai [4] | 'tsukau' -> tsukawanai [4] | 'narau' -> narawanai [4]\nIRREGULARS: 'suru' -> shinai [2] | 'kuru' -> konai [2] | 'ARU' -> NAI [1], nakatta [1]\n\nACCENT RULE, uniform and stated once: the accent lands on the mora immediately before -nai. -nakatta moves it to the ka.\nBANNED OUTPUTS, called out by name before the drill starts: *aranai, *yuwanai, *iunai, *kaanai, *shinai-for-shinu (shinu -> shinanai).",
+   "target": "30 verbs, -nai and -nakatta both, under 1.2 s each, 95%. Separate hard gates: aru -> nai correct 10/10 with no hesitation, and all eight vowel+u verbs correct on three consecutive runs."
+  },
+  {
+   "name": "W-INSERTION GATE",
+   "type": "polarity discrimination, mixed list",
+   "spec": "Sub-drill of the -nai drill, run on day 53 and then weekly. The caller reads a SHUFFLED list mixing vowel+u verbs with consonant+u verbs that look similar. Learner answers the -nai form only.\n\n'kau' -> kawanai | 'kaku' -> kakanai | 'YUU' -> IWANAI | 'yomu' -> yomanai | 'omou' -> omowanai | 'oku' -> okanai | 'suu' -> suwanai | 'sumu' -> sumanai | 'au' -> awanai | 'aru' -> NAI | 'morau' -> morawanai | 'motsu' -> matanai... (caller correction: motanai) | 'warau' -> warawanai | 'wakaru' -> wakaranai | 'narau' -> narawanai | 'naru' -> naranai | 'tsukau' -> tsukawanai | 'tsuku' -> tsukanai\n\nTHE RULE THE LEARNER MUST BE ABLE TO SAY, in this form and not the textbook form: 'if the dictionary form ends in a VOWEL plus u — -au, -iu, -ou, -uu — put a w in. The book says -au and the book is wrong about yuu.'",
+   "target": "20/20 on the shuffled list, twice. Zero *iunai and zero *yuwanai. Learner states the rule with all four vowel shapes, unprompted."
+  },
+  {
+   "name": "-ERU/-IRU TRAP AND ACCENT MINIMAL PAIRS",
+   "type": "recognition, accent-forced",
+   "spec": "Caller plays a TE-FORM with its accent; learner names the verb and its class. Everything hangs on hearing the pitch drop, so this is audio-only with no romaji shown.\n\n'kitte [1]' -> kiru, cut, GODAN\n'kite [0]' -> kiru, wear, ICHIDAN\n'kite [1]' -> kuru, irregular\n'kaette [1]' -> kaeru, GODAN (not *kaete)\n'haitte [1]' -> hairu, GODAN\n'hashitte [2]' -> hashiru, GODAN\n'shitte [0]' -> shiru, GODAN\n'shite [0]' -> suru, irregular\n'shabette [2]' -> shaberu, GODAN\n'kagitte [2]' -> kagiru, GODAN\n'nete [0]' -> neru, ICHIDAN (a genuine one)\n'okite [2]' -> okiru, ICHIDAN (a genuine one)\n'yonde [1]' -> yomu | 'yonde [0]' -> yobu\n'katte [1]' -> katsu | 'katte [0]' -> kau\nPHRASE-ONLY ITEMS, answered with both readings and a frame:\n'itte [0]' -> iku or iru-need: eki ni itte / okane ga itte\n'atte [1]' -> au or aru: tomodachi ni atte / jikan ga atte\n\nSECOND LEG: caller gives the dictionary form and the learner must say GODAN or ICHIDAN — but is required to justify it by producing the te-form, never by looking at the ending. 'How do you know?' -> 'because it's kaette.'",
+   "target": "100% on the four accent minimal pairs (kite/kite, yonde/yonde, katte/katte, kitte/kite). The two phrase-only items answered with both readings plus a disambiguating frame — answering with only one reading is a failure even if that reading is more common."
+  },
+  {
+   "name": "NI / DE / O SELECTION",
+   "type": "particle supply, spoken",
+   "spec": "Caller gives noun + blank + verb; learner supplies the particle and then says the whole sentence.\n\nuchi __ iru -> ni | uchi __ taberu -> de | eki __ iku -> ni (e also accepted) | kuruma __ iku -> de | mizu __ nomu -> o | michi __ aruku -> o | hachi-ji __ okiru -> ni | ashita __ iku -> NO PARTICLE | mainichi __ hataraku -> NO PARTICLE | tomodachi __ kiku -> ni | tomodachi __ au -> ni (NOT o) | tomodachi __ hanasu -> to | eki __ matsu -> de | nihongo __ wakaru -> ga (NOT o) | nihongo __ hanasu -> o | nihongo __ yuu -> de | heya __ hairu -> ni | eki __ aruku -> made or kara, both accepted with different meanings | tegami __ dasu -> o | koko __ oku -> ni\n\nTRAP ITEMS, deliberately included: au takes ni; wakaru and dekiru take ga; ashita and mainichi take nothing.\n\nTHE ONE-LINE SPLIT, recited at the end of every run: 'ni is where a thing sits, where it goes, and when. de is where the action happens and what I'm using. o is what I affect and what I travel along.'",
+   "target": "40 items at 95%, and the one-line split produced from memory. The three traps (au ni, wakaru ga, mainichi bare) at 100% before block E opens."
+  }
+ ],
+ "lessons": [
+  {
+   "day": "36",
+   "title": "Key 1 opens: a bare verb is a whole sentence",
+   "introduces": [
+    "KEY1 dictionary form = plain non-past",
+    "PAIR STORAGE contract",
+    "aru/atte",
+    "iru/ite (re-carded as pairs)",
+    "ni (existence)",
+    "iku/itte",
+    "e"
+   ],
+   "minutes": "95",
+   "sentenceRange": "S1-S4",
+   "drill": "PAIR RECALL leg A, seed set of 4. Stated aloud: 'every verb is two sounds. I will never work out a te-form; I will remember it.' Also: dictionary form covers HABITUAL and FUTURE, never 'right now'."
+  },
+  {
+   "day": "37",
+   "title": "Coming, going, eating, drinking + the object particle",
+   "introduces": [
+    "kuru/kite",
+    "nomu/nonde",
+    "o (object)",
+    "taberu/tabete",
+    "de (locus)"
+   ],
+   "minutes": "90",
+   "sentenceRange": "S5-S9",
+   "drill": "PAIR RECALL (8). NI/DE contrast on one noun: uchi ni iru / uchi de taberu, twenty alternations against a beat."
+  },
+  {
+   "day": "38",
+   "title": "de, kara, made — the frame around the verb",
+   "introduces": [
+    "miru/mite",
+    "kau/katte",
+    "de (means)",
+    "kara",
+    "made"
+   ],
+   "minutes": "95",
+   "sentenceRange": "S10-S14",
+   "drill": "PAIR RECALL (10). Particle supply on known verbs only."
+  },
+  {
+   "day": "39",
+   "title": "Four workhorses",
+   "introduces": [
+    "to (comitative)",
+    "matsu/matte",
+    "yomu/yonde",
+    "kaku/kaite",
+    "kiku/kiite"
+   ],
+   "minutes": "90",
+   "sentenceRange": "S15-S19",
+   "drill": "PAIR RECALL (14). First -tte and -ite pairs land together; kaku/kaite is contrasted with iku/itte so the exception is HEARD before it is ever named."
+  },
+  {
+   "day": "40",
+   "title": "ni for people, o for paths",
+   "introduces": [
+    "ni (recipient)",
+    "hanasu/hanashite",
+    "aruku/aruite",
+    "o (path)",
+    "ni/de/o three-way"
+   ],
+   "minutes": "100",
+   "sentenceRange": "S20-S23",
+   "drill": "NI/DE/O SELECTION, first full run (40 items). PAIR RECALL (17). The one-line split memorised today, not later."
+  },
+  {
+   "day": "41",
+   "title": "Understanding, being able, saying, thinking",
+   "introduces": [
+    "wakaru/wakatte",
+    "dekiru/dekite",
+    "yuu/yutte",
+    "omou/omotte",
+    "suru/shite"
+   ],
+   "minutes": "95",
+   "sentenceRange": "S24-S28",
+   "drill": "PAIR RECALL (22). THE YUU SESSION: 言う is heard, produced and drilled as yu-u, two morae; yutta and (preview) tte yutteta played from native audio. Also the ga-verbs: wakaru ga, dekiru ga."
+  },
+  {
+   "day": "42",
+   "title": "The clock, and two honest ichidan verbs",
+   "introduces": [
+    "ni (clock time)",
+    "okiru/okite",
+    "neru/nete",
+    "godan vs ichidan: class is stored",
+    "nan-ji ni",
+    "doko de"
+   ],
+   "minutes": "90",
+   "sentenceRange": "S29-S31",
+   "drill": "CODA-CLASS SORT opens (seed, 14 items). Week 6 audit: 22 pairs stored; -ru class already closed at toru. Explicit ban drilled: ashita iku, never *ashita ni iku."
+  },
+  {
+   "day": "43",
+   "title": "Key 3 named, and the -eru/-iru trap sprung",
+   "introduces": [
+    "KEY3 the i-stem (ren'yookee)",
+    "kaeru/kaette",
+    "hairu/haitte",
+    "hashiru/hashitte",
+    "yobu/yonde",
+    "shiru/shitte"
+   ],
+   "minutes": "100",
+   "sentenceRange": "S32-S35",
+   "drill": "TRAP DRILL opens. The trap is presented as ALREADY SOLVED: these look ichidan and are godan, and the learner has never once inferred a class from an ending, so nothing breaks. yonde [1] vs yonde [0] taught as an accent pair. I-stem formation stated: the shelf twenty things will hang on."
+  },
+  {
+   "day": "44",
+   "title": "The -masu shell, part one",
+   "introduces": [
+    "-masu [ma]",
+    "-masen [SE]",
+    "-mashita [ma]",
+    "wakarimasen",
+    "shirimasen"
+   ],
+   "minutes": "95",
+   "sentenceRange": "S36-S38",
+   "drill": "-MASU SHELL SUBSTITUTION opens, three tails, 4 verbs. THE ACCENT HEADLINE: -masen takes se, not ma. Any *nomímasen restarts the run."
+  },
+  {
+   "day": "45",
+   "title": "The -masu shell, part two — the three that break the rule",
+   "introduces": [
+    "-masen deshita [se]",
+    "-mashoo [SHO]",
+    "-masen ka [se]",
+    "-masu ka [ma]",
+    "nani o shimasu ka",
+    "dare to"
+   ],
+   "minutes": "95",
+   "sentenceRange": "S39-S42",
+   "drill": "-MASU SHELL SUBSTITUTION, all six tails, 6 verbs. Learner states the accent map: ma, SE, ma, SE, SHO, SE. Three of five break the naive rule."
+  },
+  {
+   "day": "46",
+   "title": "Meeting people, working hours",
+   "introduces": [
+    "au/atte [1]",
+    "hataraku/hataraite",
+    "kara...made frame",
+    "tsuku/tsuite",
+    "mainichi"
+   ],
+   "minutes": "90",
+   "sentenceRange": "S43-S45, S82, S92",
+   "drill": "PAIR RECALL with the atte problem: au [1] and aru [1] produce the SAME sound. Drilled as phrase-only from the first exposure — tomodachi ni atte / jikan ga atte. Also: au takes ni."
+  },
+  {
+   "day": "47",
+   "title": "The first four tails",
+   "introduces": [
+    "-tai",
+    "-nagara",
+    "-ni iku",
+    "-kata",
+    "hanashi",
+    "yasumi"
+   ],
+   "minutes": "100",
+   "sentenceRange": "S46-S49",
+   "drill": "I-STEM TAIL CHAIN opens, 4 tails x 4 stems. The point made explicitly: these are not four grammar points, they are four things on one shelf you already own. hanashi and yasumi show the same shelf making nouns."
+  },
+  {
+   "day": "48",
+   "title": "Six more tails, and the shelf is obvious",
+   "introduces": [
+    "-sugiru",
+    "-yasui",
+    "-nikui",
+    "-hajimeru",
+    "-owaru",
+    "-tsuzukeru",
+    "tabemono",
+    "nomimono"
+   ],
+   "minutes": "100",
+   "sentenceRange": "S50-S55",
+   "drill": "I-STEM TAIL CHAIN, all 10 tails x 6 stems. Output-class tag said aloud after each run (i-adjective / ichidan / godan -ru / noun). Compound accents drilled from native audio only — the flagged ones are not read off a number."
+  },
+  {
+   "day": "49",
+   "title": "Filling -su and -gu for the induction base",
+   "introduces": [
+    "dasu/dashite",
+    "kasu/kashite",
+    "kaesu/kaeshite",
+    "naosu/naoshite",
+    "isogu/isoide",
+    "oyogu/oyoide",
+    "nugu/nuide",
+    "sawagu/sawaide"
+   ],
+   "minutes": "95",
+   "sentenceRange": "S56-S59, S100-S101",
+   "drill": "CODA-CLASS SORT with the -ite/-ide voicing block: kaite / isoide / kiite / oyoide / aruite / nuide / tsuite / sawaide. CODA AUDIT: -su closes at naosu (item 41), -gu closes at sawagu (item 38). kaeru vs kaesu run as a pair."
+  },
+  {
+   "day": "50",
+   "title": "-bu closes; making, learning, using",
+   "introduces": [
+    "asobu/asonde",
+    "tobu/tonde",
+    "erabu/erande",
+    "tsukuru/tsukutte",
+    "narau/naratte",
+    "tsukau/tsukatte"
+   ],
+   "minutes": "90",
+   "sentenceRange": "S60-S63, S96",
+   "drill": "PAIR RECALL (45+). CODA AUDIT: -bu closes at erabu (item 33). All -nde codas contrasted in one run: nonde/asonde/shinde/yonde-yomu/yonde-yobu."
+  },
+  {
+   "day": "51",
+   "title": "Giving in three directions; kiru, kiru, kuru",
+   "introduces": [
+    "morau/moratte",
+    "ageru/agete",
+    "kureru/kurete",
+    "kiru cut/kitte [1]",
+    "kiru wear/kite [0]",
+    "shatsu frame"
+   ],
+   "minutes": "95",
+   "sentenceRange": "S64-S68",
+   "drill": "TRAP DRILL, three-way card: kite [0] wearing / kite [1] coming / kitte [1] cutting. The giving trio taught as ONE direction system — no pronouns needed, ever. Particle flip on kureru (ga)."
+  },
+  {
+   "day": "52",
+   "title": "Key 2 opens: the -nai stem",
+   "introduces": [
+    "KEY2 the -nai stem",
+    "-nai (ichidan)",
+    "-anai (godan)",
+    "register: plain vs -masu",
+    "amari",
+    "zenzen"
+   ],
+   "minutes": "100",
+   "sentenceRange": "S69-S70, S78-S79",
+   "drill": "-NAI FORMATION opens, ichidan and consonant-godan only (20 verbs). Accent rule stated once and tested: the drop sits on the mora before -nai. Register card: produce -masu, comprehend both."
+  },
+  {
+   "day": "53",
+   "title": "W-insertion, stated correctly",
+   "introduces": [
+    "-wanai (all four vowel shapes)",
+    "iwanai",
+    "suu/sutte",
+    "warau/waratte"
+   ],
+   "minutes": "100",
+   "sentenceRange": "S71-S73, S102",
+   "drill": "W-INSERTION GATE. The four shapes drilled as four, not one: kau/kawanai, YUU/IWANAI, omou/omowanai, suu/suwanai. Learner is told outright that the usual textbook statement covers -au only and therefore mis-generates for yuu, one of the most frequent verbs in speech."
+  },
+  {
+   "day": "54",
+   "title": "The three irregular negatives, and the past",
+   "introduces": [
+    "shinai",
+    "konai",
+    "nai [1] (aru's suppletive negative)",
+    "-nakatta",
+    "shinu/shinde"
+   ],
+   "minutes": "95",
+   "sentenceRange": "S74-S77",
+   "drill": "-NAI FORMATION, full 30 verbs plus -nakatta. HARD GATE: aru -> nai, 10/10, no hesitation, never *aranai. jikan ga nai and shikata ga nai drilled as frames. shinu introduced here, deliberately one day away from shinai, and named as the language's only -nu verb."
+  },
+  {
+   "day": "55",
+   "title": "The adverb layer",
+   "introduces": [
+    "moo",
+    "mada",
+    "yoku",
+    "hayaku",
+    "sugu",
+    "issho ni",
+    "ato de",
+    "nani o shimasu ka frame"
+   ],
+   "minutes": "95",
+   "sentenceRange": "S80-S87",
+   "drill": "-MASU SHELL SUBSTITUTION with adverbs prefixed (amari nomimasen / zenzen wakarimasen / yoku aimasu / sugu ikimasu). Polarity items enforced: amari and zenzen are ungrammatical without a negative."
+  },
+  {
+   "day": "56",
+   "title": "Block D audit — the induction base is stocked",
+   "introduces": [
+    "iru need/itte (godan)",
+    "shaberu/shabette",
+    "kagiru/kagitte",
+    "sumu/sunde",
+    "tanomu/tanonde",
+    "oku/oite",
+    "yasumu/yasunde",
+    "toru/totte",
+    "katsu/katte",
+    "motsu/motte",
+    "tatsu/tatte",
+    "utsu/utte",
+    "yaru/yatte"
+   ],
+   "minutes": "100",
+   "sentenceRange": "S88-S99",
+   "drill": "FULL AUDIT RUN: PAIR RECALL both legs on all 65 pairs, CODA-CLASS SORT, -MASU SHELL, -NAI FORMATION, TRAP DRILL. GATE CHECK FOR BLOCK E: 65 verbs stored as audio pairs; -ru 12, -u 9, -ku 6, -mu 5, -su 5, -tsu 5, -bu 4, -gu 4 — eight classes at four or more; -nu has one member and is memorised alongside iku. Closing statement the learner makes: 'two exceptions, not one, and I never computed a class all block.'"
+  }
+ ]
+}

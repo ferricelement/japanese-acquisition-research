@@ -1,0 +1,781 @@
+[
+ {
+  "errors": [
+   {
+    "item": "whyThatVariable — \"hikooki is 5 morae\"",
+    "problem": "hikooki (ひこうき) is hi-ko-o-ki = 4 morae, not 5. This miscount sits inside the load-bearing argument that distinguishes the chosen variable from rival (b), i.e. the one place in the document where a mora count is actually asserted.",
+    "fix": "Change to 4 morae. The argument survives (onna 3 morae with one special vs hikooki 4 morae with one special still makes the point), but the number must be right or every unstated mora count in the ledger becomes suspect.",
+    "severity": "major"
+   },
+   {
+    "item": "Items 121-140 — shinbun (136)",
+    "problem": "shinbun is shi-N-bu-N: TWO moraic N. The block's own rationale states \"Every card is a single-N word; no item here also carries a long vowel or geminate,\" and the tier definition is \"TIER 1 = exactly one special mora.\" shinbun violates both and belongs in tier 2 (171-180).",
+    "fix": "Move shinbun into the tier-2 run, or delete it (see frequency objection) and promote hon [1] into the vacated 1a slot. Do not leave it in 1a with the 'single-N' claim standing.",
+    "severity": "fatal"
+   },
+   {
+    "item": "Items 121-140 — stated sub-ordering by N environment",
+    "problem": "The rationale claims 121-131 are \"word-final and pre-pause\" and 132-140 are \"N before an obstruent.\" Four of eleven items in the first sub-block are medial: onna (123, N before homorganic nasal), minna (124, same), hankachi (129, N before /k/), konbini (130, N before /b/). Three of nine in the second sub-block are word-final: mikan (132), jikan (138), shashin (139). The rationale even cites hankachi=[ŋ] as its assimilation example while placing it in the no-assimilation sub-block. This is the stated ordering principle contradicted by the list that claims to apply it — the exact failure mode the brief exists to correct.",
+    "fix": "Re-sort: word-final only (pan, gohan, kaban, zubon, botan, pen, resutoran, mikan, jikan, shashin) then medial pre-obstruent (ringo, tenki, ongaku, densha, konbini, hankachi) then medial pre-nasal (onna, minna) then pre-glide/vowel (denwa). Or drop the sub-ordering claim.",
+    "severity": "fatal"
+   },
+   {
+    "item": "Within-tier constraint \"no run of more than three same-class items\"",
+    "problem": "Violated at least seven times. Heiban runs of four or more: 3-6 (hito, kodomo, tomodachi, mizu); 10-13 (hako, sara, isu, tsukue); 19-22 (kuruma, okane, ue, shita); 69-73 (abura, ocha, sake, okashi, aji — five); 133-136 (ringo, denwa, densha, shinbun); 155-159 (sooji, ryokoo, byooin, gakusee, tokee — five); 161-164 (kitte, kippu, koppu, zasshi). Accented runs of four or more: 146-151 (toori, koohii, biiru, juusu, keeki, chiizu — six); 175-180 (all six honorific kinship terms, all [2]). The constraint is stated as the secondary sort for every tier and is honoured only in block 1-20, where it is explicitly diagrammed.",
+    "fix": "Either re-sequence within blocks to enforce the constraint (it is cheap — swapping aji↔nioi, tokee↔hikooki, keeki↔koocha etc. fixes most runs) or state honestly that accent alternation is enforced only in 1-20 and abandoned thereafter.",
+    "severity": "fatal"
+   },
+   {
+    "item": "orderingVariable — scope of the primary variable",
+    "problem": "Special-mora load is constant (zero) across items 1-120, i.e. 67% of the ledger, so the declared primary variable orders nothing for two-thirds of the list; there the real order is semantic clustering with frequency behind it. Inside each tier-1 sub-block the order is again by a different key (N environment, then wago→gairaigo→kango). The primary variable therefore fixes exactly four cut points (120/140/160/170) and \"Within every tier the secondary sort is accent-class alternation, the tertiary sort is semantic clustering\" is violated as shown above. The claim \"Applied visibly as four tiers\" is the maximum honest claim; \"orderingVariable\" is not.",
+    "fix": "Restate as: the variable is a four-way partition, not a sort; within tier 0 the operative order is semantic-cluster-then-frequency. Then either apply frequency as a visible tertiary key inside tier 0 (it currently does nothing anywhere) or drop it from the spec.",
+    "severity": "fatal"
+   },
+   {
+    "item": "Items 33-34 — te [1] hand, me [1] eye",
+    "problem": "Two 1-mora words, identical accent class, identical CV shape, differing in exactly one consonant, placed ADJACENT, for a learner with no orthography. The note defends admitting them on homophone density (te/me have low cross-homophony) but never addresses their density against EACH OTHER, which is the actual risk. This is the single tightest confusable pair in the ledger and it is unflagged.",
+    "fix": "Separate te and me by at least 15 indices and place a third body part between them; put te adjacent to a segmentally distant neighbour (kuchi, kao).",
+    "severity": "major"
+   },
+   {
+    "item": "Items 162-163 — kippu [0] / koppu [0]",
+    "problem": "A near-minimal pair (ki-p-pu / ko-p-pu), identical accent [0], identical mora count, identical geminate, placed ADJACENT, inside the block whose stated purpose is to teach gemination cleanly. The vowel is the only cue and the learner has no spelling to fall back on.",
+    "fix": "Separate by the width of the geminate block: kippu at 162, koppu at 169 or later, with zasshi/poketto/beddo between.",
+    "severity": "major"
+   },
+   {
+    "item": "Item 31 — soba [1] 'beside'",
+    "problem": "Unflagged accent-IDENTICAL homophone. soba 側/傍 [1] and soba 蕎麦 (buckwheat noodles) [1] are segmentally and prosodically identical, and soba-the-food is a top-tier conversational noun that will arrive within the 6,000. By the document's own rule S2 this requires the one-bare-card treatment, and it appears in neither the block's interference note nor the S2 exemplar list.",
+    "fix": "Add soba to the S2 roster: relational soba keeps the bare card, soba noodles is permanently phrase-only (osoba o taberu).",
+    "severity": "major"
+   },
+   {
+    "item": "Item 83 — kawa [2] river",
+    "problem": "Unflagged accent-IDENTICAL homophone. kawa 川 [2] and kawa 皮/革 (skin, leather, peel) [2] are identical in segments and accent. kawa 'skin/peel' is high-frequency conversationally (mikan no kawa, at item 132 in this very ledger). S2 case, missing from a block whose rationale boasts of catching \"four flagged items in ten.\"",
+    "fix": "Add to S2. River keeps the bare card; skin/peel is phrase-only.",
+    "severity": "major"
+   },
+   {
+    "item": "Item 157 byooin vs item 172 kooen — tier assignment",
+    "problem": "byooin (byo-o-i-N) and kooen (ko-o-e-N) have IDENTICAL special-mora profiles: one long vowel plus one moraic N. kooen is placed in the tier-2 run as an exemplar of \"long vowel + N\"; byooin is placed in tier 1b, where the stated rule is exactly one special mora. The rationale acknowledges this (\"technically carries long-vowel + N... the bridge into tier 2\") but an acknowledged rule violation is still a rule violation, and it makes the tier boundary unfalsifiable.",
+    "fix": "Move byooin to 171-180 alongside kooen, or state a written exception rule (e.g. \"N in coda of a long-vowel syllable is scored 0.5\") and apply it to both.",
+    "severity": "major"
+   },
+   {
+    "item": "Item 168 — shatsu in the geminate block",
+    "problem": "シャツ is sha-tsu: 2 morae, one yoon onset, NO geminate. It sits at 168 inside \"TIER 1c · +GEMINATE\" among nine genuine geminates, and its label carries no marker distinguishing it. It is also the only tier-1 item whose sole 'special' is a yoon, which the orderingVariable calls a half-weight secondary term rather than a tier-assigning feature.",
+    "fix": "Either relabel 161-170 as \"geminate, plus yoon-only items\" and mark shatsu explicitly, or move shatsu to tier 0 (it has no full special mora) and promote a real geminate — kitto, mottainai are not nouns, so the honest replacement is another gairaigo geminate such as sekkusu-free options like 'kokku' being too rare; the more defensible move is to shrink the block to nine and admit the finding you already reached about geminate nouns being scarce.",
+    "severity": "major"
+   },
+   {
+    "item": "Treatment of yoon across the whole ledger",
+    "problem": "The orderingVariable names yoon as a load-bearing (half-weight) term and names 161-170 \"geminate/yoon,\" but yoon-bearing items are scattered through every tier with no visible weighting: ocha (70) and kaisha (109) in tier 0; densha (135), shashin (139) in 1a; koocha (153), ryoori (154), ryokoo (156), byooin (157) in 1b — each of these is then carrying a full special mora PLUS a yoon while sitting in an \"exactly one special mora\" tier. The half-weight term is declared and never computed.",
+    "fix": "Either delete yoon from the ordering variable (defensible — yoon is an onset, not a mora, and is not a length/timing contrast) or compute it and show the arithmetic for the ~10 affected items.",
+    "severity": "major"
+   },
+   {
+    "item": "Note: WAGO:KANGO ACTUAL COUNT",
+    "problem": "Three errors. (1) Untagged kango: isu 椅子 (12), fuku 服 (60), niku 肉 (63) are Sino-Japanese and carry no [K]; okashi 菓子 (72) is at least [K~]. Actual kango is ~36 (20%), not 32 (17.8%). (2) \"Items 1-120 run at 2.5% kango\" is wrong even by the document's own tags: daidokoro, saifu, yasai, ocha, kaisha = 5/120 = 4.2%; adding the untagged four gives 9/120 = 7.5%, three times the stated figure. (3) The conclusion \"the ratio only degrades from item 121\" therefore does not hold — it degrades from item 12.",
+    "fix": "Retag isu, niku, fuku, okashi; recompute. State kango ≈20%, functional kango ≈17.8% after discounting gohan/kaban/mikan/ringo, and note the 85:15 target is exceeded, not \"at ceiling.\"",
+    "severity": "major"
+   },
+   {
+    "item": "Note: THE ODAKA TRAP roster",
+    "problem": "nioi [2] is listed as odaka. nioi is ni-o-i = 3 morae; accent [2] on a 3-mora word is nakadaka, and the drop IS audible on the bare word — it is not part of the trap and does not need the frame for accent verification. Conversely two genuine odaka items in the ledger are absent from the roster: chichi [2] (104) and fuku [2] (60).",
+    "fix": "Remove nioi; add chichi and fuku. Then the roster is defined mechanically as accent == mora count and can be generated rather than hand-listed.",
+    "severity": "major"
+   },
+   {
+    "item": "Membership gate vs. the frequency claim",
+    "problem": "The essay's central concession is \"frequency is correctly spent as a GATE (nothing enters the 180 that isn't top-tier conversational).\" The gate did not hold. Items 45 yane (roof), 46 kado (corner), 53 tana (shelf), 54 fukuro (sack), 69 abura (oil), 87 hoshi (star), 91 kumo (cloud), 93 mushi (insect), 99 kesa, 161 kitte (postage stamp), 169 hikkoshi are not plausibly top-180 conversational nouns, while hon, eki, koto, tokoro, toki, terebi, kazoku, basu — all of them higher-frequency by any conversational count — are absent. The pattern is diagnostic: the excluded set is disproportionately N-bearing or long-vowel-bearing (hon, eki is not, terebi is not, kazoku is not) and the included set is disproportionately tier-0-fillable. Phonology drove membership, not just order, which is precisely what the essay denies.",
+    "fix": "Re-run the gate on frequency alone, then partition. Expect tier 0 to shrink below 120 and tiers 1a/1b to grow; that is the honest result, and it is a better argument than the current one because it shows the specials arriving EARLIER, which is what whyThatVariable says it wants.",
+    "severity": "major"
+   },
+   {
+    "item": "Items 101-102 (otoko/otona) and 118-119 (aka/ao)",
+    "problem": "Two more adjacent confusable pairs. otoko [3] / otona [0] are both 3-mora, both o-to-initial, differ in one segment, are semantically adjacent (man/adult), and sit at consecutive indices. aka [1] / ao [1] are both 2-mora, both a-initial, identical accent, same semantic field, consecutive. Consecutive placement of same-field near-minimal pairs is the standard interference error and the ledger commits it repeatedly while its interference notes concentrate on homophone triplets.",
+    "fix": "Interleave: otoko, haha, otona; aka, iro, ao — or better, run a mechanical pass computing edit distance over the romaji string for every pair within 10 indices and re-sequence anything under distance 2.",
+    "severity": "major"
+   },
+   {
+    "item": "whyThatVariable — internal contradiction on deferral",
+    "problem": "The document rejects (d)-as-usually-stated on the ground that \"a category learned in weeks 1-2 ... and then not met in a real word until week 9 is a category you retrained for nothing,\" then defers long vowels to item 141 and geminates to item 161. At the stated ramp (10/day weeks 3-4, 15/day from week 5) item 141 is day ~15 of carding and item 161 is day ~16-17 — i.e. weeks 5-6 of the course, four to five weeks after the perception block. The decay argument it makes against the rival applies to its own schedule with only slightly less force.",
+    "fix": "Either interleave (one tier-1 item every fifth card from item 20 onward, keeping the one-special-type-at-a-time constraint) or drop the decay argument and defend the tiers on encoding-fidelity grounds alone.",
+    "severity": "major"
+   },
+   {
+    "item": "whyThatVariable — \"tier 1 opens at item 121, roughly day 11 of carding\"",
+    "problem": "At the plan's own ramp of 10/day for weeks 3-4, item 121 is reached on day 13, not day 11. Minor on its own; it matters because the same paragraph uses the day count to argue the perception gains are \"still warm.\"",
+    "fix": "Day 13. And note that under the ramp, items 141-180 fall at 15/day, so the entire special-mora training runs days 13-17.",
+    "severity": "minor"
+   },
+   {
+    "item": "Rule S3 exemplars — accent is not controlled",
+    "problem": "S3 claims length pairs need \"ordered proximity, because the contrast is the lesson.\" But three of five named pairs differ in ACCENT as well as length: tori [0] / toori [3], oto [2] / otto [1], ojisan [0] / ojiisan [2]. A learner can and will discriminate those on pitch and never attend to the length cue at all — the drill teaches the wrong feature. Only biru [1] / biiru [1] and kado [1] / kaado [1] are accent-controlled.",
+    "fix": "Restrict S3's proximity treatment to accent-matched pairs. Accent-mismatched length pairs are ordinary items and need no special scheduling; say so.",
+    "severity": "minor"
+   },
+   {
+    "item": "Rule S1/S3 arithmetic on deferred partners",
+    "problem": "S1 is stated as a 300-index minimum and applied correctly for kami (≥314), hana (≥337), hashi (≥375), ame (≥389). But biru is set at ≥400 against biiru at 148 (separation 252, short of S1) and ojisan/obasan at ≥380 against 179/180 (separation ~201) while being explicitly governed by S3, which wants SMALL separation. Both numbers satisfy neither rule they invoke.",
+    "fix": "State them as named exceptions with their own justification, or set biru ≥448 and bring the uncle/aunt contrast set to ~200-210 as an S3 proximity placement.",
+    "severity": "minor"
+   },
+   {
+    "item": "Note on excluded 1-mora items — \"hi = sun/day/fire/ice\"",
+    "problem": "hi does not mean ice. 氷 is koori, which appears in this very ledger at item 145. The intended fourth member was probably 灯 hi 'light' or 碑. A gloss error inside the note that justifies excluding five items.",
+    "fix": "hi = sun/day (日), fire (火), light (灯). Drop 'ice'.",
+    "severity": "minor"
+   },
+   {
+    "item": "Note on excluded items — \"kaeru (frog/return/change/buy-back)\"",
+    "problem": "買える kaeru is the potential of kau, 'can buy', not 'buy back'. Minor, but the note's whole point is homophone density, so the members should be right.",
+    "fix": "frog 蛙 / return 帰る / change 変える / can-buy 買える.",
+    "severity": "minor"
+   },
+   {
+    "item": "o-prefix inconsistency in citation forms",
+    "problem": "The ledger cites okane (20), ocha (70), okashi (72), ofuro (49) with the honorific o-, but sake (71) and hashi (75) bare. In conversational Japanese osake and ohashi are the ordinary citation forms; bare sake and bare hashi are the marked ones. For an audio-only learner the citation form IS the word, so the inconsistency will be encoded as a fact about the language.",
+    "fix": "Pick one policy and apply it. Recommend osake and ohashi; note that ohashi additionally moves the item out of the hashi triplet's accent problem, since ohashi [2] is not confusable with hashi bridge or hashi edge.",
+    "severity": "minor"
+   },
+   {
+    "item": "Interference notes — kutsu (9) / kutsushita (61)",
+    "problem": "The document flags ashi (39) as \"a proper prefix of ashita (120)\" and prescribes a framing fix, but does not flag kutsu (9) as a proper prefix of kutsushita (61) — a tighter case, since the two are also semantically adjacent (shoes/socks) and both carry accent [2].",
+    "fix": "Apply the same treatment: frame kutsushita, or separate further. Better, generate prefix relations mechanically rather than by inspection.",
+    "severity": "minor"
+   },
+   {
+    "item": "Missing classic length pair — byooin / biyooin",
+    "problem": "byooin 病院 (4 morae) vs biyooin 美容院 (5 morae) is the single most-cited mora-count confusion in the pedagogical literature and byooin is item 157. The interference notes cover koori/ward, kyoo/strange, kooen/lecture but not this one.",
+    "fix": "Add: biyooin is barred from the early ledger and enters as an explicit contrast card against the already-stable byooin.",
+    "severity": "minor"
+   },
+   {
+    "item": "Items 145-146 (koori/toori), 42/46 (mado/kado), 154/156 (ryoori/ryokoo)",
+    "problem": "koori and toori are adjacent, both 3-mora, both o-long, differing in one onset. mado [1] and kado [1] are four apart, both 2-mora, identical accent, same semantic field (house parts). And the note asserts ryoori and ryokoo \"are not confusable\" and places them two apart — but they are both 3-mora ryo-initial words with one long vowel in DIFFERENT positions, which is exactly the discrimination the tier-1b block exists to train; asserting non-confusability is the least defensible claim in the interference notes.",
+    "fix": "Separate koori/toori (they are already an S3 pair with tori — three-way proximity is too much), separate mado/kado, and either separate ryoori/ryokoo or defend the adjacency as a deliberate long-vowel-position contrast card rather than by denying the confusion exists.",
+    "severity": "minor"
+   },
+   {
+    "item": "Items 170 sakki, 124 minna — category",
+    "problem": "The slot is \"nouns.\" sakki is a temporal adverb and minna a quantifier/pronoun; neither takes the noun card format cleanly (neither is natural in the mandated 'X ga' frame — *sakki ga, *minna ga is grammatical but not the citation environment the accent integer is verified in).",
+    "fix": "Either move them to the adverb/quantifier ledger, or state the frame exception explicitly (sakki no, minna de) so the TTS spec does not generate an unnatural 'X ga' recording.",
+    "severity": "minor"
+   },
+   {
+    "item": "Item 143 — yuube",
+    "problem": "yuube 昨夜/夕べ is accurate and not archaic, but it is markedly less frequent in current casual speech than kinoo no yoru or kinoo no ban. Admitting it at 143 while hon, eki and toki are outside the 180 is hard to defend on the stated conversational-frequency gate.",
+    "fix": "Keep it if the gate is 'top 600 conversational' rather than 'top 180'; otherwise swap for a higher-frequency long-vowel item (kyonen [1], gakkoo is already used, yuubinkyoku is worse — kinoo/kyoo/asatte-class temporal is the right neighbourhood).",
+    "severity": "minor"
+   },
+   {
+    "item": "Romaji consistency — konbini, shinbun, and the Hepburn contract",
+    "problem": "The brief specifies Hepburn. Traditional Hepburn writes moraic N as m before /b p m/: kombini, shimbun, sembei. The ledger uses modified Hepburn (n throughout), which is the better choice for an audio-first learner — but the document nowhere states which Hepburn it is using, and its own rationale describes shinbun's N as realised [m], so the romaji and the phonetic note disagree on the page.",
+    "fix": "State explicitly: modified Hepburn, N always written n, with the assimilation handled in the TTS/perception spec rather than the notation. One sentence.",
+    "severity": "minor"
+   },
+   {
+    "item": "Items 16-17 — ie / uchi",
+    "problem": "Adjacent, glossed 'house' and 'home'. For an audio-only learner working from English glosses, adjacent near-synonyms with overlapping translations produce mutual interference of the semantic kind the ledger otherwise takes seriously (it separates jikan from toki for exactly this reason). No note.",
+    "fix": "Separate, and frame them: uchi as uchi ni / uchi no, ie as ie ga.",
+    "severity": "minor"
+   },
+   {
+    "item": "Accent values not marked approximate that should be verified",
+    "problem": "The note lists 16 items as approximate and claims \"Everything unmarked I am confident in.\" Several unmarked values are dictionary-variable and should be verified before TTS: zubon [2] (also cited [1]), gomi [2] (also [0]), okashi [0], koori [0] (marked approx, correctly), yuube [3], netto [1], kaban [0], hankachi (marked approx). chichi [2] is marked approx and should be — verify against 乳 [0] to keep the pair distinct.",
+    "fix": "Extend the verification list to zubon, gomi, netto, okashi, yuube before generating audio.",
+    "severity": "minor"
+   }
+  ],
+  "missing": [
+   "hon [1] 'book' — a top-30 conversational concrete noun, single moraic N, belongs at ~121-131 in the word-final-N sub-block; its absence while kitte (postage stamp) and hikkoshi (house-move) are admitted is the clearest single symptom of the frequency gate failing",
+   "eki [1] 'station' — 2 morae, zero special morae, tier-0 clean, and among the highest-frequency place nouns in daily speech; absent while ryokoo, hikooki and kuukoo are all present",
+   "koto [2] 'thing (abstract)' — zero special morae, tier-0 clean, and it is the single most frequent noun in conversational Japanese by most counts because of its grammatical uses (~koto ga aru, ~koto ni suru); the ledger admits mono [2] at 79 and omits its abstract partner entirely",
+   "tokoro [3] 'place' — 3 morae, zero special morae, very high frequency, and directly relevant to the week-3/4 locative frames that items 21-32 are pinned for",
+   "toki [2] 'time/when' — deferred to the 181-190 continuation while jikan [0] is admitted at 138; toki is more frequent and more grammatically load-bearing, and it is tier-0 clean whereas jikan carries an N",
+   "terebi [1] 'television' — 3 morae, zero special morae, top-tier conversational gairaigo; the rationale explicitly reserves tier 0 for gairaigo without special morae and names only four (toire, taoru, doa, naifu), missing the most frequent member of that class",
+   "kazoku [1] 'family' — 3 morae, zero special morae, high frequency, and it is the natural superordinate for the kinship sets at 103-108 and 175-180",
+   "basu [1] 'bus' — 2 morae, zero special morae, high frequency, same tier-0 gairaigo class as toire/doa",
+   "yasumi [3] 'rest, day off, holiday' — 3 morae, zero special morae, very high conversational frequency",
+   "onaka [0] 'stomach/belly' — 3 morae, zero special morae, and the anchor of onaka ga suita, one of the highest-frequency utterances a beginner produces; the body-part block at 33-41 omits it",
+   "sumaho [0] / keetai [0] 'smartphone / mobile phone' — denwa (134) is admitted but in 2026 conversation the phone is overwhelmingly sumaho or keetai; sumaho is additionally tier-0 clean",
+   "kimochi [0] 'feeling' — zero special morae, high frequency, and the ledger has no affect vocabulary at all",
+   "tsugi [2] 'next' — zero special morae, high frequency, and it belongs with the relational/temporal set",
+   "chikaku [1] or [2] 'vicinity, nearby' — the relational block at 21-32 covers twelve items but omits the most frequent non-contact proximity term",
+   "asagohan / hirugohan / bangohan — gohan is admitted at 121 but the three meal compounds, which are far more frequent as utterances than gohan bare, are absent; all three are single-N-plus-N and would need tier placement, which is itself a useful test of the tier rules"
+  ],
+  "verdict": "This is a real ledger, not a policy — it enumerates 180 items with accents, glasses, class tags and index-level interference rules, and on pure lexicographic accuracy it is strong: I checked all 180 romaji against the doubled-long-vowel contract and found zero violations (kyoo, kinoo, koori, toori, koohii, satoo, gakusee, tokee, sensee, hikooki, kuukoo, obaasan all correct), and I found no invented, archaic or regional items — every entry is a real, current word, and the deliberate exclusions (ki, e, ha, hi, chi, kaki, kaeru) are well reasoned. Accent integers are correct at a rate well above what the (approx) flags claim; I found one substantive accent-category error (nioi is nakadaka, not odaka) rather than a wrong integer.\n\nWhere it fails is the thing it was written to fix. The stated ordering variable does not survive contact with the list. It is inert across items 1-120 (two-thirds of the ledger, where all values are zero), so it fixes four cut points and nothing else. The declared secondary sort — accent-class alternation with no run over three — is diagrammed in block 1-20 and then abandoned: I count at least seven violating runs, including five consecutive heiban at 155-159 and six consecutive accented items at 146-151 and again at 175-180. The one sub-block that states its own internal principle (N environment, easiest first, 121-140) contradicts it in seven of twenty positions and contains a two-N word, shinbun, whose presence directly falsifies the sentence \"Every card is a single-N word.\" The half-weight yoon term is declared and never computed. So the document reproduces, at one level down, exactly the failure the brief describes: it states a principle in the rationale and then does something else in the list.\n\nSecond: the frequency gate did not hold, and the essay's central concession depends on it. The essay concedes order to phonology on the grounds that frequency governs membership. But hon, eki, koto, tokoro, toki, terebi, kazoku, basu, yasumi and onaka are outside the 180 while yane, tana, kado, fukuro, abura, hoshi, mushi, kesa, kitte and hikkoshi are inside it. Membership was shaped by tier-0 fillability. The honest version of this document re-runs the gate on frequency alone, accepts that tier 0 comes out smaller than 120, and reports that the specials therefore arrive earlier — which is what whyThatVariable says it wants anyway, and would strengthen its argument against deferral rather than weaken it.\n\nThird: the interference pass is thorough on homophone triplets and blind to adjacency. It catches hashi/hashi/hashi, kaze/kaze, kumo/kumo, ame/ame, sake/sake — and misses soba [1] beside vs soba [1] noodles and kawa [2] river vs kawa [2] skin, both accent-identical S2 cases. It also places te and me adjacent (two 1-mora words, same accent, one segment apart), kippu and koppu adjacent inside the gemination block, otoko and otona adjacent, aka and ao adjacent, koori and toori adjacent. For a learner with no orthography this is the highest-cost class of error in the whole design, and it is the class the document tests for least systematically. Every one of these is findable by a mechanical edit-distance pass over the romaji within a 10-index window; none of them requires judgment.\n\nFinally, the arithmetic is not trustworthy where it is used to defend decisions: hikooki is 4 morae not 5 (inside the argument distinguishing the chosen variable from its rival), tier 1 opens on day 13 not 11, kango in items 1-120 is 4.2% by the document's own tags and ~7.5% counting the four untagged Sino items (isu, niku, fuku, okashi), not 2.5%, and the total kango share is ~20% rather than the reported 17.8%. The S1 separations are applied consistently and correctly (314, 337, 375, 389 all check out); the S3 numbers are not, and three of the five S3 exemplar pairs are not accent-controlled, so the drill they specify would teach pitch rather than length.\n\nVerdict: sound lexicon, defensible architecture, but the list does not execute its own spec, and four of its supporting numbers are wrong. Fix in this order — (1) enforce or retract the accent-alternation constraint, (2) re-sort 121-140 and move shinbun, (3) re-run the membership gate on frequency and admit hon/eki/koto/tokoro/toki/terebi, (4) run a mechanical adjacency pass and add soba and kawa to S2, (5) recompute the wago:kango figures. Items 1 through 41 need none of this; the position-locked block is the strongest part of the document and the finding that the week-3/4 grammar saturates on zero-special-mora nouns is genuine and worth keeping."
+ },
+ {
+  "errors": [
+   {
+    "item": "Ordering of slots 13/14, 17/18/19/20, 21/22/23",
+    "problem": "The list is not sorted by its stated variable, and only two deviations are declared. Printed score sequence for slots 1-33 is: 100, 90, 48, 49, 40, 42, 35, 28, 25, 25, 24, 24, 18, 20, 18, 15, 10, 16, 16, 15, 6, 10, 8, 6, 6, 4, 3, 2, 2, 2, 1, 1, 1. Undeclared inversions: slot 13 (18) precedes slot 14 (20); slot 17 (10) precedes slots 18 (16), 19 (16) and 20 (15) — a six-point inversion, far outside the declared noise band; slot 21 (6) precedes slots 22 (10) and 23 (8). This is exactly the failure the work exists to correct: a principle stated, then not applied.",
+    "fix": "Either re-sort to 1,2,4,3,6,5,7,8,9,10,11,12,14,13,15,18,19,16,20,17,22,23,21,24,25... or declare a THIRD tiebreak (TB3 = second-order lag) explicitly in orderingVariable and print '(TB3)' on every line where it fires — slots 13, 17, 21, 23, 28, 33. Undeclared reordering is the defect.",
+    "severity": "fatal"
+   },
+   {
+    "item": "TB1 promotion of -te mo ii (slot 8, score 28)",
+    "problem": "The promotion is vacuous. Under plain descending score, 28 falls after slot 7 (35) and before slots 9-12 (25, 25, 24, 24) — i.e. at slot 8 exactly. TB1 did no work. Worse, the rationale claims it sits 'AHEAD of -toku (11), -te miru (12), -te ageru (18) and -te kara (22)' and calls these 'four higher-context nodes' — those four score 24, 24, 16 and 10, all LOWER than 28. The centrepiece answer to the brief's speech-act question is a promotion that never happened over nodes it already outranked.",
+    "fix": "Delete the TB1 claim on slot 8 and state plainly that -te mo ii lands at slot 8 on its raw score. If the intent was to place it above -teru-family or -chau (40, 42), then actually move it to slot 5-6 and print the promotion there. TB1 is then used exactly once (slot 3), which should be corrected in orderingVariable.",
+    "severity": "fatal"
+   },
+   {
+    "item": "Chant block label 'wk 9 days 1-3' vs its own interference rule",
+    "problem": "The block is committed to days 1-3, but the interference note requires R1 and R2 in the SAME session, R4 and R5 never in the same session, and 'R4 must be at interval >= 3 days before R5 is introduced'. Minimum span is therefore R1+R2 (day 1), R3 (day 2), R4 (day 3), R5 (day 6 at the earliest) — six days, not three. The two statements cannot both be executed.",
+    "fix": "Relabel the chant as wk 9 days 1-6 (or wk 9-10), and print the day assignment per row: R1+R2 d1, R3 d2, R4 d3, R5 d6+. Then re-check slot 34 (-ta 'same session as the chant') — it must name WHICH row's session.",
+    "severity": "fatal"
+   },
+   {
+    "item": "Chant rows R1-R5 (coverage)",
+    "problem": "The enumerated chant covers only godan codas. There is NO ROW for ichidan verbs (taberu > tabete, miru > mite, okiru > okite, oshieru > oshiete) and no row for the two irregulars (suru > shite, kuru > kite) — yet slot 1's own example uses okite, slot 2 uses shiteru, and H1/H3 schedule kite and shite at wk 9. A document whose thesis is 'emit the actual ledger, not a policy' omits the single largest and easiest class from the enumeration. It also breaks H5: the godan/ichidan -ru diagnostic (kaette vs kaete) cannot be drilled if the ichidan row was never taught.",
+    "fix": "Add R0 (ichidan: -ru > -te, drop -ru; tabete, mite, okite, oshiete, dekakete — zero segment change, the true one-to-one row, and by principle (a) it should OPEN the chant ahead of R1) and R6 (irregulars: suru > shite, kuru > kite — two lexical items, memorised, not induced, same treatment as shinu).",
+    "severity": "fatal"
+   },
+   {
+    "item": "Voiced allomorphs of every contraction node (slots 5, 9, 11; slots 35, 38, 40)",
+    "problem": "-te shimau > -chau is given only as tabechatta/wasurechatta; the -de allomorph -jau (nonjau, yonjau, shinjatta) is never stated. Same for -cha dame (yonja dame, nonja dame), -toku (yondoku, nonjatta... yondoita), -tara (yondara), -tari (yondari), -tatte (yondatte). Slot 34 (-ta) correctly shows yonda, so the voicing is known to the author and then dropped from every downstream node. An audio-only learner with no orthography cannot induce -jau from -chau; they will produce *nonchatta.",
+    "fix": "Every contraction slot gets a two-example card, one voiceless and one voiced: 5 = tabechatta / nonjatta; 9 = tabecha dame / yonja dame; 11 = kattoku / yondoku; 35 = tabetara / yondara; 38 = tabetari nondari; 40 = tabetatte / yondatte. Add a line to the chant: the -nde row (R4) feeds -ja/-da everywhere -te feeds -cha/-ta.",
+    "severity": "fatal"
+   },
+   {
+    "item": "au 'meet' listed as acc 0 (R5), and H6 'atte (au, acc 0) vs atte (aru, acc 1) — pitch separates'",
+    "problem": "Standard Tokyo 会う is [1], not [0]. Its -te form is atte HL — identical in pitch to atte from aru [1]. So the H6 claim that pitch separates this pair is false, and it is asserted in the one block the document itself marks as load-bearing and 'MUST be verified, not guessed'. The error also propagates into R5, where au is drilled as heiban.",
+    "fix": "Correct to au (acc 1) in R5. Move the au/aru atte pair out of the 'pitch separates' group and into the 'pitch does NOT separate' group with sumu and totte/tootte: require >= 6 weeks separation plus obligatory framing (tomodachi ni atte / kyooshitsu ni atte). Verify against NHK before TTS.",
+    "severity": "major"
+   },
+   {
+    "item": "F = 9 for -teru (slot 2), and the fanout list in orderingVariable",
+    "problem": "The nine 'unlocked' constructions do not survive an audit. '-te iru tokoro' and '-teru toko' are the same construction counted twice (slot 17 itself lists them as one item). '-te irassharu' is explicitly excluded from the ledger by the notes ('none belongs before month 8') yet is counted in the fanout that justifies -teru's rank. '-te iru + relative clause' is not a construction of -teru at all — every predicate takes a relative clause. Honest count is about six. Since fanout is the metric on which -te beat the i-stem, an inflated headline fanout re-opens the circularity complaint the document exists to close.",
+    "fix": "Reprint the -teru fanout as: -te ita/-teta, -tenai, -teru n da, -te iru tokoro/-teru toko (one), -te ite, -tetara = 6. Set F6 (score 60), which changes nothing in the ordering and makes the number checkable — which is the whole point.",
+    "severity": "major"
+   },
+   {
+    "item": "Definition of F ('the number of FURTHER CONSTRUCTIONS')",
+    "problem": "F is defined as a count and then used as a compressed 1-10 rating. If it were the count it claims to be, slot 1 (-te) would be F=25-35, not 10, and every product below it would change. -te kara is said to unlock 'nothing' and is nonetheless given F=2, not 0 or 1. A metric whose definition and application disagree cannot be audited, which is the specific charge being answered.",
+    "fix": "Either (a) keep F as a true count and rescale the products, noting that slot 1 is excluded from ranking because it is the parent, or (b) redefine F explicitly as 'log-compressed rank of downstream reachability, 1-10, where 1 = terminal' and state the mapping from raw count to the 1-10 band. Then -te kara = F1.",
+    "severity": "major"
+   },
+   {
+    "item": "Slot 16 (-te moraemasu ka), wk 12",
+    "problem": "This is the potential form of morau, and the brief states the e-stem/potential is scheduled at wk 13. Slot 16 uses it a week before it exists. Slot 23 (-te itadakemasen ka, wk 14-15) is clear, but slot 16 is not. Slot 13 (-te kuremasen ka) similarly leans on the polite negative with no stated lexical-chunk exemption, where slot 3 does get one.",
+    "fix": "Either move slot 16 to wk 13-14, or card it as an unanalysed lexical chunk with that exemption printed on the line, exactly as slot 3 does for kudasai.",
+    "severity": "major"
+   },
+   {
+    "item": "Slot 8 declared '2nd-order, off 10' but scheduled before node 10",
+    "problem": "Slot 8 (-te mo ii, wk 10) is a child of slot 10 (-te mo, wk 11). The lag is negative: the child precedes the parent by a week, in a scheme that declares 'a standard 2-week lag behind their parent'. TB1 explicitly says a node that is a PREREQUISITE of a higher-scoring node moves up — -te mo is the prerequisite of a higher-placed node and was not moved up. TB1 was applied to -te kudasai and withheld here with no reason given.",
+    "fix": "Either apply TB1 to -te mo and place it at slot 8 with -te mo ii at slot 9-10, or state on slot 8's line that -te mo ii is carded as a frozen chunk and is NOT derived from slot 10 (in which case remove '2nd-order, off 10' from the line — it is then a direct node, which also changes the 25/10 split below).",
+    "severity": "major"
+   },
+   {
+    "item": "Noise band 'gaps under 2 points' vs TB2 application",
+    "problem": "TB2 is invoked to move -chau (40) over -te morau (42): a gap of exactly 2, which the declared rule says is NOT noise. Meanwhile slots 13 (18) and 14 (20), an identical 2-point gap, are inverted with no tiebreak cited at all. The band is stated, then applied in one direction and ignored in the other.",
+    "fix": "Change the band to 'gaps of 2 or less' and cite the applicable tiebreak on BOTH the 5/6 pair and the 13/14 pair, or widen the -chau/-te morau gap by fixing Q (see the -te morau frequency question) so the swap is not needed.",
+    "severity": "major"
+   },
+   {
+    "item": "Romaji contract violations (doubled long vowels)",
+    "problem": "Five items break the plan's own Hepburn-with-doubled-long-vowels contract: 'gakusei de' (notes) should be gakusee de; '-te shou ga nai' and 'kininatte shou ga nai' (slot 30) should be shoo ga nai; '-sou da' and 'tabesou da' (X11) should be soo da / tabesoo da; 'itte miyou' (slot 12) should be itte miyoo. These feed a TTS pipeline verbatim.",
+    "fix": "Global pass for 'ou', 'ei', 'oo' spelled as 'ou': gakusee, shoo ga nai, soo da, tabesoo da, miyoo. Add the contract as a lint rule over the ledger file before generation.",
+    "severity": "major"
+   },
+   {
+    "item": "The 35 count: slot 9 'bundles three of the headline 35'",
+    "problem": "Internally contradictory. The notes list exactly ten obligatory second-order constructions, in which '-cha dame/-te wa ikenai' appears as ONE entry. If slot 9 bundles three headline items (-cha + -cha dame + -te wa ikenai), then 31 single slots + 3 + 2 = 36, not 35, and the second-order list has 11 members, not 10. The document's central deliverable is an auditable count, and the count does not close.",
+    "fix": "Pick one and make it consistent: either -cha dame and -te wa ikenai are one register-variant node (slot 9 bundles TWO of the headline; 25 + 10 = 35 holds), or they are two (say 26 direct + 10, or 25 + 11, = 36). State which and correct both places.",
+    "severity": "major"
+   },
+   {
+    "item": "H2 rationale: citing 'say' as yuu/yutta 'DISSOLVES THE COLLISION'",
+    "problem": "It dissolves it in PRODUCTION only. The collision is a comprehension problem: the learner will hear itta and itte from a large share of speakers regardless of what their own card says, and the document itself relegates itta/itte to 'passive-recognition variants only' — i.e. exactly the direction where the collision lives. Also, iru 'need' > itte is heiban too, so the three-way remains three-way in the ear.",
+    "fix": "Downgrade the claim to 'halves the collision (production only)' and add an explicit three-way recognition card at wk 14+: itta (went) / yutta~itta (said) / itta (needed), each in an obligatory frame — Tookyoo ni itta / soo yutta / okane ga itta.",
+    "severity": "major"
+   },
+   {
+    "item": "Slot 3 rationale: '-te kudasai is the imperative of slot 4's verb family'; interference note: 'share the kudasaru/kureru root'",
+    "problem": "False. kudasaru (< kudasu) and kureru are etymologically distinct verbs, not one root and not one family; kudasaru is the honorific counterpart of kureru, which is a suppletive relationship, not a morphological one. The interference justification ('acceptable ONLY because...') therefore rests on a mis-stated fact.",
+    "fix": "Rewrite as: kudasai is the irregular imperative of kudasaru, the honorific counterpart of kureru; the two share function, not form, so the surface interference between slots 3 and 4 is low and the same-week placement is safe for that reason.",
+    "severity": "major"
+   },
+   {
+    "item": "H5: 'the -te form is the ONLY reliable AUDIBLE test of godan vs ichidan for -ru verbs'",
+    "problem": "False, and false by this plan's own schedule. The -masu form (kaerimasu vs kaemasu) comes from the i-stem at wk 6-7 and the -nai form (kaeranai vs kaenai) from the -nai stem at wk 8 — both audible, both reliable, both already owned three weeks before the chant. The potential and imperative also distinguish.",
+    "fix": "Change to 'the -te form is the THIRD audible diagnostic and the first one that is short enough to drill as a reflex; the i-stem (wk 6-7) already gave the learner kaerimasu vs kaemasu'. The 'sell the chant as a class test' advice survives; the exclusivity claim does not.",
+    "severity": "minor"
+   },
+   {
+    "item": "Slot 37: 'netа hoo ga ii'",
+    "problem": "The 'а' in 'netа' is Cyrillic U+0430, not Latin 'a' — the author noticed and annotated '(read: neta hoo ga ii)' rather than fixing it. A ledger fed verbatim to a TTS pipeline will mispronounce or fail on this line.",
+    "fix": "Replace with the Latin character and add a non-ASCII lint check over the whole ledger before generation.",
+    "severity": "minor"
+   },
+   {
+    "item": "Block 9-13 interference: '11 (-toita) vs 5 (-chatta): the two bimoraic past contractions'",
+    "problem": "Mora count is wrong. -toita is to-i-ta = 3 morae; -chatta is cha-t-ta = 3 morae (cha is one mora, the geminate is one, ta is one). Both are trimoraic. The parallel claim earlier ('-teru, -toku, -chau — three bimoraic -te+verb contractions') is correct, which makes this one an isolated slip in a document that states mora counts as load-bearing.",
+    "fix": "'the two trimoraic past contractions'.",
+    "severity": "minor"
+   },
+   {
+    "item": "Slot 27: Q = 1.5",
+    "problem": "Q is declared as a 1-10 rank estimate; 1.5 is the only non-integer in the ledger and exists solely to lift -te sae (3) above the floor items (2). It is a silent precision upgrade used to break a tie the declared tiebreaks would have handled.",
+    "fix": "Set Q1 (score 2) and let TB-by-rule place it, or state in orderingVariable that Q admits half-steps and use them consistently.",
+    "severity": "minor"
+   },
+   {
+    "item": "Intra-chant interference (R2 and R5 internals)",
+    "problem": "The interference note covers only R4-vs-R5 and the iku/yuu collision. It misses two dense same-session confusions the chant itself creates: R2 drills kaite (kaku) and kiite (kiku) in one session — 3-mora near-twins differing only in the first vowel's quality and length, the hardest contrast in the perception block; R5 drills matte/motte (one-vowel minimal pair, both extremely frequent imperatives) and katte/kaette (the H4/H5 collision) and itte in a single row, making R5 the densest confusable set in the entire chant.",
+    "fix": "Split R2 across two sessions (kaku/aruku, then kiku/hataraku) or frame kaite/kiite with obligatory objects (tegami o kaite / ongaku o kiite). Split R5: session A = matsu/motsu/toru; session B = kau/kaeru/iku. Print these separations in the R-block interference field.",
+    "severity": "minor"
+   },
+   {
+    "item": "H4: 'karu (mow, hunt), acc 1' and the acc-0/acc-1 grouping",
+    "problem": "Standard Tokyo 刈る/狩る is [0], not [1]. If so, karu's katte is heiban and joins kau's katte rather than katsu's — which inverts the block's grouping claim ('pitch separates the acc-0 members from the acc-1 members but does not separate katsu from karu'). The correct statement is that pitch does not separate kau from karu, and does separate both from katsu.",
+    "fix": "Verify kau/karu/katsu against NHK and restate the grouping. Since karu is deferred outside the first 1,000 items anyway, the practical fix is small, but the block is flagged as load-bearing and must be right.",
+    "severity": "minor"
+   },
+   {
+    "item": "H6: sumu 'live' acc ~1 / sumu 'finish' acc ~0",
+    "problem": "Both 住む and 済む are [1] in standard Tokyo. The conclusion ('pitch separation UNRELIABLE') happens to land in the right place, but for the wrong reason — the correct statement is that pitch does not separate them at all because the accents are identical, not that the data is uncertain.",
+    "fix": "State both as acc 1 and move the pair firmly into the 'pitch does NOT separate' group, keeping the obligatory framing (ie ni sunde / shukudai ga sunde), which is already right.",
+    "severity": "minor"
+   },
+   {
+    "item": "Examples that require unscheduled morphology",
+    "problem": "Slot 27's example 'yatte sae ireba' requires the -ba conditional, which appears nowhere in this plan or ledger. Slot 12's 'itte miyou' requires the plain volitional, which is not scheduled either (X13 covers -mashoo, the polite one). A ledger meant to be generated verbatim must not have card examples that depend on forms the learner has not been given.",
+    "fix": "Replace with yatte sae ireba > yatte sae itara (once -tara lands at slot 35, wk 11) and itte miyou > itte mita / tabete mita.",
+    "severity": "minor"
+   },
+   {
+    "item": "Register mismatch under a conversational-frequency metric",
+    "problem": "-te wa ikenai (slot 9) is essentially a written/instructional-register form; spoken Japanese routes prohibition through -cha dame / -cha ikenai / bare dame. -te mo kamawanai (21) is formal-service register. Both are ranked by a Q defined as CEJC-like conversational token rate, where they are near the floor, yet they sit at slots 9 and 21. The document flags -te koso / -te made / -te sae as literary but does not apply the same test here.",
+    "fix": "Drop -te wa ikenai to a recognition-only note on slot 9 and let -cha dame carry the slot; move -te mo kamawanai into the deferred keigo group alongside -te kudasaru and -te irassharu.",
+    "severity": "minor"
+   },
+   {
+    "item": "Interference-distance arithmetic and the '40 down to 35' arithmetic",
+    "problem": "Two small internal inconsistencies in claims the document presents as auditable. (1) Block 1-4 says '2 (-teru) vs 24 (-te aru): five weeks apart' while block 22-25 places slot 24 at wk 15 and block 9-13 computes 11-vs-24 as four weeks from wk 11 — wk 9 to wk 15 is six weeks, not five. (2) Collapsing four evaluative frames into one slot deletes THREE items, but the notes claim 'at least four of the ten deleted items came from' there.",
+    "fix": "Pin slot 24 to a single week and recompute all distances from one table; change 'at least four' to 'three'.",
+    "severity": "minor"
+   },
+   {
+    "item": "Note: 'the -ta branch is closed and short' (41-via-the-chant)",
+    "problem": "The 8-item -ta enumeration is not closed. It omits at least -ta mama, -ta tokoro ('just as I was -ing'), -ta bakkari (the casual citation of slot 41), -tara doo / -tara ii (advice, very high conversational frequency), and the whole -mashita polite branch. If 41 is offered as 'trivially checkable' in place of a soft 35, it must actually be complete, or it inherits the same charge.",
+    "fix": "Either enumerate the -ta branch to completion (it will land nearer 12) and switch the headline to that number, or state 41 as '8 high-value -ta nodes, branch not exhaustively enumerated' and mark it approximate.",
+    "severity": "minor"
+   },
+   {
+    "item": "'shaanai' (slot 30)",
+    "problem": "しゃあない is Kansai in origin. It is now widely heard, but it is listed without a register mark inside a course whose whole target is standard Tokyo audio, and it sits in the same cell as the neutral shoo ga nai / shikata ga nai.",
+    "fix": "Keep it as recognition-only with an explicit '(Kansai-origin, widely heard; do not produce)' tag on the card, the same treatment slot 25 (-te yaru) already gets.",
+    "severity": "minor"
+   },
+   {
+    "item": "H3: 'identical pitch, identical moras but one'",
+    "problem": "Loosely stated in a block that is otherwise precise about morae. shite is 2 morae, shitte is 3; shiteru is 3, shitteru is 4. 'Identical moras but one' reads as if the two differ by a mora that is present in both.",
+    "fix": "'shite (2 morae) vs shitte (3 morae); shiteru (3) vs shitteru (4) — the extra mora is silent.'",
+    "severity": "minor"
+   }
+  ],
+  "missing": [
+   "-teta / -te ita (past progressive). Cited inside -teru's fanout list but never given a numbered slot. 'nani shiteta?' / 'doko ni ita?' outranks slots 9 through 33 on conversational token frequency. Belongs at wk 10, roughly F3 x Q8.",
+   "-tenai / -te inai (negative progressive). Same problem — cited in the fanout, never carded. 'mada tabetenai', 'wakattenai', 'kiitenai' are floor-level daily items. Belongs at wk 10 alongside -teta.",
+   "The ichidan chant row (taberu > tabete, miru > mite, okiru > okite, oshieru > oshiete). The true zero-change one-to-one row and the majority of early easy vocabulary; by the block's own ordering principle (a) it should open the chant.",
+   "The irregular chant row (suru > shite, kuru > kite). Both are scheduled at wk 9 elsewhere in the document (H1, H3) but appear in no chant row.",
+   "The voiced allomorph of every contraction: -jau/-jatta, -ja dame, -doku/-doita, -dara, -dari, -datte. Not inducible from orthography the learner does not have.",
+   "-te choodai. Casual request, common in ordinary speech, and higher-frequency than slots 27 through 33 combined. Absent entirely.",
+   "-te kurete arigatoo / -te kurete ureshii. The single most frequent thanking frame an adult beginner both hears and needs, and it is not in slot 15's evaluative predicate list.",
+   "-toite / -toke (imperative of -toku) and -teoite. The form in which -toku is most often heard addressed to the learner ('yattoite').",
+   "Quotative -tte. Excluded correctly as not a -te dependent, but it is phonologically identical to the R5 ending, extremely frequent, and already named as a citation contraction elsewhere in the plan. It belongs in the IMPOSTORS block or the H-block as a required contrast (totte 'take-and' vs ...tte 'quote').",
+   "The -nai-stem twins of slots 8 and 9 as actual numbered lines. The notes correctly say -naide kudasai, -nakute mo ii and -nakucha/-nakya must be carded WITH their -te counterparts, but the ledger never gives them slots, so the one place the document says it deliberately reaches across stems is the one place it does not enumerate.",
+   "-kute and de as numbered lines. The notes call them non-negotiable for wk 9 and say they roughly triple what slot 1 can build; they are then omitted from the ledger, which is the same abdication the enumeration exists to correct.",
+   "-ta mama, -ta tokoro, -tara doo / -tara ii, -ta bakkari — missing from the '-ta branch is closed and short' enumeration that the 41-via-the-chant claim rests on."
+  ],
+  "verdict": "Reject in current form; the enumeration is real and mostly accurate, but it commits the exact failure it was written to correct. The list states a single ordering variable, prints it on every line, declares its tiebreaks in advance — and then does not sort by it. Six pairwise inversions run against the printed scores (13 before 14; 17 before 18, 19 and 20; 21 before 22 and 23) with no tiebreak cited, while the one promotion the document makes the most noise about — TB1 lifting -te mo ii to slot 8 — is vacuous, because 28 already outranks every score below it and the four nodes it claims to leap over all score lower. The declared noise band ('gaps under 2') is invoked at a gap of exactly 2 where it helps and ignored at a gap of exactly 2 where it does not. The metric itself is defined as a count and used as a compressed 1-10 rating, and the fanout figure that decides the whole -te-versus-i-stem contest (F9 for -teru) is inflated by a double count, an explicitly excluded node, and one item that is not a construction. Fix those and the ledger's core claim becomes checkable, which is the entire point of the exercise. Second, the coverage has three holes that matter more than anything in the tail: the chant enumerates only godan codas — no ichidan row, no suru/kuru row, despite both being scheduled at wk 9 elsewhere in the same document; the voiced allomorph (-jau, -ja dame, -doku, -dara, -dari, -datte) is absent from every contraction node even though the learner has no orthography from which to induce it; and -teta and -tenai, cited inside -teru's own fanout, never get slots despite outranking most of slots 9-33 on conversational frequency. The chant block is also internally impossible: five rows in 'days 1-3' cannot satisfy its own rule that R4 precede R5 by at least three days. Factually the Japanese is in better shape than the scheduling logic. The accent integers are largely right — hanasu 2, dasu 1, kaku 1, kiku 0, oyogu 2, nomu 1, yobu 0, erabu 2, matsu 1, kaeru 1, kuru 1, miru 1, hoshii 2, kudasai 3 all check out — but au is [1], not [0], which falsifies the H6 claim that pitch separates atte (meet) from atte (exist) in the one block the document flags as load-bearing; karu is [0], not [1], which inverts H4's grouping; and both sumu verbs are [1], so their pair is not 'unreliable' but flatly unseparated. Five romaji items break the doubled-long-vowel contract (gakusei, shou ga nai, sou da, tabesou da, miyou), and slot 37 contains a Cyrillic character the author noticed and annotated rather than fixed — both fatal to a pipeline that reads this file verbatim. No invented items: every construction and verb listed is real, and the IMPOSTORS block is correct throughout, which is the strongest section here. Register discipline slips only at -te wa ikenai and -te mo kamawanai, which are text- and service-register in a list ranked by conversational tokens. Two reasoning claims overreach and should be softened rather than deleted: citing 'say' as yuu fixes production but not comprehension, which is where the itte collision actually lives, and the -te form is not the only audible godan/ichidan diagnostic — this plan's own i-stem at wk 6-7 already supplied kaerimasu versus kaemasu. Interference handling is the best-argued part of the document and still misses the collisions the chant creates inside itself: kaite and kiite in one R2 session, and matte/motte plus katte/kaette/itte crammed into R5."
+ },
+ {
+  "errors": [
+   {
+    "item": "Romaji contract — items 36, 39, 40, 70, 107 (\"sensei\"), 101 (\"kirei\"), 46 (\"keitai\")",
+    "problem": "The brief names these two words as the explicit test of the doubled-long-vowel contract (sensei > sensee, kirei > kiree) and the list fails on both, plus keitai (けいたい, long /ee/). Since the learner never sees Japanese and these strings are the recording script, a wrong romaji string is a wrong pronunciation instruction propagated to every TTS render.",
+    "fix": "sensee (5 occurrences), kiree ni shite, keetai. Then run a global check for -ei- across all 140 stimuli before any recording.",
+    "severity": "fatal"
+   },
+   {
+    "item": "DIAGNOSTIC-ONLY set — notes 2 and 4 vs. the item bodies",
+    "problem": "Three mutually contradictory sets exist. Item bodies mark 12 items non-gating: 6, 27, 39, 56, 60, 67, 77, 84, 87, 92, 112, 132. Note 4 lists 11 (omits 87, which its own body says \"cannot gate\"). Note 2 lists 9: 6, 27, 33, 39, 67, 92, 100, 112, 132 — adding 33 and 100, which are NOT marked diagnostic-only anywhere, and dropping 56, 60, 77, 84, 87. The operational cut 112/129 is therefore computed on a denominator that does not exist.",
+    "fix": "Fix the set to the 12 marked in the item bodies; gating n = 128; hold 87% → cut at 111/128. Decide explicitly whether 33 and 100 gate (they are aural naturalness judgments, so they should not) and, if not, n = 126 and cut = 110.",
+    "severity": "fatal"
+   },
+   {
+    "item": "Allocation vs. the stated ordering variable (block sizes)",
+    "problem": "The variable is frequency x error-proneness x comprehension cost, yet five block rationales explicitly disclaim factor (b) and still receive large allocations: B7 request/permission (8 items, \"error-proneness at month 9 SHOULD be low\"), B12 adjectives (6, \"a floor-check, not a probe\"), B15 volitional (5, \"error-proneness is low\"), B16 comparison (5, \"four of the five items are floor checks\"), B18 counters (5, \"included under protest... only marginally grammar\"). Each ties or outranks B19 noun-modifying clauses, which the author concedes is under-allocated. This is the same state-a-principle-then-ignore-it failure the work exists to correct, one level up.",
+    "fix": "Either re-derive: cut B16 to 2, B18 to 3, B12 to 4, B15 to 3, B7 to 6, and move the 11 recovered slots to B19 (to 8), plus new blocks for sentence-final particles and connectives; or drop the product framing and state honestly that floor-checks are being bought for calibration, with a separate stated budget for them.",
+    "severity": "fatal"
+   },
+   {
+    "item": "Item 17 — \"Densha, norisugichatta.\"",
+    "problem": "Wrong lexeme. \"Missed my stop\" is 乗り過ごす norisugosu; norisugiru is not the current word for this and reads as \"rode too much.\"",
+    "fix": "\"Densha, norisugoshichatta.\"",
+    "severity": "major"
+   },
+   {
+    "item": "Item 73 — \"Tonari no hito ni ban-juu sawagareta.\"",
+    "problem": "\"ban-juu\" is not a word. The word is hitobanjuu (一晩中); *banjuu does not stand alone.",
+    "fix": "\"Tonari no hito ni hitobanjuu sawagareta.\" (or \"yoru osoku made sawagareta\")",
+    "severity": "major"
+   },
+   {
+    "item": "Item 140 — three-way voice 3AFC",
+    "problem": "Two defects. (a) The option string is garbled, containing an unresolved draft fragment: \"nokorasareta / nokorasareru... — nokosareta (passive) / ...\". (b) The set is lexically confounded: nokosareta is the passive of transitive nokosu (\"was left behind\"), not the passive of nokoru, so this is not three voices of one verb — the learner can succeed or fail on lexeme identification rather than voice morphology.",
+    "fix": "Rebuild on one intransitive base, e.g. matsu: mataseta (causative) / matasareta (causative-passive) / matareta (passive); or use zangyoo: zangyoo saseta / zangyoo saserareta / zangyoo sareta. Delete the fragment.",
+    "severity": "major"
+   },
+   {
+    "item": "Item 12 — conditional selection 4AFC (\"if it rains, the trip is off\")",
+    "problem": "At least three of the four options are acceptable Japanese for that situation: \"ame ga futtara chuushi\", \"ame ga fureba chuushi\", and \"ame ga furu to chuushi ni naru\" (a natural-consequence statement, which -to licenses). Only \"furu nara\" is clearly marked. A 4AFC with three right answers cannot diagnose an illegitimate default.",
+    "fix": "Change the situation to one that excludes -to and -ba, e.g. a one-off scheduled event with a volitional/request main clause: \"Say: if it rains tomorrow, let's cancel\" — only futtara (and marginally nara) survives.",
+    "severity": "major"
+   },
+   {
+    "item": "Item 27 — \"wh-word cannot take wa\"",
+    "problem": "The stimulus tests something else. In \"Kore wa nan desu ka\" / \"*Kore ga nan desu ka\" the wh-word (nan) is the predicate and carries no particle at all; what varies is wa/ga on a non-wh subject. The stated constraint is never probed.",
+    "fix": "Use a subject wh: \"Dare ga kimashita ka\" vs \"*Dare wa kimashita ka\", or \"Nani ga atta no?\" vs \"*Nani wa atta no?\"",
+    "severity": "major"
+   },
+   {
+    "item": "Notes — FORMAT TAXONOMY distribution (\"CQ 71, 2AFC/3AFC/4AFC 46, TF 8...\")",
+    "problem": "The counts do not match the items as written. Counting each item's own format code gives approximately 89 CQ and 35 forced-choice items (TF 8, PROD 4-5, SEQ 2, ordering 1 do check out). The claimed distribution overstates forced-choice by ~11 items and understates CQ by ~18.",
+    "fix": "Recount from the ledger and restate. This matters because CQ is guess-resistant and 2AFC has a 50% floor: at 35 2AFC items, chance alone contributes ~17 expected correct, which must be modelled in the cut.",
+    "severity": "major"
+   },
+   {
+    "item": "Items 60, 116, 137 — no Japanese stimulus written",
+    "problem": "Item 60 says only \"Same proposition twice\"; item 116 says \"Two clips, same content\"; item 137 gives two bare NPs and defers the matrix sentence (\"in past-tense matrix sentences\"). These are category labels, not items — the exact abdication being corrected, surviving in three slots.",
+    "fix": "Write them out, e.g. 60: \"Ame ga furu yoo desu.\" / \"Ame ga furu mitai.\" 116: \"Issho ni tabemashoo.\" / \"Issho ni tabemasen ka.\" 137: \"Ashita kuru hito ni mo tsutaeta yo.\" / \"Kinoo kita hito ni mo tsutaeta yo.\"",
+    "severity": "major"
+   },
+   {
+    "item": "Items 117, 123, 130 (and 101) — all-or-nothing composites inside the binomial model",
+    "problem": "These are scored as ONE item requiring 5/5, 4/4, or 3/3. If per-clip accuracy is 0.9, item-level pass probability is 0.59 (5/5) and 0.66 (4/4), not 0.9. The power note treats all 140 as Bernoulli(0.9) trials; four items are structurally guaranteed to fail a competent learner and the cut absorbs the bias invisibly.",
+    "fix": "Either score them as their constituent clips (raising n and matching the model) or set credit at 4/5 and 3/4 and state the adjusted p.",
+    "severity": "major"
+   },
+   {
+    "item": "Lexical saturation across the battery — ake-/aku, furu, matsu",
+    "problem": "The ake-/aku root appears in items 11, 42, 44, 51, 68, 114 (six items, including the two that ARE the transitivity/passive contrast, 44 and 51). Ame ga furu appears in 12, 21, 23, 55, 72 (five). Chotto matte appears in 41, 62, 111, plus 104 (matasete). With no orthography, repeated audio strings are the strongest priming channel available, and the interference fields flag only 45/19 and 55/21.",
+    "fix": "Cap any verb root at three appearances across the 140 and rewrite the excess: swap item 11's mado for \"kaaten o aketara\", 68's to a different verb entirely, 23's furu for a different event, and 41's matte for \"tetsudatte kureru?\".",
+    "severity": "major"
+   },
+   {
+    "item": "Items 9/10 — the nara/tara ordering pair",
+    "problem": "Both stimuli end in \"kore mo onegai\", a speech act performed at utterance time in both readings, so the physical handover is simultaneous either way and the SEQ probe (\"Is the errand handed over before or after he gets there?\") does not isolate the contrast. The author calls this \"the single most informative pair in the battery,\" so the defect is load-bearing.",
+    "fix": "Use an action main clause with a locatable event: \"Nihon ni iku nara, kamera o kau.\" vs \"Nihon ni ittara, kamera o kau.\" Probe: \"Where does he buy the camera?\"",
+    "severity": "major"
+   },
+   {
+    "item": "Item 129 — accent integers on the nihon pair",
+    "problem": "日本 is [2] in standard Tokyo (ni-HO-n, fall after the second mora), not [3] as given. 二本 is [1]. The pair is [1] vs [2], both nakadaka-vs-atamadaka on the bare word — still testable, but the printed integer is wrong, and this is the battery's only audit of the plan's every-card-carries-an-accent policy.",
+    "fix": "Correct to nihon [1] / Nihon [2] and verify against NHK before recording. Also act on the author's own note 11: add 2-3 more accent-contrast items (hashi/hashi, ame/ame, kaki/kaki in carrier frames) rather than auditing a 6,000-card policy with one item.",
+    "severity": "major"
+   },
+   {
+    "item": "Item 61 — evidential source-triage 4AFC",
+    "problem": "\"kaji rashii\" is accepted by many speakers for inference from direct sensory evidence, so it competes with the intended \"kaji mitai\" rather than functioning as a distractor. The block's own rationale concedes mitai/rashii overlap enough that \"items past ~6 start measuring dialect rather than competence\" — item 61 is item 9 of the block and does exactly that.",
+    "fix": "Either make the situation unambiguously hearsay-vs-direct (\"Your neighbor told you there's a fire\") so the intended answer is soo da, or demote 61 to DIAGNOSTIC-ONLY like 56 and 60.",
+    "severity": "major"
+   },
+   {
+    "item": "Statistical power note — pass-probability figures",
+    "problem": "Two numbers are wrong. (a) A true-80% learner at the 122/140 cut: SD = sqrt(140 x .8 x .2 x 1.9) = 6.5, z = 1.46, so pass probability ≈ 7%, not \"roughly 3%\". (b) The 78% failure point is stated as \"about 4 SD below the cut\"; with SD ≈ 4.7 on the 129 scale it is 2.3 SD below the cut (3.2 SD below the 90% expectation). The 4-SD claim is what licenses \"no retest is warranted.\"",
+    "fix": "Restate as ~7% and ~2.3 SD. At 2.3 SD the no-retest decision is defensible but not overwhelming; say so rather than inflating it.",
+    "severity": "major"
+   },
+   {
+    "item": "Note 4 — SECONDARY GATE composite B1+B2+B3+B4 = 43",
+    "problem": "That 43 includes items 6, 27 and 39, which are diagnostic-only and excluded from gating. A gate cannot be built on a set containing non-gating items; the cut 36/43 is on the wrong base.",
+    "fix": "Composite = 40 gating items; recompute the cut (33/40 at 82.5%, or 35/40 to hold 87%).",
+    "severity": "major"
+   },
+   {
+    "item": "Note 4 — visible unresolved arithmetic",
+    "problem": "The shipped note contains raw scratch work: \"that is 11 items, so the gating set is 129, not 131; recount before use and adjust the cut proportionally (122/131 -> 120/129, 93.0%... no: hold the cut at 87%...)\". A ledger that instructs its own reader to \"recount before use\" is not an operational document.",
+    "fix": "Do the recount, delete the derivation, state one cut.",
+    "severity": "major"
+   },
+   {
+    "item": "Within-block ordering (\"highest-frequency/lowest-processing-load to highest-load discrimination\")",
+    "problem": "Violated in at least five blocks. B1: the PROD morphology item (4) and the counterfactual TF item (2, \"highest-cost single misparse\") precede the low-load -to directions item (5) and -to habitual (7). B2: item 14, called \"the single most consequential -te iru error,\" sits at position 2. B3: item 33, a \"cheap naturalness probe,\" sits last. B17: a PROD item (124) sits at position 2. B18: the accent item (129), the hardest in the block, sits at position 2.",
+    "fix": "Either re-sort within blocks or drop the claim. As written the partial-credit pattern does not read as a depth gradient, which is the entire stated justification for the within-block order.",
+    "severity": "major"
+   },
+   {
+    "item": "Item 122 — \"Boku to onaji kurai no se da yo.\"",
+    "problem": "Unnatural. 背 does not take this frame; \"onaji kurai no se da\" is not what a Tokyo speaker says.",
+    "fix": "\"Boku to onaji kurai se ga takai yo.\" or \"Shinchoo wa boku to onaji kurai da yo.\"",
+    "severity": "minor"
+   },
+   {
+    "item": "Items 3 and 119 — format codes",
+    "problem": "Item 3 is labelled \"2AFC audio\" and then says \"both OK; probe is CQ\" — it is a CQ item wearing a 2AFC label. Item 119 is \"CQ / PROD short answer,\" two formats in one slot. Both contaminate the format distribution and the scoring pipeline (PROD needs a human/forced-alignment scorer; CQ does not).",
+    "fix": "Pick one format per item. Note also that the PROD set is listed three different ways across the document: {4, 117, 131} in note 2, {4, 117, 124, 131} in the interference fields, and {4, 117, 119, 124, 131} implied by the item bodies.",
+    "severity": "major"
+   },
+   {
+    "item": "Item 67 — \"Nemurenakute komatta.\"",
+    "problem": "The stimulus uses a potential form (nemureru), so a B10 failure can masquerade as a -naide/-nakute failure, and the item primes the potential block. No interference constraint is recorded against B10.",
+    "fix": "Use a non-potential verb: \"Shukudai ga owaranakute komatta.\"",
+    "severity": "minor"
+   },
+   {
+    "item": "Item 58 vs item 126 — unflagged mo-series interference",
+    "problem": "\"Dare mo inai mitai\" (58) is a daremo negative-concord token sitting in the evidential block, and item 126 tests exactly that construction with nanimo. No separation is specified, and 58 is the earlier item, so it primes the target. (The romaji is also inconsistent: \"Dare mo\" spaced in 58, \"nanimo\" joined in 126.)",
+    "fix": "Change 58 to \"Rusu mitai.\" or \"Mada kaette nai mitai.\" and standardise the spacing convention.",
+    "severity": "minor"
+   },
+   {
+    "item": "Items 133 and 137 — identical stimulus string",
+    "problem": "Item 133 is \"Kinoo kita hito, dare datta?\" and item 137's contrast pair is \"Ashita kuru hito\" vs \"Kinoo kita hito.\" The same four-mora modifier is reused verbatim, and B19's interference field flags only the 137/82 -ta overlap.",
+    "fix": "Change 133 to \"Sakki denwa shite kita hito, dare datta?\"",
+    "severity": "minor"
+   },
+   {
+    "item": "Item 113 — unresolved editorial artifact",
+    "problem": "The stimulus field reads: '\"Sorosoro ikoo ka.\" — use \"Issho ni ikoo.\"' — two candidate stimuli with a note-to-self between them. Separately, the CQ distractor \"or predicting?\" is not a possible reading of ikoo; the real competitor is first-person intention (\"I'll go\") or the plain non-past iku.",
+    "fix": "Keep \"Issho ni ikoo.\" and repair the probe: \"Is he saying let's go together, or that he himself is leaving?\"",
+    "severity": "minor"
+   },
+   {
+    "item": "Item 96 — koto ni suru vs koto ni naru",
+    "problem": "The item is labelled as a contrast but only one member is presented (\"koto ni natta\"). The CQ survives, but the block's stated contrast is untested.",
+    "fix": "Present both: \"Raigetsu tenkin suru koto ni natta.\" / \"Raigetsu yameru koto ni shita.\"",
+    "severity": "minor"
+   },
+   {
+    "item": "Items 36 and 40 — near-identical frames, no separation constraint",
+    "problem": "\"Sensei ga oshiete kureta\" (36) and \"Sensei ga oshiete kudasatta\" (40) differ by one morpheme and sit four apart in layout with no interference rule between them; 36 gives away 40's frame. (36 is also mildly infelicitous on its own terms — with a teacher as subject, kudasaru is preferred, which is what 39's politeness constraint asserts.)",
+    "fix": "Change 36's subject to a peer (\"Tomodachi ga oshiete kureta\") and add a >=25 separation from 40.",
+    "severity": "minor"
+   },
+   {
+    "item": "Item 75 — \"Kono tatemono wa hyaku nen mae ni taterareta.\"",
+    "problem": "Written/expository register (guidebook or placard), not conversational. The battery claims ranking against CEJC-like spoken corpora; this stimulus would be rare in casual speech in exactly this plain-form descriptive shape.",
+    "fix": "\"Kono tatemono, hyakunen mae ni tateraretan datte.\" — preserves the non-agentive passive and keeps the register honest.",
+    "severity": "minor"
+   },
+   {
+    "item": "Item 46 — \"keitai\"",
+    "problem": "Beyond the romaji issue (keetai), the word itself is dated as a general term for a phone; current casual usage is sumaho.",
+    "fix": "\"Sumaho ga kowarechatta.\"",
+    "severity": "minor"
+   }
+  ],
+  "missing": [
+   "SENTENCE-FINAL PARTICLES — zero items. ne / yo / yo ne / kke / jan / na / deshoo(?) as a confirmation-seeking rise. This is the highest-frequency conversational machinery in the language, it is carried entirely in the audio channel, it is invisible to a text test, and an audio-first learner who cannot tell 'ne' (seeking agreement) from 'yo' (asserting new information) misreads the interactional stance of most utterances. Larger omission than any block present.",
+   "EPISTEMIC MODALITY — zero items. daroo/deshoo, kamoshirenai, ni chigainai, hazu, ka na. This sits directly next to B6 evidentials and English speakers systematically collapse it into the same 'maybe/seems' bucket. B6 gets 9 items for source-of-information; certainty-degree gets none.",
+   "CLAUSE CONNECTIVES — no dedicated block. kara vs node (causal, register-split), kedo/ga as preface and softener, noni (appears only incidentally inside item 2), -te kara, -tari...-tari, toki (which is the natural competitor to -tara and should be tested alongside B1). Connectives are how spoken Japanese chains clauses; their absence means the battery tests inside sentences but not across them.",
+   "CORE CASE PARTICLES — no block. ni vs de for location (iru/aru vs action), ni vs e, o of path (michi o aruku), ni vs to for companion, made vs made ni. The battery has 10 items on wa/ga and zero on the rest of the case system, though ni/de is one of the most persistent English-speaker errors at any level.",
+   "KO/SO/A DEMONSTRATIVES — zero items, including the so-vs-a anaphora rule (shared vs speaker-only knowledge), which is a genuine comprehension error source and has no English analogue.",
+   "shika ~nai — absent. High frequency, obligatory negative concord, and it inverts a quantity reading; it belongs beside items 121 and 126.",
+   "mada vs moo — absent, including 'mada tabete inai' (which also interacts with the resultative -teru tested at item 14).",
+   "PLAIN vs -MASU REGISTER SWITCHING as a listening variable — absent. The stimuli mix plain and polite forms with no item testing whether the learner can hear the switch or infer relationship from it.",
+   "HONORIFIC / HUMBLE beyond kudasaru-itadaku — irassharu, o-...-ni naru, ~te itadakemasu ka, gozaimasu. Item 40's own failure note says a miss 'predicts total failure on service-encounter audio', yet service-encounter honorifics get exactly one item.",
+   "MINOR ASPECT/MODAL FRAMES — ~ta bakari, ~tokoro (suru tokoro / shita tokoro), -nagara, -yasui/-nikui, -sugiru (used in item 17 but never tested).",
+   "BACKCHANNEL AND INTERJECTION COMPREHENSION — un vs uun (a single vowel-length and pitch contrast that inverts polarity), ee as agreement vs surprise, hai as 'I'm listening' rather than 'yes'. This is audio-only content that a text battery could not test and is precisely where this battery should be spending slots the floor-check blocks are wasting.",
+   "FORM B — note 5 declares parallel forms 'mandatory, not optional' and requires 280 items, then enumerates 140. The retest branch is therefore unexecutable as written. Whatever the fate of the rest, form B must be enumerated item-for-item or the failure branch has no instrument."
+  ],
+  "verdict": "Genuinely enumerated — 140 real items, ranges internally consistent (12+11+10+10+9+9+8+8+7+6+6+6+5x7+3 = 140), and roughly 125 of them are well-formed, conversationally real, correctly analysed Japanese. That is a large advance on category labels and the core diagnostic instincts are sound (items 51, 66, 72, 93, 111, 126 are excellent). But it is not shippable in this state, for three reasons. (1) It breaks the romaji contract on the exact two words the brief names as the test — sensei appears five times and kirei once — which means the recording script is wrong at the phonemic level for an audio-only learner. (2) The gating arithmetic is incoherent: three mutually contradictory DIAGNOSTIC-ONLY sets, an operational cut computed on a denominator that does not exist, a secondary gate built on a set containing non-gating items, and unresolved scratch work left in the shipped note. (3) The stated ordering variable is applied at the level of block sequence but contradicted by block size — five blocks whose own rationales disclaim error-proneness receive allocations equal to or greater than the one block the author admits is under-allocated, and the within-block low-to-high load gradient is violated in at least five blocks. That is the same failure this document was written to correct, moved up one level of abstraction. Add three outright factual defects (norisugichatta, ban-juu, item 140's confounded and garbled option set), three slots with no Japanese written at all, and heavy unflagged lexical priming (six ake- items, five furu items). Fix the romaji globally, do the gating recount once and state one number, rebalance the allocation or drop the product framing, repair items 12, 17, 27, 73, 122, 140, write out 60/116/137, and add at minimum a sentence-final-particle block and an epistemic-modality block by taking slots from B16 and B18."
+ },
+ {
+  "errors": [
+   {
+    "item": "note 4 — \"THE HARD DIAGNOSTIC\"",
+    "problem": "The rule as stated is false. \"A citation form whose last two vowels are in hiatus as ai / ii / ui / oi is an i-adjective, UNLESS it is on the Tier-A list\" — an enormous number of high-frequency NOUNS end in exactly those hiatus sequences: ai (love), koi, nioi, omoi (thought), warai, negai, machigai, deai, shiai, tsukiai, hanashiai, tetsudai, kurai, mukai, kai, hai. Note 11 in this same document concedes that omoi is simultaneously an adjective, a noun, and a verb i-stem, which directly contradicts note 4. An audio-first learner given this rule will produce *nioikatta, *machigaikunai. This is the note the whole exception-enumeration exercise exists to deliver, and it does not survive contact with the noun ledger.",
+    "fix": "Restate the diagnostic as conditional, not categorical: \"Given that a word is functioning predicatively as a property word, hiatus -ai/-ii/-ui/-oi implies i-class unless on Tier A.\" Then add the second half the note is missing — an explicit statement that hiatus is NOT a sufficient cue for adjectivehood, only for class-within-adjectives — and card the discrimination directly (e.g. \"omoi desu\" vs \"omoi ga aru\", \"kirai desu\" vs \"nioi ga suru\").",
+    "severity": "fatal"
+   },
+   {
+    "item": "note 5 — \"WHY -ee CANNOT BE AN i-ADJECTIVE\"",
+    "problem": "\"There is no i-adjective in the language ending in the vowel sequence e+i. Zero.\" This is true only of citation forms in the formal register, and it collides head-on with the plan's own contraction-citation contract. Casual spoken Japanese contracts -ai to -ee productively and pervasively on i-adjectives: takai>takee, sugoi>sugee, abunai>abunee, yabai>yabee, umai>umee, wakaranai>wakannee, tsumaranai>tsumannee. A deck whose stated contract is that contractions ARE the citation form (-teru, -chau, -toku, -nakya, -tte, -n da) cannot also tell the learner that a final -ee guarantees non-i-class. The single \"strongest argument for the doubled-long-vowel contract\" is therefore built on a rule the same curriculum breaks.",
+    "fix": "Narrow the claim to \"no i-adjective has a LEXICAL -ee\", and card the -ai>-ee contraction explicitly as a register alternation before any -ee-based classification rule is taught. Alternatively drop the -ee-implies-na-class inference entirely and keep kiree/yuumee as ordinary lexical items — the romanization fix stands on its own without it.",
+    "severity": "fatal"
+   },
+   {
+    "item": "note 2 — four-shape audit; Block A interference; note 9(d)",
+    "problem": "yasui is classified as an -ai adjective in three separate places (\"-ai: chiisai, takai, hayai, itai, kowai, yasui, mijikai, tsumetai (8)\"; \"both -ai, and both attach to prices\"; \"Both [2], both 3 morae, both -ai\"). yasui is ya-su-i — its final hiatus is -ui. The -ui count by card #40 is therefore 5 (atsui, warui, furui, samui, yasui), not 4. Since \"-ui ends at exactly 4 exemplars\" is named as \"THE BINDING CONSTRAINT on the entire schedule\" and \"the number that fails first\", the load-bearing arithmetic of the whole ordering is wrong. The -ai list simultaneously omits nagai, which the note itself patches in a parenthetical (\"miscounted above as needed\") rather than fixing.",
+    "fix": "Recount: -ai = chiisai, takai, hayai, nagai, itai, kowai, mijikai, tsumetai (8); -ii = 10; -ui = atsui, warui, furui, samui, yasui (5); -oi = sugoi, omoshiroi, tsuyoi, omoi, tooi (5). Total 28 inducible + ii = 29. Then either retire the \"binding constraint\" narrative or re-derive which shape actually binds (none does at threshold 4), and rewrite Block C's rationale, which currently claims to promote items for -ui thinness while naming only -oi items (tsuyoi, omoi, tooi).",
+    "severity": "fatal"
+   },
+   {
+    "item": "#58 amai [0] / #60 akai [0]; #53 wakai [2] / #54 yowai [2]",
+    "problem": "Note 8 states the governing heuristic: \"separate if the two share accent integer AND mora count AND final shape.\" amai [0] and akai [0] are both 3 morae, both [0], both -ai, and are placed 2 apart. wakai [2] and yowai [2] are both 3 morae, both [2], both -ai, and are placed ADJACENT. Both pairs satisfy all three strikes — the same profile that forces atsui/samui to 10 and takai/yasui to 25. Neither pair is mentioned anywhere in the interference analysis. This is precisely the \"states a principle and then ignores it\" failure the review is looking for, and it occurs twice inside one block.",
+    "fix": "Move akai out of the amai/karai cluster by at least 15 (it is the sole color anchor and is placement-free by the block's own rationale). Separate wakai and yowai by at least 10 — yowai already carries a 27-gap requirement from tsuyoi, so shift wakai instead. Then re-audit all 63 items mechanically against the three-strike heuristic rather than by inspection.",
+    "severity": "fatal"
+   },
+   {
+    "item": "Block D #41-44 — the lexical -nai block",
+    "problem": "The block is presented as closed: \"carded as a labelled block of four precisely so the exception reads as closed rather than as evidence the rule is unreliable.\" The class is not closed and is not four. Conversationally frequent members omitted: mottainai [5] (very high frequency, and the canonical phantom-positive risk), tondemonai [5], osanai [3], nasakenai [4], shikata(ga)nai. Telling the learner the exception is closed at four guarantees the framing collapses the first time mottainai arrives from the noun/expression ledger.",
+    "fix": "Either card the class as open-but-small and name the members that will arrive later (mottainai, tondemonai, osanai), or drop the closure claim. mottainai in particular should be inside this block, not outside it.",
+    "severity": "fatal"
+   },
+   {
+    "item": "OMISSION — nai [1] (i-adjective)",
+    "problem": "The i-adjective nai — \"jikan ga nai\", \"okane ga nai\", \"shikata ga nai\" — is absent from the 63, absent from the 64-85 tail, absent from all three exception tiers, and absent from note 15. It is plausibly the single most frequent adjective in conversation alongside ii, it is the item the entire lexical -nai block (#41-44) is defined against, and it is the item on which the -kunai negative paradigm is built (nai > nakatta, not *naikatta — itself irregular). Its absence is the largest single hole in the ledger.",
+    "fix": "Card nai in Block A, adjacent to or immediately after ii, as a frozen existential-negative lexeme with its own irregular past (nakatta). Its presence is also a prerequisite for the #41-44 block reading as an exception rather than as noise.",
+    "severity": "fatal"
+   },
+   {
+    "item": "orderingVariable — \"a local shuffle of at most plus-or-minus 10 positions\"",
+    "problem": "The stated interference pass cannot produce the separations the blocks require. Required gaps asserted in the text: ookii/ooi >=25 (actual 42), tsuyoi/yowai >=20 (actual 27), karai/kirai >=25 (actual 36), takai/yasui >=15 (actual 25), atsui/atsui >=30 (actual 41). A pass capped at plus-or-minus 10 positions mathematically cannot open a 25-to-42-position gap unless frequency already supplied it, which the text elsewhere denies (\"past about rank 15 the frequency differences between neighbors are inside the error bars\"). The sort function as specified does not generate the list as published.",
+    "fix": "Either raise the stated shuffle budget to match the largest required separation (roughly plus-or-minus 25) and acknowledge that the interference pass, not frequency, is the dominant ordering force past #15, or add interference separation as an explicit fourth constraint level rather than a post-hoc local shuffle.",
+    "severity": "major"
+   },
+   {
+    "item": "#45 ooi, #52 dame (and note 12)",
+    "problem": "Block D's rationale is \"everything here is placed by dependency, not frequency\", but ooi and dame have no dependency. ooi is not a lexical -nai, not an accent split, not a second sense; dame is a plain na-adjective with no prerequisite at all. Note 12 concedes this (\"the cheapest partial reversal is to move ooi and dame into Block B, which costs nothing structurally\"), which is an admission that these two items violate the stated three-level sort key. hikui (#46) is listed in note 12 among the frequency-displaced items but its only dependency is pairing with a card the list itself chose to defer.",
+    "fix": "Move dame into Block B and state ooi's placement as interference-driven (ookii separation) rather than dependency-driven, so the sort key's level (2) is not silently used as a catch-all.",
+    "severity": "major"
+   },
+   {
+    "item": "#36 tooi [0] vs #45 ooi [1] — unanalyzed interference",
+    "problem": "tooi (to-o-i) and ooi (o-o-i) differ by a single initial consonant, are both 3 morae, and are both hiatus -oi/-oi with adjacent accent values. They sit 9 apart and are never mentioned, while ookii/ooi — a one-mora-longer, segmentally more distinct pair — is assigned a required separation of >=25. For a learner with no orthography, tooi/ooi is the harder discrimination of the two.",
+    "fix": "Add tooi/ooi to the interference table with a required separation of at least 20, and move one of them.",
+    "severity": "major"
+   },
+   {
+    "item": "#15 kawaii [3] vs #29 kowai [2] — unanalyzed interference",
+    "problem": "kawaii and kowai share the /wa/ mora, differ in one vowel plus one mora of length, and are both extremely high frequency. They are 14 apart with no mention. The confusion (\"cute\" vs \"scary\") is well attested in beginner learners even WITH orthography; without it, and with kawaii's colloquial [0] variant explicitly admitted at item 15, the accent cue is unreliable too.",
+    "fix": "Add the pair to the interference table; separate by at least 20, or make #29 an explicit kawaii/kowai discrimination card the way #35 is built as a three-way temperature card.",
+    "severity": "major"
+   },
+   {
+    "item": "#49 karui vs #59 karai; #35 tsumetai vs #41 tsumaranai — unanalyzed interference",
+    "problem": "karui / karai differ in one vowel, are both 3 morae, both hiatus, and sit 10 apart with no mention — while kirai/karai (a structurally identical one-vowel contrast) is assigned >=25. tsumetai / tsumaranai share the /tsum-/ onset and sit 6 apart with no mention.",
+    "fix": "Add both to the interference table. karai should move past #70 (it is in the free-placement tail by the list's own argument); tsumaranai's Block D position is fixed by dependency, so tsumetai should move earlier or karui later.",
+    "severity": "major"
+   },
+   {
+    "item": "note 3 Tier A — \"That is 7, not 3\"",
+    "problem": "Two problems. (1) Register: yukai, saiwai, aimai and juudai are formal/written-register items — saiwai as a predicate and juudai are essentially news and print register, aimai is written/analytic — and the note itself concedes they sit at ledger positions 1500-4000. Padding the trap list with items the learner will not hear undermines the claim that enumeration makes the ear-rule reliable. (2) Omission: the note defines Tier A as hiatus -ai only, but tokui [0] (na-class, hiatus -ui, high conversational frequency: \"eego ga tokui\", \"tokui na ryoori\") is a genuine Tier-A trap under note 4's own -ai/-ii/-ui/-oi formulation and is absent. Under Tier B's definition, heeki [0] and daisuki [1] are also missing.",
+    "fix": "Add tokui to Tier A. Demote yukai, saiwai, aimai and juudai to a clearly-labelled \"will arrive much later\" annex so the working trap deck contains only kirai, shinpai, tokui, yakkai. Add heeki and daisuki to Tier B.",
+    "severity": "major"
+   },
+   {
+    "item": "note 16 — \"12 shape-balanced i-adjectives arrive by roughly card #22\"",
+    "problem": "False by the note's own criterion. Note 1 defines shape balance as 3 exemplars in each of the four shapes. By card #22 the -oi shape has only two members (sugoi #2, omoshiroi #9); the third, tsuyoi, does not arrive until #27. The 12-item shape-balanced threshold is met at #27, not #22, inside week 8 rather than week 7. The note's headline conclusion (na-adjectives bind, not i-adjectives) survives — the 8th na-adjective lands at #38 — but the margin claimed as \"not close\" is overstated by five cards.",
+    "fix": "Correct to #27. The claim is still directionally right; state the actual figures (i-minimum satisfied at #27, na-minimum at #38).",
+    "severity": "major"
+   },
+   {
+    "item": "Block D interference — \"karui (#49) vs omoi (#34) ... 2-mora vs 3-mora\"",
+    "problem": "karui is ka-ru-i, 3 morae. omoi is o-mo-i, 3 morae. Both are 3 morae, both are [0], both are hiatus-final. The stated mora contrast does not exist, and the \"risk here is low\" conclusion that follows from it is unsupported — by note 8's own three-strike heuristic this pair shares accent AND mora count AND (hiatus) final shape and should be separated further than 15, not less.",
+    "fix": "Correct the mora counts and re-rule the pair. Given the -ui/-oi shapes differ segmentally, a gap of 15 is probably still defensible, but the stated reasoning must be replaced.",
+    "severity": "major"
+   },
+   {
+    "item": "note 9(f) — \"'he is old' is toshiue / toshiyori, not *furui hito\"",
+    "problem": "toshiue means \"older THAN someone\" — it is inherently comparative and relational (\"ani wa toshiue desu\"), not a predicate meaning \"old\". toshiyori is a noun meaning \"elderly person\", not a property predicate. Neither renders \"he is old\". The natural expressions are \"toshi o totteiru\" or \"nenpai da\".",
+    "fix": "Replace with toshi o totteiru / nenpai. Keep the furui restriction, which is correct.",
+    "severity": "major"
+   },
+   {
+    "item": "note 7 — the ii paradigm accents",
+    "problem": "yokunai [2] and yokute [2] are both likely wrong. Japanese adjective negatives accent the mora before nai (takai [2] > takakunai [4]), which gives yokunai [3], not [2]. The -kute form of an accented adjective retains the accent one mora earlier (takakute [2]), which gives yokute [1], not [2]. Both are marked approximate, but they are shipped in a note whose entire purpose is a dedicated micro-paradigm deck, so they will be recorded as-is.",
+    "fix": "Verify against NHK before recording; expected values are yoku [1], yokatta [2], yokunai [3], yokute [1].",
+    "severity": "major"
+   },
+   {
+    "item": "note 7 — \"it is the ONLY suppletive adjective in the language\"",
+    "problem": "Terminologically wrong and it weakens the argument it is making. ii is not suppletive in the go/went sense: yoi is a coexisting full lexeme of the same word that inflects perfectly regularly (yoi, yoku, yokatta, yokunai, yokute). What ii has is a defective citation form restricted to the non-past attributive/predicative slot, with all other slots supplied by its regular variant. That is stem alternation plus defectiveness, not suppletion.",
+    "fix": "Restate as \"ii is defective: it fills only the non-past slot, and every other slot is supplied by its regular variant yoi.\" The pedagogical treatment (quarantine, micro-deck, compound family) is correct and unaffected.",
+    "severity": "minor"
+   },
+   {
+    "item": "Note cross-references throughout",
+    "problem": "Every internal note reference is off. Item 7 and item 48 and Block A's interference say \"see note 12\" for the atsui verification, which is note 10. Item 34 says \"see note 13\" for omoi, which is note 11. Item 60 says \"see note 14\" for colors, which is note 13. Block E's rationale says \"see note 15\" for the below-the-line list, which is note 14. Block B's interference says \"see note 10\" for the samui/tsumetai ruling, which is note 9. Not one pointer resolves.",
+    "fix": "Renumber all cross-references. In a document whose central claim is that enumeration beats gesturing, unresolvable pointers are the same defect in miniature.",
+    "severity": "major"
+   },
+   {
+    "item": "note 9 — \"THE SEVEN PAIRS, RULED\"",
+    "problem": "Nine pairs are listed, (a) through (i). The header says seven. Two of them, (h) tsuyoi/yowai and (i) joozu/heta, are marked as additions but the count in the title was never updated.",
+    "fix": "Retitle to nine.",
+    "severity": "minor"
+   },
+   {
+    "item": "#30 yasui — position cited inconsistently",
+    "problem": "Block A's interference table calls it \"yasui (#31)\" and computes the takai gap as 26; Block C's table calls it \"yasui (#30)\" and computes 25. #31 is hoshii. The arithmetic in one of the two tables is derived from a wrong position.",
+    "fix": "yasui is #30; the takai gap is 25. Correct Block A.",
+    "severity": "minor"
+   },
+   {
+    "item": "Block B interference — \"warui/furui vs karui (#49): 31/36 apart\"",
+    "problem": "Reversed. warui is #13, so the gap is 36; furui is #18, so the gap is 31. Block D states the same pair correctly as \"36 / 31\", so the two tables contradict each other.",
+    "fix": "Correct to 36/31 in Block B.",
+    "severity": "minor"
+   },
+   {
+    "item": "note 10 — \"'atsui ocha' (head-accented pattern)\"",
+    "problem": "atsui [2] is not head-accented. Head-accented (atamadaka) is [1]; [2] on a 3-mora word is nakadaka. The substantive contrast being taught — accented atsui [2] against heiban atsui [0] — is correct, but the label is wrong in a note whose entire value is precise accent description.",
+    "fix": "Replace \"head-accented\" with \"nakadaka (accent on the second mora)\".",
+    "severity": "minor"
+   },
+   {
+    "item": "note 13 — colors",
+    "problem": "Two claims do not hold. (1) \"In conversation the dominant form of a color word is the BARE NOUN\" is overstated for the attributive use — akai kuruma, kuroi fuku, shiroi shatsu are the ordinary spoken forms, and \"aka no kuruma\" given as the example collocation is marginal at best. (2) \"This also avoids five near-identical [2]-accented -oi/-ai cards\" is factually wrong about the accents: akai [0], kiiroi [0], aoi [2], kuroi [2], shiroi [2] — they are not uniformly [2], and note 14 lists them correctly, contradicting note 13.",
+    "fix": "Keep the decision (one anchor adjective, colors carried in the noun ledger) but replace the two supporting claims — the real argument is compositional economy (color noun + i), not frequency of the bare noun, and the accents are mixed [0]/[2].",
+    "severity": "minor"
+   },
+   {
+    "item": "#25 taihen — \"also the intensifier 'very'\"",
+    "problem": "Adverbial taihen is formal/written register (taihen mooshiwake gozaimasen, taihen osewa ni narimashita). In casual conversation the intensifier slot is filled by totemo, sugoku/sugoi, meccha, chou. Flagging taihen as a conversational intensifier in a deck ranked against conversational corpora is a register error. Related, item 2's note that sugoi \"feeds the intensifier sugoku\" understates that the casual spoken intensifier is overwhelmingly bare sugoi (sugoi oishii) rather than sugoku.",
+    "fix": "Gloss taihen as \"tough / awful\" plus a register-marked note that the adverbial use is formal. Add bare sugoi as the casual intensifier form on card 2.",
+    "severity": "minor"
+   },
+   {
+    "item": "#41 tsumaranai — \"back-forms a phantom positive *tsumaru-adjective\"",
+    "problem": "tsumaru is not a phantom. 詰まru is a real and reasonably frequent verb (hana ga tsumaru, nodo ga tsumaru, yotei ga tsumatteru), and tsumaranai is homophonous with its negative. The risk is therefore genuine ambiguity with a real lexeme, not a back-formation to something nonexistent — which changes the card design: the learner needs the two senses disambiguated, not merely warned off an invented form. abunai and kitanai, by contrast, do have no positive.",
+    "fix": "Restate the risk for tsumaranai as collision with the real verb tsumaru, and keep the pure lexical-exception framing for abunai and kitanai.",
+    "severity": "minor"
+   },
+   {
+    "item": "#52 dame — gloss \"broken\"",
+    "problem": "dame does not mean broken. It means no good / not allowed / won't do. \"Kono terebi wa dame da\" can implicate a fault, but that is inference from context, not sense; the word for broken is kowareteru.",
+    "fix": "Drop \"broken\" from the gloss.",
+    "severity": "minor"
+   },
+   {
+    "item": "whyThatVariable — frequency coverage claims",
+    "problem": "\"The top 60 adjectives cover something like 85-90 percent of all adjective tokens in conversation\" and \"the token ratio between rank 10 and rank 60 is on the order of 6:1\" are presented with only a bare \"approximate\" hedge and carry the entire justification for abandoning frequency as the ordering variable. For a Zipfian lemma distribution, 85-90 percent from 60 adjective lemmas is at the optimistic end; and the 6:1 figure is inconsistent with Block E's own \"per-item token frequency has dropped to roughly a sixth of the block-A items\" by position ~50, which implies the ratio is already 6:1 at rank 50, not 60.",
+    "fix": "Either source these against an actual CEJC-style count or restate them as directional (\"the adjective tail flattens far faster than the noun tail\") without the specific percentages, since the argument does not need them.",
+    "severity": "minor"
+   },
+   {
+    "item": "note 15 — items listed as confidently known",
+    "problem": "Several entries in the \"confident\" column have a competing NHK first entry and belong in the approximate column: yasashii (NHK gives [0] before [3]), abunai ([0] before [3]), kanashii ([0] alongside [3]), muzukashii ([4] and [0]), osoi ([0] and [2]), tsumetai ([0] and [3]). Marking them confident means they will be recorded without verification.",
+    "fix": "Move those six to the approximate list. The rest of the confident column checks out.",
+    "severity": "minor"
+   }
+  ],
+  "missing": [
+   "nai [1] — the i-adjective 'not exist / not have' (jikan ga nai, okane ga nai). Absent from the 63, the 64-85 tail, all three exception tiers, and note 15. Plausibly the most frequent adjective in conversation alongside ii, and the item the entire #41-44 lexical -nai block is defined against. Belongs in Block A.",
+   "yabai [2] — extremely high frequency in contemporary casual conversation across all age groups; also a clean -ai exemplar and the flagship of the -ai>-ee contraction (yabee). Absent entirely.",
+   "mottainai [5] — high conversational frequency and the single clearest lexical -nai case. Belongs inside the #41-44 block; its absence is what makes that block's 'closed at four' claim false.",
+   "onaji [0] — 'same'. Very high frequency and a genuine classification oddity (attributive onaji, not *onaji na, but onaji da). Ends in the sound /i/, so it also strengthens the na-side counter-evidence set. Absent from every list.",
+   "daisuki [1] — very high conversational frequency, na-class, ends in the sound /i/. Would have been the cheapest way to reach the /i/-final na quota earlier than #40.",
+   "hazukashii [4] — high conversational frequency, -shii emotional cluster member. Absent from the 63 AND from the 64-85 tail.",
+   "umai [2] — treated only as an item arriving from another ledger, but in casual speech it rivals oishii; also the amai/umai pair the list itself flags. Should be carded here, not deferred.",
+   "tondemonai [5] — frequent conversational lexical -nai; same closure problem as mottainai.",
+   "osanai [3] — lexical -nai, moderate frequency, no positive form. Belongs with #41-44.",
+   "tokui [0] — na-class ending in hiatus -ui. A genuine Tier-A trap under the document's own -ai/-ii/-ui/-oi diagnostic, conversationally frequent (eego ga tokui, tokui na ryoori), and completely absent from all three tiers.",
+   "heeki [0] — na, 'unbothered / fine'. High casual frequency, ends in the sound /i/, belongs in Tier B.",
+   "mendokusai [4] / mendoo [3] — very high casual conversational frequency; absent from the 63 and the tail.",
+   "kitsui [2] — frequent casual adjective and, incidentally, a further -ui exemplar that would have relieved the (mis-stated) -ui shortage.",
+   "chikai [2] — placed below the line at 64-85 while its antonym tooi is promoted to #36. Either both are core or neither is; the asymmetry is unexplained.",
+   "subarashii [4] — absent from both the 63 and the 64-85 tail despite being more frequent in speech than several Block E items.",
+   "yokatta as a standalone interjection — note 7 correctly identifies it as a distinct high-frequency lexical item that must be carded, then explicitly excludes it from the numbered ledger. Since the brief's whole demand is an enumerated ledger, an item acknowledged as necessary must appear in it with a number."
+  ],
+  "verdict": "Reject pending major revision. This is a serious piece of work — the block structure, the induction-gate framing, the atsui accent split, the kirai/kiree romanization argument, and the decision to defer the lexical -nai class are all genuinely well reasoned, and the accent integers are correct in roughly 55 of 63 cases. But it fails on its own terms in six places. Three are structural: (1) yasui is misclassified as -ai in three separate tables, which collapses the \"-ui ends at exactly 4, the binding constraint\" narrative that Block C's entire membership is justified by — the real count is 5 and nothing binds; (2) note 4's \"hard diagnostic,\" the payoff the whole exception enumeration is built to deliver, is false as stated, because hiatus -ai/-oi/-ui is the ending of hundreds of common nouns, a fact note 11 concedes about omoi two notes later; (3) note 5's \"-ee cannot be an i-adjective\" contradicts the plan's own contraction-citation contract, under which takee, sugee, yabee and abunee are exactly what the learner hears. Two more are the specific failure this review exists to catch — a principle stated and then not applied: note 8's three-strike separation heuristic is violated twice in Block E alone (amai/akai at 2 apart, wakai/yowai adjacent, both identical on accent, mora count and final shape), and the stated ±10 shuffle budget cannot generate separations of 25-42 that the same document declares mandatory. The sixth is the omission of nai, which is not a tail item but arguably the most frequent adjective in the language and the anchor the #41-44 block is defined against. Six further high-frequency items (yabai, mottainai, onaji, daisuki, hazukashii, tokui) are missing outright, and the Tier-A trap list is padded with four written-register items (yukai, saiwai, aimai, juudai) while omitting the one conversationally frequent trap that breaks the diagnostic. Every internal note cross-reference is also misnumbered. Fix the yasui shape error and re-derive the gate arithmetic first — several downstream rationales change once it is corrected."
+ }
+]

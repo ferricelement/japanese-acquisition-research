@@ -1,0 +1,753 @@
+{
+ "dimension": "The perceptual foundation: what an English-speaking adult must be able to HEAR (and store) before a single vocabulary item is acquired, ordered by fossilization cost — an 8-day pre-vocabulary block plus a 12-week perceptual tax.",
+ "principles": [
+  {
+   "name": "The mora is the storage unit, not the syllable",
+   "statement": "Every timing, accent, and length fact in Japanese is computed over morae (CV, V, moraic N, sokuon Q, and the second half of a long vowel). The English listener chunks by stress-foot and compresses everything unstressed. Until the learner can count morae by ear, they cannot store any word's shape correctly.",
+   "mechanism": "English is stress-timed: interstress intervals are held roughly constant and unstressed syllables are durationally squeezed and vowel-reduced to schwa. Japanese is mora-timed: each mora occupies roughly equal duration and there is no reduction. An English parser hearing 'gakusei' (ga-ku-se-e, 4 morae) assigns one stress and squeezes the rest, producing a 2-3 beat percept. Vowel length, sokuon, and moraic N are not three separate problems — they are three places where the beat count and the letter count disagree, and all three are unhearable until the beat grid exists.",
+   "implication": "Unit 1 is beat counting on all-CV words with no special morae at all. No length contrast, no geminate, no N, no vocabulary is introduced until beat counting is stable, because length is a RATIO judgment and a ratio needs a stable denominator."
+  },
+  {
+   "name": "Perception errors compound; production errors are local",
+   "statement": "A wrong perceptual category corrupts every word acquired after it, at a rate proportional to vocabulary growth. A wrong articulation only affects the utterances you make. Therefore discrimination training strictly outranks articulation training, and the perceptual phase must complete before the vocabulary curve steepens.",
+   "mechanism": "Perceptual assimilation: an adult L2 listener maps novel contrasts onto the nearest L1 category and discards the differentiating cue as noise. If 'obasan' and 'obaasan' both land in one category, the learner does not store a fuzzy word — they store the SAME word twice with contradictory meanings, and the SRS silently trains them to ignore the cue further. At 6,000 target words, an uncorrected length category costs roughly the 8-12% of the lexicon that carries a phonemic long vowel.",
+   "implication": "Every drill in the first 8 days is two-alternative forced choice with immediate feedback, not exposure. Production is used only as a cheap read-out of whether the perceptual category took."
+  },
+  {
+   "name": "Front-load by (damage x cost-to-fix), and additionally take everything that is free",
+   "statement": "Ranked fossilization cost, most to least expensive: (1) mora isochrony, (2) vowel reduction to schwa, (3) phonemic vowel length, (4) lexical pitch accent, (5) moraic N and sokuon as beats, (6) palatal morae counted as two beats, (7) sentence-final intonation, (8) the r-tap, (9) u-epenthesis handling in loanwords, (10) fu / hi / g-nasalization.",
+   "mechanism": "Items 1-4 are stored per-lexeme or as automatized motor timing; fixing them at word 3,000 means re-encoding 3,000 items, which empirically costs more than the original encoding did. Items 5-6 are sub-cases of item 1 and become nearly free once isochrony is installed. Items 7-10 are either phrase-level (do not corrupt lexical storage) or single articulatory gestures that can be swapped in at any time. The r-tap sits at position 8 in DAMAGE but takes twenty minutes to fix because American English already has the exact sound as the flap in 'butter' — so it is scheduled in week 1 anyway on cost grounds, not damage grounds.",
+   "implication": "Week 1 spends its scarce attention on rhythm, vowel purity, length, and the pitch/stress distinction. It spends almost none on fu, hi, or the unrounded u, which are absorbed and never explicitly drilled."
+  },
+  {
+   "name": "Contrast builds a category; exposure does not",
+   "statement": "Passive listening leaves the L1 category intact indefinitely. The category only moves when the learner is forced to make the distinction and is told immediately whether they were right — across many talkers and many speaking rates.",
+   "mechanism": "High-variability phonetic training: gains transfer to new talkers and new words only if training was variable; single-talker training teaches the talker, not the contrast. Rate variability is specifically load-bearing for Japanese length, because duration is a relative cue — a slowly spoken short /a/ can be absolutely longer than a fast long /aa/. The learner must acquire the ratio to neighbouring morae, which is only extractable if tempo varies during training.",
+   "implication": "Minimal-pair sets run at 0.75x / 1.0x / 1.3x native rate across at least six voices of mixed sex from day 2, and every contrast is trained both in isolation and inside a carrier frame ('___ o kudasai', '___ desu ka') because isolated-word training generalizes poorly to connected speech."
+  },
+  {
+   "name": "Pitch must be encoded WITH the lexeme, never added to it later",
+   "statement": "Accent is a lexical property of each noun, stored alongside the segments. Encoding it at first exposure is free; retrofitting it is a second full pass over the lexicon. Therefore pitch enters in week 1 — not as a full accent curriculum, but as a category plus a card format.",
+   "mechanism": "The accent of a noun is not derivable from its segments, so it is memorized like the segments are. Re-encoding a prosodic form that has already been consolidated and rehearsed hundreds of times requires overwriting a motor and auditory template, which is markedly harder than laying one down. Additionally, for an audio-first learner with no orthography, pitch performs the disambiguation work kanji would otherwise do: hashi [1] HL chopsticks / hashi [2] LH bridge / hashi [0] LH edge; ame [1] rain / ame [0] candy; kami [1] god / kami [2] paper; kaeru [1] to go home / kaeru [0] frog; kaki [1] oyster / kaki [0] persimmon.",
+   "implication": "Every vocabulary item from item #1 carries an accent number and an H/L string, and every audio token is recorded as 'X ga', never as a bare word — because the odaka/heiban contrast (hana [2] flower vs hana [0] nose) is physically inaudible on the isolated word and only surfaces on the following particle."
+  },
+  {
+   "name": "Pitch is a listening tool before it is a speaking tool",
+   "statement": "The accent drop and the obligatory mora1/mora2 pitch difference are word-boundary cues in continuous speech. For a learner whose entire goal is listening, that is the primary payoff — disambiguation is secondary and sounding native is a distant third.",
+   "mechanism": "Two invariants make pitch a parser. (a) Pitch drops at most once per word: once it falls, it does not rise again within the accentual phrase, so every rise you hear is evidence of a new phrase starting. (b) Morae 1 and 2 always differ: if mora 1 is high, mora 2 is low (atamadaka); otherwise mora 1 is low and mora 2 is high (everything else). Together these mean the L-to-H rise at the start of a word and the downstep inside it give the listener free segmentation cues in a language with no word spaces in the audio stream.",
+   "implication": "Pitch is taught in week 1 with discrimination drills, not with production perfectionism. Production accuracy on accent is allowed to lag perception by months without penalty."
+  },
+  {
+   "name": "Never read romaji aloud — ever",
+   "statement": "Romaji is an index on the answer side of a card and a way to talk about Japanese in English. It is never a source for production. Every utterance the learner makes is an echo of audio, never a rendering of text.",
+   "mechanism": "Grapheme-to-phoneme conversion is automatic and uninhibitable in a literate adult, and it runs on English rules. Reading 'arigatou' invokes English stress assignment (a-ri-GA-toh), schwa reduction of the unstressed vowels, retroflex /r/, syllabification into three or four syllables instead of five morae, and diphthongization of the final vowel. Every one of the five highest-cost fossilization items is triggered by a single act of reading a romaji string out loud. Romaji damages each item specifically: it hides the beat grid (gakusei looks like 3 syllables, is 4 morae; Tookyoo looks like 2, is 4); macrons and 'ou' hide that a long vowel is two beats; 'n' reads as an English coda consonant rather than a beat (shinbun reads as 2 syllables, is 4 morae); doubled consonants read as a single English stop rather than a beat of silence (gakkoo reads as 2, is 4); digraphs read as two syllables (kyoo reads as ki-yo-o, is 2 morae); the written 'u' in desu invites either a full spurious vowel or, if the learner over-corrects, deletion of the beat; and 'r' triggers the English retroflex, which also r-colours the following vowel and destroys the mora's quality.",
+   "implication": "The defended notation, used on card backs only: one dot-separated slot per beat, long vowels always doubled, moraic nasal written as capital N in its own slot, sokuon written as capital Q in its own slot, palatal digraph kept inside one slot, devoiced vowels parenthesized, accent number and H/L string appended. Tookyoo becomes to·o·kyo·o [0] LHHH (4). Gakkoo becomes ga·Q·ko·o [0] (4). Shinbun becomes shi·N·bu·N [0] (4). Deshita becomes de·shi·ta [0] → de·sh(i)·ta (3 beats, 2 voiced). Every item is presented with its integer beat count, and the beat count is testable."
+  },
+  {
+   "name": "Shadowing amplifies whatever categories you currently hold",
+   "statement": "Simultaneous shadowing is a high-repetition motor drill. Run before the categories exist, it installs English rhythm at volume. Run after, it is the single most efficient consolidator available.",
+   "mechanism": "Shadowing at a short lag leaves no time for perceptual analysis — the learner reproduces from their existing category set. With no Japanese categories in place, three months of daily shadowing is three months of rehearsing stress-timed, schwa-reduced, retroflex Japanese with high fidelity to the error.",
+   "implication": "A three-stage ladder: echo repetition (hear, pause, reproduce) from day 1; chorusing in unison with audio already heard five or more times from day 4; true lag shadowing at roughly 0.5 seconds from day 9, and only on material the learner can already beat-count correctly. Content shadowing on unfamiliar material waits until week 4."
+  }
+ ],
+ "sequence": [
+  {
+   "position": 1,
+   "label": "Notation contract + baseline forced-choice diagnostic",
+   "items": [
+    "to·o·kyo·o (4)",
+    "ga·ku·se·e (4)",
+    "shi·N·bu·N (4)",
+    "ga·Q·ko·o (4)",
+    "a·ri·ga·to·o (5)",
+    "de·sh(i)·ta (3)",
+    "ko·N·ni·chi·wa (5)"
+   ],
+   "gatedOn": [
+    "nothing — this is position zero"
+   ],
+   "unlocks": [
+    "every subsequent unit, because every unit is scored in beats",
+    "the card format the SRS will use for 6,000 items"
+   ],
+   "rationale": "Before any ear training, fix the notation and the rule that romaji is never read aloud. Establish that the deliverable of every item is an integer beat count. Then run a 60-item two-alternative forced-choice pretest across length, geminate, moraic N, and 2-mora pitch to find out which contrasts are already discriminable — a nontrivial minority of adults hear length above chance on day one, and there is no reason to spend three days on a contrast they already have. The pretest results reweight the time budget of units 6-20; they do not remove any unit.",
+   "estimatedTime": "Day 1, 45 min"
+  },
+  {
+   "position": 2,
+   "label": "Isochrony: equal-beat tapping on all-CV words only",
+   "items": [
+    "ne·ko (2)",
+    "i·nu (2)",
+    "sa·ka·na (3)",
+    "ta·ma·go (3)",
+    "ko·ko·ro (3)",
+    "o·to·ko (3)",
+    "wa·ta·shi (3)",
+    "ku·da·mo·no (4)",
+    "to·mo·da·chi (4)",
+    "mu·ra·sa·ki (4)",
+    "hi·ra·ga·na (4)",
+    "ka·ki·ku·ke·ko",
+    "ta·chi·tsu·te·to"
+   ],
+   "gatedOn": [
+    "unit 1 notation contract"
+   ],
+   "unlocks": [
+    "all length contrasts (units 6-9)",
+    "moraic N and sokuon (units 10-14)",
+    "any vocabulary at all"
+   ],
+   "rationale": "Nothing here contains a special mora, so the only thing being trained is that beats are equal and none of them get squeezed. Physical tapping — one finger strike per mora, metronome at 60-90 bpm, one mora per click — because the failure is a motor-timing habit and auditory-only training does not reach it. The specific error to hunt: the learner will shorten mora 1 and 3 of ta·ma·go and lengthen mora 2. Pass criterion is producing 4-mora all-CV words with under roughly 20% inter-mora duration variance, checked on a waveform. This is the single highest-leverage hour in the entire course.",
+   "estimatedTime": "Day 1, 60 min"
+  },
+  {
+   "position": 3,
+   "label": "Five pure monophthongs — anti-schwa, anti-diphthong",
+   "items": [
+    "a i u e o",
+    "ta·ma·go (all three a identical)",
+    "ko·ko·ro",
+    "o·to·ko",
+    "ku·da·mo·no",
+    "wa·ta·ku·shi",
+    "e (not 'ay')",
+    "o (not 'oh')"
+   ],
+   "gatedOn": [
+    "unit 2 — a reduced vowel is a shortened mora, so this is the same problem seen from the articulatory side"
+   ],
+   "unlocks": [
+    "stable length perception (a reduced vowel has no measurable length)",
+    "pitch training, which requires vowel quality to stay constant while pitch moves"
+   ],
+   "rationale": "Two English reflexes to kill: reduction of unstressed vowels to schwa, and diphthongal offglides on /e/ ([eɪ]) and /o/ ([oʊ]). Both are automatic and unconscious. Reduction is the more expensive of the two because it directly destroys isochrony — it is the mechanism by which ta·ma·go becomes 'tuh-MAH-goh'. Drill: sustain each vowel four seconds flat with no glide, then produce 3- and 4-mora words where every vowel is the same phoneme (ta·ma·go is not one, use nonsense: ka·ka·ka, ki·ki·ki, then mixed) checking that no vowel centralizes. Japanese /u/ is unrounded and compressed, but this is cosmetic — do not spend time on it here.",
+   "estimatedTime": "Day 1-2, 45 min"
+  },
+  {
+   "position": 4,
+   "label": "Pitch is not stress — the decoupling drill",
+   "items": [
+    "sa·ku·ra spoken LHH, then HLL, then LHL at constant volume and constant mora duration",
+    "ta·ma·go same three ways",
+    "a·na·ta same three ways"
+   ],
+   "gatedOn": [
+    "units 2 and 3 — the drill is meaningless if pitch changes drag length and loudness with them"
+   ],
+   "unlocks": [
+    "unit 19 (the accent system proper)",
+    "protects units 2-3 from being undone the moment real words arrive"
+   ],
+   "rationale": "This comes before any accent patterns because the prerequisite is not knowing which pattern a word has — it is being able to move pitch as an independent dimension. English bundles pitch, loudness, duration, and vowel quality into one 'stress' package; Japanese uses pitch alone. Until the bundle is broken, the learner literally cannot produce heiban (they will lengthen and loudify the H morae) and cannot perceive an accent drop (they will hear it as emphasis). Drill is production-led here, unusually, because the bundling is a motor fact: hum a two-tone contour with no words, then map it onto a fixed 3-mora frame while a metronome enforces equal beats.",
+   "estimatedTime": "Day 2, 30 min"
+  },
+  {
+   "position": 5,
+   "label": "Mora arithmetic on loanwords — self-checking beat counting",
+   "items": [
+    "su·to·ra·i·ku (5)",
+    "ma·ku·do·na·ru·do (6)",
+    "ko·N·pyu·u·ta·a (6)",
+    "a·i·su·ku·ri·i·mu (7)",
+    "ku·ri·su·ma·su (5)",
+    "be·e·su·bo·o·ru (6)",
+    "ha·N·ba·a·ga·a (6)",
+    "cho·ko·re·e·to (5)",
+    "e·su·ka·re·e·ta·a (7)",
+    "sa·N·do·i·Q·chi (6)",
+    "ko·o·hi·i (4)",
+    "su·pu·u·N (4)",
+    "po·ke·Q·to (4)",
+    "ta·ku·shi·i (4)",
+    "pa·N (2)"
+   ],
+   "gatedOn": [
+    "unit 2 isochrony"
+   ],
+   "unlocks": [
+    "every special-mora unit (6-15) — this corpus contains all of them at once",
+    "roughly 1,500 loanwords later acquired for free in vocabulary"
+   ],
+   "rationale": "Loanwords are the ideal week-1 corpus for a reason no textbook exploits: semantic load is zero, so 100% of attention goes to timing, AND the learner can independently predict the beat count from the English source, which makes the drill self-checking without a teacher. They also happen to contain every special mora — long vowels (koohii), geminates (poketto), moraic N (konbini), the r-tap in almost every item, ts (supootsu), and f (fooku). The reason a fluent English speaker cannot recognize 'makudonarudo' is exactly the reason they cannot count morae, so this drill diagnoses and fixes the same defect. Handle production of u-epenthesis here too, cheaply, and note it as a low-priority production item but a high-priority listening item.",
+   "estimatedTime": "Day 2, 45 min"
+  },
+  {
+   "position": 6,
+   "label": "Long vowels tier A — word-final, /o/ and /a/, largest cue",
+   "items": [
+    "e / ee",
+    "i·e / i·i·e",
+    "to·ru / to·o·ru",
+    "sa·to / sa·to·o",
+    "ko·ko / ko·o·ko·o",
+    "bi·ru / bi·i·ru",
+    "ka·do / ka·a·do",
+    "so·ko / so·o·ko"
+   ],
+   "gatedOn": [
+    "unit 2 — length is a ratio to neighbouring morae and needs a stable beat reference",
+    "unit 3 — a schwa has no measurable duration"
+   ],
+   "unlocks": [
+    "tiers B and C",
+    "roughly 8-12% of the eventual 6,000-word lexicon that carries a phonemic long vowel"
+   ],
+   "rationale": "Start where the cue is largest and the position is easiest. Low and back vowels (/a/, /o/) have the longest intrinsic durations, so the absolute difference between short and long is greatest. Word-final position is easiest because final lengthening in both languages already makes the learner attend to the last mora, and there is no following material to mask the ratio. English speakers do have durational contrast (bead/beat) but it is allophonic — it cues the voicing of the coda, not the identity of the vowel — so the cue exists in their auditory system and merely needs promoting to phonemic status. That promotion is why this tier is fast.",
+   "estimatedTime": "Day 2-3, 40 min"
+  },
+  {
+   "position": 7,
+   "label": "Long vowels tier B — word-medial, high vowels",
+   "items": [
+    "o·ba·sa·N / o·ba·a·sa·N",
+    "o·ji·sa·N / o·ji·i·sa·N",
+    "yu·ki / yu·u·ki",
+    "ku·ki / ku·u·ki",
+    "shu·ji·N / shu·u·ji·N",
+    "se·ki / se·i·ki (ei realized as ee)",
+    "he·ya / he·i·ya"
+   ],
+   "gatedOn": [
+    "unit 6 — the same contrast in the easy position must be at ceiling first"
+   ],
+   "unlocks": [
+    "tier C",
+    "the kinship vocabulary block, which is otherwise a minefield (obasan/obaasan, ojisan/ojiisan)"
+   ],
+   "rationale": "Word-medial is harder than word-final because the long mora is now flanked on both sides and the learner must compare it against neighbours rather than against silence. /i/ and /u/ are harder than /a/ and /o/ because their intrinsic durations are shortest, so the absolute difference to detect is smallest — and because /i/ and /u/ are exactly the vowels that devoice (unit 18), which will later remove the voicing cue entirely and leave only duration. Note the 'ei' spelling: in Tokyo speech seiki is se·e·ki, and the doubled-vowel notation should reflect the sound, so the card reads se·e·ki with a note.",
+   "estimatedTime": "Day 3, 40 min"
+  },
+  {
+   "position": 8,
+   "label": "Long vowels tier C — unstressed position, fast rate, adjacent to other special morae",
+   "items": [
+    "to·ki / to·o·ki",
+    "su·ji / su·u·ji",
+    "ho·shi / ho·o·shi",
+    "ki·ro·ku / ki·ro·o (nonsense contrast)",
+    "ko·o·ko·o·se·e (5) vs ko·ko·se (3)",
+    "byo·o·ki (3) vs bi·yo·ki"
+   ],
+   "gatedOn": [
+    "unit 7"
+   ],
+   "unlocks": [
+    "unit 9 rate robustness",
+    "recognition of long vowels inside multi-morpheme words, which is most of them"
+   ],
+   "rationale": "The hardest cases are where the long vowel sits in a low-prominence position and where another special mora competes for the ratio computation. This tier is where the learner discovers that they were previously succeeding by attending to overall word duration rather than to the specific mora — a strategy that collapses as soon as words get longer. Deliberately include items where BOTH members are the same total number of segments so only the beat count differs.",
+   "estimatedTime": "Day 4, 40 min"
+  },
+  {
+   "position": 9,
+   "label": "Rate and talker sweep across units 6-8",
+   "items": [
+    "every pair from units 6-8 re-run at 0.75x, 1.0x, and 1.3x native rate",
+    "six or more voices, mixed sex, mixed age",
+    "each pair inside two carrier frames: '___ desu ka' and '___ o kudasai'"
+   ],
+   "gatedOn": [
+    "units 6, 7, 8 at ceiling in the trained condition"
+   ],
+   "unlocks": [
+    "genuine transfer of the length category to unheard words and unheard speakers",
+    "safe start of shadowing (unit 22 stage 3)"
+   ],
+   "rationale": "This is not review; it is the step that converts a trained discrimination into a phonological category. Single-talker, single-rate training reliably produces near-ceiling scores that do not transfer at all — the learner has learned that talker's absolute durations. Rate variability is specifically load-bearing for length because a slow short vowel can be absolutely longer than a fast long one; forcing rate variation is what compels extraction of the ratio cue. Carrier frames matter because isolated-word length cues are exaggerated by final lengthening and phrase-final position, and connected speech removes that crutch.",
+   "estimatedTime": "Day 4, 30 min, then 10 min/day recurring for 6 weeks"
+  },
+  {
+   "position": 10,
+   "label": "Moraic N as a full beat",
+   "items": [
+    "ta·ni (2) / ta·N·i (3)",
+    "ki·ne·N (3) / ki·N·e·N (4)",
+    "se·N·e·N (4)",
+    "shi·N·bu·N (4)",
+    "ko·N·bi·ni (4)",
+    "ge·N·ki (3)",
+    "sa·N (2)",
+    "pa·N (2)",
+    "o·ne·e·sa·N (5)",
+    "a·N·pa·N (4)",
+    "a·na·i (3) / a·N·na·i (4)"
+   ],
+   "gatedOn": [
+    "unit 2 isochrony",
+    "unit 6-8 length — the learner must already accept that a beat can be carried by something other than a fresh consonant"
+   ],
+   "unlocks": [
+    "all -N-final nouns, which is a large fraction of Sino-Japanese vocabulary",
+    "unit 11 assimilation"
+   ],
+   "rationale": "Romaji's single 'n' is read by a literate English speaker as a coda consonant, the way it works in 'man' — attached to the preceding syllable, costing no time. In Japanese it is an independent mora with its own beat. The controlled pairs are tani/tan'i and kinen/kin'en, where the segments are identical and only the beat count differs; these are the only honest test. The annai/anai pair separates moraic N from a geminate nasal, which the learner will otherwise conflate. Tap the N explicitly with its own finger strike.",
+   "estimatedTime": "Day 4-5, 50 min"
+  },
+  {
+   "position": 11,
+   "label": "N assimilation — listening only, never a production drill",
+   "items": [
+    "shi·N·bu·N heard as [ʃimbuɴ]",
+    "sa·N·po heard as [sampo]",
+    "ri·N·go heard as [riŋgo]",
+    "o·N·na vs o·N·do",
+    "ho·N heard with a uvular/nasalized final"
+   ],
+   "gatedOn": [
+    "unit 10 — the beat must be secure before its variable colouring is discussed"
+   ],
+   "unlocks": [
+    "word recognition when the same morpheme surfaces with three different nasals",
+    "correct handling of the romaji 'sempai' vs 'senpai' confusion"
+   ],
+   "rationale": "Twenty minutes, listening only. The learner needs to know that one mora has several allophones so that they do not treat [ʃimbuɴ] as evidence they misheard, and so that a romaji spelling with 'n' does not make them force an alveolar [n] before /p/. Production requires no drill at all: the assimilation is coarticulatory and happens automatically once the beat is being held. Flagging it as a production target would waste week-1 attention on a free item.",
+   "estimatedTime": "Day 5, 20 min"
+  },
+  {
+   "position": 12,
+   "label": "Sokuon part 1 — fricative geminates (audible friction, the easy door)",
+   "items": [
+    "i·sho / i·Q·sho",
+    "za·shi (nonsense) / za·Q·shi",
+    "ma·su·gu (nonsense) / ma·Q·su·gu",
+    "ki·sa·te·N / ki·Q·sa·te·N",
+    "i·shu·u·ka·N (5)",
+    "re·Q·sha (3)"
+   ],
+   "gatedOn": [
+    "unit 2",
+    "unit 10 — same lesson, second special mora"
+   ],
+   "unlocks": [
+    "unit 13, the harder stop geminates"
+   ],
+   "rationale": "Deliberately inverted relative to every textbook, which starts with kitte because it is the famous example. Fricative geminates are simply a longer stretch of continuous audible friction — the cue is present, positive, and easy to attend to. Stop geminates are a beat of SILENCE, and English has no phonemic silence-length, so the learner must learn to hear an absence. Training the positive-cue version first establishes that 'this consonant is worth one extra beat' as a concept, then unit 13 transfers that concept to a case where the evidence is negative. Doing it in the textbook order costs roughly a day.",
+   "estimatedTime": "Day 5, 30 min"
+  },
+  {
+   "position": 13,
+   "label": "Sokuon part 2 — stop geminates, the beat of silence",
+   "items": [
+    "ma·ta / ma·Q·ta",
+    "i·ta / i·Q·ta",
+    "sa·ka / sa·Q·ka",
+    "ka·ko / ka·Q·ko",
+    "o·to / o·Q·to",
+    "i·so / i·Q·so",
+    "bu·ka / bu·Q·ka",
+    "shi·te / shi·Q·te",
+    "ki·pu (nonsense) / ki·Q·pu"
+   ],
+   "gatedOn": [
+    "unit 12"
+   ],
+   "unlocks": [
+    "unit 14 the three-way crown drill",
+    "the entire -te/-ta verb system, where gemination is grammatical (itta, katta, matta)"
+   ],
+   "rationale": "English bootstrap that makes this cheap: English does have cross-word gemination — 'black cat' versus a hypothetical 'bla cat', 'hot tub', 'big gun', 'unnamed'. The gesture (hold the closure, delay the release) is already in the motor inventory; what is new is that it happens word-internally and is phonemic. Give that hook explicitly, then drill. The listening failure to hunt is the learner reporting 'I didn't hear anything there' — correct, that is the cue. Tap the Q with a finger strike into the palm, silently, to make the beat physical.",
+   "estimatedTime": "Day 5-6, 50 min"
+  },
+  {
+   "position": 14,
+   "label": "The three-way crown drill — length and gemination in one frame",
+   "items": [
+    "ki·te (2) / ki·i·te (3) / ki·Q·te (3)",
+    "o·to (2) / o·Q·to (3) / o·o·to·o (4)",
+    "to·ru (2) / to·o·ru (3) / to·Q·ta (3)"
+   ],
+   "gatedOn": [
+    "units 6-9 (length) and 12-13 (gemination) each at ceiling in isolation"
+   ],
+   "unlocks": [
+    "a genuine pass/fail gate on the entire timing system",
+    "permission to start unit 22 stage 3, lag shadowing"
+   ],
+   "rationale": "kite/kiite/kitte is the canonical three-way and it is the exam, not a lesson. It requires the learner to hold two things at once: that beat 2 can be a repeated vowel or a silence, and that both cost the same amount of time. Note the asymmetry inside it — kiite and kitte are both 3 morae but differ in WHAT fills beat 2, while kite differs in HOW MANY beats there are. Learners who pass the two-way tests often fail here because they were using total word duration, not beat structure. This is the gate: below 90% on a 40-trial three-alternative test, go back to unit 2, do not proceed to vocabulary.",
+   "estimatedTime": "Day 6, 30 min"
+  },
+  {
+   "position": 15,
+   "label": "Palatal morae are ONE beat",
+   "items": [
+    "kyo·o (2) / ki·yo·o (3)",
+    "ju·u (2) / ji·yu·u (3)",
+    "byo·o·i·N (4) / bi·yo·o·i·N (5)",
+    "kya·ku (2) / ki·ya·ku (3)",
+    "ryo·ko·o (3)",
+    "sha·i·N (3)",
+    "ni·ho·N·go? → ni·ho·N·go (4)"
+   ],
+   "gatedOn": [
+    "unit 2 isochrony",
+    "units 6-8 length, since byooin stacks a palatal and a long vowel"
+   ],
+   "unlocks": [
+    "Sino-Japanese vocabulary generally, which is dense in palatalized morae",
+    "correct beat counts for most 2-kanji compounds heard as audio"
+   ],
+   "rationale": "The only place where romaji's letter count is MOST misleading: 'kyo' is three letters and reads as two syllables to an English eye, but is one beat. byooin (hospital, 4 beats) versus biyooin (beauty salon, 5 beats) is the canonical pair and both are common words. juu (ten, 2) versus jiyuu (freedom, 3) is the second. This unit is short because once isochrony and long vowels are in place the correction is a single reframe — but it must be explicit, because the learner's default reading of the notation actively teaches the error.",
+   "estimatedTime": "Day 6, 40 min"
+  },
+  {
+   "position": 16,
+   "label": "The r-tap — twenty minutes, taken early because it is free",
+   "items": [
+    "hook: the t in 'butter', 'water', 'city', 'pretty'; the d in 'ladder', 'Eddie'",
+    "medial first: a·ri·ga·to·o, sa·ku·ra, ko·re, so·re, mi·do·ri",
+    "initial last: ra·ku, ro·ku, ri·N·go, ra·i·ne·N, re·ki·shi, ryo·ko·o",
+    "discrimination vs /d/: do·ku / ro·ku, hi·do·i / hi·ro·i, da·i / ra·i"
+   ],
+   "gatedOn": [
+    "unit 3 — an English retroflex r-colours the following vowel, so vowel purity must be established first or the fix will not stick"
+   ],
+   "unlocks": [
+    "nothing downstream depends on it — this is scheduled purely on cost"
+   ],
+   "rationale": "This sits eighth in fossilization damage but is scheduled on day 6 because it costs twenty minutes: American English already contains the exact sound as the intervocalic flap. The correct instruction is 'it IS the t in water', not the common and useless 'it is between l and d', which produces neither. Order within the unit is intervocalic first (where the English flap already lives), word-initial last (where English never flaps, so it needs a scaffold — say 'a-raku' then delete the a). The /r/ versus /l/ contrast is the Japanese-learner-of-English problem and is irrelevant here; the contrast that actually needs discrimination work is /r/ versus /d/, because a Japanese tap is closer to an English /d/ than to an English /r/.",
+   "estimatedTime": "Day 6, 30 min"
+  },
+  {
+   "position": 17,
+   "label": "ts-onset, su/tsu, and the h-series allophones",
+   "items": [
+    "hook: 'cats' minus 'ca' = tsu; 'it's a' = tsua",
+    "su·na / tsu·na",
+    "su·ki / tsu·ki",
+    "su·mi / tsu·mi",
+    "su·ru / tsu·ru",
+    "tsu·ku·e, tsu·me·ta·i, tsu·na·mi (not 'soo-nami')",
+    "fu·ta·ri, fu·yu, fu·ne (bilabial, no teeth)",
+    "hi·to, hi·ru (palatal fricative)"
+   ],
+   "gatedOn": [
+    "unit 3"
+   ],
+   "unlocks": [
+    "nothing structural — this is inventory cleanup"
+   ],
+   "rationale": "English has [ts] only in codas ('cats', 'bits'), never as an onset, so the gesture exists and only its position is new — clip the coda off 'cats' and you have it. The su/tsu discrimination matters more than the production, because a learner who cannot separate them will merge suki and tsuki. fu (bilabial, no teeth) and hi (palatal fricative) get named and demonstrated but get NO drill time: neither has a phonemic contrast partner in native Japanese, so an English /f/ or /h/ substitution is audible as accent and costs zero comprehension. Naming them still matters for listening — 'hito' can sound like 'shito' to an untrained English ear, and the learner needs to not mishear it as a new word.",
+   "estimatedTime": "Day 7, 40 min"
+  },
+  {
+   "position": 18,
+   "label": "Devoiced vowels — perception only, beats strictly preserved",
+   "items": [
+    "de·su → [des] but still 2 beats",
+    "de·shi·ta → [deʃta] but still 3 beats",
+    "su·ko·shi → [skoʃi] but still 3 beats",
+    "ga·ku·se·e → [gaksee] but still 4 beats",
+    "hi·to, fu·ta·ri, ku·tsu, ta·ku·sa·N, tsu·ku·e",
+    "a·shi·ta, shi·tsu·re·e, hi·ko·o·ki, chi·ka·te·tsu",
+    "-ma·su on every verb: i·ki·ma·su, no·mi·ma·su, ta·be·ma·su"
+   ],
+   "gatedOn": [
+    "unit 2 isochrony at ceiling",
+    "unit 14 crown drill passed — this is the adversarial test of the beat grid"
+   ],
+   "unlocks": [
+    "recognition of essentially all polite-form speech, which is where the learner will spend their first year",
+    "the single largest listening unlock in the pre-vocabulary phase"
+   ],
+   "rationale": "The rule: /i/ and /u/ devoice between voiceless consonants and word-finally after a voiceless consonant, and devoicing is blocked when that mora carries the accent. This is enormous for listening — a learner expecting 'de-su' will not recognize [des], and -masu is on every polite verb they will hear. It is placed near the END of the perceptual block on purpose, for a reason nearly every course gets backwards: devoicing removes VOICING, not TIME. Taught on day 1 as the tip 'desu is pronounced des', the learner deletes the mora as well, and their rhythm never recovers — the beat grid must be automatic first so that it survives the loss of the acoustic cue. Production of devoicing is not trained at all in the pre-vocabulary block; a fully voiced 'desu' is merely careful-sounding, whereas a one-mora 'des' is wrong.",
+   "estimatedTime": "Day 7-8, 45 min, then permanent listening emphasis"
+  },
+  {
+   "position": 19,
+   "label": "Pitch accent — the system, the two invariants, and the particle frame",
+   "items": [
+    "atamadaka [1]: a·me (rain) HL, ha·shi (chopsticks) HL, ka·ki (oyster) HL, i·no·chi HLL, de·N·ki HLL",
+    "heiban [0]: ha·na (nose) LH→LHH on particle, ka·ki (persimmon), sa·ku·ra LHH, to·mo·da·chi LHHH",
+    "nakadaka [2]: a·na·ta LHL, a·ri·ga·to·o LHLLL, ta·ma·go LHL",
+    "odaka [final]: ha·na (flower) LH→LHL on particle, ha·shi (bridge) LH→LHL, o·to·ko LHH→LHHL",
+    "the particle test: hana-ga LHH (nose) vs hana-ga LHL (flower); hashi-ga HLL / LHL / LHH"
+   ],
+   "gatedOn": [
+    "unit 4 pitch-is-not-stress — without decoupling, every pattern is heard and produced as emphasis",
+    "units 2-3 — pitch patterns are defined over morae, so the beat grid must exist"
+   ],
+   "unlocks": [
+    "the card format for all 6,000 vocabulary items",
+    "word-boundary detection in continuous speech",
+    "unit 21 rule-based accent"
+   ],
+   "rationale": "Two invariants make the whole system learnable in one sitting rather than as 6,000 arbitrary facts. (a) Pitch drops at most once per word — after the fall it does not rise again inside the accentual phrase. (b) Morae 1 and 2 always differ — high-then-low means atamadaka, low-then-high means everything else. Together these reduce an n-mora word to one integer: where the drop is, or zero if there is none. The critical operational consequence, and the reason this must be week 1 and not week 20: heiban [0] and odaka [final] are acoustically IDENTICAL on the isolated word and differ only on the following particle. So every audio token in the SRS must be recorded as 'X ga', from item #1. Retrofitting that at word 3,000 means re-recording and re-encoding the entire deck.",
+   "estimatedTime": "Day 8, 75 min"
+  },
+  {
+   "position": 20,
+   "label": "Pitch minimal pairs and the heiban default",
+   "items": [
+    "ha·shi [1] chopsticks / [2] bridge / [0] edge",
+    "a·me [1] rain / [0] candy",
+    "ka·mi [1] god / [2] paper",
+    "ka·e·ru [1] to go home / [0] frog",
+    "ka·ki [1] oyster / [0] persimmon",
+    "ha·na [0] nose / [2] flower"
+   ],
+   "gatedOn": [
+    "unit 19"
+   ],
+   "unlocks": [
+    "the decision to store accent per-noun rather than derive it",
+    "confidence that pitch is doing real work, which sustains the effort"
+   ],
+   "rationale": "For an audio-first learner with no kanji, pitch is doing the disambiguation job that orthography does for a reading learner — this set is the demonstration, and it should be run early precisely because it is motivating. Two operational facts fall out. First, roughly half of short Japanese nouns are heiban, so heiban is the correct unmarked default and only the accented minority needs explicit storage; the card format should therefore be 'accent number, defaulting to 0'. Second, three of these six pairs are only distinguishable with a following particle, which re-confirms the 'X ga' recording rule from unit 19.",
+   "estimatedTime": "Day 8, 45 min"
+  },
+  {
+   "position": 21,
+   "label": "Accent by rule — verbs, adjectives, loanwords",
+   "items": [
+    "verbs, two classes only. accented: ta·be·ru [2], no·mu [1], mi·ru [1], ku·ru [1], ka·e·ru [1], wa·ka·ru [2], a·ru·ku [2], ka·ku [1], yo·mu [1]",
+    "unaccented: i·ku [0], su·ru [0], a·so·bu [0], ka·u [0], i·u [0], a·u [0], tsu·ka·u [0]",
+    "i-adjectives, accented: ta·ka·i [2], sa·mu·i [2], a·tsu·i [2], o·o·ki·i [3]; unaccented: a·ka·i [0], a·ma·i [0], ka·ru·i [0]",
+    "-masu is uniformly accented on 'ma': ta·be·ma·su [3], i·ki·ma·su [3], no·mi·ma·su [3]",
+    "loanword default [-3]: ko·N·pyu·u·ta·a [3], cho·ko·re·e·to [3]"
+   ],
+   "gatedOn": [
+    "unit 19"
+   ],
+   "unlocks": [
+    "removal of accent from roughly half the eventual card load",
+    "correct prosody on conjugated forms without memorizing each one"
+   ],
+   "rationale": "The single most important budgeting fact about pitch: verbs and adjectives are a two-way class system with rules, while nouns are lexical. Accented verbs take the drop on the penultimate mora, shifting one left if that mora is a special mora — which is exactly why ka·e·ru is [1] not [2] (the penult 'e' is a vowel-mora) and ha·i·ru is [1]. All -masu forms are accented on 'ma', without exception. Loanwords default to the antepenultimate mora, shifting off special morae, which is why konpyuutaa is [3]. So explicit accent memory should be spent almost entirely on nouns; verbs and adjectives cost two class labels and three rules. Introduce at day 8, complete in week 3 when conjugation starts.",
+   "estimatedTime": "Day 8 intro 30 min; full pass week 3, 60 min"
+  },
+  {
+   "position": 22,
+   "label": "The shadowing ladder — echo, chorus, lag, content",
+   "items": [
+    "stage 1 echo (day 1): hear, 1-second gap, reproduce, tapping beats; 1-3 mora units and loanwords",
+    "stage 2 chorus (day 4): speak in unison with audio already heard 5+ times",
+    "stage 3 lag shadow (day 9): ~0.5s behind, only on material the learner can beat-count correctly",
+    "stage 4 content shadow (week 4): unfamiliar sentences at native rate"
+   ],
+   "gatedOn": [
+    "stage 3 gated on unit 14 (crown drill) passing",
+    "stage 4 gated on unit 18 (devoicing) and week-3 grammar giving enough parse to follow"
+   ],
+   "unlocks": [
+    "consolidation of everything in units 2-21 at high repetition",
+    "the main engine of production fluency from week 4 onward"
+   ],
+   "rationale": "Committed position: echo from day 1, true simultaneous shadowing NOT before day 9. Shadowing is a high-repetition motor drill that reproduces from whatever categories currently exist; run it before the categories exist and it installs stress-timed, schwa-reduced Japanese with excellent fidelity to the error, at hundreds of reps per session. The rule that makes the ladder safe: never shadow material you cannot already beat-count. That single constraint prevents shadowing from ever outrunning perception.",
+   "estimatedTime": "Day 1 onward, 15-30 min/day, rising to 30-45 min/day from week 4"
+  },
+  {
+   "position": 23,
+   "label": "Sentence-final intonation and particle contours",
+   "items": [
+    "ka-question: rise confined to the final mora, shallower than English",
+    "no-ka yes/no question by final rise alone: 'iku?' 'wakaru?'",
+    "ne falling (seeking agreement) vs ne rising (checking)",
+    "yo (assertion, falling), yo ne (compound)",
+    "the '-N desu' explanatory contour",
+    "wa topic contour: slight rise-and-hold, then reset"
+   ],
+   "gatedOn": [
+    "unit 19 — lexical accent must be established first or the learner will explain accent minimal pairs as 'question intonation' or 'emphasis'",
+    "sentences existing at all, i.e. week 3"
+   ],
+   "unlocks": [
+    "pragmatic competence — the difference between sounding foreign and sounding rude",
+    "hearing questions that carry no ka"
+   ],
+   "rationale": "Deliberately late: phrase-level intonation does not corrupt lexical storage, so its fossilization cost is bounded and it can be fixed at any point. But it must come AFTER lexical accent, never before or simultaneously — learners who meet intonation first acquire a single 'Japanese pitch goes up and down' concept and can no longer separate the two systems. The specific English interference to name: English spreads a question rise over the last two or three syllables as a long glide; Japanese confines it to the final mora. And English pitch excursions for emphasis, transplanted into Japanese, read as emotional rather than emphatic.",
+   "estimatedTime": "Week 3-4, 3 x 30 min"
+  },
+  {
+   "position": 24,
+   "label": "Accentual phrase — downstep, deaccenting, compound accent",
+   "items": [
+    "one drop per accentual phrase: particles absorb into the preceding word's contour",
+    "heiban word + ga stays high; odaka word + ga drops on the particle",
+    "compound deaccenting: To·o·kyo·o da·i·ga·ku, ni·ho·N·go",
+    "modifier + noun forming one phrase with a single drop"
+   ],
+   "gatedOn": [
+    "units 19-21",
+    "roughly 500-800 words, so there is material to combine"
+   ],
+   "unlocks": [
+    "segmentation of continuous speech — every pitch RISE marks a new phrase",
+    "the listening payoff that justifies the whole pitch investment"
+   ],
+   "rationale": "This is where pitch stops being a pronunciation nicety and becomes a parser. Because pitch drops at most once per accentual phrase, an upward reset is positive evidence that a new phrase has begun — free word-boundary information in an audio stream with no spaces. For a listening-first learner this is the actual return on the week-1 pitch investment, and it should be framed that way. Placed at week 6-8 because it requires enough stored lexical accents to have something to combine.",
+   "estimatedTime": "Weeks 6-8, 4 x 30 min"
+  },
+  {
+   "position": 25,
+   "label": "Perceptual re-audit at weeks 4, 8, and 12",
+   "items": [
+    "re-test all minimal pair sets from units 6-20 with entirely new talkers and new carrier frames",
+    "re-run the unit 14 crown drill as a hard gate",
+    "spot-check accent recall on 50 random stored nouns using the ga-frame"
+   ],
+   "gatedOn": [
+    "completion of the day 1-8 block"
+   ],
+   "unlocks": [
+    "early detection of drift before it contaminates the next 1,000 words"
+   ],
+   "rationale": "Discrimination gains decay under the load of vocabulary acquisition, and the decay is silent — the learner's confidence does not fall with their accuracy. New talkers are essential because re-testing on trained voices measures memory, not category. A failed re-audit costs one day of retraining; an undetected failure costs the re-encoding of every word acquired since. The audit also catches the most common late failure mode, which is the beat grid quietly collapsing under devoicing as speech rate rises.",
+   "estimatedTime": "45 min at week 4, 8, 12; then quarterly"
+  }
+ ],
+ "decisions": [
+  {
+   "question": "How long is the pre-vocabulary phase — 3 days, 8 days, or 2-3 weeks of ear-only work?",
+   "chosen": "A hard 8-day block, roughly 12-14 hours total at 1.5-2 h/day, with zero vocabulary acquisition during it — followed by a 15-minute-per-day perceptual tax that continues through week 12.",
+   "rejected": "Three days (too short: length, geminate, and pitch each need multiple spaced sessions to consolidate, and cramming them into one day produces trained-condition ceiling with no transfer). Two to three weeks ear-only (too long: discrimination training saturates fast — most of the achievable gain arrives within 8-12 sessions of 20-40 minutes, and beyond that the remaining gains come from hearing real words in real contexts, which requires vocabulary). Fully interleaved from day 1 (rejected as an excuse to skip the block).",
+   "why": "The curve is steep then flat. With zero vocabulary there is no semantic anchor, so pure discrimination hits diminishing returns quickly; the right move is to spend just enough to install the CATEGORIES, then let vocabulary supply the EXEMPLARS under a small ongoing maintenance cost. Eight days also happens to be the minimum that allows each contrast two spaced sessions.",
+   "costOfBeingWrong": "If 8 days is too short, the week-4 re-audit catches it at a cost of one or two extra days. If too long, the learner has lost roughly 4-6 days of vocabulary acquisition out of a multi-year project — under 1% of total time. The asymmetry strongly favours erring long, which is why 8 rather than 5."
+  },
+  {
+   "question": "Where does pitch accent enter — week 1 as a system, after ~500 words, or absorbed passively and never taught explicitly?",
+   "chosen": "Week 1, but a deliberately restricted version: the two invariants, the four patterns, 2-mora discrimination in the ga-frame, and the card-format decision. Full accent competence is then acquired per-lexeme with each word, forever.",
+   "rejected": "After 500 words. Never explicitly.",
+   "why": "Accent is a lexical property, so encoding it at first exposure is nearly free while retrofitting is a second full pass over the lexicon — at 500 words that is already a real cost, and the deck's audio would have to be re-recorded because heiban and odaka are indistinguishable without a following particle. The 'never explicitly' option is how children do it, on 10,000+ hours; an adult at 1-2 h/day does not have that budget, and this learner specifically has no orthography, so pitch is carrying disambiguation work that kanji would otherwise carry (hashi, ame, kami, kaeru, kaki, hana). Week 1 also has a hard technical dependency: the ga-frame recording convention must be set before the first card is generated.",
+   "costOfBeingWrong": "If week 1 is too early, the learner spends about 2 hours on a system they underuse for a month — recoverable. If it is too late, every noun acquired before it needs re-encoding, and there is good reason to think adult accent errors, once consolidated, are among the most persistent L2 errors of all."
+  },
+  {
+   "question": "Does shadowing start on day 1 or after the perceptual categories exist?",
+   "chosen": "Echo repetition (hear, pause, reproduce) from day 1; true simultaneous lag shadowing from day 9, gated on passing the kite/kiite/kitte three-way test.",
+   "rejected": "Simultaneous shadowing from day 1, the standard recommendation in shadowing-centric methods.",
+   "why": "Shadowing at a short lag leaves no time for perceptual analysis — the learner reproduces from whatever categories they hold. With English categories in place, a day-1 shadowing habit is a high-fidelity, high-repetition drill in stress-timing, schwa reduction, and retroflex r. Echo with a gap is safe because the gap permits analysis and beat-tapping. The operational rule 'never shadow what you cannot beat-count' keeps production from ever outrunning perception.",
+   "costOfBeingWrong": "Delaying to day 9 costs eight days of shadowing reps. Starting on day 1 risks weeks of high-volume error rehearsal, which is precisely the fossilization mechanism this whole dimension exists to prevent. Massively asymmetric."
+  },
+  {
+   "question": "Should mora isochrony be trained on all-CV words first, or immediately on length minimal pairs like obasan/obaasan?",
+   "chosen": "Two full sessions of isochrony on words containing NO special morae (neko, tamago, kudamono, tomodachi) before any length contrast is presented.",
+   "rejected": "Starting with obasan/obaasan on day 1, which is what almost every pronunciation guide does.",
+   "why": "Length is a ratio judgment: the long mora is long relative to its neighbours. If the neighbours are themselves being compressed and schwa-reduced by English stress-timing, the denominator is unstable and the contrast is not learnable. Fixing the grid first makes the length contrast fall out; doing it in the other order produces a learner who can pass a two-alternative test by attending to total word duration and then fails the moment words get longer.",
+   "costOfBeingWrong": "Two days of apparent delay before touching the famous minimal pairs. If wrong, nothing is lost — the isochrony work is required regardless. There is no scenario where a stable beat grid is unhelpful."
+  },
+  {
+   "question": "Within gemination, train stop geminates (kitte) first or fricative geminates (issho) first?",
+   "chosen": "Fricative geminates first (issho, zasshi, massugu, kissaten), then stop geminates (kitte, matta, itta, sakka).",
+   "rejected": "The universal textbook order, which leads with kitte because it is the famous example.",
+   "why": "A fricative geminate is a longer stretch of audible friction — a positive acoustic cue the learner can attend to directly. A stop geminate is a beat of SILENCE, and English has no phonemic silence-length, so the learner must learn to detect an absence. Establishing 'this consonant is worth an extra beat' on the positive-cue case and then transferring it to the negative-cue case is strictly easier than the reverse.",
+   "costOfBeingWrong": "Roughly half a day either way. Small stakes, but it is free to get right, and the wrong order produces a demoralizing day-5 wall on the most famous drill in the language."
+  },
+  {
+   "question": "Should devoiced vowels be taught early as a pronunciation tip ('desu is really des') or late as a listening phenomenon?",
+   "chosen": "Day 7-8, framed strictly as a perception fact with the beat explicitly preserved, and with no production drill at all in the pre-vocabulary block.",
+   "rejected": "Day 1 pronunciation tip, the near-universal textbook approach.",
+   "why": "Devoicing removes voicing, not time. Told on day 1 that 'desu is pronounced des', an English speaker deletes the mora as well — because their native grammar has no way to represent a beat with no voiced nucleus — and the rhythm never recovers. Placed after the beat grid is automatic, the learner can lose the acoustic cue without losing the beat. A fully voiced 'desu' merely sounds careful; a one-mora 'des' is wrong.",
+   "costOfBeingWrong": "Seven days of slightly poorer recognition of polite-form audio, easily absorbed since no vocabulary is being acquired in that window. The reverse error damages the highest-cost item in the entire ranking."
+  },
+  {
+   "question": "Is the r-tap a week-1 item, given it ranks only eighth in fossilization damage?",
+   "chosen": "Yes, day 6, 30 minutes.",
+   "rejected": "Deferring it to week 3-4 in line with its damage ranking.",
+   "why": "The scheduling rule is (damage x cost-to-fix), plus a separate override for anything essentially free. American English already contains the exact sound as the intervocalic flap in 'butter' and 'ladder', so the fix is a relabelling exercise rather than new motor learning. Thirty minutes buys the entire item. There is also a secondary reason to be early: an English retroflex r r-colours the following vowel, so leaving it in place quietly undermines the vowel-purity work from unit 3.",
+   "costOfBeingWrong": "Thirty minutes of week-1 time. Negligible."
+  },
+  {
+   "question": "Native words or loanwords as the week-1 timing corpus?",
+   "chosen": "Loanwords plus nonsense CV strings, with essentially no native vocabulary.",
+   "rejected": "Common native words (konnichiwa, arigatoo, sumimasen) as the training corpus.",
+   "why": "Loanwords carry zero semantic load, so all attention goes to timing, AND the learner can independently predict the mora count from the English source, making the drill self-checking without a teacher. They also happen to concentrate every special mora at once — long vowels (koohii), geminates (poketto), moraic N (konbini), the tap in nearly every item. The accepted risk is that loanwords have somewhat irregular accent and some marginal morae (fa, di, tsa, che); this is acceptable because unit 21 teaches the loanword accent default and no accent is being stored yet.",
+   "costOfBeingWrong": "The learner ends week 1 without having 'learned any real Japanese', which is a motivation cost rather than a linguistic one. Mitigate by pointing out that roughly 1,500 loanwords are being pre-loaded for free."
+  },
+  {
+   "question": "Tokyo-standard pitch accent, or accent-neutral training given that a large share of Japan does not use the Tokyo system?",
+   "chosen": "Tokyo standard, exclusively and without hedging.",
+   "rejected": "Teaching pitch as 'dialect-dependent, therefore optional' or trying to stay neutral.",
+   "why": "Tokyo accent is what essentially all TTS, all commercial audio, all broadcast, and most media the learner will consume actually uses — so it is the system their input stream will train them on regardless. A learner without a committed target has no way to store accent at all, and 'it varies by region' functions in practice as permission to store nothing. Regional variation is a week-40 curiosity, not a week-1 constraint.",
+   "costOfBeingWrong": "If the learner later lives in Kansai, they have a mild accent and a small adjustment period. Trivial next to storing 6,000 words with no accent information."
+  },
+  {
+   "question": "Train minimal pairs on isolated words only, or in carrier frames as well?",
+   "chosen": "Isolated for the first exposure to each contrast, then carrier-framed ('___ desu ka', '___ o kudasai') from day 3 onward, and always at three speaking rates across six or more voices.",
+   "rejected": "Isolated-word training only, the format of every minimal-pair app.",
+   "why": "Isolated words carry exaggerated final lengthening and phrase-final prominence, which act as crutches; a learner at ceiling on isolated pairs frequently scores near chance on the same contrast in connected speech. And because length is rate-relative, single-rate training teaches an absolute duration threshold that fails immediately outside the training tempo.",
+   "costOfBeingWrong": "Slightly slower apparent progress in week 1 because scores are lower in the harder condition. If skipped, the learner reaches day 8 with excellent test scores and no transferable category — the worst possible outcome, since it is invisible."
+  },
+  {
+   "question": "Should the internal notation use a distinct symbol for the moraic nasal and the sokuon, or stick to conventional Hepburn?",
+   "chosen": "A slotted notation used on card backs only: dot-separated beats, doubled long vowels, capital N for the moraic nasal, capital Q for the sokuon, digraphs kept inside one slot, devoiced vowels parenthesized, accent number and H/L string appended — plus an integer beat count on every item.",
+   "rejected": "Standard Hepburn with macrons; or conventional romaji with an apostrophe only where ambiguous.",
+   "why": "Conventional romaji is optimized for a reader who already knows Japanese phonology; for a naive English reader, every one of its conventions encodes the exact error we are trying to prevent. Since this learner never reads for comprehension, romaji appears only on the answer side of a card, so the notation cost is bounded and there is no reason to keep a convention designed for a different purpose. The beat count being an explicit, testable integer is the load-bearing part.",
+   "costOfBeingWrong": "The notation does not match published materials, which matters slightly if the learner later starts reading. Given that reading is deferred indefinitely and kana would supersede this notation anyway, the cost is close to zero."
+  }
+ ],
+ "mistakes": [
+  {
+   "mistake": "Treating the kana chart as the phonology course — 'learn hiragana, now you can pronounce Japanese'.",
+   "whoMakesIt": "Genki, Minna no Nihongo, Duolingo, essentially every mainstream course.",
+   "cost": "The learner acquires the segment inventory and nothing about timing. Kana actually encodes morae rather well — the small tsu, the n, and the small ya/yu/yo are all mora-level devices — but it is presented as 'the alphabet', so the mora never gets named. An audio-first learner who skips kana entirely therefore receives no phonology instruction at all, since the only place it was hiding was inside a writing lesson.",
+   "fix": "Teach the mora directly as a timing unit, with physical tapping, on words containing no special morae, before any writing system or any vocabulary. Make the beat count an explicit integer on every item forever."
+  },
+  {
+   "mistake": "Introducing vocabulary before the beat grid exists — 'here are your first 100 words, and by the way Japanese has long vowels'.",
+   "whoMakesIt": "Every course, without exception.",
+   "cost": "Every word learned in the first weeks is stored with an English syllabic template and has to be re-encoded later. Worse, the SRS then rehearses those wrong templates hundreds of times, which is exactly the consolidation mechanism that makes fossilization expensive.",
+   "fix": "A hard 8-day block with zero vocabulary. It feels like a delay and it is not: at 1-2 h/day toward 6,000 words, 8 days is under 1% of the project, and it protects the other 99%."
+  },
+  {
+   "mistake": "Teaching devoicing on day 1 as the tip 'desu is pronounced des, masu is pronounced mas'.",
+   "whoMakesIt": "Almost every beginner course and pronunciation video, usually in week 1 as a 'sounds more natural' shortcut.",
+   "cost": "The learner deletes the mora, not just the voicing, because English has no representation for a beat with no voiced nucleus. Since -masu appears on every polite verb, this single tip mis-times a large fraction of everything they will ever say, and it undermines mora timing at exactly the moment it is most fragile.",
+   "fix": "Move devoicing to day 7-8, after the crown drill has been passed, and frame it as a perception fact with the beat explicitly preserved: de·s(u), 2 beats. Do not train devoiced production during the pre-vocabulary block at all."
+  },
+  {
+   "mistake": "Deferring pitch accent — 'it's not that important, you'll pick it up from immersion, context will disambiguate'.",
+   "whoMakesIt": "The overwhelming majority of teachers, textbooks, and popular advice; also many advanced learners who never acquired it and rationalize the gap.",
+   "cost": "For an audio-first learner it is the worst possible advice, because pitch is doing the disambiguation work that kanji does for a reading learner. And accent is stored per-lexeme, so fixing it at word 3,000 means touching 3,000 items plus re-recording audio, since heiban and odaka are indistinguishable without a following particle. The remediation cost is on the order of tens of hours; the encoding cost at first exposure is zero.",
+   "fix": "Week 1: two invariants, four patterns, the ga-frame recording convention, and an accent number on every card defaulting to 0. Do not attempt production perfectionism — let production lag perception by months."
+  },
+  {
+   "mistake": "Describing the Japanese r as 'something between an l and a d', or as 'a rolled r'.",
+   "whoMakesIt": "Nearly universal in teaching materials and in learner folk wisdom.",
+   "cost": "A description that specifies a target between two categories produces neither, and 'rolled' produces a trill, which is wrong in a different direction. The learner then spends months on an item that could have been fixed in twenty minutes, or gives up and uses an English retroflex, which additionally r-colours the following vowel and corrupts the whole mora.",
+   "fix": "'It IS the t in water, the d in ladder.' The sound is already in American English as the intervocalic flap. Drill intervocalic first (arigatoo, sakura, kore), then word-initial with a vowel scaffold (a-raku → raku). Discriminate against /d/, not against /l/ — the /r/-/l/ contrast is the mirror-image problem and is irrelevant here."
+  },
+  {
+   "mistake": "Starting simultaneous shadowing on day 1 as the central method.",
+   "whoMakesIt": "Shadowing-first methodologies and a large share of the self-study community.",
+   "cost": "Shadowing at a short lag reproduces from existing categories. Before Japanese categories exist, this is hundreds of daily repetitions of stress-timed, schwa-reduced, retroflex Japanese, rehearsed with high fidelity and consolidated by sheer volume. It is the single fastest way to fossilize, and it feels productive the entire time.",
+   "fix": "Echo with a pause from day 1, chorusing from day 4, lag shadowing from day 9 gated on the kite/kiite/kitte three-way test. Standing rule: never shadow material you cannot already beat-count."
+  },
+  {
+   "mistake": "Training minimal pairs with one talker at one speaking rate, then declaring the contrast acquired.",
+   "whoMakesIt": "Every minimal-pair app; also most self-built Anki decks, which typically use a single TTS voice at default speed.",
+   "cost": "Scores go to ceiling and transfer is close to zero — the learner has learned that voice's absolute durations, not the contrast. Because the test scores look excellent, the failure is invisible until real speech is attempted months later. This is especially severe for length, which is a rate-relative cue.",
+   "fix": "Six or more voices of mixed sex, three speaking rates (0.75x / 1.0x / 1.3x), isolated and in two carrier frames. Given TTS generation at scale, this costs nothing but a loop in the generation script — and it is the difference between a trained response and a phonological category."
+  },
+  {
+   "mistake": "Writing long vowels as a macron (ō) or as 'ou', and writing the moraic nasal as a bare 'n'.",
+   "whoMakesIt": "Hepburn convention itself, and therefore every romanized resource.",
+   "cost": "Both notations actively teach the error. A macron reads to an English eye as a quality marker, not two beats; 'ou' reads as a diphthong. A bare 'n' reads as an English coda consonant costing no time, so shinbun looks like two syllables when it is four morae. The literate adult's grapheme-to-phoneme conversion is automatic and uninhibitable, so merely knowing better does not help.",
+   "fix": "Doubled vowels always, capital N in its own slot, capital Q in its own slot, dot-separated beats, and an explicit integer beat count: shi·N·bu·N (4), ga·Q·ko·o (4), to·o·kyo·o (4). And the absolute rule that romaji is never read aloud — every utterance is an echo of audio."
+  },
+  {
+   "mistake": "Teaching sentence intonation before, or simultaneously with, lexical pitch accent.",
+   "whoMakesIt": "Courses that cover 'Japanese intonation' as one chapter, treating accent and question-rise as a single topic.",
+   "cost": "The learner forms one undifferentiated concept — 'Japanese pitch goes up and down' — and thereafter explains accent minimal pairs as emphasis or as question intonation. Once the two systems are conflated, separating them requires unlearning the concept, not just adding information.",
+   "fix": "Lexical accent in week 1 (units 19-21), sentence-final intonation not before week 3, and phrase-level downstep at week 6-8. Name explicitly that these are three different systems operating on the same acoustic dimension."
+  },
+  {
+   "mistake": "Framing pitch accent as a production goal — 'so you sound native' — rather than as a listening tool.",
+   "whoMakesIt": "Almost everyone who does teach pitch, including the pitch-accent advocacy corner of the learner community.",
+   "cost": "Two failures. First, the framing makes pitch look optional to a learner whose goal is comprehension, so they skip it. Second, it sets a production standard that is discouragingly hard, causing dropout. It also buries the actual payoff: because pitch drops at most once per accentual phrase and morae 1 and 2 always differ, every upward reset marks a phrase boundary — free word segmentation in a stream with no spaces.",
+   "fix": "Sell pitch as a parser. Train perception hard, allow production to lag by months, and make unit 24 (phrase-level downstep as a boundary cue) an explicit milestone so the payoff is visible."
+  },
+  {
+   "mistake": "Spending week-1 attention on fu, tsu, hi, and the unrounded u as articulation drills.",
+   "whoMakesIt": "Pronunciation-focused courses and audio methods that lead with the 'sounds English doesn't have' framing.",
+   "cost": "These are the most conspicuous differences and therefore the most tempting, but fu and hi have no contrast partner in native Japanese — substituting English /f/ and /h/ costs zero comprehension and reads only as mild accent. Every minute spent there is a minute not spent on isochrony, which corrupts the lexicon. Attention in week 1 is the scarcest resource in the entire project.",
+   "fix": "Name fu and hi in one 10-minute segment for LISTENING purposes only (hito can sound like shito to an untrained ear), give tsu the 'cats minus ca' hook plus a su/tsu discrimination set, and spend the recovered time on beats, vowel purity, and length."
+  },
+  {
+   "mistake": "Assuming the learner will notice their own perceptual drift, so no re-testing is scheduled.",
+   "whoMakesIt": "Essentially all self-study plans, including well-designed ones.",
+   "cost": "Discrimination gains decay under vocabulary load, and the decay is silent — subjective confidence does not track accuracy. A learner can spend six weeks acquiring 800 words through a quietly degraded length category and only discover it when a native speaker misunderstands them. The remediation then covers 800 items instead of zero.",
+   "fix": "Scheduled re-audits at weeks 4, 8, and 12, always with unheard talkers and unheard carrier frames — re-testing on trained voices measures memory, not category. Re-run the kite/kiite/kitte three-way as a hard pass/fail gate each time."
+  }
+ ]
+}

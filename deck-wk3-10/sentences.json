@@ -1,0 +1,6383 @@
+[
+ {
+  "n": 1,
+  "romaji": "aa, soo soo.",
+  "gloss": "Ah, right right.",
+  "newElement": "soo",
+  "usesPrior": [
+   "aa"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "ああ、そうそう。"
+ },
+ {
+  "n": 2,
+  "romaji": "hee, soo desu ka.",
+  "gloss": "Huh, is that so.",
+  "newElement": "soo desu ka",
+  "usesPrior": [
+   "hee",
+   "soo"
+  ],
+  "cardType": "RECOG",
+  "block": "wk3-4",
+  "kana": "へえ、そうですか。"
+ },
+ {
+  "n": 3,
+  "romaji": "aa, naruhodo.",
+  "gloss": "Ah, that makes sense.",
+  "newElement": "naruhodo",
+  "usesPrior": [
+   "aa"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "ああ、なるほど。"
+ },
+ {
+  "n": 4,
+  "romaji": "aa, sokka.",
+  "gloss": "Oh, I see.",
+  "newElement": "sokka",
+  "usesPrior": [
+   "aa"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "ああ、そっか。"
+ },
+ {
+  "n": 5,
+  "romaji": "hee, honto?",
+  "gloss": "Huh, really?",
+  "newElement": "honto",
+  "usesPrior": [
+   "hee"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "へえ、ほんと？"
+ },
+ {
+  "n": 6,
+  "romaji": "un, majide.",
+  "gloss": "Yeah, seriously.",
+  "newElement": "majide",
+  "usesPrior": [
+   "un"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "うん、まじで。"
+ },
+ {
+  "n": 7,
+  "romaji": "aa, tashika ni.",
+  "gloss": "Ah, fair point.",
+  "newElement": "tashika ni",
+  "usesPrior": [
+   "aa"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "ああ、たしかに。"
+ },
+ {
+  "n": 8,
+  "romaji": "aa, yappari.",
+  "gloss": "Ah, knew it.",
+  "newElement": "yappari",
+  "usesPrior": [
+   "aa"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "ああ、やっぱり。"
+ },
+ {
+  "n": 9,
+  "romaji": "nanka... uun.",
+  "gloss": "It's kinda... nah.",
+  "newElement": "nanka",
+  "usesPrior": [
+   "uun"
+  ],
+  "cardType": "RECOG",
+  "block": "wk3-4",
+  "kana": "なんか…ううん。"
+ },
+ {
+  "n": 10,
+  "romaji": "eeto, nanka...",
+  "gloss": "Um, like...",
+  "newElement": "eeto",
+  "usesPrior": [
+   "nanka"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "ええと、なんか…"
+ },
+ {
+  "n": 11,
+  "romaji": "ano, eeto...",
+  "gloss": "Uh, um...",
+  "newElement": "ano (filler)",
+  "usesPrior": [
+   "eeto"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "あの、ええと…"
+ },
+ {
+  "n": 12,
+  "romaji": "ano, chotto...",
+  "gloss": "Uh, that's a bit... (= no)",
+  "newElement": "chotto",
+  "usesPrior": [
+   "ano"
+  ],
+  "cardType": "PROD",
+  "note": "Teach the refusal reading: a trailing chotto is a no.",
+  "block": "wk3-4",
+  "kana": "あの、ちょっと…"
+ },
+ {
+  "n": 13,
+  "romaji": "maa, soo desu ka.",
+  "gloss": "Well, is that so.",
+  "newElement": "maa",
+  "usesPrior": [
+   "soo desu ka"
+  ],
+  "cardType": "RECOG",
+  "block": "wk3-4",
+  "kana": "まあ、そうですか。"
+ },
+ {
+  "n": 14,
+  "romaji": "aa, arigatoo.",
+  "gloss": "Ah, thanks.",
+  "newElement": "arigatoo",
+  "usesPrior": [
+   "aa"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "ああ、ありがとう。"
+ },
+ {
+  "n": 15,
+  "romaji": "ano, chotto sumimasen.",
+  "gloss": "Uh, excuse me a second.",
+  "newElement": "sumimasen",
+  "usesPrior": [
+   "ano",
+   "chotto"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "あの、ちょっとすみません。"
+ },
+ {
+  "n": 16,
+  "romaji": "aa, gomen gomen.",
+  "gloss": "Ah, sorry sorry.",
+  "newElement": "gomen",
+  "usesPrior": [
+   "aa"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "ああ、ごめんごめん。"
+ },
+ {
+  "n": 17,
+  "romaji": "ohayoo. — aa, ohayoo.",
+  "gloss": "Morning. — Ah, morning.",
+  "newElement": "ohayoo",
+  "usesPrior": [
+   "aa"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "おはよう。—ああ、おはよう。"
+ },
+ {
+  "n": 18,
+  "romaji": "aa, konnichiwa.",
+  "gloss": "Oh, hello.",
+  "newElement": "konnichiwa",
+  "usesPrior": [
+   "aa"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "ああ、こんにちわ。"
+ },
+ {
+  "n": 19,
+  "romaji": "konbanwa. — aa, konbanwa.",
+  "gloss": "Evening. — Ah, evening.",
+  "newElement": "konbanwa",
+  "usesPrior": [
+   "aa"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "こんばんわ。—ああ、こんばんわ。"
+ },
+ {
+  "n": 20,
+  "romaji": "jaa, oyasumi.",
+  "gloss": "Well then, night.",
+  "newElement": "oyasumi",
+  "usesPrior": [],
+  "cardType": "PROD",
+  "note": "jaa arrives here only as part of the oyasumi frame; it is carded properly on the next sentence as jaa ne.",
+  "block": "wk3-4",
+  "kana": "じゃあ、おやすみ。"
+ },
+ {
+  "n": 21,
+  "romaji": "jaa ne, oyasumi.",
+  "gloss": "See ya, night.",
+  "newElement": "jaa ne",
+  "usesPrior": [
+   "oyasumi"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "じゃあね、おやすみ。"
+ },
+ {
+  "n": 22,
+  "romaji": "jaa ne. — un, mata ne.",
+  "gloss": "See ya. — Yeah, later.",
+  "newElement": "mata ne",
+  "usesPrior": [
+   "jaa ne",
+   "un"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "じゃあね。—うん、またね。"
+ },
+ {
+  "n": 23,
+  "romaji": "itadakimasu.",
+  "gloss": "(said before eating)",
+  "newElement": "itadakimasu",
+  "usesPrior": [],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "いただきます。"
+ },
+ {
+  "n": 24,
+  "romaji": "aa, gochisoosama.",
+  "gloss": "Ah, that was great, thanks.",
+  "newElement": "gochisoosama",
+  "usesPrior": [
+   "aa"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "ああ、ごちそうさま。"
+ },
+ {
+  "n": 25,
+  "romaji": "otsukaresama. — aa, otsukaresama.",
+  "gloss": "Good work. — Ah, you too.",
+  "newElement": "otsukaresama",
+  "usesPrior": [
+   "aa"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "おつかれさま。—ああ、おつかれさま。"
+ },
+ {
+  "n": 26,
+  "romaji": "yoroshiku. — hai, yoroshiku.",
+  "gloss": "Nice to meet you. — Yes, likewise.",
+  "newElement": "yoroshiku",
+  "usesPrior": [
+   "hai"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "よろしく。—はい、よろしく。"
+ },
+ {
+  "n": 27,
+  "romaji": "daijoobu? — un, daijoobu daijoobu.",
+  "gloss": "You okay? — Yeah, I'm fine.",
+  "newElement": "daijoobu",
+  "usesPrior": [
+   "un"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "だいじょうぶ？—うん、だいじょうぶだいじょうぶ。"
+ },
+ {
+  "n": 28,
+  "romaji": "un, ganbatte.",
+  "gloss": "Yeah, go get 'em.",
+  "newElement": "ganbatte",
+  "usesPrior": [
+   "un"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "うん、がんばって。"
+ },
+ {
+  "n": 29,
+  "romaji": "'chotto' tte yutta.",
+  "gloss": "I said 'chotto'.",
+  "newElement": "yuu (as yutta)",
+  "usesPrior": [
+   "chotto"
+  ],
+  "cardType": "RECOG",
+  "note": "First exposure to the yuu / yutta / yutteta family. Never presented as iu.",
+  "block": "wk3-4",
+  "kana": "ちょっとってゆった。"
+ },
+ {
+  "n": 30,
+  "romaji": "'chotto' tte nani?",
+  "gloss": "What does 'chotto' mean?",
+  "newElement": "X tte nani?",
+  "usesPrior": [
+   "chotto"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "ちょっとってなに？"
+ },
+ {
+  "n": 31,
+  "romaji": "nihongo de nan te yuu no?",
+  "gloss": "How do you say it in Japanese?",
+  "newElement": "nihongo de nan te yuu no?",
+  "usesPrior": [
+   "yuu"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "にほんごでなんてゆうの？"
+ },
+ {
+  "n": 32,
+  "romaji": "sumimasen, moo ichido onegai.",
+  "gloss": "Sorry, one more time please.",
+  "newElement": "moo ichido onegai",
+  "usesPrior": [
+   "sumimasen"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "すみません、もういちどおねがい。"
+ },
+ {
+  "n": 33,
+  "romaji": "ano, yukkuri onegai.",
+  "gloss": "Um, slowly please.",
+  "newElement": "yukkuri onegai",
+  "usesPrior": [
+   "ano"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "あの、ゆっくりおねがい。"
+ },
+ {
+  "n": 34,
+  "romaji": "soo da.",
+  "gloss": "That's right.",
+  "newElement": "da",
+  "usesPrior": [
+   "soo"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "そうだ。"
+ },
+ {
+  "n": 35,
+  "romaji": "hai, soo desu.",
+  "gloss": "Yes, that's right.",
+  "newElement": "desu",
+  "usesPrior": [
+   "hai",
+   "soo"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "はい、そうです。"
+ },
+ {
+  "n": 36,
+  "romaji": "uun, soo ja nai.",
+  "gloss": "Nah, that's not it.",
+  "newElement": "ja nai",
+  "usesPrior": [
+   "uun",
+   "soo"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "ううん、そうじゃない。"
+ },
+ {
+  "n": 37,
+  "romaji": "aa, soo datta.",
+  "gloss": "Ah, that's right, it was.",
+  "newElement": "datta",
+  "usesPrior": [
+   "aa",
+   "soo"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "ああ、そうだった。"
+ },
+ {
+  "n": 38,
+  "romaji": "hai, soo deshita.",
+  "gloss": "Yes, that was so.",
+  "newElement": "deshita",
+  "usesPrior": [
+   "hai",
+   "soo"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "はい、そうでした。"
+ },
+ {
+  "n": 39,
+  "romaji": "uun, soo ja nakatta.",
+  "gloss": "No, it wasn't like that.",
+  "newElement": "ja nakatta",
+  "usesPrior": [
+   "uun",
+   "soo"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "ううん、そうじゃなかった。"
+ },
+ {
+  "n": 40,
+  "romaji": "soo de wa nai.",
+  "gloss": "That is not the case. (formal)",
+  "newElement": "de wa nai",
+  "usesPrior": [
+   "soo"
+  ],
+  "cardType": "RECOG",
+  "note": "Recognition only; labelled as the formal expansion of ja nai.",
+  "block": "wk3-4",
+  "kana": "そうでわない。"
+ },
+ {
+  "n": 41,
+  "romaji": "aa, kore da.",
+  "gloss": "Ah, this is it.",
+  "newElement": "kore",
+  "usesPrior": [
+   "aa",
+   "da"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "ああ、これだ。"
+ },
+ {
+  "n": 42,
+  "romaji": "uun, sore ja nai.",
+  "gloss": "Nope, not that one.",
+  "newElement": "sore",
+  "usesPrior": [
+   "uun",
+   "ja nai"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "ううん、それじゃない。"
+ },
+ {
+  "n": 43,
+  "romaji": "are datta.",
+  "gloss": "It was that one over there.",
+  "newElement": "are",
+  "usesPrior": [
+   "datta"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "あれだった。"
+ },
+ {
+  "n": 44,
+  "romaji": "dore? kore?",
+  "gloss": "Which one? This one?",
+  "newElement": "dore",
+  "usesPrior": [
+   "kore"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "どれ？これ？"
+ },
+ {
+  "n": 45,
+  "romaji": "koko da.",
+  "gloss": "It's here.",
+  "newElement": "koko",
+  "usesPrior": [
+   "da"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "ここだ。"
+ },
+ {
+  "n": 46,
+  "romaji": "un, soko soko.",
+  "gloss": "Yeah, right there.",
+  "newElement": "soko",
+  "usesPrior": [
+   "un"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "うん、そこそこ。"
+ },
+ {
+  "n": 47,
+  "romaji": "aa, asoko da.",
+  "gloss": "Ah, it's over there.",
+  "newElement": "asoko",
+  "usesPrior": [
+   "aa",
+   "da"
+  ],
+  "cardType": "PROD",
+  "note": "Flag the broken grid cell here: the pattern predicts *ako.",
+  "block": "wk3-4",
+  "kana": "ああ、あそこだ。"
+ },
+ {
+  "n": 48,
+  "romaji": "sumimasen, doko?",
+  "gloss": "Excuse me, where?",
+  "newElement": "doko",
+  "usesPrior": [
+   "sumimasen"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "すみません、どこ？"
+ },
+ {
+  "n": 49,
+  "romaji": "koo? — un, koo koo.",
+  "gloss": "Like this? — Yeah, like that.",
+  "newElement": "koo",
+  "usesPrior": [
+   "un"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "こう？—うん、こうこう。"
+ },
+ {
+  "n": 50,
+  "romaji": "doo? — maa, chotto...",
+  "gloss": "How is it? — Well, kinda...",
+  "newElement": "doo",
+  "usesPrior": [
+   "maa",
+   "chotto"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "どう？—まあ、ちょっと…"
+ },
+ {
+  "n": 51,
+  "romaji": "sonna...",
+  "gloss": "That kind of thing... / oh come on.",
+  "newElement": "sonna",
+  "usesPrior": [],
+  "cardType": "RECOG",
+  "block": "wk3-4",
+  "kana": "そんな…"
+ },
+ {
+  "n": 52,
+  "romaji": "donna? — eeto...",
+  "gloss": "What kind? — Um...",
+  "newElement": "donna",
+  "usesPrior": [
+   "eeto"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "どんな？—ええと…"
+ },
+ {
+  "n": 53,
+  "romaji": "dore? — aa, kore ga.",
+  "gloss": "Which one? — Ah, this one.",
+  "newElement": "ga",
+  "usesPrior": [
+   "dore",
+   "kore",
+   "aa"
+  ],
+  "cardType": "PROD",
+  "note": "ga as the identifying answer particle. Topic wa does not exist yet in this course.",
+  "block": "wk3-4",
+  "kana": "どれ？—ああ、これが。"
+ },
+ {
+  "n": 54,
+  "romaji": "kore, doko no?",
+  "gloss": "This — where's it from?",
+  "newElement": "no (genitive)",
+  "usesPrior": [
+   "kore",
+   "doko"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "これ、どこの？"
+ },
+ {
+  "n": 55,
+  "romaji": "soo? ... soo.",
+  "gloss": "Really? ... Right.",
+  "newElement": "rising terminal",
+  "usesPrior": [
+   "soo"
+  ],
+  "cardType": "RECOG",
+  "note": "Identical segments, opposite contour. The whole card is the contrast.",
+  "block": "wk3-4",
+  "kana": "そう？…そう。"
+ },
+ {
+  "n": 56,
+  "romaji": "kore desu ka?",
+  "gloss": "Is it this one? (polite)",
+  "newElement": "ka",
+  "usesPrior": [
+   "kore",
+   "desu"
+  ],
+  "cardType": "RECOG",
+  "block": "wk3-4",
+  "kana": "これですか？"
+ },
+ {
+  "n": 57,
+  "romaji": "soo da ne.",
+  "gloss": "Yeah, isn't it.",
+  "newElement": "ne",
+  "usesPrior": [
+   "soo",
+   "da"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "そうだね。"
+ },
+ {
+  "n": 58,
+  "romaji": "kore da yo.",
+  "gloss": "It's THIS one (telling you).",
+  "newElement": "yo",
+  "usesPrior": [
+   "kore",
+   "da"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "これだよ。"
+ },
+ {
+  "n": 59,
+  "romaji": "soo da yo ne.",
+  "gloss": "That's right, isn't it.",
+  "newElement": "yo ne",
+  "usesPrior": [
+   "soo",
+   "da",
+   "yo",
+   "ne"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "そうだよね。"
+ },
+ {
+  "n": 60,
+  "romaji": "soo da na...",
+  "gloss": "Hmm, I suppose so...",
+  "newElement": "na",
+  "usesPrior": [
+   "soo",
+   "da"
+  ],
+  "cardType": "RECOG",
+  "block": "wk3-4",
+  "kana": "そうだな…"
+ },
+ {
+  "n": 61,
+  "romaji": "eeto, doko datta kke.",
+  "gloss": "Um, where was it again.",
+  "newElement": "kke",
+  "usesPrior": [
+   "eeto",
+   "doko",
+   "datta"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "ええと、どこだったっけ。"
+ },
+ {
+  "n": 62,
+  "romaji": "ano sa, chotto sa,",
+  "gloss": "Hey, so, like,",
+  "newElement": "sa",
+  "usesPrior": [
+   "ano",
+   "chotto"
+  ],
+  "cardType": "RECOG",
+  "block": "wk3-4",
+  "kana": "あのさ、ちょっとさ、"
+ },
+ {
+  "n": 63,
+  "romaji": "sore na no?",
+  "gloss": "Is it that one?",
+  "newElement": "no (rising)",
+  "usesPrior": [
+   "sore",
+   "na"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "それなの？"
+ },
+ {
+  "n": 64,
+  "romaji": "kore, neko?",
+  "gloss": "Is this a cat?",
+  "newElement": "neko",
+  "usesPrior": [
+   "kore",
+   "rising terminal"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "これ、ねこ？"
+ },
+ {
+  "n": 65,
+  "romaji": "aa, inu da.",
+  "gloss": "Ah, it's a dog.",
+  "newElement": "inu",
+  "usesPrior": [
+   "aa",
+   "da"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "ああ、いぬだ。"
+ },
+ {
+  "n": 66,
+  "romaji": "kono hito da yo.",
+  "gloss": "It's this person.",
+  "newElement": "hito",
+  "usesPrior": [
+   "kono",
+   "da",
+   "yo"
+  ],
+  "cardType": "PROD",
+  "note": "First adnominal kono inside a sentence card.",
+  "block": "wk3-4",
+  "kana": "このひとだよ。"
+ },
+ {
+  "n": 67,
+  "romaji": "sono kodomo?",
+  "gloss": "That kid?",
+  "newElement": "kodomo",
+  "usesPrior": [
+   "sono",
+   "rising terminal"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "そのこども？"
+ },
+ {
+  "n": 68,
+  "romaji": "sumimasen, mizu, doko?",
+  "gloss": "Excuse me, where's the water?",
+  "newElement": "mizu",
+  "usesPrior": [
+   "sumimasen",
+   "doko"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "すみません、みず、どこ？"
+ },
+ {
+  "n": 69,
+  "romaji": "sono hako da yo.",
+  "gloss": "It's that box.",
+  "newElement": "hako",
+  "usesPrior": [
+   "sono",
+   "da",
+   "yo"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "そのはこだよ。"
+ },
+ {
+  "n": 70,
+  "romaji": "isu, doko?",
+  "gloss": "Where's the chair?",
+  "newElement": "isu",
+  "usesPrior": [
+   "doko"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "いす、どこ？"
+ },
+ {
+  "n": 71,
+  "romaji": "kore, tsukue ja nai.",
+  "gloss": "This isn't a desk.",
+  "newElement": "tsukue",
+  "usesPrior": [
+   "kore",
+   "ja nai"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "これ、つくえじゃない。"
+ },
+ {
+  "n": 72,
+  "romaji": "ano kuruma da yo.",
+  "gloss": "It's that car over there.",
+  "newElement": "kuruma",
+  "usesPrior": [
+   "ano (adnominal)",
+   "da",
+   "yo"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "あのくるまだよ。"
+ },
+ {
+  "n": 73,
+  "romaji": "tsukue no ue.",
+  "gloss": "On the desk.",
+  "newElement": "ue",
+  "usesPrior": [
+   "tsukue",
+   "no"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "つくえのうえ。"
+ },
+ {
+  "n": 74,
+  "romaji": "isu no shita da yo.",
+  "gloss": "It's under the chair.",
+  "newElement": "shita",
+  "usesPrior": [
+   "isu",
+   "no",
+   "da",
+   "yo"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "いすのしただよ。"
+ },
+ {
+  "n": 75,
+  "romaji": "hako no naka.",
+  "gloss": "Inside the box.",
+  "newElement": "naka",
+  "usesPrior": [
+   "hako",
+   "no"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "はこのなか。"
+ },
+ {
+  "n": 76,
+  "romaji": "kuruma no mae.",
+  "gloss": "In front of the car.",
+  "newElement": "mae",
+  "usesPrior": [
+   "kuruma",
+   "no"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "くるまのまえ。"
+ },
+ {
+  "n": 77,
+  "romaji": "tonari no hito.",
+  "gloss": "The person next to me.",
+  "newElement": "tonari",
+  "usesPrior": [
+   "no",
+   "hito"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "となりのひと。"
+ },
+ {
+  "n": 78,
+  "romaji": "isu no soba da yo.",
+  "gloss": "It's right by the chair.",
+  "newElement": "soba",
+  "usesPrior": [
+   "isu",
+   "no",
+   "da",
+   "yo"
+  ],
+  "cardType": "RECOG",
+  "note": "Phrase-only. Never drilled bare — the noodles sense is accent-identical.",
+  "block": "wk3-4",
+  "kana": "いすのそばだよ。"
+ },
+ {
+  "n": 79,
+  "romaji": "uchi no neko.",
+  "gloss": "Our cat.",
+  "newElement": "uchi",
+  "usesPrior": [
+   "no",
+   "neko"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "うちのねこ。"
+ },
+ {
+  "n": 80,
+  "romaji": "kono ie?",
+  "gloss": "This house?",
+  "newElement": "ie",
+  "usesPrior": [
+   "kono",
+   "rising terminal"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "このいえ？"
+ },
+ {
+  "n": 81,
+  "romaji": "heya, doko?",
+  "gloss": "Where's the room?",
+  "newElement": "heya",
+  "usesPrior": [
+   "doko"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "へや、どこ？"
+ },
+ {
+  "n": 82,
+  "romaji": "mado no soto.",
+  "gloss": "Outside the window.",
+  "newElement": "mado",
+  "usesPrior": [
+   "no",
+   "soto"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "まどのそと。"
+ },
+ {
+  "n": 83,
+  "romaji": "kagi, doko datta kke.",
+  "gloss": "Where was the key again.",
+  "newElement": "kagi",
+  "usesPrior": [
+   "doko",
+   "datta",
+   "kke"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "かぎ、どこだったっけ。"
+ },
+ {
+  "n": 84,
+  "romaji": "kore, tegami da.",
+  "gloss": "This is a letter.",
+  "newElement": "tegami",
+  "usesPrior": [
+   "kore",
+   "da"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "これ、てがみだ。"
+ },
+ {
+  "n": 85,
+  "romaji": "kutsu no naka.",
+  "gloss": "Inside the shoe.",
+  "newElement": "kutsu",
+  "usesPrior": [
+   "no",
+   "naka"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "くつのなか。"
+ },
+ {
+  "n": 86,
+  "romaji": "kasa, doko?",
+  "gloss": "Where's the umbrella?",
+  "newElement": "kasa",
+  "usesPrior": [
+   "doko"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "かさ、どこ？"
+ },
+ {
+  "n": 87,
+  "romaji": "mise no mae da yo.",
+  "gloss": "It's in front of the shop.",
+  "newElement": "mise",
+  "usesPrior": [
+   "no",
+   "mae",
+   "da",
+   "yo"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "みせのまえだよ。"
+ },
+ {
+  "n": 88,
+  "romaji": "eki no chikaku.",
+  "gloss": "Near the station.",
+  "newElement": "eki",
+  "usesPrior": [
+   "no",
+   "chikaku"
+  ],
+  "cardType": "RECOG",
+  "note": "Kango delivered inside its mandatory collocation.",
+  "block": "wk3-4",
+  "kana": "えきのちかく。"
+ },
+ {
+  "n": 89,
+  "romaji": "asoko no yama.",
+  "gloss": "That mountain over there.",
+  "newElement": "yama",
+  "usesPrior": [
+   "asoko",
+   "no"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "あそこのやま。"
+ },
+ {
+  "n": 90,
+  "romaji": "umi, doo?",
+  "gloss": "How's the sea?",
+  "newElement": "umi",
+  "usesPrior": [
+   "doo"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "うみ、どう？"
+ },
+ {
+  "n": 91,
+  "romaji": "aa, hoshi da.",
+  "gloss": "Ah, stars.",
+  "newElement": "hoshi",
+  "usesPrior": [
+   "aa",
+   "da"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "ああ、ほしだ。"
+ },
+ {
+  "n": 92,
+  "romaji": "ame? — un, ame.",
+  "gloss": "Rain? — Yeah, rain.",
+  "newElement": "ame",
+  "usesPrior": [
+   "un",
+   "rising terminal"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "あめ？—うん、あめ。"
+ },
+ {
+  "n": 93,
+  "romaji": "ano ki no shita.",
+  "gloss": "Under that tree.",
+  "newElement": "ki",
+  "usesPrior": [
+   "ano (adnominal)",
+   "no",
+   "shita"
+  ],
+  "cardType": "RECOG",
+  "block": "wk3-4",
+  "kana": "あのきのした。"
+ },
+ {
+  "n": 94,
+  "romaji": "kono hana?",
+  "gloss": "This flower?",
+  "newElement": "hana",
+  "usesPrior": [
+   "kono",
+   "rising terminal"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "このはな？"
+ },
+ {
+  "n": 95,
+  "romaji": "aa, tori da.",
+  "gloss": "Ah, a bird.",
+  "newElement": "tori",
+  "usesPrior": [
+   "aa",
+   "da"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "ああ、とりだ。"
+ },
+ {
+  "n": 96,
+  "romaji": "kore, sakana?",
+  "gloss": "Is this fish?",
+  "newElement": "sakana",
+  "usesPrior": [
+   "kore",
+   "rising terminal"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "これ、さかな？"
+ },
+ {
+  "n": 97,
+  "romaji": "mushi da! chotto!",
+  "gloss": "A bug! Hang on!",
+  "newElement": "mushi",
+  "usesPrior": [
+   "da",
+   "chotto"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "むしだ！ちょっと！"
+ },
+ {
+  "n": 98,
+  "romaji": "niku, doo?",
+  "gloss": "How about meat?",
+  "newElement": "niku",
+  "usesPrior": [
+   "doo"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "にく、どう？"
+ },
+ {
+  "n": 99,
+  "romaji": "tamago no sara.",
+  "gloss": "The egg plate.",
+  "newElement": "tamago",
+  "usesPrior": [
+   "no",
+   "sara"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "たまごのさら。"
+ },
+ {
+  "n": 100,
+  "romaji": "sumimasen, shio, doko?",
+  "gloss": "Excuse me, where's the salt?",
+  "newElement": "shio",
+  "usesPrior": [
+   "sumimasen",
+   "doko"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "すみません、しお、どこ？"
+ },
+ {
+  "n": 101,
+  "romaji": "kore, yasai ja nai.",
+  "gloss": "This isn't a vegetable.",
+  "newElement": "yasai",
+  "usesPrior": [
+   "kore",
+   "ja nai"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "これ、やさいじゃない。"
+ },
+ {
+  "n": 102,
+  "romaji": "aa, ichigo da.",
+  "gloss": "Ah, strawberries.",
+  "newElement": "ichigo",
+  "usesPrior": [
+   "aa",
+   "da"
+  ],
+  "cardType": "RECOG",
+  "block": "wk3-4",
+  "kana": "ああ、いちごだ。"
+ },
+ {
+  "n": 103,
+  "romaji": "uchi no haha.",
+  "gloss": "My mother.",
+  "newElement": "haha",
+  "usesPrior": [
+   "uchi",
+   "no"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "うちのはは。"
+ },
+ {
+  "n": 104,
+  "romaji": "ani no kuruma da yo.",
+  "gloss": "It's my brother's car.",
+  "newElement": "ani",
+  "usesPrior": [
+   "no",
+   "kuruma",
+   "da",
+   "yo"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "あにのくるまだよ。"
+ },
+ {
+  "n": 105,
+  "romaji": "uchi no kazoku.",
+  "gloss": "My family.",
+  "newElement": "kazoku",
+  "usesPrior": [
+   "uchi",
+   "no"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "うちのかぞく。"
+ },
+ {
+  "n": 106,
+  "romaji": "tomodachi no ie.",
+  "gloss": "A friend's house.",
+  "newElement": "tomodachi",
+  "usesPrior": [
+   "no",
+   "ie"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "ともだちのいえ。"
+ },
+ {
+  "n": 107,
+  "romaji": "namae? eeto...",
+  "gloss": "Name? Um...",
+  "newElement": "namae",
+  "usesPrior": [
+   "eeto",
+   "rising terminal"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "なまえ？ええと…"
+ },
+ {
+  "n": 108,
+  "romaji": "ani no koe da.",
+  "gloss": "That's my brother's voice.",
+  "newElement": "koe",
+  "usesPrior": [
+   "ani",
+   "no",
+   "da"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "あにのこえだ。"
+ },
+ {
+  "n": 109,
+  "romaji": "me? — un, me.",
+  "gloss": "Eyes? — Yeah, eyes.",
+  "newElement": "me",
+  "usesPrior": [
+   "un",
+   "rising terminal"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "め？—うん、め。"
+ },
+ {
+  "n": 110,
+  "romaji": "atama? — aa, chotto...",
+  "gloss": "Your head? — Ah, kinda...",
+  "newElement": "atama",
+  "usesPrior": [
+   "aa",
+   "chotto"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "あたま？—ああ、ちょっと…"
+ },
+ {
+  "n": 111,
+  "romaji": "karada, doo?",
+  "gloss": "How's your body holding up?",
+  "newElement": "karada",
+  "usesPrior": [
+   "doo"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "からだ、どう？"
+ },
+ {
+  "n": 112,
+  "romaji": "shigoto, doo?",
+  "gloss": "How's work?",
+  "newElement": "shigoto",
+  "usesPrior": [
+   "doo"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "しごと、どう？"
+ },
+ {
+  "n": 113,
+  "romaji": "kono kotoba tte nani?",
+  "gloss": "What does this word mean?",
+  "newElement": "kotoba",
+  "usesPrior": [
+   "kono",
+   "X tte nani?"
+  ],
+  "cardType": "PROD",
+  "note": "Extraction toolkit reactivated with real content.",
+  "block": "wk3-4",
+  "kana": "このことばってなに？"
+ },
+ {
+  "n": 114,
+  "romaji": "asa? — un, asa.",
+  "gloss": "Morning? — Yeah, morning.",
+  "newElement": "asa",
+  "usesPrior": [
+   "un",
+   "rising terminal"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "あさ？—うん、あさ。"
+ },
+ {
+  "n": 115,
+  "romaji": "yoru da ne.",
+  "gloss": "It's night, huh.",
+  "newElement": "yoru",
+  "usesPrior": [
+   "da",
+   "ne"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "よるだね。"
+ },
+ {
+  "n": 116,
+  "romaji": "ima? — un, ima.",
+  "gloss": "Now? — Yeah, now.",
+  "newElement": "ima",
+  "usesPrior": [
+   "un",
+   "rising terminal"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "いま？—うん、いま。"
+ },
+ {
+  "n": 117,
+  "romaji": "te, doo?",
+  "gloss": "How's your hand?",
+  "newElement": "te",
+  "usesPrior": [
+   "doo"
+  ],
+  "cardType": "PROD",
+  "note": "Never schedule in the same session as sentence 109 (me).",
+  "block": "wk3-4",
+  "kana": "て、どう？"
+ },
+ {
+  "n": 118,
+  "romaji": "sonna koto ja nai yo.",
+  "gloss": "It's not like that.",
+  "newElement": "koto",
+  "usesPrior": [
+   "sonna",
+   "ja nai",
+   "yo"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "そんなことじゃないよ。"
+ },
+ {
+  "n": 119,
+  "romaji": "kane no hanashi.",
+  "gloss": "A money conversation.",
+  "newElement": "kane",
+  "usesPrior": [
+   "no",
+   "hanashi"
+  ],
+  "cardType": "PROD",
+  "block": "wk3-4",
+  "kana": "かねのはなし。"
+ },
+ {
+  "n": 120,
+  "romaji": "shikata ga nai.",
+  "gloss": "Nothing to be done about it.",
+  "newElement": "nai",
+  "usesPrior": [
+   "shikata",
+   "ga"
+  ],
+  "cardType": "PROD",
+  "note": "The block-A capstone. Second frame drilled alongside it: kane ga nai.",
+  "block": "wk3-4",
+  "kana": "しかたがない。"
+ },
+ {
+  "n": 121,
+  "romaji": "Iru.",
+  "gloss": "It's here. / There is one (animate).",
+  "newElement": "iru",
+  "usesPrior": [],
+  "cardType": "PROD",
+  "block": "wk4-6",
+  "kana": "いる。"
+ },
+ {
+  "n": 122,
+  "romaji": "Neko ga iru.",
+  "gloss": "There's a cat.",
+  "newElement": "ga",
+  "usesPrior": [
+   "neko",
+   "iru"
+  ],
+  "cardType": "PROD",
+  "note": "Neutral description: the whole event is new.",
+  "block": "wk4-6",
+  "kana": "ねこがいる。"
+ },
+ {
+  "n": 123,
+  "romaji": "Aru.",
+  "gloss": "There is one. / I've got one.",
+  "newElement": "aru",
+  "usesPrior": [],
+  "cardType": "PROD",
+  "block": "wk4-6",
+  "kana": "ある。"
+ },
+ {
+  "n": 124,
+  "romaji": "Mizu ga aru.",
+  "gloss": "There's water.",
+  "newElement": "ga with aru (inanimate)",
+  "usesPrior": [
+   "mizu",
+   "ga",
+   "aru"
+  ],
+  "cardType": "RECOG",
+  "block": "wk4-6",
+  "kana": "みずがある。"
+ },
+ {
+  "n": 125,
+  "romaji": "Tori ga iru.",
+  "gloss": "There's a bird.",
+  "newElement": "tori",
+  "usesPrior": [
+   "ga",
+   "iru"
+  ],
+  "cardType": "RECOG",
+  "block": "wk4-6",
+  "kana": "とりがいる。"
+ },
+ {
+  "n": 126,
+  "romaji": "Kagi ga aru.",
+  "gloss": "There's a key. / I have the key.",
+  "newElement": "kagi",
+  "usesPrior": [
+   "ga",
+   "aru"
+  ],
+  "cardType": "PROD",
+  "block": "wk4-6",
+  "kana": "かぎがある。"
+ },
+ {
+  "n": 127,
+  "romaji": "Neko wa iru.",
+  "gloss": "The cat, at least, is here.",
+  "newElement": "wa",
+  "usesPrior": [
+   "neko",
+   "iru"
+  ],
+  "cardType": "PROD",
+  "note": "Same words as card 2. Played back-to-back with it: ga = news, wa = already in play.",
+  "block": "wk4-6",
+  "kana": "ねこわいる。"
+ },
+ {
+  "n": 128,
+  "romaji": "Kore wa kagi da.",
+  "gloss": "This is the key.",
+  "newElement": "wa on a nominal predicate",
+  "usesPrior": [
+   "kore",
+   "da",
+   "kagi",
+   "wa"
+  ],
+  "cardType": "RECOG",
+  "block": "wk4-6",
+  "kana": "これわかぎだ。"
+ },
+ {
+  "n": 129,
+  "romaji": "Hana ga aru.",
+  "gloss": "There are flowers.",
+  "newElement": "hana",
+  "usesPrior": [
+   "ga",
+   "aru"
+  ],
+  "cardType": "PROD",
+  "block": "wk4-6",
+  "kana": "はながある。"
+ },
+ {
+  "n": 130,
+  "romaji": "Dare ga iru?",
+  "gloss": "Who's there?",
+  "newElement": "dare",
+  "usesPrior": [
+   "ga",
+   "iru"
+  ],
+  "cardType": "PROD",
+  "note": "The question word takes ga. *Dare wa iru is impossible.",
+  "block": "wk4-6",
+  "kana": "だれがいる？"
+ },
+ {
+  "n": 131,
+  "romaji": "Nani ga aru?",
+  "gloss": "What's there?",
+  "newElement": "nani",
+  "usesPrior": [
+   "ga",
+   "aru"
+  ],
+  "cardType": "PROD",
+  "block": "wk4-6",
+  "kana": "なにがある？"
+ },
+ {
+  "n": 132,
+  "romaji": "Tomodachi ga iru.",
+  "gloss": "A friend is here.",
+  "newElement": "tomodachi",
+  "usesPrior": [
+   "ga",
+   "iru"
+  ],
+  "cardType": "RECOG",
+  "block": "wk4-6",
+  "kana": "ともだちがいる。"
+ },
+ {
+  "n": 133,
+  "romaji": "Dare ga iru? Tomodachi ga iru.",
+  "gloss": "Who's there? A friend is.",
+  "newElement": "exhaustive-listing ga (wh-answer)",
+  "usesPrior": [
+   "dare",
+   "ga",
+   "iru",
+   "tomodachi"
+  ],
+  "cardType": "PROD",
+  "note": "The answer to a ga-question is ga, never wa. The whole diagnostic in one card.",
+  "block": "wk4-6",
+  "kana": "だれがいる？ともだちがいる。"
+ },
+ {
+  "n": 134,
+  "romaji": "Neko wa doko?",
+  "gloss": "Where's the cat?",
+  "newElement": "wa with a wh-predicate",
+  "usesPrior": [
+   "neko",
+   "wa",
+   "doko"
+  ],
+  "cardType": "PROD",
+  "note": "wa is fine on the known topic; the wh word sits in the predicate.",
+  "block": "wk4-6",
+  "kana": "ねこわどこ？"
+ },
+ {
+  "n": 135,
+  "romaji": "Sakana ga iru.",
+  "gloss": "There's a fish.",
+  "newElement": "sakana",
+  "usesPrior": [
+   "ga",
+   "iru"
+  ],
+  "cardType": "RECOG",
+  "block": "wk4-6",
+  "kana": "さかながいる。"
+ },
+ {
+  "n": 136,
+  "romaji": "Ocha wa aru.",
+  "gloss": "There is tea (whatever else there isn't).",
+  "newElement": "ocha",
+  "usesPrior": [
+   "wa",
+   "aru"
+  ],
+  "cardType": "PROD",
+  "block": "wk4-6",
+  "kana": "おちゃわある。"
+ },
+ {
+  "n": 137,
+  "romaji": "Mizu wa aru. Ocha wa?",
+  "gloss": "There's water. What about tea?",
+  "newElement": "contrastive wa (paired X wa / Y wa)",
+  "usesPrior": [
+   "mizu",
+   "wa",
+   "aru",
+   "ocha"
+  ],
+  "cardType": "PROD",
+  "block": "wk4-6",
+  "kana": "みずわある。おちゃわ？"
+ },
+ {
+  "n": 138,
+  "romaji": "Yasai wa?",
+  "gloss": "And vegetables?",
+  "newElement": "elliptical contrastive wa",
+  "usesPrior": [
+   "yasai",
+   "wa"
+  ],
+  "cardType": "PROD",
+  "block": "wk4-6",
+  "kana": "やさいわ？"
+ },
+ {
+  "n": 139,
+  "romaji": "Uchi ga aru.",
+  "gloss": "There's a house. / I have a place.",
+  "newElement": "uchi",
+  "usesPrior": [
+   "ga",
+   "aru"
+  ],
+  "cardType": "RECOG",
+  "block": "wk4-6",
+  "kana": "うちがある。"
+ },
+ {
+  "n": 140,
+  "romaji": "Uchi wa niwa ga aru.",
+  "gloss": "My place has a garden.",
+  "newElement": "double-nominative (X wa Y ga)",
+  "usesPrior": [
+   "uchi",
+   "wa",
+   "niwa",
+   "ga",
+   "aru"
+  ],
+  "cardType": "PROD",
+  "note": "One wa slot, one ga slot, one predicate. The frame the whole unit was building toward.",
+  "block": "wk4-6",
+  "kana": "うちわにわがある。"
+ },
+ {
+  "n": 141,
+  "romaji": "Ie ga aru.",
+  "gloss": "There's a house.",
+  "newElement": "ie",
+  "usesPrior": [
+   "ga",
+   "aru"
+  ],
+  "cardType": "RECOG",
+  "block": "wk4-6",
+  "kana": "いえがある。"
+ },
+ {
+  "n": 142,
+  "romaji": "Kono ie wa mado ga aru.",
+  "gloss": "This house has windows.",
+  "newElement": "mado",
+  "usesPrior": [
+   "kono",
+   "ie",
+   "wa",
+   "ga",
+   "aru"
+  ],
+  "cardType": "PROD",
+  "block": "wk4-6",
+  "kana": "このいえわまどがある。"
+ },
+ {
+  "n": 143,
+  "romaji": "Neko wa uchi ni iru.",
+  "gloss": "The cat is at home.",
+  "newElement": "ni (existence)",
+  "usesPrior": [
+   "neko",
+   "wa",
+   "uchi",
+   "iru"
+  ],
+  "cardType": "PROD",
+  "block": "wk4-6",
+  "kana": "ねこわうちにいる。"
+ },
+ {
+  "n": 144,
+  "romaji": "Asobu.",
+  "gloss": "(I'll) play / hang out.",
+  "newElement": "asobu",
+  "usesPrior": [],
+  "cardType": "PROD",
+  "block": "wk4-6",
+  "kana": "あそぶ。"
+ },
+ {
+  "n": 145,
+  "romaji": "Kodomo wa niwa de asobu.",
+  "gloss": "The kids play in the garden.",
+  "newElement": "de (action)",
+  "usesPrior": [
+   "kodomo",
+   "wa",
+   "niwa",
+   "asobu"
+  ],
+  "cardType": "PROD",
+  "block": "wk4-6",
+  "kana": "こどもわにわであそぶ。"
+ },
+ {
+  "n": 146,
+  "romaji": "Kooen ni iru.",
+  "gloss": "(He's) at the park.",
+  "newElement": "kooen",
+  "usesPrior": [
+   "ni",
+   "iru"
+  ],
+  "cardType": "RECOG",
+  "block": "wk4-6",
+  "kana": "こうえんにいる。"
+ },
+ {
+  "n": 147,
+  "romaji": "Kooen de asobu.",
+  "gloss": "(We) play at the park.",
+  "newElement": "ni/de minimal pair on one place noun",
+  "usesPrior": [
+   "kooen",
+   "de",
+   "asobu",
+   "ni"
+  ],
+  "cardType": "PROD",
+  "note": "Cards 26 and 27 are always drilled adjacent. Being = ni, doing = de.",
+  "block": "wk4-6",
+  "kana": "こうえんであそぶ。"
+ },
+ {
+  "n": 148,
+  "romaji": "Taberu.",
+  "gloss": "(I'll) eat.",
+  "newElement": "taberu",
+  "usesPrior": [],
+  "cardType": "PROD",
+  "block": "wk4-6",
+  "kana": "たべる。"
+ },
+ {
+  "n": 149,
+  "romaji": "Uchi de taberu.",
+  "gloss": "(I'll) eat at home.",
+  "newElement": "de with taberu",
+  "usesPrior": [
+   "uchi",
+   "de",
+   "taberu"
+  ],
+  "cardType": "PROD",
+  "note": "Paired in the same run with uchi ni aru.",
+  "block": "wk4-6",
+  "kana": "うちでたべる。"
+ },
+ {
+  "n": 150,
+  "romaji": "Neko wa inai.",
+  "gloss": "The cat isn't here.",
+  "newElement": "inai",
+  "usesPrior": [
+   "neko",
+   "wa"
+  ],
+  "cardType": "PROD",
+  "block": "wk4-6",
+  "kana": "ねこわいない。"
+ },
+ {
+  "n": 151,
+  "romaji": "Kagi ga nai.",
+  "gloss": "The key's gone.",
+  "newElement": "nai (suppletive neg of aru)",
+  "usesPrior": [
+   "kagi",
+   "ga"
+  ],
+  "cardType": "PROD",
+  "block": "wk4-6",
+  "kana": "かぎがない。"
+ },
+ {
+  "n": 152,
+  "romaji": "Shikata ga nai.",
+  "gloss": "It can't be helped.",
+  "newElement": "shikata",
+  "usesPrior": [
+   "ga",
+   "nai"
+  ],
+  "cardType": "PROD",
+  "note": "Fixed chunk; carries the i-adjective nai. Drilled as a response token.",
+  "block": "wk4-6",
+  "kana": "しかたがない。"
+ },
+ {
+  "n": 153,
+  "romaji": "Ano hito no koe da.",
+  "gloss": "That's his voice.",
+  "newElement": "koe",
+  "usesPrior": [
+   "ano",
+   "hito",
+   "no",
+   "da"
+  ],
+  "cardType": "RECOG",
+  "block": "wk4-6",
+  "kana": "あのひとのこえだ。"
+ },
+ {
+  "n": 154,
+  "romaji": "Nomu.",
+  "gloss": "(I'll) drink.",
+  "newElement": "nomu",
+  "usesPrior": [],
+  "cardType": "PROD",
+  "block": "wk4-6",
+  "kana": "のむ。"
+ },
+ {
+  "n": 155,
+  "romaji": "Neko ga ita.",
+  "gloss": "There was a cat.",
+  "newElement": "ita",
+  "usesPrior": [
+   "neko",
+   "ga"
+  ],
+  "cardType": "PROD",
+  "block": "wk4-6",
+  "kana": "ねこがいた。"
+ },
+ {
+  "n": 156,
+  "romaji": "Kagi ga atta.",
+  "gloss": "The key was there. / Found it.",
+  "newElement": "atta",
+  "usesPrior": [
+   "kagi",
+   "ga"
+  ],
+  "cardType": "PROD",
+  "block": "wk4-6",
+  "kana": "かぎがあった。"
+ },
+ {
+  "n": 157,
+  "romaji": "Kagi ga nakatta.",
+  "gloss": "The key wasn't there.",
+  "newElement": "nakatta",
+  "usesPrior": [
+   "kagi",
+   "ga"
+  ],
+  "cardType": "PROD",
+  "block": "wk4-6",
+  "kana": "かぎがなかった。"
+ },
+ {
+  "n": 158,
+  "romaji": "Tomodachi wa inakatta.",
+  "gloss": "My friend wasn't there.",
+  "newElement": "inakatta",
+  "usesPrior": [
+   "tomodachi",
+   "wa"
+  ],
+  "cardType": "PROD",
+  "block": "wk4-6",
+  "kana": "ともだちわいなかった。"
+ },
+ {
+  "n": 159,
+  "romaji": "Kesa wa uchi ni ita.",
+  "gloss": "This morning I was at home.",
+  "newElement": "kesa",
+  "usesPrior": [
+   "wa",
+   "uchi",
+   "ni",
+   "ita"
+  ],
+  "cardType": "RECOG",
+  "block": "wk4-6",
+  "kana": "けさわうちにいた。"
+ },
+ {
+  "n": 160,
+  "romaji": "Neko wa isu no shita ni iru.",
+  "gloss": "The cat's under the chair.",
+  "newElement": "N no + relational noun + ni",
+  "usesPrior": [
+   "neko",
+   "wa",
+   "isu",
+   "no",
+   "shita",
+   "ni",
+   "iru"
+  ],
+  "cardType": "PROD",
+  "block": "wk4-6",
+  "kana": "ねこわいすのしたにいる。"
+ },
+ {
+  "n": 161,
+  "romaji": "Kuruma wa ie no tonari ni aru.",
+  "gloss": "The car is next to the house.",
+  "newElement": "tonari",
+  "usesPrior": [
+   "kuruma",
+   "wa",
+   "ie",
+   "no",
+   "ni",
+   "aru"
+  ],
+  "cardType": "PROD",
+  "block": "wk4-6",
+  "kana": "くるまわいえのとなりにある。"
+ },
+ {
+  "n": 162,
+  "romaji": "Eki no chikaku ni mise ga aru.",
+  "gloss": "There's a shop near the station.",
+  "newElement": "chikaku",
+  "usesPrior": [
+   "eki",
+   "no",
+   "ni",
+   "mise",
+   "ga",
+   "aru"
+  ],
+  "cardType": "PROD",
+  "block": "wk4-6",
+  "kana": "えきのちかくにみせがある。"
+ },
+ {
+  "n": 163,
+  "romaji": "Kawa ga aru.",
+  "gloss": "There's a river.",
+  "newElement": "kawa",
+  "usesPrior": [
+   "ga",
+   "aru"
+  ],
+  "cardType": "RECOG",
+  "block": "wk4-6",
+  "kana": "かわがある。"
+ },
+ {
+  "n": 164,
+  "romaji": "Kawa no soba ni ie ga aru.",
+  "gloss": "There's a house beside the river.",
+  "newElement": "soba",
+  "usesPrior": [
+   "kawa",
+   "no",
+   "ni",
+   "ie",
+   "ga",
+   "aru"
+  ],
+  "cardType": "PROD",
+  "note": "soba appears only here and only in this shape.",
+  "block": "wk4-6",
+  "kana": "かわのそばにいえがある。"
+ },
+ {
+  "n": 165,
+  "romaji": "Kagi wa hako no yoko ni aru.",
+  "gloss": "The key's beside the box.",
+  "newElement": "yoko",
+  "usesPrior": [
+   "kagi",
+   "wa",
+   "hako",
+   "no",
+   "ni",
+   "aru"
+  ],
+  "cardType": "PROD",
+  "block": "wk4-6",
+  "kana": "かぎわはこのよこにある。"
+ },
+ {
+  "n": 166,
+  "romaji": "Yasai o taberu.",
+  "gloss": "(I) eat vegetables.",
+  "newElement": "o",
+  "usesPrior": [
+   "yasai",
+   "taberu"
+  ],
+  "cardType": "PROD",
+  "block": "wk4-6",
+  "kana": "やさいおたべる。"
+ },
+ {
+  "n": 167,
+  "romaji": "Mizu o nomu.",
+  "gloss": "(I) drink water.",
+  "newElement": "o with nomu",
+  "usesPrior": [
+   "mizu",
+   "o",
+   "nomu"
+  ],
+  "cardType": "PROD",
+  "block": "wk4-6",
+  "kana": "みずおのむ。"
+ },
+ {
+  "n": 168,
+  "romaji": "Miru.",
+  "gloss": "(I'll) look.",
+  "newElement": "miru",
+  "usesPrior": [],
+  "cardType": "PROD",
+  "block": "wk4-6",
+  "kana": "みる。"
+ },
+ {
+  "n": 169,
+  "romaji": "E o miru.",
+  "gloss": "(I) look at a picture.",
+  "newElement": "e",
+  "usesPrior": [
+   "o",
+   "miru"
+  ],
+  "cardType": "RECOG",
+  "block": "wk4-6",
+  "kana": "えおみる。"
+ },
+ {
+  "n": 170,
+  "romaji": "Kutsu o kau.",
+  "gloss": "(I'll) buy shoes.",
+  "newElement": "kau",
+  "usesPrior": [
+   "kutsu",
+   "o"
+  ],
+  "cardType": "PROD",
+  "block": "wk4-6",
+  "kana": "くつおかう。"
+ },
+ {
+  "n": 171,
+  "romaji": "Tegami o yomu.",
+  "gloss": "(I) read a letter.",
+  "newElement": "yomu",
+  "usesPrior": [
+   "tegami",
+   "o"
+  ],
+  "cardType": "PROD",
+  "block": "wk4-6",
+  "kana": "てがみおよむ。"
+ },
+ {
+  "n": 172,
+  "romaji": "Kami ni kaku.",
+  "gloss": "(I) write on paper.",
+  "newElement": "kaku",
+  "usesPrior": [
+   "kami",
+   "ni"
+  ],
+  "cardType": "RECOG",
+  "note": "ni here is the goal-surface, contrasted aloud with ni of existence.",
+  "block": "wk4-6",
+  "kana": "かみにかく。"
+ },
+ {
+  "n": 173,
+  "romaji": "Uta o kiku.",
+  "gloss": "(I) listen to a song.",
+  "newElement": "kiku",
+  "usesPrior": [
+   "uta",
+   "o"
+  ],
+  "cardType": "PROD",
+  "block": "wk4-6",
+  "kana": "うたおきく。"
+ },
+ {
+  "n": 174,
+  "romaji": "Nani o suru?",
+  "gloss": "What are you doing?",
+  "newElement": "suru",
+  "usesPrior": [
+   "nani",
+   "o"
+  ],
+  "cardType": "PROD",
+  "note": "nani takes o, never wa: the diagnostic again on a new particle.",
+  "block": "wk4-6",
+  "kana": "なにおする？"
+ },
+ {
+  "n": 175,
+  "romaji": "Neko iru?",
+  "gloss": "Is the cat around?",
+  "newElement": "ga-drop",
+  "usesPrior": [
+   "neko",
+   "iru"
+  ],
+  "cardType": "PROD",
+  "note": "Production target. Careful expansion: Neko wa iru?",
+  "block": "wk4-6",
+  "kana": "ねこいる？"
+ },
+ {
+  "n": 176,
+  "romaji": "Yasai taberu?",
+  "gloss": "You eating the veg?",
+  "newElement": "o-drop",
+  "usesPrior": [
+   "yasai",
+   "taberu"
+  ],
+  "cardType": "PROD",
+  "note": "Careful expansion: Yasai o taberu?",
+  "block": "wk4-6",
+  "kana": "やさいたべる？"
+ },
+ {
+  "n": 177,
+  "romaji": "Koko de matsu.",
+  "gloss": "(I'll) wait here.",
+  "newElement": "matsu",
+  "usesPrior": [
+   "koko",
+   "de"
+  ],
+  "cardType": "PROD",
+  "block": "wk4-6",
+  "kana": "ここでまつ。"
+ },
+ {
+  "n": 178,
+  "romaji": "Tomodachi ni au.",
+  "gloss": "(I'll) meet a friend.",
+  "newElement": "au",
+  "usesPrior": [
+   "tomodachi",
+   "ni"
+  ],
+  "cardType": "PROD",
+  "note": "au is [1]; its target is ni, not o.",
+  "block": "wk4-6",
+  "kana": "ともだちにあう。"
+ },
+ {
+  "n": 179,
+  "romaji": "Nani tte yutta?",
+  "gloss": "What did you say?",
+  "newElement": "yuu (yutta)",
+  "usesPrior": [
+   "nani"
+  ],
+  "cardType": "PROD",
+  "note": "Say yutta, never 'itta'. Expansion set: yuu / yutta / tte yutteta.",
+  "block": "wk4-6",
+  "kana": "なにってゆった？"
+ },
+ {
+  "n": 180,
+  "romaji": "Namae wa?",
+  "gloss": "And your name?",
+  "newElement": "namae",
+  "usesPrior": [
+   "wa"
+  ],
+  "cardType": "PROD",
+  "note": "Topic with the predicate wholly ellipted: the commonest wa sentence there is.",
+  "block": "wk4-6",
+  "kana": "なまえわ？"
+ },
+ {
+  "n": 181,
+  "romaji": "Neko ga suki.",
+  "gloss": "I like cats.",
+  "newElement": "suki",
+  "usesPrior": [
+   "neko",
+   "ga"
+  ],
+  "cardType": "PROD",
+  "note": "The liked thing is ga-marked. Never *neko o suki.",
+  "block": "wk4-6",
+  "kana": "ねこがすき。"
+ },
+ {
+  "n": 182,
+  "romaji": "Watashi wa inu ga suki.",
+  "gloss": "Me, I like dogs.",
+  "newElement": "wa ... ga suki (double-nominative with a ga-predicate)",
+  "usesPrior": [
+   "watashi",
+   "wa",
+   "inu",
+   "ga",
+   "suki"
+  ],
+  "cardType": "PROD",
+  "note": "Same frame as uchi wa niwa ga aru; pointed out explicitly.",
+  "block": "wk4-6",
+  "kana": "わたしわいぬがすき。"
+ },
+ {
+  "n": 183,
+  "romaji": "Niku ga kirai.",
+  "gloss": "I don't like meat.",
+  "newElement": "kirai",
+  "usesPrior": [
+   "niku",
+   "ga"
+  ],
+  "cardType": "PROD",
+  "block": "wk4-6",
+  "kana": "にくがきらい。"
+ },
+ {
+  "n": 184,
+  "romaji": "Yasai ga daisuki.",
+  "gloss": "I love vegetables.",
+  "newElement": "daisuki",
+  "usesPrior": [
+   "yasai",
+   "ga"
+  ],
+  "cardType": "PROD",
+  "block": "wk4-6",
+  "kana": "やさいがだいすき。"
+ },
+ {
+  "n": 185,
+  "romaji": "Yume o miru.",
+  "gloss": "(I) have a dream.",
+  "newElement": "yume",
+  "usesPrior": [
+   "o",
+   "miru"
+  ],
+  "cardType": "RECOG",
+  "block": "wk4-6",
+  "kana": "ゆめおみる。"
+ },
+ {
+  "n": 186,
+  "romaji": "Uta ga joozu.",
+  "gloss": "(She's) good at singing.",
+  "newElement": "joozu",
+  "usesPrior": [
+   "uta",
+   "ga"
+  ],
+  "cardType": "PROD",
+  "block": "wk4-6",
+  "kana": "うたがじょうず。"
+ },
+ {
+  "n": 187,
+  "romaji": "E ga heta.",
+  "gloss": "(I'm) bad at drawing.",
+  "newElement": "heta",
+  "usesPrior": [
+   "e",
+   "ga"
+  ],
+  "cardType": "PROD",
+  "block": "wk4-6",
+  "kana": "えがへた。"
+ },
+ {
+  "n": 188,
+  "romaji": "Mizu ga hoshii.",
+  "gloss": "I want water.",
+  "newElement": "hoshii",
+  "usesPrior": [
+   "mizu",
+   "ga"
+  ],
+  "cardType": "PROD",
+  "block": "wk4-6",
+  "kana": "みずがほしい。"
+ },
+ {
+  "n": 189,
+  "romaji": "Yasumi ga hoshii.",
+  "gloss": "I want a day off.",
+  "newElement": "yasumi",
+  "usesPrior": [
+   "ga",
+   "hoshii"
+  ],
+  "cardType": "PROD",
+  "block": "wk4-6",
+  "kana": "やすみがほしい。"
+ },
+ {
+  "n": 190,
+  "romaji": "Imi ga wakaru.",
+  "gloss": "I get the meaning.",
+  "newElement": "wakaru",
+  "usesPrior": [
+   "imi",
+   "ga"
+  ],
+  "cardType": "PROD",
+  "block": "wk4-6",
+  "kana": "いみがわかる。"
+ },
+ {
+  "n": 191,
+  "romaji": "Sukoshi wakaru.",
+  "gloss": "I understand a little.",
+  "newElement": "sukoshi",
+  "usesPrior": [
+   "wakaru"
+  ],
+  "cardType": "PROD",
+  "block": "wk4-6",
+  "kana": "すこしわかる。"
+ },
+ {
+  "n": 192,
+  "romaji": "Kore ga dekiru.",
+  "gloss": "I can do this one.",
+  "newElement": "dekiru",
+  "usesPrior": [
+   "kore",
+   "ga"
+  ],
+  "cardType": "PROD",
+  "block": "wk4-6",
+  "kana": "これができる。"
+ },
+ {
+  "n": 193,
+  "romaji": "Ano hito wa hanashi ga joozu.",
+  "gloss": "He's a good talker.",
+  "newElement": "hanashi",
+  "usesPrior": [
+   "ano",
+   "hito",
+   "wa",
+   "ga",
+   "joozu"
+  ],
+  "cardType": "RECOG",
+  "note": "Full double-nominative with a ga-predicate.",
+  "block": "wk4-6",
+  "kana": "あのひとわはなしがじょうず。"
+ },
+ {
+  "n": 194,
+  "romaji": "Kodomo no te da.",
+  "gloss": "It's a child's hand.",
+  "newElement": "te",
+  "usesPrior": [
+   "kodomo",
+   "no",
+   "da"
+  ],
+  "cardType": "RECOG",
+  "block": "wk4-6",
+  "kana": "こどものてだ。"
+ },
+ {
+  "n": 195,
+  "romaji": "Neko mo iru.",
+  "gloss": "There's a cat too.",
+  "newElement": "mo",
+  "usesPrior": [
+   "neko",
+   "iru"
+  ],
+  "cardType": "PROD",
+  "note": "mo replaces ga; *neko ga mo is impossible.",
+  "block": "wk4-6",
+  "kana": "ねこもいる。"
+ },
+ {
+  "n": 196,
+  "romaji": "Yasai mo taberu.",
+  "gloss": "(I) eat vegetables too.",
+  "newElement": "mo replacing o",
+  "usesPrior": [
+   "yasai",
+   "mo",
+   "taberu"
+  ],
+  "cardType": "PROD",
+  "block": "wk4-6",
+  "kana": "やさいもたべる。"
+ },
+ {
+  "n": 197,
+  "romaji": "Watashi mo suki.",
+  "gloss": "I like it too.",
+  "newElement": "mo replacing wa",
+  "usesPrior": [
+   "watashi",
+   "mo",
+   "suki"
+  ],
+  "cardType": "PROD",
+  "block": "wk4-6",
+  "kana": "わたしもすき。"
+ },
+ {
+  "n": 198,
+  "romaji": "Sono koto wa wakaru.",
+  "gloss": "That much I do understand.",
+  "newElement": "koto",
+  "usesPrior": [
+   "sono",
+   "wa",
+   "wakaru"
+  ],
+  "cardType": "PROD",
+  "note": "Contrastive wa on an object: wa displacing ga, not adding to it.",
+  "block": "wk4-6",
+  "kana": "そのことわわかる。"
+ },
+ {
+  "n": 199,
+  "romaji": "Itsumo koko ni iru.",
+  "gloss": "(He's) always here.",
+  "newElement": "itsumo",
+  "usesPrior": [
+   "koko",
+   "ni",
+   "iru"
+  ],
+  "cardType": "RECOG",
+  "block": "wk4-6",
+  "kana": "いつもここにいる。"
+ },
+ {
+  "n": 200,
+  "romaji": "Gohan o taberu.",
+  "gloss": "(I) eat a meal.",
+  "newElement": "gohan",
+  "usesPrior": [
+   "o",
+   "taberu"
+  ],
+  "cardType": "PROD",
+  "block": "wk4-6",
+  "kana": "ごはんおたべる。"
+ },
+ {
+  "n": 201,
+  "romaji": "Pan mo taberu.",
+  "gloss": "(I) eat bread too.",
+  "newElement": "pan",
+  "usesPrior": [
+   "mo",
+   "taberu"
+  ],
+  "cardType": "PROD",
+  "block": "wk4-6",
+  "kana": "パンもたべる。"
+ },
+ {
+  "n": 202,
+  "romaji": "Hon o yomu.",
+  "gloss": "(I) read a book.",
+  "newElement": "hon",
+  "usesPrior": [
+   "o",
+   "yomu"
+  ],
+  "cardType": "PROD",
+  "block": "wk4-6",
+  "kana": "ほんおよむ。"
+ },
+ {
+  "n": 203,
+  "romaji": "Onna no hito ga iru.",
+  "gloss": "There's a woman there.",
+  "newElement": "onna",
+  "usesPrior": [
+   "no",
+   "hito",
+   "ga",
+   "iru"
+  ],
+  "cardType": "RECOG",
+  "block": "wk4-6",
+  "kana": "おんなのひとがいる。"
+ },
+ {
+  "n": 204,
+  "romaji": "Minna iru?",
+  "gloss": "Is everyone here?",
+  "newElement": "minna",
+  "usesPrior": [
+   "iru"
+  ],
+  "cardType": "PROD",
+  "note": "Also recycles the ga-drop.",
+  "block": "wk4-6",
+  "kana": "みんないる？"
+ },
+ {
+  "n": 205,
+  "romaji": "Jikan ga nai.",
+  "gloss": "There's no time.",
+  "newElement": "jikan",
+  "usesPrior": [
+   "ga",
+   "nai"
+  ],
+  "cardType": "PROD",
+  "note": "Fixed chunk: the i-adjective nai in its highest-frequency frame.",
+  "block": "wk4-6",
+  "kana": "じかんがない。"
+ },
+ {
+  "n": 206,
+  "romaji": "Ima, doko ni iru?",
+  "gloss": "Where are you now?",
+  "newElement": "ima",
+  "usesPrior": [
+   "doko",
+   "ni",
+   "iru"
+  ],
+  "cardType": "PROD",
+  "block": "wk4-6",
+  "kana": "いま、どこにいる？"
+ },
+ {
+  "n": 207,
+  "romaji": "Otoosan wa uchi ni iru.",
+  "gloss": "Your dad's at home.",
+  "newElement": "otoosan",
+  "usesPrior": [
+   "wa",
+   "uchi",
+   "ni",
+   "iru"
+  ],
+  "cardType": "PROD",
+  "block": "wk4-6",
+  "kana": "おとうさんわうちにいる。"
+ },
+ {
+  "n": 208,
+  "romaji": "Chichi wa shigoto da.",
+  "gloss": "My father's at work.",
+  "newElement": "chichi",
+  "usesPrior": [
+   "wa",
+   "shigoto",
+   "da"
+  ],
+  "cardType": "PROD",
+  "note": "Drilled immediately against 87: out-group otoosan vs in-group chichi.",
+  "block": "wk4-6",
+  "kana": "ちちわしごとだ。"
+ },
+ {
+  "n": 209,
+  "romaji": "Okaasan wa doko?",
+  "gloss": "Where's your mum?",
+  "newElement": "okaasan",
+  "usesPrior": [
+   "wa",
+   "doko"
+  ],
+  "cardType": "PROD",
+  "block": "wk4-6",
+  "kana": "おかあさんわどこ？"
+ },
+ {
+  "n": 210,
+  "romaji": "Haha wa uchi ni ita.",
+  "gloss": "My mother was at home.",
+  "newElement": "haha",
+  "usesPrior": [
+   "wa",
+   "uchi",
+   "ni",
+   "ita"
+  ],
+  "cardType": "PROD",
+  "block": "wk4-6",
+  "kana": "ははわうちにいた。"
+ },
+ {
+  "n": 211,
+  "romaji": "Oniisan ga iru.",
+  "gloss": "You have an older brother.",
+  "newElement": "oniisan",
+  "usesPrior": [
+   "ga",
+   "iru"
+  ],
+  "cardType": "PROD",
+  "block": "wk4-6",
+  "kana": "おにいさんがいる。"
+ },
+ {
+  "n": 212,
+  "romaji": "Ane wa eki ni iru.",
+  "gloss": "My older sister's at the station.",
+  "newElement": "ane",
+  "usesPrior": [
+   "wa",
+   "eki",
+   "ni",
+   "iru"
+  ],
+  "cardType": "PROD",
+  "block": "wk4-6",
+  "kana": "あねわえきにいる。"
+ },
+ {
+  "n": 213,
+  "romaji": "Imooto ga iru.",
+  "gloss": "I have a younger sister.",
+  "newElement": "imooto",
+  "usesPrior": [
+   "ga",
+   "iru"
+  ],
+  "cardType": "PROD",
+  "block": "wk4-6",
+  "kana": "いもうとがいる。"
+ },
+ {
+  "n": 214,
+  "romaji": "Otooto mo iru.",
+  "gloss": "I have a younger brother too.",
+  "newElement": "otooto",
+  "usesPrior": [
+   "mo",
+   "iru"
+  ],
+  "cardType": "PROD",
+  "block": "wk4-6",
+  "kana": "おとうともいる。"
+ },
+ {
+  "n": 215,
+  "romaji": "ikura desu ka.",
+  "gloss": "How much is it?",
+  "newElement": "ikura (105)",
+  "usesPrior": [
+   "desu ka"
+  ],
+  "cardType": "PROD",
+  "block": "wk5-8-numbers",
+  "kana": "いくらですか。"
+ },
+ {
+  "n": 216,
+  "romaji": "kore wa hyakuen desu.",
+  "gloss": "This is a hundred yen.",
+  "newElement": "hyakuen (100)",
+  "usesPrior": [
+   "kore",
+   "wa",
+   "desu"
+  ],
+  "cardType": "RECOG",
+  "block": "wk5-8-numbers",
+  "kana": "これわひゃくえんです。"
+ },
+ {
+  "n": 217,
+  "romaji": "sore wa gohyakuen desu ka.",
+  "gloss": "Is that five hundred yen?",
+  "newElement": "gohyakuen (102)",
+  "usesPrior": [
+   "sore",
+   "wa",
+   "desu ka"
+  ],
+  "cardType": "PROD",
+  "block": "wk5-8-numbers",
+  "kana": "それわごひゃくえんですか。"
+ },
+ {
+  "n": 218,
+  "romaji": "are wa sen'en desu.",
+  "gloss": "That one over there is a thousand yen.",
+  "newElement": "sen'en (103)",
+  "usesPrior": [
+   "are",
+   "wa",
+   "desu"
+  ],
+  "cardType": "RECOG",
+  "note": "Listen for the N beat before the e. sen'en is four beats, not three.",
+  "block": "wk5-8-numbers",
+  "kana": "あれわせんえんです。"
+ },
+ {
+  "n": 219,
+  "romaji": "kore wa ichiman'en desu.",
+  "gloss": "This is ten thousand yen.",
+  "newElement": "ichiman'en (104)",
+  "usesPrior": [
+   "kore",
+   "wa",
+   "desu"
+  ],
+  "cardType": "RECOG",
+  "block": "wk5-8-numbers",
+  "kana": "これわいちまんえんです。"
+ },
+ {
+  "n": 220,
+  "romaji": "kore kudasai.",
+  "gloss": "This one, please.",
+  "newElement": "kudasai (175)",
+  "usesPrior": [
+   "kore"
+  ],
+  "cardType": "PROD",
+  "block": "wk5-8-numbers",
+  "kana": "これください。"
+ },
+ {
+  "n": 221,
+  "romaji": "mizu o hitotsu kudasai.",
+  "gloss": "One water, please.",
+  "newElement": "hitotsu (44)",
+  "usesPrior": [
+   "mizu",
+   "o",
+   "kudasai"
+  ],
+  "cardType": "PROD",
+  "block": "wk5-8-numbers",
+  "kana": "みずおひとつください。"
+ },
+ {
+  "n": 222,
+  "romaji": "biiru o futatsu kudasai.",
+  "gloss": "Two beers, please.",
+  "newElement": "futatsu (45)",
+  "usesPrior": [
+   "biiru",
+   "o",
+   "kudasai"
+  ],
+  "cardType": "PROD",
+  "block": "wk5-8-numbers",
+  "kana": "ビールおふたつください。"
+ },
+ {
+  "n": 223,
+  "romaji": "ringo o mittsu kudasai.",
+  "gloss": "Three apples, please.",
+  "newElement": "mittsu (46)",
+  "usesPrior": [
+   "ringo",
+   "o",
+   "kudasai"
+  ],
+  "cardType": "PROD",
+  "block": "wk5-8-numbers",
+  "kana": "りんごおみっつください。"
+ },
+ {
+  "n": 224,
+  "romaji": "tamago o yottsu kudasai.",
+  "gloss": "Four eggs, please.",
+  "newElement": "yottsu (47)",
+  "usesPrior": [
+   "tamago",
+   "o",
+   "kudasai"
+  ],
+  "cardType": "PROD",
+  "block": "wk5-8-numbers",
+  "kana": "たまごおよっつください。"
+ },
+ {
+  "n": 225,
+  "romaji": "pan o itsutsu kudasai.",
+  "gloss": "Five breads, please.",
+  "newElement": "itsutsu (48)",
+  "usesPrior": [
+   "pan",
+   "o",
+   "kudasai"
+  ],
+  "cardType": "PROD",
+  "note": "The one cell in the run with no geminate. Feel the difference against yottsu on the card before it.",
+  "block": "wk5-8-numbers",
+  "kana": "パンおいつつください。"
+ },
+ {
+  "n": 226,
+  "romaji": "koohii o muttsu kudasai.",
+  "gloss": "Six coffees, please.",
+  "newElement": "muttsu (49)",
+  "usesPrior": [
+   "koohii",
+   "o",
+   "kudasai"
+  ],
+  "cardType": "PROD",
+  "block": "wk5-8-numbers",
+  "kana": "コーヒーおむっつください。"
+ },
+ {
+  "n": 227,
+  "romaji": "onegaishimasu.",
+  "gloss": "Please. / If you would.",
+  "newElement": "onegaishimasu (177)",
+  "usesPrior": [],
+  "cardType": "PROD",
+  "block": "wk5-8-numbers",
+  "kana": "おねがいします。"
+ },
+ {
+  "n": 228,
+  "romaji": "ikutsu desu ka.",
+  "gloss": "How many?",
+  "newElement": "ikutsu (54)",
+  "usesPrior": [
+   "desu ka"
+  ],
+  "cardType": "RECOG",
+  "block": "wk5-8-numbers",
+  "kana": "いくつですか。"
+ },
+ {
+  "n": 229,
+  "romaji": "nanatsu onegaishimasu.",
+  "gloss": "Seven, please.",
+  "newElement": "nanatsu (50)",
+  "usesPrior": [
+   "onegaishimasu"
+  ],
+  "cardType": "PROD",
+  "block": "wk5-8-numbers",
+  "kana": "ななつおねがいします。"
+ },
+ {
+  "n": 230,
+  "romaji": "tamago wa yattsu arimasu.",
+  "gloss": "There are eight eggs.",
+  "newElement": "yattsu (51)",
+  "usesPrior": [
+   "tamago",
+   "wa",
+   "arimasu"
+  ],
+  "cardType": "RECOG",
+  "block": "wk5-8-numbers",
+  "kana": "たまごわやっつあります。"
+ },
+ {
+  "n": 231,
+  "romaji": "too kudasai.",
+  "gloss": "Ten, please.",
+  "newElement": "too (53)",
+  "usesPrior": [
+   "kudasai"
+  ],
+  "cardType": "PROD",
+  "note": "Two beats. A clipped *to is a different word entirely.",
+  "block": "wk5-8-numbers",
+  "kana": "とおください。"
+ },
+ {
+  "n": 232,
+  "romaji": "hitori desu.",
+  "gloss": "Just me. / Party of one.",
+  "newElement": "hitori (56)",
+  "usesPrior": [
+   "desu"
+  ],
+  "cardType": "PROD",
+  "note": "What you answer at a restaurant door.",
+  "block": "wk5-8-numbers",
+  "kana": "ひとりです。"
+ },
+ {
+  "n": 233,
+  "romaji": "futari desu ka.",
+  "gloss": "Two of you?",
+  "newElement": "futari (57)",
+  "usesPrior": [
+   "desu ka"
+  ],
+  "cardType": "RECOG",
+  "block": "wk5-8-numbers",
+  "kana": "ふたりですか。"
+ },
+ {
+  "n": 234,
+  "romaji": "tomodachi ga sannin imasu.",
+  "gloss": "I have three friends here.",
+  "newElement": "sannin (58)",
+  "usesPrior": [
+   "tomodachi",
+   "ga",
+   "imasu"
+  ],
+  "cardType": "PROD",
+  "block": "wk5-8-numbers",
+  "kana": "ともだちがさんにんいます。"
+ },
+ {
+  "n": 235,
+  "romaji": "yonin onegaishimasu.",
+  "gloss": "Four people, please.",
+  "newElement": "yonin (59)",
+  "usesPrior": [
+   "onegaishimasu"
+  ],
+  "cardType": "PROD",
+  "note": "Three beats. If you hear four in your own mouth you have said *yonnin.",
+  "block": "wk5-8-numbers",
+  "kana": "よにんおねがいします。"
+ },
+ {
+  "n": 236,
+  "romaji": "nannin desu ka.",
+  "gloss": "How many people?",
+  "newElement": "nannin (62)",
+  "usesPrior": [
+   "desu ka"
+  ],
+  "cardType": "RECOG",
+  "block": "wk5-8-numbers",
+  "kana": "なんにんですか。"
+ },
+ {
+  "n": 237,
+  "romaji": "biiru o ippai kudasai.",
+  "gloss": "One beer (one glass), please.",
+  "newElement": "ippai (85)",
+  "usesPrior": [
+   "biiru",
+   "o",
+   "kudasai"
+  ],
+  "cardType": "PROD",
+  "block": "wk5-8-numbers",
+  "kana": "ビールおいっぱいください。"
+ },
+ {
+  "n": 238,
+  "romaji": "mizu o nihai onegaishimasu.",
+  "gloss": "Two glasses of water, please.",
+  "newElement": "nihai (86)",
+  "usesPrior": [
+   "mizu",
+   "o",
+   "onegaishimasu"
+  ],
+  "cardType": "PROD",
+  "block": "wk5-8-numbers",
+  "kana": "みずおにはいおねがいします。"
+ },
+ {
+  "n": 239,
+  "romaji": "koohii o sanbai kudasai.",
+  "gloss": "Three coffees, please.",
+  "newElement": "sanbai (87)",
+  "usesPrior": [
+   "koohii",
+   "o",
+   "kudasai"
+  ],
+  "cardType": "PROD",
+  "block": "wk5-8-numbers",
+  "kana": "コーヒーおさんばいください。"
+ },
+ {
+  "n": 240,
+  "romaji": "nanbai desu ka.",
+  "gloss": "How many glasses?",
+  "newElement": "nanbai (89)",
+  "usesPrior": [
+   "desu ka"
+  ],
+  "cardType": "RECOG",
+  "block": "wk5-8-numbers",
+  "kana": "なんばいですか。"
+ },
+ {
+  "n": 241,
+  "romaji": "kippu o ichimai kudasai.",
+  "gloss": "One ticket, please.",
+  "newElement": "ichimai (75)",
+  "usesPrior": [
+   "kippu",
+   "o",
+   "kudasai"
+  ],
+  "cardType": "PROD",
+  "block": "wk5-8-numbers",
+  "kana": "きっぷおいちまいください。"
+ },
+ {
+  "n": 242,
+  "romaji": "kippu o nimai onegaishimasu.",
+  "gloss": "Two tickets, please.",
+  "newElement": "nimai (76)",
+  "usesPrior": [
+   "kippu",
+   "o",
+   "onegaishimasu"
+  ],
+  "cardType": "PROD",
+  "block": "wk5-8-numbers",
+  "kana": "きっぷおにまいおねがいします。"
+ },
+ {
+  "n": 243,
+  "romaji": "nanmai desu ka.",
+  "gloss": "How many (flat things)?",
+  "newElement": "nanmai (79)",
+  "usesPrior": [
+   "desu ka"
+  ],
+  "cardType": "RECOG",
+  "block": "wk5-8-numbers",
+  "kana": "なんまいですか。"
+ },
+ {
+  "n": 244,
+  "romaji": "biiru o ippon kudasai.",
+  "gloss": "One bottle of beer, please.",
+  "newElement": "ippon (68)",
+  "usesPrior": [
+   "biiru",
+   "o",
+   "kudasai"
+  ],
+  "cardType": "PROD",
+  "note": "Contrast card 23: ippai is a glassful, ippon is the bottle.",
+  "block": "wk5-8-numbers",
+  "kana": "ビールおいっぽんください。"
+ },
+ {
+  "n": 245,
+  "romaji": "mizu o nihon onegaishimasu.",
+  "gloss": "Two bottles of water, please.",
+  "newElement": "nihon (69)",
+  "usesPrior": [
+   "mizu",
+   "o",
+   "onegaishimasu"
+  ],
+  "cardType": "PROD",
+  "note": "nihon [1], not Nihon [2]. The drop is the only thing keeping you from asking for two Japans.",
+  "block": "wk5-8-numbers",
+  "kana": "みずおにほんおねがいします。"
+ },
+ {
+  "n": 246,
+  "romaji": "sanbon arimasu.",
+  "gloss": "There are three (bottles).",
+  "newElement": "sanbon (70)",
+  "usesPrior": [
+   "arimasu"
+  ],
+  "cardType": "RECOG",
+  "block": "wk5-8-numbers",
+  "kana": "さんぼんあります。"
+ },
+ {
+  "n": 247,
+  "romaji": "roppon kudasai.",
+  "gloss": "Six, please.",
+  "newElement": "roppon (73)",
+  "usesPrior": [
+   "kudasai"
+  ],
+  "cardType": "PROD",
+  "block": "wk5-8-numbers",
+  "kana": "ろっぽんください。"
+ },
+ {
+  "n": 248,
+  "romaji": "neko ga ippiki imasu.",
+  "gloss": "There's one cat.",
+  "newElement": "ippiki (80)",
+  "usesPrior": [
+   "neko",
+   "ga",
+   "imasu"
+  ],
+  "cardType": "PROD",
+  "block": "wk5-8-numbers",
+  "kana": "ねこがいっぴきいます。"
+ },
+ {
+  "n": 249,
+  "romaji": "inu ga sanbiki imasu.",
+  "gloss": "There are three dogs.",
+  "newElement": "sanbiki (82)",
+  "usesPrior": [
+   "inu",
+   "ga",
+   "imasu"
+  ],
+  "cardType": "PROD",
+  "block": "wk5-8-numbers",
+  "kana": "いぬがさんびきいます。"
+ },
+ {
+  "n": 250,
+  "romaji": "tamago o ikko kudasai.",
+  "gloss": "One egg, please.",
+  "newElement": "ikko (63)",
+  "usesPrior": [
+   "tamago",
+   "o",
+   "kudasai"
+  ],
+  "cardType": "PROD",
+  "block": "wk5-8-numbers",
+  "kana": "たまごおいっこください。"
+ },
+ {
+  "n": 251,
+  "romaji": "ringo o rokko onegaishimasu.",
+  "gloss": "Six apples, please.",
+  "newElement": "rokko (66)",
+  "usesPrior": [
+   "ringo",
+   "o",
+   "onegaishimasu"
+  ],
+  "cardType": "PROD",
+  "block": "wk5-8-numbers",
+  "kana": "りんごおろっこおねがいします。"
+ },
+ {
+  "n": 252,
+  "romaji": "mise wa nikai desu.",
+  "gloss": "The shop is on the second floor.",
+  "newElement": "nikai (91)",
+  "usesPrior": [
+   "mise",
+   "wa",
+   "desu"
+  ],
+  "cardType": "RECOG",
+  "block": "wk5-8-numbers",
+  "kana": "みせわにかいです。"
+ },
+ {
+  "n": 253,
+  "romaji": "resutoran wa sangai desu.",
+  "gloss": "The restaurant is on the third floor.",
+  "newElement": "sangai (92)",
+  "usesPrior": [
+   "resutoran",
+   "wa",
+   "desu"
+  ],
+  "cardType": "PROD",
+  "note": "The g is the whole point. *sankai here means 'three times'.",
+  "block": "wk5-8-numbers",
+  "kana": "れすとらんわさんがいです。"
+ },
+ {
+  "n": 254,
+  "romaji": "sankai desu.",
+  "gloss": "Three times.",
+  "newElement": "sankai (96)",
+  "usesPrior": [
+   "desu"
+  ],
+  "cardType": "RECOG",
+  "note": "Play back-to-back with card 39 in the same session. Same word shape, one consonant apart, two unrelated meanings.",
+  "block": "wk5-8-numbers",
+  "kana": "さんかいです。"
+ },
+ {
+  "n": 255,
+  "romaji": "nanji desu ka.",
+  "gloss": "What time is it?",
+  "newElement": "nanji (116)",
+  "usesPrior": [
+   "desu ka"
+  ],
+  "cardType": "PROD",
+  "block": "wk5-8-numbers",
+  "kana": "なんじですか。"
+ },
+ {
+  "n": 256,
+  "romaji": "sanji desu.",
+  "gloss": "It's three o'clock.",
+  "newElement": "sanji (108)",
+  "usesPrior": [
+   "desu"
+  ],
+  "cardType": "PROD",
+  "block": "wk5-8-numbers",
+  "kana": "さんじです。"
+ },
+ {
+  "n": 257,
+  "romaji": "yoji desu ka.",
+  "gloss": "Is it four o'clock?",
+  "newElement": "yoji (109)",
+  "usesPrior": [
+   "desu ka"
+  ],
+  "cardType": "PROD",
+  "note": "Two beats. *yonji does not exist.",
+  "block": "wk5-8-numbers",
+  "kana": "よじですか。"
+ },
+ {
+  "n": 258,
+  "romaji": "shichiji desu.",
+  "gloss": "It's seven o'clock.",
+  "newElement": "shichiji (112)",
+  "usesPrior": [
+   "desu"
+  ],
+  "cardType": "PROD",
+  "block": "wk5-8-numbers",
+  "kana": "しちじです。"
+ },
+ {
+  "n": 259,
+  "romaji": "kuji desu.",
+  "gloss": "It's nine o'clock.",
+  "newElement": "kuji (113)",
+  "usesPrior": [
+   "desu"
+  ],
+  "cardType": "PROD",
+  "block": "wk5-8-numbers",
+  "kana": "くじです。"
+ },
+ {
+  "n": 260,
+  "romaji": "sanji han desu.",
+  "gloss": "It's half past three.",
+  "newElement": "han (127)",
+  "usesPrior": [
+   "sanji",
+   "desu"
+  ],
+  "cardType": "PROD",
+  "block": "wk5-8-numbers",
+  "kana": "さんじはんです。"
+ },
+ {
+  "n": 261,
+  "romaji": "juuji desu.",
+  "gloss": "It's ten o'clock.",
+  "newElement": "juuji (114)",
+  "usesPrior": [
+   "desu"
+  ],
+  "cardType": "PROD",
+  "block": "wk5-8-numbers",
+  "kana": "じゅうじです。"
+ },
+ {
+  "n": 262,
+  "romaji": "gozen juuji desu.",
+  "gloss": "It's ten a.m.",
+  "newElement": "gozen (128)",
+  "usesPrior": [
+   "juuji",
+   "desu"
+  ],
+  "cardType": "PROD",
+  "block": "wk5-8-numbers",
+  "kana": "ごぜんじゅうじです。"
+ },
+ {
+  "n": 263,
+  "romaji": "gogo yoji desu.",
+  "gloss": "It's four p.m.",
+  "newElement": "gogo (129)",
+  "usesPrior": [
+   "yoji",
+   "desu"
+  ],
+  "cardType": "PROD",
+  "block": "wk5-8-numbers",
+  "kana": "ごごよじです。"
+ },
+ {
+  "n": 264,
+  "romaji": "mise wa juuji kara desu.",
+  "gloss": "The shop opens at ten.",
+  "newElement": "kara (130)",
+  "usesPrior": [
+   "mise",
+   "wa",
+   "juuji",
+   "desu"
+  ],
+  "cardType": "PROD",
+  "block": "wk5-8-numbers",
+  "kana": "みせわじゅうじからです。"
+ },
+ {
+  "n": 265,
+  "romaji": "mise wa kuji made desu.",
+  "gloss": "The shop is open until nine.",
+  "newElement": "made (131)",
+  "usesPrior": [
+   "mise",
+   "wa",
+   "kuji",
+   "desu"
+  ],
+  "cardType": "PROD",
+  "block": "wk5-8-numbers",
+  "kana": "みせわくじまでです。"
+ },
+ {
+  "n": 266,
+  "romaji": "gogo yoji made ni onegaishimasu.",
+  "gloss": "By four p.m., please.",
+  "newElement": "made ni (132)",
+  "usesPrior": [
+   "gogo",
+   "yoji",
+   "onegaishimasu"
+  ],
+  "cardType": "PROD",
+  "block": "wk5-8-numbers",
+  "kana": "ごごよじまでにおねがいします。"
+ },
+ {
+  "n": 267,
+  "romaji": "gofun desu.",
+  "gloss": "It's five minutes.",
+  "newElement": "gofun (121)",
+  "usesPrior": [
+   "desu"
+  ],
+  "cardType": "PROD",
+  "block": "wk5-8-numbers",
+  "kana": "ごふんです。"
+ },
+ {
+  "n": 268,
+  "romaji": "sanji juppun desu.",
+  "gloss": "It's three ten.",
+  "newElement": "juppun (123)",
+  "usesPrior": [
+   "sanji",
+   "desu"
+  ],
+  "cardType": "PROD",
+  "block": "wk5-8-numbers",
+  "kana": "さんじじゅっぷんです。"
+ },
+ {
+  "n": 269,
+  "romaji": "sanpun desu ka.",
+  "gloss": "Three minutes?",
+  "newElement": "sanpun (119)",
+  "usesPrior": [
+   "desu ka"
+  ],
+  "cardType": "PROD",
+  "note": "p, not b. Say sanbon and sanpun back to back and hear that they do not rhyme.",
+  "block": "wk5-8-numbers",
+  "kana": "さんぷんですか。"
+ },
+ {
+  "n": 270,
+  "romaji": "nanpun desu ka.",
+  "gloss": "How many minutes?",
+  "newElement": "nanpun (126)",
+  "usesPrior": [
+   "desu ka"
+  ],
+  "cardType": "RECOG",
+  "block": "wk5-8-numbers",
+  "kana": "なんぷんですか。"
+ },
+ {
+  "n": 271,
+  "romaji": "sanji ni onegaishimasu.",
+  "gloss": "At three, please.",
+  "newElement": "ni with clock time (particle use)",
+  "usesPrior": [
+   "sanji",
+   "ni",
+   "onegaishimasu"
+  ],
+  "cardType": "PROD",
+  "note": "THE RULE: ni attaches to times you could point to on a calendar or a clock face. sanji ni, getsuyoobi ni, tsuitachi ni.",
+  "block": "wk5-8-numbers",
+  "kana": "さんじにおねがいします。"
+ },
+ {
+  "n": 272,
+  "romaji": "kyoo desu.",
+  "gloss": "It's today.",
+  "newElement": "kyoo (166)",
+  "usesPrior": [
+   "desu"
+  ],
+  "cardType": "PROD",
+  "note": "NO ni. kyoo means 'today' only relative to the moment you speak - it is deictic, so it takes no particle. Never *kyoo ni.",
+  "block": "wk5-8-numbers",
+  "kana": "きょうです。"
+ },
+ {
+  "n": 273,
+  "romaji": "ashita onegaishimasu.",
+  "gloss": "Tomorrow, please.",
+  "newElement": "ashita (167)",
+  "usesPrior": [
+   "onegaishimasu"
+  ],
+  "cardType": "PROD",
+  "note": "Bare again. Same reason as kyoo.",
+  "block": "wk5-8-numbers",
+  "kana": "あしたおねがいします。"
+ },
+ {
+  "n": 274,
+  "romaji": "kinoo desu ka.",
+  "gloss": "Yesterday?",
+  "newElement": "kinoo (168)",
+  "usesPrior": [
+   "desu ka"
+  ],
+  "cardType": "RECOG",
+  "block": "wk5-8-numbers",
+  "kana": "きのうですか。"
+ },
+ {
+  "n": 275,
+  "romaji": "asatte onegaishimasu.",
+  "gloss": "The day after tomorrow, please.",
+  "newElement": "asatte (169)",
+  "usesPrior": [
+   "onegaishimasu"
+  ],
+  "cardType": "PROD",
+  "block": "wk5-8-numbers",
+  "kana": "あさっておねがいします。"
+ },
+ {
+  "n": 276,
+  "romaji": "raishuu desu.",
+  "gloss": "It's next week.",
+  "newElement": "raishuu (171)",
+  "usesPrior": [
+   "desu"
+  ],
+  "cardType": "PROD",
+  "block": "wk5-8-numbers",
+  "kana": "らいしゅうです。"
+ },
+ {
+  "n": 277,
+  "romaji": "doyoobi desu.",
+  "gloss": "It's Saturday.",
+  "newElement": "doyoobi (157)",
+  "usesPrior": [
+   "desu"
+  ],
+  "cardType": "PROD",
+  "block": "wk5-8-numbers",
+  "kana": "どようびです。"
+ },
+ {
+  "n": 278,
+  "romaji": "kyoo wa getsuyoobi desu.",
+  "gloss": "Today is Monday.",
+  "newElement": "getsuyoobi (152)",
+  "usesPrior": [
+   "kyoo",
+   "wa",
+   "desu"
+  ],
+  "cardType": "PROD",
+  "block": "wk5-8-numbers",
+  "kana": "きょうわげつようびです。"
+ },
+ {
+  "n": 279,
+  "romaji": "getsuyoobi ni onegaishimasu.",
+  "gloss": "On Monday, please.",
+  "newElement": "getsuyoobi ni (the calendrical ni)",
+  "usesPrior": [
+   "getsuyoobi",
+   "ni",
+   "onegaishimasu"
+  ],
+  "cardType": "PROD",
+  "note": "Weekday takes ni; kyoo does not. Put cards 58 and 65 in the same review run so the contrast is felt, not memorised.",
+  "block": "wk5-8-numbers",
+  "kana": "げつようびにおねがいします。"
+ },
+ {
+  "n": 280,
+  "romaji": "kin'yoobi desu ka.",
+  "gloss": "Friday?",
+  "newElement": "kin'yoobi (156)",
+  "usesPrior": [
+   "desu ka"
+  ],
+  "cardType": "PROD",
+  "block": "wk5-8-numbers",
+  "kana": "きんようびですか。"
+ },
+ {
+  "n": 281,
+  "romaji": "nan'yoobi desu ka.",
+  "gloss": "What day of the week is it?",
+  "newElement": "nan'yoobi (159)",
+  "usesPrior": [
+   "desu ka"
+  ],
+  "cardType": "PROD",
+  "block": "wk5-8-numbers",
+  "kana": "なんようびですか。"
+ },
+ {
+  "n": 282,
+  "romaji": "tsuitachi desu.",
+  "gloss": "It's the first.",
+  "newElement": "tsuitachi (138)",
+  "usesPrior": [
+   "desu"
+  ],
+  "cardType": "PROD",
+  "block": "wk5-8-numbers",
+  "kana": "ついたちです。"
+ },
+ {
+  "n": 283,
+  "romaji": "yokka desu ka.",
+  "gloss": "The fourth?",
+  "newElement": "yokka (141)",
+  "usesPrior": [
+   "desu ka"
+  ],
+  "cardType": "PROD",
+  "block": "wk5-8-numbers",
+  "kana": "よっかですか。"
+ },
+ {
+  "n": 284,
+  "romaji": "yooka desu.",
+  "gloss": "It's the eighth.",
+  "newElement": "yooka (145)",
+  "usesPrior": [
+   "desu"
+  ],
+  "cardType": "RECOG",
+  "note": "Immediately after card 69. Long vowel versus geminate: yooka / yokka. If you cannot hear it here, go back to the week 1-2 length drills for one session.",
+  "block": "wk5-8-numbers",
+  "kana": "ようかです。"
+ },
+ {
+  "n": 285,
+  "romaji": "tooka onegaishimasu.",
+  "gloss": "The tenth, please.",
+  "newElement": "tooka (147)",
+  "usesPrior": [
+   "onegaishimasu"
+  ],
+  "cardType": "PROD",
+  "block": "wk5-8-numbers",
+  "kana": "とおかおねがいします。"
+ },
+ {
+  "n": 286,
+  "romaji": "hatsuka desu.",
+  "gloss": "It's the twentieth.",
+  "newElement": "hatsuka (149)",
+  "usesPrior": [
+   "desu"
+  ],
+  "cardType": "PROD",
+  "block": "wk5-8-numbers",
+  "kana": "はつかです。"
+ },
+ {
+  "n": 287,
+  "romaji": "nannichi desu ka.",
+  "gloss": "What's the date?",
+  "newElement": "nannichi (151)",
+  "usesPrior": [
+   "desu ka"
+  ],
+  "cardType": "PROD",
+  "block": "wk5-8-numbers",
+  "kana": "なんにちですか。"
+ },
+ {
+  "n": 288,
+  "romaji": "shigatsu desu.",
+  "gloss": "It's April.",
+  "newElement": "shigatsu (161)",
+  "usesPrior": [
+   "desu"
+  ],
+  "cardType": "PROD",
+  "block": "wk5-8-numbers",
+  "kana": "しがつです。"
+ },
+ {
+  "n": 289,
+  "romaji": "kugatsu tooka desu.",
+  "gloss": "It's September tenth.",
+  "newElement": "kugatsu (163)",
+  "usesPrior": [
+   "tooka",
+   "desu"
+  ],
+  "cardType": "PROD",
+  "note": "Order is big-to-small, always: month then day.",
+  "block": "wk5-8-numbers",
+  "kana": "くがつとおかです。"
+ },
+ {
+  "n": 290,
+  "romaji": "nangatsu desu ka.",
+  "gloss": "What month?",
+  "newElement": "nangatsu (165)",
+  "usesPrior": [
+   "desu ka"
+  ],
+  "cardType": "RECOG",
+  "block": "wk5-8-numbers",
+  "kana": "なんがつですか。"
+ },
+ {
+  "n": 291,
+  "romaji": "futatsume no shingoo desu.",
+  "gloss": "It's the second light.",
+  "newElement": "futatsume (134)",
+  "usesPrior": [
+   "no",
+   "shingoo",
+   "desu"
+  ],
+  "cardType": "PROD",
+  "note": "The single most useful sentence in this block for finding anything on foot.",
+  "block": "wk5-8-numbers",
+  "kana": "ふたつめのしんごうです。"
+ },
+ {
+  "n": 292,
+  "romaji": "nibanme desu.",
+  "gloss": "It's the second one.",
+  "newElement": "nibanme (137)",
+  "usesPrior": [
+   "desu"
+  ],
+  "cardType": "PROD",
+  "block": "wk5-8-numbers",
+  "kana": "にばんめです。"
+ },
+ {
+  "n": 293,
+  "romaji": "ee to, sanbon kudasai.",
+  "gloss": "Um... three, please.",
+  "newElement": "ee to (179)",
+  "usesPrior": [
+   "sanbon",
+   "kudasai"
+  ],
+  "cardType": "PROD",
+  "note": "Practise stalling on purpose. A filled pause is fluent; a silent one is not.",
+  "block": "wk5-8-numbers",
+  "kana": "ええと、さんぼんください。"
+ },
+ {
+  "n": 294,
+  "romaji": "sore ja, kore kudasai.",
+  "gloss": "In that case, I'll take this.",
+  "newElement": "sore ja (180)",
+  "usesPrior": [
+   "kore",
+   "kudasai"
+  ],
+  "cardType": "PROD",
+  "block": "wk5-8-numbers",
+  "kana": "それじゃ、これください。"
+ },
+ {
+  "n": 295,
+  "romaji": "kore de onegaishimasu.",
+  "gloss": "I'll pay with this.",
+  "newElement": "kore de (181)",
+  "usesPrior": [
+   "kore",
+   "onegaishimasu"
+  ],
+  "cardType": "PROD",
+  "block": "wk5-8-numbers",
+  "kana": "これでおねがいします。"
+ },
+ {
+  "n": 296,
+  "romaji": "fukuro irimasu ka.",
+  "gloss": "Do you need a bag?",
+  "newElement": "fukuro irimasu ka (183)",
+  "usesPrior": [],
+  "cardType": "RECOG",
+  "note": "RECOG only. You answer hai or iie - never produce this one.",
+  "block": "wk5-8-numbers",
+  "kana": "ふくろいりますか。"
+ },
+ {
+  "n": 297,
+  "romaji": "reshiito onegaishimasu.",
+  "gloss": "Receipt, please.",
+  "newElement": "reshiito (184)",
+  "usesPrior": [
+   "onegaishimasu"
+  ],
+  "cardType": "PROD",
+  "block": "wk5-8-numbers",
+  "kana": "レシートおねがいします。"
+ },
+ {
+  "n": 298,
+  "romaji": "zenbu de sen'en desu.",
+  "gloss": "That's a thousand yen in total.",
+  "newElement": "zenbu de (185)",
+  "usesPrior": [
+   "sen'en",
+   "desu"
+  ],
+  "cardType": "RECOG",
+  "note": "The clerk's line. Recognising zenbu de tells you the total is arriving next - that half-second of warning is what makes the number catchable.",
+  "block": "wk5-8-numbers",
+  "kana": "ぜんぶでせんえんです。"
+ },
+ {
+  "n": 299,
+  "romaji": "asa, jikan ga aru.",
+  "gloss": "In the morning I have time.",
+  "newElement": "KEY 1 — dictionary form as plain non-past (habitual)",
+  "usesPrior": [
+   "asa",
+   "jikan",
+   "ga",
+   "aru"
+  ],
+  "cardType": "RECOG",
+  "note": "The first verb sentence in the course deliberately uses aru, already known from block B, so the ONLY new thing is the idea that a bare verb is a finished sentence.",
+  "block": "wk6-8-verbs",
+  "kana": "あさ、じかんがある。"
+ },
+ {
+  "n": 300,
+  "romaji": "ashita mo uchi ni iru.",
+  "gloss": "Tomorrow too I'll be at home.",
+  "newElement": "ni (existence location)",
+  "usesPrior": [
+   "ashita",
+   "mo",
+   "uchi",
+   "iru",
+   "KEY1"
+  ],
+  "cardType": "RECOG",
+  "note": "Also demonstrates that the dictionary form covers the future — ashita does the tense work, not the verb.",
+  "block": "wk6-8-verbs",
+  "kana": "あしたもうちにいる。"
+ },
+ {
+  "n": 301,
+  "romaji": "eki ni iku.",
+  "gloss": "I'm going to the station.",
+  "newElement": "iku",
+  "usesPrior": [
+   "eki",
+   "ni"
+  ],
+  "cardType": "RECOG",
+  "block": "wk6-8-verbs",
+  "kana": "えきにいく。"
+ },
+ {
+  "n": 302,
+  "romaji": "gakkoo e iku.",
+  "gloss": "I'm heading to school.",
+  "newElement": "e (direction)",
+  "usesPrior": [
+   "gakkoo",
+   "iku"
+  ],
+  "cardType": "RECOG",
+  "note": "gakkoo has a geminate and a long vowel — ga-Q-ko-o, 4 morae. Heard against eki (2 morae) it doubles as a timing check.",
+  "block": "wk6-8-verbs",
+  "kana": "がっこうえいく。"
+ },
+ {
+  "n": 303,
+  "romaji": "tomodachi ga kuru.",
+  "gloss": "A friend is coming.",
+  "newElement": "kuru",
+  "usesPrior": [
+   "tomodachi",
+   "ga"
+  ],
+  "cardType": "RECOG",
+  "block": "wk6-8-verbs",
+  "kana": "ともだちがくる。"
+ },
+ {
+  "n": 304,
+  "romaji": "koohii, nomu?",
+  "gloss": "Coffee? / Want a drink?",
+  "newElement": "nomu",
+  "usesPrior": [
+   "koohii"
+  ],
+  "cardType": "RECOG",
+  "note": "Particle-dropped colloquial frame, which is what the ear actually meets. Rising intonation carries the question.",
+  "block": "wk6-8-verbs",
+  "kana": "コーヒー、のむ？"
+ },
+ {
+  "n": 305,
+  "romaji": "mizu o nomu.",
+  "gloss": "I drink water.",
+  "newElement": "o (direct object)",
+  "usesPrior": [
+   "mizu",
+   "nomu"
+  ],
+  "cardType": "PROD",
+  "block": "wk6-8-verbs",
+  "kana": "みずおのむ。"
+ },
+ {
+  "n": 306,
+  "romaji": "gohan o taberu.",
+  "gloss": "I eat a meal.",
+  "newElement": "taberu",
+  "usesPrior": [
+   "gohan",
+   "o"
+  ],
+  "cardType": "PROD",
+  "block": "wk6-8-verbs",
+  "kana": "ごはんおたべる。"
+ },
+ {
+  "n": 307,
+  "romaji": "uchi de taberu.",
+  "gloss": "I eat at home.",
+  "newElement": "de (locus of action)",
+  "usesPrior": [
+   "uchi",
+   "taberu"
+  ],
+  "cardType": "PROD",
+  "note": "Run back to back with sentence 2 (uchi ni iru). Same noun, two particles, two meanings — the ni/de contrast in its cheapest form.",
+  "block": "wk6-8-verbs",
+  "kana": "うちでたべる。"
+ },
+ {
+  "n": 308,
+  "romaji": "terebi o miru.",
+  "gloss": "I watch TV.",
+  "newElement": "miru",
+  "usesPrior": [
+   "terebi",
+   "o"
+  ],
+  "cardType": "PROD",
+  "block": "wk6-8-verbs",
+  "kana": "テレビおみる。"
+ },
+ {
+  "n": 309,
+  "romaji": "hon o kau.",
+  "gloss": "I buy a book.",
+  "newElement": "kau",
+  "usesPrior": [
+   "hon",
+   "o"
+  ],
+  "cardType": "PROD",
+  "block": "wk6-8-verbs",
+  "kana": "ほんおかう。"
+ },
+ {
+  "n": 310,
+  "romaji": "kuruma de iku.",
+  "gloss": "I go by car.",
+  "newElement": "de (means / instrument)",
+  "usesPrior": [
+   "kuruma",
+   "iku"
+  ],
+  "cardType": "PROD",
+  "block": "wk6-8-verbs",
+  "kana": "くるまでいく。"
+ },
+ {
+  "n": 311,
+  "romaji": "gakkoo kara kuru.",
+  "gloss": "He's coming from school.",
+  "newElement": "kara (source)",
+  "usesPrior": [
+   "gakkoo",
+   "kuru"
+  ],
+  "cardType": "RECOG",
+  "block": "wk6-8-verbs",
+  "kana": "がっこうからくる。"
+ },
+ {
+  "n": 312,
+  "romaji": "eki made iku.",
+  "gloss": "I'll go as far as the station.",
+  "newElement": "made (limit)",
+  "usesPrior": [
+   "eki",
+   "iku"
+  ],
+  "cardType": "PROD",
+  "block": "wk6-8-verbs",
+  "kana": "えきまでいく。"
+ },
+ {
+  "n": 313,
+  "romaji": "tomodachi to iku.",
+  "gloss": "I'm going with a friend.",
+  "newElement": "to (comitative)",
+  "usesPrior": [
+   "tomodachi",
+   "iku"
+  ],
+  "cardType": "PROD",
+  "block": "wk6-8-verbs",
+  "kana": "ともだちといく。"
+ },
+ {
+  "n": 314,
+  "romaji": "eki de matsu.",
+  "gloss": "I'll wait at the station.",
+  "newElement": "matsu",
+  "usesPrior": [
+   "eki",
+   "de"
+  ],
+  "cardType": "PROD",
+  "block": "wk6-8-verbs",
+  "kana": "えきでまつ。"
+ },
+ {
+  "n": 315,
+  "romaji": "hon o yomu.",
+  "gloss": "I read a book.",
+  "newElement": "yomu",
+  "usesPrior": [
+   "hon",
+   "o"
+  ],
+  "cardType": "PROD",
+  "block": "wk6-8-verbs",
+  "kana": "ほんおよむ。"
+ },
+ {
+  "n": 316,
+  "romaji": "namae o kaku.",
+  "gloss": "I write my name.",
+  "newElement": "kaku",
+  "usesPrior": [
+   "namae",
+   "o"
+  ],
+  "cardType": "PROD",
+  "block": "wk6-8-verbs",
+  "kana": "なまえおかく。"
+ },
+ {
+  "n": 317,
+  "romaji": "namae o kiku.",
+  "gloss": "I ask his name.",
+  "newElement": "kiku",
+  "usesPrior": [
+   "namae",
+   "o"
+  ],
+  "cardType": "PROD",
+  "note": "Minimal pair with 18 on one segment: kaku / kiku. Deliberately adjacent — this is a vowel contrast the perception block already trained.",
+  "block": "wk6-8-verbs",
+  "kana": "なまえおきく。"
+ },
+ {
+  "n": 318,
+  "romaji": "tomodachi ni kiku.",
+  "gloss": "I'll ask my friend.",
+  "newElement": "ni (recipient / target)",
+  "usesPrior": [
+   "tomodachi",
+   "kiku"
+  ],
+  "cardType": "PROD",
+  "block": "wk6-8-verbs",
+  "kana": "ともだちにきく。"
+ },
+ {
+  "n": 319,
+  "romaji": "tomodachi to hanasu.",
+  "gloss": "I talk with a friend.",
+  "newElement": "hanasu",
+  "usesPrior": [
+   "tomodachi",
+   "to"
+  ],
+  "cardType": "PROD",
+  "block": "wk6-8-verbs",
+  "kana": "ともだちとはなす。"
+ },
+ {
+  "n": 320,
+  "romaji": "eki made aruku.",
+  "gloss": "I walk to the station.",
+  "newElement": "aruku",
+  "usesPrior": [
+   "eki",
+   "made"
+  ],
+  "cardType": "PROD",
+  "block": "wk6-8-verbs",
+  "kana": "えきまであるく。"
+ },
+ {
+  "n": 321,
+  "romaji": "michi o aruku.",
+  "gloss": "I walk along the street.",
+  "newElement": "o (path)",
+  "usesPrior": [
+   "michi",
+   "aruku"
+  ],
+  "cardType": "RECOG",
+  "note": "Immediately after 22 so the learner hears the same verb take made and o for different jobs: made = how far, o = what I'm covering.",
+  "block": "wk6-8-verbs",
+  "kana": "みちおあるく。"
+ },
+ {
+  "n": 322,
+  "romaji": "nihongo ga wakaru.",
+  "gloss": "I understand Japanese.",
+  "newElement": "wakaru",
+  "usesPrior": [
+   "nihongo",
+   "ga"
+  ],
+  "cardType": "RECOG",
+  "note": "ga, not o. Flag it once here rather than repairing it for a year.",
+  "block": "wk6-8-verbs",
+  "kana": "にほんごがわかる。"
+ },
+ {
+  "n": 323,
+  "romaji": "nihongo ga dekiru.",
+  "gloss": "I can speak Japanese.",
+  "newElement": "dekiru",
+  "usesPrior": [
+   "nihongo",
+   "ga"
+  ],
+  "cardType": "PROD",
+  "block": "wk6-8-verbs",
+  "kana": "にほんごができる。"
+ },
+ {
+  "n": 324,
+  "romaji": "nihongo de yuu.",
+  "gloss": "I say it in Japanese.",
+  "newElement": "yuu",
+  "usesPrior": [
+   "nihongo",
+   "de"
+  ],
+  "cardType": "RECOG",
+  "note": "The pronunciation card. Learner must hear yu-u, two morae, and must never say *iu.",
+  "block": "wk6-8-verbs",
+  "kana": "にほんごでゆう。"
+ },
+ {
+  "n": 325,
+  "romaji": "soo omou.",
+  "gloss": "I think so.",
+  "newElement": "omou",
+  "usesPrior": [
+   "soo"
+  ],
+  "cardType": "PROD",
+  "note": "Quotative to (X to omou) is held back to block E so this card stays 1T.",
+  "block": "wk6-8-verbs",
+  "kana": "そうおもう。"
+ },
+ {
+  "n": 326,
+  "romaji": "shigoto o suru.",
+  "gloss": "I do my work.",
+  "newElement": "suru",
+  "usesPrior": [
+   "shigoto",
+   "o"
+  ],
+  "cardType": "PROD",
+  "block": "wk6-8-verbs",
+  "kana": "しごとおする。"
+ },
+ {
+  "n": 327,
+  "romaji": "hachi-ji ni iku.",
+  "gloss": "I'll go at eight.",
+  "newElement": "ni (clock time)",
+  "usesPrior": [
+   "hachi-ji",
+   "iku"
+  ],
+  "cardType": "PROD",
+  "note": "Counter-example drilled aloud on the same card: ashita iku, NOT *ashita ni iku.",
+  "block": "wk6-8-verbs",
+  "kana": "はちじにいく。"
+ },
+ {
+  "n": 328,
+  "romaji": "asa okiru.",
+  "gloss": "I get up in the morning.",
+  "newElement": "okiru",
+  "usesPrior": [
+   "asa"
+  ],
+  "cardType": "PROD",
+  "block": "wk6-8-verbs",
+  "kana": "あさおきる。"
+ },
+ {
+  "n": 329,
+  "romaji": "yoru, neru.",
+  "gloss": "At night, I sleep.",
+  "newElement": "neru",
+  "usesPrior": [
+   "yoru"
+  ],
+  "cardType": "PROD",
+  "note": "Both genuinely ichidan (okiru, neru) — banked one day before the -eru/-iru trap opens, so the honest members are in the ear first.",
+  "block": "wk6-8-verbs",
+  "kana": "よる、ねる。"
+ },
+ {
+  "n": 330,
+  "romaji": "uchi ni kaeru.",
+  "gloss": "I go home.",
+  "newElement": "kaeru (GODAN, trap)",
+  "usesPrior": [
+   "uchi",
+   "ni"
+  ],
+  "cardType": "PROD",
+  "note": "Card carries the pair audio kaeru/kaette right behind the sentence. Contrast neru/nete from 31 in the same session.",
+  "block": "wk6-8-verbs",
+  "kana": "うちにかえる。"
+ },
+ {
+  "n": 331,
+  "romaji": "heya ni hairu.",
+  "gloss": "I go into the room.",
+  "newElement": "hairu (GODAN, trap)",
+  "usesPrior": [
+   "heya",
+   "ni"
+  ],
+  "cardType": "PROD",
+  "block": "wk6-8-verbs",
+  "kana": "へやにはいる。"
+ },
+ {
+  "n": 332,
+  "romaji": "eki made hashiru.",
+  "gloss": "I run to the station.",
+  "newElement": "hashiru (GODAN, trap)",
+  "usesPrior": [
+   "eki",
+   "made"
+  ],
+  "cardType": "PROD",
+  "block": "wk6-8-verbs",
+  "kana": "えきまではしる。"
+ },
+ {
+  "n": 333,
+  "romaji": "tomodachi o yobu.",
+  "gloss": "I'll invite a friend.",
+  "newElement": "yobu",
+  "usesPrior": [
+   "tomodachi",
+   "o"
+  ],
+  "cardType": "PROD",
+  "note": "Four days after yomu (17). The te-forms collide (yonde [0] vs yonde [1]) and that collision is taught, not avoided.",
+  "block": "wk6-8-verbs",
+  "kana": "ともだちおよぶ。"
+ },
+ {
+  "n": 334,
+  "romaji": "koohii o nomimasu.",
+  "gloss": "I drink coffee. (polite)",
+  "newElement": "-masu",
+  "usesPrior": [
+   "koohii",
+   "o",
+   "nomu",
+   "i-stem"
+  ],
+  "cardType": "PROD",
+  "note": "nomimásu — accent on ma.",
+  "block": "wk6-8-verbs",
+  "kana": "コーヒーおのみます。"
+ },
+ {
+  "n": 335,
+  "romaji": "biiru wa nomimasen.",
+  "gloss": "I don't drink beer.",
+  "newElement": "-masen",
+  "usesPrior": [
+   "biiru",
+   "wa",
+   "nomu"
+  ],
+  "cardType": "PROD",
+  "note": "nomimasén — ACCENT ON SE. wa here is contrastive: beer specifically.",
+  "block": "wk6-8-verbs",
+  "kana": "ビールわのみません。"
+ },
+ {
+  "n": 336,
+  "romaji": "kinoo, hon o yomimashita.",
+  "gloss": "Yesterday I read a book.",
+  "newElement": "-mashita",
+  "usesPrior": [
+   "kinoo",
+   "hon",
+   "o",
+   "yomu"
+  ],
+  "cardType": "PROD",
+  "note": "yomimáshita — accent on ma.",
+  "block": "wk6-8-verbs",
+  "kana": "きのう、ほんおよみました。"
+ },
+ {
+  "n": 337,
+  "romaji": "kinoo wa ikimasen deshita.",
+  "gloss": "Yesterday I didn't go.",
+  "newElement": "-masen deshita",
+  "usesPrior": [
+   "kinoo",
+   "wa",
+   "iku"
+  ],
+  "cardType": "PROD",
+  "note": "ikimasén deshita — accent on se, deshita flat behind.",
+  "block": "wk6-8-verbs",
+  "kana": "きのうわいきませんでした。"
+ },
+ {
+  "n": 338,
+  "romaji": "eki de machimashoo.",
+  "gloss": "Let's wait at the station.",
+  "newElement": "-mashoo",
+  "usesPrior": [
+   "eki",
+   "de",
+   "matsu"
+  ],
+  "cardType": "PROD",
+  "note": "machimashóo — ACCENT ON SHO. Also the first i-stem with chi (machi-).",
+  "block": "wk6-8-verbs",
+  "kana": "えきでまちましょう。"
+ },
+ {
+  "n": 339,
+  "romaji": "koohii o nomimasen ka.",
+  "gloss": "Won't you have a coffee?",
+  "newElement": "-masen ka",
+  "usesPrior": [
+   "koohii",
+   "o",
+   "nomu"
+  ],
+  "cardType": "PROD",
+  "note": "nomimasén ka — accent on se, rising ka.",
+  "block": "wk6-8-verbs",
+  "kana": "コーヒーおのみませんか。"
+ },
+ {
+  "n": 340,
+  "romaji": "nani o shimasu ka.",
+  "gloss": "What are you going to do?",
+  "newElement": "-masu ka",
+  "usesPrior": [
+   "nani",
+   "o",
+   "suru"
+  ],
+  "cardType": "RECOG",
+  "note": "Contrast drill against 41: -masu ka [ma] vs -masen ka [se]. Segment and accent both differ.",
+  "block": "wk6-8-verbs",
+  "kana": "なにおしますか。"
+ },
+ {
+  "n": 341,
+  "romaji": "tomodachi ni aimashita.",
+  "gloss": "I met a friend.",
+  "newElement": "au [1]",
+  "usesPrior": [
+   "tomodachi",
+   "ni",
+   "-mashita"
+  ],
+  "cardType": "PROD",
+  "note": "Takes NI, not o. Pair audio au/atte on the same card, explicitly contrasted with aru/atte — identical sound, different particle frame.",
+  "block": "wk6-8-verbs",
+  "kana": "ともだちにあいました。"
+ },
+ {
+  "n": 342,
+  "romaji": "asa kara hatarakimasu.",
+  "gloss": "I work from the morning.",
+  "newElement": "hataraku",
+  "usesPrior": [
+   "asa",
+   "kara",
+   "-masu"
+  ],
+  "cardType": "PROD",
+  "block": "wk6-8-verbs",
+  "kana": "あさからはたらきます。"
+ },
+ {
+  "n": 343,
+  "romaji": "ku-ji kara go-ji made hatarakimasu.",
+  "gloss": "I work from nine to five.",
+  "newElement": "kara ... made (span frame)",
+  "usesPrior": [
+   "ku-ji",
+   "go-ji",
+   "kara",
+   "made",
+   "hataraku"
+  ],
+  "cardType": "PROD",
+  "block": "wk6-8-verbs",
+  "kana": "くじからごじまではたらきます。"
+ },
+ {
+  "n": 344,
+  "romaji": "mizu ga nomitai.",
+  "gloss": "I want to drink water.",
+  "newElement": "-tai",
+  "usesPrior": [
+   "mizu",
+   "ga",
+   "nomu",
+   "i-stem"
+  ],
+  "cardType": "PROD",
+  "note": "nomitai [3]. Object flips to ga — the same behaviour as wakaru and dekiru, so it is a pattern by now, not an exception.",
+  "block": "wk6-8-verbs",
+  "kana": "みずがのみたい。"
+ },
+ {
+  "n": 345,
+  "romaji": "arukinagara hanashimasu.",
+  "gloss": "I talk while walking.",
+  "newElement": "-nagara",
+  "usesPrior": [
+   "aruku",
+   "hanasu",
+   "-masu",
+   "i-stem"
+  ],
+  "cardType": "PROD",
+  "note": "arukinagara [4]. The -nagara clause is background, the -masu verb is the point.",
+  "block": "wk6-8-verbs",
+  "kana": "あるきながらはなします。"
+ },
+ {
+  "n": 346,
+  "romaji": "gohan o tabe ni ikimasu.",
+  "gloss": "I'm going out to eat.",
+  "newElement": "-ni iku",
+  "usesPrior": [
+   "gohan",
+   "o",
+   "taberu",
+   "iku",
+   "-masu"
+  ],
+  "cardType": "PROD",
+  "block": "wk6-8-verbs",
+  "kana": "ごはんおたべにいきます。"
+ },
+ {
+  "n": 347,
+  "romaji": "yomikata o kikimashita.",
+  "gloss": "I asked how to read it.",
+  "newElement": "-kata",
+  "usesPrior": [
+   "yomu",
+   "o",
+   "kiku",
+   "-mashita"
+  ],
+  "cardType": "PROD",
+  "note": "The i-stem making a noun. Same shelf as -masu — say that aloud on this card.",
+  "block": "wk6-8-verbs",
+  "kana": "よみかたおききました。"
+ },
+ {
+  "n": 348,
+  "romaji": "kinoo, nomisugimashita.",
+  "gloss": "I drank too much yesterday.",
+  "newElement": "-sugiru",
+  "usesPrior": [
+   "kinoo",
+   "nomu",
+   "-mashita"
+  ],
+  "cardType": "RECOG",
+  "note": "The output is ichidan, so it re-enters the shell: nomisugi- + masu.",
+  "block": "wk6-8-verbs",
+  "kana": "きのう、のみすぎました。"
+ },
+ {
+  "n": 349,
+  "romaji": "kono hon wa yomiyasui.",
+  "gloss": "This book is easy to read.",
+  "newElement": "-yasui",
+  "usesPrior": [
+   "kono",
+   "hon",
+   "wa",
+   "yomu"
+  ],
+  "cardType": "PROD",
+  "note": "yomiyasui [4] — i-adjective penultimate accent.",
+  "block": "wk6-8-verbs",
+  "kana": "このほんわよみやすい。"
+ },
+ {
+  "n": 350,
+  "romaji": "kono namae wa yobinikui.",
+  "gloss": "This name is hard to say.",
+  "newElement": "-nikui",
+  "usesPrior": [
+   "kono",
+   "namae",
+   "wa",
+   "yobu"
+  ],
+  "cardType": "PROD",
+  "note": "Taught in the same breath as 51. One antonym pair, one operation.",
+  "block": "wk6-8-verbs",
+  "kana": "このなまえわよびにくい。"
+ },
+ {
+  "n": 351,
+  "romaji": "hon o yomihajimemashita.",
+  "gloss": "I started reading the book.",
+  "newElement": "-hajimeru",
+  "usesPrior": [
+   "hon",
+   "o",
+   "yomu",
+   "-mashita"
+  ],
+  "cardType": "PROD",
+  "block": "wk6-8-verbs",
+  "kana": "ほんおよみはじめました。"
+ },
+ {
+  "n": 352,
+  "romaji": "gohan o tabeowarimashita.",
+  "gloss": "I finished eating.",
+  "newElement": "-owaru",
+  "usesPrior": [
+   "gohan",
+   "o",
+   "taberu",
+   "-mashita"
+  ],
+  "cardType": "PROD",
+  "note": "Output is godan -ru: tabeowarimashita, tabeowatte.",
+  "block": "wk6-8-verbs",
+  "kana": "ごはんおたべおわりました。"
+ },
+ {
+  "n": 353,
+  "romaji": "hatarakitsuzukemasu.",
+  "gloss": "I'll keep on working.",
+  "newElement": "-tsuzukeru",
+  "usesPrior": [
+   "hataraku",
+   "-masu"
+  ],
+  "cardType": "RECOG",
+  "note": "Eight morae on one shelf. Completes the aspect trio.",
+  "block": "wk6-8-verbs",
+  "kana": "はたらきつずけます。"
+ },
+ {
+  "n": 354,
+  "romaji": "tegami o dashimasu.",
+  "gloss": "I'll send the letter.",
+  "newElement": "dasu",
+  "usesPrior": [
+   "tegami",
+   "o",
+   "-masu"
+  ],
+  "cardType": "PROD",
+  "block": "wk6-8-verbs",
+  "kana": "てがみおだします。"
+ },
+ {
+  "n": 355,
+  "romaji": "hon o kashimasu.",
+  "gloss": "I'll lend you the book.",
+  "newElement": "kasu",
+  "usesPrior": [
+   "hon",
+   "o",
+   "-masu"
+  ],
+  "cardType": "PROD",
+  "block": "wk6-8-verbs",
+  "kana": "ほんおかします。"
+ },
+ {
+  "n": 356,
+  "romaji": "hon o kaeshimasu.",
+  "gloss": "I'll give the book back.",
+  "newElement": "kaesu",
+  "usesPrior": [
+   "hon",
+   "o",
+   "-masu"
+  ],
+  "cardType": "PROD",
+  "note": "Run directly against kaeru (32): kaeru = I go back, kaesu = I send it back. kaette vs kaeshite settles it.",
+  "block": "wk6-8-verbs",
+  "kana": "ほんおかえします。"
+ },
+ {
+  "n": 357,
+  "romaji": "isogimashoo.",
+  "gloss": "Let's hurry.",
+  "newElement": "isogu",
+  "usesPrior": [
+   "-mashoo"
+  ],
+  "cardType": "PROD",
+  "note": "isogimashóo. First -gu verb in a sentence; its pair isoide is the first -ide the learner produces.",
+  "block": "wk6-8-verbs",
+  "kana": "いそぎましょう。"
+ },
+ {
+  "n": 358,
+  "romaji": "tomodachi to asobimasu.",
+  "gloss": "I'll hang out with a friend.",
+  "newElement": "asobu",
+  "usesPrior": [
+   "tomodachi",
+   "to",
+   "-masu"
+  ],
+  "cardType": "PROD",
+  "block": "wk6-8-verbs",
+  "kana": "ともだちとあそびます。"
+ },
+ {
+  "n": 359,
+  "romaji": "gohan o tsukurimasu.",
+  "gloss": "I'll make dinner.",
+  "newElement": "tsukuru",
+  "usesPrior": [
+   "gohan",
+   "o",
+   "-masu"
+  ],
+  "cardType": "PROD",
+  "block": "wk6-8-verbs",
+  "kana": "ごはんおつくります。"
+ },
+ {
+  "n": 360,
+  "romaji": "nihongo o naraimasu.",
+  "gloss": "I'm learning Japanese.",
+  "newElement": "narau",
+  "usesPrior": [
+   "nihongo",
+   "o",
+   "-masu"
+  ],
+  "cardType": "PROD",
+  "block": "wk6-8-verbs",
+  "kana": "にほんごおならいます。"
+ },
+ {
+  "n": 361,
+  "romaji": "kono kuruma o tsukaimasu.",
+  "gloss": "I'll use this car.",
+  "newElement": "tsukau",
+  "usesPrior": [
+   "kono",
+   "kuruma",
+   "o",
+   "-masu"
+  ],
+  "cardType": "PROD",
+  "block": "wk6-8-verbs",
+  "kana": "このくるまおつかいます。"
+ },
+ {
+  "n": 362,
+  "romaji": "tomodachi ni moraimashita.",
+  "gloss": "I got it from a friend.",
+  "newElement": "morau",
+  "usesPrior": [
+   "tomodachi",
+   "ni",
+   "-mashita"
+  ],
+  "cardType": "PROD",
+  "block": "wk6-8-verbs",
+  "kana": "ともだちにもらいました。"
+ },
+ {
+  "n": 363,
+  "romaji": "tomodachi ni agemashita.",
+  "gloss": "I gave it to a friend.",
+  "newElement": "ageru",
+  "usesPrior": [
+   "tomodachi",
+   "ni",
+   "-mashita"
+  ],
+  "cardType": "PROD",
+  "block": "wk6-8-verbs",
+  "kana": "ともだちにあげました。"
+ },
+ {
+  "n": 364,
+  "romaji": "tomodachi ga kuremashita.",
+  "gloss": "A friend gave it to me.",
+  "newElement": "kureru",
+  "usesPrior": [
+   "tomodachi",
+   "ga",
+   "-mashita"
+  ],
+  "cardType": "PROD",
+  "note": "64-66 are one three-card set: direction is in the verb, so no pronoun is ever needed. Note the particle flip to ga on kureru.",
+  "block": "wk6-8-verbs",
+  "kana": "ともだちがくれました。"
+ },
+ {
+  "n": 365,
+  "romaji": "niku o kirimasu.",
+  "gloss": "I'll cut the meat.",
+  "newElement": "kiru (cut, GODAN [1])",
+  "usesPrior": [
+   "niku",
+   "o",
+   "-masu"
+  ],
+  "cardType": "PROD",
+  "note": "Pair audio kiru/kitte on the card.",
+  "block": "wk6-8-verbs",
+  "kana": "にくおきります。"
+ },
+ {
+  "n": 366,
+  "romaji": "shatsu o kimasu.",
+  "gloss": "I'll put on a shirt.",
+  "newElement": "kiru (wear, ICHIDAN [0])",
+  "usesPrior": [
+   "shatsu",
+   "o",
+   "-masu"
+  ],
+  "cardType": "RECOG",
+  "note": "THE THREE-WAY CARD. kimasu here = wear; kimasu from kuru = come; kirimasu = cut. Object resolves it in speech, accent resolves the te-forms: kite [0] / kite [1] / kitte [1].",
+  "block": "wk6-8-verbs",
+  "kana": "シャツおきます。"
+ },
+ {
+  "n": 367,
+  "romaji": "kyoo wa tabenai.",
+  "gloss": "I'm not eating today.",
+  "newElement": "KEY 2 — -nai (ichidan)",
+  "usesPrior": [
+   "kyoo",
+   "wa",
+   "taberu"
+  ],
+  "cardType": "PROD",
+  "note": "tabenai [3]. Drop -ru, add -nai.",
+  "block": "wk6-8-verbs",
+  "kana": "きょうわたべない。"
+ },
+ {
+  "n": 368,
+  "romaji": "biiru wa nomanai.",
+  "gloss": "I don't drink beer.",
+  "newElement": "-anai (godan)",
+  "usesPrior": [
+   "biiru",
+   "wa",
+   "nomu"
+  ],
+  "cardType": "PROD",
+  "note": "nomanai [3]. Paired directly with 37 (nomimasen) so the register split is audible: same meaning, two shelves.",
+  "block": "wk6-8-verbs",
+  "kana": "ビールわのまない。"
+ },
+ {
+  "n": 369,
+  "romaji": "nani mo kawanai.",
+  "gloss": "I'm not buying anything.",
+  "newElement": "-wanai (W-INSERTION)",
+  "usesPrior": [
+   "nani mo",
+   "kau"
+  ],
+  "cardType": "PROD",
+  "note": "kawanai [3], never *kaanai. -au member of the vowel+u set.",
+  "block": "wk6-8-verbs",
+  "kana": "なにもかわない。"
+ },
+ {
+  "n": 370,
+  "romaji": "nani mo iwanai.",
+  "gloss": "He doesn't say anything.",
+  "newElement": "iwanai (yuu's suppletive -nai stem)",
+  "usesPrior": [
+   "nani mo",
+   "yuu",
+   "-wanai"
+  ],
+  "cardType": "PROD",
+  "note": "THE CARD THE EARLIER PASS WAS MISSING. yuu / yutte / yutta / IWANAI. The -iu member of the w-set AND a stem change. Never *yuwanai.",
+  "block": "wk6-8-verbs",
+  "kana": "なにもいわない。"
+ },
+ {
+  "n": 371,
+  "romaji": "tabako o suwanai.",
+  "gloss": "I don't smoke.",
+  "newElement": "suu",
+  "usesPrior": [
+   "tabako",
+   "o",
+   "-wanai"
+  ],
+  "cardType": "PROD",
+  "note": "The -uu member. su-u-wa-na-i. With 71, 72 and omowanai the learner has heard all four vowel shapes in one session.",
+  "block": "wk6-8-verbs",
+  "kana": "たばこおすわない。"
+ },
+ {
+  "n": 372,
+  "romaji": "kyoo wa shinai.",
+  "gloss": "I'm not doing it today.",
+  "newElement": "shinai (suru, irregular)",
+  "usesPrior": [
+   "kyoo",
+   "wa",
+   "suru"
+  ],
+  "cardType": "PROD",
+  "block": "wk6-8-verbs",
+  "kana": "きょうわしない。"
+ },
+ {
+  "n": 373,
+  "romaji": "ashita wa konai.",
+  "gloss": "He isn't coming tomorrow.",
+  "newElement": "konai (kuru, irregular)",
+  "usesPrior": [
+   "ashita",
+   "wa",
+   "kuru"
+  ],
+  "cardType": "PROD",
+  "note": "The stem vowel goes to o — happens nowhere else in the language.",
+  "block": "wk6-8-verbs",
+  "kana": "あしたわこない。"
+ },
+ {
+  "n": 374,
+  "romaji": "jikan ga nai.",
+  "gloss": "There's no time.",
+  "newElement": "nai (aru's suppletive negative)",
+  "usesPrior": [
+   "jikan",
+   "ga",
+   "aru"
+  ],
+  "cardType": "PROD",
+  "note": "REQUIRED ITEM. Never *aranai. Sister frame shikata ga nai taught on the same card.",
+  "block": "wk6-8-verbs",
+  "kana": "じかんがない。"
+ },
+ {
+  "n": 375,
+  "romaji": "kinoo wa ikanakatta.",
+  "gloss": "I didn't go yesterday.",
+  "newElement": "-nakatta",
+  "usesPrior": [
+   "kinoo",
+   "wa",
+   "iku",
+   "-nai"
+  ],
+  "cardType": "PROD",
+  "note": "ikanakatta [4] — accent on the ka.",
+  "block": "wk6-8-verbs",
+  "kana": "きのうわいかなかった。"
+ },
+ {
+  "n": 376,
+  "romaji": "amari nomimasen.",
+  "gloss": "I don't drink much.",
+  "newElement": "amari",
+  "usesPrior": [
+   "nomu",
+   "-masen"
+  ],
+  "cardType": "PROD",
+  "block": "wk6-8-verbs",
+  "kana": "あまりのみません。"
+ },
+ {
+  "n": 377,
+  "romaji": "zenzen wakarimasen.",
+  "gloss": "I don't understand at all.",
+  "newElement": "zenzen",
+  "usesPrior": [
+   "wakaru",
+   "-masen"
+  ],
+  "cardType": "PROD",
+  "block": "wk6-8-verbs",
+  "kana": "ぜんぜんわかりません。"
+ },
+ {
+  "n": 378,
+  "romaji": "moo tabemashita.",
+  "gloss": "I've already eaten.",
+  "newElement": "moo",
+  "usesPrior": [
+   "taberu",
+   "-mashita"
+  ],
+  "cardType": "RECOG",
+  "block": "wk6-8-verbs",
+  "kana": "もうたべました。"
+ },
+ {
+  "n": 379,
+  "romaji": "mada jikan ga aru.",
+  "gloss": "There's still time.",
+  "newElement": "mada",
+  "usesPrior": [
+   "jikan",
+   "ga",
+   "aru"
+  ],
+  "cardType": "RECOG",
+  "note": "Deliberately the affirmative sense only; mada + negative wants mada tabetenai, which is block E.",
+  "block": "wk6-8-verbs",
+  "kana": "まだじかんがある。"
+ },
+ {
+  "n": 380,
+  "romaji": "mainichi hatarakimasu.",
+  "gloss": "I work every day.",
+  "newElement": "mainichi",
+  "usesPrior": [
+   "hataraku",
+   "-masu"
+  ],
+  "cardType": "PROD",
+  "note": "No particle. Say the ban aloud: never *mainichi ni.",
+  "block": "wk6-8-verbs",
+  "kana": "まいにちはたらきます。"
+ },
+ {
+  "n": 381,
+  "romaji": "issho ni ikimasen ka.",
+  "gloss": "Won't you come along?",
+  "newElement": "issho ni",
+  "usesPrior": [
+   "iku",
+   "-masen ka"
+  ],
+  "cardType": "PROD",
+  "block": "wk6-8-verbs",
+  "kana": "いっしょにいきませんか。"
+ },
+ {
+  "n": 382,
+  "romaji": "ato de denwa o shimasu.",
+  "gloss": "I'll call later.",
+  "newElement": "ato de",
+  "usesPrior": [
+   "denwa",
+   "o",
+   "suru",
+   "-masu"
+  ],
+  "cardType": "PROD",
+  "block": "wk6-8-verbs",
+  "kana": "あとででんわおします。"
+ },
+ {
+  "n": 383,
+  "romaji": "sugu ikimasu.",
+  "gloss": "I'll go right away.",
+  "newElement": "sugu",
+  "usesPrior": [
+   "iku",
+   "-masu"
+  ],
+  "cardType": "PROD",
+  "block": "wk6-8-verbs",
+  "kana": "すぐいきます。"
+ },
+ {
+  "n": 384,
+  "romaji": "hayaku okimashita.",
+  "gloss": "I got up early.",
+  "newElement": "hayaku",
+  "usesPrior": [
+   "okiru",
+   "-mashita"
+  ],
+  "cardType": "PROD",
+  "block": "wk6-8-verbs",
+  "kana": "はやくおきました。"
+ },
+ {
+  "n": 385,
+  "romaji": "yoku aimasu.",
+  "gloss": "I see him often.",
+  "newElement": "yoku",
+  "usesPrior": [
+   "au",
+   "-masu"
+  ],
+  "cardType": "PROD",
+  "block": "wk6-8-verbs",
+  "kana": "よくあいます。"
+ },
+ {
+  "n": 386,
+  "romaji": "okane ga iru.",
+  "gloss": "I need money.",
+  "newElement": "iru (need, GODAN)",
+  "usesPrior": [
+   "okane",
+   "ga"
+  ],
+  "cardType": "RECOG",
+  "note": "Against sentence 2 (uchi ni iru, ichidan). Identical word, identical accent, different class — only the pair separates them: itte [0] vs ite [0].",
+  "block": "wk6-8-verbs",
+  "kana": "おかねがいる。"
+ },
+ {
+  "n": 387,
+  "romaji": "tomodachi to shaberimasu.",
+  "gloss": "I chat with my friends.",
+  "newElement": "shaberu (GODAN, trap)",
+  "usesPrior": [
+   "tomodachi",
+   "to",
+   "-masu"
+  ],
+  "cardType": "PROD",
+  "note": "sha is one mora: sha-be-ru, 3 morae.",
+  "block": "wk6-8-verbs",
+  "kana": "ともだちとしゃべります。"
+ },
+ {
+  "n": 388,
+  "romaji": "doko ni sumimasu ka.",
+  "gloss": "Where will you live?",
+  "newElement": "sumu",
+  "usesPrior": [
+   "doko",
+   "ni",
+   "-masu ka"
+  ],
+  "cardType": "PROD",
+  "note": "Flag on the card: the everyday question is doko ni sunderu, which arrives in block E. This form is the future/habitual reading only.",
+  "block": "wk6-8-verbs",
+  "kana": "どこにすみますか。"
+ },
+ {
+  "n": 389,
+  "romaji": "tomodachi ni tanomimasu.",
+  "gloss": "I'll ask my friend to do it.",
+  "newElement": "tanomu",
+  "usesPrior": [
+   "tomodachi",
+   "ni",
+   "-masu"
+  ],
+  "cardType": "PROD",
+  "block": "wk6-8-verbs",
+  "kana": "ともだちにたのみます。"
+ },
+ {
+  "n": 390,
+  "romaji": "juu-ji ni tsukimasu.",
+  "gloss": "I arrive at ten.",
+  "newElement": "tsuku",
+  "usesPrior": [
+   "juu-ji",
+   "ni",
+   "-masu"
+  ],
+  "cardType": "PROD",
+  "note": "THE GATE SENTENCE — with tsuku stored the -ku class is closed and the induction base is complete.",
+  "block": "wk6-8-verbs",
+  "kana": "じゅうじにつきます。"
+ },
+ {
+  "n": 391,
+  "romaji": "koko ni okimasu.",
+  "gloss": "I'll put it here.",
+  "newElement": "oku",
+  "usesPrior": [
+   "koko",
+   "ni",
+   "-masu"
+  ],
+  "cardType": "PROD",
+  "block": "wk6-8-verbs",
+  "kana": "ここにおきます。"
+ },
+ {
+  "n": 392,
+  "romaji": "kyoo wa yasumimasu.",
+  "gloss": "I'm taking today off.",
+  "newElement": "yasumu",
+  "usesPrior": [
+   "kyoo",
+   "wa",
+   "-masu"
+  ],
+  "cardType": "PROD",
+  "block": "wk6-8-verbs",
+  "kana": "きょうわやすみます。"
+ },
+ {
+  "n": 393,
+  "romaji": "hon o torimasu.",
+  "gloss": "I'll take the book.",
+  "newElement": "toru",
+  "usesPrior": [
+   "hon",
+   "o",
+   "-masu"
+  ],
+  "cardType": "PROD",
+  "block": "wk6-8-verbs",
+  "kana": "ほんおとります。"
+ },
+ {
+  "n": 394,
+  "romaji": "kore o erabimasu.",
+  "gloss": "I'll choose this one.",
+  "newElement": "erabu",
+  "usesPrior": [
+   "kore",
+   "o",
+   "-masu"
+  ],
+  "cardType": "PROD",
+  "block": "wk6-8-verbs",
+  "kana": "これおえらびます。"
+ },
+ {
+  "n": 395,
+  "romaji": "kyoo wa katsu.",
+  "gloss": "Today we win.",
+  "newElement": "katsu",
+  "usesPrior": [
+   "kyoo",
+   "wa"
+  ],
+  "cardType": "PROD",
+  "note": "katte [1] vs katte [0] (kau) drilled on the reverse of this card — nineteen days apart in introduction, so the pair is a discrimination test, not a confusion.",
+  "block": "wk6-8-verbs",
+  "kana": "きょうわかつ。"
+ },
+ {
+  "n": 396,
+  "romaji": "okane o motsu.",
+  "gloss": "I carry money.",
+  "newElement": "motsu",
+  "usesPrior": [
+   "okane",
+   "o"
+  ],
+  "cardType": "PROD",
+  "block": "wk6-8-verbs",
+  "kana": "おかねおもつ。"
+ },
+ {
+  "n": 397,
+  "romaji": "koko ni tatsu.",
+  "gloss": "I'll stand here.",
+  "newElement": "tatsu",
+  "usesPrior": [
+   "koko",
+   "ni"
+  ],
+  "cardType": "PROD",
+  "block": "wk6-8-verbs",
+  "kana": "ここにたつ。"
+ },
+ {
+  "n": 398,
+  "romaji": "kutsu o nugimasu.",
+  "gloss": "I take my shoes off.",
+  "newElement": "nugu",
+  "usesPrior": [
+   "kutsu",
+   "o",
+   "-masu"
+  ],
+  "cardType": "PROD",
+  "block": "wk6-8-verbs",
+  "kana": "くつおぬぎます。"
+ },
+ {
+  "n": 399,
+  "romaji": "kuruma o naoshimasu.",
+  "gloss": "I'll fix the car.",
+  "newElement": "naosu",
+  "usesPrior": [
+   "kuruma",
+   "o",
+   "-masu"
+  ],
+  "cardType": "PROD",
+  "block": "wk6-8-verbs",
+  "kana": "くるまおなおします。"
+ },
+ {
+  "n": 400,
+  "romaji": "minna ga waraimashita.",
+  "gloss": "Everyone laughed.",
+  "newElement": "warau",
+  "usesPrior": [
+   "minna",
+   "ga",
+   "-mashita"
+  ],
+  "cardType": "PROD",
+  "note": "Closes the -u class at nine members. Verbs left item-only, with no sentence card in block D: tobu, shinu, sawagu, utsu, yaru, kagiru — all present in the pair drills, which is where they do their work.",
+  "block": "wk6-8-verbs",
+  "kana": "みんながわらいました。"
+ },
+ {
+  "n": 401,
+  "romaji": "asa okite, gohan o tabeta.",
+  "gloss": "I got up in the morning and ate.",
+  "newElement": "-te junctive, SEQUENCE (item 30)",
+  "usesPrior": [
+   "asa",
+   "okite",
+   "gohan",
+   "o",
+   "tabeta"
+  ],
+  "cardType": "PROD",
+  "note": "Tense lives in the final clause only. Model card for the highest-fanout node in the tree.",
+  "block": "wk9-10-te",
+  "kana": "あさおきて、ごはんおたべた。"
+ },
+ {
+  "n": 402,
+  "romaji": "tomodachi ni namae o oshiete, hanashita.",
+  "gloss": "I told my friend my name and we talked.",
+  "newElement": "oshiete (item 10)",
+  "usesPrior": [
+   "tomodachi",
+   "ni",
+   "namae",
+   "o",
+   "hanashita",
+   "-te junctive"
+  ],
+  "cardType": "RECOG",
+  "block": "wk9-10-te",
+  "kana": "ともだちになまえおおしえて、はなした。"
+ },
+ {
+  "n": 403,
+  "romaji": "mise ni dekakete, kutsu o mita.",
+  "gloss": "I went out to the shop and looked at shoes.",
+  "newElement": "dekakete (item 11)",
+  "usesPrior": [
+   "mise",
+   "ni",
+   "kutsu",
+   "o",
+   "mita",
+   "-te junctive"
+  ],
+  "cardType": "PROD",
+  "block": "wk9-10-te",
+  "kana": "みせにでかけて、くつおみた。"
+ },
+ {
+  "n": 404,
+  "romaji": "tegami o kaite, dashita.",
+  "gloss": "I wrote a letter and sent it.",
+  "newElement": "kaite (item 20)",
+  "usesPrior": [
+   "tegami",
+   "o",
+   "dashita",
+   "-te junctive"
+  ],
+  "cardType": "PROD",
+  "block": "wk9-10-te",
+  "kana": "てがみおかいて、だした。"
+ },
+ {
+  "n": 405,
+  "romaji": "ongaku o kiite, neta.",
+  "gloss": "I listened to music and went to sleep.",
+  "newElement": "kiite (item 21)",
+  "usesPrior": [
+   "ongaku",
+   "o",
+   "neta",
+   "-te junctive"
+  ],
+  "cardType": "RECOG",
+  "note": "ki-i-te, three morae. Hold the long vowel - the whole day-13 collision set depends on it being audible here.",
+  "block": "wk9-10-te",
+  "kana": "おんがくおきいて、ねた。"
+ },
+ {
+  "n": 406,
+  "romaji": "isoide tegami o kaita.",
+  "gloss": "I wrote the letter in a hurry.",
+  "newElement": "-te junctive, MANNER (item 37)",
+  "usesPrior": [
+   "isoide",
+   "tegami",
+   "o",
+   "kaita"
+  ],
+  "cardType": "PROD",
+  "note": "No comma pause in the audio: manner -te binds tight to the verb, sequence -te takes a pause. That prosodic difference is the only cue.",
+  "block": "wk9-10-te",
+  "kana": "いそいでてがみおかいた。"
+ },
+ {
+  "n": 407,
+  "romaji": "kutsu o nuide, ie ni ita.",
+  "gloss": "I took my shoes off and stayed in the house.",
+  "newElement": "nuide (item 34)",
+  "usesPrior": [
+   "kutsu",
+   "o",
+   "ie",
+   "ni",
+   "ita",
+   "-te junctive"
+  ],
+  "cardType": "PROD",
+  "block": "wk9-10-te",
+  "kana": "くつおぬいで、いえにいた。"
+ },
+ {
+  "n": 408,
+  "romaji": "kinoo umi de oyoida.",
+  "gloss": "I swam in the sea yesterday.",
+  "newElement": "oyoida (item 36)",
+  "usesPrior": [
+   "kinoo",
+   "umi",
+   "de"
+  ],
+  "cardType": "PROD",
+  "note": "-ida, voiced. The first -da past the learner produces.",
+  "block": "wk9-10-te",
+  "kana": "きのううみでおよいだ。"
+ },
+ {
+  "n": 409,
+  "romaji": "biiru o nonde, neta.",
+  "gloss": "I drank a beer and went to bed.",
+  "newElement": "nonde (item 39)",
+  "usesPrior": [
+   "biiru",
+   "o",
+   "neta",
+   "-te junctive"
+  ],
+  "cardType": "PROD",
+  "block": "wk9-10-te",
+  "kana": "ビールおのんで、ねた。"
+ },
+ {
+  "n": 410,
+  "romaji": "zasshi o yonde, nete, kesa okita.",
+  "gloss": "I read a magazine, slept, and got up this morning.",
+  "newElement": "yonde from yomu [1] (item 40)",
+  "usesPrior": [
+   "zasshi",
+   "o",
+   "nete",
+   "kesa",
+   "okita",
+   "-te junctive"
+  ],
+  "cardType": "PROD",
+  "note": "First three-link chain, and the accented member of the yonde pair.",
+  "block": "wk9-10-te",
+  "kana": "ざっしおよんで、ねて、けさおきた。"
+ },
+ {
+  "n": 411,
+  "romaji": "tomodachi o yonde, asonda.",
+  "gloss": "I called my friend over and we hung out.",
+  "newElement": "yonde from yobu [0] (item 43)",
+  "usesPrior": [
+   "tomodachi",
+   "o",
+   "asonda",
+   "-te junctive"
+  ],
+  "cardType": "RECOG",
+  "note": "PITCH MINIMAL PAIR with sentence 10. Heiban here. The animate o-object is the non-phonological backup cue.",
+  "block": "wk9-10-te",
+  "kana": "ともだちおよんで、あそんだ。"
+ },
+ {
+  "n": 412,
+  "romaji": "pan o katte, uchi ni kaetta.",
+  "gloss": "I bought bread and went home.",
+  "newElement": "katte from kau [0] (item 50)",
+  "usesPrior": [
+   "pan",
+   "o",
+   "uchi",
+   "ni",
+   "kaetta",
+   "-te junctive"
+  ],
+  "cardType": "PROD",
+  "block": "wk9-10-te",
+  "kana": "パンおかって、うちにかえった。"
+ },
+ {
+  "n": 413,
+  "romaji": "kooen de matte, tomodachi ni atta.",
+  "gloss": "I waited in the park and met my friend.",
+  "newElement": "matte (item 55)",
+  "usesPrior": [
+   "kooen",
+   "de",
+   "tomodachi",
+   "ni",
+   "atta",
+   "-te junctive"
+  ],
+  "cardType": "PROD",
+  "note": "atta here is au [1]. The dative animate argument is the cue against atta from aru.",
+  "block": "wk9-10-te",
+  "kana": "こうえんでまって、ともだちにあった。"
+ },
+ {
+  "n": 414,
+  "romaji": "kagi ga atte, yokatta.",
+  "gloss": "The key was there, thank goodness.",
+  "newElement": "atte from aru [1] (item 65)",
+  "usesPrior": [
+   "kagi",
+   "ga",
+   "yokatta",
+   "-te junctive"
+  ],
+  "cardType": "RECOG",
+  "note": "ACCENT-IDENTICAL to atte from au. Separated by argument frame alone: ga plus inanimate. Never drill the two adjacently.",
+  "block": "wk9-10-te",
+  "kana": "かぎがあって、よかった。"
+ },
+ {
+  "n": 415,
+  "romaji": "sooji shite, yasunda.",
+  "gloss": "I cleaned up and rested.",
+  "newElement": "shite from suru, R6 (item 74)",
+  "usesPrior": [
+   "sooji",
+   "yasunda",
+   "-te junctive"
+  ],
+  "cardType": "PROD",
+  "block": "wk9-10-te",
+  "kana": "そうじして、やすんだ。"
+ },
+ {
+  "n": 416,
+  "romaji": "tomodachi ga kite, asonda.",
+  "gloss": "My friend came over and we hung out.",
+  "newElement": "kite from kuru, R6 (item 75)",
+  "usesPrior": [
+   "tomodachi",
+   "ga",
+   "asonda",
+   "-te junctive"
+  ],
+  "cardType": "RECOG",
+  "note": "kite [1], H-L, two morae. Hold this against kiite (three morae) and kitte (geminate) from day 13 onward.",
+  "block": "wk9-10-te",
+  "kana": "ともだちがきて、あそんだ。"
+ },
+ {
+  "n": 417,
+  "romaji": "kaban o motte, gakkoo ni itta.",
+  "gloss": "I took my bag and went to school.",
+  "newElement": "itte / itta from iku, THE EXCEPTION (item 76)",
+  "usesPrior": [
+   "kaban",
+   "o",
+   "motte",
+   "gakkoo",
+   "ni",
+   "-te junctive"
+  ],
+  "cardType": "PROD",
+  "note": "Run this card only after R2 has been clean for two sessions, and never in the same block as kaita or kiita.",
+  "block": "wk9-10-te",
+  "kana": "かばんおもって、がっこうにいった。"
+ },
+ {
+  "n": 418,
+  "romaji": "'ashita kuru' tte yutta.",
+  "gloss": "He said he's coming tomorrow.",
+  "newElement": "yutte / yutta from yuu (items 71, 72)",
+  "usesPrior": [
+   "ashita",
+   "kuru"
+  ],
+  "cardType": "PROD",
+  "note": "yutta, NOT itta. The whole reason this verb is cited as yuu.",
+  "block": "wk9-10-te",
+  "kana": "あしたくるってゆった。"
+ },
+ {
+  "n": 419,
+  "romaji": "ima gohan tabeteru.",
+  "gloss": "I'm eating right now.",
+  "newElement": "-teru PROGRESSIVE (item 78)",
+  "usesPrior": [
+   "ima",
+   "gohan",
+   "tabete"
+  ],
+  "cardType": "PROD",
+  "note": "Durative verb. Card 1 of the co-taught pair.",
+  "block": "wk9-10-te",
+  "kana": "いまごはんたべてる。"
+ },
+ {
+  "n": 420,
+  "romaji": "nani shiteru?",
+  "gloss": "What are you doing?",
+  "newElement": "shiteru (item 80)",
+  "usesPrior": [
+   "nani",
+   "shite",
+   "-teru progressive"
+  ],
+  "cardType": "RECOG",
+  "note": "No geminate. Directly contrasted with sentence 22 in the same session.",
+  "block": "wk9-10-te",
+  "kana": "なにしてる？"
+ },
+ {
+  "n": 421,
+  "romaji": "kooen de matteru.",
+  "gloss": "I'm waiting in the park.",
+  "newElement": "matteru (item 81)",
+  "usesPrior": [
+   "kooen",
+   "de",
+   "matte",
+   "-teru progressive"
+  ],
+  "cardType": "PROD",
+  "block": "wk9-10-te",
+  "kana": "こうえんでまってる。"
+ },
+ {
+  "n": 422,
+  "romaji": "ano hito, shitteru.",
+  "gloss": "I know that person.",
+  "newElement": "-teru RESULTANT STATE (items 84, 85)",
+  "usesPrior": [
+   "ano",
+   "hito",
+   "shitte"
+  ],
+  "cardType": "PROD",
+  "note": "Card 2 of the co-taught pair, SAME SESSION as sentence 19. shiru is punctual - the moment of coming to know - so -teru can only name the resulting state. Also the geminate partner of sentence 20.",
+  "block": "wk9-10-te",
+  "kana": "あのひと、しってる。"
+ },
+ {
+  "n": 423,
+  "romaji": "kagi motteru?",
+  "gloss": "Have you got the key?",
+  "newElement": "motteru (item 86)",
+  "usesPrior": [
+   "kagi",
+   "motte",
+   "-teru resultant"
+  ],
+  "cardType": "PROD",
+  "block": "wk9-10-te",
+  "kana": "かぎもってる？"
+ },
+ {
+  "n": 424,
+  "romaji": "kono machi ni sunderu.",
+  "gloss": "I live in this town.",
+  "newElement": "sunderu (item 87)",
+  "usesPrior": [
+   "kono",
+   "machi",
+   "ni",
+   "sunde",
+   "-teru resultant"
+  ],
+  "cardType": "RECOG",
+  "note": "Obligatory locative. Never present sunderu without one.",
+  "block": "wk9-10-te",
+  "kana": "このまちにすんでる。"
+ },
+ {
+  "n": 425,
+  "romaji": "mado ga aiteru.",
+  "gloss": "The window is open.",
+  "newElement": "aiteru (item 88)",
+  "usesPrior": [
+   "mado",
+   "ga",
+   "-teru resultant"
+  ],
+  "cardType": "RECOG",
+  "note": "The cleanest change-of-state exemplar. The English error 'is opening' is pre-empted out loud on this card.",
+  "block": "wk9-10-te",
+  "kana": "まどがあいてる。"
+ },
+ {
+  "n": 426,
+  "romaji": "ane wa kekkon shiteru.",
+  "gloss": "My older sister is married.",
+  "newElement": "kekkon shiteru (item 89)",
+  "usesPrior": [
+   "ane",
+   "wa",
+   "shiteru",
+   "-teru resultant"
+  ],
+  "cardType": "PROD",
+  "note": "Kango carded only in this collocation. The English-speaker error 'is getting married' is the whole point of the card.",
+  "block": "wk9-10-te",
+  "kana": "あねわけっこんしてる。"
+ },
+ {
+  "n": 427,
+  "romaji": "mada tabetenai.",
+  "gloss": "I haven't eaten yet.",
+  "newElement": "-tenai (item 90)",
+  "usesPrior": [
+   "mada",
+   "tabete",
+   "-teru"
+  ],
+  "cardType": "PROD",
+  "block": "wk9-10-te",
+  "kana": "まだたべてない。"
+ },
+ {
+  "n": 428,
+  "romaji": "sakki made zasshi o yondeta.",
+  "gloss": "I was reading a magazine until just now.",
+  "newElement": "-teta (item 91)",
+  "usesPrior": [
+   "sakki",
+   "made",
+   "zasshi",
+   "o",
+   "yonde",
+   "-teru"
+  ],
+  "cardType": "PROD",
+  "block": "wk9-10-te",
+  "kana": "さっきまでざっしおよんでた。"
+ },
+ {
+  "n": 429,
+  "romaji": "dare mo kitenakatta.",
+  "gloss": "Nobody had come.",
+  "newElement": "-tenakatta (item 92)",
+  "usesPrior": [
+   "dare",
+   "mo",
+   "kite",
+   "-teru"
+  ],
+  "cardType": "RECOG",
+  "block": "wk9-10-te",
+  "kana": "だれもきてなかった。"
+ },
+ {
+  "n": 430,
+  "romaji": "nani shiten no?",
+  "gloss": "So what are you doing?",
+  "newElement": "-ten no? (item 93)",
+  "usesPrior": [
+   "nani",
+   "shiteru"
+  ],
+  "cardType": "RECOG",
+  "note": "The contracted form is the primary; -teru no? is the labelled slow variant on the same card.",
+  "block": "wk9-10-te",
+  "kana": "なにしてんの？"
+ },
+ {
+  "n": 431,
+  "romaji": "ano hito no namae, shiranai.",
+  "gloss": "I don't know that person's name.",
+  "newElement": "shiranai (item 94)",
+  "usesPrior": [
+   "ano",
+   "hito",
+   "no",
+   "namae"
+  ],
+  "cardType": "PROD",
+  "note": "THE FLAG CARD. Not *shittenai. Run it immediately after sentence 27 so the learner meets the exception in the same breath as the rule it breaks.",
+  "block": "wk9-10-te",
+  "kana": "あのひとのなまえ、しらない。"
+ },
+ {
+  "n": 432,
+  "romaji": "chotto matte kudasai.",
+  "gloss": "Please wait a moment.",
+  "newElement": "-te kudasai (item 95)",
+  "usesPrior": [
+   "chotto",
+   "matte"
+  ],
+  "cardType": "PROD",
+  "block": "wk9-10-te",
+  "kana": "ちょっとまってください。"
+ },
+ {
+  "n": 433,
+  "romaji": "chotto matte.",
+  "gloss": "Hang on.",
+  "newElement": "bare -te request (item 96)",
+  "usesPrior": [
+   "chotto",
+   "matte"
+  ],
+  "cardType": "PROD",
+  "note": "Same session as 32. In the target register this is the unmarked form and -te kudasai is the marked one - state it that way round.",
+  "block": "wk9-10-te",
+  "kana": "ちょっとまって。"
+ },
+ {
+  "n": 434,
+  "romaji": "namae o oshiete kudasai.",
+  "gloss": "Please tell me your name.",
+  "newElement": "-te kudasai with an o-marked object",
+  "usesPrior": [
+   "namae",
+   "o",
+   "oshiete",
+   "-te kudasai"
+  ],
+  "cardType": "PROD",
+  "block": "wk9-10-te",
+  "kana": "なまえおおしえてください。"
+ },
+ {
+  "n": 435,
+  "romaji": "mada tabenaide kudasai.",
+  "gloss": "Please don't eat yet.",
+  "newElement": "-naide kudasai (item 97)",
+  "usesPrior": [
+   "mada",
+   "tabenai",
+   "kudasai"
+  ],
+  "cardType": "PROD",
+  "note": "The -nai-stem twin, carded in the same session as 32 to block *-te nai kudasai.",
+  "block": "wk9-10-te",
+  "kana": "まだたべないでください。"
+ },
+ {
+  "n": 436,
+  "romaji": "tetsudatte kureru?",
+  "gloss": "Will you give me a hand?",
+  "newElement": "-te kureru (item 98)",
+  "usesPrior": [
+   "tetsudatte"
+  ],
+  "cardType": "PROD",
+  "block": "wk9-10-te",
+  "kana": "てつだってくれる？"
+ },
+ {
+  "n": 437,
+  "romaji": "sensee ga oshiete kureta.",
+  "gloss": "The teacher taught me.",
+  "newElement": "-te kureta (item 99)",
+  "usesPrior": [
+   "sensee",
+   "ga",
+   "oshiete",
+   "-te kureru"
+  ],
+  "cardType": "RECOG",
+  "note": "ga marks the doer. Hold this against sentence 48.",
+  "block": "wk9-10-te",
+  "kana": "せんせいがおしえてくれた。"
+ },
+ {
+  "n": 438,
+  "romaji": "chotto matte kurenai?",
+  "gloss": "Could you wait a sec?",
+  "newElement": "-te kurenai? (item 100)",
+  "usesPrior": [
+   "chotto",
+   "matte",
+   "-te kureru"
+  ],
+  "cardType": "PROD",
+  "note": "Say explicitly that the negative here is softening, not negation.",
+  "block": "wk9-10-te",
+  "kana": "ちょっとまってくれない？"
+ },
+ {
+  "n": 439,
+  "romaji": "kasa, kashite kuremasen ka.",
+  "gloss": "Would you lend me an umbrella?",
+  "newElement": "-te kuremasen ka (item 101)",
+  "usesPrior": [
+   "kasa",
+   "kashite",
+   "-te kureru"
+  ],
+  "cardType": "RECOG",
+  "block": "wk9-10-te",
+  "kana": "かさ、かしてくれませんか。"
+ },
+ {
+  "n": 440,
+  "romaji": "kagi wasurechatta.",
+  "gloss": "I went and forgot my key.",
+  "newElement": "-chatta (item 104)",
+  "usesPrior": [
+   "kagi",
+   "wasurete"
+  ],
+  "cardType": "PROD",
+  "note": "Lead the -chau session with the past, not the non-past: it is far more frequent and it carries the regret reading that makes the construction memorable.",
+  "block": "wk9-10-te",
+  "kana": "かぎわすれちゃった。"
+ },
+ {
+  "n": 441,
+  "romaji": "kore, tabechau.",
+  "gloss": "I'll finish this off.",
+  "newElement": "-chau (item 103)",
+  "usesPrior": [
+   "kore",
+   "tabete",
+   "-chatta"
+  ],
+  "cardType": "PROD",
+  "block": "wk9-10-te",
+  "kana": "これ、たべちゃう。"
+ },
+ {
+  "n": 442,
+  "romaji": "koohii nonjatta.",
+  "gloss": "I drank the coffee - all of it.",
+  "newElement": "-jatta, VOICED (item 106)",
+  "usesPrior": [
+   "koohii",
+   "nonde",
+   "-chatta"
+  ],
+  "cardType": "PROD",
+  "note": "SAME SESSION as 40 and 41. A -de ending gives -ja. Omitting this member was the fatal defect of the earlier pass.",
+  "block": "wk9-10-te",
+  "kana": "コーヒーのんじゃった。"
+ },
+ {
+  "n": 443,
+  "romaji": "sono zasshi, kyoo yonjau.",
+  "gloss": "I'll finish that magazine today.",
+  "newElement": "-jau, VOICED (item 105)",
+  "usesPrior": [
+   "sono",
+   "zasshi",
+   "kyoo",
+   "yonde",
+   "-chau"
+  ],
+  "cardType": "RECOG",
+  "block": "wk9-10-te",
+  "kana": "そのざっし、きょうよんじゃう。"
+ },
+ {
+  "n": 444,
+  "romaji": "mushi ga shinjatta.",
+  "gloss": "The bug died.",
+  "newElement": "shinjatta (item 107)",
+  "usesPrior": [
+   "mushi",
+   "ga",
+   "shinde",
+   "-jatta"
+  ],
+  "cardType": "RECOG",
+  "note": "Proves the split is conditioned by the -de ending, not by verb class.",
+  "block": "wk9-10-te",
+  "kana": "むしがしんじゃった。"
+ },
+ {
+  "n": 445,
+  "romaji": "sensee ni oshiete moratta.",
+  "gloss": "I got the teacher to teach me.",
+  "newElement": "-te moratta (item 109)",
+  "usesPrior": [
+   "sensee",
+   "ni",
+   "oshiete",
+   "moratte"
+  ],
+  "cardType": "PROD",
+  "block": "wk9-10-te",
+  "kana": "せんせいにおしえてもらった。"
+ },
+ {
+  "n": 446,
+  "romaji": "ani ni tetsudatte morau.",
+  "gloss": "I'll get my brother to help.",
+  "newElement": "-te morau non-past (item 108)",
+  "usesPrior": [
+   "ani",
+   "ni",
+   "tetsudatte",
+   "-te moratta"
+  ],
+  "cardType": "PROD",
+  "block": "wk9-10-te",
+  "kana": "あににてつだってもらう。"
+ },
+ {
+  "n": 447,
+  "romaji": "chotto mite moraeru?",
+  "gloss": "Could you take a look at this?",
+  "newElement": "-te moraeru? (item 110)",
+  "usesPrior": [
+   "chotto",
+   "mite",
+   "-te morau"
+  ],
+  "cardType": "PROD",
+  "block": "wk9-10-te",
+  "kana": "ちょっとみてもらえる？"
+ },
+ {
+  "n": 448,
+  "romaji": "tomodachi ga kashite kureta. tomodachi ni kashite moratta.",
+  "gloss": "My friend lent it to me. (two sentences, one event)",
+  "newElement": "kureru / morau direction frame (item 111)",
+  "usesPrior": [
+   "tomodachi",
+   "ga",
+   "ni",
+   "kashite",
+   "-te kureta",
+   "-te moratta"
+  ],
+  "cardType": "RECOG",
+  "note": "One card, two sentences, one event. The ga/ni flip is the whole lesson. English collapses them, so this must be drilled as a swap.",
+  "block": "wk9-10-te",
+  "kana": "ともだちがかしてくれた。ともだちにかしてもらった。"
+ },
+ {
+  "n": 449,
+  "romaji": "pan katte kuru.",
+  "gloss": "I'll go buy some bread.",
+  "newElement": "-te kuru DIRECTIONAL (item 112)",
+  "usesPrior": [
+   "pan",
+   "katte",
+   "kuru"
+  ],
+  "cardType": "PROD",
+  "block": "wk9-10-te",
+  "kana": "パンかってくる。"
+ },
+ {
+  "n": 450,
+  "romaji": "gomi dashite kita.",
+  "gloss": "I went and put the rubbish out.",
+  "newElement": "-te kita directional past (item 113)",
+  "usesPrior": [
+   "gomi",
+   "dashite",
+   "-te kuru"
+  ],
+  "cardType": "PROD",
+  "block": "wk9-10-te",
+  "kana": "ごみだしてきた。"
+ },
+ {
+  "n": 451,
+  "romaji": "sukoshi wakatte kita.",
+  "gloss": "I'm starting to get it.",
+  "newElement": "-te kuru INCHOATIVE (item 114)",
+  "usesPrior": [
+   "sukoshi",
+   "wakatte",
+   "-te kuru"
+  ],
+  "cardType": "PROD",
+  "note": "Same session as 49. Same aktionsart diagnostic as -teru: motion verb gives direction, cognition or change verb gives inchoative.",
+  "block": "wk9-10-te",
+  "kana": "すこしわかってきた。"
+ },
+ {
+  "n": 452,
+  "romaji": "ame ga futte kita.",
+  "gloss": "It's started raining.",
+  "newElement": "futte and -te kita inchoative (items 115, 116)",
+  "usesPrior": [
+   "ame",
+   "ga",
+   "-te kuru inchoative"
+  ],
+  "cardType": "RECOG",
+  "block": "wk9-10-te",
+  "kana": "あめがふってきた。"
+ },
+ {
+  "n": 453,
+  "romaji": "kore tabete mo ii?",
+  "gloss": "Can I eat this?",
+  "newElement": "-te mo ii (item 118)",
+  "usesPrior": [
+   "kore",
+   "tabete",
+   "ii"
+  ],
+  "cardType": "PROD",
+  "block": "wk9-10-te",
+  "kana": "これたべてもいい？"
+ },
+ {
+  "n": 454,
+  "romaji": "suwatte ii?",
+  "gloss": "Mind if I sit?",
+  "newElement": "-te ii reduced (item 119)",
+  "usesPrior": [
+   "suwatte",
+   "-te mo ii"
+  ],
+  "cardType": "PROD",
+  "note": "Carded as an equal to 53, not a footnote - the mo drops in most real tokens.",
+  "block": "wk9-10-te",
+  "kana": "すわっていい？"
+ },
+ {
+  "n": 455,
+  "romaji": "kono pen tsukatte mo ii yo.",
+  "gloss": "You can use this pen.",
+  "newElement": "-te mo ii yo, granting (item 120)",
+  "usesPrior": [
+   "kono",
+   "pen",
+   "tsukatte",
+   "-te mo ii"
+  ],
+  "cardType": "RECOG",
+  "block": "wk9-10-te",
+  "kana": "このぺんつかってもいいよ。"
+ },
+ {
+  "n": 456,
+  "romaji": "kyoo wa konakute mo ii.",
+  "gloss": "You don't have to come today.",
+  "newElement": "-nakute mo ii (item 121)",
+  "usesPrior": [
+   "kyoo",
+   "wa",
+   "konai",
+   "-te mo ii"
+  ],
+  "cardType": "PROD",
+  "note": "Second cross-stem twin, same session as 53, blocking *-te nai mo ii.",
+  "block": "wk9-10-te",
+  "kana": "きょうわこなくてもいい。"
+ },
+ {
+  "n": 457,
+  "romaji": "koko ni kite. / shatsu kite.",
+  "gloss": "Come here. / Put your shirt on.",
+  "newElement": "kite from kiru 'wear' [0] (item 122)",
+  "usesPrior": [
+   "koko",
+   "ni",
+   "kite (kuru)",
+   "shatsu"
+  ],
+  "cardType": "RECOG",
+  "note": "H1 frame card. kite [1] H-L against kite [0] L-H. Non-phonological cue: a garment noun licenses only the wear reading. RECOG only.",
+  "block": "wk9-10-te",
+  "kana": "ここにきて。・しゃつきて。"
+ },
+ {
+  "n": 458,
+  "romaji": "hanashi kiite. / kami o kitte.",
+  "gloss": "Listen to what I'm saying. / Cut the paper.",
+  "newElement": "kitte from kiru 'cut' [1] (item 123)",
+  "usesPrior": [
+   "hanashi",
+   "kiite",
+   "kami",
+   "o"
+  ],
+  "cardType": "RECOG",
+  "note": "H1 frame card, second half. Three morae with a long vowel against three morae with a silent one. This is the pair the wk 1-2 perception block was built for - cash it in here.",
+  "block": "wk9-10-te",
+  "kana": "はなしきいて。・かみおきって。"
+ },
+ {
+  "n": 459,
+  "romaji": "kitte ga aru?",
+  "gloss": "Have you got a stamp?",
+  "newElement": "kitte the NOUN [0] (item 124)",
+  "usesPrior": [
+   "ga",
+   "aru"
+  ],
+  "cardType": "RECOG",
+  "note": "H1 closes. Cue: ga-marking and the impossibility of kudasai after it. Nothing phonological is asked of the learner beyond the accent.",
+  "block": "wk9-10-te",
+  "kana": "きってがある？"
+ },
+ {
+  "n": 460,
+  "romaji": "tomodachi ga katte, minna waratta.",
+  "gloss": "My friend won and everyone laughed.",
+  "newElement": "katte from katsu [1] (item 125)",
+  "usesPrior": [
+   "tomodachi",
+   "ga",
+   "minna",
+   "waratta",
+   "-te junctive"
+  ],
+  "cardType": "RECOG",
+  "note": "H4. Pitch DOES separate this from katte [0] from kau, given four morae of tail after the verb. Animate ga-subject with no o-object is the backup cue.",
+  "block": "wk9-10-te",
+  "kana": "ともだちがかって、みんなわらった。"
+ },
+ {
+  "n": 461,
+  "romaji": "uchi ni kaette, gohan o tsukutta. / shatsu o kaete, dekaketa.",
+  "gloss": "I went home and cooked. / I changed my shirt and went out.",
+  "newElement": "kaete from kaeru 'change', ichidan [0] (item 126)",
+  "usesPrior": [
+   "uchi",
+   "ni",
+   "kaette",
+   "gohan",
+   "o",
+   "tsukutta",
+   "shatsu",
+   "dekaketa"
+  ],
+  "cardType": "RECOG",
+  "note": "H5, the class-diagnostic card. Same citation form, and only the geminate tells you which verb ran. Say the payoff out loud: this is why the chant is worth two weeks.",
+  "block": "wk9-10-te",
+  "kana": "うちにかえって、ごはんおつくった。・しゃつおかえて、でかけた。"
+ },
+ {
+  "n": 462,
+  "romaji": "gakkoo ni itte, sensee ni atta. / 'ashita kuru' tte yutteta.",
+  "gloss": "I went to school and met the teacher. / He was saying he'd come tomorrow.",
+  "newElement": "tte yutteta (item 128)",
+  "usesPrior": [
+   "gakkoo",
+   "ni",
+   "itte",
+   "sensee",
+   "atta",
+   "ashita",
+   "kuru",
+   "tte",
+   "-teta"
+  ],
+  "cardType": "PROD",
+  "note": "H2 closes. itte and yutteta side by side, both heiban, with the SEGMENTS as the only separator - which is exactly why yuu had to be the citation form.",
+  "block": "wk9-10-te",
+  "kana": "がっこうにいって、せんせいにあった。・あしたくるってゆってた。"
+ },
+ {
+  "n": 463,
+  "romaji": "kesa okite, gohan tabete, gakkoo ni itte, tomodachi ni atte, sukoshi hanashite, uchi ni kaetta.",
+  "gloss": "I got up this morning, ate, went to school, met a friend, talked a bit, and came home.",
+  "newElement": "five-link -te chain in one breath",
+  "usesPrior": [
+   "kesa",
+   "okite",
+   "gohan",
+   "tabete",
+   "gakkoo",
+   "ni",
+   "itte",
+   "tomodachi",
+   "atte",
+   "sukoshi",
+   "hanashite",
+   "uchi",
+   "kaetta"
+  ],
+  "cardType": "PROD",
+  "note": "The exit sentence for the block. Every link is a different chant row - R0, R0, iku-exception, R5, R1, R5-past - and there is one tense marker, at the end. Target: produced in under 8 s with no restart.",
+  "block": "wk9-10-te",
+  "kana": "けさおきて、ごはんたべて、がっこうにいって、ともだちにあって、すこしはなして、うちにかえった。"
+ },
+ {
+  "n": 464,
+  "romaji": "ima nani shiten no? - zasshi yondeta. demo moo yonjatta.",
+  "gloss": "What are you up to? - I was reading a magazine. But I've finished it now.",
+  "newElement": "mixed-aspect turn: -ten no? plus -teta plus -jatta in one exchange",
+  "usesPrior": [
+   "ima",
+   "nani",
+   "shiten no",
+   "zasshi",
+   "yondeta",
+   "demo",
+   "moo",
+   "yonjatta"
+  ],
+  "cardType": "RECOG",
+  "note": "Exit recognition card. Three of the block's four highest-value nodes in one four-second turn, at conversational speed.",
+  "block": "wk9-10-te",
+  "kana": "いまなにしてんの？-ざっしよんでた。でももうよんじゃった。"
+ }
+]

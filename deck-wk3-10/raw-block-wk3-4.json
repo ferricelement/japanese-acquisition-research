@@ -1,0 +1,3267 @@
+{
+ "block": "A",
+ "weeks": "3-4 (days 1-14 of card work; weeks 1-2 were the no-card perception block)",
+ "items": [
+  {
+   "n": 1,
+   "romaji": "un",
+   "accent": "[1]",
+   "gloss": "yeah / mm (affirmative)",
+   "pos": "response token",
+   "cardType": "RECOG",
+   "audioText": "un.",
+   "note": "2 morae, sharp HL. Minimal pair with #2 by LENGTH + CONTOUR only. The payoff card for weeks 1-2."
+  },
+  {
+   "n": 2,
+   "romaji": "uun",
+   "accent": "[1]",
+   "gloss": "nuh-uh / no",
+   "pos": "response token",
+   "cardType": "RECOG",
+   "audioText": "uun.",
+   "note": "3 morae with a dip-then-rise on the doubled u. Never write as 'un'."
+  },
+  {
+   "n": 3,
+   "romaji": "hai",
+   "accent": "[1]",
+   "gloss": "yes / here / go ahead",
+   "pos": "response token",
+   "cardType": "PROD",
+   "audioText": "hai."
+  },
+  {
+   "n": 4,
+   "romaji": "iie",
+   "accent": "[1]",
+   "gloss": "no (formal, rarer than uun)",
+   "pos": "response token",
+   "cardType": "RECOG",
+   "audioText": "iie."
+  },
+  {
+   "n": 5,
+   "romaji": "ee",
+   "accent": "[1]",
+   "gloss": "yes (soft, warm)",
+   "pos": "response token",
+   "cardType": "RECOG",
+   "audioText": "ee.",
+   "note": "Doubled e. Contrast length against a short 'e'."
+  },
+  {
+   "n": 6,
+   "romaji": "aa",
+   "accent": "[1]",
+   "gloss": "ah / oh I see",
+   "pos": "response token",
+   "cardType": "PROD",
+   "audioText": "aa."
+  },
+  {
+   "n": 7,
+   "romaji": "hee",
+   "accent": "[1]",
+   "gloss": "huh, interesting",
+   "pos": "response token",
+   "cardType": "RECOG",
+   "audioText": "hee.",
+   "note": "Doubled e, long fall. Never 'he'."
+  },
+  {
+   "n": 8,
+   "romaji": "soo",
+   "accent": "[1]",
+   "gloss": "that's right / so",
+   "pos": "response token",
+   "cardType": "PROD",
+   "audioText": "soo.",
+   "note": "Doubled o. Snaps into the kosoado grid as the SO- cell of row 4 on day 5."
+  },
+  {
+   "n": 9,
+   "romaji": "soo desu ka",
+   "accent": "[1]",
+   "gloss": "is that so / oh really",
+   "pos": "chunk",
+   "cardType": "CHUNK",
+   "audioText": "soo desu ka.",
+   "note": "Frozen. Falling = acknowledgment; rising = genuine surprise. Do not analyze desu/ka yet."
+  },
+  {
+   "n": 10,
+   "romaji": "naruhodo",
+   "accent": "[0]",
+   "gloss": "ah, that makes sense",
+   "pos": "response token",
+   "cardType": "PROD",
+   "audioText": "naruhodo."
+  },
+  {
+   "n": 11,
+   "romaji": "sokka",
+   "accent": "[1]",
+   "gloss": "oh, I see (casual)",
+   "pos": "response token",
+   "cardType": "PROD",
+   "audioText": "sokka.",
+   "note": "Geminate kk. so-Q-ka, 3 morae."
+  },
+  {
+   "n": 12,
+   "romaji": "honto",
+   "accent": "[0]",
+   "gloss": "really?",
+   "pos": "response token",
+   "cardType": "PROD",
+   "audioText": "honto?",
+   "note": "3 morae ho-N-to; the n is its own mora. Rising terminal."
+  },
+  {
+   "n": 13,
+   "romaji": "majide",
+   "accent": "[1]",
+   "gloss": "seriously?",
+   "pos": "response token",
+   "cardType": "PROD",
+   "audioText": "majide?"
+  },
+  {
+   "n": 14,
+   "romaji": "tashika ni",
+   "accent": "[1]",
+   "gloss": "true, fair point",
+   "pos": "response token",
+   "cardType": "PROD",
+   "audioText": "tashika ni."
+  },
+  {
+   "n": 15,
+   "romaji": "yappari",
+   "accent": "[3]",
+   "gloss": "knew it / as expected",
+   "pos": "response token",
+   "cardType": "PROD",
+   "audioText": "yappari.",
+   "note": "Geminate pp. ya-Q-pa-ri, 4 morae."
+  },
+  {
+   "n": 16,
+   "romaji": "nanka",
+   "accent": "[1]",
+   "gloss": "like, kinda (hedge)",
+   "pos": "filler",
+   "cardType": "RECOG",
+   "audioText": "nanka."
+  },
+  {
+   "n": 17,
+   "romaji": "eeto",
+   "accent": "[1]",
+   "gloss": "um, let me think",
+   "pos": "filler",
+   "cardType": "PROD",
+   "audioText": "eeto...",
+   "note": "Doubled e."
+  },
+  {
+   "n": 18,
+   "romaji": "ano",
+   "accent": "[0]",
+   "gloss": "um / excuse me (opener)",
+   "pos": "filler",
+   "cardType": "PROD",
+   "audioText": "ano...",
+   "note": "Homophone with demonstrative ano (#54). Filler ano is drawn out; demonstrative ano is not, and is always followed by a noun."
+  },
+  {
+   "n": 19,
+   "romaji": "chotto",
+   "accent": "[1]",
+   "gloss": "a bit / hang on / (soft refusal)",
+   "pos": "adverb / hedge",
+   "cardType": "PROD",
+   "audioText": "chotto.",
+   "note": "Geminate tt. Trailing 'chotto...' means no."
+  },
+  {
+   "n": 20,
+   "romaji": "maa",
+   "accent": "[1]",
+   "gloss": "well, sort of",
+   "pos": "response token",
+   "cardType": "RECOG",
+   "audioText": "maa.",
+   "note": "Doubled a."
+  },
+  {
+   "n": 21,
+   "romaji": "arigatoo",
+   "accent": "[2]",
+   "gloss": "thanks",
+   "pos": "chunk",
+   "cardType": "CHUNK",
+   "audioText": "arigatoo.",
+   "note": "Doubled o at the end. Never 'arigatou'."
+  },
+  {
+   "n": 22,
+   "romaji": "sumimasen",
+   "accent": "[4]",
+   "gloss": "excuse me / sorry / thanks",
+   "pos": "chunk",
+   "cardType": "CHUNK",
+   "audioText": "sumimasen."
+  },
+  {
+   "n": 23,
+   "romaji": "gomen",
+   "accent": "[2]",
+   "gloss": "sorry (casual)",
+   "pos": "chunk",
+   "cardType": "CHUNK",
+   "audioText": "gomen."
+  },
+  {
+   "n": 24,
+   "romaji": "ohayoo",
+   "accent": "[4]",
+   "gloss": "morning!",
+   "pos": "chunk",
+   "cardType": "CHUNK",
+   "audioText": "ohayoo.",
+   "note": "Doubled o. Never 'ohayou'."
+  },
+  {
+   "n": 25,
+   "romaji": "konnichiwa",
+   "accent": "[5]",
+   "gloss": "hello (daytime)",
+   "pos": "chunk",
+   "cardType": "CHUNK",
+   "audioText": "konnichiwa.",
+   "note": "FROZEN. The final -wa is NOT the topic particle; topic wa is withheld until block B. Also note ko-N-ni-chi-wa: the doubled nn is moraic N followed by n."
+  },
+  {
+   "n": 26,
+   "romaji": "konbanwa",
+   "accent": "[5]",
+   "gloss": "good evening",
+   "pos": "chunk",
+   "cardType": "CHUNK",
+   "audioText": "konbanwa.",
+   "note": "Frozen, same note as #25. Two moraic N."
+  },
+  {
+   "n": 27,
+   "romaji": "oyasumi",
+   "accent": "[0]",
+   "gloss": "night",
+   "pos": "chunk",
+   "cardType": "CHUNK",
+   "audioText": "oyasumi."
+  },
+  {
+   "n": 28,
+   "romaji": "jaa ne",
+   "accent": "[1]",
+   "gloss": "see ya",
+   "pos": "chunk",
+   "cardType": "CHUNK",
+   "audioText": "jaa ne.",
+   "note": "Doubled a."
+  },
+  {
+   "n": 29,
+   "romaji": "mata ne",
+   "accent": "[1]",
+   "gloss": "later",
+   "pos": "chunk",
+   "cardType": "CHUNK",
+   "audioText": "mata ne."
+  },
+  {
+   "n": 30,
+   "romaji": "itadakimasu",
+   "accent": "[5]",
+   "gloss": "(said before eating)",
+   "pos": "chunk",
+   "cardType": "CHUNK",
+   "audioText": "itadakimasu."
+  },
+  {
+   "n": 31,
+   "romaji": "gochisoosama",
+   "accent": "[5]",
+   "gloss": "(said after eating)",
+   "pos": "chunk",
+   "cardType": "CHUNK",
+   "audioText": "gochisoosama.",
+   "note": "Doubled o in -soo-."
+  },
+  {
+   "n": 32,
+   "romaji": "otsukaresama",
+   "accent": "[2]",
+   "gloss": "good work / hi-and-bye at work",
+   "pos": "chunk",
+   "cardType": "CHUNK",
+   "audioText": "otsukaresama."
+  },
+  {
+   "n": 33,
+   "romaji": "yoroshiku",
+   "accent": "[2]",
+   "gloss": "nice to meet you / please look after this",
+   "pos": "chunk",
+   "cardType": "CHUNK",
+   "audioText": "yoroshiku."
+  },
+  {
+   "n": 34,
+   "romaji": "daijoobu",
+   "accent": "[3]",
+   "gloss": "okay / fine / no thanks",
+   "pos": "chunk",
+   "cardType": "CHUNK",
+   "audioText": "daijoobu.",
+   "note": "Doubled o. Rising = 'you okay?', falling = 'I'm fine'."
+  },
+  {
+   "n": 35,
+   "romaji": "ganbatte",
+   "accent": "[3]",
+   "gloss": "go for it / hang in there",
+   "pos": "chunk",
+   "cardType": "CHUNK",
+   "audioText": "ganbatte.",
+   "note": "Moraic N plus geminate tt: ga-N-ba-Q-te, 5 morae."
+  },
+  {
+   "n": 36,
+   "romaji": "yuu",
+   "accent": "[0]",
+   "gloss": "to say",
+   "pos": "godan-u",
+   "cardType": "PROD",
+   "audioText": "yuu.",
+   "teForm": "yutte",
+   "note": "CRITICAL: the verb spelled with the kanji for 'say' is PRONOUNCED yuu. Past = yutta. Reported speech = tte yutteta. The learner never sees kanji, so yuu is the citation form. Never 'iu'."
+  },
+  {
+   "n": 37,
+   "romaji": "X tte nani?",
+   "accent": "[1]",
+   "gloss": "what's X? / what does X mean?",
+   "pos": "chunk (extraction tool)",
+   "cardType": "CHUNK",
+   "audioText": "'chotto' tte nani?",
+   "note": "Slot chunk: any heard word goes in X. The first tool that lets the learner mine vocabulary from live speech instead of only from prepared material."
+  },
+  {
+   "n": 38,
+   "romaji": "nihongo de nan te yuu no?",
+   "accent": "[0]",
+   "gloss": "how do you say that in Japanese?",
+   "pos": "chunk (extraction tool)",
+   "cardType": "CHUNK",
+   "audioText": "nihongo de nan te yuu no?",
+   "note": "Contains yuu (#36) and rising -no. nihongo [0] is kango but rides only inside this frame, never bare."
+  },
+  {
+   "n": 39,
+   "romaji": "moo ichido onegai",
+   "accent": "[1]",
+   "gloss": "one more time please",
+   "pos": "chunk (extraction tool)",
+   "cardType": "CHUNK",
+   "audioText": "moo ichido onegai.",
+   "note": "Doubled o in moo."
+  },
+  {
+   "n": 40,
+   "romaji": "yukkuri onegai",
+   "accent": "[3]",
+   "gloss": "slowly please",
+   "pos": "chunk (extraction tool)",
+   "cardType": "CHUNK",
+   "audioText": "yukkuri onegai.",
+   "note": "Geminate kk."
+  },
+  {
+   "n": 41,
+   "romaji": "da",
+   "accent": "-",
+   "gloss": "is (plain)",
+   "pos": "copula",
+   "cardType": "PROD",
+   "audioText": "soo da.",
+   "note": "Accentless clitic; takes its pitch from the preceding word."
+  },
+  {
+   "n": 42,
+   "romaji": "desu",
+   "accent": "-",
+   "gloss": "is (polite)",
+   "pos": "copula",
+   "cardType": "PROD",
+   "audioText": "soo desu.",
+   "note": "Final u is normally devoiced to near-zero: 'des'."
+  },
+  {
+   "n": 43,
+   "romaji": "ja nai",
+   "accent": "-",
+   "gloss": "isn't (plain negative)",
+   "pos": "copula",
+   "cardType": "PROD",
+   "audioText": "soo ja nai.",
+   "note": "THIS is the citation form. de wa nai (#47) is the formal expansion, recognition only."
+  },
+  {
+   "n": 44,
+   "romaji": "datta",
+   "accent": "-",
+   "gloss": "was (plain past)",
+   "pos": "copula",
+   "cardType": "PROD",
+   "audioText": "soo datta.",
+   "note": "Geminate tt."
+  },
+  {
+   "n": 45,
+   "romaji": "deshita",
+   "accent": "-",
+   "gloss": "was (polite past)",
+   "pos": "copula",
+   "cardType": "PROD",
+   "audioText": "soo deshita."
+  },
+  {
+   "n": 46,
+   "romaji": "ja nakatta",
+   "accent": "-",
+   "gloss": "wasn't",
+   "pos": "copula",
+   "cardType": "PROD",
+   "audioText": "soo ja nakatta.",
+   "note": "Geminate tt."
+  },
+  {
+   "n": 47,
+   "romaji": "de wa nai",
+   "accent": "-",
+   "gloss": "is not (formal expansion of ja nai)",
+   "pos": "copula",
+   "cardType": "RECOG",
+   "audioText": "soo de wa nai.",
+   "note": "RECOGNITION ONLY. Never requested in production in block A."
+  },
+  {
+   "n": 48,
+   "romaji": "kore",
+   "accent": "[0]",
+   "gloss": "this one (near me)",
+   "pos": "pronoun (KO-, grid row 1)",
+   "cardType": "PROD",
+   "audioText": "kore ga"
+  },
+  {
+   "n": 49,
+   "romaji": "sore",
+   "accent": "[0]",
+   "gloss": "that one (near you)",
+   "pos": "pronoun (SO-, grid row 1)",
+   "cardType": "PROD",
+   "audioText": "sore ga"
+  },
+  {
+   "n": 50,
+   "romaji": "are",
+   "accent": "[0]",
+   "gloss": "that one over there",
+   "pos": "pronoun (A-, grid row 1)",
+   "cardType": "PROD",
+   "audioText": "are ga"
+  },
+  {
+   "n": 51,
+   "romaji": "dore",
+   "accent": "[1]",
+   "gloss": "which one",
+   "pos": "pronoun (DO-, grid row 1)",
+   "cardType": "PROD",
+   "audioText": "dore ga",
+   "note": "The entire DO- column is accent [1]. Teach the column as one accent fact rather than four."
+  },
+  {
+   "n": 52,
+   "romaji": "kono",
+   "accent": "[0]",
+   "gloss": "this ___",
+   "pos": "adnominal (KO-, grid row 2)",
+   "cardType": "DRILL",
+   "audioText": "kono",
+   "note": "Cannot stand alone; always kono + noun. Sentence cards begin day 7 once nouns exist."
+  },
+  {
+   "n": 53,
+   "romaji": "sono",
+   "accent": "[0]",
+   "gloss": "that ___",
+   "pos": "adnominal (SO-, grid row 2)",
+   "cardType": "DRILL",
+   "audioText": "sono"
+  },
+  {
+   "n": 54,
+   "romaji": "ano",
+   "accent": "[0]",
+   "gloss": "that ___ over there",
+   "pos": "adnominal (A-, grid row 2)",
+   "cardType": "DRILL",
+   "audioText": "ano",
+   "note": "Homophone with filler ano (#18); disambiguated by whether a noun follows."
+  },
+  {
+   "n": 55,
+   "romaji": "dono",
+   "accent": "[1]",
+   "gloss": "which ___",
+   "pos": "adnominal (DO-, grid row 2)",
+   "cardType": "DRILL",
+   "audioText": "dono"
+  },
+  {
+   "n": 56,
+   "romaji": "koko",
+   "accent": "[0]",
+   "gloss": "here",
+   "pos": "place noun (KO-, grid row 3)",
+   "cardType": "PROD",
+   "audioText": "koko ga"
+  },
+  {
+   "n": 57,
+   "romaji": "soko",
+   "accent": "[0]",
+   "gloss": "there (by you)",
+   "pos": "place noun (SO-, grid row 3)",
+   "cardType": "PROD",
+   "audioText": "soko ga"
+  },
+  {
+   "n": 58,
+   "romaji": "asoko",
+   "accent": "[0]",
+   "gloss": "over there",
+   "pos": "place noun (A-, grid row 3)",
+   "cardType": "PROD",
+   "audioText": "asoko ga",
+   "note": "IRREGULAR CELL. The grid predicts *ako; it is asoko, 3 morae. This is the only broken cell in the 5x4 grid and must be flagged out loud."
+  },
+  {
+   "n": 59,
+   "romaji": "doko",
+   "accent": "[1]",
+   "gloss": "where",
+   "pos": "place noun (DO-, grid row 3)",
+   "cardType": "PROD",
+   "audioText": "doko ga"
+  },
+  {
+   "n": 60,
+   "romaji": "koo",
+   "accent": "[1]",
+   "gloss": "this way / like this",
+   "pos": "adverb (KO-, grid row 4)",
+   "cardType": "PROD",
+   "audioText": "koo.",
+   "note": "Row 4 is koo / soo (#8) / aa (#6) / doo (#61). soo and aa were learned on day 1 as response tokens and now snap into the grid — point this out explicitly."
+  },
+  {
+   "n": 61,
+   "romaji": "doo",
+   "accent": "[1]",
+   "gloss": "how / how about",
+   "pos": "adverb (DO-, grid row 4)",
+   "cardType": "PROD",
+   "audioText": "doo?",
+   "note": "Doubled o. The highest-yield question word in casual speech."
+  },
+  {
+   "n": 62,
+   "romaji": "konna",
+   "accent": "[0]",
+   "gloss": "this kind of ___",
+   "pos": "adnominal (KO-, grid row 5)",
+   "cardType": "RECOG",
+   "audioText": "konna",
+   "note": "ko-N-na: moraic N plus n."
+  },
+  {
+   "n": 63,
+   "romaji": "sonna",
+   "accent": "[0]",
+   "gloss": "that kind of ___",
+   "pos": "adnominal (SO-, grid row 5)",
+   "cardType": "PROD",
+   "audioText": "sonna"
+  },
+  {
+   "n": 64,
+   "romaji": "anna",
+   "accent": "[0]",
+   "gloss": "that kind of ___ (over there)",
+   "pos": "adnominal (A-, grid row 5)",
+   "cardType": "RECOG",
+   "audioText": "anna"
+  },
+  {
+   "n": 65,
+   "romaji": "donna",
+   "accent": "[1]",
+   "gloss": "what kind of ___",
+   "pos": "adnominal (DO-, grid row 5)",
+   "cardType": "PROD",
+   "audioText": "donna"
+  },
+  {
+   "n": 66,
+   "romaji": "ga",
+   "accent": "-",
+   "gloss": "(subject / identifying particle)",
+   "pos": "particle",
+   "cardType": "DRILL",
+   "audioText": "kore ga",
+   "note": "Introduced BEFORE any noun, because every noun card is delivered in the 'X ga' frame: heiban [0] and odaka are identical on the bare noun and differ only in whether the drop lands on ga. Topic wa is deliberately withheld to block B."
+  },
+  {
+   "n": 67,
+   "romaji": "no",
+   "accent": "-",
+   "gloss": "'s / of (genitive)",
+   "pos": "particle",
+   "cardType": "PROD",
+   "audioText": "kore, doko no?"
+  },
+  {
+   "n": 68,
+   "romaji": "(rising terminal)",
+   "accent": "-",
+   "gloss": "question, in plain speech",
+   "pos": "prosody",
+   "cardType": "RECOG",
+   "audioText": "soo? ... soo.",
+   "note": "THE plain-speech question marker. ka (#69) is the POLITE variant, not the default. Taught as a contour, not a word."
+  },
+  {
+   "n": 69,
+   "romaji": "ka",
+   "accent": "-",
+   "gloss": "question (polite register only)",
+   "pos": "particle",
+   "cardType": "RECOG",
+   "audioText": "kore desu ka?",
+   "note": "Never attaches to plain forms in this course; 'kore da ka' is not a thing."
+  },
+  {
+   "n": 70,
+   "romaji": "ne",
+   "accent": "-",
+   "gloss": "right? / shared feeling",
+   "pos": "final particle",
+   "cardType": "PROD",
+   "audioText": "soo da ne.",
+   "note": "Prosody, not semantics: short flat ne = seeking agreement; long fall nee = savoring."
+  },
+  {
+   "n": 71,
+   "romaji": "yo",
+   "accent": "-",
+   "gloss": "telling you something new",
+   "pos": "final particle",
+   "cardType": "PROD",
+   "audioText": "kore da yo."
+  },
+  {
+   "n": 72,
+   "romaji": "yo ne",
+   "accent": "-",
+   "gloss": "it's ___, right? (assert plus check)",
+   "pos": "final particle",
+   "cardType": "PROD",
+   "audioText": "soo da yo ne."
+  },
+  {
+   "n": 73,
+   "romaji": "na",
+   "accent": "-",
+   "gloss": "(musing to oneself)",
+   "pos": "final particle",
+   "cardType": "RECOG",
+   "audioText": "soo da na..."
+  },
+  {
+   "n": 74,
+   "romaji": "kke",
+   "accent": "-",
+   "gloss": "was it...? (retrieving from memory)",
+   "pos": "final particle",
+   "cardType": "PROD",
+   "audioText": "doko datta kke.",
+   "note": "Geminate kk. Attaches to the PAST form even for present meaning."
+  },
+  {
+   "n": 75,
+   "romaji": "sa",
+   "accent": "-",
+   "gloss": "(clause-medial 'y'know')",
+   "pos": "filler particle",
+   "cardType": "RECOG",
+   "audioText": "ano sa, chotto sa,",
+   "note": "Not sentence-final here; it is the mid-utterance rhythm keeper."
+  },
+  {
+   "n": 76,
+   "romaji": "no (rising)",
+   "accent": "-",
+   "gloss": "(soft question ending)",
+   "pos": "final particle",
+   "cardType": "PROD",
+   "audioText": "sore na no?",
+   "note": "After a noun it requires na: 'X na no?'. Already heard inside #38."
+  },
+  {
+   "n": 77,
+   "romaji": "neko",
+   "accent": "[1]",
+   "gloss": "cat",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "neko ga"
+  },
+  {
+   "n": 78,
+   "romaji": "inu",
+   "accent": "[2]",
+   "gloss": "dog",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "inu ga",
+   "note": "Odaka: the drop lands ON ga. Contrast directly with neko [1]."
+  },
+  {
+   "n": 79,
+   "romaji": "hito",
+   "accent": "[0]",
+   "gloss": "person",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "hito ga",
+   "note": "Heiban: ga stays high. This is the minimal accent contrast against inu [2]."
+  },
+  {
+   "n": 80,
+   "romaji": "kodomo",
+   "accent": "[0]",
+   "gloss": "child",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "kodomo ga"
+  },
+  {
+   "n": 81,
+   "romaji": "mizu",
+   "accent": "[0]",
+   "gloss": "water",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "mizu ga"
+  },
+  {
+   "n": 82,
+   "romaji": "hako",
+   "accent": "[1]",
+   "gloss": "box",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "hako ga"
+  },
+  {
+   "n": 83,
+   "romaji": "sara",
+   "accent": "[0]",
+   "gloss": "plate",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "sara ga"
+  },
+  {
+   "n": 84,
+   "romaji": "isu",
+   "accent": "[0]",
+   "gloss": "chair",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "isu ga"
+  },
+  {
+   "n": 85,
+   "romaji": "tsukue",
+   "accent": "[0]",
+   "gloss": "desk",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "tsukue ga",
+   "note": "tsu is one mora."
+  },
+  {
+   "n": 86,
+   "romaji": "kuruma",
+   "accent": "[0]",
+   "gloss": "car",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "kuruma ga"
+  },
+  {
+   "n": 87,
+   "romaji": "ue",
+   "accent": "[0]",
+   "gloss": "on top / above",
+   "pos": "noun (relational)",
+   "cardType": "PROD",
+   "audioText": "ue ga"
+  },
+  {
+   "n": 88,
+   "romaji": "shita",
+   "accent": "[0]",
+   "gloss": "under / below",
+   "pos": "noun (relational)",
+   "cardType": "PROD",
+   "audioText": "shita ga"
+  },
+  {
+   "n": 89,
+   "romaji": "naka",
+   "accent": "[1]",
+   "gloss": "inside",
+   "pos": "noun (relational)",
+   "cardType": "PROD",
+   "audioText": "naka ga"
+  },
+  {
+   "n": 90,
+   "romaji": "soto",
+   "accent": "[1]",
+   "gloss": "outside",
+   "pos": "noun (relational)",
+   "cardType": "PROD",
+   "audioText": "soto ga"
+  },
+  {
+   "n": 91,
+   "romaji": "mae",
+   "accent": "[1]",
+   "gloss": "in front / before",
+   "pos": "noun (relational)",
+   "cardType": "PROD",
+   "audioText": "mae ga"
+  },
+  {
+   "n": 92,
+   "romaji": "ushiro",
+   "accent": "[0]",
+   "gloss": "behind",
+   "pos": "noun (relational)",
+   "cardType": "PROD",
+   "audioText": "ushiro ga"
+  },
+  {
+   "n": 93,
+   "romaji": "tonari",
+   "accent": "[0]",
+   "gloss": "next to (same kind of thing)",
+   "pos": "noun (relational)",
+   "cardType": "PROD",
+   "audioText": "tonari ga"
+  },
+  {
+   "n": 94,
+   "romaji": "yoko",
+   "accent": "[0]",
+   "gloss": "beside (lateral)",
+   "pos": "noun (relational)",
+   "cardType": "PROD",
+   "audioText": "yoko ga"
+  },
+  {
+   "n": 95,
+   "romaji": "chikaku",
+   "accent": "[2]",
+   "gloss": "nearby",
+   "pos": "noun (relational)",
+   "cardType": "PROD",
+   "audioText": "chikaku ga",
+   "note": "chi is one mora; 4 morae total."
+  },
+  {
+   "n": 96,
+   "romaji": "soba",
+   "accent": "[1]",
+   "gloss": "right beside",
+   "pos": "noun (relational)",
+   "cardType": "RECOG",
+   "audioText": "isu no soba ga",
+   "note": "PHRASE-ONLY, PERMANENTLY. soba 'noodles' is ALSO [1] — accent-identical. The food sense is withheld from this course entirely so the frame 'X no soba' carries the meaning alone."
+  },
+  {
+   "n": 97,
+   "romaji": "tokoro",
+   "accent": "[3]",
+   "gloss": "place",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "tokoro ga"
+  },
+  {
+   "n": 98,
+   "romaji": "uchi",
+   "accent": "[0]",
+   "gloss": "home / my side",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "uchi ga"
+  },
+  {
+   "n": 99,
+   "romaji": "ie",
+   "accent": "[2]",
+   "gloss": "house",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "ie ga",
+   "note": "i-e, two morae, both full vowels. Not a diphthong."
+  },
+  {
+   "n": 100,
+   "romaji": "heya",
+   "accent": "[2]",
+   "gloss": "room",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "heya ga"
+  },
+  {
+   "n": 101,
+   "romaji": "mado",
+   "accent": "[1]",
+   "gloss": "window",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "mado ga"
+  },
+  {
+   "n": 102,
+   "romaji": "kabe",
+   "accent": "[0]",
+   "gloss": "wall",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "kabe ga"
+  },
+  {
+   "n": 103,
+   "romaji": "yuka",
+   "accent": "[0]",
+   "gloss": "floor",
+   "pos": "noun",
+   "cardType": "RECOG",
+   "audioText": "yuka ga"
+  },
+  {
+   "n": 104,
+   "romaji": "doa",
+   "accent": "[1]",
+   "gloss": "door",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "doa ga",
+   "note": "do-a, two morae."
+  },
+  {
+   "n": 105,
+   "romaji": "kagi",
+   "accent": "[2]",
+   "gloss": "key / lock",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "kagi ga"
+  },
+  {
+   "n": 106,
+   "romaji": "kami",
+   "accent": "[2]",
+   "gloss": "paper",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "kami ga",
+   "note": "kami 'hair' [2] and kami 'god' [1] are withheld from block A to keep this slot unambiguous."
+  },
+  {
+   "n": 107,
+   "romaji": "tegami",
+   "accent": "[0]",
+   "gloss": "letter (mail)",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "tegami ga"
+  },
+  {
+   "n": 108,
+   "romaji": "fuku",
+   "accent": "[2]",
+   "gloss": "clothes",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "fuku ga"
+  },
+  {
+   "n": 109,
+   "romaji": "kutsu",
+   "accent": "[2]",
+   "gloss": "shoes",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "kutsu ga",
+   "note": "ku-tsu, two morae; the tsu is a full mora, NOT a geminate."
+  },
+  {
+   "n": 110,
+   "romaji": "kasa",
+   "accent": "[1]",
+   "gloss": "umbrella",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "kasa ga"
+  },
+  {
+   "n": 111,
+   "romaji": "mise",
+   "accent": "[2]",
+   "gloss": "shop",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "mise ga"
+  },
+  {
+   "n": 112,
+   "romaji": "michi",
+   "accent": "[0]",
+   "gloss": "road / street",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "michi ga"
+  },
+  {
+   "n": 113,
+   "romaji": "eki",
+   "accent": "[1]",
+   "gloss": "station",
+   "pos": "noun (kango)",
+   "cardType": "RECOG",
+   "audioText": "eki no mae ga",
+   "note": "KANGO: delivered only inside 'eki no mae' / 'eki no chikaku', never as a bare 2-mora card."
+  },
+  {
+   "n": 114,
+   "romaji": "yama",
+   "accent": "[2]",
+   "gloss": "mountain",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "yama ga"
+  },
+  {
+   "n": 115,
+   "romaji": "kawa",
+   "accent": "[2]",
+   "gloss": "river",
+   "pos": "noun",
+   "cardType": "RECOG",
+   "audioText": "kawa no chikaku ga",
+   "note": "PHRASE-ONLY, PERMANENTLY. kawa 'skin/leather' is also [2] — accent-identical. The skin sense is withheld; river always rides in a frame."
+  },
+  {
+   "n": 116,
+   "romaji": "umi",
+   "accent": "[1]",
+   "gloss": "sea",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "umi ga"
+  },
+  {
+   "n": 117,
+   "romaji": "sora",
+   "accent": "[1]",
+   "gloss": "sky",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "sora ga"
+  },
+  {
+   "n": 118,
+   "romaji": "hoshi",
+   "accent": "[0]",
+   "gloss": "star",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "hoshi ga"
+  },
+  {
+   "n": 119,
+   "romaji": "tsuki",
+   "accent": "[2]",
+   "gloss": "moon",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "tsuki ga"
+  },
+  {
+   "n": 120,
+   "romaji": "hi",
+   "accent": "[1]",
+   "gloss": "sun / day",
+   "pos": "noun",
+   "cardType": "RECOG",
+   "audioText": "hi ga",
+   "note": "One mora. Accent [1] means the drop lands on ga."
+  },
+  {
+   "n": 121,
+   "romaji": "ame",
+   "accent": "[1]",
+   "gloss": "rain",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "ame ga",
+   "note": "ame [0] 'candy' is withheld from block A; only the rain sense exists in this deck for now."
+  },
+  {
+   "n": 122,
+   "romaji": "kaze",
+   "accent": "[0]",
+   "gloss": "wind",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "kaze ga"
+  },
+  {
+   "n": 123,
+   "romaji": "ki",
+   "accent": "[1]",
+   "gloss": "tree",
+   "pos": "noun",
+   "cardType": "RECOG",
+   "audioText": "ki ga"
+  },
+  {
+   "n": 124,
+   "romaji": "hana",
+   "accent": "[2]",
+   "gloss": "flower",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "hana ga",
+   "note": "hana [0] 'nose' is DELIBERATELY WITHHELD from block A. Only the [2] flower sense is in the deck."
+  },
+  {
+   "n": 125,
+   "romaji": "tori",
+   "accent": "[0]",
+   "gloss": "bird",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "tori ga"
+  },
+  {
+   "n": 126,
+   "romaji": "sakana",
+   "accent": "[0]",
+   "gloss": "fish",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "sakana ga"
+  },
+  {
+   "n": 127,
+   "romaji": "mushi",
+   "accent": "[0]",
+   "gloss": "bug / insect",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "mushi ga"
+  },
+  {
+   "n": 128,
+   "romaji": "uma",
+   "accent": "[2]",
+   "gloss": "horse",
+   "pos": "noun",
+   "cardType": "RECOG",
+   "audioText": "uma ga"
+  },
+  {
+   "n": 129,
+   "romaji": "ushi",
+   "accent": "[0]",
+   "gloss": "cow",
+   "pos": "noun",
+   "cardType": "RECOG",
+   "audioText": "ushi ga"
+  },
+  {
+   "n": 130,
+   "romaji": "niku",
+   "accent": "[2]",
+   "gloss": "meat",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "niku ga"
+  },
+  {
+   "n": 131,
+   "romaji": "tamago",
+   "accent": "[2]",
+   "gloss": "egg",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "tamago ga"
+  },
+  {
+   "n": 132,
+   "romaji": "shio",
+   "accent": "[2]",
+   "gloss": "salt",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "shio ga",
+   "note": "shi-o, two morae."
+  },
+  {
+   "n": 133,
+   "romaji": "yasai",
+   "accent": "[0]",
+   "gloss": "vegetables",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "yasai ga"
+  },
+  {
+   "n": 134,
+   "romaji": "kudamono",
+   "accent": "[2]",
+   "gloss": "fruit",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "kudamono ga"
+  },
+  {
+   "n": 135,
+   "romaji": "ichigo",
+   "accent": "[0]",
+   "gloss": "strawberry",
+   "pos": "noun",
+   "cardType": "RECOG",
+   "audioText": "ichigo ga"
+  },
+  {
+   "n": 136,
+   "romaji": "sake",
+   "accent": "[0]",
+   "gloss": "alcohol / sake",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "sake ga"
+  },
+  {
+   "n": 137,
+   "romaji": "haha",
+   "accent": "[1]",
+   "gloss": "my mother",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "haha ga"
+  },
+  {
+   "n": 138,
+   "romaji": "chichi",
+   "accent": "[2]",
+   "gloss": "my father",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "chichi ga",
+   "note": "chi-chi, two morae. Not a geminate."
+  },
+  {
+   "n": 139,
+   "romaji": "ani",
+   "accent": "[1]",
+   "gloss": "my older brother",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "ani ga"
+  },
+  {
+   "n": 140,
+   "romaji": "ane",
+   "accent": "[0]",
+   "gloss": "my older sister",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "ane ga"
+  },
+  {
+   "n": 141,
+   "romaji": "musuko",
+   "accent": "[0]",
+   "gloss": "son",
+   "pos": "noun",
+   "cardType": "RECOG",
+   "audioText": "musuko ga"
+  },
+  {
+   "n": 142,
+   "romaji": "kazoku",
+   "accent": "[1]",
+   "gloss": "family",
+   "pos": "noun (kango)",
+   "cardType": "PROD",
+   "audioText": "uchi no kazoku ga",
+   "note": "Kango: framed as 'uchi no kazoku', never bare."
+  },
+  {
+   "n": 143,
+   "romaji": "tomodachi",
+   "accent": "[0]",
+   "gloss": "friend",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "tomodachi ga"
+  },
+  {
+   "n": 144,
+   "romaji": "namae",
+   "accent": "[0]",
+   "gloss": "name",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "namae ga"
+  },
+  {
+   "n": 145,
+   "romaji": "koe",
+   "accent": "[1]",
+   "gloss": "voice",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "koe ga"
+  },
+  {
+   "n": 146,
+   "romaji": "kao",
+   "accent": "[0]",
+   "gloss": "face",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "kao ga"
+  },
+  {
+   "n": 147,
+   "romaji": "me",
+   "accent": "[1]",
+   "gloss": "eye",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "me ga",
+   "note": "One mora; the drop lands on ga. Kept 15 indices clear of te [1] (#162) — never schedule the two in one session."
+  },
+  {
+   "n": 148,
+   "romaji": "kuchi",
+   "accent": "[0]",
+   "gloss": "mouth",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "kuchi ga"
+  },
+  {
+   "n": 149,
+   "romaji": "atama",
+   "accent": "[3]",
+   "gloss": "head",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "atama ga"
+  },
+  {
+   "n": 150,
+   "romaji": "ashi",
+   "accent": "[2]",
+   "gloss": "leg / foot",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "ashi ga"
+  },
+  {
+   "n": 151,
+   "romaji": "mimi",
+   "accent": "[2]",
+   "gloss": "ear",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "mimi ga"
+  },
+  {
+   "n": 152,
+   "romaji": "karada",
+   "accent": "[0]",
+   "gloss": "body",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "karada ga"
+  },
+  {
+   "n": 153,
+   "romaji": "shigoto",
+   "accent": "[0]",
+   "gloss": "work / job",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "shigoto ga"
+  },
+  {
+   "n": 154,
+   "romaji": "hanashi",
+   "accent": "[3]",
+   "gloss": "talk / story",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "hanashi ga"
+  },
+  {
+   "n": 155,
+   "romaji": "kotoba",
+   "accent": "[3]",
+   "gloss": "word / language",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "kotoba ga"
+  },
+  {
+   "n": 156,
+   "romaji": "kimochi",
+   "accent": "[0]",
+   "gloss": "feeling",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "kimochi ga"
+  },
+  {
+   "n": 157,
+   "romaji": "asa",
+   "accent": "[1]",
+   "gloss": "morning",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "asa ga"
+  },
+  {
+   "n": 158,
+   "romaji": "hiru",
+   "accent": "[2]",
+   "gloss": "midday / lunchtime",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "hiru ga"
+  },
+  {
+   "n": 159,
+   "romaji": "yoru",
+   "accent": "[1]",
+   "gloss": "night",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "yoru ga"
+  },
+  {
+   "n": 160,
+   "romaji": "ima",
+   "accent": "[1]",
+   "gloss": "now",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "ima ga"
+  },
+  {
+   "n": 161,
+   "romaji": "toki",
+   "accent": "[2]",
+   "gloss": "time / when",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "toki ga"
+  },
+  {
+   "n": 162,
+   "romaji": "te",
+   "accent": "[1]",
+   "gloss": "hand / arm",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "te ga",
+   "note": "One mora, drop on ga — segmentally distinct from me (#147) but prosodically identical; 15 indices apart by design."
+  },
+  {
+   "n": 163,
+   "romaji": "mono",
+   "accent": "[2]",
+   "gloss": "thing (physical)",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "mono ga"
+  },
+  {
+   "n": 164,
+   "romaji": "koto",
+   "accent": "[2]",
+   "gloss": "thing (abstract, matter)",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "koto ga"
+  },
+  {
+   "n": 165,
+   "romaji": "iro",
+   "accent": "[2]",
+   "gloss": "color",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "iro ga"
+  },
+  {
+   "n": 166,
+   "romaji": "kane",
+   "accent": "[0]",
+   "gloss": "money",
+   "pos": "noun",
+   "cardType": "PROD",
+   "audioText": "kane ga",
+   "note": "Normally heard as okane [0]; the bare stem is carded here because the honorific o- prefix is not yet analyzed."
+  },
+  {
+   "n": 167,
+   "romaji": "shikata",
+   "accent": "[0]",
+   "gloss": "way of doing / means",
+   "pos": "noun",
+   "cardType": "RECOG",
+   "audioText": "shikata ga"
+  },
+  {
+   "n": 168,
+   "romaji": "nai",
+   "accent": "[1]",
+   "gloss": "there isn't / doesn't exist",
+   "pos": "i-adj",
+   "cardType": "PROD",
+   "audioText": "shikata ga nai.",
+   "note": "REQUIRED ITEM — omitted from the earlier pass. Block-A anchor phrases: 'shikata ga nai' and 'kane ga nai'. Its full paradigm (nakatta, nakute, nai n da) lands in block B."
+  }
+ ],
+ "sentences": [
+  {
+   "n": 1,
+   "romaji": "aa, soo soo.",
+   "gloss": "Ah, right right.",
+   "newElement": "soo",
+   "usesPrior": [
+    "aa"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 2,
+   "romaji": "hee, soo desu ka.",
+   "gloss": "Huh, is that so.",
+   "newElement": "soo desu ka",
+   "usesPrior": [
+    "hee",
+    "soo"
+   ],
+   "cardType": "RECOG"
+  },
+  {
+   "n": 3,
+   "romaji": "aa, naruhodo.",
+   "gloss": "Ah, that makes sense.",
+   "newElement": "naruhodo",
+   "usesPrior": [
+    "aa"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 4,
+   "romaji": "aa, sokka.",
+   "gloss": "Oh, I see.",
+   "newElement": "sokka",
+   "usesPrior": [
+    "aa"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 5,
+   "romaji": "hee, honto?",
+   "gloss": "Huh, really?",
+   "newElement": "honto",
+   "usesPrior": [
+    "hee"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 6,
+   "romaji": "un, majide.",
+   "gloss": "Yeah, seriously.",
+   "newElement": "majide",
+   "usesPrior": [
+    "un"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 7,
+   "romaji": "aa, tashika ni.",
+   "gloss": "Ah, fair point.",
+   "newElement": "tashika ni",
+   "usesPrior": [
+    "aa"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 8,
+   "romaji": "aa, yappari.",
+   "gloss": "Ah, knew it.",
+   "newElement": "yappari",
+   "usesPrior": [
+    "aa"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 9,
+   "romaji": "nanka... uun.",
+   "gloss": "It's kinda... nah.",
+   "newElement": "nanka",
+   "usesPrior": [
+    "uun"
+   ],
+   "cardType": "RECOG"
+  },
+  {
+   "n": 10,
+   "romaji": "eeto, nanka...",
+   "gloss": "Um, like...",
+   "newElement": "eeto",
+   "usesPrior": [
+    "nanka"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 11,
+   "romaji": "ano, eeto...",
+   "gloss": "Uh, um...",
+   "newElement": "ano (filler)",
+   "usesPrior": [
+    "eeto"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 12,
+   "romaji": "ano, chotto...",
+   "gloss": "Uh, that's a bit... (= no)",
+   "newElement": "chotto",
+   "usesPrior": [
+    "ano"
+   ],
+   "cardType": "PROD",
+   "note": "Teach the refusal reading: a trailing chotto is a no."
+  },
+  {
+   "n": 13,
+   "romaji": "maa, soo desu ka.",
+   "gloss": "Well, is that so.",
+   "newElement": "maa",
+   "usesPrior": [
+    "soo desu ka"
+   ],
+   "cardType": "RECOG"
+  },
+  {
+   "n": 14,
+   "romaji": "aa, arigatoo.",
+   "gloss": "Ah, thanks.",
+   "newElement": "arigatoo",
+   "usesPrior": [
+    "aa"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 15,
+   "romaji": "ano, chotto sumimasen.",
+   "gloss": "Uh, excuse me a second.",
+   "newElement": "sumimasen",
+   "usesPrior": [
+    "ano",
+    "chotto"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 16,
+   "romaji": "aa, gomen gomen.",
+   "gloss": "Ah, sorry sorry.",
+   "newElement": "gomen",
+   "usesPrior": [
+    "aa"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 17,
+   "romaji": "ohayoo. — aa, ohayoo.",
+   "gloss": "Morning. — Ah, morning.",
+   "newElement": "ohayoo",
+   "usesPrior": [
+    "aa"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 18,
+   "romaji": "aa, konnichiwa.",
+   "gloss": "Oh, hello.",
+   "newElement": "konnichiwa",
+   "usesPrior": [
+    "aa"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 19,
+   "romaji": "konbanwa. — aa, konbanwa.",
+   "gloss": "Evening. — Ah, evening.",
+   "newElement": "konbanwa",
+   "usesPrior": [
+    "aa"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 20,
+   "romaji": "jaa, oyasumi.",
+   "gloss": "Well then, night.",
+   "newElement": "oyasumi",
+   "usesPrior": [],
+   "cardType": "PROD",
+   "note": "jaa arrives here only as part of the oyasumi frame; it is carded properly on the next sentence as jaa ne."
+  },
+  {
+   "n": 21,
+   "romaji": "jaa ne, oyasumi.",
+   "gloss": "See ya, night.",
+   "newElement": "jaa ne",
+   "usesPrior": [
+    "oyasumi"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 22,
+   "romaji": "jaa ne. — un, mata ne.",
+   "gloss": "See ya. — Yeah, later.",
+   "newElement": "mata ne",
+   "usesPrior": [
+    "jaa ne",
+    "un"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 23,
+   "romaji": "itadakimasu.",
+   "gloss": "(said before eating)",
+   "newElement": "itadakimasu",
+   "usesPrior": [],
+   "cardType": "PROD"
+  },
+  {
+   "n": 24,
+   "romaji": "aa, gochisoosama.",
+   "gloss": "Ah, that was great, thanks.",
+   "newElement": "gochisoosama",
+   "usesPrior": [
+    "aa"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 25,
+   "romaji": "otsukaresama. — aa, otsukaresama.",
+   "gloss": "Good work. — Ah, you too.",
+   "newElement": "otsukaresama",
+   "usesPrior": [
+    "aa"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 26,
+   "romaji": "yoroshiku. — hai, yoroshiku.",
+   "gloss": "Nice to meet you. — Yes, likewise.",
+   "newElement": "yoroshiku",
+   "usesPrior": [
+    "hai"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 27,
+   "romaji": "daijoobu? — un, daijoobu daijoobu.",
+   "gloss": "You okay? — Yeah, I'm fine.",
+   "newElement": "daijoobu",
+   "usesPrior": [
+    "un"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 28,
+   "romaji": "un, ganbatte.",
+   "gloss": "Yeah, go get 'em.",
+   "newElement": "ganbatte",
+   "usesPrior": [
+    "un"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 29,
+   "romaji": "'chotto' tte yutta.",
+   "gloss": "I said 'chotto'.",
+   "newElement": "yuu (as yutta)",
+   "usesPrior": [
+    "chotto"
+   ],
+   "cardType": "RECOG",
+   "note": "First exposure to the yuu / yutta / yutteta family. Never presented as iu."
+  },
+  {
+   "n": 30,
+   "romaji": "'chotto' tte nani?",
+   "gloss": "What does 'chotto' mean?",
+   "newElement": "X tte nani?",
+   "usesPrior": [
+    "chotto"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 31,
+   "romaji": "nihongo de nan te yuu no?",
+   "gloss": "How do you say it in Japanese?",
+   "newElement": "nihongo de nan te yuu no?",
+   "usesPrior": [
+    "yuu"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 32,
+   "romaji": "sumimasen, moo ichido onegai.",
+   "gloss": "Sorry, one more time please.",
+   "newElement": "moo ichido onegai",
+   "usesPrior": [
+    "sumimasen"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 33,
+   "romaji": "ano, yukkuri onegai.",
+   "gloss": "Um, slowly please.",
+   "newElement": "yukkuri onegai",
+   "usesPrior": [
+    "ano"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 34,
+   "romaji": "soo da.",
+   "gloss": "That's right.",
+   "newElement": "da",
+   "usesPrior": [
+    "soo"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 35,
+   "romaji": "hai, soo desu.",
+   "gloss": "Yes, that's right.",
+   "newElement": "desu",
+   "usesPrior": [
+    "hai",
+    "soo"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 36,
+   "romaji": "uun, soo ja nai.",
+   "gloss": "Nah, that's not it.",
+   "newElement": "ja nai",
+   "usesPrior": [
+    "uun",
+    "soo"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 37,
+   "romaji": "aa, soo datta.",
+   "gloss": "Ah, that's right, it was.",
+   "newElement": "datta",
+   "usesPrior": [
+    "aa",
+    "soo"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 38,
+   "romaji": "hai, soo deshita.",
+   "gloss": "Yes, that was so.",
+   "newElement": "deshita",
+   "usesPrior": [
+    "hai",
+    "soo"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 39,
+   "romaji": "uun, soo ja nakatta.",
+   "gloss": "No, it wasn't like that.",
+   "newElement": "ja nakatta",
+   "usesPrior": [
+    "uun",
+    "soo"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 40,
+   "romaji": "soo de wa nai.",
+   "gloss": "That is not the case. (formal)",
+   "newElement": "de wa nai",
+   "usesPrior": [
+    "soo"
+   ],
+   "cardType": "RECOG",
+   "note": "Recognition only; labelled as the formal expansion of ja nai."
+  },
+  {
+   "n": 41,
+   "romaji": "aa, kore da.",
+   "gloss": "Ah, this is it.",
+   "newElement": "kore",
+   "usesPrior": [
+    "aa",
+    "da"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 42,
+   "romaji": "uun, sore ja nai.",
+   "gloss": "Nope, not that one.",
+   "newElement": "sore",
+   "usesPrior": [
+    "uun",
+    "ja nai"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 43,
+   "romaji": "are datta.",
+   "gloss": "It was that one over there.",
+   "newElement": "are",
+   "usesPrior": [
+    "datta"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 44,
+   "romaji": "dore? kore?",
+   "gloss": "Which one? This one?",
+   "newElement": "dore",
+   "usesPrior": [
+    "kore"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 45,
+   "romaji": "koko da.",
+   "gloss": "It's here.",
+   "newElement": "koko",
+   "usesPrior": [
+    "da"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 46,
+   "romaji": "un, soko soko.",
+   "gloss": "Yeah, right there.",
+   "newElement": "soko",
+   "usesPrior": [
+    "un"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 47,
+   "romaji": "aa, asoko da.",
+   "gloss": "Ah, it's over there.",
+   "newElement": "asoko",
+   "usesPrior": [
+    "aa",
+    "da"
+   ],
+   "cardType": "PROD",
+   "note": "Flag the broken grid cell here: the pattern predicts *ako."
+  },
+  {
+   "n": 48,
+   "romaji": "sumimasen, doko?",
+   "gloss": "Excuse me, where?",
+   "newElement": "doko",
+   "usesPrior": [
+    "sumimasen"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 49,
+   "romaji": "koo? — un, koo koo.",
+   "gloss": "Like this? — Yeah, like that.",
+   "newElement": "koo",
+   "usesPrior": [
+    "un"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 50,
+   "romaji": "doo? — maa, chotto...",
+   "gloss": "How is it? — Well, kinda...",
+   "newElement": "doo",
+   "usesPrior": [
+    "maa",
+    "chotto"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 51,
+   "romaji": "sonna...",
+   "gloss": "That kind of thing... / oh come on.",
+   "newElement": "sonna",
+   "usesPrior": [],
+   "cardType": "RECOG"
+  },
+  {
+   "n": 52,
+   "romaji": "donna? — eeto...",
+   "gloss": "What kind? — Um...",
+   "newElement": "donna",
+   "usesPrior": [
+    "eeto"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 53,
+   "romaji": "dore? — aa, kore ga.",
+   "gloss": "Which one? — Ah, this one.",
+   "newElement": "ga",
+   "usesPrior": [
+    "dore",
+    "kore",
+    "aa"
+   ],
+   "cardType": "PROD",
+   "note": "ga as the identifying answer particle. Topic wa does not exist yet in this course."
+  },
+  {
+   "n": 54,
+   "romaji": "kore, doko no?",
+   "gloss": "This — where's it from?",
+   "newElement": "no (genitive)",
+   "usesPrior": [
+    "kore",
+    "doko"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 55,
+   "romaji": "soo? ... soo.",
+   "gloss": "Really? ... Right.",
+   "newElement": "rising terminal",
+   "usesPrior": [
+    "soo"
+   ],
+   "cardType": "RECOG",
+   "note": "Identical segments, opposite contour. The whole card is the contrast."
+  },
+  {
+   "n": 56,
+   "romaji": "kore desu ka?",
+   "gloss": "Is it this one? (polite)",
+   "newElement": "ka",
+   "usesPrior": [
+    "kore",
+    "desu"
+   ],
+   "cardType": "RECOG"
+  },
+  {
+   "n": 57,
+   "romaji": "soo da ne.",
+   "gloss": "Yeah, isn't it.",
+   "newElement": "ne",
+   "usesPrior": [
+    "soo",
+    "da"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 58,
+   "romaji": "kore da yo.",
+   "gloss": "It's THIS one (telling you).",
+   "newElement": "yo",
+   "usesPrior": [
+    "kore",
+    "da"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 59,
+   "romaji": "soo da yo ne.",
+   "gloss": "That's right, isn't it.",
+   "newElement": "yo ne",
+   "usesPrior": [
+    "soo",
+    "da",
+    "yo",
+    "ne"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 60,
+   "romaji": "soo da na...",
+   "gloss": "Hmm, I suppose so...",
+   "newElement": "na",
+   "usesPrior": [
+    "soo",
+    "da"
+   ],
+   "cardType": "RECOG"
+  },
+  {
+   "n": 61,
+   "romaji": "eeto, doko datta kke.",
+   "gloss": "Um, where was it again.",
+   "newElement": "kke",
+   "usesPrior": [
+    "eeto",
+    "doko",
+    "datta"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 62,
+   "romaji": "ano sa, chotto sa,",
+   "gloss": "Hey, so, like,",
+   "newElement": "sa",
+   "usesPrior": [
+    "ano",
+    "chotto"
+   ],
+   "cardType": "RECOG"
+  },
+  {
+   "n": 63,
+   "romaji": "sore na no?",
+   "gloss": "Is it that one?",
+   "newElement": "no (rising)",
+   "usesPrior": [
+    "sore",
+    "na"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 64,
+   "romaji": "kore, neko?",
+   "gloss": "Is this a cat?",
+   "newElement": "neko",
+   "usesPrior": [
+    "kore",
+    "rising terminal"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 65,
+   "romaji": "aa, inu da.",
+   "gloss": "Ah, it's a dog.",
+   "newElement": "inu",
+   "usesPrior": [
+    "aa",
+    "da"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 66,
+   "romaji": "kono hito da yo.",
+   "gloss": "It's this person.",
+   "newElement": "hito",
+   "usesPrior": [
+    "kono",
+    "da",
+    "yo"
+   ],
+   "cardType": "PROD",
+   "note": "First adnominal kono inside a sentence card."
+  },
+  {
+   "n": 67,
+   "romaji": "sono kodomo?",
+   "gloss": "That kid?",
+   "newElement": "kodomo",
+   "usesPrior": [
+    "sono",
+    "rising terminal"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 68,
+   "romaji": "sumimasen, mizu, doko?",
+   "gloss": "Excuse me, where's the water?",
+   "newElement": "mizu",
+   "usesPrior": [
+    "sumimasen",
+    "doko"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 69,
+   "romaji": "sono hako da yo.",
+   "gloss": "It's that box.",
+   "newElement": "hako",
+   "usesPrior": [
+    "sono",
+    "da",
+    "yo"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 70,
+   "romaji": "isu, doko?",
+   "gloss": "Where's the chair?",
+   "newElement": "isu",
+   "usesPrior": [
+    "doko"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 71,
+   "romaji": "kore, tsukue ja nai.",
+   "gloss": "This isn't a desk.",
+   "newElement": "tsukue",
+   "usesPrior": [
+    "kore",
+    "ja nai"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 72,
+   "romaji": "ano kuruma da yo.",
+   "gloss": "It's that car over there.",
+   "newElement": "kuruma",
+   "usesPrior": [
+    "ano (adnominal)",
+    "da",
+    "yo"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 73,
+   "romaji": "tsukue no ue.",
+   "gloss": "On the desk.",
+   "newElement": "ue",
+   "usesPrior": [
+    "tsukue",
+    "no"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 74,
+   "romaji": "isu no shita da yo.",
+   "gloss": "It's under the chair.",
+   "newElement": "shita",
+   "usesPrior": [
+    "isu",
+    "no",
+    "da",
+    "yo"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 75,
+   "romaji": "hako no naka.",
+   "gloss": "Inside the box.",
+   "newElement": "naka",
+   "usesPrior": [
+    "hako",
+    "no"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 76,
+   "romaji": "kuruma no mae.",
+   "gloss": "In front of the car.",
+   "newElement": "mae",
+   "usesPrior": [
+    "kuruma",
+    "no"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 77,
+   "romaji": "tonari no hito.",
+   "gloss": "The person next to me.",
+   "newElement": "tonari",
+   "usesPrior": [
+    "no",
+    "hito"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 78,
+   "romaji": "isu no soba da yo.",
+   "gloss": "It's right by the chair.",
+   "newElement": "soba",
+   "usesPrior": [
+    "isu",
+    "no",
+    "da",
+    "yo"
+   ],
+   "cardType": "RECOG",
+   "note": "Phrase-only. Never drilled bare — the noodles sense is accent-identical."
+  },
+  {
+   "n": 79,
+   "romaji": "uchi no neko.",
+   "gloss": "Our cat.",
+   "newElement": "uchi",
+   "usesPrior": [
+    "no",
+    "neko"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 80,
+   "romaji": "kono ie?",
+   "gloss": "This house?",
+   "newElement": "ie",
+   "usesPrior": [
+    "kono",
+    "rising terminal"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 81,
+   "romaji": "heya, doko?",
+   "gloss": "Where's the room?",
+   "newElement": "heya",
+   "usesPrior": [
+    "doko"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 82,
+   "romaji": "mado no soto.",
+   "gloss": "Outside the window.",
+   "newElement": "mado",
+   "usesPrior": [
+    "no",
+    "soto"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 83,
+   "romaji": "kagi, doko datta kke.",
+   "gloss": "Where was the key again.",
+   "newElement": "kagi",
+   "usesPrior": [
+    "doko",
+    "datta",
+    "kke"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 84,
+   "romaji": "kore, tegami da.",
+   "gloss": "This is a letter.",
+   "newElement": "tegami",
+   "usesPrior": [
+    "kore",
+    "da"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 85,
+   "romaji": "kutsu no naka.",
+   "gloss": "Inside the shoe.",
+   "newElement": "kutsu",
+   "usesPrior": [
+    "no",
+    "naka"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 86,
+   "romaji": "kasa, doko?",
+   "gloss": "Where's the umbrella?",
+   "newElement": "kasa",
+   "usesPrior": [
+    "doko"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 87,
+   "romaji": "mise no mae da yo.",
+   "gloss": "It's in front of the shop.",
+   "newElement": "mise",
+   "usesPrior": [
+    "no",
+    "mae",
+    "da",
+    "yo"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 88,
+   "romaji": "eki no chikaku.",
+   "gloss": "Near the station.",
+   "newElement": "eki",
+   "usesPrior": [
+    "no",
+    "chikaku"
+   ],
+   "cardType": "RECOG",
+   "note": "Kango delivered inside its mandatory collocation."
+  },
+  {
+   "n": 89,
+   "romaji": "asoko no yama.",
+   "gloss": "That mountain over there.",
+   "newElement": "yama",
+   "usesPrior": [
+    "asoko",
+    "no"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 90,
+   "romaji": "umi, doo?",
+   "gloss": "How's the sea?",
+   "newElement": "umi",
+   "usesPrior": [
+    "doo"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 91,
+   "romaji": "aa, hoshi da.",
+   "gloss": "Ah, stars.",
+   "newElement": "hoshi",
+   "usesPrior": [
+    "aa",
+    "da"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 92,
+   "romaji": "ame? — un, ame.",
+   "gloss": "Rain? — Yeah, rain.",
+   "newElement": "ame",
+   "usesPrior": [
+    "un",
+    "rising terminal"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 93,
+   "romaji": "ano ki no shita.",
+   "gloss": "Under that tree.",
+   "newElement": "ki",
+   "usesPrior": [
+    "ano (adnominal)",
+    "no",
+    "shita"
+   ],
+   "cardType": "RECOG"
+  },
+  {
+   "n": 94,
+   "romaji": "kono hana?",
+   "gloss": "This flower?",
+   "newElement": "hana",
+   "usesPrior": [
+    "kono",
+    "rising terminal"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 95,
+   "romaji": "aa, tori da.",
+   "gloss": "Ah, a bird.",
+   "newElement": "tori",
+   "usesPrior": [
+    "aa",
+    "da"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 96,
+   "romaji": "kore, sakana?",
+   "gloss": "Is this fish?",
+   "newElement": "sakana",
+   "usesPrior": [
+    "kore",
+    "rising terminal"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 97,
+   "romaji": "mushi da! chotto!",
+   "gloss": "A bug! Hang on!",
+   "newElement": "mushi",
+   "usesPrior": [
+    "da",
+    "chotto"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 98,
+   "romaji": "niku, doo?",
+   "gloss": "How about meat?",
+   "newElement": "niku",
+   "usesPrior": [
+    "doo"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 99,
+   "romaji": "tamago no sara.",
+   "gloss": "The egg plate.",
+   "newElement": "tamago",
+   "usesPrior": [
+    "no",
+    "sara"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 100,
+   "romaji": "sumimasen, shio, doko?",
+   "gloss": "Excuse me, where's the salt?",
+   "newElement": "shio",
+   "usesPrior": [
+    "sumimasen",
+    "doko"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 101,
+   "romaji": "kore, yasai ja nai.",
+   "gloss": "This isn't a vegetable.",
+   "newElement": "yasai",
+   "usesPrior": [
+    "kore",
+    "ja nai"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 102,
+   "romaji": "aa, ichigo da.",
+   "gloss": "Ah, strawberries.",
+   "newElement": "ichigo",
+   "usesPrior": [
+    "aa",
+    "da"
+   ],
+   "cardType": "RECOG"
+  },
+  {
+   "n": 103,
+   "romaji": "uchi no haha.",
+   "gloss": "My mother.",
+   "newElement": "haha",
+   "usesPrior": [
+    "uchi",
+    "no"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 104,
+   "romaji": "ani no kuruma da yo.",
+   "gloss": "It's my brother's car.",
+   "newElement": "ani",
+   "usesPrior": [
+    "no",
+    "kuruma",
+    "da",
+    "yo"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 105,
+   "romaji": "uchi no kazoku.",
+   "gloss": "My family.",
+   "newElement": "kazoku",
+   "usesPrior": [
+    "uchi",
+    "no"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 106,
+   "romaji": "tomodachi no ie.",
+   "gloss": "A friend's house.",
+   "newElement": "tomodachi",
+   "usesPrior": [
+    "no",
+    "ie"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 107,
+   "romaji": "namae? eeto...",
+   "gloss": "Name? Um...",
+   "newElement": "namae",
+   "usesPrior": [
+    "eeto",
+    "rising terminal"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 108,
+   "romaji": "ani no koe da.",
+   "gloss": "That's my brother's voice.",
+   "newElement": "koe",
+   "usesPrior": [
+    "ani",
+    "no",
+    "da"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 109,
+   "romaji": "me? — un, me.",
+   "gloss": "Eyes? — Yeah, eyes.",
+   "newElement": "me",
+   "usesPrior": [
+    "un",
+    "rising terminal"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 110,
+   "romaji": "atama? — aa, chotto...",
+   "gloss": "Your head? — Ah, kinda...",
+   "newElement": "atama",
+   "usesPrior": [
+    "aa",
+    "chotto"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 111,
+   "romaji": "karada, doo?",
+   "gloss": "How's your body holding up?",
+   "newElement": "karada",
+   "usesPrior": [
+    "doo"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 112,
+   "romaji": "shigoto, doo?",
+   "gloss": "How's work?",
+   "newElement": "shigoto",
+   "usesPrior": [
+    "doo"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 113,
+   "romaji": "kono kotoba tte nani?",
+   "gloss": "What does this word mean?",
+   "newElement": "kotoba",
+   "usesPrior": [
+    "kono",
+    "X tte nani?"
+   ],
+   "cardType": "PROD",
+   "note": "Extraction toolkit reactivated with real content."
+  },
+  {
+   "n": 114,
+   "romaji": "asa? — un, asa.",
+   "gloss": "Morning? — Yeah, morning.",
+   "newElement": "asa",
+   "usesPrior": [
+    "un",
+    "rising terminal"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 115,
+   "romaji": "yoru da ne.",
+   "gloss": "It's night, huh.",
+   "newElement": "yoru",
+   "usesPrior": [
+    "da",
+    "ne"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 116,
+   "romaji": "ima? — un, ima.",
+   "gloss": "Now? — Yeah, now.",
+   "newElement": "ima",
+   "usesPrior": [
+    "un",
+    "rising terminal"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 117,
+   "romaji": "te, doo?",
+   "gloss": "How's your hand?",
+   "newElement": "te",
+   "usesPrior": [
+    "doo"
+   ],
+   "cardType": "PROD",
+   "note": "Never schedule in the same session as sentence 109 (me)."
+  },
+  {
+   "n": 118,
+   "romaji": "sonna koto ja nai yo.",
+   "gloss": "It's not like that.",
+   "newElement": "koto",
+   "usesPrior": [
+    "sonna",
+    "ja nai",
+    "yo"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 119,
+   "romaji": "kane no hanashi.",
+   "gloss": "A money conversation.",
+   "newElement": "kane",
+   "usesPrior": [
+    "no",
+    "hanashi"
+   ],
+   "cardType": "PROD"
+  },
+  {
+   "n": 120,
+   "romaji": "shikata ga nai.",
+   "gloss": "Nothing to be done about it.",
+   "newElement": "nai",
+   "usesPrior": [
+    "shikata",
+    "ga"
+   ],
+   "cardType": "PROD",
+   "note": "The block-A capstone. Second frame drilled alongside it: kane ga nai."
+  }
+ ],
+ "drills": [
+  {
+   "name": "D1 — un / uun length-and-contour discrimination",
+   "type": "perception + production, no grading",
+   "spec": "Beat at 60 bpm, one token per beat. Tutor plays a randomized 20-item string of un / uun. Learner taps LEFT for un, RIGHT for uun, then echoes. Pairs: 'un.' -> learner marks yes; 'uun.' -> no; 'un?' (rising) -> 'huh?'; 'uun.' -> no. Then reverse: English cue ('say yes' / 'say no'), learner produces, native audio checks. Direct payoff of the weeks 1-2 mora-timing block.",
+   "target": "18/20 correct discrimination and no leaked English 'uh-huh' on production."
+  },
+  {
+   "name": "D2 — backchannel over a monologue",
+   "type": "timing drill, no grading",
+   "spec": "Tutor speaks 60 seconds of Japanese the learner cannot parse. Learner must place a token in every pause: aa / hee / soo / naruhodo / sokka / honto? / majide? Rule: never the same token twice running. [pause] -> 'aa.'; [pause] -> 'hee.'; [pause] -> 'naruhodo.'; [pause] -> 'honto?'",
+   "target": "12 or more placements in 60s, all in-pause, no back-to-back repeats."
+  },
+  {
+   "name": "D3 — greeting call-and-response sprint",
+   "type": "chunk automaticity",
+   "spec": "Rapid situational cue -> chunk. 'It's 8am, neighbor' -> 'ohayoo.'; 'you bump someone' -> 'ano, chotto sumimasen.'; 'leaving for the night' -> 'jaa ne, oyasumi.'; 'food arrives' -> 'itadakimasu.'; 'plate is empty' -> 'gochisoosama.'; 'colleague heads home' -> 'otsukaresama.'; 'first meeting' -> 'yoroshiku.'; 'friend has an exam' -> 'ganbatte.'",
+   "target": "Under 0.8s latency on all 12 cues, two clean passes."
+  },
+  {
+   "name": "D4 — extraction toolkit under pressure",
+   "type": "survival drill",
+   "spec": "Tutor drops one unknown Japanese word into a stream every 15s. Learner fires the right tool: unknown word heard -> \"'___' tte nani?\"; couldn't catch it -> 'sumimasen, moo ichido onegai.'; too fast -> 'ano, yukkuri onegai.'; wants an English-to-Japanese lookup -> 'nihongo de nan te yuu no?'",
+   "target": "4/4 tools fired correctly and unprompted inside a 2-minute stream."
+  },
+  {
+   "name": "D5 — copula paradigm against a beat",
+   "type": "conjugation beat",
+   "spec": "One form per beat, cycling: soo da / soo desu / soo ja nai / soo datta / soo deshita / soo ja nakatta. Then randomized: 'plain, negative' -> 'soo ja nai.'; 'polite, past' -> 'soo deshita.'; 'plain, past negative' -> 'soo ja nakatta.'; 'polite, present' -> 'soo desu.' de wa nai is played to the learner but never requested.",
+   "target": "Full 6-form cycle twice with no dropped beat; 10/10 on randomized cue."
+  },
+  {
+   "name": "D6 — kosoado grid, column then row",
+   "type": "grid substitution",
+   "spec": "Read DOWN the columns first (kore/kono/koko/koo/konna, then the so-, a-, do- columns), then ACROSS the rows (kore/sore/are/dore). Then cue by coordinate: 'row 3, A-column' -> 'asoko' plus the spoken flag that the pattern predicts *ako; 'row 1, DO-column' -> 'dore', plus the observation that the whole DO- column is accent [1].",
+   "target": "All 20 cells produced from coordinates in under 45s; learner states the asoko irregularity unprompted."
+  },
+  {
+   "name": "D7 — adnominal plus noun substitution",
+   "type": "slot substitution",
+   "spec": "Fixed frame 'kono ___ da yo' with kono/sono/ano/dono rotating and the day's nouns filling the slot. 'this car' -> 'kono kuruma da yo.'; 'that box by you' -> 'sono hako da yo.'; 'which chair?' -> 'dono isu?'; 'that person over there' -> 'ano hito da yo.' Runs daily from day 7 using the newest 12 nouns.",
+   "target": "24 substitutions in 90s with correct accent on the noun."
+  },
+  {
+   "name": "D8 — final-particle prosody",
+   "type": "prosody drill, no grading",
+   "spec": "One segmental string, six tails, meaning carried entirely by the ending: 'soo da.' (flat statement) / 'soo da ne.' (seeking agreement) / 'soo da yo.' (informing) / 'soo da yo ne.' (assert plus check) / 'soo da na...' (musing) / 'soo?' (rising, doubting). Tutor plays one, learner names the stance in English; then reverse, English stance -> Japanese tail.",
+   "target": "6/6 in both directions; learner never attaches ka to a plain form."
+  },
+  {
+   "name": "D9 — 'X ga' accent discrimination (heiban vs odaka)",
+   "type": "perception, no grading",
+   "spec": "Pairs where the bare noun is acoustically identical and only ga reveals the accent: 'hito ga' [0] vs 'inu ga' [2]; 'sara ga' [0] vs 'hako ga' [1]; 'kaze ga' [0] vs 'ame ga' [1]; 'kabe ga' [0] vs 'kagi ga' [2]; 'hoshi ga' [0] vs 'tsuki ga' [2]. Learner marks DROP-ON-GA or NO-DROP.",
+   "target": "16/20. This drill is the reason every noun is stored in the ga frame."
+  },
+  {
+   "name": "D10 — N no N chains",
+   "type": "chain building",
+   "spec": "Build two- then three-link chains. 'my brother's car' -> 'ani no kuruma.'; 'my friend's house's window' -> 'tomodachi no ie no mado.'; 'the top of the desk' -> 'tsukue no ue.'; 'my family's cat' -> 'uchi no kazoku no neko.'; then the question form: 'where's this from?' -> 'kore, doko no?'",
+   "target": "Ten chains, at least four of them three-link, with no dropped no."
+  },
+  {
+   "name": "D11 — location-noun wheel",
+   "type": "slot substitution",
+   "spec": "Fixed head noun, rotating relational noun: 'tsukue no ue / shita / naka / soto / mae / ushiro / tonari / yoko / chikaku / soba'. Then cued from English: 'under the chair' -> 'isu no shita.'; 'inside the box' -> 'hako no naka.'; 'right beside the chair' -> 'isu no soba.' (soba is produced only inside this frame, never bare.)",
+   "target": "All ten relational nouns produced from English cue in under 60s."
+  },
+  {
+   "name": "D12 — live mining",
+   "type": "open drill",
+   "spec": "Tutor talks for three minutes about the room. Each time the learner hears an unknown noun they interrupt with \"'___' tte nani?\", write the romaji themselves, and re-use the item within 30 seconds inside 'kore, ___?' or '___, doko?'",
+   "target": "Three items mined, transcribed in correct Hepburn (doubled long vowels, doubled geminates, n' before a vowel), and re-used in a sentence."
+  },
+  {
+   "name": "D13 — full-sentence copula beat",
+   "type": "production sprint",
+   "spec": "English cue -> full Japanese sentence, one per beat. 'Is this a cat?' -> 'kore, neko?'; 'This isn't a desk.' -> 'kore, tsukue ja nai.'; 'It's that car over there.' -> 'ano kuruma da yo.'; 'It was over there.' -> 'asoko datta.'; 'Where was the key again?' -> 'kagi, doko datta kke.'; 'It's my brother's car.' -> 'ani no kuruma da yo.'",
+   "target": "20 cues, 18 correct, average latency under 1.5s."
+  },
+  {
+   "name": "D14 — block A cumulative shadow",
+   "type": "shadowing plus recall, no grading",
+   "spec": "A 4-minute scripted conversation built from block-A inventory only, with no topic wa anywhere. Learner shadows at 0.8x, then 1.0x, then produces the second speaker's lines from English prompts alone. Closes on the two capstone frames: 'shikata ga nai.' and 'kane ga nai.'",
+   "target": "Shadowing at 1.0x with no more than three dropped morae; both capstone frames produced cold."
+  }
+ ],
+ "lessons": [
+  {
+   "day": "Day 1",
+   "title": "The first sound is a length contrast",
+   "introduces": [
+    "un",
+    "uun",
+    "hai",
+    "iie",
+    "ee",
+    "aa",
+    "hee",
+    "soo",
+    "soo desu ka",
+    "naruhodo",
+    "sokka",
+    "honto"
+   ],
+   "minutes": "100 total — 15 perception carry-over (mora beat), 25 new cards (12), 15 sentence cards, 20 D1, 15 D2, 10 free listening",
+   "sentenceRange": "S1-S5",
+   "drill": "D1 + D2"
+  },
+  {
+   "day": "Day 2",
+   "title": "Hedges, fillers, and the first apologies",
+   "introduces": [
+    "majide",
+    "tashika ni",
+    "yappari",
+    "nanka",
+    "eeto",
+    "ano (filler)",
+    "chotto",
+    "maa",
+    "arigatoo",
+    "sumimasen",
+    "gomen",
+    "ohayoo"
+   ],
+   "minutes": "100 — 10 perception, 25 new cards, 20 sentence cards, 15 D2, 15 D3, 15 review of day 1",
+   "sentenceRange": "S6-S17",
+   "drill": "D2 + D3"
+  },
+  {
+   "day": "Day 3",
+   "title": "Frozen social chunks, plus the yuu correction",
+   "introduces": [
+    "konnichiwa",
+    "konbanwa",
+    "oyasumi",
+    "jaa ne",
+    "mata ne",
+    "itadakimasu",
+    "gochisoosama",
+    "otsukaresama",
+    "yoroshiku",
+    "daijoobu",
+    "ganbatte",
+    "yuu"
+   ],
+   "minutes": "100 — 10 perception, 25 new cards, 20 sentence cards, 15 D3, 20 review, 10 notation check on doubled vowels in ohayoo / arigatoo / gochisoosama",
+   "sentenceRange": "S18-S29",
+   "drill": "D3"
+  },
+  {
+   "day": "Day 4",
+   "title": "The extraction toolkit, then the copula opens",
+   "introduces": [
+    "X tte nani?",
+    "nihongo de nan te yuu no?",
+    "moo ichido onegai",
+    "yukkuri onegai",
+    "da",
+    "desu",
+    "ja nai",
+    "datta",
+    "deshita",
+    "ja nakatta",
+    "de wa nai",
+    "kore"
+   ],
+   "minutes": "100 — 10 perception, 25 new cards, 20 sentence cards, 20 D4, 15 D5, 10 review",
+   "sentenceRange": "S30-S41",
+   "drill": "D4 + D5"
+  },
+  {
+   "day": "Day 5",
+   "title": "Kosoado as a 5x4 grid, not twenty words",
+   "introduces": [
+    "sore",
+    "are",
+    "dore",
+    "kono",
+    "sono",
+    "ano (adnominal)",
+    "dono",
+    "koko",
+    "soko",
+    "asoko",
+    "doko",
+    "koo"
+   ],
+   "minutes": "100 — 10 perception, 25 new cards delivered as grid coordinates rather than a list, 15 sentence cards, 25 D6, 15 D5, 10 review",
+   "sentenceRange": "S42-S49",
+   "drill": "D6 + D5"
+  },
+  {
+   "day": "Day 6",
+   "title": "Grid row 5, then particles as prosody",
+   "introduces": [
+    "doo",
+    "konna",
+    "sonna",
+    "anna",
+    "donna",
+    "ga",
+    "no (genitive)",
+    "rising terminal",
+    "ka",
+    "ne",
+    "yo",
+    "yo ne"
+   ],
+   "minutes": "100 — 10 perception, 25 new cards, 20 sentence cards, 20 D8, 15 D6, 10 review. State outright: rising intonation IS the plain question marker, ka is the polite variant only.",
+   "sentenceRange": "S50-S59",
+   "drill": "D8 + D6"
+  },
+  {
+   "day": "Day 7",
+   "title": "Last particles, first nouns",
+   "introduces": [
+    "na",
+    "kke",
+    "sa",
+    "no (rising)",
+    "neko",
+    "inu",
+    "hito",
+    "kodomo",
+    "mizu",
+    "hako",
+    "sara",
+    "isu"
+   ],
+   "minutes": "100 — 10 perception, 25 new cards, 20 sentence cards, 20 D9 (the ga frame, first run), 15 D7, 10 review",
+   "sentenceRange": "S60-S70",
+   "drill": "D9 + D7 + D8"
+  },
+  {
+   "day": "Day 8",
+   "title": "Where things are",
+   "introduces": [
+    "tsukue",
+    "kuruma",
+    "ue",
+    "shita",
+    "naka",
+    "soto",
+    "mae",
+    "ushiro",
+    "tonari",
+    "yoko",
+    "chikaku",
+    "soba"
+   ],
+   "minutes": "100 — 10 perception, 25 new cards, 20 sentence cards, 20 D11, 15 D10, 10 review. soba enters phrase-only; it is never produced bare.",
+   "sentenceRange": "S71-S78",
+   "drill": "D11 + D10 + D8"
+  },
+  {
+   "day": "Day 9",
+   "title": "The house, room by room",
+   "introduces": [
+    "tokoro",
+    "uchi",
+    "ie",
+    "heya",
+    "mado",
+    "kabe",
+    "yuka",
+    "doa",
+    "kagi",
+    "kami",
+    "tegami",
+    "fuku"
+   ],
+   "minutes": "100 — 10 perception, 25 new cards, 20 sentence cards, 15 D10, 15 D7, 15 review",
+   "sentenceRange": "S79-S84",
+   "drill": "D10 + D7"
+  },
+  {
+   "day": "Day 10",
+   "title": "Outside: street, station, sky",
+   "introduces": [
+    "kutsu",
+    "kasa",
+    "mise",
+    "michi",
+    "eki",
+    "yama",
+    "kawa",
+    "umi",
+    "sora",
+    "hoshi",
+    "tsuki",
+    "hi"
+   ],
+   "minutes": "100 — 10 perception, 25 new cards, 20 sentence cards, 20 D12 (first live mining), 15 D11, 10 review. eki and kawa are frame-only cards: eki no mae, kawa no chikaku.",
+   "sentenceRange": "S85-S91",
+   "drill": "D12 + D11"
+  },
+  {
+   "day": "Day 11",
+   "title": "Weather, plants, animals, food",
+   "introduces": [
+    "ame",
+    "kaze",
+    "ki",
+    "hana",
+    "tori",
+    "sakana",
+    "mushi",
+    "uma",
+    "ushi",
+    "niku",
+    "tamago",
+    "shio"
+   ],
+   "minutes": "100 — 10 perception, 25 new cards, 20 sentence cards, 20 D13, 15 D9, 10 review. hana here is [2] flower only; the [0] nose sense stays out of the deck.",
+   "sentenceRange": "S92-S100",
+   "drill": "D13 + D9"
+  },
+  {
+   "day": "Day 12",
+   "title": "Food and family",
+   "introduces": [
+    "yasai",
+    "kudamono",
+    "ichigo",
+    "sake",
+    "haha",
+    "chichi",
+    "ani",
+    "ane",
+    "musuko",
+    "kazoku",
+    "tomodachi",
+    "namae"
+   ],
+   "minutes": "100 — 10 perception, 25 new cards, 20 sentence cards, 20 D10, 15 D13, 10 review",
+   "sentenceRange": "S101-S107",
+   "drill": "D10 + D13"
+  },
+  {
+   "day": "Day 13",
+   "title": "The body and the day's work",
+   "introduces": [
+    "koe",
+    "kao",
+    "me",
+    "kuchi",
+    "atama",
+    "ashi",
+    "mimi",
+    "karada",
+    "shigoto",
+    "hanashi",
+    "kotoba",
+    "kimochi"
+   ],
+   "minutes": "100 — 10 perception, 25 new cards, 20 sentence cards, 20 D12, 15 D13, 10 review. me [1] lands today; te [1] is held to day 14 so the two never share a session.",
+   "sentenceRange": "S108-S113",
+   "drill": "D12 + D13"
+  },
+  {
+   "day": "Day 14",
+   "title": "Time, abstraction, and shikata ga nai",
+   "introduces": [
+    "asa",
+    "hiru",
+    "yoru",
+    "ima",
+    "toki",
+    "te",
+    "mono",
+    "koto",
+    "iro",
+    "kane",
+    "shikata",
+    "nai"
+   ],
+   "minutes": "100 — 10 perception, 25 new cards, 20 sentence cards, 30 D14 cumulative shadow, 15 full-block review sweep. Block A closes on nai; block B opens with the wa/ga contrast as one indivisible unit plus the verb contraction families (-teru, -chau/-jau, -toku/-doku, -tara/-dara, -cha dame/-ja dame), each with both allomorphs.",
+   "sentenceRange": "S114-S120",
+   "drill": "D14"
+  }
+ ]
+}

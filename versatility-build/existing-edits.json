@@ -1,0 +1,80 @@
+{
+ "set": [
+  [
+   "A-kyuu-ni",
+   "contrastGroup",
+   "sudden-gradual"
+  ],
+  [
+   "E-tame-ni",
+   "contrastGroup",
+   "tame-ni-you-ni"
+  ],
+  [
+   "H-hajimeru",
+   "contrastGroup",
+   "hajimeru-hajimaru"
+  ],
+  [
+   "H-deru",
+   "contrastGroup",
+   "deru-dasu"
+  ],
+  [
+   "B-anmari",
+   "notes",
+   "'Anmari…' said alone, trailing off, is a polite 'not really'. Without a negative it means 'too much': anmari da yo! = that's going too far; amari ni takakute kaenakatta = it was so expensive I couldn't buy it. For 'not that …' (sonna ni warukunai), see sonna ni."
+  ],
+  [
+   "J-sonna",
+   "notes",
+   "sonna ni + negative means 'not that much' (sonna ni takakunai); it has its own entry, sonna ni."
+  ],
+  [
+   "J-dou",
+   "use",
+   "Asks for an opinion, a report or a plan in one word (dou?, dou datta?, dou suru?, dou omou?), and after a noun it suggests (ashita dou?)."
+  ],
+  [
+   "A-mae",
+   "notes",
+   "The same word means 'in front' (see mae / ushiro). -mae ni after a verb has its own card."
+  ],
+  [
+   "F-hazu",
+   "alsoIn",
+   [
+    "05-acquisition-order: copula allomorph table"
+   ]
+  ],
+  [
+   "H-hairu",
+   "contrastGroup",
+   "hairu-ireru"
+  ]
+ ],
+ "order": {
+  "H12": [
+   "H-hajimeru",
+   "H-hajimaru",
+   "H-owaru",
+   "H-yameru",
+   "H-ganbaru"
+  ],
+  "I9": [
+   "I-te-kureru",
+   "I-te-kurete-arigatou",
+   "I-te-morau",
+   "I-te-ageru",
+   "I-passive",
+   "I-sasete"
+  ],
+  "E8": [
+   "E-ni-yoru",
+   "E-nai-de",
+   "E-kawari-ni",
+   "E-tame-ni",
+   "E-you-ni"
+  ]
+ }
+}

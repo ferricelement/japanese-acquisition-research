@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__/
+# CC BY-SA data from jiten.moe; download it to rebuild (see README)
+versatility-build/jiten_freq_Drama.csv
+# claude.ai artifact copy of index.html
+versatility-build/artifact.html

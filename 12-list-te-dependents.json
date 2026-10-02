@@ -1,0 +1,187 @@
+{
+ "orderingVariable": "Descending (FANOUT × CONVERSATIONAL TOKEN FREQUENCY), scored and printed on every line as \"F n × Q n = score\".\n\nFANOUT (F, 1-10) = the number of FURTHER CONSTRUCTIONS that become reachable the moment this node is carded — not the number of its own inflections. (-teru unlocks -te ita, -tenai, -teru n da, -te iru tokoro, -te ite, -tetara, -te iru + relative clause, -te irassharu, -teru toko → F9. -te kara unlocks nothing → F2.)\n\nFREQUENCY (Q, 1-10) = approximate rank-order estimate of token rate in CONVERSATIONAL Japanese (CEJC-like), explicitly not written corpora and not the CSJ. APPROXIMATE — these are estimates, not measured counts.\n\nTwo tie-breaks, declared in advance and applied visibly:\n(TB1) A node that is a PREREQUISITE of a higher-scoring node, or that enables a speech act the learner cannot otherwise perform, moves up. Used exactly twice: -te kudasai (48) placed above -te kureru (49); -te mo ii (28) placed at slot 8, above four higher-context nodes.\n(TB2) Among near-ties, the member whose CITATION form is the contraction the learner will actually hear moves up. Used three times: -chau over -te morau (40 vs 42), -cha over -te mo (25 vs 25), -toku over -te miru (24 vs 24).\nScore gaps under 2 points are treated as measurement noise and broken by rule, never by score.\n\nSecond-order nodes carry a standard 2-week lag behind their parent, which is why they interleave rather than clustering.",
+ "whyThatVariable": "The obvious alternative is RAW CONVERSATIONAL TOKEN FREQUENCY ALONE. Rejected for two reasons.\n\nFirst, frequency alone cannot distinguish a hub from a dead end. -te kara and -teru are not wildly far apart in raw tokens, but -teru unlocks nine further constructions and -te kara unlocks zero. Frequency alone therefore schedules a terminal node at gateway priority — which is precisely the defect that produced the current scatter across stages 12/13/16/17 with no visible principle. Under fanout×frequency, -te kara falls to slot 22 (wk 14) and the drop is auditable.\n\nSecond, and decisively: FANOUT IS THE METRIC ON WHICH THE -TE FORM WON THE SCHEDULING CONTEST against the i-stem and the -nai stem. If the parent is selected by fanout×frequency and the children are then ordered by something else, the win is unaudited and the \"~35\" is circular — which is exactly the critique this work exists to answer. Applying the same metric one level down is what converts the claim from an assertion into a checkable one, and it is what forced the honest recount below (25 direct, not 35; 41 for the chant, not 35).\n\nThe one thing the metric does not capture is SPEECH-ACT URGENCY: a learner who cannot ask permission cannot hold a conversation, and -te mo ii scores only 28. Rather than fudge its score, it is promoted by TB1 and the promotion is printed on its line. Answering the question directly: -te mo ii sits at slot 8 (wk 10), AHEAD of -toku (11, wk 11), -te miru (12, wk 11), -te ageru (18, wk 13) and -te kara (22, wk 14).",
+ "blocks": [
+  {
+   "range": "R1-R5",
+   "label": "THE CHANT ITSELF — within-unit order, wk 9 days 1-3. COMMITTED: INVERTED FROM THE TEXTBOOK.",
+   "items": [
+    "R1. -su > -shite — hanasu (acc 2) 'speak' > hanashite; kasu (acc 0) 'lend' > kashite; naosu (acc 2) 'fix, cure' > naoshite; dasu (acc 1) 'put out' > dashite — ONE-TO-ONE, ZERO sound change. It is literally the i-stem they already own from wk 6-7 (hanashi- + te). Perception load: nil.",
+    "R2. -ku > -ite — kaku (acc 1) 'write' > kaite; kiku (acc 0) 'listen, ask' > kiite; aruku (acc 2) 'walk' > aruite; hataraku (acc 0) 'work' > hataraite — ONE-TO-ONE. The consonant drops to a fully voiced vowel; every mora carries acoustic energy. Exception iku > itte is NOT taught here (see R5).",
+    "R3. -gu > -ide — oyogu (acc 2) 'swim' > oyoide; isogu (acc 2) 'hurry' > isoide; nugu (acc ~1) 'take off (clothes)' > nuide; sawagu (acc 2) 'make noise' > sawaide — ONE-TO-ONE, voiced twin of R2. Drilled adjacent to R2 so ku/gu is learned as one contrast, not two rules. Only ~5 common members.",
+    "R4. -mu / -bu (+ shinu attached as a LEXICAL ITEM) > -nde — nomu (acc 1) 'drink' > nonde; yomu (acc 1) 'read' > yonde; yobu (acc 0) 'call' > yonde; asobu (acc 0) 'play' > asonde; erabu (acc 2) 'choose' > erande; shinu (acc 0) 'die' > shinde — FIRST MANY-TO-ONE. The cue is an AUDIBLE SEGMENT: a moraic nasal plus voicing on the /d/. Both are things with sound in them.",
+    "R5. -u / -tsu / -ru > -tte (+ iku, the single irregular) — kau (acc 0) 'buy' > katte; au (acc 0) 'meet' > atte; matsu (acc 1) 'wait' > matte; motsu (acc 1) 'hold' > motte; toru (acc 1) 'take' > totte; kaeru (acc 1) 'return' > kaette; iku (acc 0) 'go' > itte — MANY-TO-ONE **and** the cue is A BEAT OF SILENCE. Hardest thing an audio-only ear does. LAST."
+   ],
+   "rationale": "Two principles, applied in this order. (a) ONE-TO-ONE mappings before MANY-TO-ONE: three codas collapsing to one output is a categorically harder learning problem than one coda mapping to one output, and R1-R3 are one-to-one while R4-R5 are three-to-one. This yields {R1,R2,R3} then {R4,R5}. (b) Among the many-to-one rows, AUDIBLE CUE BEFORE SILENT CUE: the -nde cue is a moraic nasal plus a voicing change, both acoustically present; the -tte cue is gemination, which is a mora of NO acoustic energy. This orders R4 before R5. Principle (b) is the argument the brief raises and I commit to it — but note it is subsumed by (a), which is the stronger and more general statement. THE TEXTBOOK ORDER (u/tsu/ru first) IS A WRITING-SYSTEM ORDER: it walks the kana columns. This learner has no writing system, so the only thing that ordering optimises for is inaccessible to them. Invert it.",
+   "interference": "R4 and R5 are the only two three-to-one rows and are the only two rows confusable WITH EACH OTHER (-Xnde vs -Xtte, both bimoraic endings on a truncated stem). Required separation: never in the same session; R4 must be at interval >= 3 days before R5 is introduced. R5 contains iku > itte, which collides head-on with yuu 'say' > itte (see H2): iku's itte must be carded and stable BEFORE yuu is carded at all (wk 9 vs wk 12+). R1 leading creates an over-generalisation risk (*kakite, *matite) — mitigated by running R1 and R2 in the SAME session so 'something changes' lands within minutes; R1 is never drilled alone for more than one session."
+  },
+  {
+   "range": "1-4",
+   "label": "WK 9 — Tier 0: the form itself and the hub",
+   "items": [
+    "1. -te (junctive: sequence / cause / manner) — 'and then', 'because', 'by -ing' — F10 × Q10 = 100 — okite, gohan tabete, deta / isoide itta",
+    "2. -teru (< -te iru; iru acc 0) — progressive AND resultative, two senses, two cards — F9 × Q10 = 90 — nani shiteru? / mado ga aiteru — CITATION IS -teru, not -te iru",
+    "3. -te kudasai (kudasai acc 3) + bare -te request — F6 × Q8 = 48 — chotto matte kudasai / matte — PROMOTED by TB1 above its score",
+    "4. -te kureru (kureru acc 0) — inward benefactive, 'does it for me' — F7 × Q7 = 49 — tetsudatte kureru?"
+   ],
+   "rationale": "These four are barely rankable against the rest: item 2 outscores everything below slot 4 by more than 2x, and item 1 is the base, not a dependent (it scores 100 because it IS the node whose fanout is being counted). They are the form plus the three frames in which an adult beginner will hear -te addressed to them on day one. Slot 3 is placed one position above its score (48 vs 49) by TB1: -te kudasai is the imperative of slot 4's verb family, is a frozen lexical request rather than a conjugation the learner analyses, and is the single highest-value speech act available at wk 9.",
+   "interference": "2 (-teru, resultative sense) vs 24 (-te aru, resultative): five weeks apart, deliberate — they are the ledger's worst semantic near-twins. 3 vs 4 share the kudasaru/kureru root in the same week; acceptable ONLY because kudasai is carded as an unanalysed lexical chunk. 2's -teru contraction is formally parallel to -toku (11) and -chau (5) — three bimoraic -te+verb contractions; required separation: no two in the same session, ever."
+  },
+  {
+   "range": "5-8",
+   "label": "WK 10 — the casual-register core and the first speech act",
+   "items": [
+    "5. -chau / -chatta (< -te shimau; shimau acc 0) — completive + regret — F5 × Q8 = 40 — wasurechatta / tabechatta — promoted over 6 by TB2",
+    "6. -te morau (morau acc 0) — receive-a-favour — F7 × Q6 = 42 — oshiete moratta",
+    "7. -te kuru (kuru acc 1) — directional-toward AND inchoative; two unrelated senses, two cards — F5 × Q7 = 35 — katte kuru / wakatte kita",
+    "8. -te mo ii / -te ii (2nd-order, off 10) — PERMISSION — F4 × Q7 = 28 — kore tabete mo ii? / suwatte ii?"
+   ],
+   "rationale": "ANSWERING THE BRIEF'S QUESTION DIRECTLY: -te mo ii lands at slot 8, wk 10 — ahead of -toku (11, wk 11), -te miru (12, wk 11), -te ageru (18, wk 13) and -te kara (22, wk 14). It scores below -teru and -chau but is promoted by TB1: it is the highest-frequency SPEECH ACT the learner cannot yet perform, and its formal cost is near zero once -te exists. Slot 6 sits one below its score by TB2 (5 is a citation contraction; 40 vs 42 is inside the noise band). Slot 7 is split into two cards because the directional and inchoative senses share no semantics.",
+   "interference": "7 (-te kuru) vs 14 (-te iku): a deictic pair, the classic confusion; two weeks apart, never the same session. 8 (permission) and 9 (prohibition) are ADJACENT BY DESIGN — the ledger's first deliberate adjacency. Justification: they are semantic opposites but share no surface material (-te mo ii vs -cha dame), so the interference is purely semantic, and a learner needs both simultaneously to survive a conversation. 6 (-te morau) vs 4 (-te kureru): direction confusion; see block 18-21 for the full spread rule."
+  },
+  {
+   "range": "9-13",
+   "label": "WK 11 — prohibition closed, preparatory and tentative aspect",
+   "items": [
+    "9. -cha / -cha dame / -te wa ikenai (< -te wa) — PROHIBITION — F5 × Q5 = 25 — tabecha dame / itcha dame — promoted over 10 by TB2. Bundles three of the headline 35 into one slot.",
+    "10. -te mo (bare concessive) — 'even if' — F5 × Q5 = 25 — ame ga futte mo iku",
+    "11. -toku (< -te oku; oku acc 0) — do-in-advance / leave-it-done — F4 × Q6 = 24 — kattoku / yattoita — promoted over 12 by TB2",
+    "12. -te miru (miru acc 1) — try-and-see — F4 × Q6 = 24 — tabete mita / itte miyou",
+    "13. -te kuremasen ka / -te kurenai? (2nd-order, off 4) — softened request — F3 × Q6 = 18 — chotto matte kurenai?"
+   ],
+   "rationale": "Both pairs here are exact score ties (25/25 and 24/24) and both are broken by TB2, the contraction-citation rule — visibly and consistently. Slot 13 lands exactly two weeks after its parent (slot 4, wk 9), which is the ledger's standard second-order lag; the lag is what keeps second-order nodes interleaved rather than clumped in a late stage, which was the previous plan's failure mode.",
+   "interference": "11 (-toku) vs 24 (-te aru): both place a state for later use; four weeks apart. 11 (-toita) vs 5 (-chatta): the two bimoraic past contractions, formally near-identical shape; different sessions required, and their audio frames must differ in length so the learner cannot key on rhythm. 10 (-te mo) vs 40 (-tatte): the casual equivalent of -te mo is built on -ta, not -te — four weeks apart, and the relationship is taught, not discovered."
+  },
+  {
+   "range": "14-17",
+   "label": "WK 12 — second deictic, the causal frame, second-order harvest",
+   "items": [
+    "14. -te iku / -teku (iku acc 0) — directional-away AND gradual change — F4 × Q5 = 20 — motte iku / fuete iku",
+    "15. -te + EVALUATIVE PREDICATE (the causal frame, ONE productive slot) — -te sumimasen, -te yokatta, -te ureshii, -te zannen — F3 × Q6 = 18 — okurete sumimasen / kite yokatta",
+    "16. -te moraemasu ka (2nd-order, off 6) — polite request — F3 × Q5 = 15 — oshiete moraemasu ka",
+    "17. -teru toko / -te iru tokoro (2nd-order, off 2) — 'in the middle of' — F2 × Q5 = 10 — ima tabeteru toko"
+   ],
+   "rationale": "Slot 15 is where the honest recount happens. The source list treats -te sumimasen, -te yokatta, -te tamaranai and -te shikata ga nai as four separate constructions. Three of them are ONE productive slot: causal -te plus an open-class evaluative predicate. The learner does not need four constructions, they need one frame and a word list. Collapsing this is the single biggest contributor to the drop from ~40 to a defensible 35. (-te tamaranai survives separately at slot 30 because it is a DEGREE frame with a closed predicate set, not an evaluation.) Slot 14 carries two senses and gets two cards, like slot 7.",
+   "interference": "14 vs 7: the deictic pair — the required separation is these two weeks, and both must be framed with an object (X o motte iku / X o katte kuru) so the direction is recoverable from the sentence, not from a memorised arrow diagram."
+  },
+  {
+   "range": "18-21",
+   "label": "WK 13 — the benefactive triangle closed, desiderative",
+   "items": [
+    "18. -te ageru (ageru acc 0) — outward benefactive, 'do it for you/them' — F4 × Q4 = 16 — tetsudatte ageru",
+    "19. -te itadaku (itadaku acc 0) — humble receive — F4 × Q4 = 16 — mite itadaku",
+    "20. -te hoshii (hoshii acc 2) — want-SOMEONE-ELSE-to — F3 × Q5 = 15 — kite hoshii",
+    "21. -te mo kamawanai (2nd-order, off 10) — permission, formal register — F2 × Q3 = 6 — itte mo kamaimasen"
+   ],
+   "rationale": "The giving/receiving triangle closes here, FOUR WEEKS after its first member (4, wk 9). The standard pedagogical error is introducing kureru/morau/ageru as a SYSTEM in one lesson with a diagram; the system is what makes it hard. This ledger introduces them at wk 9 / wk 10 / wk 13, each cued by the frame sentence's subject, and never presents the triangle as a triangle until all three are individually stable. Slots 18 and 19 tie at 16; 18 goes first by TB1 (it completes a structure already begun, 19 is a register variant of an existing node).",
+   "interference": "18 vs 4 vs 6 — THE direction confusion of Japanese; the required separation IS the four-week spread and it is the reason this block sits at wk 13 rather than earlier despite three of its members being learnable at wk 10. 19 (-te itadaku) vs 6 (-te morau): identical semantics, different register; three weeks, and 19 is only ever drilled inside the request frame (see 23). 20 (-te hoshii) vs X7 (-tai, wk 6-7): 'want you to do' vs 'want to do' — six weeks apart, adequate, but the -te hoshii card must carry an overt agent (X ni ... -te hoshii)."
+  },
+  {
+   "range": "22-25",
+   "label": "WK 14-15 — temporal, the polite request, stative and blunt tails",
+   "items": [
+    "22. -te kara — 'after doing' — F2 × Q5 = 10 — tabete kara deta",
+    "23. -te itadakemasen ka (2nd-order, off 19) — the workhorse polite request — F2 × Q4 = 8 — oshiete itadakemasen ka",
+    "24. -te aru (aru acc 1) — resultative-transitive, 'has been -ed (deliberately)' — F2 × Q3 = 6 — kaite aru / kagi ga kakete aru",
+    "25. -te yaru (yaru acc 0) — outward benefactive, blunt or defiant — F2 × Q3 = 6 — yatte yaru"
+   ],
+   "rationale": "THIS IS THE CLEAREST PLACE WHERE FANOUT OVERRULES RAW FREQUENCY, and the clearest audit of the metric. -te kara is reasonably frequent in conversation — a raw-frequency ordering puts it around slot 10. It falls to 22 because F=2: nothing hangs off it, and in most conversational tokens its work is already done by the bare junctive -te carded at slot 1 (tabete deta already means 'ate and then left'). Paying for -te kara at wk 10 would buy a nuance the learner can already approximate. Slots 24 and 25 tie at 6; 24 first because it contrasts with an already-carded node (11) and therefore has somewhere to attach.",
+   "interference": "24 (-te aru) vs 11 (-toku) vs 2 (-teru): the three resultatives, the ledger's most dangerous semantic cluster; spread across wk 9 / wk 11 / wk 15, which is the maximum spread the ledger can afford. 25 (-te yaru) vs 18 (-te ageru): same direction, different politeness AND a rude-if-misused failure mode; two weeks, and 25 is carded with an explicit register warning in the gloss."
+  },
+  {
+   "range": "26-29",
+   "label": "WK 16-17 — the tail begins",
+   "items": [
+    "26. -te bakari / -te bakari iru (bakari acc 0) — 'does nothing but' — F2 × Q2 = 4 — asonde bakari iru. Bundles two of the headline 35.",
+    "27. -te sae — 'even by / if only' — F2 × Q1.5 = 3 — yatte sae ireba",
+    "28. -te goran (2nd-order / imperative variant of 12) — gentle 'go on, try it' — F1 × Q2 = 2 — tabete goran",
+    "29. -te miseru (miseru acc 0) — 'do it and show / do it demonstratively' — F1 × Q2 = 2 — yatte miseru"
+   ],
+   "rationale": "Score has collapsed by an order of magnitude from block 1 (100-49) to here (4-2). That collapse is itself the finding: the -te form's fanout is real but STEEPLY FRONT-LOADED, and roughly two thirds of the total value of the whole 35-item tree is delivered by slots 1-8 in the first two weeks. This is a stronger argument for -te winning the scheduling contest than the raw count of 35, because it says the payoff arrives immediately rather than being amortised over four months.",
+   "interference": "28 (-te goran) vs 12 (-te miru): parent and child, five weeks apart, fine. 29 (-te miseru) vs 12 (-te miru): near-identical surface (-te mi-), different verb, different meaning; five weeks and 29 is only ever presented in the volitional (yatte miseru) so the miseru is stressed."
+  },
+  {
+   "range": "30-33",
+   "label": "WK 18-22 — the floor. CUT HERE IF THE LEDGER MUST BE CUT.",
+   "items": [
+    "30. -te tamaranai / -te shikata ga nai / -te shou ga nai / -te shaanai — 'unbearably' (degree frame, closed predicate set) — F1 × Q2 = 2 — samukute tamaranai / kininatte shou ga nai",
+    "31. -te koso — 'only by doing' — F1 × Q1 = 1 — yatte koso wakaru",
+    "32. -te made — 'going so far as to' — F1 × Q1 = 1 — narande made tabetakunai",
+    "33. -te wa irarenai (2nd-order, off 9) — 'can't just sit here -ing' — F1 × Q1 = 1 — matte wa irarenai"
+   ],
+   "rationale": "These four score at the floor and are the honest weak point of the headline number. Slot 30 is kept separate from slot 15 because it is a DEGREE construction with a closed predicate set (tamaranai / shikata ga nai / naranai), not the open evaluative slot. Slots 31, 32 and 33 are literary-leaning and rare in unscripted conversation; they belong in the second 3,000 items or not at all.",
+   "interference": "30 vs 15: both are '-te + fixed predicate' and will be confused; six weeks apart, and 30 is always drilled off an ADJECTIVE stem (-kute tamaranai) while 15 is always drilled off a verb -te, which gives the ear a formal handle. 31 (-te koso) vs 27 (-te sae): both are focus particles in the same slot with adjacent meanings; four weeks."
+  },
+  {
+   "range": "34-41",
+   "label": "NOT -TE DEPENDENTS — the -ta branch of the SAME ONBIN STEM (wk 9-16). The chant pays for these too.",
+   "items": [
+    "34. -ta (plain past) — F8 × Q10 = 80 — WK 9, SAME SESSION AS THE CHANT — tabeta / yonda / katta — te>ta, de>da, one vowel swap, zero new learning",
+    "35. -tara (conditional / 'when') — F5 × Q7 = 35 — wk 11 — tabetara wakaru",
+    "36. -ta koto ga aru — 'have ever' — F2 × Q5 = 10 — wk 12 — itta koto ga aru",
+    "37. -ta hoo ga ii — advice — F2 × Q5 = 10 — wk 13 — netа hoo ga ii (read: neta hoo ga ii)",
+    "38. -tari ... -tari suru — non-exhaustive listing — F2 × Q4 = 8 — wk 13 — tabetari nondari shita",
+    "39. -ta ato de — 'after' — F1 × Q3 = 3 — wk 14 — tabeta ato de",
+    "40. -tatte (casual -te mo) — F1 × Q3 = 3 — wk 15 — tabetatte onaji",
+    "41. -ta bakari — 'just did' — F1 × Q3 = 3 — wk 16 — kita bakari"
+   ],
+   "rationale": "NONE of these is a -te dependent. They take the same onbin (euphonic) stem with a DIFFERENT SUFFIX. Excluding them from the 35 is correct and the plan was right to do it. But the plan is then making the weaker of the two available arguments. What wk 9 actually schedules is THE CHANT, not the -te suffix — and the chant buys 35 -te constructions PLUS these 8 = 41 constructions. That figure is larger, more defensible, and unlike '~35' it is trivially checkable, because the -ta branch is closed and short. The plan should switch to it. Slot 34 in particular is the single largest free win available anywhere in the course and must not be deferred: once the chant is stable, -ta costs one sentence of explanation.",
+   "interference": "34 (-ta) vs 1 (-te) introduced in the SAME session — the ledger's second and last deliberate adjacency. Justification: the contrast IS the lesson, and separating them wastes the transfer. 35 (-tara) vs 40 (-tatte): four weeks. 38 (-tari) vs 35 (-tara): near-identical two-mora endings on the same stem, and the single worst formal collision in the -ta branch — required separation two weeks minimum, and -tari must always be drilled in its doubled form (-tari ... -tari shita) so it is never a bare ending."
+  },
+  {
+   "range": "X1-X13",
+   "label": "IMPOSTORS — auxiliaries that feel like -te dependents but take the I-STEM (already paid for, wk 6-7). Do not credit these to -te.",
+   "items": [
+    "X1. -hajimeru — 'begin to' — tabehajimeru (NOT *tabete hajimeru)",
+    "X2. -owaru — 'finish' — tabeowaru",
+    "X3. -tsuzukeru — 'keep on' — tabetsuzukeru",
+    "X4. -sugiru — 'over-do' — tabesugiru",
+    "X5. -yasui — 'easy to' — tabeyasui",
+    "X6. -nikui — 'hard to' — tabenikui",
+    "X7. -tai — 'want to' — tabetai",
+    "X8. -nagara — 'while' — tabenagara",
+    "X9. -ni iku / -ni kuru — 'go to do' — tabe ni iku",
+    "X10. -kata — 'way of' — tabekata / yomikata",
+    "X11. -sou da — 'looks like' — tabesou da",
+    "X12. -nasai — mild imperative — tabenasai",
+    "X13. -masu / -mashou / -masen ka — the polite paradigm itself"
+   ],
+   "rationale": "To an English speaker every one of these is 'verb + something' and feels identical in kind to -te oku or -te miru. They are not: they attach to the I-STEM, which the plan already schedules at wk 6-7. Enumerating them here is what makes the -te count CHECKABLE — if any of these were ever quietly folded into a '-te fanout' figure, the -te win over the i-stem is overstated in both directions at once. Counted honestly, the i-stem's own fanout is 13+ and it is not far behind -te; -te wins on the strength of -teru alone plus the free -ta branch, not on a landslide of 35 vs nothing.",
+   "interference": "X7 (-tai) vs 20 (-te hoshii): 'want to do' vs 'want someone else to do' — the meanings are adjacent and the forms are not; six weeks apart is adequate but the -te hoshii card must carry an overt X ni agent. X12 (-nasai) vs 3 (-te kudasai): both imperatives, different stems, no shared surface material — safe. X1/X2 vs 5 (-chau): 'finish eating' can be tabeowaru or tabechatta, semantically overlapping across two different stems — this is the one genuine cross-stem semantic collision and needs an explicit contrast card at wk 12."
+  },
+  {
+   "range": "H1-H6",
+   "label": "HOMOPHONE COLLISIONS THE EAR CANNOT RESOLVE — with required separations",
+   "items": [
+    "H1. **kite / kiite / kitte** — kite (kuru 'come', acc 1, H-L) | kite (kiru 'wear', ichidan, acc 0, L-H) | kiite (kiku 'listen, ask', acc 0, THREE moras) | kitte (kiru 'cut', godan, acc 1) | kitte 'postage stamp' (noun, acc 0). REQUIRED: PITCH SEPARATES kite(1) from kite(0), and kitte(1) from kitte(0) — the accent integer is load-bearing here, not decorative, and must be VERIFIED not guessed. Introduce kite / kiite / kitte as PURE SOUND in the pre-card perception block with no meanings attached — it is vowel-length AND gemination in one triple and is the best perception item in the language. Attach meaning to kuru's kite only at wk 9. kiru 'wear' not before wk 12; kiru 'cut' not before wk 14; kitte 'stamp' not before wk 16.",
+    "H2. **itte** — itte (iku 'go', acc 0) | itte (iu~YUU 'say', acc 0) | itte (iru 'need', godan, acc 0). ALL HEIBAN — PITCH DOES NOT SEPARATE THESE. REQUIRED: card 'say' as **YUU** with the casual **yutta / yutte** as the CITATION forms. This is not a stylistic choice, it DISSOLVES THE COLLISION in the register the learner is targeting: yutta vs itta is a real audible distinction, and the past tense is where most of this verb's tokens live. Keep itta/itte as passive-recognition variants only. Bonus: citing it as yuu also removes the near-collision between the citation forms iu and iku. Schedule: iku's itte wk 9 (it is the R5 irregular); yuu wk 12+; iru 'need' wk 16+ and ONLY ever inside the frame 'X ga iru'.",
+    "H3. **shite / shitte** — shite (suru, acc 0) | shitte (shiru 'know', acc 0). Identical pitch, identical moras but one, separated by A BEAT OF SILENCE. The pair that actually costs points is the contracted one: **shiteru** 'is doing' vs **shitteru** 'knows' — both extremely high frequency, both wk 9-13 material. REQUIRED: this is THE gemination target; drill it in the pre-card perception block alongside H1. suru/shite at wk 9 (irregular, memorised, not induced). shiru NOT carded until shiteru is at interval >= 21 days, i.e. not before wk 13. Separate note: shitte iru is almost always shitteru, and its negative is **shiranai**, NOT *shitte inai — card the negative as a distinct lexical item or the learner will build it wrong.",
+    "H4. **katte** — katte (kau 'buy', acc 0) | katte (katsu 'win', acc 1) | katte (karu 'mow, hunt', acc 1) | katte 'one's own way, selfish' (noun/na-adj, acc 0). PITCH SEPARATES the acc-0 members from the acc-1 members but does not separate katsu from karu. REQUIRED: kau at wk 9 (it anchors chant row R5); katsu not before wk 14; karu and katte 'selfish' outside the first 1,000 items entirely.",
+    "H5. **kaette / kaete** — kaette (kaeru 'return home', GODAN, acc 1) | kaete (kaeru 'change', ICHIDAN, acc 0) | karite (kariru 'borrow', acc 0). Geminate vs no geminate on identical citation forms. NOTE THE BONUS: the -te form is the ONLY reliable AUDIBLE test of godan vs ichidan for -ru verbs, so the chant doubles as a verb-class diagnostic and should be sold to the learner that way. REQUIRED: kaeru 'return' wk 9-10; kaeru 'change' not before wk 14; kariru wk 12+.",
+    "H6. **The -nde and -tte pile-ups** — yonde (yomu 'read', acc 1) vs yonde (yobu 'call', acc 0) — pitch separates. atte (au 'meet', acc 0) vs atte (aru 'exist', acc 1) — pitch separates. sunde (sumu 'live', acc ~1) vs sunde (sumu 'finish', acc ~0) — APPROXIMATE, pitch separation UNRELIABLE. totte (toru 'take', acc 1) vs tootte (tooru 'pass through', acc 1) — vowel length only, pitch identical. REQUIRED: where pitch separates, the two members must carry DIFFERENT accent integers on the card and the audio must run >= 4 moras past the verb so the contour is recoverable (the noun 'X ga' frame does not apply to verbs — use a following complement instead). Where pitch does NOT separate (the sumu pair, the totte/tootte pair), separate by >= 6 weeks AND always frame with an obligatory argument: ie ni sunde / shukudai ga sunde; te de totte / michi o tootte."
+   ],
+   "rationale": "Every collision here is created or exposed by the -te form itself: the onbin stem deletes the segment that distinguished the citation forms. This is a REAL COST of scheduling -te at wk 9 that the plan's fanout argument does not price in, and it should be stated as such. The mitigations are cheap and mostly already in the plan's own architecture: the accent integer on every card resolves H1, H4, and most of H6; the pre-card perception block resolves H1 and H3 for free if kite/kiite/kitte and shite/shitte are chosen as its flagship items; and the contraction-as-citation policy already committed to elsewhere resolves H2 outright by making yutta the citation. The only genuinely unresolved cases are the sumu pair and totte/tootte, which need scheduling distance and obligatory framing.",
+   "interference": "H1 and H3 are both pre-card perception-block items and must not be the same drill — H1 tests vowel length AND gemination, H3 tests gemination alone with pitch held constant. Run H3 first (one variable), H1 second (two variables). H2 and R5 interact: iku > itte is the single irregular in the last chant row, and it must be stable before yuu enters at wk 12."
+  }
+ ],
+ "notes": [
+  "THE DEFENSIBLE COUNT, STATED PLAINLY: 25 TRUE DIRECT DEPENDENTS of the -te stem. Plus 10 obligatory second-order constructions that no course could defer (-te mo ii, -cha dame/-te wa ikenai, -te mo kamawanai, -te goran, -te kuremasen ka, -te moraemasu ka, -te itadakemasen ka, -te bakari iru, -te iru tokoro, -te wa irarenai) = 35. THE PLAN'S '~35' SURVIVES — but only under that stated definition, which the plan has never stated. The pure direct-dependency count is 25 and the plan should say 25 and then say where the other 10 come from. The 33 numbered slots above cover all 35 (two slots bundle: #9 bundles -cha + -cha dame + -te wa ikenai; #26 bundles -te bakari + -te bakari iru).",
+  "THE BETTER ARGUMENT THE PLAN IS NOT MAKING: what wk 9 schedules is THE CHANT, not the -te suffix. The chant is the onbin stem, and the onbin stem also feeds -ta, -tara, -tari, -tatte, -ta koto ga aru, -ta hoo ga ii, -ta ato de, -ta bakari — 8 more. So the wk 9 investment buys 41 constructions, not 35. That number is larger, it is checkable (the -ta branch is closed and short), and it does not depend on how you count second-order nodes. SWITCH THE CLAIM TO 41-VIA-THE-CHANT and the circularity complaint dies.",
+  "-ta MUST SHIP IN THE SAME SESSION AS THE CHANT (slot 34, wk 9). te>ta, de>da, one vowel swap, zero new learning. Deferring it is the largest unforced error available in this part of the course.",
+  "THE FANOUT IS STEEPLY FRONT-LOADED, which is a better selling point than the total. Scores run 100-49 in wk 9 and 4-1 by wk 16. Roughly two thirds of the tree's total value is delivered by slots 1-8 in the first two weeks. The -te form does not slowly repay 35 constructions over four months; it repays most of its cost in fourteen days.",
+  "THE TAIL IS PADDED AND YOU SHOULD SAY SO. Slots 30-33 (-te tamaranai/-te shikata ga nai, -te koso, -te made, -te wa irarenai) plus slot 29 (-te miseru) score at the floor, 1-2. Cutting five of the headline 35 costs essentially nothing. A count whose bottom 15% can be deleted for free is a count that should be reported with its distribution, not as a scalar.",
+  "THE COLLAPSE THAT TOOK 40 DOWN TO 35: -te sumimasen, -te yokatta, -te ureshii, -te zannen are NOT four constructions. They are one productive slot — causal -te plus an open-class evaluative predicate — carded once at slot 15 with a word list. (-te tamaranai survives separately at slot 30 only because it is a DEGREE frame with a closed predicate set.) If the plan's original 45 counted these individually, this is where at least four of the ten deleted items came from.",
+  "THE IMPOSTOR CHECK IS WHAT MAKES THE NUMBER AUDITABLE (block X1-X13). -hajimeru, -owaru, -tsuzukeru, -sugiru, -yasui, -nikui, -tai, -nagara, -ni iku, -kata, -sou da, -nasai and the whole -masu paradigm attach to the I-STEM, not -te. To an English speaker they feel identical in kind. Counted honestly the i-stem's fanout is 13+, so -te's win over it is real but NARROW — it rests on -teru alone plus the free -ta branch, not on 35-versus-nothing. The plan should stop describing this as a landslide.",
+  "TRAP: the casual equivalent of -te mo is -tatte (tabetatte), which is built on -ta, not -te. The register this learner is targeting routes concessives through the -ta branch. Slot 10 and slot 40 must be taught as related, four weeks apart.",
+  "SHIP -kute AND de IN THE SAME WEEK AS THE CHANT. The adjective linker (atsukute) and the copula linker (gakusei de) are separate, have NO onbin, cost about two cards, and roughly triple the sentences the learner can build with slot 1. Omitting them leaves the learner with a clause-linker that only works on verbs, which is a strange half-capability.",
+  "THE NEGATIVE TWINS ARE ON A DIFFERENT STEM. -naide kudasai, -nakute mo ii, -nakucha/-nakya take the -nai stem (wk 8), not -te. Every permission and prohibition card at slots 8-9 has a -nai-stem twin, and the twins must be carded TOGETHER or the learner will produce *-te nai kudasai. This is the one place the ledger deliberately reaches across stems.",
+  "THE COMMIT ON CHANT ORDER INVERTS THE TEXTBOOK, and the honest risk is over-generalisation: opening on -su > -shite (no sound change at all) invites *kakite and *matite. Mitigation, non-negotiable: rows R1 and R2 run in the SAME session so 'something changes' lands within minutes, and R1 is never drilled alone for more than one session. I accept this risk because the alternative — opening an audio-only learner on a mora of silence — is worse, and because the textbook order optimises for kana-column adjacency, a property this learner cannot perceive.",
+  "SHINU IS THE ONLY -nu VERB, so row R4 must be drilled as '-mu / -bu > -nde' with shinde ATTACHED AS A LEXICAL ITEM, not presented as a three-way class. One member cannot support induction, and presenting it as a class invites the learner to look for -nu verbs that do not exist. This matches the plan's existing -nu handling; the chant row must reflect it.",
+  "THE -TE FORM IS THE ONLY AUDIBLE GODAN/ICHIDAN DIAGNOSTIC for -ru verbs (kaeru>kaette vs kaeru>kaete). Sell the chant to the learner as a class test, not just a conjugation — it converts a memorisation burden into a tool.",
+  "ACCENT INTEGERS MARKED 'acc N' ARE APPROXIMATE except where flagged load-bearing. The ones in H1, H4 and H6 decide whether the learner can hear the difference at all and MUST be verified against a pitch dictionary before TTS generation, not guessed. The ones marked '~' (nugu, sumu 'live'/'finish') I am least confident in. Frequency figures throughout are rank-order estimates, not measured counts.",
+  "VERB AUDIO NEEDS A DIFFERENT FRAME THAN NOUN AUDIO. The plan's 'X ga' frame works for nouns because it disambiguates heiban from odaka. Verbs need a following complement running >= 4 moras past the verb so the contour is recoverable (yonde kudasai, atte kimashita). Without it, the accent integers in H6 are unusable even when correct.",
+  "HONORIFIC AND HUMBLE -te VARIANTS — -te kudasaru, -te sashiageru, -te irassharu, -te mairu, -te oide — are deliberately absent from slots 1-33. None belongs before month 8. -te itadakemasen ka (slot 23) is the only keigo request this learner needs before then, and it earns its place because service encounters are the one formal register an audio-first learner cannot avoid.",
+  "THE LEDGER HAS EXACTLY TWO DELIBERATE ADJACENCIES, both against normal interference practice, both justified: (a) slots 8 and 9, permission and prohibition, adjacent because they share no surface material so the interference is semantic only, and a learner needs both to hold a conversation; (b) slots 1 and 34, -te and -ta, same session, because the contrast IS the lesson. Every other adjacency in the ledger is an accident of score and any collision is spread by the interference rules above.",
+  "WHAT THE -TE SCHEDULING WIN COSTS AND THE PLAN DOES NOT PRICE: the onbin stem DELETES the segment that distinguished the citation forms, so every collision in block H1-H6 is created or exposed by wk 9 itself. kite/kiite/kitte, shite/shitte, itte/itte/itte and katte×4 all arrive at once. This is a real debit against the fanout credit. It is payable — mostly by the accent integer and the perception block, which the plan already has — but it should appear on the balance sheet."
+ ]
+}

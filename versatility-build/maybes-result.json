@@ -1,0 +1,1031 @@
+[
+ {
+  "blocks": [
+   {
+    "label": "Not at all / not much",
+    "rationale": "The negative-degree scale: each sets how strong a 'no' is before a negative verb or adjective, from zenzen 'not at all' to sonna ni 'not that much'. nakanaka adds 'just won't', for things that are slow or hard to make happen.",
+    "interference": "zenzen means 'not at all', hotondo 'hardly' and anmari 'not very'. sonna ni ('not that …') measures against a degree already in the air, either what someone said or what you'd expect, so it often answers a worry or a claim; anmari just rates the thing as low. nakanaka is about time and effort, not amount: nakanaka konai = it's taking ages, zenzen konai = it isn't coming at all. Without a negative, hotondo flips to 'almost all', sonna ni to 'so much' and nakanaka to 'pretty, more than expected' (nakanaka ii is close to kekkou ii but sounds like a verdict).",
+    "items": [
+     {
+      "slug": "nakanaka",
+      "romaji": "nakanaka",
+      "polite": null,
+      "ja": "なかなか",
+      "kana": "なかなか",
+      "politeJa": null,
+      "english": "(not) easily; just won't; quite",
+      "use": "With a negative it means something just won't happen despite trying or waiting, or is taking ages (nakanaka konai, nakanaka oboerarenai, nakanaka umaku ikanai). Before an adjective it means 'pretty, more than expected' (nakanaka ii, nakanaka muzukashii).",
+      "flags": [],
+      "contrastGroup": "zenzen-anmari-hotondo",
+      "example": {
+       "romaji": "basu, nakanaka konai ne",
+       "ja": "バス、なかなか来ないね",
+       "english": "The bus is taking forever, huh."
+      },
+      "examplePolite": {
+       "romaji": "basu, nakanaka kimasen ne",
+       "ja": "バス、なかなか来ませんね",
+       "english": "The bus is taking a while, isn't it."
+      },
+      "freqRank": 494,
+      "freqNote": "kana spelling; rank covers both senses (中々 is #54755)",
+      "spread": 4,
+      "reach": 4,
+      "speakNeed": 3,
+      "prereqs": [
+       "I-nai-negative"
+      ],
+      "alsoIn": [
+       "vocab-trainer core-vocab: Intensifiers (extended)"
+      ],
+      "notes": "Used as praise, it sounds like you're grading the thing. To a boss, or to the person who cooked, say hontou ni or sugoku instead."
+     }
+    ],
+    "joinBlock": "B5"
+   }
+  ],
+  "changelog": [
+   {
+    "slug": "nakanaka",
+    "change": "Moved from B2 to B5 (Not at all / not much, now 5 items) because it was re-added for its 'just won't' sense, which sits beside zenzen. B2 stays exactly as it was."
+   },
+   {
+    "slug": "nakanaka",
+    "change": "Rewrote the B5 rationale and interference for the merged block. The old content is kept, and they now add the nakanaka konai vs zenzen konai trap and nakanaka's flip without a negative (close to kekkou ii)."
+   },
+   {
+    "slug": "nakanaka",
+    "change": "contrastGroup changed from null to zenzen-anmari-hotondo."
+   },
+   {
+    "slug": "nakanaka",
+    "change": "use now covers the 'despite trying or waiting' sense (nakanaka oboerarenai) and describes the positive sense as a degree adverb before any adjective (nakanaka muzukashii), not only nakanaka ii."
+   },
+   {
+    "slug": "nakanaka",
+    "change": "Example glosses now read 'taking forever' / 'taking a while' so they don't suggest 'never coming' or 'not coming at all'."
+   },
+   {
+    "slug": "nakanaka",
+    "change": "english reordered to lead with the negative sense, '(not) easily; just won't; quite'. freqNote now gives the 中々 rank (#54755). Re-checked: #494 is from tool output, and the core-vocab pointer is correct."
+   }
+  ],
+  "dropped": [],
+  "cat": "B"
+ },
+ {
+  "blocks": [
+   {
+    "label": "Getting through, giving up, not wasting a chance",
+    "rationale": "Words for handling a situation: start somewhere, push past the details, manage somehow, say how it ended, take an outcome as settled in advance, and don't waste a chance or an effort.",
+    "interference": "toriaezu (for now, as a first step) and tonikaku (anyway, whatever else) share '___ yatte miyou'. nantoka is about managing despite trouble; kekkyoku is about the final outcome. douse also comes out as 'anyway', but tonikaku pushes on while douse takes the outcome as settled in advance, usually the bad one (douse muri da, it won't work anyway); kekkyoku reports how it really ended (kekkyoku muri datta). sekkaku can't fill the '___ yatte miyou' slot on its own. It needs da kara: sekkaku da kara yatte miyou (since we have the chance), never 'sekkaku yatte miyou'. douse nara (if it's happening anyway) gives 'might as well': douse matsu nara, kafe de matou (if we have to wait anyway, let's wait in a café). It starts from 'this is happening regardless', where sekkaku starts from 'this is a rare chance'. sekkaku ... noni (after all that trouble) often leads into kekkyoku: sekkaku tsukutta noni, kekkyoku tabenakatta (I went to the trouble of making it, and in the end they didn't eat it).",
+    "joinBlock": "C7",
+    "items": [
+     {
+      "slug": "douse",
+      "romaji": "douse",
+      "polite": null,
+      "ja": "どうせ",
+      "kana": "どうせ",
+      "politeJa": null,
+      "english": "anyway (it's settled regardless); might as well (douse nara)",
+      "use": "Treats an outcome as settled whatever you do. Often it's resigned (douse muri da, douse wasureru yo), and aimed at someone it sounds sulky or bitter (douse kikanai n desho). It's also a neutral 'anyway' when you give a reason: douse hima da shi, tetsudau yo (I'm free anyway, so I'll help). It never moves a story on the way English 'anyway' does; that's tonikaku.",
+      "flags": [],
+      "contrastGroup": null,
+      "example": {
+       "romaji": "douse muri da yo.",
+       "ja": "どうせ無理だよ。",
+       "english": "It's not going to work anyway."
+      },
+      "examplePolite": {
+       "romaji": "douse muri desu yo.",
+       "ja": "どうせ無理ですよ。",
+       "english": "It's not going to work anyway."
+      },
+      "freqRank": 580,
+      "freqNote": "どうせ #580; どうせなら #5798 counted separately",
+      "spread": 4,
+      "reach": 4,
+      "speakNeed": 3,
+      "prereqs": [
+       "D-muri",
+       "E-nara"
+      ],
+      "alsoIn": [],
+      "notes": "douse nara (if it's happening anyway) is the upbeat 'might as well': douse nara ii no kaou yo (if we're buying one anyway, let's get a good one)."
+     }
+    ]
+   }
+  ],
+  "changelog": [
+   {
+    "slug": "douse",
+    "change": "english: replaced 'anyway (resigned); it's hopeless' with 'anyway (it's settled regardless); might as well (douse nara)'. 'it's hopeless' is what douse muri da means, not douse on its own (all 3 reviews; nuance rated it major)."
+   },
+   {
+    "slug": "douse",
+    "change": "use: now says douse treats an outcome as settled, usually with resignation and sulky when aimed at someone. Added the neutral reason use (douse hima da shi, tetsudau yo) and a warning that it never moves a story on the way English 'anyway' does (that's tonikaku). Moved douse nara out to notes (natural + nuance)."
+   },
+   {
+    "slug": "douse",
+    "change": "notes: now introduces douse nara directly as the upbeat 'might as well', with the example kept (nuance)."
+   },
+   {
+    "slug": "douse",
+    "change": "prereqs: added E-nara for the douse nara pattern, matching how sekkaku lists its pattern prereqs. Checked that E-nara exists in the list (nuance)."
+   },
+   {
+    "slug": "douse",
+    "change": "C7 interference: added the douse vs tonikaku 'anyway' trap (major, nuance). Widened 'looks ahead and expects the worst' to 'takes the outcome as settled in advance, usually the bad one'. 'that slot' now reads 'the ___ yatte miyou slot' so it points at the right frame. Replaced the confusing 'douse nara yatte miyou also means might as well' with a concrete example: douse matsu nara, kafe de matou (natural + form + nuance)."
+   },
+   {
+    "slug": "douse",
+    "change": "C7 label: 'Getting through, not wasting a chance' -> 'Getting through, giving up, not wasting a chance' so it covers douse (natural)."
+   },
+   {
+    "slug": "douse",
+    "change": "C7 rationale: 'shrug at an outcome you can't change' -> 'take an outcome as settled in advance'. This covers both the resigned and the neutral uses (nuance wording, over natural's 'write off')."
+   }
+  ],
+  "dropped": [],
+  "cat": "C"
+ },
+ {
+  "blocks": [
+   {
+    "label": "Like & dislike",
+    "rationale": "The ways to say how you feel about a thing, from love and like through 'not my thing' to dislike and can't stand; all take the X ga ___ frame.",
+    "interference": "kirai is a settled dislike of a thing or person; iya is a gut rejection, 'I don't want this / this is unpleasant', usually about what is happening now. Drill 'ame no hi, kirai' (rainy days in general) against 'mata ame? iya da naa' (the rain today). iya also sounds like the interjection iya ('no / well', G): the interjection is soft and opens a reply (iya, chigau yo), while the adjective is emphatic and stands alone or ends the sentence (iya!, iya da, iya na yokan). daisuki is just a stronger suki (dai- = big) on the same rainy-days sentence, so add it once suki is solid. nigate is the soft kirai on that same sentence (ame no hi, nigate = rainy days aren't my thing) and the safe choice about food or people, so add it after kirai. It also means 'bad at' about yourself (eigo ga nigate); its opposite is tokui (my strong point), while jouzu (good at, later block) is praise for someone else.",
+    "joinBlock": "D2",
+    "items": [
+     {
+      "slug": "nigate",
+      "romaji": "nigate",
+      "polite": "nigate desu",
+      "ja": "苦手",
+      "kana": "にがて",
+      "politeJa": "苦手です",
+      "english": "not my thing, bad at",
+      "use": "Says something isn't your thing: a food, a type of person, or a task you're weak at (X ga nigate). It is softer and safer than kirai, and it is the modest way to say you're bad at something (eigo ga nigate).",
+      "flags": [],
+      "contrastGroup": "suki-kirai-iya",
+      "example": {
+       "romaji": "ame no hi, nigate",
+       "ja": "雨の日、苦手",
+       "english": "Rainy days aren't really my thing."
+      },
+      "examplePolite": {
+       "romaji": "ame no hi ga nigate desu",
+       "ja": "雨の日が苦手です",
+       "english": "Rainy days aren't really my thing."
+      },
+      "freqRank": 980,
+      "freqNote": "苦手 #980",
+      "spread": 4,
+      "reach": 3,
+      "speakNeed": 4,
+      "prereqs": [
+       "D-kirai"
+      ],
+      "alsoIn": [
+       "vocab-trainer core-vocab: na-adjectives (extended)"
+      ],
+      "notes": "The opposite is tokui (my strong point). heta (bad at) is fine about yourself but blunt about other people, and nigate also hints you don't enjoy it. Don't mix it up with nigai (bitter): koohii, nigate = I'm not into coffee; koohii, nigai = the coffee's bitter."
+     }
+    ]
+   },
+   {
+    "label": "Glad, let down, worried",
+    "rationale": "Your own emotional reactions to news, to what's coming and to being noticed: glad, disappointed, looking forward, scared, worried, embarrassed.",
+    "interference": "kowai (scared) and shinpai (worried) share the exam-results sentence so only the feeling changes, and ureshii and zannen are paired replies to news. kowai also sounds like kawaii (cute, earlier block): three beats against four. tanoshimi (looking forward to it) is not tanoshii (fun, earlier block): say ryokou, tanoshimi before the trip and ryokou, tanoshikatta after it. hazukashii (embarrassed, shy) and ureshii are the two ways to take a compliment, bashful against pleased. hazukashii is one beat away from muzukashii (difficult, earlier block): ha-zu-ka-shii vs mu-zu-ka-shii, so add it once muzukashii is solid, then drill chotto hazukashii against chotto muzukashii and listen for ha- vs mu-.",
+    "joinBlock": "D9",
+    "items": [
+     {
+      "slug": "hazukashii",
+      "romaji": "hazukashii",
+      "polite": "hazukashii desu",
+      "ja": "恥ずかしい",
+      "kana": "はずかしい",
+      "politeJa": "恥ずかしいです",
+      "english": "embarrassed, embarrassing, shy",
+      "use": "Says you feel embarrassed or shy, or that something is embarrassing: after a mistake, at a compliment or when being watched ('hazukashii!', hazukashii kara yamete = stop, it's embarrassing).",
+      "flags": [],
+      "contrastGroup": null,
+      "example": {
+       "romaji": "chotto hazukashii na",
+       "ja": "ちょっと恥ずかしいな",
+       "english": "I'm a bit embarrassed."
+      },
+      "examplePolite": {
+       "romaji": "chotto hazukashii desu",
+       "ja": "ちょっと恥ずかしいです",
+       "english": "I'm a little embarrassed."
+      },
+      "freqRank": 672,
+      "freqNote": "恥ずかしい #672",
+      "spread": 4,
+      "reach": 3,
+      "speakNeed": 3,
+      "prereqs": [
+       "D-muzukashii"
+      ],
+      "alsoIn": [
+       "vocab-trainer core-vocab: i-adjectives"
+      ],
+      "notes": "About someone else or what they did, it is a criticism ('embarrassing, shameful'). For how someone else feels, say hazukashisou (looks embarrassed)."
+     }
+    ]
+   },
+   {
+    "label": "Size, length & amount",
+    "rationale": "How big or long something is and how much of it there is: the size and quantity scales, plus nagai for length and for time.",
+    "interference": "ookii (big) and ooi (many) both start with oo-: hito ga ooi means 'crowded', while ookii hito is 'a big person'. Within each pair, learn the first word before adding its opposite. nagai is length and duration (kami ga nagai, nagai aida = a long time), not overall size, and it shares ookii's 'kono X, chotto ___' sentence. For a long way (distance) say tooi (far), not nagai: eki made tooi.",
+    "joinBlock": "D10",
+    "items": [
+     {
+      "slug": "nagai",
+      "romaji": "nagai",
+      "polite": "nagai desu",
+      "ja": "長い",
+      "kana": "ながい",
+      "politeJa": "長いです",
+      "english": "long (length or time)",
+      "use": "Describes length (hair, lines, roads) and, just as often, duration: a long film, meeting or wait. nagai aida means 'for a long time'.",
+      "flags": [],
+      "contrastGroup": null,
+      "example": {
+       "romaji": "kono eiga, chotto nagai ne",
+       "ja": "この映画、ちょっと長いね",
+       "english": "This film's a bit long, huh."
+      },
+      "examplePolite": {
+       "romaji": "kono eiga wa chotto nagai desu ne",
+       "ja": "この映画はちょっと長いですね",
+       "english": "This film is a little long, isn't it?"
+      },
+      "freqRank": 467,
+      "freqNote": "長い #467",
+      "spread": 4,
+      "reach": 3,
+      "speakNeed": 3,
+      "prereqs": [],
+      "alsoIn": [
+       "11-list-adjectives #20",
+       "13-list-exit-battery #29 (in example)",
+       "vocab-trainer core-vocab: i-adjectives"
+      ],
+      "notes": "nagaku natte gomen = sorry this got long (a message or a talk); the opposite is mijikai (short)."
+     }
+    ]
+   },
+   {
+    "label": "Hot, cold, ouch, look out",
+    "rationale": "How the weather and your body feel, and when something is dangerous: hot, cold, it hurts and watch out. These are the daily small-talk openers and the reports and warnings you have to make on the spot.",
+    "interference": "atsui and samui are opposites with the same shape (three beats ending -ui) on the same sentence (kyou, ___ ne), so learn atsui first; per 11-list-adjectives note 9(a), keep samui at least 10 items after atsui in drill order even though they share a block. atsui covers hot air and hot things, but samui is only for the air and how you feel: a cold drink is tsumetai. itai (it hurts) sounds almost the same as iru + -tai (want to stay): atama ga itai vs zutto koko ni itai, and the words before it tell you which. abunai is the warning about the situation, while kowai (scared, later block) is the feeling: shout abunai! to stop someone. abunai ends in -nai but is not a negative (not dangerous = abunakunai), so per 11-list-adjectives #42 add it only once the -kunai negative is solid. As reflex shouts all four clip to the stem: atsu!, samu!, ita!, abuna!",
+    "joinBlock": "D12",
+    "items": [
+     {
+      "slug": "abunai",
+      "romaji": "abunai",
+      "polite": "abunai desu",
+      "ja": "危ない",
+      "kana": "あぶない",
+      "politeJa": "危ないです",
+      "english": "dangerous, risky, watch out!",
+      "use": "Warns of danger on the spot (abunai! = watch out!) and calls anything risky, from a road to a plan. It also says something is at risk (jikan, abunai = we might not make it; tesuto, abunai = I might fail). After a near miss, abunakatta = that was close.",
+      "flags": [],
+      "contrastGroup": null,
+      "example": {
+       "romaji": "soko, abunai yo! ki o tsukete",
+       "ja": "そこ、危ないよ！気をつけて",
+       "english": "Careful there! Watch out."
+      },
+      "examplePolite": {
+       "romaji": "soko, abunai desu yo. ki o tsukete kudasai",
+       "ja": "そこ、危ないですよ。気をつけてください",
+       "english": "It's dangerous there. Please be careful."
+      },
+      "freqRank": 513,
+      "freqNote": "危ない #513",
+      "spread": 4,
+      "reach": 3,
+      "speakNeed": 4,
+      "prereqs": [],
+      "alsoIn": [
+       "11-list-adjectives #42",
+       "vocab-trainer core-vocab: i-adjectives"
+      ],
+      "notes": "As a shout, abunai! is fine to anyone, strangers included, with no desu; abunee! is the rough, mostly male version. 'Not dangerous' is abunakunai."
+     }
+    ]
+   }
+  ],
+  "changelog": [
+   {
+    "slug": "hazukashii",
+    "change": "D9 interference (major, natural + nuance): replaced the weak 'ha-zu-ka-shii vs u-re-shii' sound note with the real near-twin muzukashii (earlier block, one beat apart). Learn it after muzukashii, then drill chotto hazukashii against chotto muzukashii. Kept the compliment sentence."
+   },
+   {
+    "slug": "hazukashii",
+    "change": "prereqs: added D-muzukashii to match the new drill-order guard."
+   },
+   {
+    "slug": "hazukashii",
+    "change": "notes (nuance): about someone else it is a criticism ('shameful'); for another person's feelings say hazukashisou."
+   },
+   {
+    "slug": "nigate",
+    "change": "D2 interference (all three reviews): no longer pairs nigate with jouzu as opposites. The opposite is now tokui, jouzu is described as praise for others, and '(D13)' became 'later block' to match house style."
+   },
+   {
+    "slug": "nigate",
+    "change": "notes (natural + nuance): heta is fine about yourself but blunt about others, and nigate hints at not enjoying it. Added the nigai (bitter) ear trap with a coffee pair."
+   },
+   {
+    "slug": "nagai",
+    "change": "D10 interference (nuance + form): swapped the 'tall person = se ga takai (D8)' sentence for the real English-transfer error, a long way = tooi (eki made tooi), which also removes the block-ID reference."
+   },
+   {
+    "slug": "nagai",
+    "change": "alsoIn: exit-battery pointer is now '13-list-exit-battery #29 (in example)'."
+   },
+   {
+    "slug": "abunai",
+    "change": "english (nuance): 'dangerous, watch out, close call' -> 'dangerous, risky, watch out!' ('close call' is abunakatta)."
+   },
+   {
+    "slug": "abunai",
+    "change": "use (nuance): added the at-risk sense (jikan, abunai; tesuto, abunai) and kept abunakatta for a near miss."
+   },
+   {
+    "slug": "abunai",
+    "change": "example/examplePolite (natural): polite is now a calm warning about a place (soko, abunai desu yo. ki o tsukete kudasai), and the casual example matches it (soko, abunai yo! ki o tsukete)."
+   },
+   {
+    "slug": "abunai",
+    "change": "D12 interference (form + natural + nuance): 'kowai (D9)' -> 'kowai (scared, later block)'. Added a drill-order guard: abunai is not a negative, so per 11-list-adjectives #42 add it only once the -kunai negative is solid."
+   },
+   {
+    "slug": "abunai",
+    "change": "notes (nuance): the shout needs no desu and can go to anyone; mentions abunee! as the rough, mostly male form. Kept the abunakunai point."
+   }
+  ],
+  "dropped": [],
+  "cat": "D"
+ },
+ {
+  "blocks": [
+   {
+    "label": "Depends / without / instead / for / so that",
+    "rationale": "Linkers that do the job of an English preposition or 'so that': depends on X, without doing X, instead of X, in order to / for X, so that (not) X.",
+    "interference": "-naide (without) vs -nakute (because not). -naide and -kawari ni both come out as 'instead of': -naide follows verbs only and also means 'without' (kasa motanaide deta, where kawari ni can't go), while kawari ni also follows nouns (koohii no kawari ni ocha) and can mean 'in return' (oshiete kureru kawari ni ogoru; sentence-initial sono kawari = 'but in return'). -tame ni (purpose, an action you choose) vs -you ni (so that): after potentials and verbs you don't control only you ni sounds right (hanaseru you ni, maniau you ni, not hanaseru tame ni); after -nai, you ni is the everyday choice (wasurenai you ni) and -nai tame ni sounds stiff. Listen around it: noun + no you ni is 'like' (yume no you ni), itta you ni is 'like I said', and you ni naru / you ni iu mean 'come to' / 'tell someone to'; they all sound the same.",
+    "joinBlock": "E8",
+    "items": [
+     {
+      "slug": "kawari-ni",
+      "romaji": "-kawari ni",
+      "polite": null,
+      "ja": "代わりに",
+      "kana": "かわりに",
+      "politeJa": null,
+      "english": "instead (of); in return (for)",
+      "use": "Puts one thing in place of another: noun + no kawari ni = 'instead of X' (koohii no kawari ni ocha), plain verb + kawari ni = 'instead of doing' or 'in return for doing' (oshiete kureru kawari ni, ogoru yo = teach me and I'll buy you dinner). At the start of a sentence sono kawari (no ni) sets a condition, 'but in return' (ii yo. sono kawari, ashita tetsudatte ne), or balances a downside, 'to make up for it' (takai kedo, sono kawari oishii).",
+      "flags": [],
+      "contrastGroup": null,
+      "example": {
+       "romaji": "watashi no kawari ni itte kureru?",
+       "ja": "私の代わりに行ってくれる？",
+       "english": "Can you go in my place?"
+      },
+      "examplePolite": {
+       "romaji": "watashi no kawari ni itte kuremasen ka?",
+       "ja": "私の代わりに行ってくれませんか？",
+       "english": "Could you go in my place?"
+      },
+      "freqRank": 1457,
+      "freqNote": "代わりに #1457 (exact form); bare noun 代わり #870 and その代わり #2876 are separate entries; homophone 変わる #226",
+      "spread": 4,
+      "reach": 4,
+      "speakNeed": 3,
+      "prereqs": [],
+      "alsoIn": [],
+      "notes": "Same sound as kawaru 'change' (H-kawaru) and its noun kawari (kawari nai? = how've you been?), but this kawari comes from the other kawaru, 'take someone's place' (kawarou ka? = want me to take over?). Said alone, kawari ni = 'instead' (kawari ni yattoku yo = I'll do it instead); kawari alone = a replacement (kawari ga inai). okawari = seconds / a refill. Even in polite speech the verb before it stays plain: iku kawari ni denwa shimashita, not ikimasu kawari ni."
+     }
+    ]
+   }
+  ],
+  "changelog": [
+   {
+    "slug": "kawari-ni",
+    "change": "freqRank 870 -> 1457 (exact form 代わりに, re-verified with the tool); freqNote rewritten: 代わり #870 and その代わり #2876 are separate entries, homophone 変わる #226. The false 'includes sono kawari' claim is removed."
+   },
+   {
+    "slug": "kawari-ni",
+    "change": "use rewritten: verb + kawari ni can also mean 'in return for doing' (oshiete kureru kawari ni, ogoru yo). Sentence-initial sono kawari (no ni) is now shown both as a condition ('but in return') and as 'to make up for it' (takai kedo, sono kawari oishii)."
+   },
+   {
+    "slug": "kawari-ni",
+    "change": "english gloss 'in exchange (for)' -> 'in return (for)' so the gloss, use and E8 interference all say the same thing."
+   },
+   {
+    "slug": "kawari-ni",
+    "change": "example English -> 'Can you go in my place?'. examplePolite -> 'watashi no kawari ni itte kuremasen ka?' / 'Could you go in my place?' (negative question for asking a favour)."
+   },
+   {
+    "slug": "kawari-ni",
+    "change": "notes rewritten: this kawari comes from 代わる 'take someone's place', not 変わる 'change'. Added kawari nai?, okawari, bare kawari ni = 'instead', kawari alone = replacement, and a reminder that the verb stays plain even in polite speech."
+   },
+   {
+    "slug": "kawari-ni",
+    "change": "ja/kana: dropped the leading 〜 to match category E (代わりに / かわりに)."
+   },
+   {
+    "slug": "kawari-ni",
+    "change": "spread 5 -> 4 and speakNeed 4 -> 3 to match its E8 neighbours (-tame ni, -naide); reach stays 4."
+   },
+   {
+    "slug": "kawari-ni",
+    "change": "E8 interference: the -naide vs kawari ni sentence now shows where they really differ: -naide = 'without' and follows verbs only (kasa motanaide deta); kawari ni also follows nouns and can mean 'in return'. Sentence-initial 'sono kawari' is written without ni. All old E8 interference text is kept."
+   },
+   {
+    "slug": "kawari-ni",
+    "change": "Not applied here, because existing items can't be edited in this output, so the orchestrator should handle them: (1) reorder E8 to E-ni-yoru, E-nai-de, E-kawari-ni, E-tame-ni, E-you-ni; (2) optional shared contrastGroup 'naide-kawari-ni' on both E-nai-de and E-kawari-ni (left null here so the group doesn't have only one member); (3) id E-kawari-ni bookkeeping: remove it from the cuts pool and update E8's range/n numbering. Slug kept as 'kawari-ni' as instructed."
+   }
+  ],
+  "dropped": [],
+  "cat": "E"
+ },
+ {
+  "blocks": [
+   {
+    "label": "How sure",
+    "rationale": "A ladder of certainty from 'maybe' through 'should be' to 'no way', all on one base sentence about someone arriving.",
+    "interference": "From least to most sure: kamo (could go either way), to omou (my opinion), n ja nai (I'd guess), hazu (should, by reasoning); wake nai is just as sure in the other direction (no way). hazu is about what you expect: not your own plans, which take tsumori, and never advice, which takes -ta hou ga ii. hazu ga nai also means 'can't be', but calmly, by reasoning; wake nai is the everyday, emphatic one. wake nai and wake ja nai both deny, but one ja softens it: kirai na wake nai = no way I'd hate it, kirai na wake ja nai (kedo) = it's not that I hate it (but...).",
+    "joinBlock": "F6",
+    "items": [
+     {
+      "slug": "wake-nai",
+      "romaji": "wake nai",
+      "polite": "wake nai desu",
+      "ja": "わけない",
+      "kana": "わけない",
+      "politeJa": "わけないです",
+      "english": "no way (that...) / can't possibly",
+      "use": "Flatly rules something out as impossible or absurd ('no way', 'as if'). On its own it makes the stock retort sonna wake nai (jan)! = no way / that can't be. It goes on any plain clause, often with jan or desho (wakaru wake nai jan = how would I know?), and nouns and na-adjectives take na before it (uso na wake nai, hima na wake nai).",
+      "flags": [],
+      "contrastGroup": "certainty",
+      "example": {
+       "romaji": "mada tsuku wake nai yo",
+       "ja": "まだ着くわけないよ",
+       "english": "No way they'll be here yet."
+      },
+      "examplePolite": {
+       "romaji": "mada tsuku wake nai desu yo",
+       "ja": "まだ着くわけないですよ",
+       "english": "There's no way they'll be here yet."
+      },
+      "freqRank": 449,
+      "freqNote": "わけない #449 (token also covers the adjective 訳ない 'easy', whose kanji spelling is #8290); わけがない #2398; cf. はずない #2095, はずがない #2504",
+      "spread": 5,
+      "reach": 4,
+      "speakNeed": 3,
+      "prereqs": [
+       "F-hazu",
+       "I-wake-ja-nai"
+      ],
+      "alsoIn": [],
+      "notes": "One ja softens it rather than flipping it: kirai na wake ja nai (kedo) = it's not that I hate it (but...). The same word is also an adjective meaning 'easy, no trouble': sonna no wake nai yo = that's nothing, one 'no' away from sonna wake nai yo = no way. Even in polite speech it flatly contradicts, so don't aim it at a superior's idea (say sore wa chotto... instead). The careful polite form is wake ga arimasen."
+     }
+    ]
+   }
+  ],
+  "changelog": [
+   {
+    "slug": "wake-nai",
+    "change": "Dropped the leading hyphen and 〜 (romaji 'wake nai', ja/kana 'わけない') so it matches hazu, kamo and wake da, which are free clause-final words (all three reviews)."
+   },
+   {
+    "slug": "wake-nai",
+    "change": "Polite form changed from 'wake ga nai desu' to 'wake nai desu' / わけないです, the everyday spoken form and parallel to the casual one (native-naturalness view wins on wording). examplePolite is now 'mada tsuku wake nai desu yo' / まだ着くわけないですよ. The careful form 'wake ga arimasen' moved to notes."
+   },
+   {
+    "slug": "wake-nai",
+    "change": "F6 interference: removed the false claim that wake nai is the 'opposite' of wake ja nai (major). Both deny, and ja only softens a flat denial into a partial one. Added how it differs from hazu ga nai (calm, reasoned) and kept the old F6 text."
+   },
+   {
+    "slug": "wake-nai",
+    "change": "use: added the stock retort 'sonna wake nai (jan)!' and a noun example (uso na wake nai)."
+   },
+   {
+    "slug": "wake-nai",
+    "change": "notes: 'ja flips it' became 'ja softens it'. Added the trap with 訳ない 'easy' (sonna no wake nai yo = that's nothing), the warning not to aim it at a superior's idea, and the careful polite form wake ga arimasen."
+   },
+   {
+    "slug": "wake-nai",
+    "change": "freqNote: re-checked with the tool (わけない #449, 訳ない #8290, わけがない #2398, はずない #2095, はずがない #2504). It now says the #449 token also counts the 'easy' adjective, and はずない is added as the fairer comparison."
+   },
+   {
+    "slug": "hazu",
+    "change": "NOT APPLIED (existing F6 item; a join returns only new items). Flagged for the orchestrator: F-hazu's alsoIn pointer '12-list-te-dependents #37' is wrong. A grep confirms #37 is '-ta hoo ga ii — advice' and hazu does not appear in that file. Fix: alsoIn = [\"05-acquisition-order: copula allomorph table\"]."
+   }
+  ],
+  "dropped": [],
+  "cat": "F"
+ },
+ {
+  "blocks": [
+   {
+    "label": "Hello and goodbye",
+    "rationale": "Fixed greetings for the time of day, first meetings, phone calls and leaving.",
+    "interference": "hajimemashite opens a first meeting and yoroshiku closes it. konnichiwa is for people you aren't close to; with friends, say ohayou in the morning and otherwise just start talking. moshimoshi is the hello for phone and video calls, not for greeting someone in person.",
+    "joinBlock": "G3",
+    "items": [
+     {
+      "slug": "moshimoshi",
+      "romaji": "moshimoshi",
+      "polite": null,
+      "ja": "もしもし",
+      "kana": "もしもし",
+      "politeJa": null,
+      "english": "hello? (on the phone)",
+      "use": "Opens a phone or video call, and checks the line when the other person goes quiet or the sound cuts out; it isn't used to greet someone in person.",
+      "flags": [
+       "fixed-phrase"
+      ],
+      "contrastGroup": null,
+      "example": {
+       "romaji": "moshimoshi, ima daijoubu?",
+       "ja": "もしもし、今大丈夫？",
+       "english": "Hello? Can you talk now?"
+      },
+      "examplePolite": {
+       "romaji": "moshimoshi, ima daijoubu desu ka?",
+       "ja": "もしもし、今大丈夫ですか？",
+       "english": "Hello, is now a good time?"
+      },
+      "freqRank": 442,
+      "freqNote": "もしもし #442",
+      "spread": 2,
+      "reach": 1,
+      "speakNeed": 4,
+      "prereqs": [],
+      "alsoIn": [],
+      "notes": "Checking the line: moshimoshi? kikoeru? (hello? can you hear me?). When you answer a work phone, say hai, [name] desu rather than moshimoshi. Face to face it's either a joking 'hello? anyone home?' or an older speaker's 'excuse me' to a stranger."
+     }
+    ]
+   },
+   {
+    "label": "Surprise",
+    "rationale": "Quick reactions to the unexpected, from puzzlement to disbelief, plus bikkuri shita to say something surprised you.",
+    "interference": "e? reacts to something you just heard, while are? reacts to something you notice. honto? asks whether it's true, while uso! exclaims that it can't be. bikkuri shita says it surprised you (or made you jump), so you can also use it later when you tell someone about it.",
+    "joinBlock": "G5",
+    "items": [
+     {
+      "slug": "bikkuri-shita",
+      "romaji": "bikkuri shita",
+      "polite": "bikkuri shimashita",
+      "ja": "びっくりした",
+      "kana": "びっくりした",
+      "politeJa": "びっくりしました",
+      "english": "that surprised me; you startled me",
+      "use": "The everyday way to say something surprised you, whether it's news you heard or someone making you jump. It works in the moment and also when you tell the story later.",
+      "flags": [],
+      "contrastGroup": "surprise",
+      "example": {
+       "romaji": "kekkon suru tte kiite, bikkuri shita yo.",
+       "ja": "結婚するって聞いて、びっくりしたよ。",
+       "english": "I was surprised to hear you're getting married."
+      },
+      "examplePolite": {
+       "romaji": "kekkon suru tte kiite, bikkuri shimashita yo.",
+       "ja": "結婚するって聞いて、びっくりしましたよ。",
+       "english": "I was surprised to hear you're getting married."
+      },
+      "freqRank": 1488,
+      "freqNote": "びっくりした #1488; びっくり #1350",
+      "spread": 5,
+      "reach": 3,
+      "speakNeed": 4,
+      "prereqs": [],
+      "alsoIn": [
+       "vocab-trainer core-vocab: na-adjectives"
+      ],
+      "notes": "Like yokatta, it stays past even in the moment. After a jump scare you say aa, bikkuri shita! (you scared me!). The non-past bikkuri suru looks ahead: bikkuri suru yo (you'll be surprised). Mark what surprised you with ni: sono nyuusu ni bikkuri shita."
+     }
+    ]
+   },
+   {
+    "label": "Phrases for occasions",
+    "rationale": "Fixed phrases tied to a particular moment: meals, bedtime, the end of shared work, someone heading out, and seeing someone again.",
+    "interference": "itadakimasu comes before eating and gochisousama after. oyasumi, otsukare and ki o tsukete are all sign-offs: oyasumi for the night, otsukare after work or study together, and ki o tsukete as someone heads out (it also works as a warning: 'careful!'). hisashiburi greets someone you're meeting again and is never a goodbye.",
+    "joinBlock": "G13",
+    "items": [
+     {
+      "slug": "ki-o-tsukete",
+      "romaji": "ki o tsukete",
+      "polite": "ki o tsukete kudasai",
+      "ja": "気をつけて",
+      "kana": "きをつけて",
+      "politeJa": "気をつけてください",
+      "english": "take care, be careful",
+      "use": "Said to anyone heading off (going home at night, driving, on a trip), and as a warning ('careful!'). Adding ne (ki o tsukete ne) makes it warmer.",
+      "flags": [
+       "fixed-phrase"
+      ],
+      "contrastGroup": "sign-offs",
+      "example": {
+       "romaji": "jaa, mata ashita. ki o tsukete ne.",
+       "ja": "じゃあ、また明日。気をつけてね。",
+       "english": "Okay, see you tomorrow. Take care."
+      },
+      "examplePolite": {
+       "romaji": "jaa, mata ashita. ki o tsukete kudasai ne.",
+       "ja": "じゃあ、また明日。気をつけてくださいね。",
+       "english": "Well, see you tomorrow. Please take care."
+      },
+      "freqRank": 1735,
+      "freqNote": "気をつけて #1735 (気を付けて #2563 counted separately); verb 気をつける #1226",
+      "spread": 4,
+      "reach": 2,
+      "speakNeed": 4,
+      "prereqs": [],
+      "alsoIn": [
+       "10-list-nouns note 4 (ki deferred to collocations)"
+      ],
+      "notes": "You learn this one as a set phrase. The verb ki o tsukeru comes later (H-ki-o-tsukeru) and adds ki o tsukete kaette ne (get home safe) and ki o tsukemasu (I'll be careful). As a warning it's often shouted on its own: abunai, ki o tsukete! To see off a customer or a senior, say oki o tsukete (お気をつけて), often as oki o tsukete okaeri kudasai, because bare ki o tsukete kudasai sounds more like an instruction."
+     }
+    ]
+   }
+  ],
+  "changelog": [
+   {
+    "slug": "ki-o-tsukete",
+    "change": "prereqs changed from [H-ki-o-tsukeru] to []. That prereq pointed forward from a stage-1 block (G13) to a stage-2 item (H8, #212), and like itadakimasu the phrase is learned as a chunk (major, all three reviews)."
+   },
+   {
+    "slug": "ki-o-tsukete",
+    "change": "Notes rewritten so they point forward. The phrase comes first and the verb card comes later, adding ki o tsukete kaette ne and ki o tsukemasu. I also added oki o tsukete (oki o tsukete okaeri kudasai) for seeing off a customer or senior, and noted that bare ki o tsukete kudasai sounds like an instruction."
+   },
+   {
+    "slug": "ki-o-tsukete",
+    "change": "The use line now says the phrase fits anyone heading off (home at night, driving, on a trip). Before, it read 'especially on a trip or in bad weather'."
+   },
+   {
+    "slug": "ki-o-tsukete",
+    "change": "Examples now use the sign-offs base sentence (jaa, mata ashita. ki o tsukete ne / ki o tsukete kudasai ne), matching oyasumi. This also ends the near-duplicate of E-kara's polite example."
+   },
+   {
+    "slug": "ki-o-tsukete",
+    "change": "alsoIn: added '10-list-nouns note 4 (ki deferred to collocations)'. It was checked against 10-list-nouns and matches the pointer the H8 sibling uses."
+   },
+   {
+    "slug": "ki-o-tsukete",
+    "change": "Not applied here because H8 isn't part of this output: when merging, add G-ki-o-tsukete to H-ki-o-tsukeru's prereqs next to F-te-request, so the verb card builds on the chunk."
+   },
+   {
+    "slug": "bikkuri-shita",
+    "change": "Examples now use the surprise group's base: kekkon suru tte kiite, bikkuri shita yo / bikkuri shimashita yo. This keeps the telling-it-later use, and 'so surprised' became plain 'surprised' in the English."
+   },
+   {
+    "slug": "bikkuri-shita",
+    "change": "Notes: added the past-tense trap. Like yokatta, bikkuri shita stays past even in the moment, and bikkuri suru looks ahead (bikkuri suru yo = you'll be surprised). The jump-scare and ni lines are kept."
+   },
+   {
+    "slug": "moshimoshi",
+    "change": "examplePolite now ends as a question: 'ka?' / 'か？'."
+   },
+   {
+    "slug": "moshimoshi",
+    "change": "The last sentence of the G3 interference changed from 'never face to face' to 'not for greeting someone in person', which no longer contradicts the item's notes about the joking use and an older speaker addressing a stranger."
+   },
+   {
+    "slug": "moshimoshi",
+    "change": "Notes: added 'when you answer a work phone, say hai, [name] desu' and the older-speaker 'excuse me' to a stranger."
+   },
+   {
+    "slug": "moshimoshi",
+    "change": "Bookkeeping for the merge: store the ids as G-moshimoshi, G-bikkuri-shita and G-ki-o-tsukete, and remove their three 'maybe' entries from cuts in 20-list-versatile.json."
+   }
+  ],
+  "dropped": [],
+  "cat": "G"
+ },
+ {
+  "blocks": [
+   {
+    "joinBlock": "H14",
+    "label": "Take, put, cost, call, enough",
+    "rationale": "Wide-reach light verbs whose meaning comes from the object: toru (take, pass, get), dasu (put out, take out, hand in, pay) and its opposite ireru (put in, include, make tea), kakaru (time or money it takes), kakeru (cause trouble, call, spend, put on), plus tariru for whether what you have is enough.",
+    "interference": "'It takes an hour' is kakaru, not toru; kakaru (it takes, ga) and kakeru (spend, call, o) are an intransitive/transitive pair: jikan ga kakaru vs jikan o kakeru. dasu is likewise the transitive partner of deru, and ireru of hairu: uchi o deta (I left home) vs gomi o dashita (I put the trash out), heya ni haitta (I went in) vs kaban ni ireta (I put it in the bag). kakaru says how much something takes and tariru whether you have that much (kekkou kakaru kedo, okane tariru?).",
+    "items": [
+     {
+      "slug": "ireru",
+      "romaji": "ireru",
+      "polite": "iremasu",
+      "ja": "入れる",
+      "kana": "いれる",
+      "politeJa": "入れます",
+      "english": "put in; include; make (tea); turn on",
+      "use": "Puts something into something else, with the thing marked by o and the place by ni (kaban ni ireru); it also covers making tea or coffee, letting someone into a group or plan (watashi mo irete), and switching something on.",
+      "flags": [],
+      "contrastGroup": "hairu-ireru",
+      "example": {
+       "romaji": "koohii ni satou ireru?",
+       "ja": "コーヒーに砂糖入れる？",
+       "english": "Do you take sugar in your coffee?"
+      },
+      "examplePolite": {
+       "romaji": "koohii ni osatou iremasu ka?",
+       "ja": "コーヒーにお砂糖入れますか？",
+       "english": "Would you like sugar in your coffee?"
+      },
+      "freqRank": 222,
+      "freqNote": "入れる #222; 淹れる (making tea/coffee) #19863 listed separately",
+      "spread": 5,
+      "reach": 4,
+      "speakNeed": 4,
+      "prereqs": [
+       "H-hairu"
+      ],
+      "alsoIn": [
+       "13-list-exit-battery #52"
+      ],
+      "notes": "Ichidan (irete, ireta), unlike its godan partner hairu (haitte, haitta)."
+     },
+     {
+      "slug": "tariru",
+      "romaji": "tariru",
+      "polite": "tarimasu",
+      "ja": "足りる",
+      "kana": "たりる",
+      "politeJa": "足ります",
+      "english": "be enough (tarinai: not enough)",
+      "use": "Says whether there's enough money, time, food or people, with the thing marked by ga; you mostly hear it as tarinai (not enough) and in the question tariru? (kore de tariru?).",
+      "flags": [],
+      "contrastGroup": null,
+      "example": {
+       "romaji": "jikan zenzen tarinai.",
+       "ja": "時間全然足りない。",
+       "english": "There's nowhere near enough time."
+      },
+      "examplePolite": {
+       "romaji": "jikan ga zenzen tarimasen.",
+       "ja": "時間が全然足りません。",
+       "english": "There's nowhere near enough time."
+      },
+      "freqRank": 764,
+      "freqNote": "足りる #764; 足りない #3974 separately (tokenizer mostly splits it into 足り + ない)",
+      "spread": 5,
+      "reach": 3,
+      "speakNeed": 4,
+      "prereqs": [
+       "I-nai-negative"
+      ],
+      "alsoIn": [],
+      "notes": "Also means 'short of' or 'missing': hitori tarinai = we're one person short. 'That's enough!' / 'no more, thanks' is mou ii, not tariru."
+     }
+    ]
+   },
+   {
+    "joinBlock": "H11",
+    "label": "Wrong, stuck, angry",
+    "rationale": "Reactions when something's off: it's different or wrong, I'm in a bind, I made a mistake, someone's angry about it.",
+    "interference": "chigau is a state (that's wrong / different) and machigaeru an act (I got it wrong): bangou chigau yo vs bangou machigaeta. okoru is also an act (getting angry), so 'she's angry' is okotteru and 'I got told off' is the passive okorareta; it sounds the same as okoru 'happen'.",
+    "items": [
+     {
+      "slug": "okoru",
+      "romaji": "okoru",
+      "polite": "okorimasu",
+      "ja": "怒る",
+      "kana": "おこる",
+      "politeJa": "怒ります",
+      "english": "get angry; tell off",
+      "use": "Says someone gets angry: the person you're angry at takes ni (tomodachi ni okotta), and the person you tell off takes o (kodomo o okoru); 'is angry' right now is okotteru, and the passive okorareta means 'got told off'.",
+      "flags": [],
+      "contrastGroup": null,
+      "example": {
+       "romaji": "mada okotteru no?",
+       "ja": "まだ怒ってるの？",
+       "english": "Are you still mad?"
+      },
+      "examplePolite": {
+       "romaji": "mada okotteru n desu ka?",
+       "ja": "まだ怒ってるんですか？",
+       "english": "Are you still angry?"
+      },
+      "freqRank": 381,
+      "freqNote": "怒る #381; homophone 起こる (happen) #936 listed separately",
+      "spread": 5,
+      "reach": 3,
+      "speakNeed": 4,
+      "prereqs": [
+       "I-teru"
+      ],
+      "alsoIn": [
+       "13-list-exit-battery #107"
+      ],
+      "notes": "okoranaide = don't be mad; sugu okoru = gets angry easily. Homophone 起こる 'happen' is a separate verb."
+     }
+    ]
+   }
+  ],
+  "changelog": [
+   {
+    "slug": "block:H14",
+    "change": "Label restored to cover kakeru: 'Take, put, cost, call, enough' (all three reviews)."
+   },
+   {
+    "slug": "block:H14",
+    "change": "Interference closing example changed from 'okane kakaru kedo, tariru?' to 'kekkou kakaru kedo, okane tariru?' so tariru has a clear subject (natural + nuance)."
+   },
+   {
+    "slug": "ireru",
+    "change": "examplePolite now uses the beautified osatou, written joined per kotoba's o-prefix spelling (omise, ogenki), not the reviewer's o-satou: 'koohii ni osatou iremasu ka?' / コーヒーにお砂糖入れますか？ / 'Would you like sugar in your coffee?' (natural)."
+   },
+   {
+    "slug": "ireru",
+    "change": "english gains 'turn on' to match the use line (nuance)."
+   },
+   {
+    "slug": "ireru",
+    "change": "contrastGroup set to 'hairu-ireru' (nuance). FOLLOW-UP: the existing H-hairu item in H3 needs the same contrastGroup; this output can't edit H3 items, so the merge has to apply it."
+   },
+   {
+    "slug": "tariru",
+    "change": "Both examples get terminal punctuation (. / 。) to match every other H example (form)."
+   },
+   {
+    "slug": "tariru",
+    "change": "notes add the English-speaker trap: 'That's enough!' / 'no more, thanks' is mou ii (G-mou-ii), not tariru (nuance)."
+   },
+   {
+    "slug": "okoru",
+    "change": "use now gives the o frame for telling someone off (kodomo o okoru) next to the ni frame (all three reviews; natural wording used)."
+   },
+   {
+    "slug": "okoru",
+    "change": "examplePolite changed to 'mada okotteru n desu ka?' / まだ怒ってるんですか？ to keep the no? -> n desu ka? mapping used across the list (nuance)."
+   },
+   {
+    "slug": "okoru",
+    "change": "notes swapped the repeated homophone warning for high-use forms: okoranaide, sugu okoru; homophone pointer kept short (nuance)."
+   },
+   {
+    "slug": "okoru",
+    "change": "NOT applied: the form review's slug rename to okoru-angry. The task says to keep slugs unchanged, so the slug stays okoru. If a separate okoru 'happen' is ever added, it will need a sense suffix."
+   }
+  ],
+  "dropped": [],
+  "cat": "H"
+ },
+ {
+  "blocks": [
+   {
+    "label": "Favours, passive, causative",
+    "rationale": "The giving/receiving triad that marks who benefits from an action, the everyday thanks built on kureru, the passive for things done to you (often unwanted), and the causative in its everyday jobs: -sasete for asking to do something yourself, and -sasete morau / -sasete kureru for being allowed to.",
+    "interference": "Same act, three viewpoints: tomodachi ga oshiete kureta / tomodachi ni oshiete moratta / tomodachi ni oshiete ageta. Kureru points toward the speaker, ageru away, and morau takes the receiver's view with the giver on ni. The passive keeps that ni frame, often for something unwanted: tomodachi ni tetsudatte moratta (glad) vs tomodachi ni okorareta (not glad), so a favour takes -te morau, not the passive. The ichidan passive sounds like the I3 potential (taberareru = can eat / gets eaten), while godan keeps them apart (ieru / iwareru); casual potentials often drop the ra (tabereru), passives never do. When you thank someone for an act, keep the kureru: oshiete kurete arigatou, never oshiete arigatou or oshiete agete arigatou. The causative swaps the passive's -are-/-rare- for -ase-/-sase- on the same stem (iwareta = I was told, iwasete = let me say), and -asete/-sasete asks to do it yourself where plain -te asks the other person: kangaete (you think it over) vs kangaesasete (let me think it over). Godan verbs never take the extra sa: yasumasete, not yasumasasete.",
+    "joinBlock": "I9",
+    "items": [
+     {
+      "slug": "sasete",
+      "romaji": "-asete / -sasete",
+      "polite": "-asete kudasai / -sasete kudasai",
+      "ja": "〜あせて／〜させて",
+      "kana": "〜あせて／〜させて",
+      "politeJa": "〜あせてください／〜させてください",
+      "english": "let me (do)",
+      "use": "Asks to be allowed to do something yourself: to have a go (yarasete, let me try), to offer (harawasete, let me pay) or to stall (chotto kangaesasete, let me think). Godan verbs change -u to -asete (yaru -> yarasete; after a vowel, -u becomes -wasete: harau -> harawasete), ichidan verbs swap -ru for -sasete (kangaeru -> kangaesasete), and the irregulars are sasete and kosasete.",
+      "flags": [],
+      "contrastGroup": null,
+      "example": {
+       "romaji": "kyou wa harawasete.",
+       "ja": "今日は払わせて。",
+       "english": "Let me pay this time."
+      },
+      "examplePolite": {
+       "romaji": "kyou wa harawasete kudasai.",
+       "ja": "今日は払わせてください。",
+       "english": "Let me pay this time."
+      },
+      "freqRank": null,
+      "freqNote": "no usable rank — judgement; the tokenizer folds the causative into the verb (auxiliaries せる #16515, させる #31829); only lexicalised forms rank on their own (待たせる #851, やらせる #7775, 休ませる #27904; short -asu forms やらす #4504, 待たす #7648); 払わせる, 考えさせる, 言わせる not found",
+      "spread": 4,
+      "reach": 4,
+      "speakNeed": 4,
+      "prereqs": [
+       "I-nai-negative",
+       "E-te-and"
+      ],
+      "alsoIn": [
+       "05-acquisition-order contested calls, month 8 (causative productive only in -sasete kudasai / -sasete morau)",
+       "13-list-exit-battery #104",
+       "13-list-exit-battery #105",
+       "13-list-exit-battery #106"
+      ],
+      "notes": "The stalling set phrase is chotto kangaesasete (polite: sukoshi kangaesasete kudasai). Two more everyday frames to produce: with gomen it apologises for what you put someone through (matasete gomen, shinpai sasete gomen; polite matasete sumimasen), and with the favour verbs it reports permission (kyou wa hayaku kaerasete moratta, I got to go home early today; kaerasete kureta, they let me go home). Casual speech often shortens godan -asete to -ashite (yarashite, iwashite); recognise it, but produce -asete. Making someone do something in general (kodomo ni yasai o tabesaseru) is recognition-only for now."
+     }
+    ]
+   }
+  ],
+  "changelog": [
+   {
+    "slug": "sasete",
+    "change": "ja/kana/politeJa now 〜あせて／〜させて and 〜あせてください／〜させてください: the godan あ matches the romaji -asete, and the full-width ／ follows I-passive and I-potential (all three lenses; form rated it major)."
+   },
+   {
+    "slug": "sasete",
+    "change": "prereqs: F-te-request replaced with E-te-and (form, major). F4 comes after I9, so merge.py would have dropped it silently as a forward prereq. E-te-and is the stage-1 te-form the other I9 items use."
+   },
+   {
+    "slug": "sasete",
+    "change": "notes rewritten (nuance, major). The old note made the whole causative recognition-only, which would block -sasete gomen (matasete gomen, shinpai sasete gomen; exit battery #104) and -sasete moratta / kureta (#106, productive in 05). Both are now named as frames to produce, and only 'make someone do' in general (kodomo ni yasai o tabesaseru) stays recognition-only. From natural: the polite stalling line is sukoshi kangaesasete kudasai, and casual -ashite (yarashite, iwashite) is to recognise, not produce."
+   },
+   {
+    "slug": "sasete",
+    "change": "romaji kept as -asete / -sasete to match I-passive's -areru / -rareru, so form's major cut-filter issue is not fixed here. FOR THE ORCHESTRATOR: merge.py line 139 removes cut rows only by exact romaji match, and the cut row I-sasete has romaji '-sasete', so it would stay in cuts alongside item I-sasete. Change the filter to also skip by id: `if x['id'] in ids or x['romaji'] in {...}: continue`. If merge.py should stay unchanged, set romaji to '-sasete' and polite to '-sasete kudasai' instead. I did not edit merge.py myself."
+   },
+   {
+    "slug": "sasete",
+    "change": "use: fixed the formation rule. 'On the -nai stem' would have given *harawaasete. It now uses I-passive's wording (-u -> -asete, vowel + u -> -wasete, -ru -> -sasete) and adds the kosasete irregular (nuance/form). From natural: added the have-a-go use (yarasete, let me try) and the chotto in chotto kangaesasete."
+   },
+   {
+    "slug": "sasete",
+    "change": "block interference (I9): the causative sentence now reads -are-/-rare- -> -ase-/-sase-, so it covers ichidan as well as godan. Added the godan extra-sa trap (yasumasete, not yasumasasete), as natural worded it. The rest of the I9 text is unchanged."
+   },
+   {
+    "slug": "sasete",
+    "change": "block rationale (I9): now ends with the causative's everyday jobs, -sasete for 'let me' and -sasete morau / -sasete kureru for being allowed to. This is the favour-verb link that justifies placing it in I9 (nuance)."
+   },
+   {
+    "slug": "sasete",
+    "change": "example English changed to 'Let me pay this time.' in both registers, because kyou wa is contrastive (natural). The Japanese is unchanged."
+   },
+   {
+    "slug": "sasete",
+    "change": "freqNote: added the godan auxiliary せる #16515 and the lexicalised forms that rank on their own: 待たせる #851, やらせる #7775, 休ませる #27904, plus the short -asu forms やらす #4504 and 待たす #7648, which back up the -ashite note. 払わせる, 考えさせる and 言わせる are not found. All re-checked with freq.py."
+   },
+   {
+    "slug": "sasete",
+    "change": "alsoIn: the 05 pointer now names where the claim is: the contested call 'How much passive and causative, and when?' (month 8). I used natural's 'contested calls' location, not form's 'S17–18', because the S17–18 stage row lists 'Evidentials, passive, transitivity pairs' and does not mention the causative. Exit battery #104, #105 and #106 were checked and kept."
+   }
+  ],
+  "dropped": [],
+  "cat": "I"
+ },
+ {
+  "blocks": [
+   {
+    "label": "How / this way",
+    "rationale": "The ko/so/do manner words plus dou yatte, dou iu and dou shita: how something went, how it is done, 'like that', what exactly is going on, and what's wrong.",
+    "interference": "dou asks for an opinion or report (dou datta?), dou yatte asks for the method (dou yatte iku?), dou iu koto? asks what's going on or what someone is getting at (once it's explained: aa, sou iu koto ka), and dou shita no? asks what has happened to you. dou iu asks what something is, donna (J7) what it is like: dou iu hito? = who is he to you, donna hito? = what's he like, and donna koto? = like what?; for what a word means, use dou iu imi? (G). The bare reply sou (sou da ne) is drilled in G, so the so- card here is sou iu.",
+    "joinBlock": "J6",
+    "items": [
+     {
+      "slug": "dou-iu",
+      "romaji": "dou iu",
+      "polite": null,
+      "ja": "どういう",
+      "kana": "どういう",
+      "politeJa": null,
+      "english": "what exactly (+ noun); dou iu koto? = how so? what's going on?",
+      "use": "Goes before a noun to ask what exactly something is: dou iu koto? (how so? what's going on?), dou iu hito? (who is he, exactly? how do you know him?), dou iu kankei? (how are you two connected?). It is the question partner of sou iu. To ask what a word means, use dou iu imi? (G).",
+      "flags": [],
+      "contrastGroup": "kou-sou-dou",
+      "example": {
+       "romaji": "e, dou iu koto? ashita konai no?",
+       "ja": "え、どういうこと？明日来ないの？",
+       "english": "Wait, what's going on? You're not coming tomorrow?"
+      },
+      "examplePolite": {
+       "romaji": "e, dou iu koto desu ka? ashita konai n desu ka?",
+       "ja": "え、どういうことですか？明日来ないんですか？",
+       "english": "Wait, what's going on? You're not coming tomorrow?"
+      },
+      "freqRank": 177,
+      "freqNote": null,
+      "spread": 5,
+      "reach": 4,
+      "speakNeed": 5,
+      "prereqs": [
+       "J-dou",
+       "J-sou-manner"
+      ],
+      "alsoIn": [
+       "vocab-trainer learner-phrases: frame_x_wa_douiu_imi",
+       "13-list-exit-battery #110"
+      ],
+      "notes": "dou iu koto? with a light rising tone is the everyday 'how so?'; said flat and hard it becomes 'what is the meaning of this?!', like dou iu wake? (see F-wake-da). With clerks and strangers, dou iu imi desu ka? (G) is the safe way to ask for clarification. In nihongo de dou iu? (how do you say it in Japanese?), iu is the verb 'say', not this word."
+     }
+    ]
+   }
+  ],
+  "changelog": [
+   {
+    "slug": "dou-iu",
+    "change": "english changed from 'what kind of; what do you mean' to 'what exactly (+ noun); dou iu koto? = how so? what's going on?'. The old halves were J-donna's prompt ('what kind of') and G-dou-iu-imi's prompt ('what do you mean?'), so either prompt had two answers (nuance/form, major; natural's gloss fix overruled on meaning). New example and examplePolite: 'e, dou iu koto? ashita konai no?' / 'e, dou iu koto desu ka? ashita konai n desu ka?' = 'Wait, what's going on? You're not coming tomorrow?'. The old English was word for word G-dou-iu-imi's example (nuance, major). This also drops natural's stiff 'sore wa' polite example. use: dou iu hito? is now 'who is he, exactly?', not 'what's he like?' (that is donna hito?); added dou iu kankei?; points word meaning to dou iu imi? (G) (all three lenses). J6 interference now sets dou iu against donna (dou iu hito vs donna hito, donna koto = like what?) (natural, major). It replaces the imprecise 'the answer is sou iu koto' with 'aa, sou iu koto ka' once explained (form) and sends word-meaning questions to G (nuance/form). Old dou, dou yatte, dou shita and sou iu text kept. J6 rationale: 'what exactly is meant' becomes 'what exactly is going on' (nuance). notes: tone warning (flat dou iu koto? = 'what is the meaning of this?!'), dou iu imi desu ka? as the safe polite ask, the dou + verb iu sound-alike, and a dou iu wake pointer to F-wake-da (natural/nuance/form). freqRank 177 re-verified (どういう #177); both alsoIn pointers re-verified. NOT APPLIED, since this output only carries the new item; apply in the merge if wanted: G-dou-iu-imi prereqs ['dou'] -> ['J-dou-iu']; J-dou alsoIn drop '13-list-exit-battery #110' and 'vocab-trainer learner-phrases: frame_x_wa_douiu_imi' (both are about dou iu imi), keeping '13-list-exit-battery #135'."
+   }
+  ],
+  "dropped": [],
+  "cat": "J"
+ }
+]

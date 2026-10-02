@@ -1,0 +1,226 @@
+{
+ "ano": [
+  {
+   "romaji": "ano",
+   "accent": "[0]",
+   "gloss": "um / excuse me (opener)",
+   "block": "wk3-4"
+  },
+  {
+   "romaji": "ano",
+   "accent": "[0]",
+   "gloss": "that ___ over there",
+   "block": "wk3-4"
+  }
+ ],
+ "yuu": [
+  {
+   "romaji": "yuu",
+   "accent": "[0]",
+   "gloss": "to say",
+   "block": "wk3-4"
+  },
+  {
+   "romaji": "yuu",
+   "accent": "[0]",
+   "gloss": "say",
+   "block": "wk4-6"
+  }
+ ],
+ "tonari": [
+  {
+   "romaji": "tonari",
+   "accent": "[0]",
+   "gloss": "next to (same kind of thing)",
+   "block": "wk3-4"
+  },
+  {
+   "romaji": "tonari",
+   "accent": "[0]",
+   "gloss": "next door, adjacent",
+   "block": "wk4-6"
+  }
+ ],
+ "yoko": [
+  {
+   "romaji": "yoko",
+   "accent": "[0]",
+   "gloss": "beside (lateral)",
+   "block": "wk3-4"
+  },
+  {
+   "romaji": "yoko",
+   "accent": "[0]",
+   "gloss": "side, beside",
+   "block": "wk4-6"
+  }
+ ],
+ "soba": [
+  {
+   "romaji": "soba",
+   "accent": "[1]",
+   "gloss": "right beside",
+   "block": "wk3-4"
+  },
+  {
+   "romaji": "soba",
+   "accent": "[1]",
+   "gloss": "beside",
+   "block": "wk4-6"
+  }
+ ],
+ "iru": [
+  {
+   "romaji": "iru",
+   "accent": "[0]",
+   "gloss": "exist (animate)",
+   "block": "wk4-6"
+  },
+  {
+   "romaji": "iru",
+   "accent": "[0]",
+   "gloss": "need, be necessary",
+   "block": "wk6-8-verbs"
+  }
+ ],
+ "ni": [
+  {
+   "romaji": "ni",
+   "accent": "-",
+   "gloss": "ni of existence (location of being)",
+   "block": "wk4-6"
+  },
+  {
+   "romaji": "ni",
+   "accent": "[1]",
+   "gloss": "two",
+   "block": "wk5-8-numbers"
+  }
+ ],
+ "e": [
+  {
+   "romaji": "e",
+   "accent": "[1]",
+   "gloss": "picture",
+   "block": "wk4-6"
+  },
+  {
+   "romaji": "e",
+   "accent": "-",
+   "gloss": "toward, in the direction of",
+   "block": "wk6-8-verbs"
+  }
+ ],
+ "yasumi": [
+  {
+   "romaji": "yasumi",
+   "accent": "[3]",
+   "gloss": "day off, rest",
+   "block": "wk4-6"
+  },
+  {
+   "romaji": "yasumi",
+   "accent": "[3]",
+   "gloss": "break, rest, day off",
+   "block": "wk6-8-verbs"
+  }
+ ],
+ "sen": [
+  {
+   "romaji": "sen",
+   "accent": "[1]",
+   "gloss": "line",
+   "block": "wk4-6"
+  },
+  {
+   "romaji": "sen",
+   "accent": "[1]",
+   "gloss": "one thousand",
+   "block": "wk5-8-numbers"
+  }
+ ],
+ "rokkai": [
+  {
+   "romaji": "rokkai",
+   "accent": "[1]",
+   "gloss": "sixth floor",
+   "block": "wk5-8-numbers"
+  },
+  {
+   "romaji": "rokkai",
+   "accent": "[1]",
+   "gloss": "six times",
+   "block": "wk5-8-numbers"
+  }
+ ],
+ "kiru": [
+  {
+   "romaji": "kiru",
+   "accent": "[1]",
+   "gloss": "cut",
+   "block": "wk6-8-verbs"
+  },
+  {
+   "romaji": "kiru",
+   "accent": "[0]",
+   "gloss": "wear, put on (torso)",
+   "block": "wk6-8-verbs"
+  }
+ ],
+ "yonde": [
+  {
+   "romaji": "yonde",
+   "accent": "[1]",
+   "gloss": "read-TE",
+   "block": "wk9-10-te"
+  },
+  {
+   "romaji": "yonde",
+   "accent": "[0]",
+   "gloss": "call-TE",
+   "block": "wk9-10-te"
+  }
+ ],
+ "katte": [
+  {
+   "romaji": "katte",
+   "accent": "[0]",
+   "gloss": "buy-TE",
+   "block": "wk9-10-te"
+  },
+  {
+   "romaji": "katte",
+   "accent": "[1]",
+   "gloss": "win-TE (katsu)",
+   "block": "wk9-10-te"
+  }
+ ],
+ "atte": [
+  {
+   "romaji": "atte",
+   "accent": "[1]",
+   "gloss": "meet-TE",
+   "block": "wk9-10-te"
+  },
+  {
+   "romaji": "atte",
+   "accent": "[1]",
+   "gloss": "exist-TE (inanimate)",
+   "block": "wk9-10-te"
+  }
+ ],
+ "kite": [
+  {
+   "romaji": "kite",
+   "accent": "[1]",
+   "gloss": "come-TE",
+   "block": "wk9-10-te"
+  },
+  {
+   "romaji": "kite",
+   "accent": "[0]",
+   "gloss": "wear-TE (kiru, ichidan)",
+   "block": "wk9-10-te"
+  }
+ ]
+}
