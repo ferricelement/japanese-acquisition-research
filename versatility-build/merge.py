@@ -1,12 +1,11 @@
 #!/usr/bin/env python3
 """Merge the main workflow result with the restored, re-added and maybe additions, fix known issues,
-renumber in course order, and write ../20-list-versatile.json, ../index.html (GitHub Pages) and
-artifact.html (the same page as a fragment for the claude.ai artifact)."""
+renumber in course order, and write ../20-list-versatile.json (which the Starlight site reads)
+and artifact.html (the single-page version for the claude.ai artifact)."""
 import json, re, sys, os
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 OUT_JSON = os.path.join(HERE, '..', '20-list-versatile.json')
-OUT_INDEX = os.path.join(HERE, '..', 'index.html')
 OUT_HTML = os.path.join(HERE, 'artifact.html')
 
 d = json.load(open(os.path.join(HERE, 'result.json')))
@@ -201,14 +200,7 @@ tpl = open(os.path.join(HERE, 'page-template.html')).read()
 blob = json.dumps(page_data, ensure_ascii=False, separators=(',', ':')).replace('</', '<\\/')
 page = tpl.replace('/*DATA*/', blob)
 open(OUT_HTML, 'w').write(page)
-# Pages needs a full document: title, fonts and styles go in <head>.
-split = page.index('<header class="top wrap">')
-open(OUT_INDEX, 'w').write(
-    '<!doctype html>\n<html lang="en">\n<head>\n<meta charset="utf-8">\n'
-    '<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">\n'
-    f'<meta name="description" content="{total} high-versatility Japanese words, endings and patterns, casual first with the polite form beside it.">\n'
-    + page[:split] + '</head>\n<body>\n' + page[split:] + '</body>\n</html>\n')
 
 print('\n'.join(log))
 print(f'total {total} items, {len(block_by_id)} chunks; stages {stage_counts}')
-print('wrote', *(f'{os.path.relpath(p, HERE)} ({os.path.getsize(p)} bytes)' for p in (OUT_JSON, OUT_INDEX, OUT_HTML)))
+print('wrote', *(f'{os.path.relpath(p, HERE)} ({os.path.getsize(p)} bytes)' for p in (OUT_JSON, OUT_HTML)))

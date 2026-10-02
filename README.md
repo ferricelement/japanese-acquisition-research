@@ -91,13 +91,27 @@ Published: https://claude.ai/artifact/FpmB4qyuKhsYdVTHMZdqBo
   nagai, abunai, -kawari ni, wake nai, moshimoshi, bikkuri shita, ki o tsukete, ireru, tariru, okoru, -sasete, dou iu).
   All joined existing chunks; 12 chunks now sit at the 6-item maximum.
 
-### Rebuilding the versatility list
+### The site
 
-`versatility-build/` holds everything `index.html` and `20-list-versatile.json` are generated from:
+The live site is an [Astro Starlight](https://starlight.astro.build) project at the repo root. It builds every page
+from `20-list-versatile.json`: one page per stage, one per category, the cuts, and the research notes above.
+`src/lib/data.ts` loads the list, `src/components/` renders chunks and entries, `src/pages/` holds the routes, and
+`src/content/docs/index.mdx` is the home page. Pushing to `main` deploys it through `.github/workflows/deploy.yml`.
+
+```bash
+npm install
+npm run dev       # http://localhost:4321/japanese-acquisition-research/
+npm run build     # static site + search index in dist/
+```
+
+### Rebuilding the data
+
+`versatility-build/` holds everything `20-list-versatile.json` is generated from:
 the workflow outputs (`result.json`, `additions-result.json`, `readds-result.json`, `maybes-result.json`),
 the cuts review (`cuts-full.json`, `cuts-verdicts.json`), stage placement for added chunks (`placement.json`),
-edits to existing items (`existing-edits.json`), the page template and the merge script.
-`workflow-main.js` is the original 75-agent workflow script, kept for reference.
+edits to existing items (`existing-edits.json`) and the merge script. It also writes `artifact.html`,
+a single-page version for the claude.ai artifact. `workflow-main.js` is the original 75-agent workflow script,
+kept for reference.
 
 ```bash
 cd versatility-build && python3 merge.py

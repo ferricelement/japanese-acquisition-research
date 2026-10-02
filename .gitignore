@@ -4,3 +4,7 @@ __pycache__/
 versatility-build/jiten_freq_Drama.csv
 # claude.ai artifact copy of index.html
 versatility-build/artifact.html
+# Astro
+node_modules/
+dist/
+.astro/

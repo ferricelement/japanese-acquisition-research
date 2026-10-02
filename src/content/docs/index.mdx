@@ -1,0 +1,52 @@
+---
+title: Japanese Versatility List
+description: The Japanese words, endings and patterns that work in almost any conversation. Casual form first, with the polite form beside it.
+template: splash
+head:
+  - tag: title
+    content: Japanese Versatility List
+hero:
+  tagline: The words, endings and patterns that work in almost any conversation. Casual form first, with the polite form beside it.
+  actions:
+    - text: Start with Stage 1
+      link: /japanese-acquisition-research/stages/1/
+      icon: right-arrow
+    - text: Browse by category
+      link: /japanese-acquisition-research/categories/time/
+      variant: minimal
+---
+
+import { CardGrid, LinkCard } from '@astrojs/starlight/components';
+import { categories, data, url as siteUrl } from '../../lib/data';
+
+{data.stats.total} items in {data.stats.chunks} chunks of 3 to 6, ordered into four stages. Each stage mixes every category, so each one adds new kinds of things you can say.
+
+## Stages
+
+<CardGrid>
+	{data.stages.map((s, i) => (
+		<LinkCard title={`${s.name} · ${s.items} items`} description={s.summary} href={siteUrl(`stages/${i + 1}/`)} />
+	))}
+</CardGrid>
+
+## Categories
+
+<CardGrid>
+	{categories.map((c) => (
+		<LinkCard title={`${c.name} · ${c.items}`} description={c.scope.charAt(0).toUpperCase() + c.scope.slice(1) + '.'} href={siteUrl(`categories/${c.slug}/`)} />
+	))}
+</CardGrid>
+
+## Reading an entry
+
+- **Romaji first.** The large word is the casual form, the one to learn first. The smaller word marked *polite* is its desu/masu form, for coworkers, shop staff and strangers.
+- **#150** is the word's rank among the most frequent words in 3,030 Japanese TV dramas. Lower means more common. An asterisk means the counting tool splits that form, so the rank is approximate.
+- **Tags** such as *masculine*, *slang* or *+ negative* tell you who says it or what it needs.
+- **Tap an entry** to see what it does, a casual and a polite example sentence, mix-ups to watch for, and what to learn first. *Play* reads the Japanese aloud when your browser has a Japanese voice.
+- **Search** (top of the page) finds romaji, English or Japanese across every page.
+
+## How it was built
+
+A 75-agent workflow gathered candidates for ten categories and ranked each one with real spoken frequency data. It then hunted for gaps and had three independent judges pick the list. Every entry was written up and checked three ways: whether a native speaker would say it, whether the meaning is right, and whether the romaji and grammar are correct. A second review of the {data.cuts.length + 60} cut candidates brought 60 back. The [Cuts](/japanese-acquisition-research/cuts/) page shows the rest, with the reason for each.
+
+Romaji follows kotoba's spelling: no macrons, long vowels written out (*sou*, *daijoubu*, *kotchi*). The full data is available as [20-list-versatile.json](/japanese-acquisition-research/20-list-versatile.json). Frequency ranks come from [jiten.moe](https://jiten.moe/frequency-dictionaries) (CC BY-SA 4.0).

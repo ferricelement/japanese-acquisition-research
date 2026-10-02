@@ -1,0 +1,44 @@
+---
+import { readdirSync, statSync } from 'node:fs';
+import StarlightPage from '@astrojs/starlight/components/StarlightPage.astro';
+import { RESEARCH_DOCS } from '../../lib/slugs.mjs';
+
+export function getStaticPaths() {
+	const mods = import.meta.glob<{ Content: any; getHeadings: () => { depth: number; slug: string; text: string }[] }>(
+		['/README.md', '/02-completeness-critique.md', '/14-input-rebalance.md', '/15-separation-rule.md', '/deck-wk3-10/build-note.md'],
+		{ eager: true },
+	);
+	return RESEARCH_DOCS.map((d) => ({ params: { doc: d.slug || undefined }, props: { doc: d, mod: mods[d.file] } }));
+}
+
+const { doc, mod } = Astro.props;
+const { Content } = mod;
+const headings = mod.getHeadings().filter((h) => h.depth >= 2 && h.depth <= 3);
+
+// The overview also lists every research file, linked on GitHub.
+const REPO = 'https://github.com/ferricelement/japanese-acquisition-research/blob/main/';
+const files = doc.slug === ''
+	? ['.', 'deck-wk3-10'].flatMap((dir) =>
+			readdirSync(dir)
+				.filter((f) => /\.(csv|json|md|html)$/.test(f) && !/^(package|tsconfig)/.test(f) && f !== 'README.md')
+				.map((f) => (dir === '.' ? f : `${dir}/${f}`))
+				.filter((f) => statSync(f).isFile())
+				.sort(),
+		)
+	: [];
+---
+
+<StarlightPage
+	frontmatter={{ title: doc.title }}
+	headings={files.length ? [...headings, { depth: 2, slug: 'all-files', text: 'All files' }] : headings}
+>
+	<div class="vl-doc"><Content /></div>
+	{files.length > 0 && (
+		<>
+			<h2 id="all-files">All files</h2>
+			<ul>
+				{files.map((f) => <li><a href={REPO + f}>{f}</a> <span class="vl-size">{Math.max(1, Math.round(statSync(f).size / 1024))} KB</span></li>)}
+			</ul>
+		</>
+	)}
+</StarlightPage>

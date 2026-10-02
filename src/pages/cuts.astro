@@ -1,0 +1,57 @@
+---
+import StarlightPage from '@astrojs/starlight/components/StarlightPage.astro';
+import { FLAG_LABEL, categories, data, slugify } from '../lib/data';
+
+const VERDICTS = [
+	['covered', 'Already covered', 'A word already in the list does this job.'],
+	['skip', 'Skipped', 'Too rare, narrow, formal or out of scope.'],
+] as const;
+const sections = VERDICTS.map(([key, title, blurb]) => {
+	const rows = data.cuts.filter((c) => c.verdict === key);
+	const cats = categories
+		.map((c) => ({ cat: c, rows: rows.filter((r) => r.cat === c.key).sort((a, b) => (a.freqRank ?? 1e9) - (b.freqRank ?? 1e9)) }))
+		.filter((g) => g.rows.length);
+	return { key, title, blurb, count: rows.length, cats };
+});
+const headings = sections.flatMap((s) => [
+	{ depth: 2, slug: s.key, text: `${s.title} (${s.count})` },
+	...s.cats.map((g) => ({ depth: 3, slug: `${s.key}-${slugify(g.cat.name)}`, text: g.cat.name })),
+]);
+---
+
+<StarlightPage
+	frontmatter={{ title: 'Cuts', description: 'Candidates that did not make the list, with the reason for each.' }}
+	headings={headings}
+>
+	<p class="vl-lead">{data.cuts.length} candidates didn't make the list. Each was reviewed against what is already in it.</p>
+	<p class="vl-count">Ranks are from the drama-subtitle frequency list. "Judges" counts how many of the three selection judges kept it.</p>
+	{sections.map((s) => (
+		<section>
+			<h2 id={s.key}>{s.title} ({s.count})</h2>
+			<p>{s.blurb}</p>
+			{s.cats.map((g) => (
+				<>
+					<h3 id={`${s.key}-${slugify(g.cat.name)}`}>{g.cat.name}</h3>
+					<ul class="vl-cuts not-content">
+						{g.rows.map((r) => (
+							<li class="vl-cut">
+								<span class="vl-main">
+									<span class="vl-ro">{r.romaji}</span>
+									{r.polite && <span class="vl-po"><span class="vl-tag">polite</span>{r.polite}</span>}
+								</span>
+								<span class="vl-en">{r.english}</span>
+								<span class="vl-meta">
+									{(r.flags ?? []).map((f) => <span class="vl-flag">{FLAG_LABEL[f] ?? f}</span>)}
+									<span class="vl-rank">{r.freqRank != null ? `#${r.freqRank}` : '—'}</span>
+								</span>
+								<span class="vl-why">
+									{r.coveredBy ? `Covered by ${r.coveredBy}. ` : ''}{r.reason}{r.votes ? ` · ${r.votes} of 3 judges kept it` : ''}
+								</span>
+							</li>
+						))}
+					</ul>
+				</>
+			))}
+		</section>
+	))}
+</StarlightPage>

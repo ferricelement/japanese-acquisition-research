@@ -1,0 +1,34 @@
+<script>
+	// Play buttons use the browser's Japanese voice; they stay hidden when there isn't one.
+	let voice: SpeechSynthesisVoice | null = null;
+	function pickVoice() {
+		if (!('speechSynthesis' in window)) return;
+		voice = speechSynthesis.getVoices().find((v) => v.lang?.toLowerCase().startsWith('ja')) ?? null;
+		document.documentElement.classList.toggle('vl-voice', !!voice);
+	}
+	if ('speechSynthesis' in window) {
+		pickVoice();
+		speechSynthesis.addEventListener('voiceschanged', pickVoice);
+	}
+	document.addEventListener('click', (e) => {
+		const btn = (e.target as HTMLElement).closest<HTMLButtonElement>('.vl-play');
+		if (!btn || !voice) return;
+		const u = new SpeechSynthesisUtterance(btn.dataset.say ?? '');
+		u.lang = 'ja-JP';
+		u.voice = voice;
+		u.rate = 0.9;
+		speechSynthesis.cancel();
+		speechSynthesis.speak(u);
+	});
+
+	// Open the entry a link points at (Learn first / Learn alongside).
+	function openTarget() {
+		const el = location.hash && document.getElementById(decodeURIComponent(location.hash.slice(1)));
+		if (el instanceof HTMLDetailsElement) {
+			el.open = true;
+			el.scrollIntoView({ block: 'start' });
+		}
+	}
+	openTarget();
+	window.addEventListener('hashchange', openTarget);
+</script>
