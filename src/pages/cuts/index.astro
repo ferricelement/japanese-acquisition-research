@@ -1,0 +1,32 @@
+---
+import StarlightPage from '@astrojs/starlight/components/StarlightPage.astro';
+import { categories, data, url } from '../../lib/data';
+
+const rows = categories.map((c) => {
+	const cuts = data.cuts.filter((x) => x.cat === c.key);
+	return { c, covered: cuts.filter((x) => x.verdict === 'covered').length, skipped: cuts.filter((x) => x.verdict === 'skip').length };
+});
+---
+
+<StarlightPage frontmatter={{ title: 'Cuts', description: 'Candidates that did not make the list, with the reason for each.', tableOfContents: false, next: `Cuts: ${categories[0].name}` }}>
+	<p class="vl-lead">
+		{data.cuts.length} candidates didn't make the list. A second review checked each one against what is already in
+		it; the ones worth keeping were added back.
+	</p>
+	<p class="vl-count">
+		<b>Already covered</b> means a word in the list does the same job. <b>Skipped</b> means too rare, narrow, formal or
+		out of scope.
+	</p>
+	<ol class="vl-chunklist not-content" role="list">
+		{rows.map(({ c, covered, skipped }) => (
+			<li>
+				<a href={url(`cuts/${c.slug}/`)}>
+					<span class="vl-cl-text">
+						<span class="vl-cl-label">{c.name}</span>
+						<span class="vl-cl-items">{covered} already covered · {skipped} skipped</span>
+					</span>
+				</a>
+			</li>
+		))}
+	</ol>
+</StarlightPage>

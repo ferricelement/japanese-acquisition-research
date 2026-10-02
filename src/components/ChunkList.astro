@@ -1,0 +1,21 @@
+---
+import { categoryByName, chunkUrl, type Block } from '../lib/data';
+
+interface Props { blocks: Block[]; showCategory?: boolean; start?: number }
+const { blocks, showCategory, start } = Astro.props;
+---
+
+<ol class:list={['vl-chunklist not-content', { numbered: start != null }]} start={start} role="list">
+	{blocks.map((b, i) => (
+		<li>
+			<a href={chunkUrl(b)}>
+				{start != null && <span class="vl-cl-n">{start + i}</span>}
+				<span class="vl-cl-text">
+					<span class="vl-cl-label">{b.label}</span>
+					<span class="vl-cl-items" translate="no" data-pagefind-ignore>{b.items.map((it) => it.romaji).join(', ')}</span>
+					{showCategory && <span class="vl-chip">{categoryByName(b.category).name}</span>}
+				</span>
+			</a>
+		</li>
+	))}
+</ol>

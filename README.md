@@ -6,8 +6,8 @@ Audio-first, romaji-only, listening/speaking target (~6,000 words).
 Generated 2026-08-20 by a 12-agent workflow plus a 4-agent recovery run.
 
 Published artifacts:
-- Acquisition order (deep, item-level): https://claude.ai/code/artifact/c80d7b7c-06ff-45eb-8054-c92d062b35a8
-- Strategy overview (audio-first):      https://claude.ai/code/artifact/2751fdac-b23c-46b8-bc73-954a343de1f2
+- [Acquisition order (deep, item-level)](https://claude.ai/code/artifact/c80d7b7c-06ff-45eb-8054-c92d062b35a8)
+- [Strategy overview (audio-first)](https://claude.ai/code/artifact/2751fdac-b23c-46b8-bc73-954a343de1f2)
 
 ## Files
 - `01-synthesis.json` — 11 ordering laws, 21 stages, 10 contested calls, 10 deviations
@@ -37,7 +37,7 @@ Published artifacts:
 
 ## Round 2 — the ledger (2026-08-20, later)
 
-Published: https://claude.ai/code/artifact/b2900235-7fc1-4d17-9e08-bc7706d07d11
+Published: [the item ledger](https://claude.ai/code/artifact/b2900235-7fc1-4d17-9e08-bc7706d07d11)
 
 - `10-list-nouns.json` — 180 nouns, sorted by special-mora load ascending, accents + glosses
 - `11-list-adjectives.json` — 63 adjectives, class-tagged, sorted by the stage-10 induction gate
@@ -68,7 +68,7 @@ Published: https://claude.ai/code/artifact/b2900235-7fc1-4d17-9e08-bc7706d07d11
 
 ## Round 3 — the versatility list (2026-10-01)
 
-Published: https://claude.ai/artifact/FpmB4qyuKhsYdVTHMZdqBo
+Published: [single-page version](https://claude.ai/artifact/FpmB4qyuKhsYdVTHMZdqBo) (the live site above replaces it)
 
 - `20-list-versatile.json` — 484 items, 113 chunks, 4 stages. The words, endings and patterns that
   work in almost any conversation: time & sequence, degree, stance, adjectives, connectors,
@@ -94,9 +94,11 @@ Published: https://claude.ai/artifact/FpmB4qyuKhsYdVTHMZdqBo
 ### The site
 
 The live site is an [Astro Starlight](https://starlight.astro.build) project at the repo root. It builds every page
-from `20-list-versatile.json`: one page per stage, one per category, the cuts, and the research notes above.
-`src/lib/data.ts` loads the list, `src/components/` renders chunks and entries, `src/pages/` holds the routes, and
-`src/content/docs/index.mdx` is the home page. Pushing to `main` deploys it through `.github/workflows/deploy.yml`.
+from `20-list-versatile.json`: each of the 113 chunks is a short page (`/stages/<n>/<chunk>/`) listing its items
+in full, and the sidebar groups them by stage in course order so Next walks the course. Stage and category pages
+are tables of contents; the cuts are split by category; the research notes above are pages too.
+`src/lib/data.ts` loads the list, `src/components/` renders items and chunk lists, `src/pages/` holds the routes,
+and `src/content/docs/index.mdx` is the home page. Pushing to `main` deploys it through `.github/workflows/deploy.yml`.
 
 ```bash
 npm install

@@ -1,0 +1,40 @@
+---
+import StarlightPage from '@astrojs/starlight/components/StarlightPage.astro';
+import { Aside } from '@astrojs/starlight/components';
+import Item from '../../../components/Item.astro';
+import JaText from '../../../components/JaText.astro';
+import PlayScript from '../../../components/PlayScript.astro';
+import { anchorFor, blockById, categoryByName, chunkSlug, data, url } from '../../../lib/data';
+
+export function getStaticPaths() {
+	return data.stages.flatMap((s, si) =>
+		s.chunkIds.map((id, ci) => ({
+			params: { stage: String(si + 1), chunk: chunkSlug(blockById(id)) },
+			props: { id, pos: ci + 1, of: s.chunkIds.length },
+		})),
+	);
+}
+
+const { id, pos, of } = Astro.props;
+const block = blockById(id);
+const cat = categoryByName(block.category);
+const headings = block.items.map((it) => ({ depth: 2, slug: anchorFor(it), text: it.romaji }));
+const mixups = block.interference && !/^none\.?$/i.test(block.interference.trim()) ? block.interference : null;
+const [first, last] = block.range.split('-');
+// The course ends at the last chunk of the last stage; don't let Next run on into the category pages.
+const isEnd = block.stage === data.stages.length && pos === of;
+---
+
+<StarlightPage frontmatter={{ title: block.label, description: block.rationale, ...(isEnd ? { next: false } : {}) }} headings={headings}>
+	<p class="vl-chunk-meta not-content">
+		<a class="vl-chip" href={url(`stages/${block.stage}/`)}>Stage {block.stage}</a>
+		<a class="vl-chip" href={url(`categories/${cat.slug}/`)}>{cat.name}</a>
+		<span class="vl-range">Chunk {pos} of {of} · items {first === last ? first : `${first}–${last}`} of {data.stats.total}</span>
+	</p>
+	<p class="vl-lead"><JaText text={block.rationale} /></p>
+	{mixups && <Aside type="caution" title="Mix-ups"><JaText text={mixups} /></Aside>}
+	<div class="vl-items">
+		{block.items.map((item) => <Item item={item} />)}
+	</div>
+	<PlayScript />
+</StarlightPage>

@@ -1,0 +1,54 @@
+---
+import StarlightPage from '@astrojs/starlight/components/StarlightPage.astro';
+import JaText from '../../components/JaText.astro';
+import { FLAG_LABEL, categories, categoryByKey, data } from '../../lib/data';
+
+export function getStaticPaths() {
+	return categories.map((c) => ({ params: { cat: c.slug }, props: { key: c.key } }));
+}
+
+const cat = categoryByKey(Astro.props.key);
+const byRank = (a: { freqRank: number | null }, b: { freqRank: number | null }) => (a.freqRank ?? 1e9) - (b.freqRank ?? 1e9);
+const sections = [
+	{ key: 'covered', title: 'Already covered', blurb: 'A word already in the list does this job.' },
+	{ key: 'skip', title: 'Skipped', blurb: 'Too rare, narrow, formal or out of scope.' },
+]
+	.map((s) => ({ ...s, rows: data.cuts.filter((x) => x.cat === cat.key && x.verdict === s.key).sort(byRank) }))
+	.filter((s) => s.rows.length);
+const headings = sections.map((s) => ({ depth: 2, slug: s.key, text: `${s.title} (${s.rows.length})` }));
+// Pagination would otherwise label neighbours with bare category names, which read like the category pages.
+const i = categories.findIndex((c) => c.key === cat.key);
+const prev = i === 0 ? 'All cuts' : `Cuts: ${categories[i - 1].name}`;
+const next = i < categories.length - 1 ? { next: `Cuts: ${categories[i + 1].name}` } : {};
+---
+
+<StarlightPage
+	frontmatter={{ title: `Cuts: ${cat.name}`, description: `${cat.name} candidates that did not make the list, with the reason for each.`, prev, ...next }}
+	headings={headings}
+>
+	<p class="vl-count">Sorted by drama-subtitle rank, most frequent first.</p>
+	{sections.map((s) => (
+		<>
+			<h2 id={s.key}>{s.title} ({s.rows.length})</h2>
+			<p>{s.blurb}</p>
+			<ul class="vl-cuts not-content" role="list" data-pagefind-weight="0.2">
+				{s.rows.map((r) => (
+					<li class="vl-cut">
+						<span class="vl-main">
+							<span class="vl-ro" translate="no">{r.romaji}</span>
+							{r.polite && <span class="vl-po" translate="no"><span class="vl-tag">polite</span> {r.polite}</span>}
+						</span>
+						<span class="vl-en">{r.english}</span>
+						<span class="vl-meta">
+							{(r.flags ?? []).map((f) => <span class="vl-flag">{FLAG_LABEL[f] ?? f}</span>)}
+							<span class="vl-rank">{r.freqRank != null ? `#${r.freqRank}` : '—'}</span>
+						</span>
+						<span class="vl-why">
+							<JaText text={`${r.coveredBy ? `Covered by ${r.coveredBy}. ` : ''}${r.reason ?? ''}${r.votes ? ` · ${r.votes} of 3 judges kept it` : ''}`} />
+						</span>
+					</li>
+				))}
+			</ul>
+		</>
+	))}
+</StarlightPage>

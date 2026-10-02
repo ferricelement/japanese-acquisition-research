@@ -1,0 +1,64 @@
+---
+import JaText from './JaText.astro';
+import { FLAG_LABEL, anchorFor, groupMates, itemById, itemUrl, stageOf, type Item } from '../lib/data';
+
+interface Props { item: Item }
+const { item } = Astro.props;
+
+// Only flag ranks the tokenizer made unreliable; most freqNotes just restate the lookup.
+const caveat = !!item.freqNote && /tokeni[sz]|split|undercount|judg|no usable|component|rank of/i.test(item.freqNote);
+const rankTitle = item.freqRank != null
+	? `Rank ${item.freqRank} in 3,030 TV dramas${item.freqNote ? ` (${item.freqNote})` : ''}`
+	: (item.freqNote ?? 'No usable rank');
+const stage = stageOf(item.id);
+// Mates taught in a later stage say so, since the link jumps ahead in the course.
+const mates = groupMates(item).map((m) => ({ m, later: stageOf(m.id) > stage ? stageOf(m.id) : 0 }));
+const prereqs = item.prereqs.map((p) => itemById(p)?.item).filter((x): x is Item => !!x);
+const examples = [['casual', item.example], ['polite', item.examplePolite]] as const;
+---
+
+<section class="vl-item not-content">
+	<h2 id={anchorFor(item)} class="vl-ro" translate="no">{item.romaji}</h2>
+	{item.polite && <span class="vl-po" translate="no"><span class="vl-tag">polite</span> {item.polite}</span>}
+	<span class="vl-meta">
+		{item.flags.map((f) => <span class="vl-flag">{FLAG_LABEL[f] ?? f}</span>)}
+		<span class="vl-rank" title={rankTitle}>
+			<span class="sr-only">drama rank </span>{item.freqRank != null ? `#${item.freqRank}${caveat ? '*' : ''}` : <><span aria-hidden="true">—</span><span class="sr-only">none</span></>}
+		</span>
+	</span>
+	<p class="vl-en">{item.english}</p>
+	<p class="vl-jaline">
+		<span class="vl-ja" lang="ja">{item.ja}</span>
+		{item.kana && item.kana !== item.ja && <> <span class="vl-ja vl-kana" lang="ja">{item.kana}</span></>}
+		<button type="button" class="vl-play" data-say={item.ja} aria-label={`Play ${item.romaji}`} data-pagefind-ignore>Play</button>
+		{item.politeJa && <> <span class="vl-ja" lang="ja">{item.politeJa}</span>
+			<button type="button" class="vl-play" data-say={item.politeJa} aria-label={`Play ${item.polite}`} data-pagefind-ignore>Play</button></>}
+	</p>
+	<p class="vl-use"><JaText text={item.use} /></p>
+	<div class="vl-examples">
+		{examples.map(([label, ex]) => ex && (
+			<div class="vl-ex">
+				<div class="vl-ex-top">
+					<span class="vl-tag">{label}</span>
+					<button type="button" class="vl-play" data-say={ex.ja} aria-label={`Play ${label} example`} data-pagefind-ignore>Play</button>
+				</div>
+				<p class="vl-ex-ro" translate="no">{ex.romaji}</p>
+				<p class="vl-ex-en">{ex.english}</p>
+				<p class="vl-ex-ja" lang="ja">{ex.ja}</p>
+			</div>
+		))}
+	</div>
+	{item.notes && <p class="vl-note"><JaText text={item.notes} /></p>}
+	{(mates.length > 0 || prereqs.length > 0) && (
+		<p class="vl-refs">
+			{mates.length > 0 && (
+				<span><b>Learn alongside:</b> {mates.map(({ m, later }, i) => (
+					<>{i > 0 && ', '}<a href={itemUrl(m.id)} translate="no">{m.romaji}</a>{later > 0 && <span class="vl-later"> (Stage {later})</span>}</>
+				))}</span>
+			)}
+			{prereqs.length > 0 && (
+				<span><b>Learn first:</b> {prereqs.map((m, i) => <>{i > 0 && ', '}<a href={itemUrl(m.id)} translate="no">{m.romaji}</a></>)}</span>
+			)}
+		</p>
+	)}
+</section>

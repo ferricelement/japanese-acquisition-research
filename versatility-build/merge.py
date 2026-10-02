@@ -57,7 +57,9 @@ for bid, order in edits['order'].items():
     b = next(b for c in d['categories'] for b in c['blocks'] if b['id'] == bid)
     assert sorted(order) == sorted(it['id'] for it in b['items']), bid
     b['items'] = [by_id[i] for i in order]
-log.append(f"edited {len(edits['set'])} existing fields, reordered {list(edits['order'])}")
+for bid, label in edits.get('blockLabels', {}).items():
+    next(b for c in d['categories'] for b in c['blocks'] if b['id'] == bid)['label'] = label
+log.append(f"edited {len(edits['set'])} existing fields, reordered {list(edits['order'])}, relabelled {list(edits.get('blockLabels', {}))}")
 
 items = [it for c in d['categories'] for b in c['blocks'] for it in b['items']]
 ids = [it['id'] for it in items]
@@ -131,6 +133,28 @@ for c in d['categories']:
                 log.append(f"dropped forward prereq {it['id']} -> {late}")
                 it['prereqs'] = [p for p in it['prereqs'] if p not in late]
 
+# 4b. Learners never see chunk ids (B2), category letters (G) or item ids (H-ki-o-tsukeru); spell them out.
+label_of = {b['id']: b['label'] for c in d['categories'] for b in c['blocks']}
+romaji_of = {x['id']: x['romaji'] for x in json.load(open(os.path.join(HERE, 'cuts-full.json')))}
+romaji_of |= {it['id']: it['romaji'] for c in d['categories'] for b in c['blocks'] for it in b['items']}
+cat_of = {c['key']: c['name'] for c in d['categories']}
+def humanize(s, cut=False):
+    if not isinstance(s, str):
+        return s
+    s = re.sub(r'\b[A-J](?:-[a-z0-9]+)+\b', lambda m: romaji_of.get(m.group(0), m.group(0)), s)
+    s = re.sub(r'\(([A-J]\d{1,2})\)', lambda m: f"({label_of[m.group(1)]})" if m.group(1) in label_of else m.group(0), s)
+    s = re.sub(r'\b[A-J]\d{1,2}\b', lambda m: f'"{label_of[m.group(0)]}"' if m.group(0) in label_of else m.group(0), s)
+    s = re.sub(r'\(([A-J])\)', lambda m: f"({cat_of[m.group(1)]})", s)
+    s = re.sub(r'\bsee ([A-J])\b(?![-\w])', lambda m: f"see {cat_of[m.group(1)]}", s)
+    if cut:  # coveredBy lists like "J dotchi + B3 mo": drop the bare category letter
+        s = re.sub(r'(^|[;,+]\s*)[A-J] (?=[a-z-])', r'\1', s)
+    return s
+for c in d['categories']:
+    for b in c['blocks']:
+        b['rationale'], b['interference'] = humanize(b['rationale']), humanize(b['interference'])
+        for it in b['items']:
+            it['use'], it['notes'] = humanize(it['use']), humanize(it['notes'])
+
 # Cuts: everything not in the list, with the cuts-review verdict when one exists.
 cuts_full = json.load(open(os.path.join(HERE, 'cuts-full.json')))
 vpath = os.path.join(HERE, 'cuts-verdicts.json')
@@ -141,7 +165,7 @@ for x in cuts_full:
         continue
     v = verdicts.get(x['id'], {})
     cut_rows.append({k: x.get(k) for k in ('id', 'cat', 'romaji', 'polite', 'ja', 'english', 'freqRank', 'flags', 'votes')}
-                    | {'verdict': v.get('verdict'), 'reason': v.get('reason'), 'coveredBy': v.get('coveredBy')})
+                    | {'verdict': v.get('verdict'), 'reason': humanize(v.get('reason'), cut=True), 'coveredBy': humanize(v.get('coveredBy'), cut=True)})
 
 # 5. Research JSON, same top-level shape as lists 10-13 (blocks in course order).
 ITEM_KEYS = ['n', 'id', 'romaji', 'polite', 'english', 'use', 'ja', 'kana', 'politeJa', 'flags', 'contrastGroup',

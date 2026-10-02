@@ -1,23 +1,30 @@
 ---
 import StarlightPage from '@astrojs/starlight/components/StarlightPage.astro';
-import Chunk from '../../components/Chunk.astro';
-import EntryScripts from '../../components/EntryScripts.astro';
-import { categories, chunkAnchor, data } from '../../lib/data';
+import ChunkList from '../../components/ChunkList.astro';
+import { categories, categoryByKey, data, stageNumbers } from '../../lib/data';
 
 export function getStaticPaths() {
 	return categories.map((c) => ({ params: { cat: c.slug }, props: { key: c.key } }));
 }
 
-const cat = categories.find((c) => c.key === Astro.props.key)!;
-// data.blocks is in course order, so this keeps stage order within the category.
+const cat = categoryByKey(Astro.props.key);
+// data.blocks is in course order, so grouping keeps each stage's chunks in order.
 const blocks = data.blocks.filter((b) => b.category === cat.name);
-const headings = blocks.map((b) => ({ depth: 2, slug: chunkAnchor(b), text: b.label }));
+const byStage = stageNumbers
+	.map((n) => ({ n, blocks: blocks.filter((b) => b.stage === n) }))
+	.filter((g) => g.blocks.length);
+const headings = byStage.map((g) => ({ depth: 2, slug: `stage-${g.n}`, text: `Stage ${g.n}` }));
 const scope = cat.scope.charAt(0).toUpperCase() + cat.scope.slice(1);
 ---
 
-<StarlightPage frontmatter={{ title: cat.name, description: `${scope}.` }} headings={headings}>
+{/* The first category follows the course's last chunk in the sidebar; keep the course and the reference pages separate. */}
+<StarlightPage frontmatter={{ title: cat.name, description: `${scope}.`, ...(cat.key === categories[0].key ? { prev: false } : {}) }} headings={headings}>
 	<p class="vl-lead">{scope}.</p>
-	<p class="vl-count">{cat.items} items in {blocks.length} chunks, in course order.</p>
-	{blocks.map((b) => <Chunk block={b} show="stage" />)}
-	<EntryScripts />
+	<p class="vl-count">{cat.items} items in {blocks.length} chunks, grouped by the stage they're taught in.</p>
+	{byStage.map((g) => (
+		<>
+			<h2 id={`stage-${g.n}`}>Stage {g.n}</h2>
+			<ChunkList blocks={g.blocks} />
+		</>
+	))}
 </StarlightPage>

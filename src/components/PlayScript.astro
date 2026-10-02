@@ -2,7 +2,6 @@
 	// Play buttons use the browser's Japanese voice; they stay hidden when there isn't one.
 	let voice: SpeechSynthesisVoice | null = null;
 	function pickVoice() {
-		if (!('speechSynthesis' in window)) return;
 		voice = speechSynthesis.getVoices().find((v) => v.lang?.toLowerCase().startsWith('ja')) ?? null;
 		document.documentElement.classList.toggle('vl-voice', !!voice);
 	}
@@ -20,15 +19,4 @@
 		speechSynthesis.cancel();
 		speechSynthesis.speak(u);
 	});
-
-	// Open the entry a link points at (Learn first / Learn alongside).
-	function openTarget() {
-		const el = location.hash && document.getElementById(decodeURIComponent(location.hash.slice(1)));
-		if (el instanceof HTMLDetailsElement) {
-			el.open = true;
-			el.scrollIntoView({ block: 'start' });
-		}
-	}
-	openTarget();
-	window.addEventListener('hashchange', openTarget);
 </script>

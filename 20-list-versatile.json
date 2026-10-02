@@ -469,7 +469,7 @@
      "speakNeed": 4,
      "prereqs": [],
      "alsoIn": [],
-     "notes": "This is not the adjective iya 'unpleasant' (D). In polite speech you mostly hear a short ie ('ie, daijoubu desu') or iya itself; full iie mostly answers a direct yes/no question."
+     "notes": "This is not the adjective iya 'unpleasant' (Versatile adjectives). In polite speech you mostly hear a short ie ('ie, daijoubu desu') or iya itself; full iie mostly answers a direct yes/no question."
     }
    ]
   },
@@ -1808,7 +1808,7 @@
      "alsoIn": [
       "10-list-nouns note 4 (ki deferred to collocations)"
      ],
-     "notes": "You learn this one as a set phrase. The verb ki o tsukeru comes later (H-ki-o-tsukeru) and adds ki o tsukete kaette ne (get home safe) and ki o tsukemasu (I'll be careful). As a warning it's often shouted on its own: abunai, ki o tsukete! To see off a customer or a senior, say oki o tsukete (お気をつけて), often as oki o tsukete okaeri kudasai, because bare ki o tsukete kudasai sounds more like an instruction."
+     "notes": "You learn this one as a set phrase. The verb ki o tsukeru comes later (ki o tsukeru) and adds ki o tsukete kaette ne (get home safe) and ki o tsukemasu (I'll be careful). As a warning it's often shouted on its own: abunai, ki o tsukete! To see off a customer or a senior, say oki o tsukete (お気をつけて), often as oki o tsukete okaeri kudasai, because bare ki o tsukete kudasai sounds more like an instruction."
     }
    ]
   },
@@ -3554,7 +3554,7 @@
       "vocab-trainer utility-vocab: demonstratives-things",
       "05-acquisition-order S3 (kosoado, wks 3–4)"
      ],
-     "notes": "Said alone with a pause, sono... is a hesitation filler (G)."
+     "notes": "Said alone with a pause, sono... is a hesitation filler (Responses, reactions, fillers & social phrases)."
     },
     {
      "n": 86,
@@ -3592,7 +3592,7 @@
       "13-list-exit-battery #48",
       "13-list-exit-battery #56"
      ],
-     "notes": "Said alone, ano... is the 'um, excuse me' filler (G)."
+     "notes": "Said alone, ano... is the 'um, excuse me' filler (Responses, reactions, fillers & social phrases)."
     },
     {
      "n": 87,
@@ -3940,7 +3940,7 @@
      "alsoIn": [
       "vocab-trainer core-vocab: Intensifiers"
      ],
-     "notes": "Said alone with a trailing tone ('chotto…'), it is a soft no (see G)."
+     "notes": "Said alone with a trailing tone ('chotto…'), it is a soft no (see Responses, reactions, fillers & social phrases)."
     },
     {
      "n": 96,
@@ -4006,7 +4006,7 @@
      "alsoIn": [
       "vocab-trainer core-vocab: Intensifiers"
      ],
-     "notes": "For 'one more' of something use mou (mou hitotsu, mou ikkai), never motto. In a request to a stranger, mou chotto or mou sukoshi sounds softer. For 'too much' the ending is -sugiru (see I)."
+     "notes": "For 'one more' of something use mou (mou hitotsu, mou ikkai), never motto. In a request to a stranger, mou chotto or mou sukoshi sounds softer. For 'too much' the ending is -sugiru (see Grammar patterns as vocabulary)."
     },
     {
      "n": 98,
@@ -4285,7 +4285,7 @@
      "alsoIn": [
       "vocab-trainer core-vocab: Intensifiers"
      ],
-     "notes": "Trap: 'kekkou desu' on its own (often with a small hand wave) is a polite 'no thanks' (see G), so never use it to accept an offer; say 'onegai shimasu'. 'Kore de kekkou desu' means 'this will do'. Before an adjective (kekkou oishii) it never means 'no', but never say kekkou oishii to the person who made or chose the food: it implies you expected worse. Use sugoku or hontou ni instead."
+     "notes": "Trap: 'kekkou desu' on its own (often with a small hand wave) is a polite 'no thanks' (see Responses, reactions, fillers & social phrases), so never use it to accept an offer; say 'onegai shimasu'. 'Kore de kekkou desu' means 'this will do'. Before an adjective (kekkou oishii) it never means 'no', but never say kekkou oishii to the person who made or chose the food: it implies you expected worse. Use sugoku or hontou ni instead."
     },
     {
      "n": 106,
@@ -6455,7 +6455,7 @@
       "12-list-te-dependents #R1",
       "12-list-te-dependents #H5"
      ],
-     "notes": "kashite is learned here as a chunk; the -te request itself comes in F4. Borrowing is kariru (ichidan): karite ii? = can I borrow it?, karita = borrowed."
+     "notes": "kashite is learned here as a chunk; the -te request itself comes in \"Asking someone\". Borrowing is kariru (ichidan): karite ii? = can I borrow it?, karita = borrowed."
     }
    ]
   },
@@ -6466,7 +6466,7 @@
    "category": "Grammar patterns as vocabulary",
    "label": "Favours, passive, causative",
    "rationale": "The giving/receiving triad that marks who benefits from an action, the everyday thanks built on kureru, the passive for things done to you (often unwanted), and the causative in its everyday jobs: -sasete for asking to do something yourself, and -sasete morau / -sasete kureru for being allowed to.",
-   "interference": "Same act, three viewpoints: tomodachi ga oshiete kureta / tomodachi ni oshiete moratta / tomodachi ni oshiete ageta. Kureru points toward the speaker, ageru away, and morau takes the receiver's view with the giver on ni. The passive keeps that ni frame, often for something unwanted: tomodachi ni tetsudatte moratta (glad) vs tomodachi ni okorareta (not glad), so a favour takes -te morau, not the passive. The ichidan passive sounds like the I3 potential (taberareru = can eat / gets eaten), while godan keeps them apart (ieru / iwareru); casual potentials often drop the ra (tabereru), passives never do. When you thank someone for an act, keep the kureru: oshiete kurete arigatou, never oshiete arigatou or oshiete agete arigatou. The causative swaps the passive's -are-/-rare- for -ase-/-sase- on the same stem (iwareta = I was told, iwasete = let me say), and -asete/-sasete asks to do it yourself where plain -te asks the other person: kangaete (you think it over) vs kangaesasete (let me think it over). Godan verbs never take the extra sa: yasumasete, not yasumasasete.",
+   "interference": "Same act, three viewpoints: tomodachi ga oshiete kureta / tomodachi ni oshiete moratta / tomodachi ni oshiete ageta. Kureru points toward the speaker, ageru away, and morau takes the receiver's view with the giver on ni. The passive keeps that ni frame, often for something unwanted: tomodachi ni tetsudatte moratta (glad) vs tomodachi ni okorareta (not glad), so a favour takes -te morau, not the passive. The ichidan passive sounds like the \"Want, can, have done\" potential (taberareru = can eat / gets eaten), while godan keeps them apart (ieru / iwareru); casual potentials often drop the ra (tabereru), passives never do. When you thank someone for an act, keep the kureru: oshiete kurete arigatou, never oshiete arigatou or oshiete agete arigatou. The causative swaps the passive's -are-/-rare- for -ase-/-sase- on the same stem (iwareta = I was told, iwasete = let me say), and -asete/-sasete asks to do it yourself where plain -te asks the other person: kangaete (you think it over) vs kangaesasete (let me think it over). Godan verbs never take the extra sa: yasumasete, not yasumasasete.",
    "items": [
     {
      "n": 165,
@@ -7395,7 +7395,7 @@
       "vocab-trainer utility-vocab: aizuchi",
       "05-acquisition-order S3 response tokens"
      ],
-     "notes": "honto ni (B) is the adverb 'really, truly'."
+     "notes": "honto ni (Degree, amount & limits) is the adverb 'really, truly'."
     },
     {
      "n": 189,
@@ -7463,7 +7463,7 @@
      "alsoIn": [
       "vocab-trainer utility-vocab: demonstratives-things (pronoun sense only)"
      ],
-     "notes": "This isn't the pronoun are 'that thing' (J): here it stands alone, with a rising pitch."
+     "notes": "This isn't the pronoun are 'that thing' (Pointing, question & people words): here it stands alone, with a rising pitch."
     },
     {
      "n": 191,
@@ -7540,7 +7540,7 @@
      "alsoIn": [
       "05-acquisition-order S3 response tokens"
      ],
-     "notes": "A bare aa meaning 'yeah' sounds masculine. aa 'like that' is a different word (J)."
+     "notes": "A bare aa meaning 'yeah' sounds masculine. aa 'like that' is a different word (Pointing, question & people words)."
     },
     {
      "n": 193,
@@ -8529,7 +8529,7 @@
    "category": "Pointing, question & people words",
    "label": "How / this way",
    "rationale": "The ko/so/do manner words plus dou yatte, dou iu and dou shita: how something went, how it is done, 'like that', what exactly is going on, and what's wrong.",
-   "interference": "dou asks for an opinion or report (dou datta?), dou yatte asks for the method (dou yatte iku?), dou iu koto? asks what's going on or what someone is getting at (once it's explained: aa, sou iu koto ka), and dou shita no? asks what has happened to you. dou iu asks what something is, donna (J7) what it is like: dou iu hito? = who is he to you, donna hito? = what's he like, and donna koto? = like what?; for what a word means, use dou iu imi? (G). The bare reply sou (sou da ne) is drilled in G, so the so- card here is sou iu.",
+   "interference": "dou asks for an opinion or report (dou datta?), dou yatte asks for the method (dou yatte iku?), dou iu koto? asks what's going on or what someone is getting at (once it's explained: aa, sou iu koto ka), and dou shita no? asks what has happened to you. dou iu asks what something is, donna (What kind) what it is like: dou iu hito? = who is he to you, donna hito? = what's he like, and donna koto? = like what?; for what a word means, use dou iu imi? (Responses, reactions, fillers & social phrases). The bare reply sou (sou da ne) is drilled in G, so the so- card here is sou iu.",
    "items": [
     {
      "n": 219,
@@ -8707,7 +8707,7 @@
      "romaji": "dou iu",
      "polite": null,
      "english": "what exactly (+ noun); dou iu koto? = how so? what's going on?",
-     "use": "Goes before a noun to ask what exactly something is: dou iu koto? (how so? what's going on?), dou iu hito? (who is he, exactly? how do you know him?), dou iu kankei? (how are you two connected?). It is the question partner of sou iu. To ask what a word means, use dou iu imi? (G).",
+     "use": "Goes before a noun to ask what exactly something is: dou iu koto? (how so? what's going on?), dou iu hito? (who is he, exactly? how do you know him?), dou iu kankei? (how are you two connected?). It is the question partner of sou iu. To ask what a word means, use dou iu imi? (Responses, reactions, fillers & social phrases).",
      "ja": "どういう",
      "kana": "どういう",
      "politeJa": null,
@@ -8736,7 +8736,7 @@
       "vocab-trainer learner-phrases: frame_x_wa_douiu_imi",
       "13-list-exit-battery #110"
      ],
-     "notes": "dou iu koto? with a light rising tone is the everyday 'how so?'; said flat and hard it becomes 'what is the meaning of this?!', like dou iu wake? (see F-wake-da). With clerks and strangers, dou iu imi desu ka? (G) is the safe way to ask for clarification. In nihongo de dou iu? (how do you say it in Japanese?), iu is the verb 'say', not this word."
+     "notes": "dou iu koto? with a light rising tone is the everyday 'how so?'; said flat and hard it becomes 'what is the meaning of this?!', like dou iu wake? (see wake da). With clerks and strangers, dou iu imi desu ka? (Responses, reactions, fillers & social phrases) is the safe way to ask for clarification. In nihongo de dou iu? (how do you say it in Japanese?), iu is the verb 'say', not this word."
     }
    ]
   },
@@ -8902,7 +8902,7 @@
      "romaji": "sugoi",
      "polite": "sugoi desu",
      "english": "amazing, incredible",
-     "use": "The all-purpose impressed reaction ('sugoi!') to people, skills, views and news; it also marks sheer intensity, good or bad (sugoi ame = torrential rain), and as sugoku it becomes 'really, very' (B).",
+     "use": "The all-purpose impressed reaction ('sugoi!') to people, skills, views and news; it also marks sheer intensity, good or bad (sugoi ame = torrential rain), and as sugoku it becomes 'really, very' (Degree, amount & limits).",
      "ja": "すごい",
      "kana": "すごい",
      "politeJa": "すごいです",
@@ -9212,7 +9212,7 @@
      "romaji": "dandan",
      "polite": null,
      "english": "gradually, more and more",
-     "use": "Says a state changes bit by bit. It almost always pairs with -ku naru / -ni naru, plus -te kita for change up to now (dandan wakatte kita = it's slowly starting to make sense) or -te iku for change from now on (dandan samuku natte iku). Learn natte kita (has been getting) as a chunk here; the -te kuru pattern itself comes later (I-te-kuru).",
+     "use": "Says a state changes bit by bit. It almost always pairs with -ku naru / -ni naru, plus -te kita for change up to now (dandan wakatte kita = it's slowly starting to make sense) or -te iku for change from now on (dandan samuku natte iku). Learn natte kita (has been getting) as a chunk here; the -te kuru pattern itself comes later (-te kuru).",
      "ja": "だんだん",
      "kana": "だんだん",
      "politeJa": null,
@@ -10445,7 +10445,7 @@
    "range": "271-275",
    "stage": 3,
    "category": "Sentence endings & intent",
-   "label": "How sure",
+   "label": "How sure: endings",
    "rationale": "A ladder of certainty from 'maybe' through 'should be' to 'no way', all on one base sentence about someone arriving.",
    "interference": "From least to most sure: kamo (could go either way), to omou (my opinion), n ja nai (I'd guess), hazu (should, by reasoning); wake nai is just as sure in the other direction (no way). hazu is about what you expect: not your own plans, which take tsumori, and never advice, which takes -ta hou ga ii. hazu ga nai also means 'can't be', but calmly, by reasoning; wake nai is the everyday, emphatic one. wake nai and wake ja nai both deny, but one ja softens it: kirai na wake nai = no way I'd hate it, kirai na wake ja nai (kedo) = it's not that I hate it (but...).",
    "items": [
@@ -10773,7 +10773,7 @@
       "I-potential"
      ],
      "alsoIn": [],
-     "notes": "-ba ii na and -to ii na mean the same; to say you want to do it, use -tai, and for 'what should I do?' use dou shitara ii? (I-tara-ii)."
+     "notes": "-ba ii na and -to ii na mean the same; to say you want to do it, use -tai, and for 'what should I do?' use dou shitara ii? (-tara ii)."
     }
    ]
   },
@@ -13165,7 +13165,7 @@
      "speakNeed": 4,
      "prereqs": [],
      "alsoIn": [],
-     "notes": "Don't mix it up with sakki (A6, a moment ago): only the double k differs. saki ni kaetta = went home before the others; sakki kaetta = went home a moment ago. 'Before him' is kare yori saki ni, since kare no mae ni usually means 'in front of him'. saki ni itte yo (先に言ってよ) = you should've said so sooner! It sounds the same as saki ni itte (先に行って, go on ahead), so context decides. osaki ni douzo = after you; osaki ni shitsurei shimasu = the set line for leaving work before others."
+     "notes": "Don't mix it up with sakki (\"Earlier and lately\", a moment ago): only the double k differs. saki ni kaetta = went home before the others; sakki kaetta = went home a moment ago. 'Before him' is kare yori saki ni, since kare no mae ni usually means 'in front of him'. saki ni itte yo (先に言ってよ) = you should've said so sooner! It sounds the same as saki ni itte (先に行って, go on ahead), so context decides. osaki ni douzo = after you; osaki ni shitsurei shimasu = the set line for leaving work before others."
     }
    ]
   },
@@ -13780,7 +13780,7 @@
    "range": "361-364",
    "stage": 3,
    "category": "Stance, attitude & manner",
-   "label": "How sure",
+   "label": "How sure: adverbs",
    "rationale": "The certainty dial runs from a soft guess to full commitment, and 'of course' takes the point for granted.",
    "interference": "tabun, kitto and zettai share one frame (___ daijoubu da yo), so only the strength changes. kitto is mostly for confident guesses about others or the future, and rarely for your own firm plans.",
    "items": [
@@ -15643,7 +15643,7 @@
       "13-list-exit-battery #125",
       "05-acquisition-order critique: ka/mo/demo indefinites unscheduled"
      ],
-     "notes": "Casually most people say nanka: nanka atta no? The same nanka is also a filler (G)."
+     "notes": "Casually most people say nanka: nanka atta no? The same nanka is also a filler (Responses, reactions, fillers & social phrases)."
     },
     {
      "n": 412,
@@ -16047,7 +16047,7 @@
      "speakNeed": 3,
      "prereqs": [],
      "alsoIn": [],
-     "notes": "Same sound as kawaru 'change' (H-kawaru) and its noun kawari (kawari nai? = how've you been?), but this kawari comes from the other kawaru, 'take someone's place' (kawarou ka? = want me to take over?). Said alone, kawari ni = 'instead' (kawari ni yattoku yo = I'll do it instead); kawari alone = a replacement (kawari ga inai). okawari = seconds / a refill. Even in polite speech the verb before it stays plain: iku kawari ni denwa shimashita, not ikimasu kawari ni."
+     "notes": "Same sound as kawaru 'change' (kawaru) and its noun kawari (kawari nai? = how've you been?), but this kawari comes from the other kawaru, 'take someone's place' (kawarou ka? = want me to take over?). Said alone, kawari ni = 'instead' (kawari ni yattoku yo = I'll do it instead); kawari alone = a replacement (kawari ga inai). okawari = seconds / a refill. Even in polite speech the verb before it stays plain: iku kawari ni denwa shimashita, not ikimasu kawari ni."
     },
     {
      "n": 423,
@@ -18368,7 +18368,7 @@
    "votes": 1,
    "verdict": "covered",
    "reason": "-te kara already says 'after doing'; ato de is kept for 'later'.",
-   "coveredBy": "-te kara (A8), ato de (A5)"
+   "coveredBy": "-te kara (When, before, after, while), ato de (Later and next time)"
   },
   {
    "id": "A-mou-ikkai",
@@ -18382,7 +18382,7 @@
    "votes": 1,
    "verdict": "covered",
    "reason": "Same phrase is already kept in responses.",
-   "coveredBy": "mou ikkai (G)"
+   "coveredBy": "mou ikkai (Responses, reactions, fillers & social phrases)"
   },
   {
    "id": "A-toriaezu",
@@ -18396,7 +18396,7 @@
    "votes": 1,
    "verdict": "covered",
    "reason": "Same word is already kept in stance.",
-   "coveredBy": "toriaezu (C)"
+   "coveredBy": "toriaezu (Stance, attitude & manner)"
   },
   {
    "id": "A-ta-bakari",
@@ -18424,7 +18424,7 @@
    "votes": 1,
    "verdict": "covered",
    "reason": "kodomo no toki does the same job in speech.",
-   "coveredBy": "-toki (A8)"
+   "coveredBy": "-toki (When, before, after, while)"
   },
   {
    "id": "A-ichido",
@@ -18438,7 +18438,7 @@
    "votes": 1,
    "verdict": "covered",
    "reason": "Numeral-ish; 'ever', 'again' and 'not once' are handled by kept items.",
-   "coveredBy": "-ta koto ga aru (I), mou ikkai (G), zenzen (B)"
+   "coveredBy": "-ta koto ga aru (Grammar patterns as vocabulary), mou ikkai (Responses, reactions, fillers & social phrases), zenzen (Degree, amount & limits)"
   },
   {
    "id": "A-konkai",
@@ -18452,7 +18452,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "kondo already carries 'this time'.",
-   "coveredBy": "kondo (A5)"
+   "coveredBy": "kondo (Later and next time)"
   },
   {
    "id": "A-aida",
@@ -18466,7 +18466,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "'While / during' is already handled three ways.",
-   "coveredBy": "-nagara (A8), -chuu (A9), -uchi ni (A10)"
+   "coveredBy": "-nagara (When, before, after, while), -chuu (Busy right now), -uchi ni (Until, by, while still)"
   },
   {
    "id": "A-goro",
@@ -18480,7 +18480,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "gurai is widely used for approximate times in speech; ごろ alone ranks #3829.",
-   "coveredBy": "gurai (B)"
+   "coveredBy": "gurai (Degree, amount & limits)"
   },
   {
    "id": "A-taitei",
@@ -18494,7 +18494,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "itsumo already glosses 'usually'; taitei ranks #4463.",
-   "coveredBy": "itsumo (A3)"
+   "coveredBy": "itsumo (How often)"
   },
   {
    "id": "A-shotchuu",
@@ -18508,7 +18508,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "yoku and itsumo cover 'all the time'.",
-   "coveredBy": "yoku, itsumo (A3)"
+   "coveredBy": "yoku, itsumo (How often)"
   },
   {
    "id": "A-mettani",
@@ -18524,7 +18524,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "anmari / hotondo + negative say 'rarely'; mettani ranks #5306.",
-   "coveredBy": "anmari, hotondo (B)"
+   "coveredBy": "anmari, hotondo (Degree, amount & limits)"
   },
   {
    "id": "A-ototoi",
@@ -18594,7 +18594,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "yatto is the spoken 'finally'; tsui ni leans narration.",
-   "coveredBy": "yatto (A2)"
+   "coveredBy": "yatto (Already, still, finally)"
   },
   {
    "id": "B-minna",
@@ -18608,7 +18608,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Same word and job as the kept J item; minasan can sit on that card.",
-   "coveredBy": "J minna (everyone; all of you)"
+   "coveredBy": "minna (everyone; all of you)"
   },
   {
    "id": "B-mou-sukoshi",
@@ -18622,7 +18622,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Same meaning as mou chotto, which also works in polite requests.",
-   "coveredBy": "B1 mou chotto"
+   "coveredBy": "\"A bit / more\" mou chotto"
   },
   {
    "id": "B-totemo",
@@ -18635,8 +18635,8 @@
    "flags": [],
    "votes": 2,
    "verdict": "covered",
-   "reason": "Already kept: the B2 card is labelled 'metcha / totemo'.",
-   "coveredBy": "B2 metcha / totemo"
+   "reason": "Already kept: the \"Really / very\" card is labelled 'metcha / totemo'.",
+   "coveredBy": "\"Really / very\" metcha / totemo"
   },
   {
    "id": "B-juubun",
@@ -18664,7 +18664,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Built from two kept items, onaji and gurai, so it needs no card of its own.",
-   "coveredBy": "D onaji + B6 gurai"
+   "coveredBy": "onaji + \"About / exactly\" gurai"
   },
   {
    "id": "B-zutto-by-far",
@@ -18692,7 +18692,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Kanari and kekkou already report how much something changed (kanari yoku natta).",
-   "coveredBy": "B2 kanari, kekkou"
+   "coveredBy": "\"Really / very\" kanari, kekkou"
   },
   {
    "id": "B-hanbun",
@@ -18705,7 +18705,7 @@
    "flags": [],
    "votes": 0,
    "verdict": "covered",
-   "reason": "A fraction, close to out-of-scope numbers; not a gap in conversational intent.",
+   "reason": "fraction, close to out-of-scope numbers; not a gap in conversational intent.",
    "coveredBy": null
   },
   {
@@ -18720,7 +18720,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Rare in speech once spellings are combined; kekkou does the same 'fairly' job.",
-   "coveredBy": "B2 kekkou"
+   "coveredBy": "\"Really / very\" kekkou"
   },
   {
    "id": "B-igai",
@@ -18748,7 +18748,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "'Dotchi mo' (kept dotchi + mo) and zenbu answer 'which one?' with 'both'.",
-   "coveredBy": "J dotchi + B3 mo; B4 zenbu"
+   "coveredBy": "dotchi + \"Also / only\" mo; \"All / a lot\" zenbu"
   },
   {
    "id": "B-konna-ni",
@@ -18776,7 +18776,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "In casual talk zenzen chigau and zenbu wasureta do the 'totally' job.",
-   "coveredBy": "B5 zenzen, B4 zenbu"
+   "coveredBy": "\"Not at all / not much\" zenzen, \"All / a lot\" zenbu"
   },
   {
    "id": "B-mattaku",
@@ -18789,8 +18789,8 @@
    "flags": [],
    "votes": 0,
    "verdict": "covered",
-   "reason": "A stronger, stiffer zenzen; the kept item already gives the meaning.",
-   "coveredBy": "B5 zenzen"
+   "reason": "stronger, stiffer zenzen; the kept item already gives the meaning.",
+   "coveredBy": "\"Not at all / not much\" zenzen"
   },
   {
    "id": "B-chou",
@@ -18807,7 +18807,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Casual-only slang booster; metcha fills the same slot.",
-   "coveredBy": "B2 metcha"
+   "coveredBy": "\"Really / very\" metcha"
   },
   {
    "id": "B-zuibun",
@@ -18821,7 +18821,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Kekkou, kanari and sugoku already react to 'quite a lot'.",
-   "coveredBy": "B2 kekkou, kanari, sugoku"
+   "coveredBy": "\"Really / very\" kekkou, kanari, sugoku"
   },
   {
    "id": "B-ijou",
@@ -18863,7 +18863,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Zenzen oboetenai and zenbu wasureta say 'completely forgot' well enough.",
-   "coveredBy": "B5 zenzen, B4 zenbu"
+   "coveredBy": "\"Not at all / not much\" zenzen, \"All / a lot\" zenbu"
   },
   {
    "id": "B-anna-ni",
@@ -18891,7 +18891,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Minna does the casual 'everyone'.",
-   "coveredBy": "J minna"
+   "coveredBy": "minna"
   },
   {
    "id": "B-tatta",
@@ -18905,7 +18905,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "'Go-fun dake' already says 'only five minutes'. Tatta just adds stress.",
-   "coveredBy": "B3 dake"
+   "coveredBy": "\"Also / only\" dake"
   },
   {
    "id": "B-zutsu",
@@ -18947,7 +18947,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Hotondo already says 'almost all / nearly'.",
-   "coveredBy": "B5 hotondo"
+   "coveredBy": "\"Not at all / not much\" hotondo"
   },
   {
    "id": "B-sappari",
@@ -18963,7 +18963,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Mostly the fixed 'sappari wakaranai'; zenzen wakannai says the same.",
-   "coveredBy": "B5 zenzen"
+   "coveredBy": "\"Not at all / not much\" zenzen"
   },
   {
    "id": "B-sae",
@@ -18977,7 +18977,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Mostly heard, not produced; 'kodomo de mo wakaru' with mo says the same.",
-   "coveredBy": "B3 mo"
+   "coveredBy": "\"Also / only\" mo"
   },
   {
    "id": "B-donna-ni",
@@ -19004,8 +19004,8 @@
    "flags": [],
    "votes": 0,
    "verdict": "covered",
-   "reason": "Same word and job as kept honto ni (B) and hontou ni (C5).",
-   "coveredBy": "B honto ni; C5 maji de / hontou ni"
+   "reason": "Same word and job as kept honto ni (Degree, amount & limits) and hontou ni (Honestly, actually).",
+   "coveredBy": "honto ni; \"Honestly, actually\" maji de / hontou ni"
   },
   {
    "id": "C-tashika-ni",
@@ -19019,7 +19019,7 @@
    "votes": 1,
    "verdict": "covered",
    "reason": "Already kept in G with the same agreeing/conceding job.",
-   "coveredBy": "G tashika ni"
+   "coveredBy": "tashika ni"
   },
   {
    "id": "C-jibun-de",
@@ -19033,7 +19033,7 @@
    "votes": 1,
    "verdict": "covered",
    "reason": "jibun is kept, and adding de is regular; hitori de already does 'by myself'.",
-   "coveredBy": "J jibun; C3 hitori de"
+   "coveredBy": "jibun; \"Together, alone, as is, without asking\" hitori de"
   },
   {
    "id": "C-kanarazu",
@@ -19047,7 +19047,7 @@
    "votes": 1,
    "verdict": "covered",
    "reason": "In casual promises zettai does this job (zettai renraku suru).",
-   "coveredBy": "C2 zettai"
+   "coveredBy": "\"How sure: adverbs\" zettai"
   },
   {
    "id": "C-shikkari",
@@ -19075,7 +19075,7 @@
    "votes": 1,
    "verdict": "covered",
    "reason": "jitsu wa does the 'actually, in truth' job; honto wa is easy to understand from kept honto.",
-   "coveredBy": "C5 jitsu wa; G honto?"
+   "coveredBy": "\"Honestly, actually\" jitsu wa; honto?"
   },
   {
    "id": "C-doushitemo",
@@ -19145,7 +19145,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "futsuu is kept and futsuu ni is regular; the slang 'pretty' sense is optional.",
-   "coveredBy": "D futsuu"
+   "coveredBy": "futsuu"
   },
   {
    "id": "C-tsui",
@@ -19159,7 +19159,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "-chau already carries the 'oops, didn't mean to' sense; tsui only boosts it.",
-   "coveredBy": "I -chau"
+   "coveredBy": "-chau"
   },
   {
    "id": "C-minna-de",
@@ -19173,7 +19173,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "minna plus de is regular, and issho ni does the 'together' job.",
-   "coveredBy": "J minna; C3 issho ni"
+   "coveredBy": "minna; \"Together, alone, as is, without asking\" issho ni"
   },
   {
    "id": "C-igai-to",
@@ -19187,7 +19187,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "omotta yori does the 'surprisingly' job (omotta yori oishii).",
-   "coveredBy": "B omotta yori"
+   "coveredBy": "omotta yori"
   },
   {
    "id": "C-zehi",
@@ -19271,7 +19271,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "maji de / hontou ni do the sincerity check (maji de?).",
-   "coveredBy": "C5 maji de / hontou ni"
+   "coveredBy": "\"Honestly, actually\" maji de / hontou ni"
   },
   {
    "id": "C-mushiro",
@@ -19341,7 +19341,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "ganbaru and ganbatte do the effort talk.",
-   "coveredBy": "H ganbaru; G ganbatte"
+   "coveredBy": "ganbaru; ganbatte"
   },
   {
    "id": "C-somosomo",
@@ -19410,8 +19410,8 @@
    "flags": [],
    "votes": 0,
    "verdict": "covered",
-   "reason": "D4 already teaches mazui desu as yabai's polite form; 'tastes bad' is oishikunai.",
-   "coveredBy": "yabai / mazui desu (D4)"
+   "reason": "\"Amazing & awful\" already teaches mazui desu as yabai's polite form; 'tastes bad' is oishikunai.",
+   "coveredBy": "yabai / mazui desu (Amazing & awful)"
   },
   {
    "id": "D-mendokusai",
@@ -19483,7 +19483,7 @@
    "votes": 1,
    "verdict": "covered",
    "reason": "In casual speech, taihen does the 'that's rough, demanding' job.",
-   "coveredBy": "taihen (D7)"
+   "coveredBy": "taihen (Easy & hard)"
   },
   {
    "id": "D-chikai",
@@ -19567,7 +19567,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Already kept in F as the lead-in 'n da kedo'; the meaning is the same.",
-   "coveredBy": "F n da kedo"
+   "coveredBy": "n da kedo"
   },
   {
    "id": "E-dakedo",
@@ -19581,7 +19581,7 @@
    "votes": 2,
    "verdict": "covered",
    "reason": "At the start of a sentence, demo does the job. Mid-sentence 'hima da kedo' is just -kedo after da.",
-   "coveredBy": "E1 demo, -kedo / desu kedo"
+   "coveredBy": "\"But\" demo, -kedo / desu kedo"
   },
   {
    "id": "E-tokoro-de",
@@ -19609,7 +19609,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "'koohii ka ocha?' says the same thing with the kept -ka.",
-   "coveredBy": "E4 -ka"
+   "coveredBy": "\"Or / for example\" -ka"
   },
   {
    "id": "E-ka-dou-ka",
@@ -19637,7 +19637,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "'And then' and 'in that case' are already handled by de/sorede, jaa and dattara.",
-   "coveredBy": "E3 de / sorede, jaa; E7 dattara"
+   "coveredBy": "\"And then\" de / sorede, jaa; \"If-openers\" dattara"
   },
   {
    "id": "E-sore-demo",
@@ -19651,7 +19651,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "demo is kept with the gloss 'even so'.",
-   "coveredBy": "E1 demo"
+   "coveredBy": "\"But\" demo"
   },
   {
    "id": "E-tte-iu-ka",
@@ -19679,7 +19679,7 @@
    "votes": 1,
    "verdict": "covered",
    "reason": "-shi and ato already add another point. Also much rarer than shikamo (#1672).",
-   "coveredBy": "E2 -shi; E3 ato"
+   "coveredBy": "\"Because / so\" -shi; \"And then\" ato"
   },
   {
    "id": "E-tte-koto-wa",
@@ -19693,7 +19693,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "F's 'tte koto?' and tsumari already draw the inference.",
-   "coveredBy": "F tte koto?; E5 tsumari"
+   "coveredBy": "tte koto?; \"Talking about talk\" tsumari"
   },
   {
    "id": "E-tada",
@@ -19706,8 +19706,8 @@
    "flags": [],
    "votes": 1,
    "verdict": "covered",
-   "reason": "A caveat after agreeing works with demo or -kedo. The #164 rank mostly counts 'just / free'.",
-   "coveredBy": "E1 demo, -kedo"
+   "reason": "caveat after agreeing works with demo or -kedo. The #164 rank mostly counts 'just / free'.",
+   "coveredBy": "\"But\" demo, -kedo"
   },
   {
    "id": "E-sorekara",
@@ -19721,7 +19721,7 @@
    "votes": 2,
    "verdict": "covered",
    "reason": "Rare in dramas (#2967). de/sorede, -te kara and ato cover 'and then' and 'also'.",
-   "coveredBy": "E3 de / sorede, ato; A -te kara"
+   "coveredBy": "\"And then\" de / sorede, ato; -te kara"
   },
   {
    "id": "E-soshite",
@@ -19735,7 +19735,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Sounds like narration. In casual speech, de/sorede are the 'and then'.",
-   "coveredBy": "E3 de / sorede"
+   "coveredBy": "\"And then\" de / sorede"
   },
   {
    "id": "E-sore-to",
@@ -19749,7 +19749,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Does the same job as ato, 'oh, and; also'.",
-   "coveredBy": "E3 ato"
+   "coveredBy": "\"And then\" ato"
   },
   {
    "id": "E-tonikaku",
@@ -19763,7 +19763,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Already kept in C with the same function.",
-   "coveredBy": "C tonikaku"
+   "coveredBy": "tonikaku"
   },
   {
    "id": "E-sore-yori",
@@ -19777,7 +19777,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Built straight from the kept words sore and yori.",
-   "coveredBy": "J sore; B yori"
+   "coveredBy": "sore; yori"
   },
   {
    "id": "E-dekireba",
@@ -19791,7 +19791,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Already kept in C.",
-   "coveredBy": "C dekireba"
+   "coveredBy": "dekireba"
   },
   {
    "id": "E-nanode",
@@ -19804,8 +19804,8 @@
    "flags": [],
    "votes": 0,
    "verdict": "covered",
-   "reason": "Already kept in E2 next to dakara.",
-   "coveredBy": "E2 dakara / nanode"
+   "reason": "Already kept in \"Because / so\" next to dakara.",
+   "coveredBy": "\"Because / so\" dakara / nanode"
   },
   {
    "id": "E-ja-nai-to",
@@ -19819,7 +19819,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "It is -nai plus the kept -to: 'shinai to okureru' is built from items already on the list.",
-   "coveredBy": "E6 -to; I -nai, -ja nai"
+   "coveredBy": "\"If / even if\" -to; -nai, -ja nai"
   },
   {
    "id": "E-sei-de",
@@ -19874,7 +19874,7 @@
    "flags": [],
    "votes": 0,
    "verdict": "skip",
-   "reason": "A narrow way to argue back. Learners rarely need to say it.",
+   "reason": "narrow way to argue back. Learners rarely need to say it.",
    "coveredBy": null
   },
   {
@@ -19891,7 +19891,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "The casual twin of the kept -te mo. Recognise it, but no need to produce it.",
-   "coveredBy": "E6 -te mo"
+   "coveredBy": "\"If / even if\" -te mo"
   },
   {
    "id": "E-kuse-ni",
@@ -19907,7 +19907,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "-noni does the 'even though' job without the accusing tone.",
-   "coveredBy": "E1 -noni"
+   "coveredBy": "\"But\" -noni"
   },
   {
    "id": "F-te-kureru",
@@ -19921,7 +19921,7 @@
    "votes": 1,
    "verdict": "covered",
    "reason": "-te kurenai? already gives the casual favour request; plain kureru? is the same move.",
-   "coveredBy": "-te kurenai? (F4), -te kureru (I)"
+   "coveredBy": "-te kurenai? (Asking someone), -te kureru (Grammar patterns as vocabulary)"
   },
   {
    "id": "F-ta-hou-ga-ii",
@@ -19935,7 +19935,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Same pattern already kept in grammar block I.",
-   "coveredBy": "-ta hou ga ii (I)"
+   "coveredBy": "-ta hou ga ii (Grammar patterns as vocabulary)"
   },
   {
    "id": "F-kara-final",
@@ -19963,7 +19963,7 @@
    "votes": 2,
    "verdict": "covered",
    "reason": "Trailing kedo is the kept -kedo stopped short; n da kedo already teaches the trail-off.",
-   "coveredBy": "-kedo (E), n da kedo (F2)"
+   "coveredBy": "-kedo (Connectors & conditionals), n da kedo (Explaining: n da)"
   },
   {
    "id": "F-ou-kana",
@@ -19991,7 +19991,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Simply n da plus hearsay tte, both kept; decodes and composes directly.",
-   "coveredBy": "n da (F2), tte (F8)"
+   "coveredBy": "n da (Explaining: n da), tte (Seems / I heard)"
   },
   {
    "id": "F-ki-ga-suru",
@@ -20007,7 +20007,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Already kept as a verb phrase in H.",
-   "coveredBy": "ki ga suru (H)"
+   "coveredBy": "ki ga suru (General verbs)"
   },
   {
    "id": "F-kamo-shirenai",
@@ -20021,7 +20021,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Full form of kept kamo, whose polite form is already kamo shiremasen.",
-   "coveredBy": "kamo (F6)"
+   "coveredBy": "kamo (How sure: endings)"
   },
   {
    "id": "F-ppoi",
@@ -20049,7 +20049,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "The kept hearsay tte item already lists sou desu as its polite form.",
-   "coveredBy": "tte / sou desu (F8)"
+   "coveredBy": "tte / sou desu (Seems / I heard)"
   },
   {
    "id": "F-te-yo",
@@ -20063,7 +20063,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Just the kept -te request plus kept yo; tone is learnable from parts.",
-   "coveredBy": "-te (F4), yo (F1)"
+   "coveredBy": "-te (Asking someone), yo (Basic enders)"
   },
   {
    "id": "F-ou-yo",
@@ -20077,7 +20077,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Kept volitional plus kept yo; nothing new to learn.",
-   "coveredBy": "-ou / -you (F7), yo (F1)"
+   "coveredBy": "-ou / -you (Let's, suggestions & plans), yo (Basic enders)"
   },
   {
    "id": "F-mon",
@@ -20107,7 +20107,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Same 'even though / and yet' meaning as the kept connector, clause dropped.",
-   "coveredBy": "-noni (E)"
+   "coveredBy": "-noni (Connectors & conditionals)"
   },
   {
    "id": "F-yotei",
@@ -20135,7 +20135,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Formal counterpart of mitai; casual learner gets the same job from mitai.",
-   "coveredBy": "mitai (F8)"
+   "coveredBy": "mitai (Seems / I heard)"
   },
   {
    "id": "F-hazu-ga-nai",
@@ -20149,7 +20149,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Kept hazu plus nai composes it directly (sonna hazu nai).",
-   "coveredBy": "hazu (F6)"
+   "coveredBy": "hazu (How sure: endings)"
   },
   {
    "id": "F-nai-kana",
@@ -20179,7 +20179,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Feminine variant of the explanatory ending; n da yo and no do the job.",
-   "coveredBy": "n da yo (F9), no? (F2)"
+   "coveredBy": "n da yo (More enders), no? (Explaining: n da)"
   },
   {
    "id": "F-tteba",
@@ -20389,7 +20389,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Same word is kept in D with both the 'fine' and 'no thanks' uses.",
-   "coveredBy": "daijoubu (D)"
+   "coveredBy": "daijoubu (Versatile adjectives)"
   },
   {
    "id": "G-sugoi",
@@ -20403,7 +20403,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Kept in D; the reaction use is the same word.",
-   "coveredBy": "sugoi (D)"
+   "coveredBy": "sugoi (Versatile adjectives)"
   },
   {
    "id": "G-da-yo-ne",
@@ -20417,7 +20417,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Built from kept yo ne plus sou da ne; strong agreement is already sayable.",
-   "coveredBy": "yo ne (F), sou da ne (G7)"
+   "coveredBy": "yo ne (Sentence endings & intent), sou da ne (Replies with sou)"
   },
   {
    "id": "G-mata-ne",
@@ -20433,7 +20433,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "jaa ne plus kept mata gives 'jaa, mata ne' directly.",
-   "coveredBy": "jaa ne (G3), mata (A)"
+   "coveredBy": "jaa ne (Hello and goodbye), mata (Time & sequence)"
   },
   {
    "id": "G-sou-sou",
@@ -20447,7 +20447,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Just sou doubled for emphasis; nothing new to learn.",
-   "coveredBy": "sou (G7)"
+   "coveredBy": "sou (Replies with sou)"
   },
   {
    "id": "G-ja-nakute",
@@ -20475,7 +20475,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Declining and dropping a topic already work with daijoubu and chotto...",
-   "coveredBy": "daijoubu (D), chotto... (G8)"
+   "coveredBy": "daijoubu (Versatile adjectives), chotto... (Accepting and declining)"
   },
   {
    "id": "G-dame",
@@ -20489,7 +20489,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Kept in D; the exclamation is the same word.",
-   "coveredBy": "dame (D)"
+   "coveredBy": "dame (Versatile adjectives)"
   },
   {
    "id": "G-zannen",
@@ -20503,7 +20503,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Kept in D; 'zannen' as a reaction is the same word.",
-   "coveredBy": "zannen (D)"
+   "coveredBy": "zannen (Versatile adjectives)"
   },
   {
    "id": "G-ryoukai",
@@ -20517,7 +20517,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "wakatta does the same acknowledgement and is safer with anyone.",
-   "coveredBy": "wakatta (G4)"
+   "coveredBy": "wakatta (Got it / say again)"
   },
   {
    "id": "G-mochiron",
@@ -20531,7 +20531,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Kept in C; it already works as a standalone reply.",
-   "coveredBy": "mochiron (C)"
+   "coveredBy": "mochiron (Stance, attitude & manner)"
   },
   {
    "id": "G-masaka",
@@ -20545,7 +20545,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Kept in C; the reaction use is the same word.",
-   "coveredBy": "masaka (C)"
+   "coveredBy": "masaka (Stance, attitude & manner)"
   },
   {
    "id": "G-dou-shiyou",
@@ -20573,7 +20573,7 @@
    "votes": 2,
    "verdict": "covered",
    "reason": "ii plus naa says exactly 'lucky you'; worth an example sentence, not a card.",
-   "coveredBy": "ii (D), naa (F)"
+   "coveredBy": "ii (Versatile adjectives), naa (Sentence endings & intent)"
   },
   {
    "id": "G-taihen-da-ne",
@@ -20589,7 +20589,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "taihen plus da ne, all kept; the sympathy reply comes for free.",
-   "coveredBy": "taihen (D), sou da ne (G7)"
+   "coveredBy": "taihen (Versatile adjectives), sou da ne (Replies with sou)"
   },
   {
    "id": "G-ki-ni-shinaide",
@@ -20605,7 +20605,7 @@
    "votes": 1,
    "verdict": "covered",
    "reason": "ii yo and daijoubu already answer gomen; this is a nicer synonym.",
-   "coveredBy": "ii yo (G8), daijoubu (D)"
+   "coveredBy": "ii yo (Accepting and declining), daijoubu (Versatile adjectives)"
   },
   {
    "id": "G-a",
@@ -20619,7 +20619,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "aa already covers 'oh!' noticing and remembering; the difference is just length.",
-   "coveredBy": "aa (G6)"
+   "coveredBy": "aa (Showing interest)"
   },
   {
    "id": "G-ee-aww",
@@ -20635,7 +20635,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Drawn-out e?; tone carries the protest, no separate card needed.",
-   "coveredBy": "e? (G5)"
+   "coveredBy": "e? (Surprise)"
   },
   {
    "id": "G-maji",
@@ -20652,7 +20652,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "honto? and kept maji de already give 'really? seriously?'.",
-   "coveredBy": "honto? (G5), maji de (C)"
+   "coveredBy": "honto? (Surprise), maji de (Stance, attitude & manner)"
   },
   {
    "id": "G-yatta",
@@ -20682,7 +20682,7 @@
    "votes": 1,
    "verdict": "covered",
    "reason": "iie said twice; kept iie already deflects thanks and apologies.",
-   "coveredBy": "iie (G1)"
+   "coveredBy": "iie (Yes and no)"
   },
   {
    "id": "G-shitsurei-shimasu",
@@ -20698,7 +20698,7 @@
    "votes": 1,
    "verdict": "covered",
    "reason": "Already kept as the polite form of jaa ne.",
-   "coveredBy": "jaa ne / shitsurei shimasu (G3)"
+   "coveredBy": "jaa ne / shitsurei shimasu (Hello and goodbye)"
   },
   {
    "id": "G-tadaima",
@@ -21008,7 +21008,7 @@
    "votes": 1,
    "verdict": "covered",
    "reason": "Already kept in sentence endings as the let's form.",
-   "coveredBy": "F -ou / -you (let's (do)), F -ou ka / -you ka"
+   "coveredBy": "-ou / -you (let's (do)), -ou ka / -you ka"
   },
   {
    "id": "I-tsumori",
@@ -21022,7 +21022,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Kept in sentence endings with the same job.",
-   "coveredBy": "F tsumori (intend to / plan to)"
+   "coveredBy": "tsumori (intend to / plan to)"
   },
   {
    "id": "I-ou-to-omou",
@@ -21036,7 +21036,7 @@
    "votes": 1,
    "verdict": "covered",
    "reason": "Kept in sentence endings word for word.",
-   "coveredBy": "F -ou / -you to omou (I'm thinking of (doing))"
+   "coveredBy": "-ou / -you to omou (I'm thinking of (doing))"
   },
   {
    "id": "I-naide",
@@ -21050,7 +21050,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Both senses are already kept: the request and 'without doing'.",
-   "coveredBy": "F -naide (don't... (casual request)), E -naide (without doing)"
+   "coveredBy": "-naide (don't... (casual request)), -naide (without doing)"
   },
   {
    "id": "I-koto-ni-naru",
@@ -21134,7 +21134,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Casual speech uses the potential form, which is kept, for ability.",
-   "coveredBy": "I3 -eru / -rareru (can (do))"
+   "coveredBy": "\"Want, can, have done\" -eru / -rareru (can (do))"
   },
   {
    "id": "I-tame-ni",
@@ -21148,7 +21148,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Already kept among connectors.",
-   "coveredBy": "E -tame ni (in order to; for)"
+   "coveredBy": "-tame ni (in order to; for)"
   },
   {
    "id": "I-yotei",
@@ -21162,7 +21162,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Kept tsumori already covers 'plan to'; the noun 'plans' is closer to a topic word.",
-   "coveredBy": "F tsumori (intend to / plan to)"
+   "coveredBy": "tsumori (intend to / plan to)"
   },
   {
    "id": "I-ba-ii",
@@ -21176,7 +21176,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Near-twin with the same job: dou shitara ii? covers dou sureba ii?",
-   "coveredBy": "I10 -tara ii (should I / you could)"
+   "coveredBy": "\"Advice\" -tara ii (should I / you could)"
   },
   {
    "id": "I-nakucha",
@@ -21190,7 +21190,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Second contraction of the same obligation as the kept -nakya.",
-   "coveredBy": "I5 -nakya (have to, must)"
+   "coveredBy": "\"May and must\" -nakya (have to, must)"
   },
   {
    "id": "I-hajimeru",
@@ -21246,7 +21246,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Already kept among connectors.",
-   "coveredBy": "E -tari ... -tari suru (doing things like ... and ...)"
+   "coveredBy": "-tari ... -tari suru (doing things like ... and ...)"
   },
   {
    "id": "I-you-ni-suru",
@@ -21288,7 +21288,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "-teru covers result states and -toku covers deliberate preparation; you rarely need to say it yourself.",
-   "coveredBy": "I2 -teru (is in a state), I2 -toku (do in advance)"
+   "coveredBy": "\"Doing and done\" -teru (is in a state), \"Doing and done\" -toku (do in advance)"
   },
   {
    "id": "I-ou-to-suru",
@@ -21315,8 +21315,8 @@
    "flags": [],
    "votes": 1,
    "verdict": "covered",
-   "reason": "Already kept: J2 lists nande / doushite together.",
-   "coveredBy": "J2 nande / doushite"
+   "reason": "Already kept: \"Question words\" lists nande / doushite together.",
+   "coveredBy": "\"Question words\" nande / doushite"
   },
   {
    "id": "J-ano-hito",
@@ -21330,7 +21330,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Composes from kept ano + hito; worth adding 'ano hito = he/she' to the hito gloss.",
-   "coveredBy": "J4 ano + J10 hito"
+   "coveredBy": "\"this/that + noun\" ano + \"Person, thing, matter, place\" hito"
   },
   {
    "id": "J-nanka",
@@ -21346,7 +21346,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Casual contraction of kept nanika; the filler sense is already in G.",
-   "coveredBy": "J11 nanika; G nanka"
+   "coveredBy": "\"Something, someone\" nanika; nanka"
   },
   {
    "id": "J-nante",
@@ -21362,7 +21362,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Both uses are already kept as G phrases.",
-   "coveredBy": "G nante?; G nihongo de nante iu?"
+   "coveredBy": "nante?; nihongo de nante iu?"
   },
   {
    "id": "J-yatsu",
@@ -21392,7 +21392,7 @@
    "votes": 1,
    "verdict": "covered",
    "reason": "kou iu no and konna no do the same job; konna is kept.",
-   "coveredBy": "J7 konna; J6 kou"
+   "coveredBy": "\"What kind\" konna; \"How / this way\" kou"
   },
   {
    "id": "J-dore-kurai",
@@ -21422,7 +21422,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Follows directly from dotchi plus the kept nandemo/dokodemo pattern.",
-   "coveredBy": "J8 dotchi + J13 -demo series"
+   "coveredBy": "\"this/that: ways & sides\" dotchi + \"Anything, anyone\" -demo series"
   },
   {
    "id": "J-kono-hen",
@@ -21569,7 +21569,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Regular nani + no; nothing new to learn.",
-   "coveredBy": "J2 nani"
+   "coveredBy": "\"Question words\" nani"
   },
   {
    "id": "J-naze",
@@ -21583,7 +21583,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Formal 'why'; nande / doushite are already kept for conversation.",
-   "coveredBy": "J2 nande / doushite"
+   "coveredBy": "\"Question words\" nande / doushite"
   },
   {
    "id": "J-kimi",
@@ -21614,7 +21614,7 @@
    "votes": 1,
    "verdict": "covered",
    "reason": "Means the same as kept anna, and is less frequent (#1183).",
-   "coveredBy": "J7 anna"
+   "coveredBy": "\"What kind\" anna"
   },
   {
    "id": "J-atashi",
@@ -22273,7 +22273,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Skill and success are covered by umaku; tasty by oishii. Rank includes umaku.",
-   "coveredBy": "umaku (C), oishii (D5)"
+   "coveredBy": "umaku (Stance, attitude & manner), oishii (Fun, tasty, cute)"
   },
   {
    "id": "D-kakkoii",
@@ -22539,7 +22539,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Speakers check with 'kore de ii?' and correct with chigau; tadashii is bookish.",
-   "coveredBy": "-de ii (I), chigau (H)"
+   "coveredBy": "-de ii (Grammar patterns as vocabulary), chigau (General verbs)"
   },
   {
    "id": "D-kitanai",
@@ -22623,7 +22623,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "In speech, yokatta does relief and daijoubu does 'don't worry'.",
-   "coveredBy": "yokatta (G), daijoubu (D1)"
+   "coveredBy": "yokatta (Responses, reactions, fillers & social phrases), daijoubu (Good or no good)"
   },
   {
    "id": "D-tsugou",
@@ -22681,7 +22681,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "'Dunno' is wakannai; 'come on, let's' is jaa or -ou.",
-   "coveredBy": "wakannai (G4), jaa (E)"
+   "coveredBy": "wakannai (Got it / say again), jaa (Connectors & conditionals)"
   },
   {
    "id": "G-doumo",
@@ -22726,7 +22726,7 @@
    "votes": 1,
    "verdict": "covered",
    "reason": "mou plus ii, both kept; 'enough / I'm fine' follows directly.",
-   "coveredBy": "mou (A), ii (D)"
+   "coveredBy": "mou (Time & sequence), ii (Versatile adjectives)"
   },
   {
    "id": "G-nandemonai",
@@ -22742,7 +22742,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "nandemo plus -nai, and betsu ni, already say 'it's nothing'.",
-   "coveredBy": "nandemo (J), betsu ni (C)"
+   "coveredBy": "nandemo (Pointing, question & people words), betsu ni (Stance, attitude & manner)"
   },
   {
    "id": "G-arienai",
@@ -22756,7 +22756,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Incredulity is handled by uso and masaka; lower frequency (#2915).",
-   "coveredBy": "uso (G5), masaka (C)"
+   "coveredBy": "uso (Surprise), masaka (Stance, attitude & manner)"
   },
   {
    "id": "G-omatase",
@@ -22818,7 +22818,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "'So-so' is sayable with futsuu or maa; calming use is narrow.",
-   "coveredBy": "futsuu (D), maa (G11)"
+   "coveredBy": "futsuu (Versatile adjectives), maa (Fillers)"
   },
   {
    "id": "G-fuun",
@@ -22834,7 +22834,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "hee covers the listening reply; flat fuun is tone, mostly recognised.",
-   "coveredBy": "hee (G6)"
+   "coveredBy": "hee (Showing interest)"
   },
   {
    "id": "G-baibai",
@@ -22850,7 +22850,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "jaa ne is the casual goodbye; bye-bye adds nothing.",
-   "coveredBy": "jaa ne (G3)"
+   "coveredBy": "jaa ne (Hello and goodbye)"
   },
   {
    "id": "G-dou-demo-ii",
@@ -22864,7 +22864,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "betsu ni and nandemo ii already dismiss choices and details.",
-   "coveredBy": "betsu ni (C), nandemo (J), ii (D)"
+   "coveredBy": "betsu ni (Stance, attitude & manner), nandemo (Pointing, question & people words), ii (Versatile adjectives)"
   },
   {
    "id": "G-mondai-nai",
@@ -22878,7 +22878,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "daijoubu does 'no problem' everywhere.",
-   "coveredBy": "daijoubu (D)"
+   "coveredBy": "daijoubu (Versatile adjectives)"
   },
   {
    "id": "G-osaki-ni",
@@ -22940,7 +22940,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "sonna koto nai already deflects thanks and praise.",
-   "coveredBy": "sonna koto nai (G12)"
+   "coveredBy": "sonna koto nai (Comfort and cheer)"
   },
   {
    "id": "G-douitashimashite",
@@ -22972,7 +22972,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "daijoubu desu is the everyday polite 'no thanks'.",
-   "coveredBy": "daijoubu (D)"
+   "coveredBy": "daijoubu (Versatile adjectives)"
   },
   {
    "id": "G-joudan",
@@ -22986,7 +22986,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "'uso uso' and 'uso da yo' already mean 'just kidding'.",
-   "coveredBy": "uso (G5)"
+   "coveredBy": "uso (Surprise)"
   },
   {
    "id": "G-kankei-nai",
@@ -23016,7 +23016,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "chotto... already declines; yoji is an extra noun excuse.",
-   "coveredBy": "chotto... (G8)"
+   "coveredBy": "chotto... (Accepting and declining)"
   },
   {
    "id": "G-hanashi",
@@ -23046,7 +23046,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "nani plus sore, both kept; the phrase builds itself.",
-   "coveredBy": "nani (J), sore (J)"
+   "coveredBy": "nani (Pointing, question & people words), sore (Pointing, question & people words)"
   },
   {
    "id": "G-okkee",
@@ -23062,7 +23062,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "ii yo and wakatta handle casual agreement; loanword needs no card.",
-   "coveredBy": "ii yo (G8), wakatta (G4)"
+   "coveredBy": "ii yo (Accepting and declining), wakatta (Got it / say again)"
   },
   {
    "id": "G-mada-mada",
@@ -23076,7 +23076,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "sonna koto nai deflects praise; mada mada is kept mada doubled.",
-   "coveredBy": "mada (A), sonna koto nai (G12)"
+   "coveredBy": "mada (Time & sequence), sonna koto nai (Comfort and cheer)"
   },
   {
    "id": "G-taishita-koto-nai",
@@ -23092,7 +23092,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "daijoubu and sonna koto nai already downplay; full phrase only #3108.",
-   "coveredBy": "daijoubu (D), sonna koto nai (G12)"
+   "coveredBy": "daijoubu (Versatile adjectives), sonna koto nai (Comfort and cheer)"
   },
   {
    "id": "G-mukatsuku",
@@ -23126,7 +23126,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "maa plus ii plus ka, all kept; shouganai covers the attitude.",
-   "coveredBy": "maa (G11), ii (D), shouganai (G12)"
+   "coveredBy": "maa (Fillers), ii (Versatile adjectives), shouganai (Comfort and cheer)"
   },
   {
    "id": "G-osusume",
@@ -23154,7 +23154,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "itsumo wa ... kedo kyou wa makes the same habit-versus-now contrast.",
-   "coveredBy": "itsumo (A3)"
+   "coveredBy": "itsumo (How often)"
   },
   {
    "id": "A-motomoto",
@@ -23198,7 +23198,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "itsuka does the vague 'someday / eventually' job.",
-   "coveredBy": "itsuka (J)"
+   "coveredBy": "itsuka (Pointing, question & people words)"
   },
   {
    "id": "A-tochuu",
@@ -23242,7 +23242,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "mou + negative already says 'not anymore'; nido to only adds force.",
-   "coveredBy": "mou (A2)"
+   "coveredBy": "mou (Already, still, finally)"
   },
   {
    "id": "B-sorezore",
@@ -23270,7 +23270,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Rare in drama speech (#4814); daitai and itsumo already frame routines.",
-   "coveredBy": "B daitai; A itsumo"
+   "coveredBy": "daitai; itsumo"
   },
   {
    "id": "C-kojinteki-ni",
@@ -23284,7 +23284,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "watashi wa ... to omou already marks an opinion as one's own.",
-   "coveredBy": "J watashi; F to omou"
+   "coveredBy": "watashi; to omou"
   },
   {
    "id": "C-tsuide-ni",
@@ -23326,7 +23326,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "mitai carries the comparison; marude only strengthens it.",
-   "coveredBy": "F mitai"
+   "coveredBy": "mitai"
   },
   {
    "id": "E-shikamo",
@@ -23410,7 +23410,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "'No need to' is the same job as the kept 'don't have to'.",
-   "coveredBy": "I5 -nakute mo ii (don't have to)"
+   "coveredBy": "\"May and must\" -nakute mo ii (don't have to)"
   },
   {
    "id": "I-beki",
@@ -23424,7 +23424,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Casual advice uses -ta hou ga ii; beki sounds stronger and preachy.",
-   "coveredBy": "I10 -ta hou ga ii (you should)"
+   "coveredBy": "\"Advice\" -ta hou ga ii (you should)"
   },
   {
    "id": "I-nante-dismissive",
@@ -23452,7 +23452,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Just an emphatic mou.",
-   "coveredBy": "mou (A2)"
+   "coveredBy": "mou (Already, still, finally)"
   },
   {
    "id": "A-imasara",
@@ -23522,7 +23522,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "dekireba does the 'if possible' softening (dekireba hayaku).",
-   "coveredBy": "C6 dekireba"
+   "coveredBy": "\"Softeners\" dekireba"
   },
   {
    "id": "C-tekkiri",
@@ -23536,7 +23536,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "-to omotta (kedo) already clears up a wrong assumption; tekkiri is #2954.",
-   "coveredBy": "F to omou; E -kedo"
+   "coveredBy": "to omou; -kedo"
   },
   {
    "id": "D-yokei",
@@ -23578,7 +23578,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "shinpai does 'uneasy about it' in casual speech.",
-   "coveredBy": "shinpai (D9)"
+   "coveredBy": "shinpai (Glad, let down, worried)"
   },
   {
    "id": "D-fushigi",
@@ -23592,7 +23592,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "hen covers 'strange'; little need to produce 'mysterious'.",
-   "coveredBy": "hen (D11)"
+   "coveredBy": "hen (Same & different)"
   },
   {
    "id": "D-kimochi-warui",
@@ -23633,7 +23633,7 @@
    "flags": [],
    "votes": 0,
    "verdict": "covered",
-   "reason": "Duplicate of D-tsugou; daijoubu covers it.",
+   "reason": "Duplicate of tsugou ga ii / tsugou ga warui; daijoubu covers it.",
    "coveredBy": null
   },
   {
@@ -23648,7 +23648,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "muzukashii covers 'complicated' in casual speech; rank #2491.",
-   "coveredBy": "muzukashii (D7)"
+   "coveredBy": "muzukashii (Easy & hard)"
   },
   {
    "id": "D-mashi",
@@ -23662,7 +23662,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "'kotchi no hou ga ii' already does the comparison.",
-   "coveredBy": "no hou ga (B), ii (D1)"
+   "coveredBy": "no hou ga (Degree, amount & limits), ii (Good or no good)"
   },
   {
    "id": "D-bimyou",
@@ -23704,7 +23704,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Sounds like instructions. In conversation, -tara, -nara and -toki cover contingencies.",
-   "coveredBy": "E6 -tara, -nara; A -toki"
+   "coveredBy": "\"If / even if\" -tara, -nara; -toki"
   },
   {
    "id": "F-dou-yara",
@@ -23718,7 +23718,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Narrative-leaning opener (#1812); rashii and mitai carry the evidential meaning alone.",
-   "coveredBy": "rashii, mitai (F8)"
+   "coveredBy": "rashii, mitai (Seems / I heard)"
   },
   {
    "id": "G-uwa",
@@ -23748,7 +23748,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "sou plus desho already say 'well, obviously'.",
-   "coveredBy": "sou (G7), desho? (F)"
+   "coveredBy": "sou (Replies with sou), desho? (Sentence endings & intent)"
   },
   {
    "id": "G-maa-ne",
@@ -23764,7 +23764,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "maa plus ne, both kept; the half-yes builds itself.",
-   "coveredBy": "maa (G11), ne (F)"
+   "coveredBy": "maa (Fillers), ne (Sentence endings & intent)"
   },
   {
    "id": "G-shimatta",
@@ -23778,7 +23778,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "yabai is the everyday 'uh-oh'; shimatta is rarer (#3395).",
-   "coveredBy": "yabai (D)"
+   "coveredBy": "yabai (Versatile adjectives)"
   },
   {
    "id": "G-ano-ne",
@@ -23794,7 +23794,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "nee / ano 'hey, listen' already raises a topic.",
-   "coveredBy": "nee / ano (G10)"
+   "coveredBy": "nee / ano (Getting attention)"
   },
   {
    "id": "G-nantoka-naru",
@@ -23810,7 +23810,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "nantoka plus naru, both kept.",
-   "coveredBy": "nantoka (C), naru (H)"
+   "coveredBy": "nantoka (Stance, attitude & manner), naru (General verbs)"
   },
   {
    "id": "G-nanda",
@@ -23882,7 +23882,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Already kept among connectors as 'it depends on'.",
-   "coveredBy": "E -ni yoru (it depends on)"
+   "coveredBy": "-ni yoru (it depends on)"
   },
   {
    "id": "I-toori",
@@ -23924,7 +23924,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "ano already points at shared knowledge (ano mise); rei no is more businesslike.",
-   "coveredBy": "J4 ano"
+   "coveredBy": "\"this/that + noun\" ano"
   },
   {
    "id": "J-mukou",
@@ -23938,7 +23938,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "atchi and asoko cover 'over there' and 'their side' in casual speech.",
-   "coveredBy": "J8 atchi; J3 asoko"
+   "coveredBy": "\"this/that: ways & sides\" atchi; \"this/that: places\" asoko"
   },
   {
    "id": "D-anshin-2",
@@ -23952,7 +23952,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Duplicate of anshin; yokatta is the spoken 'what a relief'.",
-   "coveredBy": "yokatta (G)"
+   "coveredBy": "yokatta (Responses, reactions, fillers & social phrases)"
   },
   {
    "id": "D-kyoumi-aru",
@@ -23994,7 +23994,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Built from kept parts: dake + ja nakute + mo.",
-   "coveredBy": "B dake, mo; I -kunai / -ja nai, -kutte / -de"
+   "coveredBy": "dake, mo; -kunai / -ja nai, -kutte / -de"
   },
   {
    "id": "F-machigai-nai",
@@ -24008,7 +24008,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Certainty already carried by zettai and kitto.",
-   "coveredBy": "zettai, kitto (C)"
+   "coveredBy": "zettai, kitto (Stance, attitude & manner)"
   },
   {
    "id": "F-ni-kimatteru",
@@ -24066,7 +24066,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "ii ne plus tte kanji already say 'looking good'.",
-   "coveredBy": "ii ne (G8), tte kanji (F)"
+   "coveredBy": "ii ne (Accepting and declining), tte kanji (Sentence endings & intent)"
   },
   {
    "id": "H-yaku-ni-tatsu",
@@ -24108,7 +24108,7 @@
    "votes": 1,
    "verdict": "covered",
    "reason": "Kept koto already carries 'about X'.",
-   "coveredBy": "J koto (thing, matter; about X)"
+   "coveredBy": "koto (thing, matter; about X)"
   },
   {
    "id": "I-to-shite",
@@ -24630,7 +24630,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "daijoubu does 'fine, no problem' in nearly every context.",
-   "coveredBy": "daijoubu (D1)"
+   "coveredBy": "daijoubu (Good or no good)"
   },
   {
    "id": "D-oshii",
@@ -24658,7 +24658,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "'arigatou' and 'ureshii' cover 'that would be great' in speech.",
-   "coveredBy": "arigatou (G), ureshii (D9)"
+   "coveredBy": "arigatou (Responses, reactions, fillers & social phrases), ureshii (Glad, let down, worried)"
   },
   {
    "id": "D-ayashii",
@@ -24910,7 +24910,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "zannen covers 'disappointing' in conversation.",
-   "coveredBy": "zannen (D9)"
+   "coveredBy": "zannen (Glad, let down, worried)"
   },
   {
    "id": "D-sukkiri",
@@ -24954,7 +24954,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "saiaku already condemns things as the worst.",
-   "coveredBy": "saiaku (D4)"
+   "coveredBy": "saiaku (Amazing & awful)"
   },
   {
    "id": "C-chokusetsu",
@@ -24984,7 +24984,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "hayaku does 'hurry up and' (hayaku kimete).",
-   "coveredBy": "C1 hayaku"
+   "coveredBy": "\"Fast, slow, properly, well\" hayaku"
   },
   {
    "id": "A-ikinari",
@@ -24998,7 +24998,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "kyuu ni is the everyday 'suddenly'.",
-   "coveredBy": "kyuu ni (A4)"
+   "coveredBy": "kyuu ni (Soon, suddenly, gradually)"
   },
   {
    "id": "A-maikai",
@@ -25012,7 +25012,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "itsumo handles 'every time' complaints (itsumo osoi jan).",
-   "coveredBy": "itsumo (A3)"
+   "coveredBy": "itsumo (How often)"
   },
   {
    "id": "A-imagoro",
@@ -25040,7 +25040,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "'Daitai wakaru' already hedges skill or knowledge.",
-   "coveredBy": "B6 daitai"
+   "coveredBy": "\"About / exactly\" daitai"
   },
   {
    "id": "E-ni-shite-wa",
@@ -25114,7 +25114,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "sou kana, dou and kana are all kept.",
-   "coveredBy": "sou kana (G7), dou (J), kana (F)"
+   "coveredBy": "sou kana (Replies with sou), dou (Pointing, question & people words), kana (Sentence endings & intent)"
   },
   {
    "id": "G-imi-nai",
@@ -25128,7 +25128,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "imi is already taught in dou iu imi?; adding nai is transparent.",
-   "coveredBy": "dou iu imi? (G9)"
+   "coveredBy": "dou iu imi? (Asking about words)"
   },
   {
    "id": "G-himitsu",
@@ -25282,7 +25282,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Same word as the kept naka / soto pair.",
-   "coveredBy": "J9 naka / soto"
+   "coveredBy": "\"In, on, near, other\" naka / soto"
   },
   {
    "id": "J-ue",
@@ -25296,7 +25296,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Same word as the kept ue / shita pair.",
-   "coveredBy": "J9 ue / shita"
+   "coveredBy": "\"In, on, near, other\" ue / shita"
   },
   {
    "id": "J-shita",
@@ -25310,7 +25310,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Same word as the kept ue / shita pair.",
-   "coveredBy": "J9 ue / shita"
+   "coveredBy": "\"In, on, near, other\" ue / shita"
   },
   {
    "id": "J-soto",
@@ -25324,7 +25324,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Same word as the kept naka / soto pair.",
-   "coveredBy": "J9 naka / soto"
+   "coveredBy": "\"In, on, near, other\" naka / soto"
   },
   {
    "id": "J-tonari",
@@ -25352,7 +25352,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Duplicate; it comes in with the mae / ushiro re-add.",
-   "coveredBy": "J-mae-ushiro (re-add)"
+   "coveredBy": "mae / ushiro (re-add)"
   },
   {
    "id": "J-koitsu",
@@ -25454,7 +25454,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "tsumaranai handles dismissing a show, joke or talk.",
-   "coveredBy": "tsumaranai (D5)"
+   "coveredBy": "tsumaranai (Fun, tasty, cute)"
   },
   {
    "id": "D-naka-ga-ii",
@@ -25496,7 +25496,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "ganbatte already cheers someone on.",
-   "coveredBy": "ganbatte (G12)"
+   "coveredBy": "ganbatte (Comfort and cheer)"
   },
   {
    "id": "G-kanben-shite",
@@ -25558,7 +25558,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Rarer than jaa ne in daily speech; jaa ne does the job.",
-   "coveredBy": "jaa ne (G3)"
+   "coveredBy": "jaa ne (Hello and goodbye)"
   },
   {
    "id": "G-waa",
@@ -25572,7 +25572,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Delighted reaction is handled by sugoi and hee.",
-   "coveredBy": "sugoi (D), hee (G6)"
+   "coveredBy": "sugoi (Versatile adjectives), hee (Showing interest)"
   },
   {
    "id": "H-tsurete-iku",
@@ -25782,7 +25782,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Same job as the kept -nikui; the nuance difference doesn't block communication.",
-   "coveredBy": "I7 -nikui (hard to)"
+   "coveredBy": "\"Too, easy, hard\" -nikui (hard to)"
   },
   {
    "id": "J-imi",
@@ -25810,7 +25810,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "wake da and -wake ja nai are kept; dou iu wake follows from them.",
-   "coveredBy": "F wake da; I -wake ja nai"
+   "coveredBy": "wake da; -wake ja nai"
   },
   {
    "id": "D-karui",
@@ -25896,7 +25896,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "muri plus -naide, both kept.",
-   "coveredBy": "muri (D), -naide (F)"
+   "coveredBy": "muri (Versatile adjectives), -naide (Sentence endings & intent)"
   },
   {
    "id": "H-agaru-sagaru",
@@ -25994,7 +25994,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "yori and no hou ga already make any comparison.",
-   "coveredBy": "B yori, no hou ga"
+   "coveredBy": "yori, no hou ga"
   },
   {
    "id": "J-migi-hidari",
@@ -26241,7 +26241,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "chotto ii? and kiku already ask permission to ask.",
-   "coveredBy": "chotto ii? (G10), kiku (H)"
+   "coveredBy": "chotto ii? (Getting attention), kiku (General verbs)"
   },
   {
    "id": "J-kotoba",
@@ -26339,7 +26339,7 @@
    "votes": 0,
    "verdict": "covered",
    "reason": "Follows from dotchi plus the kept nanika/dareka pattern.",
-   "coveredBy": "J8 dotchi + J11 -ka series"
+   "coveredBy": "\"this/that: ways & sides\" dotchi + \"Something, someone\" -ka series"
   },
   {
    "id": "J-konna-kanji",
@@ -26366,7 +26366,7 @@
    "flags": [],
    "votes": 0,
    "verdict": "covered",
-   "reason": "Duplicate of D-yaruki.",
+   "reason": "Duplicate of yaruki aru.",
    "coveredBy": null
   },
   {
@@ -26397,7 +26397,7 @@
    "votes": 1,
    "verdict": "covered",
    "reason": "mata plus kondo, both kept; chotto... softens the refusal.",
-   "coveredBy": "mata (A), kondo (A), chotto... (G8)"
+   "coveredBy": "mata (Time & sequence), kondo (Time & sequence), chotto... (Accepting and declining)"
   },
   {
    "id": "I-garu-tagaru",

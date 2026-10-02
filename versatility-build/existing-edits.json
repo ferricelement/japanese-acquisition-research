@@ -76,5 +76,9 @@
    "E-tame-ni",
    "E-you-ni"
   ]
+ },
+ "blockLabels": {
+  "C2": "How sure: adverbs",
+  "F6": "How sure: endings"
  }
 }

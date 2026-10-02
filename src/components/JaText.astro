@@ -1,0 +1,8 @@
+---
+import { jaRuns } from '../lib/data';
+
+// English prose with Japanese runs tagged lang="ja" (for screen readers and the Japanese font).
+interface Props { text: string }
+---
+
+{jaRuns(Astro.props.text).map((r) => (r.ja ? <span lang="ja">{r.text}</span> : r.text))}

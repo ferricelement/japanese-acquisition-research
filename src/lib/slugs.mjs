@@ -1,8 +1,36 @@
-// Short, stable URL slugs per category key (shared by astro.config.mjs and src/lib/data.ts).
+// Shared by astro.config.mjs (sidebar) and src/lib/data.ts (pages), so URLs match.
+
+// Short, stable URL slugs per category key.
 export const CAT_SLUGS = {
 	A: 'time', B: 'degree', C: 'stance', D: 'adjectives', E: 'connectors',
 	F: 'endings', G: 'responses', H: 'verbs', I: 'patterns', J: 'pointing',
 };
+
+/** URL slug for a category key, e.g. 'A' -> 'time'. */
+export const catSlug = (/** @type {string} */ key) => CAT_SLUGS[/** @type {keyof typeof CAT_SLUGS} */ (key)];
+
+/** Root-relative path (no base) of a chunk page. */
+export const chunkPath = (/** @type {number} */ stage, /** @type {string} */ slug) => `/stages/${stage}/${slug}/`;
+
+export const slugify = (/** @type {string} */ s) =>
+	s.toLowerCase().replace(/&/g, ' ').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+
+/**
+ * URL slug per chunk id: its label, plus the category slug when two chunks share a label.
+ * @param {{ id: string, label: string }[]} blocks
+ * @returns {Record<string, string>}
+ */
+export function chunkSlugs(blocks) {
+	const counts = {};
+	for (const b of blocks) counts[slugify(b.label)] = (counts[slugify(b.label)] ?? 0) + 1;
+	const out = {};
+	for (const b of blocks) {
+		const s = slugify(b.label);
+		out[b.id] = counts[s] > 1 ? `${s}-${catSlug(b.id[0])}` : s;
+	}
+	if (new Set(Object.values(out)).size !== blocks.length) throw new Error('chunk slugs are not unique');
+	return out;
+}
 
 // Research documents rendered as pages; the other research files are linked as data.
 export const RESEARCH_DOCS = [
