@@ -1,0 +1,4069 @@
+{
+ "title": "Stage 1 listening stories",
+ "stage": 1,
+ "intro": "Short listening stories built from Stage 1 of the versatility list. Stories 1–9 go from easiest to hardest; stories 10–13 are practice stories built around the Stage 1 words the first nine use least (greetings, degree words, polite past forms, sequencing). For each one: listen without looking at any text, answer the five questions, then open Answers and transcript to check. Each line gives the Japanese for your voice tool, with the speaker and a voice hint; if the voice misreads a kanji, use the kana version of that line instead. Words outside Stage 1 are listed under New words.",
+ "stories": [
+  {
+   "n": 1,
+   "title": "Bumping into a friend",
+   "format": "dialogue",
+   "register": "casual",
+   "setting": "Old friends Yuki and Kenta run into each other on a Tokyo street: he is on his way to work, and she is on her way to a shop.",
+   "speakers": [
+    {
+     "id": "kenta",
+     "name": "Kenta",
+     "voice": "male, late 20s, relaxed and friendly"
+    },
+    {
+     "id": "yuki",
+     "name": "Yuki",
+     "voice": "female, late 20s, bright and friendly"
+    }
+   ],
+   "lines": [
+    {
+     "speaker": "kenta",
+     "romaji": "yuki! hisashiburi!",
+     "ja": "ユキ！久しぶり！",
+     "kana": "ゆき！ひさしぶり！",
+     "english": "Yuki! Long time no see!"
+    },
+    {
+     "speaker": "yuki",
+     "romaji": "kenta! hisashiburi da ne! ima kara doko iku no?",
+     "ja": "ケンタ！久しぶりだね！今からどこ行くの？",
+     "kana": "けんた！ひさしぶりだね！いまからどこいくの？",
+     "english": "Kenta! It's been ages! Where are you off to now?"
+    },
+    {
+     "speaker": "kenta",
+     "romaji": "kaisha. yuki wa? uchi ni kaeru no?",
+     "ja": "会社。ユキは？うちに帰るの？",
+     "kana": "かいしゃ。ゆきは？うちにかえるの？",
+     "english": "Work. How about you, Yuki? Going home?"
+    },
+    {
+     "speaker": "yuki",
+     "romaji": "uun, asoko no mise.",
+     "ja": "ううん、あそこの店。",
+     "kana": "ううん、あそこのみせ。",
+     "english": "No, that shop over there."
+    },
+    {
+     "speaker": "kenta",
+     "romaji": "nande?",
+     "ja": "なんで？",
+     "kana": "なんで？",
+     "english": "How come?"
+    },
+    {
+     "speaker": "yuki",
+     "romaji": "uchi ni ocha ga mou nai n da.",
+     "ja": "うちにお茶がもうないんだ。",
+     "kana": "うちにおちゃがもうないんだ。",
+     "english": "I've run out of tea at home."
+    },
+    {
+     "speaker": "kenta",
+     "romaji": "demo, ano mise, kyou wa yasumi da yo. ima asoko kara kita n da.",
+     "ja": "でも、あの店、今日は休みだよ。今あそこから来たんだ。",
+     "kana": "でも、あのみせ、きょうはやすみだよ。いまあそこからきたんだ。",
+     "english": "But that shop's closed today. I just came from there."
+    },
+    {
+     "speaker": "yuki",
+     "romaji": "honto ni? jaa, kyou wa uchi ni kaeru.",
+     "ja": "ほんとに？じゃあ、今日はうちに帰る。",
+     "kana": "ほんとに？じゃあ、きょうはうちにかえる。",
+     "english": "Really? Then I'll just head home today."
+    },
+    {
+     "speaker": "kenta",
+     "romaji": "un. ashita wa yatteru yo.",
+     "ja": "うん。明日はやってるよ。",
+     "kana": "うん。あしたはやってるよ。",
+     "english": "Yeah. It's open tomorrow."
+    },
+    {
+     "speaker": "yuki",
+     "romaji": "ashita iku ne. arigatou, jaa ne!",
+     "ja": "明日行くね。ありがとう、じゃあね！",
+     "kana": "あしたいくね。ありがとう、じゃあね！",
+     "english": "I'll go tomorrow, then. Thanks, see you!"
+    },
+    {
+     "speaker": "kenta",
+     "romaji": "jaa ne!",
+     "ja": "じゃあね！",
+     "kana": "じゃあね！",
+     "english": "See you!"
+    }
+   ],
+   "newWords": [
+    {
+     "romaji": "mise",
+     "ja": "店",
+     "english": "shop, store"
+    },
+    {
+     "romaji": "kaisha",
+     "ja": "会社",
+     "english": "company; the office (going to work)"
+    },
+    {
+     "romaji": "ocha",
+     "ja": "お茶",
+     "english": "tea (green tea)"
+    },
+    {
+     "romaji": "yasumi",
+     "ja": "休み",
+     "english": "closed; a day off"
+    },
+    {
+     "romaji": "yatteru",
+     "ja": "やってる",
+     "english": "(of a shop) is open, doing business; from yaru"
+    }
+   ],
+   "itemsUsed": [
+    "G-hisashiburi",
+    "G-un",
+    "G-uun",
+    "G-arigatou",
+    "G-jaa-ne",
+    "F-da",
+    "F-ne",
+    "F-yo",
+    "F-n-da",
+    "F-no-question",
+    "A-ima",
+    "A-kyou",
+    "A-ashita",
+    "A-mou",
+    "J-doko",
+    "J-asoko",
+    "J-ano",
+    "J-uchi",
+    "J-nande",
+    "H-iku",
+    "H-kuru",
+    "H-kaeru-return",
+    "H-aru",
+    "H-yaru",
+    "I-nai-negative",
+    "I-ta-past",
+    "I-teru",
+    "E-jaa",
+    "E-demo",
+    "B-honto-ni"
+   ],
+   "questions": [
+    {
+     "type": "gist",
+     "english": "What happens in this conversation?",
+     "ja": "何がありましたか？",
+     "kana": "なにがありましたか？",
+     "romaji": "nani ga arimashita ka?",
+     "choices": [
+      {
+       "key": "A",
+       "english": "Yuki and Kenta go to the shop together today."
+      },
+      {
+       "key": "B",
+       "english": "The shop is closed today, so Yuki will go tomorrow."
+      },
+      {
+       "key": "C",
+       "english": "Kenta's office is closed today, so he goes home."
+      }
+     ],
+     "answer": "B",
+     "modelAnswers": [],
+     "explanation": "Line 4: Yuki is heading to the shop over there. Line 7: Kenta tells her it's closed today (kyou wa yasumi). Line 8: she decides to go home today (kyou wa uchi ni kaeru). Line 10: she'll go tomorrow (ashita iku ne). A is wrong because Kenta is going to work (line 3) and they say goodbye (lines 10-11). C is wrong because the shop is the thing that's closed (yasumi, line 7), and Kenta is on his way to his company (line 3)."
+    },
+    {
+     "type": "detail",
+     "english": "Where is Kenta going?",
+     "ja": "ケンタさんは、どこに行きますか？",
+     "kana": "けんたさんは、どこにいきますか？",
+     "romaji": "kenta-san wa, doko ni ikimasu ka?",
+     "choices": [
+      {
+       "key": "A",
+       "english": "To his office"
+      },
+      {
+       "key": "B",
+       "english": "Home"
+      },
+      {
+       "key": "C",
+       "english": "To the shop"
+      }
+     ],
+     "answer": "A",
+     "modelAnswers": [],
+     "explanation": "Line 3: Kenta answers 'kaisha', his company, so he's going to work. 'uchi ni kaeru no?' in the same line is his guess about Yuki, not his own plan. The shop is where Yuki was going (line 4). Kenta has just come from there (line 7: ima asoko kara kita n da), and he isn't going back."
+    },
+    {
+     "type": "detail",
+     "english": "Why was Yuki going to the shop?",
+     "ja": "ユキさんは、なんでその店に行くんですか？",
+     "kana": "ゆきさんは、なんでそのみせにいくんですか？",
+     "romaji": "yuki-san wa, nande sono mise ni iku n desu ka?",
+     "choices": [
+      {
+       "key": "A",
+       "english": "The shop is only open today."
+      },
+      {
+       "key": "B",
+       "english": "She has the day off today."
+      },
+      {
+       "key": "C",
+       "english": "She's out of tea at home."
+      }
+     ],
+     "answer": "C",
+     "modelAnswers": [],
+     "explanation": "Line 5: Kenta asks 'nande?'. Line 6: Yuki answers 'uchi ni ocha ga mou nai n da': there's no tea left at home, and n da gives it as her reason. A is the opposite of what happens: the shop is closed today and open tomorrow (lines 7 and 9). B misplaces yasumi: in line 7 the shop is the thing that's closed (yasumi), and no one says Yuki has a day off."
+    },
+    {
+     "type": "intent",
+     "english": "Kenta says, \"demo, ano mise, kyou wa yasumi da yo.\" What does he mean by ending with \"yo\"?",
+     "ja": "「今日は休みだよ。」ここの「よ」は、何ですか？",
+     "kana": "「きょうはやすみだよ。」ここの「よ」は、なんですか？",
+     "romaji": "\"kyou wa yasumi da yo.\" koko no \"yo\" wa, nan desu ka?",
+     "choices": [
+      {
+       "key": "A",
+       "english": "He's checking something they both already know."
+      },
+      {
+       "key": "B",
+       "english": "He's telling Yuki something she doesn't know yet."
+      },
+      {
+       "key": "C",
+       "english": "He's wondering out loud whether the shop is open."
+      }
+     ],
+     "answer": "B",
+     "modelAnswers": [],
+     "explanation": "Line 7: yo marks news for the listener. Yuki didn't know: she was on her way there (lines 4-6) and reacts with 'honto ni?' (line 8). Kenta is sure because he just came from there (ima asoko kara kita n da). To check something they both know, he would say 'yo ne' (A). To wonder out loud, he would say 'kana' (C)."
+    },
+    {
+     "type": "respond",
+     "english": "Yuki asks Kenta, \"ima kara doko iku no?\" Imagine she asks you. What could you say back?",
+     "ja": "今からどこ行くの？",
+     "kana": "いまからどこいくの？",
+     "romaji": "ima kara doko iku no?",
+     "choices": [],
+     "answer": "Say where you're going now (home, over there). Maybe give a reason with n da, or ask her back with '... wa?'",
+     "modelAnswers": [
+      {
+       "romaji": "uchi ni kaeru yo. yuki wa?",
+       "ja": "うちに帰るよ。ユキは？",
+       "english": "I'm going home. How about you, Yuki?"
+      },
+      {
+       "romaji": "asoko ni iku n da. yuki mo kuru?",
+       "ja": "あそこに行くんだ。ユキも来る？",
+       "english": "I'm heading over there. Want to come too, Yuki?"
+      }
+     ],
+     "explanation": "Yuki asks Kenta this in line 2. His answer in line 3 ('kaisha. yuki wa?') shows the pattern: name the place, then ask back with '... wa?'. The Japanese prompt is Yuki's casual line itself, not a polite question, because you are answering her as a friend."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Sorry I'm late",
+   "format": "dialogue",
+   "register": "casual",
+   "setting": "Mai rushes up late to meet her friend Sora in town, apologises, and hands him a coffee she brought.",
+   "speakers": [
+    {
+     "id": "mai",
+     "name": "Mai",
+     "voice": "female, 20s, bright, a little out of breath"
+    },
+    {
+     "id": "sora",
+     "name": "Sora",
+     "voice": "male, 20s, relaxed, gently teasing"
+    }
+   ],
+   "lines": [
+    {
+     "speaker": "mai",
+     "romaji": "sora! mada ita! gomen, chotto osoku natchatta!",
+     "ja": "ソラ！まだいた！ごめん、ちょっと遅くなっちゃった！",
+     "kana": "そら！まだいた！ごめん、ちょっとおそくなっちゃった！",
+     "english": "Sora! You're still here! Sorry, I'm a bit late!"
+    },
+    {
+     "speaker": "sora",
+     "romaji": "ii yo, ii yo. daijoubu.",
+     "ja": "いいよ、いいよ。大丈夫。",
+     "kana": "いいよ、いいよ。だいじょうぶ。",
+     "english": "It's fine, it's fine. No problem."
+    },
+    {
+     "speaker": "mai",
+     "romaji": "datte, densha ga zutto konakatta kara.",
+     "ja": "だって、電車がずっと来なかったから。",
+     "kana": "だって、でんしゃがずっとこなかったから。",
+     "english": "It's just, the train wouldn't come."
+    },
+    {
+     "speaker": "sora",
+     "romaji": "densha ka. dakara osoku natta n da. jaa, mai wa warukunai yo.",
+     "ja": "電車か。だから遅くなったんだ。じゃあ、マイは悪くないよ。",
+     "kana": "でんしゃか。だからおそくなったんだ。じゃあ、まいはわるくないよ。",
+     "english": "The train, huh. So that's why you were late. Then it's not your fault."
+    },
+    {
+     "speaker": "mai",
+     "romaji": "sora wa, itsu kita no?",
+     "ja": "ソラは、いつ来たの？",
+     "kana": "そらは、いつきたの？",
+     "english": "And when did you get here, Sora?"
+    },
+    {
+     "speaker": "sora",
+     "romaji": "mou zutto matteta yo. chotto ja nai yo ne.",
+     "ja": "もうずっと待ってたよ。ちょっとじゃないよね。",
+     "kana": "もうずっとまってたよ。ちょっとじゃないよね。",
+     "english": "I've been waiting the whole time. That's not \"a bit,\" is it?"
+    },
+    {
+     "speaker": "mai",
+     "romaji": "honto ni gomen ne. kore, douzo.",
+     "ja": "ほんとにごめんね。これ、どうぞ。",
+     "kana": "ほんとにごめんね。これ、どうぞ。",
+     "english": "I'm really sorry. Here, this is for you."
+    },
+    {
+     "speaker": "sora",
+     "romaji": "e, sore nani?",
+     "ja": "え、それ何？",
+     "kana": "え、それなに？",
+     "english": "Huh? What's that?"
+    },
+    {
+     "speaker": "mai",
+     "romaji": "koohii. sora ni motte kita n da.",
+     "ja": "コーヒー。ソラに持ってきたんだ。",
+     "kana": "コーヒー。そらにもってきたんだ。",
+     "english": "Coffee. I brought it for you."
+    },
+    {
+     "speaker": "sora",
+     "romaji": "ii no? arigatou! jaa, iku?",
+     "ja": "いいの？ありがとう！じゃあ、行く？",
+     "kana": "いいの？ありがとう！じゃあ、いく？",
+     "english": "For me? Thanks! Okay, shall we go?"
+    }
+   ],
+   "newWords": [
+    {
+     "romaji": "osoi",
+     "ja": "遅い",
+     "english": "late, slow (osoku natchatta = I ended up late; osoku natta = got late)"
+    },
+    {
+     "romaji": "densha",
+     "ja": "電車",
+     "english": "train"
+    },
+    {
+     "romaji": "matsu",
+     "ja": "待つ",
+     "english": "wait (matteta = was waiting)"
+    },
+    {
+     "romaji": "e",
+     "ja": "え",
+     "english": "huh? (surprise, rising tone; not the particle e)"
+    },
+    {
+     "romaji": "koohii",
+     "ja": "コーヒー",
+     "english": "coffee"
+    }
+   ],
+   "itemsUsed": [
+    "G-gomen",
+    "G-arigatou",
+    "G-douzo",
+    "J-kore",
+    "J-sore",
+    "J-nani",
+    "J-itsu",
+    "D-ii",
+    "D-daijoubu",
+    "D-warui",
+    "E-datte",
+    "E-kara",
+    "E-dakara",
+    "E-jaa",
+    "A-mou",
+    "A-mada",
+    "A-zutto",
+    "B-chotto",
+    "B-honto-ni",
+    "F-ka",
+    "F-yo",
+    "F-ne",
+    "F-yo-ne",
+    "F-n-da",
+    "F-no-question",
+    "I-ta-past",
+    "I-nai-negative",
+    "I-kunai-ja-nai",
+    "I-teru",
+    "I-chau",
+    "H-iru-exist",
+    "H-naru",
+    "H-kuru",
+    "H-motsu",
+    "H-iku"
+   ],
+   "questions": [
+    {
+     "type": "gist",
+     "english": "What happens in this story?",
+     "ja": "何がありましたか？",
+     "kana": "なにがありましたか？",
+     "romaji": "nani ga arimashita ka?",
+     "choices": [
+      {
+       "key": "A",
+       "english": "Sora is late, and Mai is annoyed that she had to wait."
+      },
+      {
+       "key": "B",
+       "english": "Mai is late, says sorry, and gives Sora something she brought."
+      },
+      {
+       "key": "C",
+       "english": "Mai and Sora wait together for a train that never comes."
+      }
+     ],
+     "answer": "B",
+     "modelAnswers": [],
+     "explanation": "Line 1: Mai says gomen, chotto osoku natchatta (sorry, I'm a bit late). Lines 7-9: she hands Sora something (kore, douzo), and it turns out to be a coffee. A swaps the two people: Sora is the one who waited (line 6). C mixes up the train: only Mai's train wouldn't come (line 3), and they never wait for one together."
+    },
+    {
+     "type": "detail",
+     "english": "What did Mai bring for Sora?",
+     "ja": "マイさんは、ソラさんに何を持ってきましたか？",
+     "kana": "まいさんは、そらさんになにをもってきましたか？",
+     "romaji": "mai-san wa, sora-san ni nani o motte kimashita ka?",
+     "choices": [
+      {
+       "key": "A",
+       "english": "A train ticket she didn't use."
+      },
+      {
+       "key": "B",
+       "english": "A coffee she bought for herself."
+      },
+      {
+       "key": "C",
+       "english": "A coffee that she brought for him."
+      }
+     ],
+     "answer": "C",
+     "modelAnswers": [],
+     "explanation": "Line 9: koohii. sora ni motte kita n da (Coffee. I brought it for you). Sora ni means it's for him, and in line 10 he asks ii no? (For me?) and thanks her. B is wrong because the coffee is for Sora, not for her. A is wrong because the train only comes up as her excuse (line 3), and she never gives him a ticket."
+    },
+    {
+     "type": "detail",
+     "english": "When did Sora get there?",
+     "ja": "ソラさんは、いつ来ましたか？",
+     "kana": "そらさんは、いつきましたか？",
+     "romaji": "sora-san wa, itsu kimashita ka?",
+     "choices": [
+      {
+       "key": "A",
+       "english": "Long before Mai. He'd been waiting the whole time."
+      },
+      {
+       "key": "B",
+       "english": "Only a little before Mai, so he didn't wait long."
+      },
+      {
+       "key": "C",
+       "english": "He was late too, because his train didn't come."
+      }
+     ],
+     "answer": "A",
+     "modelAnswers": [],
+     "explanation": "Line 5: Mai asks sora wa, itsu kita no? (when did you get here?). Line 6: Sora doesn't give a time. He says mou zutto matteta yo (I've been waiting the whole time), then chotto ja nai yo ne (that's not 'a bit', is it?), turning Mai's own chotto from line 1 back on her. Line 1 (mada ita! = you're still here!) also shows he was there first. B repeats that chotto, which Sora says isn't true. C mixes up the train: only Mai's train wouldn't come (line 3)."
+    },
+    {
+     "type": "intent",
+     "english": "Mai says \"datte, densha ga zutto konakatta kara.\" What is she doing with \"datte\"?",
+     "ja": "マイさんの「だって、電車がずっと来なかったから」。この「だって」で、マイさんは何をしてますか？",
+     "kana": "まいさんの「だって、でんしゃがずっとこなかったから」。この「だって」で、まいさんはなにをしてますか？",
+     "romaji": "mai-san no 'datte, densha ga zutto konakatta kara'. kono 'datte' de, mai-san wa nani o shitemasu ka?",
+     "choices": [
+      {
+       "key": "A",
+       "english": "Drawing a conclusion: the train didn't come, so let's go now."
+      },
+      {
+       "key": "B",
+       "english": "Making an excuse: it's not her fault, the train didn't come."
+      },
+      {
+       "key": "C",
+       "english": "Asking a question: did Sora's train not come either?"
+      }
+     ],
+     "answer": "B",
+     "modelAnswers": [],
+     "explanation": "Line 3: datte opens an excuse ('it's just that...'), and kara at the end gives the reason: the train wouldn't come. Sora accepts it in line 4: jaa, mai wa warukunai yo (then it's not your fault). A describes dakara ('so'), which draws a conclusion. Sora uses it that way in line 4 (dakara osoku natta n da = so that's why you were late), and it's Sora, not Mai, who suggests going (line 10). C is wrong because the line ends in kara without a rising question tone, and nobody mentions Sora's train."
+    },
+    {
+     "type": "respond",
+     "english": "Sora teases Mai: \"mou zutto matteta yo. chotto ja nai yo ne.\" If you were Mai, what could you say back?",
+     "ja": "「もうずっと待ってたよ。ちょっとじゃないよね」って、ソラさんが。マイさんは？",
+     "kana": "「もうずっとまってたよ。ちょっとじゃないよね」って、そらさんが。まいさんは？",
+     "romaji": "'mou zutto matteta yo. chotto ja nai yo ne' tte, sora-san ga. mai-san wa?",
+     "choices": [],
+     "answer": "Apologise again, warmly, e.g. 'honto ni gomen ne.' or 'gomen. watashi ga warukatta.'",
+     "modelAnswers": [
+      {
+       "romaji": "honto ni gomen ne.",
+       "ja": "ほんとにごめんね。",
+       "english": "I'm really sorry."
+      },
+      {
+       "romaji": "gomen. watashi ga warukatta.",
+       "ja": "ごめん。私が悪かった。",
+       "english": "Sorry. That was my fault."
+      }
+     ],
+     "explanation": "Line 6 is a friendly tease, not real anger: he already said ii yo, daijoubu in line 2 and mai wa warukunai yo in line 4. The natural comeback is another apology, the way Mai does in line 7 (honto ni gomen ne). warukatta is the past of warui: 'I was the one at fault.'"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Whose is this?",
+   "format": "dialogue",
+   "register": "casual",
+   "setting": "At home, Kenta finds an umbrella, a key and a bag lying around and asks his flatmate Sora whose they are.",
+   "speakers": [
+    {
+     "id": "kenta",
+     "name": "Kenta",
+     "voice": "male, 20s, relaxed, easygoing"
+    },
+    {
+     "id": "sora",
+     "name": "Sora",
+     "voice": "female, 20s, cheerful, clear"
+    }
+   ],
+   "lines": [
+    {
+     "speaker": "kenta",
+     "romaji": "sora, kono kasa, dare no?",
+     "ja": "ソラ、この傘、誰の？",
+     "kana": "そら、このかさ、だれの？",
+     "english": "Sora, whose umbrella is this?"
+    },
+    {
+     "speaker": "sora",
+     "romaji": "sore, watashi no! doko ni atta no?",
+     "ja": "それ、私の！どこにあったの？",
+     "kana": "それ、わたしの！どこにあったの？",
+     "english": "That's mine! Where was it?"
+    },
+    {
+     "speaker": "kenta",
+     "romaji": "asoko ni atta yo. jaa, kono kagi wa? kore mo sora no?",
+     "ja": "あそこにあったよ。じゃあ、この鍵は？これもソラの？",
+     "kana": "あそこにあったよ。じゃあ、このかぎは？これもそらの？",
+     "english": "It was over there. Okay, what about this key? Is this yours too?"
+    },
+    {
+     "speaker": "sora",
+     "romaji": "uun, watashi no ja nai yo. jibun no kagi, motteru shi.",
+     "ja": "ううん、私のじゃないよ。自分の鍵、持ってるし。",
+     "kana": "ううん、わたしのじゃないよ。じぶんのかぎ、もってるし。",
+     "english": "No, it's not mine. I've got my own key, anyway."
+    },
+    {
+     "speaker": "kenta",
+     "romaji": "boku no mo koko ni aru shi. dare no kana.",
+     "ja": "僕のもここにあるし。誰のかな。",
+     "kana": "ぼくのもここにあるし。だれのかな。",
+     "english": "And mine's right here, so it's not mine either. I wonder whose it is."
+    },
+    {
+     "speaker": "sora",
+     "romaji": "sono kagi, mai no da yo. kinou, mai-tachi, uchi ni kita yo ne.",
+     "ja": "その鍵、マイのだよ。昨日、マイたち、うちに来たよね。",
+     "kana": "そのかぎ、まいのだよ。きのう、まいたち、うちにきたよね。",
+     "english": "That key's Mai's. Mai and the others came over yesterday, right?"
+    },
+    {
+     "speaker": "kenta",
+     "romaji": "un, kita ne. ato, are wa? ano kaban.",
+     "ja": "うん、来たね。あと、あれは？あのかばん。",
+     "kana": "うん、きたね。あと、あれは？あのかばん。",
+     "english": "Yeah, they did. Oh, and what about that? That bag over there."
+    },
+    {
+     "speaker": "sora",
+     "romaji": "dore? asoko no? are wa watashi no ja nai yo. kenta no?",
+     "ja": "どれ？あそこの？あれは私のじゃないよ。ケンタの？",
+     "kana": "どれ？あそこの？あれはわたしのじゃないよ。けんたの？",
+     "english": "Which one? The one over there? That's not mine. Is it yours?"
+    },
+    {
+     "speaker": "kenta",
+     "romaji": "uun, boku no ja nai. mai-san-tachi, ano kaban motteta kke?",
+     "ja": "ううん、僕のじゃない。マイさんたち、あのかばん持ってたっけ？",
+     "kana": "ううん、ぼくのじゃない。まいさんたち、あのかばんもってたっけ？",
+     "english": "No, not mine. Did Mai and the others have that bag with them? I can't quite remember."
+    },
+    {
+     "speaker": "sora",
+     "romaji": "iya, mottenakatta naa. demo, ashita minna ni kiitoku ne.",
+     "ja": "いや、持ってなかったなあ。でも、明日みんなに聞いとくね。",
+     "kana": "いや、もってなかったなあ。でも、あしたみんなにきいとくね。",
+     "english": "Nah, I don't think they had it. But I'll ask everyone tomorrow."
+    },
+    {
+     "speaker": "kenta",
+     "romaji": "un, onegai. kono kagi wa boku ga mottoku yo.",
+     "ja": "うん、お願い。この鍵は僕が持っとくよ。",
+     "kana": "うん、おねがい。このかぎはぼくがもっとくよ。",
+     "english": "Yeah, please. I'll hang on to this key for now."
+    }
+   ],
+   "newWords": [
+    {
+     "romaji": "kasa",
+     "ja": "傘",
+     "english": "umbrella"
+    },
+    {
+     "romaji": "kagi",
+     "ja": "鍵",
+     "english": "key"
+    },
+    {
+     "romaji": "kaban",
+     "ja": "かばん",
+     "english": "bag"
+    },
+    {
+     "romaji": "kiku",
+     "ja": "聞く",
+     "english": "to ask (heard as kiitoku, 'I'll ask')"
+    }
+   ],
+   "itemsUsed": [
+    "G-un",
+    "G-uun",
+    "G-iya",
+    "G-onegai",
+    "J-kore",
+    "J-sore",
+    "J-are",
+    "J-dore",
+    "J-kono",
+    "J-sono",
+    "J-ano",
+    "J-dare",
+    "J-doko",
+    "J-koko",
+    "J-asoko",
+    "J-watashi",
+    "J-san",
+    "J-minna",
+    "J-jibun",
+    "J-boku",
+    "J-tachi",
+    "J-uchi",
+    "F-da",
+    "F-ne",
+    "F-yo",
+    "F-yo-ne",
+    "F-no-question",
+    "F-kana",
+    "F-kke",
+    "F-naa",
+    "A-kinou",
+    "A-ashita",
+    "E-demo",
+    "E-shi",
+    "E-jaa",
+    "E-ato",
+    "I-ta-past",
+    "I-nai-negative",
+    "I-kunai-ja-nai",
+    "I-teru",
+    "I-toku",
+    "H-aru",
+    "H-motsu",
+    "H-kuru"
+   ],
+   "questions": [
+    {
+     "type": "gist",
+     "english": "What are Kenta and Sora doing in this conversation?",
+     "ja": "ケンタさんとソラさんは、何をしてますか？",
+     "kana": "けんたさんとそらさんは、なにをしてますか？",
+     "romaji": "kenta-san to sora-san wa, nani o shitemasu ka?",
+     "choices": [
+      {
+       "key": "A",
+       "english": "Sora has lost her key and asks Kenta to help find it."
+      },
+      {
+       "key": "B",
+       "english": "Kenta and Sora are planning to have Mai and her friends over tomorrow."
+      },
+      {
+       "key": "C",
+       "english": "Kenta finds things at home, and they try to work out whose they are."
+      }
+     ],
+     "answer": "C",
+     "modelAnswers": [],
+     "explanation": "Kenta keeps asking whose things are: the umbrella (line 1), the key (line 3) and the bag (line 7). The umbrella is Sora's (line 2), the key is Mai's (line 6), and nobody knows about the bag (lines 8-10). A is wrong because Sora says she has her own key (line 4). B is wrong because Mai's group came yesterday (line 6). Tomorrow is only when Sora will ask everyone about the bag (line 10)."
+    },
+    {
+     "type": "detail",
+     "english": "Whose is the key Kenta found?",
+     "ja": "うちにあった鍵は、誰のですか？",
+     "kana": "うちにあったかぎは、だれのですか？",
+     "romaji": "uchi ni atta kagi wa, dare no desu ka?",
+     "choices": [
+      {
+       "key": "A",
+       "english": "Mai's"
+      },
+      {
+       "key": "B",
+       "english": "Sora's"
+      },
+      {
+       "key": "C",
+       "english": "Kenta's"
+      }
+     ],
+     "answer": "A",
+     "modelAnswers": [],
+     "explanation": "In line 4 Sora says it isn't hers because she has her own key ('jibun no kagi, motteru shi'). In line 5 Kenta says his own key is right here, so it isn't his either. In line 6 Sora says 'sono kagi, mai no da yo' (that key is Mai's)."
+    },
+    {
+     "type": "detail",
+     "english": "What will Sora do tomorrow?",
+     "ja": "ソラさんは、明日何をしますか？",
+     "kana": "そらさんは、あしたなにをしますか？",
+     "romaji": "sora-san wa, ashita nani o shimasu ka?",
+     "choices": [
+      {
+       "key": "A",
+       "english": "Keep the key for Mai"
+      },
+      {
+       "key": "B",
+       "english": "Have Mai and the others over again"
+      },
+      {
+       "key": "C",
+       "english": "Ask everyone about the bag"
+      }
+     ],
+     "answer": "C",
+     "modelAnswers": [],
+     "explanation": "In line 10 Sora says 'demo, ashita minna ni kiitoku ne' (but I'll ask everyone tomorrow). She means the bag that nobody can place (lines 8-9). Keeping the key is what Kenta says he'll do (line 11). Mai's group already came over yesterday (line 6), and nobody plans another visit."
+    },
+    {
+     "type": "intent",
+     "english": "Near the end, Kenta asks 'mai-san-tachi, ano kaban motteta kke?' What does the 'kke' at the end show?",
+     "ja": "持ってたっけって、何ですか？",
+     "kana": "もってたっけって、なんですか？",
+     "romaji": "motteta kke tte, nan desu ka?",
+     "choices": [
+      {
+       "key": "A",
+       "english": "He is sure they had the bag and is telling Sora."
+      },
+      {
+       "key": "B",
+       "english": "He is trying to remember, and wants Sora to help him recall."
+      },
+      {
+       "key": "C",
+       "english": "He thinks they had the bag and wants Sora to agree."
+      }
+     ],
+     "answer": "B",
+     "modelAnswers": [],
+     "explanation": "'kke' marks something you are trying to remember ('did they ... again?'). In line 9 Kenta can't recall whether Mai's group had that bag, so he checks with Sora. In line 10 she says 'iya, mottenakatta naa' (nah, I don't think they had it). He isn't telling her (that would be 'motteta yo'). He also doesn't believe they had it and want her to agree (that would be 'motteta yo ne?')."
+    },
+    {
+     "type": "respond",
+     "english": "Imagine Kenta holds up the umbrella and asks you 'kono kasa, dare no?', but it isn't yours. What could you say back?",
+     "ja": "この傘、誰の？",
+     "kana": "このかさ、だれの？",
+     "romaji": "kono kasa, dare no?",
+     "choices": [],
+     "answer": "Say it isn't yours (watashi no / boku no ja nai) and wonder whose it is (dare no kana) or guess someone else's (sora no ja nai no?).",
+     "modelAnswers": [
+      {
+       "romaji": "uun, watashi no ja nai yo. dare no kana.",
+       "ja": "ううん、私のじゃないよ。誰のかな。",
+       "english": "No, it's not mine. I wonder whose it is."
+      },
+      {
+       "romaji": "boku no ja nai yo. sora no ja nai no?",
+       "ja": "僕のじゃないよ。ソラのじゃないの？",
+       "english": "It's not mine. Isn't it Sora's?"
+      }
+     ],
+     "explanation": "The story uses this pattern several times. Line 4 has 'watashi no ja nai yo', line 8 'are wa watashi no ja nai yo', line 9 'boku no ja nai', and line 5 'dare no kana'. Put them together to say it isn't yours and wonder or guess whose it is."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "A voicemail",
+   "format": "monologue",
+   "register": "casual",
+   "setting": "On a rainy evening, Kenta leaves a phone message for his friend Yuki to change their plan for tomorrow.",
+   "speakers": [
+    {
+     "id": "kenta",
+     "name": "Kenta",
+     "voice": "male, late 20s, warm and friendly, a little tired after work, casual"
+    }
+   ],
+   "lines": [
+    {
+     "speaker": "kenta",
+     "romaji": "moshimoshi, yuki? kenta da kedo.",
+     "ja": "もしもし、ユキ？健太だけど。",
+     "kana": "もしもし、ゆき？けんただけど。",
+     "english": "Hello, Yuki? It's Kenta."
+    },
+    {
+     "speaker": "kenta",
+     "romaji": "ashita na n da kedo, gomen, dame ni natchatta.",
+     "ja": "明日なんだけど、ごめん、ダメになっちゃった。",
+     "kana": "あしたなんだけど、ごめん、だめになっちゃった。",
+     "english": "About tomorrow... sorry, it's not going to work out."
+    },
+    {
+     "speaker": "kenta",
+     "romaji": "ashita mo shigoto ga haitchatte. ima mo mada shigoto shiteru n da.",
+     "ja": "明日も仕事が入っちゃって。今もまだ仕事してるんだ。",
+     "kana": "あしたもしごとがはいっちゃって。いまもまだしごとしてるんだ。",
+     "english": "I've got work tomorrow too now. I'm actually still working right now."
+    },
+    {
+     "speaker": "kenta",
+     "romaji": "demo, ashita no yoru wa daijoubu. uchi ni konai?",
+     "ja": "でも、明日の夜は大丈夫。うちに来ない？",
+     "kana": "でも、あしたのよるはだいじょうぶ。うちにこない？",
+     "english": "But tomorrow evening's fine. Want to come over to my place?"
+    },
+    {
+     "speaker": "kenta",
+     "romaji": "gohan, tsukuttoku kara.",
+     "ja": "ご飯、作っとくから。",
+     "kana": "ごはん、つくっとくから。",
+     "english": "I'll have dinner ready before you get here."
+    },
+    {
+     "speaker": "kenta",
+     "romaji": "kyou, chotto denwa dekiru?",
+     "ja": "今日、ちょっと電話できる？",
+     "kana": "きょう、ちょっとでんわできる？",
+     "english": "Can you give me a quick call today?"
+    },
+    {
+     "speaker": "kenta",
+     "romaji": "ame da kara, ki o tsukete ne.",
+     "ja": "雨だから、気をつけてね。",
+     "kana": "あめだから、きをつけてね。",
+     "english": "It's raining, so take care, okay?"
+    },
+    {
+     "speaker": "kenta",
+     "romaji": "jaa ne.",
+     "ja": "じゃあね。",
+     "kana": "じゃあね。",
+     "english": "Bye!"
+    }
+   ],
+   "newWords": [
+    {
+     "romaji": "shigoto",
+     "ja": "仕事",
+     "english": "work, a job"
+    },
+    {
+     "romaji": "yoru",
+     "ja": "夜",
+     "english": "evening, night"
+    },
+    {
+     "romaji": "gohan",
+     "ja": "ご飯",
+     "english": "a meal, dinner (also cooked rice)"
+    },
+    {
+     "romaji": "tsukuru",
+     "ja": "作る",
+     "english": "to make, to cook (verb)"
+    },
+    {
+     "romaji": "denwa",
+     "ja": "電話",
+     "english": "phone, phone call (denwa suru = to call; denwa dekiru? = can you call?)"
+    },
+    {
+     "romaji": "ame",
+     "ja": "雨",
+     "english": "rain"
+    }
+   ],
+   "itemsUsed": [
+    "G-moshimoshi",
+    "E-kedo",
+    "F-da",
+    "F-n-da-kedo",
+    "A-ashita",
+    "G-gomen",
+    "D-dame",
+    "H-naru",
+    "I-chau",
+    "I-ta-past",
+    "H-hairu",
+    "E-te-and",
+    "A-ima",
+    "A-mada",
+    "H-suru",
+    "I-teru",
+    "F-n-da",
+    "E-demo",
+    "D-daijoubu",
+    "J-uchi",
+    "H-kuru",
+    "I-nai-negative",
+    "I-toku",
+    "E-kara",
+    "A-kyou",
+    "B-chotto",
+    "H-dekiru",
+    "G-ki-o-tsukete",
+    "F-ne",
+    "G-jaa-ne"
+   ],
+   "questions": [
+    {
+     "type": "gist",
+     "english": "Overall, what changed about tomorrow?",
+     "ja": "明日は、何が変わりましたか。",
+     "kana": "あしたは、なにがかわりましたか。",
+     "romaji": "ashita wa, nani ga kawarimashita ka?",
+     "choices": [
+      {
+       "key": "A",
+       "english": "The plan is off, and Kenta suggests no other time."
+      },
+      {
+       "key": "B",
+       "english": "The plan is off, but Kenta invites Yuki over tomorrow evening."
+      },
+      {
+       "key": "C",
+       "english": "The plan moves to tonight, and Yuki cooks dinner."
+      }
+     ],
+     "answer": "B",
+     "modelAnswers": [],
+     "explanation": "Line 2 says tomorrow's plan is off ('dame ni natchatta'), and line 3 gives the reason. Line 4 suggests something else: 'demo, ashita no yoru wa daijoubu. uchi ni konai?' (tomorrow evening is fine, come to my place). A is wrong because he does suggest another time. C is wrong because the visit is tomorrow evening, not tonight, and Kenta is the one making dinner (line 5: 'gohan, tsukuttoku kara')."
+    },
+    {
+     "type": "detail",
+     "english": "Why did tomorrow's plan fall through?",
+     "ja": "どうして明日はダメになったんですか。",
+     "kana": "どうしてあしたはだめになったんですか。",
+     "romaji": "doushite ashita wa dame ni natta n desu ka?",
+     "choices": [
+      {
+       "key": "A",
+       "english": "Because it's going to rain."
+      },
+      {
+       "key": "B",
+       "english": "Because Yuki has to work."
+      },
+      {
+       "key": "C",
+       "english": "Because work came up for Kenta."
+      }
+     ],
+     "answer": "C",
+     "modelAnswers": [],
+     "explanation": "Line 3: 'ashita mo shigoto ga haitchatte. ima mo mada shigoto shiteru n da.' Kenta has work tomorrow too now, and he's still working tonight. Rain comes up only in line 7, as the reason for 'ki o tsukete' (take care), so A is wrong. Yuki's work is never mentioned, so B is wrong."
+    },
+    {
+     "type": "detail",
+     "english": "What does Kenta want Yuki to do today?",
+     "ja": "健太さんは今日、ユキさんに何をお願いしましたか。",
+     "kana": "けんたさんはきょう、ゆきさんになにをおねがいしましたか。",
+     "romaji": "kenta-san wa kyou, yuki-san ni nani o onegai shimashita ka?",
+     "choices": [
+      {
+       "key": "A",
+       "english": "Call him back today."
+      },
+      {
+       "key": "B",
+       "english": "Come over to his place tonight."
+      },
+      {
+       "key": "C",
+       "english": "Make dinner for him."
+      }
+     ],
+     "answer": "A",
+     "modelAnswers": [],
+     "explanation": "Line 6: 'kyou, chotto denwa dekiru?' asks her to phone him today. B is wrong because the visit is for tomorrow evening, not tonight (line 4: 'demo, ashita no yoru wa daijoubu. uchi ni konai?'). C is wrong because Kenta will make dinner himself (line 5: 'gohan, tsukuttoku kara')."
+    },
+    {
+     "type": "intent",
+     "english": "After saying hello, Kenta says 'ashita na n da kedo...'. What is he doing with this phrase?",
+     "ja": "明日なんだけどって、何ですか。",
+     "kana": "あしたなんだけどって、なんですか。",
+     "romaji": "ashita na n da kedo tte, nan desu ka?",
+     "choices": [
+      {
+       "key": "A",
+       "english": "He's asking if Yuki is free tomorrow."
+      },
+      {
+       "key": "B",
+       "english": "He's saying tomorrow's plan is still on."
+      },
+      {
+       "key": "C",
+       "english": "He's bringing up tomorrow before the bad news."
+      }
+     ],
+     "answer": "C",
+     "modelAnswers": [],
+     "explanation": "Line 2: 'n da kedo' is a soft lead-in, like 'About tomorrow...'. It sets up the topic and gets the listener ready, then the news comes: 'gomen, dame ni natchatta'. It isn't a question (A), and the plan is not still on, because he says straight away that it fell through (B)."
+    },
+    {
+     "type": "respond",
+     "english": "Kenta said 'ashita no yoru wa daijoubu. uchi ni konai?' (tomorrow evening's fine, want to come over?). You call him back. Will you go to his place tomorrow? What could you say?",
+     "ja": "明日、健太さんのうちに行きますか。",
+     "kana": "あした、けんたさんのうちにいきますか。",
+     "romaji": "ashita, kenta-san no uchi ni ikimasu ka?",
+     "choices": [],
+     "answer": "Accept or turn down the invitation to Kenta's place tomorrow evening: agree with 'ii yo' and say you'll come, or apologize and say tomorrow is a bit difficult.",
+     "modelAnswers": [
+      {
+       "romaji": "un, ii yo! ashita iku ne.",
+       "ja": "うん、いいよ！明日行くね。",
+       "english": "Yeah, sure! I'll come tomorrow."
+      },
+      {
+       "romaji": "gomen, ashita wa chotto dame na n da.",
+       "ja": "ごめん、明日はちょっとダメなんだ。",
+       "english": "Sorry, tomorrow's a bit difficult for me."
+      }
+     ],
+     "explanation": "Kenta's invitation is in line 4 and he asks for a call in line 6. 'konai?' is a negative question used as an invitation, so you can accept (ii yo, iku ne) or turn it down gently (chotto dame na n da)."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "title": "At the café",
+   "format": "dialogue",
+   "register": "polite",
+   "setting": "Mai, a customer at a café counter, asks a staff member about a green cake she doesn't recognise, orders it with a drink she points at, drops the drink when she hears it's coffee, and pays.",
+   "speakers": [
+    {
+     "id": "mai",
+     "name": "Mai",
+     "voice": "female, 30s, polite, a little unsure"
+    },
+    {
+     "id": "staff",
+     "name": "Staff",
+     "voice": "male, 20s, bright and polite café-counter voice"
+    }
+   ],
+   "lines": [
+    {
+     "speaker": "mai",
+     "romaji": "sumimasen, sore wa nan desu ka?",
+     "ja": "すみません、それは何ですか？",
+     "kana": "すみません、それはなんですか？",
+     "english": "Excuse me, what's that?"
+    },
+    {
+     "speaker": "staff",
+     "romaji": "hai, irasshaimase. dore desu ka? a, kore desu ka? matcha no keeki desu yo.",
+     "ja": "はい、いらっしゃいませ。どれですか？あ、これですか？抹茶のケーキですよ。",
+     "kana": "はい、いらっしゃいませ。どれですか？あ、これですか？まっちゃのケーキですよ。",
+     "english": "Hi, welcome! Which one? Oh, this one? It's a matcha cake."
+    },
+    {
+     "speaker": "mai",
+     "romaji": "matcha no keeki desu ka. ii desu ne. de, ikura desu ka?",
+     "ja": "抹茶のケーキですか。いいですね。で、いくらですか？",
+     "kana": "まっちゃのケーキですか。いいですね。で、いくらですか？",
+     "english": "Oh, a matcha cake. Sounds nice. So, how much is it?"
+    },
+    {
+     "speaker": "staff",
+     "romaji": "yonhyaku en desu.",
+     "ja": "四百円です。",
+     "kana": "よんひゃくえんです。",
+     "english": "It's four hundred yen."
+    },
+    {
+     "speaker": "mai",
+     "romaji": "jaa, sono keeki to, are o onegai shimasu.",
+     "ja": "じゃあ、そのケーキと、あれをお願いします。",
+     "kana": "じゃあ、そのケーキと、あれをおねがいします。",
+     "english": "OK then, I'll have that cake and that one over there, please."
+    },
+    {
+     "speaker": "staff",
+     "romaji": "hai, kono keeki to, koohii desu ne.",
+     "ja": "はい、このケーキと、コーヒーですね。",
+     "kana": "はい、このケーキと、コーヒーですね。",
+     "english": "Sure. So that's this cake and a coffee, right?"
+    },
+    {
+     "speaker": "mai",
+     "romaji": "a, koohii desu ka. sumimasen, koohii wa ii desu. kyou wa mou nonda n desu.",
+     "ja": "あ、コーヒーですか。すみません、コーヒーはいいです。今日はもう飲んだんです。",
+     "kana": "あ、コーヒーですか。すみません、コーヒーはいいです。きょうはもうのんだんです。",
+     "english": "Oh, that's coffee? Sorry, no coffee then. I've already had some today."
+    },
+    {
+     "speaker": "staff",
+     "romaji": "daijoubu desu yo. keeki dake desu ne. yonhyaku en ni narimasu.",
+     "ja": "大丈夫ですよ。ケーキだけですね。四百円になります。",
+     "kana": "だいじょうぶですよ。ケーキだけですね。よんひゃくえんになります。",
+     "english": "No problem. Just the cake, then. That comes to four hundred yen."
+    },
+    {
+     "speaker": "mai",
+     "romaji": "hai, onegai shimasu.",
+     "ja": "はい、お願いします。",
+     "kana": "はい、おねがいします。",
+     "english": "Here you go."
+    },
+    {
+     "speaker": "staff",
+     "romaji": "arigatou gozaimasu. douzo.",
+     "ja": "ありがとうございます。どうぞ。",
+     "kana": "ありがとうございます。どうぞ。",
+     "english": "Thank you very much. Here you are."
+    },
+    {
+     "speaker": "mai",
+     "romaji": "arigatou gozaimasu.",
+     "ja": "ありがとうございます。",
+     "kana": "ありがとうございます。",
+     "english": "Thank you."
+    }
+   ],
+   "newWords": [
+    {
+     "romaji": "irasshaimase",
+     "ja": "いらっしゃいませ",
+     "english": "welcome (shop staff greeting)"
+    },
+    {
+     "romaji": "matcha",
+     "ja": "抹茶",
+     "english": "matcha (powdered green tea)"
+    },
+    {
+     "romaji": "keeki",
+     "ja": "ケーキ",
+     "english": "cake"
+    },
+    {
+     "romaji": "yonhyaku en",
+     "ja": "四百円",
+     "english": "four hundred yen"
+    },
+    {
+     "romaji": "koohii",
+     "ja": "コーヒー",
+     "english": "coffee"
+    },
+    {
+     "romaji": "nomu",
+     "ja": "飲む",
+     "english": "to drink (nonda = drank)"
+    }
+   ],
+   "itemsUsed": [
+    "G-sumimasen",
+    "G-un",
+    "G-onegai",
+    "G-arigatou",
+    "G-douzo",
+    "J-kore",
+    "J-sore",
+    "J-are",
+    "J-dore",
+    "J-kono",
+    "J-sono",
+    "J-nani",
+    "J-ikura",
+    "F-da",
+    "F-ka",
+    "F-ne",
+    "F-yo",
+    "D-ii",
+    "D-daijoubu",
+    "E-jaa",
+    "E-de-sorede",
+    "A-kyou",
+    "A-mou",
+    "F-n-da",
+    "I-ta-past",
+    "H-naru"
+   ],
+   "questions": [
+    {
+     "type": "gist",
+     "english": "What happens in this story?",
+     "ja": "何がありましたか？",
+     "kana": "なにがありましたか？",
+     "romaji": "nani ga arimashita ka?",
+     "choices": [
+      {
+       "key": "A",
+       "english": "The customer asks about a cake, buys it, and decides not to get a coffee."
+      },
+      {
+       "key": "B",
+       "english": "The customer buys a matcha cake and a coffee."
+      },
+      {
+       "key": "C",
+       "english": "The customer asks about the coffee, but doesn't buy anything."
+      }
+     ],
+     "answer": "A",
+     "modelAnswers": [],
+     "explanation": "Lines 1-4: the customer asks what the item is and how much it costs. Line 5: she orders it plus 'are'. Line 6: the staff checks 'kono keeki to, koohii desu ne'. Line 7: 'a, koohii desu ka' shows she has just learned 'are' is coffee, and 'koohii wa ii desu' means no coffee. Line 8: 'keeki dake' means just the cake. Lines 9-10: she pays and gets it. B is what she first ordered, before she changed her mind. C is wrong because she asks about the cake, not the coffee, and she does buy something."
+    },
+    {
+     "type": "detail",
+     "english": "At the start, the customer asks 'sore wa nan desu ka?' What is 'sore'?",
+     "ja": "「それは何ですか？」の「それ」は、何でしたか？",
+     "kana": "「それはなんですか？」の「それ」は、なんでしたか？",
+     "romaji": "\"sore wa nan desu ka?\" no \"sore\" wa, nan deshita ka?",
+     "choices": [
+      {
+       "key": "A",
+       "english": "A coffee cake"
+      },
+      {
+       "key": "B",
+       "english": "A cup of matcha tea"
+      },
+      {
+       "key": "C",
+       "english": "A matcha cake"
+      }
+     ],
+     "answer": "C",
+     "modelAnswers": [],
+     "explanation": "Line 2: the staff checks which one ('dore desu ka? a, kore desu ka?') and then says 'matcha no keeki desu yo', so it's a matcha cake. The customer repeats it in line 3. Coffee only comes up later as a separate drink (line 6), and no one orders matcha to drink."
+    },
+    {
+     "type": "detail",
+     "english": "Why does the customer get only the cake, not the coffee?",
+     "ja": "どうして、ケーキだけなんですか？",
+     "kana": "どうして、ケーキだけなんですか？",
+     "romaji": "doushite, keeki dake na n desu ka?",
+     "choices": [
+      {
+       "key": "A",
+       "english": "The coffee costs four hundred yen."
+      },
+      {
+       "key": "B",
+       "english": "She already had coffee today."
+      },
+      {
+       "key": "C",
+       "english": "The café has no coffee today."
+      }
+     ],
+     "answer": "B",
+     "modelAnswers": [],
+     "explanation": "Line 7: 'kyou wa mou nonda n desu' means she already drank some today, and 'n desu' marks it as her reason. Line 8: the staff confirms 'keeki dake'. Four hundred yen is the cake's price (lines 4 and 8), and the café does have coffee: the staff confirms it as part of her order in line 6."
+    },
+    {
+     "type": "intent",
+     "english": "The staff says 'hai, kono keeki to, koohii desu ne.' What is the staff doing with 'desu ne'?",
+     "ja": "「このケーキと、コーヒーですね」って、何ですか？",
+     "kana": "「このケーキと、コーヒーですね」って、なんですか？",
+     "romaji": "\"kono keeki to, koohii desu ne\" tte, nan desu ka?",
+     "choices": [
+      {
+       "key": "A",
+       "english": "Telling her the cake comes with a free coffee."
+      },
+      {
+       "key": "B",
+       "english": "Asking if she would like a coffee too."
+      },
+      {
+       "key": "C",
+       "english": "Checking her order: 'this cake and a coffee, right?'"
+      }
+     ],
+     "answer": "C",
+     "modelAnswers": [],
+     "explanation": "Line 5: the customer orders 'sono keeki to, are'. Line 6: the staff repeats the order back with 'desu ne'. 'ne' here is checking: 'that's right, isn't it?' Telling her something new would be 'desu yo' (like line 2, 'matcha no keeki desu yo'), and a plain question would be 'desu ka'. She already ordered it ('are'), so the staff isn't offering coffee or adding it free. Because the staff checks, she hears that 'are' is coffee and changes her mind in line 7 ('a, koohii desu ka')."
+    },
+    {
+     "type": "respond",
+     "english": "The staff member tells you 'matcha no keeki desu yo. nani ni shimasu ka?' You'd like one. What could you say back?",
+     "ja": "抹茶のケーキですよ。何にしますか？",
+     "kana": "まっちゃのケーキですよ。なににしますか？",
+     "romaji": "matcha no keeki desu yo. nani ni shimasu ka?",
+     "choices": [],
+     "answer": "Politely order it, e.g. 'jaa, sore o onegai shimasu.' or 'jaa, sore ni shimasu.'",
+     "modelAnswers": [
+      {
+       "romaji": "jaa, sore o onegai shimasu.",
+       "ja": "じゃあ、それをお願いします。",
+       "english": "OK then, I'll have that, please."
+      },
+      {
+       "romaji": "ii desu ne. jaa, sore ni shimasu.",
+       "ja": "いいですね。じゃあ、それにします。",
+       "english": "That sounds good. Then I'll go with that."
+      }
+     ],
+     "explanation": "The customer does this in line 5: 'jaa' plus the item plus 'o onegai shimasu' is the basic polite way to order. The staff is near the cake, so you call it 'sore' (that one, by you). 'ii desu ne' shares a reaction (that sounds nice), and 'sore ni shimasu' (ni + suru) means 'I'll go with that', a common way to order that answers the staff's 'nani ni shimasu ka?' with the same words."
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "title": "First day at work",
+   "format": "dialogue",
+   "register": "polite",
+   "setting": "On Mai Kimura's first day at a new office, her colleague Tanaka-san introduces himself, chats with her, shows her to her desk, and they talk again at the end of the day.",
+   "speakers": [
+    {
+     "id": "tanaka",
+     "name": "Tanaka-san",
+     "voice": "male, 30s, warm and easygoing, polite office speech"
+    },
+    {
+     "id": "mai",
+     "name": "Mai Kimura",
+     "voice": "female, 20s, polite, a little nervous at first, then relaxed"
+    }
+   ],
+   "lines": [
+    {
+     "speaker": "tanaka",
+     "ja": "はじめまして。田中です。よろしくお願いします。",
+     "kana": "はじめまして。たなかです。よろしくおねがいします。",
+     "romaji": "hajimemashite. tanaka desu. yoroshiku onegai shimasu.",
+     "english": "Nice to meet you. I'm Tanaka. Good to be working with you."
+    },
+    {
+     "speaker": "mai",
+     "ja": "はじめまして。木村舞です。こちらこそ、今日からよろしくお願いします。",
+     "kana": "はじめまして。きむらまいです。こちらこそ、きょうからよろしくおねがいします。",
+     "romaji": "hajimemashite. kimura mai desu. kochira koso, kyou kara yoroshiku onegai shimasu.",
+     "english": "Nice to meet you. I'm Mai Kimura. Likewise. I'm starting today, so I look forward to working with you."
+    },
+    {
+     "speaker": "tanaka",
+     "ja": "木村さんは、どちらに住んでるんですか？",
+     "kana": "きむらさんは、どちらにすんでるんですか？",
+     "romaji": "kimura-san wa, dochira ni sunderu n desu ka?",
+     "english": "So where do you live, Kimura-san?"
+    },
+    {
+     "speaker": "mai",
+     "ja": "中野に住んでます。田中さんは？",
+     "kana": "なかのにすんでます。たなかさんは？",
+     "romaji": "nakano ni sundemasu. tanaka-san wa?",
+     "english": "I live in Nakano. How about you, Tanaka-san?"
+    },
+    {
+     "speaker": "tanaka",
+     "ja": "本当ですか？私も中野に住んでるんですよ。",
+     "kana": "ほんとうですか？わたしもなかのにすんでるんですよ。",
+     "romaji": "hontou desu ka? watashi mo nakano ni sunderu n desu yo.",
+     "english": "Really? I live in Nakano too!"
+    },
+    {
+     "speaker": "mai",
+     "ja": "一緒ですね！",
+     "kana": "いっしょですね！",
+     "romaji": "issho desu ne!",
+     "english": "Same as me!"
+    },
+    {
+     "speaker": "tanaka",
+     "ja": "ですね！じゃあ、木村さんの机は、ここです。私は、隣にいますから。",
+     "kana": "ですね！じゃあ、きむらさんのつくえは、ここです。わたしは、となりにいますから。",
+     "romaji": "desu ne! jaa, kimura-san no tsukue wa, koko desu. watashi wa, tonari ni imasu kara.",
+     "english": "Right! Okay, so this is your desk, Kimura-san. I'm right next to you, so just ask."
+    },
+    {
+     "speaker": "mai",
+     "ja": "ありがとうございます。すみません、ペンがないんですけど。",
+     "kana": "ありがとうございます。すみません、ペンがないんですけど。",
+     "romaji": "arigatou gozaimasu. sumimasen, pen ga nai n desu kedo.",
+     "english": "Thank you. Um, sorry, there aren't any pens here..."
+    },
+    {
+     "speaker": "tanaka",
+     "ja": "あ、すみません！ここにはありませんけど、あそこの机にありますよ。",
+     "kana": "あ、すみません！ここにはありませんけど、あそこのつくえにありますよ。",
+     "romaji": "a, sumimasen! koko ni wa arimasen kedo, asoko no tsukue ni arimasu yo.",
+     "english": "Oh, sorry! There aren't any here, but there are some on that desk over there."
+    },
+    {
+     "speaker": "tanaka",
+     "ja": "木村さん、もう帰る時間ですよ。",
+     "kana": "きむらさん、もうかえるじかんですよ。",
+     "romaji": "kimura-san, mou kaeru jikan desu yo.",
+     "english": "Kimura-san, it's already time to go home."
+    },
+    {
+     "speaker": "mai",
+     "ja": "皆さん、お疲れさまです。今日はこれで失礼します。明日もよろしくお願いします。",
+     "kana": "みなさん、おつかれさまです。きょうはこれでしつれいします。あしたもよろしくおねがいします。",
+     "romaji": "minasan, otsukaresama desu. kyou wa kore de shitsurei shimasu. ashita mo yoroshiku onegai shimasu.",
+     "english": "Good work today, everyone. I'll be heading off now. See you all tomorrow!"
+    },
+    {
+     "speaker": "tanaka",
+     "ja": "お疲れさまです！私も帰ります。中野まで一緒に帰りませんか？",
+     "kana": "おつかれさまです！わたしもかえります。なかのまでいっしょにかえりませんか？",
+     "romaji": "otsukaresama desu! watashi mo kaerimasu. nakano made issho ni kaerimasen ka?",
+     "english": "Good work! I'm heading home too. Want to go back to Nakano together?"
+    },
+    {
+     "speaker": "mai",
+     "ja": "いいんですか？じゃあ、お願いします！",
+     "kana": "いいんですか？じゃあ、おねがいします！",
+     "romaji": "ii n desu ka? jaa, onegai shimasu!",
+     "english": "Are you sure? Then yes, please!"
+    }
+   ],
+   "newWords": [
+    {
+     "romaji": "nakano",
+     "ja": "中野",
+     "english": "Nakano (a neighbourhood in Tokyo)"
+    },
+    {
+     "romaji": "issho",
+     "ja": "一緒",
+     "english": "same; together (issho desu ne = same here!, issho ni = together)"
+    },
+    {
+     "romaji": "tsukue",
+     "ja": "机",
+     "english": "desk"
+    },
+    {
+     "romaji": "pen",
+     "ja": "ペン",
+     "english": "pen"
+    },
+    {
+     "romaji": "tonari",
+     "ja": "隣",
+     "english": "next to; the seat next door"
+    },
+    {
+     "romaji": "jikan",
+     "ja": "時間",
+     "english": "time (kaeru jikan = time to go home)"
+    }
+   ],
+   "itemsUsed": [
+    "G-hajimemashite",
+    "G-yoroshiku",
+    "G-onegai",
+    "G-kochira-koso",
+    "G-arigatou",
+    "G-sumimasen",
+    "G-otsukare",
+    "G-jaa-ne",
+    "J-doko",
+    "J-koko",
+    "J-asoko",
+    "J-watashi",
+    "J-san",
+    "J-minna",
+    "J-kore",
+    "A-kyou",
+    "A-ashita",
+    "A-mou",
+    "H-sumu",
+    "H-aru",
+    "H-iru-exist",
+    "H-kaeru-return",
+    "I-teru",
+    "I-nai-negative",
+    "F-da",
+    "F-ka",
+    "F-ne",
+    "F-yo",
+    "F-n-da",
+    "F-no-question",
+    "F-n-da-kedo",
+    "E-kedo",
+    "E-kara",
+    "E-jaa",
+    "D-ii",
+    "B-honto-ni"
+   ],
+   "questions": [
+    {
+     "type": "gist",
+     "english": "What happened today?",
+     "ja": "今日は、何がありましたか？",
+     "kana": "きょうは、なにがありましたか？",
+     "romaji": "kyou wa, nani ga arimashita ka?",
+     "choices": [
+      {
+       "key": "A",
+       "english": "Two old friends from Nakano meet again by chance at the office."
+      },
+      {
+       "key": "B",
+       "english": "Mai meets a new colleague on her first day, and they go home together."
+      },
+      {
+       "key": "C",
+       "english": "Mai goes to a shop to buy pens and chats with the worker there."
+      }
+     ],
+     "answer": "B",
+     "modelAnswers": [],
+     "explanation": "Lines 1-2: both say hajimemashite, so they are meeting for the first time, and Mai says kyou kara yoroshiku onegai shimasu (she starts today). Line 7: Tanaka shows her her desk. Line 10: mou kaeru jikan desu yo, so the work day is over. Lines 12-13: he invites her to go home together and she accepts. A is wrong because hajimemashite means they have never met. C is wrong because there is no shop: Tanaka is a colleague and the pens are on a desk in the office (line 9)."
+    },
+    {
+     "type": "detail",
+     "english": "Where does Tanaka-san live?",
+     "ja": "田中さんは、どこに住んでますか？",
+     "kana": "たなかさんは、どこにすんでますか？",
+     "romaji": "tanaka-san wa, doko ni sundemasu ka?",
+     "choices": [
+      {
+       "key": "A",
+       "english": "Not in Nakano. Only Mai lives there."
+      },
+      {
+       "key": "B",
+       "english": "He doesn't say. He only asks where Mai lives."
+      },
+      {
+       "key": "C",
+       "english": "In Nakano, like Mai."
+      }
+     ],
+     "answer": "C",
+     "modelAnswers": [],
+     "explanation": "In line 4 Mai says nakano ni sundemasu and asks tanaka-san wa? In line 5 he answers watashi mo nakano ni sunderu n desu yo. Mo means 'too', so he lives in Nakano like Mai, and in line 6 Mai says issho desu ne ('same as me!'). A is wrong because of that mo, and B is wrong because he does answer her (line 5)."
+    },
+    {
+     "type": "detail",
+     "english": "Where are the pens?",
+     "ja": "ペンは、どこにありますか？",
+     "kana": "ペンは、どこにありますか？",
+     "romaji": "pen wa, doko ni arimasu ka?",
+     "choices": [
+      {
+       "key": "A",
+       "english": "Over there, on another desk."
+      },
+      {
+       "key": "B",
+       "english": "Here, on Mai's desk."
+      },
+      {
+       "key": "C",
+       "english": "Tanaka-san has one and hands it to her."
+      }
+     ],
+     "answer": "A",
+     "modelAnswers": [],
+     "explanation": "Line 9: koko ni wa arimasen kedo, asoko no tsukue ni arimasu yo. Asoko means 'over there', so the pens are on a desk over there. Koko is Mai's own desk (line 7), and line 9 says there are none here (B). Tanaka tells her where the pens are, but he doesn't hand her one (C)."
+    },
+    {
+     "type": "intent",
+     "english": "Mai says \"sumimasen, pen ga nai n desu kedo.\" What does she mean?",
+     "ja": "木村さんの「ペンがないんですけど」って、何ですか？",
+     "kana": "きむらさんの「ペンがないんですけど」って、なんですか？",
+     "romaji": "kimura-san no \"pen ga nai n desu kedo\" tte, nan desu ka?",
+     "choices": [
+      {
+       "key": "A",
+       "english": "She is complaining that the office is badly organised."
+      },
+      {
+       "key": "B",
+       "english": "She is just mentioning it. She doesn't expect Tanaka-san to do anything."
+      },
+      {
+       "key": "C",
+       "english": "She is politely hinting that she needs a pen and asking for help."
+      }
+     ],
+     "answer": "C",
+     "modelAnswers": [],
+     "explanation": "Line 8: n desu kedo is a soft lead-in. Mai explains the situation (n desu) and trails off on kedo without saying the request out loud, which is a polite way to ask for something. She isn't complaining (A). The trailing kedo, and Tanaka's quick a, sumimasen in line 9 followed by where the pens are, show she expects help and isn't just stating a fact (B)."
+    },
+    {
+     "type": "respond",
+     "english": "Tanaka-san asks, \"Nakano made issho ni kaerimasen ka?\" What could you say back to him?",
+     "ja": "中野まで一緒に帰りませんか？",
+     "kana": "なかのまでいっしょにかえりませんか？",
+     "romaji": "nakano made issho ni kaerimasen ka?",
+     "choices": [],
+     "answer": "Accept with ii desu ne! (or hai, onegai shimasu, like Mai), or turn it down politely with sumimasen, kyou wa chotto...",
+     "modelAnswers": [
+      {
+       "romaji": "ii desu ne!",
+       "ja": "いいですね！",
+       "english": "Sounds good!"
+      },
+      {
+       "romaji": "sumimasen, kyou wa chotto...",
+       "ja": "すみません、今日はちょっと…",
+       "english": "Sorry, today's a bit... (a polite no)"
+      }
+     ],
+     "explanation": "Line 12 is an invitation (-masen ka? = won't you...?). To accept, ii desu ne! is the usual reply. Mai accepts in line 13 with ii n desu ka? jaa, onegai shimasu, which also works. To say no politely, Japanese speakers often say sumimasen, kyou wa chotto and leave the rest unsaid. The trailing chotto ('a bit...') means no without saying it directly."
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Yesterday and today",
+   "format": "monologue",
+   "register": "casual",
+   "setting": "As their lunch arrives, Yuki tells a friend about her exhausting day yesterday and how much better today is going.",
+   "speakers": [
+    {
+     "id": "yuki",
+     "name": "Yuki",
+     "voice": "female, late 20s, casual and friendly; sighing and worn out at first, brighter by the end"
+    }
+   ],
+   "lines": [
+    {
+     "speaker": "yuki",
+     "romaji": "kinou wa honto ni tsukareta naa.",
+     "ja": "昨日はほんとに疲れたなあ。",
+     "kana": "きのうはほんとにつかれたなあ。",
+     "english": "Man, yesterday was so exhausting."
+    },
+    {
+     "speaker": "yuki",
+     "romaji": "hayaku uchi deta n da kedo, metcha ame de.",
+     "ja": "早くうち出たんだけど、めっちゃ雨で。",
+     "kana": "はやくうちでたんだけど、めっちゃあめで。",
+     "english": "I left home early, but it was pouring, so..."
+    },
+    {
+     "speaker": "yuki",
+     "romaji": "kasa mottenakatta kara, uchi ni modotta n da yo.",
+     "ja": "傘持ってなかったから、うちに戻ったんだよ。",
+     "kana": "かさもってなかったから、うちにもどったんだよ。",
+     "english": "I didn't have my umbrella, so I went back home."
+    },
+    {
+     "speaker": "yuki",
+     "romaji": "de, kasa motte deta kedo, densha mo zutto konakatta shi.",
+     "ja": "で、傘持って出たけど、電車もずっと来なかったし。",
+     "kana": "で、かさもってでたけど、でんしゃもずっとこなかったし。",
+     "english": "So I took my umbrella and went out again, but then the train didn't come for ages too."
+    },
+    {
+     "speaker": "yuki",
+     "romaji": "yatto uchi ni kaetta kedo, mou yoru datta.",
+     "ja": "やっとうちに帰ったけど、もう夜だった。",
+     "kana": "やっとうちにかえったけど、もうよるだった。",
+     "english": "I finally got home, but it was already night."
+    },
+    {
+     "speaker": "yuki",
+     "romaji": "dakara mou, oyasumi tte kanji datta.",
+     "ja": "だからもう、おやすみって感じだった。",
+     "kana": "だからもう、おやすみってかんじだった。",
+     "english": "So it was basically straight to \"good night.\""
+    },
+    {
+     "speaker": "yuki",
+     "romaji": "demo kyou wa, kinou yori kanari ii yo.",
+     "ja": "でも今日は、昨日よりかなりいいよ。",
+     "kana": "でもきょうは、きのうよりかなりいいよ。",
+     "english": "But today's a lot better than yesterday."
+    },
+    {
+     "speaker": "yuki",
+     "romaji": "kasa motteru noni, ame ja nai ne.",
+     "ja": "傘持ってるのに、雨じゃないね。",
+     "kana": "かさもってるのに、あめじゃないね。",
+     "english": "This time I've got my umbrella, and of course it isn't raining, huh."
+    },
+    {
+     "speaker": "yuki",
+     "romaji": "ima wa mou daijoubu da yo.",
+     "ja": "今はもう大丈夫だよ。",
+     "kana": "いまはもうだいじょうぶだよ。",
+     "english": "I'm fine now."
+    },
+    {
+     "speaker": "yuki",
+     "romaji": "jaa, itadakimasu!",
+     "ja": "じゃあ、いただきます！",
+     "kana": "じゃあ、いただきます！",
+     "english": "Okay, let's eat!"
+    }
+   ],
+   "newWords": [
+    {
+     "romaji": "tsukareru",
+     "ja": "疲れる",
+     "english": "to get tired (tsukareta: was worn out)"
+    },
+    {
+     "romaji": "hayaku",
+     "ja": "早く",
+     "english": "early"
+    },
+    {
+     "romaji": "ame",
+     "ja": "雨",
+     "english": "rain"
+    },
+    {
+     "romaji": "kasa",
+     "ja": "傘",
+     "english": "umbrella"
+    },
+    {
+     "romaji": "densha",
+     "ja": "電車",
+     "english": "train"
+    },
+    {
+     "romaji": "yoru",
+     "ja": "夜",
+     "english": "night"
+    }
+   ],
+   "itemsUsed": [
+    "A-kinou",
+    "A-kyou",
+    "A-ima",
+    "B-honto-ni",
+    "F-naa",
+    "I-ta-past",
+    "H-deru",
+    "J-uchi",
+    "F-n-da-kedo",
+    "E-kedo",
+    "B-metcha",
+    "I-kute-de",
+    "H-motsu",
+    "I-teru",
+    "I-nai-negative",
+    "E-kara",
+    "H-modoru",
+    "F-n-da",
+    "F-yo",
+    "E-de-sorede",
+    "E-te-and",
+    "A-zutto",
+    "H-kuru",
+    "E-shi",
+    "A-yatto",
+    "H-kaeru-return",
+    "A-mou",
+    "I-katta-datta",
+    "E-dakara",
+    "G-oyasumi",
+    "F-tte-kanji",
+    "E-demo",
+    "B-kanari",
+    "D-ii",
+    "E-noni",
+    "I-kunai-ja-nai",
+    "F-ne",
+    "D-daijoubu",
+    "F-da",
+    "E-jaa",
+    "G-itadakimasu"
+   ],
+   "questions": [
+    {
+     "type": "gist",
+     "english": "Overall, how were Yuki's yesterday and today different?",
+     "ja": "昨日と今日で、何が変わりましたか。",
+     "kana": "きのうときょうで、なにがかわりましたか。",
+     "romaji": "kinou to kyou de, nani ga kawarimashita ka?",
+     "choices": [
+      {
+       "key": "A",
+       "english": "Yesterday was fine, but today has gone badly."
+      },
+      {
+       "key": "B",
+       "english": "Yesterday was a long, tiring day, but today is much better."
+      },
+      {
+       "key": "C",
+       "english": "Yesterday she stayed home, but today she went out in the rain."
+      }
+     ],
+     "answer": "B",
+     "modelAnswers": [],
+     "explanation": "Lines 1-6 describe yesterday: she was exhausted (line 1), went back home in the rain for her umbrella (lines 2-3), went out again and the train didn't come (line 4), and got home at night (line 5). Line 7 says today is a lot better than yesterday (kinou yori kanari ii yo), and in line 9 she says she's fine now. A gets it backwards. C is wrong because she did go out yesterday (deta, lines 2 and 4), and today it isn't raining (line 8)."
+    },
+    {
+     "type": "detail",
+     "english": "Why did Yuki go back home after she set off yesterday?",
+     "ja": "ユキさんは昨日、どうしてうちに戻りましたか。",
+     "kana": "ゆきさんはきのう、どうしてうちにもどりましたか。",
+     "romaji": "yuki-san wa kinou, doushite uchi ni modorimashita ka?",
+     "choices": [
+      {
+       "key": "A",
+       "english": "The train didn't come for a long time."
+      },
+      {
+       "key": "B",
+       "english": "She felt too tired to go out."
+      },
+      {
+       "key": "C",
+       "english": "It was raining and she had no umbrella."
+      }
+     ],
+     "answer": "C",
+     "modelAnswers": [],
+     "explanation": "Line 2 says it was pouring (metcha ame de), and line 3 gives the reason with kara: kasa mottenakatta kara, uchi ni modotta (I didn't have my umbrella, so I went back home). The train problem (A) came later, in line 4, after she set off again with her umbrella. Being tired (B) is how she felt about the whole day (line 1), not why she went back."
+    },
+    {
+     "type": "detail",
+     "english": "When did Yuki finally get home yesterday?",
+     "ja": "ユキさんは昨日、やっとうちに帰りました。それはいつでしたか。",
+     "kana": "ゆきさんはきのう、やっとうちにかえりました。それはいつでしたか。",
+     "romaji": "yuki-san wa kinou, yatto uchi ni kaerimashita. sore wa itsu deshita ka?",
+     "choices": [
+      {
+       "key": "A",
+       "english": "Late, when it was already night."
+      },
+      {
+       "key": "B",
+       "english": "Early, when she went back for her umbrella."
+      },
+      {
+       "key": "C",
+       "english": "In the afternoon, before it got dark."
+      }
+     ],
+     "answer": "A",
+     "modelAnswers": [],
+     "explanation": "Line 5: yatto uchi ni kaetta kedo, mou yoru datta (I finally got home, but it was already night). B is a trap: early on she only went back for her umbrella (modotta, line 3), then went out again (deta, line 4). Getting home for the day (kaetta) came at night. C is wrong because mou yoru datta means it was already night, not still light out."
+    },
+    {
+     "type": "intent",
+     "english": "Yuki says \"kasa motteru noni, ame ja nai ne.\" What is she saying with noni here?",
+     "ja": "傘持ってるのに、雨じゃないね。この、のに、は何ですか。",
+     "kana": "かさもってるのに、あめじゃないね。この、のに、はなんですか。",
+     "romaji": "kasa motteru noni, ame ja nai ne. kono, noni, wa nan desu ka?",
+     "choices": [
+      {
+       "key": "A",
+       "english": "She's glad she has her umbrella, since it might rain later."
+      },
+      {
+       "key": "B",
+       "english": "She has her umbrella this time, and of course it isn't raining."
+      },
+      {
+       "key": "C",
+       "english": "She's annoyed that she forgot her umbrella again."
+      }
+     ],
+     "answer": "B",
+     "modelAnswers": [],
+     "explanation": "Line 8. -noni means 'even though... and yet': things turned out the opposite of what you'd expect, often with a small grumble. Yesterday she had no umbrella and it poured (lines 2-3). Today she has one (motteru) and it isn't raining. With ne she shares the joke with her friend. A misses the contrast that noni marks, and C is wrong because motteru means she has it with her today."
+    },
+    {
+     "type": "respond",
+     "english": "Yuki tells you about her two days and ends with \"jaa, itadakimasu!\" What could you say back to her?",
+     "ja": "ユキさんは、じゃあ、いただきますって。ユキさんに、どうぞ。",
+     "kana": "ゆきさんは、じゃあ、いただきますって。ゆきさんに、どうぞ。",
+     "romaji": "yuki-san wa, jaa, itadakimasu tte. yuki-san ni, douzo.",
+     "choices": [],
+     "answer": "Feel for her rough day (for example otsukare, or say yesterday was bad), say you're glad today is better, and maybe join in with itadakimasu.",
+     "modelAnswers": [
+      {
+       "romaji": "otsukare! kyou wa yokatta ne.",
+       "ja": "お疲れ！今日はよかったね。",
+       "english": "Sounds exhausting! Glad today's better."
+      },
+      {
+       "romaji": "kinou wa dame datta ne. jaa, watashi mo itadakimasu!",
+       "ja": "昨日はだめだったね。じゃあ、私もいただきます！",
+       "english": "Yesterday was a write-off, huh. Okay, I'll dig in too!"
+      }
+     ],
+     "explanation": "Lines 1-6 give you something to sympathize with (a tiring day, rain, going back for the umbrella, the train), and lines 7-9 tell you today is better and she's fine now. Line 10 (jaa, itadakimasu) means you're about to eat together, so you can answer with otsukare, say you're glad today is better (yokatta ne), or add your own itadakimasu."
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "title": "Plans for tomorrow",
+   "format": "dialogue",
+   "register": "casual",
+   "setting": "Two friends in their twenties, Kenta and Mai, chat about getting their whole group together and work out when, where and who does what.",
+   "speakers": [
+    {
+     "id": "kenta",
+     "name": "Kenta",
+     "voice": "male, late 20s, upbeat, casual"
+    },
+    {
+     "id": "mai",
+     "name": "Mai",
+     "voice": "female, late 20s, warm, relaxed"
+    }
+   ],
+   "lines": [
+    {
+     "speaker": "kenta",
+     "romaji": "mai, minna de umi ikanai?",
+     "ja": "マイ、みんなで海行かない？",
+     "kana": "まい、みんなでうみいかない？",
+     "english": "Mai, want to go to the beach with everyone?"
+    },
+    {
+     "speaker": "mai",
+     "romaji": "umi? ii ne! itsu iku?",
+     "ja": "海？いいね！いつ行く？",
+     "kana": "うみ？いいね！いついく？",
+     "english": "The beach? Sounds great! When should we go?"
+    },
+    {
+     "speaker": "kenta",
+     "romaji": "kyou iku?",
+     "ja": "今日行く？",
+     "kana": "きょういく？",
+     "english": "Shall we go today?"
+    },
+    {
+     "speaker": "mai",
+     "romaji": "kyou wa chotto... ashita wa daijoubu da kedo.",
+     "ja": "今日はちょっと…。明日は大丈夫だけど。",
+     "kana": "きょうはちょっと…。あしたはだいじょうぶだけど。",
+     "english": "Today's not great... Tomorrow's fine, though."
+    },
+    {
+     "speaker": "kenta",
+     "romaji": "jaa, ashita ne!",
+     "ja": "じゃあ、明日ね！",
+     "kana": "じゃあ、あしたね！",
+     "english": "Tomorrow, then!"
+    },
+    {
+     "speaker": "mai",
+     "romaji": "a, demo umi wa dame kana.",
+     "ja": "あ、でも海はダメかな。",
+     "kana": "あ、でもうみはだめかな。",
+     "english": "Oh, but the beach might be no good."
+    },
+    {
+     "speaker": "kenta",
+     "romaji": "e, nande?",
+     "ja": "え、なんで？",
+     "kana": "え、なんで？",
+     "english": "Huh? Why?"
+    },
+    {
+     "speaker": "mai",
+     "romaji": "ashita, ame ni naru n da tte.",
+     "ja": "明日、雨になるんだって。",
+     "kana": "あした、あめになるんだって。",
+     "english": "Apparently it's going to rain tomorrow."
+    },
+    {
+     "speaker": "kenta",
+     "romaji": "honto ni? jaa, doko iku?",
+     "ja": "ほんとに？じゃあ、どこ行く？",
+     "kana": "ほんとに？じゃあ、どこいく？",
+     "english": "Really? Then where should we go?"
+    },
+    {
+     "speaker": "mai",
+     "romaji": "uchi kuru? minna de nabe dekiru yo.",
+     "ja": "うち来る？みんなで鍋できるよ。",
+     "kana": "うちくる？みんなでなべできるよ。",
+     "english": "Want to come to my place? We can all have hot pot."
+    },
+    {
+     "speaker": "kenta",
+     "romaji": "nabe? sore, umi yori motto ii ne! demo, mai no uchi, minna hairu kana?",
+     "ja": "鍋？それ、海よりもっといいね！でも、マイのうち、みんな入るかな？",
+     "kana": "なべ？それ、うみよりもっといいね！でも、まいのうち、みんなはいるかな？",
+     "english": "Hot pot? That's even better than the beach! But will everyone fit in your place, I wonder?"
+    },
+    {
+     "speaker": "mai",
+     "romaji": "daijoubu da yo. kono mae mo, minna kita yo ne?",
+     "ja": "大丈夫だよ。この前も、みんな来たよね？",
+     "kana": "だいじょうぶだよ。このまえも、みんなきたよね？",
+     "english": "It's fine. Everyone came over last time too, right?"
+    },
+    {
+     "speaker": "kenta",
+     "romaji": "a, un. de, boku, kaimono shitoku yo.",
+     "ja": "あ、うん。で、僕、買い物しとくよ。",
+     "kana": "あ、うん。で、ぼく、かいものしとくよ。",
+     "english": "Oh, yeah. So, I'll get the shopping done beforehand."
+    },
+    {
+     "speaker": "mai",
+     "romaji": "ii no? arigatou. watashi wa, minna kuru ka kiite miru ne.",
+     "ja": "いいの？ありがとう。私は、みんな来るか聞いてみるね。",
+     "kana": "いいの？ありがとう。わたしは、みんなくるかきいてみるね。",
+     "english": "Are you sure? Thanks. And I'll ask everyone and see if they're coming."
+    },
+    {
+     "speaker": "kenta",
+     "romaji": "un, onegai. ato, mai no uchi, nabe aru yo ne?",
+     "ja": "うん、お願い。あと、マイのうち、鍋あるよね？",
+     "kana": "うん、おねがい。あと、まいのうち、なべあるよね？",
+     "english": "Yeah, please. Oh, and you've got a pot at your place, right?"
+    },
+    {
+     "speaker": "mai",
+     "romaji": "un, aru yo. ashita, uchi de nabe yaru ne! jaa ne.",
+     "ja": "うん、あるよ。明日、うちで鍋やるね！じゃあね。",
+     "kana": "うん、あるよ。あした、うちでなべやるね！じゃあね。",
+     "english": "Yep, I do. So, hot pot at my place tomorrow! See you."
+    }
+   ],
+   "newWords": [
+    {
+     "romaji": "umi",
+     "ja": "海",
+     "english": "the sea; the beach"
+    },
+    {
+     "romaji": "ame",
+     "ja": "雨",
+     "english": "rain"
+    },
+    {
+     "romaji": "nabe",
+     "ja": "鍋",
+     "english": "hot pot (the dish, and the pot it's cooked in)"
+    },
+    {
+     "romaji": "kono mae",
+     "ja": "この前",
+     "english": "the other day; last time"
+    },
+    {
+     "romaji": "kaimono",
+     "ja": "買い物",
+     "english": "shopping"
+    },
+    {
+     "romaji": "kiku",
+     "ja": "聞く",
+     "english": "ask (here: kiite miru, try asking)"
+    }
+   ],
+   "itemsUsed": [
+    "J-minna",
+    "I-nai-negative",
+    "H-iku",
+    "D-ii",
+    "F-ne",
+    "J-itsu",
+    "A-kyou",
+    "B-chotto",
+    "A-ashita",
+    "D-daijoubu",
+    "F-da",
+    "E-kedo",
+    "E-jaa",
+    "E-demo",
+    "D-dame",
+    "F-kana",
+    "J-nande",
+    "H-naru",
+    "F-n-da",
+    "B-honto-ni",
+    "J-doko",
+    "J-uchi",
+    "H-kuru",
+    "H-dekiru",
+    "F-yo",
+    "J-sore",
+    "B-motto",
+    "H-hairu",
+    "J-kono",
+    "I-ta-past",
+    "F-yo-ne",
+    "G-un",
+    "E-de-sorede",
+    "J-boku",
+    "H-suru",
+    "I-toku",
+    "F-no-question",
+    "G-arigatou",
+    "J-watashi",
+    "F-ka",
+    "I-te-miru",
+    "G-onegai",
+    "E-ato",
+    "H-aru",
+    "H-yaru",
+    "G-jaa-ne"
+   ],
+   "questions": [
+    {
+     "type": "gist",
+     "english": "What do Kenta and Mai decide to do with everyone tomorrow?",
+     "ja": "ケンタさんとマイさんは、明日、みんなで何をしますか。",
+     "kana": "けんたさんとまいさんは、あした、みんなでなにをしますか。",
+     "romaji": "kenta-san to mai-san wa, ashita, minna de nani o shimasu ka?",
+     "choices": [
+      {
+       "key": "A",
+       "english": "Go to the beach with everyone."
+      },
+      {
+       "key": "B",
+       "english": "Have hot pot at Mai's place."
+      },
+      {
+       "key": "C",
+       "english": "Go shopping together."
+      }
+     ],
+     "answer": "B",
+     "modelAnswers": [],
+     "explanation": "Kenta suggests the beach in line 1, but rain is coming tomorrow (line 8), so Mai invites everyone to her place for hot pot (line 10). Line 16 confirms it: 'ashita, uchi de nabe yaru ne!'. The beach (A) is dropped. Shopping (C) is only the job Kenta takes on beforehand (line 13)."
+    },
+    {
+     "type": "detail",
+     "english": "Why is the beach no good tomorrow?",
+     "ja": "明日、なんで海はダメなんですか。",
+     "kana": "あした、なんでうみはだめなんですか。",
+     "romaji": "ashita, nande umi wa dame na n desu ka?",
+     "choices": [
+      {
+       "key": "A",
+       "english": "Mai is busy tomorrow."
+      },
+      {
+       "key": "B",
+       "english": "Not everyone can come."
+      },
+      {
+       "key": "C",
+       "english": "It's going to rain."
+      }
+     ],
+     "answer": "C",
+     "modelAnswers": [],
+     "explanation": "In line 6 Mai says the beach might be no good. Kenta asks 'nande?' (line 7), and in line 8 she says 'ashita, ame ni naru n da tte': it's going to rain. Mai isn't busy tomorrow (A): in line 4 she says today doesn't work but tomorrow is fine. Whether everyone is coming is only something Mai will ask about later (line 14), so B is wrong."
+    },
+    {
+     "type": "detail",
+     "english": "What does Kenta say he'll do ahead of time?",
+     "ja": "ケンタさんは、何をしときますか。",
+     "kana": "けんたさんは、なにをしときますか。",
+     "romaji": "kenta-san wa, nani o shitokimasu ka?",
+     "choices": [
+      {
+       "key": "A",
+       "english": "Do the shopping."
+      },
+      {
+       "key": "B",
+       "english": "Ask everyone if they're coming."
+      },
+      {
+       "key": "C",
+       "english": "Bring a pot to Mai's place."
+      }
+     ],
+     "answer": "A",
+     "modelAnswers": [],
+     "explanation": "Line 13: 'boku, kaimono shitoku yo'. The -toku ending means doing it ahead of time. Asking everyone (B) is what Mai will do (line 14). Kenta doesn't bring a pot (C): he checks that Mai already has one, and she says 'un, aru yo' (lines 15-16)."
+    },
+    {
+     "type": "intent",
+     "english": "Mai says 'kono mae mo, minna kita yo ne?' What is she doing with 'yo ne'?",
+     "ja": "マイさんの「この前も、みんな来たよね？」。この「よね」は、何ですか。",
+     "kana": "まいさんの「このまえも、みんなきたよね？」。この「よね」は、なんですか。",
+     "romaji": "mai-san no \"kono mae mo, minna kita yo ne?\" kono \"yo ne\" wa, nan desu ka?",
+     "choices": [
+      {
+       "key": "A",
+       "english": "Telling Kenta something he doesn't know yet."
+      },
+      {
+       "key": "B",
+       "english": "Checking something she expects Kenta remembers too."
+      },
+      {
+       "key": "C",
+       "english": "Wondering to herself whether everyone came last time."
+      }
+     ],
+     "answer": "B",
+     "modelAnswers": [],
+     "explanation": "Line 12. 'Yo ne' asks the listener to confirm something both people already know. Mai is sure Kenta remembers that everyone came over last time too, so they'll fit. That answers his worry in line 11, and he confirms with 'a, un' in line 13. Plain 'yo' would be telling him something new (A). Wondering (C) is 'kana', as in Kenta's 'minna hairu kana?' in line 11."
+    },
+    {
+     "type": "respond",
+     "english": "Mai asks 'uchi kuru? minna de nabe dekiru yo.' Will you go? What could you say back to her?",
+     "ja": "マイさんの「うち来る？みんなで鍋できるよ」。行きますか。",
+     "kana": "まいさんの「うちくる？みんなでなべできるよ」。いきますか。",
+     "romaji": "mai-san no \"uchi kuru? minna de nabe dekiru yo.\" ikimasu ka?",
+     "choices": [],
+     "answer": "Accept the invitation and thank her, or turn it down softly with an apology.",
+     "modelAnswers": [
+      {
+       "romaji": "un, iku iku! arigatou.",
+       "ja": "うん、行く行く！ありがとう。",
+       "english": "Yeah, I'm in! Thanks."
+      },
+      {
+       "romaji": "gomen, ashita wa chotto dame na n da.",
+       "ja": "ごめん、明日はちょっとダメなんだ。",
+       "english": "Sorry, tomorrow's no good for me."
+      }
+     ],
+     "explanation": "In line 10 Mai invites Kenta, and everyone, to her place for hot pot. Saying 'iku iku' twice is an eager, casual yes. In the second answer, 'chotto' softens the no, the way Mai turns down today in line 4 ('kyou wa chotto...'), and 'n da' presents it as an explanation."
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "title": "Lunch at Yuki's house",
+   "format": "dialogue",
+   "register": "mixed",
+   "setting": "Sora visits his friend Yuki's family home around lunchtime, chats with Yuki and her sleepy younger brother Kenji, and has lunch made by Yuki's mother.",
+   "speakers": [
+    {
+     "id": "sora",
+     "name": "Sora",
+     "voice": "male, 20s, friendly, polite with elders and relaxed with friends"
+    },
+    {
+     "id": "yuki",
+     "name": "Yuki",
+     "voice": "female, 20s, cheerful, casual, a little teasing"
+    },
+    {
+     "id": "mother",
+     "name": "Yuki's mother",
+     "voice": "female, 50s, warm, motherly"
+    },
+    {
+     "id": "kenji",
+     "name": "Kenji",
+     "voice": "male, late teens, sleepy, mumbling"
+    }
+   ],
+   "lines": [
+    {
+     "speaker": "sora",
+     "romaji": "konnichiwa. ohisashiburi desu.",
+     "ja": "こんにちは。お久しぶりです。",
+     "kana": "こんにちは。おひさしぶりです。",
+     "english": "Hello. It's been a long time."
+    },
+    {
+     "speaker": "mother",
+     "romaji": "ara, sora-kun, hisashiburi! douzo, haitte. yuki wa heya ni iru yo.",
+     "ja": "あら、ソラくん、久しぶり！どうぞ、入って。ユキは部屋にいるよ。",
+     "kana": "あら、そらくん、ひさしぶり！どうぞ、はいって。ゆきはへやにいるよ。",
+     "english": "Oh, Sora! Long time no see! Come on in. Yuki's in her room."
+    },
+    {
+     "speaker": "sora",
+     "romaji": "arigatou gozaimasu. dono heya deshita kke?",
+     "ja": "ありがとうございます。どの部屋でしたっけ？",
+     "kana": "ありがとうございます。どのへやでしたっけ？",
+     "english": "Thank you. Which room was it again?"
+    },
+    {
+     "speaker": "yuki",
+     "romaji": "sora, koko da yo! heya, chotto kawatta n da.",
+     "ja": "ソラ、ここだよ！部屋、ちょっと変わったんだ。",
+     "kana": "そら、ここだよ！へや、ちょっとかわったんだ。",
+     "english": "Sora, over here! My room's changed a little, you know."
+    },
+    {
+     "speaker": "sora",
+     "romaji": "chotto? kekkou kawatta yo.",
+     "ja": "ちょっと？けっこう変わったよ。",
+     "kana": "ちょっと？けっこうかわったよ。",
+     "english": "A little? It's changed quite a lot!"
+    },
+    {
+     "speaker": "kenji",
+     "romaji": "ohayou.",
+     "ja": "おはよう。",
+     "kana": "おはよう。",
+     "english": "Morning..."
+    },
+    {
+     "speaker": "yuki",
+     "romaji": "kenji, ohayou ja nai yo. mou hiru da yo.",
+     "ja": "ケンジ、おはようじゃないよ。もう昼だよ。",
+     "kana": "けんじ、おはようじゃないよ。もうひるだよ。",
+     "english": "Kenji, it's not \"morning.\" It's already noon."
+    },
+    {
+     "speaker": "kenji",
+     "romaji": "datte kinou, asa made geemu yatteta n da yo.",
+     "ja": "だって昨日、朝までゲームやってたんだよ。",
+     "kana": "だってきのう、あさまでゲームやってたんだよ。",
+     "english": "Well, I was up playing games till morning last night."
+    },
+    {
+     "speaker": "yuki",
+     "romaji": "asa made? dakara, kenji wa mada asa na wake da.",
+     "ja": "朝まで？だから、ケンジはまだ朝なわけだ。",
+     "kana": "あさまで？だから、けんじはまだあさなわけだ。",
+     "english": "Till morning? No wonder it's still \"morning\" for you, Kenji."
+    },
+    {
+     "speaker": "mother",
+     "romaji": "minna, ohiru dekita yo! sora-kun wa, soko ni douzo.",
+     "ja": "みんな、お昼できたよ！ソラくんは、そこにどうぞ。",
+     "kana": "みんな、おひるできたよ！そらくんは、そこにどうぞ。",
+     "english": "Everyone, lunch is ready! Sora, you sit there."
+    },
+    {
+     "speaker": "sora",
+     "romaji": "itadakimasu. ... a, kore, sugoku oishii desu!",
+     "ja": "いただきます。……あ、これ、すごくおいしいです！",
+     "kana": "いただきます。……あ、これ、すごくおいしいです！",
+     "english": "Thank you for the food. ...Oh, this is really delicious!"
+    },
+    {
+     "speaker": "mother",
+     "romaji": "honto ni? mada aru kara, mou sukoshi douzo.",
+     "ja": "ほんとに？まだあるから、もう少しどうぞ。",
+     "kana": "ほんとに？まだあるから、もうすこしどうぞ。",
+     "english": "Really? There's still more, so have a little more."
+    },
+    {
+     "speaker": "sora",
+     "romaji": "jaa, mou chotto dake itadakimasu.",
+     "ja": "じゃあ、もうちょっとだけいただきます。",
+     "kana": "じゃあ、もうちょっとだけいただきます。",
+     "english": "Well then, I'll have just a little more."
+    },
+    {
+     "speaker": "mother",
+     "romaji": "hai, douzo.",
+     "ja": "はい、どうぞ。",
+     "kana": "はい、どうぞ。",
+     "english": "Here you go."
+    },
+    {
+     "speaker": "sora",
+     "romaji": "gochisousama deshita. sumimasen, kyou wa shigoto ga aru node, kore de shitsurei shimasu.",
+     "ja": "ごちそうさまでした。すみません、今日は仕事があるので、これで失礼します。",
+     "kana": "ごちそうさまでした。すみません、きょうはしごとがあるので、これでしつれいします。",
+     "english": "Thank you for the meal. Sorry, I have work today, so I'll be going now."
+    },
+    {
+     "speaker": "mother",
+     "romaji": "oshigoto? jaa, ki o tsukete ne.",
+     "ja": "お仕事？じゃあ、気をつけてね。",
+     "kana": "おしごと？じゃあ、きをつけてね。",
+     "english": "Work? Well then, take care."
+    },
+    {
+     "speaker": "yuki",
+     "romaji": "jaa ne, sora!",
+     "ja": "じゃあね、ソラ！",
+     "kana": "じゃあね、そら！",
+     "english": "See you, Sora!"
+    }
+   ],
+   "newWords": [
+    {
+     "romaji": "hiru",
+     "ja": "昼",
+     "english": "noon (o-hiru: lunch)"
+    },
+    {
+     "romaji": "heya",
+     "ja": "部屋",
+     "english": "room"
+    },
+    {
+     "romaji": "asa",
+     "ja": "朝",
+     "english": "morning"
+    },
+    {
+     "romaji": "geemu",
+     "ja": "ゲーム",
+     "english": "game, video games"
+    },
+    {
+     "romaji": "oishii",
+     "ja": "おいしい",
+     "english": "tasty, delicious (adjective)"
+    },
+    {
+     "romaji": "shigoto",
+     "ja": "仕事",
+     "english": "work, job (o-shigoto: the polite way to say someone else's work)"
+    }
+   ],
+   "itemsUsed": [
+    "G-konnichiwa",
+    "G-hisashiburi",
+    "F-da",
+    "G-douzo",
+    "H-hairu",
+    "H-iru-exist",
+    "F-yo",
+    "G-arigatou",
+    "J-dono",
+    "I-katta-datta",
+    "F-kke",
+    "J-koko",
+    "B-chotto",
+    "H-kawaru",
+    "I-ta-past",
+    "F-n-da",
+    "B-kekkou",
+    "G-ohayou",
+    "I-kunai-ja-nai",
+    "A-mou",
+    "E-datte",
+    "A-kinou",
+    "H-yaru",
+    "I-teru",
+    "E-dakara",
+    "A-mada",
+    "F-wake-da",
+    "J-minna",
+    "H-dekiru",
+    "J-soko",
+    "G-itadakimasu",
+    "J-kore",
+    "B-sugoku",
+    "B-honto-ni",
+    "H-aru",
+    "E-kara",
+    "B-sukoshi",
+    "E-jaa",
+    "B-mou-chotto",
+    "G-un",
+    "G-gochisousama",
+    "G-sumimasen",
+    "A-kyou",
+    "E-node",
+    "H-suru",
+    "G-jaa-ne",
+    "G-ki-o-tsukete",
+    "F-ne"
+   ],
+   "questions": [
+    {
+     "type": "gist",
+     "english": "What did Sora do today?",
+     "ja": "今日、ソラさんは何をしましたか？",
+     "kana": "きょう、そらさんはなにをしましたか？",
+     "romaji": "kyou, sora-san wa nani o shimashita ka?",
+     "choices": [
+      {
+       "key": "A",
+       "english": "He stayed up until morning playing games with Kenji."
+      },
+      {
+       "key": "B",
+       "english": "He visited Yuki's home, had lunch with her family, and then left."
+      },
+      {
+       "key": "C",
+       "english": "He helped Yuki change her room, and then they went out to eat."
+      }
+     ],
+     "answer": "B",
+     "modelAnswers": [],
+     "explanation": "In lines 1-2 Sora greets Yuki's mother and she invites him in. Lines 10-14 are the lunch, and in line 15 he thanks them for the meal and leaves. Kenji was the one gaming till morning (line 8). Yuki's room has changed (lines 4-5), but nobody says Sora helped, and they eat at home ('ohiru dekita yo', line 10)."
+    },
+    {
+     "type": "detail",
+     "english": "What was Kenji doing last night?",
+     "ja": "ケンジさんは昨日、何をやってたんですか？",
+     "kana": "けんじさんはきのう、なにをやってたんですか？",
+     "romaji": "kenji-san wa kinou, nani o yatteta n desu ka?",
+     "choices": [
+      {
+       "key": "A",
+       "english": "Working until morning."
+      },
+      {
+       "key": "B",
+       "english": "Changing his room around."
+      },
+      {
+       "key": "C",
+       "english": "Playing games until morning."
+      }
+     ],
+     "answer": "C",
+     "modelAnswers": [],
+     "explanation": "Line 8: 'datte kinou, asa made geemu yatteta n da yo' means he was playing games till morning. Work comes up only for Sora (lines 15-16), and the room that changed is Yuki's (lines 4-5)."
+    },
+    {
+     "type": "detail",
+     "english": "Why does Sora leave after lunch?",
+     "ja": "ソラさんは、どうしてもう行くんですか？",
+     "kana": "そらさんは、どうしてもういくんですか？",
+     "romaji": "sora-san wa, doushite mou iku n desu ka?",
+     "choices": [
+      {
+       "key": "A",
+       "english": "He has work today."
+      },
+      {
+       "key": "B",
+       "english": "He stayed up until morning yesterday and is tired."
+      },
+      {
+       "key": "C",
+       "english": "It's already noon and he's running late."
+      }
+     ],
+     "answer": "A",
+     "modelAnswers": [],
+     "explanation": "Line 15: 'kyou wa shigoto ga aru node' gives his reason with -node (since I have work today). Yuki's mother checks it in line 16: 'oshigoto?'. Kenji was the one who stayed up till morning (line 8). 'mou hiru da yo' was Yuki teasing Kenji (line 7), not a reason for Sora to hurry."
+    },
+    {
+     "type": "intent",
+     "english": "Yuki says 'asa made? dakara, kenji wa mada asa na wake da.' What does she mean with '... wake da'?",
+     "ja": "ユキさんの「だから、ケンジはまだ朝なわけだ」。この「わけだ」は、何ですか？",
+     "kana": "ゆきさんの「だから、けんじはまだあさなわけだ」。この「わけだ」は、なんですか？",
+     "romaji": "yuki-san no \"dakara, kenji wa mada asa na wake da\". kono \"wake da\" wa, nan desu ka?",
+     "choices": [
+      {
+       "key": "A",
+       "english": "She's telling Kenji that it's still morning."
+      },
+      {
+       "key": "B",
+       "english": "She has just worked out why Kenji is acting as if it's still morning."
+      },
+      {
+       "key": "C",
+       "english": "She's asking Kenji whether he really played games until morning."
+      }
+     ],
+     "answer": "B",
+     "modelAnswers": [],
+     "explanation": "Line 9: wake da states a conclusion that explains something ('so that's why / no wonder'). Kenji has just said he played games till morning (line 8), so it now makes sense to Yuki that he's still in 'morning' mode at noon and says ohayou. She isn't telling him it's morning: she has just said 'mou hiru da yo' (line 7). It isn't a question either: her only question is 'asa made?', and he has already told her."
+    },
+    {
+     "type": "respond",
+     "english": "Yuki's mother offers Sora more food: 'mada aru kara, mou sukoshi douzo.' What could you say back to her?",
+     "ja": "まだあるから、もう少しどうぞ。",
+     "kana": "まだあるから、もうすこしどうぞ。",
+     "romaji": "mada aru kara, mou sukoshi douzo.",
+     "choices": [],
+     "answer": "Politely accept a little more (ii n desu ka? jaa, mou chotto dake onegai shimasu) or politely say you've had enough, with thanks (arigatou gozaimasu. demo, mou daijoubu desu).",
+     "modelAnswers": [
+      {
+       "romaji": "ii n desu ka? jaa, mou chotto dake onegai shimasu.",
+       "ja": "いいんですか？じゃあ、もうちょっとだけお願いします。",
+       "english": "Are you sure? Then just a little more, please."
+      },
+      {
+       "romaji": "arigatou gozaimasu. demo, mou daijoubu desu.",
+       "ja": "ありがとうございます。でも、もう大丈夫です。",
+       "english": "Thank you. But I'm fine now."
+      }
+     ],
+     "explanation": "Line 12: Yuki's mother offers more with 'mada aru kara, mou sukoshi douzo' (there's still more, so have a little more). In line 13 Sora accepts with 'jaa, mou chotto dake itadakimasu'. Turning it down politely with thanks also works. Either way, keep it polite (desu/masu): you're talking to a friend's parent, even though she talks casually to you."
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "title": "From good morning to good night",
+   "format": "dialogue",
+   "register": "mixed",
+   "setting": "Mai, a woman in her twenties, goes through one day: breakfast with her mother, meeting her elderly neighbour Satou-san on the way out, work with her friend Kenta and his friend Sora, a call from Yuki in the evening, then dinner and bed at home.",
+   "speakers": [
+    {
+     "id": "mai",
+     "name": "Mai",
+     "voice": "female, 20s, warm, natural"
+    },
+    {
+     "id": "mother",
+     "name": "Mai's mother",
+     "voice": "female, 50s, gentle, motherly"
+    },
+    {
+     "id": "satou",
+     "name": "Satou-san",
+     "voice": "male, 70s, polite, kind, unhurried"
+    },
+    {
+     "id": "kenta",
+     "name": "Kenta",
+     "voice": "male, 20s, upbeat, casual"
+    },
+    {
+     "id": "sora",
+     "name": "Sora",
+     "voice": "male, 20s, friendly, relaxed"
+    },
+    {
+     "id": "yuki",
+     "name": "Yuki",
+     "voice": "female, 20s, apologetic, on the phone"
+    }
+   ],
+   "lines": [
+    {
+     "speaker": "mother",
+     "romaji": "mai, ohayou! mou deru no?",
+     "ja": "マイ、おはよう！もう出るの？",
+     "kana": "まい、おはよう！もうでるの？",
+     "english": "Morning, Mai! Heading out already?"
+    },
+    {
+     "speaker": "mai",
+     "romaji": "ohayou. un, gochisousama! a, kyou wa yuki to tabete kuru kara ne.",
+     "ja": "おはよう。うん、ごちそうさま！あ、今日はユキと食べてくるからね。",
+     "kana": "おはよう。うん、ごちそうさま！あ、きょうはゆきとたべてくるからね。",
+     "english": "Morning. Yeah, thanks for breakfast! Oh, and I'm eating out with Yuki tonight, OK?"
+    },
+    {
+     "speaker": "satou",
+     "romaji": "a, mai-san, ohayou gozaimasu. kyou wa ame ni narimasu yo. kasa, mottemasu ka?",
+     "ja": "あ、マイさん、おはようございます。今日は雨になりますよ。傘、持ってますか？",
+     "kana": "あ、まいさん、おはようございます。きょうはあめになりますよ。かさ、もってますか？",
+     "english": "Ah, Mai, good morning. It's going to rain today, you know. Do you have an umbrella?"
+    },
+    {
+     "speaker": "mai",
+     "romaji": "ohayou gozaimasu. iie, mottemasen.",
+     "ja": "おはようございます。いいえ、持ってません。",
+     "kana": "おはようございます。いいえ、もってません。",
+     "english": "Good morning. No, I don't."
+    },
+    {
+     "speaker": "satou",
+     "romaji": "jaa, kore, douzo. uchi ni mada arimasu kara.",
+     "ja": "じゃあ、これ、どうぞ。うちにまだありますから。",
+     "kana": "じゃあ、これ、どうぞ。うちにまだありますから。",
+     "english": "Then here, take this one. I've got another at home."
+    },
+    {
+     "speaker": "mai",
+     "romaji": "e, ii n desu ka? sumimasen!",
+     "ja": "え、いいんですか？すみません！",
+     "kana": "え、いいんですか？すみません！",
+     "english": "Oh, are you sure? Thank you so much!"
+    },
+    {
+     "speaker": "satou",
+     "romaji": "iie, kochira koso, kinou wa arigatou gozaimashita. ki o tsukete.",
+     "ja": "いいえ、こちらこそ、昨日はありがとうございました。気をつけて。",
+     "kana": "いいえ、こちらこそ、きのうはありがとうございました。きをつけて。",
+     "english": "Not at all. I'm the one who should thank you, for yesterday. Take care."
+    },
+    {
+     "speaker": "kenta",
+     "romaji": "mai, otsukare! chotto ii? boku no tomodachi no sora.",
+     "ja": "マイ、お疲れ！ちょっといい？僕の友達のソラ。",
+     "kana": "まい、おつかれ！ちょっといい？ぼくのともだちのそら。",
+     "english": "Hey, Mai! Got a sec? This is my friend Sora."
+    },
+    {
+     "speaker": "mai",
+     "romaji": "a, konnichiwa! hajimemashite, mai desu. yoroshiku ne.",
+     "ja": "あ、こんにちは！はじめまして、マイです。よろしくね。",
+     "kana": "あ、こんにちは！はじめまして、まいです。よろしくね。",
+     "english": "Oh, hi! Nice to meet you, I'm Mai. Good to know you!"
+    },
+    {
+     "speaker": "sora",
+     "romaji": "konnichiwa. sora desu. kochira koso, yoroshiku.",
+     "ja": "こんにちは。ソラです。こちらこそ、よろしく。",
+     "kana": "こんにちは。そらです。こちらこそ、よろしく。",
+     "english": "Hi. I'm Sora. Good to know you too."
+    },
+    {
+     "speaker": "mai",
+     "romaji": "minasan, otsukaresama desu. kyou wa kore de shitsurei shimasu.",
+     "ja": "みなさん、お疲れさまです。今日はこれで失礼します。",
+     "kana": "みなさん、おつかれさまです。きょうはこれでしつれいします。",
+     "english": "Good work today, everyone. I'm done for today, so I'll head out."
+    },
+    {
+     "speaker": "kenta",
+     "romaji": "otsukare! jaa ne.",
+     "ja": "お疲れ！じゃあね。",
+     "kana": "おつかれ！じゃあね。",
+     "english": "Good work today! See you."
+    },
+    {
+     "speaker": "mai",
+     "romaji": "moshimoshi?",
+     "ja": "もしもし？",
+     "kana": "もしもし？",
+     "english": "Hello?"
+    },
+    {
+     "speaker": "yuki",
+     "romaji": "moshimoshi, mai? gomen, shigoto ga mada kanari atte, kyou dame ni natchatta. ashita, daijoubu?",
+     "ja": "もしもし、マイ？ごめん、仕事がまだかなりあって、今日ダメになっちゃった。明日、大丈夫？",
+     "kana": "もしもし、まい？ごめん、しごとがまだかなりあって、きょうだめになっちゃった。あした、だいじょうぶ？",
+     "english": "Hello, Mai? Sorry, I've still got loads of work, so tonight's off. Is tomorrow OK?"
+    },
+    {
+     "speaker": "mai",
+     "romaji": "e, honto ni? un, daijoubu da yo. ashita ne! jaa ne.",
+     "ja": "え、ほんとに？うん、大丈夫だよ。明日ね！じゃあね。",
+     "kana": "え、ほんとに？うん、だいじょうぶだよ。あしたね！じゃあね。",
+     "english": "Oh, really? Yeah, tomorrow's fine. Tomorrow, then! Bye."
+    },
+    {
+     "speaker": "yuki",
+     "romaji": "un, honto ni gomen ne. jaa ne.",
+     "ja": "うん、ほんとにごめんね。じゃあね。",
+     "kana": "うん、ほんとにごめんね。じゃあね。",
+     "english": "OK. Really sorry. Bye!"
+    },
+    {
+     "speaker": "mother",
+     "romaji": "e, kyou wa uchi de taberu n da. hai, douzo.",
+     "ja": "え、今日はうちで食べるんだ。はい、どうぞ。",
+     "kana": "え、きょうはうちでたべるんだ。はい、どうぞ。",
+     "english": "Oh, so you're eating at home tonight. Here you go."
+    },
+    {
+     "speaker": "mai",
+     "romaji": "un, itadakimasu!",
+     "ja": "うん、いただきます！",
+     "kana": "うん、いただきます！",
+     "english": "Yeah. Thanks, let's eat!"
+    },
+    {
+     "speaker": "mother",
+     "romaji": "mou ii no?",
+     "ja": "もういいの？",
+     "kana": "もういいの？",
+     "english": "Done already?"
+    },
+    {
+     "speaker": "mai",
+     "romaji": "un, gochisousama!",
+     "ja": "うん、ごちそうさま！",
+     "kana": "うん、ごちそうさま！",
+     "english": "Yeah, thanks, that was great!"
+    },
+    {
+     "speaker": "mother",
+     "romaji": "mou neru no? jaa, oyasumi.",
+     "ja": "もう寝るの？じゃあ、おやすみ。",
+     "kana": "もうねるの？じゃあ、おやすみ。",
+     "english": "Off to bed already? Well, good night."
+    },
+    {
+     "speaker": "mai",
+     "romaji": "un, oyasumi nasai.",
+     "ja": "うん、おやすみなさい。",
+     "kana": "うん、おやすみなさい。",
+     "english": "Yeah. Good night."
+    }
+   ],
+   "newWords": [
+    {
+     "romaji": "taberu",
+     "ja": "食べる",
+     "english": "eat"
+    },
+    {
+     "romaji": "neru",
+     "ja": "寝る",
+     "english": "go to bed; sleep"
+    },
+    {
+     "romaji": "ame",
+     "ja": "雨",
+     "english": "rain"
+    },
+    {
+     "romaji": "kasa",
+     "ja": "傘",
+     "english": "umbrella"
+    },
+    {
+     "romaji": "tomodachi",
+     "ja": "友達",
+     "english": "friend"
+    },
+    {
+     "romaji": "shigoto",
+     "ja": "仕事",
+     "english": "work; job"
+    }
+   ],
+   "itemsUsed": [
+    "G-ohayou",
+    "G-konnichiwa",
+    "G-moshimoshi",
+    "G-oyasumi",
+    "G-gochisousama",
+    "G-kochira-koso",
+    "G-uun",
+    "G-otsukare",
+    "G-hajimemashite",
+    "G-yoroshiku",
+    "G-itadakimasu",
+    "G-ki-o-tsukete",
+    "G-jaa-ne",
+    "G-sumimasen",
+    "G-un",
+    "G-arigatou",
+    "G-gomen",
+    "G-douzo",
+    "A-mou",
+    "A-kyou",
+    "A-kinou",
+    "A-ashita",
+    "A-mada",
+    "H-deru",
+    "H-naru",
+    "H-motsu",
+    "H-aru",
+    "H-kuru",
+    "I-teru",
+    "I-nai-negative",
+    "I-ta-past",
+    "I-chau",
+    "E-kara",
+    "E-jaa",
+    "E-te-and",
+    "F-no-question",
+    "F-ne",
+    "F-yo",
+    "F-ka",
+    "F-da",
+    "F-n-da",
+    "J-san",
+    "J-kore",
+    "J-uchi",
+    "J-boku",
+    "J-minna",
+    "D-ii",
+    "D-dame",
+    "D-daijoubu",
+    "B-chotto",
+    "B-kanari",
+    "B-honto-ni"
+   ],
+   "questions": [
+    {
+     "type": "gist",
+     "english": "Which best sums up Mai's day?",
+     "ja": "今日、マイさんに何がありましたか。",
+     "kana": "きょう、まいさんになにがありましたか。",
+     "romaji": "kyou, mai-san ni nani ga arimashita ka?",
+     "choices": [
+      {
+       "key": "A",
+       "english": "She goes to work, then has dinner out with Yuki as they planned."
+      },
+      {
+       "key": "B",
+       "english": "She goes to work, but Yuki moves their dinner to tomorrow, so Mai eats at home."
+      },
+      {
+       "key": "C",
+       "english": "She stays home because of the rain, and Yuki comes over in the evening."
+      }
+     ],
+     "answer": "B",
+     "modelAnswers": [],
+     "explanation": "In line 2 Mai tells her mother she's eating out with Yuki today ('kyou wa yuki to tabete kuru kara ne'). In line 14 Yuki calls to say today is off and asks about tomorrow, and Mai agrees in line 15 ('ashita ne!'). In line 17 her mother says 'kyou wa uchi de taberu n da': she's eating at home tonight, and lines 18-20 are that dinner. A was only the plan. C is wrong: rain is only forecast (line 3), Mai goes out in the morning and later leaves work (lines 1-2 and 11), and Yuki only phones (lines 13-16)."
+    },
+    {
+     "type": "detail",
+     "english": "Why does Mai end up with Satou-san's umbrella?",
+     "ja": "なんで、マイさんは佐藤さんの傘を持ってるんですか。",
+     "kana": "なんで、まいさんはさとうさんのかさをもってるんですか。",
+     "romaji": "nande, mai-san wa satou-san no kasa o motteru n desu ka?",
+     "choices": [
+      {
+       "key": "A",
+       "english": "It's going to rain today, and she doesn't have one."
+      },
+      {
+       "key": "B",
+       "english": "It's already raining, so she asks to borrow one."
+      },
+      {
+       "key": "C",
+       "english": "She lent him hers yesterday, and he's giving it back."
+      }
+     ],
+     "answer": "A",
+     "modelAnswers": [],
+     "explanation": "In line 3 Satou-san says 'kyou wa ame ni narimasu yo' (it's going to rain) and asks if she has an umbrella. In line 4 she says 'iie, mottemasen', and in line 5 he gives her one: 'jaa, kore, douzo', since he has another at home. B is wrong because it isn't raining yet ('ame ni narimasu' means it will rain), and he offers without being asked. C is wrong: he asks whether she has one (line 3) and says he still has one at home (line 5), so it is his own spare. Mai's surprised 'e, ii n desu ka?' (line 6) shows she is being given something, not getting hers back. His 'kinou wa arigatou gozaimashita' (line 7) is only his reply to her thanks."
+    },
+    {
+     "type": "detail",
+     "english": "Why does Yuki cancel tonight's dinner?",
+     "ja": "ユキさんは、なんで今日ダメになったんですか。",
+     "kana": "ゆきさんは、なんできょうだめになったんですか。",
+     "romaji": "yuki-san wa, nande kyou dame ni natta n desu ka?",
+     "choices": [
+      {
+       "key": "A",
+       "english": "It's going to rain tonight."
+      },
+      {
+       "key": "B",
+       "english": "She has to eat at home with her family."
+      },
+      {
+       "key": "C",
+       "english": "She still has quite a lot of work."
+      }
+     ],
+     "answer": "C",
+     "modelAnswers": [],
+     "explanation": "Line 14: 'shigoto ga mada kanari atte, kyou dame ni natchatta'. Her work isn't done yet, and the -te form (atte) gives the reason. Rain (A) is what Satou-san talked about that morning (line 3). Eating at home (B) is what happens to Mai (line 17), not Yuki."
+    },
+    {
+     "type": "intent",
+     "english": "Mai thanks Satou-san for the umbrella, and he says 'iie, kochira koso, kinou wa arigatou gozaimashita.' What does he mean by 'kochira koso' here?",
+     "ja": "「いいえ、こちらこそ、昨日はありがとうございました。」佐藤さんの「こちらこそ」って、何ですか。",
+     "kana": "「いいえ、こちらこそ、きのうはありがとうございました。」さとうさんの「こちらこそ」って、なんですか。",
+     "romaji": "\"iie, kochira koso, kinou wa arigatou gozaimashita.\" satou-san no \"kochira koso\" tte, nan desu ka?",
+     "choices": [
+      {
+       "key": "A",
+       "english": "\"No, I'm the one who should thank you\" for something Mai did yesterday."
+      },
+      {
+       "key": "B",
+       "english": "\"Nice to meet you too\": he's meeting Mai for the first time."
+      },
+      {
+       "key": "C",
+       "english": "\"Take care\": he wants her to be careful in the rain."
+      }
+     ],
+     "answer": "A",
+     "modelAnswers": [],
+     "explanation": "In line 6 Mai thanks him with 'sumimasen!'. In line 7 he answers 'iie' (no need), then 'kochira koso' turns the thanks back to her: I'm the one who should be grateful. He says what for: 'kinou wa arigatou gozaimashita' (thanks for yesterday). B is kochira koso's other job, 'likewise' after yoroshiku, which Sora uses at a first meeting in line 10. But Satou-san already knows Mai: he greets her by name in line 3 and thanks her for yesterday. C is what 'ki o tsukete' means, the next thing he says in line 7, not kochira koso."
+    },
+    {
+     "type": "respond",
+     "english": "Kenta brings his friend over and says to you, 'chotto ii? boku no tomodachi no sora.' You've never met Sora before. What could you say to Sora?",
+     "ja": "ちょっといい？僕の友達のソラ。",
+     "kana": "ちょっといい？ぼくのともだちのそら。",
+     "romaji": "chotto ii? boku no tomodachi no sora.",
+     "choices": [],
+     "answer": "Greet Sora as a first meeting: konnichiwa and/or hajimemashite, then yoroshiku (casual, maybe with ne) or yoroshiku onegai shimasu (polite).",
+     "modelAnswers": [
+      {
+       "romaji": "a, konnichiwa! hajimemashite. yoroshiku ne.",
+       "ja": "あ、こんにちは！はじめまして。よろしくね。",
+       "english": "Oh, hi! Nice to meet you. Good to know you!"
+      },
+      {
+       "romaji": "hajimemashite. yoroshiku onegai shimasu.",
+       "ja": "はじめまして。よろしくお願いします。",
+       "english": "Nice to meet you. I look forward to getting to know you."
+      }
+     ],
+     "explanation": "This is the moment in lines 8-10. Mai answers casually ('a, konnichiwa! hajimemashite, mai desu. yoroshiku ne.') because Sora is a friend's friend her own age. The polite 'yoroshiku onegai shimasu' also works with anyone. Expect Sora to answer 'kochira koso, yoroshiku' (line 10)."
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "title": "How was the trip?",
+   "format": "dialogue",
+   "register": "casual",
+   "setting": "Kenta runs into his friend Yuki on the day she gets back from a short trip to the mountains and asks her how it went.",
+   "speakers": [
+    {
+     "id": "kenta",
+     "name": "Kenta",
+     "voice": "male, 20s, friendly and curious, relaxed casual Tokyo speech"
+    },
+    {
+     "id": "yuki",
+     "name": "Yuki",
+     "voice": "female, 20s, lively and expressive, a little worn out from travelling, casual"
+    }
+   ],
+   "lines": [
+    {
+     "speaker": "kenta",
+     "romaji": "a, yuki! modotta n da. yama, yokatta? samukunakatta?",
+     "ja": "あ、ユキ！戻ったんだ。山、よかった？寒くなかった？",
+     "kana": "あ、ゆき！もどったんだ。やま、よかった？さむくなかった？",
+     "english": "Oh, Yuki! You're back. So, were the mountains good? Wasn't it cold?"
+    },
+    {
+     "speaker": "yuki",
+     "romaji": "sugoku yokatta yo! demo, metcha samukatta.",
+     "ja": "すごくよかったよ！でも、めっちゃ寒かった。",
+     "kana": "すごくよかったよ！でも、めっちゃさむかった。",
+     "english": "It was really great! But it was super cold."
+    },
+    {
+     "speaker": "kenta",
+     "romaji": "demo, kyou wa koko mo sukoshi samui yo ne. yama wa, mou chotto samukatta dake?",
+     "ja": "でも、今日はここも少し寒いよね。山は、もうちょっと寒かっただけ？",
+     "kana": "でも、きょうはここもすこしさむいよね。やまは、もうちょっとさむかっただけ？",
+     "english": "But it's a bit cold here today too, right? Was it just a little colder up there?"
+    },
+    {
+     "speaker": "yuki",
+     "romaji": "mou chotto ja nai yo! motto da yo, motto! kanari samukute, zutto onsen ni haitteta.",
+     "ja": "もうちょっとじゃないよ！もっとだよ、もっと！かなり寒くて、ずっと温泉に入ってた。",
+     "kana": "もうちょっとじゃないよ！もっとだよ、もっと！かなりさむくて、ずっとおんせんにはいってた。",
+     "english": "Not a little! Way more than that! It was so cold I stayed in the hot springs the whole time."
+    },
+    {
+     "speaker": "kenta",
+     "romaji": "ii naa! onsen, kekkou atta no?",
+     "ja": "いいなあ！温泉、結構あったの？",
+     "kana": "いいなあ！おんせん、けっこうあったの？",
+     "english": "Lucky you! Were there quite a few hot springs?"
+    },
+    {
+     "speaker": "yuki",
+     "romaji": "un, kekkou atta yo. kanari haitta.",
+     "ja": "うん、結構あったよ。かなり入った。",
+     "kana": "うん、けっこうあったよ。かなりはいった。",
+     "english": "Yeah, quite a few. I went in a lot of them."
+    },
+    {
+     "speaker": "kenta",
+     "romaji": "dono onsen ga yokatta?",
+     "ja": "どの温泉がよかった？",
+     "kana": "どのおんせんがよかった？",
+     "english": "Which one was the best?"
+    },
+    {
+     "speaker": "yuki",
+     "romaji": "dono onsen kana... a, kinou haitta onsen! soko, nani mo nakute, sore ga ii tte kanji.",
+     "ja": "どの温泉かな…。あ、昨日入った温泉！そこ、何もなくて、それがいいって感じ。",
+     "kana": "どのおんせんかな…。あ、きのうはいったおんせん！そこ、なにもなくて、それがいいってかんじ。",
+     "english": "Which one, I wonder... Oh, the one I went to yesterday! There's nothing around it, and that's kind of what makes it nice."
+    },
+    {
+     "speaker": "kenta",
+     "romaji": "e, kinou? mada soko ni ita no?",
+     "ja": "え、昨日？まだそこにいたの？",
+     "kana": "え、きのう？まだそこにいたの？",
+     "english": "Huh, yesterday? You were still there?"
+    },
+    {
+     "speaker": "yuki",
+     "romaji": "un. densha, yoyaku shitoita noni, denakatta n da yo.",
+     "ja": "うん。電車、予約しといたのに、出なかったんだよ。",
+     "kana": "うん。でんしゃ、よやくしといたのに、でなかったんだよ。",
+     "english": "Yeah. I'd booked my train ahead and everything, and it didn't run."
+    },
+    {
+     "speaker": "kenta",
+     "romaji": "e, yoyaku shitoita noni? jaa, itsu modotta no?",
+     "ja": "え、予約しといたのに？じゃあ、いつ戻ったの？",
+     "kana": "え、よやくしといたのに？じゃあ、いつもどったの？",
+     "english": "What, even though you'd booked it? So when did you get back?"
+    },
+    {
+     "speaker": "yuki",
+     "romaji": "kyou. kyou yatto densha ga deta n da.",
+     "ja": "今日。今日やっと電車が出たんだ。",
+     "kana": "きょう。きょうやっとでんしゃがでたんだ。",
+     "english": "Today. The train finally ran today."
+    },
+    {
+     "speaker": "kenta",
+     "romaji": "jaa, yatto modotta n da. honto ni otsukare! de, sono onsen, ikura datta?",
+     "ja": "じゃあ、やっと戻ったんだ。ほんとにお疲れ！で、その温泉、いくらだった？",
+     "kana": "じゃあ、やっともどったんだ。ほんとにおつかれ！で、そのおんせん、いくらだった？",
+     "english": "So you finally made it back. You must be really worn out! So, how much was that hot spring?"
+    },
+    {
+     "speaker": "yuki",
+     "romaji": "ikura datta kke... a, demo, takakunakatta yo.",
+     "ja": "いくらだったっけ…。あ、でも、高くなかったよ。",
+     "kana": "いくらだったっけ…。あ、でも、たかくなかったよ。",
+     "english": "How much was it again... Oh, well, it wasn't expensive, anyway."
+    },
+    {
+     "speaker": "kenta",
+     "romaji": "takakunakatta no? jaa, motto ii ne! samukatta kedo, sugoku yokatta tte kanji?",
+     "ja": "高くなかったの？じゃあ、もっといいね！寒かったけど、すごくよかったって感じ？",
+     "kana": "たかくなかったの？じゃあ、もっといいね！さむかったけど、すごくよかったってかんじ？",
+     "english": "It wasn't expensive? Then that's even better! It was cold, but really great, kind of?"
+    },
+    {
+     "speaker": "yuki",
+     "romaji": "sore sore! kenta mo itte mite. demo, sukoshi ja nakute, metcha samui kara ne.",
+     "ja": "それそれ！ケンタも行ってみて。でも、少しじゃなくて、めっちゃ寒いからね。",
+     "kana": "それそれ！けんたもいってみて。でも、すこしじゃなくて、めっちゃさむいからね。",
+     "english": "Exactly! You should go too, Kenta. But it's not a little cold, it's super cold, okay?"
+    }
+   ],
+   "newWords": [
+    {
+     "romaji": "yama",
+     "ja": "山",
+     "english": "mountain; the mountains (here: a trip to the mountains)"
+    },
+    {
+     "romaji": "samui",
+     "ja": "寒い",
+     "english": "cold (weather). samukatta: was cold; samukute: so cold that...; samukunakatta: wasn't cold"
+    },
+    {
+     "romaji": "onsen",
+     "ja": "温泉",
+     "english": "hot spring (a natural hot bath you can go into)"
+    },
+    {
+     "romaji": "densha",
+     "ja": "電車",
+     "english": "train"
+    },
+    {
+     "romaji": "yoyaku",
+     "ja": "予約",
+     "english": "booking, reservation (yoyaku suru: to book; yoyaku shitoita: had booked ahead)"
+    },
+    {
+     "romaji": "takai",
+     "ja": "高い",
+     "english": "expensive. takakunakatta: wasn't expensive"
+    }
+   ],
+   "itemsUsed": [
+    "H-modoru",
+    "I-ta-past",
+    "F-n-da",
+    "F-da",
+    "D-ii",
+    "I-katta-datta",
+    "I-kunai-ja-nai",
+    "B-sugoku",
+    "F-yo",
+    "E-demo",
+    "B-metcha",
+    "A-kyou",
+    "J-koko",
+    "B-sukoshi",
+    "F-yo-ne",
+    "B-mou-chotto",
+    "B-motto",
+    "B-kanari",
+    "I-kute-de",
+    "A-zutto",
+    "H-hairu",
+    "I-teru",
+    "F-naa",
+    "B-kekkou",
+    "H-aru",
+    "F-no-question",
+    "G-un",
+    "J-dono",
+    "F-kana",
+    "A-kinou",
+    "J-soko",
+    "J-nani",
+    "J-sore",
+    "F-tte-kanji",
+    "I-nai-negative",
+    "A-mada",
+    "H-iru-exist",
+    "E-noni",
+    "I-toku",
+    "H-suru",
+    "H-deru",
+    "E-jaa",
+    "J-itsu",
+    "A-yatto",
+    "G-otsukare",
+    "B-honto-ni",
+    "E-de-sorede",
+    "J-sono",
+    "J-ikura",
+    "F-kke",
+    "F-ne",
+    "E-kedo",
+    "I-te-miru",
+    "H-iku",
+    "E-kara"
+   ],
+   "questions": [
+    {
+     "type": "gist",
+     "english": "What happened on Yuki's trip to the mountains?",
+     "ja": "山で、ユキさんに何がありましたか。",
+     "kana": "やまで、ゆきさんになにがありましたか。",
+     "romaji": "yama de, yuki-san ni nani ga arimashita ka?",
+     "choices": [
+      {
+       "key": "A",
+       "english": "It wasn't very cold, and she came home a day early."
+      },
+      {
+       "key": "B",
+       "english": "It was super cold but great, and her train didn't run, so she got back late."
+      },
+      {
+       "key": "C",
+       "english": "It was super cold, and she missed her train because she stayed in a hot spring."
+      }
+     ],
+     "answer": "B",
+     "modelAnswers": [],
+     "explanation": "Lines 2-4: it was super cold ('metcha samukatta', 'motto da yo, motto!'). Lines 2 and 15-16: it was still really great ('sugoku yokatta', 'sore sore!'). Lines 9-12: she was still there yesterday because the train she'd booked didn't run ('denakatta', line 10), and it finally ran today (line 12). A is wrong because it was super cold, not mild, and she came back late, not early. C is wrong because she didn't miss the train. It didn't run at all."
+    },
+    {
+     "type": "detail",
+     "english": "How cold was it in the mountains?",
+     "ja": "山は、少し寒かったですか、かなり寒かったですか。",
+     "kana": "やまは、すこしさむかったですか、かなりさむかったですか。",
+     "romaji": "yama wa, sukoshi samukatta desu ka, kanari samukatta desu ka?",
+     "choices": [
+      {
+       "key": "A",
+       "english": "Only a little colder than here."
+      },
+      {
+       "key": "B",
+       "english": "Not cold at all."
+      },
+      {
+       "key": "C",
+       "english": "Way, way colder than here."
+      }
+     ],
+     "answer": "C",
+     "modelAnswers": [],
+     "explanation": "In line 3 Kenta says it's 'sukoshi samui' (a bit cold) here today and asks if the mountains were just a little colder ('mou chotto samukatta dake?'). In line 4 Yuki corrects him: 'mou chotto ja nai yo! motto da yo, motto!' (not a little, way more) and 'kanari samukute' (it was quite cold, so...). Line 2 ('metcha samukatta') and line 16 ('sukoshi ja nakute, metcha samui') say the same thing. A is Kenta's guess, which she rejects. B picks up Kenta's question 'samukunakatta?' in line 1, but she says 'metcha samukatta'."
+    },
+    {
+     "type": "detail",
+     "english": "Were there many hot springs, and did Yuki go in a lot of them or just a few?",
+     "ja": "山に、温泉は結構ありましたか。ユキさんは、かなり入りましたか、少しだけ入りましたか。",
+     "kana": "やまに、おんせんはけっこうありましたか。ゆきさんは、かなりはいりましたか、すこしだけはいりましたか。",
+     "romaji": "yama ni, onsen wa kekkou arimashita ka? yuki-san wa, kanari hairimashita ka, sukoshi dake hairimashita ka?",
+     "choices": [
+      {
+       "key": "A",
+       "english": "There were quite a few, and she went in a lot of them."
+      },
+      {
+       "key": "B",
+       "english": "There were only a few, so she kept going to the same one."
+      },
+      {
+       "key": "C",
+       "english": "There were quite a few, but she only went in her favourite."
+      }
+     ],
+     "answer": "A",
+     "modelAnswers": [],
+     "explanation": "In line 5 Kenta asks 'onsen, kekkou atta no?' (were there quite a few?). In line 6 Yuki says 'un, kekkou atta yo. kanari haitta': yes, quite a few, and she went in quite a lot of them. B contradicts 'kekkou atta'. Lines 7-8 also rule out C: Kenta asks 'dono onsen ga yokatta?' and she picks 'kinou haitta onsen', the one she went in yesterday, out of several she tried."
+    },
+    {
+     "type": "intent",
+     "english": "Yuki says 'densha, yoyaku shitoita noni, denakatta n da yo.' What is she expressing with 'noni'?",
+     "ja": "ユキさんの「電車、予約しといたのに、出なかったんだよ」。この「のに」は、何ですか。",
+     "kana": "ゆきさんの「でんしゃ、よやくしといたのに、でなかったんだよ」。この「のに」は、なんですか。",
+     "romaji": "yuki-san no \"densha, yoyaku shitoita noni, denakatta n da yo.\" kono \"noni\" wa, nan desu ka?",
+     "choices": [
+      {
+       "key": "A",
+       "english": "She's giving the reason the train didn't run."
+      },
+      {
+       "key": "B",
+       "english": "She booked ahead, and it still went wrong, so she's annoyed."
+      },
+      {
+       "key": "C",
+       "english": "She's wondering whether the train will run today."
+      }
+     ],
+     "answer": "B",
+     "modelAnswers": [],
+     "explanation": "Line 10. 'Noni' means 'even though... and yet'. It marks a result that goes against what should have happened, and it often carries annoyance. Booking ahead ('shitoita', did it in advance) was her planning, and the train not running is the letdown. In line 11 Kenta echoes 'yoyaku shitoita noni?' to share her surprise. A reason (A) would use 'kara' or 'node', which sound a bit like 'noni' but mean 'because'. 'yoyaku shitoita kara, denakatta' would make her booking the cause, which makes no sense. Wondering (C) would use 'kana', like 'dono onsen kana...' in line 8, and the train did run today (line 12)."
+    },
+    {
+     "type": "respond",
+     "english": "At the end, Yuki says 'kenta mo itte mite. demo, sukoshi ja nakute, metcha samui kara ne.' If you were Kenta, would you go? What could you say back?",
+     "ja": "「ケンタも行ってみて。でも、少しじゃなくて、めっちゃ寒いからね。」ケンタさんは、行ってみますか。",
+     "kana": "「けんたもいってみて。でも、すこしじゃなくて、めっちゃさむいからね。」けんたさんは、いってみますか。",
+     "romaji": "\"kenta mo itte mite. demo, sukoshi ja nakute, metcha samui kara ne.\" kenta-san wa, itte mimasu ka?",
+     "choices": [],
+     "answer": "Take up her suggestion and thank her, or react to the 'metcha' warning and softly pass.",
+     "modelAnswers": [
+      {
+       "romaji": "un, itte miru! arigatou.",
+       "ja": "うん、行ってみる！ありがとう。",
+       "english": "Yeah, I'll give it a try! Thanks."
+      },
+      {
+       "romaji": "e, metcha? jaa, boku wa ii kana.",
+       "ja": "え、めっちゃ？じゃあ、僕はいいかな。",
+       "english": "Huh, super cold? Then I think I'll pass."
+      }
+     ],
+     "explanation": "In line 16 Yuki tells Kenta to try going, but warns him it's not a little cold, it's super cold. The first answer takes up her 'itte mite' with 'itte miru' (I'll try going). In the second, 'e, metcha?' echoes her degree word with surprise, and 'boku wa ii kana' is a soft 'I think I'll pass': 'ii' here means 'I'm fine without it', and 'kana' makes it gentle."
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "title": "A mistake at work",
+   "format": "dialogue",
+   "register": "polite",
+   "setting": "At the office before a meeting, Mai Kimura (Kimura-san) tells her senior colleague Tanaka-san she copied the wrong handout, and they find out the email mix-up was his fault.",
+   "speakers": [
+    {
+     "id": "mai",
+     "name": "Mai Kimura (Kimura-san)",
+     "voice": "female, 20s, polite office speech, apologetic at first, then relieved"
+    },
+    {
+     "id": "tanaka",
+     "name": "Tanaka-san",
+     "voice": "male, 40s, calm and kind, unhurried polite office speech"
+    }
+   ],
+   "lines": [
+    {
+     "speaker": "mai",
+     "ja": "田中さん、すみません。今日の会議の資料なんですけど…。",
+     "kana": "たなかさん、すみません。きょうのかいぎのしりょうなんですけど…。",
+     "romaji": "tanaka-san, sumimasen. kyou no kaigi no shiryou na n desu kedo...",
+     "english": "Tanaka-san, excuse me. It's about the handout for today's meeting..."
+    },
+    {
+     "speaker": "tanaka",
+     "ja": "はい。何かありましたか？",
+     "kana": "はい。なにかありましたか？",
+     "romaji": "hai. nanika arimashita ka?",
+     "english": "Yes? Is something wrong?"
+    },
+    {
+     "speaker": "mai",
+     "ja": "私がコピーしたの、今朝の資料じゃなかったです。昨日のでした。本当にすみません。私が悪いんです。",
+     "kana": "わたしがコピーしたの、けさのしりょうじゃなかったです。きのうのでした。ほんとうにすみません。わたしがわるいんです。",
+     "romaji": "watashi ga kopii shita no, kesa no shiryou ja nakatta desu. kinou no deshita. hontou ni sumimasen. watashi ga warui n desu.",
+     "english": "The ones I copied weren't this morning's handout. They were yesterday's. I'm really sorry. It's my fault."
+    },
+    {
+     "speaker": "tanaka",
+     "ja": "昨日のでしたか。今朝、資料がちょっと変わったので、みなさんにメールしましたよね？",
+     "kana": "きのうのでしたか。けさ、しりょうがちょっとかわったので、みなさんにメールしましたよね？",
+     "romaji": "kinou no deshita ka. kesa, shiryou ga chotto kawatta node, minasan ni meeru shimashita yo ne?",
+     "english": "Yesterday's, huh. The handout changed a little this morning, so I emailed it to everyone, didn't I?"
+    },
+    {
+     "speaker": "mai",
+     "ja": "はい、山田さんには来ました。でも、私には来なかったんですよ。",
+     "kana": "はい、やまださんにはきました。でも、わたしにはこなかったんですよ。",
+     "romaji": "hai, yamada-san ni wa kimashita. demo, watashi ni wa konakatta n desu yo.",
+     "english": "Yes, Yamada-san got it. But it never came to me, you see."
+    },
+    {
+     "speaker": "tanaka",
+     "ja": "えっ、来ませんでしたか？どうしてですかね…。あ、木村さんにじゃなかったです。自分にメールしちゃいました。",
+     "kana": "えっ、きませんでしたか？どうしてですかね…。あ、きむらさんにじゃなかったです。じぶんにメールしちゃいました。",
+     "romaji": "e, kimasen deshita ka? doushite desu ka ne... a, kimura-san ni ja nakatta desu. jibun ni meeru shichaimashita.",
+     "english": "What, it didn't come? I wonder why... Oh. It didn't go to you, Kimura-san. I emailed it to myself."
+    },
+    {
+     "speaker": "mai",
+     "ja": "田中さんにですか？あ、だから私には来なかったわけですね。",
+     "kana": "たなかさんにですか？あ、だからわたしにはこなかったわけですね。",
+     "romaji": "tanaka-san ni desu ka? a, dakara watashi ni wa konakatta wake desu ne.",
+     "english": "To you, Tanaka-san? Oh, so that's why it never reached me."
+    },
+    {
+     "speaker": "tanaka",
+     "ja": "はい。それで、昨日のをコピーしちゃったわけですね。すみませんでした。私が悪いんです。",
+     "kana": "はい。それで、きのうのをコピーしちゃったわけですね。すみませんでした。わたしがわるいんです。",
+     "romaji": "hai. sorede, kinou no o kopii shichatta wake desu ne. sumimasen deshita. watashi ga warui n desu.",
+     "english": "Yes. So that's how you ended up copying yesterday's. I'm sorry. It's my fault."
+    },
+    {
+     "speaker": "mai",
+     "ja": "いいえ。田中さんは悪くないですよ。",
+     "kana": "いいえ。たなかさんはわるくないですよ。",
+     "romaji": "iie. tanaka-san wa warukunai desu yo.",
+     "english": "No. It's not your fault, Tanaka-san."
+    },
+    {
+     "speaker": "tanaka",
+     "ja": "今、木村さんにメールしてみます。…来ましたか？",
+     "kana": "いま、きむらさんにメールしてみます。…きましたか？",
+     "romaji": "ima, kimura-san ni meeru shite mimasu. ... kimashita ka?",
+     "english": "Let me try emailing it to you now. ...Did it come?"
+    },
+    {
+     "speaker": "mai",
+     "ja": "…まだ来てません。あ、来ました！すみません。",
+     "kana": "…まだきてません。あ、きました！すみません。",
+     "romaji": "... mada kitemasen. a, kimashita! sumimasen.",
+     "english": "...Not yet. Oh, here it is! Thank you."
+    },
+    {
+     "speaker": "tanaka",
+     "ja": "いいえ、こちらこそ。",
+     "kana": "いいえ、こちらこそ。",
+     "romaji": "iie, kochira koso.",
+     "english": "Not at all. I'm the one who should be sorry."
+    },
+    {
+     "speaker": "mai",
+     "ja": "じゃあ、コピーは誰がしますか？会議までもうちょっとですけど、私、今からやってみます！",
+     "kana": "じゃあ、コピーはだれがしますか？かいぎまでもうちょっとですけど、わたし、いまからやってみます！",
+     "romaji": "jaa, kopii wa dare ga shimasu ka? kaigi made mou chotto desu kedo, watashi, ima kara yatte mimasu!",
+     "english": "So who's going to do the copies? There isn't much time before the meeting, but I'll give it a go now!"
+    },
+    {
+     "speaker": "tanaka",
+     "ja": "いいえ、それはダメですよ。私が悪かったので、コピーは自分でします。",
+     "kana": "いいえ、それはだめですよ。わたしがわるかったので、コピーはじぶんでします。",
+     "romaji": "iie, sore wa dame desu yo. watashi ga warukatta node, kopii wa jibun de shimasu.",
+     "english": "No, I can't let you do that. It was my fault, so I'll do the copies myself."
+    },
+    {
+     "speaker": "mai",
+     "ja": "えっ、いいんですか？じゃあ、お願いします。",
+     "kana": "えっ、いいんですか？じゃあ、おねがいします。",
+     "romaji": "e, ii n desu ka? jaa, onegai shimasu.",
+     "english": "Oh, are you sure? Well then, I'll leave it to you."
+    }
+   ],
+   "newWords": [
+    {
+     "romaji": "kaigi",
+     "ja": "会議",
+     "english": "meeting"
+    },
+    {
+     "romaji": "shiryou",
+     "ja": "資料",
+     "english": "handout; the papers for a meeting"
+    },
+    {
+     "romaji": "kopii",
+     "ja": "コピー",
+     "english": "copy, copies (kopii suru = make copies)"
+    },
+    {
+     "romaji": "meeru",
+     "ja": "メール",
+     "english": "email (meeru suru = send an email)"
+    },
+    {
+     "romaji": "kesa",
+     "ja": "今朝",
+     "english": "this morning"
+    },
+    {
+     "romaji": "nanika",
+     "ja": "何か",
+     "english": "something (nani + ka)"
+    }
+   ],
+   "itemsUsed": [
+    "G-un",
+    "G-uun",
+    "G-iya",
+    "G-sumimasen",
+    "G-gomen",
+    "G-onegai",
+    "G-kochira-koso",
+    "J-sore",
+    "F-da",
+    "F-ka",
+    "F-ne",
+    "F-yo",
+    "F-yo-ne",
+    "D-ii",
+    "D-dame",
+    "D-warui",
+    "J-dare",
+    "J-nande",
+    "A-ima",
+    "A-kyou",
+    "A-kinou",
+    "A-mada",
+    "E-demo",
+    "E-kedo",
+    "E-node",
+    "E-dakara",
+    "E-datte",
+    "E-de-sorede",
+    "E-jaa",
+    "I-ta-past",
+    "I-nai-negative",
+    "I-katta-datta",
+    "I-kunai-ja-nai",
+    "I-teru",
+    "I-te-miru",
+    "I-chau",
+    "H-aru",
+    "H-suru",
+    "H-yaru",
+    "H-kuru",
+    "H-kawaru",
+    "J-watashi",
+    "J-san",
+    "J-minna",
+    "J-jibun",
+    "B-chotto",
+    "B-honto-ni",
+    "B-mou-chotto",
+    "F-n-da",
+    "F-no-question",
+    "F-n-da-kedo",
+    "F-wake-da",
+    "F-kana"
+   ],
+   "questions": [
+    {
+     "type": "gist",
+     "english": "What happens in this conversation?",
+     "ja": "何がありましたか？",
+     "kana": "なにがありましたか？",
+     "romaji": "nani ga arimashita ka?",
+     "choices": [
+      {
+       "key": "A",
+       "english": "Kimura-san sent the email to the wrong person, so Yamada-san never got the new handout."
+      },
+      {
+       "key": "B",
+       "english": "Tanaka-san copied yesterday's handout, and Kimura-san found the mistake."
+      },
+      {
+       "key": "C",
+       "english": "Kimura-san copied the old handout because Tanaka-san had emailed himself by mistake."
+      }
+     ],
+     "answer": "C",
+     "modelAnswers": [],
+     "explanation": "Line 3: what Kimura-san copied (watashi ga kopii shita no) wasn't kesa no shiryou (this morning's handout). It was kinou no (yesterday's). Line 4: Tanaka-san emailed everyone (minasan ni meeru shimashita). In line 6 he finds the email didn't go to her (kimura-san ni ja nakatta desu), because he sent it to himself (jibun ni meeru shichaimashita). Line 8 sums it up: sorede, kinou no o kopii shichatta wake desu ne. A is wrong because Tanaka-san sent the email, not Kimura-san, and Yamada-san did get it (line 5, yamada-san ni wa kimashita). B is wrong because Kimura-san made the copies (line 3, watashi ga kopii shita no), and the mistake Tanaka-san finds is his own (line 6)."
+    },
+    {
+     "type": "detail",
+     "english": "Who did this morning's email reach?",
+     "ja": "今朝のメールは、誰に来ましたか？",
+     "kana": "けさのメールは、だれにきましたか？",
+     "romaji": "kesa no meeru wa, dare ni kimashita ka?",
+     "choices": [
+      {
+       "key": "A",
+       "english": "It reached Yamada-san, but not Kimura-san."
+      },
+      {
+       "key": "B",
+       "english": "It reached Kimura-san, but not Yamada-san."
+      },
+      {
+       "key": "C",
+       "english": "It reached nobody. Tanaka-san never sent it."
+      }
+     ],
+     "answer": "A",
+     "modelAnswers": [],
+     "explanation": "Line 5: yamada-san ni wa kimashita (polite past) says it came to Yamada-san, and demo, watashi ni wa konakatta n desu yo (past negative) says it never came to Kimura-san. In line 6 Tanaka-san checks with kimasen deshita ka? ('it didn't come?'), then realises kimura-san ni ja nakatta desu: the email didn't go to her. B is the reverse: line 5 says Yamada-san got it (kimashita) and Kimura-san didn't (konakatta n desu yo). C is wrong because Tanaka-san did send it to everyone (line 4, minasan ni meeru shimashita). Only the one meant for Kimura-san went to him instead (line 6, jibun ni meeru shichaimashita)."
+    },
+    {
+     "type": "detail",
+     "english": "At the end, who is going to make the copies of this morning's handout?",
+     "ja": "今朝の資料のコピーは、誰がしますか？",
+     "kana": "けさのしりょうのコピーは、だれがしますか？",
+     "romaji": "kesa no shiryou no kopii wa, dare ga shimasu ka?",
+     "choices": [
+      {
+       "key": "A",
+       "english": "Kimura-san, right away, because the meeting is soon."
+      },
+      {
+       "key": "B",
+       "english": "Tanaka-san, by himself."
+      },
+      {
+       "key": "C",
+       "english": "Yamada-san, who already got this morning's handout by email."
+      }
+     ],
+     "answer": "B",
+     "modelAnswers": [],
+     "explanation": "Line 13: Kimura-san asks kopii wa dare ga shimasu ka? ('who's going to do the copies?') and offers to do them herself (watashi, ima kara yatte mimasu). In line 14 Tanaka-san says iie, sore wa dame desu yo, so he won't let her, and then kopii wa jibun de shimasu, 'I'll do the copies myself.' In line 15 she accepts with jaa, onegai shimasu. A is wrong because her offer is turned down. C is wrong because Yamada-san is only mentioned as someone the email reached (line 5)."
+    },
+    {
+     "type": "intent",
+     "english": "Kimura-san says, \"a, dakara watashi ni wa konakatta wake desu ne.\" What does she mean by \"wake desu\"?",
+     "ja": "木村さんの「だから私には来なかったわけですね」。この「わけです」は、何ですか？",
+     "kana": "きむらさんの「だからわたしにはこなかったわけですね」。この「わけです」は、なんですか？",
+     "romaji": "kimura-san no \"dakara watashi ni wa konakatta wake desu ne\". kono \"wake desu\" wa, nan desu ka?",
+     "choices": [
+      {
+       "key": "A",
+       "english": "She is giving Tanaka-san an excuse: the email never came to her, so it isn't her fault."
+      },
+      {
+       "key": "B",
+       "english": "She is wondering why the email never came to her."
+      },
+      {
+       "key": "C",
+       "english": "She is putting it together from what he just said: so that's why the email never reached her."
+      }
+     ],
+     "answer": "C",
+     "modelAnswers": [],
+     "explanation": "Line 7: wake desu draws a conclusion from facts you've just heard, like 'so that's why' or 'no wonder'. In line 6 Tanaka-san has just said jibun ni meeru shichaimashita (he emailed himself), so Kimura-san puts it together, and ne checks that conclusion with him. A is what she did in line 5 with demo, watashi ni wa konakatta n desu yo, where n desu yo gives him a reason he didn't know. By line 7 she already knows the email didn't come and is working out why. B is what Tanaka-san did in line 6 with doushite desu ka ne (wondering). wake desu answers that wondering. It doesn't add to it."
+    },
+    {
+     "type": "respond",
+     "english": "Tanaka-san says, \"sumimasen deshita. watashi ga warui n desu.\" What could you say back to him?",
+     "ja": "すみませんでした。私が悪いんです。",
+     "kana": "すみませんでした。わたしがわるいんです。",
+     "romaji": "sumimasen deshita. watashi ga warui n desu.",
+     "choices": [],
+     "answer": "Start with iie, then reassure him (daijoubu desu yo) or apologise back with kochira koso.",
+     "modelAnswers": [
+      {
+       "romaji": "iie, daijoubu desu yo.",
+       "ja": "いいえ、大丈夫ですよ。",
+       "english": "No, it's all right."
+      },
+      {
+       "romaji": "iie, kochira koso sumimasen deshita.",
+       "ja": "いいえ、こちらこそすみませんでした。",
+       "english": "No, I'm the one who should apologise."
+      }
+     ],
+     "explanation": "In line 8 Tanaka-san apologises and takes the blame. In line 9 Kimura-san answers iie. tanaka-san wa warukunai desu yo ('No. It's not your fault, Tanaka-san'). In Japanese the usual reply to an apology is iie first, then something kind. daijoubu desu yo reassures him. kochira koso sumimasen deshita apologises back ('no, I'm the one...'). Tanaka-san uses kochira koso the same way in line 12."
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "title": "Saturday at home",
+   "format": "dialogue",
+   "register": "casual",
+   "setting": "On a Saturday morning at their shared flat, Sora finds Kenta cleaning and learns that friends are coming over for Kenta's birthday, which Sora had forgotten. The two flatmates in their twenties then split up the jobs.",
+   "speakers": [
+    {
+     "id": "kenta",
+     "name": "Kenta",
+     "voice": "male, late 20s, upbeat, casual, a little teasing"
+    },
+    {
+     "id": "sora",
+     "name": "Sora",
+     "voice": "male, mid 20s, softer and lighter than Kenta, sleepy at first, then flustered and apologetic"
+    }
+   ],
+   "lines": [
+    {
+     "speaker": "sora",
+     "romaji": "ohayou... e, koko, kekkou kawatta ne. nani shiteru no?",
+     "ja": "おはよう…。え、ここ、けっこう変わったね。何してるの？",
+     "kana": "おはよう…。え、ここ、けっこうかわったね。なにしてるの？",
+     "english": "Morning... Whoa, this place looks pretty different. What are you doing?"
+    },
+    {
+     "speaker": "kenta",
+     "romaji": "souji. mou kanari yatta yo.",
+     "ja": "掃除。もうかなりやったよ。",
+     "kana": "そうじ。もうかなりやったよ。",
+     "english": "Cleaning. I've already done quite a lot."
+    },
+    {
+     "speaker": "sora",
+     "romaji": "e, nande? kyou wa boku-tachi, nani mo shinai yo ne?",
+     "ja": "え、なんで？今日は僕たち、何もしないよね？",
+     "kana": "え、なんで？きょうはぼくたち、なにもしないよね？",
+     "english": "Huh, why? We're not doing anything today, are we?"
+    },
+    {
+     "speaker": "kenta",
+     "romaji": "a, sono hanashi na n da kedo... kyou, minna ga uchi ni kuru n da.",
+     "ja": "あ、その話なんだけど…。今日、みんながうちに来るんだ。",
+     "kana": "あ、そのはなしなんだけど…。きょう、みんながうちにくるんだ。",
+     "english": "Ah, about that... Everyone's coming over to our place today."
+    },
+    {
+     "speaker": "sora",
+     "romaji": "e, boku-tachi no uchi ni? minna tte, dare?",
+     "ja": "え、僕たちのうちに？みんなって、誰？",
+     "kana": "え、ぼくたちのうちに？みんなって、だれ？",
+     "english": "Huh, to our place? Who's 'everyone'?"
+    },
+    {
+     "speaker": "kenta",
+     "romaji": "yuki to mai. ato, daiki mo.",
+     "ja": "ユキとマイ。あと、ダイキも。",
+     "kana": "ゆきとまい。あと、だいきも。",
+     "english": "Yuki and Mai. Oh, and Daiki too."
+    },
+    {
+     "speaker": "sora",
+     "romaji": "nande minna kuru no?",
+     "ja": "なんでみんな来るの？",
+     "kana": "なんでみんなくるの？",
+     "english": "Why's everyone coming?"
+    },
+    {
+     "speaker": "kenta",
+     "romaji": "nande tte... kyou, dare no tanjoubi?",
+     "ja": "なんでって…。今日、誰の誕生日？",
+     "kana": "なんでって…。きょう、だれのたんじょうび？",
+     "english": "What do you mean, why... Whose birthday is it today?"
+    },
+    {
+     "speaker": "sora",
+     "romaji": "dare no...? a! kenta no!? kyou datta kke!? ...dakara souji shiteru wake da.",
+     "ja": "誰の…？あ！ケンタの！？今日だったっけ！？…だから掃除してるわけだ。",
+     "kana": "だれの…？あ！けんたの！？きょうだったっけ！？…だからそうじしてるわけだ。",
+     "english": "Whose...? Oh! Yours?! Was it today?! ...So that's why you're cleaning."
+    },
+    {
+     "speaker": "kenta",
+     "romaji": "un. de, keeki ga mada nai n da. ato, koko to heya no souji mo mada. sora, dore yaru?",
+     "ja": "うん。で、ケーキがまだないんだ。あと、ここと部屋の掃除もまだ。ソラ、どれやる？",
+     "kana": "うん。で、ケーキがまだないんだ。あと、こことへやのそうじもまだ。そら、どれやる？",
+     "english": "Yeah. So, we don't have a cake yet. Oh, and in here and the bedrooms still need cleaning. Sora, which one will you do?"
+    },
+    {
+     "speaker": "sora",
+     "romaji": "honto ni gomen. jaa, keeki wa boku ga kau yo! dore ga ii?",
+     "ja": "ほんとにごめん。じゃあ、ケーキは僕が買うよ！どれがいい？",
+     "kana": "ほんとにごめん。じゃあ、ケーキはぼくがかうよ！どれがいい？",
+     "english": "I'm really sorry. Okay, I'll buy the cake! Which one do you want?"
+    },
+    {
+     "speaker": "kenta",
+     "romaji": "ii no? arigatou! jaa... are ga ii naa.",
+     "ja": "いいの？ありがとう！じゃあ…あれがいいなあ。",
+     "kana": "いいの？ありがとう！じゃあ…あれがいいなあ。",
+     "english": "Really? Thanks! Then... ooh, I'd really like that one."
+    },
+    {
+     "speaker": "sora",
+     "romaji": "a, are ne! ikura datta kke? ...ii yo, tanjoubi da shi. itte miru ne.",
+     "ja": "あ、あれね！いくらだったっけ？…いいよ、誕生日だし。行ってみるね。",
+     "kana": "あ、あれね！いくらだったっけ？…いいよ、たんじょうびだし。いってみるね。",
+     "english": "Oh, that one! How much was it again? ...Doesn't matter, it's your birthday. I'll go and see if they have it."
+    },
+    {
+     "speaker": "kenta",
+     "romaji": "jaa, boku wa koko yatte, jibun no heya yaru. itsu deru?",
+     "ja": "じゃあ、僕はここやって、自分の部屋やる。いつ出る？",
+     "kana": "じゃあ、ぼくはここやって、じぶんのへややる。いつでる？",
+     "english": "Okay, then I'll finish in here and then do my own room. When are you heading out?"
+    },
+    {
+     "speaker": "sora",
+     "romaji": "ima kara dete, keeki katte, modoru yo. a, demo, boku no heya wa souji shinai yo. datte, minna boku no heya ni wa hairanai shi.",
+     "ja": "今から出て、ケーキ買って、戻るよ。あ、でも、僕の部屋は掃除しないよ。だって、みんな僕の部屋には入らないし。",
+     "kana": "いまからでて、ケーキかって、もどるよ。あ、でも、ぼくのへやはそうじしないよ。だって、みんなぼくのへやにははいらないし。",
+     "english": "I'll head out now, buy the cake and come back. Oh, but I'm not cleaning my room. I mean, they won't go in my room anyway."
+    },
+    {
+     "speaker": "kenta",
+     "romaji": "e? jaa, sora no heya mo boku ga yatchau yo.",
+     "ja": "え？じゃあ、ソラの部屋も僕がやっちゃうよ。",
+     "kana": "え？じゃあ、そらのへやもぼくがやっちゃうよ。",
+     "english": "Huh? Then I'll just go ahead and do your room too."
+    }
+   ],
+   "newWords": [
+    {
+     "romaji": "souji",
+     "ja": "掃除",
+     "english": "cleaning (souji suru / souji yaru = to clean)"
+    },
+    {
+     "romaji": "hanashi",
+     "ja": "話",
+     "english": "talk; topic (sono hanashi = about that thing you said)"
+    },
+    {
+     "romaji": "tanjoubi",
+     "ja": "誕生日",
+     "english": "birthday"
+    },
+    {
+     "romaji": "keeki",
+     "ja": "ケーキ",
+     "english": "cake"
+    },
+    {
+     "romaji": "heya",
+     "ja": "部屋",
+     "english": "room"
+    },
+    {
+     "romaji": "kau",
+     "ja": "買う",
+     "english": "buy (katte = buy, and then...)"
+    }
+   ],
+   "itemsUsed": [
+    "G-ohayou",
+    "J-koko",
+    "B-kekkou",
+    "H-kawaru",
+    "I-ta-past",
+    "F-ne",
+    "J-nani",
+    "I-teru",
+    "H-suru",
+    "F-no-question",
+    "A-mou",
+    "B-kanari",
+    "H-yaru",
+    "F-yo",
+    "J-nande",
+    "A-kyou",
+    "J-boku",
+    "J-tachi",
+    "I-nai-negative",
+    "F-yo-ne",
+    "J-sono",
+    "F-n-da-kedo",
+    "F-n-da",
+    "F-da",
+    "J-minna",
+    "J-uchi",
+    "H-kuru",
+    "J-dare",
+    "E-ato",
+    "F-kke",
+    "I-katta-datta",
+    "E-dakara",
+    "F-wake-da",
+    "G-un",
+    "E-de-sorede",
+    "A-mada",
+    "H-aru",
+    "J-dore",
+    "B-honto-ni",
+    "G-gomen",
+    "E-jaa",
+    "D-ii",
+    "G-arigatou",
+    "J-are",
+    "F-naa",
+    "J-ikura",
+    "E-shi",
+    "H-iku",
+    "I-te-miru",
+    "E-te-and",
+    "J-jibun",
+    "J-itsu",
+    "H-deru",
+    "A-ima",
+    "H-modoru",
+    "E-demo",
+    "E-datte",
+    "H-hairu",
+    "I-chau"
+   ],
+   "questions": [
+    {
+     "type": "gist",
+     "english": "What's going on at Kenta and Sora's place today?",
+     "ja": "今日、ケンタさんとソラさんのうちで、何があるんですか。",
+     "kana": "きょう、けんたさんとそらさんのうちで、なにがあるんですか。",
+     "romaji": "kyou, kenta-san to sora-san no uchi de, nani ga aru n desu ka?",
+     "choices": [
+      {
+       "key": "A",
+       "english": "Kenta and Sora are going to a party at Yuki's place."
+      },
+      {
+       "key": "B",
+       "english": "Friends are coming over for Kenta's birthday, so the two of them get the place ready."
+      },
+      {
+       "key": "C",
+       "english": "Friends are coming over for Sora's birthday, so Kenta buys him a cake."
+      }
+     ],
+     "answer": "B",
+     "modelAnswers": [],
+     "explanation": "In line 4 Kenta says 'minna ga uchi ni kuru n da': everyone is coming to their place. Sora checks this in line 5 with 'boku-tachi no uchi ni?'. In line 8 Kenta asks 'kyou, dare no tanjoubi?', and in line 9 Sora realizes it's Kenta's birthday ('kenta no!?'). Lines 10-16 split up the jobs. A is wrong because Yuki is one of the guests coming to them, and nobody goes to her place. C is wrong because it's Kenta's birthday, not Sora's, and Sora is the one buying the cake (lines 11 and 15)."
+    },
+    {
+     "type": "detail",
+     "english": "Kenta says what he'll do, in order. After he finishes the room they're in, what will he do next?",
+     "ja": "ケンタさんは、今いる部屋をやって、何をやりますか。",
+     "kana": "けんたさんは、いまいるへやをやって、なにをやりますか。",
+     "romaji": "kenta-san wa, ima iru heya o yatte, nani o yarimasu ka?",
+     "choices": [
+      {
+       "key": "A",
+       "english": "Go out and buy the cake."
+      },
+      {
+       "key": "B",
+       "english": "Go to the shop with Sora."
+      },
+      {
+       "key": "C",
+       "english": "Clean his own room."
+      }
+     ],
+     "answer": "C",
+     "modelAnswers": [],
+     "explanation": "Line 14: 'boku wa koko yatte, jibun no heya yaru'. The -te on 'yatte' links the two steps: first here (koko), then his own room (jibun no heya). Buying the cake (A) is Sora's job (lines 11 and 15), and Sora goes out alone ('ima kara dete', line 15), so B is wrong too. Kenta's offer in line 16 to do Sora's room comes on top of this plan. It doesn't change what he does next."
+    },
+    {
+     "type": "detail",
+     "english": "What does Sora say he is NOT going to do?",
+     "ja": "ソラさんは、何をしないんですか。",
+     "kana": "そらさんは、なにをしないんですか。",
+     "romaji": "sora-san wa, nani o shinai n desu ka?",
+     "choices": [
+      {
+       "key": "A",
+       "english": "Clean his own room."
+      },
+      {
+       "key": "B",
+       "english": "Go out today."
+      },
+      {
+       "key": "C",
+       "english": "Buy the cake."
+      }
+     ],
+     "answer": "A",
+     "modelAnswers": [],
+     "explanation": "Line 15: 'boku no heya wa souji shinai yo'. Plain 'shinai' here means 'I'm not going to do it', and he backs it up with 'datte, minna boku no heya ni wa hairanai shi' (the guests won't go in his room anyway). He does go out (B): 'ima kara dete' in line 15. He offers to buy the cake (C) in line 11. In line 3 he thought they weren't doing anything today ('nani mo shinai yo ne?'), but that changes once he hears about the birthday."
+    },
+    {
+     "type": "intent",
+     "english": "When Sora asks who's coming, Kenta says 'yuki to mai. ato, daiki mo.' What does 'ato' do here?",
+     "ja": "「ユキとマイ。あと、ダイキも。」この「あと」は、何ですか。",
+     "kana": "「ゆきとまい。あと、だいきも。」この「あと」は、なんですか。",
+     "romaji": "\"yuki to mai. ato, daiki mo.\" kono \"ato\" wa, nan desu ka?",
+     "choices": [
+      {
+       "key": "A",
+       "english": "It says Daiki will come later than the others."
+      },
+      {
+       "key": "B",
+       "english": "It adds one more person to the list."
+      },
+      {
+       "key": "C",
+       "english": "It shows Kenta isn't sure Daiki is coming."
+      }
+     ],
+     "answer": "B",
+     "modelAnswers": [],
+     "explanation": "Line 6. At the start of a sentence, 'ato' means 'oh, and / also'. It adds Daiki to Yuki and Mai. Kenta does the same in line 10, where 'ato, koko to heya no souji mo mada' adds the unfinished cleaning to 'keeki ga mada nai'. It doesn't mean 'later' here (A). Nothing is said about when anyone arrives. If Kenta weren't sure (C), he would say something like 'daiki mo kuru kana'."
+    },
+    {
+     "type": "respond",
+     "english": "Sora says 'boku no heya wa souji shinai yo. datte, minna boku no heya ni wa hairanai shi.' You're his flatmate. Is that okay with you? Say something back.",
+     "ja": "「僕の部屋は掃除しないよ。だって、みんな僕の部屋には入らないし。」って、ソラさんが。それ、いいんですか。",
+     "kana": "「ぼくのへやはそうじしないよ。だって、みんなぼくのへやにははいらないし。」って、そらさんが。それ、いいんですか。",
+     "romaji": "\"boku no heya wa souji shinai yo. datte, minna boku no heya ni wa hairanai shi.\" tte, sora-san ga. sore, ii n desu ka?",
+     "choices": [],
+     "answer": "Push back that it's not okay because everyone is coming, or accept it and offer to take care of it yourself.",
+     "modelAnswers": [
+      {
+       "romaji": "dame da yo. kyou wa minna kuru n da yo.",
+       "ja": "ダメだよ。今日はみんな来るんだよ。",
+       "english": "That's no good. Everyone's coming today, you know."
+      },
+      {
+       "romaji": "ii yo, ii yo. jaa, boku ga yattoku ne.",
+       "ja": "いいよ、いいよ。じゃあ、僕がやっとくね。",
+       "english": "Fine, fine. I'll take care of it, then."
+      }
+     ],
+     "explanation": "In line 15 Sora uses 'datte' to excuse himself: the guests (minna) won't go into his room anyway. The first answer pushes back with 'dame' and gives the reason with 'n da yo', reminding him that everyone is coming today. The second answer accepts, like Kenta does in line 16, and uses -toku ('I'll get it done for you')."
+    }
+   ]
+  }
+ ]
+}

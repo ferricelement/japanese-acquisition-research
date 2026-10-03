@@ -1,0 +1,6895 @@
+{
+ "items": {
+  "G-un": {
+   "id": "G-un",
+   "romaji": "un / hai",
+   "occurrences": [
+    {
+     "where": "S1L9",
+     "form": "un",
+     "function": "core"
+    },
+    {
+     "where": "S3L7",
+     "form": "un",
+     "function": "core"
+    },
+    {
+     "where": "S3L11",
+     "form": "un",
+     "function": "core"
+    },
+    {
+     "where": "S8L13",
+     "form": "a, un",
+     "function": "core"
+    },
+    {
+     "where": "S8L15",
+     "form": "un",
+     "function": "core"
+    },
+    {
+     "where": "S8L16",
+     "form": "un",
+     "function": "core"
+    },
+    {
+     "where": "S10L2",
+     "form": "un",
+     "function": "core"
+    },
+    {
+     "where": "S10L15",
+     "form": "un",
+     "function": "core"
+    },
+    {
+     "where": "S10L16",
+     "form": "un",
+     "function": "core"
+    },
+    {
+     "where": "S10L18",
+     "form": "un",
+     "function": "core"
+    },
+    {
+     "where": "S10L20",
+     "form": "un",
+     "function": "core"
+    },
+    {
+     "where": "S10L22",
+     "form": "un",
+     "function": "core"
+    },
+    {
+     "where": "S11L6",
+     "form": "un",
+     "function": "core"
+    },
+    {
+     "where": "S11L10",
+     "form": "un",
+     "function": "core"
+    },
+    {
+     "where": "S13L10",
+     "form": "un",
+     "function": "core"
+    },
+    {
+     "where": "S5L2",
+     "form": "hai",
+     "function": "core"
+    },
+    {
+     "where": "S5L6",
+     "form": "hai",
+     "function": "core"
+    },
+    {
+     "where": "S5L9",
+     "form": "hai",
+     "function": "secondary"
+    },
+    {
+     "where": "S9L14",
+     "form": "hai",
+     "function": "secondary"
+    },
+    {
+     "where": "S10L17",
+     "form": "hai",
+     "function": "secondary"
+    },
+    {
+     "where": "S12L2",
+     "form": "hai",
+     "function": "core"
+    },
+    {
+     "where": "S12L5",
+     "form": "hai",
+     "function": "core"
+    },
+    {
+     "where": "S12L8",
+     "form": "hai",
+     "function": "core"
+    }
+   ],
+   "coreUse": true,
+   "note": "15 casual un, all core; polite hai 8x, but 3 of those (S5L9, S9L14, S10L17) are hai meaning 'here you go' while handing something over, not 'yes'."
+  },
+  "G-uun": {
+   "id": "G-uun",
+   "romaji": "uun / iie",
+   "occurrences": [
+    {
+     "where": "S1L4",
+     "form": "uun",
+     "function": "core"
+    },
+    {
+     "where": "S3L4",
+     "form": "uun",
+     "function": "core"
+    },
+    {
+     "where": "S3L9",
+     "form": "uun",
+     "function": "core"
+    },
+    {
+     "where": "S10L4",
+     "form": "iie",
+     "function": "core"
+    }
+   ],
+   "coreUse": true,
+   "note": "Only 3 casual uun (S1, S3) and one polite iie as a plain 'no' answer (S10L4). Every other iie pushes back or brushes off thanks, so it is listed under G-iya."
+  },
+  "G-iya": {
+   "id": "G-iya",
+   "romaji": "iya / iie",
+   "occurrences": [
+    {
+     "where": "S3L10",
+     "form": "iya",
+     "function": "core"
+    },
+    {
+     "where": "S12L9",
+     "form": "iie",
+     "function": "core"
+    },
+    {
+     "where": "S12L14",
+     "form": "iie",
+     "function": "core"
+    },
+    {
+     "where": "S10L7",
+     "form": "iie (kochira koso)",
+     "function": "secondary"
+    },
+    {
+     "where": "S12L12",
+     "form": "iie (kochira koso)",
+     "function": "secondary"
+    }
+   ],
+   "coreUse": true,
+   "note": "Casual iya is heard only once in all 13 stories (S3L10, 'nah'). The other entries are polite iie, which a learner hears as iie, not iya. The two iie before kochira koso brush off thanks."
+  },
+  "G-arigatou": {
+   "id": "G-arigatou",
+   "romaji": "arigatou / arigatou gozaimasu",
+   "occurrences": [
+    {
+     "where": "S1L10",
+     "form": "arigatou",
+     "function": "core"
+    },
+    {
+     "where": "S2L10",
+     "form": "arigatou",
+     "function": "core"
+    },
+    {
+     "where": "S5L10",
+     "form": "arigatou gozaimasu",
+     "function": "core"
+    },
+    {
+     "where": "S5L11",
+     "form": "arigatou gozaimasu",
+     "function": "core"
+    },
+    {
+     "where": "S6L8",
+     "form": "arigatou gozaimasu",
+     "function": "core"
+    },
+    {
+     "where": "S8L14",
+     "form": "arigatou",
+     "function": "core"
+    },
+    {
+     "where": "S9L3",
+     "form": "arigatou gozaimasu",
+     "function": "core"
+    },
+    {
+     "where": "S10L7",
+     "form": "arigatou gozaimashita",
+     "function": "core"
+    },
+    {
+     "where": "S13L12",
+     "form": "arigatou",
+     "function": "core"
+    }
+   ],
+   "coreUse": true,
+   "note": "Well balanced: 4 casual and 5 polite, including one past form, gozaimashita (S10L7), for a favour done the day before."
+  },
+  "G-gomen": {
+   "id": "G-gomen",
+   "romaji": "gomen / sumimasen",
+   "occurrences": [
+    {
+     "where": "S2L1",
+     "form": "gomen",
+     "function": "core"
+    },
+    {
+     "where": "S2L7",
+     "form": "gomen ne",
+     "function": "core"
+    },
+    {
+     "where": "S4L2",
+     "form": "gomen",
+     "function": "core"
+    },
+    {
+     "where": "S10L14",
+     "form": "gomen",
+     "function": "core"
+    },
+    {
+     "where": "S10L16",
+     "form": "gomen ne",
+     "function": "core"
+    },
+    {
+     "where": "S13L11",
+     "form": "gomen",
+     "function": "core"
+    },
+    {
+     "where": "S5L7",
+     "form": "sumimasen",
+     "function": "core"
+    },
+    {
+     "where": "S6L9",
+     "form": "sumimasen",
+     "function": "core"
+    },
+    {
+     "where": "S9L15",
+     "form": "sumimasen",
+     "function": "core"
+    },
+    {
+     "where": "S12L3",
+     "form": "sumimasen",
+     "function": "core"
+    },
+    {
+     "where": "S12L8",
+     "form": "sumimasen deshita",
+     "function": "core"
+    }
+   ],
+   "coreUse": true,
+   "note": "6 casual gomen, 3 of them with honto ni ('really sorry'). The polite-apology sumimasen lines also appear under G-sumimasen. Casual gomen and polite sumimasen never meet as a register pair in one exchange."
+  },
+  "G-sumimasen": {
+   "id": "G-sumimasen",
+   "romaji": "sumimasen",
+   "occurrences": [
+    {
+     "where": "S5L1",
+     "form": "sumimasen",
+     "function": "core"
+    },
+    {
+     "where": "S5L7",
+     "form": "sumimasen",
+     "function": "core"
+    },
+    {
+     "where": "S6L8",
+     "form": "sumimasen",
+     "function": "core"
+    },
+    {
+     "where": "S6L9",
+     "form": "sumimasen",
+     "function": "core"
+    },
+    {
+     "where": "S9L15",
+     "form": "sumimasen",
+     "function": "core"
+    },
+    {
+     "where": "S10L6",
+     "form": "sumimasen",
+     "function": "core"
+    },
+    {
+     "where": "S12L1",
+     "form": "sumimasen",
+     "function": "core"
+    },
+    {
+     "where": "S12L3",
+     "form": "hontou ni sumimasen",
+     "function": "core"
+    },
+    {
+     "where": "S12L8",
+     "form": "sumimasen deshita",
+     "function": "core"
+    },
+    {
+     "where": "S12L11",
+     "form": "sumimasen",
+     "function": "core"
+    }
+   ],
+   "coreUse": true,
+   "note": "All three senses are heard. Excuse me: S5L1, S6L8, S12L1. Sorry: S5L7, S6L9, S9L15, S12L3, S12L8. Thanks: S10L6, S12L11. The 'thanks' sense is the one a learner is most likely to miss."
+  },
+  "G-onegai": {
+   "id": "G-onegai",
+   "romaji": "onegai / onegai shimasu",
+   "occurrences": [
+    {
+     "where": "S3L11",
+     "form": "onegai",
+     "function": "core"
+    },
+    {
+     "where": "S5L5",
+     "form": "onegai shimasu",
+     "function": "core"
+    },
+    {
+     "where": "S5L9",
+     "form": "onegai shimasu",
+     "function": "core"
+    },
+    {
+     "where": "S6L13",
+     "form": "onegai shimasu",
+     "function": "core"
+    },
+    {
+     "where": "S8L15",
+     "form": "onegai",
+     "function": "core"
+    },
+    {
+     "where": "S12L15",
+     "form": "onegai shimasu",
+     "function": "core"
+    },
+    {
+     "where": "S6L1",
+     "form": "yoroshiku onegai shimasu",
+     "function": "incidental"
+    },
+    {
+     "where": "S6L2",
+     "form": "yoroshiku onegai shimasu",
+     "function": "incidental"
+    },
+    {
+     "where": "S6L11",
+     "form": "yoroshiku onegai shimasu",
+     "function": "incidental"
+    }
+   ],
+   "coreUse": true,
+   "note": "6 core uses (2 casual, 4 polite), covering ordering (S5L5), accepting an offer (S6L13, S12L15) and 'please do' (S3L11, S8L15). The 3 others are part of the fixed phrase yoroshiku onegai shimasu."
+  },
+  "G-douzo": {
+   "id": "G-douzo",
+   "romaji": "douzo",
+   "occurrences": [
+    {
+     "where": "S2L7",
+     "form": "kore, douzo",
+     "function": "core"
+    },
+    {
+     "where": "S5L10",
+     "form": "douzo",
+     "function": "core"
+    },
+    {
+     "where": "S9L2",
+     "form": "douzo, haitte",
+     "function": "core"
+    },
+    {
+     "where": "S9L10",
+     "form": "soko ni douzo",
+     "function": "core"
+    },
+    {
+     "where": "S9L12",
+     "form": "mou sukoshi douzo",
+     "function": "core"
+    },
+    {
+     "where": "S9L14",
+     "form": "hai, douzo",
+     "function": "core"
+    },
+    {
+     "where": "S10L5",
+     "form": "kore, douzo",
+     "function": "core"
+    },
+    {
+     "where": "S10L17",
+     "form": "hai, douzo",
+     "function": "core"
+    }
+   ],
+   "coreUse": true,
+   "note": "8 uses covering both senses: handing something over (S2, S5, S10) and inviting someone in, to sit or to eat (S9L2, S9L10, S9L12)."
+  },
+  "G-kochira-koso": {
+   "id": "G-kochira-koso",
+   "romaji": "kochira koso",
+   "occurrences": [
+    {
+     "where": "S6L2",
+     "form": "kochira koso",
+     "function": "core"
+    },
+    {
+     "where": "S10L7",
+     "form": "iie, kochira koso",
+     "function": "core"
+    },
+    {
+     "where": "S10L10",
+     "form": "kochira koso",
+     "function": "core"
+    },
+    {
+     "where": "S12L12",
+     "form": "iie, kochira koso",
+     "function": "core"
+    }
+   ],
+   "coreUse": true,
+   "note": "Both senses are heard: 'likewise' after an introduction (S6L2, S10L10) and 'no, thank YOU / I'm the one who should be sorry' (S10L7, S12L12)."
+  },
+  "G-ohayou": {
+   "id": "G-ohayou",
+   "romaji": "ohayou / ohayou gozaimasu",
+   "occurrences": [
+    {
+     "where": "S9L6",
+     "form": "ohayou",
+     "function": "core"
+    },
+    {
+     "where": "S9L7",
+     "form": "ohayou ja nai yo",
+     "function": "secondary"
+    },
+    {
+     "where": "S10L1",
+     "form": "ohayou",
+     "function": "core"
+    },
+    {
+     "where": "S10L2",
+     "form": "ohayou",
+     "function": "core"
+    },
+    {
+     "where": "S10L3",
+     "form": "ohayou gozaimasu",
+     "function": "core"
+    },
+    {
+     "where": "S10L4",
+     "form": "ohayou gozaimasu",
+     "function": "core"
+    },
+    {
+     "where": "S13L1",
+     "form": "ohayou",
+     "function": "core"
+    }
+   ],
+   "coreUse": true,
+   "note": "S9L7 talks about the word instead of greeting with it ('it's not morning'), which neatly teaches its time limit. Casual and polite forms are heard back to back in S10L1-4."
+  },
+  "G-konnichiwa": {
+   "id": "G-konnichiwa",
+   "romaji": "konnichiwa",
+   "occurrences": [
+    {
+     "where": "S9L1",
+     "form": "konnichiwa",
+     "function": "core"
+    },
+    {
+     "where": "S10L9",
+     "form": "konnichiwa",
+     "function": "core"
+    },
+    {
+     "where": "S10L10",
+     "form": "konnichiwa",
+     "function": "core"
+    }
+   ],
+   "coreUse": true,
+   "note": "Heard only 3 times, all in S9-S10. In both stories ohayou is also heard, which gives a time-of-day contrast."
+  },
+  "G-jaa-ne": {
+   "id": "G-jaa-ne",
+   "romaji": "jaa ne / shitsurei shimasu",
+   "occurrences": [
+    {
+     "where": "S1L10",
+     "form": "jaa ne",
+     "function": "core"
+    },
+    {
+     "where": "S1L11",
+     "form": "jaa ne",
+     "function": "core"
+    },
+    {
+     "where": "S4L8",
+     "form": "jaa ne",
+     "function": "core"
+    },
+    {
+     "where": "S8L16",
+     "form": "jaa ne",
+     "function": "core"
+    },
+    {
+     "where": "S9L17",
+     "form": "jaa ne",
+     "function": "core"
+    },
+    {
+     "where": "S10L12",
+     "form": "jaa ne",
+     "function": "core"
+    },
+    {
+     "where": "S10L15",
+     "form": "jaa ne",
+     "function": "core"
+    },
+    {
+     "where": "S10L16",
+     "form": "jaa ne",
+     "function": "core"
+    },
+    {
+     "where": "S6L11",
+     "form": "kore de shitsurei shimasu",
+     "function": "core"
+    },
+    {
+     "where": "S9L15",
+     "form": "kore de shitsurei shimasu",
+     "function": "core"
+    },
+    {
+     "where": "S10L11",
+     "form": "kore de shitsurei shimasu",
+     "function": "core"
+    }
+   ],
+   "coreUse": true,
+   "note": "8 casual and 3 polite. The polite form is always the full 'kore de shitsurei shimasu'. A plain 'jaa' (well then) is a different item (E-jaa) and is not counted here."
+  },
+  "G-hajimemashite": {
+   "id": "G-hajimemashite",
+   "romaji": "hajimemashite",
+   "occurrences": [
+    {
+     "where": "S6L1",
+     "form": "hajimemashite",
+     "function": "core"
+    },
+    {
+     "where": "S6L2",
+     "form": "hajimemashite",
+     "function": "core"
+    },
+    {
+     "where": "S10L9",
+     "form": "hajimemashite",
+     "function": "core"
+    }
+   ],
+   "coreUse": true,
+   "note": "3 uses, each followed by a name and yoroshiku. Heard in a polite setting (S6) and a casual one (S10)."
+  },
+  "G-yoroshiku": {
+   "id": "G-yoroshiku",
+   "romaji": "yoroshiku / yoroshiku onegai shimasu",
+   "occurrences": [
+    {
+     "where": "S6L1",
+     "form": "yoroshiku onegai shimasu",
+     "function": "core"
+    },
+    {
+     "where": "S6L2",
+     "form": "kyou kara yoroshiku onegai shimasu",
+     "function": "core"
+    },
+    {
+     "where": "S6L11",
+     "form": "ashita mo yoroshiku onegai shimasu",
+     "function": "core"
+    },
+    {
+     "where": "S10L9",
+     "form": "yoroshiku ne",
+     "function": "core"
+    },
+    {
+     "where": "S10L10",
+     "form": "yoroshiku",
+     "function": "core"
+    }
+   ],
+   "coreUse": true,
+   "note": "Polite and casual forms both heard. S6L11 shows its second sense, 'thanks ahead' when leaving work, not only on first meeting."
+  },
+  "G-moshimoshi": {
+   "id": "G-moshimoshi",
+   "romaji": "moshimoshi",
+   "occurrences": [
+    {
+     "where": "S4L1",
+     "form": "moshimoshi",
+     "function": "core"
+    },
+    {
+     "where": "S10L13",
+     "form": "moshimoshi?",
+     "function": "core"
+    },
+    {
+     "where": "S10L14",
+     "form": "moshimoshi",
+     "function": "core"
+    }
+   ],
+   "coreUse": true,
+   "note": "Heard as a voicemail opener (S4L1) and as a live two-way phone exchange (S10L13-14)."
+  },
+  "G-itadakimasu": {
+   "id": "G-itadakimasu",
+   "romaji": "itadakimasu",
+   "occurrences": [
+    {
+     "where": "S7L10",
+     "form": "jaa, itadakimasu",
+     "function": "core"
+    },
+    {
+     "where": "S9L11",
+     "form": "itadakimasu",
+     "function": "core"
+    },
+    {
+     "where": "S9L13",
+     "form": "mou chotto dake itadakimasu",
+     "function": "secondary"
+    },
+    {
+     "where": "S10L18",
+     "form": "un, itadakimasu",
+     "function": "core"
+    }
+   ],
+   "coreUse": true,
+   "note": "S9L13 uses itadakimasu as a humble verb ('I'll have a bit more'), not as the before-meal phrase. A learner may not notice the difference."
+  },
+  "G-gochisousama": {
+   "id": "G-gochisousama",
+   "romaji": "gochisousama / gochisousama deshita",
+   "occurrences": [
+    {
+     "where": "S9L15",
+     "form": "gochisousama deshita",
+     "function": "core"
+    },
+    {
+     "where": "S10L2",
+     "form": "gochisousama",
+     "function": "core"
+    },
+    {
+     "where": "S10L20",
+     "form": "gochisousama",
+     "function": "core"
+    }
+   ],
+   "coreUse": true,
+   "note": "Polite deshita form once (S9L15), casual twice. S10L2 is said when leaving breakfast, with no itadakimasu before it."
+  },
+  "G-oyasumi": {
+   "id": "G-oyasumi",
+   "romaji": "oyasumi / oyasumi nasai",
+   "occurrences": [
+    {
+     "where": "S7L6",
+     "form": "oyasumi tte kanji",
+     "function": "secondary"
+    },
+    {
+     "where": "S10L21",
+     "form": "jaa, oyasumi",
+     "function": "core"
+    },
+    {
+     "where": "S10L22",
+     "form": "oyasumi nasai",
+     "function": "core"
+    }
+   ],
+   "coreUse": true,
+   "note": "Used as an actual goodnight only once, as a casual/polite pair at the end of S10. S7L6 quotes it to mean 'straight to bed'."
+  },
+  "G-otsukare": {
+   "id": "G-otsukare",
+   "romaji": "otsukare / otsukaresama desu",
+   "occurrences": [
+    {
+     "where": "S6L11",
+     "form": "otsukaresama desu",
+     "function": "core"
+    },
+    {
+     "where": "S6L12",
+     "form": "otsukaresama desu",
+     "function": "core"
+    },
+    {
+     "where": "S10L8",
+     "form": "otsukare",
+     "function": "secondary"
+    },
+    {
+     "where": "S10L11",
+     "form": "otsukaresama desu",
+     "function": "core"
+    },
+    {
+     "where": "S10L12",
+     "form": "otsukare",
+     "function": "core"
+    },
+    {
+     "where": "S11L13",
+     "form": "honto ni otsukare",
+     "function": "core"
+    }
+   ],
+   "coreUse": true,
+   "note": "S10L8 uses otsukare as a hello between colleagues; the English line renders it as 'Hey, Mai!', so the 'good work' sense is hidden there. S11L13 shows the non-work 'you must be worn out' use."
+  },
+  "G-hisashiburi": {
+   "id": "G-hisashiburi",
+   "romaji": "hisashiburi / ohisashiburi desu",
+   "occurrences": [
+    {
+     "where": "S1L1",
+     "form": "hisashiburi",
+     "function": "core"
+    },
+    {
+     "where": "S1L2",
+     "form": "hisashiburi da ne",
+     "function": "core"
+    },
+    {
+     "where": "S9L1",
+     "form": "ohisashiburi desu",
+     "function": "core"
+    },
+    {
+     "where": "S9L2",
+     "form": "hisashiburi",
+     "function": "core"
+    }
+   ],
+   "coreUse": true,
+   "note": "The polite form (S9L1) is answered at once by the casual form (S9L2), a good register pair."
+  },
+  "G-ki-o-tsukete": {
+   "id": "G-ki-o-tsukete",
+   "romaji": "ki o tsukete / ki o tsukete kudasai",
+   "occurrences": [
+    {
+     "where": "S4L7",
+     "form": "ki o tsukete ne",
+     "function": "core"
+    },
+    {
+     "where": "S9L16",
+     "form": "ki o tsukete ne",
+     "function": "core"
+    },
+    {
+     "where": "S10L7",
+     "form": "ki o tsukete",
+     "function": "core"
+    }
+   ],
+   "coreUse": true,
+   "note": "The polite form 'ki o tsukete kudasai' is never heard. Even the polite neighbour Satou-san (S10L7) uses the plain form."
+  },
+  "J-kore": {
+   "id": "J-kore",
+   "romaji": "kore",
+   "occurrences": [
+    {
+     "where": "S2L7",
+     "form": "kore, douzo",
+     "function": "core"
+    },
+    {
+     "where": "S3L3",
+     "form": "kore mo sora no?",
+     "function": "core"
+    },
+    {
+     "where": "S5L2",
+     "form": "kore desu ka?",
+     "function": "core"
+    },
+    {
+     "where": "S6L11",
+     "form": "kore de shitsurei shimasu",
+     "function": "incidental"
+    },
+    {
+     "where": "S9L11",
+     "form": "kore, sugoku oishii desu",
+     "function": "core"
+    },
+    {
+     "where": "S9L15",
+     "form": "kore de shitsurei shimasu",
+     "function": "incidental"
+    },
+    {
+     "where": "S10L5",
+     "form": "kore, douzo",
+     "function": "core"
+    },
+    {
+     "where": "S10L11",
+     "form": "kore de shitsurei shimasu",
+     "function": "incidental"
+    }
+   ],
+   "coreUse": true,
+   "note": "5 core uses (handing over or pointing at a thing in hand); 3 more are the set phrase 'kore de shitsurei shimasu', where kore means 'with this' (I'll leave now), not a thing."
+  },
+  "J-sore": {
+   "id": "J-sore",
+   "romaji": "sore",
+   "occurrences": [
+    {
+     "where": "S2L8",
+     "form": "sore nani?",
+     "function": "core"
+    },
+    {
+     "where": "S3L2",
+     "form": "sore, watashi no!",
+     "function": "core"
+    },
+    {
+     "where": "S5L1",
+     "form": "sore wa nan desu ka?",
+     "function": "core"
+    },
+    {
+     "where": "S8L11",
+     "form": "sore, umi yori motto ii ne",
+     "function": "core"
+    },
+    {
+     "where": "S11L8",
+     "form": "sore ga ii tte kanji",
+     "function": "core"
+    },
+    {
+     "where": "S11L16",
+     "form": "sore sore!",
+     "function": "secondary"
+    },
+    {
+     "where": "S12L8",
+     "form": "sorede",
+     "function": "incidental"
+    },
+    {
+     "where": "S12L14",
+     "form": "sore wa dame desu yo",
+     "function": "core"
+    }
+   ],
+   "coreUse": true,
+   "note": "Both meanings are heard: the thing near the listener (S2L8, S3L2, S5L1) and 'what you said' (S8L11, S12L14). 'sore sore!' means 'exactly!'. 'sorede' is the separate E3 item and only sounds like sore."
+  },
+  "J-are": {
+   "id": "J-are",
+   "romaji": "are",
+   "occurrences": [
+    {
+     "where": "S3L7",
+     "form": "are wa?",
+     "function": "core"
+    },
+    {
+     "where": "S3L8",
+     "form": "are wa watashi no ja nai yo",
+     "function": "core"
+    },
+    {
+     "where": "S5L5",
+     "form": "are o onegai shimasu",
+     "function": "core"
+    },
+    {
+     "where": "S13L12",
+     "form": "are ga ii naa",
+     "function": "core"
+    },
+    {
+     "where": "S13L13",
+     "form": "are ne!",
+     "function": "core"
+    }
+   ],
+   "coreUse": true,
+   "note": "Both meanings are heard: something physically over there (S3L7-8, S5L5) and something both speakers know but can't see (the cake in S13L12-13)."
+  },
+  "J-dore": {
+   "id": "J-dore",
+   "romaji": "dore",
+   "occurrences": [
+    {
+     "where": "S3L8",
+     "form": "dore?",
+     "function": "core"
+    },
+    {
+     "where": "S5L2",
+     "form": "dore desu ka?",
+     "function": "core"
+    },
+    {
+     "where": "S13L10",
+     "form": "dore yaru?",
+     "function": "core"
+    },
+    {
+     "where": "S13L11",
+     "form": "dore ga ii?",
+     "function": "core"
+    }
+   ],
+   "coreUse": true,
+   "note": "All 4 are core, and each is answered right away with a kore/are/asoko word, which models the question-and-answer pattern."
+  },
+  "J-kono": {
+   "id": "J-kono",
+   "romaji": "kono",
+   "occurrences": [
+    {
+     "where": "S3L1",
+     "form": "kono kasa",
+     "function": "core"
+    },
+    {
+     "where": "S3L3",
+     "form": "kono kagi wa?",
+     "function": "core"
+    },
+    {
+     "where": "S3L11",
+     "form": "kono kagi wa",
+     "function": "core"
+    },
+    {
+     "where": "S5L6",
+     "form": "kono keeki",
+     "function": "core"
+    },
+    {
+     "where": "S8L12",
+     "form": "kono mae mo",
+     "function": "incidental"
+    }
+   ],
+   "coreUse": true,
+   "note": "4 core uses. 'kono mae' (S8L12) is a fixed phrase meaning 'last time', not 'this + noun', and a learner could misparse it."
+  },
+  "J-sono": {
+   "id": "J-sono",
+   "romaji": "sono",
+   "occurrences": [
+    {
+     "where": "S3L6",
+     "form": "sono kagi",
+     "function": "core"
+    },
+    {
+     "where": "S5L5",
+     "form": "sono keeki",
+     "function": "core"
+    },
+    {
+     "where": "S11L13",
+     "form": "sono onsen",
+     "function": "core"
+    },
+    {
+     "where": "S13L4",
+     "form": "sono hanashi na n da kedo",
+     "function": "core"
+    }
+   ],
+   "coreUse": true,
+   "note": "Both meanings are heard: the thing near the listener (S3L6, S5L5) and 'the one mentioned' (S11L13, S13L4). 'sono hanashi' is close to a set phrase."
+  },
+  "J-ano": {
+   "id": "J-ano",
+   "romaji": "ano",
+   "occurrences": [
+    {
+     "where": "S1L7",
+     "form": "ano mise",
+     "function": "core"
+    },
+    {
+     "where": "S3L7",
+     "form": "ano kaban",
+     "function": "core"
+    },
+    {
+     "where": "S3L9",
+     "form": "ano kaban",
+     "function": "core"
+    }
+   ],
+   "coreUse": true,
+   "note": "Only 3 uses, and 2 of them are the same 'ano kaban'. S1L7 is the shared-knowledge sense; the 'um...' filler 'ano' never occurs."
+  },
+  "J-dono": {
+   "id": "J-dono",
+   "romaji": "dono",
+   "occurrences": [
+    {
+     "where": "S9L3",
+     "form": "dono heya deshita kke?",
+     "function": "core"
+    },
+    {
+     "where": "S11L7",
+     "form": "dono onsen ga yokatta?",
+     "function": "core"
+    },
+    {
+     "where": "S11L8",
+     "form": "dono onsen kana",
+     "function": "core"
+    }
+   ],
+   "coreUse": true,
+   "note": "3 core uses, but S11L8 just echoes S11L7, so in practice it is heard in only 2 places."
+  },
+  "J-koko": {
+   "id": "J-koko",
+   "romaji": "koko",
+   "occurrences": [
+    {
+     "where": "S3L5",
+     "form": "koko ni aru shi",
+     "function": "core"
+    },
+    {
+     "where": "S6L7",
+     "form": "koko desu",
+     "function": "core"
+    },
+    {
+     "where": "S6L9",
+     "form": "koko ni wa arimasen kedo",
+     "function": "core"
+    },
+    {
+     "where": "S9L4",
+     "form": "koko da yo!",
+     "function": "core"
+    },
+    {
+     "where": "S11L3",
+     "form": "koko mo sukoshi samui yo ne",
+     "function": "core"
+    },
+    {
+     "where": "S13L1",
+     "form": "koko, kekkou kawatta ne",
+     "function": "core"
+    },
+    {
+     "where": "S13L10",
+     "form": "koko to heya no souji",
+     "function": "core"
+    },
+    {
+     "where": "S13L14",
+     "form": "koko yatte",
+     "function": "core"
+    }
+   ],
+   "coreUse": true,
+   "note": "The best-covered item in J3, with 8 core uses. The 'this point' (in a discussion) sense is never heard; every use is a physical place."
+  },
+  "J-doko": {
+   "id": "J-doko",
+   "romaji": "doko / dochira",
+   "occurrences": [
+    {
+     "where": "S1L2",
+     "form": "doko iku no?",
+     "function": "core"
+    },
+    {
+     "where": "S3L2",
+     "form": "doko ni atta no?",
+     "function": "core"
+    },
+    {
+     "where": "S6L3",
+     "form": "dochira ni sunderu n desu ka?",
+     "function": "core"
+    },
+    {
+     "where": "S8L9",
+     "form": "doko iku?",
+     "function": "core"
+    }
+   ],
+   "coreUse": true,
+   "note": "The polite 'dochira' is heard once (S6L3), but S6Q2 asks with 'doko', so the learner has to link the two forms themselves. The 'which part' sense is never heard."
+  },
+  "J-soko": {
+   "id": "J-soko",
+   "romaji": "soko",
+   "occurrences": [
+    {
+     "where": "S9L10",
+     "form": "soko ni douzo",
+     "function": "core"
+    },
+    {
+     "where": "S11L8",
+     "form": "soko, nani mo nakute",
+     "function": "secondary"
+    },
+    {
+     "where": "S11L9",
+     "form": "mada soko ni ita no?",
+     "function": "core"
+    }
+   ],
+   "coreUse": true,
+   "note": "The weakest item in J3. Only S9L10 is the clear 'there, near you' sense. S11L9 means 'the place you were', and S11L8 points back to the hot spring the speaker herself just named."
+  },
+  "J-asoko": {
+   "id": "J-asoko",
+   "romaji": "asoko",
+   "occurrences": [
+    {
+     "where": "S1L4",
+     "form": "asoko no mise",
+     "function": "core"
+    },
+    {
+     "where": "S1L7",
+     "form": "asoko kara kita n da",
+     "function": "core"
+    },
+    {
+     "where": "S3L3",
+     "form": "asoko ni atta yo",
+     "function": "core"
+    },
+    {
+     "where": "S3L8",
+     "form": "asoko no?",
+     "function": "core"
+    },
+    {
+     "where": "S6L9",
+     "form": "asoko no tsukue ni arimasu yo",
+     "function": "core"
+    }
+   ],
+   "coreUse": true,
+   "note": "5 core uses. S6L9 puts it in the same sentence as koko, which is the cleanest contrast in J3."
+  },
+  "J-nani": {
+   "id": "J-nani",
+   "romaji": "nani / nan",
+   "occurrences": [
+    {
+     "where": "S2L8",
+     "form": "sore nani?",
+     "function": "core"
+    },
+    {
+     "where": "S5L1",
+     "form": "nan desu ka?",
+     "function": "core"
+    },
+    {
+     "where": "S11L8",
+     "form": "nani mo nakute",
+     "function": "secondary"
+    },
+    {
+     "where": "S12L2",
+     "form": "nanika arimashita ka?",
+     "function": "secondary"
+    },
+    {
+     "where": "S13L1",
+     "form": "nani shiteru no?",
+     "function": "core"
+    },
+    {
+     "where": "S13L3",
+     "form": "nani mo shinai",
+     "function": "secondary"
+    }
+   ],
+   "coreUse": true,
+   "note": "Only 3 story lines ask 'what' (and the 'nan' form appears once, S5L1). The other 3 are 'nani mo' (nothing) and 'nanika' (something), which a learner may mistake for 'what'. Nearly every question uses nani or nan, so the questions do more to train it than the stories."
+  },
+  "J-dare": {
+   "id": "J-dare",
+   "romaji": "dare / donata",
+   "occurrences": [
+    {
+     "where": "S3L1",
+     "form": "dare no?",
+     "function": "core"
+    },
+    {
+     "where": "S3L5",
+     "form": "dare no kana",
+     "function": "core"
+    },
+    {
+     "where": "S12L13",
+     "form": "dare ga shimasu ka?",
+     "function": "core"
+    },
+    {
+     "where": "S13L5",
+     "form": "minna tte, dare?",
+     "function": "core"
+    },
+    {
+     "where": "S13L8",
+     "form": "dare no tanjoubi?",
+     "function": "core"
+    },
+    {
+     "where": "S13L9",
+     "form": "dare no...?",
+     "function": "core"
+    }
+   ],
+   "coreUse": true,
+   "note": "6 core uses, 4 of them in the 'dare no' (whose) pattern. The polite 'donata' is never heard."
+  },
+  "J-itsu": {
+   "id": "J-itsu",
+   "romaji": "itsu",
+   "occurrences": [
+    {
+     "where": "S2L5",
+     "form": "itsu kita no?",
+     "function": "core"
+    },
+    {
+     "where": "S8L2",
+     "form": "itsu iku?",
+     "function": "core"
+    },
+    {
+     "where": "S11L11",
+     "form": "itsu modotta no?",
+     "function": "core"
+    },
+    {
+     "where": "S13L14",
+     "form": "itsu deru?",
+     "function": "core"
+    }
+   ],
+   "coreUse": true,
+   "note": "4 core uses, all casual 'itsu + verb?' questions. No polite use in the stories."
+  },
+  "J-nande": {
+   "id": "J-nande",
+   "romaji": "nande / doushite",
+   "occurrences": [
+    {
+     "where": "S1L5",
+     "form": "nande?",
+     "function": "core"
+    },
+    {
+     "where": "S8L7",
+     "form": "e, nande?",
+     "function": "core"
+    },
+    {
+     "where": "S12L6",
+     "form": "doushite desu ka ne",
+     "function": "core"
+    },
+    {
+     "where": "S13L3",
+     "form": "e, nande?",
+     "function": "core"
+    },
+    {
+     "where": "S13L7",
+     "form": "nande minna kuru no?",
+     "function": "core"
+    },
+    {
+     "where": "S13L8",
+     "form": "nande tte...",
+     "function": "secondary"
+    }
+   ],
+   "coreUse": true,
+   "note": "3 of the 4 casual core uses are a bare 'nande?' reaction. The polite 'doushite' appears once in the stories (S12L6) but in 4 questions. S13L8 'nande tte' quotes the question back ('what do you mean, why')."
+  },
+  "J-ikura": {
+   "id": "J-ikura",
+   "romaji": "ikura",
+   "occurrences": [
+    {
+     "where": "S5L3",
+     "form": "ikura desu ka?",
+     "function": "core"
+    },
+    {
+     "where": "S11L13",
+     "form": "ikura datta?",
+     "function": "core"
+    },
+    {
+     "where": "S11L14",
+     "form": "ikura datta kke",
+     "function": "core"
+    },
+    {
+     "where": "S13L13",
+     "form": "ikura datta kke?",
+     "function": "core"
+    }
+   ],
+   "coreUse": true,
+   "note": "4 core uses, but only S5L3 gets a price answer (yonhyaku en). The other 3 go unanswered ('kke', 'takakunakatta'), so the price reply is heard only once."
+  },
+  "F-da": {
+   "id": "F-da",
+   "romaji": "da / desu",
+   "occurrences": [
+    {
+     "where": "S1L2",
+     "form": "hisashiburi da ne",
+     "function": "core"
+    },
+    {
+     "where": "S1L7",
+     "form": "yasumi da yo",
+     "function": "core"
+    },
+    {
+     "where": "S3L6",
+     "form": "mai no da yo",
+     "function": "core"
+    },
+    {
+     "where": "S4L1",
+     "form": "kenta da kedo",
+     "function": "core"
+    },
+    {
+     "where": "S4L7",
+     "form": "ame da kara",
+     "function": "core"
+    },
+    {
+     "where": "S5L1",
+     "form": "nan desu ka",
+     "function": "core"
+    },
+    {
+     "where": "S5L2",
+     "form": "dore desu ka",
+     "function": "core"
+    },
+    {
+     "where": "S5L2",
+     "form": "kore desu ka",
+     "function": "core"
+    },
+    {
+     "where": "S5L2",
+     "form": "keeki desu yo",
+     "function": "core"
+    },
+    {
+     "where": "S5L3",
+     "form": "keeki desu ka",
+     "function": "core"
+    },
+    {
+     "where": "S5L3",
+     "form": "ikura desu ka",
+     "function": "core"
+    },
+    {
+     "where": "S5L4",
+     "form": "yonhyaku en desu",
+     "function": "core"
+    },
+    {
+     "where": "S5L6",
+     "form": "koohii desu ne",
+     "function": "core"
+    },
+    {
+     "where": "S5L7",
+     "form": "koohii desu ka",
+     "function": "core"
+    },
+    {
+     "where": "S5L8",
+     "form": "daijoubu desu yo",
+     "function": "core"
+    },
+    {
+     "where": "S5L8",
+     "form": "keeki dake desu ne",
+     "function": "core"
+    },
+    {
+     "where": "S6L1",
+     "form": "tanaka desu",
+     "function": "core"
+    },
+    {
+     "where": "S6L2",
+     "form": "kimura mai desu",
+     "function": "core"
+    },
+    {
+     "where": "S6L5",
+     "form": "hontou desu ka",
+     "function": "core"
+    },
+    {
+     "where": "S6L6",
+     "form": "issho desu ne",
+     "function": "core"
+    },
+    {
+     "where": "S6L7",
+     "form": "koko desu",
+     "function": "core"
+    },
+    {
+     "where": "S6L10",
+     "form": "jikan desu yo",
+     "function": "core"
+    },
+    {
+     "where": "S7L9",
+     "form": "daijoubu da yo",
+     "function": "core"
+    },
+    {
+     "where": "S8L4",
+     "form": "daijoubu da kedo",
+     "function": "core"
+    },
+    {
+     "where": "S8L12",
+     "form": "daijoubu da yo",
+     "function": "core"
+    },
+    {
+     "where": "S9L4",
+     "form": "koko da yo",
+     "function": "core"
+    },
+    {
+     "where": "S9L7",
+     "form": "hiru da yo",
+     "function": "core"
+    },
+    {
+     "where": "S10L9",
+     "form": "mai desu",
+     "function": "core"
+    },
+    {
+     "where": "S10L10",
+     "form": "sora desu",
+     "function": "core"
+    },
+    {
+     "where": "S10L15",
+     "form": "daijoubu da yo",
+     "function": "core"
+    },
+    {
+     "where": "S11L4",
+     "form": "motto da yo",
+     "function": "core"
+    },
+    {
+     "where": "S12L7",
+     "form": "tanaka-san ni desu ka",
+     "function": "core"
+    },
+    {
+     "where": "S12L13",
+     "form": "mou chotto desu kedo",
+     "function": "core"
+    },
+    {
+     "where": "S12L14",
+     "form": "dame desu yo",
+     "function": "core"
+    },
+    {
+     "where": "S13L13",
+     "form": "tanjoubi da shi",
+     "function": "core"
+    },
+    {
+     "where": "S5L3",
+     "form": "ii desu ne (desu after adjective = politeness only)",
+     "function": "secondary"
+    },
+    {
+     "where": "S5L7",
+     "form": "ii desu (after adjective)",
+     "function": "secondary"
+    },
+    {
+     "where": "S9L11",
+     "form": "oishii desu (after adjective)",
+     "function": "secondary"
+    },
+    {
+     "where": "S12L3",
+     "form": "ja nakatta desu",
+     "function": "secondary"
+    },
+    {
+     "where": "S12L6",
+     "form": "ja nakatta desu",
+     "function": "secondary"
+    },
+    {
+     "where": "S12L9",
+     "form": "warukunai desu yo (after adjective)",
+     "function": "secondary"
+    },
+    {
+     "where": "S7L5",
+     "form": "yoru datta (past)",
+     "function": "secondary"
+    },
+    {
+     "where": "S7L6",
+     "form": "tte kanji datta (past)",
+     "function": "secondary"
+    },
+    {
+     "where": "S11L13",
+     "form": "ikura datta? (past)",
+     "function": "secondary"
+    },
+    {
+     "where": "S11L14",
+     "form": "ikura datta kke (past)",
+     "function": "secondary"
+    },
+    {
+     "where": "S13L9",
+     "form": "kyou datta kke (past)",
+     "function": "secondary"
+    },
+    {
+     "where": "S13L13",
+     "form": "ikura datta kke (past)",
+     "function": "secondary"
+    },
+    {
+     "where": "S9L3",
+     "form": "dono heya deshita kke (past)",
+     "function": "secondary"
+    },
+    {
+     "where": "S12L3",
+     "form": "kinou no deshita (past)",
+     "function": "secondary"
+    },
+    {
+     "where": "S12L4",
+     "form": "kinou no deshita ka (past)",
+     "function": "secondary"
+    },
+    {
+     "where": "S6L7",
+     "form": "desu ne! (standalone agreeing reply)",
+     "function": "incidental"
+    },
+    {
+     "where": "S6L11",
+     "form": "otsukaresama desu",
+     "function": "incidental"
+    },
+    {
+     "where": "S6L12",
+     "form": "otsukaresama desu",
+     "function": "incidental"
+    },
+    {
+     "where": "S10L11",
+     "form": "otsukaresama desu",
+     "function": "incidental"
+    },
+    {
+     "where": "S9L1",
+     "form": "ohisashiburi desu",
+     "function": "incidental"
+    },
+    {
+     "where": "S9L15",
+     "form": "gochisousama deshita",
+     "function": "incidental"
+    }
+   ],
+   "coreUse": true,
+   "note": "13 core casual da + 22 core polite desu; casual da is never heard bare at sentence end (always + yo/ne/kedo/kara/shi), and casual speakers mostly drop it (kaisha. / koohii. / souji.). n da / n desu / wake da (excluded here, counted under F2) and ja nai forms (I1) are not listed."
+  },
+  "F-ka": {
+   "id": "F-ka",
+   "romaji": "ka / desu ka / -masu ka",
+   "occurrences": [
+    {
+     "where": "S5L1",
+     "form": "nan desu ka?",
+     "function": "core"
+    },
+    {
+     "where": "S5L2",
+     "form": "dore desu ka?",
+     "function": "core"
+    },
+    {
+     "where": "S5L2",
+     "form": "kore desu ka?",
+     "function": "core"
+    },
+    {
+     "where": "S5L3",
+     "form": "ikura desu ka?",
+     "function": "core"
+    },
+    {
+     "where": "S6L12",
+     "form": "kaerimasen ka? (invitation)",
+     "function": "core"
+    },
+    {
+     "where": "S10L3",
+     "form": "mottemasu ka?",
+     "function": "core"
+    },
+    {
+     "where": "S12L2",
+     "form": "arimashita ka?",
+     "function": "core"
+    },
+    {
+     "where": "S12L6",
+     "form": "kimasen deshita ka?",
+     "function": "core"
+    },
+    {
+     "where": "S12L7",
+     "form": "tanaka-san ni desu ka?",
+     "function": "core"
+    },
+    {
+     "where": "S12L10",
+     "form": "kimashita ka?",
+     "function": "core"
+    },
+    {
+     "where": "S12L13",
+     "form": "shimasu ka?",
+     "function": "core"
+    },
+    {
+     "where": "S2L4",
+     "form": "densha ka. (musing 'the train, huh')",
+     "function": "secondary"
+    },
+    {
+     "where": "S5L3",
+     "form": "matcha no keeki desu ka. (echo/realization)",
+     "function": "secondary"
+    },
+    {
+     "where": "S5L7",
+     "form": "koohii desu ka. (realization)",
+     "function": "secondary"
+    },
+    {
+     "where": "S6L5",
+     "form": "hontou desu ka? (surprise reaction 'really?')",
+     "function": "secondary"
+    },
+    {
+     "where": "S8L14",
+     "form": "minna kuru ka kiite miru (embedded 'whether')",
+     "function": "secondary"
+    },
+    {
+     "where": "S12L4",
+     "form": "kinou no deshita ka. (echo/realization)",
+     "function": "secondary"
+    }
+   ],
+   "coreUse": true,
+   "note": "Every core ka is polite (S5, S6, S10, S12); casual ka is never heard marking a question (casual questions use rising intonation or no?), only as musing 'densha ka.' which a learner may mistake for a question. n desu ka x5 and 'desu ka ne' are counted under F2/F3, not here."
+  },
+  "F-ne": {
+   "id": "F-ne",
+   "romaji": "ne / desu ne / -masu ne",
+   "occurrences": [
+    {
+     "where": "S1L2",
+     "form": "hisashiburi da ne!",
+     "function": "core"
+    },
+    {
+     "where": "S3L7",
+     "form": "un, kita ne.",
+     "function": "core"
+    },
+    {
+     "where": "S5L3",
+     "form": "ii desu ne.",
+     "function": "core"
+    },
+    {
+     "where": "S5L6",
+     "form": "koohii desu ne.",
+     "function": "core"
+    },
+    {
+     "where": "S5L8",
+     "form": "keeki dake desu ne.",
+     "function": "core"
+    },
+    {
+     "where": "S6L6",
+     "form": "issho desu ne!",
+     "function": "core"
+    },
+    {
+     "where": "S6L7",
+     "form": "desu ne!",
+     "function": "core"
+    },
+    {
+     "where": "S7L8",
+     "form": "ame ja nai ne.",
+     "function": "core"
+    },
+    {
+     "where": "S8L2",
+     "form": "ii ne!",
+     "function": "core"
+    },
+    {
+     "where": "S8L5",
+     "form": "jaa, ashita ne!",
+     "function": "core"
+    },
+    {
+     "where": "S8L11",
+     "form": "motto ii ne!",
+     "function": "core"
+    },
+    {
+     "where": "S10L15",
+     "form": "ashita ne!",
+     "function": "core"
+    },
+    {
+     "where": "S11L15",
+     "form": "motto ii ne!",
+     "function": "core"
+    },
+    {
+     "where": "S12L7",
+     "form": "konakatta wake desu ne.",
+     "function": "core"
+    },
+    {
+     "where": "S12L8",
+     "form": "shichatta wake desu ne.",
+     "function": "core"
+    },
+    {
+     "where": "S13L1",
+     "form": "kekkou kawatta ne.",
+     "function": "core"
+    },
+    {
+     "where": "S13L13",
+     "form": "a, are ne!",
+     "function": "core"
+    },
+    {
+     "where": "S1L10",
+     "form": "ashita iku ne. (soft declaration of own plan)",
+     "function": "secondary"
+    },
+    {
+     "where": "S3L10",
+     "form": "kiitoku ne. (own plan)",
+     "function": "secondary"
+    },
+    {
+     "where": "S4L7",
+     "form": "ki o tsukete ne. (softened request)",
+     "function": "secondary"
+    },
+    {
+     "where": "S8L14",
+     "form": "kiite miru ne. (own plan)",
+     "function": "secondary"
+    },
+    {
+     "where": "S8L16",
+     "form": "nabe yaru ne! (own plan)",
+     "function": "secondary"
+    },
+    {
+     "where": "S9L16",
+     "form": "ki o tsukete ne. (softened request)",
+     "function": "secondary"
+    },
+    {
+     "where": "S10L2",
+     "form": "tabete kuru kara ne. (letting know)",
+     "function": "secondary"
+    },
+    {
+     "where": "S11L16",
+     "form": "metcha samui kara ne. (warning, 'okay?')",
+     "function": "secondary"
+    },
+    {
+     "where": "S13L13",
+     "form": "itte miru ne. (own plan)",
+     "function": "secondary"
+    },
+    {
+     "where": "S1L10",
+     "form": "jaa ne!",
+     "function": "incidental"
+    },
+    {
+     "where": "S1L11",
+     "form": "jaa ne!",
+     "function": "incidental"
+    },
+    {
+     "where": "S2L7",
+     "form": "gomen ne.",
+     "function": "incidental"
+    },
+    {
+     "where": "S4L8",
+     "form": "jaa ne.",
+     "function": "incidental"
+    },
+    {
+     "where": "S8L16",
+     "form": "jaa ne.",
+     "function": "incidental"
+    },
+    {
+     "where": "S9L17",
+     "form": "jaa ne,",
+     "function": "incidental"
+    },
+    {
+     "where": "S10L9",
+     "form": "yoroshiku ne.",
+     "function": "incidental"
+    },
+    {
+     "where": "S10L12",
+     "form": "jaa ne.",
+     "function": "incidental"
+    },
+    {
+     "where": "S10L15",
+     "form": "jaa ne.",
+     "function": "incidental"
+    },
+    {
+     "where": "S10L16",
+     "form": "gomen ne.",
+     "function": "incidental"
+    },
+    {
+     "where": "S10L16",
+     "form": "jaa ne.",
+     "function": "incidental"
+    }
+   ],
+   "coreUse": true,
+   "note": "17 core uses, but 20 of the 37 audible ne are softeners on the speaker's own plans/requests or inside fixed jaa ne / gomen ne / yoroshiku ne, so the agreement-seeking ne is under half of what is heard. The 7 yo ne are excluded."
+  },
+  "F-yo": {
+   "id": "F-yo",
+   "romaji": "yo / desu yo / -masu yo",
+   "occurrences": [
+    {
+     "where": "S1L7",
+     "form": "yasumi da yo",
+     "function": "core"
+    },
+    {
+     "where": "S1L9",
+     "form": "yatteru yo",
+     "function": "core"
+    },
+    {
+     "where": "S2L2",
+     "form": "ii yo",
+     "function": "core"
+    },
+    {
+     "where": "S2L2",
+     "form": "ii yo",
+     "function": "core"
+    },
+    {
+     "where": "S2L4",
+     "form": "warukunai yo",
+     "function": "core"
+    },
+    {
+     "where": "S2L6",
+     "form": "matteta yo",
+     "function": "core"
+    },
+    {
+     "where": "S3L3",
+     "form": "atta yo",
+     "function": "core"
+    },
+    {
+     "where": "S3L4",
+     "form": "ja nai yo",
+     "function": "core"
+    },
+    {
+     "where": "S3L6",
+     "form": "mai no da yo",
+     "function": "core"
+    },
+    {
+     "where": "S3L8",
+     "form": "ja nai yo",
+     "function": "core"
+    },
+    {
+     "where": "S3L11",
+     "form": "mottoku yo",
+     "function": "core"
+    },
+    {
+     "where": "S5L2",
+     "form": "keeki desu yo",
+     "function": "core"
+    },
+    {
+     "where": "S5L8",
+     "form": "daijoubu desu yo",
+     "function": "core"
+    },
+    {
+     "where": "S6L5",
+     "form": "sunderu n desu yo",
+     "function": "core"
+    },
+    {
+     "where": "S6L9",
+     "form": "arimasu yo",
+     "function": "core"
+    },
+    {
+     "where": "S6L10",
+     "form": "jikan desu yo",
+     "function": "core"
+    },
+    {
+     "where": "S7L3",
+     "form": "modotta n da yo",
+     "function": "core"
+    },
+    {
+     "where": "S7L7",
+     "form": "kanari ii yo",
+     "function": "core"
+    },
+    {
+     "where": "S7L9",
+     "form": "daijoubu da yo",
+     "function": "core"
+    },
+    {
+     "where": "S8L10",
+     "form": "dekiru yo",
+     "function": "core"
+    },
+    {
+     "where": "S8L12",
+     "form": "daijoubu da yo",
+     "function": "core"
+    },
+    {
+     "where": "S8L13",
+     "form": "shitoku yo",
+     "function": "core"
+    },
+    {
+     "where": "S8L16",
+     "form": "aru yo",
+     "function": "core"
+    },
+    {
+     "where": "S9L2",
+     "form": "iru yo",
+     "function": "core"
+    },
+    {
+     "where": "S9L4",
+     "form": "koko da yo",
+     "function": "core"
+    },
+    {
+     "where": "S9L5",
+     "form": "kawatta yo",
+     "function": "core"
+    },
+    {
+     "where": "S9L7",
+     "form": "ohayou ja nai yo",
+     "function": "core"
+    },
+    {
+     "where": "S9L7",
+     "form": "hiru da yo",
+     "function": "core"
+    },
+    {
+     "where": "S9L8",
+     "form": "yatteta n da yo",
+     "function": "core"
+    },
+    {
+     "where": "S9L10",
+     "form": "dekita yo",
+     "function": "core"
+    },
+    {
+     "where": "S10L3",
+     "form": "narimasu yo",
+     "function": "core"
+    },
+    {
+     "where": "S10L15",
+     "form": "daijoubu da yo",
+     "function": "core"
+    },
+    {
+     "where": "S11L2",
+     "form": "yokatta yo",
+     "function": "core"
+    },
+    {
+     "where": "S11L4",
+     "form": "ja nai yo",
+     "function": "core"
+    },
+    {
+     "where": "S11L4",
+     "form": "motto da yo",
+     "function": "core"
+    },
+    {
+     "where": "S11L6",
+     "form": "atta yo",
+     "function": "core"
+    },
+    {
+     "where": "S11L10",
+     "form": "denakatta n da yo",
+     "function": "core"
+    },
+    {
+     "where": "S11L14",
+     "form": "takakunakatta yo",
+     "function": "core"
+    },
+    {
+     "where": "S12L5",
+     "form": "konakatta n desu yo",
+     "function": "core"
+    },
+    {
+     "where": "S12L9",
+     "form": "warukunai desu yo",
+     "function": "core"
+    },
+    {
+     "where": "S12L14",
+     "form": "dame desu yo",
+     "function": "core"
+    },
+    {
+     "where": "S13L2",
+     "form": "yatta yo",
+     "function": "core"
+    },
+    {
+     "where": "S13L11",
+     "form": "kau yo",
+     "function": "core"
+    },
+    {
+     "where": "S13L13",
+     "form": "ii yo",
+     "function": "core"
+    },
+    {
+     "where": "S13L15",
+     "form": "modoru yo",
+     "function": "core"
+    },
+    {
+     "where": "S13L15",
+     "form": "shinai yo",
+     "function": "core"
+    },
+    {
+     "where": "S13L16",
+     "form": "yatchau yo",
+     "function": "core"
+    }
+   ],
+   "coreUse": true,
+   "note": "47 stand-alone yo, all asserting something to the listener: news, corrections ('ja nai yo'), reassurance ('ii yo', 'daijoubu da yo') and announced plans ('kau yo'). It is heard in every story except S4 (the voicemail). The 7 yo ne are excluded."
+  },
+  "F-yo-ne": {
+   "id": "F-yo-ne",
+   "romaji": "yo ne / desu yo ne",
+   "occurrences": [
+    {
+     "where": "S2L6",
+     "form": "chotto ja nai yo ne.",
+     "function": "core"
+    },
+    {
+     "where": "S3L6",
+     "form": "uchi ni kita yo ne.",
+     "function": "core"
+    },
+    {
+     "where": "S8L12",
+     "form": "minna kita yo ne?",
+     "function": "core"
+    },
+    {
+     "where": "S8L15",
+     "form": "nabe aru yo ne?",
+     "function": "core"
+    },
+    {
+     "where": "S11L3",
+     "form": "sukoshi samui yo ne.",
+     "function": "core"
+    },
+    {
+     "where": "S12L4",
+     "form": "meeru shimashita yo ne?",
+     "function": "core"
+    },
+    {
+     "where": "S13L3",
+     "form": "nani mo shinai yo ne?",
+     "function": "core"
+    }
+   ],
+   "coreUse": true,
+   "note": "7 uses, all core (checking a fact both speakers should know). The only polite one is '-mashita yo ne' (S12L4); 'desu yo ne' is never heard."
+  },
+  "F-n-da": {
+   "id": "F-n-da",
+   "romaji": "n da / n desu",
+   "occurrences": [
+    {
+     "where": "S1L6",
+     "form": "mou nai n da",
+     "function": "core"
+    },
+    {
+     "where": "S1L7",
+     "form": "asoko kara kita n da",
+     "function": "core"
+    },
+    {
+     "where": "S2L9",
+     "form": "motte kita n da",
+     "function": "core"
+    },
+    {
+     "where": "S4L3",
+     "form": "shigoto shiteru n da",
+     "function": "core"
+    },
+    {
+     "where": "S5L7",
+     "form": "mou nonda n desu",
+     "function": "core"
+    },
+    {
+     "where": "S6L5",
+     "form": "sunderu n desu yo",
+     "function": "core"
+    },
+    {
+     "where": "S7L3",
+     "form": "modotta n da yo",
+     "function": "core"
+    },
+    {
+     "where": "S9L4",
+     "form": "chotto kawatta n da",
+     "function": "core"
+    },
+    {
+     "where": "S9L8",
+     "form": "geemu yatteta n da yo",
+     "function": "core"
+    },
+    {
+     "where": "S11L10",
+     "form": "denakatta n da yo",
+     "function": "core"
+    },
+    {
+     "where": "S11L12",
+     "form": "densha ga deta n da",
+     "function": "core"
+    },
+    {
+     "where": "S12L3",
+     "form": "watashi ga warui n desu",
+     "function": "core"
+    },
+    {
+     "where": "S12L5",
+     "form": "konakatta n desu yo",
+     "function": "core"
+    },
+    {
+     "where": "S12L8",
+     "form": "watashi ga warui n desu",
+     "function": "core"
+    },
+    {
+     "where": "S13L4",
+     "form": "minna ga uchi ni kuru n da",
+     "function": "core"
+    },
+    {
+     "where": "S13L10",
+     "form": "keeki ga mada nai n da",
+     "function": "core"
+    },
+    {
+     "where": "S2L4",
+     "form": "dakara osoku natta n da (listener's realization)",
+     "function": "secondary"
+    },
+    {
+     "where": "S10L17",
+     "form": "uchi de taberu n da (realization 'oh, so you're...')",
+     "function": "secondary"
+    },
+    {
+     "where": "S11L1",
+     "form": "modotta n da (realization)",
+     "function": "secondary"
+    },
+    {
+     "where": "S11L13",
+     "form": "yatto modotta n da (realization)",
+     "function": "secondary"
+    },
+    {
+     "where": "S8L8",
+     "form": "ame ni naru n da tte (hearsay frame)",
+     "function": "secondary"
+    }
+   ],
+   "coreUse": true,
+   "note": "16 core explaining uses, casual and polite. 5 more are the 'oh, so...' realization or hearsay 'n da tte' readings, which look the same but do a different job. n da kedo and n desu ka are counted under their own items."
+  },
+  "F-no-question": {
+   "id": "F-no-question",
+   "romaji": "no? / n desu ka",
+   "occurrences": [
+    {
+     "where": "S1L2",
+     "form": "doko iku no?",
+     "function": "core"
+    },
+    {
+     "where": "S1L3",
+     "form": "uchi ni kaeru no?",
+     "function": "core"
+    },
+    {
+     "where": "S2L5",
+     "form": "itsu kita no?",
+     "function": "core"
+    },
+    {
+     "where": "S2L10",
+     "form": "ii no?",
+     "function": "core"
+    },
+    {
+     "where": "S3L2",
+     "form": "doko ni atta no?",
+     "function": "core"
+    },
+    {
+     "where": "S6L3",
+     "form": "dochira ni sunderu n desu ka?",
+     "function": "core"
+    },
+    {
+     "where": "S6L13",
+     "form": "ii n desu ka?",
+     "function": "core"
+    },
+    {
+     "where": "S8L14",
+     "form": "ii no?",
+     "function": "core"
+    },
+    {
+     "where": "S10L1",
+     "form": "mou deru no?",
+     "function": "core"
+    },
+    {
+     "where": "S10L6",
+     "form": "ii n desu ka?",
+     "function": "core"
+    },
+    {
+     "where": "S10L19",
+     "form": "mou ii no?",
+     "function": "core"
+    },
+    {
+     "where": "S10L21",
+     "form": "mou neru no?",
+     "function": "core"
+    },
+    {
+     "where": "S11L5",
+     "form": "kekkou atta no?",
+     "function": "core"
+    },
+    {
+     "where": "S11L9",
+     "form": "mada soko ni ita no?",
+     "function": "core"
+    },
+    {
+     "where": "S11L11",
+     "form": "itsu modotta no?",
+     "function": "core"
+    },
+    {
+     "where": "S11L15",
+     "form": "takakunakatta no?",
+     "function": "core"
+    },
+    {
+     "where": "S12L15",
+     "form": "ii n desu ka?",
+     "function": "core"
+    },
+    {
+     "where": "S13L1",
+     "form": "nani shiteru no?",
+     "function": "core"
+    },
+    {
+     "where": "S13L7",
+     "form": "nande minna kuru no?",
+     "function": "core"
+    },
+    {
+     "where": "S13L12",
+     "form": "ii no?",
+     "function": "core"
+    }
+   ],
+   "coreUse": true,
+   "note": "20 uses, all core, but 7 are the set phrase 'ii no? / ii n desu ka?' ('are you sure?'). Possessive 'dare no?' (S3L1), 'sora no?' (S3L3), 'kenta no?' (S3L8, S13L9) sound the same and are not this item, which is a real confusion risk."
+  },
+  "F-n-da-kedo": {
+   "id": "F-n-da-kedo",
+   "romaji": "n da kedo / n desu kedo",
+   "occurrences": [
+    {
+     "where": "S4L2",
+     "form": "ashita na n da kedo",
+     "function": "core"
+    },
+    {
+     "where": "S6L8",
+     "form": "pen ga nai n desu kedo",
+     "function": "core"
+    },
+    {
+     "where": "S12L1",
+     "form": "shiryou na n desu kedo...",
+     "function": "core"
+    },
+    {
+     "where": "S13L4",
+     "form": "sono hanashi na n da kedo...",
+     "function": "core"
+    },
+    {
+     "where": "S7L2",
+     "form": "uchi deta n da kedo (narrative background + 'but')",
+     "function": "secondary"
+    }
+   ],
+   "coreUse": true,
+   "note": "4 core lead-ins, 2 casual and 2 polite, with 3 of them in the 'na n da kedo' topic shape. Near-misses that are not the item: 'kenta da kedo' (S4L1) and 'daijoubu da kedo' (S8L4)."
+  },
+  "F-wake-da": {
+   "id": "F-wake-da",
+   "romaji": "wake da / wake desu",
+   "occurrences": [
+    {
+     "where": "S9L9",
+     "form": "dakara, kenji wa mada asa na wake da",
+     "function": "core"
+    },
+    {
+     "where": "S12L7",
+     "form": "dakara watashi ni wa konakatta wake desu ne",
+     "function": "core"
+    },
+    {
+     "where": "S12L8",
+     "form": "sorede, kopii shichatta wake desu ne",
+     "function": "core"
+    },
+    {
+     "where": "S13L9",
+     "form": "dakara souji shiteru wake da",
+     "function": "core"
+    }
+   ],
+   "coreUse": true,
+   "note": "4 uses, all core, and every one follows dakara/sorede, so the learner may treat 'dakara ... wake da' as one fixed frame. The polite pair in S12 come back to back."
+  },
+  "F-naa": {
+   "id": "F-naa",
+   "romaji": "naa / desu nee",
+   "occurrences": [
+    {
+     "where": "S3L10",
+     "form": "mottenakatta naa",
+     "function": "core"
+    },
+    {
+     "where": "S7L1",
+     "form": "honto ni tsukareta naa",
+     "function": "core"
+    },
+    {
+     "where": "S11L5",
+     "form": "ii naa!",
+     "function": "core"
+    },
+    {
+     "where": "S13L12",
+     "form": "are ga ii naa",
+     "function": "core"
+    }
+   ],
+   "coreUse": true,
+   "note": "4 uses, all casual, 2 of them 'ii naa'. The polite 'desu nee' is never heard. No question tests it."
+  },
+  "F-kana": {
+   "id": "F-kana",
+   "romaji": "kana / desu ka ne / deshou ka",
+   "occurrences": [
+    {
+     "where": "S3L5",
+     "form": "dare no kana",
+     "function": "core"
+    },
+    {
+     "where": "S8L6",
+     "form": "umi wa dame kana",
+     "function": "core"
+    },
+    {
+     "where": "S8L11",
+     "form": "minna hairu kana?",
+     "function": "core"
+    },
+    {
+     "where": "S11L8",
+     "form": "dono onsen kana...",
+     "function": "core"
+    },
+    {
+     "where": "S12L6",
+     "form": "doushite desu ka ne...",
+     "function": "core"
+    }
+   ],
+   "coreUse": true,
+   "note": "4 casual and 1 polite ('desu ka ne', S12L6). 'deshou ka' is never heard. 'kanari' (S7L7, S10L14, S11L4, S11L6, S13L2) begins with the same sounds and could be misheard."
+  },
+  "F-kke": {
+   "id": "F-kke",
+   "romaji": "kke / deshita kke",
+   "occurrences": [
+    {
+     "where": "S3L9",
+     "form": "ano kaban motteta kke?",
+     "function": "core"
+    },
+    {
+     "where": "S9L3",
+     "form": "dono heya deshita kke?",
+     "function": "core"
+    },
+    {
+     "where": "S11L14",
+     "form": "ikura datta kke...",
+     "function": "core"
+    },
+    {
+     "where": "S13L9",
+     "form": "kyou datta kke!?",
+     "function": "core"
+    },
+    {
+     "where": "S13L13",
+     "form": "ikura datta kke?",
+     "function": "core"
+    }
+   ],
+   "coreUse": true,
+   "note": "5 uses, all core. 4 attach to a past copula (datta/deshita kke), 2 are the same 'ikura datta kke', and only one attaches to a verb (motteta kke). '-mashita kke' is never heard."
+  },
+  "F-tte-kanji": {
+   "id": "F-tte-kanji",
+   "romaji": "tte kanji / tte kanji desu",
+   "occurrences": [
+    {
+     "where": "S7L6",
+     "form": "oyasumi tte kanji datta",
+     "function": "core"
+    },
+    {
+     "where": "S11L8",
+     "form": "sore ga ii tte kanji",
+     "function": "core"
+    },
+    {
+     "where": "S11L15",
+     "form": "sugoku yokatta tte kanji?",
+     "function": "core"
+    }
+   ],
+   "coreUse": true,
+   "note": "3 uses, all core (past, plain, and question), all casual. 'tte kanji desu' is never heard. Other 'tte' (n da tte S8L8, minna tte S13L5, nande tte S13L8) could blur it. No question tests it."
+  },
+  "D-ii": {
+   "id": "D-ii",
+   "romaji": "ii / ii desu",
+   "occurrences": [
+    {
+     "where": "S2L2",
+     "form": "ii yo",
+     "function": "core"
+    },
+    {
+     "where": "S2L2",
+     "form": "ii yo",
+     "function": "core"
+    },
+    {
+     "where": "S2L10",
+     "form": "ii no?",
+     "function": "core"
+    },
+    {
+     "where": "S5L3",
+     "form": "ii desu ne",
+     "function": "core"
+    },
+    {
+     "where": "S6L13",
+     "form": "ii n desu ka?",
+     "function": "core"
+    },
+    {
+     "where": "S7L7",
+     "form": "kanari ii yo",
+     "function": "core"
+    },
+    {
+     "where": "S8L2",
+     "form": "ii ne!",
+     "function": "core"
+    },
+    {
+     "where": "S8L11",
+     "form": "motto ii ne!",
+     "function": "core"
+    },
+    {
+     "where": "S8L14",
+     "form": "ii no?",
+     "function": "core"
+    },
+    {
+     "where": "S10L6",
+     "form": "ii n desu ka?",
+     "function": "core"
+    },
+    {
+     "where": "S10L8",
+     "form": "chotto ii?",
+     "function": "core"
+    },
+    {
+     "where": "S11L1",
+     "form": "yokatta?",
+     "function": "core"
+    },
+    {
+     "where": "S11L2",
+     "form": "sugoku yokatta yo",
+     "function": "core"
+    },
+    {
+     "where": "S11L7",
+     "form": "dono onsen ga yokatta?",
+     "function": "core"
+    },
+    {
+     "where": "S11L8",
+     "form": "sore ga ii tte kanji",
+     "function": "core"
+    },
+    {
+     "where": "S11L15",
+     "form": "motto ii ne!",
+     "function": "core"
+    },
+    {
+     "where": "S11L15",
+     "form": "sugoku yokatta tte kanji?",
+     "function": "core"
+    },
+    {
+     "where": "S12L15",
+     "form": "ii n desu ka?",
+     "function": "core"
+    },
+    {
+     "where": "S13L11",
+     "form": "dore ga ii?",
+     "function": "core"
+    },
+    {
+     "where": "S13L12",
+     "form": "ii no?",
+     "function": "core"
+    },
+    {
+     "where": "S13L12",
+     "form": "are ga ii naa",
+     "function": "core"
+    },
+    {
+     "where": "S13L13",
+     "form": "ii yo",
+     "function": "core"
+    },
+    {
+     "where": "S5L7",
+     "form": "koohii wa ii desu ('no thanks')",
+     "function": "secondary"
+    },
+    {
+     "where": "S10L19",
+     "form": "mou ii no? ('had enough?')",
+     "function": "secondary"
+    },
+    {
+     "where": "S11L5",
+     "form": "ii naa! (set phrase 'lucky you')",
+     "function": "secondary"
+    }
+   ],
+   "coreUse": true,
+   "note": "25 uses, 22 core. The irregular past 'yokatta' (4, all in S11) is never tied back to 'ii' on the page. The 'no thanks' use is heard once (S5L7), just after 'ii desu ne' = 'nice' in S5L3, and S5Q3 tests it."
+  },
+  "D-daijoubu": {
+   "id": "D-daijoubu",
+   "romaji": "daijoubu / daijoubu desu",
+   "occurrences": [
+    {
+     "where": "S2L2",
+     "form": "daijoubu.",
+     "function": "core"
+    },
+    {
+     "where": "S4L4",
+     "form": "ashita no yoru wa daijoubu.",
+     "function": "core"
+    },
+    {
+     "where": "S5L8",
+     "form": "daijoubu desu yo.",
+     "function": "core"
+    },
+    {
+     "where": "S7L9",
+     "form": "mou daijoubu da yo.",
+     "function": "core"
+    },
+    {
+     "where": "S8L4",
+     "form": "ashita wa daijoubu da kedo.",
+     "function": "core"
+    },
+    {
+     "where": "S8L12",
+     "form": "daijoubu da yo.",
+     "function": "core"
+    },
+    {
+     "where": "S10L14",
+     "form": "ashita, daijoubu?",
+     "function": "core"
+    },
+    {
+     "where": "S10L15",
+     "form": "un, daijoubu da yo.",
+     "function": "core"
+    }
+   ],
+   "coreUse": true,
+   "note": "8 uses, all core: reassurance, being free on a day ('ashita wa daijoubu'), and asking once ('ashita, daijoubu?'). The very common polite refusal 'daijoubu desu' ('no thanks') is never heard in a story; it appears only in a model answer (S9Q5)."
+  },
+  "D-dame": {
+   "id": "D-dame",
+   "romaji": "dame / dame desu",
+   "occurrences": [
+    {
+     "where": "S4L2",
+     "form": "dame ni natchatta",
+     "function": "core"
+    },
+    {
+     "where": "S8L6",
+     "form": "umi wa dame kana",
+     "function": "core"
+    },
+    {
+     "where": "S10L14",
+     "form": "kyou dame ni natchatta",
+     "function": "core"
+    },
+    {
+     "where": "S12L14",
+     "form": "sore wa dame desu yo",
+     "function": "core"
+    }
+   ],
+   "coreUse": true,
+   "note": "Only 4 uses, and 2 are the same 'dame ni natchatta' (plans fell through). The 'not allowed' meaning is heard once (S12L14). Casual 'dame da (yo)' is never heard in a story, only in model answers."
+  },
+  "D-warui": {
+   "id": "D-warui",
+   "romaji": "warui / warui desu",
+   "occurrences": [
+    {
+     "where": "S2L4",
+     "form": "mai wa warukunai yo",
+     "function": "core"
+    },
+    {
+     "where": "S12L3",
+     "form": "watashi ga warui n desu",
+     "function": "core"
+    },
+    {
+     "where": "S12L8",
+     "form": "watashi ga warui n desu",
+     "function": "core"
+    },
+    {
+     "where": "S12L9",
+     "form": "tanaka-san wa warukunai desu yo",
+     "function": "core"
+    },
+    {
+     "where": "S12L14",
+     "form": "watashi ga warukatta node",
+     "function": "core"
+    }
+   ],
+   "coreUse": true,
+   "note": "5 uses, 4 of them in S12. Only the 'at fault' meaning appears; 'bad' (quality) and casual 'warui' as an apology are never heard. Plain 'warui' appears only inside 'warui n desu'; the other 3 are warukunai x2 and warukatta x1."
+  },
+  "A-ima": {
+   "id": "A-ima",
+   "romaji": "ima",
+   "coreUse": true,
+   "note": "7 uses, all meaning 'now'. Three are 'ima kara' (from now), and it sits next to mada (S4L3 'ima mo mada') and mou (S7L9 'ima wa mou').",
+   "occurrences": [
+    {
+     "where": "S1L2",
+     "form": "ima kara",
+     "function": "core"
+    },
+    {
+     "where": "S1L7",
+     "form": "ima asoko kara kita",
+     "function": "core"
+    },
+    {
+     "where": "S4L3",
+     "form": "ima mo mada",
+     "function": "core"
+    },
+    {
+     "where": "S7L9",
+     "form": "ima wa mou",
+     "function": "core"
+    },
+    {
+     "where": "S12L10",
+     "form": "ima,",
+     "function": "core"
+    },
+    {
+     "where": "S12L13",
+     "form": "ima kara",
+     "function": "core"
+    },
+    {
+     "where": "S13L15",
+     "form": "ima kara",
+     "function": "core"
+    }
+   ]
+  },
+  "A-kyou": {
+   "id": "A-kyou",
+   "romaji": "kyou",
+   "coreUse": true,
+   "note": "23 uses, the most heard item in A1. Two sit inside the fixed sign-off 'kyou wa kore de shitsurei shimasu', where they still mean 'today'.",
+   "occurrences": [
+    {
+     "where": "S1L7",
+     "form": "kyou wa",
+     "function": "core"
+    },
+    {
+     "where": "S1L8",
+     "form": "kyou wa",
+     "function": "core"
+    },
+    {
+     "where": "S4L6",
+     "form": "kyou,",
+     "function": "core"
+    },
+    {
+     "where": "S5L7",
+     "form": "kyou wa mou",
+     "function": "core"
+    },
+    {
+     "where": "S6L2",
+     "form": "kyou kara",
+     "function": "core"
+    },
+    {
+     "where": "S6L11",
+     "form": "kyou wa kore de shitsurei shimasu",
+     "function": "incidental"
+    },
+    {
+     "where": "S7L7",
+     "form": "kyou wa, kinou yori",
+     "function": "core"
+    },
+    {
+     "where": "S8L3",
+     "form": "kyou iku?",
+     "function": "core"
+    },
+    {
+     "where": "S8L4",
+     "form": "kyou wa chotto...",
+     "function": "core"
+    },
+    {
+     "where": "S9L15",
+     "form": "kyou wa",
+     "function": "core"
+    },
+    {
+     "where": "S10L2",
+     "form": "kyou wa",
+     "function": "core"
+    },
+    {
+     "where": "S10L3",
+     "form": "kyou wa",
+     "function": "core"
+    },
+    {
+     "where": "S10L11",
+     "form": "kyou wa kore de shitsurei shimasu",
+     "function": "incidental"
+    },
+    {
+     "where": "S10L14",
+     "form": "kyou dame ni natchatta",
+     "function": "core"
+    },
+    {
+     "where": "S10L17",
+     "form": "kyou wa",
+     "function": "core"
+    },
+    {
+     "where": "S11L3",
+     "form": "kyou wa",
+     "function": "core"
+    },
+    {
+     "where": "S11L12",
+     "form": "kyou.",
+     "function": "core"
+    },
+    {
+     "where": "S11L12",
+     "form": "kyou yatto",
+     "function": "core"
+    },
+    {
+     "where": "S12L1",
+     "form": "kyou no",
+     "function": "core"
+    },
+    {
+     "where": "S13L3",
+     "form": "kyou wa",
+     "function": "core"
+    },
+    {
+     "where": "S13L4",
+     "form": "kyou,",
+     "function": "core"
+    },
+    {
+     "where": "S13L8",
+     "form": "kyou,",
+     "function": "core"
+    },
+    {
+     "where": "S13L9",
+     "form": "kyou datta kke",
+     "function": "core"
+    }
+   ]
+  },
+  "A-ashita": {
+   "id": "A-ashita",
+   "romaji": "ashita",
+   "coreUse": true,
+   "note": "13 uses, all core. It is almost always set against kyou in the same stretch (S1, S6L11, S8, S10), so the contrast is well trained.",
+   "occurrences": [
+    {
+     "where": "S1L9",
+     "form": "ashita wa",
+     "function": "core"
+    },
+    {
+     "where": "S1L10",
+     "form": "ashita iku ne",
+     "function": "core"
+    },
+    {
+     "where": "S3L10",
+     "form": "ashita",
+     "function": "core"
+    },
+    {
+     "where": "S4L2",
+     "form": "ashita na n da kedo",
+     "function": "core"
+    },
+    {
+     "where": "S4L3",
+     "form": "ashita mo",
+     "function": "core"
+    },
+    {
+     "where": "S4L4",
+     "form": "ashita no yoru",
+     "function": "core"
+    },
+    {
+     "where": "S6L11",
+     "form": "ashita mo yoroshiku",
+     "function": "core"
+    },
+    {
+     "where": "S8L4",
+     "form": "ashita wa",
+     "function": "core"
+    },
+    {
+     "where": "S8L5",
+     "form": "ashita ne!",
+     "function": "core"
+    },
+    {
+     "where": "S8L8",
+     "form": "ashita,",
+     "function": "core"
+    },
+    {
+     "where": "S8L16",
+     "form": "ashita,",
+     "function": "core"
+    },
+    {
+     "where": "S10L14",
+     "form": "ashita, daijoubu?",
+     "function": "core"
+    },
+    {
+     "where": "S10L15",
+     "form": "ashita ne!",
+     "function": "core"
+    }
+   ]
+  },
+  "A-kinou": {
+   "id": "A-kinou",
+   "romaji": "kinou",
+   "coreUse": true,
+   "note": "10 uses, all core. Three are 'kinou no' (yesterday's one) in S12, and kinou is set against kyou in S7L7 and S11L8-L12.",
+   "occurrences": [
+    {
+     "where": "S3L6",
+     "form": "kinou,",
+     "function": "core"
+    },
+    {
+     "where": "S7L1",
+     "form": "kinou wa",
+     "function": "core"
+    },
+    {
+     "where": "S7L7",
+     "form": "kinou yori",
+     "function": "core"
+    },
+    {
+     "where": "S9L8",
+     "form": "kinou,",
+     "function": "core"
+    },
+    {
+     "where": "S10L7",
+     "form": "kinou wa",
+     "function": "core"
+    },
+    {
+     "where": "S11L8",
+     "form": "kinou haitta",
+     "function": "core"
+    },
+    {
+     "where": "S11L9",
+     "form": "kinou?",
+     "function": "core"
+    },
+    {
+     "where": "S12L3",
+     "form": "kinou no deshita",
+     "function": "core"
+    },
+    {
+     "where": "S12L4",
+     "form": "kinou no deshita ka",
+     "function": "core"
+    },
+    {
+     "where": "S12L8",
+     "form": "kinou no o",
+     "function": "core"
+    }
+   ]
+  },
+  "A-mou": {
+   "id": "A-mou",
+   "romaji": "mou",
+   "coreUse": true,
+   "note": "10 core 'already' uses, but only one 'not anymore' (S1L6 'mou nai'). The same stories also use mou to mean 'more' (S9L12-13, S11L3-4, S12L13), and nothing flags that difference.",
+   "occurrences": [
+    {
+     "where": "S1L6",
+     "form": "mou nai n da",
+     "function": "core"
+    },
+    {
+     "where": "S2L6",
+     "form": "mou zutto matteta",
+     "function": "core"
+    },
+    {
+     "where": "S5L7",
+     "form": "mou nonda n desu",
+     "function": "core"
+    },
+    {
+     "where": "S6L10",
+     "form": "mou kaeru jikan desu",
+     "function": "core"
+    },
+    {
+     "where": "S7L5",
+     "form": "mou yoru datta",
+     "function": "core"
+    },
+    {
+     "where": "S7L6",
+     "form": "dakara mou,",
+     "function": "secondary"
+    },
+    {
+     "where": "S7L9",
+     "form": "ima wa mou daijoubu",
+     "function": "core"
+    },
+    {
+     "where": "S9L7",
+     "form": "mou hiru da yo",
+     "function": "core"
+    },
+    {
+     "where": "S9L12",
+     "form": "mou sukoshi douzo",
+     "function": "incidental"
+    },
+    {
+     "where": "S10L1",
+     "form": "mou deru no?",
+     "function": "core"
+    },
+    {
+     "where": "S10L19",
+     "form": "mou ii no?",
+     "function": "secondary"
+    },
+    {
+     "where": "S10L21",
+     "form": "mou neru no?",
+     "function": "core"
+    },
+    {
+     "where": "S13L2",
+     "form": "mou kanari yatta",
+     "function": "core"
+    }
+   ]
+  },
+  "A-mada": {
+   "id": "A-mada",
+   "romaji": "mada",
+   "coreUse": true,
+   "note": "10 uses, all core. Both senses are heard: 'still' (7) and 'not yet' (S12L11 'mada kitemasen', S13L10 twice). The standalone polite 'mada desu' is never heard.",
+   "occurrences": [
+    {
+     "where": "S2L1",
+     "form": "mada ita!",
+     "function": "core"
+    },
+    {
+     "where": "S4L3",
+     "form": "ima mo mada shigoto shiteru",
+     "function": "core"
+    },
+    {
+     "where": "S9L9",
+     "form": "mada asa na wake da",
+     "function": "core"
+    },
+    {
+     "where": "S9L12",
+     "form": "mada aru kara",
+     "function": "core"
+    },
+    {
+     "where": "S10L5",
+     "form": "mada arimasu",
+     "function": "core"
+    },
+    {
+     "where": "S10L14",
+     "form": "mada kanari atte",
+     "function": "core"
+    },
+    {
+     "where": "S11L9",
+     "form": "mada soko ni ita no?",
+     "function": "core"
+    },
+    {
+     "where": "S12L11",
+     "form": "mada kitemasen",
+     "function": "core"
+    },
+    {
+     "where": "S13L10",
+     "form": "mada nai n da",
+     "function": "core"
+    },
+    {
+     "where": "S13L10",
+     "form": "souji mo mada.",
+     "function": "core"
+    }
+   ]
+  },
+  "A-zutto": {
+   "id": "A-zutto",
+   "romaji": "zutto",
+   "coreUse": true,
+   "note": "4 uses, all core, and three are with a past or negative verb ('zutto konakatta' twice). It is paired with mou in S2L6.",
+   "occurrences": [
+    {
+     "where": "S2L3",
+     "form": "zutto konakatta",
+     "function": "core"
+    },
+    {
+     "where": "S2L6",
+     "form": "mou zutto matteta",
+     "function": "core"
+    },
+    {
+     "where": "S7L4",
+     "form": "zutto konakatta",
+     "function": "core"
+    },
+    {
+     "where": "S11L4",
+     "form": "zutto onsen ni haitteta",
+     "function": "core"
+    }
+   ]
+  },
+  "A-yatto": {
+   "id": "A-yatto",
+   "romaji": "yatto",
+   "coreUse": true,
+   "note": "Only 3 uses, all core, in just two stories. S7L5 sets it against mou ('yatto ... kaetta kedo, mou yoru datta').",
+   "occurrences": [
+    {
+     "where": "S7L5",
+     "form": "yatto uchi ni kaetta",
+     "function": "core"
+    },
+    {
+     "where": "S11L12",
+     "form": "yatto densha ga deta",
+     "function": "core"
+    },
+    {
+     "where": "S11L13",
+     "form": "yatto modotta n da",
+     "function": "core"
+    }
+   ]
+  },
+  "B-chotto": {
+   "id": "B-chotto",
+   "romaji": "chotto",
+   "coreUse": true,
+   "note": "8 uses on its own, 6 meaning 'a bit'. The others are the refusal 'kyou wa chotto...' and the fixed 'chotto ii?'. The mou chotto lines are counted under that item instead.",
+   "occurrences": [
+    {
+     "where": "S2L1",
+     "form": "chotto osoku natchatta",
+     "function": "core"
+    },
+    {
+     "where": "S2L6",
+     "form": "chotto ja nai yo ne",
+     "function": "core"
+    },
+    {
+     "where": "S4L6",
+     "form": "chotto denwa dekiru?",
+     "function": "core"
+    },
+    {
+     "where": "S8L4",
+     "form": "kyou wa chotto...",
+     "function": "secondary"
+    },
+    {
+     "where": "S9L4",
+     "form": "chotto kawatta n da",
+     "function": "core"
+    },
+    {
+     "where": "S9L5",
+     "form": "chotto?",
+     "function": "core"
+    },
+    {
+     "where": "S10L8",
+     "form": "chotto ii?",
+     "function": "incidental"
+    },
+    {
+     "where": "S12L4",
+     "form": "chotto kawatta node",
+     "function": "core"
+    }
+   ]
+  },
+  "B-sukoshi": {
+   "id": "B-sukoshi",
+   "romaji": "sukoshi",
+   "coreUse": true,
+   "note": "Thin. Only 2 plain uses, both in Story 11 (S11L3, S11L16). The third is inside 'mou sukoshi' (a little more) in S9L12.",
+   "occurrences": [
+    {
+     "where": "S9L12",
+     "form": "mou sukoshi douzo",
+     "function": "secondary"
+    },
+    {
+     "where": "S11L3",
+     "form": "sukoshi samui yo ne",
+     "function": "core"
+    },
+    {
+     "where": "S11L16",
+     "form": "sukoshi ja nakute",
+     "function": "core"
+    }
+   ]
+  },
+  "B-motto": {
+   "id": "B-motto",
+   "romaji": "motto",
+   "coreUse": true,
+   "note": "4 uses in 3 lines across two stories. Two are 'motto ii' (even better) and two are the emphatic 'motto da yo, motto!'.",
+   "occurrences": [
+    {
+     "where": "S8L11",
+     "form": "umi yori motto ii ne",
+     "function": "core"
+    },
+    {
+     "where": "S11L4",
+     "form": "motto da yo,",
+     "function": "core"
+    },
+    {
+     "where": "S11L4",
+     "form": "motto!",
+     "function": "core"
+    },
+    {
+     "where": "S11L15",
+     "form": "motto ii ne",
+     "function": "core"
+    }
+   ]
+  },
+  "B-mou-chotto": {
+   "id": "B-mou-chotto",
+   "romaji": "mou chotto",
+   "coreUse": true,
+   "note": "3 core uses: asking for more food, and 'a little colder'. In S12L13 'kaigi made mou chotto' means 'not long now', a different sense.",
+   "occurrences": [
+    {
+     "where": "S9L13",
+     "form": "mou chotto dake itadakimasu",
+     "function": "core"
+    },
+    {
+     "where": "S11L3",
+     "form": "mou chotto samukatta dake?",
+     "function": "core"
+    },
+    {
+     "where": "S11L4",
+     "form": "mou chotto ja nai yo!",
+     "function": "core"
+    },
+    {
+     "where": "S12L13",
+     "form": "kaigi made mou chotto desu kedo",
+     "function": "secondary"
+    }
+   ]
+  },
+  "B-sugoku": {
+   "id": "B-sugoku",
+   "romaji": "sugoku",
+   "coreUse": true,
+   "note": "3 uses, all core, but two are the same phrase 'sugoku yokatta' in S11. The only other one is S9L11 'sugoku oishii desu'.",
+   "occurrences": [
+    {
+     "where": "S9L11",
+     "form": "sugoku oishii desu",
+     "function": "core"
+    },
+    {
+     "where": "S11L2",
+     "form": "sugoku yokatta yo",
+     "function": "core"
+    },
+    {
+     "where": "S11L15",
+     "form": "sugoku yokatta tte kanji?",
+     "function": "core"
+    }
+   ]
+  },
+  "B-honto-ni": {
+   "id": "B-honto-ni",
+   "romaji": "honto ni",
+   "coreUse": true,
+   "note": "11 uses, but only 6 work as an intensifier, and 4 of those are the apology phrase 'honto ni gomen' / 'hontou ni sumimasen'. Five are the reaction 'honto ni?' or 'hontou desu ka?' (Really?).",
+   "occurrences": [
+    {
+     "where": "S1L8",
+     "form": "honto ni?",
+     "function": "secondary"
+    },
+    {
+     "where": "S2L7",
+     "form": "honto ni gomen ne",
+     "function": "core"
+    },
+    {
+     "where": "S6L5",
+     "form": "hontou desu ka?",
+     "function": "secondary"
+    },
+    {
+     "where": "S7L1",
+     "form": "honto ni tsukareta naa",
+     "function": "core"
+    },
+    {
+     "where": "S8L9",
+     "form": "honto ni?",
+     "function": "secondary"
+    },
+    {
+     "where": "S9L12",
+     "form": "honto ni?",
+     "function": "secondary"
+    },
+    {
+     "where": "S10L15",
+     "form": "e, honto ni?",
+     "function": "secondary"
+    },
+    {
+     "where": "S10L16",
+     "form": "honto ni gomen ne",
+     "function": "core"
+    },
+    {
+     "where": "S11L13",
+     "form": "honto ni otsukare",
+     "function": "core"
+    },
+    {
+     "where": "S12L3",
+     "form": "hontou ni sumimasen",
+     "function": "core"
+    },
+    {
+     "where": "S13L11",
+     "form": "honto ni gomen",
+     "function": "core"
+    }
+   ]
+  },
+  "B-kekkou": {
+   "id": "B-kekkou",
+   "romaji": "kekkou",
+   "coreUse": true,
+   "note": "4 uses, all core, always meaning 'quite' and never 'no thanks'. Twice it is 'kekkou kawatta'.",
+   "occurrences": [
+    {
+     "where": "S9L5",
+     "form": "kekkou kawatta yo",
+     "function": "core"
+    },
+    {
+     "where": "S11L5",
+     "form": "kekkou atta no?",
+     "function": "core"
+    },
+    {
+     "where": "S11L6",
+     "form": "kekkou atta yo",
+     "function": "core"
+    },
+    {
+     "where": "S13L1",
+     "form": "kekkou kawatta ne",
+     "function": "core"
+    }
+   ]
+  },
+  "B-kanari": {
+   "id": "B-kanari",
+   "romaji": "kanari",
+   "coreUse": true,
+   "note": "5 uses, all core, in four stories, with adjectives, verbs and amounts. It is heard next to kekkou (S11L6) and mou (S13L2).",
+   "occurrences": [
+    {
+     "where": "S7L7",
+     "form": "kinou yori kanari ii yo",
+     "function": "core"
+    },
+    {
+     "where": "S10L14",
+     "form": "mada kanari atte",
+     "function": "core"
+    },
+    {
+     "where": "S11L4",
+     "form": "kanari samukute",
+     "function": "core"
+    },
+    {
+     "where": "S11L6",
+     "form": "kanari haitta",
+     "function": "core"
+    },
+    {
+     "where": "S13L2",
+     "form": "mou kanari yatta",
+     "function": "core"
+    }
+   ]
+  },
+  "B-metcha": {
+   "id": "B-metcha",
+   "romaji": "metcha",
+   "coreUse": true,
+   "note": "3 uses, all core, and two are 'metcha samui/samukatta' in S11. The polite 'totemo' is never heard.",
+   "occurrences": [
+    {
+     "where": "S7L2",
+     "form": "metcha ame de",
+     "function": "core"
+    },
+    {
+     "where": "S11L2",
+     "form": "metcha samukatta",
+     "function": "core"
+    },
+    {
+     "where": "S11L16",
+     "form": "metcha samui kara ne",
+     "function": "core"
+    }
+   ]
+  },
+  "E-demo": {
+   "id": "E-demo",
+   "romaji": "demo",
+   "coreUse": true,
+   "note": "12 core, all sentence-initial 'but', heard in 8 stories. The file has 13 stories, not 9, and all 13 were audited. 'X demo' meaning 'even/or something' is never heard.",
+   "occurrences": [
+    {
+     "where": "S1L7",
+     "form": "demo",
+     "function": "core"
+    },
+    {
+     "where": "S3L10",
+     "form": "demo",
+     "function": "core"
+    },
+    {
+     "where": "S4L4",
+     "form": "demo",
+     "function": "core"
+    },
+    {
+     "where": "S7L7",
+     "form": "demo",
+     "function": "core"
+    },
+    {
+     "where": "S8L6",
+     "form": "a, demo",
+     "function": "core"
+    },
+    {
+     "where": "S8L11",
+     "form": "demo",
+     "function": "core"
+    },
+    {
+     "where": "S11L2",
+     "form": "demo",
+     "function": "core"
+    },
+    {
+     "where": "S11L3",
+     "form": "demo",
+     "function": "core"
+    },
+    {
+     "where": "S11L14",
+     "form": "a, demo",
+     "function": "core"
+    },
+    {
+     "where": "S11L16",
+     "form": "demo",
+     "function": "core"
+    },
+    {
+     "where": "S12L5",
+     "form": "demo",
+     "function": "core"
+    },
+    {
+     "where": "S13L15",
+     "form": "a, demo",
+     "function": "core"
+    }
+   ]
+  },
+  "E-kedo": {
+   "id": "E-kedo",
+   "romaji": "-kedo / desu kedo / -masu kedo",
+   "coreUse": true,
+   "note": "7 contrastive uses. 5 more are n da kedo / da kedo lead-ins, which overlap the F2 item. Polite contrastive kedo is heard only twice (arimasen kedo S6L9, desu kedo S12L13).",
+   "occurrences": [
+    {
+     "where": "S4L1",
+     "form": "da kedo",
+     "function": "secondary"
+    },
+    {
+     "where": "S4L2",
+     "form": "na n da kedo",
+     "function": "secondary"
+    },
+    {
+     "where": "S6L8",
+     "form": "nai n desu kedo",
+     "function": "secondary"
+    },
+    {
+     "where": "S6L9",
+     "form": "arimasen kedo",
+     "function": "core"
+    },
+    {
+     "where": "S7L2",
+     "form": "deta n da kedo",
+     "function": "core"
+    },
+    {
+     "where": "S7L4",
+     "form": "deta kedo",
+     "function": "core"
+    },
+    {
+     "where": "S7L5",
+     "form": "kaetta kedo",
+     "function": "core"
+    },
+    {
+     "where": "S8L4",
+     "form": "daijoubu da kedo",
+     "function": "core"
+    },
+    {
+     "where": "S11L15",
+     "form": "samukatta kedo",
+     "function": "core"
+    },
+    {
+     "where": "S12L1",
+     "form": "na n desu kedo",
+     "function": "secondary"
+    },
+    {
+     "where": "S12L13",
+     "form": "mou chotto desu kedo",
+     "function": "core"
+    },
+    {
+     "where": "S13L4",
+     "form": "na n da kedo",
+     "function": "secondary"
+    }
+   ]
+  },
+  "E-noni": {
+   "id": "E-noni",
+   "romaji": "-noni",
+   "coreUse": true,
+   "note": "Only 3 uses, and 2 are the same phrase 'yoyaku shitoita noni' (S11L10 and its echo in S11L11). Both stories have an intent question on it.",
+   "occurrences": [
+    {
+     "where": "S7L8",
+     "form": "motteru noni",
+     "function": "core"
+    },
+    {
+     "where": "S11L10",
+     "form": "shitoita noni",
+     "function": "core"
+    },
+    {
+     "where": "S11L11",
+     "form": "shitoita noni?",
+     "function": "core"
+    }
+   ]
+  },
+  "E-kara": {
+   "id": "E-kara",
+   "romaji": "-kara / desu kara / -masu kara",
+   "coreUse": true,
+   "note": "9 'because' uses spread over 8 stories, 5 of them sentence-final (kara / kara ne). 5 more are kara = 'from' (ima kara x3, kyou kara, asoko kara), which a learner can mishear as 'because'.",
+   "occurrences": [
+    {
+     "where": "S1L2",
+     "form": "ima kara",
+     "function": "incidental"
+    },
+    {
+     "where": "S1L7",
+     "form": "asoko kara",
+     "function": "secondary"
+    },
+    {
+     "where": "S2L3",
+     "form": "konakatta kara",
+     "function": "core"
+    },
+    {
+     "where": "S4L5",
+     "form": "tsukuttoku kara",
+     "function": "core"
+    },
+    {
+     "where": "S4L7",
+     "form": "ame da kara",
+     "function": "core"
+    },
+    {
+     "where": "S6L2",
+     "form": "kyou kara",
+     "function": "incidental"
+    },
+    {
+     "where": "S6L7",
+     "form": "imasu kara",
+     "function": "core"
+    },
+    {
+     "where": "S7L3",
+     "form": "mottenakatta kara",
+     "function": "core"
+    },
+    {
+     "where": "S9L12",
+     "form": "aru kara",
+     "function": "core"
+    },
+    {
+     "where": "S10L2",
+     "form": "kuru kara ne",
+     "function": "core"
+    },
+    {
+     "where": "S10L5",
+     "form": "arimasu kara",
+     "function": "core"
+    },
+    {
+     "where": "S11L16",
+     "form": "samui kara ne",
+     "function": "core"
+    },
+    {
+     "where": "S12L13",
+     "form": "ima kara",
+     "function": "incidental"
+    },
+    {
+     "where": "S13L15",
+     "form": "ima kara",
+     "function": "incidental"
+    }
+   ]
+  },
+  "E-node": {
+   "id": "E-node",
+   "romaji": "-node",
+   "coreUse": true,
+   "note": "Only 3 uses, all in polite speech, 2 of them in Story 12. Casual node is never heard.",
+   "occurrences": [
+    {
+     "where": "S9L15",
+     "form": "aru node",
+     "function": "core"
+    },
+    {
+     "where": "S12L4",
+     "form": "kawatta node",
+     "function": "core"
+    },
+    {
+     "where": "S12L14",
+     "form": "warukatta node",
+     "function": "core"
+    }
+   ]
+  },
+  "E-dakara": {
+   "id": "E-dakara",
+   "romaji": "dakara / nanode",
+   "coreUse": true,
+   "note": "5 core uses, 3 of them inside 'dakara ... wake da/desu', so dakara usually rides with F2 wake da. Polite nanode is never heard, and S12L7 uses dakara in polite speech.",
+   "occurrences": [
+    {
+     "where": "S2L4",
+     "form": "dakara",
+     "function": "core"
+    },
+    {
+     "where": "S7L6",
+     "form": "dakara mou",
+     "function": "core"
+    },
+    {
+     "where": "S9L9",
+     "form": "dakara",
+     "function": "core"
+    },
+    {
+     "where": "S12L7",
+     "form": "a, dakara",
+     "function": "core"
+    },
+    {
+     "where": "S13L9",
+     "form": "...dakara",
+     "function": "core"
+    }
+   ]
+  },
+  "E-datte": {
+   "id": "E-datte",
+   "romaji": "datte",
+   "coreUse": true,
+   "note": "3 excuse uses, all sentence-initial; S2L3 and S13L15 pair it with a trailing reason (kara, shi). The hearsay 'n da tte' in S8L8 sounds identical but is a different construction.",
+   "occurrences": [
+    {
+     "where": "S2L3",
+     "form": "datte",
+     "function": "core"
+    },
+    {
+     "where": "S8L8",
+     "form": "naru n da tte",
+     "function": "incidental"
+    },
+    {
+     "where": "S9L8",
+     "form": "datte",
+     "function": "core"
+    },
+    {
+     "where": "S13L15",
+     "form": "datte",
+     "function": "core"
+    }
+   ]
+  },
+  "E-shi": {
+   "id": "E-shi",
+   "romaji": "-shi / desu shi / -masu shi",
+   "coreUse": true,
+   "note": "5 trailing reason/add-on uses, all casual, including back-to-back in S3L4-L5. Polite desu shi / -masu shi is never heard.",
+   "occurrences": [
+    {
+     "where": "S3L4",
+     "form": "motteru shi",
+     "function": "core"
+    },
+    {
+     "where": "S3L5",
+     "form": "aru shi",
+     "function": "core"
+    },
+    {
+     "where": "S7L4",
+     "form": "konakatta shi",
+     "function": "core"
+    },
+    {
+     "where": "S13L13",
+     "form": "tanjoubi da shi",
+     "function": "core"
+    },
+    {
+     "where": "S13L15",
+     "form": "hairanai shi",
+     "function": "core"
+    }
+   ]
+  },
+  "E-te-and": {
+   "id": "E-te-and",
+   "romaji": "-te",
+   "coreUse": true,
+   "note": "6 core: sequence (motte deta, yatte, dete, katte) and reason (haitchatte, atte). Half are in S13L14-15. The other te-forms are requests, fixed phrases or te+kuru compounds; te-miru, teru, chau and toku forms are counted under I2.",
+   "occurrences": [
+    {
+     "where": "S2L9",
+     "form": "motte kita",
+     "function": "secondary"
+    },
+    {
+     "where": "S4L3",
+     "form": "haitchatte",
+     "function": "core"
+    },
+    {
+     "where": "S4L7",
+     "form": "ki o tsukete",
+     "function": "incidental"
+    },
+    {
+     "where": "S7L4",
+     "form": "motte deta",
+     "function": "core"
+    },
+    {
+     "where": "S9L2",
+     "form": "haitte",
+     "function": "secondary"
+    },
+    {
+     "where": "S9L16",
+     "form": "ki o tsukete",
+     "function": "incidental"
+    },
+    {
+     "where": "S10L2",
+     "form": "tabete kuru",
+     "function": "secondary"
+    },
+    {
+     "where": "S10L7",
+     "form": "ki o tsukete",
+     "function": "incidental"
+    },
+    {
+     "where": "S10L14",
+     "form": "atte",
+     "function": "core"
+    },
+    {
+     "where": "S13L14",
+     "form": "yatte",
+     "function": "core"
+    },
+    {
+     "where": "S13L15",
+     "form": "dete",
+     "function": "core"
+    },
+    {
+     "where": "S13L15",
+     "form": "katte",
+     "function": "core"
+    }
+   ]
+  },
+  "E-de-sorede": {
+   "id": "E-de-sorede",
+   "romaji": "de / sorede",
+   "coreUse": true,
+   "note": "5 sentence-initial casual 'de,' plus 1 polite sorede (S12L8). The particle de (minna de, uchi de, kore de, jibun de: about 8 times) sounds the same and is not counted.",
+   "occurrences": [
+    {
+     "where": "S5L3",
+     "form": "de,",
+     "function": "core"
+    },
+    {
+     "where": "S7L4",
+     "form": "de,",
+     "function": "core"
+    },
+    {
+     "where": "S8L13",
+     "form": "de,",
+     "function": "core"
+    },
+    {
+     "where": "S11L13",
+     "form": "de,",
+     "function": "core"
+    },
+    {
+     "where": "S12L8",
+     "form": "sorede,",
+     "function": "core"
+    },
+    {
+     "where": "S13L10",
+     "form": "de,",
+     "function": "core"
+    }
+   ]
+  },
+  "E-jaa": {
+   "id": "E-jaa",
+   "romaji": "jaa",
+   "coreUse": true,
+   "note": "23 'well then / so' uses in 12 of 13 stories (Story 4 has only 'jaa ne'), plus 8 inside the farewell 'jaa ne' (G3 item). This item is saturated.",
+   "occurrences": [
+    {
+     "where": "S1L8",
+     "form": "jaa,",
+     "function": "core"
+    },
+    {
+     "where": "S1L10",
+     "form": "jaa ne",
+     "function": "incidental"
+    },
+    {
+     "where": "S1L11",
+     "form": "jaa ne",
+     "function": "incidental"
+    },
+    {
+     "where": "S2L4",
+     "form": "jaa,",
+     "function": "core"
+    },
+    {
+     "where": "S2L10",
+     "form": "jaa,",
+     "function": "core"
+    },
+    {
+     "where": "S3L3",
+     "form": "jaa,",
+     "function": "core"
+    },
+    {
+     "where": "S4L8",
+     "form": "jaa ne",
+     "function": "incidental"
+    },
+    {
+     "where": "S5L5",
+     "form": "jaa,",
+     "function": "core"
+    },
+    {
+     "where": "S6L7",
+     "form": "jaa,",
+     "function": "core"
+    },
+    {
+     "where": "S6L13",
+     "form": "jaa,",
+     "function": "core"
+    },
+    {
+     "where": "S7L10",
+     "form": "jaa,",
+     "function": "core"
+    },
+    {
+     "where": "S8L5",
+     "form": "jaa,",
+     "function": "core"
+    },
+    {
+     "where": "S8L9",
+     "form": "jaa,",
+     "function": "core"
+    },
+    {
+     "where": "S8L16",
+     "form": "jaa ne",
+     "function": "incidental"
+    },
+    {
+     "where": "S9L13",
+     "form": "jaa,",
+     "function": "core"
+    },
+    {
+     "where": "S9L16",
+     "form": "jaa,",
+     "function": "core"
+    },
+    {
+     "where": "S9L17",
+     "form": "jaa ne",
+     "function": "incidental"
+    },
+    {
+     "where": "S10L5",
+     "form": "jaa,",
+     "function": "core"
+    },
+    {
+     "where": "S10L12",
+     "form": "jaa ne",
+     "function": "incidental"
+    },
+    {
+     "where": "S10L15",
+     "form": "jaa ne",
+     "function": "incidental"
+    },
+    {
+     "where": "S10L16",
+     "form": "jaa ne",
+     "function": "incidental"
+    },
+    {
+     "where": "S10L21",
+     "form": "jaa,",
+     "function": "core"
+    },
+    {
+     "where": "S11L11",
+     "form": "jaa,",
+     "function": "core"
+    },
+    {
+     "where": "S11L13",
+     "form": "jaa,",
+     "function": "core"
+    },
+    {
+     "where": "S11L15",
+     "form": "jaa,",
+     "function": "core"
+    },
+    {
+     "where": "S12L13",
+     "form": "jaa,",
+     "function": "core"
+    },
+    {
+     "where": "S12L15",
+     "form": "jaa,",
+     "function": "core"
+    },
+    {
+     "where": "S13L11",
+     "form": "jaa,",
+     "function": "core"
+    },
+    {
+     "where": "S13L12",
+     "form": "jaa...",
+     "function": "core"
+    },
+    {
+     "where": "S13L14",
+     "form": "jaa,",
+     "function": "core"
+    },
+    {
+     "where": "S13L16",
+     "form": "jaa,",
+     "function": "core"
+    }
+   ]
+  },
+  "E-ato": {
+   "id": "E-ato",
+   "romaji": "ato",
+   "coreUse": true,
+   "note": "4 'oh, and' uses in 3 stories, all sentence-initial 'ato,' and all spoken by Kenta. 'ato' meaning 'after/later' is never heard, so there is no ambiguity.",
+   "occurrences": [
+    {
+     "where": "S3L7",
+     "form": "ato,",
+     "function": "core"
+    },
+    {
+     "where": "S8L15",
+     "form": "ato,",
+     "function": "core"
+    },
+    {
+     "where": "S13L6",
+     "form": "ato,",
+     "function": "core"
+    },
+    {
+     "where": "S13L10",
+     "form": "ato,",
+     "function": "core"
+    }
+   ]
+  },
+  "I-ta-past": {
+   "id": "I-ta-past",
+   "romaji": "-ta / -mashita",
+   "coreUse": true,
+   "note": "Plain -ta is abundant in every story with past events. Polite -mashita is meaningful only in Story 12 (6 forms), apart from the fixed 'arigatou gozaimashita'. Negative pasts (-nakatta, -masen deshita) are marked secondary.",
+   "occurrences": [
+    {
+     "where": "S1L7",
+     "form": "kita",
+     "function": "core"
+    },
+    {
+     "where": "S2L1",
+     "form": "ita",
+     "function": "core"
+    },
+    {
+     "where": "S2L1",
+     "form": "natchatta",
+     "function": "core"
+    },
+    {
+     "where": "S2L3",
+     "form": "konakatta",
+     "function": "secondary"
+    },
+    {
+     "where": "S2L4",
+     "form": "natta",
+     "function": "core"
+    },
+    {
+     "where": "S2L5",
+     "form": "kita",
+     "function": "core"
+    },
+    {
+     "where": "S2L6",
+     "form": "matteta",
+     "function": "core"
+    },
+    {
+     "where": "S2L9",
+     "form": "motte kita",
+     "function": "core"
+    },
+    {
+     "where": "S3L2",
+     "form": "atta",
+     "function": "core"
+    },
+    {
+     "where": "S3L3",
+     "form": "atta",
+     "function": "core"
+    },
+    {
+     "where": "S3L6",
+     "form": "kita",
+     "function": "core"
+    },
+    {
+     "where": "S3L7",
+     "form": "kita",
+     "function": "core"
+    },
+    {
+     "where": "S3L9",
+     "form": "motteta",
+     "function": "core"
+    },
+    {
+     "where": "S3L10",
+     "form": "mottenakatta",
+     "function": "secondary"
+    },
+    {
+     "where": "S4L2",
+     "form": "natchatta",
+     "function": "core"
+    },
+    {
+     "where": "S5L7",
+     "form": "nonda",
+     "function": "core"
+    },
+    {
+     "where": "S7L1",
+     "form": "tsukareta",
+     "function": "core"
+    },
+    {
+     "where": "S7L2",
+     "form": "deta",
+     "function": "core"
+    },
+    {
+     "where": "S7L3",
+     "form": "mottenakatta",
+     "function": "secondary"
+    },
+    {
+     "where": "S7L3",
+     "form": "modotta",
+     "function": "core"
+    },
+    {
+     "where": "S7L4",
+     "form": "deta",
+     "function": "core"
+    },
+    {
+     "where": "S7L4",
+     "form": "konakatta",
+     "function": "secondary"
+    },
+    {
+     "where": "S7L5",
+     "form": "kaetta",
+     "function": "core"
+    },
+    {
+     "where": "S8L12",
+     "form": "kita",
+     "function": "core"
+    },
+    {
+     "where": "S9L4",
+     "form": "kawatta",
+     "function": "core"
+    },
+    {
+     "where": "S9L5",
+     "form": "kawatta",
+     "function": "core"
+    },
+    {
+     "where": "S9L8",
+     "form": "yatteta",
+     "function": "core"
+    },
+    {
+     "where": "S9L10",
+     "form": "dekita",
+     "function": "core"
+    },
+    {
+     "where": "S10L7",
+     "form": "arigatou gozaimashita",
+     "function": "incidental"
+    },
+    {
+     "where": "S10L14",
+     "form": "natchatta",
+     "function": "core"
+    },
+    {
+     "where": "S11L1",
+     "form": "modotta",
+     "function": "core"
+    },
+    {
+     "where": "S11L4",
+     "form": "haitteta",
+     "function": "core"
+    },
+    {
+     "where": "S11L5",
+     "form": "atta",
+     "function": "core"
+    },
+    {
+     "where": "S11L6",
+     "form": "atta",
+     "function": "core"
+    },
+    {
+     "where": "S11L6",
+     "form": "haitta",
+     "function": "core"
+    },
+    {
+     "where": "S11L8",
+     "form": "haitta",
+     "function": "core"
+    },
+    {
+     "where": "S11L9",
+     "form": "ita",
+     "function": "core"
+    },
+    {
+     "where": "S11L10",
+     "form": "shitoita",
+     "function": "core"
+    },
+    {
+     "where": "S11L10",
+     "form": "denakatta",
+     "function": "secondary"
+    },
+    {
+     "where": "S11L11",
+     "form": "shitoita",
+     "function": "core"
+    },
+    {
+     "where": "S11L11",
+     "form": "modotta",
+     "function": "core"
+    },
+    {
+     "where": "S11L12",
+     "form": "deta",
+     "function": "core"
+    },
+    {
+     "where": "S11L13",
+     "form": "modotta",
+     "function": "core"
+    },
+    {
+     "where": "S12L2",
+     "form": "arimashita",
+     "function": "core"
+    },
+    {
+     "where": "S12L3",
+     "form": "shita",
+     "function": "core"
+    },
+    {
+     "where": "S12L4",
+     "form": "kawatta",
+     "function": "core"
+    },
+    {
+     "where": "S12L4",
+     "form": "shimashita",
+     "function": "core"
+    },
+    {
+     "where": "S12L5",
+     "form": "kimashita",
+     "function": "core"
+    },
+    {
+     "where": "S12L5",
+     "form": "konakatta",
+     "function": "secondary"
+    },
+    {
+     "where": "S12L6",
+     "form": "kimasen deshita",
+     "function": "secondary"
+    },
+    {
+     "where": "S12L6",
+     "form": "shichaimashita",
+     "function": "core"
+    },
+    {
+     "where": "S12L7",
+     "form": "konakatta",
+     "function": "secondary"
+    },
+    {
+     "where": "S12L8",
+     "form": "shichatta",
+     "function": "core"
+    },
+    {
+     "where": "S12L8",
+     "form": "sumimasen deshita",
+     "function": "incidental"
+    },
+    {
+     "where": "S12L10",
+     "form": "kimashita",
+     "function": "core"
+    },
+    {
+     "where": "S12L11",
+     "form": "kimashita",
+     "function": "core"
+    },
+    {
+     "where": "S13L1",
+     "form": "kawatta",
+     "function": "core"
+    },
+    {
+     "where": "S13L2",
+     "form": "yatta",
+     "function": "core"
+    }
+   ]
+  },
+  "I-nai-negative": {
+   "id": "I-nai-negative",
+   "romaji": "-nai / -masen",
+   "coreUse": true,
+   "note": "Plain non-past verb negatives are heard only in Story 13 (shinai x2, hairanai). Most other negatives are past -nakatta, invitations (ikanai, konai, kaerimasen ka) or the fixed sumimasen (11 times). Core polite -masen: arimasen, mottemasen, kitemasen, kimasen deshita.",
+   "occurrences": [
+    {
+     "where": "S1L6",
+     "form": "mou nai",
+     "function": "core"
+    },
+    {
+     "where": "S2L3",
+     "form": "konakatta",
+     "function": "core"
+    },
+    {
+     "where": "S3L10",
+     "form": "mottenakatta",
+     "function": "core"
+    },
+    {
+     "where": "S4L4",
+     "form": "konai?",
+     "function": "secondary"
+    },
+    {
+     "where": "S5L1",
+     "form": "sumimasen",
+     "function": "incidental"
+    },
+    {
+     "where": "S5L7",
+     "form": "sumimasen",
+     "function": "incidental"
+    },
+    {
+     "where": "S6L8",
+     "form": "sumimasen",
+     "function": "incidental"
+    },
+    {
+     "where": "S6L8",
+     "form": "nai n desu",
+     "function": "core"
+    },
+    {
+     "where": "S6L9",
+     "form": "sumimasen",
+     "function": "incidental"
+    },
+    {
+     "where": "S6L9",
+     "form": "arimasen",
+     "function": "core"
+    },
+    {
+     "where": "S6L12",
+     "form": "kaerimasen ka",
+     "function": "secondary"
+    },
+    {
+     "where": "S7L3",
+     "form": "mottenakatta",
+     "function": "core"
+    },
+    {
+     "where": "S7L4",
+     "form": "konakatta",
+     "function": "core"
+    },
+    {
+     "where": "S8L1",
+     "form": "ikanai?",
+     "function": "secondary"
+    },
+    {
+     "where": "S9L15",
+     "form": "sumimasen",
+     "function": "incidental"
+    },
+    {
+     "where": "S10L4",
+     "form": "mottemasen",
+     "function": "core"
+    },
+    {
+     "where": "S10L6",
+     "form": "sumimasen",
+     "function": "incidental"
+    },
+    {
+     "where": "S11L8",
+     "form": "nani mo nakute",
+     "function": "secondary"
+    },
+    {
+     "where": "S11L10",
+     "form": "denakatta",
+     "function": "core"
+    },
+    {
+     "where": "S12L1",
+     "form": "sumimasen",
+     "function": "incidental"
+    },
+    {
+     "where": "S12L3",
+     "form": "sumimasen",
+     "function": "incidental"
+    },
+    {
+     "where": "S12L5",
+     "form": "konakatta",
+     "function": "core"
+    },
+    {
+     "where": "S12L6",
+     "form": "kimasen deshita",
+     "function": "core"
+    },
+    {
+     "where": "S12L7",
+     "form": "konakatta",
+     "function": "core"
+    },
+    {
+     "where": "S12L8",
+     "form": "sumimasen deshita",
+     "function": "incidental"
+    },
+    {
+     "where": "S12L11",
+     "form": "kitemasen",
+     "function": "core"
+    },
+    {
+     "where": "S12L11",
+     "form": "sumimasen",
+     "function": "incidental"
+    },
+    {
+     "where": "S13L3",
+     "form": "shinai",
+     "function": "core"
+    },
+    {
+     "where": "S13L10",
+     "form": "mada nai",
+     "function": "core"
+    },
+    {
+     "where": "S13L15",
+     "form": "shinai",
+     "function": "core"
+    },
+    {
+     "where": "S13L15",
+     "form": "hairanai",
+     "function": "core"
+    }
+   ]
+  },
+  "I-katta-datta": {
+   "id": "I-katta-datta",
+   "romaji": "-katta / -datta / -katta desu / -deshita",
+   "coreUse": true,
+   "note": "Adjective -katta is heard only in Story 11 (yokatta x4, samukatta x3) plus warukatta (S12L14). Noun datta appears in S7, S11 and S13; polite deshita in S9L3, S12L3 and S12L4. Polite '-katta desu' is never heard.",
+   "occurrences": [
+    {
+     "where": "S7L5",
+     "form": "yoru datta",
+     "function": "core"
+    },
+    {
+     "where": "S7L6",
+     "form": "kanji datta",
+     "function": "core"
+    },
+    {
+     "where": "S9L3",
+     "form": "deshita kke",
+     "function": "core"
+    },
+    {
+     "where": "S9L15",
+     "form": "gochisousama deshita",
+     "function": "incidental"
+    },
+    {
+     "where": "S11L1",
+     "form": "yokatta",
+     "function": "core"
+    },
+    {
+     "where": "S11L1",
+     "form": "samukunakatta",
+     "function": "secondary"
+    },
+    {
+     "where": "S11L2",
+     "form": "yokatta",
+     "function": "core"
+    },
+    {
+     "where": "S11L2",
+     "form": "samukatta",
+     "function": "core"
+    },
+    {
+     "where": "S11L3",
+     "form": "samukatta",
+     "function": "core"
+    },
+    {
+     "where": "S11L7",
+     "form": "yokatta",
+     "function": "core"
+    },
+    {
+     "where": "S11L13",
+     "form": "ikura datta",
+     "function": "core"
+    },
+    {
+     "where": "S11L14",
+     "form": "ikura datta kke",
+     "function": "core"
+    },
+    {
+     "where": "S11L14",
+     "form": "takakunakatta",
+     "function": "secondary"
+    },
+    {
+     "where": "S11L15",
+     "form": "takakunakatta",
+     "function": "secondary"
+    },
+    {
+     "where": "S11L15",
+     "form": "samukatta",
+     "function": "core"
+    },
+    {
+     "where": "S11L15",
+     "form": "yokatta",
+     "function": "core"
+    },
+    {
+     "where": "S12L3",
+     "form": "ja nakatta desu",
+     "function": "secondary"
+    },
+    {
+     "where": "S12L3",
+     "form": "kinou no deshita",
+     "function": "core"
+    },
+    {
+     "where": "S12L4",
+     "form": "kinou no deshita ka",
+     "function": "core"
+    },
+    {
+     "where": "S12L6",
+     "form": "kimasen deshita",
+     "function": "secondary"
+    },
+    {
+     "where": "S12L6",
+     "form": "ja nakatta desu",
+     "function": "secondary"
+    },
+    {
+     "where": "S12L8",
+     "form": "sumimasen deshita",
+     "function": "incidental"
+    },
+    {
+     "where": "S12L14",
+     "form": "warukatta",
+     "function": "core"
+    },
+    {
+     "where": "S13L9",
+     "form": "kyou datta kke",
+     "function": "core"
+    },
+    {
+     "where": "S13L13",
+     "form": "ikura datta kke",
+     "function": "core"
+    }
+   ]
+  },
+  "I-kunai-ja-nai": {
+   "id": "I-kunai-ja-nai",
+   "romaji": "-kunai / -ja nai / -kunai desu / -ja nai desu",
+   "coreUse": true,
+   "note": "Noun 'ja nai' is well heard (10 uses including past and te forms). Adjective -kunai has only one plain non-past adjective (warukunai, S2L4 and polite S12L9); the rest are past (samukunakatta, takakunakatta x2). 'ja nai' as a tag ('isn't it?') is never heard.",
+   "occurrences": [
+    {
+     "where": "S2L4",
+     "form": "warukunai",
+     "function": "core"
+    },
+    {
+     "where": "S2L6",
+     "form": "chotto ja nai",
+     "function": "core"
+    },
+    {
+     "where": "S3L4",
+     "form": "watashi no ja nai",
+     "function": "core"
+    },
+    {
+     "where": "S3L8",
+     "form": "watashi no ja nai",
+     "function": "core"
+    },
+    {
+     "where": "S3L9",
+     "form": "boku no ja nai",
+     "function": "core"
+    },
+    {
+     "where": "S7L8",
+     "form": "ame ja nai",
+     "function": "core"
+    },
+    {
+     "where": "S9L7",
+     "form": "ohayou ja nai",
+     "function": "core"
+    },
+    {
+     "where": "S11L1",
+     "form": "samukunakatta",
+     "function": "core"
+    },
+    {
+     "where": "S11L4",
+     "form": "mou chotto ja nai",
+     "function": "core"
+    },
+    {
+     "where": "S11L14",
+     "form": "takakunakatta",
+     "function": "core"
+    },
+    {
+     "where": "S11L15",
+     "form": "takakunakatta",
+     "function": "core"
+    },
+    {
+     "where": "S11L16",
+     "form": "sukoshi ja nakute",
+     "function": "core"
+    },
+    {
+     "where": "S12L3",
+     "form": "shiryou ja nakatta desu",
+     "function": "core"
+    },
+    {
+     "where": "S12L6",
+     "form": "kimura-san ni ja nakatta desu",
+     "function": "core"
+    },
+    {
+     "where": "S12L9",
+     "form": "warukunai desu",
+     "function": "core"
+    }
+   ]
+  },
+  "I-kute-de": {
+   "id": "I-kute-de",
+   "romaji": "-kute / -de",
+   "coreUse": true,
+   "note": "Thin: 3 core uses (ame de, samukute, nakute) plus ja nakute in the 'not A but B' sense. Two of the core uses are in Story 11. Na-adjective + de and adjective -kute meaning plain 'and' are barely present.",
+   "occurrences": [
+    {
+     "where": "S7L2",
+     "form": "metcha ame de",
+     "function": "core"
+    },
+    {
+     "where": "S11L4",
+     "form": "kanari samukute",
+     "function": "core"
+    },
+    {
+     "where": "S11L8",
+     "form": "nani mo nakute",
+     "function": "core"
+    },
+    {
+     "where": "S11L16",
+     "form": "sukoshi ja nakute",
+     "function": "secondary"
+    }
+   ]
+  },
+  "I-teru": {
+   "id": "I-teru",
+   "romaji": "-teru / -temasu",
+   "coreUse": true,
+   "note": "18 uses, both ongoing action (yatteru, shiteru, matteta) and state (motteru, sunderu). Dominated by motte- forms (7) and sunde- forms (3). Polite -temasu/-temasen appears 4 times.",
+   "occurrences": [
+    {
+     "where": "S1L9",
+     "form": "yatteru",
+     "function": "core"
+    },
+    {
+     "where": "S2L6",
+     "form": "matteta",
+     "function": "core"
+    },
+    {
+     "where": "S3L4",
+     "form": "motteru",
+     "function": "core"
+    },
+    {
+     "where": "S3L9",
+     "form": "motteta",
+     "function": "core"
+    },
+    {
+     "where": "S3L10",
+     "form": "mottenakatta",
+     "function": "core"
+    },
+    {
+     "where": "S4L3",
+     "form": "shiteru",
+     "function": "core"
+    },
+    {
+     "where": "S6L3",
+     "form": "sunderu",
+     "function": "core"
+    },
+    {
+     "where": "S6L4",
+     "form": "sundemasu",
+     "function": "core"
+    },
+    {
+     "where": "S6L5",
+     "form": "sunderu",
+     "function": "core"
+    },
+    {
+     "where": "S7L3",
+     "form": "mottenakatta",
+     "function": "core"
+    },
+    {
+     "where": "S7L8",
+     "form": "motteru",
+     "function": "core"
+    },
+    {
+     "where": "S9L8",
+     "form": "yatteta",
+     "function": "core"
+    },
+    {
+     "where": "S10L3",
+     "form": "mottemasu",
+     "function": "core"
+    },
+    {
+     "where": "S10L4",
+     "form": "mottemasen",
+     "function": "core"
+    },
+    {
+     "where": "S11L4",
+     "form": "haitteta",
+     "function": "core"
+    },
+    {
+     "where": "S12L11",
+     "form": "kitemasen",
+     "function": "core"
+    },
+    {
+     "where": "S13L1",
+     "form": "shiteru",
+     "function": "core"
+    },
+    {
+     "where": "S13L9",
+     "form": "shiteru",
+     "function": "core"
+    }
+   ]
+  },
+  "I-te-miru": {
+   "id": "I-te-miru",
+   "romaji": "-te miru / -te mimasu",
+   "coreUse": true,
+   "note": "5 core uses: casual miru x2, the request mite x1, polite mimasu x2. Only S11L16 (itte mite) is tested, through a respond question.",
+   "occurrences": [
+    {
+     "where": "S8L14",
+     "form": "kiite miru",
+     "function": "core"
+    },
+    {
+     "where": "S11L16",
+     "form": "itte mite",
+     "function": "core"
+    },
+    {
+     "where": "S12L10",
+     "form": "meeru shite mimasu",
+     "function": "core"
+    },
+    {
+     "where": "S12L13",
+     "form": "yatte mimasu",
+     "function": "core"
+    },
+    {
+     "where": "S13L13",
+     "form": "itte miru",
+     "function": "core"
+    }
+   ]
+  },
+  "I-chau": {
+   "id": "I-chau",
+   "romaji": "-chau / -chaimasu",
+   "coreUse": true,
+   "note": "7 uses, 6 of them past. 'natchatta' alone is 3 of the 7, and 'dame ni natchatta' is repeated verbatim (S4L2, S10L14). The 'regret/accident' sense dominates; the 'just go ahead and do it all' sense is heard only in S13L16 yatchau.",
+   "occurrences": [
+    {
+     "where": "S2L1",
+     "form": "natchatta",
+     "function": "core"
+    },
+    {
+     "where": "S4L2",
+     "form": "natchatta",
+     "function": "core"
+    },
+    {
+     "where": "S4L3",
+     "form": "haitchatte",
+     "function": "core"
+    },
+    {
+     "where": "S10L14",
+     "form": "natchatta",
+     "function": "core"
+    },
+    {
+     "where": "S12L6",
+     "form": "shichaimashita",
+     "function": "core"
+    },
+    {
+     "where": "S12L8",
+     "form": "shichatta",
+     "function": "core"
+    },
+    {
+     "where": "S13L16",
+     "form": "yatchau",
+     "function": "core"
+    }
+   ]
+  },
+  "I-toku": {
+   "id": "I-toku",
+   "romaji": "-toku / -tokimasu",
+   "coreUse": true,
+   "note": "6 core uses: in-advance (tsukuttoku, shitoku, shitoita x2), take-care-of-it (kiitoku) and leave-in-state (mottoku). Polite -tokimasu is never heard in a story line, only in question S8Q3.",
+   "occurrences": [
+    {
+     "where": "S3L10",
+     "form": "kiitoku",
+     "function": "core"
+    },
+    {
+     "where": "S3L11",
+     "form": "mottoku",
+     "function": "core"
+    },
+    {
+     "where": "S4L5",
+     "form": "tsukuttoku",
+     "function": "core"
+    },
+    {
+     "where": "S8L13",
+     "form": "shitoku",
+     "function": "core"
+    },
+    {
+     "where": "S11L10",
+     "form": "shitoita",
+     "function": "core"
+    },
+    {
+     "where": "S11L11",
+     "form": "shitoita",
+     "function": "core"
+    }
+   ]
+  },
+  "H-aru": {
+   "id": "H-aru",
+   "romaji": "aru / arimasu",
+   "occurrences": [
+    {
+     "where": "S1L6",
+     "form": "(ocha ga mou) nai",
+     "function": "core"
+    },
+    {
+     "where": "S3L2",
+     "form": "atta",
+     "function": "core"
+    },
+    {
+     "where": "S3L3",
+     "form": "atta",
+     "function": "core"
+    },
+    {
+     "where": "S3L5",
+     "form": "aru",
+     "function": "core"
+    },
+    {
+     "where": "S6L8",
+     "form": "(pen ga) nai",
+     "function": "core"
+    },
+    {
+     "where": "S6L9",
+     "form": "arimasen",
+     "function": "core"
+    },
+    {
+     "where": "S6L9",
+     "form": "arimasu",
+     "function": "core"
+    },
+    {
+     "where": "S8L15",
+     "form": "aru (nabe aru yo ne)",
+     "function": "core"
+    },
+    {
+     "where": "S8L16",
+     "form": "aru",
+     "function": "core"
+    },
+    {
+     "where": "S9L12",
+     "form": "aru",
+     "function": "core"
+    },
+    {
+     "where": "S9L15",
+     "form": "aru (shigoto ga aru node)",
+     "function": "core"
+    },
+    {
+     "where": "S10L5",
+     "form": "arimasu",
+     "function": "core"
+    },
+    {
+     "where": "S10L14",
+     "form": "atte",
+     "function": "core"
+    },
+    {
+     "where": "S11L5",
+     "form": "atta",
+     "function": "core"
+    },
+    {
+     "where": "S11L6",
+     "form": "atta",
+     "function": "core"
+    },
+    {
+     "where": "S11L8",
+     "form": "(nani mo) nakute",
+     "function": "core"
+    },
+    {
+     "where": "S12L2",
+     "form": "arimashita (nanika arimashita ka = did something happen)",
+     "function": "secondary"
+    },
+    {
+     "where": "S13L10",
+     "form": "(keeki ga mada) nai",
+     "function": "core"
+    }
+   ],
+   "coreUse": true,
+   "note": "Well covered (18) in both 'there is' and 'have' senses; 4 are bare negative nai/nakute, which a learner may not map to aru, and the stories also have about 10 copula 'ja nai/ja nakute' that are not aru."
+  },
+  "H-iru-exist": {
+   "id": "H-iru-exist",
+   "romaji": "iru / imasu",
+   "occurrences": [
+    {
+     "where": "S2L1",
+     "form": "ita (mada ita)",
+     "function": "core"
+    },
+    {
+     "where": "S6L7",
+     "form": "imasu (tonari ni imasu)",
+     "function": "core"
+    },
+    {
+     "where": "S9L2",
+     "form": "iru (heya ni iru yo)",
+     "function": "core"
+    },
+    {
+     "where": "S11L9",
+     "form": "ita (mada soko ni ita no)",
+     "function": "core"
+    }
+   ],
+   "coreUse": true,
+   "note": "Thin: only 4 uses, all people being somewhere. The 'have (people, pets)' sense and the negative inai are never heard. The -teru auxiliary is everywhere but is not this item."
+  },
+  "H-motsu": {
+   "id": "H-motsu",
+   "romaji": "motsu / mochimasu",
+   "occurrences": [
+    {
+     "where": "S2L9",
+     "form": "motte (kita) = brought",
+     "function": "secondary"
+    },
+    {
+     "where": "S3L4",
+     "form": "motteru",
+     "function": "core"
+    },
+    {
+     "where": "S3L9",
+     "form": "motteta",
+     "function": "core"
+    },
+    {
+     "where": "S3L10",
+     "form": "mottenakatta",
+     "function": "core"
+    },
+    {
+     "where": "S3L11",
+     "form": "mottoku",
+     "function": "core"
+    },
+    {
+     "where": "S7L3",
+     "form": "mottenakatta",
+     "function": "core"
+    },
+    {
+     "where": "S7L4",
+     "form": "motte (deta)",
+     "function": "core"
+    },
+    {
+     "where": "S7L8",
+     "form": "motteru",
+     "function": "core"
+    },
+    {
+     "where": "S10L3",
+     "form": "mottemasu",
+     "function": "core"
+    },
+    {
+     "where": "S10L4",
+     "form": "mottemasen",
+     "function": "core"
+    }
+   ],
+   "coreUse": true,
+   "note": "Strong (10), but every form is -te/-teru (motteru, mottemasu, mottenakatta). The dictionary form motsu and polite mochimasu are never heard. Note that 'motto' (more) in S8L11/S11L4/S11L15 is a different word."
+  },
+  "H-sumu": {
+   "id": "H-sumu",
+   "romaji": "sumu / sumimasu",
+   "occurrences": [
+    {
+     "where": "S6L3",
+     "form": "sunderu",
+     "function": "core"
+    },
+    {
+     "where": "S6L4",
+     "form": "sundemasu",
+     "function": "core"
+    },
+    {
+     "where": "S6L5",
+     "form": "sunderu",
+     "function": "core"
+    }
+   ],
+   "coreUse": true,
+   "note": "Heard only in S6, three times close together, always as the natural -teru form. The sumu/sumimasu forms never occur, and 'sumimasen' (heard about 10 times) sounds similar."
+  },
+  "H-suru": {
+   "id": "H-suru",
+   "romaji": "suru / shimasu",
+   "occurrences": [
+    {
+     "where": "S4L3",
+     "form": "shiteru (shigoto shiteru)",
+     "function": "core"
+    },
+    {
+     "where": "S5L5",
+     "form": "shimasu (onegai shimasu)",
+     "function": "incidental"
+    },
+    {
+     "where": "S5L9",
+     "form": "shimasu (onegai shimasu)",
+     "function": "incidental"
+    },
+    {
+     "where": "S6L1",
+     "form": "shimasu (yoroshiku onegai shimasu)",
+     "function": "incidental"
+    },
+    {
+     "where": "S6L2",
+     "form": "shimasu (yoroshiku onegai shimasu)",
+     "function": "incidental"
+    },
+    {
+     "where": "S6L11",
+     "form": "shimasu (shitsurei shimasu)",
+     "function": "incidental"
+    },
+    {
+     "where": "S6L11",
+     "form": "shimasu (yoroshiku onegai shimasu)",
+     "function": "incidental"
+    },
+    {
+     "where": "S6L13",
+     "form": "shimasu (onegai shimasu)",
+     "function": "incidental"
+    },
+    {
+     "where": "S8L13",
+     "form": "shitoku (kaimono shitoku)",
+     "function": "core"
+    },
+    {
+     "where": "S9L15",
+     "form": "shimasu (shitsurei shimasu)",
+     "function": "incidental"
+    },
+    {
+     "where": "S10L11",
+     "form": "shimasu (shitsurei shimasu)",
+     "function": "incidental"
+    },
+    {
+     "where": "S11L10",
+     "form": "shitoita (yoyaku shitoita)",
+     "function": "core"
+    },
+    {
+     "where": "S11L11",
+     "form": "shitoita",
+     "function": "core"
+    },
+    {
+     "where": "S12L3",
+     "form": "shita (kopii shita)",
+     "function": "core"
+    },
+    {
+     "where": "S12L4",
+     "form": "shimashita (meeru shimashita)",
+     "function": "core"
+    },
+    {
+     "where": "S12L6",
+     "form": "shichaimashita",
+     "function": "core"
+    },
+    {
+     "where": "S12L8",
+     "form": "shichatta",
+     "function": "core"
+    },
+    {
+     "where": "S12L10",
+     "form": "shite (mimasu)",
+     "function": "core"
+    },
+    {
+     "where": "S12L13",
+     "form": "shimasu (dare ga shimasu ka)",
+     "function": "core"
+    },
+    {
+     "where": "S12L14",
+     "form": "shimasu (jibun de shimasu)",
+     "function": "core"
+    },
+    {
+     "where": "S12L15",
+     "form": "shimasu (onegai shimasu)",
+     "function": "incidental"
+    },
+    {
+     "where": "S13L1",
+     "form": "shiteru (nani shiteru no)",
+     "function": "core"
+    },
+    {
+     "where": "S13L3",
+     "form": "shinai (nani mo shinai)",
+     "function": "core"
+    },
+    {
+     "where": "S13L9",
+     "form": "shiteru (souji shiteru)",
+     "function": "core"
+    },
+    {
+     "where": "S13L15",
+     "form": "shinai (souji shinai)",
+     "function": "core"
+    }
+   ],
+   "coreUse": true,
+   "note": "Strong (15 core), almost all as noun+suru (shigoto, kopii, meeru, yoyaku, souji, kaimono). The bare dictionary form suru is never heard. 11 more are frozen onegai/shitsurei shimasu."
+  },
+  "H-yaru": {
+   "id": "H-yaru",
+   "romaji": "yaru / yarimasu",
+   "occurrences": [
+    {
+     "where": "S1L9",
+     "form": "yatteru (the shop is open)",
+     "function": "secondary"
+    },
+    {
+     "where": "S8L16",
+     "form": "yaru (nabe yaru)",
+     "function": "core"
+    },
+    {
+     "where": "S9L8",
+     "form": "yatteta (geemu yatteta)",
+     "function": "core"
+    },
+    {
+     "where": "S12L13",
+     "form": "yatte (mimasu)",
+     "function": "core"
+    },
+    {
+     "where": "S13L2",
+     "form": "yatta",
+     "function": "core"
+    },
+    {
+     "where": "S13L10",
+     "form": "yaru (dore yaru)",
+     "function": "core"
+    },
+    {
+     "where": "S13L14",
+     "form": "yatte",
+     "function": "core"
+    },
+    {
+     "where": "S13L14",
+     "form": "yaru",
+     "function": "core"
+    },
+    {
+     "where": "S13L16",
+     "form": "yatchau",
+     "function": "core"
+    }
+   ],
+   "coreUse": true,
+   "note": "Good (8 core), concentrated in S13. 'yatto' (finally) in S7L5/S11L12/S11L13 sounds similar but is a different word. Polite yarimasu is never heard in a story."
+  },
+  "H-dekiru": {
+   "id": "H-dekiru",
+   "romaji": "dekiru / dekimasu",
+   "occurrences": [
+    {
+     "where": "S4L6",
+     "form": "dekiru (denwa dekiru?)",
+     "function": "core"
+    },
+    {
+     "where": "S8L10",
+     "form": "dekiru (nabe dekiru yo)",
+     "function": "core"
+    },
+    {
+     "where": "S9L10",
+     "form": "dekita (ohiru dekita = lunch is ready)",
+     "function": "core"
+    }
+   ],
+   "coreUse": true,
+   "note": "Thin: 2 'can do' uses plus 1 'be ready' (a listed sense). There is no negative dekinai and no polite dekimasu."
+  },
+  "H-naru": {
+   "id": "H-naru",
+   "romaji": "naru / narimasu",
+   "occurrences": [
+    {
+     "where": "S2L1",
+     "form": "natchatta (osoku natchatta)",
+     "function": "core"
+    },
+    {
+     "where": "S2L4",
+     "form": "natta (osoku natta)",
+     "function": "core"
+    },
+    {
+     "where": "S4L2",
+     "form": "natchatta (dame ni natchatta)",
+     "function": "core"
+    },
+    {
+     "where": "S5L8",
+     "form": "narimasu (yonhyaku en ni narimasu, shop formula)",
+     "function": "incidental"
+    },
+    {
+     "where": "S8L8",
+     "form": "naru (ame ni naru)",
+     "function": "core"
+    },
+    {
+     "where": "S10L3",
+     "form": "narimasu (ame ni narimasu)",
+     "function": "core"
+    },
+    {
+     "where": "S10L14",
+     "form": "natchatta (dame ni natchatta)",
+     "function": "core"
+    }
+   ],
+   "coreUse": true,
+   "note": "Adequate (6 core), but formulaic: osoku natta, dame ni natchatta, ame ni naru. Only once does it go with an -ku adjective (osoku)."
+  },
+  "H-kawaru": {
+   "id": "H-kawaru",
+   "romaji": "kawaru / kawarimasu",
+   "occurrences": [
+    {
+     "where": "S9L4",
+     "form": "kawatta",
+     "function": "core"
+    },
+    {
+     "where": "S9L5",
+     "form": "kawatta",
+     "function": "core"
+    },
+    {
+     "where": "S12L4",
+     "form": "kawatta",
+     "function": "core"
+    },
+    {
+     "where": "S13L1",
+     "form": "kawatta",
+     "function": "core"
+    }
+   ],
+   "coreUse": true,
+   "note": "Heard only as past kawatta (4). S4Q1 and S7Q1 ask 'nani ga kawarimashita ka', but neither S4 nor S7 contains kawaru."
+  },
+  "H-iku": {
+   "id": "H-iku",
+   "romaji": "iku / ikimasu",
+   "occurrences": [
+    {
+     "where": "S1L2",
+     "form": "iku (doko iku no)",
+     "function": "core"
+    },
+    {
+     "where": "S1L10",
+     "form": "iku",
+     "function": "core"
+    },
+    {
+     "where": "S2L10",
+     "form": "iku?",
+     "function": "core"
+    },
+    {
+     "where": "S8L1",
+     "form": "ikanai?",
+     "function": "core"
+    },
+    {
+     "where": "S8L2",
+     "form": "iku",
+     "function": "core"
+    },
+    {
+     "where": "S8L3",
+     "form": "iku?",
+     "function": "core"
+    },
+    {
+     "where": "S8L9",
+     "form": "iku (doko iku)",
+     "function": "core"
+    },
+    {
+     "where": "S11L16",
+     "form": "itte (mite)",
+     "function": "core"
+    },
+    {
+     "where": "S13L13",
+     "form": "itte (miru)",
+     "function": "core"
+    }
+   ],
+   "coreUse": true,
+   "note": "Good (9), but the past itta never occurs, and polite ikimasu is heard only in questions (S1Q2, S4Q5, S8Q5). 'ikura' (S5L3 etc.) sounds similar."
+  },
+  "H-kuru": {
+   "id": "H-kuru",
+   "romaji": "kuru / kimasu",
+   "occurrences": [
+    {
+     "where": "S1L7",
+     "form": "kita",
+     "function": "core"
+    },
+    {
+     "where": "S2L3",
+     "form": "konakatta",
+     "function": "core"
+    },
+    {
+     "where": "S2L5",
+     "form": "kita",
+     "function": "core"
+    },
+    {
+     "where": "S2L9",
+     "form": "(motte) kita = brought",
+     "function": "secondary"
+    },
+    {
+     "where": "S3L6",
+     "form": "kita",
+     "function": "core"
+    },
+    {
+     "where": "S3L7",
+     "form": "kita",
+     "function": "core"
+    },
+    {
+     "where": "S4L4",
+     "form": "konai?",
+     "function": "core"
+    },
+    {
+     "where": "S7L4",
+     "form": "konakatta",
+     "function": "core"
+    },
+    {
+     "where": "S8L10",
+     "form": "kuru?",
+     "function": "core"
+    },
+    {
+     "where": "S8L12",
+     "form": "kita",
+     "function": "core"
+    },
+    {
+     "where": "S8L14",
+     "form": "kuru",
+     "function": "core"
+    },
+    {
+     "where": "S10L2",
+     "form": "(tabete) kuru",
+     "function": "secondary"
+    },
+    {
+     "where": "S12L5",
+     "form": "kimashita",
+     "function": "core"
+    },
+    {
+     "where": "S12L5",
+     "form": "konakatta",
+     "function": "core"
+    },
+    {
+     "where": "S12L6",
+     "form": "kimasen (deshita)",
+     "function": "core"
+    },
+    {
+     "where": "S12L7",
+     "form": "konakatta",
+     "function": "core"
+    },
+    {
+     "where": "S12L10",
+     "form": "kimashita",
+     "function": "core"
+    },
+    {
+     "where": "S12L11",
+     "form": "kitemasen",
+     "function": "core"
+    },
+    {
+     "where": "S12L11",
+     "form": "kimashita",
+     "function": "core"
+    },
+    {
+     "where": "S13L4",
+     "form": "kuru",
+     "function": "core"
+    },
+    {
+     "where": "S13L7",
+     "form": "kuru",
+     "function": "core"
+    }
+   ],
+   "coreUse": true,
+   "note": "Very strong (19 core) across plain, past, negative and polite forms. The irregular ko-/ki- stems (konai, konakatta, kita) are all heard."
+  },
+  "H-kaeru-return": {
+   "id": "H-kaeru-return",
+   "romaji": "kaeru / kaerimasu",
+   "occurrences": [
+    {
+     "where": "S1L3",
+     "form": "kaeru",
+     "function": "core"
+    },
+    {
+     "where": "S1L8",
+     "form": "kaeru",
+     "function": "core"
+    },
+    {
+     "where": "S6L10",
+     "form": "kaeru (kaeru jikan)",
+     "function": "core"
+    },
+    {
+     "where": "S6L12",
+     "form": "kaerimasu",
+     "function": "core"
+    },
+    {
+     "where": "S6L12",
+     "form": "kaerimasen (ka)",
+     "function": "core"
+    },
+    {
+     "where": "S7L5",
+     "form": "kaetta",
+     "function": "core"
+    }
+   ],
+   "coreUse": true,
+   "note": "Adequate (6), always about going home. It is contrasted with modoru in S7."
+  },
+  "H-modoru": {
+   "id": "H-modoru",
+   "romaji": "modoru / modorimasu",
+   "occurrences": [
+    {
+     "where": "S7L3",
+     "form": "modotta (uchi ni modotta)",
+     "function": "core"
+    },
+    {
+     "where": "S11L1",
+     "form": "modotta",
+     "function": "core"
+    },
+    {
+     "where": "S11L11",
+     "form": "modotta",
+     "function": "core"
+    },
+    {
+     "where": "S11L13",
+     "form": "modotta",
+     "function": "core"
+    },
+    {
+     "where": "S13L15",
+     "form": "modoru",
+     "function": "core"
+    }
+   ],
+   "coreUse": true,
+   "note": "Adequate (5): 4 are past modotta, 3 of them in S11. The polite form appears only in S7Q2."
+  },
+  "H-deru": {
+   "id": "H-deru",
+   "romaji": "deru / demasu",
+   "occurrences": [
+    {
+     "where": "S7L2",
+     "form": "deta (uchi deta)",
+     "function": "core"
+    },
+    {
+     "where": "S7L4",
+     "form": "deta",
+     "function": "core"
+    },
+    {
+     "where": "S10L1",
+     "form": "deru (mou deru no)",
+     "function": "core"
+    },
+    {
+     "where": "S11L10",
+     "form": "denakatta (train didn't leave)",
+     "function": "core"
+    },
+    {
+     "where": "S11L12",
+     "form": "deta (train left)",
+     "function": "core"
+    },
+    {
+     "where": "S13L14",
+     "form": "deru (itsu deru)",
+     "function": "core"
+    },
+    {
+     "where": "S13L15",
+     "form": "dete",
+     "function": "core"
+    }
+   ],
+   "coreUse": true,
+   "note": "Good (7) for 'leave' (people and trains). The 'appear' sense and polite demasu never occur. The translations render the train deta as 'ran', which hides the leave meaning."
+  },
+  "H-hairu": {
+   "id": "H-hairu",
+   "romaji": "hairu / hairimasu",
+   "occurrences": [
+    {
+     "where": "S4L3",
+     "form": "haitchatte (work got booked in)",
+     "function": "secondary"
+    },
+    {
+     "where": "S8L11",
+     "form": "hairu (minna hairu kana = fit)",
+     "function": "core"
+    },
+    {
+     "where": "S9L2",
+     "form": "haitte (douzo, haitte)",
+     "function": "core"
+    },
+    {
+     "where": "S11L4",
+     "form": "haitteta (onsen ni haitteta)",
+     "function": "core"
+    },
+    {
+     "where": "S11L6",
+     "form": "haitta",
+     "function": "core"
+    },
+    {
+     "where": "S11L8",
+     "form": "haitta",
+     "function": "core"
+    },
+    {
+     "where": "S13L15",
+     "form": "hairanai",
+     "function": "core"
+    }
+   ],
+   "coreUse": true,
+   "note": "Good (6 core), covering enter, bathe in an onsen and fit in. The 'join' sense never occurs."
+  },
+  "J-watashi": {
+   "id": "J-watashi",
+   "romaji": "watashi",
+   "occurrences": [
+    {
+     "where": "S3L2",
+     "form": "watashi (no)",
+     "function": "core"
+    },
+    {
+     "where": "S3L4",
+     "form": "watashi (no ja nai)",
+     "function": "core"
+    },
+    {
+     "where": "S3L8",
+     "form": "watashi (no ja nai)",
+     "function": "core"
+    },
+    {
+     "where": "S6L5",
+     "form": "watashi (mo)",
+     "function": "core"
+    },
+    {
+     "where": "S6L7",
+     "form": "watashi (wa)",
+     "function": "core"
+    },
+    {
+     "where": "S6L12",
+     "form": "watashi (mo)",
+     "function": "core"
+    },
+    {
+     "where": "S8L14",
+     "form": "watashi (wa)",
+     "function": "core"
+    },
+    {
+     "where": "S12L3",
+     "form": "watashi (ga kopii shita)",
+     "function": "core"
+    },
+    {
+     "where": "S12L3",
+     "form": "watashi (ga warui)",
+     "function": "core"
+    },
+    {
+     "where": "S12L5",
+     "form": "watashi (ni wa)",
+     "function": "core"
+    },
+    {
+     "where": "S12L7",
+     "form": "watashi (ni wa)",
+     "function": "core"
+    },
+    {
+     "where": "S12L8",
+     "form": "watashi (ga warui)",
+     "function": "core"
+    },
+    {
+     "where": "S12L13",
+     "form": "watashi",
+     "function": "core"
+    },
+    {
+     "where": "S12L14",
+     "form": "watashi (ga warukatta)",
+     "function": "core"
+    }
+   ],
+   "coreUse": true,
+   "note": "Strong (14). But all three casual uses in S3 come from Sora, who says boku in S13 and is called sora-kun in S9, so the S3 'watashi vs boku' split by speaker is unreliable."
+  },
+  "J-san": {
+   "id": "J-san",
+   "romaji": "-san",
+   "occurrences": [
+    {
+     "where": "S3L9",
+     "form": "mai-san(-tachi)",
+     "function": "core"
+    },
+    {
+     "where": "S6L3",
+     "form": "kimura-san",
+     "function": "core"
+    },
+    {
+     "where": "S6L4",
+     "form": "tanaka-san",
+     "function": "core"
+    },
+    {
+     "where": "S6L7",
+     "form": "kimura-san",
+     "function": "core"
+    },
+    {
+     "where": "S6L10",
+     "form": "kimura-san",
+     "function": "core"
+    },
+    {
+     "where": "S10L3",
+     "form": "mai-san",
+     "function": "core"
+    },
+    {
+     "where": "S12L1",
+     "form": "tanaka-san",
+     "function": "core"
+    },
+    {
+     "where": "S12L5",
+     "form": "yamada-san",
+     "function": "core"
+    },
+    {
+     "where": "S12L6",
+     "form": "kimura-san",
+     "function": "core"
+    },
+    {
+     "where": "S12L7",
+     "form": "tanaka-san",
+     "function": "core"
+    },
+    {
+     "where": "S12L9",
+     "form": "tanaka-san",
+     "function": "core"
+    },
+    {
+     "where": "S12L10",
+     "form": "kimura-san",
+     "function": "core"
+    }
+   ],
+   "coreUse": true,
+   "note": "Good (12), mostly in the polite stories S6 and S12, and every question attaches -san to the characters. The competing -kun appears in S9L2 and S9L10 (sora-kun) with no explanation."
+  },
+  "J-minna": {
+   "id": "J-minna",
+   "romaji": "minna / minasan",
+   "occurrences": [
+    {
+     "where": "S3L10",
+     "form": "minna (ni kiitoku)",
+     "function": "core"
+    },
+    {
+     "where": "S6L11",
+     "form": "minasan",
+     "function": "core"
+    },
+    {
+     "where": "S8L1",
+     "form": "minna (de)",
+     "function": "core"
+    },
+    {
+     "where": "S8L10",
+     "form": "minna (de)",
+     "function": "core"
+    },
+    {
+     "where": "S8L11",
+     "form": "minna",
+     "function": "core"
+    },
+    {
+     "where": "S8L12",
+     "form": "minna",
+     "function": "core"
+    },
+    {
+     "where": "S8L14",
+     "form": "minna",
+     "function": "core"
+    },
+    {
+     "where": "S9L10",
+     "form": "minna (vocative)",
+     "function": "core"
+    },
+    {
+     "where": "S10L11",
+     "form": "minasan",
+     "function": "core"
+    },
+    {
+     "where": "S12L4",
+     "form": "minasan (ni)",
+     "function": "core"
+    },
+    {
+     "where": "S13L4",
+     "form": "minna (ga)",
+     "function": "core"
+    },
+    {
+     "where": "S13L5",
+     "form": "minna (tte, dare?)",
+     "function": "core"
+    },
+    {
+     "where": "S13L7",
+     "form": "minna",
+     "function": "core"
+    },
+    {
+     "where": "S13L15",
+     "form": "minna",
+     "function": "core"
+    }
+   ],
+   "coreUse": true,
+   "note": "Strong (14: 11 minna, 3 minasan). Two of the minasan come in the near-fixed 'minasan, otsukaresama desu' farewell (S6L11, S10L11)."
+  },
+  "J-jibun": {
+   "id": "J-jibun",
+   "romaji": "jibun",
+   "occurrences": [
+    {
+     "where": "S3L4",
+     "form": "jibun (no kagi)",
+     "function": "core"
+    },
+    {
+     "where": "S12L6",
+     "form": "jibun (ni meeru)",
+     "function": "core"
+    },
+    {
+     "where": "S12L14",
+     "form": "jibun (de shimasu)",
+     "function": "core"
+    },
+    {
+     "where": "S13L14",
+     "form": "jibun (no heya)",
+     "function": "core"
+    }
+   ],
+   "coreUse": true,
+   "note": "Only 4, but well chosen: jibun no / jibun ni / jibun de, each with a real 'own / myself' contrast. Two of them are question answers (S12Q2/Q3, S13Q2)."
+  },
+  "J-boku": {
+   "id": "J-boku",
+   "romaji": "boku",
+   "occurrences": [
+    {
+     "where": "S3L5",
+     "form": "boku (no)",
+     "function": "core"
+    },
+    {
+     "where": "S3L9",
+     "form": "boku (no ja nai)",
+     "function": "core"
+    },
+    {
+     "where": "S3L11",
+     "form": "boku (ga)",
+     "function": "core"
+    },
+    {
+     "where": "S8L13",
+     "form": "boku",
+     "function": "core"
+    },
+    {
+     "where": "S10L8",
+     "form": "boku (no tomodachi)",
+     "function": "core"
+    },
+    {
+     "where": "S13L3",
+     "form": "boku(-tachi)",
+     "function": "core"
+    },
+    {
+     "where": "S13L5",
+     "form": "boku(-tachi no uchi)",
+     "function": "core"
+    },
+    {
+     "where": "S13L11",
+     "form": "boku (ga kau)",
+     "function": "core"
+    },
+    {
+     "where": "S13L14",
+     "form": "boku (wa)",
+     "function": "core"
+    },
+    {
+     "where": "S13L15",
+     "form": "boku (no heya)",
+     "function": "core"
+    },
+    {
+     "where": "S13L15",
+     "form": "boku (no heya)",
+     "function": "core"
+    },
+    {
+     "where": "S13L16",
+     "form": "boku (ga)",
+     "function": "core"
+    }
+   ],
+   "coreUse": true,
+   "note": "Strong (12), used by Kenta throughout and by Sora in S13. Sora's switch from watashi (S3) to boku (S13) is a speaker-consistency bug."
+  },
+  "J-tachi": {
+   "id": "J-tachi",
+   "romaji": "-tachi",
+   "occurrences": [
+    {
+     "where": "S3L6",
+     "form": "mai-tachi",
+     "function": "core"
+    },
+    {
+     "where": "S3L9",
+     "form": "mai-san-tachi",
+     "function": "core"
+    },
+    {
+     "where": "S13L3",
+     "form": "boku-tachi",
+     "function": "core"
+    },
+    {
+     "where": "S13L5",
+     "form": "boku-tachi (no uchi)",
+     "function": "core"
+    }
+   ],
+   "coreUse": true,
+   "note": "Thin (4), but covers both 'X and the others' (S3) and 'we' (S13). No other pronoun takes -tachi (no watashi-tachi)."
+  },
+  "J-uchi": {
+   "id": "J-uchi",
+   "romaji": "uchi",
+   "occurrences": [
+    {
+     "where": "S1L3",
+     "form": "uchi (ni kaeru)",
+     "function": "core"
+    },
+    {
+     "where": "S1L6",
+     "form": "uchi (ni ocha ga)",
+     "function": "core"
+    },
+    {
+     "where": "S1L8",
+     "form": "uchi (ni kaeru)",
+     "function": "core"
+    },
+    {
+     "where": "S3L6",
+     "form": "uchi (ni kita)",
+     "function": "core"
+    },
+    {
+     "where": "S4L4",
+     "form": "uchi (ni konai)",
+     "function": "core"
+    },
+    {
+     "where": "S7L2",
+     "form": "uchi (deta)",
+     "function": "core"
+    },
+    {
+     "where": "S7L3",
+     "form": "uchi (ni modotta)",
+     "function": "core"
+    },
+    {
+     "where": "S7L5",
+     "form": "uchi (ni kaetta)",
+     "function": "core"
+    },
+    {
+     "where": "S8L10",
+     "form": "uchi (kuru)",
+     "function": "core"
+    },
+    {
+     "where": "S8L11",
+     "form": "(mai no) uchi",
+     "function": "core"
+    },
+    {
+     "where": "S8L15",
+     "form": "(mai no) uchi",
+     "function": "core"
+    },
+    {
+     "where": "S8L16",
+     "form": "uchi (de)",
+     "function": "core"
+    },
+    {
+     "where": "S10L5",
+     "form": "uchi (ni mada arimasu)",
+     "function": "core"
+    },
+    {
+     "where": "S10L17",
+     "form": "uchi (de taberu)",
+     "function": "core"
+    },
+    {
+     "where": "S13L4",
+     "form": "uchi (ni kuru)",
+     "function": "core"
+    },
+    {
+     "where": "S13L5",
+     "form": "(boku-tachi no) uchi",
+     "function": "core"
+    }
+   ],
+   "coreUse": true,
+   "note": "Very strong (16) for 'home, someone's place'. The 'our (family / company)' sense, e.g. uchi no kaisha, is never heard."
+  }
+ },
+ "chunks": [
+  {
+   "chunk": "G1",
+   "contrastHeard": "Yes, very strongly in S3L4-L11: uun (L4), un (L7), uun (L9), iya (L10), un (L11), all three members within 8 lines. Also uun then un in S1 (L4, L9). Polite hai and iie are heard together in S12 (hai L2/L5/L8, iie L9/L12/L14). Polite iie is never placed next to casual iya.",
+   "questionsTargeting": [
+    "S3Q5",
+    "S12Q5",
+    "S4Q5",
+    "S8Q5",
+    "S11Q5"
+   ],
+   "verdict": "un is heard 15 times casually and uun 3 times, with S3 a model contrast. Casual iya is heard only once in all 13 stories (S3L10), and 4 of the 5 polite iie push back or brush off thanks rather than simply say 'no'. Only S3Q5 forces a 'no' answer; the other listed questions are yes/no invitations whose model answers open with un/iie or gomen."
+  },
+  {
+   "chunk": "G2",
+   "contrastHeard": "Yes. In S5 the whole set appears in one exchange: sumimasen (L1, L7), onegai shimasu (L5, L9), then arigatou gozaimasu + douzo (L10) and arigatou gozaimasu (L11), with onegai, douzo and arigatou in back-to-back lines. S10L5-L7 puts douzo, sumimasen as 'thanks', then iie kochira koso + arigatou gozaimashita side by side. S12L11-12: sumimasen ('thanks') answered by kochira koso. S6L8-9: arigatou gozaimasu, sumimasen ('excuse me'), sumimasen ('sorry'). Casual gomen and polite sumimasen never meet in one exchange.",
+   "questionsTargeting": [
+    "S10Q4",
+    "S2Q5",
+    "S5Q5",
+    "S6Q5",
+    "S9Q5",
+    "S12Q5"
+   ],
+   "verdict": "Strong: every item is heard 4-10 times in its core use, sumimasen in all three senses and kochira koso in both senses. Only S10Q4 asks directly about a G2 item; the other questions only call for G2 phrases in their model answers."
+  },
+  {
+   "chunk": "G3",
+   "contrastHeard": "Yes. S9L1 konnichiwa, then S9L6 ohayou, then S9L7 'ohayou ja nai yo. mou hiru da yo' is an explicit ohayou vs time-of-day contrast. S10 runs the whole day: ohayou (L1-4), konnichiwa + hajimemashite + yoroshiku (L9-10), polite shitsurei shimasu (L11) right before casual jaa ne (L12), and moshimoshi (L13-14). S6L1-2 pairs hajimemashite with yoroshiku onegai shimasu.",
+   "questionsTargeting": [
+    "S10Q5"
+   ],
+   "verdict": "Every item is heard in its core use, and S9 and S10 give clear register and time contrasts; konnichiwa, hajimemashite and moshimoshi are heard only 3 times each. Only one question (S10Q5, meeting Sora) tests the chunk."
+  },
+  {
+   "chunk": "G13",
+   "contrastHeard": "Yes. Before and after a meal: S10L18 itadakimasu, then S10L20 gochisousama; S9L11/L13 itadakimasu, then S9L15 gochisousama deshita. Casual and polite pairs are adjacent: S9L1-2 (ohisashiburi desu / hisashiburi), S10L11-12 (otsukaresama desu / otsukare), S10L21-22 (oyasumi / oyasumi nasai). The meal phrases, oyasumi and otsukare cluster in S10.",
+   "questionsTargeting": [
+    "S7Q5"
+   ],
+   "verdict": "All six are heard in their core use 2-5 times, with good before/after and casual/polite pairs, though oyasumi is used as a real goodnight only once (S10L21-22) and 'ki o tsukete kudasai' is never heard. Only S7Q5 (replying to itadakimasu) tests the chunk."
+  },
+  {
+   "chunk": "J1 this/that: things",
+   "contrastHeard": "Yes, often. In S3L1-L8, kore, sore, are and dore all come within 8 lines while the speakers sort out who owns what, with asoko and kono mixed in. S5L1-L6 runs sore, dore, kore, are, with the customer and staff on opposite sides of the counter. S2L7-L8 pairs kore (handing it over) with sore (the reply). S13L10-L13 has dore twice, then are twice.",
+   "questionsTargeting": [
+    "S5Q2",
+    "S5Q5"
+   ],
+   "verdict": "Strong. All four items have at least 4 core uses, and 'which one?' is answered with a this/that word in the next line several times (S3, S5, S13). The weak spot is testing: only S5Q2 asks about a J1 word, and S5Q5 only uses sore in its model answer. (The file holds 13 stories, not 9; all 13 were audited.)"
+  },
+  {
+   "chunk": "J4 this/that + noun",
+   "contrastHeard": "Yes for kono, sono and ano. Kenta holds the key and says 'kono kagi' (S3L3, S3L11), Sora calls the same key 'sono kagi' (S3L6), and 'ano kaban' follows in S3L7 and S3L9. In S5L5-L6 the customer's 'sono keeki' becomes the staff's 'kono keeki', the same item seen from each side. dono is never next to kono, sono or ano in one exchange: S11L7-8 'dono onsen' is followed by 'sono onsen' only at S11L13, and S9L3 has no partner.",
+   "questionsTargeting": [
+    "S3Q5",
+    "S3Q2"
+   ],
+   "verdict": "Good for kono and sono, with two clean speaker-versus-listener flips. ano is thin (3 uses, 2 of them the same bag) and dono is thin and never contrasted (3 uses, one an echo). No question asks about a J4 word directly. S3Q5 reuses 'kono kasa' in its prompt, and S3Q2 only indirectly depends on S3L6 'sono kagi'."
+  },
+  {
+   "chunk": "J3 this/that: places",
+   "contrastHeard": "koko and asoko are well contrasted. In S6L9 'koko ni wa arimasen kedo, asoko no tsukue ni arimasu' sets them in one sentence (with koko also in S6L7). S3L2-L8 runs doko, asoko, koko, asoko, and S1L2-L7 runs doko, asoko, asoko. soko is never near asoko or koko: in S9 it is 6 lines after koko (L4 then L10), and in S11 5 lines after (L3 then L8-9).",
+   "questionsTargeting": [
+    "S1Q2",
+    "S1Q5",
+    "S6Q2",
+    "S6Q3",
+    "S13Q2"
+   ],
+   "verdict": "koko, asoko and doko are well trained and tested; S6Q3's answer depends on telling koko from asoko, and S13Q2's on S13L14 'koko yatte'. soko is the gap: only 3 uses, the 'near you' sense once (S9L10), never set against asoko, and no question tests it. The polite 'dochira' is heard once (S6L3)."
+  },
+  {
+   "chunk": "J2 Question words",
+   "contrastHeard": "Yes. S13 covers almost the whole set: nani (L1), nande (L3, L7, L8), dare (L5, L8, L9), ikura (L13) and itsu (L14), with dore (L10-11) right after dare (L8-9), the cross-chunk dare/dore pair. The look-alikes nani and nande sit 2 lines apart (S13L1 and S13L3). S11L7-L13 has dono, itsu and ikura, and S8L2-L9 has itsu, nande and doko.",
+   "questionsTargeting": [
+    "S3Q2",
+    "S3Q5",
+    "S12Q2",
+    "S12Q3",
+    "S2Q3",
+    "S7Q3",
+    "S1Q3",
+    "S4Q2",
+    "S5Q3",
+    "S7Q2",
+    "S8Q2",
+    "S9Q3",
+    "S10Q2",
+    "S10Q3",
+    "S2Q2",
+    "S3Q3",
+    "S4Q3",
+    "S5Q5",
+    "S8Q1",
+    "S8Q3",
+    "S9Q2",
+    "S13Q2",
+    "S13Q3"
+   ],
+   "verdict": "All five items have core uses, and S13 contrasts them well. But nani asks 'what' in only 3 story lines (3 more are nani mo or nanika), the polite 'donata' is never heard and 'doushite' only once, and no question tests ikura. The list above leaves out the gist and intent questions that use nani or nan only as a generic frame."
+  },
+  {
+   "chunk": "F1",
+   "contrastHeard": "Yes. In S3L6-L7, 'mai no da yo ... kita yo ne' is followed by 'kita ne': yo, yo ne and ne in back-to-back lines. S2L6 has 'matteta yo. chotto ja nai yo ne.' S8L12 has 'daijoubu da yo ... kita yo ne?'. In polite speech, S5L8 has 'daijoubu desu yo. keeki dake desu ne.' and S5L2-L3 has 'desu ka? ... desu yo ... desu ka. ii desu ne ... desu ka?'. Casual ka is never heard as a question, so it is never contrasted with no?.",
+   "questionsTargeting": [
+    "S1Q4",
+    "S5Q4",
+    "S8Q4"
+   ],
+   "verdict": "Trained well: yo (47), core ne (17), yo ne (7) and da/desu (35 core) are dense and contrasted line to line, and yo, desu ne and yo ne each get an intent question. The weak spots are that question ka is only polite, more than half of the ne heard are softeners or set phrases (jaa ne, gomen ne), and bare casual 'X da.' is never heard. (The file has 13 stories, not 9; all 13 were audited.)"
+  },
+  {
+   "chunk": "F2",
+   "contrastHeard": "Yes. S13 has all four close together: L1 'shiteru no?', L4 'na n da kedo... kuru n da', L7 'kuru no?', L9 'wake da', L10 'nai n da'. S12 has the polite set (L1 n desu kedo, L3/L5/L8 n desu, L7-L8 wake desu ne, L15 n desu ka). In S9L8-L9 'yatteta n da yo' leads straight into 'asa na wake da', the explanation and then its conclusion.",
+   "questionsTargeting": [
+    "S4Q4",
+    "S6Q4",
+    "S9Q4",
+    "S12Q4",
+    "S1Q5"
+   ],
+   "verdict": "Trained well: n da (16 core) and no? (20) are frequent in both registers, and n da kedo (4) and wake da (4) are each tested twice. The risks are that 7 of the 20 no? are 'ii no?/ii n desu ka?', possessive 'dare no?/kenta no?' sound the same, and every wake da follows dakara/sorede."
+  },
+  {
+   "chunk": "F3",
+   "contrastHeard": "Yes. S11 has all four within 11 lines: L5 'ii naa', L8 'dono onsen kana ... ii tte kanji', L14 'ikura datta kke', L15 'yokatta tte kanji?'. S3 has kana (L5), kke (L9) and naa (L10) within 6 lines. S13 has kke (L9), naa (L12) and kke (L13).",
+   "questionsTargeting": [
+    "S3Q4"
+   ],
+   "verdict": "All four are heard in their core use (naa 4, kana 5, kke 5, tte kanji 3), and S11 and S3 put them side by side. Practice is thin: only kke has a question, naa/kana/tte kanji are never tested, and the polite forms (desu nee, deshou ka, tte kanji desu) are absent."
+  },
+  {
+   "chunk": "D1",
+   "contrastHeard": "Yes. S2L2-L4 has 'ii yo, ii yo. daijoubu.' then 'warukunai yo'. S10L14 has 'dame ni natchatta. ashita, daijoubu?' in one line. S12L9-L15 has 'warukunai desu yo', then 'sore wa dame desu yo. ... warukatta', then 'ii n desu ka?'. S5 has 'ii' = nice (L3) against 'ii' = no thanks (L7).",
+   "questionsTargeting": [
+    "S4Q2",
+    "S4Q5",
+    "S5Q3",
+    "S8Q2",
+    "S10Q3",
+    "S12Q3",
+    "S12Q5",
+    "S13Q5"
+   ],
+   "verdict": "ii (22 core) and daijoubu (8) are trained well, and all four are contrasted. dame (4, two of them 'dame ni natchatta') and warui (5, four in S12, 'at fault' only) are thin, and the polite refusal 'daijoubu desu' ('no thanks') is never heard. More dame/warui spread across other stories would help, but this alone is no reason to rewrite."
+  },
+  {
+   "chunk": "A1",
+   "contrastHeard": "Yes, as pairs. kyou/ashita in S1L7-L9 ('kyou wa yasumi ... ashita wa yatteru'), S6L11, S8L3-L5 and S10L14. kinou/kyou in S7L7 ('kyou wa, kinou yori') and S11L8-L12. ima with kyou in S1L7, with ashita and mada in S4L3, and with mou and kyou in S7L9. No single story has all four words.",
+   "questionsTargeting": [
+    "S1Q5",
+    "S3Q3",
+    "S4Q1",
+    "S4Q2",
+    "S4Q3",
+    "S4Q5",
+    "S7Q1",
+    "S7Q2",
+    "S7Q3",
+    "S8Q1",
+    "S8Q2",
+    "S9Q2",
+    "S10Q3",
+    "S13Q1"
+   ],
+   "verdict": "Strong. All four words are heard often and almost always in their core sense (ima 7, kyou 23, ashita 13, kinou 10), with repeated today/tomorrow and yesterday/today contrasts and many questions that depend on them. No rewrite needed."
+  },
+  {
+   "chunk": "A2",
+   "contrastHeard": "Yes. S9L7 'mou hiru da yo' and S9L9 'mada asa na wake da' are two lines apart: the clearest mou/mada pair. S7L5 puts yatto and mou together, S2L6 has 'mou zutto', and S4L3 has 'ima mo mada'. But S9L12 'mada aru kara, mou sukoshi' puts mada next to the 'more' sense of mou, which could confuse a learner.",
+   "questionsTargeting": [
+    "S2Q3",
+    "S2Q5",
+    "S7Q3",
+    "S9Q4",
+    "S9Q5"
+   ],
+   "verdict": "Good overall: mou has 10 core uses, mada 10 (both 'still' and 'not yet'), zutto 4, yatto 3. Weak spots: 'not anymore' mou is heard only once, and no question asks the learner to tell mou from mada. Only S2Q3 and S7Q3 really depend on these words."
+  },
+  {
+   "chunk": "B1",
+   "contrastHeard": "Yes, and very clearly in S11L3-L4: 'sukoshi samui ... mou chotto samukatta dake?' then 'mou chotto ja nai yo! motto da yo, motto!'. S9L12-L13 pairs 'mou sukoshi' (mother, polite) with 'mou chotto dake' (Sora). S9L4-L5 sets chotto against kekkou, and S2L6 sets chotto against zutto. Plain chotto and plain sukoshi never appear near each other.",
+   "questionsTargeting": [
+    "S2Q5",
+    "S9Q5",
+    "S11Q2",
+    "S11Q3",
+    "S11Q5"
+   ],
+   "verdict": "Adequate, but most of it rests on Story 11. chotto (6 core) and mou chotto (3 core) are fine. motto has only 4 uses in two stories, and sukoshi has just 2 core uses, both in S11. sukoshi needs more uses in other stories."
+  },
+  {
+   "chunk": "B2",
+   "contrastHeard": "Yes. Story 11 has all five in one conversation: 'sugoku yokatta ... metcha samukatta' (L2), kanari (L4, L6), 'kekkou atta yo. kanari haitta.' (L6), honto ni (L13), sugoku (L15), metcha (L16). Elsewhere, S13L1-L2 has kekkou then kanari, and S9L5 sets kekkou against chotto.",
+   "questionsTargeting": [
+    "S11Q2",
+    "S11Q3",
+    "S11Q5"
+   ],
+   "verdict": "Well trained in Story 11: sugoku, kekkou, kanari and metcha are all used in their core sense. Gaps: sugoku and metcha appear only once each outside S11, the polite 'totemo' is never heard, and honto ni works as an intensifier only 6 times out of 11, 4 of them in the apology phrase 'honto ni gomen'."
+  },
+  {
+   "chunk": "E1",
+   "contrastHeard": "Yes, twice. S7L2-L8 has kedo (L2, L4, L5), then demo (L7), then noni (L8). S11L10-L16 has noni (L10, L11), demo (L14, L16) and kedo (L15). Polite contrast: S6L9 arimasen kedo and S12L5 demo / S12L13 desu kedo.",
+   "questionsTargeting": [
+    "S7Q4",
+    "S11Q4"
+   ],
+   "verdict": "Strong for demo (12) and kedo (7 contrastive). noni is adequate (3 uses, 2 intent questions) but repeats one phrase. 5 of 12 kedo are n da kedo lead-ins: S4Q4 and S6Q4 test that F2 use, not kedo = 'but'."
+  },
+  {
+   "chunk": "E2",
+   "contrastHeard": "Yes. S9L8-L15: datte (L8), dakara (L9), kara (L12), node (L15), with casual kara and polite node 3 lines apart. S2L3-L4: datte...kara, then dakara. S7L3-L6: kara, shi, dakara. S13L13-L15: shi, then datte...shi. Casual kara and polite node are never contrasted within one speaker's register.",
+   "questionsTargeting": [
+    "S2Q4",
+    "S7Q2",
+    "S9Q3",
+    "S10Q2",
+    "S13Q5"
+   ],
+   "verdict": "kara is well trained (9 'because' uses, but 5 'from' homophones). dakara, datte and shi are adequate (3-5 each); node is thin (3, polite only). Only datte has an intent question; shi, node and dakara are never targeted (dakara only sits inside the wake-da questions S9Q4/S12Q4). Polite nanode and desu shi are never heard."
+  },
+  {
+   "chunk": "E3",
+   "contrastHeard": "Yes. S11L13 has jaa and de in one line. S13L10-L16 has de + ato (L10), jaa (L11, L12, L14, L16) and the te-chain yatte/dete/katte (L14-L15). S8L13-L16 has de, ato, jaa ne. S7L4 has de + motte deta.",
+   "questionsTargeting": [
+    "S13Q4",
+    "S13Q2",
+    "S4Q2",
+    "S10Q3"
+   ],
+   "verdict": "jaa is saturated (23 core). de/sorede (6) and ato (4) are adequate, with ato tested once. te as 'and then' rests mostly on S13L14-L15 plus 2 reason uses (haitchatte, atte). No question targets de."
+  },
+  {
+   "chunk": "I1",
+   "contrastHeard": "Yes, concentrated. S12L3 has 'ja nakatta desu. kinou no deshita.' side by side. S11L1 has yokatta / samukunakatta; S11L14-L15 has takakunakatta / samukatta / yokatta; S11L4 has samukute + ja nai. Present vs past negative: S13 shinai vs S7/S12 konakatta. Story 11 is the hub for katta/kunai/kute.",
+   "questionsTargeting": [
+    "S5Q3",
+    "S7Q2",
+    "S7Q3",
+    "S9Q2",
+    "S10Q2",
+    "S11Q2",
+    "S11Q3",
+    "S12Q2",
+    "S13Q3"
+   ],
+   "verdict": "-ta and ja nai are well trained. Plain non-past verb -nai is core only in Story 13 (3 uses) and is otherwise mostly past or invitation forms. Adjective -katta/-kunai lean almost entirely on Story 11, and kute/de is thin (3 core). No intent question targets any I1 form; only detail questions hinge on them."
+  },
+  {
+   "chunk": "I2",
+   "contrastHeard": "Yes. S3L9-L11 contrasts the same verb: motteta / mottenakatta / kiitoku / mottoku (teru vs toku). S4L2-L5 has natchatta, haitchatte, shiteru, tsukuttoku in 4 lines. S12L6-L13 has shichaimashita, shichatta, shite mimasu, kitemasen, yatte mimasu. S13L13-L16 has itte miru and yatchau.",
+   "questionsTargeting": [
+    "S8Q3",
+    "S3Q3",
+    "S6Q2",
+    "S9Q2",
+    "S11Q5",
+    "S7Q2",
+    "S10Q2",
+    "S4Q1",
+    "S4Q2",
+    "S12Q2"
+   ],
+   "verdict": "Well trained overall: teru 18, chau 7, toku 6, te-miru 5, with good same-verb contrasts. Weak spots: chau is 6/7 past and its non-regret sense is heard once; polite -tokimasu is never heard; no question probes chau's nuance (S8Q3 is the only direct form question, on toku)."
+  },
+  {
+   "chunk": "H1",
+   "contrastHeard": "Yes. aru vs iru: S6L7 imasu (people) then S6L8–L9 nai / arimasen / arimasu (pens), and S11L5–L6 atta (onsen) then S11L9 ita (person). aru vs motsu for 'have': S3L4 motteru next to S3L5 aru, and S10L3–L5 mottemasu / mottemasen / uchi ni mada arimasu. sumu vs iru: S6L3–L7 sunderu ×3, then imasu.",
+   "questionsTargeting": [
+    "S1Q3",
+    "S2Q2",
+    "S3Q2",
+    "S6Q2",
+    "S6Q3",
+    "S6Q4",
+    "S7Q2",
+    "S9Q3",
+    "S9Q5",
+    "S10Q2",
+    "S10Q3",
+    "S11Q3",
+    "S13Q2"
+   ],
+   "verdict": "aru (18) and motsu (10) are well trained, with good have/there-is contrasts. iru is thin (4, never 'have people/pets', and no question tests it), and sumu lives entirely in S6. motsu is never heard as motsu/mochimasu."
+  },
+  {
+   "chunk": "H2",
+   "contrastHeard": "suru vs yaru for the same activity sit side by side: S13L1 'nani shiteru no' / S13L2 'mou kanari yatta', S13L9–L16 (souji shiteru, dore yaru, yatte, shinai, yatchau), and S12L13 'dare ga shimasu ka … yatte mimasu' in one line. naru and dekiru are 2 lines apart in S8L8/S8L10. naru vs kawaru (become vs change) are never near each other.",
+   "questionsTargeting": [
+    "S4Q1",
+    "S4Q2",
+    "S4Q3",
+    "S7Q1",
+    "S8Q1",
+    "S8Q2",
+    "S8Q3",
+    "S8Q5",
+    "S9Q2",
+    "S10Q3",
+    "S12Q3",
+    "S13Q2",
+    "S13Q3",
+    "S13Q5"
+   ],
+   "verdict": "suru (15 core, plus 11 frozen onegai/shitsurei shimasu) and yaru (8 core), with a good S13 contrast, are strong. naru is adequate but formulaic. dekiru (3) and kawaru (4, past kawatta only, untested; S4Q1/S7Q1 ask about kawaru in stories that lack it) are thin."
+  },
+  {
+   "chunk": "H3",
+   "contrastHeard": "Yes. kaeru vs modoru: S7L3 'uchi ni modotta' and S7L5 'uchi ni kaetta', 2 lines apart. iku/kuru: S1L2–L10 (iku, kita, kaeru, iku) and S8L1–L14 (ikanai, iku ×3, kuru, kita, kuru). deru / modoru / hairu in one line at S13L15 ('dete … modoru … hairanai'). deru and modoru recur together in S11L10–L13.",
+   "questionsTargeting": [
+    "S1Q1",
+    "S1Q2",
+    "S1Q3",
+    "S1Q5",
+    "S2Q2",
+    "S2Q3",
+    "S3Q2",
+    "S4Q2",
+    "S4Q5",
+    "S6Q1",
+    "S6Q5",
+    "S7Q2",
+    "S7Q3",
+    "S8Q5",
+    "S9Q3",
+    "S11Q1",
+    "S11Q3",
+    "S11Q5",
+    "S12Q2",
+    "S13Q1",
+    "S13Q5"
+   ],
+   "verdict": "Well trained overall. kuru (19 core) is excellent, and kaeru, modoru, deru and hairu get 5–7 uses each with real contrasts. Gaps: iku never in the past (itta) or polite (ikimasu) in a story line; deru 'appear' and hairu 'join' absent; deru tested only via the S11 gist."
+  },
+  {
+   "chunk": "J5",
+   "contrastHeard": "Yes. watashi vs jibun in the same line: S3L4 'watashi no ja nai yo. jibun no kagi, motteru shi' and S12L14 'watashi ga warukatta node, kopii wa jibun de shimasu'; also S12L6–L7 jibun ni / watashi ni wa. minna vs minasan contrast only across stories (casual S3/S8/S13 vs polite S6/S10/S12). -san vs bare name sit adjacent: S3L6 'mai-tachi' / S3L9 'mai-san-tachi'.",
+   "questionsTargeting": [
+    "S3Q3",
+    "S3Q5",
+    "S6Q2",
+    "S8Q1",
+    "S8Q5",
+    "S12Q1",
+    "S12Q2",
+    "S12Q3",
+    "S12Q5",
+    "S13Q1",
+    "S13Q2"
+   ],
+   "verdict": "Strong for watashi (14), -san (12) and minna (14), and jibun (4) is few but sharply contrasted with watashi. Weak points: Sora's casual watashi in S3 contradicts his boku in S13, and the unexplained -kun in S9."
+  },
+  {
+   "chunk": "J14",
+   "contrastHeard": "Yes. boku vs watashi in one exchange: S3 has Kenta saying boku (L5, L9, L11) against Sora saying watashi (L2, L4, L8), but S13 has Sora saying boku, so the contrast is muddied. boku-tachi / minna / uchi are packed into S13L3–L5 ('boku-tachi … minna ga uchi ni kuru … boku-tachi no uchi ni? minna tte, dare?').",
+   "questionsTargeting": [
+    "S1Q3",
+    "S1Q5",
+    "S3Q2",
+    "S3Q5",
+    "S4Q5",
+    "S7Q2",
+    "S7Q3",
+    "S8Q1",
+    "S8Q5",
+    "S10Q2",
+    "S10Q5",
+    "S13Q1",
+    "S13Q3",
+    "S13Q5"
+   ],
+   "verdict": "boku (12) and uchi (16) are strongly trained, though uchi only means 'home' and its 'our (family / company)' sense never appears. -tachi is thin (4) but well placed. Fix Sora's watashi in S3, or make Sora consistently one gender, so the watashi/boku speaker contrast holds."
+  }
+ ]
+}
