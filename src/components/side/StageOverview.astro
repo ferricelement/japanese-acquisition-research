@@ -1,0 +1,20 @@
+---
+import StarlightPage from '@astrojs/starlight/components/StarlightPage.astro';
+import ChunkList from '../ChunkList.astro';
+import { url } from '../../lib/data';
+
+// A side list's stage page (collocations, idioms): what the stage covers, then its chunks in order.
+interface Props { course: any; n: number; title: string; unit: string }
+const { course, n, title, unit } = Astro.props;
+const stage = course.data.stages[n - 1];
+const blocks = course.stageBlocks(n);
+---
+
+<StarlightPage frontmatter={{ title: `${title}: ${stage.name}`, description: stage.summary, tableOfContents: false }}>
+	<p class="vl-lead">{stage.summary}</p>
+	<p class="vl-count">
+		{stage.items} {unit} in {blocks.length} chunks, learned alongside <a href={url(`stages/${n}/`)}>{stage.name}</a> of
+		the main list. Start with <a href={course.chunkUrl(blocks[0])}>{blocks[0].label}</a> and use Next at the bottom of each page.
+	</p>
+	<ChunkList blocks={blocks} showCategory start={1} hrefOf={course.chunkUrl} chipOf={(b) => course.topicOf(b).name} />
+</StarlightPage>

@@ -1,0 +1,16 @@
+---
+import ChunkPage from '../../../components/side/ChunkPage.astro';
+import Idiom from '../../../components/Idiom.astro';
+import { idiomCourse } from '../../../lib/idioms';
+
+export function getStaticPaths() {
+	return idiomCourse.data.stages.flatMap((s, si) =>
+		s.chunkIds.map((id, ci) => ({
+			params: { stage: String(si + 1), chunk: idiomCourse.chunkSlug(idiomCourse.blockById(id)) },
+			props: { id, pos: ci + 1, of: s.chunkIds.length },
+		})),
+	);
+}
+---
+
+<ChunkPage course={idiomCourse} {...Astro.props} title="Idioms" Item={Idiom} />

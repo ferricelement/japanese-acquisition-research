@@ -1,7 +1,9 @@
 ---
 import StarlightPage from '@astrojs/starlight/components/StarlightPage.astro';
 import ChunkList from '../../../components/ChunkList.astro';
-import { chunkUrl, data, stageBlocks } from '../../../lib/data';
+import { chunkUrl, data, stageBlocks, url } from '../../../lib/data';
+import { coll, collChunkUrl, collStageBlocks, collTopicOf } from '../../../lib/collocations';
+import { idiomCourse, idioms } from '../../../lib/idioms';
 
 export function getStaticPaths() {
 	return data.stages.map((_, i) => ({ params: { stage: String(i + 1) }, props: { n: i + 1 } }));
@@ -10,6 +12,8 @@ export function getStaticPaths() {
 const { n } = Astro.props;
 const stage = data.stages[n - 1];
 const blocks = stageBlocks(n);
+const collBlocks = n <= coll.stages.length ? collStageBlocks(n) : [];
+const idiomBlocks = n <= idioms.stages.length ? idiomCourse.stageBlocks(n) : [];
 ---
 
 <StarlightPage frontmatter={{ title: stage.name, description: stage.summary, tableOfContents: false }}>
@@ -19,4 +23,24 @@ const blocks = stageBlocks(n);
 		first, <a href={chunkUrl(blocks[0])}>{blocks[0].label}</a>, and use Next at the bottom of each page.
 	</p>
 	<ChunkList blocks={blocks} showCategory start={1} />
+	{collBlocks.length > 0 && (
+		<>
+			<h2 id="collocations">Collocations</h2>
+			<p class="vl-count">
+				Noun and verb sets to learn alongside this stage:{' '}
+				<a href={url(`collocations/${n}/`)}>{coll.stages[n - 1].items} sets in {collBlocks.length} chunks</a>.
+			</p>
+			<ChunkList blocks={collBlocks} showCategory hrefOf={collChunkUrl} chipOf={(b) => collTopicOf(b).name} />
+		</>
+	)}
+	{idiomBlocks.length > 0 && (
+		<>
+			<h2 id="idioms">Idioms</h2>
+			<p class="vl-count">
+				Idioms to learn alongside this stage:{' '}
+				<a href={url(`idioms/${n}/`)}>{idioms.stages[n - 1].items} idioms in {idiomBlocks.length} chunks</a>.
+			</p>
+			<ChunkList blocks={idiomBlocks} showCategory hrefOf={idiomCourse.chunkUrl} chipOf={(b) => idiomCourse.topicOf(b).name} />
+		</>
+	)}
 </StarlightPage>

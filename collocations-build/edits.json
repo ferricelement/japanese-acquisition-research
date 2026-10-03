@@ -1,0 +1,96 @@
+{
+ "base": {
+  "add": [
+   {
+    "block": "weather-2",
+    "after": "c-tenki-ga-ii",
+    "item": {
+     "slug": "kaze-ga-fuku",
+     "id": "c-kaze-ga-fuku",
+     "romaji": "kaze ga fuku",
+     "polite": "kaze ga fukimasu",
+     "ja": "風が吹く",
+     "kana": "かぜがふく",
+     "politeJa": "風が吹きます",
+     "english": "the wind blows",
+     "use": "Mostly heard as kaze fuiteru with a describing word: ii kaze fuiteru (there's a nice breeze), tsumetai kaze fuiteru (a cold wind's blowing). For 'it's windy', people say kaze ga tsuyoi.",
+     "noun": "kaze",
+     "nounJa": "風",
+     "particle": "ga",
+     "verb": "fuku",
+     "verbJa": "吹く",
+     "verbSense": "blow (wind; also blowing air from your mouth)",
+     "englishVerb": "blow",
+     "trap": "kaze is both 'wind' and 'a cold', and only the verb tells you which: kaze ga fuku is the wind blowing, kaze o hiku is catching a cold.",
+     "partners": [],
+     "flags": [],
+     "contrastGroup": "kaze-hiku-utsuru",
+     "example": {
+      "romaji": "ii kaze fuiteru ne.",
+      "ja": "いい風吹いてるね。",
+      "english": "There's a nice breeze."
+     },
+     "examplePolite": {
+      "romaji": "ii kaze ga fuitemasu ne.",
+      "ja": "いい風が吹いてますね。",
+      "english": "There's a nice breeze."
+     },
+     "nounRank": 1532,
+     "verbRank": 2962,
+     "freqNote": "Kana ふく is dominated by 服 and 拭く, so the kanji 吹く is used.",
+     "commonness": 3,
+     "trapRisk": 3,
+     "speakNeed": 2,
+     "listLinks": [
+      "I-teru"
+     ],
+     "alsoIn": [
+      "10-list-nouns #88",
+      "vocab-trainer utility-vocab: weather-terms"
+     ],
+     "notes": "kaze ga yamu = the wind dies down."
+    }
+   }
+  ],
+  "set": [
+   [
+    "c-kaze-ga-tsuyoi",
+    "notes",
+    "kaze ga dete kita = the wind's picking up. For no wind at all people say kaze ga nai."
+   ]
+  ],
+  "why": "kaze ga fuku was cut in review as guessable; restored because the learner asked for it by name ('wind blows') and the wind/cold homophone is a real listening trap."
+ },
+ "final": {
+  "set": [],
+  "drop": [],
+  "restore": [
+   [
+    "megane o hazusu",
+    "clothes-2",
+    "megane o kakeru"
+   ],
+   [
+    "shiai ni makeru",
+    "hobbies-3",
+    "shiai ni katsu"
+   ],
+   [
+    "mise ga shimaru",
+    "time-money-4",
+    "mise ga aku"
+   ],
+   [
+    "denki ga tsuku",
+    "home-4",
+    "denki o tsukeru"
+   ],
+   [
+    "kagi ga kakaru",
+    "home-1",
+    "kagi o kakeru"
+   ]
+  ],
+  "why": "restore: the other half of opposite or ga/o pairs whose partner was kept; all five judged common (4/5) but rare in foreign-film subtitles."
+ }
+}

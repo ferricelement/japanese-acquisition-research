@@ -1,0 +1,50 @@
+---
+import StarlightPage from '@astrojs/starlight/components/StarlightPage.astro';
+import JaText from '../../components/JaText.astro';
+import { idiomCourse, idioms } from '../../lib/idioms';
+
+const SECTIONS = [
+	{ key: 'maybe', title: 'Maybe', blurb: 'Strong idioms that only just missed.' },
+	{ key: 'covered', title: 'Already covered', blurb: 'An idiom in the list says the same thing.' },
+	{ key: 'less-common', title: 'Less common', blurb: 'Real idioms, but said less often than the ones kept.' },
+	{ key: 'bookish', title: 'Bookish', blurb: 'Mostly written, formal or literary; rare in conversation.' },
+	{ key: 'literal', title: 'Literal', blurb: 'Means what the words say, so it belongs with the collocations.' },
+	{ key: 'single-word', title: 'Single words', blurb: 'One word, not an idiom.' },
+	{ key: 'narrow', title: 'Narrow', blurb: 'Only useful in one situation.' },
+	{ key: '', title: 'Other', blurb: 'Dropped in review.' },
+];
+const topicName = (key?: string) => idiomCourse.topics.find((t) => t.key === key)?.name ?? '';
+const sections = SECTIONS
+	.map((s) => ({ ...s, rows: idioms.cuts.filter((x) => (x.verdict ?? '') === s.key) }))
+	.filter((s) => s.rows.length);
+const headings = sections.map((s) => ({ depth: 2, slug: s.key || 'dropped', text: `${s.title} (${s.rows.length})` }));
+---
+
+<StarlightPage frontmatter={{ title: 'Idiom cuts', next: false, description: 'Idiom candidates that did not make the list, with the reason for each.' }} headings={headings}>
+	<p class="vl-lead">{idioms.cuts.length} candidates didn’t make the list. Each has a reason, so you can ask for any of them back.</p>
+	<p class="vl-count">Within each group, the most frequent in the subtitle corpus come first; × is how many times it was heard.</p>
+	{sections.map((s) => (
+		<>
+			<h2 id={s.key || 'dropped'}>{s.title} ({s.rows.length})</h2>
+			<p>{s.blurb}</p>
+			<ul class="vl-cuts not-content" role="list" data-pagefind-weight="0.2">
+				{s.rows.map((r) => (
+					<li class="vl-cut">
+						<span class="vl-main"><span class="vl-ro" translate="no">{r.romaji}</span></span>
+						<span class="vl-en">{r.english ?? ''}</span>
+						<span class="vl-meta"><span class="vl-rank">{r.count ? `${r.count}×` : '—'}</span></span>
+						<span class="vl-why">
+							<JaText text={[
+								topicName(r.cat) && `${topicName(r.cat)}.`,
+								r.literal && `Literally “${r.literal}”.`,
+								r.coveredBy && `Covered by ${r.coveredBy}.`,
+								r.reason,
+								r.votes ? `${r.votes} of 3 judges kept it.` : null,
+							].filter(Boolean).join(' ')} />
+						</span>
+					</li>
+				))}
+			</ul>
+		</>
+	))}
+</StarlightPage>

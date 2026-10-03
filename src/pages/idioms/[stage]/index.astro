@@ -1,0 +1,10 @@
+---
+import StageOverview from '../../../components/side/StageOverview.astro';
+import { idiomCourse } from '../../../lib/idioms';
+
+export function getStaticPaths() {
+	return idiomCourse.data.stages.map((_, i) => ({ params: { stage: String(i + 1) }, props: { n: i + 1 } }));
+}
+---
+
+<StageOverview course={idiomCourse} n={Astro.props.n} title="Idioms" unit="idioms" />

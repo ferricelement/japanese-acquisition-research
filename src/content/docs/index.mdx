@@ -18,6 +18,8 @@ hero:
 
 import { CardGrid, LinkCard } from '@astrojs/starlight/components';
 import { categories, data, url as siteUrl } from '../../lib/data';
+import { coll } from '../../lib/collocations';
+import { idioms } from '../../lib/idioms';
 
 {data.stats.total} items in {data.stats.chunks} chunks of 3 to 6, ordered into four stages. Each chunk is a short page; work through a stage in order with **Next** at the bottom of each page. Each stage mixes every category, so each one adds new kinds of things you can say.
 
@@ -27,6 +29,18 @@ import { categories, data, url as siteUrl } from '../../lib/data';
 	{data.stages.map((s, i) => (
 		<LinkCard title={`${s.name} · ${s.items} items`} description={s.summary} href={siteUrl(`stages/${i + 1}/`)} />
 	))}
+</CardGrid>
+
+## Collocations
+
+<CardGrid>
+	<LinkCard title={`Collocations · ${coll.stats.total} sets`} description="The noun and verb sets Japanese speakers use together all the time, like rain falls (ame ga furu) and open the door (doa o akeru), chosen by how common and typical they are. Four stages, learned alongside the ones above." href={siteUrl('collocations/')} />
+</CardGrid>
+
+## Idioms
+
+<CardGrid>
+	<LinkCard title={`Idioms · ${idioms.stats.total} idioms`} description="The Japanese idioms people say most, like atama ni kuru (I'm furious) and saba o yomu (fudge the numbers), plus the sayings and four-character phrases heard in everyday talk. Four stages, learned alongside the ones above." href={siteUrl('idioms/')} />
 </CardGrid>
 
 ## Categories

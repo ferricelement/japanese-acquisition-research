@@ -1,0 +1,29 @@
+---
+import StarlightPage from '@astrojs/starlight/components/StarlightPage.astro';
+import CollRows from '../../components/CollRows.astro';
+import { byVerb } from '../../lib/collocations';
+
+const shared = byVerb.filter((g) => g.items.length > 1);
+const single = byVerb.filter((g) => g.items.length === 1).flatMap((g) => g.items).sort((a, b) => a.verb.localeCompare(b.verb));
+const headings = [
+	...shared.map((g) => ({ depth: 2, slug: `v-${g.key}`, text: `${g.key} (${g.items.length})` })),
+	...(single.length ? [{ depth: 2, slug: 'one-noun', text: `One noun each (${single.length})` }] : []),
+];
+---
+
+<StarlightPage frontmatter={{ title: 'By verb', prev: false, description: 'Each Japanese verb or adjective in the collocation list with the nouns it pairs with.' }} headings={headings}>
+	<p class="vl-lead">One verb, many partners. Learning them side by side shows what the verb really means.</p>
+	<p class="vl-count">Grouped by sound, so words that sound the same but are written differently share a group.</p>
+	{shared.map((g) => (
+		<>
+			<h2 id={`v-${g.key}`}><span translate="no">{g.key}</span> <span lang="ja">{g.ja}</span></h2>
+			<CollRows items={g.items} />
+		</>
+	))}
+	{single.length > 0 && (
+		<>
+			<h2 id="one-noun">One noun each</h2>
+			<CollRows items={single} />
+		</>
+	)}
+</StarlightPage>

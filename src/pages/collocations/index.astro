@@ -1,0 +1,61 @@
+---
+import StarlightPage from '@astrojs/starlight/components/StarlightPage.astro';
+import { CardGrid, LinkCard } from '@astrojs/starlight/components';
+import ChunkList from '../../components/ChunkList.astro';
+import { url } from '../../lib/data';
+import { byEnglish, byVerb, coll, collChunkUrl, collTopics } from '../../lib/collocations';
+
+const headings = [
+	{ depth: 2, slug: 'stages', text: 'Stages' },
+	{ depth: 2, slug: 'browse', text: 'Browse' },
+	{ depth: 2, slug: 'topics', text: 'Topics' },
+	...collTopics.map((t) => ({ depth: 3, slug: t.key, text: t.name })),
+	{ depth: 2, slug: 'reading-an-entry', text: 'Reading an entry' },
+];
+const shared = byVerb.filter((g) => g.items.length > 1).length;
+const traps = byEnglish.filter((g) => g.items.length > 1).length;
+---
+
+{/* The collocation course is separate from the main list's; it starts here rather than continuing from it. */}
+<StarlightPage frontmatter={{ title: 'Collocations', description: 'The noun and verb sets Japanese speakers use together all the time, chosen by how common and typical they are.', prev: false }} headings={headings}>
+	<p class="vl-lead">
+		The noun and verb sets Japanese speakers use together all the time: rain falls (<i translate="no">ame ga furu</i>),
+		open the door (<i translate="no">doa o akeru</i>), catch a cold (<i translate="no">kaze o hiku</i>).
+	</p>
+	<p class="vl-count">
+		{coll.stats.total} sets in {coll.stats.chunks} chunks, chosen by how often they’re said and how typical the pairing is,
+		and ordered into four stages that run alongside the main list’s stages. Each chunk is a short page; use Next at the
+		bottom of each page.
+	</p>
+
+	<h2 id="stages">Stages</h2>
+	<CardGrid>
+		{coll.stages.map((s, i) => (
+			<LinkCard title={`${s.name} · ${s.items} collocations`} description={s.summary} href={url(`collocations/${i + 1}/`)} />
+		))}
+	</CardGrid>
+
+	<h2 id="browse">Browse</h2>
+	<CardGrid>
+		<LinkCard title="By verb" description={`Each Japanese verb with the nouns it pairs with. ${shared} verbs pair with more than one noun.`} href={url('collocations/verbs/')} />
+		<LinkCard title="By English word" description={`The English word you’d reach for, and the Japanese verb each noun really takes. ${traps} English words split into several.`} href={url('collocations/english/')} />
+		<LinkCard title="Cuts" description={`${coll.cuts.length} candidates that didn’t make the list, with the reason for each.`} href={url('collocations/cuts/')} />
+	</CardGrid>
+
+	<h2 id="topics">Topics</h2>
+	{collTopics.map((t) => (
+		<>
+			<h3 id={t.key}>{t.name}</h3>
+			<ChunkList blocks={t.blocks} showCategory hrefOf={collChunkUrl} chipOf={(b) => `Stage ${b.stage}`} />
+		</>
+	))}
+
+	<h2 id="reading-an-entry">Reading an entry</h2>
+	<ul>
+		<li><b>The headword</b> is the plain form of the whole set (<i translate="no">ame ga furu</i>); <i>polite</i> is its desu/masu form. The examples use the form people actually say, often without <i translate="no">ga</i> or <i translate="no">o</i> (<i translate="no">ame futteru</i>).</li>
+		<li><b>194×</b> is how many times the set was heard in 3.17 million lines of Japanese film and TV subtitles. A dash means it was too rare in films to count; those sets, mostly Japanese daily life the films don’t show, were chosen on a native speaker’s judgement.</li>
+		<li><b>Typical 52% of ame</b> means that of everything said with <i translate="no">ame</i>, 52% goes with this verb. The higher it is, the more the two words belong together.</li>
+		<li><b>Verb</b> or <b>adjective</b> shows the partner on its own and what it means. <b>Trap</b>, when there is one, is the mistake English leads you to.</li>
+		<li><b>Main list</b> links the versatility-list words the set builds on, with the stage they’re taught in.</li>
+	</ul>
+</StarlightPage>

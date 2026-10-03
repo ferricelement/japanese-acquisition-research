@@ -124,3 +124,81 @@ cd versatility-build && python3 merge.py
 ```bash
 curl -L -o versatility-build/jiten_freq_Drama.csv "https://api.jiten.moe/api/frequency-list/download?mediaType=Drama&downloadType=csv"
 ```
+
+---
+
+## Round 4 — collocations (2026-10-03)
+
+- `21-list-collocations.json` — 405 noun + verb (or noun + adjective) sets that Japanese speakers use together:
+  ame ga furu, kaze ga fuku, doa o akeru, hon o yomu, te o arau, kaze o hiku, the wearing verbs, se ga takai.
+  13 topics, 94 chunks, 4 stages of ~100 that run alongside the versatility list's stages (Stage N collocations
+  are learned during Stage N). Same shape as the versatility list: casual headword, polite form beside it,
+  casual and polite examples. Extra fields: the parts (`noun`, `particle`, `verb` + `verbSense`), `measured`
+  (corpus counts), `trap` (the mistake English leads you to, or null), `englishVerb`, `partners`, `listLinks`.
+- **Selected on commonness and typicality**, at the learner's direction: guessable sets belong if people say them
+  all the time; a trap is a note, never a reason to keep or cut.
+- **Measured** in OpenSubtitles 2018 Japanese (3.17M subtitle lines, via OPUS), tokenized with fugashi + unidic-lite:
+  every noun + particle + verb/adjective pair counted on dictionary forms (particle dropped or not), plus
+  adjective + noun. `measured.count` = occurrences; `measured.shareN` = typicality (the share of everything said
+  with the noun that goes to this verb). 357 of 405 have counts. The corpus is mostly subtitles for foreign films,
+  so it over-counts plot lines (keisatsu o yobu) and under-counts Japanese daily life (kasa o sasu, warikan);
+  native judgement corrects for that, and the site says which sets rest on judgement.
+- Built in four workflow runs: the first list (595 candidates by topic and gap hunts); a corpus mining pass
+  (the 1,848 most frequent typical pairs sorted into collocation / idiom / grammar / suru verb / free / film /
+  artifact: 520 new sets, 175 idioms saved); a re-selection on commonness (208 sets); and an expansion to 405
+  (a second gap hunt found 319 more candidates, 200 added). Every new entry was reviewed four ways (native
+  naturalness, whether each trap is really a mistake, meaning and register, romaji and data). Hand edits:
+  kaze ga fuku restored (the learner asked for "wind blows"), and five split pairs given back their other half
+  (megane o hazusu, shiai ni makeru, mise ga shimaru, denki ga tsuku, kagi ga kakaru) — see `edits.json`.
+- `cuts` lists every candidate left out with a verdict (maybe / covered / less-common / narrow / film /
+  not-a-collocation / idiom), a reason and its count.
+- On the site: `/collocations/` (overview, by topic), `/collocations/<n>/<chunk>/`, By verb, By English word, Cuts.
+  Each main-list stage page links its stage's collocations.
+
+### Rebuilding the collocations
+
+`collocations-build/` holds the workflow outputs (`result.json`, `reselect.json`, `expand.json`), the candidate
+tables, hand edits (`edits.json`), the workflow scripts (`*.js`, for reference) and the counting tools. The corpus
+and the tokenizer are downloaded, not committed:
+
+```bash
+cd collocations-build
+curl -L -o corpus/ja.txt.gz https://object.pouta.csc.fi/OPUS-OpenSubtitles/v2018/mono/ja.txt.gz
+python3 -m venv .venv && .venv/bin/pip install fugashi==1.5.2 unidic-lite==1.0.8
+.venv/bin/python count.py      # corpus/pairs.tsv: every noun + verb pair, ~10 s
+python3 merge.py               # ../21-list-collocations.json
+```
+
+`count_cli.py pair <noun> <verb>` and `count_cli.py phrase <forms...>` count a single set; `measure.py` is the
+shared lookup (it matches the tokenizer's readings and the written forms, since it reads 家 as ie and 開く as hiraku).
+
+---
+
+## Round 5 — idioms (2026-10-03)
+
+- `22-list-idioms.json` — 365 Japanese idioms in their own right: kanyouku (te o kasu, atama ni kuru, ki ga au,
+  kao ga hiroi, saba o yomu, goma o suru) plus the sayings (saru mo ki kara ochiru) and four-character phrases
+  (isseki nichou, jigou jitoku) that people really say. Chosen on how commonly they are said in Japanese — whether
+  English has an equivalent plays no part. 7 topics by meaning, 86 chunks, 4 stages of ~90 alongside the main stages.
+- Fields as in the other lists, plus `literal` (word for word), `english` (what it means) and `englishIdiom`
+  (a close English idiom, only as a note, when a natural one exists). Flags include `saying` and `four-character`.
+- Measured in the same subtitle corpus: noun + verb idioms by their pair (any inflection, particle or none) when the
+  written forms account for at least half of it, otherwise by their written forms (`measure_idioms.py`); 354 of 365
+  have counts.
+- Built in three workflow runs: a harvest by source with gap hunts (758 candidates); a wider gap hunt (sayings,
+  four-character phrases, idioms without body parts, everyday situations, the corpus: 1,479 more), a three-judge
+  selection on commonness (~260), writing, four reviews per topic and chunking; and a vetting run, because the
+  fix step had added 169 idioms nobody selected — three judges voted (113 kept), the kept ones were reviewed four
+  ways, and every topic was re-chunked and the course re-ordered.
+- `cuts` lists every candidate left out with a verdict (maybe / covered / less-common / bookish / literal /
+  single-word / narrow) and a reason.
+- On the site: `/idioms/` (overview, by topic), `/idioms/<n>/<chunk>/`, Cuts. Each main-list stage page links its
+  stage's idioms.
+
+### Rebuilding the idioms
+
+```bash
+cd idioms-build
+python3 measure_idioms.py   # harvest.json -> candidates.json / .tsv with corpus counts (needs the corpus above)
+python3 merge.py            # result.json + vet.json -> ../22-list-idioms.json
+```

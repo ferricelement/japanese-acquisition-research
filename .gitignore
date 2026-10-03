@@ -8,3 +8,7 @@ versatility-build/artifact.html
 node_modules/
 dist/
 .astro/
+
+# Collocation counting: the subtitle corpus and the tokenizer venv are downloaded, not committed.
+collocations-build/corpus/
+collocations-build/.venv/

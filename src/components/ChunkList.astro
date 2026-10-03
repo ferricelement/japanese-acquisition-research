@@ -1,19 +1,27 @@
 ---
-import { categoryByName, chunkUrl, type Block } from '../lib/data';
+import { categoryByName, chunkUrl } from '../lib/data';
 
-interface Props { blocks: Block[]; showCategory?: boolean; start?: number }
-const { blocks, showCategory, start } = Astro.props;
+type Row = { label: string; category: string; items: { romaji: string }[] };
+// Defaults suit the versatility list; collocation pages pass their own link and chip.
+interface Props {
+	blocks: Row[];
+	showCategory?: boolean;
+	start?: number;
+	hrefOf?: (b: any) => string;
+	chipOf?: (b: any) => string;
+}
+const { blocks, showCategory, start, hrefOf = chunkUrl, chipOf = (b: Row) => categoryByName(b.category).name } = Astro.props;
 ---
 
 <ol class:list={['vl-chunklist not-content', { numbered: start != null }]} start={start} role="list">
 	{blocks.map((b, i) => (
 		<li>
-			<a href={chunkUrl(b)}>
+			<a href={hrefOf(b)}>
 				{start != null && <span class="vl-cl-n">{start + i}</span>}
 				<span class="vl-cl-text">
 					<span class="vl-cl-label">{b.label}</span>
 					<span class="vl-cl-items" translate="no" data-pagefind-ignore>{b.items.map((it) => it.romaji).join(', ')}</span>
-					{showCategory && <span class="vl-chip">{categoryByName(b.category).name}</span>}
+					{showCategory && <span class="vl-chip">{chipOf(b)}</span>}
 				</span>
 			</a>
 		</li>

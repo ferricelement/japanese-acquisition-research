@@ -12,21 +12,30 @@ export const catSlug = (/** @type {string} */ key) => CAT_SLUGS[/** @type {keyof
 /** Root-relative path (no base) of a chunk page. */
 export const chunkPath = (/** @type {number} */ stage, /** @type {string} */ slug) => `/stages/${stage}/${slug}/`;
 
+/** Topic of a collocation or idiom chunk id, e.g. 'time-money-2' -> 'time-money'. */
+export const collDomainOf = (/** @type {string} */ id) => id.replace(/-\d+$/, '');
+
+/** Root-relative path (no base) of a chunk page in a side list, e.g. sectionChunkPath('idioms', 1, 'anger'). */
+export const sectionChunkPath = (/** @type {string} */ section, /** @type {number} */ stage, /** @type {string} */ slug) =>
+	`/${section}/${stage}/${slug}/`;
+
 export const slugify = (/** @type {string} */ s) =>
 	s.toLowerCase().replace(/&/g, ' ').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 
 /**
  * URL slug per chunk id: its label, plus the category slug when two chunks share a label.
+ * Collocation chunk ids are "<domain>-<n>", so their suffix is the domain.
  * @param {{ id: string, label: string }[]} blocks
+ * @param {(id: string) => string} [catOf]
  * @returns {Record<string, string>}
  */
-export function chunkSlugs(blocks) {
+export function chunkSlugs(blocks, catOf = (id) => catSlug(id[0])) {
 	const counts = {};
 	for (const b of blocks) counts[slugify(b.label)] = (counts[slugify(b.label)] ?? 0) + 1;
 	const out = {};
 	for (const b of blocks) {
 		const s = slugify(b.label);
-		out[b.id] = counts[s] > 1 ? `${s}-${catSlug(b.id[0])}` : s;
+		out[b.id] = counts[s] > 1 ? `${s}-${catOf(b.id)}` : s;
 	}
 	if (new Set(Object.values(out)).size !== blocks.length) throw new Error('chunk slugs are not unique');
 	return out;

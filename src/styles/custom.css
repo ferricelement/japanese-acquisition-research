@@ -123,3 +123,14 @@ a.vl-chip:hover { text-decoration: underline; }
 @media (max-width: 40rem) {
 	.vl-cut { grid-template-columns: minmax(0, 1fr) auto; grid-template-areas: 'main meta' 'en en' 'why why'; }
 }
+
+/* Collocation entries: the verb or adjective partner with its own meaning, then the trap to avoid. */
+.vl-parts { display: flex; flex-wrap: wrap; align-items: baseline; gap: 0.2rem 0.5rem; color: var(--sl-color-gray-2); }
+.vl-parts b { color: var(--sl-color-white); }
+.vl-sense { color: var(--sl-color-gray-3); }
+.vl-typical { color: var(--sl-color-gray-3); font-variant-numeric: tabular-nums; }
+.vl-trap {
+	max-width: 70ch; color: var(--vl-flag); background: var(--vl-flag-bg);
+	padding: 0.45rem 0.75rem; border-radius: 0.4rem;
+}
+.vl-trap .vl-tag { color: inherit; }

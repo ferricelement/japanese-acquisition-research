@@ -1,0 +1,484 @@
+G-un | un | hai | yeah, uh-huh | Stage 1 | Responses, reactions, fillers & social phrases
+G-uun | uun | iie | no, nope | Stage 1 | Responses, reactions, fillers & social phrases
+G-iya | iya | iie | no, nah / well, no | Stage 1 | Responses, reactions, fillers & social phrases
+G-arigatou | arigatou | arigatou gozaimasu | thanks | Stage 1 | Responses, reactions, fillers & social phrases
+G-gomen | gomen | sumimasen | sorry | Stage 1 | Responses, reactions, fillers & social phrases
+G-sumimasen | sumimasen | - | excuse me / sorry / thanks | Stage 1 | Responses, reactions, fillers & social phrases
+G-onegai | onegai | onegai shimasu | please (I'm asking) | Stage 1 | Responses, reactions, fillers & social phrases
+G-douzo | douzo | - | go ahead, here you go | Stage 1 | Responses, reactions, fillers & social phrases
+G-kochira-koso | kochira koso | - | likewise; no, thank YOU | Stage 1 | Responses, reactions, fillers & social phrases
+J-kore | kore | - | this (one) | Stage 1 | Pointing, question & people words
+J-sore | sore | - | that (one); what you said | Stage 1 | Pointing, question & people words
+J-are | are | - | that (over there / we know) | Stage 1 | Pointing, question & people words
+J-dore | dore | - | which one (of several) | Stage 1 | Pointing, question & people words
+F-da | da | desu | is (plain copula) | Stage 1 | Sentence endings & intent
+F-ka | ka | desu ka / -masu ka | question marker | Stage 1 | Sentence endings & intent
+F-ne | ne | desu ne / -masu ne | right? / isn't it | Stage 1 | Sentence endings & intent
+F-yo | yo | desu yo / -masu yo | you know (new info for you) | Stage 1 | Sentence endings & intent
+F-yo-ne | yo ne | desu yo ne | right? (we both know) | Stage 1 | Sentence endings & intent
+D-ii | ii | ii desu | good, fine, OK | Stage 1 | Versatile adjectives
+D-daijoubu | daijoubu | daijoubu desu | okay, fine, all right | Stage 1 | Versatile adjectives
+D-dame | dame | dame desu | no good, not allowed | Stage 1 | Versatile adjectives
+D-warui | warui | warui desu | bad, at fault | Stage 1 | Versatile adjectives
+J-nani | nani | - | what | Stage 1 | Pointing, question & people words
+J-dare | dare | donata | who | Stage 1 | Pointing, question & people words
+J-itsu | itsu | - | when | Stage 1 | Pointing, question & people words
+J-nande | nande | doushite | why | Stage 1 | Pointing, question & people words
+J-ikura | ikura | - | how much (price) | Stage 1 | Pointing, question & people words
+G-ohayou | ohayou | ohayou gozaimasu | good morning | Stage 1 | Responses, reactions, fillers & social phrases
+G-konnichiwa | konnichiwa | - | hello, good afternoon | Stage 1 | Responses, reactions, fillers & social phrases
+G-jaa-ne | jaa ne | shitsurei shimasu | bye, see you | Stage 1 | Responses, reactions, fillers & social phrases
+G-hajimemashite | hajimemashite | - | nice to meet you (opener) | Stage 1 | Responses, reactions, fillers & social phrases
+G-yoroshiku | yoroshiku | yoroshiku onegai shimasu | glad to know you; thanks ahead | Stage 1 | Responses, reactions, fillers & social phrases
+G-moshimoshi | moshimoshi | - | hello? (on the phone) | Stage 1 | Responses, reactions, fillers & social phrases
+G-itadakimasu | itadakimasu | - | thanks for the food (before) | Stage 1 | Responses, reactions, fillers & social phrases
+G-gochisousama | gochisousama | gochisousama deshita | thanks for the meal (after) | Stage 1 | Responses, reactions, fillers & social phrases
+G-oyasumi | oyasumi | oyasumi nasai | good night | Stage 1 | Responses, reactions, fillers & social phrases
+G-otsukare | otsukare | otsukaresama desu | good work, thanks | Stage 1 | Responses, reactions, fillers & social phrases
+G-hisashiburi | hisashiburi | ohisashiburi desu | long time no see | Stage 1 | Responses, reactions, fillers & social phrases
+G-ki-o-tsukete | ki o tsukete | ki o tsukete kudasai | take care, be careful | Stage 1 | Responses, reactions, fillers & social phrases
+A-ima | ima | - | now | Stage 1 | Time & sequence
+A-kyou | kyou | - | today | Stage 1 | Time & sequence
+A-ashita | ashita | - | tomorrow | Stage 1 | Time & sequence
+A-kinou | kinou | - | yesterday | Stage 1 | Time & sequence
+J-koko | koko | - | here; this point | Stage 1 | Pointing, question & people words
+J-doko | doko | dochira | where; which part | Stage 1 | Pointing, question & people words
+J-soko | soko | - | there (near you); that point | Stage 1 | Pointing, question & people words
+J-asoko | asoko | - | over there; that place | Stage 1 | Pointing, question & people words
+E-demo | demo | - | but; even so | Stage 1 | Connectors & conditionals
+E-kedo | -kedo | desu kedo / -masu kedo | but; although | Stage 1 | Connectors & conditionals
+E-noni | -noni | - | even though; and yet | Stage 1 | Connectors & conditionals
+E-kara | -kara | desu kara / -masu kara | because; so | Stage 1 | Connectors & conditionals
+E-node | -node | - | since; so (softer) | Stage 1 | Connectors & conditionals
+E-dakara | dakara | nanode | so; that's why | Stage 1 | Connectors & conditionals
+E-datte | datte | demo ... n desu yo | because; but (excuse) | Stage 1 | Connectors & conditionals
+E-shi | -shi | desu shi / -masu shi | and what's more; since ... and all | Stage 1 | Connectors & conditionals
+E-te-and | -te | - | and (then); so | Stage 1 | Connectors & conditionals
+E-de-sorede | de | sorede | so; and then | Stage 1 | Connectors & conditionals
+E-jaa | jaa | - | well then; so | Stage 1 | Connectors & conditionals
+E-ato | ato | - | oh, and; also | Stage 1 | Connectors & conditionals
+I-ta-past | -ta | -mashita | did (past) | Stage 1 | Grammar patterns as vocabulary
+I-nai-negative | -nai | -masen | not (negative) | Stage 1 | Grammar patterns as vocabulary
+I-katta-datta | -katta / -datta | -katta desu / -deshita | was (adjectives, nouns) | Stage 1 | Grammar patterns as vocabulary
+I-kunai-ja-nai | -kunai / -ja nai | -kunai desu / -ja nai desu | isn't (adjectives, nouns) | Stage 1 | Grammar patterns as vocabulary
+I-kute-de | -kute / -de | - | and; so (adjectives, nouns) | Stage 1 | Grammar patterns as vocabulary
+I-teru | -teru | -temasu | is doing / is in a state | Stage 1 | Grammar patterns as vocabulary
+I-te-miru | -te miru | -te mimasu | try (and see) | Stage 1 | Grammar patterns as vocabulary
+I-chau | -chau | -chaimasu | end up / do completely | Stage 1 | Grammar patterns as vocabulary
+I-toku | -toku | -tokimasu | do in advance; leave it | Stage 1 | Grammar patterns as vocabulary
+H-aru | aru | arimasu | there is; have (things) | Stage 1 | General verbs
+H-iru-exist | iru | imasu | be, exist; have (people, pets) | Stage 1 | General verbs
+H-motsu | motsu | mochimasu | hold; carry; have | Stage 1 | General verbs
+H-sumu | sumu | sumimasu | live (in a place) | Stage 1 | General verbs
+H-suru | suru | shimasu | do; make | Stage 1 | General verbs
+H-yaru | yaru | yarimasu | do (casual) | Stage 1 | General verbs
+H-dekiru | dekiru | dekimasu | can do; be ready; come into being | Stage 1 | General verbs
+H-naru | naru | narimasu | become; turn into | Stage 1 | General verbs
+H-kawaru | kawaru | kawarimasu | change (by itself) | Stage 1 | General verbs
+H-iku | iku | ikimasu | go | Stage 1 | General verbs
+H-kuru | kuru | kimasu | come | Stage 1 | General verbs
+H-kaeru-return | kaeru | kaerimasu | go home; return | Stage 1 | General verbs
+H-modoru | modoru | modorimasu | come back; go back | Stage 1 | General verbs
+H-deru | deru | demasu | leave; go out; appear | Stage 1 | General verbs
+H-hairu | hairu | hairimasu | enter; join; fit in | Stage 1 | General verbs
+J-kono | kono | - | this (+ noun) | Stage 1 | Pointing, question & people words
+J-sono | sono | - | that (+ noun); the one mentioned | Stage 1 | Pointing, question & people words
+J-ano | ano | - | that (+ noun), far or shared | Stage 1 | Pointing, question & people words
+J-dono | dono | - | which (+ noun) | Stage 1 | Pointing, question & people words
+J-watashi | watashi | - | I, me (neutral) | Stage 1 | Pointing, question & people words
+J-san | -san | - | Mr./Ms. (name suffix) | Stage 1 | Pointing, question & people words
+J-minna | minna | minasan | everyone; all of you | Stage 1 | Pointing, question & people words
+J-jibun | jibun | - | oneself; myself | Stage 1 | Pointing, question & people words
+J-boku | boku | watashi | I, me (male, casual) | Stage 1 | Pointing, question & people words
+J-tachi | -tachi | - | and others; plural (people) | Stage 1 | Pointing, question & people words
+J-uchi | uchi | - | home; our (family, company) | Stage 1 | Pointing, question & people words
+B-chotto | chotto | - | a little; a bit | Stage 1 | Degree, amount & limits
+B-sukoshi | sukoshi | - | a little; slightly | Stage 1 | Degree, amount & limits
+B-motto | motto | - | more; even more | Stage 1 | Degree, amount & limits
+B-mou-chotto | mou chotto | - | a little more | Stage 1 | Degree, amount & limits
+A-mou | mou | - | already; (not) anymore | Stage 1 | Time & sequence
+A-mada | mada | mada desu | still; not yet | Stage 1 | Time & sequence
+A-zutto | zutto | - | all along, the whole time | Stage 1 | Time & sequence
+A-yatto | yatto | - | finally, at last | Stage 1 | Time & sequence
+B-sugoku | sugoku | - | really; very | Stage 1 | Degree, amount & limits
+B-honto-ni | honto ni | hontou ni | really; truly | Stage 1 | Degree, amount & limits
+B-kekkou | kekkou | - | pretty; quite | Stage 1 | Degree, amount & limits
+B-kanari | kanari | - | quite; considerably | Stage 1 | Degree, amount & limits
+B-metcha | metcha | totemo | super; really | Stage 1 | Degree, amount & limits
+F-n-da | n da | n desu | it's that... (explaining) | Stage 1 | Sentence endings & intent
+F-no-question | no? | n desu ka | is it that...? (casual question) | Stage 1 | Sentence endings & intent
+F-n-da-kedo | n da kedo | n desu kedo | the thing is... (lead-in) | Stage 1 | Sentence endings & intent
+F-wake-da | wake da | wake desu | so that's why / no wonder | Stage 1 | Sentence endings & intent
+F-naa | naa | desu nee | ...huh (to oneself) | Stage 1 | Sentence endings & intent
+F-kana | kana | desu ka ne / deshou ka | I wonder | Stage 1 | Sentence endings & intent
+F-kke | kke | deshita kke / -mashita kke | what was it again? | Stage 1 | Sentence endings & intent
+F-tte-kanji | tte kanji | tte kanji desu | kind of like... | Stage 1 | Sentence endings & intent
+A-mainichi | mainichi | - | every day | Stage 2 | Time & sequence
+A-itsumo | itsumo | - | always, usually | Stage 2 | Time & sequence
+A-yoku | yoku | - | often | Stage 2 | Time & sequence
+A-tokidoki | tokidoki | - | sometimes | Stage 2 | Time & sequence
+A-tama-ni | tama ni | - | once in a while | Stage 2 | Time & sequence
+A-nando-mo | nando mo | - | over and over, many times | Stage 2 | Time & sequence
+A-asa | asa | - | morning | Stage 2 | Time & sequence
+A-hiru | hiru | - | noon, daytime, lunch | Stage 2 | Time & sequence
+A-yoru | yoru | - | night, evening | Stage 2 | Time & sequence
+A-kesa | kesa | - | this morning | Stage 2 | Time & sequence
+A-konban | konban | - | tonight | Stage 2 | Time & sequence
+A-senshuu | senshuu | - | last week | Stage 2 | Time & sequence
+A-konshuu | konshuu | - | this week | Stage 2 | Time & sequence
+A-raishuu | raishuu | - | next week | Stage 2 | Time & sequence
+A-shuumatsu | shuumatsu | - | weekend | Stage 2 | Time & sequence
+D-suki | suki | suki desu | like, be fond of | Stage 2 | Versatile adjectives
+D-kirai | kirai | kirai desu | dislike, hate | Stage 2 | Versatile adjectives
+D-iya | iya | iya desu | don't want, can't stand | Stage 2 | Versatile adjectives
+D-daisuki | daisuki | daisuki desu | love, really like | Stage 2 | Versatile adjectives
+D-nigate | nigate | nigate desu | not my thing, bad at | Stage 2 | Versatile adjectives
+B-mo | mo | - | too; also; as many as | Stage 2 | Degree, amount & limits
+B-dake | dake | - | only; just | Stage 2 | Degree, amount & limits
+B-shika | shika | - | only (+ negative) | Stage 2 | Degree, amount & limits
+B-bakkari | bakkari | bakari | nothing but; only | Stage 2 | Degree, amount & limits
+H-taberu | taberu | tabemasu | eat | Stage 2 | General verbs
+H-nomu | nomu | nomimasu | drink; take (medicine) | Stage 2 | General verbs
+H-neru | neru | nemasu | sleep; go to bed | Stage 2 | General verbs
+H-okiru | okiru | okimasu | wake up; get up; happen | Stage 2 | General verbs
+H-tsukareru | tsukareru | tsukaremasu | get tired | Stage 2 | General verbs
+D-hoshii | hoshii | hoshii desu | want (a thing) | Stage 2 | Versatile adjectives
+D-hitsuyou | hitsuyou | hitsuyou desu | necessary, needed | Stage 2 | Versatile adjectives
+D-daiji | daiji | daiji desu | important, precious | Stage 2 | Versatile adjectives
+D-atsui | atsui | atsui desu | hot (weather, things) | Stage 2 | Versatile adjectives
+D-samui | samui | samui desu | cold (weather, feeling) | Stage 2 | Versatile adjectives
+D-itai | itai | itai desu | painful, it hurts, ouch | Stage 2 | Versatile adjectives
+D-abunai | abunai | abunai desu | dangerous, risky, watch out! | Stage 2 | Versatile adjectives
+I-tai | -tai | -tai desu | want to (do) | Stage 2 | Grammar patterns as vocabulary
+I-te-hoshii | -te hoshii | -te hoshii desu | want someone to do | Stage 2 | Grammar patterns as vocabulary
+I-potential | -eru / -rareru | -emasu / -raremasu | can (do) | Stage 2 | Grammar patterns as vocabulary
+I-ta-koto-ga-aru | -ta koto (ga) aru | -ta koto ga arimasu | have ever done | Stage 2 | Grammar patterns as vocabulary
+E-ka-or | -ka | - | or | Stage 2 | Connectors & conditionals
+E-toka | -toka | - | things like; or something | Stage 2 | Connectors & conditionals
+E-tatoeba | tatoeba | - | for example | Stage 2 | Connectors & conditionals
+E-tari-tari | -tari ... -tari suru | -tari ... -tari shimasu | doing things like ... and ... | Stage 2 | Connectors & conditionals
+H-ageru | ageru | agemasu | give (outward) | Stage 2 | General verbs
+H-kureru | kureru | kuremasu | give (to me/us) | Stage 2 | General verbs
+H-morau | morau | moraimasu | receive; get | Stage 2 | General verbs
+H-tetsudau | tetsudau | tetsudaimasu | help (with a task) | Stage 2 | General verbs
+H-kasu | kasu | kashimasu | lend; let use | Stage 2 | General verbs
+I-te-kureru | -te kureru | -te kuremasu | does for me / us | Stage 2 | Grammar patterns as vocabulary
+I-te-kurete-arigatou | -te kurete arigatou | -te kurete arigatou gozaimasu | thanks for (doing) | Stage 2 | Grammar patterns as vocabulary
+I-te-morau | -te morau | -te moraimasu | get someone to do | Stage 2 | Grammar patterns as vocabulary
+I-te-ageru | -te ageru | -te agemasu | do for someone | Stage 2 | Grammar patterns as vocabulary
+I-passive | -areru / -rareru | -aremasu / -raremasu | get / be -ed (passive) | Stage 2 | Grammar patterns as vocabulary
+I-sasete | -asete / -sasete | -asete kudasai / -sasete kudasai | let me (do) | Stage 2 | Grammar patterns as vocabulary
+F-te-request | -te | -te kudasai | do... (casual request) | Stage 2 | Sentence endings & intent
+F-te-kurenai | -te kurenai? | -te kuremasen ka | could you (please)? | Stage 2 | Sentence endings & intent
+F-te-moraeru | -te moraeru? | -te moraemasu ka | could I get you to...? | Stage 2 | Sentence endings & intent
+F-naide | -naide | -naide kudasai | don't... (casual request) | Stage 2 | Sentence endings & intent
+H-miru | miru | mimasu | see; watch; look | Stage 2 | General verbs
+H-miseru | miseru | misemasu | show; let see | Stage 2 | General verbs
+H-sagasu | sagasu | sagashimasu | look for; search | Stage 2 | General verbs
+H-wakaru | wakaru | wakarimasu | understand; know; get it | Stage 2 | General verbs
+H-shiru | shitteru | shittemasu | know (be aware of) | Stage 2 | General verbs
+H-oboeru | oboeru | oboemasu | remember; memorise | Stage 2 | General verbs
+H-wasureru | wasureru | wasuremasu | forget; leave behind | Stage 2 | General verbs
+H-benkyou-suru | benkyou suru | benkyou shimasu | study | Stage 2 | General verbs
+G-wakatta | wakatta | wakarimashita | got it, okay | Stage 2 | Responses, reactions, fillers & social phrases
+G-wakannai | wakannai | wakarimasen | I don't get it / know | Stage 2 | Responses, reactions, fillers & social phrases
+G-nante | nante? | nante iimashita? | what did you say? | Stage 2 | Responses, reactions, fillers & social phrases
+G-mou-ikkai | mou ikkai | mou ichido | one more time | Stage 2 | Responses, reactions, fillers & social phrases
+G-e | e? | - | huh? what? | Stage 2 | Responses, reactions, fillers & social phrases
+G-honto | honto? | hontou desu ka | really? | Stage 2 | Responses, reactions, fillers & social phrases
+G-uso | uso | hontou desu ka | no way! you're kidding | Stage 2 | Responses, reactions, fillers & social phrases
+G-are-huh | are? | - | huh? that's odd | Stage 2 | Responses, reactions, fillers & social phrases
+G-bikkuri-shita | bikkuri shita | bikkuri shimashita | that surprised me; you startled me | Stage 2 | Responses, reactions, fillers & social phrases
+G-aa | aa | - | ah, oh right | Stage 2 | Responses, reactions, fillers & social phrases
+G-hee | hee | - | huh, oh really | Stage 2 | Responses, reactions, fillers & social phrases
+G-naruhodo | naruhodo | - | I see, makes sense | Stage 2 | Responses, reactions, fillers & social phrases
+G-tashika-ni | tashika ni | - | true, good point | Stage 2 | Responses, reactions, fillers & social phrases
+G-sou | sou | sou desu | right, yeah, that's it | Stage 2 | Responses, reactions, fillers & social phrases
+G-sou-da-ne | sou da ne | sou desu ne | yeah, true / let me see | Stage 2 | Responses, reactions, fillers & social phrases
+G-sokka | sokka | sou desu ka | oh, I see | Stage 2 | Responses, reactions, fillers & social phrases
+G-sou-nan-da | sou na n da | sou na n desu ka | oh, is that so | Stage 2 | Responses, reactions, fillers & social phrases
+G-sou-kana | sou kana | sou desu ka ne | hmm, you think so? | Stage 2 | Responses, reactions, fillers & social phrases
+E-tte-quote | -tte | - | (said / thought) that | Stage 2 | Connectors & conditionals
+E-sou-ieba | sou ieba | - | oh yeah; come to think of it | Stage 2 | Connectors & conditionals
+E-ni-tsuite | -ni tsuite | - | about; concerning | Stage 2 | Connectors & conditionals
+E-tsumari | tsumari | - | in other words; basically | Stage 2 | Connectors & conditionals
+H-iu | iu | iimasu | say; call (something) | Stage 2 | General verbs
+H-hanasu | hanasu | hanashimasu | speak; talk; tell | Stage 2 | General verbs
+H-kiku | kiku | kikimasu | listen; hear; ask | Stage 2 | General verbs
+H-oshieru | oshieru | oshiemasu | tell; teach; show how | Stage 2 | General verbs
+H-tanomu | tanomu | tanomimasu | ask a favour; order | Stage 2 | General verbs
+I-no-nominalizer | -no | - | the act of -ing | Stage 2 | Grammar patterns as vocabulary
+I-tte-iu-called | -tte iu | - | called, named | Stage 2 | Grammar patterns as vocabulary
+I-wake-ja-nai | -wake ja nai | -wake ja nai desu | it's not that ... | Stage 2 | Grammar patterns as vocabulary
+H-omou | omou | omoimasu | think (that) | Stage 2 | General verbs
+H-kangaeru | kangaeru | kangaemasu | think over; consider | Stage 2 | General verbs
+H-ki-ni-naru | ki ni naru | ki ni narimasu | be curious about; bother | Stage 2 | General verbs
+H-ki-ga-suru | ki ga suru | ki ga shimasu | have a feeling (that) | Stage 2 | General verbs
+H-ki-ni-suru | ki ni suru | ki ni shimasu | mind; worry about | Stage 2 | General verbs
+H-ki-o-tsukeru | ki o tsukeru | ki o tsukemasu | be careful; take care | Stage 2 | General verbs
+J-dou | dou | - | how; how about | Stage 2 | Pointing, question & people words
+J-sou-manner | sou iu | - | that kind of; like that (what you said) | Stage 2 | Pointing, question & people words
+J-kou | kou | - | like this; this way | Stage 2 | Pointing, question & people words
+J-dou-yatte | dou yatte | - | how; by what means | Stage 2 | Pointing, question & people words
+J-dou-shita | dou shita | dou shita n desu ka | what's wrong; what happened | Stage 2 | Pointing, question & people words
+J-dou-iu | dou iu | - | what exactly (+ noun); dou iu koto? = how so? what's going on? | Stage 2 | Pointing, question & people words
+J-konna | konna | - | this kind of; like this | Stage 2 | Pointing, question & people words
+J-sonna | sonna | - | that kind of; such | Stage 2 | Pointing, question & people words
+J-donna | donna | - | what kind of | Stage 2 | Pointing, question & people words
+J-anna | anna | - | that kind of (we know) | Stage 2 | Pointing, question & people words
+D-sugoi | sugoi | sugoi desu | amazing, incredible | Stage 2 | Versatile adjectives
+D-saikou | saikou | saikou desu | the best, awesome | Stage 2 | Versatile adjectives
+D-saiaku | saiaku | saiaku desu | the worst, awful | Stage 2 | Versatile adjectives
+D-hidoi | hidoi | hidoi desu | terrible, cruel, harsh | Stage 2 | Versatile adjectives
+D-yabai | yabai | sugoi desu / mazui desu | crazy (good or bad), uh-oh | Stage 2 | Versatile adjectives
+A-sugu | sugu | - | right away, soon | Stage 2 | Time & sequence
+A-mou-sugu | mou sugu | - | very soon, any minute now | Stage 2 | Time & sequence
+A-sorosoro | sorosoro | - | it's about time | Stage 2 | Time & sequence
+A-kyuu-ni | kyuu ni | - | suddenly | Stage 2 | Time & sequence
+A-dandan | dandan | - | gradually, more and more | Stage 2 | Time & sequence
+E-tara | -tara | - | if; when; once | Stage 2 | Connectors & conditionals
+E-nara | -nara | - | if (that's the case); as for | Stage 2 | Connectors & conditionals
+E-te-mo | -te mo | - | even if; even though | Stage 2 | Connectors & conditionals
+E-ba | -ba | - | if | Stage 2 | Connectors & conditionals
+E-to-whenever | -to | - | whenever; if (then always) | Stage 2 | Connectors & conditionals
+A-mata | mata | - | again | Stage 3 | Time & sequence
+A-ato-de | ato de | - | later | Stage 3 | Time & sequence
+A-kondo | kondo | - | next time; this time; sometime | Stage 3 | Time & sequence
+A-tsugi | tsugi | - | next | Stage 3 | Time & sequence
+A-sengetsu | sengetsu | - | last month | Stage 3 | Time & sequence
+A-kongetsu | kongetsu | - | this month | Stage 3 | Time & sequence
+A-raigetsu | raigetsu | - | next month | Stage 3 | Time & sequence
+A-kyonen | kyonen | - | last year | Stage 3 | Time & sequence
+A-kotoshi | kotoshi | - | this year | Stage 3 | Time & sequence
+A-rainen | rainen | - | next year | Stage 3 | Time & sequence
+J-kocchi | kotchi | kochira | this way; this one (of two) | Stage 3 | Pointing, question & people words
+J-docchi | dotchi | dochira | which (of two); which way | Stage 3 | Pointing, question & people words
+J-socchi | sotchi | sochira | that way; your side; you | Stage 3 | Pointing, question & people words
+J-acchi | atchi | achira | over there; that way | Stage 3 | Pointing, question & people words
+J-naka-soto | naka / soto | - | inside, among / outside | Stage 3 | Pointing, question & people words
+J-ue-shita | ue / shita | - | on, above / under, below | Stage 3 | Pointing, question & people words
+J-hoka | hoka | - | other; else | Stage 3 | Pointing, question & people words
+J-mae-ushiro | mae / ushiro | - | in front (of) / behind | Stage 3 | Pointing, question & people words
+J-chikaku | chikaku | - | near; nearby | Stage 3 | Pointing, question & people words
+J-hito | hito | - | person; people; others | Stage 3 | Pointing, question & people words
+J-mono | mono | - | thing, stuff | Stage 3 | Pointing, question & people words
+J-koto | koto | - | thing, matter; about X | Stage 3 | Pointing, question & people words
+J-tokoro-place | tokoro | - | place, spot; side, trait | Stage 3 | Pointing, question & people words
+F-desho | desho? | deshou? | right? (surely you agree) | Stage 3 | Sentence endings & intent
+F-ja-nai-q | ja nai? | ja nai desu ka | isn't it? (I think so) | Stage 3 | Sentence endings & intent
+F-jan | jan | ja nai desu ka | see? / isn't it | Stage 3 | Sentence endings & intent
+F-tte-koto | tte koto? | tte koto desu ka | you mean...? / so... | Stage 3 | Sentence endings & intent
+F-kamo | kamo | kamo shiremasen | maybe / might | Stage 3 | Sentence endings & intent
+F-to-omou | to omou | to omoimasu | I think (that) | Stage 3 | Sentence endings & intent
+F-n-ja-nai | n ja nai | n ja nai desu ka | probably / I'd say | Stage 3 | Sentence endings & intent
+F-hazu | hazu | hazu desu | should be / supposed to | Stage 3 | Sentence endings & intent
+F-wake-nai | wake nai | wake nai desu | no way (that...) / can't possibly | Stage 3 | Sentence endings & intent
+F-te-ne | -te ne | -te kudasai ne | do..., OK? | Stage 3 | Sentence endings & intent
+F-n-da-yo | n da yo | n desu yo | it's that..., you see | Stage 3 | Sentence endings & intent
+F-darou | darou | deshou | I wonder... (what / how / if) | Stage 3 | Sentence endings & intent
+F-tara-ii-na | -tara ii na | -tara ii desu ne | I hope / I wish / it'd be nice if | Stage 3 | Sentence endings & intent
+G-ii-yo | ii yo | ii desu yo | sure, it's fine | Stage 3 | Responses, reactions, fillers & social phrases
+G-ii-ne | ii ne | ii desu ne | nice! sounds good | Stage 3 | Responses, reactions, fillers & social phrases
+G-chotto-soft-no | chotto... | - | that's a bit... (no) | Stage 3 | Responses, reactions, fillers & social phrases
+D-oishii | oishii | oishii desu | delicious, tasty | Stage 3 | Versatile adjectives
+D-kawaii | kawaii | kawaii desu | cute, adorable | Stage 3 | Versatile adjectives
+D-tanoshii | tanoshii | tanoshii desu | fun, enjoyable | Stage 3 | Versatile adjectives
+D-omoshiroi | omoshiroi | omoshiroi desu | interesting, funny | Stage 3 | Versatile adjectives
+D-tsumaranai | tsumaranai | tsumaranai desu | boring, dull | Stage 3 | Versatile adjectives
+D-atarashii | atarashii | atarashii desu | new, fresh | Stage 3 | Versatile adjectives
+D-kirei | kirei | kirei desu | pretty, beautiful, clean | Stage 3 | Versatile adjectives
+D-yasashii | yasashii | yasashii desu | kind, gentle | Stage 3 | Versatile adjectives
+D-jouzu | jouzu | jouzu desu | good at, skilled | Stage 3 | Versatile adjectives
+B-zenbu | zenbu | - | all; everything | Stage 3 | Degree, amount & limits
+B-takusan | takusan | - | a lot; many | Stage 3 | Degree, amount & limits
+B-ippai | ippai | - | lots; full | Stage 3 | Degree, amount & limits
+H-matsu | matsu | machimasu | wait | Stage 3 | General verbs
+H-au-meet | au | aimasu | meet; see (someone) | Stage 3 | General verbs
+H-kimeru | kimeru | kimemasu | decide | Stage 3 | General verbs
+H-renraku-suru | renraku suru | renraku shimasu | contact; get in touch | Stage 3 | General verbs
+H-asobu | asobu | asobimasu | hang out; play | Stage 3 | General verbs
+H-tsuku-arrive | tsuku | tsukimasu | arrive; get there | Stage 3 | General verbs
+H-okureru | okureru | okuremasu | be late; fall behind | Stage 3 | General verbs
+E-moshi | moshi | - | if; supposing | Stage 3 | Connectors & conditionals
+E-dattara | dattara | deshitara | in that case; if so | Stage 3 | Connectors & conditionals
+E-yokattara | yokattara | - | if you like | Stage 3 | Connectors & conditionals
+G-tte-nani | -tte nani? | -tte nan desu ka | what's X? | Stage 3 | Responses, reactions, fillers & social phrases
+G-dou-iu-imi | dou iu imi? | dou iu imi desu ka | what do you mean? | Stage 3 | Responses, reactions, fillers & social phrases
+G-nihongo-de-nante-iu | nihongo de nante iu? | nihongo de nante iimasu ka | what's it in Japanese? | Stage 3 | Responses, reactions, fillers & social phrases
+A-sakki | sakki | - | a moment ago, earlier | Stage 3 | Time & sequence
+A-kono-aida | kono aida | - | the other day | Stage 3 | Time & sequence
+A-saikin | saikin | - | lately, these days | Stage 3 | Time & sequence
+A-mae | mae | - | before; ago; previously | Stage 3 | Time & sequence
+A-mukashi | mukashi | - | long ago; in the old days | Stage 3 | Time & sequence
+A-ima-made | ima made | - | until now, so far | Stage 3 | Time & sequence
+A-kore-kara | kore kara | - | from now (on), about to | Stage 3 | Time & sequence
+A-ima-no-tokoro | ima no tokoro | - | for now, so far | Stage 3 | Time & sequence
+A-shibaraku | shibaraku | - | for a while | Stage 3 | Time & sequence
+D-genki | genki | genki desu | well, energetic, healthy | Stage 3 | Versatile adjectives
+D-isogashii | isogashii | isogashii desu | busy | Stage 3 | Versatile adjectives
+D-hima | hima | hima desu | free, bored, idle | Stage 3 | Versatile adjectives
+I-de-ii | -de ii | -de ii desu | X will do, X is fine | Stage 3 | Grammar patterns as vocabulary
+I-ni-suru | -ni suru | -ni shimasu | go with, decide on | Stage 3 | Grammar patterns as vocabulary
+I-demo-or-something | -demo | - | ... or something | Stage 3 | Grammar patterns as vocabulary
+I-shika-nai | -shika nai | -shika nai desu | have no choice but to | Stage 3 | Grammar patterns as vocabulary
+G-nee | nee | ano | hey, listen | Stage 3 | Responses, reactions, fillers & social phrases
+G-hora | hora | - | look! see? here | Stage 3 | Responses, reactions, fillers & social phrases
+G-chotto-matte | chotto matte | chotto matte kudasai | wait a moment | Stage 3 | Responses, reactions, fillers & social phrases
+G-chotto-ii | chotto ii? | chotto ii desu ka | got a sec? | Stage 3 | Responses, reactions, fillers & social phrases
+H-kau | kau | kaimasu | buy | Stage 3 | General verbs
+H-tsukau | tsukau | tsukaimasu | use | Stage 3 | General verbs
+H-tsukuru | tsukuru | tsukurimasu | make; cook; create | Stage 3 | General verbs
+D-kantan | kantan | kantan desu | easy, simple | Stage 3 | Versatile adjectives
+D-muzukashii | muzukashii | muzukashii desu | difficult, hard | Stage 3 | Versatile adjectives
+D-taihen | taihen | taihen desu | tough, awful, lots of work | Stage 3 | Versatile adjectives
+D-muri | muri | muri desu | impossible, no way, too much | Stage 3 | Versatile adjectives
+G-etto | etto | - | um, let me see | Stage 3 | Responses, reactions, fillers & social phrases
+G-ano-filler | ano | - | um, excuse me | Stage 3 | Responses, reactions, fillers & social phrases
+G-maa | maa | - | well..., I guess | Stage 3 | Responses, reactions, fillers & social phrases
+G-nanka | nanka | - | like, kind of | Stage 3 | Responses, reactions, fillers & social phrases
+G-nante-iu-ka | nante iu ka | nante iu n deshou ka | how should I put it | Stage 3 | Responses, reactions, fillers & social phrases
+A-mazu | mazu | - | first (of all) | Stage 3 | Time & sequence
+A-saisho | saisho | - | first, the beginning | Stage 3 | Time & sequence
+A-saigo | saigo | - | last, the end | Stage 3 | Time & sequence
+A-hajimete | hajimete | - | for the first time | Stage 3 | Time & sequence
+A-saki-ni | saki ni | - | first, ahead (of others); beforehand | Stage 3 | Time & sequence
+D-takai | takai | takai desu | expensive, high, tall | Stage 3 | Versatile adjectives
+D-yasui | yasui | yasui desu | cheap, inexpensive | Stage 3 | Versatile adjectives
+D-hayai | hayai | hayai desu | early, fast, quick | Stage 3 | Versatile adjectives
+D-osoi | osoi | osoi desu | late, slow | Stage 3 | Versatile adjectives
+C-hayaku | hayaku | - | quickly; early; hurry up | Stage 3 | Stance, attitude & manner
+C-yukkuri | yukkuri | - | slowly; take your time | Stage 3 | Stance, attitude & manner
+C-chanto | chanto | - | properly; as one should | Stage 3 | Stance, attitude & manner
+C-umaku | umaku | - | well; smoothly | Stage 3 | Stance, attitude & manner
+I-te-mo-ii | -te mo ii | -te mo ii desu | may / it's OK to | Stage 3 | Grammar patterns as vocabulary
+I-cha-dame | -cha dame / -ja dame | -cha dame desu / -ja dame desu | mustn't, not allowed | Stage 3 | Grammar patterns as vocabulary
+I-nakya | -nakya | -nakya ikemasen | have to, must | Stage 3 | Grammar patterns as vocabulary
+I-nakute-mo-ii | -nakute mo ii | -nakute mo ii desu | don't have to | Stage 3 | Grammar patterns as vocabulary
+H-chigau | chigau | chigaimasu | be different; be wrong | Stage 3 | General verbs
+H-komaru | komaru | komarimasu | be in a bind; be stuck | Stage 3 | General verbs
+H-machigaeru | machigaeru | machigaemasu | make a mistake; get wrong | Stage 3 | General verbs
+H-okoru | okoru | okorimasu | get angry; tell off | Stage 3 | General verbs
+C-tabun | tabun | - | probably; maybe | Stage 3 | Stance, attitude & manner
+C-kitto | kitto | - | surely; I bet | Stage 3 | Stance, attitude & manner
+C-zettai | zettai | - | definitely; absolutely (not) | Stage 3 | Stance, attitude & manner
+C-mochiron | mochiron | mochiron desu | of course | Stage 3 | Stance, attitude & manner
+C-issho-ni | issho ni | - | together (with) | Stage 3 | Stance, attitude & manner
+C-hitori-de | hitori de | - | alone; by oneself | Stage 3 | Stance, attitude & manner
+C-kono-mama | kono mama | - | as it is; like this | Stage 3 | Stance, attitude & manner
+C-sono-mama | sono mama | - | as is; just like that; straight on | Stage 3 | Stance, attitude & manner
+C-katte-ni | katte ni | - | without asking; as one pleases; by itself (automatically) | Stage 3 | Stance, attitude & manner
+F-ou-lets | -ou / -you | -mashou | let's (do) | Stage 4 | Sentence endings & intent
+F-ou-ka | -ou ka / -you ka | -mashou ka | shall we / shall I? | Stage 4 | Sentence endings & intent
+F-nai-invite | -nai? | -masen ka | want to...? (invitation) | Stage 4 | Sentence endings & intent
+F-tara-suggest | -tara? | -tara dou desu ka | why don't you...? | Stage 4 | Sentence endings & intent
+F-tsumori | tsumori | tsumori desu | intend to / plan to | Stage 4 | Sentence endings & intent
+F-ou-to-omou | -ou / -you to omou | -ou / -you to omoimasu | I'm thinking of (doing) | Stage 4 | Sentence endings & intent
+C-yappari | yappari | - | as expected; after all | Stage 4 | Stance, attitude & manner
+C-sasuga | sasuga | sasuga desu ne | impressive; as expected (of you); that's X for you | Stage 4 | Stance, attitude & manner
+C-masaka | masaka | - | no way; surely not | Stage 4 | Stance, attitude & manner
+C-moshikashite | moshikashite | - | maybe; could it be | Stage 4 | Stance, attitude & manner
+D-ureshii | ureshii | ureshii desu | glad, happy | Stage 4 | Versatile adjectives
+D-zannen | zannen | zannen desu | too bad, disappointing | Stage 4 | Versatile adjectives
+D-kowai | kowai | kowai desu | scary, scared | Stage 4 | Versatile adjectives
+D-shinpai | shinpai | shinpai desu | worried, worrying | Stage 4 | Versatile adjectives
+D-tanoshimi | tanoshimi | tanoshimi desu | looking forward to it | Stage 4 | Versatile adjectives
+D-hazukashii | hazukashii | hazukashii desu | embarrassed, embarrassing, shy | Stage 4 | Versatile adjectives
+A-toki | -toki | - | when, at the time | Stage 4 | Time & sequence
+A-mae-ni | -mae ni | - | before (doing) | Stage 4 | Time & sequence
+A-te-kara | -te kara | - | after doing; since | Stage 4 | Time & sequence
+A-nagara | -nagara | - | while (doing) | Stage 4 | Time & sequence
+H-hajimeru | hajimeru | hajimemasu | start (something) | Stage 4 | General verbs
+H-hajimaru | hajimaru | hajimarimasu | begin (by itself) | Stage 4 | General verbs
+H-owaru | owaru | owarimasu | end; be finished | Stage 4 | General verbs
+H-yameru | yameru | yamemasu | stop; quit | Stage 4 | General verbs
+H-ganbaru | ganbaru | ganbarimasu | try hard; hang in there | Stage 4 | General verbs
+I-ku-naru | -ku naru / -ni naru | -ku narimasu / -ni narimasu | become, get (adj, noun) | Stage 4 | Grammar patterns as vocabulary
+I-ku-suru | -ku suru | -ku shimasu | make it (adj) | Stage 4 | Grammar patterns as vocabulary
+I-you-ni-naru | -you ni naru | -you ni narimasu | come to (be able to) | Stage 4 | Grammar patterns as vocabulary
+F-sou-looks | -sou | -sou desu | looks (like it'll be) | Stage 4 | Sentence endings & intent
+F-mitai | mitai | mitai desu | seems / looks like | Stage 4 | Sentence endings & intent
+F-tte-heard | tte | sou desu | they say / I heard | Stage 4 | Sentence endings & intent
+F-rashii | rashii | rashii desu | apparently / I hear | Stage 4 | Sentence endings & intent
+F-sa | sa | desu ne | like, you know (filler) | Stage 4 | Sentence endings & intent
+F-yo-na | yo na | desu yo ne | right? (masculine) | Stage 4 | Sentence endings & intent
+F-wa-ending | wa | desu ne / -masu ne | I'll..., then (falling, announcing) / soft assertion (rising, fem) | Stage 4 | Sentence endings & intent
+F-zo | zo | desu yo / -masu yo | I'm telling you! (rough) | Stage 4 | Sentence endings & intent
+B-zenzen | zenzen | - | (not) at all | Stage 4 | Degree, amount & limits
+B-anmari | anmari | amari | (not) very; (not) much | Stage 4 | Degree, amount & limits
+B-hotondo | hotondo | - | hardly; almost all | Stage 4 | Degree, amount & limits
+B-sonna-ni | sonna ni | - | (not) that much; so much | Stage 4 | Degree, amount & limits
+B-nakanaka | nakanaka | - | (not) easily; just won't; quite | Stage 4 | Degree, amount & limits
+J-nanika | nanika | - | something; anything | Stage 4 | Pointing, question & people words
+J-dareka | dareka | - | someone; anyone | Stage 4 | Pointing, question & people words
+J-dokoka | dokoka | - | somewhere | Stage 4 | Pointing, question & people words
+J-itsuka | itsuka | - | someday; sometime | Stage 4 | Pointing, question & people words
+G-yokatta | yokatta | yokatta desu | phew, that's good | Stage 4 | Responses, reactions, fillers & social phrases
+G-shouganai | shouganai | shouganai desu | it can't be helped | Stage 4 | Responses, reactions, fillers & social phrases
+G-ganbatte | ganbatte | ganbatte kudasai | good luck, hang in there | Stage 4 | Responses, reactions, fillers & social phrases
+G-sonna-koto-nai | sonna koto nai | sonna koto nai desu | no, not at all | Stage 4 | Responses, reactions, fillers & social phrases
+G-omedetou | omedetou | omedetou gozaimasu | congratulations | Stage 4 | Responses, reactions, fillers & social phrases
+E-ni-yoru | -ni yoru | -ni yorimasu | it depends on | Stage 4 | Connectors & conditionals
+E-nai-de | -naide | - | without doing; instead of | Stage 4 | Connectors & conditionals
+E-kawari-ni | -kawari ni | - | instead (of); in return (for) | Stage 4 | Connectors & conditionals
+E-tame-ni | -tame ni | - | in order to; for | Stage 4 | Connectors & conditionals
+E-you-ni | -you ni | - | so that; so as not to | Stage 4 | Connectors & conditionals
+C-jitsu-wa | jitsu wa | - | actually; to tell the truth | Stage 4 | Stance, attitude & manner
+C-shoujiki | shoujiki | - | honestly; frankly | Stage 4 | Stance, attitude & manner
+C-maji-de | maji de | hontou ni | seriously; for real | Stage 4 | Stance, attitude & manner
+D-ookii | ookii | ookii desu | big, large, loud | Stage 4 | Versatile adjectives
+D-chiisai | chiisai | chiisai desu | small, little | Stage 4 | Versatile adjectives
+D-ooi | ooi | ooi desu | many, a lot | Stage 4 | Versatile adjectives
+D-sukunai | sukunai | sukunai desu | few, not much | Stage 4 | Versatile adjectives
+D-nagai | nagai | nagai desu | long (length or time) | Stage 4 | Versatile adjectives
+A-jikan | jikan | - | time | Stage 4 | Time & sequence
+A-chuu | -chuu | - | in the middle of, during | Stage 4 | Time & sequence
+A-tokoro | -tokoro | -tokoro desu | about to / in the middle of / just did | Stage 4 | Time & sequence
+I-sugiru | -sugiru | -sugimasu | too much, over- | Stage 4 | Grammar patterns as vocabulary
+I-yasui-suffix | -yasui | -yasui desu | easy to | Stage 4 | Grammar patterns as vocabulary
+I-nikui | -nikui | -nikui desu | hard to | Stage 4 | Grammar patterns as vocabulary
+I-kata | -kata | - | way of -ing | Stage 4 | Grammar patterns as vocabulary
+H-toru | toru | torimasu | take; get; pass | Stage 4 | General verbs
+H-kakaru | kakaru | kakarimasu | take (time); cost (money) | Stage 4 | General verbs
+H-kakeru | kakeru | kakemasu | cause (trouble); call; spend; put on | Stage 4 | General verbs
+H-dasu | dasu | dashimasu | put out; take out; hand in; pay | Stage 4 | General verbs
+H-ireru | ireru | iremasu | put in; include; make (tea); turn on | Stage 4 | General verbs
+H-tariru | tariru | tarimasu | be enough (tarinai: not enough) | Stage 4 | General verbs
+B-gurai | gurai | - | about; around | Stage 4 | Degree, amount & limits
+B-daitai | daitai | - | roughly; mostly | Stage 4 | Degree, amount & limits
+B-choudo | choudo | - | exactly; just right | Stage 4 | Degree, amount & limits
+J-nanimo | nanimo | - | nothing (with negative) | Stage 4 | Pointing, question & people words
+J-daremo | daremo | - | nobody (with negative) | Stage 4 | Pointing, question & people words
+J-doko-ni-mo | doko ni mo | - | nowhere (with negative) | Stage 4 | Pointing, question & people words
+C-betsu-ni | betsu ni | - | not particularly; not really; it's not that... | Stage 4 | Stance, attitude & manner
+C-tokuni | toku ni | - | especially; (not) particularly | Stage 4 | Stance, attitude & manner
+C-ichiou | ichiou | - | just in case; sort of | Stage 4 | Stance, attitude & manner
+C-dekireba | dekireba | - | if possible | Stage 4 | Stance, attitude & manner
+D-onaji | onaji | onaji desu | the same | Stage 4 | Versatile adjectives
+D-betsu | betsu | betsu desu | separate, different, another | Stage 4 | Versatile adjectives
+D-hen | hen | hen desu | weird, strange, odd | Stage 4 | Versatile adjectives
+D-futsuu | futsuu | futsuu desu | normal, ordinary, usual | Stage 4 | Versatile adjectives
+D-iroiro | iroiro | iroiro desu | various, all sorts | Stage 4 | Versatile adjectives
+I-te-kuru | -te kuru | -te kimasu | go and do; start to | Stage 4 | Grammar patterns as vocabulary
+I-te-iku | -te iku | -te ikimasu | take along; go on -ing | Stage 4 | Grammar patterns as vocabulary
+I-ni-iku | -ni iku / -ni kuru | -ni ikimasu / -ni kimasu | go / come to do | Stage 4 | Grammar patterns as vocabulary
+A-made | -made | - | until | Stage 4 | Time & sequence
+A-made-ni | -made ni | - | by (a deadline) | Stage 4 | Time & sequence
+A-uchi-ni | -uchi ni | - | while still; before it changes | Stage 4 | Time & sequence
+C-toriaezu | toriaezu | - | for now; to start with | Stage 4 | Stance, attitude & manner
+C-tonikaku | tonikaku | - | anyway; at any rate | Stage 4 | Stance, attitude & manner
+C-nantoka | nantoka | - | somehow; manage to | Stage 4 | Stance, attitude & manner
+C-kekkyoku | kekkyoku | - | in the end; after all | Stage 4 | Stance, attitude & manner
+C-sekkaku | sekkaku | - | since we have the chance; after all that trouble | Stage 4 | Stance, attitude & manner
+C-douse | douse | - | anyway (it's settled regardless); might as well (douse nara) | Stage 4 | Stance, attitude & manner
+B-ichiban | ichiban | - | the most; number one | Stage 4 | Degree, amount & limits
+B-no-hou-ga | no hou ga | - | X is more … | Stage 4 | Degree, amount & limits
+B-yori | yori | - | than | Stage 4 | Degree, amount & limits
+B-omotta-yori | omotta yori | - | than I thought | Stage 4 | Degree, amount & limits
+B-hodo | hodo | - | not as … as; about (polite) | Stage 4 | Degree, amount & limits
+J-nandemo | nandemo | - | anything (at all); whatever | Stage 4 | Pointing, question & people words
+J-itsudemo | itsudemo | - | anytime | Stage 4 | Pointing, question & people words
+J-dokodemo | dokodemo | - | anywhere | Stage 4 | Pointing, question & people words
+J-daredemo | daredemo | - | anyone (at all) | Stage 4 | Pointing, question & people words
+I-ta-hou-ga-ii | -ta hou ga ii | -ta hou ga ii desu | you should, it's better to | Stage 4 | Grammar patterns as vocabulary
+I-nai-hou-ga-ii | -nai hou ga ii | -nai hou ga ii desu | better not | Stage 4 | Grammar patterns as vocabulary
+I-tara-ii | -tara ii | -tara ii desu | should I / you could | Stage 4 | Grammar patterns as vocabulary

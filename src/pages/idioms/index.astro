@@ -1,0 +1,57 @@
+---
+import StarlightPage from '@astrojs/starlight/components/StarlightPage.astro';
+import { CardGrid, LinkCard } from '@astrojs/starlight/components';
+import ChunkList from '../../components/ChunkList.astro';
+import { url } from '../../lib/data';
+import { idiomCourse, idioms } from '../../lib/idioms';
+
+const topics = idiomCourse.topics;
+const headings = [
+	{ depth: 2, slug: 'stages', text: 'Stages' },
+	{ depth: 2, slug: 'browse', text: 'Browse' },
+	{ depth: 2, slug: 'topics', text: 'Topics' },
+	...topics.map((t) => ({ depth: 3, slug: t.key, text: t.name })),
+	{ depth: 2, slug: 'reading-an-entry', text: 'Reading an entry' },
+];
+---
+
+{/* The idiom course is separate from the main list's; it starts here rather than continuing from another section. */}
+<StarlightPage frontmatter={{ title: 'Idioms', description: 'The Japanese idioms, sayings and four-character phrases people say most, casual first with the polite form beside it.', prev: false }} headings={headings}>
+	<p class="vl-lead">
+		The Japanese idioms people say most: set phrases that don’t mean what the words say, like{' '}
+		<i translate="no">atama ni kuru</i> (it comes to my head: I’m furious) or <i translate="no">saba o yomu</i> (count the
+		mackerel: fudge the numbers), plus the sayings and four-character phrases heard in everyday talk.
+	</p>
+	<p class="vl-count">
+		{idioms.stats.total} idioms in {idioms.stats.chunks} chunks, chosen by how often people say them, and ordered into four
+		stages that run alongside the main list’s stages. Each chunk is a short page; use Next at the bottom of each page.
+	</p>
+
+	<h2 id="stages">Stages</h2>
+	<CardGrid>
+		{idioms.stages.map((s, i) => (
+			<LinkCard title={`${s.name} · ${s.items} idioms`} description={s.summary} href={url(`idioms/${i + 1}/`)} />
+		))}
+	</CardGrid>
+
+	<h2 id="browse">Browse</h2>
+	<CardGrid>
+		<LinkCard title="Cuts" description={`${idioms.cuts.length} candidates that didn’t make the list, with the reason for each.`} href={url('idioms/cuts/')} />
+	</CardGrid>
+
+	<h2 id="topics">Topics</h2>
+	{topics.map((t) => (
+		<>
+			<h3 id={t.key}>{t.name}</h3>
+			<ChunkList blocks={t.blocks} showCategory hrefOf={idiomCourse.chunkUrl} chipOf={(b) => `Stage ${b.stage}`} />
+		</>
+	))}
+
+	<h2 id="reading-an-entry">Reading an entry</h2>
+	<ul>
+		<li><b>The headword</b> is the plain form (<i translate="no">te o kasu</i>); <i>polite</i> is its desu/masu form. The large English line is what the idiom means.</li>
+		<li><b>Literally</b> is the word-for-word meaning, which is often what makes it stick. When English happens to have a close idiom, it’s shown after it.</li>
+		<li><b>52×</b> is how many times the idiom was heard in 3.17 million lines of Japanese film and TV subtitles. A dash means it was too rare in films to count; those idioms were chosen on a native speaker’s judgement.</li>
+		<li><b>Main list</b> links the versatility-list words the idiom builds on, with the stage they’re taught in.</li>
+	</ul>
+</StarlightPage>

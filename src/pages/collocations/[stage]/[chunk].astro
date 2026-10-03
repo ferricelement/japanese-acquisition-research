@@ -1,0 +1,16 @@
+---
+import ChunkPage from '../../../components/side/ChunkPage.astro';
+import Collocation from '../../../components/Collocation.astro';
+import { collCourse } from '../../../lib/collocations';
+
+export function getStaticPaths() {
+	return collCourse.data.stages.flatMap((s, si) =>
+		s.chunkIds.map((id, ci) => ({
+			params: { stage: String(si + 1), chunk: collCourse.chunkSlug(collCourse.blockById(id)) },
+			props: { id, pos: ci + 1, of: s.chunkIds.length },
+		})),
+	);
+}
+---
+
+<ChunkPage course={collCourse} {...Astro.props} title="Collocations" Item={Collocation} />

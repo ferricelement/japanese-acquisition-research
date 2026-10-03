@@ -1,0 +1,10 @@
+---
+import StageOverview from '../../../components/side/StageOverview.astro';
+import { collCourse } from '../../../lib/collocations';
+
+export function getStaticPaths() {
+	return collCourse.data.stages.map((_, i) => ({ params: { stage: String(i + 1) }, props: { n: i + 1 } }));
+}
+---
+
+<StageOverview course={collCourse} n={Astro.props.n} title="Collocations" unit="sets" />

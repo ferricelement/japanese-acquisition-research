@@ -1,0 +1,20 @@
+---
+import { collItemUrl, collStageOf, type Colloc } from '../lib/collocations';
+
+// One linked row per collocation: headword, then its gloss and stage (or a caller's own line).
+interface Props { items: Colloc[]; sub?: (it: Colloc) => string }
+const { items, sub = (it: Colloc) => `${it.english} · Stage ${collStageOf(it.id)}` } = Astro.props;
+---
+
+<ol class="vl-chunklist not-content" role="list">
+	{items.map((it) => (
+		<li>
+			<a href={collItemUrl(it.id)}>
+				<span class="vl-cl-text">
+					<span class="vl-cl-label" translate="no">{it.romaji}</span>
+					<span class="vl-cl-items">{sub(it)}</span>
+				</span>
+			</a>
+		</li>
+	))}
+</ol>

@@ -1,0 +1,55 @@
+---
+import StarlightPage from '@astrojs/starlight/components/StarlightPage.astro';
+import JaText from '../../components/JaText.astro';
+import { coll, collTopics } from '../../lib/collocations';
+
+const SECTIONS = [
+	{ key: 'maybe', title: 'Maybe', blurb: 'Strong sets that only just missed.' },
+	{ key: 'covered', title: 'Already covered', blurb: 'A set in the list does the same job.' },
+	{ key: 'less-common', title: 'Less common', blurb: 'Real sets, but said less often than the ones kept.' },
+	{ key: 'narrow', title: 'Narrow', blurb: 'Only useful in one topic or situation.' },
+	{ key: 'film', title: 'Film-only', blurb: 'Common in film and TV plots, not in everyday life.' },
+	{ key: 'not-a-collocation', title: 'Not a collocation', blurb: 'Grammar, a plain suru verb, a single verb, or a free combination.' },
+	{ key: 'idiom', title: 'Idioms', blurb: 'Figurative; these belong in the idiom list.' },
+	{ key: '', title: 'Other', blurb: 'Dropped in review.' },
+];
+const topicName = (key?: string) => collTopics.find((t) => t.key === key)?.name ?? '';
+const sections = SECTIONS
+	.map((s) => ({ ...s, rows: coll.cuts.filter((x) => (x.verdict ?? '') === s.key) }))
+	.filter((s) => s.rows.length);
+const headings = sections.map((s) => ({ depth: 2, slug: s.key || 'dropped', text: `${s.title} (${s.rows.length})` }));
+---
+
+<StarlightPage frontmatter={{ title: 'Collocation cuts', next: false, description: 'Collocation candidates that did not make the list, with the reason for each.' }} headings={headings}>
+	<p class="vl-lead">{coll.cuts.length} candidates didn’t make the list. Each has a reason, so you can ask for any of them back.</p>
+	<p class="vl-count">Within each group, the most frequent in the subtitle corpus come first; × is how many times it was heard.</p>
+	{sections.map((s) => (
+		<>
+			<h2 id={s.key || 'dropped'}>{s.title} ({s.rows.length})</h2>
+			<p>{s.blurb}</p>
+			<ul class="vl-cuts not-content" role="list" data-pagefind-weight="0.2">
+				{s.rows.map((r) => (
+					<li class="vl-cut">
+						<span class="vl-main">
+							<span class="vl-ro" translate="no">{r.romaji}</span>
+							{r.polite && <span class="vl-po" translate="no"><span class="vl-tag">polite</span> {r.polite}</span>}
+						</span>
+						<span class="vl-en">{r.english ?? ''}</span>
+						<span class="vl-meta">
+							{r.wasInList && <span class="vl-flag">was in the list</span>}
+							<span class="vl-rank">{r.count ? `${r.count}×` : '—'}</span>
+						</span>
+						<span class="vl-why">
+							<JaText text={[
+								topicName(r.cat) && `${topicName(r.cat)}.`,
+								r.coveredBy && `Covered by ${r.coveredBy}.`,
+								r.reason,
+								r.votes ? `${r.votes} of 3 judges kept it.` : null,
+							].filter(Boolean).join(' ')} />
+						</span>
+					</li>
+				))}
+			</ul>
+		</>
+	))}
+</StarlightPage>

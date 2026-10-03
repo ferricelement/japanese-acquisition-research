@@ -1,0 +1,1116 @@
+id	domain	romaji	english	count	per_million	typical	log_dice	particles	judged_commonness	in_current_list	source	trap
+hanashi-o-suru	people	hanashi o suru	talk, have a chat	3600	1135.59	0.35	8.57	を:2821 が:330 は:248 ∅/サ変:111	5		pool	Mostly guessable, but 'talk about X' is usually X no hanashi (o suru), shorter than X ni tsuite hanasu.
+hanashi-o-kiku	people	hanashi o kiku	listen to someone	2149	677.88	0.21	11.73	を:1764 は:180 ∅/サ変:102 が:52	5		corpus	
+ki-ni-iru	senses	ki ni iru	like, be pleased with	2128	671.26	0.14	11.51	に:2125 ∅:3	5	yes	pool	Learners say suki for 'I love it!' about something new; natives say ki ni itta, and iru here conjugates godan (itta), not like iru 'be' (ita).
+jikan-ga-nai	time-money	jikan ga nai	have no time	1664	524.9	0.23	9.72	が:1260 は:274 も:65 ∅:51	5		corpus	'Have time' takes aru/nai, not motsu.
+junbi-ga-dekiru	time-money	junbi ga dekiru	be ready (preparations done)	1430	451.08	0.36	10.34	が:675 は:381 ∅/サ変:364 も:5	5	yes	pool	Not junbi desu or redi: 'Are you ready?' is junbi dekita?, where ready means the preparation has come into being.
+jama-o-suru	people	jama o suru	get in the way, disturb	1342	423.32	0.89	7.19	∅:917 を:295 は:124 も:3	4		pool	English 'disturb/bother' has no matching verb: it is jama (o) suru, and entering someone's home is the set phrase ojama shimasu.
+yaku-ni-tatsu	describing	yaku ni tatsu	be useful, be helpful	1188	374.75	0.72	13.22	に:1133 ∅:55	5	yes	pool	Not benri for people and advice: 'useful' or 'helpful' is yaku ni tatsu. Benri means convenient.
+uso-o-tsuku	people	uso o tsuku	tell a lie	1184	373.48	0.39	11.98	を:1101 ∅:79 に:3 は:1	5	yes	pool	Not uso o hanasu or uso o suru: lies take tsuku (uso tsuite nai yo).
+hanashi-ga-aru	people	hanashi ga aru	need to talk (to you)	1099	346.67	0.11	8.97	が:1059 も:23 ∅/サ変:9 は:6	4		pool	Not hanasu hitsuyou ga aru: 'I need to talk to you' is chotto hanashi ga aru n da kedo.
+shitsumon-o-suru	people	shitsumon o suru	ask a question	991	312.6	0.42	6.75	∅/サ変:683 を:260 は:31 も:8	4		pool	Not shitsumon o kiku: 'ask a question' is shitsumon (o) suru, and kiku alone means 'ask' without the noun.
+jikan-ga-kakaru	time-money	jikan ga kakaru	take time	971	306.29	0.13	11.59	が:680 ∅:143 は:113 も:34	5	yes	pool	Not jikan o toru: the time a task takes is kakaru (jikan o toru means setting time aside).
+doa-o-akeru	home	doa o akeru	open the door	931	293.68	0.39	12.51	を:873 ∅:28 は:20 が:6	5		corpus	
+soto-ni-deru	home	soto ni deru	go outside	895	282.32	0.34	11.29	に:741 へ:152 ∅:2	4		corpus	
+kega-o-suru	body	kega o suru	get hurt, get injured	885	279.17	0.80	6.59	∅/サ変:513 を:327 は:37 も:5	4	yes	pool	Not itaku naru or kizutsuku: an injury is 'done', kega o suru, even by accident (kega shita?).
+jikan-ga-aru	time-money	jikan ga aru	have time, be free	725	228.7	0.10	8.43	が:364 は:222 ∅:116 も:22	4		corpus	'Have time' uses aru, not motsu.
+yume-o-miru	home	yume o miru	have a dream	680	214.5	0.36	10.13	を:530 ∅:52 に:37 で:33	4	yes	pool	Not yume o motsu (that's a life ambition): dreaming in your sleep is yume o miru, 'seeing' a dream.
+sewa-o-suru	people	sewa o suru	look after (pets, kids, plants)	592	186.74	0.69	6.01	を:397 ∅/サ変:171 は:14 も:9	3		pool	Not ki o tsukeru: caring for a pet, child or plant is sewa o suru (inu no sewa).
+kyoumi-ga-nai	senses	kyoumi ga nai	not be interested	574	181.06	0.28	8.3	∅:240 が:186 は:136 も:11	4		corpus	'Interested' is an adjective in English; Japanese says kyoumi ga aru/nai.
+mendou-o-miru	people	mendou o miru	look after, take care of	571	180.12	0.79	9.96	を:389 ∅:131 は:29 も:15	3		pool	English 'take care of' gives no clue: you 'see to the bother' with mendou o miru. Keep it apart from mendokusai (what a hassle).
+un-ga-ii	describing	un ga ii	be lucky	569	179.49	0.62	9.03	が:490 ∅:69 ADJ:5 も:5	5		pool	'Lucky' is an adjective in English, but Japanese says un ga ii (your luck is good), or rakkii. Unlucky is un ga warui.
+imi-ga-wakaru	senses	imi ga wakaru	make sense; get what something means	567	178.86	0.20	10.57	が:355 ∅/サ変:109 は:77 を:18	5		pool	There's no 'make sense' verb: 'that makes no sense' is imi ga wakaranai (imi wakannai), 'the meaning can't be grasped'.
+kao-o-miru	people	kao o miru	see someone's face	561	176.96	0.19	9.77	を:408 ∅:56 が:38 は:31	3		corpus	
+onaka-ga-suku	body	onaka ga suku	get hungry	520	164.04	0.70	13.47	∅:218 が:78 は:4 も:4	5	yes	pool	No 'hungry' adjective: the stomach empties, onaka suita, past tense for the feeling now.
+shashin-o-toru	media	shashin o toru	take a photo	515	162.45	0.31	10.72	を:357 ∅:95 は:17 に:17	5	yes	pool	
+me-o-samasu	body	me o samasu	wake up	515	162.45	0.08	11.31	を:510 ∅:3 が:2	3		corpus	Getting out of bed is okiru; me o samasu is coming awake.
+kenka-o-suru	people	kenka o suru	fight, argue	507	159.93	0.65	5.79	∅/サ変:424 を:58 は:12 も:10	4		pool	Not tatakau, which means battle: a fight or argument between people is kenka suru (kare to kenka shita, with to).
+te-o-ageru	body	te o ageru	raise your hand	489	154.25	0.05	10.3	を:481 は:6 ∅:1 も:1	3		corpus	
+kyoumi-ga-aru	senses	kyoumi ga aru	be interested (in)	479	151.1	0.23	7.94	が:332 ∅:119 は:26 も:2	4	yes	pool	'Interested' is not an adjective: X ni kyoumi ga aru. Learners say omoshiroi desu, which means 'it's interesting/funny'.
+ki-ga-tsuku	senses	ki ga tsuku	notice, realise	476	150.15	0.03	9.67	が:475 に:1	5	yes	pool	English 'notice' has no 'mind' word, so learners say miru or wakaru; and it is ki GA TSUKU, not ki o tsukeru (be careful).
+kibun-ga-ii	senses	kibun ga ii	feel good, be in a good mood	472	148.89	0.43	8.76	が:232 ADJ:127 は:46 ∅:41	4		corpus	'Feel good' is not kanjiru; mood is kibun ga ii, physical comfort kimochi ii.
+dainashi-ni-suru	describing	dainashi ni suru	ruin, spoil	466	147.0	0.85	5.67	に:465 ∅:1	3		corpus	No single verb for 'ruin'; say dainashi ni suru/naru.
+shigoto-ni-modoru	work-school	shigoto ni modoru	get back to work	463	146.05	0.07	10.11	に:444 から:10 ∅/サ変:4 は:2	3		corpus	
+kuruma-ni-noru	travel	kuruma ni noru	get in a car, ride in a car	458	144.47	0.11	11.02	に:449 ∅:6 を:3	5		corpus	Takes ni, not o; 'get in' is noru, not hairu.
+kanji-ga-ii	describing	kanji ga ii	be pleasant, nice (a person or place)	441	139.11	0.44	8.66	ADJ:410 が:19 で:6 ∅:3	4		pool	For a pleasant manner or vibe, not yasashii: kanji ga ii, as in kanji no ii hito / kanji warui.
+kodomo-ga-iru	people	kodomo ga iru	have children	438	138.17	0.15	8.95	が:299 は:92 も:30 ∅:8	5		pool	Not kodomo o motte iru or kodomo ga aru: people you 'have' take ga iru (kodomo iru? kyoudai iru? kareshi iru?).
+kimochi-ga-wakaru	senses	kimochi ga wakaru	know how someone feels	437	137.85	0.23	10.31	は:261 が:105 ∅:45 も:15	4		pool	'I know how you feel' is sono kimochi wakaru, not shitteru: shiru is for knowing facts.
+iya-na-kao-o-suru	people	iya na kao o suru	make a face, look annoyed	435	137.22	0.14	5.56	∅:293 を:119 は:14 に:7	3		pool	Not kao o tsukuru: wearing an expression is kao o suru, as in hen na kao shiteru or sonna kao shinaide.
+nioi-ga-suru	senses	nioi ga suru	smell (something), there's a smell	409	129.02	0.38	5.48	が:362 ∅:27 は:11 も:6	5	yes	pool	Not nioi o kagu or nioi da: 'it smells good' is ii nioi ga suru, with suru.
+fuku-o-kiru	clothes	fuku o kiru	put on / wear clothes	397	125.23	0.32	12.18	を:328 ∅:49 は:15 も:5	5	yes	pool	kiru only covers tops and whole-body clothes (shirt, coat, dress, kimono). English 'wear' also covers shoes, trousers, hats and glasses, which each take a different verb.
+denwa-ni-deru	media	denwa ni deru	answer the phone	386	121.76	0.05	9.61	に:379 ∅/サ変:4 も:2 は:1	4	yes	pool	Not kotaeru: picking up the phone is denwa ni deru ('come out to the phone'); kotaeru answers a question.
+keisatsu-o-yobu	people	keisatsu o yobu	call the police	379	119.55	0.23	11.21	を:301 ∅:41 は:23 に:8	2		corpus	'Call' meaning summon is yobu; denwa suru is only phoning.
+koe-o-kiku	people	koe o kiku	hear someone's voice	379	119.55	0.23	10.02	を:287 が:61 は:12 も:10	3		corpus	A voice you just happen to hear is koe ga kikoeru.
+renraku-o-toru	people	renraku o toru	get in touch, stay in contact	373	117.66	0.10	9.98	を:322 ∅/サ変:32 は:13 が:4	4	yes	pool	Not renraku o morau or tamotsu: making or keeping contact is toru (mada renraku totteru? / renraku ga torenai).
+shitsumon-ga-aru	work-school	shitsumon ga aru	have a question	371	117.03	0.16	7.57	が:324 は:36 ∅/サ変:6 も:5	4		corpus	'Have a question' is aru, not motsu.
+shitsumon-ni-kotaeru	work-school	shitsumon ni kotaeru	answer a question	367	115.77	0.16	11.9	に:362 と:2 で:2 を:1	3		corpus	Takes ni, not o.
+toshi-o-toru	body	toshi o toru	get older, age	365	115.14	0.57	10.38	を:296 ∅:62 は:7	4		pool	Not furuku naru (that's for things): people 'take years', toshi o toru (toshi totta naa).
+me-o-tojiru	body	me o tojiru	close your eyes	353	111.35	0.06	10.7	を:336 は:7 ∅:7 が:3	3		corpus	Eyes take tojiru (or tsuburu), not shimeru.
+ie-o-deru	home	ie o deru	leave the house	338	106.62	0.05	9.45	を:225 から:108 ∅:5	4		corpus	The place you leave takes o: ie o deru.
+hima-ga-nai	time-money	hima ga nai	have no free time	327	103.15	0.78	7.53	は:198 が:47 も:41 ∅:40	4		corpus	
+moto-ni-modosu	home	moto ni modosu	put back where it was	320	100.94	0.32	12.2	に:314 へ:6	3		corpus	'Put back' is moto ni modosu, not oku.
+me-ga-sameru	home	me ga sameru	wake up (open your eyes)	317	100.0	0.05	10.64	が:294 は:20 ∅:2 を:1	4	yes	pool	Not only okiru: waking from sleep is me ga sameru ('eyes wake'); okiru is getting up.
+tasuke-ni-naru	people	tasuke ni naru	be a help	315	99.36	0.18	8.42	に:305 と:9 ∅:1	3		corpus	'Be helpful' is tasuke ni naru, not tetsudau.
+yousu-o-miru	time-money	yousu o miru	wait and see, keep an eye on it	314	99.05	0.59	9.12	を:282 ∅:23 が:4 から:3	4		pool	Not matsu: 'let's wait and see' is yousu o miru ('watch how things look').
+hon-o-yomu	hobbies	hon o yomu	read a book	313	98.73	0.27	11.68	を:241 で:32 ∅:16 は:16	5		corpus	
+hitori-ni-suru	people	hitori ni suru	leave someone alone	312	98.42	0.11	5.08	に:245 と:44 で:18 ∅:2	3		corpus	'Leave me alone' is hitori ni shite, not oite iku.
+iki-o-suru	body	iki o suru	breathe	310	97.79	0.31	5.08	を:252 ∅:38 は:12 も:6	3		corpus	No single everyday verb for 'breathe'; say iki o suru.
+kimochi-ga-ii	senses	kimochi ga ii	feels good, pleasant	308	97.16	0.16	8.11	∅:234 ADJ:33 が:31 は:10	5	yes	pool	Not tanoshii or ii kanji for a bath, breeze or massage: physical pleasantness is kimochi ii.
+atama-ga-ii	describing	atama ga ii	be smart, clever	294	92.74	0.09	7.99	が:207 ∅:48 も:16 は:15	5	yes	pool	Not sumaato (that means slim and stylish): 'smart' is atama ga ii. Kashikoi exists but is less everyday.
+te-o-hanasu	body	te o hanasu	let go (of someone's hand)	283	89.27	0.03	9.74	を:226 が:55 から:2	3		corpus	
+ki-ga-kawaru	time-money	ki ga kawaru	change one's mind	282	88.95	0.02	9.03	が:270 は:10 も:1 ∅:1	3		pool	Not kokoro o kaeru: changing your mind is ki ga kawaru, with ki as the subject (ki ga kawattara itte).
+owari-ni-suru	work-school	owari ni suru	wrap up, call it a day	279	88.01	0.37	4.93	に:264 は:9 と:3 ∅:2	3		corpus	Ending a session is owari ni suru; owaru alone is intransitive.
+doa-o-shimeru	home	doa o shimeru	close the door	276	87.06	0.12	11.47	を:242 ∅:19 は:14 も:1	5		corpus	
+sainou-ga-aru	describing	sainou ga aru	be talented	275	86.75	0.49	7.18	が:197 ∅:57 も:11 は:10	3		corpus	'Talented' is an adjective; Japanese says sainou ga aru.
+gakkou-ni-iku	work-school	gakkou ni iku	go to school	269	84.85	0.25	9.0	に:192 へ:49 ∅:24 は:3	5		corpus	
+denwa-o-kakeru	media	denwa o kakeru	make a phone call	265	83.59	0.04	9.53	を:218 ∅/サ変:22 に:15 は:3	4	yes	pool	Not yobu or iu: phoning someone is denwa o kakeru (or simply denwa suru); yobu is summon, iu is call something a name.
+kibun-ga-warui	body	kibun ga warui	feel sick, feel queasy	263	82.96	0.24	10.04	が:216 ∅:32 を:12 は:2	4		pool	Means physically sick or queasy, not 'grumpy' (that is kigen ga warui); kimochi warui is the casual twin.
+byouin-ni-iku	body	byouin ni iku	see a doctor	262	82.65	0.25	8.97	に:193 へ:51 ∅:12 は:3	5	yes	pool	'See a doctor' is byouin ni iku (go to the clinic), not isha ni au; byouin covers any clinic.
+doa-ga-aku	home	doa ga aku	the door opens	260	82.01	0.11	11.02	が:176 は:46 を:27 ∅:7	4	yes	pool	Not doa ga akeru: when it opens by itself or is open, use aku (doa aiteru yo); akeru needs someone to do it.
+yoko-ni-naru	body	yoko ni naru	lie down	259	81.7	0.54	8.2	に:259	4	yes	pool	English 'lie down' has no Japanese verb a learner could guess: it's 'become sideways', yoko ni naru. It has nothing to do with the 'lie' of uso o tsuku.
+geemu-o-suru	hobbies	geemu o suru	play video games	256	80.75	0.29	4.8	を:164 ∅:59 は:14 も:6	5	yes	pool	Not geemu o asobu: asobu takes no game object, so a game is done with suru or yaru (geemu yatteta).
+hi-o-tsukeru	food	hi o tsukeru	light the stove or a fire; light a cigarette	256	80.75	0.26	9.88	を:250 は:3 ∅:2 が:1	3		pool	English 'light' has no obvious verb; it is tsukeru, the same verb as for lights, and hi o tsukete sounds like ki o tsukete (be careful).
+kimochi-ga-warui	senses	kimochi ga warui	gross, creepy; feel queasy	254	80.12	0.14	9.86	∅:242 が:9 ADJ:3	5	yes	pool	'Gross/creepy' and 'I feel queasy' are both kimochi warui; learners reach for kirai or byouki.
+monku-o-iu	people	monku o iu	complain	249	78.55	0.58	8.9	を:116 ∅:91 は:32 も:7	4		pool	There is no verb for 'complain': you 'say complaints', as in monku iwanaide (guchi o iu = grumble, vent).
+yakusoku-o-mamoru	time-money	yakusoku o mamoru	keep a promise	247	77.91	0.06	10.02	を:159 は:73 ∅/サ変:10 が:4	3		pool	Not yakusoku o motsu or tamotsu: keeping a promise is mamoru, 'protect' (jikan o mamoru = be on time).
+koi-ni-ochiru	people	koi ni ochiru	fall in love	247	77.91	0.33	11.68	に:247	2		corpus	
+omoi-o-suru	senses	omoi o suru	go through (a feeling)	246	77.6	0.37	4.75	を:140 も:68 ∅:24 は:8	3		pool	'I had a scary experience' is kowai omoi o shita, not kowai keiken o motta: the feeling is the object of suru.
+nodo-ga-kawaku	body	nodo ga kawaku	get thirsty	243	76.65	0.38	13.03	が:182 ∅:34 を:12 は:8	4	yes	pool	No 'thirsty' adjective: the throat dries, nodo kawaita, past tense for the feeling now.
+koe-ga-kikoeru	senses	koe ga kikoeru	hear a voice	242	76.34	0.15	11.43	が:212 は:13 ∅:7 も:5	4		corpus	English makes the hearer the subject; Japanese makes the voice the subject with ga kikoeru, not o kiku.
+kuruma-o-tomeru	travel	kuruma o tomeru	park the car	240	75.71	0.06	10.18	を:229 ∅:5 が:3 も:2	4		pool	Not kuruma o paaku suru: parking is just 'stopping' the car, tomeru (chuusha suru is the word on signs). Not yameru, which means quitting.
+you-ga-aru	people	you ga aru	have something to do	239	75.39	0.54	6.98	が:228 は:5 も:3 ∅:3	4		corpus	
+shashin-o-miru	media	shashin o miru	look at photos	234	73.81	0.14	8.61	を:185 ∅:24 で:13 は:7	4		corpus	
+mondai-o-kakaeru	people	mondai o kakaeru	have problems	234	73.81	0.06	10.71	を:226 も:6 は:2	2		corpus	English 'have problems' leads to motsu; Japanese says kakaeru or mondai ga aru.
+yoyuu-ga-nai	time-money	yoyuu ga nai	have no time, money or room to spare	233	73.5	0.64	7.04	は:113 が:80 も:22 ∅:17	4	yes	pool	There's no verb for 'afford': 'I can't afford it' and 'I'm swamped' are both yoyuu ga nai (no margin).
+terebi-o-miru	media	terebi o miru	watch TV	233	73.5	0.47	8.69	を:113 で:66 ∅:42 は:8	5		corpus	
+atama-o-utsu	body	atama o utsu	hit one's head	231	72.87	0.07	10.25	を:213 ∅:9 に:3 は:3	3		corpus	English 'hit' leads to tataku or naguru; bumping your own head is utsu.
+keiken-ga-aru	work-school	keiken ga aru	have experience	231	72.87	0.19	6.91	が:133 は:45 ∅/サ変:39 も:14	3		corpus	English 'have' leads to motsu; experience takes ga aru.
+tanoshimi-ni-suru	senses	tanoshimi ni suru	look forward to	230	72.55	0.57	4.65	に:221 ∅:4 を:2 も:1	4		pool	Japanese has no verb for 'look forward': you 'make it a pleasure', as in tanoshimi ni shiteru (ne).
+otona-ni-naru	people	otona ni naru	grow up	228	71.92	0.71	8.03	に:228	4		corpus	English 'grow up' leads to sodatsu; becoming an adult is otona ni naru.
+guai-ga-warui	body	guai ga warui	feel unwell	227	71.61	0.60	9.96	が:177 ∅:48 は:1 も:1	4	yes	pool	Not kanjiru: 'I feel sick' has no feel verb; the condition is bad, guai ga warui.
+kagi-o-kakeru	home	kagi o kakeru	lock (the door)	221	69.71	0.17	10.27	を:175 ∅:19 は:16 が:7	4	yes	pool	English 'lock' gives no verb: you kakeru the key, and 'it's locked' is kagi ga kakatteru (kagi o shimeru is also heard).
+kanji-ga-suru	senses	kanji ga suru	feel like, seem	218	68.77	0.22	4.57	が:163 ∅:26 は:14 に:10	4		pool	Not kanjiru for 'it feels like...': the everyday form is ~ kanji ga suru (or ~ tte kanji).
+tegami-o-kaku	media	tegami o kaku	write a letter	218	68.77	0.31	11.28	を:169 に:18 ∅:17 は:7	3		corpus	
+moto-ni-modoru	describing	moto ni modoru	go back to how it was	218	68.77	0.22	9.82	に:199 へ:18 ∅:1	3		corpus	
+tabako-o-suu	food	tabako o suu	smoke (a cigarette)	216	68.14	0.46	12.52	を:118 ∅:60 は:25 も:8	4	yes	pool	English 'smoke' is one verb; Japanese 'inhales' tobacco (tabako o suu). kemuri (smoke) is no help.
+shawaa-o-abiru	home	shawaa o abiru	take a shower	211	66.56	0.63	13.22	を:153 ∅:51 も:5 が:1	5	yes	pool	Not shawaa o toru: you abiru (pour over yourself) a shower.
+tomodachi-ni-naru	people	tomodachi ni naru	become friends (with someone)	206	64.98	0.12	7.82	に:200 は:4 と:2	4		pool	Not tomodachi o tsukuru: 'make friends with X' is X to tomodachi ni naru, while tomodachi ga dekiru means gaining friends in general.
+denwa-o-kureru	media	denwa o kureru	give me a call	206	64.98	0.03	9.49	を:121 ∅/サ変:78 も:7	3		corpus	English 'call me' leads to yobu (summon); a phone call is denwa (o) kureru or denwa shite.
+eiga-o-miru	hobbies	eiga o miru	watch a movie	206	64.98	0.31	8.5	を:127 ∅:46 で:12 は:12	5		corpus	
+kyoumi-o-motsu	senses	kyoumi o motsu	become interested in	205	64.67	0.10	8.76	を:179 ∅:22 は:4	3		corpus	English 'be interested' is an adjective; Japanese uses the noun kyoumi with motsu or ga aru, and ni for the topic.
+eikyou-o-ataeru	describing	eikyou o ataeru	have an influence on	205	64.67	0.24	10.6	を:204 は:1	2		corpus	English 'affect' is one verb; Japanese uses the noun eikyou with ataeru (or ukeru for being affected).
+mi-o-mamoru	body	mi o mamoru	protect oneself	204	64.35	0.16	10.37	を:188 は:9 も:7	2		corpus	English 'oneself' leads to jibun o mamoru; the set uses mi.
+naka-ga-ii	people	naka ga ii	get along well, be close	203	64.03	0.67	7.57	が:115 ∅:69 ADJ:10 は:9	5	yes	pool	There is no verb for this: 'we get along' is naka ga ii (the relationship is good). This naka is not naka 'inside'.
+eigo-o-hanasu	work-school	eigo o hanasu	speak English	203	64.03	0.52	9.84	を:83 で:42 は:35 ∅:24	4		corpus	
+orei-o-iu	people	orei o iu	thank someone	199	62.77	0.66	8.58	を:151 が:33 ∅:6 は:5	4		pool	There is no verb for 'thank': you 'say thanks' with orei o iu (orei also means a thank-you gift).
+renraku-ga-toreru	people	renraku ga toreru	be able to reach someone	199	62.77	0.05	10.42	が:112 を:28 ∅/サ変:28 は:26	4		pool	Not just renraku dekinai: 'I can't reach him' is renraku ga torenai (or renraku ga tsukanai).
+warugi-wa-nai	people	warugi wa nai	mean no harm	197	62.14	0.93	6.8	は:191 が:4 ADJ:1 ∅:1	3		corpus	English 'I didn't mean it' leads to imi; Japanese says warugi wa nakatta.
+shigoto-ga-dekiru	describing	shigoto ga dekiru	be good at one's job, be capable	195	61.51	0.03	7.36	が:128 ∅/サ変:31 は:22 も:7	4		pool	Not shigoto ga jouzu: being good at your job is dekiru, usually shigoto ga dekiru hito.
+ame-ga-furu	weather	ame ga furu	it rains; rain falls	194	61.2	0.52	13.02	が:134 ∅:20 を:19 は:13	5	yes	pool	Not ame ga ochiru, and English 'it rains' has no Japanese verb of its own: rain and snow fall with furu.
+ame-ni-furareru	weather	ame ni furareru	get caught in the rain	194	61.2	0.52	13.02	が:134 ∅:20 を:19 は:13	3	yes	pool	English 'get caught in the rain' points to tsukamaru. Japanese uses the suffering passive of furu with ni: ame ni furareta.
+shigoto-ga-owaru	work-school	shigoto ga owaru	get off work	194	61.2	0.03	9.29	が:80 は:72 を:26 ∅/サ変:13	5	yes	pool	Not shigoto o deru or a 'get off' verb: you say the work itself ends, shigoto ga owaru (shigoto owatta? nanji ni owaru?).
+ki-o-tsukau	people	ki o tsukau	be considerate, go to trouble	192	60.56	0.01	8.19	を:143 ∅:46 は:2 が:1	4	yes	pool	Not ki o tsukeru (be careful): tsukau means fussing over others, as in ki o tsukawanaide (don't go to any trouble).
+jikan-o-kakeru	time-money	jikan o kakeru	spend time on	191	60.25	0.03	9.05	を:136 ∅:36 も:13 は:5	3		pool	Not jikan o tsukau or sugosu: putting time into something is kakeru (jikan kakete tsukutta), the transitive of kakaru.
+jikan-o-sugosu	time-money	jikan o sugosu	spend time (with someone, somewhere)	190	59.93	0.03	9.53	を:172 ∅:12 も:4 は:2	3		pool	Not tsukau, which treats time as a resource you use up. Spending time with people, or spending a weekend, is sugosu (shuumatsu dou sugoshita?).
+fune-ni-noru	travel	fune ni noru	get on a boat	186	58.67	0.11	10.29	に:179 を:3 ∅:2 も:1	2		corpus	Particle is ni, not o; noru covers every vehicle.
+henji-o-suru	people	henji o suru	reply, answer (someone)	183	57.73	0.40	4.32	∅/サ変:111 を:67 は:3 が:1	4		pool	English 'answer' leads to kotae, which is an answer to a question; replying to a person, message or call is henji (o) suru.
+heya-o-deru	home	heya o deru	leave the room	183	57.73	0.07	9.02	を:108 から:73 ∅:2	4		corpus	English 'leave' leads to saru or hanareru; leaving a place is o deru.
+meiwaku-o-kakeru	people	meiwaku o kakeru	cause someone trouble	181	57.1	0.71	10.26	を:86 ∅:73 は:21 も:1	5	yes	pool	Not meiwaku o suru or tsukuru: you 'hang' trouble on people with kakeru (meiwaku kakete gomen).
+hito-no-sei-ni-suru	people	hito no sei ni suru	blame (someone else), pin it on someone	180	56.78	0.41	4.3	に:164 ∅:14 で:2	4		pool	Not semeru, which means 'criticise, attack'. To pin the blame on someone is X no sei ni suru.
+joudan-o-iu	people	joudan o iu	joke, kid around	178	56.15	0.33	8.4	を:83 ∅:64 で:18 は:8	4	yes	pool	Not joudan o tsukuru or suru: a joke is 'said', and joudan da yo means just kidding.
+byouki-ni-naru	body	byouki ni naru	get sick, fall ill	177	55.83	0.32	7.65	に:177	4		pool	Not byouki o toru or byouki ga dekiru: illness is something you 'become' (ni naru).
+kusuri-o-nomu	body	kusuri o nomu	take medicine	176	55.52	0.20	10.73	を:138 は:17 ∅:15 も:6	5	yes	pool	Not kusuri o toru: medicine is 'drunk', kusuri o nomu, even pills.
+se-ga-takai	describing	se ga takai	be tall	176	55.52	0.42	11.31	が:159 は:6 も:5 を:3	5	yes	pool	Not 'kare wa takai' or 'nagai': height is se ga takai, and takai alone sounds like 'expensive'.
+oto-ga-suru	senses	oto ga suru	hear a sound, there's a noise	175	55.2	0.17	4.25	が:161 ∅:5 も:4 を:2	4	yes	pool	Not oto o kiku: you don't 'hear a noise', the noise 'does' it: nanka oto ga shita.
+himitsu-o-mamoru	people	himitsu o mamoru	keep a secret	172	54.26	0.19	10.23	を:117 は:52 が:2 も:1	3		pool	Not himitsu o motsu or tamotsu. You keep a secret with mamoru (protect), the same verb as yakusoku o mamoru.
+botan-o-osu	home	botan o osu	press the button	171	53.94	0.59	12.73	を:161 ∅:6 は:2 が:2	4		corpus	
+suutsu-o-kiru	clothes	suutsu o kiru	wear a suit	170	53.63	0.33	11.38	を:141 ∅:22 が:3 は:2	3		corpus	English 'wear' is one verb; Japanese splits it: kiru for suits and tops, haku for trousers and shoes.
+uwasa-o-kiku	people	uwasa o kiku	hear a rumour	169	53.31	0.28	8.98	を:92 は:52 で:9 に:6	3		corpus	
+ii-nioi	senses	ii nioi	a nice smell	168	52.99	0.16	7.27	ADJ:161 が:4 は:2 も:1	5		corpus	English 'it smells good' sends learners looking for a verb; Japanese says ii nioi (ga suru).
+sekinin-o-toru	work-school	sekinin o toru	take responsibility	168	52.99	0.15	9.19	を:129 は:19 ∅:16 も:3	3		corpus	
+denwa-o-kiru	media	denwa o kiru	hang up the phone	164	51.73	0.02	9.22	を:136 ∅/サ変:15 は:11 が:1	4	yes	pool	Not kakeru (hang): denwa o kakeru makes the call; ending it is kiru ('cut').
+toire-ni-iku	home	toire ni iku	go to the toilet	163	51.42	0.37	8.33	に:131 ∅:27 へ:3 も:2	5		corpus	
+koohii-o-nomu	food	koohii o nomu	drink coffee	161	50.79	0.26	10.71	を:88 ∅:53 は:11 が:9	5		corpus	
+meeru-o-okuru	media	meeru o okuru	send an email or message	159	50.16	0.19	10.26	を:94 で:39 が:11 ∅/サ変:10	4		pool	
+ana-o-akeru	clothes	ana o akeru	make a hole; get (one's ears) pierced	159	50.16	0.21	10.5	を:148 ∅:9 まで:1 が:1	3		pool	Not ana o tsukuru. Making a hole is akeru, and getting your ears pierced is piasu (no ana) o akeru.
+sora-o-tobu	travel	sora o tobu	fly in the sky	159	50.16	0.21	11.65	∅:79 を:73 も:5 は:1	3		corpus	English 'in the sky' leads to de; moving through the sky takes o.
+michi-ni-mayou	travel	michi ni mayou	get lost	156	49.21	0.06	10.89	に:151 を:3 が:1 ∅:1	4	yes	pool	Not michi o nakusu or michi o ushinau: getting lost is michi ni mayou ('stray on the road'), or casually just mayotta.
+onegai-ga-aru	people	onegai ga aru	have a favour to ask	156	49.21	0.59	6.37	が:156	4	yes	pool	Not onegai o kiku, which means agreeing to a favour: asking one opens with onegai ga aru n da kedo.
+shiji-ni-shitagau	work-school	shiji ni shitagau	follow instructions	156	49.21	0.19	11.21	に:153 を:3	3		corpus	English 'follow' suggests tsuite iku; instructions take shitagau with ni.
+teokure-ni-naru	time-money	teokure ni naru	be too late (to save)	156	49.21	0.94	7.49	に:155 と:1	2		corpus	English 'too late' leads to osoi; for something past saving it is teokure.
+youji-ga-aru	time-money	youji ga aru	have something to do, have an errand	155	48.89	0.59	6.36	が:145 ∅:8 も:2	4	yes	pool	Learners say suru koto ga aru or just isogashii. The standard vague excuse is chotto youji ga atte.
+setsumei-ga-tsuku	senses	setsumei ga tsuku	can be explained	155	48.89	0.05	9.54	が:126 は:15 ∅/サ変:8 も:6	3		corpus	'I can't explain it' is setsumei ga tsukanai, not a form of setsumei suru.
+tsugou-ga-ii	time-money	tsugou ga ii	be a good time (for someone)	153	48.26	0.47	7.16	が:98 ∅:53 で:1 は:1	4	yes	pool	Not benri: a time that suits someone is tsugou ga ii (benri is for tools and places). The opposite is tsugou ga warui, 'can't make it'.
+namae-o-oshieru	people	namae o oshieru	tell (someone) your name	153	48.26	0.05	9.73	を:134 ∅:8 は:8 も:2	4		corpus	'Tell me your name' uses oshieru, not iu.
+choushi-ga-ii	body	choushi ga ii	be in good shape	153	48.26	0.34	7.16	∅:51 が:46 は:33 ADJ:19	4		corpus	
+kikai-ga-aru	time-money	kikai ga aru	have a chance	153	48.26	0.17	6.32	が:116 は:26 も:8 ∅:3	3		corpus	'Get a chance' is kikai ga aru, not kikai o morau.
+iya-na-yokan-ga-suru	senses	iya na yokan ga suru	have a bad feeling	152	47.95	0.73	4.05	が:139 ∅/サ変:10 は:3	3		pool	'I have a bad feeling about this' is iya na yokan ga suru, not warui kimochi ga aru, which sounds like nausea.
+zenryoku-o-tsukusu	work-school	zenryoku o tsukusu	do one's very best	152	47.95	0.52	12.22	を:147 は:4 で:1	2		corpus	'Do my best' is zenryoku o tsukusu or ganbaru, never suru.
+nimotsu-o-matomeru	travel	nimotsu o matomeru	pack up your things	152	47.95	0.27	12.4	を:138 ∅:11 は:2 も:1	3		corpus	'Pack your things' is matomeru (gather up), not tsumeru.
+kuruma-kara-oriru	travel	kuruma kara oriru	get out of the car	151	47.63	0.04	9.9	から:111 を:40	4		corpus	'Get out of the car' is oriru (step down), not deru.
+kuchi-o-tojiru	body	kuchi o tojiru	close your mouth	151	47.63	0.08	10.8	を:145 は:6	2		corpus	English 'close' suggests shimeru; mouths and eyes take tojiru.
+machigai-o-okasu	work-school	machigai o okasu	make a mistake	150	47.32	0.08	10.55	を:135 は:8 ∅:4 も:3	2		corpus	'Make a mistake' is not tsukuru; say machigai o okasu or just machigaeru.
+jikan-ga-tatsu	time-money	jikan ga tatsu	time passes	148	46.69	0.02	9.22	が:86 ∅:40 も:12 は:10	4	yes	pool	Not jikan ga tooru: time passing is tatsu (jikan tatsu no hayai ne), a different tatsu from 'stand'.
+koe-o-dasu	people	koe o dasu	speak up; say it out loud	148	46.69	0.09	9.55	を:77 に:38 ∅:23 は:5	3		pool	English 'speak up' pushes toward hanasu. Japanese 'puts out the voice': motto koe dashite.
+tasuke-o-yobu	people	tasuke o yobu	call for help	148	46.69	0.08	9.81	を:146 は:2	2		corpus	
+iki-ga-dekiru	body	iki ga dekiru	be able to breathe	148	46.69	0.15	7.19	が:117 ∅:15 も:12 は:3	3		corpus	'I can't breathe' is iki ga dekinai; there is no single verb 'breathe'.
+uta-o-utau	hobbies	uta o utau	sing a song	146	46.05	0.23	11.94	を:119 は:8 に:7 も:5	4		pool	
+souzou-ga-tsuku	senses	souzou ga tsuku	can imagine	146	46.05	0.10	9.8	も:64 ∅/サ変:45 が:27 は:10	3		corpus	'I can't imagine' is usually souzou mo tsukanai, not souzou dekinai.
+iken-o-kiku	work-school	iken o kiku	ask someone's opinion	145	45.74	0.25	8.77	を:107 は:17 が:9 も:8	3		corpus	'Ask for opinions' uses kiku, not tanomu.
+me-o-akeru	body	me o akeru	open your eyes	145	45.74	0.02	9.04	を:141 ∅:2 は:2	3		corpus	
+tanomi-ga-aru	people	tanomi ga aru	have a favor to ask	144	45.42	0.57	6.25	が:143 も:1	4		corpus	'I have a favor to ask' is tanomi ga aru, not a form of kiku.
+basu-ni-noru	travel	basu ni noru	take the bus	144	45.42	0.32	10.38	に:142 を:2	5		corpus	'Take the bus' is noru with ni, not toru.
+jishin-ga-aru	senses	jishin ga aru	be confident	143	45.11	0.32	6.24	が:89 ∅/サ変:29 は:19 も:6	4		pool	'Confident' is an adjective in English, but Japanese has confidence: jishin aru / jishin nai. (Jishin is also 'earthquake', as in jishin ga okiru.)
+mondai-o-okosu	people	mondai o okosu	cause trouble	143	45.11	0.03	9.68	を:123 ∅:12 は:6 も:2	3		corpus	'Make trouble' is okosu (raise), not tsukuru.
+messeeji-o-okuru	media	messeeji o okuru	send a message	142	44.79	0.19	10.13	を:131 が:6 は:3 で:1	5		corpus	
+e-o-kaku	hobbies	e o kaku	draw or paint a picture	141	44.48	0.32	12.31	を:106 ∅:10 が:10 に:9	4	yes	pool	Not e o hiku (that is sen o hiku, draw a line) or e o nuru (paint a wall): drawn or painted, a picture takes kaku.
+junbi-ga-totonou	work-school	junbi ga totonou	preparations are complete	141	44.48	0.04	10.1	が:95 は:45 ∅/サ変:1	2		corpus	
+atama-o-sageru	people	atama o sageru	bow your head	141	44.48	0.04	10.29	を:124 ∅:17	3		corpus	Also means to apologize or ask humbly, not just a physical bow.
+namae-o-tsukeru	people	namae o tsukeru	name (a baby, pet or file)	138	43.53	0.05	8.72	を:110 ∅:14 は:7 まで:3	4		pool	Not namae o ageru: you 'attach' a name (namae o tsukeru).
+tame-ni-naru	senses	tame ni naru	be worthwhile, do you good (advice, a book, an experience)	138	43.53	0.03	7.07	に:134 ∅:3 と:1	3		pool	Not yaku ni tatsu for advice or experiences: a tool is yaku ni tatsu, but something that does you good is tame ni naru.
+mondai-ga-okiru	work-school	mondai ga okiru	a problem comes up	138	43.53	0.03	9.51	が:131 は:4 も:3	4		corpus	
+michi-o-akeru	travel	michi o akeru	make way, step aside	137	43.22	0.06	9.72	を:110 が:12 は:8 も:5	2		corpus	'Make way' is akeru (clear), not tsukuru.
+kouka-ga-aru	describing	kouka ga aru	be effective, work	137	43.22	0.35	6.18	が:93 ∅:29 は:13 も:2	3		corpus	'This medicine works' is kouka ga aru or kiku, not hataraku.
+mizu-o-nomu	food	mizu o nomu	drink water	137	43.22	0.09	10.14	を:101 ∅:15 が:12 は:6	5		corpus	
+daigaku-ni-iku	work-school	daigaku ni iku	go to university	136	42.9	0.31	8.07	に:91 へ:30 ∅:13 まで:1	4		corpus	
+jinsei-o-okuru	people	jinsei o okuru	lead a life	135	42.58	0.06	9.6	を:129 ∅:4 が:1 は:1	2		corpus	'Live a happy life' is jinsei o okuru (send), not ikiru with jinsei.
+nyuusu-o-miru	media	nyuusu o miru	watch the news	131	41.32	0.13	7.82	を:70 で:41 ∅:11 は:6	4		corpus	
+oto-ga-kikoeru	senses	oto ga kikoeru	hear a sound, can hear	129	40.69	0.13	10.89	が:100 は:9 ∅:8 も:7	4	yes	pool	'Can you hear me?' is kikoeru?, not kiku: kiku is deliberate listening, and the thing heard takes ga.
+keikaku-o-tateru	time-money	keikaku o tateru	make a plan	128	40.38	0.07	10.36	を:117 ∅/サ変:6 は:4 も:1	3		pool	Not keikaku o tsukuru: plans are tateru, 'stand up'. yotei o tateru works the same way.
+kioku-ga-nai	senses	kioku ga nai	have no memory of	128	40.38	0.12	6.16	が:49 に:38 は:20 ADJ:9	3		corpus	'I don't remember that' is often kioku ga nai, not only oboete inai.
+mawari-o-miru	senses	mawari o miru	look around	124	39.11	0.25	7.78	を:117 ∅:3 も:3 が:1	3		corpus	'Look around' needs mawari (surroundings) as the object; there is no 'around' particle.
+okane-ga-nai	time-money	okane ga nai	have no money	124	39.11	0.09	6.11	が:62 ∅:26 も:22 は:14	5		corpus	'I have no money' is okane ga nai, not motte inai.
+kuchi-o-akeru	body	kuchi o akeru	open your mouth	124	39.11	0.06	9.71	を:114 が:6 ∅:4	3		corpus	
+reigi-tadashii	describing	reigi tadashii	polite, well-mannered	123	38.8	0.54	10.8	∅:123	3		corpus	
+yakusoku-ga-aru	time-money	yakusoku ga aru	have plans with someone	122	38.48	0.03	5.93	が:113 も:5 ∅/サ変:4	4		pool	yakusoku isn't only 'promise': it means any arrangement to meet, so kyou wa yakusoku ga aru = I'm meeting someone today.
+sekinin-o-motsu	work-school	sekinin o motsu	take responsibility	120	37.85	0.11	8.08	を:103 ∅:9 は:7 が:1	3		corpus	'Take responsibility' is sekinin o motsu or toru, not ukeru.
+messeeji-o-nokosu	media	messeeji o nokosu	leave a message	119	37.54	0.16	10.78	を:109 が:4 も:2 ∅:2	3		corpus	'Leave a message' is nokosu, not deru or saru.
+byouin-ni-tsurete-iku	body	byouin ni tsurete iku	take someone to the hospital	119	37.54	0.11	9.85	に:103 へ:15 まで:1	4		corpus	'Take someone' is tsurete iku; motte iku is only for things.
+hon-o-kaku	hobbies	hon o kaku	write a book	119	37.54	0.10	10.2	を:59 に:51 も:5 が:3	2		corpus	
+koe-o-kakeru	people	koe o kakeru	speak to, call out to	118	37.22	0.07	9.28	を:91 ∅:24 も:2 が:1	4	yes	pool	English 'go up and talk to' leads to hanasu; approaching someone is koe o kakeru (koe o dasu just means make a sound).
+chi-ga-deru	body	chi ga deru	bleed	118	37.22	0.08	8.5	が:103 は:10 ∅:3 も:2	3		pool	'Bleed' is one verb in English; Japanese says blood comes out, chi ga deru (chi deteru yo).
+jishin-ga-nai	senses	jishin ga nai	not be confident	118	37.22	0.26	6.06	が:78 ∅/サ変:23 は:16 も:1	4		corpus	'I'm not sure I can' is jishin ga nai, not wakaranai.
+keiken-ga-nai	work-school	keiken ga nai	have no experience	117	36.91	0.10	6.03	が:49 ∅/サ変:31 は:21 も:12	3		corpus	'I have no experience' is keiken ga nai, not motte inai.
+yotei-ga-aru	time-money	yotei ga aru	have plans	116	36.59	0.28	5.94	が:83 は:23 ∅/サ変:7 も:3	5		pool	Not yotei o motsu: having plans is aru (yotei aru kara = I've got plans).
+choushi-ga-warui	body	choushi ga warui	be off, not feel right; (a machine) act up	116	36.59	0.26	8.98	が:78 ∅:35 も:2 ADJ:1	5		pool	Not just genki ja nai: choushi ga warui covers being off form, a bad stomach, or a phone or PC that's acting up.
+okuyami-o-moushiageru	people	okuyami o moushiageru	offer condolences	116	36.59	0.83	13.33	∅:95 を:21	2		corpus	'I'm sorry for your loss' is okuyami moushiagemasu, not sumimasen.
+kekka-ga-deru	work-school	kekka ga deru	the results come out	115	36.28	0.11	8.53	が:98 は:10 ∅:3 も:2	4		pool	Not kekka o morau: results 'come out' (kekka ga deru). Getting good results yourself is kekka o dasu.
+biiru-o-nomu	food	biiru o nomu	drink beer	115	36.28	0.26	10.32	を:69 ∅:33 も:5 は:4	5		corpus	
+kega-wa-nai	body	kega wa nai	not hurt, no injuries	115	36.28	0.10	6.0	は:98 が:9 ∅/サ変:6 ADJ:1	3		corpus	"Are you hurt?" is kega wa nai?, not itai desu ka.
+ohanashi-ga-aru	people	ohanashi ga aru	have something to tell you	115	36.28	0.26	5.92	が:114 は:1	3		corpus	
+kuuki-o-suu	body	kuuki o suu	breathe (fresh) air	115	36.28	0.31	11.73	を:77 が:25 ∅:10 も:2	3		corpus	"Get some fresh air" is soto no kuuki o suu; suu (inhale) does the work of 'breathe'.
+bangou-o-oshieru	media	bangou o oshieru	give someone your number	112	35.33	0.10	9.8	を:95 ∅:13 は:2 も:2	4		corpus	"Give me your number" is bangou oshiete (teach/tell), not ageru or kudasai.
+jishin-o-motsu	describing	jishin o motsu	be confident	112	35.33	0.25	8.05	を:92 ∅/サ変:11 が:9	3		corpus	No adjective for 'confident'; say jishin o motsu or jishin ga aru.
+osewa-ni-naru	people	osewa ni naru	be looked after, be indebted	111	35.01	0.67	7.0	に:111	4	yes	pool	There is no English equivalent: thanks for someone's help is osewa ni narimashita (you 'became' the one cared for), not sewa o shite kurete arigatou.
+genki-o-dasu	people	genki o dasu	cheer up	111	35.01	0.19	9.39	を:59 ∅:52	5	yes	pool	There's no verb for 'cheer up': you say genki dashite ('put out your energy').
+hitokoto-iu	people	hitokoto iu	say a word, say something	111	35.01	0.42	7.75	∅:56 も:36 で:18 を:1	3		corpus	
+sekinin-o-ou	work-school	sekinin o ou	bear responsibility	111	35.01	0.10	11.02	を:100 は:8 も:1 が:1	2		corpus	'Take responsibility' is sekinin o toru; ou means carry it on your back.
+seki-o-hazusu	work-school	seki o hazusu	step away (from one's desk or the table)	110	34.7	0.16	11.08	を:108 ∅:2	3		pool	Not seki o deru. Stepping away for a moment is hazusu ('remove'), as in the phone line tadaima seki o hazushite orimasu.
+panikku-ni-naru	senses	panikku ni naru	panic	110	34.7	0.58	6.98	に:110	3		corpus	'Panic' is a verb in English, so learners say panikku suru; natives say panikku ni naru.
+kyuuka-o-toru	work-school	kyuuka o toru	take time off	107	33.75	0.40	8.68	を:103 ∅:2 が:1 も:1	3		corpus	
+mioboe-ga-aru	senses	mioboe ga aru	look familiar	106	33.44	0.85	5.81	が:76 ∅:23 は:7	3		corpus	No 'look' verb: 'looks familiar' is mioboe ga aru (have a memory of seeing).
+isu-ni-suwaru	home	isu ni suwaru	sit on a chair	106	33.44	0.27	11.22	に:104 ∅:2	4		corpus	'Sit on' takes ni, not ue ni or de.
+shokku-o-ukeru	senses	shokku o ukeru	be shocked, be hurt (by news, a remark)	104	32.81	0.53	9.81	を:96 ∅:7 も:1	3		pool	Not shokku suru: you receive a shock, so shokku uketa. Shokku datta is the other natural way.
+nioi-o-kagu	senses	nioi o kagu	smell (sniff) something	103	32.49	0.10	11.44	を:89 は:4 が:4 も:3	2		pool	'Smell this!' is kaide mite: actively smelling is kagu, not nioi o suru or kiku.
+paatii-o-suru	people	paatii o suru	have a party	103	32.49	0.10	3.49	∅:47 を:41 は:6 に:4	3		corpus	'Have a party' is suru (or hiraku), not motsu.
+maigo-ni-naru	travel	maigo ni naru	get lost	102	32.18	0.83	6.88	に:102	4		corpus	'Get lost' is maigo ni naru (become a lost child), even for adults.
+tayori-ni-suru	people	tayori ni suru	count on someone	102	32.18	0.51	3.48	に:102	3		corpus	'Rely on' is not shinrai suru (trust); it is tayori ni suru.
+wain-o-nomu	food	wain o nomu	drink wine	100	31.54	0.28	10.16	を:79 ∅:9 も:4 は:4	4		corpus	
+kaze-o-hiku	body	kaze o hiku	catch a cold	99	31.23	0.66	11.01	∅:51 を:48	5	yes	pool	Not kaze o toru or tsukamu: you 'pull' a cold, kaze o hiku (kaze hiichatta).
+mado-o-akeru	home	mado o akeru	open the window	99	31.23	0.14	9.83	を:75 ∅:16 は:6 が:1	4		pool	The pairing itself is guessable; the risk is transitivity, mado o akeru (you do it) vs mado ga aiteru (it's open).
+hossa-o-okosu	body	hossa o okosu	have a seizure or attack	99	31.23	0.46	10.81	を:86 ∅:9 は:3 も:1	2		corpus	'Have a heart attack' uses okosu (set off), not motsu.
+eikyou-o-ukeru	people	eikyou o ukeru	be influenced by	99	31.23	0.11	9.5	を:92 ∅/サ変:3 も:2 は:2	3		corpus	English passive leads to eikyou sareru; natives say eikyou o ukeru (receive influence).
+fuku-o-nugu	clothes	fuku o nugu	take off clothes	98	30.91	0.08	10.91	を:89 ∅:4 も:3 は:2	4		pool	Not fuku o toru: every garment comes off with nugu, whichever verb put it on.
+okane-o-harau	time-money	okane o harau	pay (money)	98	30.91	0.07	10.02	を:61 ∅:22 は:12 も:1	5		corpus	
+osake-o-nomu	food	osake o nomu	drink alcohol	98	30.91	0.53	10.22	を:43 ∅:32 は:13 も:8	5		corpus	
+kokyou-ni-kaeru	travel	kokyou ni kaeru	go back to one's hometown	98	30.91	0.34	9.63	に:82 へ:16	2		corpus	
+kakkou-o-suru	clothes	kakkou o suru	be dressed (a certain way)	97	30.6	0.09	3.4	を:52 ∅:43 に:1 も:1	3	yes	pool	Not kakkou o kiru: 'dressed like that' is sonna kakkou shite. Kakkou means outfit or look.
+kanshin-o-motsu	senses	kanshin o motsu	take an interest in	97	30.6	0.23	7.84	を:93 ∅:4	2		corpus	'Take an interest' uses motsu (hold), not toru.
+te-o-furu	people	te o furu	wave (one's hand)	96	30.28	0.01	8.23	を:86 ∅:6 で:2 も:1	3		pool	English 'wave' is one verb; Japanese shakes the hand, te o furu.
+monku-ga-aru	people	monku ga aru	have a complaint, got a problem	96	30.28	0.22	5.66	∅:48 が:46 は:2	3		corpus	'Complain' is monku o iu; nanka monku aru? is 'got a problem?'
+tenki-ga-ii	weather	tenki ga ii	the weather is nice	95	29.97	0.57	6.48	ADJ:68 が:10 も:9 ∅:5	5	yes	pool	Not kirei na tenki or yasashii tenki for 'a beautiful/nice day': good weather is just ii, and bad weather is warui.
+dengen-o-kiru	media	dengen o kiru	turn off (a phone or device)	95	29.97	0.37	10.51	を:65 ∅:14 は:11 が:3	4		pool	Not sumaho o kesu: devices are powered off with dengen o kiru ('cut the power'). Kesu is for lights and TVs.
+doresu-o-kiru	clothes	doresu o kiru	wear a dress	95	29.97	0.26	10.64	を:78 ∅:13 は:4	2		corpus	'Wear' splits by body part: kiru for dresses and tops, haku for skirts and trousers.
+kokoroatari-ga-aru	senses	kokoroatari ga aru	have an idea (who or where)	95	29.97	0.59	5.65	が:51 は:38 ∅:6	2		corpus	'Any idea where it went?' is kokoroatari aru?, not aidia.
+kagi-ga-kakaru	home	kagi ga kakaru	be locked (the lock is on)	94	29.65	0.07	9.45	が:78 ∅:9 も:4 は:3	4	yes	pool	English 'it's locked' has no noun in it, so learners can't guess kagi ga kakatteru. It's the intransitive partner of kagi o kakeru.
+nakanaori-o-suru	people	nakanaori o suru	make up (after a fight)	94	29.65	0.85	3.36	∅/サ変:93 は:1	3		pool	There is no phrasal verb for 'make up': it is nakanaori suru ('mending the relationship'), never tsukuru.
+besuto-o-tsukusu	work-school	besuto o tsukusu	do one's best	94	29.65	0.46	11.66	を:84 は:10	3		corpus	'Do your best' is not besuto o suru; it is besuto o tsukusu (or ganbaru).
+te-o-tsunagu	people	te o tsunagu	hold hands	93	29.34	0.01	8.16	を:63 ∅:21 は:5 も:4	3		pool	Not te o motsu: holding hands is 'linking' them with tsunagu, the same verb as netto ni tsunagu.
+honki-de-iu	people	honki de iu	mean it, say it seriously	93	29.34	0.26	7.48	で:93	4		corpus	'Are you serious?' is honki de itteru?, not majime (earnest by nature).
+kuruma-ni-noseru	travel	kuruma ni noseru	give someone a ride / lift	92	29.02	0.02	9.25	に:86 まで:3 を:2 で:1	3	yes	pool	Not raido o ageru: giving a lift uses noseru ('put on board'), the transitive of noru. To ask for one: nosete kureru?
+me-o-tsuburu	body	me o tsuburu	close one's eyes	92	29.02	0.01	8.92	を:86 ∅:4 は:2	3		pool	Not me o shimeru: shimeru is for doors and windows. Eyes take tsuburu (casual) or tojiru (neutral).
+oto-o-tateru	home	oto o tateru	make noise	92	29.02	0.09	10.39	を:86 は:2 が:1 ∅:1	3		pool	Not oto o tsukuru: 'make a noise' is oto o tateru ('raise' a sound).
+kibou-o-motsu	senses	kibou o motsu	have hope	92	29.02	0.12	7.73	を:70 が:14 は:5 も:3	2		corpus	
+haji-o-kaku	people	haji o kaku	embarrass yourself, lose face	91	28.71	0.27	12.08	を:88 ∅:2 も:1	4		pool	Not hazukashii ni naru: making a fool of yourself is haji o kaku, with the same kaku as ase o kaku and ibiki o kaku.
+yoyuu-ga-aru	time-money	yoyuu ga aru	have time or money to spare; be relaxed about it	90	28.39	0.25	5.57	が:64 は:17 ∅:7 も:2	4		pool	English 'can afford' or 'have time to spare' has no single verb here; Japanese uses yoyuu ga aru / nai for time, money and calm.
+oogoe-o-dasu	people	oogoe o dasu	shout, raise your voice	90	28.39	0.37	9.19	∅:54 を:34 が:1 は:1	4		corpus	'Raise your voice' tempts ageru; Japanese puts out (dasu) a big voice.
+un-ga-warui	describing	un ga warui	be unlucky	89	28.07	0.10	8.51	が:74 ∅:14 は:1	4		corpus	
+seikatsu-o-okuru	home	seikatsu o okuru	lead a life	88	27.76	0.07	9.26	を:77 ∅/サ変:5 は:3 が:2	2		corpus	'Lead/live a life' uses okuru (send), not michibiku.
+kuruma-o-dasu	travel	kuruma o dasu	drive (someone), offer to take the car	87	27.44	0.02	8.32	を:70 から:9 ∅:5 に:2	3		pool	Not unten suru when offering a lift: 'I'll drive' is kuruma dasu yo ('take the car out').
+namae-o-kaku	work-school	namae o kaku	write your name	87	27.44	0.03	9.14	を:56 が:20 も:4 ∅:4	4		corpus	
+kodomo-ga-dekiru	people	kodomo ga dekiru	be expecting, have a baby on the way	86	27.13	0.03	6.33	が:74 は:8 も:3 ∅:1	3		pool	Not kodomo o motsu: 'we're having a baby' is kodomo ga dekita. Kodomo ga iru means you already have children.
+yuuki-ga-nai	describing	yuuki ga nai	not have the courage	86	27.13	0.12	5.59	が:52 は:16 ADJ:7 も:6	3		corpus	'Have courage' is aru/nai, not motsu.
+paatii-o-hiraku	people	paatii o hiraku	throw a party	86	27.13	0.09	10.02	を:72 ∅:12 は:2	2		corpus	'Throw/have a party': Japanese opens (hiraku) it.
+ishiki-o-ushinau	body	ishiki o ushinau	lose consciousness	85	26.81	0.14	9.6	を:81 は:2 ∅/サ変:2	2		corpus	'Lose' is ushinau here, not nakusu.
+chiryou-o-ukeru	body	chiryou o ukeru	get medical treatment	85	26.81	0.14	9.37	を:79 も:3 ∅/サ変:2 は:1	3		corpus	'Get treatment' tempts morau; Japanese receives it with ukeru.
+koudou-o-okosu	work-school	koudou o okosu	take action	85	26.81	0.06	9.88	を:84 ∅/サ変:1	2		corpus	'Take action' is not toru; Japanese raises (okosu) it.
+yuuki-o-dasu	senses	yuuki o dasu	work up the courage, be brave	84	26.5	0.12	8.96	を:79 ∅:5	3		pool	Not yuuki o motsu or mitsukeru: you 'put out' courage, yuuki o dasu (yuuki dashite itta), as in genki o dasu.
+yakusoku-o-yaburu	time-money	yakusoku o yaburu	break a promise	83	26.18	0.02	9.13	を:71 は:7 ∅/サ変:5	2		pool	Not yakusoku o kowasu: breaking a promise is yaburu, 'tear'.
+kutsu-o-haku	clothes	kutsu o haku	put on / wear shoes	82	25.87	0.17	11.71	を:63 ∅:9 も:6 は:4	5	yes	pool	Not kutsu o kiru: anything on the feet or legs takes haku.
+jouhou-o-atsumeru	work-school	jouhou o atsumeru	gather information	82	25.87	0.03	9.67	を:75 は:4 ∅:2 が:1	3		corpus	
+tsugou-ga-warui	time-money	tsugou ga warui	not a good time	82	25.87	0.25	8.51	が:64 ∅:18	4		corpus	'I'm not free/busy' maps to tsugou ga warui, not hima ja nai.
+jijou-ga-aru	people	jijou ga aru	have one's reasons	82	25.87	0.27	5.44	が:74 も:5 は:2 ∅:1	3		corpus	
+denwa-ga-naru	media	denwa ga naru	the phone rings	81	25.55	0.01	8.46	が:75 ∅/サ変:4 は:1 も:1	3		pool	Sounds like naru 'become', but this is 鳴る 'ring': keitai natteru yo = 'your phone's ringing'.
+ki-ga-chiru	senses	ki ga chiru	get distracted	81	25.55	0.01	7.44	が:78 を:2 は:1	3		pool	'Distracted/distracting' has no adjective in Japanese: ki ga chiru (urusakute ki ga chiru); learners only manage shuuchuu dekinai.
+tayori-ni-naru	describing	tayori ni naru	be reliable, dependable (someone you can count on)	81	25.55	0.40	6.54	に:81	3		pool	There is no plain adjective for 'reliable': a dependable person 'becomes a support', tayori ni naru. Tayori ni suru means 'rely on someone'.
+kaigi-ga-aru	work-school	kaigi ga aru	have a meeting	81	25.55	0.26	5.42	が:80 も:1	4		corpus	'Have a meeting' is kaigi ga aru, not motsu.
+uta-o-kiku	media	uta o kiku	listen to a song	81	25.55	0.13	7.92	を:63 ∅:5 が:5 は:4	4		corpus	
+kodomo-o-umu	people	kodomo o umu	have a baby	81	25.55	0.03	9.65	を:61 ∅:9 も:4 は:4	3		corpus	'Have a baby' is umu (give birth), not motsu.
+zutsuu-ga-suru	body	zutsuu ga suru	have a headache	81	25.55	0.48	3.15	が:69 も:5 に:3 ∅:2	4		corpus	'Have a headache' is zutsuu ga suru, not motsu or aru.
+shatsu-o-kiru	clothes	shatsu o kiru	put on a shirt	80	25.24	0.23	10.41	を:64 ∅:11 は:3 も:2	4		corpus	'Wear' splits by body part: kiru for tops, haku for bottoms.
+masuku-o-tsukeru	clothes	masuku o tsukeru	wear a mask	80	25.24	0.23	8.31	を:72 は:5 も:2 ∅:1	4		corpus	'Wear' a mask is tsukeru (or suru), not kiru.
+misu-o-okasu	work-school	misu o okasu	make a mistake	80	25.24	0.20	10.58	を:71 は:8 も:1	2		corpus	'Make a mistake' is not tsukuru; okasu, or casually misu suru.
+on-ni-suru	media	on ni suru	turn on (a setting)	80	25.23	0.70	2.13	に:37 ∅/サ変:35	3		corpus	Toggles take on ni suru; tsukeru is for lights and TVs.
+namae-o-oboeru	people	namae o oboeru	remember a name	79	24.92	0.03	9.08	を:49 は:14 ∅:10 も:4	4		corpus	oboeru is memorise/keep in mind; recalling on the spot is omoidasu.
+seki-ni-suwaru	travel	seki ni suwaru	sit in a seat	79	24.92	0.12	10.54	に:74 で:3 ∅:2	3		corpus	Sit takes ni (into the seat), not o.
+shashin-o-miseru	media	shashin o miseru	show a photo	79	24.92	0.05	9.18	を:62 ∅:11 は:4 が:1	4		corpus	
+kaado-o-tsukau	time-money	kaado o tsukau	pay by card	79	24.92	0.14	8.57	を:48 が:14 は:6 ∅:6	4		corpus	
+beruto-o-shimeru	clothes	beruto o shimeru	fasten a belt	79	24.92	0.31	11.22	を:61 ∅:14 は:4	3		corpus	'Fasten/buckle' is shimeru (tighten), not tsukeru.
+shinbun-o-yomu	media	shinbun o yomu	read the newspaper	78	24.6	0.28	10.15	を:42 で:18 ∅:9 は:8	3		corpus	
+asa-ni-naru	time-money	asa ni naru	morning comes	78	24.6	0.13	6.47	に:78	3		corpus	'Morning comes' is asa ni naru (becomes), not kuru.
+ase-o-kaku	body	ase o kaku	sweat, break a sweat	77	24.29	0.53	12.32	を:61 ∅:12 も:2 は:2	4	yes	pool	'Sweat' is a verb in English; Japanese 'scratches out' sweat: ase o kaku, not ase suru.
+yakedo-o-suru	body	yakedo o suru	get burned, burn oneself	77	24.29	0.71	3.07	∅/サ変:66 を:9 は:1 まで:1	3		pool	Not te ga yakeru or moeru: burning your skin is the noun yakedo + suru, like kega o suru.
+meshi-o-kuu	food	meshi o kuu	eat, grab a meal	77	24.29	0.53	11.14	を:35 ∅:27 が:8 は:4	4		corpus	
+ushiro-o-muku	body	ushiro o muku	turn around	77	24.29	0.07	10.65	を:60 ∅:17	3		corpus	'Turn around' is muku (face), not mawaru (spin).
+boushi-o-kaburu	clothes	boushi o kaburu	wear / put on a hat	76	23.97	0.19	11.74	を:64 ∅:7 も:4 まで:1	4	yes	pool	Not boushi o kiru: anything pulled over the head (hat, cap, helmet, hood) takes kaburu.
+kodomo-ga-umareru	people	kodomo ga umareru	have a baby (a child is born)	76	23.97	0.03	9.36	が:67 は:5 も:4	4		pool	Not kodomo o motsu or kodomo ga aru: 'we had a baby' is kodomo ga umareta (or akachan ga umareta), with the child as subject.
+deeto-ni-sasou	people	deeto ni sasou	ask someone out	76	23.97	0.12	11.19	に:64 ∅/サ変:10 を:1 も:1	3		corpus	'Ask out' is sasou with ni, not kiku (ask a question).
+ofu-ni-suru	media	ofu ni suru	turn off (a setting)	76	23.97	0.60	3.05	に:70 ∅/サ変:5 と:1	3		corpus	Settings and toggles take ofu ni suru; kesu is for lights and TVs.
+dainashi-ni-naru	describing	dainashi ni naru	get ruined	75	23.66	0.14	6.41	に:75	3		corpus	No single verb for 'be ruined'; it is dainashi ni naru (dainashi ni suru to ruin it).
+jiko-ni-au	travel	jiko ni au	have an accident	74	23.34	0.12	8.59	に:74	3		pool	Not jiko o shita or jiko o motta: being in an accident is jiko ni au, the same sound as meeting someone. A driver who causes one jiko o okosu.
+esa-o-yaru	home	esa o yaru	feed (a pet or animal)	74	23.34	0.18	7.79	を:68 は:5 ∅:1	3		pool	There's no single verb for 'feed': you give the food (esa o yaru or ageru), with the same yaru as mizu o yaru.
+tabi-ni-deru	travel	tabi ni deru	set off on a journey	74	23.34	0.11	7.95	に:74	3		corpus	With tabi the verb is deru (go out), not iku.
+hokori-o-motsu	describing	hokori o motsu	take pride (in)	74	23.34	0.09	7.41	を:71 が:1 に:1 ∅:1	2		corpus	'Take pride' uses motsu (hold), not toru.
+ongaku-o-kiku	media	ongaku o kiku	listen to music	72	22.71	0.14	7.77	を:50 ∅:12 も:5 が:3	5		pool	
+koe-ga-suru	senses	koe ga suru	hear a voice	72	22.71	0.04	2.97	が:50 を:10 ∅:6 も:3	3		pool	'I heard someone's voice' is koe ga shita (suru) when it just reaches you, not koe o kiita.
+kigen-ga-warui	senses	kigen ga warui	be in a bad mood	72	22.71	0.37	8.34	が:48 ∅:18 は:3 を:3	4		pool	Not kibun ga warui, which means feeling sick: a bad mood is kigen ga warui. A good mood is kigen ga ii or gokigen.
+ryokou-ni-iku	travel	ryokou ni iku	go on a trip	72	22.71	0.19	7.16	に:63 ∅/サ変:4 へ:4 は:1	5		corpus	
+aji-ga-suru	food	aji ga suru	taste (like something)	71	22.4	0.20	2.96	が:63 は:2 に:2 も:2	4	yes	pool	English 'taste' is a verb; Japanese says the flavour 'does': ichigo no aji ga suru, not ichigo o ajiwau.
+yume-ga-kanau	senses	yume ga kanau	a dream comes true	71	22.4	0.04	10.14	が:57 は:10 ∅:2 を:2	3		pool	Not yume ga hontou ni naru: dreams are 'granted' (kanau).
+toraburu-ni-makikomareru	people	toraburu ni makikomareru	get caught up in trouble	71	22.4	0.22	11.66	に:71	3		corpus	'Get into trouble' is the passive makikomareru with ni, not hairu.
+tonari-ni-suwaru	people	tonari ni suwaru	sit next to someone	71	22.4	0.26	10.76	に:71	4		corpus	'Next to' is tonari; tsugi means next in order.
+ocha-o-nomu	food	ocha o nomu	drink tea; have tea	71	22.4	0.26	9.7	を:54 ∅:13 は:3 が:1	5		corpus	'Have tea' is nomu; motsu would mean holding it.
+bideo-o-miru	media	bideo o miru	watch a video	71	22.4	0.22	6.99	を:57 ∅:6 で:4 は:3	4		corpus	
+beddo-de-neru	home	beddo de neru	sleep in a bed	70	22.08	0.10	10.18	で:56 に:14	4		corpus	'In bed' takes de (place of action), not naka.
+akumu-o-miru	body	akumu o miru	have a nightmare	70	22.08	0.28	6.97	を:62 は:5 も:2 ∅:1	3		corpus	Dreams are seen (miru), not had (motsu).
+guai-ga-ii	body	guai ga ii	feel well; work well	70	22.08	0.19	6.03	が:34 ADJ:17 は:12 も:4	3		corpus	'I feel well' is guai ga ii, not kanjiru.
+seifuku-o-kiru	clothes	seifuku o kiru	wear a uniform	70	22.08	0.35	10.34	を:60 も:5 ∅:4 は:1	3		corpus	'Wear' splits by body part; uniforms take kiru.
+owakare-o-iu	people	owakare o iu	say goodbye	70	22.08	0.69	7.09	を:62 も:4 は:3 が:1	3		corpus	
+kisoku-o-yaburu	work-school	kisoku o yaburu	break the rules	70	22.08	0.18	10.85	を:64 も:5 は:1	3		corpus	Rules are broken with yaburu (tear), not kowasu.
+meeru-o-miru	media	meeru o miru	check email or messages	70	22.08	0.08	6.93	を:45 ∅/サ変:17 は:5 が:2	4		corpus	'Check email' is usually just miru.
+takushii-o-yobu	travel	takushii o yobu	call a taxi	69	21.77	0.22	9.18	を:54 ∅:12 は:2 も:1	3		pool	Not takushii o kakeru: kakeru goes with denwa (the phone call), while the taxi you summon is yobu.
+doa-ga-shimaru	home	doa ga shimaru	the door closes	69	21.77	0.03	9.78	が:64 は:5	4		corpus	Intransitive shimaru (it closes) vs transitive shimeru (close it).
+tooi-mukashi	time-money	tooi mukashi	long, long ago	69	21.77	0.11	11.0	ADJ:67 ∅:2	2		corpus	
+himei-o-ageru	senses	himei o ageru	let out a scream	69	21.77	0.41	9.67	を:68 ∅:1	2		corpus	Screams are raised (ageru), not dasu.
+henji-ga-nai	people	henji ga nai	no reply	69	21.77	0.15	5.28	が:54 は:11 も:3 ∅/サ変:1	4		corpus	
+meeru-ga-kuru	media	meeru ga kuru	get an email or message	68	21.45	0.08	7.31	が:57 ∅/サ変:5 で:3 は:2	4	yes	pool	Not eru, and usually not morau: 'I got a message' is meeru kita ('a message came').
+kami-o-kiru	describing	kami o kiru	get a haircut, cut one's hair	68	21.45	0.11	9.8	を:47 ∅:15 は:6	4	yes	pool	Not kami o kitte morau or a 'haircut' noun: Japanese says kami kitta even when a hairdresser did the cutting.
+atsuryoku-o-kakeru	people	atsuryoku o kakeru	put pressure on	68	21.45	0.44	8.88	を:64 ∅:4	3		corpus	'Put pressure' is kakeru, not oku.
+benkyou-ni-naru	work-school	benkyou ni naru	be informative; learn a lot (from it)	67	21.13	0.11	6.25	に:67	4	yes	pool	Not benkyou shita: 'that's really useful to know' is benkyou ni naru (benkyou ni narimashita), and nobody is studying.
+koe-ga-ookii	describing	koe ga ookii	have a loud voice	67	21.13	0.04	9.63	が:42 ADJ:19 を:2 は:2	4		pool	Not koe ga takai, which means high-pitched, and not just urusai: a loud voice is ookii (big).
+mizu-o-nagasu	home	mizu o nagasu	flush (the toilet); run water	67	21.13	0.05	10.02	に:57 を:5 も:3 が:1	3		pool	'Flush' has no Japanese verb of its own: you make the water flow, as in toire no mizu nagashite.
+kiji-o-yomu	media	kiji o yomu	read an article	67	21.13	0.15	9.83	を:55 ∅:6 で:3 は:2	3		corpus	
+nimotsu-o-motsu	travel	nimotsu o motsu	carry the bags	67	21.13	0.12	7.3	を:52 ∅:10 は:3 で:1	4		corpus	'Carry bags' is motsu; hakobu is moving them somewhere.
+fuyu-ga-kuru	weather	fuyu ga kuru	winter comes	67	21.13	0.24	7.35	が:61 ∅:5 も:1	3		corpus	
+keitai-o-motsu	media	keitai o motsu	have your phone on you	67	21.13	0.11	7.29	を:38 ∅/サ変:17 は:8 も:4	4		corpus	'Have a phone (on you)' is motte iru, not aru.
+inu-o-kau	home	inu o kau	have / keep a dog	66	20.82	0.08	10.96	を:46 は:9 ∅:6 も:5	4	yes	pool	Not inu o motsu or inu ga aru: pets are 'kept' (kau, which sounds like 'buy'). You can also say inu ga iru.
+koohii-o-ireru	food	koohii o ireru	make coffee	66	20.82	0.11	8.32	を:36 ∅:27 に:2 も:1	4		corpus	'Make coffee' is ireru, not tsukuru.
+ishiki-ga-modoru	body	ishiki ga modoru	come to; regain consciousness	66	20.82	0.11	8.16	が:59 は:5 ∅/サ変:2	2		corpus	Consciousness returns (modoru) on its own; there is no 'regain' verb.
+muki-o-kaeru	home	muki o kaeru	turn around; change direction	66	20.82	0.80	9.6	を:66	2		corpus	
+noo-to-iu	people	noo to iu	say no	66	20.82	0.61	7.01	と:63 ∅:2 を:1	2		corpus	Quoted words take to: noo to iu.
+yotei-ga-nai	time-money	yotei ga nai	have no plans	66	20.82	0.16	5.22	は:23 も:15 が:12 ∅/サ変:7	4		corpus	'Have plans' is yotei ga aru, not motsu.
+risuto-o-tsukuru	work-school	risuto o tsukuru	make a list	65	20.5	0.09	8.46	を:62 ∅/サ変:3	3		corpus	
+kaoiro-ga-warui	body	kaoiro ga warui	look pale, look unwell	64	20.19	0.55	8.19	が:49 ∅:14 も:1	4		pool	Not kao ga aoi or kao ga shiroi: 'you look pale' is kaoiro ga warui (your complexion is bad).
+asa-okiru	home	asa okiru	get up in the morning	64	20.19	0.11	9.6	∅:56 で:2 まで:2 は:2	5		corpus	
+ruuru-o-yaburu	people	ruuru o yaburu	break the rules	64	20.19	0.14	10.64	を:59 は:3 が:1 も:1	3		corpus	'Break' suggests kowasu; rules and promises are yaburu (tear).
+asa-ga-hayai	time-money	asa ga hayai	have an early start	63	19.87	0.10	9.81	∅:49 が:7 は:5 ADJ:1	4		corpus	English says 'I start early'; Japanese makes the morning the subject.
+supiido-o-otosu	travel	supiido o otosu	slow down	63	19.87	0.25	10.68	を:48 ∅:15	3		corpus	English 'slow down' has no noun; Japanese drops (otosu) the speed.
+tema-o-habuku	time-money	tema o habuku	save the trouble	63	19.87	0.44	13.01	が:33 を:26 も:3 は:1	3		corpus	'Save' suggests setsuyaku or tameru; effort is cut out with habuku.
+hi-ga-kureru	weather	hi ga kureru	it gets dark (evening)	62	19.56	0.03	9.8	が:57 も:5	3	yes	pool	No English verb matches: the day 'closes', hi ga kureru (casually kuraku naru). This kureru is unrelated to kureru 'give me'.
+hi-o-kesu	food	hi o kesu	turn off the stove / heat	62	19.56	0.06	9.73	を:59 は:3	3		pool	On the stove you 'put out the fire' (hi keshita?), not gasu o shimeru. Turning it on is hi o tsukeru.
+renraku-ga-kuru	people	renraku ga kuru	hear from someone (they get in touch)	62	19.56	0.02	6.9	が:52 ∅/サ変:6 は:4	4		pool	Not X kara kiku, which means you heard some news from X. "Did he get in touch?" is renraku kita?
+kokoroatari-ga-nai	senses	kokoroatari ga nai	have no idea who/why	62	19.56	0.38	5.14	は:27 が:18 ∅:13 も:3	3		corpus	English 'I have no idea' tempts aidia ga nai or wakaranai; for 'no idea who or what it could be' Japanese uses kokoroatari ga nai.
+atama-ga-itai	body	atama ga itai	have a headache	61	19.24	0.02	9.03	が:48 ∅:12 も:1	5	yes	pool	Not a 'have' sentence: the head hurts, atama ga itai; zutsuu is the written word.
+shigoto-o-mitsukeru	work-school	shigoto o mitsukeru	find a job	61	19.24	0.01	7.21	を:50 ∅/サ変:11	3		pool	Keep it apart from shigoto o sagasu (look for one) and shigoto ga mitsukaru (one turns up): mitsukeru is the transitive 'find'.
+enjin-o-kakeru	travel	enjin o kakeru	start the engine	61	19.24	0.19	8.67	を:45 ∅:12 は:3 が:1	3		corpus	'Start' suggests hajimeru; engines are kakeru.
+yuushoku-o-tsukuru	food	yuushoku o tsukuru	make dinner	61	19.24	0.13	8.42	を:46 ∅:7 は:4 も:2	3		corpus	
+kikai-o-nogasu	work-school	kikai o nogasu	miss a chance	61	19.24	0.07	10.7	を:57 は:4	3		corpus	'Miss' has no single verb; chances are nogasu, trains noriokureru.
+kankaku-ga-nai	body	kankaku ga nai	can't feel it, numb	61	19.24	0.23	5.11	が:53 は:5 ∅/サ変:1 も:1	2		corpus	English says 'I can't feel'; Japanese says there is no sensation.
+ha-o-migaku	home	ha o migaku	brush your teeth	60	18.93	0.13	11.64	を:56 は:3 ∅:1	4	yes	pool	Not ha o burashi suru or haku: teeth are migaku'd (polished).
+hashi-o-wataru	travel	hashi o wataru	cross a bridge	60	18.93	0.20	10.91	を:53 は:3 ∅:2 も:2	3		corpus	The bridge takes o as the route crossed, not ni.
+ofuro-ni-hairu	home	ofuro ni hairu	take a bath	59	18.61	0.52	7.77	に:47 ∅:12	5	yes	pool	Not ofuro o toru: you 'enter' the bath, so it's ofuro ni hairu.
+okane-o-tsukau	time-money	okane o tsukau	spend money	59	18.61	0.04	7.98	を:47 は:5 が:3 ∅:3	4		pool	Not okane o sugosu: money is spent with tsukau, 'use'; sugosu is only for spending time.
+buji-de-yokatta	people	buji de yokatta	glad you're safe	59	18.61	0.28	5.79	で:58 ADJ:1	4		corpus	English 'glad' tempts ureshii; relief that someone is safe is yokatta.
+kyaku-ga-kuru	people	kyaku ga kuru	have guests coming	59	18.61	0.15	7.15	が:50 は:7 も:2	4		corpus	English 'have guests'; Japanese says the guests come.
+iki-o-suu	body	iki o suu	breathe in	59	18.61	0.06	10.12	を:54 は:3 が:2	4		corpus	
+hi-o-okosu	hobbies	hi o okosu	build a fire	59	18.61	0.06	9.55	を:53 も:3 ∅:2 は:1	2		corpus	'Make a fire' suggests tsukuru; fires are okosu (raise).
+joudan-wa-yameru	people	joudan wa yameru	stop joking	59	18.61	0.11	8.42	は:38 ∅:13	3		corpus	
+shujutsu-o-ukeru	body	shujutsu o ukeru	have surgery, have an operation	58	18.3	0.14	8.89	を:53 も:3 ∅/サ変:1 は:1	3		pool	Not shujutsu o suru, which is what the surgeon does. The patient 'receives' it: shujutsu o ukeru.
+kaidan-o-noboru	home	kaidan o noboru	go up the stairs	58	18.3	0.16	10.88	を:55 ∅:2 は:1	3		corpus	The stairs take o as the route, not ni.
+gohan-o-taberu	food	gohan o taberu	eat a meal	58	18.3	0.40	9.5	∅:40 を:13 も:2 は:2	5		corpus	Gohan means a meal here, not only rice.
+ruuru-ni-shitagau	people	ruuru ni shitagau	follow the rules	58	18.3	0.12	10.05	に:58	2		corpus	Takes ni, not o; ruuru o mamoru is the more casual choice.
+kitai-ni-kotaeru	work-school	kitai ni kotaeru	live up to expectations	58	18.3	0.04	9.7	に:58	3		corpus	No 'live up'; you answer (kotaeru) expectations, with ni.
+masuku-o-suru	clothes	masuku o suru	wear a mask	57	17.98	0.16	2.64	を:38 ∅:16 は:3	4	yes	pool	Not masuku o kiru: small worn items (mask, watch, scarf, tie) just take suru, as in masuku shiteru. masuku o tsukeru is the announcement register.
+kagami-o-miru	home	kagami o miru	look in the mirror	57	17.98	0.34	6.68	を:42 で:12 ∅:1 に:1	4		corpus	'Look in' suggests ni; the mirror takes o.
+hidari-ni-magaru	travel	hidari ni magaru	turn left	57	17.98	0.21	11.88	に:45 へ:11 ∅:1	4		corpus	'Turn' suggests mawaru; at corners it is magaru.
+ii-taimingu	time-money	ii taimingu	good timing	57	17.98	0.30	5.74	ADJ:42 ∅:7 が:6 で:1	3		corpus	
+mikata-ni-naru	people	mikata ni naru	take someone's side	57	17.98	0.19	6.03	に:57	3		corpus	English 'side with' is a verb; Japanese says 'become an ally'
+ketsudan-o-kudasu	work-school	ketsudan o kudasu	make a decision	57	17.98	0.14	11.18	を:53 が:3 は:1	2		corpus	'make' is not tsukuru; decisions are handed down (kudasu)
+sainou-ga-nai	describing	sainou ga nai	have no talent	57	17.98	0.10	5.0	が:27 ADJ:11 は:8 も:7	3		corpus	
+ishiki-ga-aru	body	ishiki ga aru	be conscious	57	17.98	0.09	4.91	が:30 は:22 ∅/サ変:2 に:2	2		corpus	
+yakuwari-o-hatasu	work-school	yakuwari o hatasu	play a role	57	17.98	0.26	11.2	を:55 も:1 は:1	2		corpus	'play' is not asobu; roles are fulfilled (hatasu)
+ninki-ga-aru	describing	ninki ga aru	be popular	56	17.66	0.42	4.89	が:43 ∅:10 も:3	4	yes	pool	Not popyuraa da: 'popular' is ninki ga aru ('has popularity'), and ninki nai for unpopular.
+memai-ga-suru	body	memai ga suru	feel dizzy	56	17.66	0.74	2.61	が:53 と:1 を:1 も:1	3		pool	No 'dizzy' adjective: dizziness 'does', memai ga suru.
+dengon-o-nokosu	media	dengon o nokosu	leave a message	56	17.66	0.21	10.03	を:38 ∅/サ変:12 も:3 は:2	3		corpus	
+ishiki-ga-nai	body	ishiki ga nai	be unconscious	56	17.66	0.09	4.98	が:40 は:10 ∅/サ変:4 ADJ:1	2		corpus	
+naisho-ni-suru	people	naisho ni suru	keep it secret	55	17.35	0.72	2.59	に:55	4	yes	pool	Not naisho o mamoru: 'keep it secret' is ni suru, as in kore naisho ni shite ne (himitsu ni suru is the more neutral twin).
+me-ga-au	people	me ga au	make eye contact	55	17.35	0.01	8.02	に:44 が:9 を:1 ∅:1	3		pool	Not ai kontakuto o suru: eyes 'meet' with au 合う (fit), not au 会う (meet a person).
+karada-ni-ii	body	karada ni ii	good for you, healthy	55	17.35	0.05	5.66	に:29 ADJ:24 ∅:1 で:1	5		pool	'Healthy' sends learners to kenkou. For food and habits Japanese says karada ni ii ('good for the body'), and karada ni warui for the opposite.
+orei-o-suru	people	orei o suru	do something in thanks	55	17.35	0.18	2.59	を:26 ∅:13 と:8 が:5	4		corpus	Saying thanks is orei o iu; orei o suru means repaying with a gift or favour
+juusho-o-oshieru	people	juusho o oshieru	give someone your address	55	17.35	0.12	9.0	を:47 ∅:8	3		corpus	Telling someone an address is oshieru, not iu
+okane-ga-kakaru	time-money	okane ga kakaru	cost money	54	17.03	0.04	8.62	が:42 ∅:6 も:4 は:2	5	yes	pool	English 'it costs a lot' has no verb to copy: money kakaru, the same verb as time (kekkou kakatta).
+ocha-o-ireru	food	ocha o ireru	make tea	54	17.03	0.20	8.1	を:44 ∅:8 に:2	4	yes	pool	Not ocha o tsukuru: tea and coffee are 'put in' (ireru), not made.
+yuki-ga-furu	weather	yuki ga furu	it snows	54	17.03	0.28	11.56	が:46 も:3 を:2 は:2	4	yes	pool	Not yuki ga ochiru: snow falls with furu, the same verb as rain.
+terebi-ni-deru	media	terebi ni deru	appear on TV	54	17.03	0.11	7.53	に:51 ∅:1 が:1 から:1	3		pool	Not terebi ni iru: a person on TV terebi ni deru ('comes out on'); a programme is terebi de yaru.
+hige-o-soru	home	hige o soru	shave	54	17.03	0.35	12.64	を:42 ∅:10 は:2	3		pool	English 'shave' needs no object, but Japanese names what comes off: hige o soru (face), ashi no ke o soru (legs).
+okane-o-morau	time-money	okane o morau	get money (from someone)	54	17.03	0.04	9.15	を:31 ∅:13 が:5 は:4	4		corpus	Money received from someone is morau, not eru.
+nagame-ga-ii	travel	nagame ga ii	have a nice view	54	17.03	0.52	5.67	ADJ:41 が:7 は:5 も:1	3		corpus	
+genjitsu-o-miru	people	genjitsu o miru	face reality	54	17.03	0.11	6.58	を:50 ∅:2 も:1 は:1	3		corpus	'face' is not mukau here; you look at (miru) reality
+arashi-ga-kuru	weather	arashi ga kuru	a storm is coming	54	17.03	0.18	7.03	が:52 は:2	3		corpus	
+hi-ga-noboru	weather	hi ga noboru	the sun rises	54	17.03	0.03	9.31	が:48 は:5 を:1	3		corpus	
+genki-ga-nai	describing	genki ga nai	be down, low on energy	53	16.72	0.09	4.9	が:31 ∅:21 も:1	5	yes	pool	Not kanashii or daun: 'you seem down' is genki nai ne. Genki ja nai sounds more like 'not healthy'.
+chigai-ga-wakaru	senses	chigai ga wakaru	tell the difference	53	16.72	0.04	7.34	が:40 は:6 も:4 ∅:2	3		pool	Not chigai o iu or oshieru: here 'tell' is wakaru, and the difference is the subject. It is usually heard as chigai ga wakaranai.
+kawa-o-wataru	travel	kawa o wataru	cross a river	53	16.72	0.11	10.51	を:52 は:1	3		corpus	Crossing takes o, not ni
+kyanpu-ni-iku	hobbies	kyanpu ni iku	go camping	53	16.72	0.20	6.73	に:42 へ:4 ∅/サ変:4 は:3	3		corpus	Activity as purpose takes ni, no -ing form
+umi-o-wataru	travel	umi o wataru	cross the sea	53	16.72	0.07	10.15	を:50 ∅:3	2		corpus	Crossing takes o, not ni
+gyougi-ga-ii	describing	gyougi ga ii	well-mannered	53	16.72	0.69	5.64	∅:47 が:6	3		corpus	
+tsuba-o-haku	body	tsuba o haku	spit	53	16.72	0.72	11.74	を:49 ∅/サ変:4	2		corpus	One verb in English; Japanese needs noun + haku
+megane-o-kakeru	clothes	megane o kakeru	wear / put on glasses	52	16.4	0.28	8.49	を:37 ∅:7 は:6 も:2	4	yes	pool	Not megane o kiru or tsukeru: glasses 'hang' on the face, so the verb is kakeru.
+inu-no-sanpo-ni-iku	home	inu no sanpo ni iku	walk the dog	52	16.4	0.19	6.7	に:46 ∅/サ変:6	3		pool	Not inu o aruku, because aruku can't take the dog as its object. You go on the dog's walk: inu no sanpo ni iku, or inu o sanpo ni tsureteku.
+todoke-o-dasu	work-school	todoke o dasu	file an official notice	52	16.4	0.67	8.45	を:39 が:7 は:4 ∅:1	3		corpus	Forms are put out (dasu), not 'filed'
+kooto-o-kiru	clothes	kooto o kiru	put on a coat	52	16.4	0.22	9.88	を:44 ∅:5 は:3	4		corpus	'put on' splits by body part; coats take kiru
+yoru-osoku	time-money	yoru osoku	late at night	52	16.4	0.04	9.75	∅:44 も:8	4		corpus	
+mimi-ga-kikoeru	body	mimi ga kikoeru	be able to hear	52	16.4	0.05	9.56	が:32 は:8 に:4 まで:3	3		corpus	Hearing ability is kikoeru, not kiku
+kakugo-o-kimeru	senses	kakugo o kimeru	make up one's mind	52	16.4	0.08	9.95	を:47 ∅/サ変:3 は:2	3		corpus	
+hondai-ni-hairu	work-school	hondai ni hairu	get to the point	52	16.4	0.62	7.59	に:52	3		corpus	You enter (hairu) the main topic
+kanmei-o-ukeru	senses	kanmei o ukeru	be deeply impressed	52	16.4	0.72	8.86	を:51 は:1	2		corpus	Impression is received (ukeru), no passive needed
+tanomi-o-kiku	people	tanomi o kiku	do someone a favour	52	16.4	0.21	7.33	を:45 も:5 は:1 が:1	4		corpus	Granting a favour is kiku (listen), not suru
+kimae-ga-ii	describing	kimae ga ii	generous	51	16.09	0.96	5.59	が:32 ∅:19	3		corpus	
+tegami-o-yomu	media	tegami o yomu	read a letter	51	16.09	0.07	9.29	を:34 ∅:8 は:8 も:1	3		corpus	
+keshou-o-suru	clothes	keshou o suru	put on makeup	50	15.77	0.63	2.45	∅/サ変:33 を:16 も:1	3		pool	Not keshou o tsukeru or kiru: makeup takes suru. Many speakers say okeshou suru, and younger ones meiku suru.
+okane-o-kasegu	time-money	okane o kasegu	make / earn money	50	15.77	0.04	9.72	を:37 ∅:7 も:3 は:2	3		pool	Not okane o tsukuru: 'make money' is kasegu, 'earn'. Okane o tsukuru sounds like printing it or raising funds.
+kisoku-ni-shitagau	work-school	kisoku ni shitagau	follow the rules	50	15.77	0.13	9.9	に:50	2		corpus	Following rules is shitagau with ni, not tsuite iku
+hako-o-akeru	home	hako o akeru	open a box	50	15.77	0.10	8.92	を:46 が:3 ∅:1	3		corpus	Transitive akeru, not aku
+ichiin-ni-naru	people	ichiin ni naru	become a member (of)	50	15.77	0.48	5.85	に:37 と:13	2		corpus	
+igokochi-ga-ii	senses	igokochi ga ii	comfortable to be in	50	15.77	0.58	5.56	が:25 ∅:18 は:3 を:3	4		corpus	English 'comfortable' about a place or group is igokochi ga ii, not just raku or kaiteki.
+yasumi-o-toru	work-school	yasumi o toru	take time off	49	15.46	0.32	7.57	を:46 ∅:3	4		pool	English 'take' works here. The trap is the contrast: a day off sick is shigoto o yasumu, while a planned break is yasumi o toru.
+kyouiku-o-ukeru	work-school	kyouiku o ukeru	get an education	49	15.46	0.31	8.74	を:41 も:3 ∅/サ変:3 は:2	2		corpus	'Get an education' uses ukeru (receive), not morau.
+taido-o-toru	people	taido o toru	act a certain way	49	15.46	0.20	7.55	を:40 は:4 ∅:4 も:1	3		corpus	'Have an attitude' is not motsu; Japanese takes toru.
+fuman-ga-aru	senses	fuman ga aru	be dissatisfied	49	15.46	0.26	4.7	が:39 は:8 ∅:1 も:1	3		corpus	'Dissatisfied' is a noun + aru; complaining aloud is monku o iu.
+byouin-ni-hakobu	body	byouin ni hakobu	rush to hospital	49	15.46	0.05	9.58	に:31 へ:17 まで:1	2		corpus	Emergency 'taken to hospital' is hakobareru, not tsurete ikareru.
+omoiyari-ga-aru	describing	omoiyari ga aru	be considerate	49	15.46	0.50	4.7	が:45 も:3 ∅:1	3		corpus	The adjective 'considerate' is noun + aru in Japanese.
+onaka-ga-heru	food	onaka ga heru	get hungry	48	15.14	0.06	10.24	∅:24 が:21 は:2 も:1	5		corpus	'I'm hungry' is a past-tense verb in Japanese: onaka ga hetta.
+kuse-ga-aru	describing	kuse ga aru	have a habit (of)	48	15.14	0.18	4.67	が:41 ∅:5 も:1 は:1	3		corpus	Personal habits and quirks are kuse, not shuukan.
+chuumoku-o-atsumeru	describing	chuumoku o atsumeru	attract attention	48	15.14	0.12	10.22	を:48	2		corpus	'Attract' attention is atsumeru (gather), not hiku.
+kaidan-o-oriru	home	kaidan o oriru	go down the stairs	48	15.14	0.13	10.11	を:46 から:1 で:1	4		corpus	The path takes o (kaidan o oriru), and 'go down' is one verb, not iku.
+yuushoku-o-toru	food	yuushoku o toru	have dinner	48	15.14	0.10	7.49	を:46 は:1 も:1	2		corpus	'Have' a meal is toru or taberu, never motsu.
+chiketto-o-kau	hobbies	chiketto o kau	buy a ticket	48	15.14	0.26	9.19	を:37 は:5 ∅:5 も:1	4		corpus	
+kehai-ga-nai	senses	kehai ga nai	no sign of	48	15.14	0.44	4.77	は:19 が:17 も:9 ∅:3	2		corpus	
+kutsu-o-nugu	clothes	kutsu o nugu	take off shoes	47	14.83	0.09	10.69	を:35 ∅:7 は:4 まで:1	5	yes	pool	Not kutsu o toru: shoes and clothes come off with nugu, and toru sounds like picking them up.
+soudan-ni-noru	people	soudan ni noru	give advice, hear someone out	47	14.83	0.09	8.73	に:42 ∅/サ変:5	4	yes	pool	Not adobaisu o ageru: to listen to someone's problem you 'ride on' it, soudan ni noru (to ask for advice is soudan suru).
+tsuri-ni-iku	hobbies	tsuri ni iku	go fishing	47	14.83	0.27	6.56	に:41 ∅:3 は:2 へ:1	3		pool	Not tsuri o iku or tsuri suru ni iku: an activity noun takes ni iku directly (tsuri ni itta).
+kensa-o-ukeru	body	kensa o ukeru	get tested, have a (medical) check or test	47	14.83	0.09	8.54	を:40 も:3 は:3 ∅/サ変:1	3		pool	Not kensa o suru, which is what the doctor does: the patient 'receives' a test, kensa o ukeru, as in shujutsu o ukeru.
+pantsu-o-haku	clothes	pantsu o haku	put on underpants	47	14.83	0.21	11.49	を:30 ∅:9 は:6 に:2	4		corpus	Lower-body clothing takes haku, not kiru; pantsu usually means underwear.
+bouryoku-o-furuu	people	bouryoku o furuu	be violent (toward)	47	14.83	0.24	12.29	を:38 は:4 ∅:4 まで:1	2		corpus	'Use violence' is furuu (wield), not tsukau.
+kone-ga-aru	work-school	kone ga aru	have connections	47	14.83	0.45	4.64	が:40 も:5 に:1 ∅:1	2		corpus	
+kioku-ni-nokoru	senses	kioku ni nokoru	stay in one's memory	47	14.83	0.04	9.17	に:36 が:6 は:5	2		corpus	
+sankou-ni-naru	work-school	sankou ni naru	be helpful (as info)	47	14.83	0.60	5.76	に:47	4		corpus	Helpful advice is sankou ni naru, not tasukeru.
+nagusame-ni-naru	people	nagusame ni naru	be a comfort	47	14.83	0.65	5.76	に:47	2		corpus	
+yume-ni-deru	home	yume ni deru	appear in a dream; dream about (someone)	46	14.51	0.02	7.1	に:44 から:2	3		pool	English 'I dreamt about you' leads to translating 'about'. Japanese says the person came out in the dream: yume ni kimi ga dete kita.
+rusu-ni-suru	home	rusu ni suru	be away from home	46	14.51	0.57	2.33	に:43 を:1 で:1 ∅/サ変:1	3		corpus	'Be away' from home is rusu ni suru, not just inai.
+tadashii-handan	work-school	tadashii handan	the right call	46	14.51	0.05	9.03	ADJ:37 は:5 が:4	2		corpus	'Right decision' is usually handan, not kettei.
+yachin-o-harau	time-money	yachin o harau	pay the rent	46	14.51	0.48	9.72	を:24 も:9 ∅:8 が:3	4		corpus	
+konagona-ni-suru	describing	konagona ni suru	smash to pieces	46	14.51	0.40	2.33	に:46	2		corpus	'Smash to pieces' is konagona ni suru, not a single verb.
+migi-ni-magaru	travel	migi ni magaru	turn right	46	14.51	0.17	11.59	に:43 へ:2 を:1	4		corpus	'Turn' at a corner is magaru, not mawaru.
+muri-o-iu	people	muri o iu	ask too much	46	14.51	0.09	6.45	を:21 ∅:11 と:8 は:6	3		corpus	Means making unreasonable demands, not saying 'impossible'.
+yuushoku-o-taberu	food	yuushoku o taberu	eat dinner	46	14.51	0.10	9.0	を:34 ∅:7 は:2 も:1	3		corpus	
+densha-ni-noru	travel	densha ni noru	get on the train	45	14.19	0.30	8.83	に:43 ∅:2	5	yes	pool	Not densha o noru or densha o toru: you ride on a vehicle with ni noru, and 'take' is never toru here.
+netsu-ga-aru	body	netsu ga aru	have a fever	45	14.19	0.18	4.57	が:39 ∅:2 も:2 は:2	5	yes	pool	Not netsu o motteru: a fever 'exists', netsu ga aru (netsu aru mitai).
+hana-ga-saku	weather	hana ga saku	flowers bloom	45	14.19	0.11	11.55	が:28 を:8 は:5 と:2	3		pool	English 'come out/open' points to deru or hiraku. Flowers bloom with saku, and petals fall with chiru, not ochiru.
+warui-kuse	describing	warui kuse	bad habit	45	14.19	0.17	7.65	ADJ:43 は:1 と:1	3		corpus	Personal bad habits are kuse, not shuukan.
+warui-joudan	people	warui joudan	joke in bad taste	45	14.19	0.08	7.6	ADJ:45	2		corpus	Means a tasteless joke or 'this can't be real', not an unfunny one.
+sawagi-o-okosu	people	sawagi o okosu	cause a commotion	45	14.19	0.24	9.69	を:39 も:3 は:3	2		corpus	'Cause' trouble is okosu, not tsukuru.
+ishi-o-nageru	body	ishi o nageru	throw stones	45	14.19	0.14	10.99	を:45	2		corpus	
+shiai-o-miru	hobbies	shiai o miru	watch a game	45	14.19	0.15	6.33	を:31 ∅/サ変:9 は:3 が:1	3		corpus	'Watch' a game is just miru.
+mikomi-ga-aru	describing	mikomi ga aru	show promise / be likely	45	14.19	0.42	4.58	が:25 は:16 ∅:4	2		corpus	
+yubiwa-o-suru	clothes	yubiwa o suru	wear a ring	45	14.19	0.10	2.3	を:27 は:7 も:4 ∅:4	3		corpus	Accessories take suru (or hameru), not kiru.
+shirushi-o-tsukeru	work-school	shirushi o tsukeru	mark (something)	45	14.19	0.25	7.51	を:41 は:2 が:1 ∅:1	3		corpus	'Mark' is noun + tsukeru; there is no single verb.
+kado-o-magaru	travel	kado o magaru	turn at the corner	44	13.88	0.27	11.88	を:42 ∅:1 で:1	4	yes	pool	Not kado ni magaru: the corner takes o and the direction takes ni (tsugi no kado o migi ni magaru). 'Turn' is not mawaru (spin).
+gakkou-ni-kayou	work-school	gakkou ni kayou	attend school regularly	44	13.88	0.04	10.08	に:41 ∅:1 へ:1 も:1	3		pool	'I go to a Japanese school' as a routine is kayotteru, not itteru: iku is one trip, kayou is regular attendance.
+namida-o-nagasu	body	namida o nagasu	shed tears	44	13.88	0.17	10.62	を:35 ∅/サ変:5 は:3 が:1	2		corpus	English 'shed' has no match: tears are made to flow (nagasu).
+rajio-o-kiku	media	rajio o kiku	listen to the radio	44	13.88	0.31	7.11	を:20 で:17 ∅:5 が:2	3		corpus	No 'to': kiku takes the radio directly with o.
+kaeri-o-matsu	home	kaeri o matsu	wait for someone to come home	44	13.88	0.40	8.51	を:43 ∅:1	2		corpus	'Wait for' takes o, not ni.
+fuku-o-kiseru	clothes	fuku o kiseru	dress someone	44	13.88	0.04	9.98	を:39 も:3 ∅:2	3		corpus	Dressing someone else is kiseru; kiru is only dressing yourself.
+zeikin-o-harau	time-money	zeikin o harau	pay taxes	44	13.88	0.49	9.66	を:29 も:8 ∅:5 は:2	3		corpus	
+beruto-o-suru	clothes	beruto o suru	wear a belt	44	13.88	0.17	2.27	を:24 ∅:16 は:4	3		corpus	Not beruto o kiru: belts, watches and ties take suru.
+kyoumi-o-sosoru	senses	kyoumi o sosoru	pique your interest	44	13.88	0.02	9.4	を:39 ∅:3 が:2	2		corpus	
+kaori-ga-suru	senses	kaori ga suru	there's a nice smell	44	13.88	0.28	2.27	が:40 ∅:3 は:1	4		corpus	English 'it smells' has no verb match: the scent 'does' (ga suru).
+yume-o-kanaeru	senses	yume o kanaeru	make one's dream come true, achieve a dream	43	13.56	0.02	9.43	を:39 は:3 が:1	2		pool	English 'achieve / realise a dream' pushes to tassei suru or jitsugen suru. The everyday verb is kanaeru, the transitive half of yume ga kanau.
+tegiwa-ga-ii	describing	tegiwa ga ii	deft, efficient	43	13.56	0.83	5.34	が:27 ∅:16	2		corpus	
+yama-ni-noboru	hobbies	yama ni noboru	climb a mountain	43	13.56	0.09	10.32	に:26 を:9 ∅:7 は:1	3		corpus	Usually ni, not a bare object like English 'climb'.
+kyuuryou-o-morau	time-money	kyuuryou o morau	get paid, receive a salary	43	13.56	0.23	9.54	を:24 ∅:17 は:1 が:1	4		corpus	'Get paid' is not a passive: you receive (morau) the salary.
+takushii-ni-noru	travel	takushii ni noru	take a taxi	43	13.56	0.14	8.69	に:40 ∅:3	4		corpus	Not takushii o toru: vehicles take noru with ni.
+wadai-o-kaeru	people	wadai o kaeru	change the subject	43	13.56	0.22	8.92	を:42 ∅:1	3		corpus	
+kitanai-kotoba	describing	kitanai kotoba	foul language	43	13.56	0.02	9.24	ADJ:42 が:1	2		corpus	
+choushoku-o-taberu	food	choushoku o taberu	eat breakfast	43	13.56	0.19	9.02	を:31 ∅:5 は:4 も:2	2		corpus	
+keikaku-o-neru	work-school	keikaku o neru	work out a plan	43	13.56	0.02	9.42	を:41 が:2	2		corpus	Careful planning 'kneads' (neru) the plan; tsukuru sounds flat.
+kuchibue-o-fuku	body	kuchibue o fuku	whistle	43	13.56	0.75	12.1	を:29 ∅:10 で:2 が:2	2		corpus	English 'whistle' is one verb; Japanese blows (fuku) a noun.
+michi-o-oshieru	travel	michi o oshieru	give directions	42	13.25	0.02	7.97	を:36 ∅:3 が:2 も:1	3		pool	Not michi o iu or michi o hanasu: telling someone the way is oshieru ('teach'), as in eki made no michi oshiete kuremasen ka?
+tsurai-omoi	senses	tsurai omoi	a painful experience	42	13.25	0.06	10.05	ADJ:42	3		corpus	Used with suru (tsurai omoi o suru = go through a hard time); omoi here is not 'thought'.
+eigo-ga-wakaru	people	eigo ga wakaru	understand English	42	13.25	0.11	7.14	は:21 が:16 ∅:5	4		corpus	Not eigo o wakaru: wakaru takes ga.
+ki-ni-noboru	hobbies	ki ni noboru	climb a tree	42	13.25	0.07	10.11	に:40 を:2	2		corpus	Takes ni, not a bare object like English 'climb'.
+jiko-ga-okiru	travel	jiko ga okiru	an accident happens	42	13.25	0.07	9.0	が:37 は:3 で:2	3		corpus	Accidents 'arise' (okiru/okoru); being in one is jiko ni au.
+ketsuron-o-dasu	work-school	ketsuron o dasu	come to a conclusion	42	13.25	0.16	8.08	を:33 は:6 も:1 が:1	3		corpus	You 'put out' (dasu) a conclusion, not reach it.
+zubon-o-haku	clothes	zubon o haku	put on / wear trousers	41	12.93	0.17	11.27	を:29 ∅:11 は:1	4	yes	pool	Not zubon o kiru: trousers, skirts, socks and tights take haku, like shoes (anything you step into).
+dengen-o-ireru	media	dengen o ireru	turn on (a phone, computer, device)	41	12.93	0.16	7.71	を:34 ∅:6 も:1	3		pool	Lights and the TV take tsukeru, but powering up a phone or PC is dengen o ireru ('put the power in').
+taimingu-ga-warui	time-money	taimingu ga warui	bad timing	41	12.93	0.22	7.53	が:32 ∅:8 は:1	3		corpus	
+yousu-ga-okashii	describing	yousu ga okashii	acting strange, seem off	41	12.93	0.08	10.09	が:40 も:1	3		corpus	okashii here means 'odd', not 'funny'.
+ana-o-horu	home	ana o horu	dig a hole	41	12.93	0.06	10.45	を:39 は:2	2		corpus	
+beru-ga-naru	work-school	beru ga naru	the bell rings	41	12.93	0.20	11.12	が:34 を:4 ∅:3	3		corpus	Intransitive naru with ga; ringing it yourself is narasu.
+tomodachi-ga-dekiru	people	tomodachi ga dekiru	make friends	40	12.62	0.02	5.28	が:25 も:6 ∅:5 は:4	5	yes	pool	Not tomodachi o tsukuru as the default: friends 'come into being' with ga dekiru (tomodachi dekita).
+shinpai-o-kakeru	people	shinpai o kakeru	make someone worry	40	12.62	0.01	7.04	∅:34 を:5 は:1	4	yes	pool	Not shinpai suru, which means you are the one worrying: worrying someone else is shinpai o kakeru (shinpai kakete gomen).
+ruuru-o-mamoru	work-school	ruuru o mamoru	follow / keep to the rules	40	12.62	0.09	8.27	を:35 は:4 が:1	3		pool	Not ruuru ni tsuite iku: following rules is mamoru ('protect'), like promises and time. Ruuru ni shitagau is stiffer.
+nokori-sukunai	time-money	nokori sukunai	not much left	40	12.62	0.16	10.27	∅:36 は:3 が:1	3		corpus	
+tema-o-kakeru	people	tema o kakeru	take trouble, put in effort	40	12.62	0.28	8.12	を:27 ∅:10 も:2 は:1	3		corpus	Effort is 'hung' (kakeru), not taken (toru).
+kai-o-hiraku	people	kai o hiraku	hold a gathering	40	12.62	0.07	9.15	を:31 が:4 は:2 ∅:2	2		corpus	Events are 'opened' (hiraku), not held (motsu).
+raito-o-tsukeru	home	raito o tsukeru	turn on the light	40	12.62	0.14	7.32	を:35 ∅:3 は:1 も:1	3		corpus	Lights and devices take tsukeru, not mawasu or ireru.
+hima-ga-aru	time-money	hima ga aru	have free time	40	12.62	0.10	4.4	が:22 は:17 ∅:1	4		corpus	Not hima o motsu: free time 'exists' (ga aru).
+denki-o-kesu	home	denki o kesu	turn off the light	39	12.3	0.16	9.6	を:25 ∅:11 は:3	5	yes	pool	Not denki o tomeru or shimeru: lights, TVs and heaters go off with kesu (put out).
+ana-ga-aku	clothes	ana ga aku	get a hole (in something)	39	12.3	0.05	10.09	が:37 ∅:2	3		pool	English has no verb to translate: a hole 'opens' (ana ga aku). Making one is ana o akeru.
+baka-ni-suru	people	baka ni suru	make fun of, look down on	39	12.3	0.04	2.09	を:23 は:9 ∅:5 と:1	4		pool	Not warau or anything with tsukuru: 'make fun of' is baka ni suru, literally 'treat as a fool'.
+miryoku-ga-aru	describing	miryoku ga aru	be attractive, have charm	39	12.3	0.25	4.37	が:29 は:6 も:2 ∅:2	3		corpus	English 'attractive' is an adjective; Japanese says the person has charm.
+negai-ga-kanau	senses	negai ga kanau	a wish comes true	39	12.3	0.19	11.77	が:28 は:8 も:2 を:1	3		corpus	'Come true' is the single verb kanau, not hontou ni naru.
+suitchi-o-kiru	home	suitchi o kiru	turn off the switch	39	12.3	0.17	9.24	を:37 ∅/サ変:1 が:1	3		corpus	Switches and power are cut (kiru), not erased (kesu) like lights.
+you-ga-sumu	people	you ga sumu	be done with one's errand	39	12.3	0.09	9.56	が:21 は:14 を:4	3		corpus	'Finish' suggests owaru; for errands and business Japanese says you ga sumu.
+bangumi-o-miru	media	bangumi o miru	watch a TV program	39	12.3	0.20	6.13	を:23 ∅:8 で:5 は:3	4		corpus	
+chuudoku-ni-naru	body	chuudoku ni naru	get addicted	39	12.3	0.45	5.49	に:39	3		corpus	Chuudoku also means poisoning; addiction to games etc. uses ni naru.
+ii-kaori	senses	ii kaori	nice smell, fragrance	39	12.3	0.24	5.2	ADJ:34 ∅:2 が:2 は:1	4		corpus	Kaori is for pleasant scents; nioi is neutral, kusai is bad.
+kusuri-ga-kiku	body	kusuri ga kiku	medicine works	38	11.99	0.04	9.69	が:29 は:6 ∅:3	3		pool	Not kusuri ga hataraku: medicine 'takes effect', kusuri ga kiku, a homophone of kiku 'listen'.
+seki-o-toru	travel	seki o toru	save / hold a seat	38	11.99	0.06	7.11	を:31 ∅:4 は:2 も:1	3		pool	Not seki o mamoru or tameru: saving a seat is 'taking' it, seki o toru. Totte oku means keeping it for later.
+tegami-o-dasu	media	tegami o dasu	post (send) a letter	38	11.99	0.05	7.82	を:30 ∅:7 も:1	2		pool	Okuru isn't the default here: posting a letter or card is tegami o dasu ('put it out'); the same goes for nengajou.
+kagi-o-akeru	home	kagi o akeru	unlock (the door)	38	11.99	0.03	8.22	を:34 は:3 ∅:1	3		pool	English 'unlock' is one verb; Japanese 'opens the key', kagi o akeru, the opposite of kagi o kakeru.
+hanashi-ga-au	people	hanashi ga au	have things to talk about, click in conversation	38	11.99	0.00	6.8	∅/サ変:25 が:10 は:1 も:1	3		pool	Here au means 'fit', not 'meet'. People whose conversation fits are hanashi ga au; ki ga au is the separate idiom.
+hone-o-oru	body	hone o oru	break a bone	38	11.99	0.10	10.9	を:38	3		corpus	Bones snap (oru), not break like objects (kowasu); also means take pains.
+sokudo-o-ageru	travel	sokudo o ageru	speed up	38	11.99	0.14	8.76	を:37 ∅:1	2		corpus	
+wakare-o-iu	people	wakare o iu	say goodbye	38	11.99	0.26	6.21	を:34 も:3 と:1	3		corpus	Not sayonara o iu; people say (o)wakare o iu.
+dengon-o-kiku	people	dengon o kiku	get the message	38	11.99	0.14	6.88	を:21 ∅/サ変:8 は:7 で:1	2		corpus	'Get a message' is not morau here; a passed-on message is heard (kiku).
+risuku-o-ou	work-school	risuku o ou	take a risk	38	11.99	0.11	10.35	を:31 は:7	2		corpus	'Take' tempts toru; risks are usually borne (ou), though risuku o toru exists.
+hitome-miru	senses	hitome miru	take one look	38	11.99	0.62	6.11	∅:38	3		corpus	
+mizu-o-yaru	home	mizu o yaru	water the plants	37	11.67	0.03	6.66	を:24 ∅:7 が:2 は:2	3		pool	English 'water' is a verb; Japanese 'gives' water, (hana ni) mizu o yaru, or politely ageru.
+gitaa-o-hiku	hobbies	gitaa o hiku	play the guitar	37	11.67	0.44	11.97	を:22 ∅:12 も:2 は:1	3		pool	Not gitaa o suru: guitar takes hiku like the piano (gitaa hikeru? = can you play guitar?).
+shokuyoku-ga-nai	body	shokuyoku ga nai	have no appetite	37	11.67	0.34	4.39	が:18 ∅:13 も:3 は:3	3		pool	Not shokuyoku o motte inai: an appetite ga aru or ga nai.
+konkyo-ga-nai	describing	konkyo ga nai	no grounds, baseless	37	11.67	0.28	4.39	も:12 が:11 は:10 ∅:4	3		corpus	
+jimu-ni-iku	hobbies	jimu ni iku	go to the gym	37	11.67	0.14	6.21	に:18 ∅:15 へ:4	3		corpus	
+ii-inshou	describing	ii inshou	good impression	37	11.67	0.18	5.12	ADJ:26 を:3 ∅:3 は:2	3		corpus	'Make a good impression' is ii inshou o ataeru, not tsukuru.
+shousetsu-o-kaku	hobbies	shousetsu o kaku	write a novel	37	11.67	0.33	9.05	を:29 は:3 に:2 ∅:1	2		corpus	
+ii-deki	describing	ii deki	well made, a good result	37	11.67	0.49	5.13	ADJ:29 が:4 は:3 も:1	3		corpus	
+warui-yokan	senses	warui yokan	a bad feeling about it	37	11.67	0.18	7.38	ADJ:37	3		corpus	'I have a bad feeling' is warui yokan ga suru, not motsu.
+chansu-o-nogasu	work-school	chansu o nogasu	miss a chance	37	11.67	0.03	9.58	を:32 も:2 は:2 ∅:1	3		corpus	'Miss' is not sabishii or noriokureru; chances are let slip (nogasu).
+baggu-o-motsu	clothes	baggu o motsu	carry a bag	37	11.67	0.11	6.46	を:33 ∅:3 が:1	3		corpus	'Carry' tempts hakobu; carrying a bag is motsu.
+denki-o-tsukeru	home	denki o tsukeru	turn on the light	36	11.36	0.15	7.18	を:18 も:11 ∅:4 は:3	5	yes	pool	Not denki o mawasu or akeru: lights are tsukeru'd, and denki here means the light itself.
+toraburu-o-okosu	people	toraburu o okosu	cause trouble	36	11.36	0.11	9.27	を:32 は:3 ∅:1	3		corpus	'Make trouble' is not tsukuru; trouble is raised (okosu).
+yaruki-ga-aru	describing	yaruki ga aru	be motivated	36	11.36	0.19	4.25	が:17 ∅:12 は:4 も:3	4		corpus	English 'motivated' is an adjective; Japanese has (or lacks) yaruki.
+kyoku-o-kaku	hobbies	kyoku o kaku	write a song	36	11.36	0.08	8.83	を:24 ∅:7 は:3 が:2	2		corpus	
+wadai-ni-naru	media	wadai ni naru	become the talk of the town	36	11.36	0.18	5.37	に:36	3		corpus	English passive 'be talked about' becomes X ga wadai ni naru.
+jikan-o-tsubusu	time-money	jikan o tsubusu	kill time	35	11.04	0.00	7.23	を:26 ∅:9	3		pool	Not jikan o korosu: killing time is tsubusu, 'crush' (kafe de jikan tsubushiteta).
+chiimu-ni-hairu	hobbies	chiimu ni hairu	join a team	35	11.04	0.04	6.89	に:34 が:1	3		pool	Not chiimu o sanka suru: you 'enter' a team, club or circle with ni hairu (saakuru ni haitta).
+ude-o-tsukamu	body	ude o tsukamu	grab someone's arm	35	11.04	0.04	9.21	を:30 に:2 は:2 ∅:1	2		corpus	
+oosawagi-ni-naru	people	oosawagi ni naru	turn into a big fuss	35	11.04	0.32	5.34	に:32 と:3	3		corpus	English 'cause a fuss' makes learners want a transitive verb; Japanese says the situation becomes a fuss.
+honne-o-iu	people	honne o iu	say what you really think	35	11.04	0.42	6.1	を:32 で:2 ∅:1	4		corpus	English 'be honest' points to shoujiki; for speaking your true feelings people say honne o iu.
+mizu-o-kumu	home	mizu o kumu	draw water, fetch water	35	11.04	0.02	9.56	を:33 は:2	2		corpus	English 'get water' suggests toru or morau; scooping water up from a source or tap into a container is kumu.
+zenin-sorou	people	zenin sorou	everyone is here	35	11.04	0.03	9.41	∅:33 が:2	4		corpus	English 'everyone is here' leads to zenin iru; for a group that has all gathered people say zenin sorotta.
+inshou-o-ataeru	describing	inshou o ataeru	give an impression	35	11.04	0.17	8.29	を:35	2		corpus	English 'give' suggests ageru; with impressions Japanese uses ataeru.
+kaidan-o-agaru	home	kaidan o agaru	go up the stairs	35	11.04	0.09	9.79	を:35	4		corpus	The stairs take o (the path you move along), not ni.
+konagona-ni-naru	describing	konagona ni naru	shatter into pieces	35	11.04	0.30	5.34	に:35	3		corpus	English 'shatter' has no single verb here; Japanese says it becomes pieces.
+ana-o-fusagu	home	ana o fusagu	plug a hole	35	11.04	0.05	10.17	を:33 は:2	2		corpus	English 'close' suggests shimeru; holes and gaps are blocked with fusagu.
+ii-hibiki	senses	ii hibiki	has a nice ring to it	35	11.04	0.47	5.05	ADJ:27 は:4 が:3 ∅:1	3		corpus	English 'sounds good' leads to yosasou; for how a name or word sounds people say ii hibiki.
+iji-ga-warui	describing	iji ga warui	mean, spiteful	35	11.04	0.43	7.33	∅:21 が:14	3		corpus	English 'mean' has no direct adjective; Japanese says the disposition is bad (also ijiwaru).
+ouen-ni-kuru	people	ouen ni kuru	come to cheer someone on	35	11.04	0.10	6.4	が:19 に:14 は:2	3		corpus	English 'come and cheer' leads to kite ouen suru; Japanese puts the purpose noun with ni kuru.
+iken-ga-au	people	iken ga au	agree, see eye to eye	35	11.04	0.06	9.67	が:32 も:1 は:1 ∅/サ変:1	3		corpus	English 'agree' points to sansei suru; for two people sharing views Japanese says opinions match.
+hiza-o-tsuku	body	hiza o tsuku	kneel down	35	11.04	0.11	7.39	を:35	2		corpus	English 'kneel' has no single verb; Japanese puts the knee down with tsuku.
+onaka-ga-itai	body	onaka ga itai	have a stomachache	34	10.73	0.05	9.69	が:18 ∅:15 ADJ:1	5	yes	pool	Dictionaries give i for 'stomach', but an everyday tummy ache is onaka ga itai, not i ga itai.
+okane-o-kaesu	time-money	okane o kaesu	pay back money	34	10.73	0.02	8.59	を:20 ∅:9 は:5	3		pool	Not okane o harau: paying back a loan is kaesu, 'give back' (ashita kaesu ne).
+hoken-ni-hairu	time-money	hoken ni hairu	take out insurance	34	10.73	0.21	6.97	に:31 ∅:3	3		corpus	English 'buy/get insurance' leads to kau; Japanese enters insurance with ni hairu.
+hiyou-ga-kakaru	time-money	hiyou ga kakaru	cost money, be expensive	34	10.73	0.35	8.45	が:31 は:2 も:1	3		corpus	English 'it costs' has the thing as subject; Japanese makes the expense the subject with ga kakaru.
+ketsuron-ga-deru	work-school	ketsuron ga deru	a conclusion is reached	34	10.73	0.13	6.9	が:23 は:8 を:2 ∅/サ変:1	3		corpus	English 'reach a conclusion' suggests tsuku; Japanese says the conclusion comes out (ga deru, or o dasu).
+suimin-o-toru	body	suimin o toru	get some sleep	34	10.73	0.40	7.05	を:32 ∅/サ変:2	3		corpus	English 'get sleep' suggests eru or morau; Japanese takes sleep with toru.
+kubetsu-ga-tsuku	senses	kubetsu ga tsuku	can tell them apart	34	10.73	0.27	8.13	が:20 も:9 ∅/サ変:3 は:2	3		corpus	English 'tell apart' is something you do; Japanese says the distinction attaches (ga tsuku), mostly in the negative.
+beru-o-narasu	home	beru o narasu	ring the bell	34	10.73	0.17	11.5	を:30 は:2 ∅:2	2		corpus	Transitive narasu for ringing it yourself; naru is the bell ringing on its own.
+tetsudai-ni-kuru	people	tetsudai ni kuru	come to help	34	10.73	0.18	6.38	に:34	3		corpus	
+igokochi-ga-warui	senses	igokochi ga warui	feel uncomfortable, awkward	34	10.73	0.40	7.28	が:16 ∅:15 は:2 を:1	4		corpus	English 'uncomfortable' points to physical discomfort; for an awkward place or situation it's igokochi ga warui.
+supiido-o-ageru	travel	supiido o ageru	speed up	34	10.73	0.13	8.61	を:28 ∅:5 も:1	3		corpus	
+sofaa-de-neru	home	sofaa de neru	sleep on the sofa	34	10.73	0.24	9.66	で:27 に:7	3		corpus	English 'on the sofa' leads to no ue ni; the place of sleeping takes de.
+atama-o-butsukeru	body	atama o butsukeru	bump / hit one's head	33	10.41	0.01	8.33	を:28 ∅:2 に:2 は:1	3		pool	Not atama o tataku (that's hitting on purpose): banging your head into something is butsukeru, as in tana ni atama butsuketa.
+tsugou-ga-tsuku	time-money	tsugou ga tsuku	can make it, can fit it in	33	10.41	0.10	8.02	が:23 は:8 ∅:2	3		pool	Not tsugou ga dekiru: an arrangement 'attaches' (tsuku). Example: tsugou tsuitara renraku shite.
+hitode-ga-tarinai	work-school	hitode ga tarinai	be short-handed	33	10.41	0.43	11.01	が:30 は:2 ∅:1	3		corpus	English 'short-staffed' has no direct word; Japanese says hands are not enough.
+honnin-ni-kiku	people	honnin ni kiku	ask the person directly	33	10.41	0.25	6.69	に:25 から:8	3		corpus	The person you ask takes ni, not o (honnin ni kiku), and kiku is also 'listen'.
+bideo-o-toru	media	bideo o toru	take a video	33	10.41	0.10	6.97	を:16 に:14 で:2 ∅:1	3		corpus	
+chiimu-o-kumu	work-school	chiimu o kumu	form a team, team up	33	10.41	0.03	9.56	を:32 は:1	3		corpus	English 'form/make a team' leads to tsukuru; teams and pairs are put together with kumu.
+kyuuryou-o-harau	time-money	kyuuryou o harau	pay wages	33	10.41	0.18	9.17	を:17 ∅:7 も:6 が:2	3		corpus	
+aoi-sora	weather	aoi sora	blue sky	33	10.41	0.04	9.8	ADJ:26 が:6 は:1	4		corpus	
+chuukoku-o-kiku	people	chuukoku o kiku	take someone's advice	33	10.41	0.14	6.68	を:30 は:2 が:1	2		corpus	English 'take advice' leads to toru; Japanese listens to advice with kiku.
+keiken-o-tsumu	work-school	keiken o tsumu	gain experience	33	10.41	0.03	9.49	を:28 も:3 は:1 が:1	3		corpus	'Gain' is not eru here; experience is piled up (tsumu).
+shatsu-o-nugu	clothes	shatsu o nugu	take off a shirt	33	10.41	0.09	10.42	を:26 ∅:7	3		corpus	'Take off' clothes is nugu, not toru.
+oshirase-ga-aru	work-school	oshirase ga aru	have an announcement	33	10.41	0.66	4.13	が:32 は:1	3		corpus	English 'I have news' pushes toward motsu; Japanese says oshirase ga aru.
+keiyaku-o-musubu	work-school	keiyaku o musubu	sign a contract	33	10.41	0.07	10.28	を:31 は:1 も:1	3		corpus	'Sign' a contract is musubu 'tie', not sain suru.
+ronbun-o-kaku	work-school	ronbun o kaku	write a paper / thesis	33	10.41	0.40	8.9	を:30 に:1 も:1 ∅:1	3		corpus	
+youshi-ni-suru	people	youshi ni suru	adopt a child	33	10.41	0.44	1.85	に:28 と:5	2		corpus	'Adopt' has no single verb; you make the child your youshi (youshi ni suru).
+kisoku-o-mamoru	work-school	kisoku o mamoru	follow the rules	33	10.41	0.08	8.02	を:26 は:7	3		corpus	'Follow' rules is mamoru 'protect/keep', not a verb of following.
+retsu-ni-narabu	travel	retsu ni narabu	stand in line	33	10.41	0.20	11.59	に:32 ∅:1	4		corpus	'Stand in line' is just narabu; no tatsu.
+suteeji-ni-agaru	hobbies	suteeji ni agaru	go up on stage	33	10.41	0.20	9.96	に:28 へ:5	2		corpus	Going on stage is agaru 'go up', not iku.
+koucha-o-nomu	food	koucha o nomu	drink (black) tea	33	10.41	0.34	8.69	を:18 が:8 ∅:5 は:2	3		corpus	English 'tea' usually means koucha; ocha means green tea by default in Japan.
+denwa-ga-tsunagaru	media	denwa ga tsunagaru	get through (on the phone), reach someone	32	10.09	0.00	7.06	が:11 は:9 も:6 に:4	3		pool	'I can't reach him' isn't todokanai or aenai: it's denwa ga tsunagaranai.
+okane-o-dasu	time-money	okane o dasu	pay, chip in	32	10.09	0.02	7.4	を:26 は:4 も:1 が:1	4		pool	Not only harau: offering to pay or chip in is watashi ga dasu yo ('I'll put the money out').
+tokei-o-miru	time-money	tokei o miru	look at the clock / watch	32	10.09	0.10	5.84	を:25 ∅:5 も:1 は:1	4		corpus	
+daigaku-ni-kayou	work-school	daigaku ni kayou	attend university	32	10.09	0.07	10.54	に:27 まで:5	3		corpus	Regular attendance is kayou; iku sounds like a single trip.
+shumi-ga-ii	describing	shumi ga ii	have good taste	32	10.09	0.19	4.91	ADJ:15 が:13 は:3 を:1	3		corpus	'Good taste' is shumi (also 'hobby') ga ii, not aji, which is flavour.
+detarame-o-iu	people	detarame o iu	talk nonsense / lie	32	10.09	0.54	5.97	∅:17 を:15	3		corpus	
+apo-o-toru	work-school	apo o toru	make an appointment	32	10.09	0.70	6.97	を:22 は:5 ∅:4 も:1	3		corpus	'Make' an appointment is toru 'take', not tsukuru.
+mado-o-shimeru	home	mado o shimeru	close the window	32	10.09	0.05	9.42	を:28 は:2 ∅:2	5		corpus	You close it with shimeru; shimaru is the window closing by itself.
+gan-ni-naru	body	gan ni naru	get cancer	32	10.09	0.15	5.2	に:30 は:1 ∅:1	3		corpus	'Get' cancer is naru 'become', not motsu or toru.
+yuushoku-ni-sasou	people	yuushoku ni sasou	invite someone to dinner	32	10.09	0.07	10.19	に:29 を:3	2		corpus	'Ask' someone to dinner is sasou with ni, not kiku.
+seiseki-ga-ii	work-school	seiseki ga ii	get good grades	32	10.09	0.30	4.92	ADJ:15 が:10 も:4 は:3	4		corpus	
+panikku-o-okosu	senses	panikku o okosu	panic / have a panic attack	32	10.09	0.17	9.2	を:31 も:1	2		corpus	'Panic' as a verb is panikku o okosu or panikku ni naru, not panikku suru.
+uri-ni-dasu	time-money	uri ni dasu	put up for sale	32	10.09	0.46	7.75	に:32	2		corpus	'Put up for sale' is uri ni dasu 'put out to selling', not just uru.
+shoujou-ga-deru	body	shoujou ga deru	have / show symptoms	32	10.09	0.23	6.83	が:29 は:2 も:1	3		corpus	'Have symptoms' is shoujou ga deru 'come out', not motsu.
+gohan-ni-iku	food	gohan ni iku	go out to eat	32	10.09	0.22	6.01	∅:30 に:2	5		corpus	'Go out for dinner' is just gohan (ni) iku; no taberu needed.
+kaze-ga-tsuyoi	weather	kaze ga tsuyoi	it's windy	31	9.78	0.08	8.85	が:13 ADJ:13 は:3 も:2	4	yes	pool	English 'windy' is one adjective. Japanese says the wind is strong: kaze ga tsuyoi, not kaze ga ooi.
+terebi-o-tsukeru	home	terebi o tsukeru	turn on the TV	31	9.78	0.06	6.92	を:28 ∅:2 が:1	4		pool	Not terebi o akeru or on ni suru: screens, like lights, are tsukeru'd, and off is kesu.
+ato-ga-nokoru	body	ato ga nokoru	leave a mark / scar	31	9.78	0.10	9.05	が:29 に:1 も:1	3		corpus	
+kurashi-o-suru	home	kurashi o suru	live a (certain) life	31	9.78	0.19	1.76	を:23 は:3 ∅:2 が:1	2		corpus	'Live a ... life' is ~na kurashi o suru, not ikiru.
+ashi-ga-itai	body	ashi ga itai	my feet / legs hurt	31	9.78	0.02	9.04	が:26 ADJ:2 ∅:1 は:1	4		corpus	ashi covers both foot and leg; 'my feet hurt' is still ashi ga itai.
+tatuu-o-ireru	body	tatuu o ireru	get a tattoo	31	9.78	0.18	7.33	を:24 ∅:7	2		corpus	'Get' a tattoo is ireru 'put in', not morau or suru.
+akachan-ga-umareru	people	akachan ga umareru	have a baby (baby is born)	31	9.78	0.06	9.51	が:30 も:1	4		corpus	'Have a baby' is akachan ga umareru 'is born', not motsu.
+byouki-o-naosu	body	byouki o naosu	cure an illness / get well	31	9.78	0.06	9.87	を:27 は:2 も:1 ∅/サ変:1	3		corpus	naosu is curing it; 'I got better' is byouki ga naotta.
+raito-o-kesu	home	raito o kesu	turn off the light	31	9.78	0.11	9.24	を:24 は:4 ∅:3	3		corpus	'Turn off' a light is kesu 'erase/put out', not ofu ni suru.
+dokyou-ga-aru	describing	dokyou ga aru	have guts / nerve	31	9.78	0.35	4.04	が:25 ∅:5 は:1	3		corpus	
+kyori-ga-aru	travel	kyori ga aru	be quite far	31	9.78	0.08	4.03	が:26 に:2 も:1 は:1	3		corpus	
+seki-o-suru	body	seki o suru	cough	31	9.78	0.61	1.76	を:23 ∅:7 は:1	4		corpus	seki is a noun; to cough is seki o suru (or seki ga deru).
+fuhei-o-iu	people	fuhei o iu	complain	31	9.78	0.74	5.92	を:26 は:3 も:2	2		corpus	
+seika-o-ageru	work-school	seika o ageru	achieve results	31	9.78	0.20	8.52	を:30 も:1	2		corpus	'Achieve' results is ageru 'raise', not eru or tsukuru.
+hoteru-ni-tomaru	travel	hoteru ni tomaru	stay at a hotel	30	9.46	0.06	10.57	に:29 へ:1	4	yes	pool	Not hoteru ni iru or sutei suru: staying the night is tomaru, the same sound as a car stopping.
+kaze-ga-fuku	weather	kaze ga fuku	the wind blows	30	9.46	0.07	10.51	が:24 を:3 に:3	3	yes	pool	Easy to guess once fuku is known. The risk is the homophones: kaze means wind or a cold, and fuku means blow or wipe. Keep it apart from kaze o hiku (catch a cold).
+piano-o-hiku	hobbies	piano o hiku	play the piano	30	9.46	0.25	11.51	を:21 ∅:5 が:3 は:1	4	yes	pool	Not piano o suru or asobu: keyboard and string instruments take hiku (piano hiiteru).
+denwa-ga-kakaru	media	denwa ga kakaru	get a phone call	30	9.46	0.00	6.59	が:22 ∅/サ変:4 は:3 も:1	4	yes	pool	Not denwa o morau: an incoming call 'hangs' on you (denwa ga kakatte kuru). It is the intransitive of denwa o kakeru.
+shigoto-ga-hairu	work-school	shigoto ga hairu	work comes up	30	9.46	0.00	5.98	が:18 に:5 ∅/サ変:4 は:2	4		pool	'Something came up at work' is shigoto ga haitchatta (work 'entered' the schedule), not okiru or kuru.
+denwa-ga-kakatte-kuru	media	denwa ga kakatte kuru	get a phone call	30	9.46	0.00	6.59	が:22 ∅/サ変:4 は:3 も:1	4		pool	Not denwa o morau: a call comes in, so it's denwa ga kakatte kita (casually just denwa kita).
+poketto-ni-ireru	clothes	poketto ni ireru	put in one's pocket	30	9.46	0.16	7.28	に:29 へ:1	3		corpus	
+gimon-o-idaku	senses	gimon o idaku	have doubts	30	9.46	0.07	10.24	を:29 も:1	2		corpus	
+dorobou-ga-hairu	home	dorobou ga hairu	a burglar breaks in	30	9.46	0.18	6.79	が:17 に:13	3		corpus	"Break in" is not kowasu; a burglar simply 'enters' (hairu), and dorobou ni hairareta = we got burgled.
+kaban-o-motsu	clothes	kaban o motsu	carry a bag	30	9.46	0.14	6.17	を:20 ∅:5 は:2 に:2	3		corpus	
+sa-ga-aru	describing	sa ga aru	there's a difference	30	9.46	0.31	3.99	が:28 は:2	2		corpus	
+zutsuu-ga-hidoi	body	zutsuu ga hidoi	have a bad headache	30	9.46	0.18	8.21	ADJ:18 が:11 も:1	3		corpus	"Have a headache" is not motsu; the headache is the subject: zutsuu ga hidoi / zutsuu ga suru.
+konjou-ga-aru	describing	konjou ga aru	have guts	30	9.46	0.30	3.99	が:22 ∅:8	3		corpus	
+supiikaa-ni-suru	media	supiikaa ni suru	put on speakerphone	30	9.46	0.53	1.71	に:29 と:1	3		corpus	"Put on" is not kiru or tsukeru; switching a call mode is X ni suru.
+ishou-o-kiru	clothes	ishou o kiru	wear a costume	30	9.46	0.21	9.16	を:25 ∅:3 は:2	2		corpus	
+sensu-ga-nai	describing	sensu ga nai	have no taste or flair	30	9.46	0.28	4.09	が:18 ∅:6 も:4 は:2	4		corpus	
+mimi-o-fusagu	body	mimi o fusagu	cover your ears	30	9.46	0.03	9.58	を:26 ∅:1 まで:1 は:1	3		corpus	"Cover" is not kabuseru or oou; ears are blocked: fusagu.
+masuku-o-hazusu	clothes	masuku o hazusu	take off a mask	30	9.46	0.08	9.52	を:25 ∅:3 は:2	4		corpus	"Take off" is not nugu; masks, glasses and accessories are hazusu.
+memo-o-nokosu	home	memo o nokosu	leave a note	30	9.46	0.12	9.13	を:26 ∅/サ変:2 も:1 に:1	3		corpus	"Leave" is not deru or oite iku; a note left for someone is nokosu.
+ayamari-o-okasu	work-school	ayamari o okasu	make an error	30	9.46	0.27	9.44	を:29 ∅:1	2		corpus	"Make" is not tsukuru; errors are okasu (casually just machigaeru).
+yosou-ga-tsuku	senses	yosou ga tsuku	be able to predict	30	9.46	0.08	7.87	は:13 が:9 も:6 ∅/サ変:2	3		corpus	No dekiru needed; mostly heard negative: yosou ga tsukanai = can't tell what will happen.
+kioku-ga-yomigaeru	senses	kioku ga yomigaeru	memories come back	30	9.46	0.03	9.59	が:26 を:2 は:1 も:1	2		corpus	"Come back" is not kaeru or modoru; memories revive: yomigaeru.
+yoyaku-o-toru	time-money	yoyaku o toru	get a reservation	29	9.15	0.08	6.77	を:27 が:1 は:1	3		pool	Not yoyaku o tsukuru: you 'take' a booking (yoyaku toreta? = did you get one?). Plain yoyaku suru also works.
+shou-o-toru	hobbies	shou o toru	win a prize	29	9.15	0.22	6.82	を:23 ∅:5 は:1	3		corpus	"Win" is not katsu; prizes are taken: shou o toru (or morau).
+shitashii-yuujin	people	shitashii yuujin	a close friend	29	9.15	0.02	9.17	ADJ:29	2		corpus	"Close" is not chikai (physically near); close friends are shitashii.
+zenrei-ga-nai	work-school	zenrei ga nai	there's no precedent	29	9.15	0.52	4.04	が:21 は:5 に:2 も:1	2		corpus	
+shinbun-ni-noru	media	shinbun ni noru	appear in the newspaper	29	9.15	0.10	8.14	に:28 ∅:1	3		corpus	"Appear" is not arawareru; being printed is noru (載る).
+aiso-ga-ii	describing	aiso ga ii	friendly, pleasant	29	9.15	0.40	4.77	∅:22 が:5 は:2	3		corpus	
+tsumetai-mizu	food	tsumetai mizu	cold water	29	9.15	0.02	9.06	ADJ:18 が:5 は:5 も:1	4		corpus	"Cold" is not samui (weather); cold to the touch or drink is tsumetai.
+ketten-ga-aru	describing	ketten ga aru	have a flaw	29	9.15	0.41	3.94	が:17 は:7 も:5	2		corpus	
+jugyou-o-ukeru	work-school	jugyou o ukeru	take a class	29	9.15	0.12	7.95	を:25 ∅/サ変:3 は:1	4		corpus	"Take" is not toru here; attending a class is ukeru (toru means signing up).
+kyori-o-tamotsu	people	kyori o tamotsu	keep your distance	29	9.15	0.08	10.2	を:28 に:1	2		corpus	"Keep" is not motsu; distance is maintained: tamotsu (or kyori o oku).
+taigaku-ni-naru	work-school	taigaku ni naru	get expelled from school	29	9.15	0.26	5.06	に:29	2		corpus	No passive verb needed; being expelled is taigaku ni naru.
+yakume-o-hatasu	work-school	yakume o hatasu	do your part	29	9.15	0.26	10.44	を:23 は:6	2		corpus	
+enjin-o-kiru	travel	enjin o kiru	turn off the engine	29	9.15	0.09	8.75	を:25 は:3 ∅:1	3		corpus	"Turn off" pulls toward kesu (lights); engines are kiru.
+taiyou-ga-noboru	weather	taiyou ga noboru	the sun rises	29	9.15	0.10	10.0	が:24 を:3 は:1 も:1	3		corpus	"Rise" pulls toward agaru; the sun noboru (casually hi ga noboru).
+kizuato-ga-aru	body	kizuato ga aru	have a scar	29	9.15	0.28	3.94	が:25 は:2 ∅:2	2		corpus	"Have" is not motsu; body marks use ga aru.
+yaruki-ga-nai	describing	yaruki ga nai	have no motivation	29	9.15	0.15	4.04	が:14 は:9 ∅:4 も:2	5		corpus	
+hossa-ga-okiru	body	hossa ga okiru	have a seizure or attack	29	9.15	0.14	8.68	が:26 は:2 ∅:1	2		corpus	"Have" is not motsu; the attack itself occurs: hossa ga okiru.
+beruto-o-hazusu	clothes	beruto o hazusu	undo your belt	29	9.15	0.11	9.58	を:28 は:1	3		corpus	"Take off" is not nugu; belts and seatbelts are hazusu.
+hone-ga-oreru	body	hone ga oreru	break a bone	28	8.83	0.08	10.67	が:22 は:3 を:2 も:1	3		pool	Not hone ga kowareru: bones, sticks and umbrellas 'snap' (oreru). Kowareru is for machines.
+baransu-o-toru	body	baransu o toru	keep your balance	28	8.83	0.21	6.76	を:23 ∅/サ変:5	3		corpus	"Keep" is not motsu; balance is toru.
+tegami-ga-todoku	media	tegami ga todoku	a letter arrives	28	8.83	0.04	9.52	が:23 は:3 ∅:2	3		corpus	"Arrive" pulls toward tsuku; mail and parcels todoku.
+doraibu-ni-iku	travel	doraibu ni iku	go for a drive	28	8.83	0.09	5.81	に:26 と:1 ∅/サ変:1	4		corpus	Doraibu means a leisure drive, not driving itself (unten suru).
+se-ga-hikui	describing	se ga hikui	be short (height)	27	8.52	0.06	10.13	が:23 は:2 を:1 ∅:1	4	yes	pool	Not se ga mijikai: short in height is hikui (low). Mijikai is only for length.
+okane-o-kasu	time-money	okane o kasu	lend money	27	8.52	0.02	8.25	を:23 ∅:3 は:1	3		pool	Swapped with kariru: kashite = lend me; karite ii? = can I borrow?
+akachan-ga-dekiru	people	akachan ga dekiru	be expecting a baby, get pregnant	27	8.52	0.05	4.76	が:25 ∅:2	4		pool	Not akachan o motsu: 'we're having a baby' is akachan ga dekita (a baby 'came into being').
+toire-o-nagasu	home	toire o nagasu	flush the toilet	27	8.52	0.06	9.66	に:20 を:4 ∅:2 で:1	3		pool	Japanese has no word for 'flush': you make the toilet 'flow' (nagasu), as in toire nagashite or mizu o nagasu.
+kakuritsu-ga-takai	describing	kakuritsu ga takai	the odds are high	26	8.2	0.33	8.79	が:12 ADJ:6 は:4 も:4	3		corpus	English says 'likely'; Japanese says the probability is high.
+naka-ga-warui	people	naka ga warui	be on bad terms	26	8.2	0.09	6.85	が:18 ∅:7 は:1	4		corpus	English uses a verb (don't get along); Japanese says the relationship is bad.
+owari-ni-chikazuku	time-money	owari ni chikazuku	draw to a close	26	8.2	0.03	9.06	に:21 が:4 は:1	2		corpus	Approach takes ni, not o.
+kuroi-kami	describing	kuroi kami	black hair	26	8.2	0.04	9.52	ADJ:19 が:3 も:2 を:1	2		corpus	
+irai-o-ukeru	work-school	irai o ukeru	take on a request	26	8.2	0.09	7.77	を:22 は:4	2		corpus	
+meneki-ga-aru	body	meneki ga aru	be immune; be used to it	26	8.2	0.51	3.79	が:25 は:1	2		corpus	English uses an adjective; Japanese says you 'have immunity'.
+kippu-o-kau	travel	kippu o kau	buy a ticket	26	8.2	0.29	8.35	を:21 ∅:4 は:1	3		corpus	kippu is a train ticket; concert tickets are chiketto.
+baiku-ni-noru	travel	baiku ni noru	ride a motorbike	26	8.2	0.16	8.03	に:20 を:3 ∅:2 は:1	3		corpus	baiku means motorbike, not bicycle; noru takes ni.
+mokuhyou-ni-mukau	work-school	mokuhyou ni mukau	work toward a goal	26	8.2	0.08	8.24	に:26	3		corpus	Japanese 'heads toward' the goal, usually mokuhyou ni mukatte ganbaru.
+araamu-ga-naru	home	araamu ga naru	the alarm goes off	26	8.2	0.49	10.87	が:24 は:2	4		corpus	English 'goes off'; Japanese says the alarm rings (naru).
+doramu-o-tataku	hobbies	doramu o tataku	play the drums	26	8.2	0.49	10.49	を:24 ∅:1 は:1	3		corpus	Drums are hit (tataku), not hiku like other instruments.
+shiken-ni-ochiru	work-school	shiken ni ochiru	fail an exam	25	7.89	0.16	8.77	に:20 ∅/サ変:2 で:1 は:1	4	yes	pool	Not shiken ni shippai suru: failing an exam is 'falling', ochiru with ni (ukatta / ochita).
+denwa-ga-kireru	media	denwa ga kireru	the call drops, get cut off	25	7.89	0.00	6.73	が:17 を:3 は:3 ∅/サ変:2	3		pool	Not denwa ga ochiru: a dropped call is denwa ga kireta, the intransitive half of denwa o kiru.
+namida-ga-deru	senses	namida ga deru	tears come, tear up	25	7.89	0.10	6.45	が:22 も:2 ∅/サ変:1	3		pool	'Tear up' has no verb to copy: tears come out, so namida deta. Naku is crying outright.
+fukuro-ni-ireru	home	fukuro ni ireru	put in a bag	25	7.89	0.12	7.01	に:24 を:1	4		corpus	'Put in' is ni ireru, not oku.
+ishi-ga-tsuyoi	describing	ishi ga tsuyoi	strong-willed	25	7.89	0.12	8.68	ADJ:14 が:6 を:5	3		corpus	English uses one adjective; Japanese says the will is strong.
+pajama-o-kiru	clothes	pajama o kiru	put on pajamas	25	7.89	0.53	8.98	∅:13 を:10 は:2	3		corpus	
+ha-o-nuku	body	ha o nuku	pull a tooth	25	7.89	0.06	9.72	を:20 が:2 は:2 も:1	3		corpus	'Pull' here is nuku, not hiku.
+youji-ga-sumu	home	youji ga sumu	finish one's errands	25	7.89	0.10	9.08	を:13 が:7 は:5	3		corpus	Errands 'get settled' (sumu); owaru is less typical.
+kujou-o-iu	people	kujou o iu	make a complaint	25	7.89	0.28	5.61	を:23 ∅:1 は:1	3		corpus	Casual grumbling is monku o iu; kujou is a formal complaint.
+eigo-o-shaberu	work-school	eigo o shaberu	speak English	25	7.89	0.06	9.93	で:10 を:7 ∅:5 は:2	4		corpus	
+iki-ga-arai	body	iki ga arai	breathing hard	25	7.89	0.03	9.57	ADJ:19 は:2 を:2 が:2	2		corpus	Heavy breathing is 'rough breath' (arai), not omoi.
+chikai-shourai	time-money	chikai shourai	in the near future	25	7.89	0.10	9.51	ADJ:25	2		corpus	
+supiido-o-dasu	travel	supiido o dasu	drive fast, speed up	25	7.89	0.10	7.34	∅:14 を:10 は:1	3		corpus	Speed is 'put out' (dasu), not raised or made.
+seikou-o-osameru	work-school	seikou o osameru	achieve success	25	7.89	0.02	9.19	を:25	1		corpus	In speech people just say seikou suru.
+netsu-ga-deru	body	netsu ga deru	get a fever	24	7.57	0.10	6.4	が:21 は:2 ∅:1	4	yes	pool	Not netsu o morau or eru: a fever 'comes out', netsu ga deru (netsu deta).
+shigoto-o-yasumu	work-school	shigoto o yasumu	take a day off work	24	7.57	0.00	6.78	を:19 も:3 は:1 ∅/サ変:1	5	yes	pool	Not shigoto o toru or shigoto ni ikanai: missing work is yasumu ('rest') with o, the same for school (gakkou o yasumu).
+boushi-o-toru	clothes	boushi o toru	take off a hat	24	7.57	0.06	6.5	を:20 も:2 は:1 ∅:1	2		pool	Not boushi o hazusu: hats come off with toru (boushi o nugu also works), not with the accessory verb hazusu.
+chuushi-ni-naru	time-money	chuushi ni naru	be called off, be cancelled	24	7.57	0.06	4.78	に:23 と:1	4		pool	Not kyanseru sareru for events: rained-off matches and cancelled events chuushi ni naru. Postponed is enki ni naru.
+ikura-ni-naru	time-money	ikura ni naru	how much it comes to (in total)	24	7.57	0.12	4.79	に:23 と:1	4		pool	A total isn't 'is' but 'becomes': zenbu de ikura ni naru? asks the total, and every cashier says sen-en ni narimasu.
+ame-ga-yamu	weather	ame ga yamu	the rain stops	23	7.26	0.06	10.68	が:16 も:5 は:1 を:1	4	yes	pool	Not ame ga tomaru or owaru, and not yameru (a person quitting): rain stops with intransitive yamu.
+me-ga-warui	describing	me ga warui	have poor eyesight	23	7.26	0.00	5.84	が:15 も:3 は:2 を:1	4	yes	pool	Not me ga yowai or 'warui me ga aru': poor eyesight is me ga warui (shiryoku is the formal word).
+sutoresu-ga-tamaru	senses	sutoresu ga tamaru	stress builds up, get stressed	23	7.26	0.14	11.56	が:16 ∅:5 も:2	4	yes	pool	Not sutoresu ni naru: stress 'piles up' (tamaru).
+ibiki-o-kaku	home	ibiki o kaku	snore	23	7.26	0.64	10.94	を:17 ∅:5 は:1	3		pool	English uses one verb; Japanese needs ibiki + kaku, the same kaku as ase o kaku (sweat).
+shigoto-ga-mitsukaru	work-school	shigoto ga mitsukaru	find a job	23	7.26	0.00	6.47	が:12 は:6 ∅/サ変:3 も:2	4		pool	Landing a job is usually intransitive, shigoto ga mitsukatta (a job turned up). English 'I found' pushes toward shigoto o mitsuketa, which sounds less natural.
+ten-o-toru	work-school	ten o toru	get a score	23	7.26	0.04	6.4	∅:11 を:11 も:1	4		pool	Scores are 'taken', not received: hyakuten totta, ii ten toreta (not ten o morau).
+kotsu-o-tsukamu	hobbies	kotsu o tsukamu	get the hang of it, get the knack	23	7.26	0.28	9.42	を:12 が:6 は:3 ∅:1	3		pool	The set phrase is kotsu o tsukamu ('grab the knack'). Kotsu ga wakaru is also heard, but kotsu o toru is not.
+menkyo-o-toru	work-school	menkyo o toru	get a licence	22	6.94	0.23	6.42	を:13 ∅/サ変:6 は:2 も:1	3		pool	Not menkyo o morau: you 'take' a licence by earning it (menkyo totta). The same goes for qualifications: shikaku o toru.
+ashi-ga-hayai	describing	ashi ga hayai	be a fast runner	22	6.94	0.02	7.9	が:16 も:2 は:2 を:1	4		pool	Not 'hayai rannaa': a fast runner is ashi ga hayai ('legs are fast'). Ashi ga osoi is slow.
+takarakuji-ga-ataru	time-money	takarakuji ga ataru	win the lottery	22	6.94	0.59	9.88	に:11 が:7 ∅:4	3		pool	Not takarakuji ni katsu: you don't beat a lottery. The ticket 'hits' with ataru, and the lottery is the subject. The same goes for raffles and prize draws (kuji ga ataru).
+daigaku-o-deru	work-school	daigaku o deru	graduate from university	22	6.94	0.05	6.24	を:19 ∅:2 も:1	3		pool	English 'graduate' leads to sotsugyou suru (fine but stiff). In conversation people say daigaku deta ('left university').
+takarakuji-ni-ataru	time-money	takarakuji ni ataru	win the lottery	22	6.94	0.59	9.88	に:11 が:7 ∅:4	3		pool	Not takarakuji ni katsu: you don't beat a lottery, it hits you. 'Takarakuji atattara...' (also ga ataru).
+kazu-ga-ooi	describing	kazu ga ooi	there are a lot of them	22	6.94	0.07	8.54	が:15 ∅:3 は:2 ADJ:1	3		corpus	
+ongaku-o-kakeru	media	ongaku o kakeru	put on, play music	21	6.62	0.04	7.08	∅:12 を:8 は:1	4	yes	pool	Not asobu: playing music from a speaker is ongaku o kakeru; asobu is play as in have fun, hiku is play an instrument.
+shiken-o-ukeru	work-school	shiken o ukeru	take an exam	21	6.62	0.13	7.52	を:20 ∅/サ変:1	4	yes	pool	Not shiken o toru: you 'receive' an exam, ukeru (also tesuto o ukeru, mensetsu o ukeru, and daigaku o ukeru for sitting a university's entrance exam).
+dengen-ga-hairu	media	dengen ga hairu	(a device) turns on	21	6.62	0.08	6.26	が:17 は:3 も:1	3		pool	Not tsuku: a dead phone that 'won't turn on' is dengen ga hairanai.
+okane-o-kariru	time-money	okane o kariru	borrow money	20	6.31	0.01	8.19	を:20	4		pool	Learners swap kariru (borrow) and kasu (lend). The lender takes ni or kara (tomodachi ni karita).
+kami-ga-nagai	describing	kami ga nagai	have long hair	20	6.31	0.03	7.7	ADJ:14 ∅:2 が:2 を:1	4		pool	Not 'nagai kami ga aru' for 'she has long hair': say kanojo wa kami ga nagai.
+se-ga-nobiru	describing	se ga nobiru	grow taller	20	6.31	0.05	10.24	が:19 ∅:1	3		pool	Not se ga sodatsu: 'you've grown!' is se nobita ne (or ookiku natta ne).
+jugyou-o-saboru	work-school	jugyou o saboru	skip class, cut class	20	6.31	0.08	10.95	を:13 ∅/サ変:6 は:1	3		pool	Not jugyou o nuku or tobasu: skipping class or work is saboru (from 'sabotage'), while skipping a meal is nuku.
+gasorin-o-ireru	travel	gasorin o ireru	get petrol / gas, fill up	20	6.31	0.18	6.71	を:11 ∅:8 も:1	3		pool	Not gasorin o kau or morau: fuel is 'put in' (ireru), as in gasorin irete kara iku.
+saizu-ga-au	clothes	saizu ga au	be the right size, fit	19	5.99	0.18	9.38	が:10 は:6 も:2 で:1	3	yes	pool	English 'fit' has no one-word verb: say saizu ga au / awanai. This au means 'match' and sounds the same as au 'meet'.
+okane-o-tameru	time-money	okane o tameru	save up money	19	5.99	0.01	8.69	を:19	4	yes	pool	Not okane o tasukeru or setsuyaku suru: saving up is tameru, 'pile up' (setsuyaku means cutting back).
+yotei-ga-hairu	time-money	yotei ga hairu	have something come up	19	5.99	0.05	6.09	が:13 に:5 ∅/サ変:1	4	yes	pool	Not yotei ga kuru or deru: a plan that gets booked 'enters' (sono hi yotei haitteru = I've got something that day).
+yaruki-ga-deru	senses	yaruki ga deru	feel motivated	19	5.99	0.10	6.07	が:16 ∅:2 も:1	5	yes	pool	There's no adjective for 'motivated': motivation 'comes out' (yaruki ga deru, or yaruki ga denai).
+kawa-o-muku	food	kawa o muku	peel (fruit, vegetables)	19	5.99	0.09	11.06	を:17 ∅:2	3		pool	Learners reach for hagu or toru. Peeling the skin off fruit or vegetables is muku, as in mikan no kawa o muku.
+mimi-ga-tooi	describing	mimi ga tooi	be hard of hearing	19	5.99	0.02	8.68	が:16 は:3	2		pool	Not mimi ga kikoenai: the plain, polite way is 'far ears' (mimi ga tooi), the mirror of me ga warui.
+ki-ga-noranai	senses	ki ga noranai	not be in the mood, not feel like it	19	5.99	0.00	5.09	が:18 は:1	3		pool	Nothing in 'I don't feel like it' leads to noru (ride). The plain way to say it is ki ga noranai.
+kaisha-o-yameru	work-school	kaisha o yameru	quit one's job	18	5.68	0.03	7.58	を:10 ∅:6 は:1 も:1	4		pool	Mostly guessable from yameru = quit. The catch is that you quit the company or the job (kaisha/shigoto o yameru), and 辞める sounds identical to 止める 'stop'.
+shumi-ga-aru	hobbies	shumi ga aru	have a hobby	18	5.68	0.11	3.25	が:14 ∅:2 も:1 は:1	3		pool	Not shumi o motsu in speech: having a hobby is ga aru (nanka shumi aru?), like jikan ga aru.
+kami-o-tokasu	home	kami o tokasu	brush / comb one's hair	18	5.68	0.03	9.68	を:18	3		pool	Not kami o migaku: teeth are brushed with migaku, hair with tokasu.
+kuruma-ni-hikareru	travel	kuruma ni hikareru	get hit / run over by a car	18	5.68	0.00	6.73	に:16 で:2	2		pool	Not kuruma ni utareru: being run over is hikareru, the passive of hiku, which sounds the same as the hiku in kaze o hiku.
+kuchi-ni-au	food	kuchi ni au	suit one's taste (food)	18	5.68	0.01	7.72	に:17 が:1	4		pool	No English pairing to copy. 'Do you like the food here?' is asked as nihon no tabemono, kuchi ni au? Here au means 'fit', not 'meet'.
+netto-ga-tsunagaru	media	netto ga tsunagaru	the internet connects, works	17	5.36	0.05	9.02	に:12 で:2 は:2 も:1	4	yes	pool	Not hataraku or ugoku: 'the Wi-Fi isn't working' is netto ga tsunagaranai ('doesn't connect').
+kareshi-ga-dekiru	people	kareshi ga dekiru	get a boyfriend / girlfriend	17	5.36	0.08	4.1	が:12 ∅:4 に:1	4		pool	Not kareshi o eru or morau: a partner 'comes into being' with ga dekiru (kanojo dekita!).
+sensu-ga-ii	describing	sensu ga ii	have good taste / a good eye (style)	17	5.36	0.16	4.0	が:9 ∅:6 は:2	4		pool	English 'good taste' leads to aji (flavour). Taste in clothes, music or gifts is sensu ga ii; shumi ga ii is also used.
+karada-o-ugokasu	hobbies	karada o ugokasu	get some exercise, move your body	17	5.36	0.02	8.46	を:15 は:1 ∅:1	4		pool	Not only undou suru: the casual 'I need some exercise' is karada o ugokasu.
+gomi-o-dasu	home	gomi o dasu	take out the trash	16	5.05	0.09	6.71	を:14 に:1 は:1	4	yes	pool	Not gomi o toru or motte iku: taking out the trash is gomi o dasu (put it out).
+yubiwa-o-hameru	clothes	yubiwa o hameru	put on / wear a ring	16	5.05	0.03	9.61	を:13 ∅:3	2		pool	Not yubiwa o kiru: things you push a finger or hand into (rings, gloves) take hameru. yubiwa shiteru is also common for wearing one.
+yuki-ga-tsumoru	weather	yuki ga tsumoru	snow settles, piles up	16	5.05	0.08	11.23	が:16	2		pool	English 'the snow is sticking/settling' has no match: snow piles up, tsumoru, not tsuku or nokoru.
+netsu-ga-sagaru	body	netsu ga sagaru	fever goes down	16	5.05	0.07	9.63	は:8 が:7 も:1	4		pool	Not netsu ga oriru or heru: a fever 'drops', netsu ga sagaru (netsu sagatta?).
+jugyou-ni-deru	work-school	jugyou ni deru	attend class	16	5.05	0.06	5.81	に:14 から:1 ∅/サ変:1	4		pool	Attending a class is deru with ni. jugyou o deru would mean walking out of it, and shusseki suru is the formal word.
+shiai-ni-deru	hobbies	shiai ni deru	play in a match	16	5.05	0.05	5.8	に:12 ∅/サ変:3 は:1	3		pool	Not shiai o suru for 'play in the game': taking part is deru (nichiyou shiai deru), and so is taikai ni deru (enter a tournament).
+fue-o-fuku	hobbies	fue o fuku	play the flute or recorder	16	5.05	0.36	10.73	を:14 ∅:2	2		pool	Not fue o hiku or suru: wind instruments are blown with fuku, the verb of kaze ga fuku (the wind blows).
+sutairu-ga-ii	describing	sutairu ga ii	have a good figure	16	5.05	0.24	3.92	∅:7 が:3 も:3 ADJ:2	4		pool	False friend: sutairu ga ii means a good figure (slim, well-proportioned), not good fashion sense. Fashion is oshare.
+kopii-o-toru	work-school	kopii o toru	make a (photo)copy	16	5.05	0.05	5.93	を:12 ∅/サ変:2 が:1 は:1	3		pool	Not kopii o tsukuru: copies are 'taken' with toru. Kopii suru is also used.
+youji-ga-dekiru	time-money	youji ga dekiru	something comes up	16	5.05	0.06	4.01	が:16	4		pool	Not youji ga kuru: 'something came up' is kyuu ni youji ga dekita. Youji ga aru means 'I have things to do'.
+hige-o-hayasu	describing	hige o hayasu	grow a beard / moustache	16	5.05	0.10	11.42	を:10 ∅:4 も:1 は:1	3		pool	Not hige o sodateru or nobasu: facial hair is 'made to sprout' (hayasu), the transitive of haeru. hige haeteru hito = a man with a beard.
+aishou-ga-ii	people	aishou ga ii	be compatible, go well together (people, also food pairings)	16	5.05	0.44	3.92	が:15 も:1	3		pool	'We're compatible' has no Japanese verb to copy. You say the match is good, aishou ga ii (also wain to chiizu wa aishou ga ii).
+onegai-o-kiku	people	onegai o kiku	do someone a favour (agree to a request)	16	5.05	0.06	5.63	を:15 も:1	3		pool	Not onegai o suru, which means making the request. Doing the favour is onegai o kiku (chotto onegai kiite kureru?).
+mise-o-yaru	work-school	mise o yaru	run a shop, bar or restaurant	16	5.05	0.02	5.54	を:10 で:3 に:2 ∅:1	3		pool	Not hashiru or motsu. Running a shop is yaru (oya ga izakaya yatteru); keiei suru is formal.
+toire-o-kariru	home	toire o kariru	use someone's bathroom	15	4.73	0.03	8.59	∅:9 を:6	3	yes	pool	Not toire o tsukau: asking to use someone's toilet is 'borrowing' it (toire karite mo ii?).
+manaa-moodo-ni-suru	media	manaa moodo ni suru	put one's phone on silent	15	4.73	0.25	0.71	に:14 ∅:1	2		pool	'Silent mode' is the made-in-Japan manaa moodo ('manner mode') with ni suru, not sairento ni oku.
+mensetsu-o-ukeru	work-school	mensetsu o ukeru	have a (job) interview	15	4.73	0.12	7.04	を:13 ∅/サ変:2	3		pool	The candidate ukeru (receives) the interview, like shiken o ukeru; mensetsu o suru means you are the one interviewing.
+oyu-ga-deru	home	oyu ga deru	hot water comes out / runs (tap, shower)	15	4.73	0.23	5.75	が:14 は:1	3		pool	'There's no hot water' is oyu ga denai, not oyu ga nai. This is the intransitive of mizu o dasu / oyu o dasu.
+kaisha-ni-tsutomeru	work-school	kaisha ni tsutomeru	work for a company	14	4.42	0.02	9.04	に:14	3	yes	pool	'Work for X' is not X no tame ni hataraku: say X ni tsutometeru (or X de hataraiteru), with ni and almost always in the -te iru form.
+mise-ga-aku	time-money	mise ga aku	a shop opens (for the day), is open	14	4.42	0.02	7.51	を:9 が:3 ∅:1 は:1	4	yes	pool	Not mise ga akeru or hiraku: 'is it open?' is aiteru? or nanji made aiteru?. Mise o hiraku means opening a new shop.
+takushii-o-hirou	travel	takushii o hirou	catch a taxi	14	4.42	0.05	9.62	を:13 ∅:1	3		pool	Not takushii o toru or takushii o tsukamu: hailing one in the street is hirou ('pick up'). tsukamaeru also works; phoning for one is yobu.
+seki-o-yuzuru	travel	seki o yuzuru	give up your seat	14	4.42	0.02	9.19	を:14	3		pool	Not seki o ageru: offering your seat to someone is yuzuru ('hand over').
+jishin-ga-okiru	weather	jishin ga okiru	an earthquake happens	14	4.42	0.20	7.72	が:13 は:1	3		pool	English 'an earthquake hit/struck' has no matching verb. Say jishin ga okiru (casually jishin ga atta / kita). The shaking itself is yureru.
+tsumetai-kaze	weather	tsumetai kaze	a cold wind	14	4.42	0.03	9.31	ADJ:14	2		pool	Not samui kaze by default: wind you feel on your skin is tsumetai (cold to the touch). Samui describes the air or how you feel.
+heya-o-katazukeru	home	heya o katazukeru	tidy up one's room	14	4.42	0.01	7.33	を:13 ∅:1	4		pool	English 'clean your room' leads to souji suru, which means scrubbing and vacuuming. Putting things away is katazukeru.
+uso-ga-bareru	people	uso ga bareru	a lie gets found out	14	4.42	0.00	7.06	が:11 は:3	3		pool	Not uso ga mitsukaru: lies and secrets 'come out' with bareru (casual), as in uso bareta.
+atomawashi-ni-suru	time-money	atomawashi ni suru	put something off, deal with it later	14	4.42	0.78	0.61	に:14	3		pool	'Put off' has no Japanese verb to copy. You turn the task into 'later', atomawashi ni suru.
+kaigi-ni-deru	work-school	kaigi ni deru	attend a meeting	13	4.1	0.04	5.5	に:13	4	yes	pool	Not kaigi o deru (= leave the meeting room) or kaigi ni sanka suru in casual speech: attending is ni deru.
+michi-o-wataru	travel	michi o wataru	cross the road	13	4.1	0.01	7.07	を:13	3		pool	Not michi ni wataru or kurosu suru: what you cross takes o (michi, hashi, shingou o wataru).
+okawari-o-suru	food	okawari o suru	have seconds / a refill	13	4.1	0.22	0.51	∅:12 は:1	3		pool	There is no word for 'seconds' or 'refill' to translate; it is the noun okawari, used with suru or on its own (okawari kudasai).
+kaminari-ga-naru	weather	kaminari ga naru	it thunders	13	4.1	0.14	9.75	が:12 まで:1	3		pool	English 'it thunders' is one verb. Japanese makes the thunder sound: kaminari ga naru (鳴る 'ring', a homophone of naru 'become').
+samuke-ga-suru	body	samuke ga suru	have the chills	13	4.1	0.93	0.51	が:13	3		pool	Not samui alone: chills 'do', samuke ga suru; samui means the room is cold.
+chuusha-o-utsu	body	chuusha o utsu	give or get a shot	13	4.1	0.06	7.05	を:11 も:1 は:1	2		pool	Shots are 'hit', chuusha o utsu; as the patient say chuusha utte moratta or utareta.
+kigen-ga-kireru	food	kigen ga kireru	expire, go past the use-by date	13	4.1	0.17	9.4	が:9 ∅:4	3		pool	There's no verb for 'expire': the deadline 'snaps' with kireru. For food, people say shoumi kigen ga kireteru. Passports and cards just say kigen ga kireta.
+nimotsu-ga-todoku	home	nimotsu ga todoku	a package arrives	13	4.1	0.02	8.57	が:10 は:3	4		pool	Not nimotsu ga tsuku: deliveries 'reach' you, so nimotsu todoita. Tsuku is for people and vehicles arriving.
+seikaku-ga-ii	describing	seikaku ga ii	be a good person, have a nice personality	13	4.1	0.10	3.62	が:5 も:3 は:2 ADJ:2	4		pool	'He's nice' is usually seikaku ga ii or yasashii; seikaku ga warui means mean or nasty.
+juutai-ni-hamaru	travel	juutai ni hamaru	get stuck in traffic	13	4.1	0.16	10.59	に:13	3		pool	Not juutai de tomaru: you 'fall into' traffic (hamaru), the same verb as geemu ni hamaru (get hooked).
+aza-ga-dekiru	body	aza ga dekiru	get a bruise	13	4.1	0.12	3.72	が:12 は:1	3		pool	A bruise dekiru (forms), not tsuku; usually aza dekichatta.
+tokei-o-suru	clothes	tokei o suru	wear a watch	12	3.79	0.04	0.39	を:10 ∅:1 は:1	3	yes	pool	Not tokei o kiru: a watch takes suru (tokei shiteru). tsukeru also works but sounds stiffer.
+airon-o-kakeru	home	airon o kakeru	iron (clothes)	12	3.79	0.48	6.42	を:7 ∅:5	3		pool	English 'iron' is a verb; Japanese says airon o kakeru, not airon suru.
+hi-ga-nagai	weather	hi ga nagai	the days are long	12	3.79	0.01	6.39	ADJ:6 が:5 まで:1	3		pool	Not ichinichi ga nagai, which means 'it was a long day': daylight hours are hi ga nagai / hi ga mijikai.
+nodo-ga-itai	body	nodo ga itai	have a sore throat	12	3.79	0.02	8.3	が:10 ∅:1 を:1	4		pool	No 'sore' adjective: the throat hurts, nodo ga itai.
+denpa-ga-warui	media	denpa ga warui	bad signal, poor reception	12	3.79	0.11	5.78	が:11 を:1	3		pool	Not shingou: phone signal is denpa ('radio waves'); shingou is a traffic light.
+petto-o-kau	home	petto o kau	have / keep a pet	12	3.79	0.10	10.18	を:7 は:2 で:1 も:1	4		pool	Not petto ga aru or petto o motsu: you keep an animal with kau (飼う), which sounds exactly like kau, 'buy'.
+jikan-o-mamoru	time-money	jikan o mamoru	be on time, be punctual	12	3.79	0.00	5.16	を:8 は:2 も:2	3		pool	'Punctual' is an adjective in English, but Japanese 'protects the time': jikan mamotte ne.
+kami-o-someru	describing	kami o someru	dye one's hair	12	3.79	0.02	9.17	を:10 も:2	3		pool	Like kami o kiru, you say you dyed your hair even when the salon did it. kinpatsu ni someru = go blond.
+shashin-ni-utsuru	media	shashin ni utsuru	be in a photo, appear in a picture	12	3.79	0.01	7.79	に:12	3		pool	Not shashin ni iru or haitte iru: appearing in a photo is utsuru, as in kono shashin ni utsutteru no dare?
+koe-ga-hikui	describing	koe ga hikui	have a deep (low) voice	12	3.79	0.01	7.6	ADJ:6 を:4 は:1 ∅:1	3		pool	Not koe ga fukai: a deep voice is low, hikui. A high-pitched one is koe ga takai.
+seki-ga-aku	travel	seki ga aku	a seat is free	11	3.47	0.02	8.34	∅:4 は:4 が:3	4	yes	pool	Not seki ga furii or seki ga hima: a free seat is aiteru ('open'), as in koko aitemasu ka?
+ikura-suru	time-money	ikura suru	cost (how much)	11	3.47	0.05	0.27	∅:7 に:4	5	yes	pool	Not ikura kakaru for a price tag: what an item costs takes suru (kore ikura shita? = how much was this?); kakaru is for running costs of a trip or service.
+suupu-o-nomu	food	suupu o nomu	have soup	11	3.47	0.10	7.1	を:7 ∅:2 が:1 は:1	3	yes	pool	Not suupu o taberu: soup and miso soup are drunk (nomu), even with a spoon.
+onaka-o-kowasu	body	onaka o kowasu	get an upset stomach, get diarrhoea	11	3.47	0.01	7.78	を:7 ∅:4	4	yes	pool	English 'have an upset stomach' gives no usable verb. Japanese 'breaks' the stomach with kowasu, transitive, with the speaker as subject: onaka kowashita.
+tenshon-ga-agaru	senses	tenshon ga agaru	get excited, get hyped	11	3.47	0.28	8.55	∅:8 が:3	5	yes	pool	False friend: tenshon means excitement or energy, not stress. 'I'm excited' is tenshon agaru, and tenshon takai means hyper.
+denki-ga-kieru	home	denki ga kieru	the light goes out	11	3.47	0.04	7.76	が:9 ∅:1 は:1	3		pool	Not denki ga kesu: the intransitive is kieru, and 'the light is off' is denki kieteru.
+hana-o-kamu	body	hana o kamu	blow one's nose	11	3.47	0.03	8.95	を:10 ∅:1	3		pool	Not hana o fuku: fuku is for blowing air, wind or a flute. You blow your nose with kamu, which sounds like kamu, 'bite'.
+kuse-ni-naru	food	kuse ni naru	be addictive, become a habit	11	3.47	0.04	3.66	に:11	3		pool	No 'addictive' adjective is used for snacks: you say kuse ni naru ('it becomes a habit').
+okane-o-kakeru	time-money	okane o kakeru	spend money on (something)	11	3.47	0.01	5.91	を:8 も:2 ∅:1	3		pool	Not okane o tsukau when you mean putting money into something: fuku ni okane o kakeru. It's the transitive half of okane ga kakaru.
+yogore-o-otosu	home	yogore o otosu	get dirt or a stain off, clean it off	11	3.47	0.19	8.41	を:9 ∅:1 は:1	3		pool	English 'get off' or 'remove' suggests toru; the usual verb is otosu (drop), as in keshou o otosu.
+nimotsu-o-tsumeru	travel	nimotsu o tsumeru	pack (a bag or suitcase)	11	3.47	0.02	8.91	を:8 ∅:2 は:1	3		pool	Not pakku suru or nimotsu o ireru: packing a bag is tsumeru, 'cram in' (mou nimotsu tsumeta?). nimotsu o matomeru means 'get your stuff together'.
+jikan-ga-aku	time-money	jikan ga aku	be free (time opens up)	10	3.15	0.00	5.41	∅:5 が:5	5	yes	pool	Not jiyuu: being free is aku, 'to open up' (ashita aiteru? = are you free tomorrow?).
+hidoi-kaze	body	hidoi kaze	bad cold	10	3.15	0.07	6.63	ADJ:9 ∅:1	3		pool	Not warui kaze: a bad cold is hidoi kaze; warui means wrong or at fault.
+mizu-o-tomeru	home	mizu o tomeru	turn off the water (tap)	10	3.15	0.01	6.31	を:10	3		pool	Not mizu o kesu: kesu is for lights, the TV and fire. Water and gas are stopped with tomeru. To turn the tap on: mizu o dasu.
+yoi-ga-sameru	food	yoi ga sameru	sober up	10	3.15	0.17	9.58	が:6 は:3 も:1	2		pool	Japanese has no verb for 'sober up': being drunk 'wears off' (sameru), the same verb as me ga sameru.
+shuuri-ni-dasu	media	shuuri ni dasu	send (something) for repair, get it fixed	10	3.15	0.02	5.96	に:10	3		pool	English 'get it fixed' has no verb to translate; Japanese sends it out: sumaho o shuuri ni dasu.
+boonasu-ga-deru	work-school	boonasu ga deru	get a bonus (a bonus is paid out)	10	3.15	0.29	5.17	が:5 も:2 は:2 ∅:1	3		pool	The usual line is that the bonus deru (comes out): boonasu deta? Boonasu o morau is also fine.
+kami-ga-nukeru	body	kami ga nukeru	hair falls out, lose hair	10	3.15	0.02	8.14	が:8 は:1 も:1	3		pool	Not kami ga ochiru: hair coming out (in the shower, from stress, with age) is nukeru. Ochiteru is only for a hair lying on the floor.
+kaminari-ga-ochiru	weather	kaminari ga ochiru	lightning strikes	10	3.15	0.11	7.5	が:9 は:1	3		pool	Not kaminari ga utsu: lightning falls (ochita). Kaminari ga naru is the thunder you hear.
+nikki-o-tsukeru	hobbies	nikki o tsukeru	keep a diary	10	3.15	0.12	5.36	を:8 は:2	2		pool	Not nikki o motsu or tamotsu: keeping a diary or any record is tsukeru, as in kakeibo o tsukeru (keep household accounts).
+megane-o-hazusu	clothes	megane o hazusu	take off glasses	9	2.84	0.05	7.97	を:6 は:2 が:1	3	yes	pool	Not megane o nugu: nugu is only for clothes and shoes. Glasses, watches, masks, rings and earrings come off with hazusu.
+sakkaa-o-suru	hobbies	sakkaa o suru	play soccer	9	2.84	0.18	-0.02	∅:5 を:4	5	yes	pool	Not sakkaa o asobu: asobu means playing around, so sports take suru (casually yaru: sakkaa yatteru).
+shiai-ni-katsu	hobbies	shiai ni katsu	win a match	9	2.84	0.03	8.05	に:6 ∅/サ変:2 で:1	4	yes	pool	Not shiai o katsu: English 'win the game' is transitive, but Japanese wins at it with ni (geemu ni katta).
+ka-ni-sasareru	body	ka ni sasareru	get bitten by a mosquito	9	2.84	0.16	8.51	に:9	3	yes	pool	Not ka ni kamareru: mosquitoes and bees 'sting' with sasu, used in the passive. Kamu is for dogs and snakes.
+denpa-ga-hairu	media	denpa ga hairu	get a signal	9	2.84	0.08	5.06	が:7 ∅:1 は:1	3	yes	pool	Not denpa o morau: having signal is denpa ga hairu, and 'no signal' is denpa hairanai.
+michi-ga-komu	travel	michi ga komu	the traffic is heavy	9	2.84	0.00	6.9	が:7 も:1 は:1	4		pool	Not michi ga isogashii (busy is for people) or kuruma ga ooi: crowded roads, trains and shops are konderu.
+jikan-o-akeru	time-money	jikan o akeru	keep time free	9	2.84	0.00	5.3	を:9	2		pool	Not jikan o jiyuu ni suru: clearing time for someone is akeru (ashita akete oku ne).
+ame-ni-nureru	weather	ame ni nureru	get wet in the rain	9	2.84	0.02	9.36	に:5 で:4	3		pool	'Get wet' is the single verb nureru, with no 'get' or naru added. The rain takes ni (ame de nureta is also heard).
+takai-netsu	body	takai netsu	high fever	9	2.84	0.04	7.14	が:9	3		pool	
+netto-ni-tsunagu	media	netto ni tsunagu	connect to the internet	9	2.84	0.03	8.38	に:6 を:1 で:1 は:1	3		pool	English 'connect' covers both: you tsunagu a device (waifai ni tsunaide), but the net tsunagaru on its own.
+shukudai-o-dasu	work-school	shukudai o dasu	hand in homework	9	2.84	0.07	5.9	を:9	4		pool	Handing in is dasu ('put out'), not ageru or teishutsu suru in speech. When a teacher says it, dasu means 'set homework'.
+torihada-ga-tatsu	senses	torihada ga tatsu	get goosebumps	9	2.84	0.60	6.91	が:9	3		pool	Not torihada o morau or ga deru: goosebumps 'stand up' with tatsu, and the noun is the subject. It covers cold, fear and being moved.
+taichou-o-kuzusu	body	taichou o kuzusu	get run down, fall ill	9	2.84	0.13	10.89	を:9	4		pool	English gives no hint of kuzusu ('crumble'). Learners say byouki ni naru, which sounds like a real illness rather than being run down.
+tamago-o-waru	food	tamago o waru	crack an egg	9	2.84	0.03	9.11	を:9	3		pool	Not tamago o kowasu: eggs, glasses and plates 'split' (waru).
+omimai-ni-iku	people	omimai ni iku	visit someone in hospital, visit a sick person	9	2.84	0.17	4.19	に:9	3		pool	Not byouin o tazuneru or houmon suru: visiting a sick person is omimai ni iku.
+chiketto-o-toru	hobbies	chiketto o toru	get tickets	9	2.84	0.05	5.12	を:7 ∅:2	4		pool	Not chiketto o morau: securing tickets is chiketto o toru, and toreta! means 'I got them'.
+hi-ga-ataru	weather	hi ga ataru	get sun (a room or spot)	9	2.84	0.00	6.68	に:5 が:4	3		pool	Not hi o morau: sunlight 'hits', so a sunny room is hi ga ataru heya.
+kara-ni-suru	home	kara ni suru	empty (something) out	9	2.84	0.69	-0.02	に:9	2		corpus	'Empty' has no verb form; say kara ni suru (make empty).
+kaze-ga-naoru	body	kaze ga naoru	get over a cold	8	2.52	0.05	9.42	が:5 ∅:3	4		pool	Not koeru: the cold itself 'heals', kaze ga naoru (kaze naotta?); you cure it with kaze o naosu.
+terebi-de-yaru	media	terebi de yaru	be on TV (a programme)	8	2.52	0.02	4.57	で:8	3		pool	Not terebi ni aru: 'the film is on TV tonight' is konban terebi de yaru ('TV is doing it'); ni deru is for people.
+iki-ga-kireru	body	iki ga kireru	get out of breath	8	2.52	0.01	7.4	が:8	3		pool	There's no English verb to translate: breath 'runs out' (kireru), the same verb as juuden ga kireru.
+hanashi-ga-moriagaru	people	hanashi ga moriagaru	the conversation gets lively, have a great chat	8	2.52	0.00	4.66	で:6 は:1 が:1	3		pool	No English verb fits: talk and parties 'swell up' (moriagaru), as in sugoi moriagatta ne.
+kuriiningu-ni-dasu	clothes	kuriiningu ni dasu	take (clothes) to the dry cleaner's	8	2.52	0.29	5.76	に:8	3		pool	English 'take' leads to motte iku; natives say dasu (send out), the same pattern as shuuri ni dasu.
+hanashi-ga-soreru	people	hanashi ga soreru	get off topic, digress	8	2.52	0.00	4.65	が:8	3		pool	Not hanashi ga kawaru or hanareru: a conversation that drifts 'veers off' (soreru), and hanashi o modosu brings it back.
+tameiki-o-tsuku	senses	tameiki o tsuku	sigh	8	2.52	0.31	8.96	を:8	3		pool	'Sigh' is a verb in English. Japanese uses a noun with tsuku, the same verb as uso o tsuku.
+kioku-ga-tobu	food	kioku ga tobu	black out; one's memory goes blank (from drinking)	8	2.52	0.01	7.08	が:7 は:1	3		pool	Not kioku o nakusu (amnesia, formal): blacking out from drink is kioku ga tobu (nomisugite kioku tonda).
+nemuri-ni-tsuku	body	nemuri ni tsuku	fall asleep	8	2.52	0.04	5.29	に:8	2		corpus	'Fall' asleep is tsuku (or just nemuru), not ochiru.
+hi-ni-yakeru	body	hi ni yakeru	get a tan / get sunburnt	7	2.21	0.00	6.66	に:7	3	yes	pool	There's no separate verb for 'tan' or 'burn': the skin is 'grilled by the sun', hi ni yakeru, the same yakeru as niku ga yakeru.
+eki-made-okuru	travel	eki made okuru	take / drop someone to the station, see someone off	7	2.21	0.04	5.99	まで:7	4	yes	pool	Not just eki made tsurete iku: walking or driving someone somewhere is okuru (the 'send' verb), as in okutte iku yo.
+eki-ni-tsuku	travel	eki ni tsuku	get to the station	7	2.21	0.04	7.69	に:7	5		pool	Not eki o tsuku or eki ni kita for 'I'm here': arriving is tsuku with ni, as in ima eki tsuita.
+niku-o-yaku	food	niku o yaku	grill / cook meat	7	2.21	0.02	8.06	を:7	3		pool	English splits grill, roast, bake, toast and fry; Japanese uses yaku for all dry-heat cooking (pan o yaku = make toast).
+kami-ga-nobiru	describing	kami ga nobiru	hair grows longer	7	2.21	0.01	8.29	が:4 は:2 ∅:1	3		pool	Not kami ga sodatsu: hair grows = nobiru. 'Your hair's grown' is kami nobita ne.
+shigoto-ga-tamaru	work-school	shigoto ga tamaru	work piles up	7	2.21	0.00	5.05	が:7	3		pool	Not tsumoru (that's for snow): work, chores and laundry pile up with tamaru.
+karada-o-kowasu	body	karada o kowasu	ruin one's health, make oneself ill (from overwork)	7	2.21	0.01	6.85	を:6 ∅:1	3		pool	English 'ruin your health' gives no verb; Japanese breaks the body: muri suru to karada kowasu yo.
+nioi-ga-tsuku	clothes	nioi ga tsuku	a smell gets into (clothes, hair)	7	2.21	0.01	5.54	が:6 ∅:1	3		pool	A smell clinging to clothes tsuku (sticks), like shimi ga tsuku: yakiniku no nioi ga fuku ni tsuita.
+suibun-o-toru	body	suibun o toru	stay hydrated, drink enough fluids	7	2.21	0.39	4.78	を:4 は:1 ∅:1 も:1	3		pool	Not suibun o nomu: you 'take in' fluids, suibun o toru, just as you say eiyou o toru for nutrition.
+inshou-ni-nokoru	senses	inshou ni nokoru	stick in one's mind, be memorable	7	2.21	0.03	6.99	に:7	3		pool	Not oboeyasui or kioku suru: 'the most memorable part was…' is ichiban inshou ni nokotta no wa…
+kyuuryou-ga-agaru	work-school	kyuuryou ga agaru	get a pay rise / raise	7	2.21	0.04	7.7	も:3 が:2 は:1 ∅:1	3		pool	Not kyuuryou o morau, which is just 'get paid': a raise is the salary going up, kyuuryou agatta.
+deeta-ga-kieru	media	deeta ga kieru	data gets lost / wiped	7	2.21	0.02	6.95	が:7	3		pool	Not deeta o nakusu: files and photos disappear, kieru (shashin zenbu kiechatta). Kesu is deleting them yourself.
+taijuu-ga-fueru	body	taijuu ga fueru	put on weight, gain weight	7	2.21	0.08	9.01	∅:3 が:2 は:1 も:1	3		pool	Not taijuu o tsukeru or eru: weight is the subject and it increases, taijuu ga fueru. To lose weight is taijuu ga heru, or simply yaseru.
+densha-ga-okureru	travel	densha ga okureru	the train is delayed	6	1.89	0.04	8.25	に:3 が:2 は:1	5	yes	pool	Not densha ga osoi: osoi means slow, and a train running late is okureteru. Switching ga to ni flips it to 'I missed the train'.
+densha-ni-okureru	travel	densha ni okureru	miss the train	6	1.89	0.04	8.25	に:3 が:2 は:1	4		pool	Not densha o misu shita or densha o nakushita: missing a train is ni okureru (casually also nogashita or noriokureta).
+kuruma-ni-you	travel	kuruma ni you	get carsick	6	1.89	0.00	5.54	に:6	3		pool	Not kuruma de byouki ni naru: motion sickness uses you, the verb for getting drunk (kuruma yoi, fune ni you).
+eakon-o-tsukeru	home	eakon o tsukeru	turn on the air conditioner	6	1.89	0.19	4.63	を:4 ∅:2	4		pool	Same tsukeru as lights, and eakon o kakeru (run it) is equally natural; not on ni suru or mawasu.
+taiko-o-tataku	hobbies	taiko o tataku	play the drums	6	1.89	0.50	8.48	を:6	3		pool	Not taiko o hiku or suru: drums are hit, tataku, and a drum kit works the same way (doramu o tataku).
+karada-ga-yowai	describing	karada ga yowai	be sickly, often ill	6	1.89	0.01	6.93	が:4 で:1 ∅:1	3		pool	Not 'sugu byouki ni naru hito' as the default: 'gets sick a lot' is karada ga yowai. Karada ga joubu is the sturdy opposite.
+kabi-ga-haeru	home	kabi ga haeru	go mouldy, get mould	6	1.89	0.60	10.69	が:6	3		pool	Not kabi ni naru: mould 'grows' the way hair does (haeru).
+tairyoku-ga-aru	describing	tairyoku ga aru	have stamina, be fit	6	1.89	0.17	1.67	が:4 は:2	4		pool	There's no adjective for 'fit': stamina is something you have or lack (tairyoku aru, tairyoku nai).
+yotei-ga-tsumaru	time-money	yotei ga tsumaru	have a packed schedule	6	1.89	0.01	8.16	が:6	3		pool	Not just yotei ga ippai: a full schedule is 'stuffed' (tsumaru), like a blocked nose. Example: raishuu wa yotei ga tsumatteru.
+shumi-ga-au	people	shumi ga au	have the same tastes, share interests	6	1.89	0.04	7.62	が:4 ∅:1 に:1	3		pool	English 'we share hobbies' points to a sharing verb, but Japanese says your tastes 'match' (au), as in saizu ga au.
+kan-ga-ii	describing	kan ga ii	be perceptive, quick to catch on, have good instincts	6	1.89	0.06	2.5	が:4 ADJ:2	3		pool	English 'sharp' leads to atama ga ii, which means clever. Picking up on things is kan ga ii.
+netsu-o-dasu	body	netsu o dasu	run a fever, come down with a fever (of a person, often a child)	6	1.89	0.02	5.28	を:5 も:1	4		pool	Not netsu o morau: with the person as subject it is netsu o dashita (musuko ga netsu dashite). Netsu ga deta is the same event from the fever's side.
+kata-ga-koru	body	kata ga koru	have stiff shoulders	5	1.58	0.02	9.33	が:4 ∅:1	4	yes	pool	English uses the adjective 'stiff'; Japanese uses the verb koru: kata ga kotteru.
+kaze-o-utsusu	body	kaze o utsusu	give someone your cold	5	1.58	0.03	8.69	を:5	3	yes	pool	Not kaze o ageru: you 'transfer' a cold, kaze o utsusu (kaze utsushichatta, gomen).
+shiai-ni-makeru	hobbies	shiai ni makeru	lose a match	5	1.58	0.02	7.78	に:4 は:1	4	yes	pool	Not shiai o nakusu: losing a contest is makeru (losing an object is nakusu), and it takes ni, never o (shiai ni maketa).
+piano-o-narau	hobbies	piano o narau	take piano lessons	5	1.58	0.04	9.05	を:4 ∅:1	4	yes	pool	Not piano o benkyou suru or ressun o toru: lessons with a teacher are narau (kodomo no koro piano naratteta).
+tebukuro-o-hameru	clothes	tebukuro o hameru	put on / wear gloves	5	1.58	0.06	9.09	を:5	3	yes	pool	Not tebukuro o kiru: gloves 'fit on' (hameru), like rings; tebukuro o suru is also everyday.
+michi-o-kiku	travel	michi o kiku	ask for directions	5	1.58	0.00	3.68	を:5	3		pool	Not michi o tanomu or michi o shitsumon suru: asking the way is kiku, the verb for listening.
+jikan-ni-maniau	time-money	jikan ni maniau	make it in time	5	1.58	0.00	4.47	に:4 が:1	5		pool	Not jikan ni tsuku or dekiru: making it in time is maniau, with ni on the deadline or train (densha ni maniatta).
+oyu-o-wakasu	home	oyu o wakasu	boil water	5	1.58	0.08	11.0	を:5	4		pool	Not mizu o niru: you boil 'hot water' (oyu), and the verb is wakasu; niru is for cooking food.
+oyu-ga-waku	food	oyu ga waku	the water boils	5	1.58	0.08	9.63	が:3 ∅:2	3		pool	Intransitive half: 'the kettle's boiled' is oyu ga waita, not oyu ga wakashita.
+hizashi-ga-tsuyoi	weather	hizashi ga tsuyoi	the sun is strong	5	1.58	0.36	6.5	が:3 ADJ:1 は:1	3		pool	Not taiyou ga tsuyoi or taiyou ga atsui: strong sun is hizashi (sunlight) ga tsuyoi.
+hana-ga-tsumaru	body	hana ga tsumaru	have a stuffy nose	5	1.58	0.01	7.93	が:3 を:1 ∅:1	3		pool	No 'stuffy' adjective: the nose clogs, hana ga tsumaru (hana tsumatteru).
+shiken-ni-deru	work-school	shiken ni deru	be on the exam	5	1.58	0.03	4.15	に:5	3		pool	A topic that's on the test 'comes out' in it, kore tesuto ni deru?, not shiken ni aru.
+kami-ga-mijikai	describing	kami ga mijikai	have short hair	5	1.58	0.01	7.42	を:2 ∅:1 は:1 ADJ:1	3		pool	Not kami ga hikui: hair length is mijikai. Hikui is only for height (se ga hikui).
+mezamashi-ga-naru	home	mezamashi ga naru	the alarm goes off	5	1.58	0.38	8.62	が:4 ∅:1	3		pool	Not mezamashi ga deru or ga iku: alarms, phones and bells ring with naru (鳴る), which sounds like naru, 'become'.
+yogore-ga-ochiru	home	yogore ga ochiru	a stain or dirt comes out	5	1.58	0.09	6.53	が:4 は:1	3		pool	Not yogore ga deru: stains 'fall off', so kono shimi ochinai. Removing them is yogore o otosu.
+shimi-ga-tsuku	home	shimi ga tsuku	get a stain	5	1.58	0.12	5.4	が:5	3		pool	Not shimi o morau: a stain 'attaches', so shimi tsuichatta. Getting it out uses ochiru.
+atsugi-o-suru	clothes	atsugi o suru	dress warmly, wrap up	5	1.58	1.00	-0.87	∅/サ変:3 を:2	2		pool	Not just atatakai fuku o kiru: 'wrap up warm' is one noun, atsugi ('thick wearing'), plus suru.
+onaka-ga-naru	body	onaka ga naru	one's stomach growls, rumbles	5	1.58	0.01	7.16	が:5	3		pool	The stomach rings: naru (鳴る), the verb for a phone or alarm, not the naru that means 'become'.
+onaka-ga-deru	describing	onaka ga deru	get a belly, have a paunch	5	1.58	0.01	4.06	∅:2 が:2 から:1	3		pool	English 'get a gut' or 'put on weight' gives no clue: the belly deru (sticks out), usually onaka dete kita.
+botan-o-tomeru	clothes	botan o tomeru	do up (fasten) buttons	5	1.58	0.02	5.78	を:4 は:1	2		pool	Not botan o shimeru or kakeru: buttons are tomeru (fasten); undoing them is hazusu.
+gyouretsu-ga-dekiru	food	gyouretsu ga dekiru	a queue forms, there's a line	5	1.58	0.23	2.35	が:5	3		pool	Not gyouretsu ga aru: a queue 'comes into being', gyouretsu ga dekiteru. Joining it is narabu.
+kinniku-o-tsukeru	hobbies	kinniku o tsukeru	build muscle	5	1.58	0.09	4.37	を:4 ∅:1	3		pool	Not kinniku o tsukuru. Muscle is 'attached' with tsukeru, the transitive half of kinniku ga tsuku.
+kaisha-ni-hairu	work-school	kaisha ni hairu	join a company, start working at a company	5	1.58	0.01	4.12	に:4 は:1	4		pool	English 'join a company' pushes to sanka suru (take part). Joining a firm, school or club is hairu: kaisha ni haitte sannen.
+okane-o-orosu	time-money	okane o orosu	withdraw cash	4	1.26	0.00	5.73	を:3 ∅:1	4	yes	pool	Not okane o toru: cash from the bank or ATM is orosu, 'bring down' (dasu also works casually).
+ame-ga-tsuyoi	weather	ame ga tsuyoi	the rain is heavy	4	1.26	0.01	5.91	ADJ:2 が:1 ∅:1	4	yes	pool	Not omoi ame: heavy rain is strong rain, ame ga tsuyoi / tsuyoi ame (or ame ga hidoi). Omoi is only for weight.
+shiken-ni-ukaru	work-school	shiken ni ukaru	pass an exam	4	1.26	0.03	9.43	に:3 ∅/サ変:1	4	yes	pool	Not shiken o pasu suru: passing is a verb English gives no hint of, ukaru, and the exam takes ni, not o (also daigaku ni ukatta).
+mukae-ni-iku	travel	mukae ni iku	go to pick someone up	4	1.26	0.09	3.02	が:2 に:2	4	yes	pool	Not hirou or toru: you pick a person up by going 'to meet' them, mukae ni iku. When they come for you: mukae ni kuru.
+meeru-o-kaesu	media	meeru o kaesu	reply to a message or email	4	1.26	0.00	5.81	を:3 ∅/サ変:1	4	yes	pool	Not meeru ni kotaeru: replying to a text is kaesu, 'send back' (LINE kaeshite, henji kaesu). kotaeru is for answering questions.
+keshou-o-otosu	clothes	keshou o otosu	take off makeup	4	1.26	0.05	6.92	を:3 は:1	3		pool	Not keshou o nugu or toru: makeup is 'dropped' with otosu, the same verb used for dirt and stains.
+michi-ga-suku	travel	michi ga suku	the roads are clear	4	1.26	0.00	5.51	は:3 が:1	3		pool	Not michi ga karappo or michi ga hima: an uncrowded road or train is suiteru, the same suku as in onaka ga suku.
+okane-ga-tamaru	time-money	okane ga tamaru	money builds up	4	1.26	0.00	6.46	が:4	3		pool	When the money is the subject the verb is tamaru (okane tamattara = once I've saved up), not transitive tameru.
+yotei-o-ireru	time-money	yotei o ireru	schedule something in	4	1.26	0.01	4.32	に:3 を:1	3		pool	Not yotei o tsukuru or oku: you 'put in' a plan (raishuu ni ireta = I put it in for next week).
+kami-o-kawakasu	home	kami o kawakasu	dry your hair	4	1.26	0.01	7.68	を:4	3		pool	Not kami o kawaku or fuku: drying it yourself is the transitive kawakasu, while kami ga kawaku means it dries.
+kion-ga-agaru	weather	kion ga agaru	the temperature rises	4	1.26	0.17	7.12	が:2 は:2	2		pool	
+seki-ga-deru	body	seki ga deru	have a cough	4	1.26	0.08	3.84	が:3 は:1	4		pool	'Cough' is a verb in English; in Japanese the cough comes out, seki ga deru (seki ga tomaranai).
+hanamizu-ga-deru	body	hanamizu ga deru	have a runny nose	4	1.26	0.31	3.85	が:3 ∅:1	3		pool	Not hana ga hashiru: 'nose water comes out', hanamizu ga deru.
+kami-o-nobasu	describing	kami o nobasu	grow one's hair out	4	1.26	0.01	7.13	∅:3 を:1	3		pool	Not kami o sodateru: growing your hair out is nobasu ('lengthen'), e.g. ima kami nobashiteru.
+nemuri-ga-asai	home	nemuri ga asai	sleep lightly, be a light sleeper	4	1.26	0.02	8.86	が:2 ADJ:1 は:1	3		pool	Not karui nemuri: sleep is 'shallow', asai. Deep sleep is nemuri ga fukai.
+koshi-ga-itai	body	koshi ga itai	one's (lower) back hurts	4	1.26	0.03	7.43	が:4	4		pool	Not senaka ga itai: 'bad back' pain sits in the koshi (lower back and hips). Senaka is the upper back.
+tsukare-ga-toreru	body	tsukare ga toreru	tiredness goes away, feel rested	4	1.26	0.09	7.02	が:4	4		pool	Not tsukare ga naoru: tiredness 'comes off' (toreru). It isn't cured.
+kizu-ga-tsuku	media	kizu ga tsuku	get scratched	4	1.26	0.00	4.16	に:4	3		pool	There's no verb for 'scratch': a scratch 'attaches' (kizu ga tsuku).
+saifu-o-otosu	travel	saifu o otosu	lose your wallet (drop it somewhere)	4	1.26	0.02	6.73	を:3 ∅:1	4		pool	Not only nakusu: losing a wallet or phone while out is usually otosu ('drop'), and the police ask where you dropped it.
+isha-ni-kakaru	body	isha ni kakaru	see a doctor	4	1.26	0.01	5.11	に:4	3		pool	Not isha o miru (that means looking at the doctor): to see a doctor is isha ni kakaru, or isha ni mite morau.
+shashin-o-kesu	media	shashin o kesu	delete a photo	4	1.26	0.00	5.41	を:4	4		pool	Not sakujo suru in speech: 'delete that photo!' is sono shashin keshite. Kesu means erase as well as switch off.
+mise-ga-dekiru	travel	mise ga dekiru	a new shop opens	4	1.26	0.01	1.99	が:3 も:1	3		pool	Not mise ga aku (that's opening for the day): a shop that has just opened is atarashii mise ga dekita.
+kusuri-o-nuru	body	kusuri o nuru	put on ointment, apply cream	4	1.26	0.00	6.88	を:3 ∅:1	3		pool	Not kusuri o nomu or tsukeru: creams, ointment and sunscreen are 'spread' on (nuru); nomu is only for swallowing.
+konsento-o-nuku	home	konsento o nuku	unplug (it)	4	1.26	0.36	7.95	を:3 ∅:1	3		pool	English 'unplug' is one verb; Japanese pulls out the konsento (plug/socket). Plugging in is konsento ni sasu.
+mushi-ga-deru	home	mushi ga deru	a bug turns up (in the house)	4	1.26	0.02	3.82	が:4	3		pool	Not mushi ga iru for the moment of seeing it: pests (and ghosts) 'come out', gokiburi ga deta!
+gohan-ni-suru	food	gohan ni suru	have a meal now, make it mealtime	4	1.26	0.03	-1.19	に:2 ∅:2	4		pool	English 'let's eat' pushes to gohan o tabeyou. At home people say sorosoro gohan ni shiyou (let's switch to the meal), and ofuro ni suru? gohan ni suru? asks which comes first.
+ippai-nomu	food	ippai nomu	have a drink	4	1.26	0.09	5.68	∅:3 で:1	3		corpus	
+densha-ni-maniau	travel	densha ni maniau	make the train in time	3	0.95	0.02	8.28	に:3	5	yes	pool	Not densha o tsukamaeru or densha o toru: making a train in time is ni maniau ('be in time for').
+mezamashi-o-kakeru	home	mezamashi o kakeru	set an alarm	3	0.95	0.23	4.42	を:2 ∅:1	4	yes	pool	Not mezamashi o oku or setto suru: alarms are kakeru'd, like locks and vacuum cleaners.
+denki-ga-tsuku	home	denki ga tsuku	the light comes on	3	0.95	0.01	3.86	に:2 ∅:1	4	yes	pool	Not denki o tsukeru when nobody's doing it: 'the light is on' is denki ga tsuiteru.
+kasa-o-sasu	weather	kasa o sasu	put up an umbrella	3	0.95	0.05	10.21	を:2 も:1	3	yes	pool	Not kasa o tsukau, hiraku or motsu: holding an umbrella over yourself is sasu. Kasa o hiraku only means opening it, and kasa o motsu means carrying it.
+juuden-ga-kireru	media	juuden ga kireru	battery dies, runs out	3	0.95	0.03	7.2	が:3	4	yes	pool	Not shinu: the plain way to say a dead phone is juuden kireta ('the charge ran out'); sumaho shinda is only a joke.
+nekutai-o-shimeru	clothes	nekutai o shimeru	put on a tie	3	0.95	0.03	6.73	を:1 ∅:1 は:1	2		pool	Not nekutai o kiru: a tie is 'tightened' with shimeru, which sounds like shimeru 'close'. Wearing one is just nekutai shiteru.
+densha-ga-tomaru	travel	densha ga tomaru	the train stops	3	0.95	0.02	6.56	は:2 が:1	4		pool	Not densha ga yameru: yameru is quitting. A train stopping (at a station, or halted) is tomaru.
+aji-o-miru	food	aji o miru	taste (to check seasoning)	3	0.95	0.01	2.42	∅:3	3		pool	Checking the seasoning is aji o miru ('look at the taste') or ajimi suru; ajiwau means savour.
+netsu-o-hakaru	body	netsu o hakaru	take one's temperature	3	0.95	0.01	8.07	を:3	3		pool	Not netsu o toru: you 'measure' a fever, netsu o hakaru (netsu hakatta?).
+ashi-ga-shibireru	body	ashi ga shibireru	one's foot / leg falls asleep	3	0.95	0.00	6.19	が:3	3		pool	Not ashi ga neru or nemuru: a numb, tingling foot is shibireru.
+eakon-ga-kiku	home	eakon ga kiku	the AC is working (cooling or heating properly)	3	0.95	0.09	7.24	が:2 は:1	3		pool	Not ugoku: for an AC that is running but not cooling, Japanese says it doesn't kiku (take effect), as in kusuri ga kiku. Usually eakon kiitenai.
+netto-ni-noru	media	netto ni noru	be online, be posted on the internet	3	0.95	0.01	4.83	に:3	3		pool	Not netto ni aru: being posted or listed is noru (載る), the same sound as getting on a train. Usually netto ni notteru.
+karada-ga-darui	body	karada ga darui	feel heavy and run-down, feel sluggish	3	0.95	0.00	6.5	が:3	4		pool	Not just tsukareta: the heavy, achy feeling of a cold coming on is karada ga darui.
+fuku-o-tatamu	home	fuku o tatamu	fold clothes	3	0.95	0.00	6.27	を:3	3		pool	Not oru, which is for paper or snapping something. Clothes, laundry, futons and umbrellas are tatamu.
+tsukare-o-toru	body	tsukare o toru	shake off tiredness, rest up	3	0.95	0.07	3.56	を:3	3		pool	English 'rest up / recover' has no noun. Japanese 'takes off' the tiredness: onsen de tsukare o toru, yukkuri yasunde tsukare totte ne.
+taifuu-ga-kuru	weather	taifuu ga kuru	a typhoon is coming, a typhoon hits	3	0.95	0.38	2.89	が:3	3		pool	English 'a typhoon hits' pushes to ataru or utsu. Japanese says the typhoon comes: ashita taifuu kuru rashii yo.
+paama-o-kakeru	describing	paama o kakeru	get a perm	3	0.95	0.75	4.43	∅:2 を:1	2		pool	Not paama o suru or morau: a perm takes kakeru, like an iron (airon o kakeru). At the salon it is paama o kakete morau.
+yoi-ga-mawaru	food	yoi ga mawaru	the alcohol kicks in; start to feel drunk	3	0.95	0.05	7.24	が:2 も:1	3		pool	English 'it's hitting me' has no verb a learner could map. Feeling the drink kick in is yoi ga mawaru, also osake ga mawaru.
+densha-o-oriru	travel	densha o oriru	get off the train	0	0				5	yes	pool	Not densha kara deru or densha ni oriru: getting off is oriru, with the vehicle marked by o (or kara).
+gohan-ga-sameru	food	gohan ga sameru	the food gets cold	0	0				4	yes	pool	Not samuku naru or tsumetaku naru: hot food or drink cooling off is sameru; samui is for weather and people.
+osake-ga-yowai	food	osake ga yowai	can't hold one's drink	0	0				4	yes	pool	Not osake o motenai: low tolerance is 'weak at alcohol' (osake ga/ni yowai).
+aji-ga-usui	food	aji ga usui	bland, under-seasoned	0	0				4	yes	pool	Not aji ga yowai or aji ga nai: food short on salt is usui (thin), the same word as weak coffee.
+koi-koohii	food	koi koohii	strong coffee	0	0				3	yes	pool	Not tsuyoi koohii: coffee, tea and flavour are koi (dense) or usui (thin); tsuyoi is for alcohol.
+onaka-ga-ippai	body	onaka ga ippai	be full (after eating)	0	0				5	yes	pool	Not watashi wa ippai: the stomach is what's full, onaka ippai.
+kaze-ga-utsuru	body	kaze ga utsuru	catch someone's cold	0	0				4	yes	pool	Catching it from a person is kaze ga utsuru, not kaze o hiku (utsuru kara chikazukanaide).
+sumaho-o-ijiru	media	sumaho o ijiru	be on your phone	0	0				4	yes	pool	Not tsukau or asobu: idly being on your phone is sumaho o ijiru ('fiddle with'); tsukau means using it for a task.
+geemu-ni-hamaru	hobbies	geemu ni hamaru	get hooked on games	0	0				4	yes	pool	'Be into / hooked on' has no verb to translate, so learners fall back on suki desu. The native way is X ni hamatteru, with ni.
+undou-shinkei-ga-ii	describing	undou shinkei ga ii	be athletic	0	0				4	yes	pool	There is no adjective for 'athletic': say undou shinkei ga ii ('motor nerves are good'), not supootsu ga jouzu.
+warikan-ni-suru	time-money	warikan ni suru	split the bill (evenly)	0	0				4	yes	pool	Not kanjou o wakeru: splitting the bill is the noun warikan + ni suru, literally 'make it warikan'. Warikan de ii? is the usual question.
+mise-ga-shimaru	time-money	mise ga shimaru	a shop closes (for the day)	0	0				4	yes	pool	Not mise ga tojiru: closing time is shimaru, as in mou shimatteru ('it's already closed'). Mise o shimeru is the owner closing up, and mise o tatamu is closing down for good.
+konbini-ni-yoru	travel	konbini ni yoru	stop by the convenience store	0	0				4	yes	pool	Not konbini ni tomaru, which means staying the night there: dropping in on the way is yoru.
+heya-ga-chirakaru	home	heya ga chirakaru	the room gets messy	0	0				4	yes	pool	Not heya ga kitanai for clutter: messy is chirakatteru, and kitanai means dirty.
+mise-ga-komu	food	mise ga komu	the place is crowded / packed	0	0				5	yes	pool	Not just mise ga ippai or hito ga ooi: busy restaurants and trains are konderu, and the opposite is suiteru.
+asagohan-o-nuku	food	asagohan o nuku	skip breakfast	0	0				3	yes	pool	English 'skip' pushes toward tobasu. Meals are 'pulled out': asagohan nuita (any meal works).
+toshi-ga-ue	describing	toshi ga ue	be older (than someone)	0	0				4	yes	pool	Not furui (things only) or ookii: 'older than me' is watashi yori toshi ga ue (toshiue), and younger is toshishita.
+kotoba-ga-tsuujiru	people	kotoba ga tsuujiru	make yourself understood; speak the same language	0	0				3	yes	pool	Not wakaru: being understood in a language is tsuujiru, usually with the language as the subject (eigo tsuujiru?, nihongo ga tsuujita).
+akusesarii-o-tsukeru	clothes	akusesarii o tsukeru	wear jewellery / accessories	0	0				2		pool	Not akusesarii o kiru: earrings, necklaces and badges take tsukeru, or just suru (piasu shiteru).
+kontakuto-o-ireru	clothes	kontakuto o ireru	put in contact lenses	0	0				2		pool	Not kontakuto o kakeru like glasses: lenses go in with ireru and come out with hazusu or toru.
+mafuraa-o-suru	clothes	mafuraa o suru	wear a scarf	0	0				2		pool	Not mafuraa o kiru: a scarf takes suru (mafuraa shiteru), or maku 'wrap' for the act of putting it on.
+kami-o-musubu	clothes	kami o musubu	tie one's hair up	0	0				3		pool	English 'put your hair up' doesn't carry over; the verb is musubu 'tie' (casually kami shibaru or matomeru).
+shuuden-ga-nakunaru	travel	shuuden ga nakunaru	miss the last train	0	0				3		pool	Not shuuden o misu suru: Japanese says the last train 'is gone', as in shuuden nakunatchau!
+nimotsu-o-azukeru	travel	nimotsu o azukeru	leave your bags	0	0				3		pool	Not nimotsu o oku or nimotsu o nokosu: handing bags over to be kept (hotel, locker, airport check-in) is azukeru. Leaving them behind by mistake is wasureru.
+densha-ga-deru	travel	densha ga deru	the train leaves	0	0				4		pool	Not densha ga hanareru or densha ga saru: a train or bus leaving is just deru, as in tsugi no densha nanji ni deru?
+uchi-o-deru	home	uchi o deru	leave the house	0	0				5		pool	Not uchi o hanareru or nokosu: leaving home for the day is deru, and the place you leave takes o.
+soujiki-o-kakeru	home	soujiki o kakeru	vacuum (the floor)	0	0				3		pool	English 'vacuum' is a verb, but Japanese says soujiki o kakeru, not soujiki suru or soujiki o tsukau.
+sentakumono-o-hosu	home	sentakumono o hosu	hang out the laundry	0	0				4		pool	Not kakeru or tsurusu: laundry put out to dry is hosu, and the noun is sentakumono (the clothes), not sentaku.
+neguse-ga-tsuku	home	neguse ga tsuku	get bed head	0	0				3		pool	No English verb leads here: bed hair 'sticks on' (neguse ga tsuku), as in neguse tsuiteru yo.
+sentakuki-o-mawasu	home	sentakuki o mawasu	run the washing machine	0	0				3		pool	Not sentakuki o hashiraseru or ugokasu: you 'spin' (mawasu) the washer.
+gohan-o-taku	food	gohan o taku	cook rice	0	0				3		pool	Not gohan o ryouri suru or niru: rice has its own verb, taku.
+osake-ni-you	food	osake ni you	get drunk	0	0				3		pool	There is no 'get' to translate: it is the verb you, and the drink takes ni (not o).
+osake-ga-tsuyoi	food	osake ga tsuyoi	can hold one's drink	0	0				3		pool	Not osake o takusan moteru: a heavy drinker is 'strong at alcohol'; with the drink as topic (kono osake wa tsuyoi) it means the drink is strong.
+aji-ga-koi	food	aji ga koi	strongly seasoned, rich	0	0				3		pool	Not aji ga tsuyoi: heavy salt or sauce flavour is koi.
+shouyu-o-kakeru	food	shouyu o kakeru	put soy sauce on	0	0				3		pool	Not shouyu o oku or ireru: sauce poured over food is kakeru (also mayo, dressing, sauce).
+gohan-ga-takeru	food	gohan ga takeru	the rice is done	0	0				2		pool	The rice cooker finishing is gohan ga taketa; gohan ga dekita means the whole meal is ready.
+niku-ga-yakeru	food	niku ga yakeru	the meat is done	0	0				3		pool	Meat being cooked through is yakeru ('it got grilled'), not niku ga dekita.
+tenki-yohou-ga-hazureru	weather	tenki yohou ga hazureru	the forecast is wrong	0	0				3		pool	A forecast doesn't machigaeru (that is a person's mistake) or chigau. It misses, hazureru, or hits, ataru.
+tenki-ga-kuzureru	weather	tenki ga kuzureru	the weather turns bad	0	0				2		pool	English 'the weather turns/breaks' points to kawaru or kowareru. Worsening weather 'crumbles': kuzureru.
+tsuyu-ni-hairu	weather	tsuyu ni hairu	the rainy season starts	0	0				2		pool	English has no verb for it: the rainy season is 'entered', tsuyu ni hairu, and when it ends it 'opens', tsuyu ga akeru.
+niji-ga-deru	weather	niji ga deru	a rainbow appears	0	0				2		pool	English 'there's a rainbow' points to niji ga aru. A rainbow comes out: niji ga deru (or niji ga kakaru).
+hakike-ga-suru	body	hakike ga suru	feel nauseous	0	0				3		pool	Not hakike ga aru: nausea 'does', hakike ga suru; in casual talk people say kimochi warui.
+me-ga-tsukareru	body	me ga tsukareru	eyes get tired	0	0				3		pool	Guessable; only the tense trips people: tired eyes now is me ga tsukareta / tsukareteru.
+ashi-o-kujiku	body	ashi o kujiku	sprain one's ankle	0	0				2		pool	The ankle isn't named: you sprain the ashi, ashi o kujiku (ashi kujiita), or nenza shita.
+oto-o-ookiku-suru	media	oto o ookiku suru	turn the volume up	0	0				4		pool	There is no 'turn up' verb: volume up is oto o ookiku suru ('make the sound big') and down is chiisaku suru; oto o ageru / sageru also work.
+shashin-ga-toreru	media	shashin ga toreru	a photo comes out (well)	0	0				4		pool	Not deru: 'it came out nice' is kirei ni toreta / yoku toreteru (it got taken well).
+apuri-o-ireru	media	apuri o ireru	install an app	0	0				3		pool	Not just insutooru suru: everyday 'get the app' is apuri o ireru ('put in'); deleting it is kesu.
+shashin-o-ageru	media	shashin o ageru	post a photo online	0	0				3		pool	Not okuru: okuru sends to a person; putting a photo up online is ageru ('raise') or appu suru, as in insuta ni ageta.
+gamen-ga-wareru	media	gamen ga wareru	the screen cracks	0	0				3		pool	Not kowareru: a cracked screen wareru ('splits'); kowareru means the phone stopped working.
+douga-o-toru	media	douga o toru	film a video	0	0				3		pool	For a phone or online video the everyday word is douga; bideo suggests a camcorder or tape. The verb is the same toru as for photos.
+waifai-ga-tobu	media	waifai ga tobu	Wi-Fi is available	0	0				3		pool	waifai aru? is fine, but natives often ask waifai tonderu? ('is Wi-Fi flying?'), which is opaque if you only know tobu as 'fly'.
+shukudai-ga-deru	work-school	shukudai ga deru	get homework (assigned)	0	0				3		pool	Not shukudai o morau: homework 'comes out', shukudai ga deta (we got homework). It is the intransitive half of shukudai o dasu.
+kyuuryou-ga-hairu	work-school	kyuuryou ga hairu	get paid	0	0				3		pool	'I got paid' is the pay 'coming in', kyuuryou haitta (or kyuuryou ga deta), not a passive of harau.
+iro-ga-shiroi	describing	iro ga shiroi	be fair-skinned	0	0				3		pool	Not 'shiroi hito', which reads as 'a white person': fair skin is iro ga shiroi ('colour is white'). Iro ga kuroi means tanned.
+futon-o-shiku	home	futon o shiku	lay out the futon (make up the bed)	0	0				3		pool	Not futon o tsukuru or futon o oku: you spread bedding out with shiku. Putting it away is futon o tatamu (fold) or shimau.
+ofuro-o-wakasu	home	ofuro o wakasu	run / heat the bath	0	0				3		pool	Nothing in English 'run a bath' points to wakasu: Japanese heats the bath, the same verb as oyu o wakasu. When it's ready: ofuro waita yo. Ofuro o ireru is also heard.
+okane-o-kuzusu	time-money	okane o kuzusu	break a large note (into change)	0	0				3		pool	Not okane o kowasu or waru: breaking a note into change is kuzusu, 'crumble'. For example, ichiman en kuzushite moraemasu ka.
+sukikirai-ga-ooi	food	sukikirai ga ooi	be a picky eater	0	0				3		pool	There's no adjective for 'picky': it's 'many likes and dislikes', sukikirai ga ooi (or ga hageshii). Not picky at all: sukikirai nai.
+tamago-o-yuderu	food	tamago o yuderu	boil an egg	0	0				2		pool	Not tamago o wakasu: wakasu is for boiling water. Cooking food in boiling water (eggs, pasta, noodles) is yuderu.
+sumaho-ga-katamaru	media	sumaho ga katamaru	the phone freezes / hangs	0	0				3		pool	Not sumaho ga kooru: kooru is ice. A frozen screen 'hardens' with katamaru. Furiizu suru is also heard.
+kafun-ga-tobu	weather	kafun ga tobu	pollen is in the air (hay-fever season)	0	0				3		pool	English 'the pollen count is high' has nothing to translate. Japanese pollen 'flies' with tobu: kafun tonderu ne.
+isha-ni-mite-morau	body	isha ni mite morau	see a doctor, get checked by a doctor	0	0				4		pool	Not isha o miru, which means you look at the doctor. The doctor looks at you: isha ni mite morau.
+wasuremono-o-suru	travel	wasuremono o suru	leave something behind	0	0				4		pool	Not wasuremono o oku: leaving something behind is wasuremono o suru, or just wasureta.
+ji-ga-kirei	describing	ji ga kirei	have neat handwriting	0	0				3		pool	You don't need a word for 'handwriting': say ji ga kirei or ji ga kitanai (the characters are neat or messy).
+sumaho-ga-kowareru	media	sumaho ga kowareru	my phone broke	0	0				4		pool	Not sumaho o kowashita, unless you broke it: 'my phone broke' is intransitive, sumaho kowareta.
+gohan-ga-dekiru	food	gohan ga dekiru	the meal is ready	0	0				4		pool	Not gohan ga junbi da: 'dinner's ready!' is gohan dekita yo (dekiru = come into being).
+nikibi-ga-dekiru	body	nikibi ga dekiru	get a pimple	0	0				3		pool	Not nikibi o morau: spots, rashes and blisters 'form', so nikibi dekichatta.
+shouyu-o-tsukeru	food	shouyu o tsukeru	dip in soy sauce	0	0				3		pool	Dipping is tsukeru, pouring over is kakeru: sushi ni shouyu tsukeru, but toufu ni shouyu kakeru.
+shiitoberuto-o-shimeru	travel	shiitoberuto o shimeru	fasten one's seatbelt	0	0				3		pool	Not tsukeru or kiru: belts and ties are shimeru ('tighten'). Casually, shiitoberuto shite.
+ofuro-kara-agaru	home	ofuro kara agaru	get out of the bath	0	0				4		pool	English 'get out' pushes toward deru. Families say ofuro agatta? ('came up out of the bath').
+uchi-ni-agaru	home	uchi ni agaru	come in (to someone's home)	0	0				3		pool	Not uchi ni hairu: you step up into a home, so 'come on in' is douzo agatte.
+uchi-made-okuru	people	uchi made okuru	take, walk or drive someone home	0	0				4		pool	Not tsurete iku: seeing someone home is okuru ('send'), so okutte iku yo, or eki made okuru.
+megusuri-o-sasu	body	megusuri o sasu	put in eye drops	0	0				2		pool	Not megusuri o ireru or nomu: eye drops take sasu, the same verb as kasa o sasu.
+gohan-o-nokosu	food	gohan o nokosu	leave food (uneaten)	0	0				3		pool	Not gohan o oku: leaving food on your plate is nokosu, as in nokoshite ii? or nokosanaide.
+koe-ga-kareru	body	koe ga kareru	lose one's voice, get hoarse	0	0				3		pool	Not koe o nakusu: a hoarse voice 'withers', as in karaoke de koe kareta.
+hiyakedome-o-nuru	weather	hiyakedome o nuru	put on sunscreen	0	0				3		pool	Not kiru or tsukeru: creams and lotions are spread on, so nuru (the paint verb).
+atsusa-ni-yowai	weather	atsusa ni yowai	can't take the heat	0	0				3		pool	Not atsui ga dame: 'I can't take heat (or cold)' is atsusa ni yowai / samusa ni yowai. It's the osake ga yowai idea with ni.
+tsuyu-ga-akeru	weather	tsuyu ga akeru	the rainy season ends	0	0				3		pool	Not tsuyu ga owaru: the rainy season 'opens out' (akeru), the same akeru as yo ga akeru (day breaks).
+kushami-ga-deru	body	kushami ga deru	sneeze	0	0				3		pool	English has a verb, but in Japanese a sneeze 'comes out' (kushami ga deru); kushami o suru also works.
+ashi-ga-tsuru	body	ashi ga tsuru	get a cramp in one's leg	0	0				2		pool	Not ashi ni kuranpu ga aru: a cramping leg 'tsuru' (pulls tight). It's usually said in the past: ashi tsutta!
+bansoukou-o-haru	body	bansoukou o haru	put on a plaster / band-aid	0	0				3		pool	Not bansoukou o kiru or kakeru: anything stuck on flat (plasters, compresses, stickers, posters) is haru.
+mizu-o-dasu	home	mizu o dasu	turn on the tap / the water	0	0				3		pool	Not mizu o tsukeru: tsukeru is for lights and power, while water is 'let out' (dasu).
+sentakumono-o-torikomu	home	sentakumono o torikomu	bring in the laundry	0	0				3		pool	Not sentakumono o ireru or motte kuru: laundry is 'taken in' (torikomu). Example: ame futte kita, sentakumono torikonde!
+suicchi-o-ireru	home	suicchi o ireru	switch on	0	0				3		pool	Switches are 'put in' (ireru) to turn on and 'cut' (kiru) to turn off, not tsukeru and kesu.
+osake-o-tsugu	food	osake o tsugu	pour a drink (for someone)	0	0				3		pool	Not osake o ireru: ireru is for making tea and coffee, while pouring into someone's glass is tsugu.
+kanojo-ni-furareru	people	kanojo ni furareru	get dumped by one's girlfriend	0	0				3		pool	Japanese has no verb for 'dump': you get 'shaken off' (furu, passive furareru), as in kanojo ni furareta. Don't confuse it with ame ni furareru.
+denwa-ga-tooi	media	denwa ga tooi	can't hear (the caller) well	0	0				2		pool	Not just yoku kikoenai: the set phrase is 'the phone is far', as in chotto denwa ga tooi n desu ga.
+mezamashi-o-tomeru	home	mezamashi o tomeru	turn off the alarm	0	0				4		pool	English 'turn off' leads to kesu; a ringing alarm is stopped: tomeru.
+tsukare-ga-tamaru	body	tsukare ga tamaru	get worn out, tiredness builds up	0	0				4		pool	English 'worn out' gives only tsukareta; built-up tiredness is a noun that tamaru (piles up), like sutoresu ga tamaru.
+akubi-ga-deru	body	akubi ga deru	yawn	0	0				3		pool	English 'yawn' is one verb; Japanese is a noun that deru (comes out), or akubi o suru.
+shakkuri-ga-deru	body	shakkuri ga deru	get the hiccups	0	0				2		pool	Not shakkuri ga aru: hiccups deru, and 'I can't stop hiccupping' is shakkuri ga tomaranai.
+kasa-o-tatamu	weather	kasa o tatamu	close (fold up) an umbrella	0	0				3		pool	Not kasa o shimeru: an umbrella is folded, tatamu; opening it is sasu (or hiraku).
+sentakumono-o-tatamu	home	sentakumono o tatamu	fold the laundry	0	0				3		pool	Not oru: oru is for folding paper (origami) or breaking things; clothes and laundry are tatamu.
+apuri-ga-ochiru	media	apuri ga ochiru	an app crashes	0	0				3		pool	Not butsukaru: a crashing app ochiru (falls); a frozen one katamaru.
+ofuro-ga-waku	home	ofuro ga waku	the bath is ready (heated)	0	0				3		pool	Not ofuro ga dekiru: a bath that is ready waku (heats up). The bath panel announces ofuro ga wakimashita.
+kuma-ga-dekiru	body	kuma ga dekiru	get dark circles under one's eyes	0	0				3		pool	Dark circles are a noun, kuma, and they dekiru (form), like nikibi ga dekiru.
+gokiburi-ga-deru	home	gokiburi ga deru	a cockroach shows up, there's a cockroach	0	0				3		pool	Not gokiburi ga iru for one that has just appeared: pests (and ghosts) deru. The usual cry is gokiburi deta!
+tabemono-ni-ataru	food	tabemono ni ataru	get food poisoning (from something)	0	0				2		pool	English 'get food poisoning' gives no verb; Japanese is 'hit by' the food: kaki ni atatta.
+kinniku-ga-tsuku	hobbies	kinniku ga tsuku	build muscle, get more muscular	0	0				3		pool	Not kinniku o tsukuru: muscle tsuku (attaches); building it on purpose is kinniku o tsukeru.
+infuru-ni-kakaru	body	infuru ni kakaru	come down with the flu	0	0				3		pool	Not infuru o hiku (hiku goes with kaze only): named illnesses take ni kakaru (infuru ni kakatta, korona ni kakatta).
+shigoto-ga-ochitsuku	work-school	shigoto ga ochitsuku	things quieten down at work	0	0				3		pool	Not shigoto ga hima ni naru or shizuka ni naru: a busy stretch 'settles' (ochitsuku), the same verb as calming yourself down.
+shigoto-ni-owareru	work-school	shigoto ni owareru	be swamped with work	0	0				3		pool	English 'swamped' or 'snowed under' gives no verb: Japanese says you're 'chased by work' (owareru, the passive of ou).
+tenki-ni-naru	weather	tenki ni naru	turn out fine, clear up (the weather)	0	0				3		pool	Not 'become weather': here tenki alone means fine weather (ashita tenki ni naru kana = hope it's nice tomorrow).
+konsento-ni-sasu	media	konsento ni sasu	plug (something) in	0	0				3		pool	Not ireru or tsunagu: plugs go in with sasu and come out with konsento o nuku. Konsento is the wall socket, not 'consent'.
+megane-ga-kumoru	clothes	megane ga kumoru	your glasses fog up	0	0				3		pool	There's no fog word: glasses 'cloud over' with the same verb as the sky (kumoru).
+kidoku-ga-tsuku	media	kidoku ga tsuku	a message shows as read	0	0				3		pool	English 'it says read' has no noun: on LINE the read mark 'attaches' (kidoku ga tsuku), and reading without replying is kidoku suruu.
+kuuki-o-irekaeru	home	kuuki o irekaeru	air out a room, let fresh air in	0	0				3		pool	English 'air out' has no Japanese match: you 'swap the air' (irekaeru), usually after opening a window.
+hana-ga-chiru	weather	hana ga chiru	blossoms fall, petals scatter	0	0				2		pool	Not hana ga ochiru: scattering petals (above all sakura) chiru (sakura mou chitchatta).
+ne-ga-haru	time-money	ne ga haru	be pricey, cost a bit	0	0				2		pool	Not just takai: 'pricey but worth it' is ne ga haru, built from ne (price) and haru (stretch), words a learner won't connect.
+shifuto-ni-hairu	work-school	shifuto ni hairu	work a shift, be on the rota	0	0				3		pool	Not shifuto o suru: you 'enter' a shift, shifuto ni hairu (ashita shifuto haitteru).
+demae-o-toru	food	demae o toru	order food delivery	0	0				2		pool	Not demae o chuumon suru or kau: you 'take' delivery, demae o toru. Younger people also say uubaa tanomu.
+shoku-ga-hosoi	describing	shoku ga hosoi	be a small eater, not eat much	0	0				2		pool	Not taberu no ga sukunai or chiisai: a small eater's eating is 'thin', shoku ga hosoi.
+juudenki-o-sasu	media	juudenki o sasu	plug in the charger	0	0				3		pool	Plugging something in is sasu (insert), and the socket takes ni: konsento ni sasu. Unplugging is nuku.
+heya-o-chirakasu	home	heya o chirakasu	make a mess (of the room)	0	0				3		pool	Not tsukuru for "make a mess". Making a mess is the one verb chirakasu, the transitive partner of chirakaru.
+keshou-ga-koi	describing	keshou ga koi	wear heavy makeup	0	0				3		pool	Not omoi. Heavy makeup is koi (thick, dense) and light makeup is usui; meiku ga koi works the same way.
+kyuukyuusha-o-yobu	body	kyuukyuusha o yobu	call an ambulance	0	0				3		pool	English 'call' pushes to denwa o kakeru; you yobu (summon) an ambulance, as in the shout kyuukyuusha yonde!
+asa-ga-yowai	home	asa ga yowai	not be a morning person	0	0				3		pool	English 'not a morning person' has no calque (asa no hito ja nai is wrong). Say asa ga yowai, and asa ga hayai for an early start or an early riser.
+waruguchi-o-iu	people	waruguchi o iu	badmouth, speak ill of someone	0	0				3		pool	Not waruguchi o hanasu. Badmouthing takes iu, like monku o iu and joudan o iu.
+hada-ga-areru	body	hada ga areru	skin gets rough or irritated, break out	0	0				3		pool	English 'my skin is dry / bad' pushes to hada ga kawaku or warui. Skin that flares up from stress, cold or lack of sleep areru (hada areta).
+kaze-o-naosu	body	kaze o naosu	get over a cold (actively), shake off a cold	0	0				4		pool	English 'get well' has no object, but Japanese makes you naosu the cold: hayaku kaze naoshite ne (get well soon).
+kekkonshiki-o-ageru	people	kekkonshiki o ageru	have a wedding, hold the ceremony	0	0				3		pool	English 'have a wedding' pushes to motsu or aru. A ceremony is held with ageru (shiki o ageru). Casual speech also says kekkonshiki yaru.
+futsukayoi-ni-naru	food	futsukayoi ni naru	get a hangover	0	0				3		pool	Not futsukayoi ga aru. You become hungover (futsukayoi ni natta), or simply say futsukayoi da.
+gochisou-ni-naru	people	gochisou ni naru	be treated (to a meal), let someone pay	0	0				4		pool	Not a passive like gochisou sareru: being treated is gochisou ni naru, like osewa ni naru. The person paying says gochisou suru or ogoru.
+pointo-ga-tamaru	time-money	pointo ga tamaru	earn / rack up points (loyalty card)	0	0				4		pool	Not pointo o morau as the default: points build up, so tamaru. Pointo o tameru is collecting them and pointo o tsukau is spending them.
+ongaku-ga-kakaru	media	ongaku ga kakaru	music is playing (in a shop, at a party, on the radio)	0	0				3		pool	Not ongaku ga hiku or ongaku ga suru: a song that's on is kakatteru (or nagareteru), the intransitive of ongaku o kakeru.
+iyahon-o-suru	clothes	iyahon o suru	have earphones in, wear earphones	0	0				3		pool	Not iyahon o kiru: earphones take suru (or tsukeru), like a watch or a mask, as in iyahon shiteta kara kikoenakatta. Taking them out is hazusu.
+kaze-ga-hayaru	body	kaze ga hayaru	a cold is going around	0	0				3		pool	Not kaze ga mawaru: an illness going around is 'in fashion', hayatteru. Infuru ga hayatteru is just as common.
+dorinku-ga-tsuku	food	dorinku ga tsuku	come with a drink (a set includes it)	0	0				3		pool	Not dorinku to kuru: 'comes with' is tsuku (kore, saarada tsuku?). Tsuku 'arrive' is a different verb.
+mushiba-ga-dekiru	body	mushiba ga dekiru	get a cavity	0	0				3		pool	Not mushiba o motsu: cavities, like pimples and bruises, 'come into being', so dekiru.
+shio-o-furu	food	shio o furu	sprinkle salt, season with salt	0	0				3		pool	Not shio o kakeru: salt is shaken on, furu (same sound as ame ga furu). Kakeru is for liquids like shouyu.
+iiwake-o-suru	people	iiwake o suru	make excuses	0	0				4		pool	Not iiwake o tsukuru: you 'do' an excuse, iiwake (o) suru.
+jikan-o-muda-ni-suru	time-money	jikan o muda ni suru	waste time	0	0				3		pool	There is no single verb for 'waste': Japanese says muda ni suru ('make it useless'), and 'a waste of time' is jikan no muda.
+uchi-ni-yobu	people	uchi ni yobu	invite someone over (to your place), have people over	0	0				3		pool	Not shoutai suru, which is for formal invitations such as weddings. Having friends over uses yobu, 'call': tomodachi o uchi ni yobu.
+kinnikutsuu-ni-naru	body	kinnikutsuu ni naru	get sore muscles (after exercise)	0	0				3		pool	English 'my legs are sore' leads to ashi ga itai. Next-day exercise ache is one noun, kinnikutsuu, with ni naru.
+netchuushou-ni-naru	weather	netchuushou ni naru	get heatstroke	0	0				3		pool	Not netchuushou o toru / morau: you 'become' heatstroke, ni naru, usually in the warning netchuushou ni naranai you ni.
+me-ga-saeru	home	me ga saeru	be wide awake (and can't get to sleep)	0	0				3		pool	Not me ga sameru, which means waking up. Lying in bed wide awake is me ga saeru (koohii nonda kara me ga saete nerarenai).
+hi-ga-tooru	food	hi ga tooru	be cooked through	0	0				3		pool	English 'is it cooked / done?' leads to yaketa? or ryouri sareta. Asking whether meat is cooked through is mou hi tootteru?
+gohan-ga-susumu	food	gohan ga susumu	(a dish) makes you eat more rice; goes great with rice	0	0				3		pool	English has no matching phrase. Praising a dish as moreish with rice is gohan ga susumu, 'the rice moves forward', also sake ga susumu.
+gohan-o-yosou	food	gohan o yosou	serve (dish up) rice or soup	0	0				3		pool	Not gohan o ireru / dasu: dishing rice or soup into a bowl is yosou (gohan yosotte kureru?).
+aji-ga-shimiru	food	aji ga shimiru	the flavour has soaked in (simmered food)	0	0				3		pool	Not aji ga hairu: flavour soaking into simmered food is shimiru (kono daikon, aji ga shimite oishii).
+shingou-ni-hikkakaru	travel	shingou ni hikkakaru	get caught at a red light	0	0				3		pool	Not shingou de tomaru / matsu alone: getting stopped by lights is hikkakaru, 'get snagged' (shingou zenbu hikkakatta).
+kutsu-no-himo-ga-hodokeru	clothes	kutsu no himo ga hodokeru	a shoelace comes undone	0	0				2		pool	Not himo ga hazureru / aku: a knot coming loose is hodokeru (himo hodoketeru yo). Tying it is himo o musubu.
+ki-o-waruku-suru	people	ki o waruku suru	be offended, take it the wrong way	0	0				3		pool	Not okoru or kizutsuku: 'don't take this the wrong way / no offence' is ki o waruku shinaide (ne).
+jisho-o-hiku	work-school	jisho o hiku	look up (a word) in the dictionary	0	0				2		pool	Not jisho o miru / sagasu: consulting a dictionary is hiku, 'pull' (jisho de hiite mita).
+uchi-ni-kaeru	home	uchi ni kaeru	go home	0	0				5		corpus	'Go home' is kaeru, not iku.
+itami-o-kanjiru	body	itami o kanjiru	feel pain	0	0				2		corpus	
+nihongo-o-shaberu	people	nihongo o shaberu	speak Japanese	0	0				4		corpus	'Speak Japanese' takes o; 'say it in Japanese' takes de.
+ushiro-ni-sagaru	body	ushiro ni sagaru	step back	0	0				3		corpus	English 'go back' pushes toward modoru (return); moving backward where you stand is ushiro ni sagaru.
+kouka-ga-nai	body	kouka ga nai	it doesn't work, no effect	0	0				3		corpus	English 'it doesn't work' tempts hataraku or ugokanai; for remedies and methods Japanese says kouka ga nai (or kikanai).
+nagai-tsukiai	people	nagai tsukiai	long friendship; go way back	0	0				3		corpus	
+sekinin-o-kanjiru	senses	sekinin o kanjiru	feel responsible	0	0				3		corpus	
+kakushigoto-o-suru	people	kakushigoto o suru	keep secrets (from someone)	0	0				3		corpus	'Keep secrets' is kakushigoto o suru, not motsu.
+kaimono-ni-iku	home	kaimono ni iku	go shopping	0	0				5		corpus	Purpose takes ni, not o
+kikioboe-ga-aru	senses	kikioboe ga aru	sound familiar	0	0				3		corpus	'Sounds familiar' has no verb for sound; say kikioboe ga aru.
+ji-ga-yomeru	work-school	ji ga yomeru	can read (writing)	0	0				3		corpus	Reading characters or handwriting uses ji, not kotoba.
+yo-ga-akeru	time-money	yo ga akeru	dawn breaks	0	0				2		corpus	夜 is read yo here; dawn is 'the night opens'.
+omote-ni-deru	home	omote ni deru	go outside	0	0				2		corpus	omote ni dero is 'step outside (to fight)'; plain 'outside' is usually soto.
+ii-omoide	people	ii omoide	good memories	0	0				4		corpus	
+kikkake-ni-naru	people	kikkake ni naru	be what got it started	0	0				3		corpus	English uses a verb (trigger, start); Japanese says X becomes the kikkake.
+kangaegoto-o-suru	senses	kangaegoto o suru	be lost in thought	0	0				4		corpus	English 'I was thinking' leads to kangaete ita; for being absorbed in your thoughts people say kangaegoto shiteta.
+kodoku-o-kanjiru	senses	kodoku o kanjiru	feel lonely, feel isolated	0	0				2		corpus	
+kaminari-ni-utareru	weather	kaminari ni utareru	be struck by lightning	0	0				2		corpus	Being struck is ni + passive utareru; lightning striking a place is kaminari ga ochiru.
+ii-fun-iki	describing	ii fun'iki	nice atmosphere / vibe	0	0				4		corpus	
+funbetsu-ga-aru	describing	funbetsu ga aru	be sensible	0	0				2		corpus	
+yaku-o-enjiru	media	yaku o enjiru	play a role	0	0				2		corpus	"Play" is not asobu or hiku; roles are enjiru (casually yaku o yaru).
+sagashimono-ga-mitsukaru	home	sagashimono ga mitsukaru	find what you were looking for	0	0				3		corpus	"Find" pulls toward mitsukeru; here the thing is the subject of intransitive mitsukaru.
+nimotsu-o-hakobu	travel	nimotsu o hakobu	carry luggage	0	0				4		corpus	Moving things from place to place is hakobu; motsu only means holding.
+handan-o-kudasu	work-school	handan o kudasu	make a judgment	0	0				2		corpus	English 'make' leads to tsukuru; judgments are handed down with kudasu.
+zubon-o-nugu	clothes	zubon o nugu	take off trousers	0	0				3		corpus	Clothes come off with nugu; toru is for hats and glasses.
+choushoku-o-toru	food	choushoku o toru	have breakfast	0	0				2		corpus	'Have' a meal is not motsu; it is toru or taberu.
+yama-o-oriru	hobbies	yama o oriru	go down a mountain	0	0				2		corpus	The path you go down takes o, not kara.
+egao-o-miseru	people	egao o miseru	smile, show a smile	0	0				2		corpus	
+tamago-o-umu	food	tamago o umu	lay eggs	0	0				2		corpus	Lay is umu (give birth), not oku (put down).
+ogyougi-ga-ii	describing	ogyougi ga ii	well-behaved, good manners	0	0				3		corpus	
+higai-o-ukeru	weather	higai o ukeru	suffer damage	0	0				2		corpus	Damage is received with ukeru, not kurushimu (suffer pain).
+erebeetaa-ni-noru	travel	erebeetaa ni noru	take the elevator	0	0				4		corpus	Take is noru with ni, not toru.
+shukudai-o-suru	work-school	shukudai o suru	do homework	0	0				5		corpus	
+shoku-o-ushinau	work-school	shoku o ushinau	lose one's job	0	0				2		corpus	
+kigen-ga-ii	senses	kigen ga ii	in a good mood	0	0				4		corpus	
+geemu-ni-katsu	hobbies	geemu ni katsu	win a game	0	0				3		corpus	Win takes ni (win against), not o.
+kettei-o-kudasu	work-school	kettei o kudasu	make a decision	0	0				2		corpus	Decisions are handed down with kudasu; everyday speech just says kimeru.
+menkyo-o-motsu	travel	menkyo o motsu	have a license	0	0				3		corpus	Having a license is motte iru, not aru.
+kanjou-o-osaeru	senses	kanjou o osaeru	hold back emotions	0	0				2		corpus	The usual verb is osaeru (press down), not a word for 'control'.
+shakkin-ga-aru	time-money	shakkin ga aru	be in debt	0	0				3		corpus	Debt simply exists (aru); there's no verb for 'be in'.
+hidoi-shiuchi	people	hidoi shiuchi	cruel treatment	0	0				2		corpus	
+kakurenbo-o-suru	hobbies	kakurenbo o suru	play hide-and-seek	0	0				3		corpus	Play a game is suru, not asobu.
+kikime-ga-aru	body	kikime ga aru	be effective, work	0	0				3		corpus	'It works' is kiku or kikime ga aru, not ugoku.
+engi-ga-warui	describing	engi ga warui	bad luck, bad omen	0	0				3		corpus	
+ocha-suru	food	ocha suru	go for tea or coffee	0	0				3		corpus	Means a café break, coffee included, not just drinking tea.
+borantia-o-suru	people	borantia o suru	do volunteer work	0	0				3		corpus	'Volunteer' as a verb is borantia o suru.
+puragu-o-nuku	home	puragu o nuku	unplug	0	0				3		corpus	Unplug is nuku (pull out); konsento o nuku is just as common.
+ohanashi-o-ukagau	work-school	ohanashi o ukagau	hear what you have to say	0	0				3		corpus	Humble 'hear' is ukagau, not kiku.
+fuku-o-kigaeru	clothes	fuku o kigaeru	change clothes	0	0				4		corpus	Change clothes is kigaeru; fuku o kaeru sounds odd.
+kaoiro-ga-ii	body	kaoiro ga ii	look healthy	0	0				3		corpus	About healthy colour, not good looks; kaoiro ga warui = look pale.
+miryoku-o-kanjiru	senses	miryoku o kanjiru	find something appealing	0	0				2		corpus	
+fuyu-o-kosu	weather	fuyu o kosu	get through the winter	0	0				2		corpus	A season is crossed with kosu, not survived with ikinokoru.
+tachi-ga-warui	describing	tachi ga warui	nasty, vicious	0	0				3		corpus	Read tachi here; shitsu ga warui means poor quality.
+shita-o-kamu	body	shita o kamu	bite one's tongue	0	0				3		corpus	Literal only; it doesn't mean holding back words.
+hibi-ga-hairu	home	hibi ga hairu	crack, get a crack	0	0				3		corpus	English verb 'crack' becomes hibi ga hairu (a crack enters).
+fuman-o-iu	people	fuman o iu	complain	0	0				3		corpus	Complain is fuman or monku o iu; kureemu is a formal complaint.
+kibun-ga-hareru	senses	kibun ga hareru	feel better, cheer up	0	0				3		corpus	
+puresshaa-o-kanjiru	senses	puresshaa o kanjiru	feel pressure	0	0				3		corpus	
+fuan-o-kanjiru	senses	fuan o kanjiru	feel uneasy	0	0				3		corpus	Often just fuan desu; anxiety is felt as a noun, not an adjective.

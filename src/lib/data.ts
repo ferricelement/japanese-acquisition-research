@@ -108,5 +108,5 @@ export const jaRuns = (text: string) =>
 
 export const FLAG_LABEL: Record<string, string> = {
 	'casual-only': 'casual only', rough: 'rough', masc: 'masculine', fem: 'feminine', slang: 'slang',
-	dated: 'dated', kansai: 'Kansai', 'needs-negative': '+ negative', 'fixed-phrase': 'set phrase',
+	dated: 'dated', kansai: 'Kansai', 'needs-negative': '+ negative', 'fixed-phrase': 'set phrase', formal: 'formal', humble: 'humble', saying: 'saying', 'four-character': 'four-character',
 };

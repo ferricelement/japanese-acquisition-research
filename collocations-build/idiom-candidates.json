@@ -1,0 +1,1402 @@
+[
+ {
+  "romaji": "te ni ireru",
+  "ja": "手に入れる",
+  "english": "get hold of, obtain",
+  "count": 2538,
+  "shareN": 0.2507,
+  "pair": "手+入れる"
+ },
+ {
+  "romaji": "te o dasu",
+  "ja": "手を出す",
+  "english": "lay a hand on; get involved in",
+  "count": 593,
+  "shareN": 0.0586,
+  "pair": "手+出す"
+ },
+ {
+  "romaji": "te o kasu",
+  "ja": "手を貸す",
+  "english": "lend a hand",
+  "count": 588,
+  "shareN": 0.0581,
+  "pair": "手+貸す"
+ },
+ {
+  "romaji": "te ni hairu",
+  "ja": "手に入る",
+  "english": "be obtained, get hold of",
+  "count": 537,
+  "shareN": 0.0531,
+  "pair": "手+入る"
+ },
+ {
+  "romaji": "sugata o kesu",
+  "ja": "姿を消す",
+  "english": "disappear, vanish",
+  "count": 367,
+  "shareN": 0.2512,
+  "pair": "姿+消す"
+ },
+ {
+  "romaji": "chikara ni naru",
+  "ja": "力になる",
+  "english": "be of help, support someone",
+  "count": 362,
+  "shareN": 0.1194,
+  "pair": "力+成る"
+ },
+ {
+  "romaji": "aite ni suru",
+  "ja": "相手にする",
+  "english": "deal with, take someone on (aite ni shinai = ignore)",
+  "count": 352,
+  "shareN": 0.2667,
+  "pair": "相手+為る"
+ },
+ {
+  "romaji": "me o hanasu",
+  "ja": "目を離す",
+  "english": "take your eyes off",
+  "count": 284,
+  "shareN": 0.0463,
+  "pair": "目+離す"
+ },
+ {
+  "romaji": "baka o iu",
+  "ja": "馬鹿を言う",
+  "english": "talk nonsense (baka iu na = don't be silly)",
+  "count": 277,
+  "shareN": 0.3102,
+  "pair": "馬鹿+言う"
+ },
+ {
+  "romaji": "kari ga aru",
+  "ja": "借りがある",
+  "english": "owe someone (a favour)",
+  "count": 263,
+  "shareN": 0.5445,
+  "pair": "借り+有る"
+ },
+ {
+  "romaji": "kubi ni suru",
+  "ja": "首にする",
+  "english": "fire someone",
+  "count": 262,
+  "shareN": 0.1679,
+  "pair": "首+為る"
+ },
+ {
+  "romaji": "ki ga kuruu",
+  "ja": "気が狂う",
+  "english": "go crazy",
+  "count": 257,
+  "shareN": 0.0169,
+  "pair": "気+狂う"
+ },
+ {
+  "romaji": "kentou ga tsuku",
+  "ja": "見当がつく",
+  "english": "have an idea (kentou mo tsukanai = no idea)",
+  "count": 251,
+  "shareN": 0.9262,
+  "pair": "見当+付く"
+ },
+ {
+  "romaji": "atama ga okashii",
+  "ja": "頭がおかしい",
+  "english": "be crazy",
+  "count": 217,
+  "shareN": 0.0675,
+  "pair": "頭+可笑しい"
+ },
+ {
+  "romaji": "saizen o tsukusu",
+  "ja": "最善を尽くす",
+  "english": "do one's best",
+  "count": 212,
+  "shareN": 0.9217,
+  "pair": "最善+尽くす"
+ },
+ {
+  "romaji": "mi ni tsukeru",
+  "ja": "身につける",
+  "english": "pick up (a skill); wear",
+  "count": 210,
+  "shareN": 0.1667,
+  "pair": "身+付ける"
+ },
+ {
+  "romaji": "kubi ni naru",
+  "ja": "首になる",
+  "english": "get fired",
+  "count": 210,
+  "shareN": 0.1346,
+  "pair": "首+成る"
+ },
+ {
+  "romaji": "te ni oenai",
+  "ja": "手に負えない",
+  "english": "be more than one can handle",
+  "count": 209,
+  "shareN": 0.0206,
+  "pair": "手+負う"
+ },
+ {
+  "romaji": "kimi ga warui",
+  "ja": "気味が悪い",
+  "english": "creepy, unsettling",
+  "count": 205,
+  "shareN": 0.8039,
+  "pair": "気味+悪い"
+ },
+ {
+  "romaji": "me ni mieru",
+  "ja": "目に見える",
+  "english": "plain to see, obvious",
+  "count": 202,
+  "shareN": 0.033,
+  "pair": "目+見える"
+ },
+ {
+  "romaji": "chikara o kasu",
+  "ja": "力を貸す",
+  "english": "lend a hand",
+  "count": 201,
+  "shareN": 0.0663,
+  "pair": "力+貸す"
+ },
+ {
+  "romaji": "kuchi ni suru",
+  "ja": "口にする",
+  "english": "eat; say out loud",
+  "count": 196,
+  "shareN": 0.0995,
+  "pair": "口+為る"
+ },
+ {
+  "romaji": "mimi o katamukeru",
+  "ja": "耳を傾ける",
+  "english": "listen closely",
+  "count": 195,
+  "shareN": 0.1886,
+  "pair": "耳+傾ける"
+ },
+ {
+  "romaji": "hidoi me ni au",
+  "ja": "ひどい目に遭う",
+  "english": "have a terrible time",
+  "count": 188,
+  "shareN": 0.0307,
+  "pair": "目+酷い"
+ },
+ {
+  "romaji": "me o toosu",
+  "ja": "目を通す",
+  "english": "look over, skim",
+  "count": 179,
+  "shareN": 0.0292,
+  "pair": "目+通す"
+ },
+ {
+  "romaji": "sugata o miseru",
+  "ja": "姿を見せる",
+  "english": "show up, appear",
+  "count": 177,
+  "shareN": 0.1211,
+  "pair": "姿+見せる"
+ },
+ {
+  "romaji": "kuchi o dasu",
+  "ja": "口を出す",
+  "english": "butt in, interfere",
+  "count": 175,
+  "shareN": 0.0888,
+  "pair": "口+出す"
+ },
+ {
+  "romaji": "jikan o kasegu",
+  "ja": "時間を稼ぐ",
+  "english": "buy time",
+  "count": 158,
+  "shareN": 0.0218,
+  "pair": "時間+稼ぐ"
+ },
+ {
+  "romaji": "kokoro o yomu",
+  "ja": "心を読む",
+  "english": "read someone's mind",
+  "count": 149,
+  "shareN": 0.0629,
+  "pair": "心+読む"
+ },
+ {
+  "romaji": "se o mukeru",
+  "ja": "背を向ける",
+  "english": "turn one's back on",
+  "count": 147,
+  "shareN": 0.3467,
+  "pair": "背+向ける"
+ },
+ {
+  "romaji": "chikara o awaseru",
+  "ja": "力を合わせる",
+  "english": "join forces, work together",
+  "count": 136,
+  "shareN": 0.0449,
+  "pair": "力+合わせる"
+ },
+ {
+  "romaji": "hara o tateru",
+  "ja": "腹を立てる",
+  "english": "get angry",
+  "count": 133,
+  "shareN": 0.1634,
+  "pair": "腹+立てる"
+ },
+ {
+  "romaji": "mimi ni suru",
+  "ja": "耳にする",
+  "english": "hear (about), overhear",
+  "count": 131,
+  "shareN": 0.1267,
+  "pair": "耳+為る"
+ },
+ {
+  "romaji": "ome ni kakaru",
+  "ja": "お目にかかる",
+  "english": "meet (humble)",
+  "count": 131,
+  "shareN": 0.9097,
+  "pair": "お目+掛かる"
+ },
+ {
+  "romaji": "kari o kaesu",
+  "ja": "借りを返す",
+  "english": "repay a favor, get even",
+  "count": 117,
+  "shareN": 0.2422,
+  "pair": "借り+返す"
+ },
+ {
+  "romaji": "itai me ni au",
+  "ja": "痛い目にあう",
+  "english": "have a bitter experience, get burned",
+  "count": 116,
+  "shareN": 0.0189,
+  "pair": "目+痛い"
+ },
+ {
+  "romaji": "kecchaku o tsukeru",
+  "ja": "決着をつける",
+  "english": "settle it once and for all",
+  "count": 113,
+  "shareN": 0.7483,
+  "pair": "決着+付ける"
+ },
+ {
+  "romaji": "hara ga tatsu",
+  "ja": "腹が立つ",
+  "english": "get angry, be annoyed",
+  "count": 113,
+  "shareN": 0.1388,
+  "pair": "腹+立つ"
+ },
+ {
+  "romaji": "haji o shiru",
+  "ja": "恥を知る",
+  "english": "have a sense of shame (haji o shire: shame on you)",
+  "count": 112,
+  "shareN": 0.3265,
+  "pair": "恥+知る"
+ },
+ {
+  "romaji": "kao o miseru",
+  "ja": "顔を見せる",
+  "english": "show up, come and visit",
+  "count": 112,
+  "shareN": 0.0373,
+  "pair": "顔+見せる"
+ },
+ {
+  "romaji": "kokoro o hiraku",
+  "ja": "心を開く",
+  "english": "open up to someone",
+  "count": 111,
+  "shareN": 0.0469,
+  "pair": "心+開く"
+ },
+ {
+  "romaji": "yaku ni tateru",
+  "ja": "役に立てる",
+  "english": "put to good use",
+  "count": 106,
+  "shareN": 0.0645,
+  "pair": "役+立てる"
+ },
+ {
+  "romaji": "mimi o kasu",
+  "ja": "耳を貸す",
+  "english": "listen, lend an ear",
+  "count": 105,
+  "shareN": 0.1015,
+  "pair": "耳+貸す"
+ },
+ {
+  "romaji": "atama kara hanarenai",
+  "ja": "頭から離れない",
+  "english": "can't get it out of my head",
+  "count": 102,
+  "shareN": 0.0317,
+  "pair": "頭+離れる"
+ },
+ {
+  "romaji": "keri o tsukeru",
+  "ja": "けりをつける",
+  "english": "settle it, put an end to it",
+  "count": 101,
+  "shareN": 0.8016,
+  "pair": "けり+付ける"
+ },
+ {
+  "romaji": "kyori o oku",
+  "ja": "距離を置く",
+  "english": "keep one's distance, take a break from someone",
+  "count": 100,
+  "shareN": 0.2653,
+  "pair": "距離+置く"
+ },
+ {
+  "romaji": "kubi o kiru",
+  "ja": "首を切る",
+  "english": "fire someone, sack",
+  "count": 99,
+  "shareN": 0.0635,
+  "pair": "首+切る"
+ },
+ {
+  "romaji": "osewa ni naru",
+  "ja": "お世話になる",
+  "english": "be looked after, be indebted to",
+  "count": 99,
+  "shareN": 0.1159,
+  "pair": "世話+成る"
+ },
+ {
+  "romaji": "kuchi o waru",
+  "ja": "口を割る",
+  "english": "spill the beans, confess",
+  "count": 93,
+  "shareN": 0.0472,
+  "pair": "口+割る"
+ },
+ {
+  "romaji": "inochi ga kakaru",
+  "ja": "命が掛かる",
+  "english": "one's life is at stake",
+  "count": 92,
+  "shareN": 0.0345,
+  "pair": "命+掛かる"
+ },
+ {
+  "romaji": "ude ga ii",
+  "ja": "腕がいい",
+  "english": "be skilled",
+  "count": 91,
+  "shareN": 0.0989,
+  "pair": "腕+良い"
+ },
+ {
+  "romaji": "oyaku ni tateru",
+  "ja": "お役に立てる",
+  "english": "be of help (humble)",
+  "count": 89,
+  "shareN": 0.7542,
+  "pair": "お役+立てる"
+ },
+ {
+  "romaji": "suji ga tooru",
+  "ja": "筋が通る",
+  "english": "make sense, be logical",
+  "count": 80,
+  "shareN": 0.4545,
+  "pair": "筋+通る"
+ },
+ {
+  "romaji": "kuchi o hasamu",
+  "ja": "口を挟む",
+  "english": "butt in, interrupt",
+  "count": 78,
+  "shareN": 0.0396,
+  "pair": "口+挟む"
+ },
+ {
+  "romaji": "issen o koeru",
+  "ja": "一線を越える",
+  "english": "cross the line",
+  "count": 77,
+  "shareN": 0.8191,
+  "pair": "一線+越える"
+ },
+ {
+  "romaji": "choushi ni noru",
+  "ja": "調子に乗る",
+  "english": "get carried away, get cocky",
+  "count": 76,
+  "shareN": 0.1689,
+  "pair": "調子+乗る"
+ },
+ {
+  "romaji": "kuchi o kiku",
+  "ja": "口をきく",
+  "english": "speak to someone; be on speaking terms",
+  "count": 75,
+  "shareN": 0.0381,
+  "pair": "口+利く"
+ },
+ {
+  "romaji": "michi o susumu",
+  "ja": "道を進む",
+  "english": "follow one's path in life",
+  "count": 72,
+  "shareN": 0.0295,
+  "pair": "道+進む"
+ },
+ {
+  "romaji": "tasuke o kariru",
+  "ja": "助けを借りる",
+  "english": "get someone's help",
+  "count": 71,
+  "shareN": 0.0395,
+  "pair": "助け+借りる"
+ },
+ {
+  "romaji": "mi o hiku",
+  "ja": "身を引く",
+  "english": "step aside; withdraw",
+  "count": 71,
+  "shareN": 0.0563,
+  "pair": "身+引く"
+ },
+ {
+  "romaji": "chikara o kariru",
+  "ja": "力を借りる",
+  "english": "enlist someone's help",
+  "count": 70,
+  "shareN": 0.0231,
+  "pair": "力+借りる"
+ },
+ {
+  "romaji": "kuchi o hiraku",
+  "ja": "口を開く",
+  "english": "start talking; speak up",
+  "count": 69,
+  "shareN": 0.035,
+  "pair": "口+開く"
+ },
+ {
+  "romaji": "atomodori dekinai",
+  "ja": "後戻りできない",
+  "english": "there's no turning back",
+  "count": 68,
+  "shareN": 0.7907,
+  "pair": "後戻り+出来る"
+ },
+ {
+  "romaji": "ippai yaru",
+  "ja": "一杯やる",
+  "english": "have a drink",
+  "count": 68,
+  "shareN": 0.2297,
+  "pair": "杯+遣る"
+ },
+ {
+  "romaji": "oome ni miru",
+  "ja": "大目に見る",
+  "english": "let it slide; overlook",
+  "count": 68,
+  "shareN": 1.0,
+  "pair": "大目+見る"
+ },
+ {
+  "romaji": "ikkoku mo hayaku",
+  "ja": "一刻も早く",
+  "english": "as soon as possible",
+  "count": 66,
+  "shareN": 0.7586,
+  "pair": "一刻+早い"
+ },
+ {
+  "romaji": "ate ni suru",
+  "ja": "当てにする",
+  "english": "count on, rely on",
+  "count": 64,
+  "shareN": 0.3232,
+  "pair": "当て+為る"
+ },
+ {
+  "romaji": "kubi o tsukkomu",
+  "ja": "首を突っ込む",
+  "english": "poke your nose into",
+  "count": 63,
+  "shareN": 0.0404,
+  "pair": "首+突き込む"
+ },
+ {
+  "romaji": "ashi o fumiireru",
+  "ja": "足を踏み入れる",
+  "english": "set foot in",
+  "count": 63,
+  "shareN": 0.0477,
+  "pair": "足+踏み入れる"
+ },
+ {
+  "romaji": "todome o sasu",
+  "ja": "とどめを刺す",
+  "english": "finish off, deliver the final blow",
+  "count": 62,
+  "shareN": 0.9118,
+  "pair": "止め+差す"
+ },
+ {
+  "romaji": "ri ni kanau",
+  "ja": "理にかなう",
+  "english": "make sense, stand to reason",
+  "count": 61,
+  "shareN": 0.8841,
+  "pair": "理+適う"
+ },
+ {
+  "romaji": "atama o hiyasu",
+  "ja": "頭を冷やす",
+  "english": "cool off, calm down",
+  "count": 60,
+  "shareN": 0.0187,
+  "pair": "頭+冷やす"
+ },
+ {
+  "romaji": "kashi ga aru",
+  "ja": "貸しがある",
+  "english": "someone owes you one",
+  "count": 59,
+  "shareN": 0.6413,
+  "pair": "貸し+有る"
+ },
+ {
+  "romaji": "kari ga dekiru",
+  "ja": "借りができる",
+  "english": "owe someone a favour",
+  "count": 59,
+  "shareN": 0.1222,
+  "pair": "借り+出来る"
+ },
+ {
+  "romaji": "shinzou ga tomaru ka to omotta",
+  "ja": "心臓が止まるかと思った",
+  "english": "it nearly gave me a heart attack",
+  "count": 58,
+  "shareN": 0.1144,
+  "pair": "心臓+止まる"
+ },
+ {
+  "romaji": "ura ga aru",
+  "ja": "裏がある",
+  "english": "there's a catch / hidden motive",
+  "count": 57,
+  "shareN": 0.1364,
+  "pair": "裏+有る"
+ },
+ {
+  "romaji": "ate ni naru",
+  "ja": "当てになる",
+  "english": "be reliable (often ate ni naranai)",
+  "count": 56,
+  "shareN": 0.2828,
+  "pair": "当て+成る"
+ },
+ {
+  "romaji": "atama ni ukabu",
+  "ja": "頭に浮かぶ",
+  "english": "come to mind",
+  "count": 56,
+  "shareN": 0.0174,
+  "pair": "頭+浮かぶ"
+ },
+ {
+  "romaji": "tsujitsuma ga au",
+  "ja": "辻褄が合う",
+  "english": "add up, be consistent",
+  "count": 54,
+  "shareN": 0.871,
+  "pair": "辻褄+合う"
+ },
+ {
+  "romaji": "kitai o uragiru",
+  "ja": "期待を裏切る",
+  "english": "let someone down, disappoint",
+  "count": 53,
+  "shareN": 0.0362,
+  "pair": "期待+裏切る"
+ },
+ {
+  "romaji": "ma ni ukeru",
+  "ja": "真に受ける",
+  "english": "take at face value",
+  "count": 53,
+  "shareN": 0.4609,
+  "pair": "真+受ける"
+ },
+ {
+  "romaji": "atokata mo nai",
+  "ja": "跡形もない",
+  "english": "without a trace",
+  "count": 53,
+  "shareN": 0.9138,
+  "pair": "跡形+無い"
+ },
+ {
+  "romaji": "en o kiru",
+  "ja": "縁を切る",
+  "english": "cut ties with someone",
+  "count": 52,
+  "shareN": 0.3537,
+  "pair": "縁+切る"
+ },
+ {
+  "romaji": "okamai naku",
+  "ja": "お構いなく",
+  "english": "please don't trouble yourself",
+  "count": 51,
+  "shareN": 0.9808,
+  "pair": "お構い+無い"
+ },
+ {
+  "romaji": "on ni kiru",
+  "ja": "恩に着る",
+  "english": "be deeply grateful, owe one",
+  "count": 51,
+  "shareN": 0.2713,
+  "pair": "恩+着る"
+ },
+ {
+  "romaji": "tohou mo nai",
+  "ja": "途方もない",
+  "english": "outrageous, tremendous",
+  "count": 51,
+  "shareN": 0.5258,
+  "pair": "途方+無い"
+ },
+ {
+  "romaji": "mi o sasageru",
+  "ja": "身を捧げる",
+  "english": "devote oneself",
+  "count": 50,
+  "shareN": 0.0397,
+  "pair": "身+捧げる"
+ },
+ {
+  "romaji": "hikigane ni naru",
+  "ja": "引き金になる",
+  "english": "trigger, set off",
+  "count": 50,
+  "shareN": 0.1946,
+  "pair": "引き金+成る"
+ },
+ {
+  "romaji": "ashi o arau",
+  "ja": "足を洗う",
+  "english": "go straight, quit (a bad life)",
+  "count": 50,
+  "shareN": 0.0379,
+  "pair": "足+洗う"
+ },
+ {
+  "romaji": "nukeme ga nai",
+  "ja": "抜け目がない",
+  "english": "shrewd, sharp",
+  "count": 50,
+  "shareN": 0.9615,
+  "pair": "抜け目+無い"
+ },
+ {
+  "romaji": "teki ni mawasu",
+  "ja": "敵に回す",
+  "english": "make an enemy of",
+  "count": 49,
+  "shareN": 0.0418,
+  "pair": "敵+回す"
+ },
+ {
+  "romaji": "ai o komeru",
+  "ja": "愛を込める",
+  "english": "put love into (ai o komete = with love)",
+  "count": 48,
+  "shareN": 0.0539,
+  "pair": "愛+込める"
+ },
+ {
+  "romaji": "haji o kakasu",
+  "ja": "恥をかかす",
+  "english": "embarrass someone, make them lose face",
+  "count": 47,
+  "shareN": 0.137,
+  "pair": "恥+欠かす"
+ },
+ {
+  "romaji": "sente o utsu",
+  "ja": "先手を打つ",
+  "english": "make the first move, preempt",
+  "count": 47,
+  "shareN": 0.7344,
+  "pair": "先手+打つ"
+ },
+ {
+  "romaji": "men to mukatte",
+  "ja": "面と向かって",
+  "english": "to someone's face",
+  "count": 47,
+  "shareN": 0.1588,
+  "pair": "面+向かう"
+ },
+ {
+  "romaji": "moushibun nai",
+  "ja": "申し分ない",
+  "english": "couldn't be better, flawless",
+  "count": 47,
+  "shareN": 0.9592,
+  "pair": "申し分+無い"
+ },
+ {
+  "romaji": "tsumi o kiseru",
+  "ja": "罪を着せる",
+  "english": "pin a crime on someone, frame",
+  "count": 45,
+  "shareN": 0.0483,
+  "pair": "罪+着せる"
+ },
+ {
+  "romaji": "souzou o zessuru",
+  "ja": "想像を絶する",
+  "english": "beyond imagination",
+  "count": 45,
+  "shareN": 0.0294,
+  "pair": "想像+絶する"
+ },
+ {
+  "romaji": "mi o makaseru",
+  "ja": "身を任せる",
+  "english": "give oneself over to, go with the flow",
+  "count": 45,
+  "shareN": 0.0357,
+  "pair": "身+任せる"
+ },
+ {
+  "romaji": "okure o toru",
+  "ja": "遅れを取る",
+  "english": "fall behind, lag behind others",
+  "count": 45,
+  "shareN": 0.4286,
+  "pair": "遅れ+取る"
+ },
+ {
+  "romaji": "kuchi o tataku",
+  "ja": "口を叩く",
+  "english": "talk big, mouth off",
+  "count": 44,
+  "shareN": 0.0223,
+  "pair": "口+叩く"
+ },
+ {
+  "romaji": "ashi o hipparu",
+  "ja": "足を引っ張る",
+  "english": "hold someone back, be a drag",
+  "count": 43,
+  "shareN": 0.0326,
+  "pair": "足+引っ張る"
+ },
+ {
+  "romaji": "koke ni suru",
+  "ja": "虚仮にする",
+  "english": "make a fool of someone",
+  "count": 43,
+  "shareN": 0.9348,
+  "pair": "虚仮+為る"
+ },
+ {
+  "romaji": "kabe o koeru",
+  "ja": "壁を越える",
+  "english": "overcome a barrier",
+  "count": 42,
+  "shareN": 0.0475,
+  "pair": "壁+越える"
+ },
+ {
+  "romaji": "ichiri aru",
+  "ja": "一理ある",
+  "english": "have a point",
+  "count": 42,
+  "shareN": 0.9767,
+  "pair": "一理+有る"
+ },
+ {
+  "romaji": "kuchi o tsutsushimu",
+  "ja": "口を慎む",
+  "english": "watch your mouth",
+  "count": 42,
+  "shareN": 0.0213,
+  "pair": "口+慎む"
+ },
+ {
+  "romaji": "osore o shiranai",
+  "ja": "恐れを知らない",
+  "english": "fearless",
+  "count": 42,
+  "shareN": 0.155,
+  "pair": "恐れ+知る"
+ },
+ {
+  "romaji": "kenka o uru",
+  "ja": "喧嘩を売る",
+  "english": "pick a fight",
+  "count": 42,
+  "shareN": 0.0538,
+  "pair": "喧嘩+売る"
+ },
+ {
+  "romaji": "michi o ayumu",
+  "ja": "道を歩む",
+  "english": "follow a path in life",
+  "count": 41,
+  "shareN": 0.0168,
+  "pair": "道+歩む"
+ },
+ {
+  "romaji": "kuimono ni suru",
+  "ja": "食い物にする",
+  "english": "exploit, prey on",
+  "count": 40,
+  "shareN": 0.2878,
+  "pair": "食い物+為る"
+ },
+ {
+  "romaji": "ippo o fumidasu",
+  "ja": "一歩を踏み出す",
+  "english": "take the first step (start something new)",
+  "count": 39,
+  "shareN": 0.2179,
+  "pair": "歩+踏み出す"
+ },
+ {
+  "romaji": "kiai o ireru",
+  "ja": "気合いを入れる",
+  "english": "psych yourself up, put your back into it",
+  "count": 38,
+  "shareN": 0.6909,
+  "pair": "気合い+入れる"
+ },
+ {
+  "romaji": "jinsei o ayumu",
+  "ja": "人生を歩む",
+  "english": "lead one's life, walk one's path",
+  "count": 38,
+  "shareN": 0.0166,
+  "pair": "人生+歩む"
+ },
+ {
+  "romaji": "kuchi ga katai",
+  "ja": "口が固い",
+  "english": "tight-lipped, good at keeping secrets",
+  "count": 38,
+  "shareN": 0.0193,
+  "pair": "口+固い"
+ },
+ {
+  "romaji": "hitozato hanareta",
+  "ja": "人里離れた",
+  "english": "remote, far from civilisation",
+  "count": 38,
+  "shareN": 0.9744,
+  "pair": "人里+離れる"
+ },
+ {
+  "romaji": "hame o hazusu",
+  "ja": "羽目を外す",
+  "english": "let loose, go overboard",
+  "count": 37,
+  "shareN": 0.2044,
+  "pair": "羽目+外す"
+ },
+ {
+  "romaji": "ura o kaku",
+  "ja": "裏をかく",
+  "english": "outwit, outsmart",
+  "count": 37,
+  "shareN": 0.0885,
+  "pair": "裏+掻く"
+ },
+ {
+  "romaji": "migoki ga torenai",
+  "ja": "身動きが取れない",
+  "english": "be stuck, unable to move",
+  "count": 37,
+  "shareN": 0.5068,
+  "pair": "身動き+取れる"
+ },
+ {
+  "romaji": "muki ni naru",
+  "ja": "むきになる",
+  "english": "get worked up, take it too seriously",
+  "count": 36,
+  "shareN": 0.973,
+  "pair": "むき+成る"
+ },
+ {
+  "romaji": "bou ni furu",
+  "ja": "棒に振る",
+  "english": "throw away, waste (a chance, one's life)",
+  "count": 36,
+  "shareN": 0.1905,
+  "pair": "棒+振る"
+ },
+ {
+  "romaji": "iki ga tsumaru",
+  "ja": "息が詰まる",
+  "english": "feel stifled, suffocating",
+  "count": 36,
+  "shareN": 0.036,
+  "pair": "息+詰まる"
+ },
+ {
+  "romaji": "aite no tachiba ni naru",
+  "ja": "相手の立場になる",
+  "english": "put yourself in someone's shoes",
+  "count": 36,
+  "shareN": 0.095,
+  "pair": "立場+成る"
+ },
+ {
+  "romaji": "tohou ni kureru",
+  "ja": "途方に暮れる",
+  "english": "be at a loss, not know what to do",
+  "count": 36,
+  "shareN": 0.3711,
+  "pair": "途方+暮れる"
+ },
+ {
+  "romaji": "tsukaimono ni naranai",
+  "ja": "使い物にならない",
+  "english": "useless, no good",
+  "count": 35,
+  "shareN": 1.0,
+  "pair": "使い物+成る"
+ },
+ {
+  "romaji": "chi ni ashi ga tsuku",
+  "ja": "地に足が着く",
+  "english": "be down-to-earth, grounded",
+  "count": 35,
+  "shareN": 0.0688,
+  "pair": "地+着く"
+ },
+ {
+  "romaji": "katachi ni naru",
+  "ja": "形になる",
+  "english": "take shape, come together",
+  "count": 35,
+  "shareN": 0.1136,
+  "pair": "形+成る"
+ },
+ {
+  "romaji": "ate mo naku",
+  "ja": "あてもなく",
+  "english": "aimlessly, with no plan",
+  "count": 35,
+  "shareN": 0.1768,
+  "pair": "当て+無い"
+ },
+ {
+  "romaji": "furidashi ni modoru",
+  "ja": "振り出しに戻る",
+  "english": "be back to square one",
+  "count": 35,
+  "shareN": 0.9459,
+  "pair": "振り出し+戻る"
+ },
+ {
+  "romaji": "chuumoku o abiru",
+  "ja": "注目を浴びる",
+  "english": "be in the spotlight, draw attention",
+  "count": 35,
+  "shareN": 0.0875,
+  "pair": "注目+浴びる"
+ },
+ {
+  "romaji": "shudan o erabanai",
+  "ja": "手段を選ばない",
+  "english": "stop at nothing, by any means",
+  "count": 34,
+  "shareN": 0.0771,
+  "pair": "手段+選ぶ"
+ },
+ {
+  "romaji": "shou ni au",
+  "ja": "性に合う",
+  "english": "suit one's nature, be one's thing",
+  "count": 34,
+  "shareN": 0.7556,
+  "pair": "性+合う"
+ },
+ {
+  "romaji": "ejiki ni naru",
+  "ja": "餌食になる",
+  "english": "fall prey to, be a victim",
+  "count": 34,
+  "shareN": 0.5667,
+  "pair": "餌食+成る"
+ },
+ {
+  "romaji": "kimo ni meijiru",
+  "ja": "肝に銘じる",
+  "english": "take to heart, never forget",
+  "count": 34,
+  "shareN": 0.5312,
+  "pair": "肝+銘ずる"
+ },
+ {
+  "romaji": "hara o watte hanasu",
+  "ja": "腹を割って話す",
+  "english": "talk frankly, heart to heart",
+  "count": 34,
+  "shareN": 0.0418,
+  "pair": "腹+割る"
+ },
+ {
+  "romaji": "oboe ga nai",
+  "ja": "覚えがない",
+  "english": "have no recollection of it",
+  "count": 34,
+  "shareN": 0.2048,
+  "pair": "覚え+有る"
+ },
+ {
+  "romaji": "rekishi ni nokoru",
+  "ja": "歴史に残る",
+  "english": "go down in history",
+  "count": 34,
+  "shareN": 0.0789,
+  "pair": "歴史+残る"
+ },
+ {
+  "romaji": "hedo ga deru",
+  "ja": "反吐が出る",
+  "english": "it makes me sick",
+  "count": 33,
+  "shareN": 0.9167,
+  "pair": "反吐+出る"
+ },
+ {
+  "romaji": "ikinone o tomeru",
+  "ja": "息の根を止める",
+  "english": "finish someone off for good",
+  "count": 33,
+  "shareN": 0.9706,
+  "pair": "息の根+止める"
+ },
+ {
+  "romaji": "banji junchou",
+  "ja": "万事順調",
+  "english": "everything is going smoothly",
+  "count": 33,
+  "shareN": 0.5,
+  "pair": "万事+順調"
+ },
+ {
+  "romaji": "ni ga omoi",
+  "ja": "荷が重い",
+  "english": "too much responsibility for someone",
+  "count": 32,
+  "shareN": 0.3636,
+  "pair": "荷+重い"
+ },
+ {
+  "romaji": "kagi o nigiru",
+  "ja": "鍵を握る",
+  "english": "hold the key (to a situation)",
+  "count": 32,
+  "shareN": 0.0243,
+  "pair": "鍵+握る"
+ },
+ {
+  "romaji": "kugizuke ni naru",
+  "ja": "釘付けになる",
+  "english": "be glued to (can't look away)",
+  "count": 32,
+  "shareN": 0.8,
+  "pair": "釘付け+為る"
+ },
+ {
+  "romaji": "tamashii o uru",
+  "ja": "魂を売る",
+  "english": "sell one's soul",
+  "count": 32,
+  "shareN": 0.0553,
+  "pair": "魂+売る"
+ },
+ {
+  "romaji": "miugoki ga torenai",
+  "ja": "身動きが取れない",
+  "english": "be stuck, unable to move",
+  "count": 32,
+  "shareN": 0.4384,
+  "pair": "身動き+出来る"
+ },
+ {
+  "romaji": "tsuke o harau",
+  "ja": "つけを払う",
+  "english": "pay the price for past actions",
+  "count": 32,
+  "shareN": 0.252,
+  "pair": "付け+払う"
+ },
+ {
+  "romaji": "en ga nai",
+  "ja": "縁がない",
+  "english": "not meant to be; have nothing to do with",
+  "count": 32,
+  "shareN": 0.2177,
+  "pair": "縁+無い"
+ },
+ {
+  "romaji": "myaku ga nai",
+  "ja": "脈がない",
+  "english": "no chance (romantically)",
+  "count": 31,
+  "shareN": 0.25,
+  "pair": "脈+無い"
+ },
+ {
+  "romaji": "ma no atari ni suru",
+  "ja": "目の当たりにする",
+  "english": "witness with one's own eyes",
+  "count": 31,
+  "shareN": 0.9688,
+  "pair": "目の当たり+為る"
+ },
+ {
+  "romaji": "betsujin ni naru",
+  "ja": "別人になる",
+  "english": "become a completely different person",
+  "count": 31,
+  "shareN": 0.4559,
+  "pair": "別人+成る"
+ },
+ {
+  "romaji": "hitome ni tsuku",
+  "ja": "人目につく",
+  "english": "be conspicuous, catch people's eye",
+  "count": 30,
+  "shareN": 0.3191,
+  "pair": "人目+付く"
+ },
+ {
+  "romaji": "nureginu o kiseru",
+  "ja": "濡れ衣を着せる",
+  "english": "falsely accuse, frame someone",
+  "count": 30,
+  "shareN": 0.7895,
+  "pair": "濡れ衣+着せる"
+ },
+ {
+  "romaji": "ito o hiku",
+  "ja": "糸を引く",
+  "english": "pull the strings behind the scenes",
+  "count": 30,
+  "shareN": 0.2459,
+  "pair": "糸+引く"
+ },
+ {
+  "romaji": "ana o umeru",
+  "ja": "穴を埋める",
+  "english": "fill the gap, make up a shortfall",
+  "count": 30,
+  "shareN": 0.0404,
+  "pair": "穴+埋める"
+ },
+ {
+  "romaji": "kyuuchi ni ochiiru",
+  "ja": "窮地に陥る",
+  "english": "get into a tight spot",
+  "count": 30,
+  "shareN": 0.297,
+  "pair": "窮地+陥る"
+ },
+ {
+  "romaji": "boketsu o horu",
+  "ja": "墓穴を掘る",
+  "english": "dig your own grave",
+  "count": 29,
+  "shareN": 0.8056,
+  "pair": "墓穴+掘る"
+ },
+ {
+  "romaji": "ate ga aru",
+  "ja": "当てがある",
+  "english": "have something or someone in mind",
+  "count": 29,
+  "shareN": 0.1465,
+  "pair": "当て+有る"
+ },
+ {
+  "romaji": "kibun o gaisuru",
+  "ja": "気分を害する",
+  "english": "offend someone, take offense",
+  "count": 29,
+  "shareN": 0.0262,
+  "pair": "気分+害する"
+ },
+ {
+  "romaji": "tachiuchi dekinai",
+  "ja": "太刀打ちできない",
+  "english": "be no match for",
+  "count": 29,
+  "shareN": 0.9667,
+  "pair": "太刀打ち+出来る"
+ },
+ {
+  "romaji": "kiri ga nai",
+  "ja": "キリがない",
+  "english": "there's no end to it",
+  "count": 29,
+  "shareN": 0.7838,
+  "pair": "キリ+無い"
+ },
+ {
+  "romaji": "rakuin o osu",
+  "ja": "烙印を押す",
+  "english": "brand someone (as a failure, etc.)",
+  "count": 28,
+  "shareN": 0.875,
+  "pair": "烙印+押す"
+ },
+ {
+  "romaji": "inochitori ni naru",
+  "ja": "命取りになる",
+  "english": "be fatal, be one's undoing",
+  "count": 28,
+  "shareN": 1.0,
+  "pair": "命取り+成る"
+ },
+ {
+  "romaji": "hanki o hirugaesu",
+  "ja": "反旗を翻す",
+  "english": "rise up in revolt",
+  "count": 28,
+  "shareN": 1.0,
+  "pair": "反旗+翻す"
+ },
+ {
+  "romaji": "kechi o tsukeru",
+  "ja": "けちをつける",
+  "english": "find fault with",
+  "count": 27,
+  "shareN": 0.7714,
+  "pair": "けち+付ける"
+ },
+ {
+  "romaji": "shippo o tsukamu",
+  "ja": "尻尾を掴む",
+  "english": "catch someone out",
+  "count": 27,
+  "shareN": 0.1688,
+  "pair": "尻尾+掴む"
+ },
+ {
+  "romaji": "oyaku ni tatsu",
+  "ja": "お役に立つ",
+  "english": "be of help",
+  "count": 27,
+  "shareN": 0.2288,
+  "pair": "お役+立つ"
+ },
+ {
+  "romaji": "jouki o issuru",
+  "ja": "常軌を逸する",
+  "english": "go off the rails",
+  "count": 27,
+  "shareN": 1.0,
+  "pair": "常軌+逸する"
+ },
+ {
+  "romaji": "fu ni ochinai",
+  "ja": "腑に落ちない",
+  "english": "not quite add up",
+  "count": 27,
+  "shareN": 0.871,
+  "pair": "腑+落ちる"
+ },
+ {
+  "romaji": "torikaeshi ga tsukanai",
+  "ja": "取り返しがつかない",
+  "english": "can't be undone",
+  "count": 26,
+  "shareN": 0.4643,
+  "pair": "取り返し+付く"
+ },
+ {
+  "romaji": "iyake ga sasu",
+  "ja": "嫌気が差す",
+  "english": "get fed up with",
+  "count": 26,
+  "shareN": 0.7027,
+  "pair": "嫌気+差す"
+ },
+ {
+  "romaji": "abunai hashi o wataru",
+  "ja": "危ない橋を渡る",
+  "english": "take a big risk",
+  "count": 26,
+  "shareN": 0.0887,
+  "pair": "橋+危ない"
+ },
+ {
+  "romaji": "waraimono ni suru",
+  "ja": "笑い物にする",
+  "english": "make a laughingstock of",
+  "count": 25,
+  "shareN": 0.6098,
+  "pair": "笑い物+為る"
+ },
+ {
+  "romaji": "unomi ni suru",
+  "ja": "鵜呑みにする",
+  "english": "take at face value",
+  "count": 25,
+  "shareN": 0.9615,
+  "pair": "鵜呑み+為る"
+ },
+ {
+  "romaji": "mato o eru",
+  "ja": "的を得る",
+  "english": "hit the mark",
+  "count": 25,
+  "shareN": 0.1736,
+  "pair": "的+得る"
+ },
+ {
+  "romaji": "mikata ni tsukeru",
+  "ja": "味方につける",
+  "english": "win someone over to your side",
+  "count": 25,
+  "shareN": 0.082,
+  "pair": "味方+付ける"
+ },
+ {
+  "romaji": "myaku ga aru",
+  "ja": "脈がある",
+  "english": "there's a chance (romantically)",
+  "count": 25,
+  "shareN": 0.2016,
+  "pair": "脈+有る"
+ }
+]

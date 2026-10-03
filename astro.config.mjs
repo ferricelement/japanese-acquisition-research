@@ -2,12 +2,20 @@
 import { readFileSync } from 'node:fs';
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
-import { RESEARCH_DOCS, catSlug, chunkPath, chunkSlugs } from './src/lib/slugs.mjs';
+import { RESEARCH_DOCS, catSlug, chunkPath, chunkSlugs, collDomainOf, sectionChunkPath } from './src/lib/slugs.mjs';
 
 const list = JSON.parse(readFileSync(new URL('./20-list-versatile.json', import.meta.url), 'utf8'));
 /** @type {Record<string, { label: string }>} */
 const blocks = Object.fromEntries(list.blocks.map((/** @type {{ id: string }} */ b) => [b.id, b]));
 const slugs = chunkSlugs(list.blocks);
+const coll = JSON.parse(readFileSync(new URL('./21-list-collocations.json', import.meta.url), 'utf8'));
+/** @type {Record<string, { label: string }>} */
+const collBlocks = Object.fromEntries(coll.blocks.map((/** @type {{ id: string }} */ b) => [b.id, b]));
+const collSlugs = chunkSlugs(coll.blocks, collDomainOf);
+const idioms = JSON.parse(readFileSync(new URL('./22-list-idioms.json', import.meta.url), 'utf8'));
+/** @type {Record<string, { label: string }>} */
+const idiomBlocks = Object.fromEntries(idioms.blocks.map((/** @type {{ id: string }} */ b) => [b.id, b]));
+const idiomSlugs = chunkSlugs(idioms.blocks, collDomainOf);
 
 /**
  * Research markdown keeps its own `#` titles for GitHub; on the site the page title is the h1,
@@ -52,6 +60,41 @@ export default defineConfig({
 						...s.chunkIds.map((id) => ({ label: blocks[id].label, link: chunkPath(i + 1, slugs[id]) })),
 					],
 				})),
+				// The collocation and idiom lists have their own four stages, learned alongside the main ones.
+				{
+					label: 'Collocations',
+					collapsed: true,
+					items: [
+						{ label: 'Collocations overview', link: '/collocations/' },
+						...coll.stages.map((/** @type {{ name: string, chunkIds: string[] }} */ s, /** @type {number} */ i) => ({
+							label: s.name,
+							collapsed: true,
+							items: [
+								{ label: `${s.name} collocations`, link: `/collocations/${i + 1}/` },
+								...s.chunkIds.map((id) => ({ label: collBlocks[id].label, link: sectionChunkPath('collocations', i + 1, collSlugs[id]) })),
+							],
+						})),
+						{ label: 'By verb', link: '/collocations/verbs/' },
+						{ label: 'By English word', link: '/collocations/english/' },
+						{ label: 'Collocation cuts', link: '/collocations/cuts/' },
+					],
+				},
+				{
+					label: 'Idioms',
+					collapsed: true,
+					items: [
+						{ label: 'Idioms overview', link: '/idioms/' },
+						...idioms.stages.map((/** @type {{ name: string, chunkIds: string[] }} */ s, /** @type {number} */ i) => ({
+							label: s.name,
+							collapsed: true,
+							items: [
+								{ label: `${s.name} idioms`, link: `/idioms/${i + 1}/` },
+								...s.chunkIds.map((id) => ({ label: idiomBlocks[id].label, link: sectionChunkPath('idioms', i + 1, idiomSlugs[id]) })),
+							],
+						})),
+						{ label: 'Idiom cuts', link: '/idioms/cuts/' },
+					],
+				},
 				{
 					label: 'Categories',
 					collapsed: true,

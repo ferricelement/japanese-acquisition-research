@@ -1,0 +1,759 @@
+id	category	romaji	english	literal	english_idiom	count	per_million	typical	source	pair_count	judged_commonness	flags
+te-ni-ireru	fortune	te ni ireru	get hold of, obtain	put into one's hand	get one's hands on	2538	800.59	0.2507	pairs	2538	4	
+ii-kagen-ni-shite	mood	ii kagen ni shite	knock it off, that's enough	make it a good amount	give it a rest	706	222.7	0.4511	pairs	706	5	
+te-o-kasu	relations	te o kasu	help out	lend a hand	lend a hand	640	201.88	0.0581	pairs	588	4	
+te-o-dasu	relations	te o dasu	touch; get into; hit; make a move on	put out a hand	lay a hand on	610	192.42	0.0586	pairs	593	4	
+te-ni-hairu	fortune	te ni hairu	be obtainable, come by	enter one's hand		572	180.43	0.0533	pairs	540	4	
+baka-ni-suru	relations	baka ni suru	make fun of, look down on	make (someone) a fool	make a fool of someone	526	165.89	0.0437	pairs	39	5	
+me-o-samasu	attention	me o samasu	come to your senses	wake the eyes	wake up and smell the coffee	525	165.6	0.084	pairs	515	3	
+kari-ga-aru	relations	kari ga aru	owe someone one	have a borrowing	I owe you one	481	151.73	0.5445	pairs	263	4	
+chikara-ni-naru	relations	chikara ni naru	be there for someone, help out	become (someone's) strength	be there for someone	422	133.12	0.1194	pairs	362	4	
+kanben-shite	mood	kanben shite	give me a break, spare me	pardon me, let me off	give me a break	380	119.87		phrase	None	4	
+joudan-ja-nai	mood	joudan ja nai	no way, you've got to be kidding	it's not a joke	you've got to be kidding me	361	113.87		phrase	None	4	
+kokoroatari-ga-aru	attention	kokoroatari ga aru	have an idea who or why	have a hit in the heart	ring a bell	357	112.62	0.5864	pairs	95	3	
+aite-ni-suru	relations	aite ni suru	bother with someone; (negative) ignore, brush off	make someone your opponent or partner	not give someone the time of day	352	111.04	0.2667	pairs	352	4	
+hidoi-me-ni-au	fortune	hidoi me ni au	have an awful time	meet a terrible eye (me = an experience)	go through hell	338	106.62	0.0551	pairs	338	5	
+hara-ga-tatsu	mood	hara ga tatsu	get angry, be annoyed	the belly stands up	make one's blood boil	294	92.73	0.1388	pairs	113	5	
+baka-iwanaide	talk	baka iwanaide	don't be silly, that's nonsense	don't say stupid (things)	don't be silly	287	90.53	0.3102	pairs	277	3	casual-only
+me-o-hanasu	attention	me o hanasu	take your eyes off (someone)	take the eyes away	take your eyes off	284	89.59	0.0463	pairs	284	4	
+ki-ga-kawaru	mood	ki ga kawaru	change your mind	the mind changes	have a change of heart	282	88.95	0.0185	pairs	282	4	
+dou-ka-shiteru	attention	dou ka shiteru	be out of one's mind, not be oneself	is somehow (off)	be out of one's mind	278	87.69		phrase	None	4	
+ki-ni-kakeru	relations	ki ni kakeru	care about, keep in mind	hang it on the mind	keep someone in mind	276	87.06	0.0181	pairs	276	3	
+kubi-ni-suru	fortune	kubi ni suru	fire someone	make someone neck	give someone the sack	270	85.17	0.1679	pairs	262	4	
+chikara-o-kasu	relations	chikara o kasu	help, back someone up	lend your strength	lend a hand	267	84.22	0.0663	pairs	201	3	
+ki-ga-kuruu	mood	ki ga kuruu	go crazy (ki ga kuruisou = it's driving me crazy)	the mind goes out of order	drive me up the wall	257	81.07	0.0169	pairs	257	3	
+kentou-ga-tsuku	attention	kentou ga tsuku	have an idea (kentou mo tsukanai = no idea at all)	an estimate takes hold	haven't the foggiest (negative)	251	79.18	0.9262	pairs	251	3	
+kentou-ga-tsukanai	attention	kentou ga tsukanai	have no idea, can't even guess	no estimate attaches	haven't the foggiest	251	79.18	0.9262	pairs	251	4	
+kentou-mo-tsukanai	attention	kentou mo tsukanai	have no idea at all	can't even get an estimate	haven't the foggiest	251	79.18	0.9262	pairs	251	4	
+mi-ni-tsukeru	effort	mi ni tsukeru	pick up (a skill or habit); wear	attach to the body	pick up	243	76.65	0.1667	pairs	210	4	
+kimi-ga-warui	mood	kimi ga warui	creepy, gives you the creeps	the feeling is bad	give me the creeps	238	75.08	0.8039	pairs	205	4	
+kubi-ni-naru	fortune	kubi ni naru	get fired	become neck	get the sack	226	71.29	0.1346	pairs	210	5	
+atama-ga-okashii	character	atama ga okashii	be crazy, out of your mind	the head is strange	have a screw loose	217	68.45	0.0674	pairs	217	4	rough
+te-ni-oenai	effort	te ni oenai	be more than one can handle	can't carry it in one's hands	out of hand	212	66.88	0.0206	pairs	209	3	
+yama-hodo-aru	effort	yama hodo aru	there's tons of it	there's a mountain's worth	a mountain of / tons of	208	65.63	0.0624	pairs	29	5	
+jikan-no-mondai	fortune	jikan no mondai	only a matter of time	a question of time	only a matter of time	207	65.3		phrase	None	3	
+me-o-toosu	attention	me o toosu	look over, skim	pass the eyes through	run your eye over	196	61.82	0.0292	pairs	179	3	
+kuchi-ni-suru	talk	kuchi ni suru	mention, say out loud; eat	put to the mouth		196	61.83	0.0995	pairs	196	3	
+mimi-o-katamukeru	talk	mimi o katamukeru	listen closely, heed	tilt one's ear	be all ears	195	61.51	0.1886	pairs	195	2	formal
+jikan-o-kasegu	effort	jikan o kasegu	stall for time	earn time	buy time	193	60.88	0.0218	pairs	158	3	
+te-o-hiku	relations	te o hiku	pull out, back off, quit	pull back one's hand	pull out	189	59.62	0.016	pairs	162	3	
+kuchi-o-dasu	relations	kuchi o dasu	butt in, meddle in others' business	put out one's mouth	stick your nose in	187	58.99	0.0888	pairs	175	4	
+te-o-utsu	fortune	te o utsu	take measures; settle on a deal	play a move	take steps	177	55.84	0.015	pairs	152	3	
+atto-iu-ma	effort	atto iu ma	in no time, over in a flash	the time it takes to say 'ah'	in the blink of an eye / time flies	161	50.79		phrase	None	5	
+se-o-mukeru	relations	se o mukeru	turn away from, refuse to face	turn one's back	turn one's back on	155	48.89	0.3467	pairs	147	3	
+haji-o-kaku	mood	haji o kaku	embarrass oneself, be humiliated	scratch up shame	make a fool of oneself	145	45.75	0.2653	pairs	91	4	
+hame-ni-naru	fortune	hame ni naru	end up having to (do something unpleasant)	end up in a tight spot	end up stuck doing	143	45.11	0.7901	pairs	143	4	
+kuchi-o-kiku	relations	kuchi o kiku	talk to someone; be on speaking terms	work one's mouth	give someone the silent treatment (negative)	142	44.8	0.0381	pairs	75	4	
+atama-o-sageru	relations	atama o sageru	bow; apologise; humbly ask	lower the head	go cap in hand	141	44.48	0.0438	pairs	141	3	
+kao-o-miseru	relations	kao o miseru	show your face, come and visit	show your face	show your face	138	43.53	0.0373	pairs	112	3	
+chikara-o-awaseru	relations	chikara o awaseru	join forces, work together	put strengths together	join forces	137	43.22	0.0449	pairs	136	3	
+sono-ki-ni-naru	effort	sono ki ni naru	set your mind to it, warm to it	become that mind	put your mind to it	132	41.64		phrase	1121	4	
+mimi-ni-suru	talk	mimi ni suru	hear (about), come across	put to the ear	hear tell of	131	41.32	0.1267	pairs	131	3	
+sama-ni-naru	character	sama ni naru	look the part, look natural doing it	it takes on a proper form	look the part	131	41.48	0.04	pairs	3	3	
+te-o-kumu	relations	te o kumu	team up, join forces	join hands	join forces	130	41.01	0.0126	pairs	128	2	
+ki-ga-sumu	mood	ki ga sumu	be satisfied, feel it's settled	the spirit is finished	get it out of your system	127	40.06	0.0083	pairs	127	4	
+shitta-kotcha-nai	relations	shitta kotcha nai	not my problem, I couldn't care less	it's not a thing I know	not my problem	124	39.11		phrase	None	3	casual-only,rough
+ate-ni-suru	relations	ate ni suru	count on, rely on (ate ni naranai = unreliable)	make it your target	count on someone	120	37.86	0.3232	pairs	64	4	
+kari-o-kaesu	relations	kari o kaesu	pay someone back (a favour); get even	return what was borrowed	return the favour	120	37.86	0.2422	pairs	117	3	
+te-ga-todoku	fortune	te ga todoku	be within reach; afford; nearly (an age)	one's hand reaches	within reach	117	36.9	0.0062	pairs	63	3	
+jigou-jitoku	fortune	jigou jitoku	you brought it on yourself	one's own deeds, one's own reward	serves you right / you reap what you sow	117	36.91		phrase	None	4	
+kokoro-o-hiraku	relations	kokoro o hiraku	open up to someone	open the heart	open up	113	35.64	0.0469	pairs	111	3	
+ki-wa-tashika	attention	ki wa tashika?	are you out of your mind?	is your mind sound?	are you out of your mind?	112	35.33	0.0074	pairs	112	2	
+itai-me-ni-au	fortune	itai me ni au	get burned, learn the hard way	meet a painful eye	learn the hard way	110	34.7		phrase	338	3	
+me-o-tsuburu	attention	me o tsuburu	turn a blind eye, overlook	shut the eyes	turn a blind eye	110	34.7	0.015	pairs	92	3	
+nanisama-no-tsumori	relations	nanisama no tsumori	who do you think you are	what lord do you take yourself for	who do you think you are	110	34.7		phrase	None	3	
+mimi-o-kasu	talk	mimi o kasu	listen to someone; lean in to hear	lend an ear	lend an ear	109	34.38	0.1015	pairs	105	3	
+yokei-na-osewa	relations	yokei na osewa	none of your business	unneeded looking-after	mind your own business	107	33.75		phrase	None	4	casual-only
+katte-ni-shite	mood	katte ni shite	fine, do what you want	do it as you selfishly please	suit yourself	107	33.75		phrase	None	4	
+keri-o-tsukeru	fortune	keri o tsukeru	settle it, put an end to it	add the closing 'keri'	settle it once and for all	105	33.12	0.7343	pairs	105	3	
+te-o-tsukeru	effort	te o tsukeru	start on; touch (food, money)	put a hand on		104	32.81	0.0103	pairs	104	3	
+kuchi-o-waru	talk	kuchi o waru	confess, spill the secret	split one's mouth	spill the beans	103	32.49	0.0472	pairs	93	2	
+atama-kara-hanarenai	attention	atama kara hanarenai	can't stop thinking about it	it won't leave my head	can't get it out of my head	102	32.18	0.0317	pairs	102	4	
+ippai-yaru	relations	ippai yaru	have a drink (together)	do one cup	grab a drink	100	31.54		phrase	None	3	
+kyori-o-oku	relations	kyori o oku	keep your distance, take a break from someone	put distance	give someone space	100	31.54	0.2653	pairs	100	3	
+ki-ga-susumanai	mood	ki ga susumanai	be reluctant, not keen	the mind won't move forward	drag one's feet	96	30.28	0.0063	pairs	96	3	
+te-o-kiru	relations	te o kiru	cut ties with, break off with	cut hands	wash one's hands of	95	29.96	0.0055	pairs	56	2	
+kashi-ga-aru	relations	kashi ga aru	someone owes you one	have a loan out (to someone)	you owe me one	94	29.65	0.6413	pairs	59	3	
+ki-o-waruku-suru	relations	ki o waruku suru	take offense, feel hurt	make one's mind bad	take it the wrong way	93	29.34		phrase	None	3	
+kokoro-no-junbi	mood	kokoro no junbi	being emotionally ready	the heart's preparation	brace yourself	92	29.02		phrase	None	4	
+mi-o-hiku	relations	mi o hiku	step aside, bow out (often for someone else's sake)	pull your body back	bow out	92	29.03	0.0563	pairs	71	3	
+ude-ga-ii	character	ude ga ii	be skilled at one's craft	the arm is good	know one's stuff	91	28.71	0.0989	pairs	91	3	
+atama-ni-kuru	mood	atama ni kuru	get mad, be furious	it comes to my head	blow a fuse	90	28.39	0.028	pairs	90	5	
+ki-o-hiku	relations	ki o hiku	try to get someone's attention (often romantic)	pull someone's mind	catch someone's eye	90	28.39	0.0059	pairs	90	3	
+atama-o-tsukau	attention	atama o tsukau	use your head, think it through	use the head	use your head	88	27.76	0.0273	pairs	88	3	
+me-o-tsukeru	attention	me o tsukeru	have your eye on; single someone out	attach your eyes	have your eye on	88	27.76	0.0134	pairs	82	3	
+te-o-tsukusu	effort	te o tsukusu	try every possible means	use up every move	leave no stone unturned	88	27.76	0.0087	pairs	88	2	
+ki-ni-kuwanai	mood	ki ni kuwanai	can't stand, really dislike	the mind won't eat it	rub someone the wrong way	84	26.5	0.0053	pairs	81	3	rough,casual-only
+kuchi-ni-dasu	talk	kuchi ni dasu	say it out loud, put into words	bring out into the mouth	say it out loud	84	26.5		phrase	175	4	
+kakko-tsukeru	character	kakko tsukeru	show off, try to look cool	attach a look	put on airs	84	26.5	0.0747	pairs	84	4	
+amaku-miru	attention	amaku miru	underestimate, take lightly	look at it sweetly	sell someone short	82	25.87		phrase	None	4	
+ki-ga-chiru	attention	ki ga chiru	get distracted, can't focus	the mind scatters		81	25.55	0.0053	pairs	81	3	
+choushi-ni-noru	fortune	choushi ni noru	get carried away, get cocky	ride on the rhythm	get too big for one's boots	81	25.55	0.1689	pairs	76	5	
+kao-o-dasu	relations	kao o dasu	drop by, show up	put out your face	show your face	80	25.24	0.0266	pairs	80	4	
+suji-ga-tooru	attention	suji ga tooru	make sense, be fair and logical (suji ga tooranai = unreasonable)	the line runs through	hold water	80	25.24	0.4545	pairs	80	3	
+te-o-yogosu	fortune	te o yogosu	do the dirty work oneself	dirty one's hands	get one's hands dirty	79	24.92	0.0078	pairs	79	2	
+yoku-iu-yo	talk	yoku iu yo	you've got some nerve, look who's talking	you say it well	look who's talking	79	24.92		phrase	None	4	casual-only
+hanashi-o-tsukeru	talk	hanashi o tsukeru	sort it out with someone, settle it by talking	attach the talk	sort it out	79	24.92	0.0068	pairs	70	3	
+ki-o-kubaru	attention	ki o kubaru	be attentive; look out for others	hand out your attention		79	24.92	0.0042	pairs	64	3	
+kuchi-o-hasamu	talk	kuchi o hasamu	interrupt, cut into a conversation	insert one's mouth	butt in	78	24.6	0.0396	pairs	78	3	
+ki-no-sei	attention	ki no sei	just your imagination	the mind's fault	it's all in your head	77	24.29		phrase	None	4	
+issen-o-koeru	relations	issen o koeru	cross the line (often: become lovers)	cross a line	cross the line	77	24.29	0.8191	pairs	77	3	
+ki-ga-kiku	character	ki ga kiku	thoughtful, quick to help	the mind works well	on the ball	76	23.97	0.0032	pairs	48	4	
+hanashi-ga-chigau	talk	hanashi ga chigau	that's not what we agreed	the talk is different	that's not the deal	76	23.97	0.0073	pairs	76	4	
+ashidematoi-ni-naru	relations	ashidematoi ni naru	be a burden that slows others down	become something tangling hands and feet	be dead weight	74	23.34		phrase	None	3	
+oteage	effort	oteage	I give up, I'm stumped	hands up	throw in the towel	74	23.34		phrase	None	4	
+otagaisama	relations	otagaisama	we all need help sometimes	mutual (honorific)	we're in the same boat	74	23.34		phrase	None	4	
+me-ni-tsuku	attention	me ni tsuku	catch the eye, stand out	it sticks to the eye	catch your eye	72	22.68	0.001	pairs	6	3	
+hoka-ni-te-ga-nai	fortune	hoka ni te ga nai	there's no other way	there's no other hand (move)	no other way	72	22.71		phrase	None	3	
+ki-ga-au	relations	ki ga au	get along, click with someone	spirits match	hit it off	68	21.45	0.0041	pairs	62	4	
+ki-ni-sawaru	relations	ki ni sawaru	offend, get on someone's nerves	touch a sore spot on the mind	strike a nerve	68	21.45	0.0033	pairs	51	3	
+oome-ni-miru	relations	oome ni miru	let it slide, go easy on someone	look with a big eye	cut someone some slack	68	21.45	1.0	pairs	68	3	
+ippiki-ookami	character	ippiki ookami	a loner who works alone	a single wolf	lone wolf	68	21.45		phrase	None	3	
+te-no-uchi-o-miseru	talk	te no uchi o miseru	reveal one's plan or tricks	show the inside of one's hand	show one's hand	67	21.1	0.2222	pairs	10	2	
+mizu-ni-nagasu	relations	mizu ni nagasu	forgive and forget	let it flow away in the water	let bygones be bygones	67	21.13	0.0459	pairs	67	3	
+te-ga-hanasenai	effort	te ga hanasenai	be tied up, can't step away now	can't take my hands off	be tied up	66	20.82		phrase	283	4	
+kiku-mimi-o-motanai	character	kiku mimi o motanai	refuse to listen to anyone	not have listening ears	turn a deaf ear	63	19.87	0.0609	pairs	63	3	
+te-ippai	effort	te ippai	have your hands full, be at full capacity	hands full	have your hands full	62	19.56		phrase	None	4	
+ki-o-torareru	attention	ki o torareru	be distracted by something	have one's mind taken	get sidetracked	61	19.24		phrase	None	3	
+kubi-o-tsukkomu	relations	kubi o tsukkomu	meddle in others' business	thrust one's neck in	poke one's nose in	61	19.24		phrase	None	4	
+hanashi-ni-naranai	talk	hanashi ni naranai	hopeless, out of the question	doesn't make a conversation	out of the question	61	19.24		phrase	175	4	
+nakatta-koto-ni-suru	relations	nakatta koto ni suru	pretend it never happened, take it back	make it a thing that didn't happen	sweep it under the rug	61	19.24		phrase	None	4	
+atama-o-hiyasu	mood	atama o hiyasu	cool off, calm down	cool the head	cool off	60	18.93	0.0186	pairs	60	3	
+kugizuke-ni-naru	attention	kugizuke ni naru	be glued to (a screen, a sight)	become nailed down	be glued to	60	18.9	0.2	pairs	8	3	
+ki-ga-raku	mood	ki ga raku	feel relieved, at ease	the mind is easy	a weight off my shoulders	58	18.3		phrase	None	4	
+kuchi-dake	character	kuchi dake	all talk, no action	only mouth	all talk and no action	58	18.3		phrase	None	4	casual-only
+hone-ga-oreru	effort	hone ga oreru	be hard work, take a lot of effort	bones break	be a tall order	58	18.29	0.0763	pairs	28	4	
+aite-ni-shinai	relations	aite ni shinai	ignore, not bother with someone	not make them your opponent	pay them no mind	58	18.3		phrase	352	4	
+zamaa-miro	mood	zamaa miro	serves you right, ha!	look at the state of you	serves you right	58	18.3		phrase	None	3	casual-only,rough
+atama-ni-ukabu	attention	atama ni ukabu	come to mind	it floats up in the head	spring to mind	57	17.98	0.0174	pairs	56	3	
+pin-to-kuru	attention	pin to kuru	it clicks, it rings a bell	come with a ping	ring a bell	57	17.98		phrase	None	4	
+ura-ga-aru	attention	ura ga aru	there's a catch, a hidden motive	there's a back side	there's a catch	57	17.98	0.1364	pairs	57	4	
+ki-o-nuku	effort	ki o nuku	let your guard down, slack off	pull the ki out	let your guard down	56	17.67	0.0028	pairs	42	3	
+shirinugui-o-suru	relations	shirinugui o suru	clean up someone else's mess	do the bottom-wiping	clean up after someone	56	17.65	0.76	pairs	19	3	
+mizu-no-awa-ni-naru	fortune	mizu no awa ni naru	come to nothing, all wasted	become bubbles on the water	go down the drain	56	17.64	0.6667	pairs	6	4	
+mizu-no-awa	fortune	mizu no awa	all for nothing, wasted	foam on the water	go down the drain	56	17.66		phrase	None	4	
+en-o-kiru	relations	en o kiru	cut ties with, disown	cut the bond	cut someone off	56	17.66	0.3377	pairs	52	3	
+do-ga-sugiru	relations	do ga sugiru	go too far (a joke, a prank)	the degree passes	go too far	56	17.62	0.0039	pairs	17	3	
+teki-ni-mawasu	relations	teki ni mawasu	make an enemy of	turn into an enemy	get on the wrong side of	56	17.67	0.0418	pairs	49	3	
+hone-o-oru	relations	hone o oru	go to a lot of trouble for someone	break one's bones	go out of one's way	55	17.35	0.1035	pairs	38	3	
+tsujitsuma-ga-au	attention	tsujitsuma ga au	add up, be consistent (a story)	the seams line up	add up	54	17.03	0.871	pairs	54	3	
+tsujitsuma-ga-awanai	attention	tsujitsuma ga awanai	it doesn't add up	the seams don't meet	doesn't add up	54	17.03	0.871	pairs	54	3	
+omou-tsubo	fortune	omou tsubo	exactly what they want	the pot one had in mind	play right into someone's hands	53	16.72		phrase	None	3	
+ma-ni-ukeru	attention	ma ni ukeru	take it at face value, take it seriously	receive it as true	take it at face value	53	16.72	0.3759	pairs	53	4	
+hito-ga-ii	character	hito ga ii	too nice, easy to take advantage of	the person is good	a soft touch	53	16.72		phrase	986	4	
+koko-dake-no-hanashi	talk	koko dake no hanashi	between you and me	a talk for here only	between you and me	52	16.4		phrase	None	4	
+on-ni-kiru	relations	on ni kiru	I owe you one, I'm grateful	wear the kindness	I owe you one	52	16.41	0.1683	pairs	51	3	masc
+hitoiki-tsuku	effort	hitoiki tsuku	take a breather, have a short break	take one breath	catch one's breath	51	16.08	0.2419	pairs	15	4	
+aite-no-mi-ni-naru	relations	aite no mi ni naru	put yourself in their position	become the other person's body	put yourself in someone's shoes	51	16.09	0.0405	pairs	51	4	
+jikan-o-tsubusu	effort	jikan o tsubusu	kill time	crush time	kill time	51	16.09	0.0048	pairs	35	3	
+kimae-ga-ii	character	kimae ga ii	generous with money	good ki-front		51	16.09	0.9623	pairs	51	3	
+ooguchi-o-tataku	talk	ooguchi o tataku	talk big, brag	beat a big mouth	shoot one's mouth off	50	15.76	0.7778	pairs	21	3	
+ashi-o-arau	fortune	ashi o arau	quit a shady line of work or a bad habit	wash one's feet	go straight	50	15.77	0.0378	pairs	50	3	
+nureginu-o-kiseru	fortune	nureginu o kiseru	accuse someone falsely	make someone wear wet clothes	frame someone	50	15.77	0.7895	pairs	30	3	
+nukeme-ga-nai	character	nukeme ga nai	shrewd, never misses a trick	no gaps to slip through	sharp as a tack	50	15.77	0.9615	pairs	50	3	
+mimi-ni-hairu	talk	mimi ni hairu	reach one's ears, get word of	enter the ear	get wind of	49	15.46	0.0426	pairs	44	3	
+te-ga-kakaru	effort	te ga kakaru	take a lot of looking after	it takes hands	a handful	47	14.83	0.0046	pairs	47	3	
+ude-o-ageru	character	ude o ageru	get better at something	raise one's arm		47	14.83	0.0457	pairs	42	3	
+kiri-ga-nai	effort	kiri ga nai	there's no end to it	there's no cut-off point	it's a bottomless pit	47	14.83	0.6912	pairs	47	3	
+yori-o-modosu	relations	yori o modosu	get back together (with an ex)	re-twist the strands	get back together	47	14.84	0.6512	pairs	28	3	
+sente-o-utsu	fortune	sente o utsu	act first, get in before the other side	play the first move (shogi)	beat someone to the punch	47	14.83	0.7344	pairs	47	3	
+nani-ga-nan-da-ka-wakaranai	attention	nani ga nan da ka wakaranai	I have no idea what's going on	what is what, I don't know	can't make head or tail of it	47	14.83		phrase	None	3	
+muki-ni-naru	mood	muki ni naru	get worked up, take it too seriously	turn all earnest	get all worked up	46	14.52	0.3583	pairs	43	4	
+men-to-mukatte	talk	men to mukatte	to someone's face	facing face to face	to someone's face	46	14.51		phrase	None	3	
+nozomu-tokoro-da	mood	nozomu tokoro da	I accept your challenge	it's the very thing I wish for	bring it on	46	14.51		phrase	None	3	
+torikaeshi-ga-tsukanai	fortune	torikaeshi ga tsukanai	can't be undone, irreversible	no taking it back	there's no going back	46	14.51	0.4643	pairs	26	3	
+atama-ga-ippai	attention	atama ga ippai	be preoccupied, can only think of	the head is full	have a lot on your mind	45	14.19		phrase	None	3	
+hanashi-wa-betsu	talk	hanashi wa betsu	that's a different story	the talk is separate	that's a different story	45	14.19		phrase	None	4	
+tohou-ni-kureru	mood	tohou ni kureru	be at a loss about what to do	darkness falls on your way	at your wits' end	45	14.2	0.3711	pairs	36	3	
+te-ga-komu	effort	te ga komu	be elaborate, take real effort	the handiwork is packed in		44	13.88	0.0011	pairs	11	3	
+saki-o-kosareru	fortune	saki o kosareru	someone gets there first	get passed in front of	beat me to it	44	13.88	0.0238	pairs	44	3	
+inochibiroi-suru	fortune	inochibiroi suru	have a narrow escape	pick your life back up	dodge a bullet	44	13.88		phrase	None	3	
+me-o-somukeru	attention	me o somukeru	refuse to face (the truth), look away	turn your eyes away	bury your head in the sand	44	13.88	0.0072	pairs	44	3	
+ki-o-shikkari-motsu	mood	ki o shikkari motsu	stay strong, hold it together	hold your mind firmly	hang in there	44	13.87	0.0012	pairs	19	2	
+te-ga-tarinai	effort	te ga tarinai	be short-handed	not enough hands	short-handed	43	13.56	0.0019	pairs	19	2	
+ashi-o-hipparu	relations	ashi o hipparu	hold others back, be a drag on the team	pull someone's leg	drag someone down	43	13.56	0.0325	pairs	43	5	
+atama-ga-kireru	character	atama ga kireru	be sharp, brilliant	the head cuts	sharp as a tack	42	13.25	0.013	pairs	42	2	
+kuchi-o-tsutsushimu	talk	kuchi o tsutsushimu	watch what one says	restrain one's mouth	watch your mouth	42	13.25	0.0213	pairs	42	2	formal
+ichi-ka-bachi-ka	fortune	ichi ka bachi ka	take the gamble, all or nothing	one or eight	roll the dice / sink or swim	42	13.25		phrase	None	3	
+ichiri-aru	attention	ichiri aru	have a point	there is one reason in it	you've got a point	42	13.25	0.9767	pairs	42	4	
+yake-ni-naru	mood	yake ni naru	do something reckless out of despair	turn desperate	go off the deep end	42	13.24	0.3333	pairs	19	3	
+kenka-o-uru	relations	kenka o uru	pick a fight	sell a fight	pick a fight	42	13.25	0.0538	pairs	42	3	
+ki-ga-hareru	mood	ki ga hareru	feel better, cheer up	the mind clears up	a weight off my mind	42	13.25	0.0028	pairs	42	3	
+tsuke-ga-mawatte-kuru	fortune	tsuke ga mawatte kuru	it comes back to bite you	the tab comes around	chickens come home to roost	42	13.24	0.1339	pairs	17	3	
+oyasui-goyou	effort	oyasui goyou	no problem, happy to help	a cheap errand	no sweat	41	12.93		phrase	None	3	
+tachi-ga-warui	character	tachi ga warui	nasty, malicious (also: a nasty cold or prank)	bad nature	a nasty piece of work	41	12.94	1.0	pairs	27	3	
+ohiraki-ni-suru	relations	ohiraki ni suru	wrap up a party or gathering	make it an 'opening' (a way to avoid saying 'end')	call it a night	41	12.93	0.8667	pairs	13	3	
+shiri-o-tataku	effort	shiri o tataku	push someone to get moving	slap someone's backside	light a fire under someone	41	12.94	0.0657	pairs	14	2	
+kiai-o-ireru	effort	kiai o ireru	psych yourself up, go all out	put in fighting spirit	psych yourself up	40	12.62	0.6909	pairs	38	3	
+kuchi-ga-katai	character	kuchi ga katai	good at keeping secrets	mouth is hard	my lips are sealed	40	12.62	0.0193	pairs	38	4	
+ni-mo-hodo-ga-aru	mood	ni mo hodo ga aru	X is going way too far	even X has its limits	that's beyond a joke	40	12.62	0.7143	pairs	40	4	
+aka-no-tanin	relations	aka no tanin	a complete stranger	a red (total) stranger	a perfect stranger	40	12.62		phrase	None	3	
+en-ga-aru	relations	en ga aru	be meant to be (en ga nakatta = it wasn't meant to be)	there's a bond (of fate)	meant to be	40	12.62	0.0844	pairs	13	3	
+kimo-ni-meijiru	attention	kimo ni meijiru	take it to heart, never forget (a lesson)	engrave it on my liver	take it to heart	40	12.62		phrase	None	3	formal
+ki-ga-magireru	mood	ki ga magireru	be distracted from worries	the mind gets mixed in elsewhere	take your mind off it	39	12.3	0.0012	pairs	19	3	
+hito-ga-warui	character	hito ga warui	mean, sly (teasing or keeping you in the dark)	the person is bad		39	12.3		phrase	152	3	
+katto-naru	mood	katto naru	snap, lose one's temper	go 'flash'	fly off the handle	38	11.99		phrase	None	4	
+hame-o-hazusu	fortune	hame o hazusu	let loose, go overboard	take off the (horse's) bit	let your hair down	37	11.67	0.2044	pairs	37	3	
+mato-o-iru	talk	mato o iru	be spot on, right to the point	hit the target with an arrow	hit the nail on the head	37	11.67	0.0903	pairs	13	3	
+hara-o-watte-hanasu	talk	hara o watte hanasu	talk frankly, heart to heart	split the belly open and talk	lay your cards on the table	36	11.36		phrase	None	3	
+iki-ga-tsumaru	mood	iki ga tsumaru	feel stifled, suffocating	breath gets clogged	can't breathe in here	36	11.36	0.036	pairs	36	3	
+bou-ni-furu	fortune	bou ni furu	throw away (a chance, a career, years)	swing it like a stick	throw it all away	36	11.36	0.1905	pairs	36	2	
+shou-ni-au	character	shou ni au	suit you, be your kind of thing	fit your nature	right up your alley	36	11.36	0.7556	pairs	34	3	
+tantou-chokunyuu	talk	tantou chokunyuu	straight to the point	one sword, straight in	cut to the chase	35	11.04		phrase	None	3	
+furidashi-ni-modoru	fortune	furidashi ni modoru	be back to square one	go back to the start square	back to square one	35	11.04	0.9459	pairs	35	3	
+me-o-hikaraseru	attention	me o hikaraseru	watch closely for trouble	make your eyes shine	keep a close eye on	35	11.04		phrase	None	3	
+me-ni-ukabu	attention	me ni ukabu	can picture it	it floats before the eyes	I can just picture it	33	10.41	0.0052	pairs	32	3	
+asameshi-mae	effort	asameshi mae	easy, no trouble at all	before breakfast	piece of cake	33	10.41		phrase	None	4	
+goma-o-suru	relations	goma o suru	suck up to, flatter	grind sesame	butter someone up	33	10.41	0.65	pairs	13	3	
+ikken-rakuchaku	fortune	ikken rakuchaku	case closed, that's sorted	one case settled	case closed	33	10.41		phrase	None	3	
+yama-o-kosu	fortune	yama o kosu	get past the worst (yama wa koeta = the worst is over)	get over the mountain	over the hump	33	10.41		phrase	None	3	
+yatsuatari-suru	mood	yatsuatari suru	take your anger out on others	strike out in all eight directions	take it out on someone	33	10.41		phrase	None	4	
+hedo-ga-deru	mood	hedo ga deru	(it) makes me sick with disgust	vomit comes up	makes me want to puke	33	10.41	0.9167	pairs	33	2	rough
+kuchi-ga-warui	character	kuchi ga warui	sharp-tongued, says harsh things	mouth is bad	have a sharp tongue	32	10.1	0.0127	pairs	25	4	
+ha-ga-tatanai	effort	ha ga tatanai	no match for, can't handle it	teeth won't sink in	out of one's league	32	10.09	0.0535	pairs	24	3	
+te-o-nuku	effort	te o nuku	slack off, cut corners	pull one's hands out	cut corners	32	10.1	0.0027	pairs	27	4	
+ni-ga-omoi	effort	ni ga omoi	be too big a responsibility	the load is heavy	a tall order	32	10.09	0.3636	pairs	32	3	
+me-ga-kuramu	attention	me ga kuramu	be blinded (by money, greed, love)	your eyes are dazzled	be blinded by greed	32	10.09	0.0052	pairs	32	3	
+ki-ga-noranai	mood	ki ga noranai	not in the mood	the mind won't climb aboard	not feeling it	31	9.77	0.0012	pairs	19	3	
+me-ga-nai	attention	me ga nai	be crazy about, can't resist	have no eyes (for it)	have a weakness for	31	9.78		phrase	89	4	
+uwasa-o-sureba	talk	uwasa o sureba	speak of the devil	when you talk about someone	speak of the devil	31	9.78		phrase	96	4	
+yume-ni-mo-omowanai	attention	yume ni mo omowanai	never imagined, never dreamed	not think it even in a dream	never in my wildest dreams	31	9.78		phrase	None	3	
+ma-ga-warui	fortune	ma ga warui	bad timing, awkward moment	the timing is bad	bad timing	31	9.78	0.0138	pairs	31	3	
+kigen-o-toru	relations	kigen o toru	humour someone, cheer up a sulker	take someone's mood	keep someone sweet	31	9.78	0.0816	pairs	16	3	
+miru-me-ga-nai	character	miru me ga nai	have bad judgment (of people, things)	have no eyes that see	be a poor judge of character	30	9.46		phrase	89	4	
+me-ga-hanasenai	attention	me ga hanasenai	can't take your eyes off	can't take the eyes away	be glued to	30	9.46		phrase	None	3	
+kuchi-ga-suberu	talk	kuchi ga suberu	let something slip	mouth slips	slip of the tongue	30	9.46	0.0132	pairs	26	4	
+mite-minu-furi	attention	mite minu furi o suru	turn a blind eye	pretend not to see what you see	turn a blind eye	30	9.46		phrase	685	3	
+maruku-osamaru	relations	maruku osamaru	be smoothed over, settle amicably	settle round	smooth things over	30	9.46		phrase	None	3	
+hanashi-ni-noru	relations	hanashi ni noru	go along with an offer, be in on it	ride the story	I'm in	30	9.46	0.0029	pairs	30	3	
+unomi-ni-suru	attention	unomi ni suru	believe without question	swallow it whole like a cormorant	swallow it hook, line and sinker	30	9.47	0.9615	pairs	25	3	
+tachiuchi-dekinai	effort	tachiuchi dekinai	be no match for, can't compete	can't cross swords	can't hold a candle to	30	9.47	0.9667	pairs	29	3	
+ki-ga-muku	mood	ki ga muku	feel like doing it	the mind turns toward it	when the mood strikes	29	9.14	0.0014	pairs	21	3	
+iyake-ga-sasu	mood	iyake ga sasu	get fed up, be sick of it	a feeling of dislike shines in	be sick and tired of	29	9.15	0.7027	pairs	26	3	
+munakuso-warui	mood	munakuso warui	sickening, infuriating	chest-dung bad	leave a bad taste in your mouth	29	9.15	1.0	pairs	23	3	rough,casual-only
+uwa-no-sora	attention	uwa no sora	absent-minded, not listening	the upper sky	miles away / head in the clouds	29	9.15		phrase	None	3	
+kamo-ni-suru	relations	kamo ni suru	treat someone as an easy mark	make a duck of someone	take someone for a ride	29	9.15	0.1475	pairs	9	2	casual-only
+boketsu-o-horu	fortune	boketsu o horu	shoot yourself in the foot	dig your own grave	dig your own grave	29	9.15	0.8056	pairs	29	3	
+ni-no-mai	fortune	ni no mai	making the same mistake someone else made	the second dance	history repeating itself	28	8.83		phrase	None	3	
+ni-no-mai-ni-naru	fortune	ni no mai ni naru	repeat someone's mistake, go the same way	become the second dance		28	8.83		phrase	None	3	
+ki-ga-aru	relations	ki ga aru	be into someone	have ki (toward someone)	have a thing for someone	27	8.52		phrase	239	4	
+ii-ki-ni-naru	fortune	ii ki ni naru	get cocky, get full of yourself	become good-spirited	get too big for your boots	27	8.52		phrase	1121	3	
+kao-ni-deru	mood	kao ni deru	your feelings show on your face	it comes out on the face	wear your heart on your sleeve	27	8.52	0.009	pairs	27	4	
+te-ga-denai	fortune	te ga denai	can't afford it; can't touch it	one's hand won't come out	out of my price range	27	8.51	0.0015	pairs	15	2	
+ki-ni-yamu	mood	ki ni yamu	worry yourself sick, dwell on it	get sick in the mind over	lose sleep over it	27	8.52	0.0018	pairs	27	3	
+fu-ni-ochinai	attention	fu ni ochinai	doesn't add up, can't quite accept it	doesn't drop into the gut	something doesn't sit right	27	8.52		phrase	None	3	
+kechi-o-tsukeru	talk	kechi o tsukeru	find fault with, nitpick	attach stinginess	pick holes in	27	8.52	0.7714	pairs	27	3	
+shippo-o-tsukamu	fortune	shippo o tsukamu	catch someone out, get proof against them	grab the tail	catch someone red-handed	27	8.52	0.1688	pairs	27	2	
+nani-kara-nani-made	relations	nani kara nani made	everything, every last thing	from what to what	from A to Z	27	8.52		phrase	None	4	
+muda-ashi	effort	muda ashi	a wasted trip	wasted feet	a wild goose chase	27	8.52		phrase	None	3	
+me-mo-kurenai	relations	me mo kurenai	not even glance at, ignore completely	won't even give an eye	not give someone a second glance	27	8.52	0.0044	pairs	27	2	
+kokoro-ga-hiroi	character	kokoro ga hiroi	big-hearted, forgiving	the heart is wide	big-hearted	26	8.2	0.011	pairs	26	3	
+wari-ni-awanai	fortune	wari ni awanai	not worth it, doesn't pay	doesn't match the ratio	not worth the trouble	26	8.2		phrase	None	3	
+kidou-ni-noru	fortune	kidou ni noru	start running smoothly	get onto the track or orbit	get off the ground	26	8.2	0.1833	pairs	22	3	
+zuboshi	talk	zuboshi	spot on (zuboshi? = I've got you, haven't I)	the bullseye	hit the nail on the head	26	8.2		phrase	None	3	
+nami-ni-noru	fortune	nami ni noru	be on a roll, ride a trend	ride the wave	on a roll	26	8.2	0.0932	pairs	15	3	
+nita-mono-doushi	character	nita mono doushi	two of a kind	people who are alike, together	birds of a feather	26	8.2		phrase	None	3	
+tsumi-o-kaburu	relations	tsumi o kaburu	take the blame for someone else	put the crime on your own head	take the fall	26	8.21	0.0247	pairs	23	2	
+iji-o-haru	character	iji o haru	be stubborn, refuse to give in	stretch one's pride tight	dig your heels in	25	7.88	0.2317	pairs	19	3	
+ki-ga-meiru	mood	ki ga meiru	feel down, depressing	the mind sinks in	get someone down	25	7.89	0.0016	pairs	25	3	
+hito-ga-kawaru	character	hito ga kawaru	become a different person (drunk, angry, behind the wheel)	the person changes	like Jekyll and Hyde	25	7.89		phrase	93	3	
+myaku-ga-aru	relations	myaku ga aru	there's a chance (they like you back)	there's a pulse	be in with a chance	25	7.89	0.2016	pairs	25	3	casual-only
+nen-o-osu	talk	nen o osu	double-check, remind firmly	press your attention on	make doubly sure	25	7.88	0.2262	pairs	19	3	
+hyaku-mo-shouchi	attention	hyaku mo shouchi	I know that perfectly well	aware a hundred times over	know full well	25	7.89		phrase	None	3	
+abunai-hashi-o-wataru	fortune	abunai hashi o wataru	take a big (often shady) risk	cross a dangerous bridge	skate on thin ice	25	7.89		phrase	None	3	
+hanashi-o-sorasu	talk	hanashi o sorasu	change the subject to avoid something	veer the talk aside	dodge the question	25	7.89	0.0024	pairs	25	3	
+herazuguchi-o-tataku	talk	herazuguchi o tataku	talk back, always have a cheeky answer	bang out a mouth that never wears down	a smart mouth	25	7.89		phrase	None	2	
+kowai-mono-shirazu	character	kowai mono shirazu	fearless, afraid of nothing (often recklessly)	not knowing scary things		25	7.89		phrase	None	3	
+ki-ga-tsuyoi	character	ki ga tsuyoi	strong-willed, feisty	strong spirit		24	7.57	0.0016	pairs	24	3	
+te-mo-ashi-mo-denai	effort	te mo ashi mo denai	be helpless, completely outmatched	neither hand nor foot comes out	out of one's depth	24	7.57		phrase	None	2	
+sewa-ga-yakeru	relations	sewa ga yakeru	needs constant looking after	the looking-after burns	a real handful	24	7.57	0.0152	pairs	13	3	
+hara-ga-kuroi	character	hara ga kuroi	scheming, sly under a nice surface	the belly is black	two-faced	24	7.57		phrase	None	3	
+dame-moto	fortune	dame moto	nothing to lose by trying	no good, back to the start	worth a shot	24	7.57		phrase	None	4	slang
+ki-o-otosu	mood	ki o otosu	lose heart, be discouraged	drop one's spirit	don't let it get you down	23	7.26	0.0015	pairs	23	3	
+mune-ga-itamu	mood	mune ga itamu	it pains me, heartbreaking	the chest aches	it breaks my heart	23	7.26	0.0276	pairs	12	3	
+kuchi-kara-demakase-o-iu	talk	kuchi kara demakase o iu	make things up on the spot	say whatever leaves the mouth	talk through one's hat	23	7.26		phrase	None	2	
+torihada-ga-tatsu	mood	torihada ga tatsu	get goosebumps (from awe or creepiness)	bird skin stands up	get goosebumps / give someone chills	23	7.26	0.6	pairs	9	4	
+kotoba-no-aya	talk	kotoba no aya	just a figure of speech (I didn't mean it literally)	the pattern of words	a figure of speech	23	7.26		phrase	None	3	
+kotsu-o-tsukamu	effort	kotsu o tsukamu	work out how to do something	grab the knack	get the hang of it	23	7.26	0.2771	pairs	23	3	
+kyoumi-shinshin	attention	kyoumi shinshin	dying to know, all ears	interest overflowing	dying to know	23	7.26		phrase	None	3	
+yowami-o-nigiru	relations	yowami o nigiru	have something on someone	grasp a weakness	have dirt on someone	23	7.26	0.3194	pairs	23	3	
+mune-ni-te-o-atete-kangaeru	attention	mune ni te o atete kangaeru	think honestly about what you did	think with your hand on your chest	take a long hard look at yourself	23	7.26		phrase	None	3	
+nagare-ni-makaseru	fortune	nagare ni makaseru	let things take their course	leave it to the current	go with the flow	23	7.25	0.1027	pairs	19	3	
+ne-ni-motsu	relations	ne ni motsu	hold a grudge	hold it at the root	hold a grudge	22	6.94	0.2178	pairs	22	3	
+shinzou-ni-warui	mood	shinzou ni warui	you gave me a fright	bad for the heart	you nearly gave me a heart attack	22	6.94	0.0434	pairs	22	3	
+kao-mo-mitakunai	mood	kao mo mitakunai	never want to see you again	don't even want to see the face	never want to see your face again	22	6.94		phrase	None	3	
+komimi-ni-hasamu	talk	komimi ni hasamu	happen to hear, overhear	catch in a little ear	a little bird told me	22	6.94	0.9524	pairs	20	3	
+te-o-yaku	effort	te o yaku	have a hard time handling	burn one's hands	have one's hands full with	22	6.94	0.0017	pairs	17	2	
+kiki-ippatsu	fortune	kiki ippatsu	a very close call	crisis by a single hair	by the skin of one's teeth	22	6.94		phrase	None	2	
+seisei-doudou	character	seisei doudou	fairly, playing by the rules	right and proper, open and dignified	fair and square	22	6.94		phrase	None	3	
+ii-dokyou-shiteru	talk	ii dokyou shiteru	you've got some nerve (a sarcastic warning)	you have fine guts	you've got some nerve	22	6.94		phrase	None	3	casual-only
+ippai-kuwasareru	fortune	ippai kuwasareru	be tricked, be had	be made to eat a bowl	be taken for a ride	22	6.94		phrase	None	2	
+kokoro-o-komete	effort	kokoro o komete	with love, wholeheartedly	packing the heart in	with all my heart	21	6.63	0.0068	pairs	16	3	
+atama-ni-ireru	attention	atama ni ireru	keep in mind, memorise	put it into the head	bear in mind	21	6.62	0.0065	pairs	21	3	
+kuchi-ni-au	character	kuchi ni au	suit your taste (food)	fit the mouth	be to your taste	21	6.63	0.0091	pairs	18	4	
+shinu-ki-de	effort	shinu ki de	all-out, as if your life depended on it	with the will to die	like your life depends on it	21	6.62		phrase	None	4	
+ii-kimi	mood	ii kimi	serves you right	a good feeling	serves you right	21	6.62		phrase	None	3	casual-only
+rinki-ouhen	effort	rinki ouhen	flexibly, as the situation demands	meet the occasion, respond to change	play it by ear	21	6.62		phrase	None	3	
+kejime-o-tsukeru	fortune	kejime o tsukeru	own up and settle things properly; keep things clearly separate	put in a dividing line	face the music / draw the line	21	6.62	0.8077	pairs	21	3	
+kami-hitoe	fortune	kami hitoe	a razor-thin difference	one sheet of paper thick	a fine line / by a hair	21	6.62		phrase	None	3	
+umai-hanashi	fortune	umai hanashi	an offer too good to be true	a tasty story	too good to be true	21	6.62		phrase	None	3	
+jakuniku-kyoushoku	fortune	jakuniku kyoushoku	the strong prey on the weak	the weak are meat, the strong eat	dog-eat-dog	21	6.62		phrase	None	2	
+ki-ga-hikeru	mood	ki ga hikeru	feel bad about doing it	the mind pulls back		20	6.31		phrase	None	3	
+hana-ga-takai	mood	hana ga takai	be proud (of someone)	the nose is high	beam with pride	20	6.31	0.0473	pairs	19	3	
+kikimimi-o-tateru	talk	kikimimi o tateru	strain to overhear, eavesdrop	stand up listening ears	prick up one's ears	20	6.31	0.95	pairs	19	2	
+te-o-ageru	relations	te o ageru	hit someone	raise a hand	raise a hand to someone	20	6.31		phrase	489	2	
+isseki-nichou	fortune	isseki nichou	two benefits from one action	one stone, two birds	kill two birds with one stone	20	6.31		phrase	None	4	
+mizu-o-sasu	relations	mizu o sasu	spoil the mood, put a damper on	pour water in	throw cold water on / rain on someone's parade	20	6.31	0.0137	pairs	20	3	
+naru-you-ni-naru	fortune	naru you ni naru	whatever will be, will be	it becomes as it becomes	que sera, sera	20	6.31		phrase	None	3	
+seken-wa-semai	relations	seken wa semai	it's a small world	the world is narrow	small world	20	6.31	0.0628	pairs	13	3	
+hitosujinawa-ja-ikanai	effort	hitosujinawa ja ikanai	it's not that simple, a tough one	one rope won't do it	easier said than done	20	6.31		phrase	None	3	
+hiyaase-o-kaku	mood	hiyaase o kaku	get a real scare, sweat it	break a cold sweat	break out in a cold sweat	20	6.3	0.6	pairs	6	3	
+aiso-o-tsukasu	relations	aiso o tsukasu	give up on someone	use up your goodwill	have had it with someone	20	6.31	0.2778	pairs	20	3	
+hitosuji-nawa-de-wa-ikanai	effort	hitosuji nawa de wa ikanai	not simple to deal with	can't be handled with a single rope	a tough nut to crack	20	6.31		phrase	None	3	
+kokoro-o-tsukamu	relations	kokoro o tsukamu	win people over	grab the heart	win someone's heart	20	6.31	0.0084	pairs	20	3	
+baka-o-miru	fortune	baka o miru	end up the loser, get burned for nothing	see foolishness	be left holding the bag	20	6.31	0.0224	pairs	20	3	
+kimari-ga-warui	mood	kimari ga warui	feel awkward, sheepish	the settledness is bad	feel sheepish	20	6.31	0.3509	pairs	20	3	
+kuuki-o-yomu	relations	kuuki o yomu	pick up on the mood	read the air	read the room	19	5.99	0.0511	pairs	19	4	
+mune-o-haru	mood	mune o haru	be proud, stand tall	puff out one's chest	hold your head high	19	5.99	0.0438	pairs	19	3	
+kuchi-ga-umai	character	kuchi ga umai	smooth talker, flatterer	mouth is skilful	silver-tongued	19	6.0	0.0071	pairs	14	3	
+te-ga-tsukerarenai	effort	te ga tsukerarenai	be out of control, unmanageable	can't lay a hand on it	out of hand	19	5.99		phrase	104	2	
+mi-ni-oboe-ga-nai	attention	mi ni oboe ga nai	deny any part in it, know nothing about it	no memory of it in the body	I've got nothing to do with it	19	5.99		phrase	None	3	
+bachi-ga-ataru	fortune	bachi ga ataru	you'll be punished for that	divine punishment hits	karma will get you	19	5.99	0.8333	pairs	10	3	
+futa-o-akete-miru-to	fortune	futa o akete miru to	as it turned out	when you take the lid off	as it turned out / when push came to shove	19	5.99	0.2346	pairs	19	2	
+ganchuu-ni-nai	relations	ganchuu ni nai	not even on your radar, not interested	not inside the eye	not even on my radar	19	5.99	0.95	pairs	19	3	
+ikitougou-suru	relations	ikitougou suru	hit it off right away	spirits join together	hit it off	19	5.99		phrase	None	3	
+ichi-kara-yarinaosu	fortune	ichi kara yarinaosu	start over from scratch	redo from one	start from scratch	19	5.99		phrase	None	4	
+zettai-zetsumei	fortune	zettai zetsumei	a desperate spot with no way out	body cut off, life cut off	between a rock and a hard place	19	5.99		phrase	None	3	
+mimi-ga-tooi	talk	mimi ga tooi	be hard of hearing	your ears are far away	hard of hearing	19	5.99	0.0184	pairs	19	3	
+hana-ni-tsuku	mood	hana ni tsuku	be off-putting, grate on you	it sticks to the nose	rub you the wrong way	18	5.67	0.01	pairs	4	3	
+shika-atama-ni-nai	attention	shika atama ni nai	think only about (X)	there's nothing but X in the head	have a one-track mind	18	5.68		phrase	61	3	
+te-ga-hanareru	effort	te ga hanareru	(kids) need less looking after	(the child) leaves one's hands	off one's hands	18	5.68	0.0018	pairs	18	2	
+kata-o-motsu	relations	kata o motsu	take someone's side	hold someone's shoulder	side with someone	18	5.68	0.0837	pairs	18	4	
+ii-toshi-shite	character	ii toshi shite	at your age (you should know better)	having a good age	act your age	18	5.68	0.0281	pairs	18	4	
+futamata-o-kakeru	relations	futamata o kakeru	two-time, see two people at once	straddle two forks	two-time someone	18	5.67	0.7273	pairs	8	3	
+yuuzuu-ga-kikanai	character	yuuzuu ga kikanai	rigid, won't make exceptions	accommodation doesn't work	by the book / (won't) bend the rules	18	5.68	0.9	pairs	18	3	
+ni-no-tsugi	attention	ni no tsugi	secondary, low priority	next after the second	take a back seat	18	5.68		phrase	None	3	
+atama-no-kaiten-ga-hayai	character	atama no kaiten ga hayai	quick-witted	the head spins fast	quick on the uptake	17	5.35	0.0455	pairs	6	3	
+sono-te-ni-wa-noranai	attention	sono te ni wa noranai	I won't fall for that	I won't ride that move	I won't fall for that	17	5.36		phrase	None	3	
+te-ga-suberu	fortune	te ga suberu	do by accident (often as an excuse)	one's hand slips		17	5.36	0.0017	pairs	17	2	
+tedama-ni-toru	relations	tedama ni toru	play someone, manipulate	handle like a juggling beanbag	twist someone around one's finger	17	5.36	0.9444	pairs	17	2	
+shiri-ni-hi-ga-tsuku	effort	shiri ni hi ga tsuku	finally under pressure as a deadline nears	fire catches on one's backside	feel the heat	17	5.36		phrase	None	4	
+mi-ni-shimiru	mood	mi ni shimiru	really hit home (kindness, a lesson, the cold)	soak into the body	hit home	17	5.36	0.0119	pairs	15	3	
+kubi-ga-tobu	fortune	kubi ga tobu	lose one's job	one's head flies off	heads will roll	17	5.36	0.0109	pairs	17	3	
+ashimoto-o-miru	relations	ashimoto o miru	take advantage of someone's weak position	look at someone's feet	have someone over a barrel	17	5.36	0.1977	pairs	17	3	
+itabasami-ni-naru	relations	itabasami ni naru	be caught between two sides	be squeezed between boards	caught between a rock and a hard place	17	5.36	0.4444	pairs	4	3	
+hanashi-ga-hayai	talk	hanashi ga hayai	that makes it easy, that saves explaining	the talk is fast	that saves time	17	5.36		phrase	37	4	
+ukanai-kao	mood	ukanai kao o suru	look glum, look down	wear a face that doesn't float	a long face	17	5.36		phrase	435	3	
+ki-o-hikishimeru	effort	ki o hikishimeru	brace yourself, stay sharp	pull your ki tight	get your act together	17	5.36	0.0011	pairs	17	3	
+suteta-mon-ja-nai	fortune	suteta mon ja nai	not so bad after all	not something to throw away	not to be sneezed at	17	5.36		phrase	None	3	
+fui-o-tsukareru	fortune	fui o tsukareru	be caught off guard	be struck at an unguarded moment	catch someone off guard	17	5.36		phrase	None	2	
+ki-ga-nukeru	effort	ki ga nukeru	lose steam; go flat	the ki leaks out	run out of steam	16	5.05	0.001	pairs	15	3	
+hara-o-kukuru	fortune	hara o kukuru	brace yourself and commit	tie up one's belly	bite the bullet	16	5.05	0.0197	pairs	16	3	
+te-ga-mawaranai	effort	te ga mawaranai	can't get around to it	one's hands don't go round	can't get around to it	16	5.05	0.0016	pairs	16	3	
+koshi-o-nukasu	mood	koshi o nukasu	be stunned with shock or surprise	have one's hips give out	be floored	16	5.05	0.094	pairs	14	3	
+ashi-o-nobasu	effort	ashi o nobasu	go a bit further on a trip	extend one's legs	make a side trip	16	5.05	0.0121	pairs	16	3	
+uri-futatsu	character	uri futatsu	look exactly alike	two halves of a melon	spitting image / two peas in a pod	16	5.05		phrase	None	3	
+kugi-o-sasu	talk	kugi o sasu	warn someone firmly in advance	drive in a nail		16	5.05	0.1951	pairs	16	3	
+okotoba-ni-amaeru	relations	okotoba ni amaeru	take you up on your kind offer	lean on your kind words	if you insist	16	5.05		phrase	None	4	formal
+yakimochi-o-yaku	mood	yakimochi o yaku	be jealous	grill rice cakes		16	5.05	1.0	pairs	16	3	
+me-no-kataki-ni-suru	relations	me no kataki ni suru	have it in for someone	make someone your eyes' enemy	have it in for someone	16	5.05	1.0	pairs	13	3	
+negatte-mo-nai	fortune	negatte mo nai	exactly what you wanted, a godsend	not even something you'd dare wish for	a dream come true	16	5.05		phrase	None	3	
+okotoba-ni-amaete	relations	okotoba ni amaete	I'll gladly accept your offer	presuming on your kind words	I'll take you up on that	16	5.05		phrase	None	4	formal
+hana-ga-kiku	character	hana ga kiku	have a knack for sniffing things out	your nose works well	have a nose for	16	5.05	0.0398	pairs	16	2	
+tanomi-no-tsuna	fortune	tanomi no tsuna	your last hope, the one thing you can count on	rope of reliance	lifeline	16	5.05		phrase	None	3	
+ki-o-momu	mood	ki o momu	fret, worry while waiting	knead your mind	be on pins and needles	16	5.05	0.0011	pairs	16	2	
+kimochi-o-kirikaeru	mood	kimochi o kirikaeru	move on, reset your mindset	switch over one's feelings	put it behind you	15	4.73	0.008	pairs	15	3	
+shiran-kao-o-suru	relations	shiran kao o suru	pretend not to notice, ignore	make a don't-know face	look the other way	15	4.73		phrase	435	3	casual-only
+me-to-hana-no-saki	effort	me to hana no saki	right nearby	the tip between the eyes and the nose	a stone's throw away	15	4.73		phrase	None	3	
+te-ga-aku	effort	te ga aku	be free for a moment	one's hands become empty		15	4.73	0.0015	pairs	15	3	
+ashi-o-hakobu	relations	ashi o hakobu	make the trip to visit, go somewhere in person	carry one's feet	make the trip	15	4.73	0.0113	pairs	15	3	
+uma-ga-au	relations	uma ga au	get along well, click	the horses match	hit it off	15	4.73	0.0223	pairs	15	3	
+kuse-ni-naru	attention	kuse ni naru	be addictive, grow on you	become a habit	it grows on you	15	4.73	0.0412	pairs	11	3	
+fukouchuu-no-saiwai	fortune	fukouchuu no saiwai	a silver lining, it could have been worse	good luck inside bad luck	a silver lining	15	4.73		phrase	None	3	
+oteyawaraka-ni	relations	oteyawaraka ni	go easy on me	with soft hands	go easy on me	15	4.73		phrase	None	3	
+gokigen-naname	mood	gokigen naname	in a bad mood, grumpy	mood tilted	get out of bed on the wrong side	15	4.73		phrase	None	3	
+shira-o-kiru	talk	shira o kiru	play dumb, deny everything	cut 'white'	play dumb	15	4.73	0.7857	pairs	11	3	
+wakage-no-itari	fortune	wakage no itari	youthful folly	the height of youthful spirit	I was young and foolish	15	4.73		phrase	None	3	
+dobu-ni-suteru	fortune	dobu ni suteru	waste (money or effort) completely	throw it in the gutter	money down the drain	15	4.73	0.6111	pairs	11	3	
+kanninbukuro-no-o-ga-kireru	mood	kanninbukuro no o ga kireru	finally run out of patience	the cord of my patience bag snaps	the last straw	15	4.73		phrase	None	2	
+kan-ippatsu	fortune	kan ippatsu	just barely, in the nick of time	a gap of one hair	by a hair's breadth	15	4.73		phrase	None	3	
+yubi-o-kuwaete-miru	fortune	yubi o kuwaete miru	stand by enviously or helplessly	watch with a finger in one's mouth	stand by and watch	14	4.42	0.0315	pairs	14	2	
+senaka-o-osu	relations	senaka o osu	encourage someone to go for it	push someone's back	give someone a push	14	4.42	0.0459	pairs	14	4	
+kata-no-chikara-o-nuku	mood	kata no chikara o nuku	relax, stop trying so hard	take the strength out of the shoulders	loosen up	14	4.42		phrase	None	4	
+chi-ni-ashi-o-tsukeru	character	chi ni ashi o tsukeru	be grounded and realistic	put one's feet on the ground	keep one's feet on the ground	14	4.42	0.0106	pairs	14	3	
+kaya-no-soto	relations	kaya no soto	left out, not told	outside the mosquito net	out of the loop	14	4.42		phrase	None	3	
+makka-na-uso	talk	makka na uso	a complete lie	a bright-red lie	a barefaced lie	14	4.42		phrase	None	3	
+kokoro-o-irekaeru	character	kokoro o irekaeru	reform, change your ways	replace your heart	turn over a new leaf	14	4.42	0.0055	pairs	13	3	
+kokoro-ni-hibiku	mood	kokoro ni hibiku	really move you, resonate	echoes in the heart	strike a chord	14	4.42	0.0055	pairs	13	3	
+ichimoku-oku	relations	ichimoku oku	respect someone's ability	place one stone (go handicap)	take your hat off to	14	4.42	0.1512	pairs	13	3	
+jirai-o-fumu	talk	jirai o fumu	touch a sore spot	step on a landmine	put your foot in it	14	4.42	0.3043	pairs	14	3	casual-only
+ii-sen-itteru	attention	ii sen itteru	close, on the right track	going along a good line	you're getting warm	14	4.42		phrase	None	3	casual-only
+doji-o-fumu	fortune	doji o fumu	mess up, blow it	step on a blunder	drop the ball	14	4.42	0.6364	pairs	14	3	casual-only
+me-o-utagau	attention	me o utagau	can't believe what you're seeing	doubt your eyes	can't believe my eyes	14	4.42	0.0023	pairs	14	2	
+me-ga-mawaru	effort	me ga mawaru	be dizzy; be crazy busy	the eyes spin	run off your feet	13	4.11	0.002	pairs	12	3	
+ude-ga-namaru	character	ude ga namaru	get rusty, lose one's touch	one's arm goes dull	get rusty	13	4.1	0.0076	pairs	7	2	
+karada-ga-motanai	effort	karada ga motanai	can't keep this up, it'll wear me out	the body won't hold out	run oneself into the ground	13	4.1		phrase	28	4	
+kaminari-ga-ochiru	mood	kaminari ga ochiru	get yelled at by a parent or boss	thunder falls	someone hits the roof	13	4.09	0.1111	pairs	10	2	
+yuujuu-fudan	character	yuujuu fudan	indecisive, wishy-washy	soft and undecided	sit on the fence	13	4.1		phrase	None	3	
+boro-ga-deru	fortune	boro ga deru	your flaws or lies show through	the rags show	slip up	13	4.09	0.32	pairs	8	3	
+ikiatari-battari	effort	ikiatari battari	haphazard, winging it	bumping into whatever you hit	wing it	13	4.1		phrase	None	3	
+ki-ga-mijikai	character	ki ga mijikai	short-tempered, impatient	the temper is short	have a short fuse	12	3.79	0.0008	pairs	12	2	
+me-ni-mieteru	attention	me ni mieteru	it's obvious what will happen	it's visible to the eye	plain as day	12	3.79		phrase	202	4	
+atama-ga-katai	character	atama ga katai	stubborn, a rigid thinker	the head is hard	set in your ways	12	3.79	0.0037	pairs	12	3	
+nagai-me-de-miru	relations	nagai me de miru	be patient, take the long view	look with a long eye	take the long view	12	3.79		phrase	579	3	
+ude-no-misedokoro	character	ude no misedokoro	the moment to show one's skill	the place to show one's arm	time to shine	12	3.79		phrase	None	2	
+dou-iu-kaze-no-fukimawashi	attention	dou iu kaze no fukimawashi	what's gotten into you? (said to unexpected kindness)	what turn of the wind is this	what's the occasion?	12	3.79		phrase	None	3	
+moto-mo-ko-mo-nai	fortune	moto mo ko mo nai	you'd lose everything, it defeats the purpose	neither principal nor interest left	throw the baby out with the bathwater	12	3.79		phrase	None	3	
+yowane-o-haku	effort	yowane o haku	whine, admit it's too hard	spit out weak sounds		12	3.79	0.8571	pairs	12	3	
+kokoro-ni-mo-nai	talk	kokoro ni mo nai koto o iu	say things you don't mean	say things that aren't even in your heart	say things you don't mean	12	3.79		phrase	None	3	
+munasawagi-ga-suru	mood	munasawagi ga suru	have a bad feeling (that something is wrong)	the chest is in an uproar	have a bad feeling about this	12	3.79	1.0	pairs	9	3	
+ne-o-ageru	effort	ne o ageru	give up, cry uncle	raise a cry	throw in the towel	12	3.79	0.0103	pairs	11	3	
+ichimoku-ryouzen	attention	ichimoku ryouzen	obvious at a glance	clear at one glance	plain as day	12	3.79		phrase	None	3	
+kokoro-ni-mo-nai-2	talk	kokoro ni mo nai	(words) you don't really mean	not even in your heart	I didn't mean it	12	3.79		phrase	None	3	
+me-no-hoyou	mood	me no hoyou	a pleasure to look at	rest cure for the eyes	eye candy / a sight for sore eyes	12	3.79		phrase	None	3	
+shirokuro-tsukeru	fortune	shirokuro tsukeru	settle who's right once and for all	assign white and black	settle it once and for all	12	3.79	0.5	pairs	7	3	
+kusare-en	relations	kusare en	a relationship you can't shake	a rotten bond		12	3.79		phrase	None	3	
+hyouzan-no-ikkaku	fortune	hyouzan no ikkaku	only a small visible part of the problem	one corner of the iceberg	the tip of the iceberg	12	3.79		phrase	None	2	
+hotobori-ga-sameru	fortune	hotobori ga sameru	for things to blow over	the lingering heat cools	until the dust settles	12	3.79	1.0	pairs	12	3	
+kokoro-koko-ni-arazu	attention	kokoro koko ni arazu	distracted, a million miles away	heart not here	miles away	12	3.79		phrase	None	3	
+kao-ga-kiku	relations	kao ga kiku	have pull, have connections (somewhere)	your face works	have friends in high places	12	3.79	0.004	pairs	12	2	
+kao-ga-hiroi	relations	kao ga hiroi	know lots of people	the face is wide	know all the right people	11	3.47	0.0037	pairs	11	3	
+kata-no-ni-ga-oriru	mood	kata no ni ga oriru	feel relieved of a burden	the load comes off the shoulders	a weight off one's shoulders	11	3.47		phrase	None	4	
+neko-o-kaburu	character	neko o kaburu	put on a sweet, innocent act	wear a cat (over oneself)	put on a front	11	3.46	0.0234	pairs	8	3	
+ue-kara-mesen	character	ue kara mesen	condescending, talking down	a gaze from above	look down one's nose	11	3.47		phrase	None	4	
+hanashi-o-awaseru	talk	hanashi o awaseru	play along in a conversation	match the talk	play along	11	3.47	0.0011	pairs	11	3	
+gutto-kuru	mood	gutto kuru	be moved, it really gets you	comes with a squeeze	tug at the heartstrings	11	3.47		phrase	None	4	casual-only
+hana-de-warau	relations	hana de warau	scoff at, sneer at	laugh through your nose	scoff at	11	3.46	0.0249	pairs	10	3	
+ita-ni-tsuku	character	ita ni tsuku	start to look natural in a role	settle onto the stage boards	grow into the role	11	3.47	0.2	pairs	9	3	
+hitokawa-mukeru	character	hitokawa mukeru	come into your own	shed a layer of skin	come into your own	11	3.47		phrase	None	3	
+jibara-o-kiru	fortune	jibara o kiru	pay out of your own pocket	cut one's own belly	pay out of pocket	11	3.48	0.75	pairs	3	3	
+ki-ga-hayai	character	ki ga hayai	thinking too far ahead	the mind is early	jump the gun	10	3.15	0.0007	pairs	10	3	
+ki-ga-ki-ja-nai	mood	ki ga ki ja nai	worried sick, on edge	my mind isn't my mind	on pins and needles	10	3.15		phrase	None	2	
+ude-o-migaku	effort	ude o migaku	hone one's skills	polish one's arm	hone one's skills	10	3.15	0.0109	pairs	10	2	
+jibun-no-kubi-o-shimeru	fortune	jibun no kubi o shimeru	make things worse for oneself	strangle one's own neck	shoot oneself in the foot	10	3.15		phrase	111	3	
+engi-demo-nai	talk	engi demo nai	don't jinx it, don't say such things	not even an omen	don't tempt fate	10	3.15		phrase	None	3	
+hanashi-ga-au	relations	hanashi ga au	have a lot to talk about, hit it off	the talk fits	be on the same wavelength	10	3.15		phrase	38	3	
+urame-ni-deru	fortune	urame ni deru	backfire	come up on the wrong side of the die	backfire	10	3.15	1.0	pairs	10	3	
+hanashi-ga-mienai	talk	hanashi ga mienai	I don't follow, where's this going?	can't see the talk	I'm not following	10	3.15		phrase	None	3	
+yo-mo-sue	mood	yo mo sue	things have got this bad	the world too is at its end	what is the world coming to?	10	3.15		phrase	None	3	
+binbou-kuji-o-hiku	fortune	binbou kuji o hiku	get stuck with the bad end of the deal	draw the poverty lot	draw the short straw	10	3.15		phrase	None	3	
+ki-ga-togameru	mood	ki ga togameru	feel guilty	the spirit reproaches	have a guilty conscience	10	3.15	0.0007	pairs	10	3	
+aji-o-shimeru	fortune	aji o shimeru	get a taste for it (after one success)	occupy the taste	get a taste for it	10	3.15	0.0172	pairs	6	3	
+ii-kao-o-suru	relations	ii kao o suru	play nice; (negative) disapprove	make a good face		10	3.15		phrase	435	3	
+jiga-jisan	talk	jiga jisan	praising your own work	praising your own painting	blow your own trumpet	10	3.15		phrase	None	3	
+on-o-ada-de-kaesu	relations	on o ada de kaesu	betray someone who helped you	repay a kindness with harm	bite the hand that feeds you	10	3.15	0.033	pairs	10	2	
+isshou-no-onegai	relations	isshou no onegai	please, I'm begging you, just this once	the request of my lifetime	pretty please	10	3.15		phrase	None	3	casual-only
+ki-ga-tatsu	mood	ki ga tatsu	be on edge, irritable	spirit stands up	on edge	10	3.16	0.0006	pairs	9	3	
+nomikomi-ga-hayai	character	nomikomi ga hayai	a fast learner, picks things up quickly	quick at swallowing	a quick study	10	3.15	0.8571	pairs	6	3	
+atama-ga-agaranai	relations	atama ga agaranai	owe someone too much to argue	the head won't come up	forever in someone's debt	9	2.84	0.0028	pairs	9	3	
+atama-ga-sagaru	relations	atama ga sagaru	deeply admire, respect	the head lowers (by itself)	take my hat off to	9	2.84	0.0028	pairs	9	3	formal
+mimi-ni-nokoru	attention	mimi ni nokoru	stick in one's head (song, voice)	remain in the ears	stuck in my head	9	2.84	0.0048	pairs	5	3	
+tsume-ga-amai	effort	tsume ga amai	be sloppy at the finish	the endgame is soft		9	2.84	0.2414	pairs	7	3	
+shiri-ni-shikareru	relations	shiri ni shikareru	be bossed around by one's wife or partner	be sat on by someone's bottom	be henpecked	9	2.84		phrase	None	4	
+ashimoto-ni-mo-oyobanai	character	ashimoto ni mo oyobanai	be no match for someone at all	doesn't even reach their feet	can't hold a candle to	9	2.84		phrase	None	3	
+hane-o-nobasu	effort	hane o nobasu	kick back while free of constraints	stretch one's wings	let one's hair down	9	2.84	0.072	pairs	9	3	
+ato-no-matsuri	fortune	ato no matsuri	too late to do anything	after the festival	the ship has sailed	9	2.84		phrase	None	3	
+ma-ga-sasu	mood	ma ga sasu	something came over me (excuse for a lapse)	a demon slips in	I don't know what came over me	9	2.84	0.2432	pairs	9	3	
+ki-o-yurusu	relations	ki o yurusu	let your guard down with someone, trust	allow your mind	let your guard down	9	2.84	0.0006	pairs	9	3	
+suji-ga-ii	character	suji ga ii	have a natural knack	the grain is good	a natural	9	2.84	0.0511	pairs	9	3	
+kageguchi-o-iu	talk	kageguchi o iu	badmouth someone when they're not there	say shadow-mouth	talk behind someone's back	9	2.84		phrase	None	3	
+mochitsu-motaretsu	relations	mochitsu motaretsu	mutual give-and-take	holding and being held	you scratch my back, I'll scratch yours	9	2.84		phrase	None	3	
+mi-o-katameru	relations	mi o katameru	get married and settle	firm up your body	settle down	9	2.84	0.0071	pairs	9	3	
+ma-ga-sashita	fortune	ma ga sashita	something came over me (excuse for a lapse)	a demon slipped in	something came over me	9	2.84	0.2432	pairs	9	3	
+mushi-no-shirase	attention	mushi no shirase	a premonition, a hunch something's wrong	word from the bug	a gut feeling	9	2.84		phrase	None	3	
+chie-o-kasu	relations	chie o kasu	help someone think of a way	lend your wisdom	pick someone's brain	9	2.83	0.0305	pairs	4	3	
+jigokumimi	character	jigokumimi	someone who overhears everything	hell ears	have ears like a hawk	9	2.84		phrase	None	3	
+kao-o-tsubusu	relations	kao o tsubusu	make someone lose face	crush someone's face	make someone look bad	9	2.84	0.003	pairs	9	3	
+junpuu-manpan	fortune	junpuu manpan	everything going smoothly	fair wind, full sails	smooth sailing	9	2.84		phrase	None	3	
+kage-ga-usui	character	kage ga usui	easy to overlook, forgettable	one's shadow is thin	fade into the background	9	2.84	0.0342	pairs	9	3	
+chimanako-ni-naru	effort	chimanako ni naru	search frantically, go all out	become bloodshot eyes	search high and low	9	2.83	0.8571	pairs	6	3	
+kurushii-toki-no-kamidanomi	fortune	kurushii toki no kamidanomi	turning to someone (or God) only when in trouble	praying to the gods in hard times	no atheists in foxholes	9	2.84		phrase	None	3	
+seppa-tsumaru	effort	seppa tsumaru	be cornered, desperate (under pressure)	the sword-guard collar jams	with your back to the wall	9	2.84		phrase	None	3	
+ki-ga-shirenai	attention	ki ga shirenai	I can't understand what they're thinking	can't know their mind	can't get my head around it	9	2.84	0.0006	pairs	9	3	
+sonae-areba-urei-nashi	fortune	sonae areba urei nashi	prepare now and you won't regret it	if you're prepared, there's nothing to worry about	better safe than sorry	9	2.84		phrase	None	3	
+chie-o-shiboru	effort	chie o shiboru	think hard to come up with a way	wring out your wits	rack your brains	9	2.83	0.0611	pairs	8	2	
+ki-ga-omoi	mood	ki ga omoi	dread it, not look forward to it	the mind is heavy	weigh on one's mind	8	2.53	0.0003	pairs	5	3	
+kokoro-ga-oreru	effort	kokoro ga oreru	lose the will to keep going	the heart snaps	break one's spirit	8	2.52	0.0034	pairs	8	3	
+ha-o-kuishibaru	effort	ha o kuishibaru	grit your teeth and endure	clench one's teeth	grit your teeth	8	2.52	0.0178	pairs	8	3	
+tegotae-ga-aru	fortune	tegotae ga aru	feel it went well; get a response	there's a response in the hand		8	2.52		phrase	None	3	
+karada-o-haru	effort	karada o haru	put oneself on the line, go all out	stretch out one's body	put one's body on the line	8	2.52	0.0062	pairs	8	3	
+oshiri-ni-hi-ga-tsuku	effort	oshiri ni hi ga tsuku	be pushed by a looming deadline	one's backside catches fire	feel the heat	8	2.52		phrase	52	3	
+mikake-ni-yorazu	character	mikake ni yorazu	despite appearances (hito wa mikake ni yoranai = you can't judge by looks)	not going by appearances	don't judge a book by its cover	8	2.52		phrase	None	3	
+kao-o-tateru	relations	kao o tateru	let someone save face, defer to them	stand someone's face up	let someone save face	8	2.52	0.0027	pairs	8	3	
+atama-o-kakaeru	mood	atama o kakaeru	be at your wits' end	hold your head in your arms	tear your hair out	8	2.52	0.0025	pairs	8	3	
+oujougiwa-ga-warui	character	oujougiwa ga warui	won't admit defeat, keeps arguing a lost point	bad at the moment of dying	not know when to quit	8	2.52		phrase	None	3	
+mikake-ni-yoranai	character	mikake ni yoranai	you'd never guess from looking	doesn't go by appearances	don't judge a book by its cover	8	2.52	0.2963	pairs	8	4	
+koto-o-aradateru	relations	koto o aradateru	make a fuss, escalate a problem	make things rough	rock the boat	8	2.52	0.0001	pairs	8	3	
+shibire-o-kirasu	mood	shibire o kirasu	run out of patience waiting	use up the pins-and-needles	run out of patience	8	2.52	0.6154	pairs	8	3	
+hakushi-ni-modosu	fortune	hakushi ni modosu	scrap the plan and start over, call it off	return it to a blank sheet	back to the drawing board	8	2.53	0.2174	pairs	5	3	
+namikaze-o-tateru	relations	namikaze o tateru	cause friction, upset the peace	stir up wind and waves	rock the boat	8	2.53	0.5385	pairs	7	3	
+shinki-itten	mood	shinki itten	a fresh start, with a new attitude	the mind turns over once	turn over a new leaf	8	2.52		phrase	None	3	
+kao-ni-kaite-aru	attention	kao ni kaite aru	it's written all over your face	it's written on your face	written all over your face	7	2.21		phrase	None	3	
+awaseru-kao-ga-nai	relations	awaseru kao ga nai	too ashamed to face someone	I have no face to put before them	can't face them	7	2.21		phrase	37	3	
+kaoiro-o-ukagau	relations	kaoiro o ukagau	watch someone's mood, tread carefully	check someone's face colour	walk on eggshells	7	2.21	0.0342	pairs	4	3	
+kuchi-ga-karui	character	kuchi ga karui	can't keep a secret, blabbermouth	mouth is light	loose lips	7	2.21	0.002	pairs	4	4	
+mimi-ga-itai	mood	mimi ga itai	it stings to hear (because it's true)	my ears hurt	that hits close to home	7	2.21	0.0068	pairs	7	4	
+kuchi-o-hirakeba	talk	kuchi o hirakeba	every time someone opens their mouth	if (he) opens his mouth	every time he opens his mouth	7	2.21		phrase	69	3	
+kuchiguruma-ni-noru	fortune	kuchiguruma ni noru	be sweet-talked into something	ride a mouth cart	fall for a line	7	2.21		phrase	None	2	
+nodo-o-tooranai	mood	nodo o tooranai	too upset or nervous to eat	won't pass through the throat	lose one's appetite	7	2.21	0.0111	pairs	7	2	
+mi-kara-deta-sabi	fortune	mi kara deta sabi	your own fault, you brought it on yourself	rust that came out of the blade itself	you've made your bed, now lie in it	7	2.21		phrase	None	3	
+kubi-o-nagaku-shite-matsu	mood	kubi o nagaku shite matsu	wait eagerly, look forward to	wait with a stretched-out neck	can't wait	7	2.21		phrase	None	3	
+tana-ni-ageru	talk	tana ni ageru	ignore one's own faults while criticising others	put it up on the shelf	the pot calling the kettle black	7	2.21	0.0504	pairs	7	3	
+tsubo-ni-hairu	mood	tsubo ni hairu	crack someone up, be hilarious to them	get into the pressure point	tickle someone's funny bone	7	2.21		phrase	None	3	casual-only,slang
+toudai-moto-kurashi	attention	toudai moto kurashi	what you seek is right next to you	it's dark at the foot of the lamp stand	right under your nose	7	2.21		phrase	None	3	
+share-ni-naranai	fortune	share ni naranai	it's no joke, it's seriously bad	it doesn't count as a joke	it's no laughing matter	7	2.21		phrase	None	4	
+zen-wa-isoge	effort	zen wa isoge	no time like the present	hurry with good things	strike while the iron is hot	7	2.21		phrase	None	3	
+uraomote-ga-nai	character	uraomote ga nai	genuine, the same to everyone (uraomote ga aru = two-faced)	no back and front	what you see is what you get	7	2.21	0.7143	pairs	5	3	
+kao-ni-doro-o-nuru	relations	kao ni doro o nuru	disgrace someone (who vouched for you)	smear mud on someone's face	drag someone's name through the mud	7	2.21		phrase	None	3	
+atatte-kudakero	fortune	atatte kudakero	just go for it, nothing to lose	hit it and shatter	nothing ventured, nothing gained	7	2.21		phrase	None	3	casual-only
+youryou-ga-ii	character	youryou ga ii	savvy, knows how to work things (youryou ga warui = clumsy at it)	good at the essentials	know the ropes	7	2.21	0.3333	pairs	7	3	
+ite-mo-tatte-mo-irarenai	mood	ite mo tatte mo irarenai	too anxious or eager to sit still	can't stay sitting or standing	on pins and needles	7	2.21		phrase	None	3	
+uramikko-nashi	relations	uramikko nashi	whatever happens, nobody holds it against anyone	no trading grudges	no hard feelings	7	2.21		phrase	None	3	
+ippon-torareta	talk	ippon torareta	you got me there	had a point taken (martial arts)	you got me there	7	2.21		phrase	None	3	
+migi-kara-hidari	attention	migi kara hidari	in one ear, out the other	from right to left	in one ear and out the other	7	2.21		phrase	None	3	
+kekka-oorai	fortune	kekka oorai	it worked out in the end, so no harm done	the result is all right	all's well that ends well	7	2.21		phrase	None	3	
+mushizu-ga-hashiru	mood	mushizu ga hashiru	be utterly disgusted (by someone)	stomach acid runs up	make your skin crawl	7	2.21		phrase	None	2	
+deta-tokoro-shoubu	effort	deta tokoro shoubu	decide on the spot, wing it	fighting it out wherever you happen to land	play it by ear	7	2.21		phrase	None	2	
+soppo-o-muku	relations	soppo o muku	turn away, refuse to engage	face the other way	give someone the cold shoulder	7	2.2	0.8571	pairs	6	2	
+gou-ni-itte-wa-gou-ni-shitagae	relations	gou ni itte wa gou ni shitagae	follow local customs	entering a village, obey the village	when in Rome, do as the Romans do	7	2.21		phrase	None	2	
+me-ga-tobideru-hodo-takai	fortune	me ga tobideru hodo takai	outrageously expensive	so expensive your eyes pop out	cost an arm and a leg	7	2.21	0.0007	pairs	4	2	
+hakaba-made-motte-iku	talk	hakaba made motte iku	never tell anyone, keep the secret forever	carry it to the grave	take it to the grave	7	2.21		phrase	None	3	
+hon-no-mushi	character	hon no mushi	someone always reading	a book bug	a bookworm	7	2.21		phrase	None	2	
+mune-ga-ippai	mood	mune ga ippai	overwhelmed with emotion	the chest is full	my heart is full	6	1.89		phrase	None	2	
+atama-ga-masshiro-ni-naru	mood	atama ga masshiro ni naru	your mind goes blank	the head goes pure white	draw a blank	6	1.89		phrase	None	4	
+atama-ni-hairanai	attention	atama ni hairanai	it won't sink in	it won't go into the head	in one ear and out the other	6	1.89		phrase	32	3	
+mimi-o-utagau	talk	mimi o utagau	can't believe what one heard	doubt one's ears	can't believe my ears	6	1.89	0.0058	pairs	6	3	
+koe-ga-kakaru	relations	koe ga kakaru	get invited, be asked or scouted	a voice gets hung on you	get the call	6	1.89	0.0036	pairs	6	3	
+kuchi-ga-sugiru	talk	kuchi ga sugiru	say too much, be out of line	mouth goes too far	you're out of line	6	1.89	0.003	pairs	6	2	
+neko-no-te-mo-karitai	effort	neko no te mo karitai	be desperately busy	I'd borrow even a cat's paws	run off one's feet	6	1.89		phrase	None	2	
+ageashi-o-toru	talk	ageashi o toru	nitpick at someone's words	grab the raised foot	twist someone's words	6	1.89		phrase	None	3	
+abura-o-uru	effort	abura o uru	dawdle, slack off (esp. on an errand)	sell oil	goof off	6	1.89	0.069	pairs	6	3	
+takane-no-hana	relations	takane no hana	someone or something out of reach	a flower on a high peak	out of one's league	6	1.89		phrase	None	3	
+e-ni-naru	character	e ni naru	look picture-perfect, look great	become a picture	pretty as a picture	6	1.89	0.0136	pairs	6	3	
+chi-mo-namida-mo-nai	character	chi mo namida mo nai	heartless, cold-blooded	no blood, no tears	a heart of stone	6	1.89		phrase	None	3	
+ki-ga-yowai	character	ki ga yowai	timid, can't say no	the spirit is weak	a pushover	6	1.9	0.0002	pairs	3	3	
+saki-ga-omoiyarareru	fortune	saki ga omoiyarareru	I dread to think how this will go	the road ahead is worried over	that doesn't bode well	6	1.89		phrase	None	3	
+mie-o-haru	character	mie o haru	keep up appearances, show off	stretch out a show	keep up with the Joneses	6	1.89	0.6667	pairs	6	3	
+jou-ga-utsuru	mood	jou ga utsuru	get attached	feeling transfers over	grow attached	6	1.9	0.122	pairs	5	3	
+kiri-ga-ii	effort	kiri ga ii	at a good stopping point	the cut is good	call it a day (kiri no ii tokoro de owarou)	6	1.89		phrase	None	4	
+hanashi-ga-hazumu	talk	hanashi ga hazumu	the conversation flows easily	the talk bounces	hit it off	6	1.89	0.0006	pairs	6	3	
+kimo-ga-suwaru	character	kimo ga suwaru	have nerves of steel	your liver sits firm	have nerves of steel	6	1.89	0.0938	pairs	6	3	
+ude-o-furuu	effort	ude o furuu	show your skill (especially cooking)	wield your arm		6	1.89	0.0065	pairs	6	3	
+mekujira-o-tateru	mood	mekujira o tateru	get worked up over trifles	raise the corners of your eyes	make a mountain out of a molehill	6	1.89	1.0	pairs	6	3	
+michikusa-o-kuu	effort	michikusa o kuu	dawdle, stop off on the way	graze on roadside grass	dilly-dally	6	1.89		phrase	None	3	
+itai-tokoro-o-tsuku	talk	itai tokoro o tsuku	hit a nerve, find a weak point	poke the sore spot	hit where it hurts	6	1.89		phrase	None	3	
+kabe-ni-butsukaru	effort	kabe ni butsukaru	hit a wall, stop making progress	run into a wall	hit a wall	6	1.89	0.0068	pairs	6	3	
+uso-mo-houben	talk	uso mo houben	a white lie is sometimes needed	a lie is also a means	a white lie	6	1.89		phrase	None	3	
+me-no-kuroi-uchi-wa	relations	me no kuroi uchi wa	as long as I'm alive (I won't allow it)	while my eyes are still black	over my dead body	6	1.89		phrase	None	2	
+hyakubun-wa-ikken-ni-shikazu	attention	hyakubun wa ikken ni shikazu	better to see it for yourself	hearing a hundred times is not worth seeing once	seeing is believing	6	1.89		phrase	None	2	
+tanin-gyougi	relations	tanin gyougi	too formal, distant, like a stranger	manners for strangers	stand on ceremony	6	1.89		phrase	None	3	
+tsura-no-kawa-ga-atsui	character	tsura no kawa ga atsui	shameless, brazen	the skin of the face is thick	have some nerve	6	1.89		phrase	None	3	casual-only
+iki-ga-au	relations	iki ga au	click, work in perfect sync	breaths match	on the same wavelength	5	1.57	0.004	pairs	4	4	
+mimi-ni-tako-ga-dekiru	talk	mimi ni tako ga dekiru	heard it a million times	calluses form on my ears	like a broken record	5	1.58		phrase	None	3	casual-only
+kuchi-o-soroete-iu	talk	kuchi o soroete iu	all say the same thing	say with mouths lined up	with one voice	5	1.58	0.0025	pairs	5	3	
+karada-ga-iu-koto-o-kikanai	effort	karada ga iu koto o kikanai	my body won't cooperate	the body won't listen to what I say	my body won't do what I tell it	5	1.58		phrase	None	3	
+hi-ni-abura-o-sosogu	fortune	hi ni abura o sosogu	make a bad situation worse	pour oil on the fire	add fuel to the fire	5	1.58		phrase	11	3	
+nori-ga-ii	character	nori ga ii	game for anything, fun to be around	the ride is good	a good sport	5	1.58		phrase	12	4	casual-only
+ki-o-torinaosu	mood	ki o torinaosu	pull yourself together, go again	pick the mind back up	pick yourself up	5	1.58	0.0003	pairs	5	3	
+choushi-ga-ii	character	choushi ga ii	glib, says whatever suits them (said of a person)	the rhythm is good		5	1.58		phrase	153	3	casual-only
+ne-wa-ii	character	ne wa ii	good at heart (despite appearances)	the root is good	a heart of gold	5	1.58	0.0495	pairs	5	3	
+hitohada-nugu	relations	hitohada nugu	pitch in to help someone	bare one layer of skin	roll up your sleeves	5	1.58		phrase	None	3	
+atama-ni-chi-ga-noboru	mood	atama ni chi ga noboru	see red, lose your cool	blood rises to the head	see red	5	1.58		phrase	None	3	
+hayai-mono-gachi	fortune	hayai mono gachi	first come, first served	the early one wins	first come, first served	5	1.58		phrase	None	3	
+ki-ga-tooku-naru	effort	ki ga tooku naru	be mind-boggling (amount, effort)	the mind goes far away	mind-boggling	5	1.58		phrase	None	3	
+rachi-ga-akanai	effort	rachi ga akanai	this is going nowhere	the fence won't open	get nowhere	5	1.58		phrase	None	3	
+sono-toki-wa-sono-toki	fortune	sono toki wa sono toki	we'll deal with it if it happens	that time is that time	cross that bridge when we come to it	5	1.58		phrase	None	4	
+mushi-no-idokoro-ga-warui	mood	mushi no idokoro ga warui	be in a bad mood, grumpy today	the bug is in a bad spot	get up on the wrong side of the bed	5	1.58	0.0658	pairs	5	3	
+shiroi-me-de-miru	relations	shiroi me de miru	look at someone with disapproval	look with white eyes	look down your nose at	5	1.58		phrase	None	3	
+manzara-de-mo-nai	mood	manzara de mo nai	secretly pleased	not entirely bad		5	1.58		phrase	None	3	
+ki-o-mawasu	attention	ki o mawasu	overthink, be overly considerate	turn your mind around	read too much into it	5	1.57	0.0003	pairs	4	3	
+osaki-makkura	fortune	osaki makkura	the future looks hopeless	the road ahead is pitch dark	no light at the end of the tunnel	5	1.58		phrase	None	3	
+nen-ni-wa-nen-o-ireru	attention	nen ni wa nen o ireru	be extra careful, check again to be safe	add care on top of care	better safe than sorry	5	1.58	0.0595	pairs	5	3	
+yama-ari-tani-ari	fortune	yama ari tani ari	good times and bad	there are mountains and there are valleys	ups and downs	5	1.58		phrase	None	2	
+ten-ni-mo-noboru-kimochi	mood	ten ni mo noboru kimochi	overjoyed	a feeling like rising to heaven	on cloud nine	5	1.58		phrase	None	2	
+yabuhebi	fortune	yabuhebi	meddling that backfires on you	(poke) the bush, (get) a snake	open a can of worms	5	1.58		phrase	None	2	
+hanshin-hangi	attention	hanshin hangi	only half believing it, skeptical	half belief, half doubt		5	1.58		phrase	None	3	
+ashi-ga-sukumu	mood	ashi ga sukumu	freeze up with fear	legs cower	freeze in your tracks	5	1.58	0.0038	pairs	5	3	
+mushi-ga-sukanai	relations	mushi ga sukanai	dislike someone for no clear reason	the bug inside doesn't like them	rub you the wrong way	5	1.58	0.0303	pairs	5	3	
+hara-o-kakaete-warau	mood	hara o kakaete warau	laugh really hard	laugh holding your belly	split your sides laughing	5	1.57	0.0049	pairs	4	3	
+mushi-ga-ii	character	mushi ga ii	too convenient, selfish to ask	the bug (inside) is good	have your cake and eat it	4	1.26		phrase	13	3	
+nemimi-ni-mizu	fortune	nemimi ni mizu	complete surprise, out of nowhere	water in a sleeping ear	a bolt from the blue	4	1.26		phrase	None	3	
+te-ga-hayai	character	te ga hayai	quick to hit; fast with women	one's hands are quick	fast worker	4	1.26		phrase	10	2	
+ashi-ga-deru	fortune	ashi ga deru	go over budget	the legs stick out	go over budget	4	1.26		phrase	29	3	
+se-ni-hara-wa-kaerarenai	fortune	se ni hara wa kaerarenai	no choice but to accept it	you can't trade your belly for your back	needs must	4	1.26		phrase	None	3	
+mi-ga-hairanai	attention	mi ga hairanai	can't put one's heart into it, can't focus	the self doesn't go in	one's heart isn't in it	4	1.26		phrase	None	3	
+ni-no-ashi-o-fumu	mood	ni no ashi o fumu	hesitate, have second thoughts	step the second step in place	get cold feet	4	1.26	1.0	pairs	4	2	
+oku-ga-fukai	attention	oku ga fukai	there's more to it than meets the eye	the inside runs deep	there's more to it than meets the eye	4	1.26	0.0219	pairs	4	4	
+ato-ga-nai	fortune	ato ga nai	no second chance, last chance	there's nothing behind	your back is against the wall	4	1.26		phrase	41	3	
+kenen-no-naka	relations	kenen no naka	can't stand each other	dog-and-monkey relations	fight like cats and dogs	4	1.26		phrase	None	3	
+utsuwa-ga-chiisai	character	utsuwa ga chiisai	petty, small-minded	a small vessel	small-minded	4	1.26	0.0678	pairs	4	3	
+dada-o-koneru	character	dada o koneru	throw a tantrum, whine to get your way	knead a tantrum	throw a tantrum	4	1.26	0.5	pairs	4	3	
+dotchi-mo-dotchi	relations	dotchi mo dotchi	both are as bad as each other	which and which	six of one, half a dozen of the other	4	1.26		phrase	None	3	
+oobune-ni-notta-tsumori-de	relations	oobune ni notta tsumori de	relax and leave it to me	as if you'd boarded a big ship	you're in good hands	4	1.26		phrase	None	3	
+kaku-ga-chigau	character	kaku ga chigau	in a completely higher class	the rank is different	in a different league	4	1.26	0.4444	pairs	4	3	
+kachin-to-kuru	mood	kachin to kuru	be irritated (by a remark)	comes with a clink	rub you the wrong way	4	1.26		phrase	None	4	casual-only
+baka-ni-naranai	fortune	baka ni naranai	(costs) really add up	doesn't become foolish	not to be sneezed at	4	1.26		phrase	None	4	
+ato-ni-hikenai	fortune	ato ni hikenai	can't back down now	can't pull back	there's no turning back	4	1.26		phrase	None	3	
+ookina-kao-o-suru	character	ookina kao o suru	act like you own the place	make a big face	throw your weight around	4	1.26		phrase	435	3	
+omoi-koshi-o-ageru	effort	omoi koshi o ageru	finally get around to it	lift your heavy hips	finally get off your backside	4	1.26		phrase	None	3	
+jumyou-ga-chijimu	mood	jumyou ga chijimu	it scared the life out of me	your lifespan shrinks	took years off my life	4	1.27	0.0682	pairs	3	3	
+shiranu-ga-hotoke	attention	shiranu ga hotoke	you're better off not knowing	not knowing is Buddha	ignorance is bliss	4	1.26		phrase	None	2	
+ue-ni-wa-ue-ga-iru	character	ue ni wa ue ga iru	there's always someone better	above the top there's another top	there's always a bigger fish	4	1.26		phrase	None	2	
+katte-ga-chigau	effort	katte ga chigau	things work differently here, out of your element	the way of things is different	out of your element	4	1.26	0.0727	pairs	4	3	
+mono-wa-tameshi	fortune	mono wa tameshi	it's worth a try	things are for trying	no harm in trying	4	1.26		phrase	None	3	
+atoaji-ga-warui	mood	atoaji ga warui	leaves you feeling uneasy afterwards	the aftertaste is bad	leave a bad taste in your mouth	4	1.27	0.5	pairs	3	3	
+narau-yori-narero	effort	narau yori narero	you learn by doing it	get used to it rather than study it	practice makes perfect	4	1.26		phrase	None	2	
+atama-ga-mawaranai	attention	atama ga mawaranai	can't think straight	the head won't turn	can't think straight	3	0.95		phrase	19	4	
+me-kara-uroko	attention	me kara uroko	an eye-opener	scales from the eyes	the scales fell from my eyes	3	0.95		phrase	None	3	
+kuchi-ga-sakete-mo-ienai	talk	kuchi ga sakete mo ienai	would never say it	can't say it even if my mouth tears	wild horses couldn't drag it out of me	3	0.95		phrase	None	3	
+kuchi-o-suppaku-shite-iu	talk	kuchi o suppaku shite iu	tell someone over and over	say it till one's mouth turns sour	till I'm blue in the face	3	0.95		phrase	None	3	
+nodo-kara-te-ga-deru-hodo-hoshii	attention	nodo kara te ga deru hodo hoshii	want something desperately	want it so much a hand comes out of my throat	would kill for it	3	0.95		phrase	None	3	
+kuchiura-o-awaseru	talk	kuchiura o awaseru	agree on a story beforehand	match the backs of our mouths	get our stories straight	3	0.95		phrase	None	2	
+aita-kuchi-ga-fusagaranai	mood	aita kuchi ga fusagaranai	dumbfounded by something absurd	my open mouth won't close	my jaw dropped	3	0.95		phrase	None	2	
+te-no-hira-o-kaesu	relations	te no hira o kaesu	do a sudden about-face	flip one's palm	do an about-face	3	0.95		phrase	None	2	
+te-tori-ashi-tori	relations	te tori ashi tori	teach step by step	taking hands, taking feet	hold someone's hand	3	0.95		phrase	None	2	
+ude-ni-yori-o-kakeru	effort	ude ni yori o kakeru	put all one's skill into (cooking)	twist extra strength into one's arm	pull out all the stops	3	0.95		phrase	None	2	
+nodo-kara-te-ga-deru	attention	nodo kara te ga deru	want something desperately	a hand comes out of one's throat	would give one's right arm for	3	0.95		phrase	None	2	
+ushiroyubi-o-sasareru	relations	ushiroyubi o sasareru	be talked about, be shamed	get pointed at from behind		3	0.95		phrase	None	2	
+kubi-ga-mawaranai	fortune	kubi ga mawaranai	be swamped with debt	can't turn one's neck	be up to one's neck in debt	3	0.95	0.0019	pairs	3	3	
+tanabota	fortune	tanabota	an unexpected windfall	(a rice cake falling) off the shelf	a windfall / manna from heaven	3	0.95		phrase	None	3	casual-only
+hito-no-koto-ienai	talk	hito no koto ienai	I'm one to talk, I'm no better	can't say things about others	I'm not one to talk	3	0.95		phrase	None	4	
+fundari-kettari	fortune	fundari kettari	one bad thing after another	trampled and kicked	when it rains, it pours	3	0.95		phrase	None	3	
+te-ni-toru-you-ni-wakaru	attention	te ni toru you ni wakaru	know exactly what someone thinks or feels	understand as if holding it in your hand	read someone like a book	3	0.95		phrase	None	3	
+seki-o-ireru	relations	seki o ireru	get legally married	enter (someone) into the family register	tie the knot	3	0.95	0.4286	pairs	3	3	
+sandome-no-shoujiki	fortune	sandome no shoujiki	the third try will be the one that works	the third time is the honest one	third time's the charm	3	0.95		phrase	None	3	
+hanashi-o-moru	talk	hanashi o moru	exaggerate a story	heap the story up	lay it on thick	3	0.95		phrase	None	3	slang,casual-only
+ki-o-motaseru	relations	ki o motaseru	lead someone on	make someone hold feelings	lead someone on	3	0.95		phrase	None	3	
+suzume-no-namida	fortune	suzume no namida	a pitifully small amount	a sparrow's tears	peanuts	3	0.95		phrase	None	3	
+nakittsura-ni-hachi	fortune	nakittsura ni hachi	one misfortune on top of another	a bee stings a crying face	adding insult to injury	3	0.95		phrase	None	3	
+ichiyazuke	effort	ichiyazuke	cramming the night before	overnight pickling	cram for an exam	3	0.95		phrase	None	3	
+koukai-saki-ni-tatazu	fortune	koukai saki ni tatazu	regret always comes too late	regret doesn't come first	no use crying over spilt milk	3	0.95		phrase	None	3	
+houkou-onchi	character	houkou onchi	have no sense of direction	tone-deaf to directions		3	0.95		phrase	None	3	
+ishin-denshin	relations	ishin denshin	understand each other without words	from mind to mind, from heart to heart	on the same wavelength	3	0.95		phrase	None	3	
+me-ga-takai	character	me ga takai	have a discerning eye, good taste	your eye is high	have a good eye	3	0.95		phrase	None	2	
+hi-no-kuruma	fortune	hi no kuruma	in dire money trouble	a cart of fire	strapped for cash	3	0.95		phrase	None	2	
+mizu-to-abura	relations	mizu to abura	two people who just don't mix	water and oil	like oil and water	3	0.95		phrase	None	2	
+i-no-naka-no-kawazu	character	i no naka no kawazu	someone who thinks they're the best because they've seen so little	a frog in a well	a big fish in a small pond	3	0.95		phrase	None	2	
+on-o-uru	relations	on o uru	do a favour so they owe you	sell a favour		3	0.95	0.0099	pairs	3	3	
+ki-ga-chiisai	character	ki ga chiisai	timid, a worrier, faint-hearted	spirit is small		3	0.95	0.0002	pairs	3	3	
+kotoba-ni-tsumaru	talk	kotoba ni tsumaru	be lost for words	get stuck on words	at a loss for words	3	0.95	0.0017	pairs	3	3	
+me-no-doku	attention	me no doku	a temptation you shouldn't look at	poison for the eyes		3	0.95		phrase	None	3	
+yabu-kara-bou	talk	yabu kara bou	so abruptly, with no lead-in	a stick out of the bushes	out of the blue	3	0.95		phrase	None	2	
+toranu-tanuki-no-kawazanyou	fortune	toranu tanuki no kawazan'you	spending gains you don't have yet	counting the pelts of badgers not yet caught	don't count your chickens before they hatch	3	0.95		phrase	None	2	
+mukashi-totta-kinezuka	character	mukashi totta kinezuka	an old skill that comes right back	the mallet I held long ago	it's like riding a bike	3	0.95		phrase	None	2	
+honno-kimochi	relations	honno kimochi	just a small token (of thanks)	just a feeling	it's the thought that counts	2	0.63		phrase	None	3	humble
+hoppe-ga-ochiru	mood	hoppe ga ochiru	it's so delicious	my cheeks will fall off	to die for	2	0.63		phrase	None	3	casual-only
+ookina-koe-de-wa-ienai	talk	ookina koe de wa ienai	between you and me (gossip opener)	can't say it in a loud voice	between you and me	2	0.63		phrase	None	3	
+kuchi-ga-koeru	character	kuchi ga koeru	have a refined, picky palate	mouth grows fat	have a refined palate	2	0.63		phrase	None	2	
+mimi-ga-hayai	character	mimi ga hayai	always first to hear news	ears are quick	have one's ear to the ground	2	0.63		phrase	None	2	
+kuchi-ga-omoi	character	kuchi ga omoi	reticent, reluctant to talk	mouth is heavy	a man of few words	2	0.63		phrase	None	2	
+te-ni-tsukanai	attention	te ni tsukanai	can't focus on (work)	it doesn't stick to one's hands	can't keep one's mind on	2	0.63		phrase	18	3	
+ude-ga-naru	mood	ude ga naru	be itching to show one's skill	one's arm hums	itching to	2	0.63		phrase	None	2	
+mi-mo-futa-mo-nai	talk	mi mo futa mo nai	so blunt it leaves nothing to say	neither contents nor lid	that's putting it bluntly	2	0.63		phrase	None	3	
+karada-ga-aku	effort	karada ga aku	become free, have time	the body becomes empty	free up	2	0.63		phrase	None	3	
+ashi-ga-bou-ni-naru	effort	ashi ga bou ni naru	legs ache from walking all day	legs turn into sticks	be dead on one's feet	2	0.63		phrase	None	3	
+hanashi-no-koshi-o-oru	talk	hanashi no koshi o oru	interrupt and derail what someone is saying	break the waist of the conversation	cut someone off	2	0.63		phrase	None	3	
+kubi-o-tate-ni-furu	relations	kubi o tate ni furu	agree, say yes (often: won't agree)	shake one's head up and down	give the nod	2	0.63		phrase	10	3	
+itaku-mo-kayuku-mo-nai	mood	itaku mo kayuku mo nai	doesn't bother me at all	neither hurts nor itches	water off a duck's back	2	0.63		phrase	None	3	
+moto-o-toru	fortune	moto o toru	get your money's worth	take back the principal	get your money's worth	2	0.63		phrase	None	3	
+ne-mo-ha-mo-nai	talk	ne mo ha mo nai	groundless, made up (of rumours)	no roots and no leaves	without a shred of truth	2	0.63		phrase	None	3	
+nodo-made-dekakatteru	attention	nodo made dekakatteru	I almost remember it	it's come up as far as my throat	on the tip of my tongue	2	0.63		phrase	None	3	
+oburaato-ni-tsutsumu	talk	oburaato ni tsutsumu	say something harsh gently	wrap it in edible film	sugarcoat it	2	0.63		phrase	None	3	
+honmatsu-tentou	fortune	honmatsu tentou	getting your priorities backwards	root and tip upside down	put the cart before the horse	2	0.63		phrase	None	3	
+sotozura-ga-ii	character	sotozura ga ii	nice to outsiders, not at home	the outer face is good		2	0.63		phrase	None	3	
+yakeishi-ni-mizu	effort	yakeishi ni mizu	far too little to make a difference	water on a red-hot stone	a drop in the bucket	2	0.63		phrase	None	3	
+nuka-yorokobi	mood	nuka yorokobi	getting excited over good news that turns out false	rice-bran joy	get your hopes up	2	0.63		phrase	None	3	
+yudan-mo-suki-mo-nai	attention	yudan mo suki mo nai	you can't take your eyes off them for a second	no carelessness, no gap	can't turn your back for a second	2	0.63		phrase	None	3	
+futatsu-henji	relations	futatsu henji	agree instantly, without hesitating	a double reply (hai, hai)	say yes in a heartbeat	2	0.63		phrase	None	2	
+koshi-ga-hikeru	mood	koshi ga hikeru	hold back out of fear, lose your nerve	your hips draw back	get cold feet	2	0.63		phrase	None	2	
+tengu-ni-naru	character	tengu ni naru	get conceited after some success	turn into a long-nosed goblin	get too big for your boots	2	0.63		phrase	6	2	
+taiki-bansei	character	taiki bansei	someone who succeeds later in life	great vessels take long to finish	a late bloomer	2	0.63		phrase	None	2	
+mono-wa-iiyou	talk	mono wa iiyou	it's all in how you put it	things depend on how you say them	it's all in how you say it	2	0.63		phrase	None	3	
+en-no-shita-no-chikaramochi	relations	en no shita no chikaramochi	someone who does vital work behind the scenes	strongman under the veranda	unsung hero	2	0.63		phrase	None	3	
+chiri-mo-tsumoreba-yama-to-naru	effort	chiri mo tsumoreba yama to naru	small amounts add up	even dust, piled up, becomes a mountain	every little bit helps	2	0.63		phrase	None	3	
+shoujikimono-ga-baka-o-miru	fortune	shoujikimono ga baka o miru	playing fair doesn't pay	the honest one ends up looking the fool	nice guys finish last	2	0.63		phrase	None	2	
+hana-no-shita-o-nobasu	mood	hana no shita o nobasu	go gooey over a woman, leer	stretch the space under the nose	drool over someone	1	0.32		phrase	None	2	casual-only
+hagire-ga-warui	talk	hagire ga warui	evasive, not giving a clear answer	teeth cut badly	hem and haw	1	0.32		phrase	None	2	
+ha-ga-uku	mood	ha ga uku	cringey, sickly-sweet (words)	teeth float	make you cringe	1	0.32		phrase	None	2	
+kuchi-hodo-ni-mo-nai	character	kuchi hodo ni mo nai	not as tough as one talks	not even as much as his mouth	all bark and no bite	1	0.32		phrase	None	2	rough,masc
+tsume-no-aka-o-senjite-nomu	character	tsume no aka o senjite nomu	learn from someone's good example	brew and drink the dirt from someone's nails	take a leaf out of someone's book	1	0.32		phrase	None	2	
+oya-no-sune-o-kajiru	relations	oya no sune o kajiru	live off one's parents	gnaw on one's parents' shins	sponge off one's parents	1	0.32		phrase	None	3	
+mikka-bouzu	character	mikka bouzu	someone who quits after a few days	a three-day monk		1	0.32		phrase	None	3	
+nehori-hahori-kiku	talk	nehori hahori kiku	pry into every detail	ask digging up roots and leaves	give someone the third degree	1	0.32		phrase	None	3	
+rui-wa-tomo-o-yobu	relations	rui wa tomo o yobu	similar people end up together	like calls friends	birds of a feather flock together	1	0.32		phrase	None	3	
+undei-no-sa	attention	undei no sa	a huge difference	the gap between cloud and mud	like night and day	1	0.32		phrase	None	3	
+nekojita	character	nekojita	can't handle hot food or drinks	cat tongue		1	0.32		phrase	None	4	
+betsubara	character	betsubara	always room for dessert	separate stomach	there's always room for dessert	1	0.32		phrase	None	4	
+hachou-ga-au	relations	hachou ga au	be on the same wavelength	wavelengths match	be on the same wavelength	1	0.32		phrase	None	3	
+kokoro-o-oni-ni-suru	relations	kokoro o oni ni suru	be strict for someone's own good	turn your heart into a demon	be cruel to be kind	1	0.32		phrase	None	3	
+toshi-ni-wa-katenai	effort	toshi ni wa katenai	not as young as I used to be	can't beat age	I'm not getting any younger	1	0.32		phrase	None	3	
+hitokoto-ooi	talk	hitokoto ooi	always says one thing too many	one word too many		1	0.32		phrase	None	3	
+hanashi-hanbun-ni-kiku	attention	hanashi hanbun ni kiku	take it with a grain of salt	listen to half the story	take it with a pinch of salt	1	0.32		phrase	None	3	
+guu-no-ne-mo-denai	talk	guu no ne mo denai	have no comeback at all	not even a squeak comes out	be left speechless	1	0.32		phrase	None	3	
+me-ga-waratte-nai	mood	me ga waratte nai	smiling but clearly angry	the eyes aren't laughing		1	0.32		phrase	None	3	
+hoshi-no-kazu-hodo-iru	relations	hoshi no kazu hodo iru	there are plenty of others (to date)	there are as many as the stars	plenty more fish in the sea	1	0.32		phrase	None	2	
+haremono-ni-sawaru-you	relations	haremono ni sawaru you	treat someone with nervous care	as if touching a boil	walk on eggshells	1	0.32		phrase	None	2	
+kaze-no-uwasa	talk	kaze no uwasa	something heard secondhand	a rumour on the wind	hear it through the grapevine	1	0.32		phrase	None	2	
+saji-o-nageru	effort	saji o nageru	give up on something or someone hopeless	throw down the (medicine) spoon	throw in the towel	1	0.32		phrase	None	2	
+haite-suteru-hodo-aru	effort	haite suteru hodo aru	so common they're nothing special	so many you could sweep them up and throw them out	a dime a dozen	1	0.32		phrase	None	2	
+tama-ni-kizu	character	tama ni kizu	the one flaw in something great	a flaw in a jewel	a fly in the ointment	1	0.32		phrase	None	2	
+isogaba-maware	effort	isogaba maware	the slow, safe way is faster	if you're in a hurry, take the long way	more haste, less speed	1	0.32		phrase	None	2	
+mizu-o-eta-sakana-no-you	character	mizu o eta sakana no you	thriving, in your element	like a fish that has found water	like a duck to water	1	0.32		phrase	None	2	
+e-ni-kaita-mochi	fortune	e ni kaita mochi	a nice plan that will never happen	a rice cake in a painting	pie in the sky	1	0.32		phrase	None	2	
+me-no-ue-no-tankobu	relations	me no ue no tankobu	someone who is always in your way	a lump above your eye	a thorn in your side	1	0.32		phrase	None	2	
+kaeru-no-ko-wa-kaeru	character	kaeru no ko wa kaeru	children turn out like their parents	a frog's child is a frog	like father, like son	1	0.32		phrase	None	2	
+hana-ni-kakeru	character	hana ni kakeru	be stuck-up about, brag about (looks, money, brains)	hang it on your nose		1	0.32		phrase	None	3	
+honkoshi-o-ireru	effort	honkoshi o ireru	get serious about it, buckle down	put your real hips into it	buckle down	1	0.32		phrase	None	3	
+oya-no-nanahikari	fortune	oya no nanahikari	success thanks to a famous or powerful parent	the parent's seven lights	nepo baby	1	0.32		phrase	None	3	
+ki-no-okenai	relations	ki no okenai	close, easy to be yourself with (friends)	no need to keep your guard		1	0.32		phrase	None	3	
+tada-yori-takai-mono-wa-nai	fortune	tada yori takai mono wa nai	free things always cost you in the end	nothing is more expensive than free	there's no such thing as a free lunch	1	0.32		phrase	None	3	
+ii-toko-dori	fortune	ii toko dori	getting the best of each option	taking the good parts	the best of both worlds	1	0.32		phrase	None	3	
+tsuki-to-suppon	attention	tsuki to suppon	worlds apart in quality	the moon and a soft-shell turtle	like night and day	1	0.32		phrase	None	2	
+tanuki-neiri	relations	tanuki neiri	pretending to be asleep	badger sleep	play possum	1	0.32		phrase	None	2	
+kizuguchi-ni-shio-o-nuru	relations	kizuguchi ni shio o nuru	make someone's hurt worse	rub salt into the wound	rub salt in the wound	1	0.32		phrase	None	2	
+baka-no-hitotsu-oboe	character	baka no hitotsu oboe	doing the same thing over and over	the one thing a fool memorised	a one-trick pony	1	0.32		phrase	None	2	rough
+me-ga-oyogu	mood	me ga oyogu	eyes dart around (shifty, lying)	the eyes swim	shifty-eyed	0	0				3	casual-only
+heso-o-mageru	mood	heso o mageru	sulk, get in a huff	bend one's belly button	get one's nose out of joint	0	0				3	
+koshi-ga-hikui	character	koshi ga hikui	humble and polite	low hips	down-to-earth	0	0				3	
+katami-ga-semai	mood	katami ga semai	feel small and ashamed in front of others	shoulders and body feel narrow	feel small	0	0				3	
+karada-ga-shihon	effort	karada ga shihon	your health is everything	the body is your capital	health is wealth	0	0				3	
+kata-o-otosu	mood	kata o otosu	be disappointed, lose heart	drop one's shoulders	be crestfallen	0	0				3	
+saba-o-yomu	talk	saba o yomu	fudge numbers (esp. one's age)	count mackerel	shave a few years off	0	0				3	
+tama-no-koshi-ni-noru	fortune	tama no koshi ni noru	marry into money	ride a jewelled palanquin	marry rich	0	0				2	
+kado-ga-tatsu	relations	kado ga tatsu	cause friction, come across badly	corners stick up	ruffle feathers	0	0				3	
+sumi-ni-okenai	character	sumi ni okenai	more savvy than they look (especially in love)	can't be left in a corner	you sly dog / a dark horse	0	0				3	
+ana-ga-attara-hairitai	mood	ana ga attara hairitai	so embarrassed I want to disappear	if there were a hole, I'd crawl into it	I wish the ground would swallow me up	0	0				3	
+me-ga-ten-ni-naru	mood	me ga ten ni naru	be dumbfounded	your eyes become dots	be gobsmacked	0	0				3	casual-only
+kao-kara-hi-ga-deru	mood	kao kara hi ga deru	be burning with embarrassment	fire comes out of your face	want the ground to swallow you	0	0				3	
+happou-bijin	character	happou bijin	someone who tries to please everyone	a beauty in all eight directions	people-pleaser	0	0				3	
+karite-kita-neko	character	karite kita neko	unusually quiet and meek	a borrowed cat	quiet as a mouse	0	0				3	
+saru-mo-ki-kara-ochiru	fortune	saru mo ki kara ochiru	even experts make mistakes	even monkeys fall from trees	nobody's perfect	0	0				3	
+aa-ieba-kou-iu	talk	aa ieba kou iu	always has a comeback	if I say that, you say this	has an answer for everything	0	0				3	
+kuro-rekishi	mood	kuro rekishi	an embarrassing past	black history	a past you'd rather forget	0	0				3	slang
+nido-aru-koto-wa-sando-aru	fortune	nido aru koto wa sando aru	bad things come in threes	what happens twice happens three times	things come in threes	0	0				3	
+me-ni-iretemo-itakunai	relations	me ni iretemo itakunai	dote on (a child or grandchild)	it wouldn't hurt even if I put them in my eye	the apple of my eye	0	0				2	
+juunin-toiro	character	juunin toiro	everyone has different tastes	ten people, ten colours	to each their own	0	0				2	
+sawaranu-kami-ni-tatari-nashi	relations	sawaranu kami ni tatari nashi	stay out of it and you won't get hurt	a god you don't touch can't curse you	let sleeping dogs lie	0	0				2	
+tonari-no-shibafu-wa-aoi	mood	tonari no shibafu wa aoi	other people's lives always look better	the neighbour's lawn is green	the grass is always greener	0	0				2	
+yamai-wa-ki-kara	mood	yamai wa ki kara	feeling sick is partly in your head	illness comes from the spirit	it's all in your head	0	0				3	
+kuwazu-girai	character	kuwazu girai	dislike something without having tried it	disliking without eating	don't knock it till you've tried it	0	0				3	
+deru-kui-wa-utareru	relations	deru kui wa utareru	stand out and you'll get knocked down	the stake that sticks out gets hammered	the nail that sticks out gets hammered down	0	0				3	
+oshi-ni-yowai	character	oshi ni yowai	a pushover; caves in when pressed	weak to pushing	a pushover	0	0				3	
+ago-de-tsukau	relations	ago de tsukau	boss someone around	use (people) with your chin	boss someone around	0	0				3	
+ashita-wa-ashita-no-kaze-ga-fuku	fortune	ashita wa ashita no kaze ga fuku	don't worry, tomorrow is a new day	tomorrow, tomorrow's wind will blow	tomorrow is another day	0	0				3	
+hikkomi-ga-tsukanai	fortune	hikkomi ga tsukanai	can't back down (having said it)	can't manage a retreat	there's no backing out now	0	0				3	
+ashi-no-fumiba-mo-nai	effort	ashi no fumiba mo nai	so messy you can't walk	not even a place to step	a pigsty	0	0				3	
+ma-ga-motanai	talk	ma ga motanai	awkward silence; can't keep the conversation going	the pause can't be held	awkward silence	0	0				3	
+nokorimono-ni-wa-fuku-ga-aru	fortune	nokorimono ni wa fuku ga aru	the last one left may be the lucky one	leftovers have luck		0	0				3	
+hashi-ga-susumu	mood	hashi ga susumu	can't stop eating (it's so good)	chopsticks advance		0	0				3	
+yasumonogai-no-zeni-ushinai	fortune	yasumonogai no zeni ushinai	buying cheap costs more in the end	buying cheap things loses money	buy cheap, buy twice	0	0				3	
+kenka-suru-hodo-naka-ga-ii	relations	kenka suru hodo naka ga ii	people who argue a lot are actually close	so close that they fight		0	0				3	
+hara-ga-hette-wa-ikusa-wa-dekinu	effort	hara ga hette wa ikusa wa dekinu	eat first, then get to work	you can't fight a battle hungry	an army marches on its stomach	0	0				3	
+yoso-wa-yoso-uchi-wa-uchi	relations	yoso wa yoso uchi wa uchi	other families do it their way, we do it ours	other homes are other homes, ours is ours	if your friends jumped off a bridge, would you?	0	0				3	
+oya-no-kao-ga-mitai	relations	oya no kao ga mitai	who raised you? (rude behaviour)	I'd like to see your parents' faces	were you raised by wolves?	0	0				3	casual-only
+oishii-tokoro-o-motte-iku	relations	oishii tokoro o motte iku	grab the credit or the big moment	carry off the tasty part	steal the show	0	0				3	casual-only
+ishi-no-ue-ni-mo-sannen	effort	ishi no ue ni mo sannen	stick with it and it pays off	even on a cold stone, three years	Rome wasn't built in a day	0	0				2	
+donguri-no-seikurabe	character	donguri no seikurabe	all about equally mediocre	acorns comparing their heights	six of one, half a dozen of the other	0	0				2	
+neko-no-hitai	fortune	neko no hitai	a tiny patch of space	a cat's forehead	no room to swing a cat	0	0				2	
+kusai-mono-ni-futa-o-suru	fortune	kusai mono ni futa o suru	hide an embarrassing problem instead of fixing it	put a lid on the smelly thing	sweep it under the rug	0	0				2	
+nezame-ga-warui	mood	nezame ga warui	it would weigh on your conscience	waking up feels bad	it would keep me up at night	0	0				2	

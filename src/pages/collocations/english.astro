@@ -1,0 +1,28 @@
+---
+import StarlightPage from '@astrojs/starlight/components/StarlightPage.astro';
+import CollRows from '../../components/CollRows.astro';
+import { byEnglish } from '../../lib/collocations';
+
+const shared = byEnglish.filter((g) => g.items.length > 1);
+const single = byEnglish.filter((g) => g.items.length === 1);
+const headings = [
+	...shared.map((g) => ({ depth: 2, slug: `e-${g.key.replace(/[^a-z0-9]+/g, '-')}`, text: `${g.key} (${g.items.length})` })),
+	...(single.length ? [{ depth: 2, slug: 'one-each', text: `One each (${single.length})` }] : []),
+];
+---
+
+<StarlightPage frontmatter={{ title: 'By English word', description: 'The English word you would reach for, and the Japanese verb each noun really takes.' }} headings={headings}>
+	<p class="vl-lead">The English word you’d reach for, and the verb each noun really takes in Japanese.</p>
+	{shared.map((g) => (
+		<>
+			<h2 id={`e-${g.key.replace(/[^a-z0-9]+/g, '-')}`}>“{g.key}”</h2>
+			<CollRows items={g.items} />
+		</>
+	))}
+	{single.length > 0 && (
+		<>
+			<h2 id="one-each">One each</h2>
+			<CollRows items={single.flatMap((g) => g.items)} sub={(it) => `“${it.englishVerb!.trim().toLowerCase()}” · ${it.english}`} />
+		</>
+	)}
+</StarlightPage>
