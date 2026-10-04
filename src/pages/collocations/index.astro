@@ -46,7 +46,7 @@ const traps = byEnglish.filter((g) => g.items.length > 1).length;
 	{collTopics.map((t) => (
 		<>
 			<h3 id={t.key}>{t.name}</h3>
-			<ChunkList blocks={t.blocks} showCategory hrefOf={collChunkUrl} chipOf={(b) => `Stage ${b.stage}`} />
+			<ChunkList blocks={t.blocks} showCategory gloss hrefOf={collChunkUrl} chipOf={(b) => `Stage ${b.stage}`} />
 		</>
 	))}
 

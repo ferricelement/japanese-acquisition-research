@@ -1,16 +1,18 @@
 ---
 import { categoryByName, chunkUrl } from '../lib/data';
 
-type Row = { label: string; category: string; items: { romaji: string }[] };
-// Defaults suit the versatility list; collocation pages pass their own link and chip.
+type Row = { label: string; category: string; items: { romaji: string; english?: string }[] };
+// Defaults suit the versatility list; collocation and idiom pages pass their own link and chip,
+// and gloss lists each item with its meaning instead of the romaji alone.
 interface Props {
 	blocks: Row[];
 	showCategory?: boolean;
 	start?: number;
+	gloss?: boolean;
 	hrefOf?: (b: any) => string;
 	chipOf?: (b: any) => string;
 }
-const { blocks, showCategory, start, hrefOf = chunkUrl, chipOf = (b: Row) => categoryByName(b.category).name } = Astro.props;
+const { blocks, showCategory, start, gloss, hrefOf = chunkUrl, chipOf = (b: Row) => categoryByName(b.category).name } = Astro.props;
 ---
 
 <ol class:list={['vl-chunklist not-content', { numbered: start != null }]} start={start} role="list">
@@ -19,9 +21,17 @@ const { blocks, showCategory, start, hrefOf = chunkUrl, chipOf = (b: Row) => cat
 			<a href={hrefOf(b)}>
 				{start != null && <span class="vl-cl-n">{start + i}</span>}
 				<span class="vl-cl-text">
-					<span class="vl-cl-label">{b.label}</span>
-					<span class="vl-cl-items" translate="no" data-pagefind-ignore>{b.items.map((it) => it.romaji).join(', ')}</span>
-					{showCategory && <span class="vl-chip">{chipOf(b)}</span>}
+					<span class="vl-cl-head">
+						<span class="vl-cl-label">{b.label}</span>
+						{showCategory && <span class="vl-chip">{chipOf(b)}</span>}
+					</span>
+					{gloss ? (
+						<span class="vl-cl-gloss" data-pagefind-ignore>
+							{b.items.map((it) => <span><span class="vl-cl-ro" translate="no">{it.romaji}</span> <span>{it.english}</span></span>)}
+						</span>
+					) : (
+						<span class="vl-cl-items" translate="no" data-pagefind-ignore>{b.items.map((it) => it.romaji).join(', ')}</span>
+					)}
 				</span>
 			</a>
 		</li>

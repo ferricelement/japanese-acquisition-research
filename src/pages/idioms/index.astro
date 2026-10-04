@@ -43,15 +43,15 @@ const headings = [
 	{topics.map((t) => (
 		<>
 			<h3 id={t.key}>{t.name}</h3>
-			<ChunkList blocks={t.blocks} showCategory hrefOf={idiomCourse.chunkUrl} chipOf={(b) => `Stage ${b.stage}`} />
+			<ChunkList blocks={t.blocks} showCategory gloss hrefOf={idiomCourse.chunkUrl} chipOf={(b) => `Stage ${b.stage}`} />
 		</>
 	))}
 
 	<h2 id="reading-an-entry">Reading an entry</h2>
 	<ul>
-		<li><b>The headword</b> is the plain form (<i translate="no">te o kasu</i>); <i>polite</i> is its desu/masu form. The large English line is what the idiom means.</li>
-		<li><b>Literally</b> is the word-for-word meaning, which is often what makes it stick. When English happens to have a close idiom, it’s shown after it.</li>
-		<li><b>52×</b> is how many times the idiom was heard in 3.17 million lines of Japanese film and TV subtitles. A dash means it was too rare in films to count; those idioms were chosen on a native speaker’s judgement.</li>
+		<li><b>The headword</b> is the plain form (<i translate="no">te o kasu</i>); <i>polite</i> is its desu/masu form.</li>
+		<li><b>Literally</b> is what the words say (“lend a hand”); <b>Means</b> is what people mean by it (“help out”). When English has a close idiom, it’s under the meaning.</li>
+		<li><b>Heard</b> is how many times the idiom came up in 3.17 million lines of Japanese film and TV subtitles. Idioms too rare in films to count were chosen on a native speaker’s judgement.</li>
 		<li><b>Main list</b> links the versatility-list words the idiom builds on, with the stage they’re taught in.</li>
 	</ul>
 </StarlightPage>

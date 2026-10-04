@@ -1,30 +1,36 @@
 ---
 import StarlightPage from '@astrojs/starlight/components/StarlightPage.astro';
-import { Aside } from '@astrojs/starlight/components';
 import JaText from '../JaText.astro';
 import PlayScript from '../PlayScript.astro';
 import { url } from '../../lib/data';
 
-// A side list's chunk page: the chunk's items in full, with Mix-ups when items get confused.
+// A side list's chunk page: what's in the chunk at a glance and what gets mixed up, then each item in full.
 interface Props { course: any; id: string; pos: number; of: number; title: string; Item: any }
 const { course, id, pos, of, title, Item } = Astro.props;
 const block = course.blockById(id);
 const topic = course.topicOf(block);
 const headings = block.items.map((it: { id: string; romaji: string }) => ({ depth: 2, slug: it.id, text: it.romaji }));
 const mixups = block.interference && !/^none\.?$/i.test(block.interference.trim()) ? block.interference : null;
-const [first, last] = block.range.split('-');
 // The course ends at its last chunk; don't let Next run on into the index pages.
 const isEnd = block.stage === course.data.stages.length && pos === of;
 ---
 
 <StarlightPage frontmatter={{ title: block.label, description: block.rationale, ...(isEnd ? { next: false } : {}) }} headings={headings}>
-	<p class="vl-chunk-meta not-content">
-		<a class="vl-chip" href={url(`${course.section}/${block.stage}/`)}>{title} · Stage {block.stage}</a>
-		<a class="vl-chip" href={url(`${course.section}/#${topic.key}`)}>{topic.name}</a>
-		<span class="vl-range">Chunk {pos} of {of} · items {first === last ? first : `${first}–${last}`} of {course.data.stats.total}</span>
+	<p class="vl-crumbs not-content">
+		<a href={url(`${course.section}/${block.stage}/`)}>{title}, Stage {block.stage}</a>
+		<span>chunk {pos} of {of}</span>
+		<a href={url(`${course.section}/#${topic.key}`)}>{topic.name}</a>
 	</p>
 	<p class="vl-lead"><JaText text={block.rationale} /></p>
-	{mixups && <Aside type="caution" title="Mix-ups"><JaText text={mixups} /></Aside>}
+	<ul class="vl-glance not-content" role="list">
+		{block.items.map((it: { id: string; romaji: string; english: string; literal?: string }) => (
+			<li>
+				<a href={`#${it.id}`} translate="no">{it.romaji}</a>
+				<span>{it.english}{it.literal && <span class="vl-glance-lit">literally “{it.literal}”</span>}</span>
+			</li>
+		))}
+	</ul>
+	{mixups && <p class="vl-mixups"><b>Mix-ups</b> <JaText text={mixups} /></p>}
 	<div class="vl-items">
 		{block.items.map((item: unknown) => <Item item={item} />)}
 	</div>

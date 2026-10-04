@@ -3,6 +3,7 @@ import JaText from './JaText.astro';
 import { FLAG_LABEL } from '../lib/data';
 import { idiomCourse, type Idiom } from '../lib/idioms';
 
+// One idiom: what the words say beside what it means, then how it's used and examples; spelling and links last.
 interface Props { item: Idiom }
 const { item } = Astro.props;
 
@@ -10,31 +11,33 @@ const mates = idiomCourse.mates(item);
 const links = idiomCourse.listLinksOf(item);
 const examples = [['casual', item.example], ['polite', item.examplePolite]] as const;
 const m = item.measured;
-const heardTitle = m
-	? `Said ${m.count} times in 3.17 million lines of film and TV subtitles (${m.perMillion} per million lines)`
-	: 'Too rare in the subtitle corpus to count';
 ---
 
-<section class="vl-item not-content">
+<section class="vl-item vl-idiom not-content">
 	<h2 id={item.id} class="vl-ro" translate="no">{item.romaji}</h2>
-	{item.polite && <span class="vl-po" translate="no"><span class="vl-tag">polite</span> {item.polite}</span>}
-	<span class="vl-meta">
-		{item.flags.map((f) => <span class="vl-flag">{FLAG_LABEL[f] ?? f}</span>)}
-		<span class="vl-rank" title={heardTitle}><span class="sr-only">heard </span>{m ? `${m.count}×` : <><span aria-hidden="true">—</span><span class="sr-only">rarely</span></>}</span>
-	</span>
-	<p class="vl-en">{item.english}</p>
-	<p class="vl-jaline">
-		<span class="vl-ja" lang="ja">{item.ja}</span>
-		{item.kana && item.kana !== item.ja && <> <span class="vl-ja vl-kana" lang="ja">{item.kana}</span></>}
-		<button type="button" class="vl-play" data-say={item.ja} aria-label={`Play ${item.romaji}`} data-pagefind-ignore>Play</button>
-		{item.politeJa && <> <span class="vl-ja" lang="ja">{item.politeJa}</span>
-			<button type="button" class="vl-play" data-say={item.politeJa} aria-label={`Play ${item.polite}`} data-pagefind-ignore>Play</button></>}
-	</p>
-	<p class="vl-parts">
-		<span class="vl-tag">literally</span> <span class="vl-sense"><JaText text={`“${item.literal}”`} /></span>
-		{item.englishIdiom && <><span class="vl-tag">English</span> <span>{item.englishIdiom}</span></>}
-	</p>
-	<p class="vl-use"><JaText text={item.use} /></p>
+	<button type="button" class="vl-play" data-say={item.ja} aria-label={`Play ${item.romaji}`} data-pagefind-ignore>Play</button>
+	<span class="vl-meta">{item.flags.map((f) => <span class="vl-flag">{FLAG_LABEL[f] ?? f}</span>)}</span>
+	{item.polite && (
+		<p class="vl-po">
+			<span class="vl-tag">polite</span> <span translate="no">{item.polite}</span>
+			{item.politeJa && <button type="button" class="vl-play" data-say={item.politeJa} aria-label={`Play ${item.polite}`} data-pagefind-ignore>Play</button>}
+		</p>
+	)}
+	<div class="vl-says">
+		<div class="vl-says-lit">
+			<span class="vl-tag">Literally</span>
+			<p><JaText text={`“${item.literal}”`} /></p>
+		</div>
+		<div class="vl-says-means">
+			<span class="vl-tag">Means</span>
+			<p class="vl-en">{item.english}</p>
+			{item.englishIdiom && <p class="vl-says-eng">In English: {item.englishIdiom}</p>}
+		</div>
+	</div>
+	<div class="vl-use">
+		<p><JaText text={item.use} /></p>
+		{item.notes && <p class="vl-use-note"><JaText text={item.notes} /></p>}
+	</div>
 	<div class="vl-examples">
 		{examples.map(([label, ex]) => ex && (
 			<div class="vl-ex">
@@ -48,19 +51,18 @@ const heardTitle = m
 			</div>
 		))}
 	</div>
-	{item.notes && <p class="vl-note"><JaText text={item.notes} /></p>}
-	{(mates.length > 0 || links.length > 0) && (
-		<p class="vl-refs">
-			{mates.length > 0 && (
-				<span><b>Learn alongside:</b> {mates.map(({ m, later }, i) => (
-					<>{i > 0 && ', '}<a href={idiomCourse.itemUrl(m.id)} translate="no">{m.romaji}</a>{later > 0 && <span class="vl-later"> (Stage {later})</span>}</>
-				))}</span>
-			)}
-			{links.length > 0 && (
-				<span><b>Main list:</b> {links.map((l, i) => (
-					<>{i > 0 && ', '}<a href={l.href} translate="no">{l.romaji}</a><span class="vl-later"> (Stage {l.stage})</span></>
-				))}</span>
-			)}
-		</p>
-	)}
+	<p class="vl-refs">
+		<span><b>Written</b> <span lang="ja">{item.ja}</span>{item.kana && item.kana !== item.ja && <> · <span lang="ja">{item.kana}</span></>}</span>
+		<span><b>Heard</b> {m ? `${m.count}× in 3.17 million lines of film and TV subtitles` : 'too rare in film subtitles to count'}</span>
+		{mates.length > 0 && (
+			<span><b>Learn alongside</b> {mates.map(({ m, later }, i) => (
+				<>{i > 0 && ', '}<a href={idiomCourse.itemUrl(m.id)} translate="no">{m.romaji}</a>{later > 0 && <span class="vl-later"> (Stage {later})</span>}</>
+			))}</span>
+		)}
+		{links.length > 0 && (
+			<span><b>Main list</b> {links.map((l, i) => (
+				<>{i > 0 && ', '}<a href={l.href} translate="no">{l.romaji}</a><span class="vl-later"> (Stage {l.stage})</span></>
+			))}</span>
+		)}
+	</p>
 </section>

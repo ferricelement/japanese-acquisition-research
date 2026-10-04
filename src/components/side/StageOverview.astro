@@ -16,5 +16,5 @@ const blocks = course.stageBlocks(n);
 		{stage.items} {unit} in {blocks.length} chunks, learned alongside <a href={url(`stages/${n}/`)}>{stage.name}</a> of
 		the main list. Start with <a href={course.chunkUrl(blocks[0])}>{blocks[0].label}</a> and use Next at the bottom of each page.
 	</p>
-	<ChunkList blocks={blocks} showCategory start={1} hrefOf={course.chunkUrl} chipOf={(b) => course.topicOf(b).name} />
+	<ChunkList blocks={blocks} showCategory gloss start={1} hrefOf={course.chunkUrl} chipOf={(b) => course.topicOf(b).name} />
 </StarlightPage>

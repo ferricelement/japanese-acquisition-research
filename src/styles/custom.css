@@ -34,7 +34,7 @@ a.vl-chip:hover { text-decoration: underline; }
 }
 .vl-chunklist li + li { border-top: 1px solid var(--sl-color-hairline-light); }
 .vl-chunklist a {
-	display: grid; grid-template-columns: minmax(0, 1fr); align-items: center; gap: 0.25rem 1rem;
+	display: grid; grid-template-columns: minmax(0, 1fr); align-items: baseline; gap: 0.25rem 1rem;
 	padding: 0.7rem 1rem; text-decoration: none; color: inherit;
 }
 .vl-chunklist.numbered a { grid-template-columns: auto minmax(0, 1fr); }
@@ -44,13 +44,36 @@ a.vl-chip:hover { text-decoration: underline; }
 .vl-chunklist a:focus-visible { outline: 2px solid var(--sl-color-accent); outline-offset: -2px; }
 .vl-cl-n { color: var(--sl-color-gray-3); font-variant-numeric: tabular-nums; min-width: 1.5rem; text-align: right; }
 .vl-cl-text { display: grid; gap: 0.15rem; min-width: 0; }
-.vl-cl-text .vl-chip { margin-top: 0.2rem; }
+.vl-cl-head { display: flex; flex-wrap: wrap; align-items: baseline; gap: 0.2rem 0.6rem; }
 .vl-cl-label { font-weight: 700; color: var(--sl-color-white); }
 .vl-cl-items { color: var(--sl-color-gray-3); font-size: var(--sl-text-sm); overflow-wrap: anywhere; }
+/* Gloss rows: each item's romaji with its meaning, one per line. */
+.vl-cl-gloss { display: grid; gap: 0.1rem; margin-top: 0.15rem; font-size: var(--sl-text-sm); color: var(--sl-color-gray-3); }
+.vl-cl-gloss > span { overflow-wrap: anywhere; }
+.vl-cl-ro { color: var(--sl-color-gray-2); font-weight: 700; margin-right: 0.35rem; }
+.vl-chunklist a:hover .vl-cl-gloss { color: var(--sl-color-gray-2); }
 
 /* Chunk page: header line, then each item as its own section. The romaji h2 is a direct child of the
    section so Starlight's "On this page" tracks the whole item; the first grid row is romaji | polite | rank. */
 .vl-chunk-meta { display: flex; flex-wrap: wrap; align-items: baseline; gap: 0.4rem 0.6rem; }
+.vl-crumbs { display: flex; flex-wrap: wrap; align-items: baseline; gap: 0.2rem 0.6rem; font-size: var(--sl-text-sm); color: var(--sl-color-gray-3); }
+.vl-crumbs > * + *::before { content: '·'; display: inline-block; margin-right: 0.6rem; color: var(--sl-color-gray-4); }
+/* Side-list chunk pages open with the chunk at a glance: romaji and meaning, linked to each entry. */
+.vl-glance {
+	list-style: none; padding: 0; margin-top: 1rem;
+	border: 1px solid var(--sl-color-hairline-light); border-radius: 0.5rem; overflow: hidden;
+}
+.vl-glance li {
+	display: grid; grid-template-columns: minmax(8rem, 2fr) minmax(0, 3fr); gap: 0.1rem 1rem;
+	padding: 0.45rem 1rem; margin: 0;
+}
+.vl-glance li + li { border-top: 1px solid var(--sl-color-hairline-light); }
+.vl-glance a { font-weight: 700; overflow-wrap: anywhere; }
+.vl-glance li > span { color: var(--sl-color-gray-2); min-width: 0; }
+.vl-glance-lit { display: block; font-size: var(--sl-text-sm); font-style: italic; color: var(--sl-color-gray-3); }
+@media (max-width: 40rem) { .vl-glance li { grid-template-columns: minmax(0, 1fr); } }
+.vl-mixups { max-width: 70ch; font-size: var(--sl-text-sm); color: var(--sl-color-gray-2); }
+.vl-mixups b { color: var(--sl-color-white); margin-right: 0.3rem; }
 .vl-items { margin-top: 1.5rem; }
 .vl-item {
 	padding-block: 1.5rem; border-top: 1px solid var(--sl-color-hairline-light);
@@ -134,3 +157,25 @@ a.vl-chip:hover { text-decoration: underline; }
 	padding: 0.45rem 0.75rem; border-radius: 0.4rem;
 }
 .vl-trap .vl-tag { color: inherit; }
+
+/* Idiom entries: romaji and Play, then what the words say beside what the idiom means. */
+.vl-idiom { grid-template-columns: minmax(0, max-content) auto minmax(0, 1fr); }
+.vl-idiom > .vl-play { grid-column: 2; justify-self: start; align-self: center; }
+.vl-idiom > .vl-po { grid-column: 1 / -1; display: flex; flex-wrap: wrap; align-items: center; gap: 0.2rem 0.5rem; }
+.vl-says {
+	display: grid; grid-template-columns: repeat(2, minmax(0, 1fr));
+	border: 1px solid var(--sl-color-hairline-light); border-radius: 0.5rem; overflow: hidden;
+}
+.vl-says > div { display: grid; align-content: start; gap: 0.2rem; padding: 0.75rem 1rem; min-width: 0; }
+.vl-says-lit { background: var(--sl-color-gray-6); }
+.vl-says-lit p { font-size: var(--sl-text-lg); font-style: italic; color: var(--sl-color-gray-2); overflow-wrap: anywhere; }
+.vl-says-means .vl-en { font-size: var(--sl-text-lg); font-weight: 700; color: var(--sl-color-white); }
+.vl-says-eng { font-size: var(--sl-text-sm); color: var(--sl-color-gray-3); }
+.vl-idiom .vl-use { display: grid; gap: 0.5rem; }
+.vl-use-note { color: var(--sl-color-gray-2); font-size: var(--sl-text-sm); }
+.vl-idiom .vl-refs { gap: 0.25rem; }
+.vl-idiom .vl-refs b { margin-right: 0.3rem; }
+@media (max-width: 40rem) {
+	.vl-says { grid-template-columns: minmax(0, 1fr); }
+	.vl-idiom > .vl-meta { grid-column: 1 / -1; justify-content: flex-start; }
+}
