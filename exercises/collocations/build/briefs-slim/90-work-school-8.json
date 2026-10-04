@@ -1,0 +1,370 @@
+{
+ "script": 90,
+ "of": 94,
+ "stage": 4,
+ "chunkId": "work-school-8",
+ "label": "Getting work done",
+ "topic": "Work & school",
+ "rationale": "The work itself: using your head, delivering results, taking notes, ideas coming to you, stamping papers.",
+ "mixUps": "kekka o dasu (you deliver results) is not kekka ga deru (results come out); ideas come to you with ga ukabu, while notes are taken with o toru.",
+ "targets": [
+  {
+   "id": "c-atama-o-tsukau",
+   "romaji": "atama o tsukau",
+   "polite": "atama o tsukaimasu",
+   "english": "use your head; make you think",
+   "ja": "頭を使う",
+   "kana": "あたまをつかう",
+   "politeJa": "頭を使います",
+   "noun": "atama",
+   "particle": "o",
+   "verb": "tsukau",
+   "verbJa": "使う",
+   "verbSense": "use",
+   "englishVerb": "use",
+   "trap": null,
+   "partners": [
+    "karada (body: physical work)"
+   ],
+   "flags": [],
+   "use": "Said as a blunt scolding (chotto wa atama tsukae yo, use your head for once) and about brain-heavy games and work: atama tsukau shigoto. Casual speech often drops o.",
+   "notes": "Not ki o tsukau, which means being considerate.",
+   "example": {
+    "romaji": "kono geemu, kekkou atama tsukau ne.",
+    "ja": "このゲーム、結構頭使うね。",
+    "english": "This game really makes you think."
+   },
+   "examplePolite": {
+    "romaji": "kono geemu wa kekkou atama o tsukaimasu ne.",
+    "ja": "このゲームは結構頭を使いますね。",
+    "english": "This game really makes you think."
+   }
+  },
+  {
+   "id": "c-kekka-o-dasu",
+   "romaji": "kekka o dasu",
+   "polite": "kekka o dashimasu",
+   "english": "get results, deliver results",
+   "ja": "結果を出す",
+   "kana": "けっかをだす",
+   "politeJa": "結果を出します",
+   "noun": "kekka",
+   "particle": "o",
+   "verb": "dasu",
+   "verbJa": "出す",
+   "verbSense": "put out, take out, send out; here: produce",
+   "englishVerb": "get",
+   "trap": "'Get results' tempts kekka o morau. Results you achieve are put out: kekka o dasu. Results being announced is kekka ga deru, and kekka o morau only fits being handed a results sheet.",
+   "partners": [
+    "seika (achievements)",
+    "kiroku (record: kiroku o dasu = set a record)",
+    "sukoa (score)"
+   ],
+   "flags": [],
+   "use": "Said about performance at work, in sport or in study, often as a must: kekka dasanai to (I need to show results). Casual speech drops o.",
+   "notes": "Learn it beside kekka ga deru: kekka deta (they're out) vs kekka dashita (I delivered).",
+   "example": {
+    "romaji": "kotoshi wa zettai kekka dasu.",
+    "ja": "今年は絶対結果出す。",
+    "english": "This year I'm going to get results, no matter what."
+   },
+   "examplePolite": {
+    "romaji": "kotoshi wa zettai kekka o dashimasu.",
+    "ja": "今年は絶対結果を出します。",
+    "english": "This year I'm going to get results, no matter what."
+   }
+  },
+  {
+   "id": "c-memo-o-toru",
+   "romaji": "memo o toru",
+   "polite": "memo o torimasu",
+   "english": "take notes, write it down",
+   "ja": "メモを取る",
+   "kana": "メモをとる",
+   "politeJa": "メモを取ります",
+   "noun": "memo",
+   "particle": "o",
+   "verb": "toru",
+   "verbJa": "取る",
+   "verbSense": "take; take down (a record)",
+   "englishVerb": "take",
+   "trap": null,
+   "partners": [
+    "nooto (notes)",
+    "kiroku (record)",
+    "kopii (copy)"
+   ],
+   "flags": [],
+   "use": "Said in class, meetings and on the phone: chotto matte, memo toru kara. Casual speech drops o, and memo suru means the same and is at least as common.",
+   "notes": "A note left for someone is memo o nokosu.",
+   "example": {
+    "romaji": "chotto matte, memo toru kara.",
+    "ja": "ちょっと待って、メモ取るから。",
+    "english": "Hang on, let me write that down."
+   },
+   "examplePolite": {
+    "romaji": "chotto matte kudasai, ima memo o torimasu node.",
+    "ja": "ちょっと待ってください、今メモを取りますので。",
+    "english": "Just a moment, let me write that down."
+   }
+  },
+  {
+   "id": "c-aidea-ga-ukabu",
+   "romaji": "aidea ga ukabu",
+   "polite": "aidea ga ukabimasu",
+   "english": "an idea comes to mind",
+   "ja": "アイデアが浮かぶ",
+   "kana": "アイデアがうかぶ",
+   "politeJa": "アイデアが浮かびます",
+   "noun": "aidea",
+   "particle": "ga",
+   "verb": "ukabu",
+   "verbJa": "浮かぶ",
+   "verbSense": "float; come to mind",
+   "englishVerb": "have",
+   "trap": "'I've got an idea!' is ii kangae ga aru! (or ii aidea aru!, omoitsuita!). ukabu is for ideas coming, or not coming, to mind: nanimo ukabanai.",
+   "partners": [
+    "kangae (thought)",
+    "kotoba (words)",
+    "kao (face: picture someone)"
+   ],
+   "flags": [],
+   "use": "Mostly in the negative, while brainstorming or choosing a gift: nanimo ukabanai (nothing comes to mind). When one arrives, ii aidea ukanda! Casual speech drops ga.",
+   "notes": "omoitsuku is the active twin: ii koto omoitsuita!",
+   "example": {
+    "romaji": "zenzen ii aidea ukabanai.",
+    "ja": "全然いいアイデア浮かばない。",
+    "english": "I can't come up with any good ideas."
+   },
+   "examplePolite": {
+    "romaji": "zenzen ii aidea ga ukabimasen.",
+    "ja": "全然いいアイデアが浮かびません。",
+    "english": "I can't come up with any good ideas."
+   }
+  },
+  {
+   "id": "c-hanko-o-osu",
+   "romaji": "hanko o osu",
+   "polite": "hanko o oshimasu",
+   "english": "stamp your seal",
+   "ja": "ハンコを押す",
+   "kana": "ハンコをおす",
+   "politeJa": "ハンコを押します",
+   "noun": "hanko",
+   "particle": "o",
+   "verb": "osu",
+   "verbJa": "押す",
+   "verbSense": "push, press",
+   "englishVerb": "stamp",
+   "trap": "'Stamp' leads to sutanpu, which means a rubber stamp for fun or a chat sticker. A personal seal is a hanko (formally inkan), and you press it: hanko o osu.",
+   "partners": [
+    "inkan (seal, formal word)",
+    "sutanpu (rubber stamp)"
+   ],
+   "flags": [],
+   "use": "Heard at the bank, the city office, at work and for deliveries: koko ni hanko oshite kudasai. Casual speech drops o; for deliveries a signature usually works too: sain de ii desu ka?",
+   "notes": "Banks and contracts want the registered inkan; deliveries usually accept a sain (signature).",
+   "example": {
+    "romaji": "koko ni hanko oshite ne.",
+    "ja": "ここにハンコ押してね。",
+    "english": "Stamp your seal here, okay?"
+   },
+   "examplePolite": {
+    "romaji": "koko ni hanko o oshite kudasai.",
+    "ja": "ここにハンコを押してください。",
+    "english": "Please stamp your seal here."
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-shigoto-o-sagasu",
+   "romaji": "shigoto o sagasu",
+   "english": "look for a job",
+   "chunk": "University and jobs",
+   "recent": true
+  },
+  {
+   "id": "c-shigoto-ga-mitsukaru",
+   "romaji": "shigoto ga mitsukaru",
+   "english": "find a job",
+   "chunk": "University and jobs",
+   "recent": true
+  },
+  {
+   "id": "c-daigaku-ni-hairu",
+   "romaji": "daigaku ni hairu",
+   "english": "get into university, start university",
+   "chunk": "University and jobs",
+   "recent": true
+  },
+  {
+   "id": "c-kaisha-ni-hairu",
+   "romaji": "kaisha ni hairu",
+   "english": "join a company",
+   "chunk": "University and jobs",
+   "recent": true
+  },
+  {
+   "id": "c-keiken-ga-aru",
+   "romaji": "keiken ga aru",
+   "english": "have experience",
+   "chunk": "University and jobs",
+   "recent": true
+  },
+  {
+   "id": "c-kega-o-suru",
+   "romaji": "kega o suru",
+   "english": "get hurt, get injured",
+   "chunk": "Visible signs",
+   "recent": true
+  },
+  {
+   "id": "c-chi-ga-deru",
+   "romaji": "chi ga deru",
+   "english": "bleed, be bleeding",
+   "chunk": "Visible signs",
+   "recent": true
+  },
+  {
+   "id": "c-ase-o-kaku",
+   "romaji": "ase o kaku",
+   "english": "sweat, get sweaty",
+   "chunk": "Visible signs",
+   "recent": true
+  },
+  {
+   "id": "c-kaoiro-ga-warui",
+   "romaji": "kaoiro ga warui",
+   "english": "look pale, look unwell",
+   "chunk": "Visible signs",
+   "recent": true
+  },
+  {
+   "id": "c-kao-ga-akai",
+   "romaji": "kao ga akai",
+   "english": "be red in the face",
+   "chunk": "Visible signs",
+   "recent": true
+  },
+  {
+   "id": "c-hana-ga-saku",
+   "romaji": "hana ga saku",
+   "english": "flowers bloom, come out",
+   "chunk": "Seasons",
+   "recent": true
+  },
+  {
+   "id": "c-atsusa-ni-yowai",
+   "romaji": "atsusa ni yowai",
+   "english": "can't take the heat",
+   "chunk": "Seasons",
+   "recent": true
+  },
+  {
+   "id": "c-semi-ga-naku",
+   "romaji": "semi ga naku",
+   "english": "cicadas sing, buzz",
+   "chunk": "Seasons",
+   "recent": true
+  },
+  {
+   "id": "c-yuki-ga-tsumoru",
+   "romaji": "yuki ga tsumoru",
+   "english": "snow settles, lies on the ground",
+   "chunk": "Seasons",
+   "recent": true
+  },
+  {
+   "id": "c-heya-o-kariru",
+   "romaji": "heya o kariru",
+   "english": "rent a room or flat",
+   "chunk": "Your place",
+   "recent": true
+  },
+  {
+   "id": "c-semai-heya",
+   "romaji": "semai heya",
+   "english": "a small, cramped room",
+   "chunk": "Your place",
+   "recent": true
+  },
+  {
+   "id": "c-inu-o-kau",
+   "romaji": "inu o kau",
+   "english": "have / keep a dog",
+   "chunk": "Your place",
+   "recent": true
+  },
+  {
+   "id": "c-nimotsu-ga-todoku",
+   "romaji": "nimotsu ga todoku",
+   "english": "a package arrives, gets delivered",
+   "chunk": "Your place",
+   "recent": true
+  },
+  {
+   "id": "c-nayami-ga-aru",
+   "romaji": "nayami ga aru",
+   "english": "have something on your mind",
+   "chunk": "Worries and advice",
+   "recent": true
+  },
+  {
+   "id": "c-soudan-ga-aru",
+   "romaji": "soudan ga aru",
+   "english": "want to ask your advice",
+   "chunk": "Worries and advice",
+   "recent": true
+  },
+  {
+   "id": "c-soudan-ni-noru",
+   "romaji": "soudan ni noru",
+   "english": "give advice, hear someone out",
+   "chunk": "Worries and advice",
+   "recent": true
+  },
+  {
+   "id": "c-honne-o-iu",
+   "romaji": "honne o iu",
+   "english": "say what you really think",
+   "chunk": "Worries and advice",
+   "recent": true
+  },
+  {
+   "id": "c-jikan-o-kakeru",
+   "romaji": "jikan o kakeru",
+   "english": "put time into, take time over",
+   "chunk": "Using your time",
+   "recent": true
+  },
+  {
+   "id": "c-jikan-o-toru",
+   "romaji": "jikan o toru",
+   "english": "set aside time, take up time",
+   "chunk": "Using your time",
+   "recent": true
+  },
+  {
+   "id": "c-jikan-o-tsukuru",
+   "romaji": "jikan o tsukuru",
+   "english": "make time",
+   "chunk": "Using your time",
+   "recent": true
+  },
+  {
+   "id": "c-jikan-o-tsubusu",
+   "romaji": "jikan o tsubusu",
+   "english": "kill time",
+   "chunk": "Using your time",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "kenta",
+   "satou"
+  ],
+  "format": "monologue"
+ }
+}

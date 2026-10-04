@@ -1,0 +1,333 @@
+{
+ "script": 70,
+ "of": 94,
+ "stage": 4,
+ "chunkId": "food-6",
+ "label": "Breakfast",
+ "topic": "Food & drink",
+ "rationale": "The morning kitchen: making a cup of tea or coffee, putting sugar in it, making toast, or skipping breakfast.",
+ "mixUps": "ireru works two ways here: ocha o ireru is brewing the cup, and satou o ireru is literally putting sugar in. Neither is tsukuru. Toast is pan o yaku (yaku covers bake, grill and toast), and skipping a meal is nuku, not tobasu.",
+ "targets": [
+  {
+   "id": "c-ocha-o-ireru",
+   "romaji": "ocha o ireru",
+   "polite": "ocha o iremasu",
+   "english": "make tea",
+   "ja": "お茶を入れる",
+   "kana": "おちゃをいれる",
+   "politeJa": "お茶を入れます",
+   "noun": "ocha",
+   "particle": "o",
+   "verb": "ireru",
+   "verbJa": "入れる",
+   "verbSense": "put in; for tea or coffee, brew by pouring on hot water",
+   "englishVerb": "make",
+   "trap": "English 'make tea' leads to ocha o tsukuru; for a cup or pot of tea or coffee the verb is ireru. tsukuru is used for a big jug, as in mugicha o tsukuru.",
+   "partners": [
+    "koohii (coffee)",
+    "koucha (black tea)"
+   ],
+   "flags": [],
+   "use": "Said when offering or asking for a cup: ocha ireru ne (I'll make tea), koohii irete (make me a coffee). Casual speech drops o.",
+   "notes": "koohii o ireru works the same way. Serving tea to a guest is ocha o dasu; ireru is the brewing. Sugar or milk going into the cup uses ireru in its plain 'put in' sense: satou ireru? (do you take sugar?).",
+   "example": {
+    "romaji": "ocha ireru kedo, nomu?",
+    "ja": "お茶入れるけど、飲む？",
+    "english": "I'm making tea, want some?"
+   },
+   "examplePolite": {
+    "romaji": "ocha iremasu kedo, ikaga desu ka?",
+    "ja": "お茶入れますけど、いかがですか？",
+    "english": "I'm making tea. Would you like some?"
+   }
+  },
+  {
+   "id": "c-satou-o-ireru",
+   "romaji": "satou o ireru",
+   "polite": "satou o iremasu",
+   "english": "put sugar in, add sugar",
+   "ja": "砂糖を入れる",
+   "kana": "さとうをいれる",
+   "politeJa": "砂糖を入れます",
+   "noun": "satou",
+   "particle": "o",
+   "verb": "ireru",
+   "verbJa": "入れる",
+   "verbSense": "put in; add (to a drink or dish)",
+   "englishVerb": "take",
+   "trap": "English 'do you take sugar?' has no 'take' in Japanese: sugar or milk going into a drink is ireru (satou ireru?). Say irete for yes and daijoubu for no; a bare iranai is only for friends.",
+   "partners": [
+    "miruku (milk)",
+    "shio (salt)",
+    "koori (ice)",
+    "remon (lemon)"
+   ],
+   "flags": [],
+   "use": "Asked when making someone coffee or tea (satou ireru? = sugar?), and also said about adding sugar when cooking. Casual speech drops o, and polite speech says osatou.",
+   "notes": "Black coffee is burakku: burakku de ii yo (black's fine).",
+   "example": {
+    "romaji": "koucha ni satou irenaide ne.",
+    "ja": "紅茶に砂糖入れないでね。",
+    "english": "Don't put sugar in my tea, okay?"
+   },
+   "examplePolite": {
+    "romaji": "koucha ni wa, osatou o irenaide kudasai.",
+    "ja": "紅茶には、お砂糖を入れないでください。",
+    "english": "Please don't put sugar in my tea."
+   }
+  },
+  {
+   "id": "c-pan-o-yaku",
+   "romaji": "pan o yaku",
+   "polite": "pan o yakimasu",
+   "english": "toast bread; bake bread",
+   "ja": "パンを焼く",
+   "kana": "パンをやく",
+   "politeJa": "パンを焼きます",
+   "noun": "pan",
+   "particle": "o",
+   "verb": "yaku",
+   "verbJa": "焼く",
+   "verbSense": "cook with dry heat: grill, roast, bake, toast; also burn",
+   "englishVerb": "toast",
+   "trap": null,
+   "partners": [
+    "keeki (cake)",
+    "kukkii (cookies)",
+    "niku (meat)",
+    "sakana (fish)"
+   ],
+   "flags": [],
+   "use": "Said at breakfast about toast (pan yaku? = want some toast?) and about baking at home. Casual speech drops o.",
+   "notes": "When it's done, the intransitive yakeru: pan yaketa yo (the toast is ready). yaku covers toast, bake and grill alike (keeki o yaku, niku o yaku, sakana o yaku). toosuto suru exists but is mostly recipe and packaging language; at home people say pan yaku.",
+   "example": {
+    "romaji": "asa wa itsumo pan yaite taberu.",
+    "ja": "朝はいつもパン焼いて食べる。",
+    "english": "I always have toast in the morning."
+   },
+   "examplePolite": {
+    "romaji": "asa wa itsumo pan o yaite tabemasu.",
+    "ja": "朝はいつもパンを焼いて食べます。",
+    "english": "I always have toast in the morning."
+   }
+  },
+  {
+   "id": "c-asagohan-o-nuku",
+   "romaji": "asagohan o nuku",
+   "polite": "asagohan o nukimasu",
+   "english": "skip breakfast",
+   "ja": "朝ご飯を抜く",
+   "kana": "あさごはんをぬく",
+   "politeJa": "朝ご飯を抜きます",
+   "noun": "asagohan",
+   "particle": "o",
+   "verb": "nuku",
+   "verbJa": "抜く",
+   "verbSense": "pull out, take out, leave out",
+   "englishVerb": "skip",
+   "trap": "English 'skip' leads to tobasu, which is for pages or steps, not meals. Leaving out a meal is nuku; asagohan tabenakatta (didn't eat breakfast) is also fine.",
+   "partners": [
+    "hirugohan (lunch)",
+    "bangohan (dinner)",
+    "shokuji (a meal)"
+   ],
+   "flags": [],
+   "use": "Said about busy mornings and diets: asagohan nuita (I skipped breakfast), with o dropped and asagohan often cut to asa (asa nuichatta). For a habit you hear asa wa itsumo nuiteru.",
+   "notes": "When ordering, X nuki de means 'without X': sabi nuki de (no wasabi), koori nuki de (no ice).",
+   "example": {
+    "romaji": "kyou asagohan nuichatta.",
+    "ja": "今日朝ご飯抜いちゃった。",
+    "english": "I skipped breakfast today."
+   },
+   "examplePolite": {
+    "romaji": "kyou wa asagohan o nuichaimashita.",
+    "ja": "今日は朝ご飯を抜いちゃいました。",
+    "english": "I skipped breakfast today."
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-orei-o-iu",
+   "romaji": "orei o iu",
+   "english": "thank someone, say thanks",
+   "chunk": "Manners and thanks",
+   "recent": true
+  },
+  {
+   "id": "c-keigo-o-tsukau",
+   "romaji": "keigo o tsukau",
+   "english": "speak politely, use honorifics",
+   "chunk": "Manners and thanks",
+   "recent": true
+  },
+  {
+   "id": "c-ki-o-tsukau",
+   "romaji": "ki o tsukau",
+   "english": "be considerate, go to trouble",
+   "chunk": "Manners and thanks",
+   "recent": true
+  },
+  {
+   "id": "c-osewa-ni-naru",
+   "romaji": "osewa ni naru",
+   "english": "be looked after, be indebted",
+   "chunk": "Manners and thanks",
+   "recent": true
+  },
+  {
+   "id": "c-gochisou-ni-naru",
+   "romaji": "gochisou ni naru",
+   "english": "be treated (to a meal)",
+   "chunk": "Manners and thanks",
+   "recent": true
+  },
+  {
+   "id": "c-osara-o-arau",
+   "romaji": "osara o arau",
+   "english": "wash the dishes, wash up",
+   "chunk": "Kitchen",
+   "recent": true
+  },
+  {
+   "id": "c-oyu-o-wakasu",
+   "romaji": "oyu o wakasu",
+   "english": "boil water",
+   "chunk": "Kitchen",
+   "recent": true
+  },
+  {
+   "id": "c-teeburu-o-fuku",
+   "romaji": "teeburu o fuku",
+   "english": "wipe the table",
+   "chunk": "Kitchen",
+   "recent": true
+  },
+  {
+   "id": "c-geemu-ni-hamaru",
+   "romaji": "geemu ni hamaru",
+   "english": "be hooked on games; be really into games",
+   "chunk": "Hooked, tickets, winning",
+   "recent": true
+  },
+  {
+   "id": "c-shiai-ni-katsu",
+   "romaji": "shiai ni katsu",
+   "english": "win a match",
+   "chunk": "Hooked, tickets, winning",
+   "recent": true
+  },
+  {
+   "id": "c-shiai-ni-makeru",
+   "romaji": "shiai ni makeru",
+   "english": "lose a match",
+   "chunk": "Hooked, tickets, winning",
+   "recent": true
+  },
+  {
+   "id": "c-chiketto-o-toru",
+   "romaji": "chiketto o toru",
+   "english": "get hold of tickets",
+   "chunk": "Hooked, tickets, winning",
+   "recent": true
+  },
+  {
+   "id": "c-hidari-ni-magaru",
+   "romaji": "hidari ni magaru",
+   "english": "turn left",
+   "chunk": "Finding the way",
+   "recent": true
+  },
+  {
+   "id": "c-kado-o-magaru",
+   "romaji": "kado o magaru",
+   "english": "turn at the corner",
+   "chunk": "Finding the way",
+   "recent": true
+  },
+  {
+   "id": "c-michi-ni-mayou",
+   "romaji": "michi ni mayou",
+   "english": "get lost",
+   "chunk": "Finding the way",
+   "recent": true
+  },
+  {
+   "id": "c-michi-o-machigaeru",
+   "romaji": "michi o machigaeru",
+   "english": "go the wrong way",
+   "chunk": "Finding the way",
+   "recent": true
+  },
+  {
+   "id": "c-maigo-ni-naru",
+   "romaji": "maigo ni naru",
+   "english": "get lost (wander off, like a lost child)",
+   "chunk": "Finding the way",
+   "recent": true
+  },
+  {
+   "id": "c-shukudai-o-suru",
+   "romaji": "shukudai o suru",
+   "english": "do homework",
+   "chunk": "Homework and grades",
+   "recent": true
+  },
+  {
+   "id": "c-shukudai-o-dasu",
+   "romaji": "shukudai o dasu",
+   "english": "hand in homework",
+   "chunk": "Homework and grades",
+   "recent": true
+  },
+  {
+   "id": "c-mondai-o-toku",
+   "romaji": "mondai o toku",
+   "english": "solve a question, do problems",
+   "chunk": "Homework and grades",
+   "recent": true
+  },
+  {
+   "id": "c-seiseki-ga-ii",
+   "romaji": "seiseki ga ii",
+   "english": "have good grades, do well at school",
+   "chunk": "Homework and grades",
+   "recent": true
+  },
+  {
+   "id": "c-hi-ga-kureru",
+   "romaji": "hi ga kureru",
+   "english": "it gets dark (evening)",
+   "chunk": "Sun and moon",
+   "recent": true
+  },
+  {
+   "id": "c-hi-ga-noboru",
+   "romaji": "hi ga noboru",
+   "english": "the sun rises, comes up",
+   "chunk": "Sun and moon",
+   "recent": true
+  },
+  {
+   "id": "c-hi-ga-shizumu",
+   "romaji": "hi ga shizumu",
+   "english": "the sun sets, goes down",
+   "chunk": "Sun and moon",
+   "recent": true
+  },
+  {
+   "id": "c-tsuki-ga-deru",
+   "romaji": "tsuki ga deru",
+   "english": "the moon comes out",
+   "chunk": "Sun and moon",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "kenta",
+   "satou"
+  ],
+  "format": "monologue"
+ }
+}

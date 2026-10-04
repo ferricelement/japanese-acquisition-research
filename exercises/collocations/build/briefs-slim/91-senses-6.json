@@ -1,0 +1,302 @@
+{
+ "script": 91,
+ "of": 94,
+ "stage": 4,
+ "chunkId": "senses-6",
+ "label": "When it hits you",
+ "topic": "Senses & mind",
+ "rationale": "Reactions to a big moment like a concert, a sad film or big news: tears come, goosebumps rise, it hasn't sunk in yet.",
+ "mixUps": "Each reaction is the subject with its own verb: namida ga deru (not naku, which is crying outright), torihada ga tatsu (stand, not deru). jikkan wakanai (it hasn't sunk in) sounds close to wakannai (I don't get it).",
+ "targets": [
+  {
+   "id": "c-namida-ga-deru",
+   "romaji": "namida ga deru",
+   "polite": "namida ga demasu",
+   "english": "tear up, eyes water",
+   "ja": "涙が出る",
+   "kana": "なみだがでる",
+   "politeJa": "涙が出ます",
+   "noun": "namida",
+   "particle": "ga",
+   "verb": "deru",
+   "verbJa": "出る",
+   "verbSense": "come out, appear",
+   "englishVerb": "cry",
+   "trap": "Learners use naku (cry) for any tears, but naku is crying from emotion. Watery eyes from a yawn, onions, hay fever or laughing are namida ga deru: akubi shitara namida deta. At a moving film both work: naita, or the softer namida deta (I teared up).",
+   "partners": [
+    "hanamizu (runny nose)",
+    "ase (sweat)",
+    "kushami (sneeze)",
+    "akubi (yawn)"
+   ],
+   "flags": [],
+   "use": "Tears that come on their own, mostly past: namida deta after a yawn, onions, laughing too hard or a moving film, with ga often dropped. namida dete kita is welling up as it happens, and namida desou (I'm going to cry) comes at a moving scene; crying outright is naku.",
+   "notes": "namida ga tomaranai means the tears won't stop, from a sad film or from hay fever.",
+   "example": {
+    "romaji": "waraisugite namida deta.",
+    "ja": "笑いすぎて涙出た。",
+    "english": "I laughed so hard I teared up."
+   },
+   "examplePolite": {
+    "romaji": "waraisugite namida ga demashita.",
+    "ja": "笑いすぎて涙が出ました。",
+    "english": "I laughed so hard I teared up."
+   }
+  },
+  {
+   "id": "c-torihada-ga-tatsu",
+   "romaji": "torihada ga tatsu",
+   "polite": "torihada ga tachimasu",
+   "english": "get goosebumps",
+   "ja": "鳥肌が立つ",
+   "kana": "とりはだがたつ",
+   "politeJa": "鳥肌が立ちます",
+   "noun": "torihada",
+   "particle": "ga",
+   "verb": "tatsu",
+   "verbJa": "立つ",
+   "verbSense": "stand, rise; here the bumps on your skin stand up",
+   "englishVerb": "get",
+   "trap": "'Get goosebumps' pulls learners toward morau or dekiru, but goosebumps 'stand up': torihada ga tatsu. It's the plain word for all goosebumps: cold, fear or being moved.",
+   "partners": [],
+   "flags": [],
+   "use": "Mostly past as a reaction, with ga dropped: torihada tatta! after a great song, a scary story or a cold blast of air. mite, torihada tatteru (look, I've got goosebumps) shows them as they happen.",
+   "notes": "Once only for cold, fear or disgust; for being moved it's now standard. torihada mono (goosebump-worthy) is the casual compliment.",
+   "example": {
+    "romaji": "ima no uta, torihada tatta!",
+    "ja": "今の歌、鳥肌立った！",
+    "english": "That song just gave me goosebumps!"
+   },
+   "examplePolite": {
+    "romaji": "ima no uta, torihada ga tachimashita.",
+    "ja": "今の歌、鳥肌が立ちました。",
+    "english": "That song just gave me goosebumps."
+   }
+  },
+  {
+   "id": "c-jikkan-ga-waku",
+   "romaji": "jikkan ga waku",
+   "polite": "jikkan ga wakimasu",
+   "english": "it sinks in, feels real",
+   "ja": "実感が湧く",
+   "kana": "じっかんがわく",
+   "politeJa": "実感が湧きます",
+   "noun": "jikkan",
+   "particle": "ga",
+   "verb": "waku",
+   "verbJa": "湧く",
+   "verbSense": "well up, spring up (water, feelings)",
+   "englishVerb": "sink in",
+   "trap": "Learners reach for mada wakaranai or rikai shite nai, which sound like you don't understand the news. Japanese says the real feeling hasn't welled up: mada jikkan wakanai. mada shinjirarenai (I still can't believe it) also works.",
+   "partners": [
+    "imeeji (imeeji ga wakanai: can't picture it)",
+    "kyoumi (interest)",
+    "aichaku (aichaku ga waku: grow attached)"
+   ],
+   "flags": [],
+   "use": "Mostly negative, after big news like passing an exam, a new job, a wedding or a baby: mada jikkan wakanai (it hasn't sunk in yet). jikkan nai says the same, and the polite mada jikkan ga wakanai desu is a stock line in interviews. Once it does sink in: yatto jikkan waite kita.",
+   "notes": "Don't mix up wakanai (doesn't well up, from waku) with wakannai (don't get it): one n apart.",
+   "example": {
+    "romaji": "mada zenzen jikkan wakanai.",
+    "ja": "まだ全然実感湧かない。",
+    "english": "It still hasn't sunk in at all."
+   },
+   "examplePolite": {
+    "romaji": "mada zenzen jikkan ga wakanai desu.",
+    "ja": "まだ全然実感が湧かないです。",
+    "english": "It still hasn't sunk in at all."
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-kega-o-suru",
+   "romaji": "kega o suru",
+   "english": "get hurt, get injured",
+   "chunk": "Visible signs",
+   "recent": true
+  },
+  {
+   "id": "c-chi-ga-deru",
+   "romaji": "chi ga deru",
+   "english": "bleed, be bleeding",
+   "chunk": "Visible signs",
+   "recent": true
+  },
+  {
+   "id": "c-ase-o-kaku",
+   "romaji": "ase o kaku",
+   "english": "sweat, get sweaty",
+   "chunk": "Visible signs",
+   "recent": true
+  },
+  {
+   "id": "c-kaoiro-ga-warui",
+   "romaji": "kaoiro ga warui",
+   "english": "look pale, look unwell",
+   "chunk": "Visible signs",
+   "recent": true
+  },
+  {
+   "id": "c-kao-ga-akai",
+   "romaji": "kao ga akai",
+   "english": "be red in the face",
+   "chunk": "Visible signs",
+   "recent": true
+  },
+  {
+   "id": "c-hana-ga-saku",
+   "romaji": "hana ga saku",
+   "english": "flowers bloom, come out",
+   "chunk": "Seasons",
+   "recent": true
+  },
+  {
+   "id": "c-atsusa-ni-yowai",
+   "romaji": "atsusa ni yowai",
+   "english": "can't take the heat",
+   "chunk": "Seasons",
+   "recent": true
+  },
+  {
+   "id": "c-semi-ga-naku",
+   "romaji": "semi ga naku",
+   "english": "cicadas sing, buzz",
+   "chunk": "Seasons",
+   "recent": true
+  },
+  {
+   "id": "c-yuki-ga-tsumoru",
+   "romaji": "yuki ga tsumoru",
+   "english": "snow settles, lies on the ground",
+   "chunk": "Seasons",
+   "recent": true
+  },
+  {
+   "id": "c-heya-o-kariru",
+   "romaji": "heya o kariru",
+   "english": "rent a room or flat",
+   "chunk": "Your place",
+   "recent": true
+  },
+  {
+   "id": "c-semai-heya",
+   "romaji": "semai heya",
+   "english": "a small, cramped room",
+   "chunk": "Your place",
+   "recent": true
+  },
+  {
+   "id": "c-inu-o-kau",
+   "romaji": "inu o kau",
+   "english": "have / keep a dog",
+   "chunk": "Your place",
+   "recent": true
+  },
+  {
+   "id": "c-nimotsu-ga-todoku",
+   "romaji": "nimotsu ga todoku",
+   "english": "a package arrives, gets delivered",
+   "chunk": "Your place",
+   "recent": true
+  },
+  {
+   "id": "c-nayami-ga-aru",
+   "romaji": "nayami ga aru",
+   "english": "have something on your mind",
+   "chunk": "Worries and advice",
+   "recent": true
+  },
+  {
+   "id": "c-soudan-ga-aru",
+   "romaji": "soudan ga aru",
+   "english": "want to ask your advice",
+   "chunk": "Worries and advice",
+   "recent": true
+  },
+  {
+   "id": "c-soudan-ni-noru",
+   "romaji": "soudan ni noru",
+   "english": "give advice, hear someone out",
+   "chunk": "Worries and advice",
+   "recent": true
+  },
+  {
+   "id": "c-honne-o-iu",
+   "romaji": "honne o iu",
+   "english": "say what you really think",
+   "chunk": "Worries and advice",
+   "recent": true
+  },
+  {
+   "id": "c-jikan-o-kakeru",
+   "romaji": "jikan o kakeru",
+   "english": "put time into, take time over",
+   "chunk": "Using your time",
+   "recent": true
+  },
+  {
+   "id": "c-jikan-o-toru",
+   "romaji": "jikan o toru",
+   "english": "set aside time, take up time",
+   "chunk": "Using your time",
+   "recent": true
+  },
+  {
+   "id": "c-jikan-o-tsukuru",
+   "romaji": "jikan o tsukuru",
+   "english": "make time",
+   "chunk": "Using your time",
+   "recent": true
+  },
+  {
+   "id": "c-jikan-o-tsubusu",
+   "romaji": "jikan o tsubusu",
+   "english": "kill time",
+   "chunk": "Using your time",
+   "recent": true
+  },
+  {
+   "id": "c-atama-o-tsukau",
+   "romaji": "atama o tsukau",
+   "english": "use your head; make you think",
+   "chunk": "Getting work done",
+   "recent": true
+  },
+  {
+   "id": "c-kekka-o-dasu",
+   "romaji": "kekka o dasu",
+   "english": "get results, deliver results",
+   "chunk": "Getting work done",
+   "recent": true
+  },
+  {
+   "id": "c-memo-o-toru",
+   "romaji": "memo o toru",
+   "english": "take notes, write it down",
+   "chunk": "Getting work done",
+   "recent": true
+  },
+  {
+   "id": "c-aidea-ga-ukabu",
+   "romaji": "aidea ga ukabu",
+   "english": "an idea comes to mind",
+   "chunk": "Getting work done",
+   "recent": true
+  },
+  {
+   "id": "c-hanko-o-osu",
+   "romaji": "hanko o osu",
+   "english": "stamp your seal",
+   "chunk": "Getting work done",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "yuki",
+   "kenta"
+  ],
+  "format": "dialogue"
+ }
+}

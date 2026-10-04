@@ -1,0 +1,375 @@
+{
+ "script": 10,
+ "of": 94,
+ "stage": 1,
+ "chunkId": "time-money-1",
+ "label": "No time, no money",
+ "topic": "Time, money & plans",
+ "rationale": "Being busy or broke in one frame: no time, no free time, no money, not enough money, nothing to spare.",
+ "mixUps": "All take ga nai, never o mottenai. jikan nai is no time now or for this, hima nai is no free time at all; okane nai is broke, okane tarinai is short for one thing; yoyuu nai covers money, time or headspace and alone means 'I'm swamped'.",
+ "targets": [
+  {
+   "id": "c-jikan-ga-nai",
+   "romaji": "jikan ga nai",
+   "polite": "jikan ga arimasen",
+   "english": "have no time",
+   "ja": "時間がない",
+   "kana": "じかんがない",
+   "politeJa": "時間がありません",
+   "noun": "jikan",
+   "particle": "ga",
+   "verb": "nai",
+   "verbJa": "ない",
+   "verbSense": "there isn't; not have (negative of aru)",
+   "englishVerb": "have",
+   "trap": "Not jikan o mottenai: time exists or doesn't, so it's jikan ga nai.",
+   "partners": [
+    "yasumi (days off)"
+   ],
+   "flags": [],
+   "use": "Said when you're in a hurry (mou jikan nai! = we're out of time) and as an excuse (ima jikan nai n da). Casual speech often drops ga. The past jikan nakatta and the -te form jikan nakute (no time, so...) are also common.",
+   "notes": "jikan aru? (got a minute?) is the question it answers; jikan ga aku (aiteru) is having a free slot. hima ga nai is the wider 'no free time these days', while jikan nai is about now or this one thing. 'No time to cook' puts the verb first: ryouri suru jikan ga nai.",
+   "example": {
+    "romaji": "gomen, ima chotto jikan nai n da.",
+    "ja": "ごめん、今ちょっと時間ないんだ。",
+    "english": "Sorry, I don't really have time right now."
+   },
+   "examplePolite": {
+    "romaji": "sumimasen, ima chotto jikan ga nai n desu.",
+    "ja": "すみません、今ちょっと時間がないんです。",
+    "english": "Sorry, I don't really have time right now."
+   }
+  },
+  {
+   "id": "c-hima-ga-nai",
+   "romaji": "hima ga nai",
+   "polite": "hima ga arimasen",
+   "english": "have no free time",
+   "ja": "暇がない",
+   "kana": "ひまがない",
+   "politeJa": "暇がありません",
+   "noun": "hima",
+   "particle": "ga",
+   "verb": "nai",
+   "verbJa": "ない",
+   "verbSense": "there isn't; not have (negative of aru)",
+   "englishVerb": "have",
+   "trap": null,
+   "partners": [
+    "yasumi (days off: yasumi mo nai)"
+   ],
+   "flags": [],
+   "use": "Said about being too busy, with a verb in front naming what you have no time for: ...teru hima wa nai is the commonest shape (nonbiri shiteru hima wa nai), and a plain verb usually takes mo (asobu hima mo nai, neru hima mo nai). As a brush-off it's sonna hima (wa) nai (I've got no time for that); plain ga is heard less than wa.",
+   "notes": "hima is also an adjective: hima? (are you free?), hima da naa (I'm bored). Unlike jikan ga nai, it never means you're running late: in a hurry it's mou jikan nai!, not mou hima nai!",
+   "example": {
+    "romaji": "saikin isogashikute, asobu hima mo nai.",
+    "ja": "最近忙しくて、遊ぶ暇もない。",
+    "english": "I've been so busy lately I don't even have time to go out."
+   },
+   "examplePolite": {
+    "romaji": "saikin isogashikute, asobu hima mo nai n desu.",
+    "ja": "最近忙しくて、遊ぶ暇もないんです。",
+    "english": "I've been so busy lately I don't even have time to go out."
+   }
+  },
+  {
+   "id": "c-okane-ga-nai",
+   "romaji": "okane ga nai",
+   "polite": "okane ga arimasen",
+   "english": "have no money, be broke",
+   "ja": "お金がない",
+   "kana": "おかねがない",
+   "politeJa": "お金がありません",
+   "noun": "okane",
+   "particle": "ga",
+   "verb": "nai",
+   "verbJa": "ない",
+   "verbSense": "there isn't; not have (negative of aru)",
+   "englishVerb": "have",
+   "trap": "okane mottenai is natural too, but it usually means no cash on you right now (ima okane mottenai), and about someone else, okane motteru means they're well-off. 'I'm broke' is plain okane nai, which can also mean no cash on you.",
+   "partners": [
+    "genkin (cash: genkin nai = no cash on me)",
+    "chokin (savings)"
+   ],
+   "flags": [],
+   "use": "The everyday 'I'm broke', usually okane nai in casual speech, often with ima or kongetsu. As a reason it's okane nai kara... (I'm broke, so...).",
+   "notes": "kane nai, without o-, is blunter and mostly men's speech. For one purchase it's okane tarinai (not enough money).",
+   "example": {
+    "romaji": "kongetsu, mou okane nai.",
+    "ja": "今月、もうお金ない。",
+    "english": "I'm already broke this month."
+   },
+   "examplePolite": {
+    "romaji": "kongetsu wa mou okane ga nai n desu.",
+    "ja": "今月はもうお金がないんです。",
+    "english": "I'm already broke this month."
+   }
+  },
+  {
+   "id": "c-okane-ga-tarinai",
+   "romaji": "okane ga tarinai",
+   "polite": "okane ga tarimasen",
+   "english": "be short of money",
+   "ja": "お金が足りない",
+   "kana": "おかねがたりない",
+   "politeJa": "お金が足りません",
+   "noun": "okane",
+   "particle": "ga",
+   "verb": "tarinai",
+   "verbJa": "足りない",
+   "verbSense": "not be enough (negative of tariru, be enough)",
+   "englishVerb": "short",
+   "trap": "Not okane ga sukunai, which is having little money in general. Being short for something is tarinai (not enough): gohyaku en tarinai.",
+   "partners": [
+    "jikan (time)",
+    "hitode (hands, staff)",
+    "ninzuu (headcount: ninzuu tarinai = we're a person short)"
+   ],
+   "flags": [],
+   "use": "Said at the till or when you're short for something: are, gohyaku en tarinai (oh, I'm 500 yen short). The amount often takes the place of okane. As a general state, okane tarinai means money's tight.",
+   "notes": "okane nai is being broke; tarinai is being short for something. Enough is tariru: kore de tariru? (will this cover it?).",
+   "example": {
+    "romaji": "gomen, okane tarinai kara kashite.",
+    "ja": "ごめん、お金足りないから貸して。",
+    "english": "Sorry, I'm short. Can you lend me some?"
+   },
+   "examplePolite": {
+    "romaji": "sumimasen, okane ga tarinai node kashite moraemasen ka?",
+    "ja": "すみません、お金が足りないので貸してもらえませんか？",
+    "english": "Sorry, I'm short. Could you lend me some?"
+   }
+  },
+  {
+   "id": "c-yoyuu-ga-nai",
+   "romaji": "yoyuu ga nai",
+   "polite": "yoyuu ga arimasen",
+   "english": "have nothing to spare",
+   "ja": "余裕がない",
+   "kana": "よゆうがない",
+   "politeJa": "余裕がありません",
+   "noun": "yoyuu",
+   "particle": "ga",
+   "verb": "nai",
+   "verbJa": "ない",
+   "verbSense": "there isn't; not have (negative of aru)",
+   "englishVerb": "afford",
+   "trap": "Japanese has no verb for 'afford'. For one item it's kaenai (takakute kaenai = I can't afford it). For having no money to spare in general it's okane no yoyuu ga nai (or just okane nai), and yoyuu nai alone means 'I'm swamped'.",
+   "partners": [
+    "okane (money: okane no yoyuu ga nai)",
+    "jikan (time: jikan no yoyuu ga nai)",
+    "kokoro (headspace: kokoro no yoyuu ga nai = too stressed to deal with anything)"
+   ],
+   "flags": [],
+   "use": "Says you have no spare money, time or energy. A noun before it says which: okane no yoyuu, jikan no yoyuu. Plain ima yoyuu nai means 'I'm swamped right now'.",
+   "notes": "jikan ni yoyuu ga aru = there's still plenty of time. In slang, yoyuu means 'easy': yoyuu desho / yoyuu da yo = piece of cake.",
+   "example": {
+    "romaji": "ima okane no yoyuu nai n da",
+    "ja": "今お金の余裕ないんだ",
+    "english": "Money's a bit tight right now."
+   },
+   "examplePolite": {
+    "romaji": "ima okane no yoyuu ga nai n desu",
+    "ja": "今お金の余裕がないんです",
+    "english": "Money's a bit tight right now."
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-se-ga-takai",
+   "romaji": "se ga takai",
+   "english": "be tall",
+   "chunk": "Looks and voice",
+   "recent": true
+  },
+  {
+   "id": "c-se-ga-hikui",
+   "romaji": "se ga hikui",
+   "english": "be short (height)",
+   "chunk": "Looks and voice",
+   "recent": true
+  },
+  {
+   "id": "c-koe-ga-ookii",
+   "romaji": "koe ga ookii",
+   "english": "have a loud voice, be loud",
+   "chunk": "Looks and voice",
+   "recent": true
+  },
+  {
+   "id": "c-kami-ga-nagai",
+   "romaji": "kami ga nagai",
+   "english": "have long hair",
+   "chunk": "Looks and voice",
+   "recent": true
+  },
+  {
+   "id": "c-sutairu-ga-ii",
+   "romaji": "sutairu ga ii",
+   "english": "have a good figure",
+   "chunk": "Looks and voice",
+   "recent": true
+  },
+  {
+   "id": "c-densha-ni-noru",
+   "romaji": "densha ni noru",
+   "english": "ride / get on the train",
+   "chunk": "Getting on and off",
+   "recent": true
+  },
+  {
+   "id": "c-basu-ni-noru",
+   "romaji": "basu ni noru",
+   "english": "take the bus",
+   "chunk": "Getting on and off",
+   "recent": true
+  },
+  {
+   "id": "c-kuruma-ni-noru",
+   "romaji": "kuruma ni noru",
+   "english": "get in / ride in a car",
+   "chunk": "Getting on and off",
+   "recent": true
+  },
+  {
+   "id": "c-densha-o-oriru",
+   "romaji": "densha o oriru",
+   "english": "get off the train",
+   "chunk": "Getting on and off",
+   "recent": true
+  },
+  {
+   "id": "c-jitensha-ni-noru",
+   "romaji": "jitensha ni noru",
+   "english": "ride a bike",
+   "chunk": "Getting on and off",
+   "recent": true
+  },
+  {
+   "id": "c-gakkou-ni-iku",
+   "romaji": "gakkou ni iku",
+   "english": "go to school",
+   "chunk": "School and work days",
+   "recent": true
+  },
+  {
+   "id": "c-shigoto-ni-iku",
+   "romaji": "shigoto ni iku",
+   "english": "go to work",
+   "chunk": "School and work days",
+   "recent": true
+  },
+  {
+   "id": "c-shigoto-ga-owaru",
+   "romaji": "shigoto ga owaru",
+   "english": "get off work",
+   "chunk": "School and work days",
+   "recent": true
+  },
+  {
+   "id": "c-shigoto-ga-isogashii",
+   "romaji": "shigoto ga isogashii",
+   "english": "be busy with work",
+   "chunk": "School and work days",
+   "recent": true
+  },
+  {
+   "id": "c-kimochi-ga-ii",
+   "romaji": "kimochi ga ii",
+   "english": "feels good, feels nice",
+   "chunk": "Feels good or bad",
+   "recent": true
+  },
+  {
+   "id": "c-kimochi-ga-warui",
+   "romaji": "kimochi ga warui",
+   "english": "feel queasy, feel nauseous; gross, creepy",
+   "chunk": "Feels good or bad",
+   "recent": true
+  },
+  {
+   "id": "c-kibun-ga-ii",
+   "romaji": "kibun ga ii",
+   "english": "be in a good mood; feel well",
+   "chunk": "Feels good or bad",
+   "recent": true
+  },
+  {
+   "id": "c-kigen-ga-warui",
+   "romaji": "kigen ga warui",
+   "english": "be in a bad mood, grumpy",
+   "chunk": "Feels good or bad",
+   "recent": true
+  },
+  {
+   "id": "c-igokochi-ga-ii",
+   "romaji": "igokochi ga ii",
+   "english": "comfortable to be in, cosy",
+   "chunk": "Feels good or bad",
+   "recent": true
+  },
+  {
+   "id": "c-hon-o-yomu",
+   "romaji": "hon o yomu",
+   "english": "read a book",
+   "chunk": "Read, watch, sing, draw",
+   "recent": true
+  },
+  {
+   "id": "c-eiga-o-miru",
+   "romaji": "eiga o miru",
+   "english": "watch a movie",
+   "chunk": "Read, watch, sing, draw",
+   "recent": true
+  },
+  {
+   "id": "c-uta-o-utau",
+   "romaji": "uta o utau",
+   "english": "sing a song",
+   "chunk": "Read, watch, sing, draw",
+   "recent": true
+  },
+  {
+   "id": "c-e-o-kaku",
+   "romaji": "e o kaku",
+   "english": "draw or paint a picture",
+   "chunk": "Read, watch, sing, draw",
+   "recent": true
+  },
+  {
+   "id": "c-hanashi-o-suru",
+   "romaji": "hanashi o suru",
+   "english": "talk, have a talk",
+   "chunk": "Talking to people",
+   "recent": true
+  },
+  {
+   "id": "c-hanashi-o-kiku",
+   "romaji": "hanashi o kiku",
+   "english": "listen to someone, hear someone out",
+   "chunk": "Talking to people",
+   "recent": true
+  },
+  {
+   "id": "c-hanashi-ga-aru",
+   "romaji": "hanashi ga aru",
+   "english": "need to talk (to you)",
+   "chunk": "Talking to people",
+   "recent": true
+  },
+  {
+   "id": "c-hanashi-ga-nagai",
+   "romaji": "hanashi ga nagai",
+   "english": "be long-winded, go on forever",
+   "chunk": "Talking to people",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "kenta",
+   "satou"
+  ],
+  "format": "monologue"
+ }
+}

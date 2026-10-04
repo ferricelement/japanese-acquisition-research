@@ -1,0 +1,331 @@
+{
+ "script": 89,
+ "of": 94,
+ "stage": 4,
+ "chunkId": "time-money-9",
+ "label": "Using your time",
+ "topic": "Time, money & plans",
+ "rationale": "The jikan o verbs for what you do with time: put it into something, set it aside, make it, kill it.",
+ "mixUps": "English spend, take, make and kill map to kakeru, toru, tsukuru and tsubusu (crush), never korosu; how long something takes stays jikan ga kakaru, and spending time with people is sugosu.",
+ "targets": [
+  {
+   "id": "c-jikan-o-kakeru",
+   "romaji": "jikan o kakeru",
+   "polite": "jikan o kakemasu",
+   "english": "put time into, take time over",
+   "ja": "時間をかける",
+   "kana": "じかんをかける",
+   "politeJa": "時間をかけます",
+   "noun": "jikan",
+   "particle": "o",
+   "verb": "kakeru",
+   "verbJa": "かける",
+   "verbSense": "hang; put on; spend (time or money on something)",
+   "englishVerb": "spend",
+   "trap": "'I spent three hours on it' is sanjikan kaketa (or kakatta), not sugoshita: sugosu is for spending time somewhere or with someone.",
+   "partners": [
+    "okane (money: shumi ni okane kakeru)",
+    "tema (effort: tema o kakeru = go to the trouble)"
+   ],
+   "flags": [],
+   "use": "For spending time on something on purpose, mostly as kakete before another verb: jikan kakete tsukutta (I put real time into making it). With an amount, jikan drops: sanjikan kaketa. 'Take your time' is usually yukkuri de ii yo; jikan kakete ii yo is for a task: jikkuri jikan kakete ii yo.",
+   "notes": "Its intransitive partner jikan ga kakaru is how long something takes; kakeru is you choosing to spend it.",
+   "example": {
+    "romaji": "kore, kekkou jikan kakete tsukutta n da.",
+    "ja": "これ、けっこう時間かけて作ったんだ。",
+    "english": "I put quite a lot of time into making this."
+   },
+   "examplePolite": {
+    "romaji": "kore wa kekkou jikan o kakete tsukutta n desu.",
+    "ja": "これはけっこう時間をかけて作ったんです。",
+    "english": "I put quite a lot of time into making this."
+   }
+  },
+  {
+   "id": "c-jikan-o-toru",
+   "romaji": "jikan o toru",
+   "polite": "jikan o torimasu",
+   "english": "set aside time, take up time",
+   "ja": "時間を取る",
+   "kana": "じかんをとる",
+   "politeJa": "時間を取ります",
+   "noun": "jikan",
+   "particle": "o",
+   "verb": "toru",
+   "verbJa": "取る",
+   "verbSense": "take; get (here: take or set aside time)",
+   "englishVerb": "take",
+   "trap": "English 'it takes an hour' leads to toru, but how long something takes is kakaru: ichijikan kakaru. toru is someone setting time aside, or taking up yours: jikan totte kurete arigatou, ojikan torasete sumimasen.",
+   "partners": [
+    "kyuukei (a short break)",
+    "kyuuka (leave: kyuuka o toru)"
+   ],
+   "flags": [],
+   "use": "Mostly in thanks and apologies: jikan totte kurete arigatou (thanks for making time), ojikan torasete sumimasen (sorry to take up your time). It also means setting time aside: kondo chanto jikan toru ne.",
+   "notes": "jikan toreru? asks if someone can spare time. A short polite thank-you, (kichou na) ojikan o arigatou gozaimashita, is also fine, and formal thanks use saku: ojikan o saite itadaite.",
+   "example": {
+    "romaji": "kyou wa jikan totte kurete arigatou.",
+    "ja": "今日は時間取ってくれてありがとう。",
+    "english": "Thanks for making time today."
+   },
+   "examplePolite": {
+    "romaji": "kyou wa ojikan totte itadaite, arigatou gozaimashita.",
+    "ja": "今日はお時間取っていただいて、ありがとうございました。",
+    "english": "Thank you for making time today."
+   }
+  },
+  {
+   "id": "c-jikan-o-tsukuru",
+   "romaji": "jikan o tsukuru",
+   "polite": "jikan o tsukurimasu",
+   "english": "make time",
+   "ja": "時間を作る",
+   "kana": "じかんをつくる",
+   "politeJa": "時間を作ります",
+   "noun": "jikan",
+   "particle": "o",
+   "verb": "tsukuru",
+   "verbJa": "作る",
+   "verbSense": "make; create",
+   "englishVerb": "make",
+   "trap": null,
+   "partners": [],
+   "flags": [],
+   "use": "Said when promising to fit someone in, often in the potential: raishuu nara jikan tsukureru yo. In thanks it's jikan tsukutte kurete arigatou.",
+   "notes": "Close to jikan o toru: tsukuru stresses squeezing time out of a busy schedule. Both work in thanks (jikan tsukutte kurete arigatou / jikan totte kurete arigatou).",
+   "example": {
+    "romaji": "raishuu nara jikan tsukureru yo.",
+    "ja": "来週なら時間作れるよ。",
+    "english": "I can make time next week."
+   },
+   "examplePolite": {
+    "romaji": "raishuu nara jikan o tsukuremasu yo.",
+    "ja": "来週なら時間を作れますよ。",
+    "english": "I can make time next week."
+   }
+  },
+  {
+   "id": "c-jikan-o-tsubusu",
+   "romaji": "jikan o tsubusu",
+   "polite": "jikan o tsubushimasu",
+   "english": "kill time",
+   "ja": "時間を潰す",
+   "kana": "じかんをつぶす",
+   "politeJa": "時間を潰します",
+   "noun": "jikan",
+   "particle": "o",
+   "verb": "tsubusu",
+   "verbJa": "潰す",
+   "verbSense": "crush, squash; use up (time); ruin",
+   "englishVerb": "kill",
+   "trap": "Not jikan o korosu: killing time is tsubusu, 'crush'.",
+   "partners": [
+    "hima (spare time: himatsubushi)"
+   ],
+   "flags": [],
+   "use": "Said when you're early or waiting for someone: kafe de jikan tsubushiteru ne. The noun himatsubushi (something to pass the time) is just as common: himatsubushi ni sumaho miteta.",
+   "notes": "tsubusu also means flatten (akikan o tsubusu). A day off that gets eaten up is yasumi ga tsubureta.",
+   "example": {
+    "romaji": "hayaku tsuita kara, kafe de jikan tsubushiteru.",
+    "ja": "早く着いたから、カフェで時間潰してる。",
+    "english": "I got here early, so I'm killing time in a café."
+   },
+   "examplePolite": {
+    "romaji": "hayaku tsuita node, kafe de jikan o tsubushitemasu.",
+    "ja": "早く着いたので、カフェで時間を潰してます。",
+    "english": "I got here early, so I'm killing time in a café."
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-boushi-o-kaburu",
+   "romaji": "boushi o kaburu",
+   "english": "wear / put on a hat",
+   "chunk": "Hats and accessories",
+   "recent": true
+  },
+  {
+   "id": "c-yubiwa-o-suru",
+   "romaji": "yubiwa o suru",
+   "english": "wear a ring",
+   "chunk": "Hats and accessories",
+   "recent": true
+  },
+  {
+   "id": "c-nekutai-o-suru",
+   "romaji": "nekutai o suru",
+   "english": "wear a tie",
+   "chunk": "Hats and accessories",
+   "recent": true
+  },
+  {
+   "id": "c-kousui-o-tsukeru",
+   "romaji": "kousui o tsukeru",
+   "english": "wear / put on perfume",
+   "chunk": "Hats and accessories",
+   "recent": true
+  },
+  {
+   "id": "c-shigoto-o-sagasu",
+   "romaji": "shigoto o sagasu",
+   "english": "look for a job",
+   "chunk": "University and jobs",
+   "recent": true
+  },
+  {
+   "id": "c-shigoto-ga-mitsukaru",
+   "romaji": "shigoto ga mitsukaru",
+   "english": "find a job",
+   "chunk": "University and jobs",
+   "recent": true
+  },
+  {
+   "id": "c-daigaku-ni-hairu",
+   "romaji": "daigaku ni hairu",
+   "english": "get into university, start university",
+   "chunk": "University and jobs",
+   "recent": true
+  },
+  {
+   "id": "c-kaisha-ni-hairu",
+   "romaji": "kaisha ni hairu",
+   "english": "join a company",
+   "chunk": "University and jobs",
+   "recent": true
+  },
+  {
+   "id": "c-keiken-ga-aru",
+   "romaji": "keiken ga aru",
+   "english": "have experience",
+   "chunk": "University and jobs",
+   "recent": true
+  },
+  {
+   "id": "c-kega-o-suru",
+   "romaji": "kega o suru",
+   "english": "get hurt, get injured",
+   "chunk": "Visible signs",
+   "recent": true
+  },
+  {
+   "id": "c-chi-ga-deru",
+   "romaji": "chi ga deru",
+   "english": "bleed, be bleeding",
+   "chunk": "Visible signs",
+   "recent": true
+  },
+  {
+   "id": "c-ase-o-kaku",
+   "romaji": "ase o kaku",
+   "english": "sweat, get sweaty",
+   "chunk": "Visible signs",
+   "recent": true
+  },
+  {
+   "id": "c-kaoiro-ga-warui",
+   "romaji": "kaoiro ga warui",
+   "english": "look pale, look unwell",
+   "chunk": "Visible signs",
+   "recent": true
+  },
+  {
+   "id": "c-kao-ga-akai",
+   "romaji": "kao ga akai",
+   "english": "be red in the face",
+   "chunk": "Visible signs",
+   "recent": true
+  },
+  {
+   "id": "c-hana-ga-saku",
+   "romaji": "hana ga saku",
+   "english": "flowers bloom, come out",
+   "chunk": "Seasons",
+   "recent": true
+  },
+  {
+   "id": "c-atsusa-ni-yowai",
+   "romaji": "atsusa ni yowai",
+   "english": "can't take the heat",
+   "chunk": "Seasons",
+   "recent": true
+  },
+  {
+   "id": "c-semi-ga-naku",
+   "romaji": "semi ga naku",
+   "english": "cicadas sing, buzz",
+   "chunk": "Seasons",
+   "recent": true
+  },
+  {
+   "id": "c-yuki-ga-tsumoru",
+   "romaji": "yuki ga tsumoru",
+   "english": "snow settles, lies on the ground",
+   "chunk": "Seasons",
+   "recent": true
+  },
+  {
+   "id": "c-heya-o-kariru",
+   "romaji": "heya o kariru",
+   "english": "rent a room or flat",
+   "chunk": "Your place",
+   "recent": true
+  },
+  {
+   "id": "c-semai-heya",
+   "romaji": "semai heya",
+   "english": "a small, cramped room",
+   "chunk": "Your place",
+   "recent": true
+  },
+  {
+   "id": "c-inu-o-kau",
+   "romaji": "inu o kau",
+   "english": "have / keep a dog",
+   "chunk": "Your place",
+   "recent": true
+  },
+  {
+   "id": "c-nimotsu-ga-todoku",
+   "romaji": "nimotsu ga todoku",
+   "english": "a package arrives, gets delivered",
+   "chunk": "Your place",
+   "recent": true
+  },
+  {
+   "id": "c-nayami-ga-aru",
+   "romaji": "nayami ga aru",
+   "english": "have something on your mind",
+   "chunk": "Worries and advice",
+   "recent": true
+  },
+  {
+   "id": "c-soudan-ga-aru",
+   "romaji": "soudan ga aru",
+   "english": "want to ask your advice",
+   "chunk": "Worries and advice",
+   "recent": true
+  },
+  {
+   "id": "c-soudan-ni-noru",
+   "romaji": "soudan ni noru",
+   "english": "give advice, hear someone out",
+   "chunk": "Worries and advice",
+   "recent": true
+  },
+  {
+   "id": "c-honne-o-iu",
+   "romaji": "honne o iu",
+   "english": "say what you really think",
+   "chunk": "Worries and advice",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "okaasan",
+   "kenji"
+  ],
+  "format": "dialogue"
+ }
+}

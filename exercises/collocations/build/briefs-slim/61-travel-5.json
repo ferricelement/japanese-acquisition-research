@@ -1,0 +1,364 @@
+{
+ "script": 61,
+ "of": 94,
+ "stage": 3,
+ "chunkId": "travel-5",
+ "label": "Picking someone up",
+ "topic": "Getting around",
+ "rationale": "Collecting someone and driving them: going to get them, taking their bags, giving them a lift, parking, and stopping at the konbini on the way.",
+ "mixUps": "For mukae ni iku Japanese says iku where English says 'I'll come'. noseru (give a lift) is the transitive of noru. tomeru (park) gets mixed up with yoru (drop in) and with tomaru (a car pulling up, or staying the night).",
+ "targets": [
+  {
+   "id": "c-mukae-ni-iku",
+   "romaji": "mukae ni iku",
+   "polite": "mukae ni ikimasu",
+   "english": "go to pick someone up",
+   "ja": "迎えに行く",
+   "kana": "むかえにいく",
+   "politeJa": "迎えに行きます",
+   "noun": "mukae",
+   "particle": "ni",
+   "verb": "iku",
+   "verbJa": "行く",
+   "verbSense": "go (mukae is the noun of mukaeru, meet and welcome)",
+   "englishVerb": "pick up",
+   "trap": "Not mukae ni kuru for 'I'll come get you': you are the one going, so it is mukae ni iku (only 'come get me' is mukae ni kite). 'Pick up' is not toru here either. Among friends with a car, hirou also works for grabbing someone on the way (tochuu de hirotteku yo), but not for meeting a guest or collecting a child.",
+   "partners": [
+    "eki (station)",
+    "kuukou (airport)",
+    "hoikuen (nursery)"
+   ],
+   "flags": [],
+   "use": "Paired with kuru for the other direction: mukae ni iku ne (I'll come get you) and mukae ni kite (come get me). Japanese says iku where English says 'I'll come'.",
+   "notes": "Collecting a child from nursery is omukae: hoikuen ni omukae ni iku.",
+   "example": {
+    "romaji": "eki made mukae ni iku ne.",
+    "ja": "駅まで迎えに行くね。",
+    "english": "I'll come pick you up at the station."
+   },
+   "examplePolite": {
+    "romaji": "eki made mukae ni ikimasu ne.",
+    "ja": "駅まで迎えに行きますね。",
+    "english": "I'll come and pick you up at the station."
+   }
+  },
+  {
+   "id": "c-nimotsu-o-motsu",
+   "romaji": "nimotsu o motsu",
+   "polite": "nimotsu o mochimasu",
+   "english": "carry the bags",
+   "ja": "荷物を持つ",
+   "kana": "にもつをもつ",
+   "politeJa": "荷物を持ちます",
+   "noun": "nimotsu",
+   "particle": "o",
+   "verb": "motsu",
+   "verbJa": "持つ",
+   "verbSense": "hold, carry (in your hands); have with you",
+   "englishVerb": "carry",
+   "trap": "English 'carry' points to hakobu, which is moving things to a place (a porter, a removal van). Taking a bag off someone's hands, or carrying your own, is motsu.",
+   "partners": [
+    "kaban (bag)",
+    "kasa (umbrella)",
+    "fukuro (carrier bag)"
+   ],
+   "flags": [],
+   "use": "Mostly an offer: nimotsu motsu yo, or motou ka? (shall I take that?). Casual speech drops o, and nimotsu motteru means you have bags with you.",
+   "notes": "nimotsu is also a parcel: nimotsu todoita (my package came).",
+   "example": {
+    "romaji": "omoi desho, nimotsu motsu yo.",
+    "ja": "重いでしょ、荷物持つよ。",
+    "english": "That must be heavy, let me take your bag."
+   },
+   "examplePolite": {
+    "romaji": "omoi desu yo ne, nimotsu mochimasu yo.",
+    "ja": "重いですよね、荷物持ちますよ。",
+    "english": "That looks heavy, let me carry your bag."
+   }
+  },
+  {
+   "id": "c-kuruma-ni-noseru",
+   "romaji": "kuruma ni noseru",
+   "polite": "kuruma ni nosemasu",
+   "english": "give someone a lift",
+   "ja": "車に乗せる",
+   "kana": "くるまにのせる",
+   "politeJa": "車に乗せます",
+   "noun": "kuruma",
+   "particle": "ni",
+   "verb": "noseru",
+   "verbJa": "乗せる",
+   "verbSense": "put on board; give someone a ride (the transitive of noru)",
+   "englishVerb": "give",
+   "trap": "Not raido o ageru or kuruma o ageru (that gives the car away): giving a lift is noseru (put on board), the transitive of noru, with kureru or iku only as helpers after it (nosete kureru?, nosete ku yo). norasete means 'let me ride it', as with a friend's new bike, not 'give me a lift'.",
+   "partners": [
+    "jitensha (bike)",
+    "baiku (motorbike)"
+   ],
+   "flags": [],
+   "use": "Mostly a request or an offer: nosete kureru? (can you give me a lift?), eki made nosete tte (give me a lift to the station), nosete ku yo (I'll give you a lift), nosete moratta (I got a lift). Once the car is clear the noun often drops.",
+   "notes": "Driving someone all the way somewhere is often okuru: ie made okuru yo (I'll take you home).",
+   "example": {
+    "romaji": "kaeri, kuruma nosete kureru?",
+    "ja": "帰り、車乗せてくれる？",
+    "english": "Can you give me a lift back?"
+   },
+   "examplePolite": {
+    "romaji": "kaeri, kuruma ni nosete moraemasu ka?",
+    "ja": "帰り、車に乗せてもらえますか？",
+    "english": "Could you give me a lift back?"
+   }
+  },
+  {
+   "id": "c-kuruma-o-tomeru",
+   "romaji": "kuruma o tomeru",
+   "polite": "kuruma o tomemasu",
+   "english": "park the car",
+   "ja": "車を止める",
+   "kana": "くるまをとめる",
+   "politeJa": "車を止めます",
+   "noun": "kuruma",
+   "particle": "o",
+   "verb": "tomeru",
+   "verbJa": "止める",
+   "verbSense": "stop (something moving); park (a car, a bike)",
+   "englishVerb": "park",
+   "trap": "Not paaku suru (paakingu is a car park, as in koin paakingu) and not yameru (quit): parking is tomeru, 'stop' the car. chuusha suru is correct but formal, the word on signs (chuusha kinshi) and in polite asks; in everyday talk people still say chuushajou (car park) and chuusha ga nigate (I'm bad at parking).",
+   "partners": [
+    "jitensha (bike)",
+    "baiku (motorbike)"
+   ],
+   "flags": [],
+   "use": "The everyday word for parking, with ni for the spot: doko ni tomeru? (where shall we park?), koko tomete ii? (can I park here?). The same verb stops any car, so in a taxi you say koko de tomete kudasai.",
+   "notes": "A car sitting there is the intransitive tomatteru: mise no mae ni kuruma tomatteru.",
+   "example": {
+    "romaji": "kuruma, doko ni tomereba ii?",
+    "ja": "車、どこに止めればいい？",
+    "english": "Where should I park the car?"
+   },
+   "examplePolite": {
+    "romaji": "kuruma wa doko ni tomereba ii desu ka?",
+    "ja": "車はどこに止めればいいですか？",
+    "english": "Where should I park the car?"
+   }
+  },
+  {
+   "id": "c-konbini-ni-yoru",
+   "romaji": "konbini ni yoru",
+   "polite": "konbini ni yorimasu",
+   "english": "stop by the convenience store",
+   "ja": "コンビニに寄る",
+   "kana": "コンビニによる",
+   "politeJa": "コンビニに寄ります",
+   "noun": "konbini",
+   "particle": "ni",
+   "verb": "yoru",
+   "verbJa": "寄る",
+   "verbSense": "drop in on the way; come close to",
+   "englishVerb": "stop",
+   "trap": "Not konbini ni tomaru: that tomaru is a car pulling up there (konbini de tomatte = pull over at the konbini; parking is kuruma o tomeru), and the overnight tomaru never fits a shop. Dropping in on the way is yoru: konbini yotteku.",
+   "partners": [
+    "suupaa (supermarket)",
+    "ginkou (bank)",
+    "tomodachi no ie (a friend's place)"
+   ],
+   "flags": [],
+   "use": "Almost always followed by a direction verb: konbini yotteku (I'll stop at the konbini on the way) or yotte kaeru (stop off on the way home). Casual speech drops ni.",
+   "notes": "Sounds the same as yoru (night) and -ni yoru (it depends on); yotteku? also invites someone to drop in.",
+   "example": {
+    "romaji": "chotto konbini yotteku ne.",
+    "ja": "ちょっとコンビニ寄ってくね。",
+    "english": "I'm just going to stop by the konbini."
+   },
+   "examplePolite": {
+    "romaji": "chotto konbini ni yotte ikimasu ne.",
+    "ja": "ちょっとコンビニに寄っていきますね。",
+    "english": "I'm just going to stop by the convenience store."
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-gomi-o-suteru",
+   "romaji": "gomi o suteru",
+   "english": "throw away rubbish",
+   "chunk": "Trash and tidying",
+   "recent": true
+  },
+  {
+   "id": "c-gomi-o-dasu",
+   "romaji": "gomi o dasu",
+   "english": "take out the trash",
+   "chunk": "Trash and tidying",
+   "recent": true
+  },
+  {
+   "id": "c-heya-o-katazukeru",
+   "romaji": "heya o katazukeru",
+   "english": "tidy up one's room",
+   "chunk": "Trash and tidying",
+   "recent": true
+  },
+  {
+   "id": "c-heya-ga-chirakaru",
+   "romaji": "heya ga chirakaru",
+   "english": "(a room) gets messy, is a mess",
+   "chunk": "Trash and tidying",
+   "recent": true
+  },
+  {
+   "id": "c-moto-ni-modosu",
+   "romaji": "moto ni modosu",
+   "english": "put back (as it was)",
+   "chunk": "Trash and tidying",
+   "recent": true
+  },
+  {
+   "id": "c-onegai-ga-aru",
+   "romaji": "onegai ga aru",
+   "english": "have a favour to ask",
+   "chunk": "Favours, sorry, cheer up",
+   "recent": true
+  },
+  {
+   "id": "c-meiwaku-o-kakeru",
+   "romaji": "meiwaku o kakeru",
+   "english": "cause someone trouble",
+   "chunk": "Favours, sorry, cheer up",
+   "recent": true
+  },
+  {
+   "id": "c-shinpai-o-kakeru",
+   "romaji": "shinpai o kakeru",
+   "english": "make someone worry",
+   "chunk": "Favours, sorry, cheer up",
+   "recent": true
+  },
+  {
+   "id": "c-genki-o-dasu",
+   "romaji": "genki o dasu",
+   "english": "cheer up",
+   "chunk": "Favours, sorry, cheer up",
+   "recent": true
+  },
+  {
+   "id": "c-ryokou-ni-iku",
+   "romaji": "ryokou ni iku",
+   "english": "go on a trip",
+   "chunk": "On a trip",
+   "recent": true
+  },
+  {
+   "id": "c-hikouki-ni-noru",
+   "romaji": "hikouki ni noru",
+   "english": "fly, take a plane",
+   "chunk": "On a trip",
+   "recent": true
+  },
+  {
+   "id": "c-hoteru-ni-tomaru",
+   "romaji": "hoteru ni tomaru",
+   "english": "stay at a hotel",
+   "chunk": "On a trip",
+   "recent": true
+  },
+  {
+   "id": "c-omiyage-o-kau",
+   "romaji": "omiyage o kau",
+   "english": "buy gifts to take back",
+   "chunk": "On a trip",
+   "recent": true
+  },
+  {
+   "id": "c-onsen-ni-hairu",
+   "romaji": "onsen ni hairu",
+   "english": "bathe in a hot spring",
+   "chunk": "On a trip",
+   "recent": true
+  },
+  {
+   "id": "c-okane-o-tsukau",
+   "romaji": "okane o tsukau",
+   "english": "spend money",
+   "chunk": "Spending and saving",
+   "recent": true
+  },
+  {
+   "id": "c-kaado-o-tsukau",
+   "romaji": "kaado o tsukau",
+   "english": "pay by card",
+   "chunk": "Spending and saving",
+   "recent": true
+  },
+  {
+   "id": "c-okane-o-tameru",
+   "romaji": "okane o tameru",
+   "english": "save up money",
+   "chunk": "Spending and saving",
+   "recent": true
+  },
+  {
+   "id": "c-pointo-o-tameru",
+   "romaji": "pointo o tameru",
+   "english": "collect loyalty points",
+   "chunk": "Spending and saving",
+   "recent": true
+  },
+  {
+   "id": "c-bangou-o-oshieru",
+   "romaji": "bangou o oshieru",
+   "english": "give someone your number",
+   "chunk": "Numbers and messages",
+   "recent": true
+  },
+  {
+   "id": "c-meeru-o-okuru",
+   "romaji": "meeru o okuru",
+   "english": "send an email",
+   "chunk": "Numbers and messages",
+   "recent": true
+  },
+  {
+   "id": "c-meeru-ga-kuru",
+   "romaji": "meeru ga kuru",
+   "english": "get an email",
+   "chunk": "Numbers and messages",
+   "recent": true
+  },
+  {
+   "id": "c-meeru-o-kaesu",
+   "romaji": "meeru o kaesu",
+   "english": "reply to a message",
+   "chunk": "Numbers and messages",
+   "recent": true
+  },
+  {
+   "id": "c-aji-ga-suru",
+   "romaji": "aji ga suru",
+   "english": "taste (like something)",
+   "chunk": "How it tastes",
+   "recent": true
+  },
+  {
+   "id": "c-aji-ga-usui",
+   "romaji": "aji ga usui",
+   "english": "lightly seasoned; bland (needs more salt)",
+   "chunk": "How it tastes",
+   "recent": true
+  },
+  {
+   "id": "c-aji-ga-koi",
+   "romaji": "aji ga koi",
+   "english": "strongly seasoned, rich",
+   "chunk": "How it tastes",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "yuki",
+   "kenta"
+  ],
+  "format": "dialogue"
+ }
+}

@@ -1,0 +1,395 @@
+{
+ "script": 52,
+ "of": 94,
+ "stage": 3,
+ "chunkId": "media-3",
+ "label": "Phone calls",
+ "topic": "Phone, photos & screens",
+ "rationale": "One phone call on the noun denwa: calling, picking up and hanging up, then the phone ringing and calls that came in for you.",
+ "mixUps": "The o/ni sets are things you do (kakeru, deru, kiru) and the ga sets happen to you (naru, aru, kakaru): denwa o kakeru vs denwa ga kakaru differ only in o/ga, with kara for the caller. This naru is 'ring', not naru 'become', and kiru ends the call.",
+ "targets": [
+  {
+   "id": "c-denwa-o-kakeru",
+   "romaji": "denwa o kakeru",
+   "polite": "denwa o kakemasu",
+   "english": "make a phone call",
+   "ja": "電話をかける",
+   "kana": "でんわをかける",
+   "politeJa": "電話をかけます",
+   "noun": "denwa",
+   "particle": "o",
+   "verb": "kakeru",
+   "verbJa": "かける",
+   "verbSense": "hang or put something onto something; set something going (a call, a record)",
+   "englishVerb": "call",
+   "trap": "Not yobu or iu: phoning someone is denwa o kakeru (or simply denwa suru); yobu is summon, iu is call something a name.",
+   "partners": [],
+   "flags": [],
+   "use": "Said when you phone someone, with the person marked by ni. For a plain 'I'll call you', denwa suru is the everyday default (ato de denwa suru ne); kakeru is what you hear for dialing and trying: kakete miru, nankai kakete mo denai (they don't pick up however many times I call). Casual speech drops o.",
+   "notes": "kakenaosu = call again (after a dropped or missed call). The number takes ni: kono bangou ni kakete.",
+   "example": {
+    "romaji": "chotto okaasan ni denwa kakete miru.",
+    "ja": "ちょっとお母さんに電話かけてみる。",
+    "english": "Let me try calling my mom."
+   },
+   "examplePolite": {
+    "romaji": "chotto haha ni denwa o kakete mimasu.",
+    "ja": "ちょっと母に電話をかけてみます。",
+    "english": "Let me try calling my mother."
+   }
+  },
+  {
+   "id": "c-denwa-ni-deru",
+   "romaji": "denwa ni deru",
+   "polite": "denwa ni demasu",
+   "english": "answer the phone",
+   "ja": "電話に出る",
+   "kana": "でんわにでる",
+   "politeJa": "電話に出ます",
+   "noun": "denwa",
+   "particle": "ni",
+   "verb": "deru",
+   "verbJa": "出る",
+   "verbSense": "come out, go out; appear",
+   "englishVerb": "answer",
+   "trap": "Not denwa ni kotaeru: picking up is denwa ni deru ('come out to the phone'); kotaeru answers a question. denwa o toru (lift the receiver) is also natural, especially for office phones: denwa totte!",
+   "partners": [
+    "intaahon (door intercom)"
+   ],
+   "flags": [],
+   "use": "Said about picking up, mostly in the negative: denwa denai (they're not picking up). Casual speech drops ni, and denwa dete means 'can you get the phone?'",
+   "notes": null,
+   "example": {
+    "romaji": "zenzen denwa denai n da kedo.",
+    "ja": "全然電話出ないんだけど。",
+    "english": "They're not picking up at all."
+   },
+   "examplePolite": {
+    "romaji": "zenzen denwa ni denai n desu kedo.",
+    "ja": "全然電話に出ないんですけど。",
+    "english": "They're not picking up at all."
+   }
+  },
+  {
+   "id": "c-denwa-o-kiru",
+   "romaji": "denwa o kiru",
+   "polite": "denwa o kirimasu",
+   "english": "hang up the phone",
+   "ja": "電話を切る",
+   "kana": "でんわをきる",
+   "politeJa": "電話を切ります",
+   "noun": "denwa",
+   "particle": "o",
+   "verb": "kiru",
+   "verbJa": "切る",
+   "verbSense": "cut; cut off",
+   "englishVerb": "hang up",
+   "trap": "Not kakeru ('hang'): denwa o kakeru makes the call; ending it is kiru ('cut').",
+   "partners": [
+    "dengen (power)",
+    "eakon (air conditioner)",
+    "suitchi (switch)"
+   ],
+   "flags": [],
+   "use": "Said at the end of a call (jaa, kiru ne = OK, I'll hang up) and for being hung up on (kirareta). Casual speech drops o.",
+   "notes": "Not kiru 'wear' (fuku o kiru): a different verb with different pitch and conjugation. Hung up = kitta, kirimasu; wore = kita, kimasu. Intransitive: denwa ga kireta = the call cut off.",
+   "example": {
+    "romaji": "gomen, machigaete denwa kitchatta.",
+    "ja": "ごめん、間違えて電話切っちゃった。",
+    "english": "Sorry, I hung up by mistake."
+   },
+   "examplePolite": {
+    "romaji": "sumimasen, machigaete denwa o kitchaimashita.",
+    "ja": "すみません、間違えて電話を切っちゃいました。",
+    "english": "Sorry, I hung up by mistake."
+   }
+  },
+  {
+   "id": "c-denwa-ga-naru",
+   "romaji": "denwa ga naru",
+   "polite": "denwa ga narimasu",
+   "english": "the phone rings",
+   "ja": "電話が鳴る",
+   "kana": "でんわがなる",
+   "politeJa": "電話が鳴ります",
+   "noun": "denwa",
+   "particle": "ga",
+   "verb": "naru",
+   "verbJa": "鳴る",
+   "verbSense": "ring, sound (a phone, bell or alarm)",
+   "englishVerb": "ring",
+   "trap": "Spelled like naru 'become' and conjugated alike (natteru, natta), but the pitch differs: naru 'ring' is flat (na-RU), while naru 'become' falls after na (NA-ru). So keitai natteru yo means 'your phone's ringing'. Ringing something yourself is the transitive narasu (chaimu o narasu).",
+   "partners": [
+    "keitai (cell phone)",
+    "mezamashi (alarm clock)",
+    "araamu (alarm)",
+    "intaahon (door intercom)"
+   ],
+   "flags": [],
+   "use": "Said as a heads-up when a phone rings, in the -teru form: denwa natteru yo (your phone's ringing), often just natteru yo. Casual speech drops ga. The past natta is for a ring that already happened: sakki denwa natta yo.",
+   "notes": "Alarms and stomachs use it too: mezamashi naranakatta (my alarm didn't go off), onaka natta (my stomach rumbled).",
+   "example": {
+    "romaji": "nee, denwa natteru yo.",
+    "ja": "ねえ、電話鳴ってるよ。",
+    "english": "Hey, your phone's ringing."
+   },
+   "examplePolite": {
+    "romaji": "denwa ga nattemasu yo.",
+    "ja": "電話が鳴ってますよ。",
+    "english": "Your phone's ringing."
+   }
+  },
+  {
+   "id": "c-denwa-ga-aru",
+   "romaji": "denwa ga aru",
+   "polite": "denwa ga arimasu",
+   "english": "(someone) called, there was a call from X",
+   "ja": "電話がある",
+   "kana": "でんわがある",
+   "politeJa": "電話があります",
+   "noun": "denwa",
+   "particle": "ga",
+   "verb": "aru",
+   "verbJa": "ある",
+   "verbSense": "there is, exist; have; happen",
+   "englishVerb": "call",
+   "trap": "'Your mom called' is okaasan kara denwa atta yo, with the caller marked by kara; okaasan ni denwa atta means a call came for her. okaasan ga denwa shita sounds like she called someone else.",
+   "partners": [
+    "renraku (word from someone)",
+    "henji (reply)",
+    "chakushin (incoming call)"
+   ],
+   "flags": [],
+   "use": "Said when passing on who called, in the past with the caller marked by kara: obaachan kara denwa atta yo (Grandma called). At work, passing on a call takes the polite odenwa: tanaka-san kara odenwa ga arimashita. Casual speech often drops ga.",
+   "notes": "denwa kakatte kita tells the call coming in to you; denwa atta reports that a call happened, often to pass it on. denwa kita is the casual short form, and renraku atta covers word by any channel.",
+   "example": {
+    "romaji": "tanaka-san kara denwa atta yo. orikaeshite hoshii tte.",
+    "ja": "田中さんから電話あったよ。折り返してほしいって。",
+    "english": "Tanaka called. He wants you to call him back."
+   },
+   "examplePolite": {
+    "romaji": "sakihodo tanaka-san kara odenwa ga arimashita.",
+    "ja": "先ほど田中さんからお電話がありました。",
+    "english": "Mr. Tanaka called earlier."
+   }
+  },
+  {
+   "id": "c-denwa-ga-kakaru",
+   "romaji": "denwa ga kakaru",
+   "polite": "denwa ga kakarimasu",
+   "english": "get a phone call",
+   "ja": "電話がかかる",
+   "kana": "でんわがかかる",
+   "politeJa": "電話がかかります",
+   "noun": "denwa",
+   "particle": "ga",
+   "verb": "kakaru",
+   "verbJa": "かかる",
+   "verbSense": "hang, be put onto; get going (the intransitive of kakeru)",
+   "englishVerb": "call",
+   "trap": "Not okaasan kara denwa kaketa: kaketa says you made the call. An incoming call makes either the call the subject (okaasan kara denwa kakatte kita) or the caller the subject with -te kuru (okaasan ga denwa kakete kita). denwa kita and denwa moratta are also natural.",
+   "partners": [
+    "ongaku (music, already playing)",
+    "eakon (air conditioner, running)",
+    "enjin (engine, starting)"
+   ],
+   "flags": [],
+   "use": "Said of an incoming call, almost always as denwa kakatte kita (I got a call), with the caller marked by kara. The -te kuru shows the call coming toward you.",
+   "notes": "denwa kita is the short everyday version. Passing on a call that came while someone was out is denwa ga aru: tanaka-san kara denwa ga arimashita. This -te kuru means 'toward me', not the 'go and do' sense of -te kuru. The partners take kakaru in its 'running' sense.",
+   "example": {
+    "romaji": "sakki okaasan kara denwa kakatte kita.",
+    "ja": "さっきお母さんから電話かかってきた。",
+    "english": "My mom called a little while ago."
+   },
+   "examplePolite": {
+    "romaji": "sakki haha kara denwa ga kakatte kimashita.",
+    "ja": "さっき母から電話がかかってきました。",
+    "english": "My mother called a little while ago."
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-yoko-ni-naru",
+   "romaji": "yoko ni naru",
+   "english": "lie down",
+   "chunk": "Rest and recovery",
+   "recent": true
+  },
+  {
+   "id": "c-netsu-ga-sagaru",
+   "romaji": "netsu ga sagaru",
+   "english": "fever goes down",
+   "chunk": "Rest and recovery",
+   "recent": true
+  },
+  {
+   "id": "c-kaze-ga-naoru",
+   "romaji": "kaze ga naoru",
+   "english": "get over a cold",
+   "chunk": "Rest and recovery",
+   "recent": true
+  },
+  {
+   "id": "c-tsukare-ga-toreru",
+   "romaji": "tsukare ga toreru",
+   "english": "shake off tiredness, feel rested",
+   "chunk": "Rest and recovery",
+   "recent": true
+  },
+  {
+   "id": "c-okane-ga-kakaru",
+   "romaji": "okane ga kakaru",
+   "english": "cost money",
+   "chunk": "Costs and paying",
+   "recent": true
+  },
+  {
+   "id": "c-ikura-suru",
+   "romaji": "ikura suru",
+   "english": "how much it costs (price + suru)",
+   "chunk": "Costs and paying",
+   "recent": true
+  },
+  {
+   "id": "c-nedan-ga-takai",
+   "romaji": "nedan ga takai",
+   "english": "the price is high",
+   "chunk": "Costs and paying",
+   "recent": true
+  },
+  {
+   "id": "c-okane-o-harau",
+   "romaji": "okane o harau",
+   "english": "pay (money)",
+   "chunk": "Costs and paying",
+   "recent": true
+  },
+  {
+   "id": "c-warikan-ni-suru",
+   "romaji": "warikan ni suru",
+   "english": "split the bill",
+   "chunk": "Costs and paying",
+   "recent": true
+  },
+  {
+   "id": "c-zubon-o-haku",
+   "romaji": "zubon o haku",
+   "english": "put on / wear trousers",
+   "chunk": "Trying clothes on",
+   "recent": true
+  },
+  {
+   "id": "c-fuku-o-kigaeru",
+   "romaji": "fuku o kigaeru",
+   "english": "change clothes, get changed",
+   "chunk": "Trying clothes on",
+   "recent": true
+  },
+  {
+   "id": "c-fuku-ga-niau",
+   "romaji": "fuku ga niau",
+   "english": "suit someone, look good on someone",
+   "chunk": "Trying clothes on",
+   "recent": true
+  },
+  {
+   "id": "c-saizu-ga-au",
+   "romaji": "saizu ga au",
+   "english": "be the right size, fit",
+   "chunk": "Trying clothes on",
+   "recent": true
+  },
+  {
+   "id": "c-jikan-ga-aku",
+   "romaji": "jikan ga aku",
+   "english": "be free (have time)",
+   "chunk": "Are you free?",
+   "recent": true
+  },
+  {
+   "id": "c-yotei-ga-aru",
+   "romaji": "yotei ga aru",
+   "english": "have plans",
+   "chunk": "Are you free?",
+   "recent": true
+  },
+  {
+   "id": "c-tsugou-ga-ii",
+   "romaji": "tsugou ga ii",
+   "english": "suit someone, be convenient",
+   "chunk": "Are you free?",
+   "recent": true
+  },
+  {
+   "id": "c-tsugou-ga-warui",
+   "romaji": "tsugou ga warui",
+   "english": "not suit someone, can't make it (a time)",
+   "chunk": "Are you free?",
+   "recent": true
+  },
+  {
+   "id": "c-tomodachi-ni-au",
+   "romaji": "tomodachi ni au",
+   "english": "see a friend, meet up",
+   "chunk": "Seeing people",
+   "recent": true
+  },
+  {
+   "id": "c-uchi-made-okuru",
+   "romaji": "ie made okuru",
+   "english": "see or drive someone home",
+   "chunk": "Seeing people",
+   "recent": true
+  },
+  {
+   "id": "c-jikka-ni-kaeru",
+   "romaji": "jikka ni kaeru",
+   "english": "go home to your parents'",
+   "chunk": "Seeing people",
+   "recent": true
+  },
+  {
+   "id": "c-tanjoubi-o-iwau",
+   "romaji": "tanjoubi o iwau",
+   "english": "celebrate a birthday",
+   "chunk": "Seeing people",
+   "recent": true
+  },
+  {
+   "id": "c-nomi-ni-iku",
+   "romaji": "nomi ni iku",
+   "english": "go out for drinks",
+   "chunk": "Drinking out",
+   "recent": true
+  },
+  {
+   "id": "c-tabako-o-suu",
+   "romaji": "tabako o suu",
+   "english": "smoke (a cigarette)",
+   "chunk": "Drinking out",
+   "recent": true
+  },
+  {
+   "id": "c-osake-ga-yowai",
+   "romaji": "osake ga yowai",
+   "english": "can't hold one's drink",
+   "chunk": "Drinking out",
+   "recent": true
+  },
+  {
+   "id": "c-osake-ga-tsuyoi",
+   "romaji": "osake ga tsuyoi",
+   "english": "can hold one's drink",
+   "chunk": "Drinking out",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "kenta",
+   "sora"
+  ],
+  "format": "dialogue"
+ }
+}

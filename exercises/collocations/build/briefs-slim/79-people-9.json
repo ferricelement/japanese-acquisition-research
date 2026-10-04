@@ -1,0 +1,298 @@
+{
+ "script": 79,
+ "of": 94,
+ "stage": 4,
+ "chunkId": "people-9",
+ "label": "Pride and teasing",
+ "topic": "People & talk",
+ "rationale": "Looking foolish or cool: being made fun of, embarrassing yourself, and showing off.",
+ "mixUps": "Making fun of someone is baka ni suru (baka ni shinaide), not warau. haji o kaku uses the same kaku as ase o kaku. kakko tsukeru is acting cool, while kakko ii is being cool.",
+ "targets": [
+  {
+   "id": "c-baka-ni-suru",
+   "romaji": "baka ni suru",
+   "polite": "baka ni shimasu",
+   "english": "make fun of, look down on",
+   "ja": "バカにする",
+   "kana": "バカにする",
+   "politeJa": "バカにします",
+   "noun": "baka",
+   "particle": "ni",
+   "verb": "suru",
+   "verbJa": "する",
+   "verbSense": "do; with X ni, treat as or make into X",
+   "englishVerb": "make fun of",
+   "trap": "English 'make fun of' leads to karakau, which is right for playful teasing but too light for contempt. Mocking someone or treating them as stupid is baka ni suru.",
+   "partners": [
+    "nakamahazure (leaving someone out: nakamahazure ni sareta)"
+   ],
+   "flags": [],
+   "use": "Heard most in protest: baka ni shinaide (don't make fun of me), baka ni shiteru no? (are you mocking me?), and in the passive, baka ni sareta (they made fun of me). It covers both mocking and treating someone as stupid.",
+   "notes": "baka ni dekinai = not to be underestimated: konbini no bentou, baka ni dekinai yo.",
+   "example": {
+    "romaji": "baka ni shinaide yo.",
+    "ja": "バカにしないでよ。",
+    "english": "Don't make fun of me."
+   },
+   "examplePolite": {
+    "romaji": "baka ni shinaide kudasai.",
+    "ja": "バカにしないでください。",
+    "english": "Please don't make fun of me."
+   }
+  },
+  {
+   "id": "c-haji-o-kaku",
+   "romaji": "haji o kaku",
+   "polite": "haji o kakimasu",
+   "english": "embarrass yourself, make a fool of yourself",
+   "ja": "恥をかく",
+   "kana": "はじをかく",
+   "politeJa": "恥をかきます",
+   "noun": "haji",
+   "particle": "o",
+   "verb": "kaku",
+   "verbJa": "かく",
+   "verbSense": "scratch; with sweat, snoring or shame, give off or come out in",
+   "englishVerb": "embarrass",
+   "trap": "English 'I embarrassed myself' leads to jibun o hazukashiku shita, which isn't said. The incident is haji o kaku (the kaku of ase o kaku, not kaku 'write'); hazukashikatta is how it felt.",
+   "partners": [
+    "ase (sweat)",
+    "ibiki (snoring)"
+   ],
+   "flags": [],
+   "use": "Mostly told after the fact: minna no mae de haji o kaita (I made a fool of myself in front of everyone), with o kept far more often than in most sets, though haji kaita is heard too. Making someone else look bad is haji o kakaseru: haji o kakasenaide yo (don't embarrass me).",
+   "notes": "hazukashii is the feeling; haji o kaku is the incident that causes it.",
+   "example": {
+    "romaji": "minna no mae de haji o kaita.",
+    "ja": "みんなの前で恥をかいた。",
+    "english": "I made a fool of myself in front of everyone."
+   },
+   "examplePolite": {
+    "romaji": "minna no mae de haji o kakimashita.",
+    "ja": "みんなの前で恥をかきました。",
+    "english": "I embarrassed myself in front of everyone."
+   }
+  },
+  {
+   "id": "c-kakkou-o-tsukeru",
+   "romaji": "kakko tsukeru",
+   "polite": "kakko tsukemasu",
+   "english": "show off, act cool",
+   "ja": "かっこつける",
+   "kana": "かっこつける",
+   "politeJa": "かっこつけます",
+   "noun": "kakko",
+   "particle": null,
+   "verb": "tsukeru",
+   "verbJa": "つける",
+   "verbSense": "attach, put on; here, put on a look or front",
+   "englishVerb": "show off",
+   "trap": "English 'show off' leads to jiman suru, which is bragging in words about what you have or did. Putting on a cool act is kakko tsukeru, and the long-vowel kakkou o suru is about clothes: hen na kakkou shiteru (you're dressed weird).",
+   "partners": [],
+   "flags": [],
+   "use": "Said with the short vowel and no o: kakko tsukenaide (quit posing), kakko tsuketeru dake (he's just trying to look cool). A poser is a kakkotsuke. The dictionary form is kakkou o tsukeru (格好をつける).",
+   "notes": "kakkoii (cool) and kakkowarui (uncool, embarrassing) are built on the same noun.",
+   "example": {
+    "romaji": "kakko tsukenakute ii yo.",
+    "ja": "かっこつけなくていいよ。",
+    "english": "You don't need to act cool."
+   },
+   "examplePolite": {
+    "romaji": "kakko tsukenakute ii desu yo.",
+    "ja": "かっこつけなくていいですよ。",
+    "english": "There's no need to put on a show."
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-masuku-o-suru",
+   "romaji": "masuku o suru",
+   "english": "wear a mask",
+   "chunk": "Masks and glasses",
+   "recent": true
+  },
+  {
+   "id": "c-masuku-o-hazusu",
+   "romaji": "masuku o hazusu",
+   "english": "take off a mask",
+   "chunk": "Masks and glasses",
+   "recent": true
+  },
+  {
+   "id": "c-megane-o-kakeru",
+   "romaji": "megane o kakeru",
+   "english": "wear / put on glasses",
+   "chunk": "Masks and glasses",
+   "recent": true
+  },
+  {
+   "id": "c-megane-o-hazusu",
+   "romaji": "megane o hazusu",
+   "english": "take off glasses",
+   "chunk": "Masks and glasses",
+   "recent": true
+  },
+  {
+   "id": "c-shiken-o-ukeru",
+   "romaji": "shiken o ukeru",
+   "english": "take an exam",
+   "chunk": "Exams and results",
+   "recent": true
+  },
+  {
+   "id": "c-ten-o-toru",
+   "romaji": "ten o toru",
+   "english": "score, get marks (on a test)",
+   "chunk": "Exams and results",
+   "recent": true
+  },
+  {
+   "id": "c-kekka-ga-deru",
+   "romaji": "kekka ga deru",
+   "english": "the results come out",
+   "chunk": "Exams and results",
+   "recent": true
+  },
+  {
+   "id": "c-shiken-ni-ukaru",
+   "romaji": "shiken ni ukaru",
+   "english": "pass an exam",
+   "chunk": "Exams and results",
+   "recent": true
+  },
+  {
+   "id": "c-shiken-ni-ochiru",
+   "romaji": "shiken ni ochiru",
+   "english": "fail an exam",
+   "chunk": "Exams and results",
+   "recent": true
+  },
+  {
+   "id": "c-okane-o-orosu",
+   "romaji": "okane o orosu",
+   "english": "withdraw cash",
+   "chunk": "Out on errands",
+   "recent": true
+  },
+  {
+   "id": "c-mise-ga-aku",
+   "romaji": "mise ga aku",
+   "english": "a shop opens (aiteru = is open)",
+   "chunk": "Out on errands",
+   "recent": true
+  },
+  {
+   "id": "c-mise-ga-shimaru",
+   "romaji": "mise ga shimaru",
+   "english": "a shop closes (shimatteru = is closed)",
+   "chunk": "Out on errands",
+   "recent": true
+  },
+  {
+   "id": "c-junban-o-matsu",
+   "romaji": "junban o matsu",
+   "english": "wait your turn",
+   "chunk": "Out on errands",
+   "recent": true
+  },
+  {
+   "id": "c-karada-ni-ii",
+   "romaji": "karada ni ii",
+   "english": "good for you, healthy",
+   "chunk": "Long-term health",
+   "recent": true
+  },
+  {
+   "id": "c-toshi-o-toru",
+   "romaji": "toshi o toru",
+   "english": "get older, age",
+   "chunk": "Long-term health",
+   "recent": true
+  },
+  {
+   "id": "c-tabako-o-yameru",
+   "romaji": "tabako o yameru",
+   "english": "quit smoking",
+   "chunk": "Long-term health",
+   "recent": true
+  },
+  {
+   "id": "c-arerugii-ga-aru",
+   "romaji": "arerugii ga aru",
+   "english": "be allergic (to something)",
+   "chunk": "Long-term health",
+   "recent": true
+  },
+  {
+   "id": "c-yaruki-ga-nai",
+   "romaji": "yaruki ga nai",
+   "english": "have no motivation, can't be bothered",
+   "chunk": "Motivation and mood",
+   "recent": true
+  },
+  {
+   "id": "c-yaruki-ga-deru",
+   "romaji": "yaruki ga deru",
+   "english": "get motivated",
+   "chunk": "Motivation and mood",
+   "recent": true
+  },
+  {
+   "id": "c-genki-ga-deru",
+   "romaji": "genki ga deru",
+   "english": "perk up, get a lift",
+   "chunk": "Motivation and mood",
+   "recent": true
+  },
+  {
+   "id": "c-tenshon-ga-agaru",
+   "romaji": "tenshon ga agaru",
+   "english": "get excited, get hyped",
+   "chunk": "Motivation and mood",
+   "recent": true
+  },
+  {
+   "id": "c-sutoresu-ga-tamaru",
+   "romaji": "sutoresu ga tamaru",
+   "english": "get stressed, stress builds up",
+   "chunk": "Motivation and mood",
+   "recent": true
+  },
+  {
+   "id": "c-reizouko-ni-ireru",
+   "romaji": "reizouko ni ireru",
+   "english": "put in the fridge",
+   "chunk": "Fridge and microwave",
+   "recent": true
+  },
+  {
+   "id": "c-bentou-o-atatameru",
+   "romaji": "obentou o atatameru",
+   "english": "heat up a boxed lunch",
+   "chunk": "Fridge and microwave",
+   "recent": true
+  },
+  {
+   "id": "c-futa-o-suru",
+   "romaji": "futa o suru",
+   "english": "put the lid on",
+   "chunk": "Fridge and microwave",
+   "recent": true
+  },
+  {
+   "id": "c-kigen-ga-kireru",
+   "romaji": "kigen ga kireru",
+   "english": "expire, be past its date",
+   "chunk": "Fridge and microwave",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "okaasan",
+   "kenji"
+  ],
+  "format": "dialogue"
+ }
+}

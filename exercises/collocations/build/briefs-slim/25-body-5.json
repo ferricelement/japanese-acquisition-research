@@ -1,0 +1,368 @@
+{
+ "script": 25,
+ "of": 94,
+ "stage": 2,
+ "chunkId": "body-5",
+ "label": "Getting sick",
+ "topic": "Body & health",
+ "rationale": "Coming down with something: catching a cold, catching one from someone, a real illness, getting run down and an upset stomach.",
+ "mixUps": "kaze o hiku is getting a cold; kaze ga utsuru is catching it from someone. byouki ni naru sounds like a real illness, so for a rough few days say taichou kuzushita. kuzusu and kowasu both mean break: taichou o kuzusu for your health in general, onaka o kowasu for your stomach. kaze 'cold' sounds like kaze 'wind'.",
+ "targets": [
+  {
+   "id": "c-kaze-o-hiku",
+   "romaji": "kaze o hiku",
+   "polite": "kaze o hikimasu",
+   "english": "catch a cold",
+   "ja": "風邪を引く",
+   "kana": "かぜをひく",
+   "politeJa": "風邪を引きます",
+   "noun": "kaze",
+   "particle": "o",
+   "verb": "hiku",
+   "verbJa": "引く",
+   "verbSense": "pull, draw; with a cold it means come down with",
+   "englishVerb": "catch",
+   "trap": "Not kaze o toru or tsukamu (catch a ball): you 'pull' a cold, kaze o hiku (kaze hiichatta).",
+   "partners": [],
+   "flags": [],
+   "use": "Kaze hiita (or hiichatta) = I've caught a cold; kaze hiiteru = I have a cold right now, not 'I'm catching one'. Usually said without o.",
+   "notes": "Kaze 'cold' sounds exactly like kaze 'wind' (kaze ga fuku = the wind blows), so this phrase is how 'a cold' is learned. Flu doesn't take hiku: infuru ni kakatta, infuru ni natta. Getting over a cold is kaze ga naoru (kaze, mou naotta?).",
+   "example": {
+    "romaji": "kaze hiichatta mitai.",
+    "ja": "風邪ひいちゃったみたい。",
+    "english": "I think I've caught a cold."
+   },
+   "examplePolite": {
+    "romaji": "kaze o hiita mitai desu.",
+    "ja": "風邪をひいたみたいです。",
+    "english": "I think I've caught a cold."
+   }
+  },
+  {
+   "id": "c-kaze-ga-utsuru",
+   "romaji": "kaze ga utsuru",
+   "polite": "kaze ga utsurimasu",
+   "english": "catch someone's cold",
+   "ja": "風邪がうつる",
+   "kana": "かぜがうつる",
+   "politeJa": "風邪がうつります",
+   "noun": "kaze",
+   "particle": "ga",
+   "verb": "utsuru",
+   "verbJa": "うつる",
+   "verbSense": "move, spread (to another place or person)",
+   "englishVerb": "catch",
+   "trap": "Kaze o hiku is just getting a cold; to say you caught it from someone, the cold moves to you, kaze ga utsuru.",
+   "partners": [
+    "infuru (flu)",
+    "akubi (a yawn)"
+   ],
+   "flags": [],
+   "use": "Heard as utsuru yo (you'll catch it) and kaze utsutta or utsutchatta (I caught it off someone). Say who from with kara (kodomo kara utsutta) or no (kodomo no kaze ga utsutta). Just as common: kaze o morau, 'receive' the cold (kodomo kara kaze moratchatta).",
+   "notes": "Giving your cold to someone else is kaze o utsusu: kaze utsushichatta, gomen (sorry, I gave you my cold).",
+   "example": {
+    "romaji": "kodomo no kaze, utsutchatta.",
+    "ja": "子供の風邪、うつっちゃった。",
+    "english": "I caught my kid's cold."
+   },
+   "examplePolite": {
+    "romaji": "kodomo no kaze ga utsutta mitai desu.",
+    "ja": "子供の風邪がうつったみたいです。",
+    "english": "I think I caught my child's cold."
+   }
+  },
+  {
+   "id": "c-byouki-ni-naru",
+   "romaji": "byouki ni naru",
+   "polite": "byouki ni narimasu",
+   "english": "get sick, fall ill",
+   "ja": "病気になる",
+   "kana": "びょうきになる",
+   "politeJa": "病気になります",
+   "noun": "byouki",
+   "particle": "ni",
+   "verb": "naru",
+   "verbJa": "なる",
+   "verbSense": "become, turn into",
+   "englishVerb": "get",
+   "trap": "English 'I got sick' is usually something minor, but byouki ni natta sounds like a real illness: for a cold or a rough few days say kaze hiita, guai ga waruku natta or taichou kuzushita. Byouki desu ('I'm sick') sounds more serious still.",
+   "partners": [
+    "infuru (flu)",
+    "netchuushou (heatstroke)",
+    "kafunshou (hay fever)",
+    "mushiba (a cavity)"
+   ],
+   "flags": [],
+   "use": "For falling ill with something real (byouki ni natta), or as a warning about overdoing it. The ni always stays.",
+   "notes": "Byouki ni kakaru (contract an illness) is more formal; getting better is byouki ga naoru.",
+   "example": {
+    "romaji": "muri suru to byouki ni naru yo.",
+    "ja": "無理すると病気になるよ。",
+    "english": "You'll make yourself sick if you push too hard."
+   },
+   "examplePolite": {
+    "romaji": "kyonen, chichi ga byouki ni natte, shibaraku taihen datta n desu.",
+    "ja": "去年、父が病気になって、しばらく大変だったんです。",
+    "english": "My father got sick last year, and things were hard for a while."
+   }
+  },
+  {
+   "id": "c-taichou-o-kuzusu",
+   "romaji": "taichou o kuzusu",
+   "polite": "taichou o kuzushimasu",
+   "english": "get run down, fall ill",
+   "ja": "体調を崩す",
+   "kana": "たいちょうをくずす",
+   "politeJa": "体調を崩します",
+   "noun": "taichou",
+   "particle": "o",
+   "verb": "kuzusu",
+   "verbJa": "崩す",
+   "verbSense": "knock down, break up (a wall, a pose); upset, throw off (balance, health, pace); also break a note into change",
+   "englishVerb": "get",
+   "trap": "Byouki ni naru isn't wrong but sounds like a proper illness; for a passing bug or being run down, people say taichou (o) kuzushita.",
+   "partners": [
+    "baransu (balance: lose your balance)",
+    "choushi (form: choushi o kuzusu = go off form)",
+    "peesu (pace: lose your rhythm)"
+   ],
+   "flags": [],
+   "use": "The standard way to explain a minor illness, mostly in the past: taichou kuzushichatte (I came down with something). It fills excuses for missing work or school, and the send-off taichou kuzusanai you ni ne (look after yourself). O often drops.",
+   "notes": "Taichou ga warui is the state; taichou o kuzusu is falling into it.",
+   "example": {
+    "romaji": "chotto taichou kuzushite, kinou yasunda.",
+    "ja": "ちょっと体調崩して、昨日休んだ。",
+    "english": "I got a bit run down and took yesterday off."
+   },
+   "examplePolite": {
+    "romaji": "chotto taichou o kuzushite, kinou wa yasumimashita.",
+    "ja": "ちょっと体調を崩して、昨日は休みました。",
+    "english": "I was a bit under the weather, so I took yesterday off."
+   }
+  },
+  {
+   "id": "c-onaka-o-kowasu",
+   "romaji": "onaka o kowasu",
+   "polite": "onaka o kowashimasu",
+   "english": "get an upset stomach",
+   "ja": "お腹を壊す",
+   "kana": "おなかをこわす",
+   "politeJa": "お腹を壊します",
+   "noun": "onaka",
+   "particle": "o",
+   "verb": "kowasu",
+   "verbJa": "壊す",
+   "verbSense": "break, damage (a thing); with the body, harm it",
+   "englishVerb": "upset",
+   "trap": "English 'have an upset stomach' gives no usable verb. Japanese 'breaks' the stomach with kowasu, transitive, with the speaker as subject: onaka kowashita.",
+   "partners": [
+    "karada (health: karada o kowasu = ruin your health)",
+    "hara (belly: rough, mostly male)"
+   ],
+   "flags": [],
+   "use": "The discreet everyday way to mention diarrhoea or a bad stomach, mostly past: onaka kowashita. Also a warning: sonna ni tabetara onaka kowasu yo. O often drops.",
+   "notes": "Onaka no choushi ga warui is the vaguer, more discreet version; geri (diarrhoea) is the clinic word.",
+   "example": {
+    "romaji": "tsumetai mono nomisugite, onaka kowashita.",
+    "ja": "冷たいもの飲みすぎて、お腹壊した。",
+    "english": "I drank too much cold stuff and upset my stomach."
+   },
+   "examplePolite": {
+    "romaji": "tsumetai mono o nomisugite, onaka o kowashimashita.",
+    "ja": "冷たいものを飲みすぎて、お腹を壊しました。",
+    "english": "I had too many cold drinks and upset my stomach."
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-geemu-o-suru",
+   "romaji": "geemu o suru",
+   "english": "play games (video games, cards and the like)",
+   "chunk": "Play and lessons",
+   "recent": true
+  },
+  {
+   "id": "c-sakkaa-o-suru",
+   "romaji": "sakkaa o suru",
+   "english": "play soccer",
+   "chunk": "Play and lessons",
+   "recent": true
+  },
+  {
+   "id": "c-piano-o-hiku",
+   "romaji": "piano o hiku",
+   "english": "play the piano",
+   "chunk": "Play and lessons",
+   "recent": true
+  },
+  {
+   "id": "c-piano-o-narau",
+   "romaji": "piano o narau",
+   "english": "take piano lessons",
+   "chunk": "Play and lessons",
+   "recent": true
+  },
+  {
+   "id": "c-guai-ga-warui",
+   "romaji": "guai ga warui",
+   "english": "feel unwell",
+   "chunk": "Feeling unwell",
+   "recent": true
+  },
+  {
+   "id": "c-taichou-ga-warui",
+   "romaji": "taichou ga warui",
+   "english": "not feel well, be under the weather (the safe phrase at work)",
+   "chunk": "Feeling unwell",
+   "recent": true
+  },
+  {
+   "id": "c-choushi-ga-warui",
+   "romaji": "choushi ga warui",
+   "english": "feel off; act up (devices)",
+   "chunk": "Feeling unwell",
+   "recent": true
+  },
+  {
+   "id": "c-choushi-ga-ii",
+   "romaji": "choushi ga ii",
+   "english": "be in good shape, going well",
+   "chunk": "Feeling unwell",
+   "recent": true
+  },
+  {
+   "id": "c-kibun-ga-warui",
+   "romaji": "kibun ga warui",
+   "english": "feel sick (queasy or faint); feel put off",
+   "chunk": "Feeling unwell",
+   "recent": true
+  },
+  {
+   "id": "c-jugyou-ga-aru",
+   "romaji": "jugyou ga aru",
+   "english": "have class",
+   "chunk": "What's on",
+   "recent": true
+  },
+  {
+   "id": "c-kaigi-ga-aru",
+   "romaji": "kaigi ga aru",
+   "english": "have a meeting",
+   "chunk": "What's on",
+   "recent": true
+  },
+  {
+   "id": "c-shiken-ga-aru",
+   "romaji": "shiken ga aru",
+   "english": "have an exam",
+   "chunk": "What's on",
+   "recent": true
+  },
+  {
+   "id": "c-shigoto-ga-hairu",
+   "romaji": "shigoto ga hairu",
+   "english": "work comes up",
+   "chunk": "What's on",
+   "recent": true
+  },
+  {
+   "id": "c-enki-ni-naru",
+   "romaji": "enki ni naru",
+   "english": "be postponed",
+   "chunk": "What's on",
+   "recent": true
+  },
+  {
+   "id": "c-un-ga-ii",
+   "romaji": "un ga ii",
+   "english": "be lucky",
+   "chunk": "Luck and help",
+   "recent": true
+  },
+  {
+   "id": "c-un-ga-warui",
+   "romaji": "un ga warui",
+   "english": "be unlucky",
+   "chunk": "Luck and help",
+   "recent": true
+  },
+  {
+   "id": "c-yaku-ni-tatsu",
+   "romaji": "yaku ni tatsu",
+   "english": "be useful, helpful",
+   "chunk": "Luck and help",
+   "recent": true
+  },
+  {
+   "id": "c-tame-ni-naru",
+   "romaji": "tame ni naru",
+   "english": "be worthwhile, do you good",
+   "chunk": "Luck and help",
+   "recent": true
+  },
+  {
+   "id": "c-mizu-o-nomu",
+   "romaji": "mizu o nomu",
+   "english": "drink water",
+   "chunk": "Drinks",
+   "recent": true
+  },
+  {
+   "id": "c-koohii-o-nomu",
+   "romaji": "koohii o nomu",
+   "english": "drink coffee",
+   "chunk": "Drinks",
+   "recent": true
+  },
+  {
+   "id": "c-osake-o-nomu",
+   "romaji": "osake o nomu",
+   "english": "drink (alcohol)",
+   "chunk": "Drinks",
+   "recent": true
+  },
+  {
+   "id": "c-ocha-o-nomu",
+   "romaji": "ocha o nomu",
+   "english": "have tea, drink tea",
+   "chunk": "Drinks",
+   "recent": true
+  },
+  {
+   "id": "c-gohan-o-taberu",
+   "romaji": "gohan o taberu",
+   "english": "eat, have a meal",
+   "chunk": "Meals at home",
+   "recent": true
+  },
+  {
+   "id": "c-gohan-o-tsukuru",
+   "romaji": "gohan o tsukuru",
+   "english": "cook a meal, make dinner",
+   "chunk": "Meals at home",
+   "recent": true
+  },
+  {
+   "id": "c-gohan-ga-dekiru",
+   "romaji": "gohan ga dekiru",
+   "english": "the meal gets ready (dekita = it's ready)",
+   "chunk": "Meals at home",
+   "recent": true
+  },
+  {
+   "id": "c-gohan-ga-sameru",
+   "romaji": "gohan ga sameru",
+   "english": "the food gets cold",
+   "chunk": "Meals at home",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "yuki",
+   "okaasan"
+  ],
+  "format": "monologue"
+ }
+}

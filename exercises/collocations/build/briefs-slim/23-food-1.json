@@ -1,0 +1,354 @@
+{
+ "script": 23,
+ "of": 94,
+ "stage": 2,
+ "chunkId": "food-1",
+ "label": "Drinks",
+ "topic": "Food & drink",
+ "rationale": "Water, coffee, alcohol and tea all take nomu. These are the four drinks people offer and ask about every day.",
+ "mixUps": "All four take nomu, so drill them in one frame (mizu nomu? koohii nomu?); medicine and soup take nomu too. Making the tea or coffee is ocha o ireru (in Breakfast), never ocha o tsukuru.",
+ "targets": [
+  {
+   "id": "c-mizu-o-nomu",
+   "romaji": "mizu o nomu",
+   "polite": "mizu o nomimasu",
+   "english": "drink water",
+   "ja": "水を飲む",
+   "kana": "みずをのむ",
+   "politeJa": "水を飲みます",
+   "noun": "mizu",
+   "particle": "o",
+   "verb": "nomu",
+   "verbJa": "飲む",
+   "verbSense": "drink; swallow without chewing",
+   "englishVerb": "drink",
+   "trap": null,
+   "partners": [
+    "gyuunyuu (milk)",
+    "suupu (soup, even with a spoon)",
+    "misoshiru (miso soup)"
+   ],
+   "flags": [],
+   "use": "Often heard as care and advice, after drinking alcohol or in the heat: mizu nonda? (have you had some water?), mizu nonde ne (make sure you drink water). Also when thirsty: nodo kawaita, mizu nomitai (I'm thirsty, I want some water). Casual speech drops o.",
+   "notes": "mizu is cold or room-temperature water; hot water is oyu, not atsui mizu. In restaurants ask for omizu, which is free. In polite heat warnings you hear komame ni suibun o totte kudasai (keep taking fluids).",
+   "example": {
+    "romaji": "atsui kara, mizu chanto nonde ne.",
+    "ja": "暑いから、水ちゃんと飲んでね。",
+    "english": "It's hot, so make sure you drink enough water."
+   },
+   "examplePolite": {
+    "romaji": "atsui node, omizu o chanto nonde kudasai ne.",
+    "ja": "暑いので、お水をちゃんと飲んでくださいね。",
+    "english": "It's hot, so please make sure you drink enough water."
+   }
+  },
+  {
+   "id": "c-koohii-o-nomu",
+   "romaji": "koohii o nomu",
+   "polite": "koohii o nomimasu",
+   "english": "drink coffee",
+   "ja": "コーヒーを飲む",
+   "kana": "コーヒーをのむ",
+   "politeJa": "コーヒーを飲みます",
+   "noun": "koohii",
+   "particle": "o",
+   "verb": "nomu",
+   "verbJa": "飲む",
+   "verbSense": "drink; swallow without chewing",
+   "englishVerb": "drink",
+   "trap": null,
+   "partners": [
+    "kafeore (milky coffee)",
+    "kokoa (hot chocolate)",
+    "juusu (juice)"
+   ],
+   "flags": [],
+   "use": "Used to offer a cup and to talk about habits: koohii nomu? (want a coffee?), koohii wa nomanai (I don't drink coffee). Casual speech drops o, and koohii demo nomu? (a coffee or something?) softens an invitation.",
+   "notes": "To order, say koohii (o) onegaishimasu or koohii ni shimasu (I'll have coffee). Making it is koohii o ireru.",
+   "example": {
+    "romaji": "asa wa koohii nomanai to dame na n da.",
+    "ja": "朝はコーヒー飲まないとダメなんだ。",
+    "english": "I can't get going in the morning without coffee."
+   },
+   "examplePolite": {
+    "romaji": "asa wa koohii o nomanai to dame na n desu.",
+    "ja": "朝はコーヒーを飲まないとダメなんです。",
+    "english": "I can't get going in the morning without coffee."
+   }
+  },
+  {
+   "id": "c-osake-o-nomu",
+   "romaji": "osake o nomu",
+   "polite": "osake o nomimasu",
+   "english": "drink (alcohol)",
+   "ja": "お酒を飲む",
+   "kana": "おさけをのむ",
+   "politeJa": "お酒を飲みます",
+   "noun": "osake",
+   "particle": "o",
+   "verb": "nomu",
+   "verbJa": "飲む",
+   "verbSense": "drink; swallow without chewing",
+   "englishVerb": "drink",
+   "trap": "Learners take osake to mean Japanese sake, but it covers any alcohol, beer and wine included; rice wine is nihonshu.",
+   "partners": [
+    "biiru (beer)",
+    "wain (wine)",
+    "nihonshu (Japanese sake)",
+    "haibooru (highball)"
+   ],
+   "flags": [],
+   "use": "Used to ask about and describe drinking: osake nomu? or osake nomeru? (do you drink?), anmari nomanai (I don't drink much). Casual speech drops o, and once drinking is the topic nomu alone means alcohol: kinou nomisugita (I drank too much last night).",
+   "notes": "nomi ni iku (go out for drinks) and nomikai (a drinking party) use the same nomu. How much you can take is osake ni tsuyoi / osake ni yowai, casually osake yowai n da (I'm a lightweight). Bare sake (sake nomou ze) is rougher, mostly male speech; osake is the everyday default for everyone.",
+   "example": {
+    "romaji": "kyou kuruma da kara, osake wa nomenai.",
+    "ja": "今日車だから、お酒は飲めない。",
+    "english": "I'm driving today, so I can't drink."
+   },
+   "examplePolite": {
+    "romaji": "kyou wa kuruma na node, osake wa nomenai n desu.",
+    "ja": "今日は車なので、お酒は飲めないんです。",
+    "english": "I'm driving today, so I can't drink."
+   }
+  },
+  {
+   "id": "c-ocha-o-nomu",
+   "romaji": "ocha o nomu",
+   "polite": "ocha o nomimasu",
+   "english": "have tea, drink tea",
+   "ja": "お茶を飲む",
+   "kana": "おちゃをのむ",
+   "politeJa": "お茶を飲みます",
+   "noun": "ocha",
+   "particle": "o",
+   "verb": "nomu",
+   "verbJa": "飲む",
+   "verbSense": "drink; swallow without chewing",
+   "englishVerb": "have",
+   "trap": "English 'tea' means black tea, but ocha is green or other Japanese tea (mugicha, houjicha); black tea, with or without milk, is koucha.",
+   "partners": [
+    "koucha (black tea)",
+    "mugicha (barley tea)",
+    "uuroncha (oolong tea)"
+   ],
+   "flags": [],
+   "use": "Said at home and at work, and as a soft offer or invitation: ocha demo nomu? (fancy a cup of tea?). Casual speech drops o, and ocha means whatever Japanese tea is on hand, including cold mugicha.",
+   "notes": "ocha ni shiyou / ocha ni shimashou ka (let's stop for tea) is the usual way to call a tea break. ocha shinai? / ocha shiyou (go for tea) means a café break, coffee included. Making the tea is ocha o ireru.",
+   "example": {
+    "romaji": "chotto kyuukei shite, ocha demo nomou.",
+    "ja": "ちょっと休憩して、お茶でも飲もう。",
+    "english": "Let's take a short break and have some tea."
+   },
+   "examplePolite": {
+    "romaji": "chotto kyuukei shite, ocha demo nomimashou.",
+    "ja": "ちょっと休憩して、お茶でも飲みましょう。",
+    "english": "Let's take a short break and have some tea."
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-atama-ga-itai",
+   "romaji": "atama ga itai",
+   "english": "have a headache",
+   "chunk": "Aches and pains",
+   "recent": true
+  },
+  {
+   "id": "c-onaka-ga-itai",
+   "romaji": "onaka ga itai",
+   "english": "have a stomachache",
+   "chunk": "Aches and pains",
+   "recent": true
+  },
+  {
+   "id": "c-nodo-ga-itai",
+   "romaji": "nodo ga itai",
+   "english": "have a sore throat",
+   "chunk": "Aches and pains",
+   "recent": true
+  },
+  {
+   "id": "c-koshi-ga-itai",
+   "romaji": "koshi ga itai",
+   "english": "have lower back pain",
+   "chunk": "Aches and pains",
+   "recent": true
+  },
+  {
+   "id": "c-kata-ga-koru",
+   "romaji": "kata ga koru",
+   "english": "have stiff shoulders",
+   "chunk": "Aches and pains",
+   "recent": true
+  },
+  {
+   "id": "c-tomodachi-ga-dekiru",
+   "romaji": "tomodachi ga dekiru",
+   "english": "make a friend, make friends",
+   "chunk": "Making friends",
+   "recent": true
+  },
+  {
+   "id": "c-tomodachi-ni-naru",
+   "romaji": "tomodachi ni naru",
+   "english": "become friends (with someone)",
+   "chunk": "Making friends",
+   "recent": true
+  },
+  {
+   "id": "c-namae-o-oshieru",
+   "romaji": "namae o oshieru",
+   "english": "tell someone your name",
+   "chunk": "Making friends",
+   "recent": true
+  },
+  {
+   "id": "c-koe-o-kakeru",
+   "romaji": "koe o kakeru",
+   "english": "speak to, call out to; ask along",
+   "chunk": "Making friends",
+   "recent": true
+  },
+  {
+   "id": "c-deai-ga-aru",
+   "romaji": "deai ga aru",
+   "english": "meet someone new",
+   "chunk": "Making friends",
+   "recent": true
+  },
+  {
+   "id": "c-geemu-o-suru",
+   "romaji": "geemu o suru",
+   "english": "play games (video games, cards and the like)",
+   "chunk": "Play and lessons",
+   "recent": true
+  },
+  {
+   "id": "c-sakkaa-o-suru",
+   "romaji": "sakkaa o suru",
+   "english": "play soccer",
+   "chunk": "Play and lessons",
+   "recent": true
+  },
+  {
+   "id": "c-piano-o-hiku",
+   "romaji": "piano o hiku",
+   "english": "play the piano",
+   "chunk": "Play and lessons",
+   "recent": true
+  },
+  {
+   "id": "c-piano-o-narau",
+   "romaji": "piano o narau",
+   "english": "take piano lessons",
+   "chunk": "Play and lessons",
+   "recent": true
+  },
+  {
+   "id": "c-guai-ga-warui",
+   "romaji": "guai ga warui",
+   "english": "feel unwell",
+   "chunk": "Feeling unwell",
+   "recent": true
+  },
+  {
+   "id": "c-taichou-ga-warui",
+   "romaji": "taichou ga warui",
+   "english": "not feel well, be under the weather (the safe phrase at work)",
+   "chunk": "Feeling unwell",
+   "recent": true
+  },
+  {
+   "id": "c-choushi-ga-warui",
+   "romaji": "choushi ga warui",
+   "english": "feel off; act up (devices)",
+   "chunk": "Feeling unwell",
+   "recent": true
+  },
+  {
+   "id": "c-choushi-ga-ii",
+   "romaji": "choushi ga ii",
+   "english": "be in good shape, going well",
+   "chunk": "Feeling unwell",
+   "recent": true
+  },
+  {
+   "id": "c-kibun-ga-warui",
+   "romaji": "kibun ga warui",
+   "english": "feel sick (queasy or faint); feel put off",
+   "chunk": "Feeling unwell",
+   "recent": true
+  },
+  {
+   "id": "c-jugyou-ga-aru",
+   "romaji": "jugyou ga aru",
+   "english": "have class",
+   "chunk": "What's on",
+   "recent": true
+  },
+  {
+   "id": "c-kaigi-ga-aru",
+   "romaji": "kaigi ga aru",
+   "english": "have a meeting",
+   "chunk": "What's on",
+   "recent": true
+  },
+  {
+   "id": "c-shiken-ga-aru",
+   "romaji": "shiken ga aru",
+   "english": "have an exam",
+   "chunk": "What's on",
+   "recent": true
+  },
+  {
+   "id": "c-shigoto-ga-hairu",
+   "romaji": "shigoto ga hairu",
+   "english": "work comes up",
+   "chunk": "What's on",
+   "recent": true
+  },
+  {
+   "id": "c-enki-ni-naru",
+   "romaji": "enki ni naru",
+   "english": "be postponed",
+   "chunk": "What's on",
+   "recent": true
+  },
+  {
+   "id": "c-un-ga-ii",
+   "romaji": "un ga ii",
+   "english": "be lucky",
+   "chunk": "Luck and help",
+   "recent": true
+  },
+  {
+   "id": "c-un-ga-warui",
+   "romaji": "un ga warui",
+   "english": "be unlucky",
+   "chunk": "Luck and help",
+   "recent": true
+  },
+  {
+   "id": "c-yaku-ni-tatsu",
+   "romaji": "yaku ni tatsu",
+   "english": "be useful, helpful",
+   "chunk": "Luck and help",
+   "recent": true
+  },
+  {
+   "id": "c-tame-ni-naru",
+   "romaji": "tame ni naru",
+   "english": "be worthwhile, do you good",
+   "chunk": "Luck and help",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "yuki",
+   "mai"
+  ],
+  "format": "dialogue"
+ }
+}

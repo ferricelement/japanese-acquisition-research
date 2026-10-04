@@ -1,0 +1,333 @@
+{
+ "script": 49,
+ "of": 94,
+ "stage": 3,
+ "chunkId": "time-money-4",
+ "label": "Are you free?",
+ "topic": "Time, money & plans",
+ "rationale": "Setting a time: are you free, have you got plans, and whether a time suits.",
+ "mixUps": "aiteru (got a gap) vs yotei aru (got plans) is the yes/no; tsugou ii / warui is the tactful pair for whether a time suits, not benri / fuben.",
+ "targets": [
+  {
+   "id": "c-jikan-ga-aku",
+   "romaji": "jikan ga aku",
+   "polite": "jikan ga akimasu",
+   "english": "be free (have time)",
+   "ja": "時間が空く",
+   "kana": "じかんがあく",
+   "politeJa": "時間が空きます",
+   "noun": "jikan",
+   "particle": "ga",
+   "verb": "aku",
+   "verbJa": "空く",
+   "verbSense": "become empty or free; open up (a seat, a room, a gap in time)",
+   "englishVerb": "free",
+   "trap": "Not jiyuu (free as in liberty) or tada (free of charge). A free slot is aku, 'open up': ashita aiteru?. ashita jikan aru? also works, and hima? is fine with friends but blunt to a senior.",
+   "partners": [
+    "seki (a seat)",
+    "heya (a room)",
+    "sukejuuru (schedule)"
+   ],
+   "flags": [],
+   "use": "Asking about or offering free time, nearly always as aiteru: ashita aiteru? / doyoubi nara aiteru yo. Plain aku means 'come free': jikan aitara renraku suru (I'll get in touch when I get a moment).",
+   "notes": "aku also means a shop is open (mise ga aku); both come out as aiteru. Asking someone politely, people say ojikan: ojikan aitemasu ka?",
+   "example": {
+    "romaji": "ashita jikan aiteru?",
+    "ja": "明日時間空いてる？",
+    "english": "Are you free tomorrow?"
+   },
+   "examplePolite": {
+    "romaji": "ashita wa jikan aitemasu ka?",
+    "ja": "明日は時間空いてますか？",
+    "english": "Are you free tomorrow?"
+   }
+  },
+  {
+   "id": "c-yotei-ga-aru",
+   "romaji": "yotei ga aru",
+   "polite": "yotei ga arimasu",
+   "english": "have plans",
+   "ja": "予定がある",
+   "kana": "よていがある",
+   "politeJa": "予定があります",
+   "noun": "yotei",
+   "particle": "ga",
+   "verb": "aru",
+   "verbJa": "ある",
+   "verbSense": "there is; have (things, events)",
+   "englishVerb": "have",
+   "trap": "Not yotei o motteru: plans exist, so it's yotei ga aru. And 'got plans?' is yotei aru?, not keikaku aru?, which sounds like asking about a worked-out scheme (a project, a trip itinerary).",
+   "partners": [
+    "youji (an errand)",
+    "yakusoku (an arrangement with someone)",
+    "baito (a part-time shift)"
+   ],
+   "flags": [],
+   "use": "Asked before an invitation (shuumatsu yotei aru?) and given as the reason for saying no (sono hi wa chotto yotei aru n da). Casual speech drops ga, and yotei nai means 'I'm free'.",
+   "notes": "A booked plan is yotei haitteru, and the politer excuse is senyaku ga atte (a prior engagement). Drawing up a schedule (a trip, a study plan) is yotei o tateru, like keikaku o tateru; fixing a day with friends is hi o kimeru, and arranging to meet is yakusoku suru.",
+   "example": {
+    "romaji": "shuumatsu, nanka yotei aru?",
+    "ja": "週末、なんか予定ある？",
+    "english": "Got any plans for the weekend?"
+   },
+   "examplePolite": {
+    "romaji": "shuumatsu wa nanika yotei ga arimasu ka?",
+    "ja": "週末は何か予定がありますか？",
+    "english": "Do you have any plans for the weekend?"
+   }
+  },
+  {
+   "id": "c-tsugou-ga-ii",
+   "romaji": "tsugou ga ii",
+   "polite": "tsugou ga ii desu",
+   "english": "suit someone, be convenient",
+   "ja": "都合がいい",
+   "kana": "つごうがいい",
+   "politeJa": "都合がいいです",
+   "noun": "tsugou",
+   "particle": "ga",
+   "verb": "ii",
+   "verbJa": "いい",
+   "verbSense": "good, fine, OK",
+   "englishVerb": "convenient",
+   "trap": "Not benri, which is for tools and places. A time that suits someone is tsugou ga ii, and 'can't make it' is tsugou ga warui.",
+   "partners": [],
+   "flags": [],
+   "use": "The tactful way to set a time, itsu ga tsugou ii? (when suits you?), and to decline, sono hi wa chotto tsugou ga warukute (that day doesn't quite work). Casual speech drops ga. Among close friends, ashita daijoubu? is more usual.",
+   "notes": "Asking someone above you: gotsugou ii desu ka? Declining politely: sono hi wa tsugou ga tsukanakute... (I can't make that day). tsugou ga tsuitara oshiete = let me know if you can make it. Said about a person, tsugou ii ne can be a dig: 'how convenient for you'.",
+   "example": {
+    "romaji": "ashita tsugou ii?",
+    "ja": "明日都合いい？",
+    "english": "Does tomorrow work for you?"
+   },
+   "examplePolite": {
+    "romaji": "ashita wa tsugou ii desu ka?",
+    "ja": "明日は都合いいですか？",
+    "english": "Does tomorrow work for you?"
+   }
+  },
+  {
+   "id": "c-tsugou-ga-warui",
+   "romaji": "tsugou ga warui",
+   "polite": "tsugou ga warui desu",
+   "english": "not suit someone, can't make it (a time)",
+   "ja": "都合が悪い",
+   "kana": "つごうがわるい",
+   "politeJa": "都合が悪いです",
+   "noun": "tsugou",
+   "particle": "ga",
+   "verb": "warui",
+   "verbJa": "悪い",
+   "verbSense": "bad, not good",
+   "englishVerb": "inconvenient",
+   "trap": "English 'inconvenient' leads to fuben, which is for places and tools (eki kara tookute fuben = it's a pain, being so far from the station). A time that doesn't suit you is tsugou ga warui.",
+   "partners": [
+    "taimingu (taimingu warui = bad timing, an unlucky moment; not a way to decline)"
+   ],
+   "flags": [],
+   "use": "For turning down a time: ashita tsugou warui (tomorrow's no good), or politely sumimasen, sono hi wa chotto tsugou ga warukute..., left trailing. Mostly for schedules; about a person it means 'doesn't suit them': jibun ni tsugou no warui koto wa kikanai (he won't listen to anything that doesn't suit him). With close friends, ashita chotto muri is also common.",
+   "notes": "Often cut short to chotto tsugou ga..., with warui left unsaid.",
+   "example": {
+    "romaji": "ashita tsugou warui kara, asatte wa?",
+    "ja": "明日都合悪いから、あさっては？",
+    "english": "Tomorrow's no good for me. How about the day after?"
+   },
+   "examplePolite": {
+    "romaji": "ashita wa chotto tsugou ga warui node, asatte wa dou desu ka?",
+    "ja": "明日はちょっと都合が悪いので、あさってはどうですか？",
+    "english": "Tomorrow doesn't really work for me. How about the day after?"
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-taifuu-ga-kuru",
+   "romaji": "taifuu ga kuru",
+   "english": "a typhoon comes (hits)",
+   "chunk": "Storms and quakes",
+   "recent": true
+  },
+  {
+   "id": "c-jishin-ga-okiru",
+   "romaji": "jishin ga okiru",
+   "english": "an earthquake happens, hits",
+   "chunk": "Storms and quakes",
+   "recent": true
+  },
+  {
+   "id": "c-kaminari-ga-naru",
+   "romaji": "kaminari ga naru",
+   "english": "it thunders; thunder rumbles",
+   "chunk": "Storms and quakes",
+   "recent": true
+  },
+  {
+   "id": "c-tenki-yohou-ga-hazureru",
+   "romaji": "tenki yohou ga hazureru",
+   "english": "the forecast is wrong",
+   "chunk": "Storms and quakes",
+   "recent": true
+  },
+  {
+   "id": "c-seikaku-ga-ii",
+   "romaji": "seikaku ga ii",
+   "english": "be a nice person",
+   "chunk": "Personality and mood",
+   "recent": true
+  },
+  {
+   "id": "c-seikaku-ga-warui",
+   "romaji": "seikaku ga warui",
+   "english": "be mean, nasty",
+   "chunk": "Personality and mood",
+   "recent": true
+  },
+  {
+   "id": "c-kanji-ga-ii",
+   "romaji": "kanji ga ii",
+   "english": "be pleasant, nice (person or place)",
+   "chunk": "Personality and mood",
+   "recent": true
+  },
+  {
+   "id": "c-genki-ga-nai",
+   "romaji": "genki ga nai",
+   "english": "be down, low on energy",
+   "chunk": "Personality and mood",
+   "recent": true
+  },
+  {
+   "id": "c-uso-o-tsuku",
+   "romaji": "uso o tsuku",
+   "english": "tell a lie",
+   "chunk": "Lies, jokes and complaints",
+   "recent": true
+  },
+  {
+   "id": "c-joudan-o-iu",
+   "romaji": "joudan o iu",
+   "english": "joke, kid around",
+   "chunk": "Lies, jokes and complaints",
+   "recent": true
+  },
+  {
+   "id": "c-monku-o-iu",
+   "romaji": "monku o iu",
+   "english": "complain",
+   "chunk": "Lies, jokes and complaints",
+   "recent": true
+  },
+  {
+   "id": "c-guchi-o-iu",
+   "romaji": "guchi o iu",
+   "english": "grumble, vent",
+   "chunk": "Lies, jokes and complaints",
+   "recent": true
+  },
+  {
+   "id": "c-naisho-ni-suru",
+   "romaji": "naisho ni suru",
+   "english": "keep it secret",
+   "chunk": "Lies, jokes and complaints",
+   "recent": true
+  },
+  {
+   "id": "c-yoko-ni-naru",
+   "romaji": "yoko ni naru",
+   "english": "lie down",
+   "chunk": "Rest and recovery",
+   "recent": true
+  },
+  {
+   "id": "c-netsu-ga-sagaru",
+   "romaji": "netsu ga sagaru",
+   "english": "fever goes down",
+   "chunk": "Rest and recovery",
+   "recent": true
+  },
+  {
+   "id": "c-kaze-ga-naoru",
+   "romaji": "kaze ga naoru",
+   "english": "get over a cold",
+   "chunk": "Rest and recovery",
+   "recent": true
+  },
+  {
+   "id": "c-tsukare-ga-toreru",
+   "romaji": "tsukare ga toreru",
+   "english": "shake off tiredness, feel rested",
+   "chunk": "Rest and recovery",
+   "recent": true
+  },
+  {
+   "id": "c-okane-ga-kakaru",
+   "romaji": "okane ga kakaru",
+   "english": "cost money",
+   "chunk": "Costs and paying",
+   "recent": true
+  },
+  {
+   "id": "c-ikura-suru",
+   "romaji": "ikura suru",
+   "english": "how much it costs (price + suru)",
+   "chunk": "Costs and paying",
+   "recent": true
+  },
+  {
+   "id": "c-nedan-ga-takai",
+   "romaji": "nedan ga takai",
+   "english": "the price is high",
+   "chunk": "Costs and paying",
+   "recent": true
+  },
+  {
+   "id": "c-okane-o-harau",
+   "romaji": "okane o harau",
+   "english": "pay (money)",
+   "chunk": "Costs and paying",
+   "recent": true
+  },
+  {
+   "id": "c-warikan-ni-suru",
+   "romaji": "warikan ni suru",
+   "english": "split the bill",
+   "chunk": "Costs and paying",
+   "recent": true
+  },
+  {
+   "id": "c-zubon-o-haku",
+   "romaji": "zubon o haku",
+   "english": "put on / wear trousers",
+   "chunk": "Trying clothes on",
+   "recent": true
+  },
+  {
+   "id": "c-fuku-o-kigaeru",
+   "romaji": "fuku o kigaeru",
+   "english": "change clothes, get changed",
+   "chunk": "Trying clothes on",
+   "recent": true
+  },
+  {
+   "id": "c-fuku-ga-niau",
+   "romaji": "fuku ga niau",
+   "english": "suit someone, look good on someone",
+   "chunk": "Trying clothes on",
+   "recent": true
+  },
+  {
+   "id": "c-saizu-ga-au",
+   "romaji": "saizu ga au",
+   "english": "be the right size, fit",
+   "chunk": "Trying clothes on",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "okaasan",
+   "kenji"
+  ],
+  "format": "dialogue"
+ }
+}

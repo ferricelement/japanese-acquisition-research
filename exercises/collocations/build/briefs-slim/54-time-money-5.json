@@ -1,0 +1,337 @@
+{
+ "script": 54,
+ "of": 94,
+ "stage": 3,
+ "chunkId": "time-money-5",
+ "label": "Can't make it",
+ "topic": "Time, money & plans",
+ "rationale": "The stock reasons for saying no or heading off: something on, an early start, already booked, a prior engagement.",
+ "mixUps": "All use aru or hairu, never motsu. youji ga atte is the vague errand excuse, yotei haitteru says the day is taken, senyaku ga atte is the politer 'prior engagement'; asa hayai kara makes the morning the subject. Something 'comes up' as youji ga dekita or yotei ga haitta, not okita.",
+ "targets": [
+  {
+   "id": "c-youji-ga-aru",
+   "romaji": "youji ga aru",
+   "polite": "youji ga arimasu",
+   "english": "have something to do",
+   "ja": "用事がある",
+   "kana": "ようじがある",
+   "politeJa": "用事があります",
+   "noun": "youji",
+   "particle": "ga",
+   "verb": "aru",
+   "verbJa": "ある",
+   "verbSense": "there is; have (things, events)",
+   "englishVerb": "have",
+   "trap": "English 'have' leads to motsu, but having plans or errands is aru (youji ga aru). And 'something came up' is youji ga dekita, not kita or okita.",
+   "partners": [
+    "yotei (plans)",
+    "yakusoku (an arrangement)",
+    "shigoto (work)"
+   ],
+   "flags": [],
+   "use": "The vague, polite reason for saying no or leaving: chotto youji ga atte..., left unfinished so the listener hears 'so I can't'. Nobody asks what the youji is. When something comes up, the verb is dekiru: kyuu ni youji ga dekichatte (something came up).",
+   "notes": null,
+   "example": {
+    "romaji": "ashita wa chotto youji atte...",
+    "ja": "明日はちょっと用事あって…",
+    "english": "Tomorrow I've got something on, so..."
+   },
+   "examplePolite": {
+    "romaji": "ashita wa chotto youji ga aru n desu ga...",
+    "ja": "明日はちょっと用事があるんですが…",
+    "english": "I've got something on tomorrow, I'm afraid..."
+   }
+  },
+  {
+   "id": "c-asa-ga-hayai",
+   "romaji": "asa ga hayai",
+   "polite": "asa ga hayai desu",
+   "english": "have an early start",
+   "ja": "朝が早い",
+   "kana": "あさがはやい",
+   "politeJa": "朝が早いです",
+   "noun": "asa",
+   "particle": "ga",
+   "verb": "hayai",
+   "verbJa": "早い",
+   "verbSense": "early; also fast, quick",
+   "englishVerb": "early",
+   "trap": null,
+   "partners": [
+    "kaeri (getting home: kyou kaeri hayai ne)",
+    "shuppatsu (setting off)"
+   ],
+   "flags": [],
+   "use": "The standard reason to leave or go to bed early: ashita asa hayai kara, mou neru ne. ga is nearly always dropped, and ashita hayai kara alone is common too. Said about someone's routine, asa hayai ne means they're up early.",
+   "notes": "The opposite is asa ga osoi (a late start), and asa yowai means you're not a morning person. ashita hayaku okinakya (I have to get up early) works just as well.",
+   "example": {
+    "romaji": "ashita asa hayai kara, mou neru ne.",
+    "ja": "明日朝早いから、もう寝るね。",
+    "english": "I've got an early start tomorrow, so I'm off to bed."
+   },
+   "examplePolite": {
+    "romaji": "ashita wa asa ga hayai node, mou nemasu ne.",
+    "ja": "明日は朝が早いので、もう寝ますね。",
+    "english": "I've got an early start tomorrow, so I'll go to bed now."
+   }
+  },
+  {
+   "id": "c-yotei-ga-hairu",
+   "romaji": "yotei ga hairu",
+   "polite": "yotei ga hairimasu",
+   "english": "have plans, get booked",
+   "ja": "予定が入る",
+   "kana": "よていがはいる",
+   "politeJa": "予定が入ります",
+   "noun": "yotei",
+   "particle": "ga",
+   "verb": "hairu",
+   "verbJa": "入る",
+   "verbSense": "go in, enter; get put into something",
+   "englishVerb": "come up",
+   "trap": "'Something came up' is kyuu ni youji ga dekita or kyuu ni yotei ga haitta, not okita (that sounds like an accident). Plain 'I have plans' is yotei ga aru, never yotei o motteru; haitteru adds that the day is already taken.",
+   "partners": [
+    "shigoto (work)",
+    "kaigi (a meeting)",
+    "baito (a part-time shift)"
+   ],
+   "flags": [],
+   "use": "Mostly as haitteru (is booked) or haitta (got booked): sono hi wa mou yotei haitteru. A sudden clash is kyuu ni yotei haitchatte.",
+   "notes": "Transitive partner: yotei o ireru (book something in).",
+   "example": {
+    "romaji": "ashita wa mou yotei haitteru",
+    "ja": "明日はもう予定入ってる",
+    "english": "I've already got plans tomorrow."
+   },
+   "examplePolite": {
+    "romaji": "ashita wa mou yotei ga haittemasu",
+    "ja": "明日はもう予定が入ってます",
+    "english": "I've already got plans tomorrow."
+   }
+  },
+  {
+   "id": "c-senyaku-ga-aru",
+   "romaji": "sen'yaku ga aru",
+   "polite": "sen'yaku ga arimasu",
+   "english": "have prior plans",
+   "ja": "先約がある",
+   "kana": "せんやくがある",
+   "politeJa": "先約があります",
+   "noun": "senyaku",
+   "particle": "ga",
+   "verb": "aru",
+   "verbJa": "ある",
+   "verbSense": "there is; have (things, events)",
+   "englishVerb": "have",
+   "trap": null,
+   "partners": [
+    "yotei (plans)",
+    "youji (an errand)"
+   ],
+   "flags": [],
+   "use": "The polite way to turn down an invitation for a particular day: sumimasen, sono hi wa sen'yaku ga atte..., left trailing, since a flat ...kara sounds like an excuse. Friends say it too (gomen, sen'yaku aru n da) when the plan is with someone else; yotei aru is vaguer.",
+   "notes": "Same trailing shape as youji ga atte...: the 'so I can't' is left unsaid.",
+   "example": {
+    "romaji": "gomen, sono hi wa senyaku ga atte...",
+    "ja": "ごめん、その日は先約があって…",
+    "english": "Sorry, I've already got plans that day..."
+   },
+   "examplePolite": {
+    "romaji": "sumimasen, sono hi wa senyaku ga aru n desu ga...",
+    "ja": "すみません、その日は先約があるんですが…",
+    "english": "I'm sorry, I already have plans that day..."
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-zubon-o-haku",
+   "romaji": "zubon o haku",
+   "english": "put on / wear trousers",
+   "chunk": "Trying clothes on",
+   "recent": true
+  },
+  {
+   "id": "c-fuku-o-kigaeru",
+   "romaji": "fuku o kigaeru",
+   "english": "change clothes, get changed",
+   "chunk": "Trying clothes on",
+   "recent": true
+  },
+  {
+   "id": "c-fuku-ga-niau",
+   "romaji": "fuku ga niau",
+   "english": "suit someone, look good on someone",
+   "chunk": "Trying clothes on",
+   "recent": true
+  },
+  {
+   "id": "c-saizu-ga-au",
+   "romaji": "saizu ga au",
+   "english": "be the right size, fit",
+   "chunk": "Trying clothes on",
+   "recent": true
+  },
+  {
+   "id": "c-jikan-ga-aku",
+   "romaji": "jikan ga aku",
+   "english": "be free (have time)",
+   "chunk": "Are you free?",
+   "recent": true
+  },
+  {
+   "id": "c-yotei-ga-aru",
+   "romaji": "yotei ga aru",
+   "english": "have plans",
+   "chunk": "Are you free?",
+   "recent": true
+  },
+  {
+   "id": "c-tsugou-ga-ii",
+   "romaji": "tsugou ga ii",
+   "english": "suit someone, be convenient",
+   "chunk": "Are you free?",
+   "recent": true
+  },
+  {
+   "id": "c-tsugou-ga-warui",
+   "romaji": "tsugou ga warui",
+   "english": "not suit someone, can't make it (a time)",
+   "chunk": "Are you free?",
+   "recent": true
+  },
+  {
+   "id": "c-tomodachi-ni-au",
+   "romaji": "tomodachi ni au",
+   "english": "see a friend, meet up",
+   "chunk": "Seeing people",
+   "recent": true
+  },
+  {
+   "id": "c-uchi-made-okuru",
+   "romaji": "ie made okuru",
+   "english": "see or drive someone home",
+   "chunk": "Seeing people",
+   "recent": true
+  },
+  {
+   "id": "c-jikka-ni-kaeru",
+   "romaji": "jikka ni kaeru",
+   "english": "go home to your parents'",
+   "chunk": "Seeing people",
+   "recent": true
+  },
+  {
+   "id": "c-tanjoubi-o-iwau",
+   "romaji": "tanjoubi o iwau",
+   "english": "celebrate a birthday",
+   "chunk": "Seeing people",
+   "recent": true
+  },
+  {
+   "id": "c-nomi-ni-iku",
+   "romaji": "nomi ni iku",
+   "english": "go out for drinks",
+   "chunk": "Drinking out",
+   "recent": true
+  },
+  {
+   "id": "c-tabako-o-suu",
+   "romaji": "tabako o suu",
+   "english": "smoke (a cigarette)",
+   "chunk": "Drinking out",
+   "recent": true
+  },
+  {
+   "id": "c-osake-ga-yowai",
+   "romaji": "osake ga yowai",
+   "english": "can't hold one's drink",
+   "chunk": "Drinking out",
+   "recent": true
+  },
+  {
+   "id": "c-osake-ga-tsuyoi",
+   "romaji": "osake ga tsuyoi",
+   "english": "can hold one's drink",
+   "chunk": "Drinking out",
+   "recent": true
+  },
+  {
+   "id": "c-denwa-o-kakeru",
+   "romaji": "denwa o kakeru",
+   "english": "make a phone call",
+   "chunk": "Phone calls",
+   "recent": true
+  },
+  {
+   "id": "c-denwa-ni-deru",
+   "romaji": "denwa ni deru",
+   "english": "answer the phone",
+   "chunk": "Phone calls",
+   "recent": true
+  },
+  {
+   "id": "c-denwa-o-kiru",
+   "romaji": "denwa o kiru",
+   "english": "hang up the phone",
+   "chunk": "Phone calls",
+   "recent": true
+  },
+  {
+   "id": "c-denwa-ga-naru",
+   "romaji": "denwa ga naru",
+   "english": "the phone rings",
+   "chunk": "Phone calls",
+   "recent": true
+  },
+  {
+   "id": "c-denwa-ga-aru",
+   "romaji": "denwa ga aru",
+   "english": "(someone) called, there was a call from X",
+   "chunk": "Phone calls",
+   "recent": true
+  },
+  {
+   "id": "c-denwa-ga-kakaru",
+   "romaji": "denwa ga kakaru",
+   "english": "get a phone call",
+   "chunk": "Phone calls",
+   "recent": true
+  },
+  {
+   "id": "c-eki-ni-tsuku",
+   "romaji": "eki ni tsuku",
+   "english": "get to the station",
+   "chunk": "On the way",
+   "recent": true
+  },
+  {
+   "id": "c-michi-ga-komu",
+   "romaji": "michi ga komu",
+   "english": "the traffic is heavy",
+   "chunk": "On the way",
+   "recent": true
+  },
+  {
+   "id": "c-seki-ga-aku",
+   "romaji": "seki ga aku",
+   "english": "a seat frees up (aiteru = a seat is free)",
+   "chunk": "On the way",
+   "recent": true
+  },
+  {
+   "id": "c-eki-o-norisugosu",
+   "romaji": "eki o norisugosu",
+   "english": "miss your stop",
+   "chunk": "On the way",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "mai",
+   "tanaka"
+  ],
+  "format": "dialogue"
+ }
+}

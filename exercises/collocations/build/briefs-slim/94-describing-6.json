@@ -1,0 +1,310 @@
+{
+ "script": 94,
+ "of": 94,
+ "stage": 4,
+ "chunkId": "describing-6",
+ "label": "Body and fitness",
+ "topic": "Describing people",
+ "rationale": "What someone's body can do: see, run, play sport, keep going; often said about yourself in the negative (me warui, tairyoku nai).",
+ "mixUps": "English adjectives (short-sighted, fast, athletic, fit) all become noun + ga + word: the eyes are bad, the legs are fast, the motor nerves are good, the stamina is there. Speed is hayai, coordination is ii, and stamina takes aru/nai, not ii.",
+ "targets": [
+  {
+   "id": "c-me-ga-warui",
+   "romaji": "me ga warui",
+   "polite": "me ga warui desu",
+   "english": "have poor eyesight",
+   "ja": "目が悪い",
+   "kana": "めがわるい",
+   "politeJa": "目が悪いです",
+   "noun": "me",
+   "particle": "ga",
+   "verb": "warui",
+   "verbJa": "悪い",
+   "verbSense": "warui: bad, in poor condition",
+   "englishVerb": "have",
+   "trap": "Not warui me o motteru ('have bad eyes'): Japanese makes the eyes the subject, me ga warui. English 'short-sighted' has no everyday one-word match either: kinshi and shiryoku ga warui are the terms you hear at eye exams. 'My eyes got worse' is me ga waruku natta, not warui ni natta.",
+   "partners": [
+    "mimi (hearing)",
+    "koshi (lower back)",
+    "kaoiro (complexion)"
+   ],
+   "flags": [],
+   "use": "Said about yourself to explain glasses or squinting: me warui kara... Casual speech drops ga. 'My eyes got worse' is me ga waruku natta.",
+   "notes": "The opposite, me ga ii, means good eyesight. 'Has a good eye' (for people or things) is miru me ga aru.",
+   "example": {
+    "romaji": "me warui kara, megane nai to nanimo mienai n da.",
+    "ja": "目悪いから、メガネないと何も見えないんだ。",
+    "english": "My eyesight's bad, so I can't see a thing without my glasses."
+   },
+   "examplePolite": {
+    "romaji": "me ga warui node, megane ga nai to nanimo mienai n desu.",
+    "ja": "目が悪いので、メガネがないと何も見えないんです。",
+    "english": "My eyesight is poor, so I can't see anything without glasses."
+   }
+  },
+  {
+   "id": "c-ashi-ga-hayai",
+   "romaji": "ashi ga hayai",
+   "polite": "ashi ga hayai desu",
+   "english": "be a fast runner",
+   "ja": "足が速い",
+   "kana": "あしがはやい",
+   "politeJa": "足が速いです",
+   "noun": "ashi",
+   "particle": "ga",
+   "verb": "hayai",
+   "verbJa": "速い",
+   "verbSense": "hayai: fast; the same word also means early",
+   "englishVerb": "fast",
+   "trap": null,
+   "partners": [
+    "shigoto (shigoto ga hayai: a fast worker)",
+    "henji (henji ga hayai: quick to reply)"
+   ],
+   "flags": [],
+   "use": "Said about kids, classmates and athletes: ano ko, ashi hayai ne, often with ga dropped. Japanese puts the speed in the legs, ashi ga hayai; hashiru no ga hayai also works. The opposite is ashi ga osoi (a slow runner).",
+   "notes": "ashi ga hayai also means food spoils fast (namamono wa ashi ga hayai).",
+   "example": {
+    "romaji": "ano ko, kurasu de ichiban ashi hayai n da.",
+    "ja": "あの子、クラスで一番足速いんだ。",
+    "english": "That kid's the fastest runner in the class."
+   },
+   "examplePolite": {
+    "romaji": "ano ko wa kurasu de ichiban ashi ga hayai n desu.",
+    "ja": "あの子はクラスで一番足が速いんです。",
+    "english": "That child is the fastest runner in the class."
+   }
+  },
+  {
+   "id": "c-undou-shinkei-ga-ii",
+   "romaji": "undou shinkei ga ii",
+   "polite": "undou shinkei ga ii desu",
+   "english": "be athletic",
+   "ja": "運動神経がいい",
+   "kana": "うんどうしんけいがいい",
+   "politeJa": "運動神経がいいです",
+   "noun": "undou shinkei",
+   "particle": "ga",
+   "verb": "ii",
+   "verbJa": "いい",
+   "verbSense": "ii: good",
+   "englishVerb": "athletic",
+   "trap": "Not asurechikku (in Japanese that's an obstacle-course playground): say undou shinkei ga ii. supootsu ga tokui and undou ga dekiru (good at sports) are also natural.",
+   "partners": [
+    "hansha shinkei (reflexes)",
+    "kan (kan ga ii: sharp intuition)",
+    "ugoki (ugoki ga ii: move well)"
+   ],
+   "flags": [],
+   "use": "The everyday 'athletic, coordinated': ano hito, undou shinkei ii yo ne, with ga dropped. The opposite, undou shinkei ga nai, is common self-deprecation, and so is undou onchi (uncoordinated).",
+   "notes": "Literally 'motor nerves are good'.",
+   "example": {
+    "romaji": "undou shinkei ii ne! nanka supootsu yatteta?",
+    "ja": "運動神経いいね！なんかスポーツやってた？",
+    "english": "You're athletic! Did you use to play a sport?"
+   },
+   "examplePolite": {
+    "romaji": "undou shinkei ga ii desu ne! nanika supootsu yatteta n desu ka?",
+    "ja": "運動神経がいいですね！何かスポーツやってたんですか？",
+    "english": "You're really athletic! Did you play a sport?"
+   }
+  },
+  {
+   "id": "c-tairyoku-ga-aru",
+   "romaji": "tairyoku ga aru",
+   "polite": "tairyoku ga arimasu",
+   "english": "have stamina, be fit",
+   "ja": "体力がある",
+   "kana": "たいりょくがある",
+   "politeJa": "体力があります",
+   "noun": "tairyoku",
+   "particle": "ga",
+   "verb": "aru",
+   "verbJa": "ある",
+   "verbSense": "aru: there is; have (things, qualities)",
+   "englishVerb": "fit",
+   "trap": "'Fit' isn't fitto (in Japanese that's how clothes fit). genki covers 'well, healthy' (mada genki = still going strong), but for stamina and being in shape use tairyoku: tairyoku aru / tairyoku nai.",
+   "partners": [
+    "sutamina (stamina)",
+    "chikara (strength)",
+    "kiryoku (drive, willpower)"
+   ],
+   "flags": [],
+   "use": "Heard most in the negative, about age or being out of shape: mou tairyoku nai (I've got no stamina left), with ga dropped. Tairyoku aru ne praises someone who keeps going, and a drop in stamina is tairyoku ga ochita.",
+   "notes": "tairyoku o tsukeru (build up stamina) is the usual resolution: tairyoku tsukenakya.",
+   "example": {
+    "romaji": "saikin undou shitenai kara, tairyoku nai n da.",
+    "ja": "最近運動してないから、体力ないんだ。",
+    "english": "I haven't been exercising lately, so I've got no stamina."
+   },
+   "examplePolite": {
+    "romaji": "saikin undou shite inai node, tairyoku ga nai n desu.",
+    "ja": "最近運動していないので、体力がないんです。",
+    "english": "I haven't been exercising lately, so I have no stamina."
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-nayami-ga-aru",
+   "romaji": "nayami ga aru",
+   "english": "have something on your mind",
+   "chunk": "Worries and advice",
+   "recent": true
+  },
+  {
+   "id": "c-soudan-ga-aru",
+   "romaji": "soudan ga aru",
+   "english": "want to ask your advice",
+   "chunk": "Worries and advice",
+   "recent": true
+  },
+  {
+   "id": "c-soudan-ni-noru",
+   "romaji": "soudan ni noru",
+   "english": "give advice, hear someone out",
+   "chunk": "Worries and advice",
+   "recent": true
+  },
+  {
+   "id": "c-honne-o-iu",
+   "romaji": "honne o iu",
+   "english": "say what you really think",
+   "chunk": "Worries and advice",
+   "recent": true
+  },
+  {
+   "id": "c-jikan-o-kakeru",
+   "romaji": "jikan o kakeru",
+   "english": "put time into, take time over",
+   "chunk": "Using your time",
+   "recent": true
+  },
+  {
+   "id": "c-jikan-o-toru",
+   "romaji": "jikan o toru",
+   "english": "set aside time, take up time",
+   "chunk": "Using your time",
+   "recent": true
+  },
+  {
+   "id": "c-jikan-o-tsukuru",
+   "romaji": "jikan o tsukuru",
+   "english": "make time",
+   "chunk": "Using your time",
+   "recent": true
+  },
+  {
+   "id": "c-jikan-o-tsubusu",
+   "romaji": "jikan o tsubusu",
+   "english": "kill time",
+   "chunk": "Using your time",
+   "recent": true
+  },
+  {
+   "id": "c-atama-o-tsukau",
+   "romaji": "atama o tsukau",
+   "english": "use your head; make you think",
+   "chunk": "Getting work done",
+   "recent": true
+  },
+  {
+   "id": "c-kekka-o-dasu",
+   "romaji": "kekka o dasu",
+   "english": "get results, deliver results",
+   "chunk": "Getting work done",
+   "recent": true
+  },
+  {
+   "id": "c-memo-o-toru",
+   "romaji": "memo o toru",
+   "english": "take notes, write it down",
+   "chunk": "Getting work done",
+   "recent": true
+  },
+  {
+   "id": "c-aidea-ga-ukabu",
+   "romaji": "aidea ga ukabu",
+   "english": "an idea comes to mind",
+   "chunk": "Getting work done",
+   "recent": true
+  },
+  {
+   "id": "c-hanko-o-osu",
+   "romaji": "hanko o osu",
+   "english": "stamp your seal",
+   "chunk": "Getting work done",
+   "recent": true
+  },
+  {
+   "id": "c-namida-ga-deru",
+   "romaji": "namida ga deru",
+   "english": "tear up, eyes water",
+   "chunk": "When it hits you",
+   "recent": true
+  },
+  {
+   "id": "c-torihada-ga-tatsu",
+   "romaji": "torihada ga tatsu",
+   "english": "get goosebumps",
+   "chunk": "When it hits you",
+   "recent": true
+  },
+  {
+   "id": "c-jikkan-ga-waku",
+   "romaji": "jikkan ga waku",
+   "english": "it sinks in, feels real",
+   "chunk": "When it hits you",
+   "recent": true
+  },
+  {
+   "id": "c-hanami-ni-iku",
+   "romaji": "ohanami ni iku",
+   "english": "go cherry-blossom viewing",
+   "chunk": "Seasonal outings",
+   "recent": true
+  },
+  {
+   "id": "c-hatsumoude-ni-iku",
+   "romaji": "hatsumoude ni iku",
+   "english": "make the year's first shrine visit",
+   "chunk": "Seasonal outings",
+   "recent": true
+  },
+  {
+   "id": "c-omikuji-o-hiku",
+   "romaji": "omikuji o hiku",
+   "english": "draw a fortune slip",
+   "chunk": "Seasonal outings",
+   "recent": true
+  },
+  {
+   "id": "c-te-o-ageru",
+   "romaji": "te o ageru",
+   "english": "raise your hand",
+   "chunk": "Moving your body",
+   "recent": true
+  },
+  {
+   "id": "c-me-o-tojiru",
+   "romaji": "me o tojiru",
+   "english": "close your eyes",
+   "chunk": "Moving your body",
+   "recent": true
+  },
+  {
+   "id": "c-chikara-o-nuku",
+   "romaji": "chikara o nuku",
+   "english": "relax (your body), loosen up",
+   "chunk": "Moving your body",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "mai",
+   "tanaka"
+  ],
+  "format": "dialogue"
+ }
+}

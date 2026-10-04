@@ -1,0 +1,374 @@
+{
+ "script": 27,
+ "of": 94,
+ "stage": 2,
+ "chunkId": "media-1",
+ "label": "TV and music",
+ "topic": "Phone, photos & screens",
+ "rationale": "Watching and listening at home: TV and the news, music you listen to or put on, and switching channels.",
+ "mixUps": "ongaku o kiku (you listen) vs ongaku o kakeru (you put it on): same noun, different verb. TV and the news both take miru, English 'play' is never asobu here, and channeru o kaeru uses kaeru 'change', not kaeru 'go home'.",
+ "targets": [
+  {
+   "id": "c-terebi-o-miru",
+   "romaji": "terebi o miru",
+   "polite": "terebi o mimasu",
+   "english": "watch TV",
+   "ja": "テレビを見る",
+   "kana": "テレビをみる",
+   "politeJa": "テレビを見ます",
+   "noun": "terebi",
+   "particle": "o",
+   "verb": "miru",
+   "verbJa": "見る",
+   "verbSense": "see, look at, watch",
+   "englishVerb": "watch",
+   "trap": null,
+   "partners": [
+    "douga (online video)",
+    "dorama (TV drama)",
+    "anime (anime)",
+    "bangumi (TV programme)"
+   ],
+   "flags": [],
+   "use": "Said about evenings and downtime, mostly as a habit or in the -teru form: terebi miteru (I'm watching TV), terebi miteta (I was watching TV), anmari terebi minai (I don't watch much TV). Casual speech drops o, and something you saw on TV is terebi de mita.",
+   "notes": "On and off are terebi o tsukeru and terebi o kesu, as with denki; a show on TV is terebi de yatteru, a person terebi ni deteru.",
+   "example": {
+    "romaji": "saikin zenzen terebi minai na.",
+    "ja": "最近全然テレビ見ないな。",
+    "english": "I don't watch TV at all these days."
+   },
+   "examplePolite": {
+    "romaji": "saikin wa zenzen terebi o mimasen.",
+    "ja": "最近は全然テレビを見ません。",
+    "english": "I don't watch TV at all these days."
+   }
+  },
+  {
+   "id": "c-ongaku-o-kiku",
+   "romaji": "ongaku o kiku",
+   "polite": "ongaku o kikimasu",
+   "english": "listen to music",
+   "ja": "音楽を聞く",
+   "kana": "おんがくをきく",
+   "politeJa": "音楽を聞きます",
+   "noun": "ongaku",
+   "particle": "o",
+   "verb": "kiku",
+   "verbJa": "聞く",
+   "verbSense": "listen, hear; ask",
+   "englishVerb": "listen",
+   "trap": "Not ongaku ni kiku: English 'listen to' has a 'to', but kiku takes o; kiku with ni means asking a person (sensei ni kiku).",
+   "partners": [
+    "kyoku (song, track)",
+    "rajio (radio)",
+    "uta (song)"
+   ],
+   "flags": [],
+   "use": "Said about listening habits and what you're listening to now, often in hobby talk (donna ongaku kiku?) and with nagara: ongaku kikinagara benkyou suru (study with music on). Casual speech drops o; putting music on for everyone is ongaku o kakeru.",
+   "notes": "Music you happen to hear is ongaku ga kikoeru; music playing in a shop is ongaku ga kakatteru or nagareteru.",
+   "example": {
+    "romaji": "donna ongaku kiku no?",
+    "ja": "どんな音楽聞くの？",
+    "english": "What kind of music do you listen to?"
+   },
+   "examplePolite": {
+    "romaji": "donna ongaku o kikimasu ka?",
+    "ja": "どんな音楽を聞きますか？",
+    "english": "What kind of music do you listen to?"
+   }
+  },
+  {
+   "id": "c-nyuusu-o-miru",
+   "romaji": "nyuusu o miru",
+   "polite": "nyuusu o mimasu",
+   "english": "watch or check the news",
+   "ja": "ニュースを見る",
+   "kana": "ニュースをみる",
+   "politeJa": "ニュースを見ます",
+   "noun": "nyuusu",
+   "particle": "o",
+   "verb": "miru",
+   "verbJa": "見る",
+   "verbSense": "see, look at, watch",
+   "englishVerb": "watch",
+   "trap": null,
+   "partners": [
+    "tenki yohou (weather forecast)",
+    "bangumi (TV show)",
+    "shiai (a match, on TV)"
+   ],
+   "flags": [],
+   "use": "Said about keeping up with the news, often in the past as a conversation opener: nyuusu mita? (did you see the news?). Something you learned from it is nyuusu de mita (I saw it on the news) or nyuusu de yatteta (it was on the news). It covers news apps on a phone too. Casual speech drops o.",
+   "notes": "nyuusu ni naru = make the news: ano jiko, nyuusu ni natteta.",
+   "example": {
+    "romaji": "kesa no nyuusu mita?",
+    "ja": "今朝のニュース見た？",
+    "english": "Did you see the news this morning?"
+   },
+   "examplePolite": {
+    "romaji": "kesa no nyuusu o mimashita ka?",
+    "ja": "今朝のニュースを見ましたか？",
+    "english": "Did you see the news this morning?"
+   }
+  },
+  {
+   "id": "c-ongaku-o-kakeru",
+   "romaji": "ongaku o kakeru",
+   "polite": "ongaku o kakemasu",
+   "english": "put on music",
+   "ja": "音楽をかける",
+   "kana": "おんがくをかける",
+   "politeJa": "音楽をかけます",
+   "noun": "ongaku",
+   "particle": "o",
+   "verb": "kakeru",
+   "verbJa": "かける",
+   "verbSense": "hang or put something onto something; set something going (a record, a call)",
+   "englishVerb": "play",
+   "trap": "Not asobu: playing music on a speaker is ongaku o kakeru (nagasu is also fine); asobu is play for fun, hiku is play an instrument.",
+   "partners": [
+    "kyoku (song)",
+    "shiidii (CD)",
+    "biijiiemu (background music)"
+   ],
+   "flags": [],
+   "use": "Said when you start music on a speaker or in the car: ongaku kakete ii? (mind if I put music on?). Music that's already playing is ongaku ga kakatteru. Casual speech drops o.",
+   "notes": "nagasu (let flow) is the alternative in shops and at events: biijiiemu o nagasu. Listening is ongaku o kiku; kakeru only starts it playing.",
+   "example": {
+    "romaji": "nanka ongaku kakete ii?",
+    "ja": "なんか音楽かけていい？",
+    "english": "Mind if I put some music on?"
+   },
+   "examplePolite": {
+    "romaji": "nanika ongaku o kakete mo ii desu ka?",
+    "ja": "何か音楽をかけてもいいですか？",
+    "english": "Mind if I put some music on?"
+   }
+  },
+  {
+   "id": "c-channeru-o-kaeru",
+   "romaji": "channeru o kaeru",
+   "polite": "channeru o kaemasu",
+   "english": "change the channel",
+   "ja": "チャンネルを変える",
+   "kana": "チャンネルをかえる",
+   "politeJa": "チャンネルを変えます",
+   "noun": "channeru",
+   "particle": "o",
+   "verb": "kaeru",
+   "verbJa": "変える",
+   "verbSense": "change, switch (one thing for another)",
+   "englishVerb": "change",
+   "trap": null,
+   "partners": [
+    "settei (settings)",
+    "basho (place)",
+    "kamigata (hairstyle)"
+   ],
+   "flags": [],
+   "use": "Said in front of the TV, mostly as a request: channeru kaete ii? (mind if I change the channel?). Casual speech drops o, and the show you switch to takes ni: nyuusu ni kaete.",
+   "notes": "kaete (change it) and kaette (go home) differ by one t. A YouTube channel is channeru too: channeru touroku shita (I subscribed).",
+   "example": {
+    "romaji": "channeru kaete mo ii?",
+    "ja": "チャンネル変えてもいい？",
+    "english": "Mind if I change the channel?"
+   },
+   "examplePolite": {
+    "romaji": "channeru o kaete mo ii desu ka?",
+    "ja": "チャンネルを変えてもいいですか？",
+    "english": "Do you mind if I change the channel?"
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-jugyou-ga-aru",
+   "romaji": "jugyou ga aru",
+   "english": "have class",
+   "chunk": "What's on",
+   "recent": true
+  },
+  {
+   "id": "c-kaigi-ga-aru",
+   "romaji": "kaigi ga aru",
+   "english": "have a meeting",
+   "chunk": "What's on",
+   "recent": true
+  },
+  {
+   "id": "c-shiken-ga-aru",
+   "romaji": "shiken ga aru",
+   "english": "have an exam",
+   "chunk": "What's on",
+   "recent": true
+  },
+  {
+   "id": "c-shigoto-ga-hairu",
+   "romaji": "shigoto ga hairu",
+   "english": "work comes up",
+   "chunk": "What's on",
+   "recent": true
+  },
+  {
+   "id": "c-enki-ni-naru",
+   "romaji": "enki ni naru",
+   "english": "be postponed",
+   "chunk": "What's on",
+   "recent": true
+  },
+  {
+   "id": "c-un-ga-ii",
+   "romaji": "un ga ii",
+   "english": "be lucky",
+   "chunk": "Luck and help",
+   "recent": true
+  },
+  {
+   "id": "c-un-ga-warui",
+   "romaji": "un ga warui",
+   "english": "be unlucky",
+   "chunk": "Luck and help",
+   "recent": true
+  },
+  {
+   "id": "c-yaku-ni-tatsu",
+   "romaji": "yaku ni tatsu",
+   "english": "be useful, helpful",
+   "chunk": "Luck and help",
+   "recent": true
+  },
+  {
+   "id": "c-tame-ni-naru",
+   "romaji": "tame ni naru",
+   "english": "be worthwhile, do you good",
+   "chunk": "Luck and help",
+   "recent": true
+  },
+  {
+   "id": "c-mizu-o-nomu",
+   "romaji": "mizu o nomu",
+   "english": "drink water",
+   "chunk": "Drinks",
+   "recent": true
+  },
+  {
+   "id": "c-koohii-o-nomu",
+   "romaji": "koohii o nomu",
+   "english": "drink coffee",
+   "chunk": "Drinks",
+   "recent": true
+  },
+  {
+   "id": "c-osake-o-nomu",
+   "romaji": "osake o nomu",
+   "english": "drink (alcohol)",
+   "chunk": "Drinks",
+   "recent": true
+  },
+  {
+   "id": "c-ocha-o-nomu",
+   "romaji": "ocha o nomu",
+   "english": "have tea, drink tea",
+   "chunk": "Drinks",
+   "recent": true
+  },
+  {
+   "id": "c-gohan-o-taberu",
+   "romaji": "gohan o taberu",
+   "english": "eat, have a meal",
+   "chunk": "Meals at home",
+   "recent": true
+  },
+  {
+   "id": "c-gohan-o-tsukuru",
+   "romaji": "gohan o tsukuru",
+   "english": "cook a meal, make dinner",
+   "chunk": "Meals at home",
+   "recent": true
+  },
+  {
+   "id": "c-gohan-ga-dekiru",
+   "romaji": "gohan ga dekiru",
+   "english": "the meal gets ready (dekita = it's ready)",
+   "chunk": "Meals at home",
+   "recent": true
+  },
+  {
+   "id": "c-gohan-ga-sameru",
+   "romaji": "gohan ga sameru",
+   "english": "the food gets cold",
+   "chunk": "Meals at home",
+   "recent": true
+  },
+  {
+   "id": "c-kaze-o-hiku",
+   "romaji": "kaze o hiku",
+   "english": "catch a cold",
+   "chunk": "Getting sick",
+   "recent": true
+  },
+  {
+   "id": "c-kaze-ga-utsuru",
+   "romaji": "kaze ga utsuru",
+   "english": "catch someone's cold",
+   "chunk": "Getting sick",
+   "recent": true
+  },
+  {
+   "id": "c-byouki-ni-naru",
+   "romaji": "byouki ni naru",
+   "english": "get sick, fall ill",
+   "chunk": "Getting sick",
+   "recent": true
+  },
+  {
+   "id": "c-taichou-o-kuzusu",
+   "romaji": "taichou o kuzusu",
+   "english": "get run down, fall ill",
+   "chunk": "Getting sick",
+   "recent": true
+  },
+  {
+   "id": "c-onaka-o-kowasu",
+   "romaji": "onaka o kowasu",
+   "english": "get an upset stomach",
+   "chunk": "Getting sick",
+   "recent": true
+  },
+  {
+   "id": "c-fuku-o-kiru",
+   "romaji": "fuku o kiru",
+   "english": "put on / wear clothes",
+   "chunk": "Clothes and shoes",
+   "recent": true
+  },
+  {
+   "id": "c-kutsu-o-haku",
+   "romaji": "kutsu o haku",
+   "english": "put on / wear shoes",
+   "chunk": "Clothes and shoes",
+   "recent": true
+  },
+  {
+   "id": "c-kutsu-o-nugu",
+   "romaji": "kutsu o nugu",
+   "english": "take off shoes",
+   "chunk": "Clothes and shoes",
+   "recent": true
+  },
+  {
+   "id": "c-fuku-o-nugu",
+   "romaji": "fuku o nugu",
+   "english": "take off clothes, get undressed",
+   "chunk": "Clothes and shoes",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "satou",
+   "yuki"
+  ],
+  "format": "dialogue"
+ }
+}

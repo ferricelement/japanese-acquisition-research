@@ -1,0 +1,502 @@
+{
+ "script": 11,
+ "of": 94,
+ "stage": 1,
+ "chunkId": "weather-2",
+ "label": "Weather and wind",
+ "topic": "Weather & nature",
+ "rationale": "The remarks people trade about conditions outside: nice weather, a strong wind, heavy rain, a breeze, and stepping out for some air.",
+ "mixUps": "kaze ga tsuyoi and ame ga tsuyoi both use tsuyoi where English says 'windy' and 'heavy', so learn them in one frame (kyou ___ tsuyoi ne). kaze (wind) sounds exactly like kaze (a cold) and only the verb tells them apart: kaze ga fuku and kaze ni ataru are the wind, kaze o hiku is catching a cold.",
+ "targets": [
+  {
+   "id": "c-tenki-ga-ii",
+   "romaji": "tenki ga ii",
+   "polite": "tenki ga ii desu",
+   "english": "the weather is nice",
+   "ja": "天気がいい",
+   "kana": "てんきがいい",
+   "politeJa": "天気がいいです",
+   "noun": "tenki",
+   "particle": "ga",
+   "verb": "ii",
+   "verbJa": "いい",
+   "verbSense": "good, fine",
+   "englishVerb": "nice",
+   "trap": "English 'beautiful/lovely weather' pushes kirei na tenki, which sounds odd: nice weather is ii tenki, bad is tenki ga warui.",
+   "partners": [],
+   "flags": [],
+   "use": "The default weather opener, usually as ii tenki da ne (nice weather, huh?); bad weather is tenki ga warui.",
+   "notes": "Polite speech usually says otenki. The past is yokatta, not iikatta: tenki yokatta ne. tenki ga kuzureru = the weather turns bad; tenki motsu kana = will the weather hold? Sunny and cloudy are single verbs: hareteru (it's clear), kumotteru (it's cloudy).",
+   "example": {
+    "romaji": "kyou ii tenki da ne.",
+    "ja": "今日いい天気だね。",
+    "english": "Nice weather today, huh?"
+   },
+   "examplePolite": {
+    "romaji": "kyou wa ii otenki desu ne.",
+    "ja": "今日はいいお天気ですね。",
+    "english": "Nice weather today, isn't it?"
+   }
+  },
+  {
+   "id": "c-kaze-ga-tsuyoi",
+   "romaji": "kaze ga tsuyoi",
+   "polite": "kaze ga tsuyoi desu",
+   "english": "it's windy",
+   "ja": "風が強い",
+   "kana": "かぜがつよい",
+   "politeJa": "風が強いです",
+   "noun": "kaze",
+   "particle": "ga",
+   "verb": "tsuyoi",
+   "verbJa": "強い",
+   "verbSense": "strong (wind, rain, sun, a person)",
+   "englishVerb": "windy",
+   "trap": "There is no Japanese adjective for 'windy': say the wind is strong (kaze ga tsuyoi), or kaze ga aru for 'there's some wind'.",
+   "partners": [
+    "ame (rain)",
+    "hizashi (sunshine)"
+   ],
+   "flags": [],
+   "use": "The normal way to say 'it's windy': kyou kaze tsuyoi ne. When it picks up, kaze tsuyoku natte kita.",
+   "notes": "kaze ga dete kita = the wind's picking up. For no wind at all people say kaze ga nai.",
+   "example": {
+    "romaji": "kyou kaze tsuyoi ne.",
+    "ja": "今日風強いね。",
+    "english": "It's windy today, huh?"
+   },
+   "examplePolite": {
+    "romaji": "kyou wa kaze ga tsuyoi desu ne.",
+    "ja": "今日は風が強いですね。",
+    "english": "It's windy today, isn't it?"
+   }
+  },
+  {
+   "id": "c-ame-ga-tsuyoi",
+   "romaji": "ame ga tsuyoi",
+   "polite": "ame ga tsuyoi desu",
+   "english": "the rain is heavy",
+   "ja": "雨が強い",
+   "kana": "あめがつよい",
+   "politeJa": "雨が強いです",
+   "noun": "ame",
+   "particle": "ga",
+   "verb": "tsuyoi",
+   "verbJa": "強い",
+   "verbSense": "strong (wind, rain, sun, a person)",
+   "englishVerb": "heavy",
+   "trap": "Not omoi ame: omoi is only weight, so heavy rain is strong rain; ame ga hidoi and ooame are also fine.",
+   "partners": [
+    "kaze (wind)",
+    "yuki (snow)"
+   ],
+   "flags": [],
+   "use": "Said as ame tsuyoi ne or ame tsuyoku natte kita (it's really coming down now). Tsuyoi ame is the same pairing before the noun. Just as often you hear ame sugoi ne or hidoi ame.",
+   "notes": "When it eases off: ame yowaku natta; a downpour is doshaburi.",
+   "example": {
+    "romaji": "kyou ame tsuyoi ne.",
+    "ja": "今日雨強いね。",
+    "english": "The rain's heavy today, huh?"
+   },
+   "examplePolite": {
+    "romaji": "kyou wa ame ga tsuyoi desu ne.",
+    "ja": "今日は雨が強いですね。",
+    "english": "The rain's heavy today, isn't it?"
+   }
+  },
+  {
+   "id": "c-kaze-ga-fuku",
+   "romaji": "kaze ga fuku",
+   "polite": "kaze ga fukimasu",
+   "english": "the wind blows",
+   "ja": "風が吹く",
+   "kana": "かぜがふく",
+   "politeJa": "風が吹きます",
+   "noun": "kaze",
+   "particle": "ga",
+   "verb": "fuku",
+   "verbJa": "吹く",
+   "verbSense": "blow (wind; also blowing air from your mouth)",
+   "englishVerb": "blow",
+   "trap": "kaze is both 'wind' and 'a cold', and only the verb tells you which: kaze ga fuku is the wind blowing, kaze o hiku is catching a cold. kaze ni ataru (get some air) is the wind too.",
+   "partners": [],
+   "flags": [],
+   "use": "Mostly heard as kaze fuiteru with a describing word: ii kaze fuiteru (there's a nice breeze), tsumetai kaze fuiteru (a cold wind's blowing). For 'it's windy', people say kaze ga tsuyoi.",
+   "notes": "kaze ga yamu = the wind dies down.",
+   "example": {
+    "romaji": "ii kaze fuiteru ne.",
+    "ja": "いい風吹いてるね。",
+    "english": "There's a nice breeze."
+   },
+   "examplePolite": {
+    "romaji": "ii kaze ga fuitemasu ne.",
+    "ja": "いい風が吹いてますね。",
+    "english": "There's a nice breeze."
+   }
+  },
+  {
+   "id": "c-kaze-ni-ataru",
+   "romaji": "kaze ni ataru",
+   "polite": "kaze ni atarimasu",
+   "english": "get some (fresh) air",
+   "ja": "風に当たる",
+   "kana": "かぜにあたる",
+   "politeJa": "風に当たります",
+   "noun": "kaze",
+   "particle": "ni",
+   "verb": "ataru",
+   "verbJa": "当たる",
+   "verbSense": "hit, be struck by; be exposed to (wind, sun, rain)",
+   "englishVerb": "get",
+   "trap": "Nothing in 'get some air' leads to ataru: you let the breeze hit you, kaze ni ataru. Soto no kuuki o suu (breathe the outside air) is just as natural; kuuki o ireru is airing out a room, not you.",
+   "partners": [
+    "hi (sun: hi ni ataru, get some sun)",
+    "ame (rain: ame ni ataru, get rained on)"
+   ],
+   "flags": [],
+   "use": "Mostly as chotto kaze ni atatte kuru (I'm going to get some air), said when stepping out of a stuffy, hot or boozy room. The ni always stays.",
+   "notes": "It is also a warning: anmari kaze ni atatteru to, kaze hiku yo (stay out in the wind too long and you'll catch a cold).",
+   "example": {
+    "romaji": "chotto kaze ni atatte kuru ne.",
+    "ja": "ちょっと風に当たってくるね。",
+    "english": "I'm just going to get some air."
+   },
+   "examplePolite": {
+    "romaji": "chotto kaze ni atatte kimasu ne.",
+    "ja": "ちょっと風に当たってきますね。",
+    "english": "I'm just going to get some air."
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-ame-ga-furu",
+   "romaji": "ame ga furu",
+   "english": "it rains; rain falls",
+   "chunk": "Rain and snow",
+   "recent": false
+  },
+  {
+   "id": "c-yuki-ga-furu",
+   "romaji": "yuki ga furu",
+   "english": "it snows",
+   "chunk": "Rain and snow",
+   "recent": false
+  },
+  {
+   "id": "c-ame-ga-yamu",
+   "romaji": "ame ga yamu",
+   "english": "the rain stops",
+   "chunk": "Rain and snow",
+   "recent": false
+  },
+  {
+   "id": "c-kasa-o-sasu",
+   "romaji": "kasa o sasu",
+   "english": "put up (open) an umbrella; have an umbrella up",
+   "chunk": "Rain and snow",
+   "recent": false
+  },
+  {
+   "id": "c-ame-ni-furareru",
+   "romaji": "ame ni furareru",
+   "english": "get caught in the rain",
+   "chunk": "Rain and snow",
+   "recent": false
+  },
+  {
+   "id": "c-onaka-ga-suku",
+   "romaji": "onaka ga suku",
+   "english": "get hungry",
+   "chunk": "Hungry, full, thirsty",
+   "recent": false
+  },
+  {
+   "id": "c-onaka-ga-ippai",
+   "romaji": "onaka ga ippai",
+   "english": "be full (after eating)",
+   "chunk": "Hungry, full, thirsty",
+   "recent": false
+  },
+  {
+   "id": "c-nodo-ga-kawaku",
+   "romaji": "nodo ga kawaku",
+   "english": "get thirsty",
+   "chunk": "Hungry, full, thirsty",
+   "recent": false
+  },
+  {
+   "id": "c-onaka-ga-heru",
+   "romaji": "onaka ga heru",
+   "english": "get hungry (blunter, casual)",
+   "chunk": "Hungry, full, thirsty",
+   "recent": false
+  },
+  {
+   "id": "c-uchi-ni-kaeru",
+   "romaji": "uchi ni kaeru",
+   "english": "go home, get home",
+   "chunk": "Out and back",
+   "recent": false
+  },
+  {
+   "id": "c-uchi-o-deru",
+   "romaji": "uchi o deru",
+   "english": "leave the house",
+   "chunk": "Out and back",
+   "recent": false
+  },
+  {
+   "id": "c-soto-ni-deru",
+   "romaji": "soto ni deru",
+   "english": "go outside, step out",
+   "chunk": "Out and back",
+   "recent": false
+  },
+  {
+   "id": "c-kaimono-ni-iku",
+   "romaji": "kaimono ni iku",
+   "english": "go shopping",
+   "chunk": "Out and back",
+   "recent": false
+  },
+  {
+   "id": "c-kaeri-ga-osoi",
+   "romaji": "kaeri ga osoi",
+   "english": "get home late",
+   "chunk": "Out and back",
+   "recent": false
+  },
+  {
+   "id": "c-se-ga-takai",
+   "romaji": "se ga takai",
+   "english": "be tall",
+   "chunk": "Looks and voice",
+   "recent": false
+  },
+  {
+   "id": "c-se-ga-hikui",
+   "romaji": "se ga hikui",
+   "english": "be short (height)",
+   "chunk": "Looks and voice",
+   "recent": false
+  },
+  {
+   "id": "c-koe-ga-ookii",
+   "romaji": "koe ga ookii",
+   "english": "have a loud voice, be loud",
+   "chunk": "Looks and voice",
+   "recent": false
+  },
+  {
+   "id": "c-kami-ga-nagai",
+   "romaji": "kami ga nagai",
+   "english": "have long hair",
+   "chunk": "Looks and voice",
+   "recent": false
+  },
+  {
+   "id": "c-sutairu-ga-ii",
+   "romaji": "sutairu ga ii",
+   "english": "have a good figure",
+   "chunk": "Looks and voice",
+   "recent": false
+  },
+  {
+   "id": "c-densha-ni-noru",
+   "romaji": "densha ni noru",
+   "english": "ride / get on the train",
+   "chunk": "Getting on and off",
+   "recent": true
+  },
+  {
+   "id": "c-basu-ni-noru",
+   "romaji": "basu ni noru",
+   "english": "take the bus",
+   "chunk": "Getting on and off",
+   "recent": true
+  },
+  {
+   "id": "c-kuruma-ni-noru",
+   "romaji": "kuruma ni noru",
+   "english": "get in / ride in a car",
+   "chunk": "Getting on and off",
+   "recent": true
+  },
+  {
+   "id": "c-densha-o-oriru",
+   "romaji": "densha o oriru",
+   "english": "get off the train",
+   "chunk": "Getting on and off",
+   "recent": true
+  },
+  {
+   "id": "c-jitensha-ni-noru",
+   "romaji": "jitensha ni noru",
+   "english": "ride a bike",
+   "chunk": "Getting on and off",
+   "recent": true
+  },
+  {
+   "id": "c-gakkou-ni-iku",
+   "romaji": "gakkou ni iku",
+   "english": "go to school",
+   "chunk": "School and work days",
+   "recent": true
+  },
+  {
+   "id": "c-shigoto-ni-iku",
+   "romaji": "shigoto ni iku",
+   "english": "go to work",
+   "chunk": "School and work days",
+   "recent": true
+  },
+  {
+   "id": "c-shigoto-ga-owaru",
+   "romaji": "shigoto ga owaru",
+   "english": "get off work",
+   "chunk": "School and work days",
+   "recent": true
+  },
+  {
+   "id": "c-shigoto-ga-isogashii",
+   "romaji": "shigoto ga isogashii",
+   "english": "be busy with work",
+   "chunk": "School and work days",
+   "recent": true
+  },
+  {
+   "id": "c-kimochi-ga-ii",
+   "romaji": "kimochi ga ii",
+   "english": "feels good, feels nice",
+   "chunk": "Feels good or bad",
+   "recent": true
+  },
+  {
+   "id": "c-kimochi-ga-warui",
+   "romaji": "kimochi ga warui",
+   "english": "feel queasy, feel nauseous; gross, creepy",
+   "chunk": "Feels good or bad",
+   "recent": true
+  },
+  {
+   "id": "c-kibun-ga-ii",
+   "romaji": "kibun ga ii",
+   "english": "be in a good mood; feel well",
+   "chunk": "Feels good or bad",
+   "recent": true
+  },
+  {
+   "id": "c-kigen-ga-warui",
+   "romaji": "kigen ga warui",
+   "english": "be in a bad mood, grumpy",
+   "chunk": "Feels good or bad",
+   "recent": true
+  },
+  {
+   "id": "c-igokochi-ga-ii",
+   "romaji": "igokochi ga ii",
+   "english": "comfortable to be in, cosy",
+   "chunk": "Feels good or bad",
+   "recent": true
+  },
+  {
+   "id": "c-hon-o-yomu",
+   "romaji": "hon o yomu",
+   "english": "read a book",
+   "chunk": "Read, watch, sing, draw",
+   "recent": true
+  },
+  {
+   "id": "c-eiga-o-miru",
+   "romaji": "eiga o miru",
+   "english": "watch a movie",
+   "chunk": "Read, watch, sing, draw",
+   "recent": true
+  },
+  {
+   "id": "c-uta-o-utau",
+   "romaji": "uta o utau",
+   "english": "sing a song",
+   "chunk": "Read, watch, sing, draw",
+   "recent": true
+  },
+  {
+   "id": "c-e-o-kaku",
+   "romaji": "e o kaku",
+   "english": "draw or paint a picture",
+   "chunk": "Read, watch, sing, draw",
+   "recent": true
+  },
+  {
+   "id": "c-hanashi-o-suru",
+   "romaji": "hanashi o suru",
+   "english": "talk, have a talk",
+   "chunk": "Talking to people",
+   "recent": true
+  },
+  {
+   "id": "c-hanashi-o-kiku",
+   "romaji": "hanashi o kiku",
+   "english": "listen to someone, hear someone out",
+   "chunk": "Talking to people",
+   "recent": true
+  },
+  {
+   "id": "c-hanashi-ga-aru",
+   "romaji": "hanashi ga aru",
+   "english": "need to talk (to you)",
+   "chunk": "Talking to people",
+   "recent": true
+  },
+  {
+   "id": "c-hanashi-ga-nagai",
+   "romaji": "hanashi ga nagai",
+   "english": "be long-winded, go on forever",
+   "chunk": "Talking to people",
+   "recent": true
+  },
+  {
+   "id": "c-jikan-ga-nai",
+   "romaji": "jikan ga nai",
+   "english": "have no time",
+   "chunk": "No time, no money",
+   "recent": true
+  },
+  {
+   "id": "c-hima-ga-nai",
+   "romaji": "hima ga nai",
+   "english": "have no free time",
+   "chunk": "No time, no money",
+   "recent": true
+  },
+  {
+   "id": "c-okane-ga-nai",
+   "romaji": "okane ga nai",
+   "english": "have no money, be broke",
+   "chunk": "No time, no money",
+   "recent": true
+  },
+  {
+   "id": "c-okane-ga-tarinai",
+   "romaji": "okane ga tarinai",
+   "english": "be short of money",
+   "chunk": "No time, no money",
+   "recent": true
+  },
+  {
+   "id": "c-yoyuu-ga-nai",
+   "romaji": "yoyuu ga nai",
+   "english": "have nothing to spare",
+   "chunk": "No time, no money",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "yuki",
+   "kenta"
+  ],
+  "format": "dialogue"
+ }
+}

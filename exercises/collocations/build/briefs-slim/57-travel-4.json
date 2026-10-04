@@ -1,0 +1,374 @@
+{
+ "script": 57,
+ "of": 94,
+ "stage": 3,
+ "chunkId": "travel-4",
+ "label": "On a trip",
+ "topic": "Getting around",
+ "rationale": "Going away: the trip, the flight, the hotel, the gifts you bring back and the hot spring.",
+ "mixUps": "Each place takes ni with its own verb: noru for the plane (English 'fly' is not tobu), tomaru for staying the night (not iru, and not yoru, which is dropping in), hairu for the hot spring.",
+ "targets": [
+  {
+   "id": "c-ryokou-ni-iku",
+   "romaji": "ryokou ni iku",
+   "polite": "ryokou ni ikimasu",
+   "english": "go on a trip",
+   "ja": "旅行に行く",
+   "kana": "りょこうにいく",
+   "politeJa": "旅行に行きます",
+   "noun": "ryokou",
+   "particle": "ni",
+   "verb": "iku",
+   "verbJa": "行く",
+   "verbSense": "go",
+   "englishVerb": "go",
+   "trap": "Not ryokou o toru ('take a trip'): you go on a trip, ryokou ni iku, or just ryokou suru.",
+   "partners": [
+    "shutchou (work trip)",
+    "kyanpu (camping)",
+    "sanpo (a walk)",
+    "hanami (cherry-blossom viewing)"
+   ],
+   "flags": [],
+   "use": "The usual way to talk about trips and plans: dokka ryokou iku? Casual speech drops the ni after ryokou, and a trip you're back from is ryokou itte kita. Going abroad is kaigai ryokou ni iku.",
+   "notes": "A work trip is shutchou, not ryokou: ashita kara shutchou nan da.",
+   "example": {
+    "romaji": "natsuyasumi, dokka ryokou ikanai?",
+    "ja": "夏休み、どっか旅行行かない？",
+    "english": "Want to go on a trip somewhere over the summer break?"
+   },
+   "examplePolite": {
+    "romaji": "natsuyasumi, dokoka ryokou ni ikimasen ka?",
+    "ja": "夏休み、どこか旅行に行きませんか？",
+    "english": "Would you like to go on a trip somewhere over the summer break?"
+   }
+  },
+  {
+   "id": "c-hikouki-ni-noru",
+   "romaji": "hikouki ni noru",
+   "polite": "hikouki ni norimasu",
+   "english": "fly, take a plane",
+   "ja": "飛行機に乗る",
+   "kana": "ひこうきにのる",
+   "politeJa": "飛行機に乗ります",
+   "noun": "hikouki",
+   "particle": "ni",
+   "verb": "noru",
+   "verbJa": "乗る",
+   "verbSense": "ride; get onto (a vehicle, a bike, a ride)",
+   "englishVerb": "fly",
+   "trap": "Not hikouki o toru for 'take a plane': hikouki totta? means 'have you booked your flight?'. Being on board is ni noru, like every vehicle, and how you get there takes de: hikouki de iku. oosaka ni tobu (fly off to Osaka) is real too, but casual, with a sudden, business-trip feel.",
+   "partners": [
+    "shinkansen (bullet train)"
+   ],
+   "flags": [],
+   "use": "Used for the flight itself: hikouki notta koto aru? (have you ever flown?), hikouki notteru aida (during the flight). To say how you get somewhere, use de: hikouki de iku. Casual speech drops ni.",
+   "notes": "A flight is a bin: nanji no bin? (what time's your flight?).",
+   "example": {
+    "romaji": "hikouki notteru aida, zutto neteta.",
+    "ja": "飛行機乗ってる間、ずっと寝てた。",
+    "english": "I slept the whole flight."
+   },
+   "examplePolite": {
+    "romaji": "hikouki ni notteru aida, zutto netemashita.",
+    "ja": "飛行機に乗ってる間、ずっと寝てました。",
+    "english": "I slept the whole flight."
+   }
+  },
+  {
+   "id": "c-hoteru-ni-tomaru",
+   "romaji": "hoteru ni tomaru",
+   "polite": "hoteru ni tomarimasu",
+   "english": "stay at a hotel",
+   "ja": "ホテルに泊まる",
+   "kana": "ホテルにとまる",
+   "politeJa": "ホテルに泊まります",
+   "noun": "hoteru",
+   "particle": "ni",
+   "verb": "tomaru",
+   "verbJa": "泊まる",
+   "verbSense": "stay the night (away from home)",
+   "englishVerb": "stay",
+   "trap": "Not hoteru ni nokoru, which is staying in rather than going out. hoteru ni iru says where you are or are based, not where you sleep: 'where are you staying?' is doko ni tomatteru?, and taizai suru is the formal word.",
+   "partners": [
+    "ryokan (Japanese inn)",
+    "tomodachi no ie (a friend's place)",
+    "jikka (parents' home)"
+   ],
+   "flags": [],
+   "use": "Mostly asked and planned: doko tomaru? (where are you staying?), kyou wa hoteru ni tomaru. Casual speech can drop ni, and the same verb covers a sleepover: tomodachi no uchi ni tomaru.",
+   "notes": "Booking a room is hoteru o toru; putting someone up is tomeru: hitoban tomete kureru? (can you put me up for the night?).",
+   "example": {
+    "romaji": "ekimae no hoteru ni tomaru yo.",
+    "ja": "駅前のホテルに泊まるよ。",
+    "english": "I'm staying at a hotel by the station."
+   },
+   "examplePolite": {
+    "romaji": "ekimae no hoteru ni tomarimasu.",
+    "ja": "駅前のホテルに泊まります。",
+    "english": "I'm staying at a hotel by the station."
+   }
+  },
+  {
+   "id": "c-omiyage-o-kau",
+   "romaji": "omiyage o kau",
+   "polite": "omiyage o kaimasu",
+   "english": "buy gifts to take back",
+   "ja": "お土産を買う",
+   "kana": "おみやげをかう",
+   "politeJa": "お土産を買います",
+   "noun": "omiyage",
+   "particle": "o",
+   "verb": "kau",
+   "verbJa": "買う",
+   "verbSense": "buy",
+   "englishVerb": "buy",
+   "trap": "English 'souvenir' is often something for yourself, but omiyage are mainly gifts for others, family and coworkers above all, often boxed local sweets and close to expected. One for yourself is jibun-you (or jokingly jibun e no omiyage), and a keepsake is kinenhin.",
+   "partners": [],
+   "flags": [],
+   "use": "Comes up on every trip: omiyage kawanakya (I need to get gifts to take back), omiyage nani ga ii? Casual speech drops o. A small gift you bring when visiting someone's home is also omiyage.",
+   "notes": "Handing one over: kore, omiyage (here, a little something from my trip).",
+   "example": {
+    "romaji": "kaisha no hito ni, omiyage kawanakya.",
+    "ja": "会社の人に、お土産買わなきゃ。",
+    "english": "I need to get gifts for the people at work."
+   },
+   "examplePolite": {
+    "romaji": "kaisha no hito ni, omiyage o kawanai to ikenai n desu.",
+    "ja": "会社の人に、お土産を買わないといけないんです。",
+    "english": "I need to buy gifts for the people at work."
+   }
+  },
+  {
+   "id": "c-onsen-ni-hairu",
+   "romaji": "onsen ni hairu",
+   "polite": "onsen ni hairimasu",
+   "english": "bathe in a hot spring",
+   "ja": "温泉に入る",
+   "kana": "おんせんにはいる",
+   "politeJa": "温泉に入ります",
+   "noun": "onsen",
+   "particle": "ni",
+   "verb": "hairu",
+   "verbJa": "入る",
+   "verbSense": "go into, enter (a room, a bath, a club)",
+   "englishVerb": "bathe",
+   "trap": "Not onsen o abiru: abiru is for showers. You get into a hot spring the way you get into a bath, with ni hairu (ofuro ni hairu).",
+   "partners": [
+    "rotenburo (outdoor bath)",
+    "sauna (sauna)"
+   ],
+   "flags": [],
+   "use": "Heard on trips and at an inn: onsen haitta? (been in the hot spring yet?), onsen haitte kuru, mostly without ni. Going to a hot-spring town or bathhouse is onsen ni iku: onsen ikitai na.",
+   "notes": "A long soak is tsukaru: yukkuri onsen ni tsukaritai (I want a good long soak).",
+   "example": {
+    "romaji": "gohan no mae ni, onsen haitte kuru.",
+    "ja": "ご飯の前に、温泉入ってくる。",
+    "english": "I'm going to soak in the hot spring before dinner."
+   },
+   "examplePolite": {
+    "romaji": "gohan no mae ni, onsen ni haitte kimasu.",
+    "ja": "ご飯の前に、温泉に入ってきます。",
+    "english": "I'm going to have a dip in the hot spring before dinner."
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-nomi-ni-iku",
+   "romaji": "nomi ni iku",
+   "english": "go out for drinks",
+   "chunk": "Drinking out",
+   "recent": true
+  },
+  {
+   "id": "c-tabako-o-suu",
+   "romaji": "tabako o suu",
+   "english": "smoke (a cigarette)",
+   "chunk": "Drinking out",
+   "recent": true
+  },
+  {
+   "id": "c-osake-ga-yowai",
+   "romaji": "osake ga yowai",
+   "english": "can't hold one's drink",
+   "chunk": "Drinking out",
+   "recent": true
+  },
+  {
+   "id": "c-osake-ga-tsuyoi",
+   "romaji": "osake ga tsuyoi",
+   "english": "can hold one's drink",
+   "chunk": "Drinking out",
+   "recent": true
+  },
+  {
+   "id": "c-denwa-o-kakeru",
+   "romaji": "denwa o kakeru",
+   "english": "make a phone call",
+   "chunk": "Phone calls",
+   "recent": true
+  },
+  {
+   "id": "c-denwa-ni-deru",
+   "romaji": "denwa ni deru",
+   "english": "answer the phone",
+   "chunk": "Phone calls",
+   "recent": true
+  },
+  {
+   "id": "c-denwa-o-kiru",
+   "romaji": "denwa o kiru",
+   "english": "hang up the phone",
+   "chunk": "Phone calls",
+   "recent": true
+  },
+  {
+   "id": "c-denwa-ga-naru",
+   "romaji": "denwa ga naru",
+   "english": "the phone rings",
+   "chunk": "Phone calls",
+   "recent": true
+  },
+  {
+   "id": "c-denwa-ga-aru",
+   "romaji": "denwa ga aru",
+   "english": "(someone) called, there was a call from X",
+   "chunk": "Phone calls",
+   "recent": true
+  },
+  {
+   "id": "c-denwa-ga-kakaru",
+   "romaji": "denwa ga kakaru",
+   "english": "get a phone call",
+   "chunk": "Phone calls",
+   "recent": true
+  },
+  {
+   "id": "c-eki-ni-tsuku",
+   "romaji": "eki ni tsuku",
+   "english": "get to the station",
+   "chunk": "On the way",
+   "recent": true
+  },
+  {
+   "id": "c-michi-ga-komu",
+   "romaji": "michi ga komu",
+   "english": "the traffic is heavy",
+   "chunk": "On the way",
+   "recent": true
+  },
+  {
+   "id": "c-seki-ga-aku",
+   "romaji": "seki ga aku",
+   "english": "a seat frees up (aiteru = a seat is free)",
+   "chunk": "On the way",
+   "recent": true
+  },
+  {
+   "id": "c-eki-o-norisugosu",
+   "romaji": "eki o norisugosu",
+   "english": "miss your stop",
+   "chunk": "On the way",
+   "recent": true
+  },
+  {
+   "id": "c-youji-ga-aru",
+   "romaji": "youji ga aru",
+   "english": "have something to do",
+   "chunk": "Can't make it",
+   "recent": true
+  },
+  {
+   "id": "c-asa-ga-hayai",
+   "romaji": "asa ga hayai",
+   "english": "have an early start",
+   "chunk": "Can't make it",
+   "recent": true
+  },
+  {
+   "id": "c-yotei-ga-hairu",
+   "romaji": "yotei ga hairu",
+   "english": "have plans, get booked",
+   "chunk": "Can't make it",
+   "recent": true
+  },
+  {
+   "id": "c-senyaku-ga-aru",
+   "romaji": "sen'yaku ga aru",
+   "english": "have prior plans",
+   "chunk": "Can't make it",
+   "recent": true
+  },
+  {
+   "id": "c-gomi-o-suteru",
+   "romaji": "gomi o suteru",
+   "english": "throw away rubbish",
+   "chunk": "Trash and tidying",
+   "recent": true
+  },
+  {
+   "id": "c-gomi-o-dasu",
+   "romaji": "gomi o dasu",
+   "english": "take out the trash",
+   "chunk": "Trash and tidying",
+   "recent": true
+  },
+  {
+   "id": "c-heya-o-katazukeru",
+   "romaji": "heya o katazukeru",
+   "english": "tidy up one's room",
+   "chunk": "Trash and tidying",
+   "recent": true
+  },
+  {
+   "id": "c-heya-ga-chirakaru",
+   "romaji": "heya ga chirakaru",
+   "english": "(a room) gets messy, is a mess",
+   "chunk": "Trash and tidying",
+   "recent": true
+  },
+  {
+   "id": "c-moto-ni-modosu",
+   "romaji": "moto ni modosu",
+   "english": "put back (as it was)",
+   "chunk": "Trash and tidying",
+   "recent": true
+  },
+  {
+   "id": "c-onegai-ga-aru",
+   "romaji": "onegai ga aru",
+   "english": "have a favour to ask",
+   "chunk": "Favours, sorry, cheer up",
+   "recent": true
+  },
+  {
+   "id": "c-meiwaku-o-kakeru",
+   "romaji": "meiwaku o kakeru",
+   "english": "cause someone trouble",
+   "chunk": "Favours, sorry, cheer up",
+   "recent": true
+  },
+  {
+   "id": "c-shinpai-o-kakeru",
+   "romaji": "shinpai o kakeru",
+   "english": "make someone worry",
+   "chunk": "Favours, sorry, cheer up",
+   "recent": true
+  },
+  {
+   "id": "c-genki-o-dasu",
+   "romaji": "genki o dasu",
+   "english": "cheer up",
+   "chunk": "Favours, sorry, cheer up",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "satou",
+   "yuki"
+  ],
+  "format": "dialogue"
+ }
+}

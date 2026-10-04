@@ -1,0 +1,349 @@
+{
+ "script": 48,
+ "of": 94,
+ "stage": 3,
+ "chunkId": "clothes-2",
+ "label": "Trying clothes on",
+ "topic": "Clothes & wearing",
+ "rationale": "Dressing past plain on/off, the mirror and fitting-room talk: trousers take haku, getting changed is kigaeru, then whether it suits you (niau) and whether it fits (saizu ga au).",
+ "mixUps": "zubon takes haku like shoes, not kiru; niau (looks good on you) vs saizu ga au (right size), which English both calls 'fit' or 'suit', and this au also sounds like au 'meet'; changing clothes is kigaeru, not fuku o kaeru.",
+ "targets": [
+  {
+   "id": "c-zubon-o-haku",
+   "romaji": "zubon o haku",
+   "polite": "zubon o hakimasu",
+   "english": "put on / wear trousers",
+   "ja": "ズボンを履く",
+   "kana": "ズボンをはく",
+   "politeJa": "ズボンを履きます",
+   "noun": "zubon",
+   "particle": "o",
+   "verb": "haku",
+   "verbJa": "履く",
+   "verbSense": "put on or wear on the feet and legs",
+   "englishVerb": "wear",
+   "trap": "Not zubon o kiru: trousers, skirts, socks and tights take haku, like shoes (anything you step into).",
+   "partners": [
+    "sukaato (skirt)",
+    "jiinzu (jeans)",
+    "kutsushita (socks)",
+    "taitsu (tights)"
+   ],
+   "flags": [],
+   "use": "Heard as zubon haiteru (is wearing trousers) or haite mite (try them on). Same verb as shoes; casual speech drops o.",
+   "notes": "pantsu with a flat pitch is trousers (younger speakers prefer it; zubon can sound a little old to them), but PA-ntsu, falling, is underpants, so zubon is the safe word. sutokkingu = sheer stockings or pantyhose. In shops, 'try on' is shichaku: shichaku shite mo ii desu ka?",
+   "example": {
+    "romaji": "kono zubon, haite mite ii?",
+    "ja": "このズボン、履いてみていい？",
+    "english": "Can I try these trousers on?"
+   },
+   "examplePolite": {
+    "romaji": "kono zubon, haite mite mo ii desu ka?",
+    "ja": "このズボン、履いてみてもいいですか？",
+    "english": "May I try these trousers on?"
+   }
+  },
+  {
+   "id": "c-fuku-o-kigaeru",
+   "romaji": "fuku o kigaeru",
+   "polite": "fuku o kigaemasu",
+   "english": "change clothes, get changed",
+   "ja": "服を着替える",
+   "kana": "ふくをきがえる",
+   "politeJa": "服を着替えます",
+   "noun": "fuku",
+   "particle": "o",
+   "verb": "kigaeru",
+   "verbJa": "着替える",
+   "verbSense": "change clothes (kiru 'wear' + kaeru 'change')",
+   "englishVerb": "change",
+   "trap": "fuku o kaeru isn't wrong, but it's about switching to a different outfit (are, fuku kaeta? = oh, you've changed your outfit?). The everyday verb for getting changed is kigaeru, and English 'change into' becomes ni (seifuku ni kigaeru).",
+   "partners": [
+    "pajama (pyjamas, with ni)",
+    "seifuku (uniform, with ni)",
+    "yukata (summer kimono, with ni)",
+    "shitagi (underwear)"
+   ],
+   "flags": [],
+   "use": "kigaeru already means 'change clothes', so fuku is often dropped: chotto kigaete kuru (I'll just go and get changed). What you change into takes ni: pajama ni kigaeru.",
+   "notes": "The noun kigae is a change of clothes: kigae motteku (I'll bring a change of clothes). Some speakers say kikaeru; it's the same word.",
+   "example": {
+    "romaji": "chotto fuku kigaete kuru.",
+    "ja": "ちょっと服着替えてくる。",
+    "english": "I'm just going to go and get changed."
+   },
+   "examplePolite": {
+    "romaji": "chotto fuku o kigaete kimasu.",
+    "ja": "ちょっと服を着替えてきます。",
+    "english": "I'll just go and get changed."
+   }
+  },
+  {
+   "id": "c-fuku-ga-niau",
+   "romaji": "fuku ga niau",
+   "polite": "fuku ga niaimasu",
+   "english": "suit someone, look good on someone",
+   "ja": "服が似合う",
+   "kana": "ふくがにあう",
+   "politeJa": "服が似合います",
+   "noun": "fuku",
+   "particle": "ga",
+   "verb": "niau",
+   "verbJa": "似合う",
+   "verbSense": "suit, look good on someone",
+   "englishVerb": "suit",
+   "trap": "Suit and fit are different verbs: niau is about looks, saizu ga au is about size (niau ne vs saizu atteru?). What looks good takes ga, and the person takes ni (watashi ni niau kana?) or comes first as the topic (kanojo wa aka ga niau ne = red suits her).",
+   "partners": [
+    "iro (colour)",
+    "kamigata (hairstyle)",
+    "megane (glasses)",
+    "boushi (hat)"
+   ],
+   "flags": [],
+   "use": "Mostly said as a compliment: sono fuku niau ne, or yoku niatteru (it really suits you). ga is dropped, and so is the noun once it's clear. The person it looks good on takes ni: watashi ni niau kana? (would it suit me?). Politely, and from every shop assistant, it's (yoku) oniai desu ne.",
+   "notes": "It works for any look, not just clothes: kami mijikai no mo niau ne (short hair suits you too). oniai also describes a well-matched couple (oniai no futari), and said with a sneer it means 'it's what you deserve' (omae ni wa oniai da).",
+   "example": {
+    "romaji": "sono fuku, yoku niatteru ne.",
+    "ja": "その服、よく似合ってるね。",
+    "english": "That outfit really suits you."
+   },
+   "examplePolite": {
+    "romaji": "sono fuku, yoku oniai desu ne.",
+    "ja": "その服、よくお似合いですね。",
+    "english": "That outfit really suits you."
+   }
+  },
+  {
+   "id": "c-saizu-ga-au",
+   "romaji": "saizu ga au",
+   "polite": "saizu ga aimasu",
+   "english": "be the right size, fit",
+   "ja": "サイズが合う",
+   "kana": "サイズがあう",
+   "politeJa": "サイズが合います",
+   "noun": "saizu",
+   "particle": "ga",
+   "verb": "au",
+   "verbJa": "合う",
+   "verbSense": "match, fit together",
+   "englishVerb": "fit",
+   "trap": "English 'it fits' makes the clothes the subject. Japanese usually makes the size the subject: saizu ga au, mostly heard as saizu awanai. Don't reach for niau, which is about looks (it suits you). fitto suru exists but means snug, close to the body.",
+   "partners": [
+    "kutsu (shoes: kono kutsu, ashi ni awanai)",
+    "megane no do (glasses' prescription: do ga awanai = wrong prescription)",
+    "makura (pillow: makura ga awanai = it isn't right for me)"
+   ],
+   "flags": [],
+   "use": "Mostly heard as a check or a complaint when trying things on or ordering online: saizu atteru? (does it fit?), saizu awanai (it's not my size). Casual speech drops ga.",
+   "notes": "If you can't get it on at all, say hairanai (kono zubon hairanai). Too tight is kitsui, too loose yurui, and a perfect fit pittari. This au sounds exactly like au 'meet' (same pitch); saizu, or the thing being tried on, tells you which.",
+   "example": {
+    "romaji": "kore, chotto saizu awanai kamo.",
+    "ja": "これ、ちょっとサイズ合わないかも。",
+    "english": "I don't think this is quite my size."
+   },
+   "examplePolite": {
+    "romaji": "kore wa chotto saizu ga awanai kamo shiremasen.",
+    "ja": "これはちょっとサイズが合わないかもしれません。",
+    "english": "This might not be quite the right size."
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-yume-o-miru",
+   "romaji": "yume o miru",
+   "english": "have a dream (while asleep)",
+   "chunk": "Bed and waking",
+   "recent": true
+  },
+  {
+   "id": "c-me-ga-sameru",
+   "romaji": "me ga sameru",
+   "english": "wake up (from sleep); feel wide awake (me ga sameta)",
+   "chunk": "Bed and waking",
+   "recent": true
+  },
+  {
+   "id": "c-futon-ni-hairu",
+   "romaji": "futon ni hairu",
+   "english": "get into bed, get under the covers",
+   "chunk": "Bed and waking",
+   "recent": true
+  },
+  {
+   "id": "c-mezamashi-o-kakeru",
+   "romaji": "mezamashi o kakeru",
+   "english": "set an alarm",
+   "chunk": "Bed and waking",
+   "recent": true
+  },
+  {
+   "id": "c-kotatsu-ni-hairu",
+   "romaji": "kotatsu ni hairu",
+   "english": "get under the kotatsu",
+   "chunk": "Bed and waking",
+   "recent": true
+  },
+  {
+   "id": "c-taifuu-ga-kuru",
+   "romaji": "taifuu ga kuru",
+   "english": "a typhoon comes (hits)",
+   "chunk": "Storms and quakes",
+   "recent": true
+  },
+  {
+   "id": "c-jishin-ga-okiru",
+   "romaji": "jishin ga okiru",
+   "english": "an earthquake happens, hits",
+   "chunk": "Storms and quakes",
+   "recent": true
+  },
+  {
+   "id": "c-kaminari-ga-naru",
+   "romaji": "kaminari ga naru",
+   "english": "it thunders; thunder rumbles",
+   "chunk": "Storms and quakes",
+   "recent": true
+  },
+  {
+   "id": "c-tenki-yohou-ga-hazureru",
+   "romaji": "tenki yohou ga hazureru",
+   "english": "the forecast is wrong",
+   "chunk": "Storms and quakes",
+   "recent": true
+  },
+  {
+   "id": "c-seikaku-ga-ii",
+   "romaji": "seikaku ga ii",
+   "english": "be a nice person",
+   "chunk": "Personality and mood",
+   "recent": true
+  },
+  {
+   "id": "c-seikaku-ga-warui",
+   "romaji": "seikaku ga warui",
+   "english": "be mean, nasty",
+   "chunk": "Personality and mood",
+   "recent": true
+  },
+  {
+   "id": "c-kanji-ga-ii",
+   "romaji": "kanji ga ii",
+   "english": "be pleasant, nice (person or place)",
+   "chunk": "Personality and mood",
+   "recent": true
+  },
+  {
+   "id": "c-genki-ga-nai",
+   "romaji": "genki ga nai",
+   "english": "be down, low on energy",
+   "chunk": "Personality and mood",
+   "recent": true
+  },
+  {
+   "id": "c-uso-o-tsuku",
+   "romaji": "uso o tsuku",
+   "english": "tell a lie",
+   "chunk": "Lies, jokes and complaints",
+   "recent": true
+  },
+  {
+   "id": "c-joudan-o-iu",
+   "romaji": "joudan o iu",
+   "english": "joke, kid around",
+   "chunk": "Lies, jokes and complaints",
+   "recent": true
+  },
+  {
+   "id": "c-monku-o-iu",
+   "romaji": "monku o iu",
+   "english": "complain",
+   "chunk": "Lies, jokes and complaints",
+   "recent": true
+  },
+  {
+   "id": "c-guchi-o-iu",
+   "romaji": "guchi o iu",
+   "english": "grumble, vent",
+   "chunk": "Lies, jokes and complaints",
+   "recent": true
+  },
+  {
+   "id": "c-naisho-ni-suru",
+   "romaji": "naisho ni suru",
+   "english": "keep it secret",
+   "chunk": "Lies, jokes and complaints",
+   "recent": true
+  },
+  {
+   "id": "c-yoko-ni-naru",
+   "romaji": "yoko ni naru",
+   "english": "lie down",
+   "chunk": "Rest and recovery",
+   "recent": true
+  },
+  {
+   "id": "c-netsu-ga-sagaru",
+   "romaji": "netsu ga sagaru",
+   "english": "fever goes down",
+   "chunk": "Rest and recovery",
+   "recent": true
+  },
+  {
+   "id": "c-kaze-ga-naoru",
+   "romaji": "kaze ga naoru",
+   "english": "get over a cold",
+   "chunk": "Rest and recovery",
+   "recent": true
+  },
+  {
+   "id": "c-tsukare-ga-toreru",
+   "romaji": "tsukare ga toreru",
+   "english": "shake off tiredness, feel rested",
+   "chunk": "Rest and recovery",
+   "recent": true
+  },
+  {
+   "id": "c-okane-ga-kakaru",
+   "romaji": "okane ga kakaru",
+   "english": "cost money",
+   "chunk": "Costs and paying",
+   "recent": true
+  },
+  {
+   "id": "c-ikura-suru",
+   "romaji": "ikura suru",
+   "english": "how much it costs (price + suru)",
+   "chunk": "Costs and paying",
+   "recent": true
+  },
+  {
+   "id": "c-nedan-ga-takai",
+   "romaji": "nedan ga takai",
+   "english": "the price is high",
+   "chunk": "Costs and paying",
+   "recent": true
+  },
+  {
+   "id": "c-okane-o-harau",
+   "romaji": "okane o harau",
+   "english": "pay (money)",
+   "chunk": "Costs and paying",
+   "recent": true
+  },
+  {
+   "id": "c-warikan-ni-suru",
+   "romaji": "warikan ni suru",
+   "english": "split the bill",
+   "chunk": "Costs and paying",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "sora",
+   "mai"
+  ],
+  "format": "dialogue"
+ }
+}

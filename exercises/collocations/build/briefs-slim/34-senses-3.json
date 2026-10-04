@@ -1,0 +1,311 @@
+{
+ "script": 34,
+ "of": 94,
+ "stage": 2,
+ "chunkId": "senses-3",
+ "label": "Understanding",
+ "topic": "Senses & mind",
+ "rationale": "The wakaru family: you get what something means, how someone feels, or the difference between two things.",
+ "mixUps": "All three take ga + wakaru, never shitteru, which is knowing a fact; 'tell the difference' is wakaru, not iu. imi nai (it's pointless) is not imi wakannai (it makes no sense).",
+ "targets": [
+  {
+   "id": "c-imi-ga-wakaru",
+   "romaji": "imi ga wakaru",
+   "polite": "imi ga wakarimasu",
+   "english": "understand what something means; (negative) make no sense",
+   "ja": "意味が分かる",
+   "kana": "いみがわかる",
+   "politeJa": "意味が分かります",
+   "noun": "imi",
+   "particle": "ga",
+   "verb": "wakaru",
+   "verbJa": "分かる",
+   "verbSense": "understand, be clear; here the meaning gets through to you",
+   "englishVerb": "make sense",
+   "trap": "For 'that makes no sense', learners say imi ga nai, but imi nai means 'it's pointless' (yatte mo imi nai). Something that doesn't add up is imi wakannai: you can't get the meaning. wake wakannai and the slangy imifu say the same.",
+   "partners": [
+    "riyuu (the reason)",
+    "kotoba (words, a language)",
+    "setsumei (the explanation: setsumei wakatta?)"
+   ],
+   "flags": [],
+   "use": "Mostly heard in the negative as a casual reaction, with ga dropped: imi wakannai (that makes no sense) about a rule, a joke or someone acting strangely. Aimed at what someone just said, it's blunt, close to 'you're not making sense'; with someone above you, ask dou iu imi desu ka? instead. imi wakaru? (you get what I mean?) checks that someone is following you.",
+   "notes": "For 'oh, that makes sense', the usual reply is naruhodo; aa, imi wakatta means 'oh, now I get it'.",
+   "example": {
+    "romaji": "nani sore, imi wakannai.",
+    "ja": "何それ、意味分かんない。",
+    "english": "What? That makes no sense."
+   },
+   "examplePolite": {
+    "romaji": "sumimasen, chotto imi ga yoku wakaranai n desu kedo.",
+    "ja": "すみません、ちょっと意味がよく分からないんですけど。",
+    "english": "Sorry, I don't quite follow what you mean."
+   }
+  },
+  {
+   "id": "c-kimochi-ga-wakaru",
+   "romaji": "kimochi ga wakaru",
+   "polite": "kimochi ga wakarimasu",
+   "english": "know how someone feels",
+   "ja": "気持ちが分かる",
+   "kana": "きもちがわかる",
+   "politeJa": "気持ちが分かります",
+   "noun": "kimochi",
+   "particle": "ga",
+   "verb": "wakaru",
+   "verbJa": "分かる",
+   "verbSense": "understand; here, relate to how someone feels",
+   "englishVerb": "know",
+   "trap": "For 'I know how you feel', learners say kimochi o shitteru, but shiru is knowing a fact: kimi no kimochi shitteru means 'I know what your feelings are' (say, a crush). Relating to someone is wakaru: sono kimochi wakaru.",
+   "partners": [
+    "kanji (that feeling: sono kanji wakaru)",
+    "tsurasa (how hard it is)",
+    "kurou (what someone went through)"
+   ],
+   "flags": [],
+   "use": "The everyday empathy line, with ga dropped: sono kimochi wakaru (I know how you feel), often flipped as wakaru, sono kimochi. With wa it sets up a 'but': kimochi wa wakaru kedo... (I get it, but...), the gentle way to disagree.",
+   "notes": "hito no kimochi ga wakannai (has no idea how other people feel) is a common complaint about someone tactless. To a customer or someone senior it's okimochi: okimochi wa wakarimasu ga... (I understand, but...).",
+   "example": {
+    "romaji": "wakaru wakaru, sono kimochi.",
+    "ja": "分かる分かる、その気持ち。",
+    "english": "Oh, I totally know how you feel."
+   },
+   "examplePolite": {
+    "romaji": "sono kimochi, yoku wakarimasu.",
+    "ja": "その気持ち、よく分かります。",
+    "english": "I know exactly how you feel."
+   }
+  },
+  {
+   "id": "c-chigai-ga-wakaru",
+   "romaji": "chigai ga wakaru",
+   "polite": "chigai ga wakarimasu",
+   "english": "tell the difference",
+   "ja": "違いが分かる",
+   "kana": "ちがいがわかる",
+   "politeJa": "違いが分かります",
+   "noun": "chigai",
+   "particle": "ga",
+   "verb": "wakaru",
+   "verbJa": "分かる",
+   "verbSense": "understand, be clear; here you can make out the difference",
+   "englishVerb": "tell",
+   "trap": "Learners put o on it (chigai o wakaranai), but wakaru takes ga, or drops it in speech: chigai wakannai. 'Tell' isn't iu or oshieru here either: chigai o oshiete asks someone to explain the difference. kubetsu tsukanai (can't tell them apart) also works.",
+   "partners": [
+    "aji (aji ga wakaru: have a palate)",
+    "yosa (yosa ga wakaru: see what's good about it)"
+   ],
+   "flags": [],
+   "use": "Mostly negative, after tasting or comparing two things: zenzen chigai wakannai (I can't tell the difference at all), with ga dropped. The things compared take no: kono futatsu no chigai.",
+   "notes": "The verb chigau does much of this work too: nani ga chigau no? (what's the difference?). In the positive it praises a discerning palate: chigai ga wakaru hito (someone who can tell good from ordinary).",
+   "example": {
+    "romaji": "shoujiki, zenzen chigai wakannai.",
+    "ja": "正直、全然違い分かんない。",
+    "english": "Honestly, I can't tell the difference at all."
+   },
+   "examplePolite": {
+    "romaji": "shoujiki, zenzen chigai ga wakarimasen.",
+    "ja": "正直、全然違いが分かりません。",
+    "english": "Honestly, I can't tell the difference at all."
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-doa-o-akeru",
+   "romaji": "doa o akeru",
+   "english": "open the door",
+   "chunk": "Doors and locks",
+   "recent": true
+  },
+  {
+   "id": "c-doa-o-shimeru",
+   "romaji": "doa o shimeru",
+   "english": "close the door",
+   "chunk": "Doors and locks",
+   "recent": true
+  },
+  {
+   "id": "c-doa-ga-aku",
+   "romaji": "doa ga aku",
+   "english": "the door opens (aiteru = is open)",
+   "chunk": "Doors and locks",
+   "recent": true
+  },
+  {
+   "id": "c-doa-ga-shimaru",
+   "romaji": "doa ga shimaru",
+   "english": "the door closes (shimatteru = is shut)",
+   "chunk": "Doors and locks",
+   "recent": true
+  },
+  {
+   "id": "c-kagi-o-kakeru",
+   "romaji": "kagi o kakeru",
+   "english": "lock (a door, bike, locker)",
+   "chunk": "Doors and locks",
+   "recent": true
+  },
+  {
+   "id": "c-kagi-ga-kakaru",
+   "romaji": "kagi ga kakaru",
+   "english": "(a door) locks, gets locked (kakatteru = is locked)",
+   "chunk": "Doors and locks",
+   "recent": true
+  },
+  {
+   "id": "c-nioi-ga-suru",
+   "romaji": "nioi ga suru",
+   "english": "smell something, there's a smell",
+   "chunk": "Noticing",
+   "recent": true
+  },
+  {
+   "id": "c-oto-ga-suru",
+   "romaji": "oto ga suru",
+   "english": "hear a noise, there's a sound",
+   "chunk": "Noticing",
+   "recent": true
+  },
+  {
+   "id": "c-koe-ga-kikoeru",
+   "romaji": "koe ga kikoeru",
+   "english": "hear a voice; (on a call) can hear someone",
+   "chunk": "Noticing",
+   "recent": true
+  },
+  {
+   "id": "c-ki-ga-tsuku",
+   "romaji": "ki ga tsuku",
+   "english": "notice, realise",
+   "chunk": "Noticing",
+   "recent": true
+  },
+  {
+   "id": "c-kodomo-ga-iru",
+   "romaji": "kodomo ga iru",
+   "english": "have children, have kids",
+   "chunk": "Kids and growing up",
+   "recent": true
+  },
+  {
+   "id": "c-kodomo-ga-umareru",
+   "romaji": "kodomo ga umareru",
+   "english": "have a baby",
+   "chunk": "Kids and growing up",
+   "recent": true
+  },
+  {
+   "id": "c-otona-ni-naru",
+   "romaji": "otona ni naru",
+   "english": "grow up, become an adult",
+   "chunk": "Kids and growing up",
+   "recent": true
+  },
+  {
+   "id": "c-kodomo-o-sodateru",
+   "romaji": "kodomo o sodateru",
+   "english": "raise children, bring up kids",
+   "chunk": "Kids and growing up",
+   "recent": true
+  },
+  {
+   "id": "c-mendou-o-miru",
+   "romaji": "mendou o miru",
+   "english": "look after, take care of",
+   "chunk": "Kids and growing up",
+   "recent": true
+  },
+  {
+   "id": "c-netsu-ga-aru",
+   "romaji": "netsu ga aru",
+   "english": "have a fever",
+   "chunk": "Cold symptoms",
+   "recent": true
+  },
+  {
+   "id": "c-netsu-ga-deru",
+   "romaji": "netsu ga deru",
+   "english": "get a fever",
+   "chunk": "Cold symptoms",
+   "recent": true
+  },
+  {
+   "id": "c-seki-ga-deru",
+   "romaji": "seki ga deru",
+   "english": "have a cough",
+   "chunk": "Cold symptoms",
+   "recent": true
+  },
+  {
+   "id": "c-hanamizu-ga-deru",
+   "romaji": "hanamizu ga deru",
+   "english": "have a runny nose",
+   "chunk": "Cold symptoms",
+   "recent": true
+  },
+  {
+   "id": "c-karada-ga-darui",
+   "romaji": "karada ga darui",
+   "english": "feel heavy and sluggish",
+   "chunk": "Cold symptoms",
+   "recent": true
+  },
+  {
+   "id": "c-mado-o-akeru",
+   "romaji": "mado o akeru",
+   "english": "open the window",
+   "chunk": "Windows and curtains",
+   "recent": true
+  },
+  {
+   "id": "c-mado-o-shimeru",
+   "romaji": "mado o shimeru",
+   "english": "close the window",
+   "chunk": "Windows and curtains",
+   "recent": true
+  },
+  {
+   "id": "c-kaaten-o-shimeru",
+   "romaji": "kaaten o shimeru",
+   "english": "close the curtains",
+   "chunk": "Windows and curtains",
+   "recent": true
+  },
+  {
+   "id": "c-shashin-o-toru",
+   "romaji": "shashin o toru",
+   "english": "take a photo",
+   "chunk": "Photos and your phone",
+   "recent": true
+  },
+  {
+   "id": "c-shashin-o-miru",
+   "romaji": "shashin o miru",
+   "english": "look at photos",
+   "chunk": "Photos and your phone",
+   "recent": true
+  },
+  {
+   "id": "c-sumaho-o-ijiru",
+   "romaji": "sumaho o ijiru",
+   "english": "be on your phone",
+   "chunk": "Photos and your phone",
+   "recent": true
+  },
+  {
+   "id": "c-shashin-o-okuru",
+   "romaji": "shashin o okuru",
+   "english": "send a photo",
+   "chunk": "Photos and your phone",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "mai",
+   "tanaka"
+  ],
+  "format": "dialogue"
+ }
+}

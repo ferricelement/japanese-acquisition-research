@@ -1,0 +1,371 @@
+{
+ "script": 74,
+ "of": 94,
+ "stage": 4,
+ "chunkId": "work-school-6",
+ "label": "Exams and results",
+ "topic": "Work & school",
+ "rationale": "An exam from start to finish: you sit it, get your score, the results come out, you pass or fail.",
+ "mixUps": "The exam is ukeru but the score is toru (never shiken o toru); ukeru (take, with o) and ukaru (pass, with ni) sound alike, and ochiru is ukaru's opposite.",
+ "targets": [
+  {
+   "id": "c-shiken-o-ukeru",
+   "romaji": "shiken o ukeru",
+   "polite": "shiken o ukemasu",
+   "english": "take an exam",
+   "ja": "試験を受ける",
+   "kana": "しけんをうける",
+   "politeJa": "試験を受けます",
+   "noun": "shiken",
+   "particle": "o",
+   "verb": "ukeru",
+   "verbJa": "受ける",
+   "verbSense": "receive; undergo",
+   "englishVerb": "take",
+   "trap": "'Take' leads to shiken o toru, but toru is for the score you get (ten o toru), a licence, or signing up for a class (jugyou o toru). Exams, tests and interviews are 'undergone': shiken o ukeru.",
+   "partners": [
+    "tesuto (test)",
+    "mensetsu (interview)",
+    "oodishon (audition)",
+    "kensa (medical test)"
+   ],
+   "flags": [],
+   "use": "Said about sitting a test, often when talking about plans: raishuu shiken ukeru. o is often dropped, and interviews take the same verb (mensetsu o ukeru).",
+   "notes": "Students often just say ashita tesuto aru (there's a test tomorrow). On its own, ukeru! is slang for 'that's hilarious'.",
+   "example": {
+    "romaji": "raishuu nihongo no shiken ukeru.",
+    "ja": "来週日本語の試験受ける。",
+    "english": "I'm taking a Japanese exam next week."
+   },
+   "examplePolite": {
+    "romaji": "raishuu nihongo no shiken o ukemasu.",
+    "ja": "来週日本語の試験を受けます。",
+    "english": "I'm taking a Japanese exam next week."
+   }
+  },
+  {
+   "id": "c-ten-o-toru",
+   "romaji": "ten o toru",
+   "polite": "ten o torimasu",
+   "english": "score, get marks (on a test)",
+   "ja": "点を取る",
+   "kana": "てんをとる",
+   "politeJa": "点を取ります",
+   "noun": "ten",
+   "particle": "o",
+   "verb": "toru",
+   "verbJa": "取る",
+   "verbSense": "take; get, earn (a score, a licence)",
+   "englishVerb": "get",
+   "trap": "'Get a hundred' tempts morau, which only fits a mark someone awards you (sensei ni hyakuten moratta). A score you earn on a test is taken: hyakuten totta. This is the toru that English 'take an exam' wrongly points to; the exam itself is shiken o ukeru.",
+   "partners": [
+    "manten (full marks)",
+    "tensuu (score)",
+    "menkyo (licence)",
+    "shikaku (qualification)"
+   ],
+   "flags": [],
+   "use": "Said about test results, almost always with the number fused to ten: hyakuten totta, ii ten toreta (I managed a good score). Casual speech often drops o, and in sport it means scoring.",
+   "notes": "Asking how it went: nanten datta?",
+   "example": {
+    "romaji": "suugaku de hyakuten totta!",
+    "ja": "数学で百点取った！",
+    "english": "I got a hundred in maths!"
+   },
+   "examplePolite": {
+    "romaji": "suugaku de hyakuten torimashita!",
+    "ja": "数学で百点取りました！",
+    "english": "I got a hundred in maths!"
+   }
+  },
+  {
+   "id": "c-kekka-ga-deru",
+   "romaji": "kekka ga deru",
+   "polite": "kekka ga demasu",
+   "english": "the results come out",
+   "ja": "結果が出る",
+   "kana": "けっかがでる",
+   "politeJa": "結果が出ます",
+   "noun": "kekka",
+   "particle": "ga",
+   "verb": "deru",
+   "verbJa": "出る",
+   "verbSense": "go out; appear; come out (be announced or issued)",
+   "englishVerb": "come out",
+   "trap": "English 'I got my results' makes you the subject. For results being announced, Japanese says the results come out: kekka deta. kekka moratta only fits when a results sheet is handed to you (kenkou shindan no kekka moratta). kekka o dasu means producing results, at work or in sport.",
+   "partners": [
+    "seiseki (grades)",
+    "boonasu (bonus)",
+    "kyoka (permission)",
+    "shukudai (homework, when it's set)"
+   ],
+   "flags": [],
+   "use": "Said while waiting on exam, medical or job-application results: kekka itsu deru? Once they're in it's kekka deta, and not yet is mada detenai. The ga is often kept.",
+   "notes": "To ask how it went: kekka dou datta? (polite: kekka wa dou deshita ka?)",
+   "example": {
+    "romaji": "shiken no kekka, mou deta?",
+    "ja": "試験の結果、もう出た？",
+    "english": "Are your exam results out yet?"
+   },
+   "examplePolite": {
+    "romaji": "shiken no kekka wa mou demashita ka?",
+    "ja": "試験の結果はもう出ましたか？",
+    "english": "Have your exam results come out yet?"
+   }
+  },
+  {
+   "id": "c-shiken-ni-ukaru",
+   "romaji": "shiken ni ukaru",
+   "polite": "shiken ni ukarimasu",
+   "english": "pass an exam",
+   "ja": "試験に受かる",
+   "kana": "しけんにうかる",
+   "politeJa": "試験に受かります",
+   "noun": "shiken",
+   "particle": "ni",
+   "verb": "ukaru",
+   "verbJa": "受かる",
+   "verbSense": "pass, get in (be accepted by an exam, school or employer)",
+   "englishVerb": "pass",
+   "trap": "'Pass' gives no hint of ukaru, and the exam takes ni, not o (shiken ni ukatta). goukaku shita is just as common in speech, especially for entrance exams, and shiken ni tootta also works.",
+   "partners": [
+    "daigaku (university)",
+    "mensetsu (interview)",
+    "kaisha (company)",
+    "oodishon (audition)"
+   ],
+   "flags": [],
+   "use": "Said about a result, almost always in the past: shiken ukatta! Casual speech drops ni, and schools and companies work the same way (daigaku ni ukatta).",
+   "notes": "The results come out first (kekka ga deru): kekka deta? ukatta?",
+   "example": {
+    "romaji": "nihongo no shiken ukatta!",
+    "ja": "日本語の試験受かった！",
+    "english": "I passed the Japanese exam!"
+   },
+   "examplePolite": {
+    "romaji": "nihongo no shiken ni ukarimashita!",
+    "ja": "日本語の試験に受かりました！",
+    "english": "I passed the Japanese exam!"
+   }
+  },
+  {
+   "id": "c-shiken-ni-ochiru",
+   "romaji": "shiken ni ochiru",
+   "polite": "shiken ni ochimasu",
+   "english": "fail an exam",
+   "ja": "試験に落ちる",
+   "kana": "しけんにおちる",
+   "politeJa": "試験に落ちます",
+   "noun": "shiken",
+   "particle": "ni",
+   "verb": "ochiru",
+   "verbJa": "落ちる",
+   "verbSense": "fall, drop (here: fail to get through)",
+   "englishVerb": "fail",
+   "trap": "'Fail' points to shippai suru. shiken ni shippai shita is possible, but it means you blew it. For the pass/fail result, you 'fall': shiken ni ochita, or just shiken ochita. The exam takes ni, not o.",
+   "partners": [
+    "daigaku (university)",
+    "mensetsu (interview)",
+    "kaisha (company)",
+    "oodishon (audition)"
+   ],
+   "flags": [],
+   "use": "Said about a result, usually as ochita or ochichatta (failed, sadly). Also used for schools, interviews and auditions: mensetsu ni ochita.",
+   "notes": "Before someone's exam, avoid saying ochiru or suberu (slip): it's considered bad luck. Casually, failing is also shiken subetta. The careful polite form is ochite shimaimashita, and failing a course is tan'i o otosu.",
+   "example": {
+    "romaji": "nihongo no shiken ochichatta.",
+    "ja": "日本語の試験落ちちゃった。",
+    "english": "I failed the Japanese exam, unfortunately."
+   },
+   "examplePolite": {
+    "romaji": "nihongo no shiken ni ochichaimashita.",
+    "ja": "日本語の試験に落ちちゃいました。",
+    "english": "I failed the Japanese exam, unfortunately."
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-shukudai-o-suru",
+   "romaji": "shukudai o suru",
+   "english": "do homework",
+   "chunk": "Homework and grades",
+   "recent": true
+  },
+  {
+   "id": "c-shukudai-o-dasu",
+   "romaji": "shukudai o dasu",
+   "english": "hand in homework",
+   "chunk": "Homework and grades",
+   "recent": true
+  },
+  {
+   "id": "c-mondai-o-toku",
+   "romaji": "mondai o toku",
+   "english": "solve a question, do problems",
+   "chunk": "Homework and grades",
+   "recent": true
+  },
+  {
+   "id": "c-seiseki-ga-ii",
+   "romaji": "seiseki ga ii",
+   "english": "have good grades, do well at school",
+   "chunk": "Homework and grades",
+   "recent": true
+  },
+  {
+   "id": "c-hi-ga-kureru",
+   "romaji": "hi ga kureru",
+   "english": "it gets dark (evening)",
+   "chunk": "Sun and moon",
+   "recent": true
+  },
+  {
+   "id": "c-hi-ga-noboru",
+   "romaji": "hi ga noboru",
+   "english": "the sun rises, comes up",
+   "chunk": "Sun and moon",
+   "recent": true
+  },
+  {
+   "id": "c-hi-ga-shizumu",
+   "romaji": "hi ga shizumu",
+   "english": "the sun sets, goes down",
+   "chunk": "Sun and moon",
+   "recent": true
+  },
+  {
+   "id": "c-tsuki-ga-deru",
+   "romaji": "tsuki ga deru",
+   "english": "the moon comes out",
+   "chunk": "Sun and moon",
+   "recent": true
+  },
+  {
+   "id": "c-ocha-o-ireru",
+   "romaji": "ocha o ireru",
+   "english": "make tea",
+   "chunk": "Breakfast",
+   "recent": true
+  },
+  {
+   "id": "c-satou-o-ireru",
+   "romaji": "satou o ireru",
+   "english": "put sugar in, add sugar",
+   "chunk": "Breakfast",
+   "recent": true
+  },
+  {
+   "id": "c-pan-o-yaku",
+   "romaji": "pan o yaku",
+   "english": "toast bread; bake bread",
+   "chunk": "Breakfast",
+   "recent": true
+  },
+  {
+   "id": "c-asagohan-o-nuku",
+   "romaji": "asagohan o nuku",
+   "english": "skip breakfast",
+   "chunk": "Breakfast",
+   "recent": true
+  },
+  {
+   "id": "c-kaji-o-suru",
+   "romaji": "kaji o suru",
+   "english": "do the housework",
+   "chunk": "Housework and laundry",
+   "recent": true
+  },
+  {
+   "id": "c-sentakumono-o-hosu",
+   "romaji": "sentakumono o hosu",
+   "english": "hang out the laundry",
+   "chunk": "Housework and laundry",
+   "recent": true
+  },
+  {
+   "id": "c-sentakumono-ga-kawaku",
+   "romaji": "sentakumono ga kawaku",
+   "english": "the laundry dries",
+   "chunk": "Housework and laundry",
+   "recent": true
+  },
+  {
+   "id": "c-fuku-o-tatamu",
+   "romaji": "fuku o tatamu",
+   "english": "fold clothes",
+   "chunk": "Housework and laundry",
+   "recent": true
+  },
+  {
+   "id": "c-soujiki-o-kakeru",
+   "romaji": "soujiki o kakeru",
+   "english": "vacuum (the floor)",
+   "chunk": "Housework and laundry",
+   "recent": true
+  },
+  {
+   "id": "c-dengen-o-kiru",
+   "romaji": "dengen o kiru",
+   "english": "turn off (a phone or device)",
+   "chunk": "Power, battery, sound",
+   "recent": true
+  },
+  {
+   "id": "c-dengen-o-ireru",
+   "romaji": "dengen o ireru",
+   "english": "turn on (a phone or device)",
+   "chunk": "Power, battery, sound",
+   "recent": true
+  },
+  {
+   "id": "c-juuden-ga-kireru",
+   "romaji": "juuden ga kireru",
+   "english": "battery runs out, dies",
+   "chunk": "Power, battery, sound",
+   "recent": true
+  },
+  {
+   "id": "c-oto-ga-deru",
+   "romaji": "oto ga deru",
+   "english": "sound comes out (of a TV, speaker, phone)",
+   "chunk": "Power, battery, sound",
+   "recent": true
+  },
+  {
+   "id": "c-masuku-o-suru",
+   "romaji": "masuku o suru",
+   "english": "wear a mask",
+   "chunk": "Masks and glasses",
+   "recent": true
+  },
+  {
+   "id": "c-masuku-o-hazusu",
+   "romaji": "masuku o hazusu",
+   "english": "take off a mask",
+   "chunk": "Masks and glasses",
+   "recent": true
+  },
+  {
+   "id": "c-megane-o-kakeru",
+   "romaji": "megane o kakeru",
+   "english": "wear / put on glasses",
+   "chunk": "Masks and glasses",
+   "recent": true
+  },
+  {
+   "id": "c-megane-o-hazusu",
+   "romaji": "megane o hazusu",
+   "english": "take off glasses",
+   "chunk": "Masks and glasses",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "mai",
+   "tanaka"
+  ],
+  "format": "dialogue"
+ }
+}

@@ -1,0 +1,309 @@
+{
+ "script": 40,
+ "of": 94,
+ "stage": 2,
+ "chunkId": "senses-4",
+ "label": "Likes, interest, confidence",
+ "topic": "Senses & mind",
+ "rationale": "How you feel about a thing or a plan: you like it, you're into it, you can't wait, you're sure you can do it.",
+ "mixUps": "English 'interested' and 'confident' are adjectives, but here they are nouns that exist: kyoumi aru, jishin aru (or nai). ki ni itta (I love it) sounds like ki ni natta (it bugged me).",
+ "targets": [
+  {
+   "id": "c-ki-ni-iru",
+   "romaji": "ki ni iru",
+   "polite": "ki ni irimasu",
+   "english": "like, be pleased with",
+   "ja": "気に入る",
+   "kana": "きにいる",
+   "politeJa": "気に入ります",
+   "noun": "ki",
+   "particle": "ni",
+   "verb": "iru",
+   "verbJa": "入る",
+   "verbSense": "enter, go in (an old reading of hairu); the thing gets into your heart",
+   "englishVerb": "like",
+   "trap": "English says 'I love it' in the present, but Japanese says the past, ki ni itta. iru here conjugates like hairu (itta, irimasu), not like iru 'be' (ita, imasu).",
+   "partners": [],
+   "flags": [],
+   "use": "Nearly always past or -te ru: ki ni itta (I love it, about a gift, purchase or place) and ki ni itteru (I really like it, I've taken to it). The thing you like takes ga or o, and casual speech drops both: kore ki ni itta. Giving a gift: ki ni itte kureru to ii na (I hope you like it).",
+   "notes": "The negative ki ni iranai (I don't like it) is mostly said about someone's attitude and sounds combative: ano taido ga ki ni iranai. okiniiri means favourite: kore, okiniiri na no.",
+   "example": {
+    "romaji": "kore sugoi ki ni itta!",
+    "ja": "これすごい気に入った！",
+    "english": "I love this!"
+   },
+   "examplePolite": {
+    "romaji": "kore, sugoku ki ni irimashita.",
+    "ja": "これ、すごく気に入りました。",
+    "english": "I really love this."
+   }
+  },
+  {
+   "id": "c-kyoumi-ga-aru",
+   "romaji": "kyoumi ga aru",
+   "polite": "kyoumi ga arimasu",
+   "english": "be interested (in)",
+   "ja": "興味がある",
+   "kana": "きょうみがある",
+   "politeJa": "興味があります",
+   "noun": "kyoumi",
+   "particle": "ga",
+   "verb": "aru",
+   "verbJa": "ある",
+   "verbSense": "there is, exist; here you have (an) interest",
+   "englishVerb": "interested",
+   "trap": "For 'I'm interested', learners say watashi wa omoshiroi, which means 'I'm funny', or kyoumi desu. Japanese says the interest exists, and the topic takes ni: X ni kyoumi ga aru. X ga omoshiroi (X is interesting) is also fine, but it describes the thing, not you.",
+   "partners": [
+    "yuuki (courage)",
+    "kanshin (interest, more formal)"
+   ],
+   "flags": [],
+   "use": "The topic takes ni, and casual speech often drops ga: X ni kyoumi aru? The blunt reply kyoumi nai (not interested) is very common.",
+   "notes": "kyoumi o motsu (take an interest in) is the version for an interest someone develops: anime ni kyoumi o motta.",
+   "example": {
+    "romaji": "anime toka kyoumi aru?",
+    "ja": "アニメとか興味ある？",
+    "english": "Are you into anime or anything?"
+   },
+   "examplePolite": {
+    "romaji": "anime toka ni kyoumi ga arimasu ka?",
+    "ja": "アニメとかに興味がありますか？",
+    "english": "Are you interested in anime or anything like that?"
+   }
+  },
+  {
+   "id": "c-tanoshimi-ni-suru",
+   "romaji": "tanoshimi ni suru",
+   "polite": "tanoshimi ni shimasu",
+   "english": "look forward to",
+   "ja": "楽しみにする",
+   "kana": "たのしみにする",
+   "politeJa": "楽しみにします",
+   "noun": "tanoshimi",
+   "particle": "ni",
+   "verb": "suru",
+   "verbJa": "する",
+   "verbSense": "do, make; with X ni, make something into X (here, a pleasure ahead), not the 'go with' of kore ni suru",
+   "englishVerb": "look forward",
+   "trap": "English 'look forward to' has no matching verb, and 'I can't wait' as matenai sounds like you've run out of patience. Say tanoshimi ni shiteru or just tanoshimi!; machikirenai (can't wait) is also fine.",
+   "partners": [],
+   "flags": [],
+   "use": "Nearly always in -te ru for how you feel now: tanoshimi ni shiteru (I'm looking forward to it). The thing takes o, often dropped: ryokou tanoshimi ni shiteru. Polite tanoshimi ni shitemasu closes many messages and plans.",
+   "notes": "tanoshimi ni shitete ne (look forward to it!) is what you say when you've planned a surprise.",
+   "example": {
+    "romaji": "jaa, raishuu tanoshimi ni shiteru ne.",
+    "ja": "じゃあ、来週楽しみにしてるね。",
+    "english": "Okay, looking forward to next week!"
+   },
+   "examplePolite": {
+    "romaji": "jaa, raishuu tanoshimi ni shitemasu ne.",
+    "ja": "じゃあ、来週楽しみにしてますね。",
+    "english": "Well then, I'm looking forward to next week."
+   }
+  },
+  {
+   "id": "c-jishin-ga-aru",
+   "romaji": "jishin ga aru",
+   "polite": "jishin ga arimasu",
+   "english": "be confident (in yourself, your answer)",
+   "ja": "自信がある",
+   "kana": "じしんがある",
+   "politeJa": "自信があります",
+   "noun": "jishin",
+   "particle": "ga",
+   "verb": "aru",
+   "verbJa": "ある",
+   "verbSense": "there is, exist; here you have it (confidence)",
+   "englishVerb": "confident",
+   "trap": "'Confident' is an adjective in English, but Japanese has confidence: jishin aru / jishin nai, and a confident person is jishin aru hito. For 'I'm not sure I can do it', a bare wakaranai sounds like 'I don't know'; say jishin nai, or dekiru ka wakaranai, which is also fine.",
+   "partners": [
+    "kyoumi (interest)",
+    "yuuki (courage)",
+    "yaruki (motivation)"
+   ],
+   "flags": [],
+   "use": "Heard as often in the negative as the positive, with ga dropped: jishin nai (I'm not sure I can) before a test, an interview or a date. What you're confident in takes ni: ryouri ni wa jishin aru (I'm good at cooking and I know it).",
+   "notes": "To encourage someone it's motto jishin motte (yo), with motsu, not aru. jishin manman (full of confidence) can sound teasing; the same sound jishin also means earthquake.",
+   "example": {
+    "romaji": "ashita no mensetsu, anmari jishin nai na.",
+    "ja": "明日の面接、あんまり自信ないな。",
+    "english": "I'm not too confident about tomorrow's interview."
+   },
+   "examplePolite": {
+    "romaji": "ashita no mensetsu, amari jishin ga nai n desu.",
+    "ja": "明日の面接、あまり自信がないんです。",
+    "english": "I'm not very confident about tomorrow's interview."
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-imi-ga-wakaru",
+   "romaji": "imi ga wakaru",
+   "english": "understand what something means; (negative) make no sense",
+   "chunk": "Understanding",
+   "recent": true
+  },
+  {
+   "id": "c-kimochi-ga-wakaru",
+   "romaji": "kimochi ga wakaru",
+   "english": "know how someone feels",
+   "chunk": "Understanding",
+   "recent": true
+  },
+  {
+   "id": "c-chigai-ga-wakaru",
+   "romaji": "chigai ga wakaru",
+   "english": "tell the difference",
+   "chunk": "Understanding",
+   "recent": true
+  },
+  {
+   "id": "c-gohan-ni-iku",
+   "romaji": "gohan ni iku",
+   "english": "go out to eat",
+   "chunk": "Eating out",
+   "recent": true
+  },
+  {
+   "id": "c-mise-ga-komu",
+   "romaji": "mise ga komu",
+   "english": "(a place) gets crowded (konderu = is packed)",
+   "chunk": "Eating out",
+   "recent": true
+  },
+  {
+   "id": "c-gohan-o-ogoru",
+   "romaji": "gohan o ogoru",
+   "english": "treat someone to a meal",
+   "chunk": "Eating out",
+   "recent": true
+  },
+  {
+   "id": "c-ryou-ga-ooi",
+   "romaji": "ryou ga ooi",
+   "english": "it's a big portion",
+   "chunk": "Eating out",
+   "recent": true
+  },
+  {
+   "id": "c-denki-o-tsukeru",
+   "romaji": "denki o tsukeru",
+   "english": "turn on the light",
+   "chunk": "Lights and buttons",
+   "recent": true
+  },
+  {
+   "id": "c-denki-o-kesu",
+   "romaji": "denki o kesu",
+   "english": "turn off the light",
+   "chunk": "Lights and buttons",
+   "recent": true
+  },
+  {
+   "id": "c-denki-ga-tsuku",
+   "romaji": "denki ga tsuku",
+   "english": "the light comes on (tsuiteru = is on)",
+   "chunk": "Lights and buttons",
+   "recent": true
+  },
+  {
+   "id": "c-botan-o-osu",
+   "romaji": "botan o osu",
+   "english": "press the button",
+   "chunk": "Lights and buttons",
+   "recent": true
+  },
+  {
+   "id": "c-densha-ga-okureru",
+   "romaji": "densha ga okureru",
+   "english": "the train is delayed",
+   "chunk": "Catching the train",
+   "recent": true
+  },
+  {
+   "id": "c-densha-ni-maniau",
+   "romaji": "densha ni maniau",
+   "english": "make the train in time",
+   "chunk": "Catching the train",
+   "recent": true
+  },
+  {
+   "id": "c-densha-ga-deru",
+   "romaji": "densha ga deru",
+   "english": "the train leaves",
+   "chunk": "Catching the train",
+   "recent": true
+  },
+  {
+   "id": "c-densha-ni-okureru",
+   "romaji": "densha ni okureru",
+   "english": "be late for the train (and so miss it)",
+   "chunk": "Catching the train",
+   "recent": true
+  },
+  {
+   "id": "c-shuuden-ga-nakunaru",
+   "romaji": "shuuden ga nakunaru",
+   "english": "the last train is gone (no way home)",
+   "chunk": "Catching the train",
+   "recent": true
+  },
+  {
+   "id": "c-byouin-ni-iku",
+   "romaji": "byouin ni iku",
+   "english": "see a doctor",
+   "chunk": "Doctor and medicine",
+   "recent": true
+  },
+  {
+   "id": "c-kusuri-o-nomu",
+   "romaji": "kusuri o nomu",
+   "english": "take medicine",
+   "chunk": "Doctor and medicine",
+   "recent": true
+  },
+  {
+   "id": "c-kusuri-ga-kiku",
+   "romaji": "kusuri ga kiku",
+   "english": "medicine works, takes effect",
+   "chunk": "Doctor and medicine",
+   "recent": true
+  },
+  {
+   "id": "c-naka-ga-ii",
+   "romaji": "naka ga ii",
+   "english": "get along well, be close",
+   "chunk": "Close and in touch",
+   "recent": true
+  },
+  {
+   "id": "c-naka-ga-warui",
+   "romaji": "naka ga warui",
+   "english": "be on bad terms",
+   "chunk": "Close and in touch",
+   "recent": true
+  },
+  {
+   "id": "c-renraku-o-toru",
+   "romaji": "renraku o toru",
+   "english": "get or stay in touch",
+   "chunk": "Close and in touch",
+   "recent": true
+  },
+  {
+   "id": "c-renraku-ga-kuru",
+   "romaji": "renraku ga kuru",
+   "english": "hear from someone",
+   "chunk": "Close and in touch",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "kenta",
+   "satou"
+  ],
+  "format": "monologue"
+ }
+}

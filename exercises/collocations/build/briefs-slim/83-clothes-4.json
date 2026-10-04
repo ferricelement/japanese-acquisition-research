@@ -1,0 +1,335 @@
+{
+ "script": 83,
+ "of": 94,
+ "stage": 4,
+ "chunkId": "clothes-4",
+ "label": "Hats and accessories",
+ "topic": "Clothes & wearing",
+ "rationale": "The rest of what you wear, each with its own verb: a hat is pulled on with kaburu, a ring and a tie just take suru, perfume goes on with tsukeru.",
+ "mixUps": "kaburu for anything over the head, suru for small worn items (as in masuku o suru), tsukeru for things put onto the body; a hat comes off with toru or nugu, a ring or tie with hazusu.",
+ "targets": [
+  {
+   "id": "c-boushi-o-kaburu",
+   "romaji": "boushi o kaburu",
+   "polite": "boushi o kaburimasu",
+   "english": "wear / put on a hat",
+   "ja": "帽子をかぶる",
+   "kana": "ぼうしをかぶる",
+   "politeJa": "帽子をかぶります",
+   "noun": "boushi",
+   "particle": "o",
+   "verb": "kaburu",
+   "verbJa": "かぶる",
+   "verbSense": "pull over or put on the head",
+   "englishVerb": "wear",
+   "trap": "Not boushi o kiru: anything pulled over the head (hat, cap, helmet, hood) takes kaburu.",
+   "partners": [
+    "kyappu (cap)",
+    "herumetto (helmet)",
+    "fuudo (hood)"
+   ],
+   "flags": [],
+   "use": "Usually boushi kabutteru (has a hat on) or boushi kabutte (put your hat on). Casual speech drops o.",
+   "notes": "Off: boushi o toru or nugu. kaburu also means 'clash', as in yotei ga kaburu.",
+   "example": {
+    "romaji": "kyou boushi kabutteru ne.",
+    "ja": "今日帽子かぶってるね。",
+    "english": "Oh, you've got a hat on today."
+   },
+   "examplePolite": {
+    "romaji": "kyou wa boushi o kabuttemasu ne.",
+    "ja": "今日は帽子をかぶってますね。",
+    "english": "You're wearing a hat today."
+   }
+  },
+  {
+   "id": "c-yubiwa-o-suru",
+   "romaji": "yubiwa o suru",
+   "polite": "yubiwa o shimasu",
+   "english": "wear a ring",
+   "ja": "指輪をする",
+   "kana": "ゆびわをする",
+   "politeJa": "指輪をします",
+   "noun": "yubiwa",
+   "particle": "o",
+   "verb": "suru",
+   "verbJa": "する",
+   "verbSense": "do; with small worn items, have on",
+   "englishVerb": "wear",
+   "trap": "Not yubiwa o kiru: a ring, like a watch, mask or tie, takes suru (yubiwa shiteru).",
+   "partners": [
+    "tokei (watch)",
+    "piasu (earrings)",
+    "nekkuresu (necklace)",
+    "buresuretto (bracelet)"
+   ],
+   "flags": [],
+   "use": "Mostly heard as yubiwa shiteru (has a ring on) or shitenai, very often about a wedding ring: kekkon yubiwa shiteru. Casual speech drops o.",
+   "notes": "Slipping one on is often yubiwa o hameru, the same verb as for gloves (tebukuro o hameru), and hameteru also means has one on; yubiwa o tsukeru is fine too, a little more formal. The finger takes ni: kusuriyubi ni yubiwa shiteru (has a ring on the ring finger). It comes off with hazusu.",
+   "example": {
+    "romaji": "ano hito, kekkon yubiwa shiteru ne.",
+    "ja": "あの人、結婚指輪してるね。",
+    "english": "Oh, he's wearing a wedding ring."
+   },
+   "examplePolite": {
+    "romaji": "ano hito wa kekkon yubiwa o shitemasu ne.",
+    "ja": "あの人は結婚指輪をしてますね。",
+    "english": "He's wearing a wedding ring."
+   }
+  },
+  {
+   "id": "c-nekutai-o-suru",
+   "romaji": "nekutai o suru",
+   "polite": "nekutai o shimasu",
+   "english": "wear a tie",
+   "ja": "ネクタイをする",
+   "kana": "ネクタイをする",
+   "politeJa": "ネクタイをします",
+   "noun": "nekutai",
+   "particle": "o",
+   "verb": "suru",
+   "verbJa": "する",
+   "verbSense": "do; with small worn items, have on",
+   "englishVerb": "wear",
+   "trap": "Not nekutai o kiru: a tie takes suru, like a mask or a watch (nekutai shiteru). nekutai o shimeru is tying it, and shimeteru is also a slightly more formal 'has one on'. It comes off with hazusu or toru.",
+   "partners": [
+    "tebukuro (gloves)",
+    "tokei (watch)",
+    "mafuraa (scarf)",
+    "beruto (belt)"
+   ],
+   "flags": [],
+   "use": "Mostly heard as nekutai shiteru (has a tie on) or, in dress-code talk, nekutai shinakute ii (no tie needed). Casual speech drops o.",
+   "notes": "Loosening it is nekutai o yurumeru; the summer kuuru bizu dress code means noo nekutai (no tie).",
+   "example": {
+    "romaji": "kyou wa nekutai shinakute ii yo.",
+    "ja": "今日はネクタイしなくていいよ。",
+    "english": "You don't need a tie today."
+   },
+   "examplePolite": {
+    "romaji": "kyou wa nekutai o shinakute mo ii desu yo.",
+    "ja": "今日はネクタイをしなくてもいいですよ。",
+    "english": "You don't need to wear a tie today."
+   }
+  },
+  {
+   "id": "c-kousui-o-tsukeru",
+   "romaji": "kousui o tsukeru",
+   "polite": "kousui o tsukemasu",
+   "english": "wear / put on perfume",
+   "ja": "香水をつける",
+   "kana": "こうすいをつける",
+   "politeJa": "香水をつけます",
+   "noun": "kousui",
+   "particle": "o",
+   "verb": "tsukeru",
+   "verbJa": "つける",
+   "verbSense": "attach, apply; put on (jewellery, perfume, cream)",
+   "englishVerb": "wear",
+   "trap": "Not kousui o kiru: perfume takes tsukeru, the verb for anything applied or attached (earrings, a necklace, cream). kiru is only for clothes on the torso or whole body.",
+   "partners": [
+    "piasu (earrings)",
+    "nekkuresu (necklace)",
+    "kuriimu (cream)",
+    "kontakuto (contact lenses)"
+   ],
+   "flags": [],
+   "use": "Heard as kousui tsuketeru? (are you wearing perfume?) or as a complaint, tsukesugi (too much). Casual speech drops o. tsuketeru means it's on, not that someone is putting it on now.",
+   "notes": "For spraying it on, kousui o kakeru is also common (12 corpus hits against 19 for tsukeru).",
+   "example": {
+    "romaji": "ii nioi, kousui tsuketeru?",
+    "ja": "いい匂い、香水つけてる？",
+    "english": "You smell nice, are you wearing perfume?"
+   },
+   "examplePolite": {
+    "romaji": "ii kaori desu ne. kousui o tsuketeru n desu ka?",
+    "ja": "いい香りですね。香水をつけてるんですか？",
+    "english": "What a lovely scent. Are you wearing perfume?"
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-yaruki-ga-nai",
+   "romaji": "yaruki ga nai",
+   "english": "have no motivation, can't be bothered",
+   "chunk": "Motivation and mood",
+   "recent": true
+  },
+  {
+   "id": "c-yaruki-ga-deru",
+   "romaji": "yaruki ga deru",
+   "english": "get motivated",
+   "chunk": "Motivation and mood",
+   "recent": true
+  },
+  {
+   "id": "c-genki-ga-deru",
+   "romaji": "genki ga deru",
+   "english": "perk up, get a lift",
+   "chunk": "Motivation and mood",
+   "recent": true
+  },
+  {
+   "id": "c-tenshon-ga-agaru",
+   "romaji": "tenshon ga agaru",
+   "english": "get excited, get hyped",
+   "chunk": "Motivation and mood",
+   "recent": true
+  },
+  {
+   "id": "c-sutoresu-ga-tamaru",
+   "romaji": "sutoresu ga tamaru",
+   "english": "get stressed, stress builds up",
+   "chunk": "Motivation and mood",
+   "recent": true
+  },
+  {
+   "id": "c-reizouko-ni-ireru",
+   "romaji": "reizouko ni ireru",
+   "english": "put in the fridge",
+   "chunk": "Fridge and microwave",
+   "recent": true
+  },
+  {
+   "id": "c-bentou-o-atatameru",
+   "romaji": "obentou o atatameru",
+   "english": "heat up a boxed lunch",
+   "chunk": "Fridge and microwave",
+   "recent": true
+  },
+  {
+   "id": "c-futa-o-suru",
+   "romaji": "futa o suru",
+   "english": "put the lid on",
+   "chunk": "Fridge and microwave",
+   "recent": true
+  },
+  {
+   "id": "c-kigen-ga-kireru",
+   "romaji": "kigen ga kireru",
+   "english": "expire, be past its date",
+   "chunk": "Fridge and microwave",
+   "recent": true
+  },
+  {
+   "id": "c-baka-ni-suru",
+   "romaji": "baka ni suru",
+   "english": "make fun of, look down on",
+   "chunk": "Pride and teasing",
+   "recent": true
+  },
+  {
+   "id": "c-haji-o-kaku",
+   "romaji": "haji o kaku",
+   "english": "embarrass yourself, make a fool of yourself",
+   "chunk": "Pride and teasing",
+   "recent": true
+  },
+  {
+   "id": "c-kakkou-o-tsukeru",
+   "romaji": "kakko tsukeru",
+   "english": "show off, act cool",
+   "chunk": "Pride and teasing",
+   "recent": true
+  },
+  {
+   "id": "c-karada-o-ugokasu",
+   "romaji": "karada o ugokasu",
+   "english": "get some exercise, move your body",
+   "chunk": "Exercise and outdoors",
+   "recent": true
+  },
+  {
+   "id": "c-kibarashi-ni-naru",
+   "romaji": "kibun tenkan ni naru",
+   "english": "be a nice change of pace, do someone good",
+   "chunk": "Exercise and outdoors",
+   "recent": true
+  },
+  {
+   "id": "c-yama-ni-noboru",
+   "romaji": "yama ni noboru",
+   "english": "climb a mountain",
+   "chunk": "Exercise and outdoors",
+   "recent": true
+  },
+  {
+   "id": "c-tsuri-ni-iku",
+   "romaji": "tsuri ni iku",
+   "english": "go fishing",
+   "chunk": "Exercise and outdoors",
+   "recent": true
+  },
+  {
+   "id": "c-kyanpu-ni-iku",
+   "romaji": "kyanpu ni iku",
+   "english": "go camping",
+   "chunk": "Exercise and outdoors",
+   "recent": true
+  },
+  {
+   "id": "c-netto-de-shiraberu",
+   "romaji": "netto de shiraberu",
+   "english": "look something up online",
+   "chunk": "Internet and apps",
+   "recent": true
+  },
+  {
+   "id": "c-netto-ga-tsunagaru",
+   "romaji": "netto ga tsunagaru",
+   "english": "the internet connects, works",
+   "chunk": "Internet and apps",
+   "recent": true
+  },
+  {
+   "id": "c-denpa-ga-warui",
+   "romaji": "denpa ga warui",
+   "english": "bad signal, poor reception",
+   "chunk": "Internet and apps",
+   "recent": true
+  },
+  {
+   "id": "c-apuri-o-ireru",
+   "romaji": "apuri o ireru",
+   "english": "install an app, get an app",
+   "chunk": "Internet and apps",
+   "recent": true
+  },
+  {
+   "id": "c-yousu-o-miru",
+   "romaji": "yousu o miru",
+   "english": "wait and see; check on (someone)",
+   "chunk": "Plans and promises",
+   "recent": true
+  },
+  {
+   "id": "c-chuushi-ni-naru",
+   "romaji": "chuushi ni naru",
+   "english": "be called off",
+   "chunk": "Plans and promises",
+   "recent": true
+  },
+  {
+   "id": "c-yakusoku-o-mamoru",
+   "romaji": "yakusoku o mamoru",
+   "english": "keep a promise",
+   "chunk": "Plans and promises",
+   "recent": true
+  },
+  {
+   "id": "c-keikaku-o-tateru",
+   "romaji": "keikaku o tateru",
+   "english": "make a plan",
+   "chunk": "Plans and promises",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "yuki",
+   "mai"
+  ],
+  "format": "dialogue"
+ }
+}

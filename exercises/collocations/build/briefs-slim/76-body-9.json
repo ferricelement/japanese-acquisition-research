@@ -1,0 +1,336 @@
+{
+ "script": 76,
+ "of": 94,
+ "stage": 4,
+ "chunkId": "body-9",
+ "label": "Long-term health",
+ "topic": "Body & health",
+ "rationale": "Health beyond today's symptoms: what's good for you, getting older, quitting smoking and allergies.",
+ "mixUps": "karada ni ii keeps its ni even in casual talk. Getting older is toshi o toru, not furuku naru. tabako o yameru uses the same yameru as quitting a job (kaisha o yameru). An allergy is something you have: ebi no arerugii ga aru.",
+ "targets": [
+  {
+   "id": "c-karada-ni-ii",
+   "romaji": "karada ni ii",
+   "polite": "karada ni ii desu",
+   "english": "good for you, healthy",
+   "ja": "体にいい",
+   "kana": "からだにいい",
+   "politeJa": "体にいいです",
+   "noun": "karada",
+   "particle": "ni",
+   "verb": "ii",
+   "verbJa": "いい",
+   "verbSense": "good; with ni, good for",
+   "englishVerb": "healthy",
+   "trap": "Not kore wa kenkou desu: kenkou describes a person's health, so food or habits that are good for you are karada ni ii (kenkou ni ii also works). Kenkouteki na shokuji (a healthy diet) and herushii (light, healthy food) are fine too.",
+   "partners": [
+    "hada (skin)",
+    "me (eyes)",
+    "kenkou (health)",
+    "kankyou (the environment)"
+   ],
+   "flags": [],
+   "use": "Said of food, drinks, sleep and habits: yasai wa karada ni ii. The opposite karada ni warui is just as common (tabako, yofukashi), and since ii conjugates from yoi, the softer negative is karada ni yokunai. Ni is kept even in casual speech.",
+   "notes": "Okarada ni ki o tsukete kudasai (take care of yourself) is the stock sign-off with karada; casually, karada ni ki o tsukete ne.",
+   "example": {
+    "romaji": "yasai mo tabete. karada ni ii kara.",
+    "ja": "野菜も食べて。体にいいから。",
+    "english": "Have some vegetables too. They're good for you."
+   },
+   "examplePolite": {
+    "romaji": "yasai mo tabete kudasai. karada ni ii desu kara.",
+    "ja": "野菜も食べてください。体にいいですから。",
+    "english": "Please have some vegetables too. They're good for you."
+   }
+  },
+  {
+   "id": "c-toshi-o-toru",
+   "romaji": "toshi o toru",
+   "polite": "toshi o torimasu",
+   "english": "get older, age",
+   "ja": "年を取る",
+   "kana": "としをとる",
+   "politeJa": "年を取ります",
+   "noun": "toshi",
+   "particle": "o",
+   "verb": "toru",
+   "verbJa": "取る",
+   "verbSense": "take, get; with years, take them on",
+   "englishVerb": "get",
+   "trap": "Not furuku naru, which is for things: people take on years, toshi o toru, and 'I'm getting old' is the past, toshi totta.",
+   "partners": [],
+   "flags": [],
+   "use": "Mostly said in the past for how you feel now: toshi totta naa (I'm getting old). The generic toshi o toru to... (as you get older...) is also common, and toshi totteru means someone is elderly. O often drops in casual talk (toshi totta) but is usually kept in toshi o toru to...",
+   "notes": "Keep apart from toshi ga ue (older than someone); otoshiyori is the polite word for the elderly. Mou toshi da kara (I'm not as young as I was) is the everyday shorthand you'll hear alongside toshi totta.",
+   "example": {
+    "romaji": "aa, toshi totta naa. sugu tsukareru.",
+    "ja": "ああ、年取ったなあ。すぐ疲れる。",
+    "english": "Man, I'm getting old. I get tired so fast."
+   },
+   "examplePolite": {
+    "romaji": "watashi mo toshi o torimashita yo. sugu tsukarete shimau n desu.",
+    "ja": "私も年を取りましたよ。すぐ疲れてしまうんです。",
+    "english": "I've gotten old too. I get tired so easily now."
+   }
+  },
+  {
+   "id": "c-tabako-o-yameru",
+   "romaji": "tabako o yameru",
+   "polite": "tabako o yamemasu",
+   "english": "quit smoking",
+   "ja": "タバコをやめる",
+   "kana": "タバコをやめる",
+   "politeJa": "タバコをやめます",
+   "noun": "tabako",
+   "particle": "o",
+   "verb": "yameru",
+   "verbJa": "やめる",
+   "verbSense": "stop, give up (a habit, an activity); quitting a job is the same-sounding yameru (辞める), as in kaisha o yameru",
+   "englishVerb": "quit",
+   "trap": "English 'stop smoking' pulls toward tomeru, which is stopping a machine or a person (kuruma o tomeru). A habit you give up is yameru: tabako yameta.",
+   "partners": [
+    "osake (drinking)",
+    "yofukashi (staying up late)",
+    "geemu (gaming)"
+   ],
+   "flags": [],
+   "use": "Heard as news, tabako yameta (I've quit), or advice, tabako yameta hou ga ii yo. Wa is common for contrast (tabako wa yameta), and osake o yameru works the same way.",
+   "notes": "Kin'en-chuu (I'm off cigarettes for now) is the other everyday phrase; kin'en on a sign means no smoking.",
+   "example": {
+    "romaji": "tabako, kyonen yameta n da.",
+    "ja": "タバコ、去年やめたんだ。",
+    "english": "I quit smoking last year."
+   },
+   "examplePolite": {
+    "romaji": "tabako wa kyonen yamemashita.",
+    "ja": "タバコは去年やめました。",
+    "english": "I gave up smoking last year."
+   }
+  },
+  {
+   "id": "c-arerugii-ga-aru",
+   "romaji": "arerugii ga aru",
+   "polite": "arerugii ga arimasu",
+   "english": "be allergic (to something)",
+   "ja": "アレルギーがある",
+   "kana": "アレルギーがある",
+   "politeJa": "アレルギーがあります",
+   "noun": "arerugii",
+   "particle": "ga",
+   "verb": "aru",
+   "verbJa": "ある",
+   "verbSense": "there is, exist (for things); here, have",
+   "englishVerb": "allergic",
+   "trap": "Said the German way, arerugii (a-re-ru-gii), not like English 'allergy'. The cause goes in front: tamago arerugii, or tamago ni arerugii ga aru.",
+   "partners": [
+    "netsu (fever)",
+    "zensoku (asthma)",
+    "jibyou (a chronic condition)"
+   ],
+   "flags": [],
+   "use": "Put the cause in front: tamago arerugii ga aru, or ebi no arerugii ga aru. Restaurants and clinics ask about it (arerugii wa arimasu ka?), and casual talk drops ga.",
+   "notes": "Hay fever is kafunshou (kafunshou nan desu), the allergy nearly everyone in Japan talks about each spring.",
+   "example": {
+    "romaji": "ebi arerugii aru kara, taberarenai.",
+    "ja": "エビアレルギーあるから、食べられない。",
+    "english": "I'm allergic to shrimp, so I can't eat it."
+   },
+   "examplePolite": {
+    "romaji": "ebi no arerugii ga aru node, taberaremasen.",
+    "ja": "エビのアレルギーがあるので、食べられません。",
+    "english": "I have a shrimp allergy, so I can't eat it."
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-ocha-o-ireru",
+   "romaji": "ocha o ireru",
+   "english": "make tea",
+   "chunk": "Breakfast",
+   "recent": true
+  },
+  {
+   "id": "c-satou-o-ireru",
+   "romaji": "satou o ireru",
+   "english": "put sugar in, add sugar",
+   "chunk": "Breakfast",
+   "recent": true
+  },
+  {
+   "id": "c-pan-o-yaku",
+   "romaji": "pan o yaku",
+   "english": "toast bread; bake bread",
+   "chunk": "Breakfast",
+   "recent": true
+  },
+  {
+   "id": "c-asagohan-o-nuku",
+   "romaji": "asagohan o nuku",
+   "english": "skip breakfast",
+   "chunk": "Breakfast",
+   "recent": true
+  },
+  {
+   "id": "c-kaji-o-suru",
+   "romaji": "kaji o suru",
+   "english": "do the housework",
+   "chunk": "Housework and laundry",
+   "recent": true
+  },
+  {
+   "id": "c-sentakumono-o-hosu",
+   "romaji": "sentakumono o hosu",
+   "english": "hang out the laundry",
+   "chunk": "Housework and laundry",
+   "recent": true
+  },
+  {
+   "id": "c-sentakumono-ga-kawaku",
+   "romaji": "sentakumono ga kawaku",
+   "english": "the laundry dries",
+   "chunk": "Housework and laundry",
+   "recent": true
+  },
+  {
+   "id": "c-fuku-o-tatamu",
+   "romaji": "fuku o tatamu",
+   "english": "fold clothes",
+   "chunk": "Housework and laundry",
+   "recent": true
+  },
+  {
+   "id": "c-soujiki-o-kakeru",
+   "romaji": "soujiki o kakeru",
+   "english": "vacuum (the floor)",
+   "chunk": "Housework and laundry",
+   "recent": true
+  },
+  {
+   "id": "c-dengen-o-kiru",
+   "romaji": "dengen o kiru",
+   "english": "turn off (a phone or device)",
+   "chunk": "Power, battery, sound",
+   "recent": true
+  },
+  {
+   "id": "c-dengen-o-ireru",
+   "romaji": "dengen o ireru",
+   "english": "turn on (a phone or device)",
+   "chunk": "Power, battery, sound",
+   "recent": true
+  },
+  {
+   "id": "c-juuden-ga-kireru",
+   "romaji": "juuden ga kireru",
+   "english": "battery runs out, dies",
+   "chunk": "Power, battery, sound",
+   "recent": true
+  },
+  {
+   "id": "c-oto-ga-deru",
+   "romaji": "oto ga deru",
+   "english": "sound comes out (of a TV, speaker, phone)",
+   "chunk": "Power, battery, sound",
+   "recent": true
+  },
+  {
+   "id": "c-masuku-o-suru",
+   "romaji": "masuku o suru",
+   "english": "wear a mask",
+   "chunk": "Masks and glasses",
+   "recent": true
+  },
+  {
+   "id": "c-masuku-o-hazusu",
+   "romaji": "masuku o hazusu",
+   "english": "take off a mask",
+   "chunk": "Masks and glasses",
+   "recent": true
+  },
+  {
+   "id": "c-megane-o-kakeru",
+   "romaji": "megane o kakeru",
+   "english": "wear / put on glasses",
+   "chunk": "Masks and glasses",
+   "recent": true
+  },
+  {
+   "id": "c-megane-o-hazusu",
+   "romaji": "megane o hazusu",
+   "english": "take off glasses",
+   "chunk": "Masks and glasses",
+   "recent": true
+  },
+  {
+   "id": "c-shiken-o-ukeru",
+   "romaji": "shiken o ukeru",
+   "english": "take an exam",
+   "chunk": "Exams and results",
+   "recent": true
+  },
+  {
+   "id": "c-ten-o-toru",
+   "romaji": "ten o toru",
+   "english": "score, get marks (on a test)",
+   "chunk": "Exams and results",
+   "recent": true
+  },
+  {
+   "id": "c-kekka-ga-deru",
+   "romaji": "kekka ga deru",
+   "english": "the results come out",
+   "chunk": "Exams and results",
+   "recent": true
+  },
+  {
+   "id": "c-shiken-ni-ukaru",
+   "romaji": "shiken ni ukaru",
+   "english": "pass an exam",
+   "chunk": "Exams and results",
+   "recent": true
+  },
+  {
+   "id": "c-shiken-ni-ochiru",
+   "romaji": "shiken ni ochiru",
+   "english": "fail an exam",
+   "chunk": "Exams and results",
+   "recent": true
+  },
+  {
+   "id": "c-okane-o-orosu",
+   "romaji": "okane o orosu",
+   "english": "withdraw cash",
+   "chunk": "Out on errands",
+   "recent": true
+  },
+  {
+   "id": "c-mise-ga-aku",
+   "romaji": "mise ga aku",
+   "english": "a shop opens (aiteru = is open)",
+   "chunk": "Out on errands",
+   "recent": true
+  },
+  {
+   "id": "c-mise-ga-shimaru",
+   "romaji": "mise ga shimaru",
+   "english": "a shop closes (shimatteru = is closed)",
+   "chunk": "Out on errands",
+   "recent": true
+  },
+  {
+   "id": "c-junban-o-matsu",
+   "romaji": "junban o matsu",
+   "english": "wait your turn",
+   "chunk": "Out on errands",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "yuki",
+   "kenji"
+  ],
+  "format": "dialogue"
+ }
+}

@@ -1,0 +1,346 @@
+{
+ "script": 53,
+ "of": 94,
+ "stage": 3,
+ "chunkId": "travel-3",
+ "label": "On the way",
+ "topic": "Getting around",
+ "rationale": "Updates from the journey: I'm at the station, the roads are jammed, a seat's come free, I rode past my stop.",
+ "mixUps": "Crowded is konderu and a free seat is aiteru, while a whole empty train or road is suiteru, never isogashii or hima. Arriving takes ni (eki ni tsuku), but the stop you ride past takes o (eki o norisugosu).",
+ "targets": [
+  {
+   "id": "c-eki-ni-tsuku",
+   "romaji": "eki ni tsuku",
+   "polite": "eki ni tsukimasu",
+   "english": "get to the station",
+   "ja": "駅に着く",
+   "kana": "えきにつく",
+   "politeJa": "駅に着きます",
+   "noun": "eki",
+   "particle": "ni",
+   "verb": "tsuku",
+   "verbJa": "着く",
+   "verbSense": "arrive; get to (a place)",
+   "englishVerb": "arrive",
+   "trap": "eki ni touchaku suru is correct but stiff, the language of announcements and work emails; in conversation you arrive with tsuku, and 'I'm here' is the past tsuita.",
+   "partners": [
+    "ie (home)",
+    "kuukou (airport)",
+    "hoteru (hotel)",
+    "kaisha (the office)"
+   ],
+   "flags": [],
+   "use": "Mostly a phone or text update: ima eki tsuita (I'm at the station now), eki tsuitara renraku suru (I'll text when I get there). The past tsuita is how you say 'I'm here'; casual speech drops ni.",
+   "notes": "nanji ni tsuku? (what time do you get in?) and mou sugu tsuku (almost there) are the other everyday forms.",
+   "example": {
+    "romaji": "eki tsuitara, kaisatsu no mae de matteru ne.",
+    "ja": "駅着いたら、改札の前で待ってるね。",
+    "english": "When I get to the station, I'll wait in front of the ticket gates."
+   },
+   "examplePolite": {
+    "romaji": "eki ni tsuitara, kaisatsu no mae de mattemasu ne.",
+    "ja": "駅に着いたら、改札の前で待ってますね。",
+    "english": "When I get to the station, I'll wait in front of the ticket gates."
+   }
+  },
+  {
+   "id": "c-michi-ga-komu",
+   "romaji": "michi ga komu",
+   "polite": "michi ga komimasu",
+   "english": "the traffic is heavy",
+   "ja": "道が混む",
+   "kana": "みちがこむ",
+   "politeJa": "道が混みます",
+   "noun": "michi",
+   "particle": "ga",
+   "verb": "komu",
+   "verbJa": "混む",
+   "verbSense": "get crowded; konderu = be crowded, packed",
+   "englishVerb": "busy",
+   "trap": "Not michi ga isogashii: isogashii is for people and their time (isogashii hi, a busy day), never for a place full of people or cars. A busy road, train or shop is konderu ('has got packed').",
+   "partners": [
+    "densha (train)",
+    "kousoku (expressway)",
+    "eki (station)"
+   ],
+   "flags": [],
+   "use": "Heard as konderu (busy now) or kondete (because it was busy), usually without ga: michi konderu kara okureru kamo. Plain komu is for patterns: kono jikan wa michi komu yo (the roads get busy at this hour). Same verb as mise ga komu and densha konderu. (sugoi konderu, with sugoi as an adverb, is casual; sugoku is the standard form.)",
+   "notes": "A full jam is juutai: juutai ni hamatta (I got stuck in traffic). Clear roads are suiteru: michi suiteta.",
+   "example": {
+    "romaji": "kyou, michi sugoi konderu ne.",
+    "ja": "今日、道すごい混んでるね。",
+    "english": "The roads are really busy today."
+   },
+   "examplePolite": {
+    "romaji": "kyou wa michi ga sugoku kondemasu ne.",
+    "ja": "今日は道がすごく混んでますね。",
+    "english": "The roads are really busy today."
+   }
+  },
+  {
+   "id": "c-seki-ga-aku",
+   "romaji": "seki ga aku",
+   "polite": "seki ga akimasu",
+   "english": "a seat frees up (aiteru = a seat is free)",
+   "ja": "席が空く",
+   "kana": "せきがあく",
+   "politeJa": "席が空きます",
+   "noun": "seki",
+   "particle": "ga",
+   "verb": "aku",
+   "verbJa": "空く",
+   "verbSense": "become empty or vacant; open up (a space, a slot)",
+   "englishVerb": "free",
+   "trap": "Not kono seki tada? (that asks if it costs nothing) or seki ga hima: hima is a person or a quiet shop with nothing going on, and a free seat is aiteru ('has come open'). For your own schedule both work: ashita aiteru? / ashita hima?",
+   "partners": [
+    "toire (toilet)",
+    "heya (room)",
+    "jikan (time)"
+   ],
+   "flags": [],
+   "use": "Almost always heard as aiteru: koko aitemasu ka? (is this seat free?) or seki aiteru (there's a free seat). aita is the moment one frees up: a, seki aita.",
+   "notes": "A whole train being empty or packed is densha ga suiteru / konderu, not aiteru.",
+   "example": {
+    "romaji": "a, asoko seki aiteru yo.",
+    "ja": "あ、あそこ席空いてるよ。",
+    "english": "Oh, there's a free seat over there."
+   },
+   "examplePolite": {
+    "romaji": "sumimasen, kono seki aitemasu ka?",
+    "ja": "すみません、この席空いてますか？",
+    "english": "Excuse me, is this seat free?"
+   }
+  },
+  {
+   "id": "c-eki-o-norisugosu",
+   "romaji": "eki o norisugosu",
+   "polite": "eki o norisugoshimasu",
+   "english": "miss your stop",
+   "ja": "駅を乗り過ごす",
+   "kana": "えきをのりすごす",
+   "politeJa": "駅を乗り過ごします",
+   "noun": "eki",
+   "particle": "o",
+   "verb": "norisugosu",
+   "verbJa": "乗り過ごす",
+   "verbSense": "ride past (noru 'ride' + sugosu 'let go by')",
+   "englishVerb": "miss",
+   "trap": "Not eki o nogasu or eki o misu shita: staying on past your stop is norisugosu (ride past), and nogasu is for a train that left without you. orisokoneta (didn't manage to get off) also works, say on a packed train.",
+   "partners": [
+    "oriru eki (your stop)",
+    "basutei (bus stop)"
+   ],
+   "flags": [],
+   "use": "Nearly always in the past, norisugoshita or norisugoshichatta, and usually without eki: nechatte norisugoshita (I fell asleep and missed my stop). How far you went is counted in stops: hitoeki norisugoshita. When the noun is said, it's oriru eki: oriru eki norisugoshita (I went past my stop).",
+   "notes": "Sleeping through the stop is also nesugoshita; oversleeping in the morning is nebou shita.",
+   "example": {
+    "romaji": "nechatte, hitoeki norisugoshita.",
+    "ja": "寝ちゃって、一駅乗り過ごした。",
+    "english": "I fell asleep and went one stop too far."
+   },
+   "examplePolite": {
+    "romaji": "nete shimatte, hitoeki norisugoshimashita.",
+    "ja": "寝てしまって、一駅乗り過ごしました。",
+    "english": "I fell asleep and went one stop too far."
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-okane-ga-kakaru",
+   "romaji": "okane ga kakaru",
+   "english": "cost money",
+   "chunk": "Costs and paying",
+   "recent": true
+  },
+  {
+   "id": "c-ikura-suru",
+   "romaji": "ikura suru",
+   "english": "how much it costs (price + suru)",
+   "chunk": "Costs and paying",
+   "recent": true
+  },
+  {
+   "id": "c-nedan-ga-takai",
+   "romaji": "nedan ga takai",
+   "english": "the price is high",
+   "chunk": "Costs and paying",
+   "recent": true
+  },
+  {
+   "id": "c-okane-o-harau",
+   "romaji": "okane o harau",
+   "english": "pay (money)",
+   "chunk": "Costs and paying",
+   "recent": true
+  },
+  {
+   "id": "c-warikan-ni-suru",
+   "romaji": "warikan ni suru",
+   "english": "split the bill",
+   "chunk": "Costs and paying",
+   "recent": true
+  },
+  {
+   "id": "c-zubon-o-haku",
+   "romaji": "zubon o haku",
+   "english": "put on / wear trousers",
+   "chunk": "Trying clothes on",
+   "recent": true
+  },
+  {
+   "id": "c-fuku-o-kigaeru",
+   "romaji": "fuku o kigaeru",
+   "english": "change clothes, get changed",
+   "chunk": "Trying clothes on",
+   "recent": true
+  },
+  {
+   "id": "c-fuku-ga-niau",
+   "romaji": "fuku ga niau",
+   "english": "suit someone, look good on someone",
+   "chunk": "Trying clothes on",
+   "recent": true
+  },
+  {
+   "id": "c-saizu-ga-au",
+   "romaji": "saizu ga au",
+   "english": "be the right size, fit",
+   "chunk": "Trying clothes on",
+   "recent": true
+  },
+  {
+   "id": "c-jikan-ga-aku",
+   "romaji": "jikan ga aku",
+   "english": "be free (have time)",
+   "chunk": "Are you free?",
+   "recent": true
+  },
+  {
+   "id": "c-yotei-ga-aru",
+   "romaji": "yotei ga aru",
+   "english": "have plans",
+   "chunk": "Are you free?",
+   "recent": true
+  },
+  {
+   "id": "c-tsugou-ga-ii",
+   "romaji": "tsugou ga ii",
+   "english": "suit someone, be convenient",
+   "chunk": "Are you free?",
+   "recent": true
+  },
+  {
+   "id": "c-tsugou-ga-warui",
+   "romaji": "tsugou ga warui",
+   "english": "not suit someone, can't make it (a time)",
+   "chunk": "Are you free?",
+   "recent": true
+  },
+  {
+   "id": "c-tomodachi-ni-au",
+   "romaji": "tomodachi ni au",
+   "english": "see a friend, meet up",
+   "chunk": "Seeing people",
+   "recent": true
+  },
+  {
+   "id": "c-uchi-made-okuru",
+   "romaji": "ie made okuru",
+   "english": "see or drive someone home",
+   "chunk": "Seeing people",
+   "recent": true
+  },
+  {
+   "id": "c-jikka-ni-kaeru",
+   "romaji": "jikka ni kaeru",
+   "english": "go home to your parents'",
+   "chunk": "Seeing people",
+   "recent": true
+  },
+  {
+   "id": "c-tanjoubi-o-iwau",
+   "romaji": "tanjoubi o iwau",
+   "english": "celebrate a birthday",
+   "chunk": "Seeing people",
+   "recent": true
+  },
+  {
+   "id": "c-nomi-ni-iku",
+   "romaji": "nomi ni iku",
+   "english": "go out for drinks",
+   "chunk": "Drinking out",
+   "recent": true
+  },
+  {
+   "id": "c-tabako-o-suu",
+   "romaji": "tabako o suu",
+   "english": "smoke (a cigarette)",
+   "chunk": "Drinking out",
+   "recent": true
+  },
+  {
+   "id": "c-osake-ga-yowai",
+   "romaji": "osake ga yowai",
+   "english": "can't hold one's drink",
+   "chunk": "Drinking out",
+   "recent": true
+  },
+  {
+   "id": "c-osake-ga-tsuyoi",
+   "romaji": "osake ga tsuyoi",
+   "english": "can hold one's drink",
+   "chunk": "Drinking out",
+   "recent": true
+  },
+  {
+   "id": "c-denwa-o-kakeru",
+   "romaji": "denwa o kakeru",
+   "english": "make a phone call",
+   "chunk": "Phone calls",
+   "recent": true
+  },
+  {
+   "id": "c-denwa-ni-deru",
+   "romaji": "denwa ni deru",
+   "english": "answer the phone",
+   "chunk": "Phone calls",
+   "recent": true
+  },
+  {
+   "id": "c-denwa-o-kiru",
+   "romaji": "denwa o kiru",
+   "english": "hang up the phone",
+   "chunk": "Phone calls",
+   "recent": true
+  },
+  {
+   "id": "c-denwa-ga-naru",
+   "romaji": "denwa ga naru",
+   "english": "the phone rings",
+   "chunk": "Phone calls",
+   "recent": true
+  },
+  {
+   "id": "c-denwa-ga-aru",
+   "romaji": "denwa ga aru",
+   "english": "(someone) called, there was a call from X",
+   "chunk": "Phone calls",
+   "recent": true
+  },
+  {
+   "id": "c-denwa-ga-kakaru",
+   "romaji": "denwa ga kakaru",
+   "english": "get a phone call",
+   "chunk": "Phone calls",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "yuki",
+   "mai"
+  ],
+  "format": "dialogue"
+ }
+}

@@ -1,0 +1,327 @@
+{
+ "script": 6,
+ "of": 94,
+ "stage": 1,
+ "chunkId": "work-school-1",
+ "label": "School and work days",
+ "topic": "Work & school",
+ "rationale": "The daily round, guessable sets first: going to school, going to work, getting off work, being busy with it.",
+ "mixUps": "gakkou ni itteru and shigoto ni itteru mean you attend or are there now, not that you're on the way; owaru and isogashii make the work the subject with ga, where English says 'I'.",
+ "targets": [
+  {
+   "id": "c-gakkou-ni-iku",
+   "romaji": "gakkou ni iku",
+   "polite": "gakkou ni ikimasu",
+   "english": "go to school",
+   "ja": "学校に行く",
+   "kana": "がっこうにいく",
+   "politeJa": "学校に行きます",
+   "noun": "gakkou",
+   "particle": "ni",
+   "verb": "iku",
+   "verbJa": "行く",
+   "verbSense": "go",
+   "englishVerb": "go",
+   "trap": "'I'm going to school' (on the way) isn't gakkou ni itteru, which means you're there now or that you attend it. On the way is ima gakkou iku tochuu (or ima gakkou ni mukatteru), and about to leave is plain: ima kara gakkou iku.",
+   "partners": [
+    "daigaku (university)",
+    "kaisha (work, the office)",
+    "juku (cram school)",
+    "baito (part-time job)"
+   ],
+   "flags": [],
+   "use": "Said about the daily trip and about being a student at all, so you hear itteru a lot: nihongo gakkou itteru (I go to a Japanese language school). Casual speech drops ni, and e also works (gakkou e iku).",
+   "notes": "For a regular routine, kayou also works: juku ni kayotteru.",
+   "example": {
+    "romaji": "saikin nihongo gakkou itteru.",
+    "ja": "最近日本語学校行ってる。",
+    "english": "I've been going to a Japanese language school lately."
+   },
+   "examplePolite": {
+    "romaji": "saikin nihongo gakkou ni ittemasu.",
+    "ja": "最近日本語学校に行ってます。",
+    "english": "I've been going to a Japanese language school lately."
+   }
+  },
+  {
+   "id": "c-shigoto-ni-iku",
+   "romaji": "shigoto ni iku",
+   "polite": "shigoto ni ikimasu",
+   "english": "go to work",
+   "ja": "仕事に行く",
+   "kana": "しごとにいく",
+   "politeJa": "仕事に行きます",
+   "noun": "shigoto",
+   "particle": "ni",
+   "verb": "iku",
+   "verbJa": "行く",
+   "verbSense": "go",
+   "englishVerb": "go",
+   "trap": "'He's at work' tempts shigoto ni iru, which doesn't work. He has gone and is there: shigoto itteru or shigoto ni deteru (or shigoto-chuu, in the middle of work).",
+   "partners": [
+    "paato (part-time job)",
+    "renshuu (practice, training)",
+    "nomikai (work drinks)"
+   ],
+   "flags": [],
+   "use": "Said about the daily trip: ja, shigoto itte kuru (I'm off to work). itteru is the state, 'they're at work': papa wa shigoto itteru. Casual speech drops ni.",
+   "notes": "Coming back is shigoto kara kaeru; on the way home is shigoto no kaeri.",
+   "example": {
+    "romaji": "ima kara shigoto iku.",
+    "ja": "今から仕事行く。",
+    "english": "I'm heading off to work now."
+   },
+   "examplePolite": {
+    "romaji": "ima kara shigoto ni ikimasu.",
+    "ja": "今から仕事に行きます。",
+    "english": "I'm heading off to work now."
+   }
+  },
+  {
+   "id": "c-shigoto-ga-owaru",
+   "romaji": "shigoto ga owaru",
+   "polite": "shigoto ga owarimasu",
+   "english": "get off work",
+   "ja": "仕事が終わる",
+   "kana": "しごとがおわる",
+   "politeJa": "仕事が終わります",
+   "noun": "shigoto",
+   "particle": "ga",
+   "verb": "owaru",
+   "verbJa": "終わる",
+   "verbSense": "end, be over (the thing itself finishes)",
+   "englishVerb": "get off",
+   "trap": "English makes you the subject ('I finish work'), which tempts o with a transitive verb (shigoto o owaraseru means getting a job done). For clocking off, the work itself ends: shigoto ga owaru, so 'I'm done' is shigoto owatta.",
+   "partners": [
+    "gakkou (school)",
+    "jugyou (class)",
+    "kaigi (meeting)",
+    "baito (part-time job)"
+   ],
+   "flags": [],
+   "use": "Said when making plans around someone's workday: shigoto nanji ni owaru? Once you're done, you say shigoto owatta. Casual speech usually drops ga.",
+   "notes": "Leaving the building is kaisha o deru. The stiffer transitive is shigoto o oeru. Among coworkers, clocking off is also agaru: kyou nanji ni agaru?",
+   "example": {
+    "romaji": "kyou shigoto nanji ni owaru?",
+    "ja": "今日仕事何時に終わる？",
+    "english": "What time do you get off work today?"
+   },
+   "examplePolite": {
+    "romaji": "kyou wa shigoto nanji ni owarimasu ka?",
+    "ja": "今日は仕事何時に終わりますか？",
+    "english": "What time do you finish work today?"
+   }
+  },
+  {
+   "id": "c-shigoto-ga-isogashii",
+   "romaji": "shigoto ga isogashii",
+   "polite": "shigoto ga isogashii desu",
+   "english": "be busy with work",
+   "ja": "仕事が忙しい",
+   "kana": "しごとがいそがしい",
+   "politeJa": "仕事が忙しいです",
+   "noun": "shigoto",
+   "particle": "ga",
+   "verb": "isogashii",
+   "verbJa": "忙しい",
+   "verbSense": "busy (a person, their work or schedule)",
+   "englishVerb": "busy",
+   "trap": "English 'busy' also covers crowds and phone lines. A shop packed with customers, from the customer's side, is konderu (mise ga komu); mise ga isogashii is how the staff put it. A busy phone line is hanashi-chuu.",
+   "partners": [
+    "baito (part-time job)",
+    "benkyou (studying)",
+    "gakkou (school)"
+   ],
+   "flags": [],
+   "use": "The standard reply to saikin dou? and the standard excuse: shigoto isogashikute (work's been busy, so...). Casual speech drops ga, and shigoto de isogashii means the same.",
+   "notes": "The usual reply to someone's busy spell: taihen da ne.",
+   "example": {
+    "romaji": "saikin shigoto isogashikute, zenzen yasumenai.",
+    "ja": "最近仕事忙しくて、全然休めない。",
+    "english": "Work's been so busy lately, I never get a break."
+   },
+   "examplePolite": {
+    "romaji": "saikin shigoto ga isogashikute, zenzen yasumemasen.",
+    "ja": "最近仕事が忙しくて、全然休めません。",
+    "english": "Work's been so busy lately, I never get a break."
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-ame-ga-furu",
+   "romaji": "ame ga furu",
+   "english": "it rains; rain falls",
+   "chunk": "Rain and snow",
+   "recent": true
+  },
+  {
+   "id": "c-yuki-ga-furu",
+   "romaji": "yuki ga furu",
+   "english": "it snows",
+   "chunk": "Rain and snow",
+   "recent": true
+  },
+  {
+   "id": "c-ame-ga-yamu",
+   "romaji": "ame ga yamu",
+   "english": "the rain stops",
+   "chunk": "Rain and snow",
+   "recent": true
+  },
+  {
+   "id": "c-kasa-o-sasu",
+   "romaji": "kasa o sasu",
+   "english": "put up (open) an umbrella; have an umbrella up",
+   "chunk": "Rain and snow",
+   "recent": true
+  },
+  {
+   "id": "c-ame-ni-furareru",
+   "romaji": "ame ni furareru",
+   "english": "get caught in the rain",
+   "chunk": "Rain and snow",
+   "recent": true
+  },
+  {
+   "id": "c-onaka-ga-suku",
+   "romaji": "onaka ga suku",
+   "english": "get hungry",
+   "chunk": "Hungry, full, thirsty",
+   "recent": true
+  },
+  {
+   "id": "c-onaka-ga-ippai",
+   "romaji": "onaka ga ippai",
+   "english": "be full (after eating)",
+   "chunk": "Hungry, full, thirsty",
+   "recent": true
+  },
+  {
+   "id": "c-nodo-ga-kawaku",
+   "romaji": "nodo ga kawaku",
+   "english": "get thirsty",
+   "chunk": "Hungry, full, thirsty",
+   "recent": true
+  },
+  {
+   "id": "c-onaka-ga-heru",
+   "romaji": "onaka ga heru",
+   "english": "get hungry (blunter, casual)",
+   "chunk": "Hungry, full, thirsty",
+   "recent": true
+  },
+  {
+   "id": "c-uchi-ni-kaeru",
+   "romaji": "uchi ni kaeru",
+   "english": "go home, get home",
+   "chunk": "Out and back",
+   "recent": true
+  },
+  {
+   "id": "c-uchi-o-deru",
+   "romaji": "uchi o deru",
+   "english": "leave the house",
+   "chunk": "Out and back",
+   "recent": true
+  },
+  {
+   "id": "c-soto-ni-deru",
+   "romaji": "soto ni deru",
+   "english": "go outside, step out",
+   "chunk": "Out and back",
+   "recent": true
+  },
+  {
+   "id": "c-kaimono-ni-iku",
+   "romaji": "kaimono ni iku",
+   "english": "go shopping",
+   "chunk": "Out and back",
+   "recent": true
+  },
+  {
+   "id": "c-kaeri-ga-osoi",
+   "romaji": "kaeri ga osoi",
+   "english": "get home late",
+   "chunk": "Out and back",
+   "recent": true
+  },
+  {
+   "id": "c-se-ga-takai",
+   "romaji": "se ga takai",
+   "english": "be tall",
+   "chunk": "Looks and voice",
+   "recent": true
+  },
+  {
+   "id": "c-se-ga-hikui",
+   "romaji": "se ga hikui",
+   "english": "be short (height)",
+   "chunk": "Looks and voice",
+   "recent": true
+  },
+  {
+   "id": "c-koe-ga-ookii",
+   "romaji": "koe ga ookii",
+   "english": "have a loud voice, be loud",
+   "chunk": "Looks and voice",
+   "recent": true
+  },
+  {
+   "id": "c-kami-ga-nagai",
+   "romaji": "kami ga nagai",
+   "english": "have long hair",
+   "chunk": "Looks and voice",
+   "recent": true
+  },
+  {
+   "id": "c-sutairu-ga-ii",
+   "romaji": "sutairu ga ii",
+   "english": "have a good figure",
+   "chunk": "Looks and voice",
+   "recent": true
+  },
+  {
+   "id": "c-densha-ni-noru",
+   "romaji": "densha ni noru",
+   "english": "ride / get on the train",
+   "chunk": "Getting on and off",
+   "recent": true
+  },
+  {
+   "id": "c-basu-ni-noru",
+   "romaji": "basu ni noru",
+   "english": "take the bus",
+   "chunk": "Getting on and off",
+   "recent": true
+  },
+  {
+   "id": "c-kuruma-ni-noru",
+   "romaji": "kuruma ni noru",
+   "english": "get in / ride in a car",
+   "chunk": "Getting on and off",
+   "recent": true
+  },
+  {
+   "id": "c-densha-o-oriru",
+   "romaji": "densha o oriru",
+   "english": "get off the train",
+   "chunk": "Getting on and off",
+   "recent": true
+  },
+  {
+   "id": "c-jitensha-ni-noru",
+   "romaji": "jitensha ni noru",
+   "english": "ride a bike",
+   "chunk": "Getting on and off",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "yuki",
+   "kenji"
+  ],
+  "format": "dialogue"
+ }
+}

@@ -1,0 +1,187 @@
+{
+ "script": 2,
+ "of": 94,
+ "stage": 1,
+ "chunkId": "body-1",
+ "label": "Hungry, full, thirsty",
+ "topic": "Body & health",
+ "rationale": "Everyday appetite signals: hungry (two ways), full and thirsty.",
+ "mixUps": "onaka suita and onaka hetta mean the same, but hetta sounds blunter, so learn suita first and hetta as its casual twin. Both use the past tense for hunger you feel now, and so does nodo kawaita. onaka ippai has no verb of its own (add ni natta for the past).",
+ "targets": [
+  {
+   "id": "c-onaka-ga-suku",
+   "romaji": "onaka ga suku",
+   "polite": "onaka ga sukimasu",
+   "english": "get hungry",
+   "ja": "お腹がすく",
+   "kana": "おなかがすく",
+   "politeJa": "お腹がすきます",
+   "noun": "onaka",
+   "particle": "ga",
+   "verb": "suku",
+   "verbJa": "すく",
+   "verbSense": "become empty, thin out (densha ga suiteru = the train isn't crowded)",
+   "englishVerb": "hungry",
+   "trap": "No everyday 'hungry' adjective (himojii is old-fashioned): the stomach empties, onaka suita, in the past tense for hunger you feel now.",
+   "partners": [
+    "densha (train)",
+    "michi (road)",
+    "mise (shop)"
+   ],
+   "flags": [],
+   "use": "Said in the past for hunger you feel now: onaka suita (I'm hungry), ga usually dropped. Onaka suiteru? asks if someone is hungry, and onaka suitenai is 'I'm not hungry'.",
+   "notes": "Onaka hetta (onaka ga heru) means the same but sounds a little blunter; hara hetta is the rough, mostly male version. Onaka pekopeko (I'm starving) sounds childish or cute.",
+   "example": {
+    "romaji": "aa, onaka suita. nanka tabeyou.",
+    "ja": "ああ、お腹すいた。なんか食べよう。",
+    "english": "I'm so hungry. Let's get something to eat."
+   },
+   "examplePolite": {
+    "romaji": "aa, onaka ga sukimashita ne. nanika tabemashou ka.",
+    "ja": "ああ、お腹がすきましたね。何か食べましょうか。",
+    "english": "I'm hungry, aren't you? Shall we get something to eat?"
+   }
+  },
+  {
+   "id": "c-onaka-ga-ippai",
+   "romaji": "onaka ga ippai",
+   "polite": "onaka ga ippai desu",
+   "english": "be full (after eating)",
+   "ja": "お腹がいっぱい",
+   "kana": "おなかがいっぱい",
+   "politeJa": "お腹がいっぱいです",
+   "noun": "onaka",
+   "particle": "ga",
+   "verb": "ippai",
+   "verbJa": "いっぱい",
+   "verbSense": "full, filled up; also 'a lot' (ippai aru = there's lots)",
+   "englishVerb": "full",
+   "trap": "English 'I'm full' names no body part; Japanese says the stomach is full, onaka ippai. Keep onaka in: ippai alone mostly means 'a lot', and mou ippai can be heard as 'one more (drink)'.",
+   "partners": [
+    "yotei (schedule)",
+    "chuushajou (car park)"
+   ],
+   "flags": [],
+   "use": "Said at the end of a meal and to turn down more food, usually without ga: mou onaka ippai (I'm full). It has no verb of its own: add desu to be polite, and ni natta for the past, as in onaka ippai ni natta? (are you full?).",
+   "notes": "Hara ippai is the rougher, mostly male version; hara ippai taberu = eat your fill. Mou onaka ippai can also mean 'I've had enough of that'.",
+   "example": {
+    "romaji": "aa, onaka ippai. mou taberarenai.",
+    "ja": "ああ、お腹いっぱい。もう食べられない。",
+    "english": "I'm so full. I can't eat another bite."
+   },
+   "examplePolite": {
+    "romaji": "mou onaka ippai desu. gochisousama deshita.",
+    "ja": "もうお腹いっぱいです。ごちそうさまでした。",
+    "english": "I'm full. Thank you for the meal."
+   }
+  },
+  {
+   "id": "c-nodo-ga-kawaku",
+   "romaji": "nodo ga kawaku",
+   "polite": "nodo ga kawakimasu",
+   "english": "get thirsty",
+   "ja": "喉が渇く",
+   "kana": "のどがかわく",
+   "politeJa": "喉が渇きます",
+   "noun": "nodo",
+   "particle": "ga",
+   "verb": "kawaku",
+   "verbJa": "渇く",
+   "verbSense": "become dry (of the throat); the same-sounding kawaku is also used for laundry or paint drying",
+   "englishVerb": "thirsty",
+   "trap": "No 'thirsty' adjective: the throat dries, nodo kawaita, in the past tense for thirst you feel now.",
+   "partners": [],
+   "flags": [],
+   "use": "Said in the past for thirst you feel now: nodo kawaita (I'm thirsty), ga usually dropped. Nodo kawaiteru? asks if someone is thirsty.",
+   "notes": "The same nodo is the throat in nodo ga itai (sore throat).",
+   "example": {
+    "romaji": "nodo kawaita. mizu aru?",
+    "ja": "喉渇いた。水ある？",
+    "english": "I'm thirsty. Is there any water?"
+   },
+   "examplePolite": {
+    "romaji": "nodo ga kawakimashita. omizu o moraemasu ka?",
+    "ja": "喉が渇きました。お水をもらえますか？",
+    "english": "I'm thirsty. Could I have some water?"
+   }
+  },
+  {
+   "id": "c-onaka-ga-heru",
+   "romaji": "onaka ga heru",
+   "polite": "onaka ga herimasu",
+   "english": "get hungry (blunter, casual)",
+   "ja": "お腹が減る",
+   "kana": "おなかがへる",
+   "politeJa": "お腹が減ります",
+   "noun": "onaka",
+   "particle": "ga",
+   "verb": "heru",
+   "verbJa": "減る",
+   "verbSense": "decrease, go down (taijuu ga heru = lose weight)",
+   "englishVerb": "hungry",
+   "trap": "Hunger is a past-tense verb, not an adjective: onaka hetta (I'm hungry); onaka heru sounds like 'I'll get hungry'.",
+   "partners": [
+    "hara (belly: hara hetta = rough, mostly male)",
+    "taijuu (weight: plain 'go down' sense)",
+    "okane (money: plain 'go down' sense)"
+   ],
+   "flags": [],
+   "use": "Like onaka suita, said in the past for hunger you feel now: onaka hetta, with ga often dropped. It's a bit blunter and more casual than suita, and the rough, mostly male hara hetta is the form heard most in film. In desu/masu talk onaka ga sukimashita is the safer default; herimashita sounds blunt and a little male.",
+   "notes": "Same meaning as onaka ga suku. Among friends onaka hetta is just as everyday; hara hetta is its rough, mostly male twin.",
+   "example": {
+    "romaji": "onaka hetta. nanka tabe ni ikanai?",
+    "ja": "お腹減った。なんか食べに行かない？",
+    "english": "I'm hungry. Want to go grab something to eat?"
+   },
+   "examplePolite": {
+    "romaji": "onaka ga herimashita ne. nanika tabe ni ikimasen ka?",
+    "ja": "お腹が減りましたね。何か食べに行きませんか？",
+    "english": "I'm hungry, aren't you? Shall we go and get something to eat?"
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-ame-ga-furu",
+   "romaji": "ame ga furu",
+   "english": "it rains; rain falls",
+   "chunk": "Rain and snow",
+   "recent": true
+  },
+  {
+   "id": "c-yuki-ga-furu",
+   "romaji": "yuki ga furu",
+   "english": "it snows",
+   "chunk": "Rain and snow",
+   "recent": true
+  },
+  {
+   "id": "c-ame-ga-yamu",
+   "romaji": "ame ga yamu",
+   "english": "the rain stops",
+   "chunk": "Rain and snow",
+   "recent": true
+  },
+  {
+   "id": "c-kasa-o-sasu",
+   "romaji": "kasa o sasu",
+   "english": "put up (open) an umbrella; have an umbrella up",
+   "chunk": "Rain and snow",
+   "recent": true
+  },
+  {
+   "id": "c-ame-ni-furareru",
+   "romaji": "ame ni furareru",
+   "english": "get caught in the rain",
+   "chunk": "Rain and snow",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "kenta",
+   "sora"
+  ],
+  "format": "dialogue"
+ }
+}

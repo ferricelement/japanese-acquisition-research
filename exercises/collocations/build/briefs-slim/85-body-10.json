@@ -1,0 +1,363 @@
+{
+ "script": 85,
+ "of": 94,
+ "stage": 4,
+ "chunkId": "body-10",
+ "label": "Visible signs",
+ "topic": "Body & health",
+ "rationale": "What shows on your body or someone else's: an injury, blood, sweat, a pale or flushed face. These are often followed by daijoubu?",
+ "mixUps": "An injury takes suru (kega o suru), and blood comes out just like a fever does (chi ga deru, chi deteru yo). Sweat takes kaku (ase o kaku), which is not kaku 'write'. A pale face is kaoiro ga warui (bad colour), while a red face is just kao ga akai.",
+ "targets": [
+  {
+   "id": "c-kega-o-suru",
+   "romaji": "kega o suru",
+   "polite": "kega o shimasu",
+   "english": "get hurt, get injured",
+   "ja": "怪我をする",
+   "kana": "けがをする",
+   "politeJa": "怪我をします",
+   "noun": "kega",
+   "particle": "o",
+   "verb": "suru",
+   "verbJa": "する",
+   "verbSense": "do, make; here it turns the noun kega (injury) into something that happens",
+   "englishVerb": "hurt",
+   "trap": "Not itaku naru or kizutsuku (mostly hurt feelings): an injury is 'done', kega o suru, even by accident.",
+   "partners": [
+    "yakedo (burn)",
+    "nenza (sprain)"
+   ],
+   "flags": [],
+   "use": "Heard as kega shita (I got hurt) and as the worried kega nai? (you're not hurt?) after a fall. Name the body part with o and drop kega's own o (ashi o kega shita), or use ni (ashi ni kega o shita); never two o's.",
+   "notes": null,
+   "example": {
+    "romaji": "sakkaa de ashi kega shichatta.",
+    "ja": "サッカーで足怪我しちゃった。",
+    "english": "I hurt my leg playing football."
+   },
+   "examplePolite": {
+    "romaji": "sakkaa de ashi o kega shita n desu.",
+    "ja": "サッカーで足を怪我したんです。",
+    "english": "I hurt my leg playing football."
+   }
+  },
+  {
+   "id": "c-chi-ga-deru",
+   "romaji": "chi ga deru",
+   "polite": "chi ga demasu",
+   "english": "bleed, be bleeding",
+   "ja": "血が出る",
+   "kana": "ちがでる",
+   "politeJa": "血が出ます",
+   "noun": "chi",
+   "particle": "ga",
+   "verb": "deru",
+   "verbJa": "出る",
+   "verbSense": "come out, appear; also leave, go out",
+   "englishVerb": "bleed",
+   "trap": "'Bleed' is one verb in English; Japanese says blood comes out, chi ga deru (chi deteru yo). Shukketsu suru is the medical word.",
+   "partners": [
+    "namida (tears)",
+    "ase (sweat)",
+    "hanamizu (runny nose)"
+   ],
+   "flags": [],
+   "use": "Said when you spot a cut: chi deteru yo (you're bleeding), or chi deta (it bled). Ga often drops in casual talk, and when it stops the blood tomaru (chi tomatta?).",
+   "notes": "A nosebleed has its own word: hanaji ga deru (hanaji deteru yo).",
+   "example": {
+    "romaji": "are, yubi kara chi deteru yo.",
+    "ja": "あれ、指から血出てるよ。",
+    "english": "Hey, your finger's bleeding."
+   },
+   "examplePolite": {
+    "romaji": "are, yubi kara chi ga dete imasu yo.",
+    "ja": "あれ、指から血が出ていますよ。",
+    "english": "Oh, your finger is bleeding."
+   }
+  },
+  {
+   "id": "c-ase-o-kaku",
+   "romaji": "ase o kaku",
+   "polite": "ase o kakimasu",
+   "english": "sweat, get sweaty",
+   "ja": "汗をかく",
+   "kana": "あせをかく",
+   "politeJa": "汗をかきます",
+   "noun": "ase",
+   "particle": "o",
+   "verb": "kaku",
+   "verbJa": "かく",
+   "verbSense": "scratch; with sweat or snoring it means to give something off from the body",
+   "englishVerb": "sweat",
+   "trap": "'Sweat' is a verb in English, but Japanese uses the noun with kaku: ase o kaku, not ase suru (ase ga deru, 'sweat comes out', is also fine). This kaku is not kaku 'write'.",
+   "partners": [
+    "ibiki (snoring)"
+   ],
+   "flags": [],
+   "use": "Mostly heard in the past, ase kaita or ase kaichatta (I got all sweaty), after heat or exercise. For dripping with sweat natives say asedaku: asedaku ni natta.",
+   "notes": "The same kaku goes with embarrassment: haji kaita (I embarrassed myself).",
+   "example": {
+    "romaji": "ase kaita kara, shawaa abitai.",
+    "ja": "汗かいたから、シャワー浴びたい。",
+    "english": "I'm all sweaty, I want a shower."
+   },
+   "examplePolite": {
+    "romaji": "ase o kaita node, shawaa o abite kite mo ii desu ka?",
+    "ja": "汗をかいたので、シャワーを浴びてきてもいいですか？",
+    "english": "I got all sweaty. Would it be OK if I had a shower?"
+   }
+  },
+  {
+   "id": "c-kaoiro-ga-warui",
+   "romaji": "kaoiro ga warui",
+   "polite": "kaoiro ga warui desu",
+   "english": "look pale, look unwell",
+   "ja": "顔色が悪い",
+   "kana": "かおいろがわるい",
+   "politeJa": "顔色が悪いです",
+   "noun": "kaoiro",
+   "particle": "ga",
+   "verb": "warui",
+   "verbJa": "悪い",
+   "verbSense": "bad, in poor condition",
+   "englishVerb": "pale",
+   "trap": "Not kao ga shiroi, which sounds like fair skin: 'you look pale' is kaoiro ga warui (kaoiro warui yo). Kao ga aoi also works and sounds stronger; kao ga massao is white as a sheet, from shock, fear or feeling very sick.",
+   "partners": [
+    "guai (condition: guai ga warui = feel unwell)",
+    "taichou (physical condition)",
+    "kesshoku (complexion, more formal)"
+   ],
+   "flags": [],
+   "use": "A caring remark to someone who looks ill, kaoiro warui yo, usually followed by daijoubu? Ga often drops, and when they look better it's kaoiro yoku natta ne.",
+   "notes": "Kaoiro o ukagau (read someone's face) is a separate idiom: checking their mood before you act.",
+   "example": {
+    "romaji": "kaoiro warui yo. daijoubu?",
+    "ja": "顔色悪いよ。大丈夫？",
+    "english": "You look pale. Are you OK?"
+   },
+   "examplePolite": {
+    "romaji": "kaoiro ga warui desu yo. daijoubu desu ka?",
+    "ja": "顔色が悪いですよ。大丈夫ですか？",
+    "english": "You look pale. Are you all right?"
+   }
+  },
+  {
+   "id": "c-kao-ga-akai",
+   "romaji": "kao ga akai",
+   "polite": "kao ga akai desu",
+   "english": "be red in the face",
+   "ja": "顔が赤い",
+   "kana": "かおがあかい",
+   "politeJa": "顔が赤いです",
+   "noun": "kao",
+   "particle": "ga",
+   "verb": "akai",
+   "verbJa": "赤い",
+   "verbSense": "red",
+   "englishVerb": "blush",
+   "trap": "'Blush' has no single everyday verb: the face goes red, kao ga akaku naru, or you tereru (get bashful); sekimen suru is bookish.",
+   "partners": [
+    "me (eyes: me ga akai = red eyes)",
+    "hana (nose)",
+    "mimi (ears)"
+   ],
+   "flags": [],
+   "use": "Said to someone flushed from drink, a fever or embarrassment, often teasing: kao akai yo. Ga usually drops; going red as it happens is kao ga akaku naru (kao akaku natteru).",
+   "notes": "Tereru (get bashful) is the verb behind most blushing: tereteru no?",
+   "example": {
+    "romaji": "kao akai yo. yotta?",
+    "ja": "顔赤いよ。酔った？",
+    "english": "Your face is red. Are you drunk?"
+   },
+   "examplePolite": {
+    "romaji": "kao ga akai desu yo. yotta n desu ka?",
+    "ja": "顔が赤いですよ。酔ったんですか？",
+    "english": "Your face is red. Have you been drinking?"
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-baka-ni-suru",
+   "romaji": "baka ni suru",
+   "english": "make fun of, look down on",
+   "chunk": "Pride and teasing",
+   "recent": true
+  },
+  {
+   "id": "c-haji-o-kaku",
+   "romaji": "haji o kaku",
+   "english": "embarrass yourself, make a fool of yourself",
+   "chunk": "Pride and teasing",
+   "recent": true
+  },
+  {
+   "id": "c-kakkou-o-tsukeru",
+   "romaji": "kakko tsukeru",
+   "english": "show off, act cool",
+   "chunk": "Pride and teasing",
+   "recent": true
+  },
+  {
+   "id": "c-karada-o-ugokasu",
+   "romaji": "karada o ugokasu",
+   "english": "get some exercise, move your body",
+   "chunk": "Exercise and outdoors",
+   "recent": true
+  },
+  {
+   "id": "c-kibarashi-ni-naru",
+   "romaji": "kibun tenkan ni naru",
+   "english": "be a nice change of pace, do someone good",
+   "chunk": "Exercise and outdoors",
+   "recent": true
+  },
+  {
+   "id": "c-yama-ni-noboru",
+   "romaji": "yama ni noboru",
+   "english": "climb a mountain",
+   "chunk": "Exercise and outdoors",
+   "recent": true
+  },
+  {
+   "id": "c-tsuri-ni-iku",
+   "romaji": "tsuri ni iku",
+   "english": "go fishing",
+   "chunk": "Exercise and outdoors",
+   "recent": true
+  },
+  {
+   "id": "c-kyanpu-ni-iku",
+   "romaji": "kyanpu ni iku",
+   "english": "go camping",
+   "chunk": "Exercise and outdoors",
+   "recent": true
+  },
+  {
+   "id": "c-netto-de-shiraberu",
+   "romaji": "netto de shiraberu",
+   "english": "look something up online",
+   "chunk": "Internet and apps",
+   "recent": true
+  },
+  {
+   "id": "c-netto-ga-tsunagaru",
+   "romaji": "netto ga tsunagaru",
+   "english": "the internet connects, works",
+   "chunk": "Internet and apps",
+   "recent": true
+  },
+  {
+   "id": "c-denpa-ga-warui",
+   "romaji": "denpa ga warui",
+   "english": "bad signal, poor reception",
+   "chunk": "Internet and apps",
+   "recent": true
+  },
+  {
+   "id": "c-apuri-o-ireru",
+   "romaji": "apuri o ireru",
+   "english": "install an app, get an app",
+   "chunk": "Internet and apps",
+   "recent": true
+  },
+  {
+   "id": "c-yousu-o-miru",
+   "romaji": "yousu o miru",
+   "english": "wait and see; check on (someone)",
+   "chunk": "Plans and promises",
+   "recent": true
+  },
+  {
+   "id": "c-chuushi-ni-naru",
+   "romaji": "chuushi ni naru",
+   "english": "be called off",
+   "chunk": "Plans and promises",
+   "recent": true
+  },
+  {
+   "id": "c-yakusoku-o-mamoru",
+   "romaji": "yakusoku o mamoru",
+   "english": "keep a promise",
+   "chunk": "Plans and promises",
+   "recent": true
+  },
+  {
+   "id": "c-keikaku-o-tateru",
+   "romaji": "keikaku o tateru",
+   "english": "make a plan",
+   "chunk": "Plans and promises",
+   "recent": true
+  },
+  {
+   "id": "c-boushi-o-kaburu",
+   "romaji": "boushi o kaburu",
+   "english": "wear / put on a hat",
+   "chunk": "Hats and accessories",
+   "recent": true
+  },
+  {
+   "id": "c-yubiwa-o-suru",
+   "romaji": "yubiwa o suru",
+   "english": "wear a ring",
+   "chunk": "Hats and accessories",
+   "recent": true
+  },
+  {
+   "id": "c-nekutai-o-suru",
+   "romaji": "nekutai o suru",
+   "english": "wear a tie",
+   "chunk": "Hats and accessories",
+   "recent": true
+  },
+  {
+   "id": "c-kousui-o-tsukeru",
+   "romaji": "kousui o tsukeru",
+   "english": "wear / put on perfume",
+   "chunk": "Hats and accessories",
+   "recent": true
+  },
+  {
+   "id": "c-shigoto-o-sagasu",
+   "romaji": "shigoto o sagasu",
+   "english": "look for a job",
+   "chunk": "University and jobs",
+   "recent": true
+  },
+  {
+   "id": "c-shigoto-ga-mitsukaru",
+   "romaji": "shigoto ga mitsukaru",
+   "english": "find a job",
+   "chunk": "University and jobs",
+   "recent": true
+  },
+  {
+   "id": "c-daigaku-ni-hairu",
+   "romaji": "daigaku ni hairu",
+   "english": "get into university, start university",
+   "chunk": "University and jobs",
+   "recent": true
+  },
+  {
+   "id": "c-kaisha-ni-hairu",
+   "romaji": "kaisha ni hairu",
+   "english": "join a company",
+   "chunk": "University and jobs",
+   "recent": true
+  },
+  {
+   "id": "c-keiken-ga-aru",
+   "romaji": "keiken ga aru",
+   "english": "have experience",
+   "chunk": "University and jobs",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "yuki",
+   "okaasan"
+  ],
+  "format": "monologue"
+ }
+}

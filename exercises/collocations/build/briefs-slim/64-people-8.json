@@ -1,0 +1,361 @@
+{
+ "script": 64,
+ "of": 94,
+ "stage": 3,
+ "chunkId": "people-8",
+ "label": "Manners and thanks",
+ "topic": "People & talk",
+ "rationale": "Being polite and grateful: saying thanks, speaking politely, not making a fuss, and the guest's thanks for care and meals.",
+ "mixUps": "keigo o tsukau (speak politely) and ki o tsukau (fuss over others) share tsukau, and ki o tsukau is not ki o tsukeru (be careful). In osewa ni naru and gochisou ni naru, ni naru puts you on the receiving end; the giver says mendou o miru or ogoru.",
+ "targets": [
+  {
+   "id": "c-orei-o-iu",
+   "romaji": "orei o iu",
+   "polite": "orei o iimasu",
+   "english": "thank someone, say thanks",
+   "ja": "お礼を言う",
+   "kana": "おれいをいう",
+   "politeJa": "お礼を言います",
+   "noun": "orei",
+   "particle": "o",
+   "verb": "iu",
+   "verbJa": "言う",
+   "verbSense": "say",
+   "englishVerb": "thank",
+   "trap": "English 'thank' leads to kansha suru, which is being grateful (kansha shiteru = I'm grateful), not saying it: 'I have to thank them' is orei iwanakya. orei o suru means giving something back, like a gift or a meal.",
+   "partners": [
+    "oseji (compliments, flattery)",
+    "oiwai (congratulations: oiwai iitakute = I wanted to congratulate them)"
+   ],
+   "flags": [],
+   "use": "For talking about thanking rather than doing it (arigatou does that): orei iwanakya (I have to thank them), chanto orei itta? (did you thank them properly?), orei iitakute (I wanted to say thanks).",
+   "notes": "orei ni = as thanks: orei ni gohan ogoru yo (dinner's on me, as thanks).",
+   "example": {
+    "romaji": "ato de chanto orei iwanakya.",
+    "ja": "後でちゃんとお礼言わなきゃ。",
+    "english": "I need to thank them properly later."
+   },
+   "examplePolite": {
+    "romaji": "ato de chanto orei o iwanakya ikemasen ne.",
+    "ja": "後でちゃんとお礼を言わなきゃいけませんね。",
+    "english": "I really should thank them properly later."
+   }
+  },
+  {
+   "id": "c-keigo-o-tsukau",
+   "romaji": "keigo o tsukau",
+   "polite": "keigo o tsukaimasu",
+   "english": "speak politely, use honorifics",
+   "ja": "敬語を使う",
+   "kana": "けいごをつかう",
+   "politeJa": "敬語を使います",
+   "noun": "keigo",
+   "particle": "o",
+   "verb": "tsukau",
+   "verbJa": "使う",
+   "verbSense": "use",
+   "englishVerb": "speak",
+   "trap": "English 'speak keigo' leads to keigo o hanasu, on the model of nihongo o hanasu. It is heard (keigo ga hanasenai), but the everyday verb is tsukau (keigo tsukau), or keigo de hanasu.",
+   "partners": [
+    "hougen (dialect)",
+    "kotoba (words: warui kotoba o tsukau = use bad language)",
+    "eigo (English: eigo o tsukau shigoto = a job using English)"
+   ],
+   "flags": [],
+   "use": "Mostly heard as the offer to drop it: keigo tsukawanakute ii yo (no need to be formal with me), often followed by tameguchi de ii yo (talk to me casually). Also for describing relationships: senpai ni wa keigo tsukau (I speak politely to my seniors).",
+   "notes": "Sounds like ki tsukawanakute ii yo (don't go to any trouble), the other host line; drill them together.",
+   "example": {
+    "romaji": "keigo tsukawanakute ii yo.",
+    "ja": "敬語使わなくていいよ。",
+    "english": "No need to be formal with me."
+   },
+   "examplePolite": {
+    "romaji": "keigo wa tsukawanakute ii desu yo.",
+    "ja": "敬語は使わなくていいですよ。",
+    "english": "You don't need to speak formally with me."
+   }
+  },
+  {
+   "id": "c-ki-o-tsukau",
+   "romaji": "ki o tsukau",
+   "polite": "ki o tsukaimasu",
+   "english": "be considerate, go to trouble",
+   "ja": "気を遣う",
+   "kana": "きをつかう",
+   "politeJa": "気を遣います",
+   "noun": "ki",
+   "particle": "o",
+   "verb": "tsukau",
+   "verbJa": "遣う",
+   "verbSense": "use, spend; here, spend your attention on others",
+   "englishVerb": "bother",
+   "trap": "Not ki o tsukeru (be careful): 'don't go to any trouble' is ki o tsukawanaide, and the mix-up gives ki o tsukenaide, 'don't be careful'.",
+   "partners": [
+    "shinkei (nerves: shinkei tsukau = it takes a lot of care, it's nerve-racking)"
+   ],
+   "flags": [],
+   "use": "Hosts and guests say ki o tsukawanakute ii yo or ki o tsukawanaide (don't go to any trouble). About a person, ano hito to iru to ki tsukau means you have to tiptoe around them.",
+   "notes": "Also written 気を使う; the noun is kizukai (thoughtfulness).",
+   "example": {
+    "romaji": "sonna ki tsukawanakute ii yo.",
+    "ja": "そんな気遣わなくていいよ。",
+    "english": "You don't have to fuss over me like that."
+   },
+   "examplePolite": {
+    "romaji": "sonna ni ki o tsukawanakute ii desu yo.",
+    "ja": "そんなに気を遣わなくていいですよ。",
+    "english": "Please don't go to any trouble."
+   }
+  },
+  {
+   "id": "c-osewa-ni-naru",
+   "romaji": "osewa ni naru",
+   "polite": "osewa ni narimasu",
+   "english": "be looked after, be indebted",
+   "ja": "お世話になる",
+   "kana": "おせわになる",
+   "politeJa": "お世話になります",
+   "noun": "osewa",
+   "particle": "ni",
+   "verb": "naru",
+   "verbJa": "なる",
+   "verbSense": "become; here, come to be in someone's care",
+   "englishVerb": "look after",
+   "trap": "English 'thanks for looking after me' leads to sewa shite kurete arigatou, which fits literal care (nursing you when sick, minding your pet). Friends say iroiro arigatou; to hosts, teachers and colleagues the set thanks is osewa ni narimashita.",
+   "partners": [
+    "gochisou (a treat: be treated to a meal)",
+    "yakkai (being a burden: rely on someone)"
+   ],
+   "flags": [],
+   "use": "Mostly polite and set: kyou kara osewa ni narimasu when you start a stay or a job, osewa ni narimashita (thank you for everything) when you leave a host, job or school. In business you'll hear the humble osewa ni natte orimasu (recognise it, no need to say it). Casual osewa ni natta is used when describing someone who helped you.",
+   "notes": "gochisou ni naru (be treated to a meal) is built the same way: with ni naru, you are the one receiving. The one doing the looking after says mendou o miru (or sewa o suru).",
+   "example": {
+    "romaji": "ano senpai ni wa honto ni osewa ni natta.",
+    "ja": "あの先輩にはほんとにお世話になった。",
+    "english": "That senior really looked out for me."
+   },
+   "examplePolite": {
+    "romaji": "ano senpai ni wa hontou ni osewa ni narimashita.",
+    "ja": "あの先輩には本当にお世話になりました。",
+    "english": "That senior really looked after me."
+   }
+  },
+  {
+   "id": "c-gochisou-ni-naru",
+   "romaji": "gochisou ni naru",
+   "polite": "gochisou ni narimasu",
+   "english": "be treated (to a meal)",
+   "ja": "ごちそうになる",
+   "kana": "ごちそうになる",
+   "politeJa": "ごちそうになります",
+   "noun": "gochisou",
+   "particle": "ni",
+   "verb": "naru",
+   "verbJa": "なる",
+   "verbSense": "become; here, come to be the one treated",
+   "englishVerb": "treat",
+   "trap": "English 'I got treated' leads to the passive gochisou sareta, which is heard but less usual; people say gochisou ni natta (like osewa ni naru), ogotte moratta or ogorareta. The payer's verbs are ogoru and gochisou suru.",
+   "partners": [
+    "osewa (care: be looked after)",
+    "yakkai (imposing: tomodachi no ie ni yakkai ni naru = stay at a friend's place)"
+   ],
+   "flags": [],
+   "use": "Said by the one being treated. When someone offers to pay (kyou wa ogoru yo), you accept with jaa, gochisou ni narimasu, and afterwards you thank them with gochisou ni narimashita, to a boss, senpai or host. Among friends gochisousama! does both jobs, and telling someone about it is gochisou ni natta or, more often, ogotte moratta (they paid for me).",
+   "notes": "gochisou on its own is a feast or treat: sugoi gochisou (what a spread).",
+   "example": {
+    "romaji": "kinou senpai ni gochisou ni natta.",
+    "ja": "昨日先輩にごちそうになった。",
+    "english": "My senpai treated me to a meal yesterday."
+   },
+   "examplePolite": {
+    "romaji": "kinou wa gochisou ni narimashita.",
+    "ja": "昨日はごちそうになりました。",
+    "english": "Thank you for dinner yesterday."
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-okane-o-tsukau",
+   "romaji": "okane o tsukau",
+   "english": "spend money",
+   "chunk": "Spending and saving",
+   "recent": true
+  },
+  {
+   "id": "c-kaado-o-tsukau",
+   "romaji": "kaado o tsukau",
+   "english": "pay by card",
+   "chunk": "Spending and saving",
+   "recent": true
+  },
+  {
+   "id": "c-okane-o-tameru",
+   "romaji": "okane o tameru",
+   "english": "save up money",
+   "chunk": "Spending and saving",
+   "recent": true
+  },
+  {
+   "id": "c-pointo-o-tameru",
+   "romaji": "pointo o tameru",
+   "english": "collect loyalty points",
+   "chunk": "Spending and saving",
+   "recent": true
+  },
+  {
+   "id": "c-bangou-o-oshieru",
+   "romaji": "bangou o oshieru",
+   "english": "give someone your number",
+   "chunk": "Numbers and messages",
+   "recent": true
+  },
+  {
+   "id": "c-meeru-o-okuru",
+   "romaji": "meeru o okuru",
+   "english": "send an email",
+   "chunk": "Numbers and messages",
+   "recent": true
+  },
+  {
+   "id": "c-meeru-ga-kuru",
+   "romaji": "meeru ga kuru",
+   "english": "get an email",
+   "chunk": "Numbers and messages",
+   "recent": true
+  },
+  {
+   "id": "c-meeru-o-kaesu",
+   "romaji": "meeru o kaesu",
+   "english": "reply to a message",
+   "chunk": "Numbers and messages",
+   "recent": true
+  },
+  {
+   "id": "c-aji-ga-suru",
+   "romaji": "aji ga suru",
+   "english": "taste (like something)",
+   "chunk": "How it tastes",
+   "recent": true
+  },
+  {
+   "id": "c-aji-ga-usui",
+   "romaji": "aji ga usui",
+   "english": "lightly seasoned; bland (needs more salt)",
+   "chunk": "How it tastes",
+   "recent": true
+  },
+  {
+   "id": "c-aji-ga-koi",
+   "romaji": "aji ga koi",
+   "english": "strongly seasoned, rich",
+   "chunk": "How it tastes",
+   "recent": true
+  },
+  {
+   "id": "c-mukae-ni-iku",
+   "romaji": "mukae ni iku",
+   "english": "go to pick someone up",
+   "chunk": "Picking someone up",
+   "recent": true
+  },
+  {
+   "id": "c-nimotsu-o-motsu",
+   "romaji": "nimotsu o motsu",
+   "english": "carry the bags",
+   "chunk": "Picking someone up",
+   "recent": true
+  },
+  {
+   "id": "c-kuruma-ni-noseru",
+   "romaji": "kuruma ni noseru",
+   "english": "give someone a lift",
+   "chunk": "Picking someone up",
+   "recent": true
+  },
+  {
+   "id": "c-kuruma-o-tomeru",
+   "romaji": "kuruma o tomeru",
+   "english": "park the car",
+   "chunk": "Picking someone up",
+   "recent": true
+  },
+  {
+   "id": "c-konbini-ni-yoru",
+   "romaji": "konbini ni yoru",
+   "english": "stop by the convenience store",
+   "chunk": "Picking someone up",
+   "recent": true
+  },
+  {
+   "id": "c-shigoto-o-yasumu",
+   "romaji": "shigoto o yasumu",
+   "english": "take time off work, miss work",
+   "chunk": "Breaks and time off",
+   "recent": true
+  },
+  {
+   "id": "c-yasumi-o-toru",
+   "romaji": "yasumi o toru",
+   "english": "take time off",
+   "chunk": "Breaks and time off",
+   "recent": true
+  },
+  {
+   "id": "c-kyuukei-o-toru",
+   "romaji": "kyuukei o toru",
+   "english": "take a break",
+   "chunk": "Breaks and time off",
+   "recent": true
+  },
+  {
+   "id": "c-kaisha-o-yameru",
+   "romaji": "kaisha o yameru",
+   "english": "quit one's job",
+   "chunk": "Breaks and time off",
+   "recent": true
+  },
+  {
+   "id": "c-hito-ga-ooi",
+   "romaji": "hito ga ooi",
+   "english": "be crowded, lots of people",
+   "chunk": "Out and about",
+   "recent": true
+  },
+  {
+   "id": "c-ninki-ga-aru",
+   "romaji": "ninki ga aru",
+   "english": "be popular",
+   "chunk": "Out and about",
+   "recent": true
+  },
+  {
+   "id": "c-ii-fun-iki",
+   "romaji": "ii fun'iki",
+   "english": "a nice atmosphere, good vibe",
+   "chunk": "Out and about",
+   "recent": true
+  },
+  {
+   "id": "c-hyouban-ga-ii",
+   "romaji": "hyouban ga ii",
+   "english": "have a good reputation",
+   "chunk": "Out and about",
+   "recent": true
+  },
+  {
+   "id": "c-nimotsu-ga-omoi",
+   "romaji": "nimotsu ga omoi",
+   "english": "the bags are heavy",
+   "chunk": "Out and about",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "mai",
+   "tanaka"
+  ],
+  "format": "dialogue"
+ }
+}

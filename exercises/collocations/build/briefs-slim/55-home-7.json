@@ -1,0 +1,372 @@
+{
+ "script": 55,
+ "of": 94,
+ "stage": 3,
+ "chunkId": "home-7",
+ "label": "Trash and tidying",
+ "topic": "Home & daily routine",
+ "rationale": "Keeping the place in order: binning things, trash day, the messy room and putting things back.",
+ "mixUps": "gomi o suteru is throwing something away; gomi o dasu is putting the bags out for collection. A messy room is chirakatteru, not kitanai (dirty), and the fix is katazukeru (put away), not souji (scrub).",
+ "targets": [
+  {
+   "id": "c-gomi-o-suteru",
+   "romaji": "gomi o suteru",
+   "polite": "gomi o sutemasu",
+   "english": "throw away rubbish",
+   "ja": "ゴミを捨てる",
+   "kana": "ゴミをすてる",
+   "politeJa": "ゴミを捨てます",
+   "noun": "gomi",
+   "particle": "o",
+   "verb": "suteru",
+   "verbJa": "捨てる",
+   "verbSense": "throw away, discard; also abandon",
+   "englishVerb": "throw away",
+   "trap": "'Throw' points to nageru, which is throwing through the air (a ball). Throwing away is suteru; only in Hokkaido and Tohoku dialect does gomi o nageru mean this.",
+   "partners": [
+    "akikan (empty cans)",
+    "zasshi (magazines)",
+    "reshiito (receipt)"
+   ],
+   "flags": [],
+   "use": "For getting rid of anything, at home or out: kono gomi doko ni suteru? (where does this go?). Casual speech drops o, and the thing itself often replaces gomi: kore sutete ii? (can I throw this out?).",
+   "notes": "Putting the bags out on collection day is gomi o dasu; the bin is gomibako.",
+   "example": {
+    "romaji": "kono gomi, doko ni sutetara ii?",
+    "ja": "このゴミ、どこに捨てたらいい？",
+    "english": "Where should I throw this away?"
+   },
+   "examplePolite": {
+    "romaji": "kono gomi wa doko ni sutetara ii desu ka?",
+    "ja": "このゴミはどこに捨てたらいいですか？",
+    "english": "Where should I throw this rubbish away?"
+   }
+  },
+  {
+   "id": "c-gomi-o-dasu",
+   "romaji": "gomi o dasu",
+   "polite": "gomi o dashimasu",
+   "english": "take out the trash",
+   "ja": "ゴミを出す",
+   "kana": "ゴミをだす",
+   "politeJa": "ゴミを出します",
+   "noun": "gomi",
+   "particle": "o",
+   "verb": "dasu",
+   "verbJa": "出す",
+   "verbSense": "put out, take out, send out",
+   "englishVerb": "take out",
+   "trap": "English 'take out' points to toru, but gomi o toru means picking off fluff or dirt. Putting trash out for collection is dasu.",
+   "partners": [
+    "sodaigomi (bulky trash)",
+    "kan (cans)"
+   ],
+   "flags": [],
+   "use": "Used for the household chore and for collection days: gomi dashite kite (go put the trash out). gomi sutete kuru is also said for the same trip; gomi o suteru alone is throwing something away.",
+   "notes": "gomidashi is the chore's name.",
+   "example": {
+    "romaji": "chotto gomi dashite kuru.",
+    "ja": "ちょっとゴミ出してくる。",
+    "english": "I'm just going to take the trash out."
+   },
+   "examplePolite": {
+    "romaji": "chotto gomi o dashite kimasu.",
+    "ja": "ちょっとゴミを出してきます。",
+    "english": "I'll just take the trash out."
+   }
+  },
+  {
+   "id": "c-heya-o-katazukeru",
+   "romaji": "heya o katazukeru",
+   "polite": "heya o katazukemasu",
+   "english": "tidy up one's room",
+   "ja": "部屋を片付ける",
+   "kana": "へやをかたづける",
+   "politeJa": "部屋を片付けます",
+   "noun": "heya",
+   "particle": "o",
+   "verb": "katazukeru",
+   "verbJa": "片付ける",
+   "verbSense": "put away, tidy; also clear (the table) or get (a job) done",
+   "englishVerb": "tidy",
+   "trap": "'Clean your room' points to souji suru, which is vacuuming, wiping and dusting; putting things away is katazukeru. Both are right, for different jobs.",
+   "partners": [
+    "tsukue (desk)",
+    "omocha (toys)",
+    "osara (dishes: clear the table)"
+   ],
+   "flags": [],
+   "use": "Putting things back where they belong (moto ni modosu), as in the parent's nag heya katazukenasai. Casual speech drops o; cleaning is souji suru (vacuuming is soujiki o kakeru), and heya o kirei ni suru covers both.",
+   "notes": "The mess it fixes is heya ga chirakaru (chirakatteru); a tidied room is katazuiteru.",
+   "example": {
+    "romaji": "kyou wa heya katazukenakya.",
+    "ja": "今日は部屋片付けなきゃ。",
+    "english": "I have to tidy my room today."
+   },
+   "examplePolite": {
+    "romaji": "kyou wa heya o katazukenakya ikenai n desu.",
+    "ja": "今日は部屋を片付けなきゃいけないんです。",
+    "english": "I have to tidy my room today."
+   }
+  },
+  {
+   "id": "c-heya-ga-chirakaru",
+   "romaji": "heya ga chirakaru",
+   "polite": "heya ga chirakarimasu",
+   "english": "(a room) gets messy, is a mess",
+   "ja": "部屋が散らかる",
+   "kana": "へやがちらかる",
+   "politeJa": "部屋が散らかります",
+   "noun": "heya",
+   "particle": "ga",
+   "verb": "chirakaru",
+   "verbJa": "散らかる",
+   "verbSense": "get scattered, become cluttered",
+   "englishVerb": "messy",
+   "trap": null,
+   "partners": [
+    "tsukue (desk)",
+    "ribingu (living room)",
+    "genkan (entryway)"
+   ],
+   "flags": [],
+   "use": "Nearly always the state chirakatteru: heya chirakatteru (my room's a mess), or the host's apology chirakatteru kedo gomen ne as a guest comes in. Casual speech drops ga; making the mess is chirakasu.",
+   "notes": "heya kitanai is also said of a messy room (kitanai covers dirty and messy, and is blunter); chirakatteru is stuff lying everywhere. The fix is heya o katazukeru; a tidy room is katazuiteru or kirei.",
+   "example": {
+    "romaji": "gomen, heya chirakatteru kedo.",
+    "ja": "ごめん、部屋散らかってるけど。",
+    "english": "Sorry, the place is a mess."
+   },
+   "examplePolite": {
+    "romaji": "heya ga chirakatte ite, sumimasen.",
+    "ja": "部屋が散らかっていて、すみません。",
+    "english": "Sorry the room is such a mess."
+   }
+  },
+  {
+   "id": "c-moto-ni-modosu",
+   "romaji": "moto ni modosu",
+   "polite": "moto ni modoshimasu",
+   "english": "put back (as it was)",
+   "ja": "元に戻す",
+   "kana": "もとにもどす",
+   "politeJa": "元に戻します",
+   "noun": "moto",
+   "particle": "ni",
+   "verb": "modosu",
+   "verbJa": "戻す",
+   "verbSense": "return something to where or how it was",
+   "englishVerb": "put back",
+   "trap": "Not moto ni modoru when you do the putting: modoru is the thing (or you) going back. Putting something back yourself is modosu: moto ni modoshite.",
+   "partners": [
+    "tana (shelf)",
+    "reizouko (fridge)",
+    "hikidashi (drawer)"
+   ],
+   "flags": [],
+   "use": "For putting something back where it was or how it was: tsukattara moto ni modoshite ne. It also covers undoing a change (a setting, an edit); things going back to normal by themselves is moto ni modoru.",
+   "notes": "Giving a borrowed thing back to its owner is kaesu (hon o kaesu), not modosu.",
+   "example": {
+    "romaji": "tsukattara moto ni modoshite ne.",
+    "ja": "使ったら元に戻してね。",
+    "english": "Put it back when you're done with it."
+   },
+   "examplePolite": {
+    "romaji": "tsukattara moto ni modoshite kudasai ne.",
+    "ja": "使ったら元に戻してくださいね。",
+    "english": "Please put it back after you use it."
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-jikan-ga-aku",
+   "romaji": "jikan ga aku",
+   "english": "be free (have time)",
+   "chunk": "Are you free?",
+   "recent": true
+  },
+  {
+   "id": "c-yotei-ga-aru",
+   "romaji": "yotei ga aru",
+   "english": "have plans",
+   "chunk": "Are you free?",
+   "recent": true
+  },
+  {
+   "id": "c-tsugou-ga-ii",
+   "romaji": "tsugou ga ii",
+   "english": "suit someone, be convenient",
+   "chunk": "Are you free?",
+   "recent": true
+  },
+  {
+   "id": "c-tsugou-ga-warui",
+   "romaji": "tsugou ga warui",
+   "english": "not suit someone, can't make it (a time)",
+   "chunk": "Are you free?",
+   "recent": true
+  },
+  {
+   "id": "c-tomodachi-ni-au",
+   "romaji": "tomodachi ni au",
+   "english": "see a friend, meet up",
+   "chunk": "Seeing people",
+   "recent": true
+  },
+  {
+   "id": "c-uchi-made-okuru",
+   "romaji": "ie made okuru",
+   "english": "see or drive someone home",
+   "chunk": "Seeing people",
+   "recent": true
+  },
+  {
+   "id": "c-jikka-ni-kaeru",
+   "romaji": "jikka ni kaeru",
+   "english": "go home to your parents'",
+   "chunk": "Seeing people",
+   "recent": true
+  },
+  {
+   "id": "c-tanjoubi-o-iwau",
+   "romaji": "tanjoubi o iwau",
+   "english": "celebrate a birthday",
+   "chunk": "Seeing people",
+   "recent": true
+  },
+  {
+   "id": "c-nomi-ni-iku",
+   "romaji": "nomi ni iku",
+   "english": "go out for drinks",
+   "chunk": "Drinking out",
+   "recent": true
+  },
+  {
+   "id": "c-tabako-o-suu",
+   "romaji": "tabako o suu",
+   "english": "smoke (a cigarette)",
+   "chunk": "Drinking out",
+   "recent": true
+  },
+  {
+   "id": "c-osake-ga-yowai",
+   "romaji": "osake ga yowai",
+   "english": "can't hold one's drink",
+   "chunk": "Drinking out",
+   "recent": true
+  },
+  {
+   "id": "c-osake-ga-tsuyoi",
+   "romaji": "osake ga tsuyoi",
+   "english": "can hold one's drink",
+   "chunk": "Drinking out",
+   "recent": true
+  },
+  {
+   "id": "c-denwa-o-kakeru",
+   "romaji": "denwa o kakeru",
+   "english": "make a phone call",
+   "chunk": "Phone calls",
+   "recent": true
+  },
+  {
+   "id": "c-denwa-ni-deru",
+   "romaji": "denwa ni deru",
+   "english": "answer the phone",
+   "chunk": "Phone calls",
+   "recent": true
+  },
+  {
+   "id": "c-denwa-o-kiru",
+   "romaji": "denwa o kiru",
+   "english": "hang up the phone",
+   "chunk": "Phone calls",
+   "recent": true
+  },
+  {
+   "id": "c-denwa-ga-naru",
+   "romaji": "denwa ga naru",
+   "english": "the phone rings",
+   "chunk": "Phone calls",
+   "recent": true
+  },
+  {
+   "id": "c-denwa-ga-aru",
+   "romaji": "denwa ga aru",
+   "english": "(someone) called, there was a call from X",
+   "chunk": "Phone calls",
+   "recent": true
+  },
+  {
+   "id": "c-denwa-ga-kakaru",
+   "romaji": "denwa ga kakaru",
+   "english": "get a phone call",
+   "chunk": "Phone calls",
+   "recent": true
+  },
+  {
+   "id": "c-eki-ni-tsuku",
+   "romaji": "eki ni tsuku",
+   "english": "get to the station",
+   "chunk": "On the way",
+   "recent": true
+  },
+  {
+   "id": "c-michi-ga-komu",
+   "romaji": "michi ga komu",
+   "english": "the traffic is heavy",
+   "chunk": "On the way",
+   "recent": true
+  },
+  {
+   "id": "c-seki-ga-aku",
+   "romaji": "seki ga aku",
+   "english": "a seat frees up (aiteru = a seat is free)",
+   "chunk": "On the way",
+   "recent": true
+  },
+  {
+   "id": "c-eki-o-norisugosu",
+   "romaji": "eki o norisugosu",
+   "english": "miss your stop",
+   "chunk": "On the way",
+   "recent": true
+  },
+  {
+   "id": "c-youji-ga-aru",
+   "romaji": "youji ga aru",
+   "english": "have something to do",
+   "chunk": "Can't make it",
+   "recent": true
+  },
+  {
+   "id": "c-asa-ga-hayai",
+   "romaji": "asa ga hayai",
+   "english": "have an early start",
+   "chunk": "Can't make it",
+   "recent": true
+  },
+  {
+   "id": "c-yotei-ga-hairu",
+   "romaji": "yotei ga hairu",
+   "english": "have plans, get booked",
+   "chunk": "Can't make it",
+   "recent": true
+  },
+  {
+   "id": "c-senyaku-ga-aru",
+   "romaji": "sen'yaku ga aru",
+   "english": "have prior plans",
+   "chunk": "Can't make it",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "yuki",
+   "okaasan"
+  ],
+  "format": "monologue"
+ }
+}

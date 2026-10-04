@@ -1,0 +1,611 @@
+{
+ "script": 15,
+ "of": 94,
+ "stage": 1,
+ "chunkId": "hobbies-2",
+ "label": "Going out for fun",
+ "topic": "Hobbies, sport & games",
+ "rationale": "Everyday plans to go out and do something, all built the same way: the activity noun goes straight before ni iku.",
+ "mixUps": "English 'go for a walk' or 'go to karaoke' tempts a verb before ni iku, but the noun goes straight in: sanpo ni iku, karaoke ni iku. eiga ni iku is the outing and eiga o miru the watching. asobi ni iku also means dropping by someone's place (asobi ni kite ne).",
+ "targets": [
+  {
+   "id": "c-asobi-ni-iku",
+   "romaji": "asobi ni iku",
+   "polite": "asobi ni ikimasu",
+   "english": "go out for fun; go visit",
+   "ja": "遊びに行く",
+   "kana": "あそびにいく",
+   "politeJa": "遊びに行きます",
+   "noun": "asobi",
+   "particle": "ni",
+   "verb": "iku",
+   "verbJa": "行く",
+   "verbSense": "go (asobi is the noun of asobu, have fun, hang out)",
+   "englishVerb": "go out",
+   "trap": "English 'play' makes asobu sound childish, but adults say asobi ni iku all the time for a fun outing or a visit to a friend's place. And 'I'll come and visit' is asobi ni iku, not asobi ni kuru: as with mukae ni iku, you are the one going.",
+   "partners": [
+    "nomi (drinks: nomi ni iku)",
+    "omimai (visiting someone sick: omimai ni iku)",
+    "aisatsu (dropping by to say hello: aisatsu ni iku)"
+   ],
+   "flags": [],
+   "use": "Covers a fun day or night out and a visit to someone's home: shuumatsu shibuya ni asobi ni itta, tomodachi no uchi ni asobi ni iku. Casual speech often drops ni (asobi iku?). The mirror image, kondo asobi ni kite, is the standard 'come over sometime'.",
+   "notes": "Among friends kondo asobou (let's hang out sometime) is the plain invitation, often a friendly maybe rather than a fixed plan.",
+   "example": {
+    "romaji": "kondo, asobi ni iku ne!",
+    "ja": "今度、遊びに行くね！",
+    "english": "I'll come and visit sometime!"
+   },
+   "examplePolite": {
+    "romaji": "kondo, asobi ni ikimasu ne!",
+    "ja": "今度、遊びに行きますね！",
+    "english": "I'll come and visit sometime!"
+   }
+  },
+  {
+   "id": "c-eiga-ni-iku",
+   "romaji": "eiga ni iku",
+   "polite": "eiga ni ikimasu",
+   "english": "go to the movies",
+   "ja": "映画に行く",
+   "kana": "えいがにいく",
+   "politeJa": "映画に行きます",
+   "noun": "eiga",
+   "particle": "ni",
+   "verb": "iku",
+   "verbJa": "行く",
+   "verbSense": "go; with an event noun + ni, go out to see it",
+   "englishVerb": "go",
+   "trap": null,
+   "partners": [
+    "raibu (gig)",
+    "konsaato (concert)",
+    "myuujikaru (musical)"
+   ],
+   "flags": [],
+   "use": "Said about going to the cinema, usually as a plan or an invitation: eiga ikanai? Casual speech drops ni. eiga mi ni iku says the same with the watching spelled out; at home it is just eiga o miru.",
+   "notes": "eigakan is the building: eigakan de mita (I saw it at the cinema).",
+   "example": {
+    "romaji": "shuumatsu, eiga ikanai?",
+    "ja": "週末、映画行かない？",
+    "english": "Want to go to a movie this weekend?"
+   },
+   "examplePolite": {
+    "romaji": "shuumatsu, eiga ni ikimasen ka?",
+    "ja": "週末、映画に行きませんか？",
+    "english": "Would you like to go to a movie this weekend?"
+   }
+  },
+  {
+   "id": "c-sanpo-ni-iku",
+   "romaji": "sanpo ni iku",
+   "polite": "sanpo ni ikimasu",
+   "english": "go for a walk",
+   "ja": "散歩に行く",
+   "kana": "さんぽにいく",
+   "politeJa": "散歩に行きます",
+   "noun": "sanpo",
+   "particle": "ni",
+   "verb": "iku",
+   "verbJa": "行く",
+   "verbSense": "go; with an activity noun + ni, go out to do it",
+   "englishVerb": "take",
+   "trap": "Not sanpo o toru, copied from 'take a walk': you go on one (sanpo ni iku) or just do one (sanpo suru). With a dog it is inu no sanpo ni iku, never inu o aruku.",
+   "partners": [
+    "jogingu (jogging)",
+    "ranningu (running)"
+   ],
+   "flags": [],
+   "use": "Said when popping out for a walk, often as chotto sanpo itte kuru (I'm off for a little walk). Casual speech drops ni. sanpo suru puts the focus on the walk itself and takes the place you walk through with o: kouen o sanpo shita.",
+   "notes": "Walking the dog is inu no sanpo (ni iku); aimless wandering about town is burabura suru.",
+   "example": {
+    "romaji": "chotto sanpo itte kuru ne.",
+    "ja": "ちょっと散歩行ってくるね。",
+    "english": "I'm just popping out for a walk."
+   },
+   "examplePolite": {
+    "romaji": "chotto sanpo ni itte kimasu ne.",
+    "ja": "ちょっと散歩に行ってきますね。",
+    "english": "I'm just going out for a walk."
+   }
+  },
+  {
+   "id": "c-karaoke-ni-iku",
+   "romaji": "karaoke ni iku",
+   "polite": "karaoke ni ikimasu",
+   "english": "go to karaoke",
+   "ja": "カラオケに行く",
+   "kana": "カラオケにいく",
+   "politeJa": "カラオケに行きます",
+   "noun": "karaoke",
+   "particle": "ni",
+   "verb": "iku",
+   "verbJa": "行く",
+   "verbSense": "go; with an activity noun + ni, go out to do it",
+   "englishVerb": "go",
+   "trap": "karaoke is where you sing, so the usual phrasing is karaoke de utau, karaoke suru, or just karaoke iku. karaoke o utau, copied from 'sing karaoke', is heard but sounds off to many speakers.",
+   "partners": [
+    "bouringu (bowling)",
+    "geesen (game arcade)",
+    "nijikai (second round)"
+   ],
+   "flags": [],
+   "use": "Usually a plan or an invitation (karaoke ikanai?), often as the second stop after dinner. Casual speech drops ni: karaoke iku.",
+   "notes": "At a work do, karaoke is the classic nijikai (second stop); going alone is hitori karaoke, or the slang hitokara.",
+   "example": {
+    "romaji": "kinou karaoke itte, koe kareta.",
+    "ja": "昨日カラオケ行って、声枯れた。",
+    "english": "Went to karaoke yesterday and lost my voice."
+   },
+   "examplePolite": {
+    "romaji": "kinou karaoke ni itte, koe ga karemashita.",
+    "ja": "昨日カラオケに行って、声が枯れました。",
+    "english": "I went to karaoke yesterday and lost my voice."
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-ame-ga-furu",
+   "romaji": "ame ga furu",
+   "english": "it rains; rain falls",
+   "chunk": "Rain and snow",
+   "recent": false
+  },
+  {
+   "id": "c-yuki-ga-furu",
+   "romaji": "yuki ga furu",
+   "english": "it snows",
+   "chunk": "Rain and snow",
+   "recent": false
+  },
+  {
+   "id": "c-ame-ga-yamu",
+   "romaji": "ame ga yamu",
+   "english": "the rain stops",
+   "chunk": "Rain and snow",
+   "recent": false
+  },
+  {
+   "id": "c-kasa-o-sasu",
+   "romaji": "kasa o sasu",
+   "english": "put up (open) an umbrella; have an umbrella up",
+   "chunk": "Rain and snow",
+   "recent": false
+  },
+  {
+   "id": "c-ame-ni-furareru",
+   "romaji": "ame ni furareru",
+   "english": "get caught in the rain",
+   "chunk": "Rain and snow",
+   "recent": false
+  },
+  {
+   "id": "c-onaka-ga-suku",
+   "romaji": "onaka ga suku",
+   "english": "get hungry",
+   "chunk": "Hungry, full, thirsty",
+   "recent": false
+  },
+  {
+   "id": "c-onaka-ga-ippai",
+   "romaji": "onaka ga ippai",
+   "english": "be full (after eating)",
+   "chunk": "Hungry, full, thirsty",
+   "recent": false
+  },
+  {
+   "id": "c-nodo-ga-kawaku",
+   "romaji": "nodo ga kawaku",
+   "english": "get thirsty",
+   "chunk": "Hungry, full, thirsty",
+   "recent": false
+  },
+  {
+   "id": "c-onaka-ga-heru",
+   "romaji": "onaka ga heru",
+   "english": "get hungry (blunter, casual)",
+   "chunk": "Hungry, full, thirsty",
+   "recent": false
+  },
+  {
+   "id": "c-uchi-ni-kaeru",
+   "romaji": "uchi ni kaeru",
+   "english": "go home, get home",
+   "chunk": "Out and back",
+   "recent": false
+  },
+  {
+   "id": "c-uchi-o-deru",
+   "romaji": "uchi o deru",
+   "english": "leave the house",
+   "chunk": "Out and back",
+   "recent": false
+  },
+  {
+   "id": "c-soto-ni-deru",
+   "romaji": "soto ni deru",
+   "english": "go outside, step out",
+   "chunk": "Out and back",
+   "recent": false
+  },
+  {
+   "id": "c-kaimono-ni-iku",
+   "romaji": "kaimono ni iku",
+   "english": "go shopping",
+   "chunk": "Out and back",
+   "recent": false
+  },
+  {
+   "id": "c-kaeri-ga-osoi",
+   "romaji": "kaeri ga osoi",
+   "english": "get home late",
+   "chunk": "Out and back",
+   "recent": false
+  },
+  {
+   "id": "c-se-ga-takai",
+   "romaji": "se ga takai",
+   "english": "be tall",
+   "chunk": "Looks and voice",
+   "recent": false
+  },
+  {
+   "id": "c-se-ga-hikui",
+   "romaji": "se ga hikui",
+   "english": "be short (height)",
+   "chunk": "Looks and voice",
+   "recent": false
+  },
+  {
+   "id": "c-koe-ga-ookii",
+   "romaji": "koe ga ookii",
+   "english": "have a loud voice, be loud",
+   "chunk": "Looks and voice",
+   "recent": false
+  },
+  {
+   "id": "c-kami-ga-nagai",
+   "romaji": "kami ga nagai",
+   "english": "have long hair",
+   "chunk": "Looks and voice",
+   "recent": false
+  },
+  {
+   "id": "c-sutairu-ga-ii",
+   "romaji": "sutairu ga ii",
+   "english": "have a good figure",
+   "chunk": "Looks and voice",
+   "recent": false
+  },
+  {
+   "id": "c-densha-ni-noru",
+   "romaji": "densha ni noru",
+   "english": "ride / get on the train",
+   "chunk": "Getting on and off",
+   "recent": false
+  },
+  {
+   "id": "c-basu-ni-noru",
+   "romaji": "basu ni noru",
+   "english": "take the bus",
+   "chunk": "Getting on and off",
+   "recent": false
+  },
+  {
+   "id": "c-kuruma-ni-noru",
+   "romaji": "kuruma ni noru",
+   "english": "get in / ride in a car",
+   "chunk": "Getting on and off",
+   "recent": false
+  },
+  {
+   "id": "c-densha-o-oriru",
+   "romaji": "densha o oriru",
+   "english": "get off the train",
+   "chunk": "Getting on and off",
+   "recent": false
+  },
+  {
+   "id": "c-jitensha-ni-noru",
+   "romaji": "jitensha ni noru",
+   "english": "ride a bike",
+   "chunk": "Getting on and off",
+   "recent": false
+  },
+  {
+   "id": "c-gakkou-ni-iku",
+   "romaji": "gakkou ni iku",
+   "english": "go to school",
+   "chunk": "School and work days",
+   "recent": false
+  },
+  {
+   "id": "c-shigoto-ni-iku",
+   "romaji": "shigoto ni iku",
+   "english": "go to work",
+   "chunk": "School and work days",
+   "recent": false
+  },
+  {
+   "id": "c-shigoto-ga-owaru",
+   "romaji": "shigoto ga owaru",
+   "english": "get off work",
+   "chunk": "School and work days",
+   "recent": false
+  },
+  {
+   "id": "c-shigoto-ga-isogashii",
+   "romaji": "shigoto ga isogashii",
+   "english": "be busy with work",
+   "chunk": "School and work days",
+   "recent": false
+  },
+  {
+   "id": "c-kimochi-ga-ii",
+   "romaji": "kimochi ga ii",
+   "english": "feels good, feels nice",
+   "chunk": "Feels good or bad",
+   "recent": false
+  },
+  {
+   "id": "c-kimochi-ga-warui",
+   "romaji": "kimochi ga warui",
+   "english": "feel queasy, feel nauseous; gross, creepy",
+   "chunk": "Feels good or bad",
+   "recent": false
+  },
+  {
+   "id": "c-kibun-ga-ii",
+   "romaji": "kibun ga ii",
+   "english": "be in a good mood; feel well",
+   "chunk": "Feels good or bad",
+   "recent": false
+  },
+  {
+   "id": "c-kigen-ga-warui",
+   "romaji": "kigen ga warui",
+   "english": "be in a bad mood, grumpy",
+   "chunk": "Feels good or bad",
+   "recent": false
+  },
+  {
+   "id": "c-igokochi-ga-ii",
+   "romaji": "igokochi ga ii",
+   "english": "comfortable to be in, cosy",
+   "chunk": "Feels good or bad",
+   "recent": false
+  },
+  {
+   "id": "c-hon-o-yomu",
+   "romaji": "hon o yomu",
+   "english": "read a book",
+   "chunk": "Read, watch, sing, draw",
+   "recent": false
+  },
+  {
+   "id": "c-eiga-o-miru",
+   "romaji": "eiga o miru",
+   "english": "watch a movie",
+   "chunk": "Read, watch, sing, draw",
+   "recent": false
+  },
+  {
+   "id": "c-uta-o-utau",
+   "romaji": "uta o utau",
+   "english": "sing a song",
+   "chunk": "Read, watch, sing, draw",
+   "recent": false
+  },
+  {
+   "id": "c-e-o-kaku",
+   "romaji": "e o kaku",
+   "english": "draw or paint a picture",
+   "chunk": "Read, watch, sing, draw",
+   "recent": false
+  },
+  {
+   "id": "c-hanashi-o-suru",
+   "romaji": "hanashi o suru",
+   "english": "talk, have a talk",
+   "chunk": "Talking to people",
+   "recent": true
+  },
+  {
+   "id": "c-hanashi-o-kiku",
+   "romaji": "hanashi o kiku",
+   "english": "listen to someone, hear someone out",
+   "chunk": "Talking to people",
+   "recent": true
+  },
+  {
+   "id": "c-hanashi-ga-aru",
+   "romaji": "hanashi ga aru",
+   "english": "need to talk (to you)",
+   "chunk": "Talking to people",
+   "recent": true
+  },
+  {
+   "id": "c-hanashi-ga-nagai",
+   "romaji": "hanashi ga nagai",
+   "english": "be long-winded, go on forever",
+   "chunk": "Talking to people",
+   "recent": true
+  },
+  {
+   "id": "c-jikan-ga-nai",
+   "romaji": "jikan ga nai",
+   "english": "have no time",
+   "chunk": "No time, no money",
+   "recent": true
+  },
+  {
+   "id": "c-hima-ga-nai",
+   "romaji": "hima ga nai",
+   "english": "have no free time",
+   "chunk": "No time, no money",
+   "recent": true
+  },
+  {
+   "id": "c-okane-ga-nai",
+   "romaji": "okane ga nai",
+   "english": "have no money, be broke",
+   "chunk": "No time, no money",
+   "recent": true
+  },
+  {
+   "id": "c-okane-ga-tarinai",
+   "romaji": "okane ga tarinai",
+   "english": "be short of money",
+   "chunk": "No time, no money",
+   "recent": true
+  },
+  {
+   "id": "c-yoyuu-ga-nai",
+   "romaji": "yoyuu ga nai",
+   "english": "have nothing to spare",
+   "chunk": "No time, no money",
+   "recent": true
+  },
+  {
+   "id": "c-tenki-ga-ii",
+   "romaji": "tenki ga ii",
+   "english": "the weather is nice",
+   "chunk": "Weather and wind",
+   "recent": true
+  },
+  {
+   "id": "c-kaze-ga-tsuyoi",
+   "romaji": "kaze ga tsuyoi",
+   "english": "it's windy",
+   "chunk": "Weather and wind",
+   "recent": true
+  },
+  {
+   "id": "c-ame-ga-tsuyoi",
+   "romaji": "ame ga tsuyoi",
+   "english": "the rain is heavy",
+   "chunk": "Weather and wind",
+   "recent": true
+  },
+  {
+   "id": "c-kaze-ga-fuku",
+   "romaji": "kaze ga fuku",
+   "english": "the wind blows",
+   "chunk": "Weather and wind",
+   "recent": true
+  },
+  {
+   "id": "c-kaze-ni-ataru",
+   "romaji": "kaze ni ataru",
+   "english": "get some (fresh) air",
+   "chunk": "Weather and wind",
+   "recent": true
+  },
+  {
+   "id": "c-te-o-arau",
+   "romaji": "te o arau",
+   "english": "wash your hands",
+   "chunk": "Washing and grooming",
+   "recent": true
+  },
+  {
+   "id": "c-kao-o-arau",
+   "romaji": "kao o arau",
+   "english": "wash your face",
+   "chunk": "Washing and grooming",
+   "recent": true
+  },
+  {
+   "id": "c-kami-o-arau",
+   "romaji": "kami o arau",
+   "english": "wash your hair",
+   "chunk": "Washing and grooming",
+   "recent": true
+  },
+  {
+   "id": "c-kami-o-kiru",
+   "romaji": "kami o kiru",
+   "english": "get a haircut",
+   "chunk": "Washing and grooming",
+   "recent": true
+  },
+  {
+   "id": "c-tsume-o-kiru",
+   "romaji": "tsume o kiru",
+   "english": "cut your nails",
+   "chunk": "Washing and grooming",
+   "recent": true
+  },
+  {
+   "id": "c-toire-ni-iku",
+   "romaji": "toire ni iku",
+   "english": "go to the toilet",
+   "chunk": "Bathroom",
+   "recent": true
+  },
+  {
+   "id": "c-shawaa-o-abiru",
+   "romaji": "shawaa o abiru",
+   "english": "take a shower",
+   "chunk": "Bathroom",
+   "recent": true
+  },
+  {
+   "id": "c-ofuro-ni-hairu",
+   "romaji": "ofuro ni hairu",
+   "english": "take a bath",
+   "chunk": "Bathroom",
+   "recent": true
+  },
+  {
+   "id": "c-ha-o-migaku",
+   "romaji": "ha o migaku",
+   "english": "brush your teeth",
+   "chunk": "Bathroom",
+   "recent": true
+  },
+  {
+   "id": "c-hige-o-soru",
+   "romaji": "hige o soru",
+   "english": "shave (your face)",
+   "chunk": "Bathroom",
+   "recent": true
+  },
+  {
+   "id": "c-atama-ga-ii",
+   "romaji": "atama ga ii",
+   "english": "be smart, clever",
+   "chunk": "Smart and skilled",
+   "recent": true
+  },
+  {
+   "id": "c-nihongo-ga-jouzu",
+   "romaji": "nihongo ga jouzu",
+   "english": "be good at Japanese",
+   "chunk": "Smart and skilled",
+   "recent": true
+  },
+  {
+   "id": "c-shigoto-ga-dekiru",
+   "romaji": "shigoto ga dekiru",
+   "english": "be capable, good at one's job",
+   "chunk": "Smart and skilled",
+   "recent": true
+  },
+  {
+   "id": "c-sensu-ga-ii",
+   "romaji": "sensu ga ii",
+   "english": "have good taste, a good eye",
+   "chunk": "Smart and skilled",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "yuki",
+   "okaasan"
+  ],
+  "format": "monologue"
+ }
+}

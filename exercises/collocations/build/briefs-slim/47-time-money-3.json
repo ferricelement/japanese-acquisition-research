@@ -1,0 +1,371 @@
+{
+ "script": 47,
+ "of": 94,
+ "stage": 3,
+ "chunkId": "time-money-3",
+ "label": "Costs and paying",
+ "topic": "Time, money & plans",
+ "rationale": "Money at the till and the table: what it costs overall, one item's price, pricey, paying, and splitting the bill.",
+ "mixUps": "No single verb for 'cost': okane ga kakaru is the overall cost (kekkou kakatta), ikura suru is an item's price (ikura shita?), nedan ga takai says the price is high. okane o harau is you handing it over, and warikan ni suru is splitting evenly, not wakeru.",
+ "targets": [
+  {
+   "id": "c-okane-ga-kakaru",
+   "romaji": "okane ga kakaru",
+   "polite": "okane ga kakarimasu",
+   "english": "cost money",
+   "ja": "お金がかかる",
+   "kana": "おかねがかかる",
+   "politeJa": "お金がかかります",
+   "noun": "okane",
+   "particle": "ga",
+   "verb": "kakaru",
+   "verbJa": "かかる",
+   "verbSense": "be hung on or applied; of time or money: be needed, be used up",
+   "englishVerb": "cost",
+   "trap": "There is no one Japanese verb for 'cost'. A thing's price is suru (ikura shita?). What something costs you overall is kakaru, the same verb as time: shuuri ni ichiman en kakatta.",
+   "partners": [
+    "hiyou (expenses)",
+    "denkidai (electricity bill)",
+    "koutsuuhi (travel fares)"
+   ],
+   "flags": [],
+   "use": "For what a trip, a hobby, a repair or daily life costs overall, often with an amount: ichiman en gurai kakatta. For the price of a thing you bought, use ikura suru.",
+   "notes": "okane o tsukau = spend (your choice); okane ga kakaru = something costs.",
+   "example": {
+    "romaji": "kuruma tte kekkou okane kakaru yo",
+    "ja": "車ってけっこうお金かかるよ",
+    "english": "Having a car costs quite a bit."
+   },
+   "examplePolite": {
+    "romaji": "kuruma wa kekkou okane ga kakarimasu yo",
+    "ja": "車はけっこうお金がかかりますよ",
+    "english": "Having a car costs quite a bit."
+   }
+  },
+  {
+   "id": "c-ikura-suru",
+   "romaji": "ikura suru",
+   "polite": "ikura shimasu",
+   "english": "how much it costs (price + suru)",
+   "ja": "いくらする",
+   "kana": "いくらする",
+   "politeJa": "いくらします",
+   "noun": "ikura",
+   "particle": null,
+   "verb": "suru",
+   "verbJa": "する",
+   "verbSense": "do, make; after a price or amount: cost, be priced at",
+   "englishVerb": "cost",
+   "trap": "The main list teaches kakaru as 'cost', but that is for overall spending. A single thing's price takes suru: kore ikura shita? / ichiman en shita. ikura datta? also works.",
+   "partners": [
+    "ichiman en (10,000 yen)",
+    "sen en (1,000 yen)"
+   ],
+   "flags": [],
+   "use": "The shape is price + suru: ichiman en suru = it costs 10,000 yen. In the past about something bought: sore ikura shita? or ikura datta? (both common). In the present for what a thing goes for: are tte ikura suru no?, ikura suru n darou, or sanman en mo suru n da (it's a whole 30,000 yen). In a shop, the plain kore ikura desu ka is the usual question.",
+   "notes": "kekkou suru ne = that's pricey.",
+   "example": {
+    "romaji": "kore, ikura shita?",
+    "ja": "これ、いくらした？",
+    "english": "How much did this cost?"
+   },
+   "examplePolite": {
+    "romaji": "kore, ikura shimashita ka?",
+    "ja": "これ、いくらしましたか？",
+    "english": "How much did this cost?"
+   }
+  },
+  {
+   "id": "c-nedan-ga-takai",
+   "romaji": "nedan ga takai",
+   "polite": "nedan ga takai desu",
+   "english": "the price is high",
+   "ja": "値段が高い",
+   "kana": "ねだんがたかい",
+   "politeJa": "値段が高いです",
+   "noun": "nedan",
+   "particle": "ga",
+   "verb": "takai",
+   "verbJa": "高い",
+   "verbSense": "high; expensive",
+   "englishVerb": "high",
+   "trap": "A low price isn't hikui in speech: cheap is yasui (nedan ga yasui). hikui turns up only in written kakaku ga hikui.",
+   "partners": [
+    "ryoukin (a fee, a fare)",
+    "yachin (rent)",
+    "bukka (cost of living)"
+   ],
+   "flags": [],
+   "use": "Said when comparing shops or weighing up a buy: koko, nedan chotto takai ne. Day to day people just say takai! about a thing; nedan comes in when the price itself is the point, often with mo: oishii kedo nedan mo takai.",
+   "notes": "nedan no wari ni = for the price: nedan no wari ni oishii. kakaku is the written word on signs and sites.",
+   "example": {
+    "romaji": "koko, oishii kedo nedan chotto takai ne.",
+    "ja": "ここ、おいしいけど値段ちょっと高いね。",
+    "english": "This place is good, but it's a bit pricey."
+   },
+   "examplePolite": {
+    "romaji": "koko wa oishii kedo, nedan ga chotto takai desu ne.",
+    "ja": "ここはおいしいけど、値段がちょっと高いですね。",
+    "english": "This place is good, but it's a bit pricey."
+   }
+  },
+  {
+   "id": "c-okane-o-harau",
+   "romaji": "okane o harau",
+   "polite": "okane o haraimasu",
+   "english": "pay (money)",
+   "ja": "お金を払う",
+   "kana": "おかねをはらう",
+   "politeJa": "お金を払います",
+   "noun": "okane",
+   "particle": "o",
+   "verb": "harau",
+   "verbJa": "払う",
+   "verbSense": "pay; also brush or sweep off (dust, snow)",
+   "englishVerb": "pay",
+   "trap": "Paying back money you borrowed is kaesu (give back), not harau: ashita kaesu ne. When a friend covered your share, ato de harau ne works too.",
+   "partners": [
+    "yachin (rent)",
+    "ryoukin (fee, charge)",
+    "denkidai (electricity bill)"
+   ],
+   "flags": [],
+   "use": "For whether someone has paid, usually in the past: okane haratta? / mou haratta yo. When the amount, bill or method is said, okane drops: sen en haratta, kaado de harau.",
+   "notes": "Offering to pay is dasu (koko wa watashi ga dasu yo), and treating someone is ogoru. At the register staff ask oshiharai wa dou nasaimasu ka? (how will you pay?).",
+   "example": {
+    "romaji": "okane, mou haratta?",
+    "ja": "お金、もう払った？",
+    "english": "Have you paid already?"
+   },
+   "examplePolite": {
+    "romaji": "okane, mou haraimashita?",
+    "ja": "お金、もう払いました？",
+    "english": "Have you paid already?"
+   }
+  },
+  {
+   "id": "c-warikan-ni-suru",
+   "romaji": "warikan ni suru",
+   "polite": "warikan ni shimasu",
+   "english": "split the bill",
+   "ja": "割り勘にする",
+   "kana": "わりかんにする",
+   "politeJa": "割り勘にします",
+   "noun": "warikan",
+   "particle": "ni",
+   "verb": "suru",
+   "verbJa": "する",
+   "verbSense": "do; X ni suru = make it X, go with X",
+   "englishVerb": "split",
+   "trap": "English 'split' leads to wakeru, which is fine with staff for separate bills (kaikei wakete moraemasu ka?). Splitting the total evenly is one noun, warikan: warikan ni shiyou. Each paying their own is betsubetsu.",
+   "partners": [
+    "betsubetsu (separately)",
+    "hanbun (half)"
+   ],
+   "flags": [],
+   "use": "Said when the bill comes: warikan ni shiyou, warikan de ii?, or just warikan shiyou. People often follow with each person's share: hitori sen en ne. Between two people, hanbunko also works.",
+   "notes": "Paying for someone is ogoru (kyou wa ogoru yo = it's on me); being treated is gochisou ni naru.",
+   "example": {
+    "romaji": "jaa, warikan ni shiyou",
+    "ja": "じゃあ、割り勘にしよう",
+    "english": "OK, let's split it."
+   },
+   "examplePolite": {
+    "romaji": "jaa, warikan ni shimashou",
+    "ja": "じゃあ、割り勘にしましょう",
+    "english": "OK, let's split it."
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-junbi-ga-dekiru",
+   "romaji": "junbi ga dekiru",
+   "english": "be ready",
+   "chunk": "Ready and how long",
+   "recent": true
+  },
+  {
+   "id": "c-jikan-ga-kakaru",
+   "romaji": "jikan ga kakaru",
+   "english": "take time",
+   "chunk": "Ready and how long",
+   "recent": true
+  },
+  {
+   "id": "c-jikan-ga-tatsu",
+   "romaji": "jikan ga tatsu",
+   "english": "time passes",
+   "chunk": "Ready and how long",
+   "recent": true
+  },
+  {
+   "id": "c-tema-ga-kakaru",
+   "romaji": "tema ga kakaru",
+   "english": "take work, be a hassle",
+   "chunk": "Ready and how long",
+   "recent": true
+  },
+  {
+   "id": "c-yume-o-miru",
+   "romaji": "yume o miru",
+   "english": "have a dream (while asleep)",
+   "chunk": "Bed and waking",
+   "recent": true
+  },
+  {
+   "id": "c-me-ga-sameru",
+   "romaji": "me ga sameru",
+   "english": "wake up (from sleep); feel wide awake (me ga sameta)",
+   "chunk": "Bed and waking",
+   "recent": true
+  },
+  {
+   "id": "c-futon-ni-hairu",
+   "romaji": "futon ni hairu",
+   "english": "get into bed, get under the covers",
+   "chunk": "Bed and waking",
+   "recent": true
+  },
+  {
+   "id": "c-mezamashi-o-kakeru",
+   "romaji": "mezamashi o kakeru",
+   "english": "set an alarm",
+   "chunk": "Bed and waking",
+   "recent": true
+  },
+  {
+   "id": "c-kotatsu-ni-hairu",
+   "romaji": "kotatsu ni hairu",
+   "english": "get under the kotatsu",
+   "chunk": "Bed and waking",
+   "recent": true
+  },
+  {
+   "id": "c-taifuu-ga-kuru",
+   "romaji": "taifuu ga kuru",
+   "english": "a typhoon comes (hits)",
+   "chunk": "Storms and quakes",
+   "recent": true
+  },
+  {
+   "id": "c-jishin-ga-okiru",
+   "romaji": "jishin ga okiru",
+   "english": "an earthquake happens, hits",
+   "chunk": "Storms and quakes",
+   "recent": true
+  },
+  {
+   "id": "c-kaminari-ga-naru",
+   "romaji": "kaminari ga naru",
+   "english": "it thunders; thunder rumbles",
+   "chunk": "Storms and quakes",
+   "recent": true
+  },
+  {
+   "id": "c-tenki-yohou-ga-hazureru",
+   "romaji": "tenki yohou ga hazureru",
+   "english": "the forecast is wrong",
+   "chunk": "Storms and quakes",
+   "recent": true
+  },
+  {
+   "id": "c-seikaku-ga-ii",
+   "romaji": "seikaku ga ii",
+   "english": "be a nice person",
+   "chunk": "Personality and mood",
+   "recent": true
+  },
+  {
+   "id": "c-seikaku-ga-warui",
+   "romaji": "seikaku ga warui",
+   "english": "be mean, nasty",
+   "chunk": "Personality and mood",
+   "recent": true
+  },
+  {
+   "id": "c-kanji-ga-ii",
+   "romaji": "kanji ga ii",
+   "english": "be pleasant, nice (person or place)",
+   "chunk": "Personality and mood",
+   "recent": true
+  },
+  {
+   "id": "c-genki-ga-nai",
+   "romaji": "genki ga nai",
+   "english": "be down, low on energy",
+   "chunk": "Personality and mood",
+   "recent": true
+  },
+  {
+   "id": "c-uso-o-tsuku",
+   "romaji": "uso o tsuku",
+   "english": "tell a lie",
+   "chunk": "Lies, jokes and complaints",
+   "recent": true
+  },
+  {
+   "id": "c-joudan-o-iu",
+   "romaji": "joudan o iu",
+   "english": "joke, kid around",
+   "chunk": "Lies, jokes and complaints",
+   "recent": true
+  },
+  {
+   "id": "c-monku-o-iu",
+   "romaji": "monku o iu",
+   "english": "complain",
+   "chunk": "Lies, jokes and complaints",
+   "recent": true
+  },
+  {
+   "id": "c-guchi-o-iu",
+   "romaji": "guchi o iu",
+   "english": "grumble, vent",
+   "chunk": "Lies, jokes and complaints",
+   "recent": true
+  },
+  {
+   "id": "c-naisho-ni-suru",
+   "romaji": "naisho ni suru",
+   "english": "keep it secret",
+   "chunk": "Lies, jokes and complaints",
+   "recent": true
+  },
+  {
+   "id": "c-yoko-ni-naru",
+   "romaji": "yoko ni naru",
+   "english": "lie down",
+   "chunk": "Rest and recovery",
+   "recent": true
+  },
+  {
+   "id": "c-netsu-ga-sagaru",
+   "romaji": "netsu ga sagaru",
+   "english": "fever goes down",
+   "chunk": "Rest and recovery",
+   "recent": true
+  },
+  {
+   "id": "c-kaze-ga-naoru",
+   "romaji": "kaze ga naoru",
+   "english": "get over a cold",
+   "chunk": "Rest and recovery",
+   "recent": true
+  },
+  {
+   "id": "c-tsukare-ga-toreru",
+   "romaji": "tsukare ga toreru",
+   "english": "shake off tiredness, feel rested",
+   "chunk": "Rest and recovery",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "satou",
+   "yuki"
+  ],
+  "format": "dialogue"
+ }
+}

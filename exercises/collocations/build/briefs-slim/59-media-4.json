@@ -1,0 +1,341 @@
+{
+ "script": 59,
+ "of": 94,
+ "stage": 3,
+ "chunkId": "media-4",
+ "label": "Numbers and messages",
+ "topic": "Phone, photos & screens",
+ "rationale": "Keeping in touch in writing: swapping numbers, then a message's round trip of send, receive and reply.",
+ "mixUps": "meeru o okuru (you send, o) vs meeru ga kuru (it comes to you, ga) is the same out/in split as the phone calls. 'Give me your number' is bangou oshiete, not kudasai, and kaesu 'send back' sounds like kaeru 'go home'.",
+ "targets": [
+  {
+   "id": "c-bangou-o-oshieru",
+   "romaji": "bangou o oshieru",
+   "polite": "bangou o oshiemasu",
+   "english": "give someone your number",
+   "ja": "番号を教える",
+   "kana": "ばんごうをおしえる",
+   "politeJa": "番号を教えます",
+   "noun": "bangou",
+   "particle": "o",
+   "verb": "oshieru",
+   "verbJa": "教える",
+   "verbSense": "teach; tell, let someone know",
+   "englishVerb": "give",
+   "trap": "English 'give' pulls toward ageru or kudasai, but the everyday set is oshieru ('tell'): 'give me your number' is bangou oshiete and 'I gave him my number' is bangou oshieta. bangou ageru is heard, bangou choudai works among close friends, and bangou o kudasai sounds stiff.",
+   "partners": [
+    "renrakusaki (contact details)",
+    "meeru adoresu (email address)",
+    "juusho (address)",
+    "rain (LINE ID)"
+   ],
+   "flags": [],
+   "use": "Said when swapping numbers, mostly as the request bangou oshiete (give me your number), softened to bangou oshiete kurenai? Here bangou means denwa bangou (phone number). Casual speech drops o, and asking someone for theirs is bangou o kiku.",
+   "notes": "Among friends, contacts now go over LINE: rain koukan shiyou (let's swap LINE).",
+   "example": {
+    "romaji": "yokattara, bangou oshiete kurenai?",
+    "ja": "よかったら、番号教えてくれない？",
+    "english": "Could I get your number?"
+   },
+   "examplePolite": {
+    "romaji": "yokattara, bangou o oshiete kuremasen ka?",
+    "ja": "よかったら、番号を教えてくれませんか？",
+    "english": "Would you mind giving me your number?"
+   }
+  },
+  {
+   "id": "c-meeru-o-okuru",
+   "romaji": "meeru o okuru",
+   "polite": "meeru o okurimasu",
+   "english": "send an email",
+   "ja": "メールを送る",
+   "kana": "メールをおくる",
+   "politeJa": "メールを送ります",
+   "noun": "meeru",
+   "particle": "o",
+   "verb": "okuru",
+   "verbJa": "送る",
+   "verbSense": "send; see someone off",
+   "englishVerb": "send",
+   "trap": null,
+   "partners": [
+    "rain (LINE message)",
+    "messeeji (message)",
+    "rinku (link)",
+    "nimotsu (parcel)"
+   ],
+   "flags": [],
+   "use": "Said when you send or promise an email, with the person marked by ni: senpai ni meeru okutta (I emailed my senpai), ato de meeru okuru ne (I'll email you later). Sending something by email is meeru de okuru (shiryou meeru de okuru ne). Between friends, messages usually go by LINE: rain suru ne, rain okutta yo. Casual speech drops o.",
+   "notes": "The same okuru is seeing someone off or giving them a lift (eki made okuru); meeru suru is the shorter casual version.",
+   "example": {
+    "romaji": "ato de meeru okuru ne.",
+    "ja": "後でメール送るね。",
+    "english": "I'll email you later."
+   },
+   "examplePolite": {
+    "romaji": "ato de meeru o okurimasu ne.",
+    "ja": "後でメールを送りますね。",
+    "english": "I'll email you later."
+   }
+  },
+  {
+   "id": "c-meeru-ga-kuru",
+   "romaji": "meeru ga kuru",
+   "polite": "meeru ga kimasu",
+   "english": "get an email",
+   "ja": "メールが来る",
+   "kana": "メールがくる",
+   "politeJa": "メールが来ます",
+   "noun": "meeru",
+   "particle": "ga",
+   "verb": "kuru",
+   "verbJa": "来る",
+   "verbSense": "come, arrive",
+   "englishVerb": "get",
+   "trap": "Not uketoru: English makes you the subject of 'got', but Japanese makes the email the subject: meeru (ga) kita ('an email came'). meeru moratta is also fine, but kita is what you hear most; uketoru sounds stiff and is for parcels and documents.",
+   "partners": [
+    "rain (LINE message)",
+    "henji (reply)",
+    "denwa (phone call)",
+    "renraku (word from someone)"
+   ],
+   "flags": [],
+   "use": "Said when an email arrives, mostly as meeru kita (I got an email), with the sender marked by kara. The negative henji ga konai means there's no reply yet.",
+   "notes": "meeru now means email; a text from a friend is a rain (LINE): rain kita. henji and renraku work the same way: henji kita. Sending is meeru o okuru: okutta yo (I sent it).",
+   "example": {
+    "romaji": "nanka hen na meeru kita.",
+    "ja": "なんか変なメール来た。",
+    "english": "I got a weird email."
+   },
+   "examplePolite": {
+    "romaji": "nanka hen na meeru ga kimashita.",
+    "ja": "なんか変なメールが来ました。",
+    "english": "I got a weird email."
+   }
+  },
+  {
+   "id": "c-meeru-o-kaesu",
+   "romaji": "meeru o kaesu",
+   "polite": "meeru o kaeshimasu",
+   "english": "reply to a message",
+   "ja": "メールを返す",
+   "kana": "メールをかえす",
+   "politeJa": "メールを返します",
+   "noun": "meeru",
+   "particle": "o",
+   "verb": "kaesu",
+   "verbJa": "返す",
+   "verbSense": "give back, return something",
+   "englishVerb": "reply",
+   "trap": "Not meeru ni kotaeru: replying to an email or text is kaesu ('send back'); kotaeru answers questions. henshin suru and henji suru are also fine.",
+   "partners": [
+    "rain (LINE message)",
+    "messeeji (message)"
+   ],
+   "flags": [],
+   "use": "Said about answering emails or texts, often about being slow: kaesu no wasureteta (I forgot to reply). For chat messages the noun is rain (LINE): rain kaeshite. With henji the usual verb is suru: henji shite.",
+   "notes": "To call someone back, the verb is orikaesu: ato de orikaeshimasu.",
+   "example": {
+    "romaji": "gomen, meeru kaesu no wasureteta.",
+    "ja": "ごめん、メール返すの忘れてた。",
+    "english": "Sorry, I forgot to reply to your email."
+   },
+   "examplePolite": {
+    "romaji": "sumimasen, meeru o kaesu no wasuretemashita.",
+    "ja": "すみません、メールを返すの忘れてました。",
+    "english": "Sorry, I forgot to reply to your email."
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-eki-ni-tsuku",
+   "romaji": "eki ni tsuku",
+   "english": "get to the station",
+   "chunk": "On the way",
+   "recent": true
+  },
+  {
+   "id": "c-michi-ga-komu",
+   "romaji": "michi ga komu",
+   "english": "the traffic is heavy",
+   "chunk": "On the way",
+   "recent": true
+  },
+  {
+   "id": "c-seki-ga-aku",
+   "romaji": "seki ga aku",
+   "english": "a seat frees up (aiteru = a seat is free)",
+   "chunk": "On the way",
+   "recent": true
+  },
+  {
+   "id": "c-eki-o-norisugosu",
+   "romaji": "eki o norisugosu",
+   "english": "miss your stop",
+   "chunk": "On the way",
+   "recent": true
+  },
+  {
+   "id": "c-youji-ga-aru",
+   "romaji": "youji ga aru",
+   "english": "have something to do",
+   "chunk": "Can't make it",
+   "recent": true
+  },
+  {
+   "id": "c-asa-ga-hayai",
+   "romaji": "asa ga hayai",
+   "english": "have an early start",
+   "chunk": "Can't make it",
+   "recent": true
+  },
+  {
+   "id": "c-yotei-ga-hairu",
+   "romaji": "yotei ga hairu",
+   "english": "have plans, get booked",
+   "chunk": "Can't make it",
+   "recent": true
+  },
+  {
+   "id": "c-senyaku-ga-aru",
+   "romaji": "sen'yaku ga aru",
+   "english": "have prior plans",
+   "chunk": "Can't make it",
+   "recent": true
+  },
+  {
+   "id": "c-gomi-o-suteru",
+   "romaji": "gomi o suteru",
+   "english": "throw away rubbish",
+   "chunk": "Trash and tidying",
+   "recent": true
+  },
+  {
+   "id": "c-gomi-o-dasu",
+   "romaji": "gomi o dasu",
+   "english": "take out the trash",
+   "chunk": "Trash and tidying",
+   "recent": true
+  },
+  {
+   "id": "c-heya-o-katazukeru",
+   "romaji": "heya o katazukeru",
+   "english": "tidy up one's room",
+   "chunk": "Trash and tidying",
+   "recent": true
+  },
+  {
+   "id": "c-heya-ga-chirakaru",
+   "romaji": "heya ga chirakaru",
+   "english": "(a room) gets messy, is a mess",
+   "chunk": "Trash and tidying",
+   "recent": true
+  },
+  {
+   "id": "c-moto-ni-modosu",
+   "romaji": "moto ni modosu",
+   "english": "put back (as it was)",
+   "chunk": "Trash and tidying",
+   "recent": true
+  },
+  {
+   "id": "c-onegai-ga-aru",
+   "romaji": "onegai ga aru",
+   "english": "have a favour to ask",
+   "chunk": "Favours, sorry, cheer up",
+   "recent": true
+  },
+  {
+   "id": "c-meiwaku-o-kakeru",
+   "romaji": "meiwaku o kakeru",
+   "english": "cause someone trouble",
+   "chunk": "Favours, sorry, cheer up",
+   "recent": true
+  },
+  {
+   "id": "c-shinpai-o-kakeru",
+   "romaji": "shinpai o kakeru",
+   "english": "make someone worry",
+   "chunk": "Favours, sorry, cheer up",
+   "recent": true
+  },
+  {
+   "id": "c-genki-o-dasu",
+   "romaji": "genki o dasu",
+   "english": "cheer up",
+   "chunk": "Favours, sorry, cheer up",
+   "recent": true
+  },
+  {
+   "id": "c-ryokou-ni-iku",
+   "romaji": "ryokou ni iku",
+   "english": "go on a trip",
+   "chunk": "On a trip",
+   "recent": true
+  },
+  {
+   "id": "c-hikouki-ni-noru",
+   "romaji": "hikouki ni noru",
+   "english": "fly, take a plane",
+   "chunk": "On a trip",
+   "recent": true
+  },
+  {
+   "id": "c-hoteru-ni-tomaru",
+   "romaji": "hoteru ni tomaru",
+   "english": "stay at a hotel",
+   "chunk": "On a trip",
+   "recent": true
+  },
+  {
+   "id": "c-omiyage-o-kau",
+   "romaji": "omiyage o kau",
+   "english": "buy gifts to take back",
+   "chunk": "On a trip",
+   "recent": true
+  },
+  {
+   "id": "c-onsen-ni-hairu",
+   "romaji": "onsen ni hairu",
+   "english": "bathe in a hot spring",
+   "chunk": "On a trip",
+   "recent": true
+  },
+  {
+   "id": "c-okane-o-tsukau",
+   "romaji": "okane o tsukau",
+   "english": "spend money",
+   "chunk": "Spending and saving",
+   "recent": true
+  },
+  {
+   "id": "c-kaado-o-tsukau",
+   "romaji": "kaado o tsukau",
+   "english": "pay by card",
+   "chunk": "Spending and saving",
+   "recent": true
+  },
+  {
+   "id": "c-okane-o-tameru",
+   "romaji": "okane o tameru",
+   "english": "save up money",
+   "chunk": "Spending and saving",
+   "recent": true
+  },
+  {
+   "id": "c-pointo-o-tameru",
+   "romaji": "pointo o tameru",
+   "english": "collect loyalty points",
+   "chunk": "Spending and saving",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "okaasan",
+   "kenji"
+  ],
+  "format": "dialogue"
+ }
+}

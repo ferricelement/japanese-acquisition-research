@@ -1,0 +1,351 @@
+{
+ "script": 14,
+ "of": 94,
+ "stage": 1,
+ "chunkId": "describing-2",
+ "label": "Smart and skilled",
+ "topic": "Describing people",
+ "rationale": "Praise for what someone is good at: brains, Japanese, their job, taste.",
+ "mixUps": "Each noun takes its own word for 'good': atama ga ii (never jouzu), nihongo ga jouzu (a skill done well), shigoto ga dekiru (capable, not jouzu), sensu ga ii. nihongo ga dekiru only says you can speak it; jouzu says you speak it well.",
+ "targets": [
+  {
+   "id": "c-atama-ga-ii",
+   "romaji": "atama ga ii",
+   "polite": "atama ga ii desu",
+   "english": "be smart, clever",
+   "ja": "頭がいい",
+   "kana": "あたまがいい",
+   "politeJa": "頭がいいです",
+   "noun": "atama",
+   "particle": "ga",
+   "verb": "ii",
+   "verbJa": "いい",
+   "verbSense": "ii: good",
+   "englishVerb": "smart",
+   "trap": "Not sumaato (in Japanese that means slim or sleek): 'smart' is atama ga ii. Kashikoi is also correct but less everyday, and often said to children or pets.",
+   "partners": [
+    "kan (intuition)",
+    "kiokuryoku (memory)",
+    "mimi (hearing)"
+   ],
+   "flags": [],
+   "use": "The everyday 'smart': ano hito, atama ii ne, with ga dropped in casual speech. Ii conjugates from yoi, so the past is atama yokatta and the negative is atama yokunai.",
+   "notes": "Atama ga warui is fine about yourself but rude about others. For someone who is good at their job, say shigoto ga dekiru.",
+   "example": {
+    "romaji": "tanaka-san, atama ii yo ne.",
+    "ja": "田中さん、頭いいよね。",
+    "english": "Tanaka's smart, right?"
+   },
+   "examplePolite": {
+    "romaji": "tanaka-san wa atama ga ii desu yo ne.",
+    "ja": "田中さんは頭がいいですよね。",
+    "english": "Tanaka is smart, right?"
+   }
+  },
+  {
+   "id": "c-nihongo-ga-jouzu",
+   "romaji": "nihongo ga jouzu",
+   "polite": "nihongo ga jouzu desu",
+   "english": "be good at Japanese",
+   "ja": "日本語が上手",
+   "kana": "にほんごがじょうず",
+   "politeJa": "日本語が上手です",
+   "noun": "nihongo",
+   "particle": "ga",
+   "verb": "jouzu",
+   "verbJa": "上手",
+   "verbSense": "jouzu: skilful, good at (praise for someone else's skill)",
+   "englishVerb": "good at",
+   "trap": "Jouzu is for praising others: watashi wa nihongo ga jouzu desu sounds like boasting. About yourself, say nihongo ga sukoshi dekimasu, or mada mada desu when complimented.",
+   "partners": [
+    "eigo (English)",
+    "ryouri (cooking)",
+    "e (drawing)",
+    "uta (singing)"
+   ],
+   "flags": [],
+   "use": "The compliment every learner hears, often after a single sentence: nihongo jouzu desu ne! Casual speech drops ga, and friends also say nihongo umai ne. The usual reply is iie, mada mada desu or sonna koto nai desu.",
+   "notes": "It's said after a single konnichiwa, so it's politeness more than a verdict.",
+   "example": {
+    "romaji": "nihongo jouzu ni natta ne!",
+    "ja": "日本語上手になったね！",
+    "english": "Your Japanese has got really good!"
+   },
+   "examplePolite": {
+    "romaji": "nihongo ga jouzu ni narimashita ne!",
+    "ja": "日本語が上手になりましたね！",
+    "english": "Your Japanese has improved!"
+   }
+  },
+  {
+   "id": "c-shigoto-ga-dekiru",
+   "romaji": "shigoto ga dekiru",
+   "polite": "shigoto ga dekimasu",
+   "english": "be capable, good at one's job",
+   "ja": "仕事ができる",
+   "kana": "しごとができる",
+   "politeJa": "仕事ができます",
+   "noun": "shigoto",
+   "particle": "ga",
+   "verb": "dekiru",
+   "verbJa": "できる",
+   "verbSense": "dekiru: can do; here, be capable, perform well",
+   "englishVerb": "good at",
+   "trap": "Not shigoto ga jouzu. Jouzu praises how skilfully something is done (nihongo ga jouzu, ryouri ga jouzu), while dekiru says someone is capable. Being good at your job is shigoto ga dekiru, usually as shigoto ga dekiru hito.",
+   "partners": [
+    "benkyou (benkyou ga dekiru: do well at school)",
+    "undou (undou ga dekiru: be good at sports, athletic)"
+   ],
+   "flags": [],
+   "use": "Praise for a capable coworker, usually shigoto dekiru (ga dropped), or before a noun, where ga often becomes no: shigoto ga dekiru hito / shigoto no dekiru hito (someone good at their job). Dekiru alone can carry it (dekiru hito da ne), and shigoto ga dekinai is blunt criticism. It's said about someone: telling a superior to their face that they're capable sounds presumptuous.",
+   "notes": "Outside of praise it's literal: ashita shigoto dekinai (I can't work tomorrow). Yuushuu (excellent) is the formal word.",
+   "example": {
+    "romaji": "atarashii buchou, sugoku shigoto dekiru n da yo.",
+    "ja": "新しい部長、すごく仕事できるんだよ。",
+    "english": "The new manager's really good at her job."
+   },
+   "examplePolite": {
+    "romaji": "atarashii buchou wa totemo shigoto ga dekiru kata na n desu yo.",
+    "ja": "新しい部長はとても仕事ができる方なんですよ。",
+    "english": "Our new manager is extremely capable."
+   }
+  },
+  {
+   "id": "c-sensu-ga-ii",
+   "romaji": "sensu ga ii",
+   "polite": "sensu ga ii desu",
+   "english": "have good taste, a good eye",
+   "ja": "センスがいい",
+   "kana": "センスがいい",
+   "politeJa": "センスがいいです",
+   "noun": "sensu",
+   "particle": "ga",
+   "verb": "ii",
+   "verbJa": "いい",
+   "verbSense": "ii: good",
+   "englishVerb": "taste",
+   "trap": "'Good taste' isn't aji (flavour). Sensu is a false friend: sensu nai means 'no taste', not 'that doesn't make sense' (imi wakannai). 'That makes sense' is naruhodo, and common sense is joushiki.",
+   "partners": [
+    "shumi (shumi ga ii: good taste)"
+   ],
+   "flags": [],
+   "use": "A stock compliment on clothes, a gift, a room or a playlist: sensu ii ne! Ga is usually dropped. The opposite is sensu nai (no taste), and sensu ga aru means a flair for something (ryouri no sensu ga aru).",
+   "notes": "Shumi ga ii also means good taste, but shumi mostly means 'hobby', and ii shumi shiteru ne is often sarcastic. Keep it apart from sutairu ga ii, which means a good figure, not style; someone who dresses well is oshare.",
+   "example": {
+    "romaji": "sono fuku, sensu ii ne.",
+    "ja": "その服、センスいいね。",
+    "english": "Great taste, that outfit."
+   },
+   "examplePolite": {
+    "romaji": "sono fuku, sensu ga ii desu ne.",
+    "ja": "その服、センスがいいですね。",
+    "english": "That outfit shows great taste."
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-hon-o-yomu",
+   "romaji": "hon o yomu",
+   "english": "read a book",
+   "chunk": "Read, watch, sing, draw",
+   "recent": true
+  },
+  {
+   "id": "c-eiga-o-miru",
+   "romaji": "eiga o miru",
+   "english": "watch a movie",
+   "chunk": "Read, watch, sing, draw",
+   "recent": true
+  },
+  {
+   "id": "c-uta-o-utau",
+   "romaji": "uta o utau",
+   "english": "sing a song",
+   "chunk": "Read, watch, sing, draw",
+   "recent": true
+  },
+  {
+   "id": "c-e-o-kaku",
+   "romaji": "e o kaku",
+   "english": "draw or paint a picture",
+   "chunk": "Read, watch, sing, draw",
+   "recent": true
+  },
+  {
+   "id": "c-hanashi-o-suru",
+   "romaji": "hanashi o suru",
+   "english": "talk, have a talk",
+   "chunk": "Talking to people",
+   "recent": true
+  },
+  {
+   "id": "c-hanashi-o-kiku",
+   "romaji": "hanashi o kiku",
+   "english": "listen to someone, hear someone out",
+   "chunk": "Talking to people",
+   "recent": true
+  },
+  {
+   "id": "c-hanashi-ga-aru",
+   "romaji": "hanashi ga aru",
+   "english": "need to talk (to you)",
+   "chunk": "Talking to people",
+   "recent": true
+  },
+  {
+   "id": "c-hanashi-ga-nagai",
+   "romaji": "hanashi ga nagai",
+   "english": "be long-winded, go on forever",
+   "chunk": "Talking to people",
+   "recent": true
+  },
+  {
+   "id": "c-jikan-ga-nai",
+   "romaji": "jikan ga nai",
+   "english": "have no time",
+   "chunk": "No time, no money",
+   "recent": true
+  },
+  {
+   "id": "c-hima-ga-nai",
+   "romaji": "hima ga nai",
+   "english": "have no free time",
+   "chunk": "No time, no money",
+   "recent": true
+  },
+  {
+   "id": "c-okane-ga-nai",
+   "romaji": "okane ga nai",
+   "english": "have no money, be broke",
+   "chunk": "No time, no money",
+   "recent": true
+  },
+  {
+   "id": "c-okane-ga-tarinai",
+   "romaji": "okane ga tarinai",
+   "english": "be short of money",
+   "chunk": "No time, no money",
+   "recent": true
+  },
+  {
+   "id": "c-yoyuu-ga-nai",
+   "romaji": "yoyuu ga nai",
+   "english": "have nothing to spare",
+   "chunk": "No time, no money",
+   "recent": true
+  },
+  {
+   "id": "c-tenki-ga-ii",
+   "romaji": "tenki ga ii",
+   "english": "the weather is nice",
+   "chunk": "Weather and wind",
+   "recent": true
+  },
+  {
+   "id": "c-kaze-ga-tsuyoi",
+   "romaji": "kaze ga tsuyoi",
+   "english": "it's windy",
+   "chunk": "Weather and wind",
+   "recent": true
+  },
+  {
+   "id": "c-ame-ga-tsuyoi",
+   "romaji": "ame ga tsuyoi",
+   "english": "the rain is heavy",
+   "chunk": "Weather and wind",
+   "recent": true
+  },
+  {
+   "id": "c-kaze-ga-fuku",
+   "romaji": "kaze ga fuku",
+   "english": "the wind blows",
+   "chunk": "Weather and wind",
+   "recent": true
+  },
+  {
+   "id": "c-kaze-ni-ataru",
+   "romaji": "kaze ni ataru",
+   "english": "get some (fresh) air",
+   "chunk": "Weather and wind",
+   "recent": true
+  },
+  {
+   "id": "c-te-o-arau",
+   "romaji": "te o arau",
+   "english": "wash your hands",
+   "chunk": "Washing and grooming",
+   "recent": true
+  },
+  {
+   "id": "c-kao-o-arau",
+   "romaji": "kao o arau",
+   "english": "wash your face",
+   "chunk": "Washing and grooming",
+   "recent": true
+  },
+  {
+   "id": "c-kami-o-arau",
+   "romaji": "kami o arau",
+   "english": "wash your hair",
+   "chunk": "Washing and grooming",
+   "recent": true
+  },
+  {
+   "id": "c-kami-o-kiru",
+   "romaji": "kami o kiru",
+   "english": "get a haircut",
+   "chunk": "Washing and grooming",
+   "recent": true
+  },
+  {
+   "id": "c-tsume-o-kiru",
+   "romaji": "tsume o kiru",
+   "english": "cut your nails",
+   "chunk": "Washing and grooming",
+   "recent": true
+  },
+  {
+   "id": "c-toire-ni-iku",
+   "romaji": "toire ni iku",
+   "english": "go to the toilet",
+   "chunk": "Bathroom",
+   "recent": true
+  },
+  {
+   "id": "c-shawaa-o-abiru",
+   "romaji": "shawaa o abiru",
+   "english": "take a shower",
+   "chunk": "Bathroom",
+   "recent": true
+  },
+  {
+   "id": "c-ofuro-ni-hairu",
+   "romaji": "ofuro ni hairu",
+   "english": "take a bath",
+   "chunk": "Bathroom",
+   "recent": true
+  },
+  {
+   "id": "c-ha-o-migaku",
+   "romaji": "ha o migaku",
+   "english": "brush your teeth",
+   "chunk": "Bathroom",
+   "recent": true
+  },
+  {
+   "id": "c-hige-o-soru",
+   "romaji": "hige o soru",
+   "english": "shave (your face)",
+   "chunk": "Bathroom",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "mai",
+   "tanaka"
+  ],
+  "format": "dialogue"
+ }
+}

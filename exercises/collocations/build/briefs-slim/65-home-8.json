@@ -1,0 +1,305 @@
+{
+ "script": 65,
+ "of": 94,
+ "stage": 3,
+ "chunkId": "home-8",
+ "label": "Kitchen",
+ "topic": "Home & daily routine",
+ "rationale": "Round a meal at home: washing up, boiling the kettle, wiping the table.",
+ "mixUps": "Each job has its own verb where English says 'wash' or 'boil': arau is with water, fuku is with a cloth, and the water you boil is already oyu (hot water) and takes wakasu, not niru, which is for cooking food.",
+ "targets": [
+  {
+   "id": "c-osara-o-arau",
+   "romaji": "osara o arau",
+   "polite": "osara o araimasu",
+   "english": "wash the dishes, wash up",
+   "ja": "お皿を洗う",
+   "kana": "おさらをあらう",
+   "politeJa": "お皿を洗います",
+   "noun": "osara",
+   "particle": "o",
+   "verb": "arau",
+   "verbJa": "洗う",
+   "verbSense": "wash with water (hands, face, dishes, a car)",
+   "englishVerb": "do",
+   "trap": "'Do the dishes' has no do-verb with osara itself: say osara (o) arau, or put suru on a chore noun: sara-arai (o) suru or araimono (o) suru.",
+   "partners": [
+    "te (hands)",
+    "kao (face)",
+    "kuruma (car)"
+   ],
+   "flags": [],
+   "use": "The after-meal chore, often an offer: osara arau ne (I'll do the dishes). Casual speech drops o; the chore nouns sara-arai and araimono (washing-up) are just as common: araimono shitoku ne.",
+   "notes": "Clearing the table first is osara o sageru or katazukeru; shokki o arau (wash the tableware) is the same chore, and a dishwasher is shokusenki.",
+   "example": {
+    "romaji": "osara wa watashi ga arau ne.",
+    "ja": "お皿は私が洗うね。",
+    "english": "I'll do the dishes."
+   },
+   "examplePolite": {
+    "romaji": "osara wa watashi ga araimasu ne.",
+    "ja": "お皿は私が洗いますね。",
+    "english": "I'll wash the dishes."
+   }
+  },
+  {
+   "id": "c-oyu-o-wakasu",
+   "romaji": "oyu o wakasu",
+   "polite": "oyu o wakashimasu",
+   "english": "boil water",
+   "ja": "お湯を沸かす",
+   "kana": "おゆをわかす",
+   "politeJa": "お湯を沸かします",
+   "noun": "oyu",
+   "particle": "o",
+   "verb": "wakasu",
+   "verbJa": "沸かす",
+   "verbSense": "bring to the boil, heat (water, a bath)",
+   "englishVerb": "boil",
+   "trap": "'Boil' points to niru or yuderu, which are for cooking food (yuderu for eggs and pasta). Water is heated with wakasu, and it's usually called oyu (hot water) already; mizu o wakasu is also fine.",
+   "partners": [
+    "ofuro (bath)",
+    "mizu (water)"
+   ],
+   "flags": [],
+   "use": "For putting the kettle on, for tea, coffee or instant noodles: oyu wakasu kedo, nanka nomu? Casual speech drops o; when it's ready, oyu waita (the water's boiled).",
+   "notes": "The kettle is a yakan or a denki ketoru (electric kettle); the same verb heats the bath (ofuro o wakasu).",
+   "example": {
+    "romaji": "oyu wakasu kedo, nanka nomu?",
+    "ja": "お湯沸かすけど、なんか飲む？",
+    "english": "I'm putting the kettle on, want anything?"
+   },
+   "examplePolite": {
+    "romaji": "oyu o wakashimasu kedo, nanika nomimasu ka?",
+    "ja": "お湯を沸かしますけど、何か飲みますか？",
+    "english": "I'm boiling some water. Would you like something to drink?"
+   }
+  },
+  {
+   "id": "c-teeburu-o-fuku",
+   "romaji": "teeburu o fuku",
+   "polite": "teeburu o fukimasu",
+   "english": "wipe the table",
+   "ja": "テーブルを拭く",
+   "kana": "テーブルをふく",
+   "politeJa": "テーブルを拭きます",
+   "noun": "teeburu",
+   "particle": "o",
+   "verb": "fuku",
+   "verbJa": "拭く",
+   "verbSense": "wipe (with a cloth or towel)",
+   "englishVerb": "wipe",
+   "trap": null,
+   "partners": [
+    "te (hands)",
+    "ase (sweat)",
+    "yuka (floor)",
+    "megane (glasses)"
+   ],
+   "flags": [],
+   "use": "A small chore before and after meals, usually a request: teeburu fuite (give the table a wipe). Casual speech drops o; the cloth is a daifukin (table-wiping cloth) or a damp towel.",
+   "notes": "souji suru is for a room or the whole house; a table just gets a wipe.",
+   "example": {
+    "romaji": "chotto teeburu fuite kureru?",
+    "ja": "ちょっとテーブル拭いてくれる？",
+    "english": "Can you give the table a wipe?"
+   },
+   "examplePolite": {
+    "romaji": "chotto teeburu o fuite moraemasu ka?",
+    "ja": "ちょっとテーブルを拭いてもらえますか？",
+    "english": "Could you wipe the table, please?"
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-bangou-o-oshieru",
+   "romaji": "bangou o oshieru",
+   "english": "give someone your number",
+   "chunk": "Numbers and messages",
+   "recent": true
+  },
+  {
+   "id": "c-meeru-o-okuru",
+   "romaji": "meeru o okuru",
+   "english": "send an email",
+   "chunk": "Numbers and messages",
+   "recent": true
+  },
+  {
+   "id": "c-meeru-ga-kuru",
+   "romaji": "meeru ga kuru",
+   "english": "get an email",
+   "chunk": "Numbers and messages",
+   "recent": true
+  },
+  {
+   "id": "c-meeru-o-kaesu",
+   "romaji": "meeru o kaesu",
+   "english": "reply to a message",
+   "chunk": "Numbers and messages",
+   "recent": true
+  },
+  {
+   "id": "c-aji-ga-suru",
+   "romaji": "aji ga suru",
+   "english": "taste (like something)",
+   "chunk": "How it tastes",
+   "recent": true
+  },
+  {
+   "id": "c-aji-ga-usui",
+   "romaji": "aji ga usui",
+   "english": "lightly seasoned; bland (needs more salt)",
+   "chunk": "How it tastes",
+   "recent": true
+  },
+  {
+   "id": "c-aji-ga-koi",
+   "romaji": "aji ga koi",
+   "english": "strongly seasoned, rich",
+   "chunk": "How it tastes",
+   "recent": true
+  },
+  {
+   "id": "c-mukae-ni-iku",
+   "romaji": "mukae ni iku",
+   "english": "go to pick someone up",
+   "chunk": "Picking someone up",
+   "recent": true
+  },
+  {
+   "id": "c-nimotsu-o-motsu",
+   "romaji": "nimotsu o motsu",
+   "english": "carry the bags",
+   "chunk": "Picking someone up",
+   "recent": true
+  },
+  {
+   "id": "c-kuruma-ni-noseru",
+   "romaji": "kuruma ni noseru",
+   "english": "give someone a lift",
+   "chunk": "Picking someone up",
+   "recent": true
+  },
+  {
+   "id": "c-kuruma-o-tomeru",
+   "romaji": "kuruma o tomeru",
+   "english": "park the car",
+   "chunk": "Picking someone up",
+   "recent": true
+  },
+  {
+   "id": "c-konbini-ni-yoru",
+   "romaji": "konbini ni yoru",
+   "english": "stop by the convenience store",
+   "chunk": "Picking someone up",
+   "recent": true
+  },
+  {
+   "id": "c-shigoto-o-yasumu",
+   "romaji": "shigoto o yasumu",
+   "english": "take time off work, miss work",
+   "chunk": "Breaks and time off",
+   "recent": true
+  },
+  {
+   "id": "c-yasumi-o-toru",
+   "romaji": "yasumi o toru",
+   "english": "take time off",
+   "chunk": "Breaks and time off",
+   "recent": true
+  },
+  {
+   "id": "c-kyuukei-o-toru",
+   "romaji": "kyuukei o toru",
+   "english": "take a break",
+   "chunk": "Breaks and time off",
+   "recent": true
+  },
+  {
+   "id": "c-kaisha-o-yameru",
+   "romaji": "kaisha o yameru",
+   "english": "quit one's job",
+   "chunk": "Breaks and time off",
+   "recent": true
+  },
+  {
+   "id": "c-hito-ga-ooi",
+   "romaji": "hito ga ooi",
+   "english": "be crowded, lots of people",
+   "chunk": "Out and about",
+   "recent": true
+  },
+  {
+   "id": "c-ninki-ga-aru",
+   "romaji": "ninki ga aru",
+   "english": "be popular",
+   "chunk": "Out and about",
+   "recent": true
+  },
+  {
+   "id": "c-ii-fun-iki",
+   "romaji": "ii fun'iki",
+   "english": "a nice atmosphere, good vibe",
+   "chunk": "Out and about",
+   "recent": true
+  },
+  {
+   "id": "c-hyouban-ga-ii",
+   "romaji": "hyouban ga ii",
+   "english": "have a good reputation",
+   "chunk": "Out and about",
+   "recent": true
+  },
+  {
+   "id": "c-nimotsu-ga-omoi",
+   "romaji": "nimotsu ga omoi",
+   "english": "the bags are heavy",
+   "chunk": "Out and about",
+   "recent": true
+  },
+  {
+   "id": "c-orei-o-iu",
+   "romaji": "orei o iu",
+   "english": "thank someone, say thanks",
+   "chunk": "Manners and thanks",
+   "recent": true
+  },
+  {
+   "id": "c-keigo-o-tsukau",
+   "romaji": "keigo o tsukau",
+   "english": "speak politely, use honorifics",
+   "chunk": "Manners and thanks",
+   "recent": true
+  },
+  {
+   "id": "c-ki-o-tsukau",
+   "romaji": "ki o tsukau",
+   "english": "be considerate, go to trouble",
+   "chunk": "Manners and thanks",
+   "recent": true
+  },
+  {
+   "id": "c-osewa-ni-naru",
+   "romaji": "osewa ni naru",
+   "english": "be looked after, be indebted",
+   "chunk": "Manners and thanks",
+   "recent": true
+  },
+  {
+   "id": "c-gochisou-ni-naru",
+   "romaji": "gochisou ni naru",
+   "english": "be treated (to a meal)",
+   "chunk": "Manners and thanks",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "yuki",
+   "okaasan"
+  ],
+  "format": "monologue"
+ }
+}

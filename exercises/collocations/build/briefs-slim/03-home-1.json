@@ -1,0 +1,255 @@
+{
+ "script": 3,
+ "of": 94,
+ "stage": 1,
+ "chunkId": "home-1",
+ "label": "Out and back",
+ "topic": "Home & daily routine",
+ "rationale": "Leaving the house, stepping outside, running errands and getting home (late or not): the trip that starts and ends every day.",
+ "mixUps": "The particle shows direction: o for the place you leave (uchi o deru), ni for where you end up or what you go to do (soto ni deru, uchi ni kaeru, kaimono ni iku). 'Go home' is kaeru, because uchi ni iku means visiting someone's house.",
+ "targets": [
+  {
+   "id": "c-uchi-ni-kaeru",
+   "romaji": "uchi ni kaeru",
+   "polite": "uchi ni kaerimasu",
+   "english": "go home, get home",
+   "ja": "うちに帰る",
+   "kana": "うちにかえる",
+   "politeJa": "うちに帰ります",
+   "noun": "uchi",
+   "particle": "ni",
+   "verb": "kaeru",
+   "verbJa": "帰る",
+   "verbSense": "go back to where you belong (home, your country)",
+   "englishVerb": "go",
+   "trap": "Not uchi ni iku for going home yourself: iku is for going to someone else's place (tomodachi no uchi ni iku) or taking a friend along to yours (uchi iku?). Your own return home is kaeru, which also covers 'come home' and 'get home'.",
+   "partners": [
+    "jikka (parents' home)",
+    "kuni (home country)"
+   ],
+   "flags": [],
+   "use": "Covers 'go home', 'come home' and 'get home': mou kaeru (I'm off home), uchi kaettara (once I'm home). uchi and ni are often dropped. mou kaetteru means they've already gone home, while ima kaetteru is casual for 'I'm on my way home' (also ima kaeri, kaeru tochuu).",
+   "notes": "Going back somewhere that isn't home (your desk, your seat) is modoru; for the office after a client visit, both kaisha ni modoru and kaisha ni kaeru are heard.",
+   "example": {
+    "romaji": "mou uchi kaetta?",
+    "ja": "もううち帰った？",
+    "english": "Are you home yet?"
+   },
+   "examplePolite": {
+    "romaji": "kyou wa nanji goro uchi ni kaerimasu ka?",
+    "ja": "今日は何時ごろうちに帰りますか？",
+    "english": "Around what time are you going home today?"
+   }
+  },
+  {
+   "id": "c-uchi-o-deru",
+   "romaji": "uchi o deru",
+   "polite": "uchi o demasu",
+   "english": "leave the house",
+   "ja": "うちを出る",
+   "kana": "うちをでる",
+   "politeJa": "うちを出ます",
+   "noun": "uchi",
+   "particle": "o",
+   "verb": "deru",
+   "verbJa": "出る",
+   "verbSense": "go out, leave; also come out, appear",
+   "englishVerb": "leave",
+   "trap": "English 'leave' leads to saru or hanareru, which sound like leaving for good (uchi o hanareru = leave home to live elsewhere); heading out for the day is deru: uchi o deru, and uchi kara deru is also fine.",
+   "partners": [
+    "heya (room)",
+    "kaisha (office)",
+    "mise (shop)",
+    "eki (station)"
+   ],
+   "flags": [],
+   "use": "For setting off from home, usually saying or asking when: nanji ni uchi deru?, ima uchi deta (I've just left). Casual speech drops o; dekakeru (go out) is the single-verb alternative.",
+   "notes": "Said with ie instead, ie o deru can mean moving out for good; iede is running away from home.",
+   "example": {
+    "romaji": "nanji ni uchi deru?",
+    "ja": "何時にうち出る？",
+    "english": "What time are you leaving the house?"
+   },
+   "examplePolite": {
+    "romaji": "nanji ni uchi o demasu ka?",
+    "ja": "何時にうちを出ますか？",
+    "english": "What time do you leave the house?"
+   }
+  },
+  {
+   "id": "c-soto-ni-deru",
+   "romaji": "soto ni deru",
+   "polite": "soto ni demasu",
+   "english": "go outside, step out",
+   "ja": "外に出る",
+   "kana": "そとにでる",
+   "politeJa": "外に出ます",
+   "noun": "soto",
+   "particle": "ni",
+   "verb": "deru",
+   "verbJa": "出る",
+   "verbSense": "go out, leave; also come out, appear",
+   "englishVerb": "go out",
+   "trap": null,
+   "partners": [
+    "beranda (balcony)",
+    "niwa (garden)",
+    "rouka (hallway)"
+   ],
+   "flags": [],
+   "use": "For stepping out of a building or room, often just for a moment: chotto soto deyou (let's go out for a bit, get some air). Casual speech drops ni (soto deta); setting off for the day is uchi o deru or dekakeru.",
+   "notes": "Going inside is naka ni hairu (back in: naka ni modoru). soto also means away from home: soto de taberu (eat out).",
+   "example": {
+    "romaji": "samui kara soto detakunai.",
+    "ja": "寒いから外出たくない。",
+    "english": "It's cold, I don't want to go out."
+   },
+   "examplePolite": {
+    "romaji": "samui node, soto ni detakunai desu.",
+    "ja": "寒いので、外に出たくないです。",
+    "english": "It's cold, so I don't want to go outside."
+   }
+  },
+  {
+   "id": "c-kaimono-ni-iku",
+   "romaji": "kaimono ni iku",
+   "polite": "kaimono ni ikimasu",
+   "english": "go shopping",
+   "ja": "買い物に行く",
+   "kana": "かいものにいく",
+   "politeJa": "買い物に行きます",
+   "noun": "kaimono",
+   "particle": "ni",
+   "verb": "iku",
+   "verbJa": "行く",
+   "verbSense": "go (kaimono = kau 'buy' + mono 'things')",
+   "englishVerb": "go",
+   "trap": "Not kaimono suru ni iku: the noun goes straight before ni iku (kaimono ni iku); with the verb it's the stem, kaimono shi ni iku.",
+   "partners": [
+    "kaidashi (grocery run)",
+    "sanpo (a walk)",
+    "ryokou (a trip)",
+    "gohan (a meal out)"
+   ],
+   "flags": [],
+   "use": "Covers groceries as much as clothes: chotto kaimono itte kuru (I'm popping out to the shops). Casual speech drops ni. kaimono itteru means someone has gone shopping and is out now (okaasan nara kaimono itteru yo), not on the way; kaimono shiteru is being in the middle of shopping.",
+   "notes": "shoppingu (the loanword) leans to browsing malls for fun; kaimono covers any buying errand.",
+   "example": {
+    "romaji": "kaimono iku kedo, nanka iru?",
+    "ja": "買い物行くけど、なんかいる？",
+    "english": "I'm going shopping, need anything?"
+   },
+   "examplePolite": {
+    "romaji": "kaimono ni ikimasu kedo, nanika irimasu ka?",
+    "ja": "買い物に行きますけど、何かいりますか？",
+    "english": "I'm going shopping. Do you need anything?"
+   }
+  },
+  {
+   "id": "c-kaeri-ga-osoi",
+   "romaji": "kaeri ga osoi",
+   "polite": "kaeri ga osoi desu",
+   "english": "get home late",
+   "ja": "帰りが遅い",
+   "kana": "かえりがおそい",
+   "politeJa": "帰りが遅いです",
+   "noun": "kaeri",
+   "particle": "ga",
+   "verb": "osoi",
+   "verbJa": "遅い",
+   "verbSense": "late; also slow",
+   "englishVerb": "late",
+   "trap": "Not okureru for 'I'll be late tonight': okureru is being late for something with a set time (a train, a meeting). Getting home late is kaeri ga osoku naru, or just osoku naru.",
+   "partners": [
+    "asa (mornings: a late riser)",
+    "henji (reply)",
+    "yuuhan (dinner)"
+   ],
+   "flags": [],
+   "use": "Said about family, worried or annoyed: otousan kaeri osoi ne. Your own heads-up is kyou kaeri osoku naru (I'll be home late today), with ga usually dropped.",
+   "notes": "The opposite is kaeri ga hayai; the same noun gives kaeri ni (on the way home): kaeri ni konbini yoru.",
+   "example": {
+    "romaji": "kyou kaeri osoku naru kara.",
+    "ja": "今日帰り遅くなるから。",
+    "english": "I'll be home late today."
+   },
+   "examplePolite": {
+    "romaji": "kyou wa kaeri ga osoku narimasu.",
+    "ja": "今日は帰りが遅くなります。",
+    "english": "I'll be home late today."
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-ame-ga-furu",
+   "romaji": "ame ga furu",
+   "english": "it rains; rain falls",
+   "chunk": "Rain and snow",
+   "recent": true
+  },
+  {
+   "id": "c-yuki-ga-furu",
+   "romaji": "yuki ga furu",
+   "english": "it snows",
+   "chunk": "Rain and snow",
+   "recent": true
+  },
+  {
+   "id": "c-ame-ga-yamu",
+   "romaji": "ame ga yamu",
+   "english": "the rain stops",
+   "chunk": "Rain and snow",
+   "recent": true
+  },
+  {
+   "id": "c-kasa-o-sasu",
+   "romaji": "kasa o sasu",
+   "english": "put up (open) an umbrella; have an umbrella up",
+   "chunk": "Rain and snow",
+   "recent": true
+  },
+  {
+   "id": "c-ame-ni-furareru",
+   "romaji": "ame ni furareru",
+   "english": "get caught in the rain",
+   "chunk": "Rain and snow",
+   "recent": true
+  },
+  {
+   "id": "c-onaka-ga-suku",
+   "romaji": "onaka ga suku",
+   "english": "get hungry",
+   "chunk": "Hungry, full, thirsty",
+   "recent": true
+  },
+  {
+   "id": "c-onaka-ga-ippai",
+   "romaji": "onaka ga ippai",
+   "english": "be full (after eating)",
+   "chunk": "Hungry, full, thirsty",
+   "recent": true
+  },
+  {
+   "id": "c-nodo-ga-kawaku",
+   "romaji": "nodo ga kawaku",
+   "english": "get thirsty",
+   "chunk": "Hungry, full, thirsty",
+   "recent": true
+  },
+  {
+   "id": "c-onaka-ga-heru",
+   "romaji": "onaka ga heru",
+   "english": "get hungry (blunter, casual)",
+   "chunk": "Hungry, full, thirsty",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "yuki",
+   "mai"
+  ],
+  "format": "dialogue"
+ }
+}

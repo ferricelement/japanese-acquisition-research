@@ -1,0 +1,345 @@
+{
+ "script": 56,
+ "of": 94,
+ "stage": 3,
+ "chunkId": "people-7",
+ "label": "Favours, sorry, cheer up",
+ "topic": "People & talk",
+ "rationale": "Asking a favour, apologising for the trouble or worry you caused, and cheering someone up.",
+ "mixUps": "onegai ga aru is asking a favour and onegai o kiku is granting one. meiwaku o kakeru and shinpai o kakeru put trouble or worry on someone else, while shinpai suru means you are the one worrying. genki dashite (cheer up) is not ganbatte (hang in there).",
+ "targets": [
+  {
+   "id": "c-onegai-ga-aru",
+   "romaji": "onegai ga aru",
+   "polite": "onegai ga arimasu",
+   "english": "have a favour to ask",
+   "ja": "お願いがある",
+   "kana": "おねがいがある",
+   "politeJa": "お願いがあります",
+   "noun": "onegai",
+   "particle": "ga",
+   "verb": "aru",
+   "verbJa": "ある",
+   "verbSense": "there is; have (things, plans, something to bring up)",
+   "englishVerb": "ask",
+   "trap": "English 'ask a favour' leads to onegai o kiku, which means granting one; asking opens with onegai ga aru (tanomi ga aru is a blunter twin, mostly heard from men).",
+   "partners": [
+    "tanomi (request)",
+    "hanashi (something to talk about)",
+    "shitsumon (question)",
+    "youji (errand)"
+   ],
+   "flags": [],
+   "use": "Opens a request and usually trails off with n da kedo: chotto onegai ga aru n da kedo... Natives often keep the ga in this one.",
+   "notes": "hanashi ga aru n da kedo = I need to talk to you; soudan ga aru n da kedo = can I ask your advice?",
+   "example": {
+    "romaji": "chotto onegai ga aru n da kedo.",
+    "ja": "ちょっとお願いがあるんだけど。",
+    "english": "Can I ask you a favour?"
+   },
+   "examplePolite": {
+    "romaji": "chotto onegai ga aru n desu kedo.",
+    "ja": "ちょっとお願いがあるんですけど。",
+    "english": "I have a small favour to ask."
+   }
+  },
+  {
+   "id": "c-meiwaku-o-kakeru",
+   "romaji": "meiwaku o kakeru",
+   "polite": "meiwaku o kakemasu",
+   "english": "cause someone trouble",
+   "ja": "迷惑をかける",
+   "kana": "めいわくをかける",
+   "politeJa": "迷惑をかけます",
+   "noun": "meiwaku",
+   "particle": "o",
+   "verb": "kakeru",
+   "verbJa": "かける",
+   "verbSense": "hang or put something onto something; here, put a burden on someone",
+   "englishVerb": "cause",
+   "trap": "English 'cause' leads to okosu: mondai o okosu is fine for causing an incident, but meiwaku o okosu doesn't work; trouble you put on others is kakeru (meiwaku suru means you are the one being bothered).",
+   "partners": [
+    "kurou (hardship: kurou kakete gomen)",
+    "tesuu (bother: otesuu o okake shimasu, polite/business)"
+   ],
+   "flags": [],
+   "use": "Mostly in apologies: meiwaku kakete gomen (sorry for the trouble), meiwaku kaketakunai (I don't want to be a burden). Bare meiwaku da means 'what a nuisance'.",
+   "notes": "In business you'll hear the humble gomeiwaku o okake shite sumimasen.",
+   "example": {
+    "romaji": "meiwaku kakete gomen ne.",
+    "ja": "迷惑かけてごめんね。",
+    "english": "Sorry for all the trouble."
+   },
+   "examplePolite": {
+    "romaji": "gomeiwaku o kakete sumimasen.",
+    "ja": "ご迷惑をかけてすみません。",
+    "english": "I'm sorry for the trouble."
+   }
+  },
+  {
+   "id": "c-shinpai-o-kakeru",
+   "romaji": "shinpai o kakeru",
+   "polite": "shinpai o kakemasu",
+   "english": "make someone worry",
+   "ja": "心配をかける",
+   "kana": "しんぱいをかける",
+   "politeJa": "心配をかけます",
+   "noun": "shinpai",
+   "particle": "o",
+   "verb": "kakeru",
+   "verbJa": "かける",
+   "verbSense": "hang or put something onto something; here, put worry on someone",
+   "englishVerb": "worry",
+   "trap": "English 'worry you' leads to shinpai suru, which means you are the one worrying; worrying someone else is shinpai o kakeru (shinpai sasete gomen also works).",
+   "partners": [
+    "meiwaku (trouble)",
+    "kurou (hardship)"
+   ],
+   "flags": [],
+   "use": "Said apologetically after you've had people worried: shinpai kakete gomen. Different from shinpai shinaide (don't worry), where the other person is the worrier.",
+   "notes": null,
+   "example": {
+    "romaji": "shinpai kakete gomen ne.",
+    "ja": "心配かけてごめんね。",
+    "english": "Sorry I made you worry."
+   },
+   "examplePolite": {
+    "romaji": "shinpai o kakete sumimasen.",
+    "ja": "心配をかけてすみません。",
+    "english": "I'm sorry to have worried you."
+   }
+  },
+  {
+   "id": "c-genki-o-dasu",
+   "romaji": "genki o dasu",
+   "polite": "genki o dashimasu",
+   "english": "cheer up",
+   "ja": "元気を出す",
+   "kana": "げんきをだす",
+   "politeJa": "元気を出します",
+   "noun": "genki",
+   "particle": "o",
+   "verb": "dasu",
+   "verbJa": "出す",
+   "verbSense": "put out, bring out",
+   "englishVerb": "cheer up",
+   "trap": "For 'cheer up', learners say ganbatte, which means 'hang in there' and can feel like pressure to someone who's sad. genki ni natte is said mostly to someone ill (get well). For someone down right now, the set phrase is genki dashite.",
+   "partners": [
+    "yuuki (courage)",
+    "chikara (strength)",
+    "koe (voice)"
+   ],
+   "flags": [],
+   "use": "Almost always the request genki dashite (cheer up!), said to someone who is down. The intransitive genki ga deru means feel better or perk up: kore tabetara genki deta.",
+   "notes": "Pairs with genki ga nai (feeling down), which is in the describing-people set. To a superior, genki o dashite kudasai can sound presumptuous, like ganbatte kudasai.",
+   "example": {
+    "romaji": "daijoubu da yo, genki dashite.",
+    "ja": "大丈夫だよ、元気出して。",
+    "english": "It's okay, cheer up."
+   },
+   "examplePolite": {
+    "romaji": "daijoubu desu yo, genki o dashite kudasai.",
+    "ja": "大丈夫ですよ、元気を出してください。",
+    "english": "It's okay, please cheer up."
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-tomodachi-ni-au",
+   "romaji": "tomodachi ni au",
+   "english": "see a friend, meet up",
+   "chunk": "Seeing people",
+   "recent": true
+  },
+  {
+   "id": "c-uchi-made-okuru",
+   "romaji": "ie made okuru",
+   "english": "see or drive someone home",
+   "chunk": "Seeing people",
+   "recent": true
+  },
+  {
+   "id": "c-jikka-ni-kaeru",
+   "romaji": "jikka ni kaeru",
+   "english": "go home to your parents'",
+   "chunk": "Seeing people",
+   "recent": true
+  },
+  {
+   "id": "c-tanjoubi-o-iwau",
+   "romaji": "tanjoubi o iwau",
+   "english": "celebrate a birthday",
+   "chunk": "Seeing people",
+   "recent": true
+  },
+  {
+   "id": "c-nomi-ni-iku",
+   "romaji": "nomi ni iku",
+   "english": "go out for drinks",
+   "chunk": "Drinking out",
+   "recent": true
+  },
+  {
+   "id": "c-tabako-o-suu",
+   "romaji": "tabako o suu",
+   "english": "smoke (a cigarette)",
+   "chunk": "Drinking out",
+   "recent": true
+  },
+  {
+   "id": "c-osake-ga-yowai",
+   "romaji": "osake ga yowai",
+   "english": "can't hold one's drink",
+   "chunk": "Drinking out",
+   "recent": true
+  },
+  {
+   "id": "c-osake-ga-tsuyoi",
+   "romaji": "osake ga tsuyoi",
+   "english": "can hold one's drink",
+   "chunk": "Drinking out",
+   "recent": true
+  },
+  {
+   "id": "c-denwa-o-kakeru",
+   "romaji": "denwa o kakeru",
+   "english": "make a phone call",
+   "chunk": "Phone calls",
+   "recent": true
+  },
+  {
+   "id": "c-denwa-ni-deru",
+   "romaji": "denwa ni deru",
+   "english": "answer the phone",
+   "chunk": "Phone calls",
+   "recent": true
+  },
+  {
+   "id": "c-denwa-o-kiru",
+   "romaji": "denwa o kiru",
+   "english": "hang up the phone",
+   "chunk": "Phone calls",
+   "recent": true
+  },
+  {
+   "id": "c-denwa-ga-naru",
+   "romaji": "denwa ga naru",
+   "english": "the phone rings",
+   "chunk": "Phone calls",
+   "recent": true
+  },
+  {
+   "id": "c-denwa-ga-aru",
+   "romaji": "denwa ga aru",
+   "english": "(someone) called, there was a call from X",
+   "chunk": "Phone calls",
+   "recent": true
+  },
+  {
+   "id": "c-denwa-ga-kakaru",
+   "romaji": "denwa ga kakaru",
+   "english": "get a phone call",
+   "chunk": "Phone calls",
+   "recent": true
+  },
+  {
+   "id": "c-eki-ni-tsuku",
+   "romaji": "eki ni tsuku",
+   "english": "get to the station",
+   "chunk": "On the way",
+   "recent": true
+  },
+  {
+   "id": "c-michi-ga-komu",
+   "romaji": "michi ga komu",
+   "english": "the traffic is heavy",
+   "chunk": "On the way",
+   "recent": true
+  },
+  {
+   "id": "c-seki-ga-aku",
+   "romaji": "seki ga aku",
+   "english": "a seat frees up (aiteru = a seat is free)",
+   "chunk": "On the way",
+   "recent": true
+  },
+  {
+   "id": "c-eki-o-norisugosu",
+   "romaji": "eki o norisugosu",
+   "english": "miss your stop",
+   "chunk": "On the way",
+   "recent": true
+  },
+  {
+   "id": "c-youji-ga-aru",
+   "romaji": "youji ga aru",
+   "english": "have something to do",
+   "chunk": "Can't make it",
+   "recent": true
+  },
+  {
+   "id": "c-asa-ga-hayai",
+   "romaji": "asa ga hayai",
+   "english": "have an early start",
+   "chunk": "Can't make it",
+   "recent": true
+  },
+  {
+   "id": "c-yotei-ga-hairu",
+   "romaji": "yotei ga hairu",
+   "english": "have plans, get booked",
+   "chunk": "Can't make it",
+   "recent": true
+  },
+  {
+   "id": "c-senyaku-ga-aru",
+   "romaji": "sen'yaku ga aru",
+   "english": "have prior plans",
+   "chunk": "Can't make it",
+   "recent": true
+  },
+  {
+   "id": "c-gomi-o-suteru",
+   "romaji": "gomi o suteru",
+   "english": "throw away rubbish",
+   "chunk": "Trash and tidying",
+   "recent": true
+  },
+  {
+   "id": "c-gomi-o-dasu",
+   "romaji": "gomi o dasu",
+   "english": "take out the trash",
+   "chunk": "Trash and tidying",
+   "recent": true
+  },
+  {
+   "id": "c-heya-o-katazukeru",
+   "romaji": "heya o katazukeru",
+   "english": "tidy up one's room",
+   "chunk": "Trash and tidying",
+   "recent": true
+  },
+  {
+   "id": "c-heya-ga-chirakaru",
+   "romaji": "heya ga chirakaru",
+   "english": "(a room) gets messy, is a mess",
+   "chunk": "Trash and tidying",
+   "recent": true
+  },
+  {
+   "id": "c-moto-ni-modosu",
+   "romaji": "moto ni modosu",
+   "english": "put back (as it was)",
+   "chunk": "Trash and tidying",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "yuki",
+   "kenji"
+  ],
+  "format": "dialogue"
+ }
+}

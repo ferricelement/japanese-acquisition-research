@@ -1,0 +1,833 @@
+{
+ "applied": [
+  {
+   "script": 3,
+   "kind": "line",
+   "index": 11,
+   "sub": 0,
+   "field": "romaji",
+   "value": "mou kaerina yo. shigoto wa ashita!",
+   "why": "Heard right after Mai's cat-food line, 'sore wa ashita' most naturally points to the shopping (do it tomorrow), which clashes with lines 13-15. Naming the work removes the ambiguity the gist relies on."
+  },
+  {
+   "script": 3,
+   "kind": "line",
+   "index": 11,
+   "sub": 0,
+   "field": "ja",
+   "value": "もう帰りなよ。仕事は明日！",
+   "why": "Kept in step with the romaji change: the work, not the shopping, waits till tomorrow."
+  },
+  {
+   "script": 3,
+   "kind": "line",
+   "index": 11,
+   "sub": 0,
+   "field": "kana",
+   "value": "もうかえりなよ。しごとはあした！",
+   "why": "Kept in step with the romaji change."
+  },
+  {
+   "script": 3,
+   "kind": "line",
+   "index": 11,
+   "sub": 0,
+   "field": "english",
+   "value": "Just go home already. The work can wait till tomorrow!",
+   "why": "The English 'That can wait' had the same ambiguity. It now matches the new line."
+  },
+  {
+   "script": 3,
+   "kind": "addNewWord",
+   "index": 0,
+   "sub": 0,
+   "field": "newWords",
+   "value": "shigoto | 仕事 | work, your job (shigoto wa ashita = the work can wait till tomorrow)",
+   "why": "shigoto is new in line 11 and is not a stage-1 word."
+  },
+  {
+   "script": 3,
+   "kind": "question",
+   "index": 1,
+   "sub": 0,
+   "field": "explanation",
+   "value": "Line 2: Mai expects to be home late again (kyou mo kaeri osoku naru naa). Line 9: Yuki suggests stepping out (chotto soto ni deyou yo), which reminds Mai that she has to go shopping because she's out of cat food (line 10: kaimono ni ikanai to. neko no gohan, mou nai n da). Yuki tells her to go home and leave the work till tomorrow (line 11: mou kaerina yo. shigoto wa ashita!), Mai agrees (line 12: kyou wa mou uchi ni kaeru!), and Yuki says she'll come shopping too and asks to come over (line 13). A is wrong: Mai doesn't stay, and Yuki goes shopping with her, not for her (kaimono, watashi mo iku yo). B is wrong: they never step out for food and come back. The work waits till tomorrow (line 11), and Mai goes home.",
+   "why": "Quotes the revised line 11."
+  },
+  {
+   "script": 3,
+   "kind": "question",
+   "index": 4,
+   "sub": 0,
+   "field": "explanation",
+   "value": "Line 9: soto ni deru is getting out of the building, and chotto makes it just for a bit. Yuki says it right after Mai admits she hasn't stepped outside all day (line 7: soto ni mo detenai no? / line 8: detenai yo), and adds that the rain has stopped (ame mo yanda shi). B is wrong: going home is kaeru, and Yuki only tells her to go home later, in line 11 (mou kaerina yo), once Mai remembers the cat food. C reads it as English 'go out' for an evening out. soto ni deru only means stepping outside, and chotto keeps it short.",
+   "why": "The old text said Yuki only uses kaeru later, in line 11. But she says it in line 1 (mada kaeranai no?), and the question 2 explanation cites that line, so the two explanations contradicted each other."
+  },
+  {
+   "script": 5,
+   "kind": "question",
+   "index": 3,
+   "sub": 0,
+   "field": "english",
+   "value": "In the first call, Yuki offers to drive to the station, and her mother turns her down. What did her mother say?",
+   "why": "This happens twice: line 5 leads to line 6, and line 11 leads to line 12 (ii no, ii no...). Without naming the call, the cue fits both moments, and a listener who remembers the second refusal finds no matching choice."
+  },
+  {
+   "script": 7,
+   "kind": "question",
+   "index": 2,
+   "sub": 0,
+   "field": "romaji",
+   "value": "kaze dete kita ne. daijoubu?",
+   "why": "Heard on its own, 'kaze, daijoubu?' is the stock phrase for 'How's your cold?' (風邪). 'kaze dete kita ne' (the wind's picking up) is what a friend would actually say, and it can only mean wind."
+  },
+  {
+   "script": 7,
+   "kind": "question",
+   "index": 2,
+   "sub": 0,
+   "field": "ja",
+   "value": "風出てきたね。大丈夫？",
+   "why": "Matches the revised romaji cue."
+  },
+  {
+   "script": 7,
+   "kind": "question",
+   "index": 2,
+   "sub": 0,
+   "field": "kana",
+   "value": "かぜでてきたね。だいじょうぶ？",
+   "why": "Matches the revised romaji cue."
+  },
+  {
+   "script": 7,
+   "kind": "question",
+   "index": 2,
+   "sub": 0,
+   "field": "english",
+   "value": "It's a warm evening, and you and Kenta are sitting by the river when a breeze picks up. He says, \"kaze dete kita ne. daijoubu?\" (It's getting breezy. You okay?) Tell him you're fine: it feels nice.",
+   "why": "The prompt quotes the cue, so it has to change with it."
+  },
+  {
+   "script": 7,
+   "kind": "addNewWord",
+   "index": 0,
+   "sub": 0,
+   "field": "newWords",
+   "value": "iu | 言う | say (nan to iimashita ka = what did they say?)",
+   "why": "Two spoken question cues use iu (iimashita ka), and iu isn't a Stage 1 word. Scripts 6, 8 and 9 list it; this script left it out."
+  },
+  {
+   "script": 8,
+   "kind": "question",
+   "index": 3,
+   "sub": 0,
+   "field": "explanation",
+   "value": "Line 5: mada mitenai means 'I haven't seen it yet'. The -te nai form with mada says it hasn't happened so far. Line 6 confirms the plan: Sora asks hon yonde kara eiga miru no? (So you'll read the book, then see the film?) and she says un. A is wrong: she does mean to see it, once she's read the book; 'I'm not going to watch it' would be minai. And don't say mada minai for 'I haven't watched it', the usual slip for English speakers: plain -nai with mada is a decision ('I'm not watching it yet'), not a report. C is wrong because Mai says uun (no). Sora is the one who has seen it, yesterday (line 4: kinou mita n da).",
+   "why": "The old explanation said choice A ('she isn't going to watch it; the book is enough') is close to mada minai. But mada minai means 'not watching it yet', a plan to watch later, so it doesn't match A at all and confuses the teaching point."
+  },
+  {
+   "script": 8,
+   "kind": "meta",
+   "index": 0,
+   "sub": 0,
+   "field": "setting",
+   "value": "A rainy Saturday afternoon at the café where Sora works. There are no other customers, so he has been singing behind the counter. Mai, a regular, sits nearby with a book.",
+   "why": "The setting says there are no customers and then puts Mai, a regular customer, in the café."
+  },
+  {
+   "script": 10,
+   "kind": "question",
+   "index": 2,
+   "sub": 0,
+   "field": "explanation",
+   "value": "Time is something there is or isn't, so it's jikan ga nai, not jikan o motte nai. Kenta says it to himself in lines 1 and 17 (jikan nai!) and politely to Satou-san in line 3 (ima chotto jikan ga nai n desu). It's about right now, so use jikan, not hima: hima ga nai means no free time these days (line 5). Mou jikan nai! means 'I'm out of time!'. With a friend, drop ga and end with n da.",
+   "why": "The explanation says Kenta says 'mou jikan nai' in line 17, but he actually says 'mou hachiji juppun! jikan nai!' The phrase isn't in the transcript."
+  },
+  {
+   "script": 10,
+   "kind": "addNewWord",
+   "index": 0,
+   "sub": 0,
+   "field": "newWords",
+   "value": "iu | 言う | say (nan to iimashita ka? = what did he say?)",
+   "why": "Iu (Stage 2) is heard in the 'heard' question (nan to iimashita ka?) but has no gloss. Scripts 11-13 list it for the same question."
+  },
+  {
+   "script": 13,
+   "kind": "line",
+   "index": 11,
+   "sub": 0,
+   "field": "romaji",
+   "value": "ofuro haitte ii yo.",
+   "why": "A younger brother wouldn't call his big sister by her bare name, and Kenji says neechan in every other script. Dropping the name keeps the line natural without adding a new word."
+  },
+  {
+   "script": 13,
+   "kind": "line",
+   "index": 11,
+   "sub": 0,
+   "field": "ja",
+   "value": "お風呂入っていいよ。",
+   "why": "Matches the romaji change (Kenji no longer calls his big sister 'Yuki')."
+  },
+  {
+   "script": 13,
+   "kind": "line",
+   "index": 11,
+   "sub": 0,
+   "field": "kana",
+   "value": "おふろはいっていいよ。",
+   "why": "Matches the romaji change (Kenji no longer calls his big sister 'Yuki')."
+  },
+  {
+   "script": 13,
+   "kind": "line",
+   "index": 11,
+   "sub": 0,
+   "field": "english",
+   "value": "You can get in the bath now.",
+   "why": "Matches the romaji change (Kenji no longer calls his big sister 'Yuki')."
+  },
+  {
+   "script": 13,
+   "kind": "addNewWord",
+   "index": 0,
+   "sub": 0,
+   "field": "newWords",
+   "value": "osoi | 遅い | late, slow (osoi yo! = you took ages!)",
+   "why": "Osoi (Stage 3) is used in line 12 (osoi yo!), but it isn't a target, a review word or a new word."
+  },
+  {
+   "script": 13,
+   "kind": "choice",
+   "index": 6,
+   "sub": 3,
+   "field": "romaji",
+   "value": "shawaa abite, hige kezutte, ha migaite.",
+   "why": "The old wrong choice, 'kao aratte', is just as natural there as the right answer, which breaks the heard-question rule. Kezuru is the dictionary 'shave' (wood, a pencil), a real trap for an English speaker, and it's clearly wrong for a beard."
+  },
+  {
+   "script": 13,
+   "kind": "choice",
+   "index": 6,
+   "sub": 3,
+   "field": "english",
+   "value": "Showering, shaving down my beard, brushing my teeth.",
+   "why": "Gloss for the new wrong choice, hige kezutte."
+  },
+  {
+   "script": 13,
+   "kind": "question",
+   "index": 6,
+   "sub": 0,
+   "field": "explanation",
+   "value": "Line 13: hige sotte. soru means shaving hair off with a razor, and in line 14 Yuki repeats it to tease him (hige sotta no? doko ni hige aru no?). B is what English 'cut' leads to, but hige o kiru means trimming a beard with scissors, not shaving it off. C is the dictionary trap: kezuru is the 'shave' of shaving wood or a pencil down, and it's never used for hair. Stubble and beards are always soru.",
+   "why": "Rewritten to explain the new wrong choice C (kezuru instead of kao aratte)."
+  },
+  {
+   "script": 13,
+   "kind": "addNewWord",
+   "index": 0,
+   "sub": 0,
+   "field": "newWords",
+   "value": "kezuru | 削る | shave down, whittle (wood, a pencil); never used for hair",
+   "why": "The new wrong choice uses kezuru. Script 12 does the same thing: it glosses kiru (wear), a word that appears only in a wrong choice."
+  },
+  {
+   "script": 15,
+   "kind": "question",
+   "index": 2,
+   "sub": 0,
+   "field": "explanation",
+   "value": "asobi ni iku is also the everyday way to say you'll visit someone's place. In line 14 Yuki's mother says yuki no uchi ni asobi ni iku ne (I'll come over to your place), and in line 16 hachiji ni iku kara ne (I'll be there at eight). Kenta says kuru because you'd be coming to him, but you answer from where you are, so it's iku. English 'I'll come over' tempts asobi ni kuru, but that would mean Kenta is the one coming. Don't let English 'play' make asobi sound childish: adults say asobi ni iku all the time, for a visit like this or a fun day out. iku iku is the eager yes Yuki gives in line 13.",
+   "why": "The draft says asobu on its own 'sounds like kids playing', which is false (adults say kondo asobou, as the brief notes) and turns the brief's trap upside down."
+  },
+  {
+   "script": 16,
+   "kind": "modelAnswer",
+   "index": 4,
+   "sub": 1,
+   "field": "romaji",
+   "value": "un, eigo wa chotto dake hanaseru yo.",
+   "why": "Model answer 1 drops eigo, so it practises only hanaseru and not the target eigo o hanasu. eigo wa chotto dake hanaseru is the brief's own natural phrasing."
+  },
+  {
+   "script": 16,
+   "kind": "modelAnswer",
+   "index": 4,
+   "sub": 1,
+   "field": "ja",
+   "value": "うん、英語はちょっとだけ話せるよ。",
+   "why": "Keeps ja in step with the romaji fix, so the model answer contains the target collocation."
+  },
+  {
+   "script": 16,
+   "kind": "modelAnswer",
+   "index": 4,
+   "sub": 1,
+   "field": "english",
+   "value": "Yeah, I can speak a little English.",
+   "why": "The English now matches the revised model answer, which names English."
+  },
+  {
+   "script": 16,
+   "kind": "question",
+   "index": 4,
+   "sub": 0,
+   "field": "answer",
+   "value": "Say you can speak a little English, with hanasu in its can-form: un, eigo wa chotto dake hanaseru yo.",
+   "why": "The answer quotes model answer 1, so it has to match the revised wording that includes eigo."
+  },
+  {
+   "script": 17,
+   "kind": "question",
+   "index": 3,
+   "sub": 0,
+   "field": "explanation",
+   "value": "The everyday tummy ache is onaka ga itai, usually onaka itai in casual talk, as in Kenji's line 4 (onaka itai) and Okaasan's line 5 (onaka itai no?). The dictionary word i (stomach) is heard too (i ga itai), but onaka is the everyday word, and the natural one at the table. N da makes it the reason you've stopped eating. The second model answers the daijoubu? part, the way Kenji does in line 6 (daijoubu ja nai).",
+   "why": "The draft says i (stomach) 'belongs to medical talk', which is inaccurate: i ga itai is common in everyday speech, as the brief's trap says."
+  },
+  {
+   "script": 18,
+   "kind": "choice",
+   "index": 3,
+   "sub": 2,
+   "field": "romaji",
+   "value": "jaa, futari, tomodachi ni shita no?",
+   "why": "Mai says tomodachi dekita in the very next line (17), answering this question, so choice B was said in the audio and is a fair inference from her reply. That breaks the heard rule. It is replaced with a 'make' calque (ni suru) that nobody says."
+  },
+  {
+   "script": 18,
+   "kind": "choice",
+   "index": 3,
+   "sub": 2,
+   "field": "english",
+   "value": "So, did you two make someone your friend?",
+   "why": "Gloss for the new choice B (tomodachi ni suru = turn someone into your friend)."
+  },
+  {
+   "script": 18,
+   "kind": "question",
+   "index": 3,
+   "sub": 0,
+   "field": "explanation",
+   "value": "Line 16: Yuki asks whether the two of them have become friends with each other, so it's tomodachi ni naru: futari, tomodachi ni natta no? It's the same shape as line 6, where Mai says Yuki and Kenta gakkou de tomodachi ni natta (became friends at school). Mai answers from her own side in line 17 (tomodachi dekita yo: I've made a friend), but that's her reply, not Yuki's question. A is English 'make friends' turned into tsukuru: natives say tomodachi tsukuritai for wanting to go out and find friends, not for two people who've just hit it off. B is 'make' turned into ni suru, the 'make' partner of ni naru: tomodachi ni suru sounds like turning someone into your friend, not two people becoming friends.",
+   "why": "Explanation rewritten for the new choice B; it still points out the dekita/ni natta contrast heard in lines 16-17."
+  },
+  {
+   "script": 21,
+   "kind": "line",
+   "index": 5,
+   "sub": 0,
+   "field": "romaji",
+   "value": "shiken ka. jaa, kin'youbi wa? ...a, dame. hachiji made kaigi aru n datta.",
+   "why": "金曜日 is きんようび. In kotoba romaji, n before y takes an apostrophe (kin'youbi, as in scripts 54 and 62). Without it, kinyoubi reads as きにょうび. The ja and kana are unchanged."
+  },
+  {
+   "script": 21,
+   "kind": "choice",
+   "index": 3,
+   "sub": 3,
+   "field": "romaji",
+   "value": "a, dame. hachiji made kaigi ga iru n datta.",
+   "why": "Choice C (shigoto haitchatta) is something Yuki herself says in line 13, so a listener who remembers it could reasonably pick it. That breaks the heard rule. It is replaced with the classic aru/iru mix-up, which nobody says and is clearly wrong."
+  },
+  {
+   "script": 21,
+   "kind": "choice",
+   "index": 3,
+   "sub": 3,
+   "field": "english",
+   "value": "Oh, that's no good. I need a meeting till eight.",
+   "why": "Gloss for the new choice C: after a thing, iru is heard as 要る (need)."
+  },
+  {
+   "script": 21,
+   "kind": "question",
+   "index": 3,
+   "sub": 0,
+   "field": "explanation",
+   "value": "Line 5: a meeting on your calendar just exists, so it's kaigi ga aru (ga dropped, as usual in casual speech), and n datta adds 'oh right, I'd forgotten'. Kenji uses the same phrase in line 12 (mata kaigi aru no?). B puts English 'have' into Japanese with motsu: kaigi o motsu is at best a stiff 'hold a meeting', never a meeting you're going to. C swaps aru for iru, which is for people and animals; after a thing it's heard as iru 'need', so kaigi ga iru sounds like 'I need a meeting'. Meetings, classes and exams all take aru.",
+   "why": "Explanation rewritten for the new choice C."
+  },
+  {
+   "script": 23,
+   "kind": "question",
+   "index": 5,
+   "sub": 0,
+   "field": "explanation",
+   "value": "Line 9: jaa, ocha nomu? asoko ni mugicha aru yo. Yuki takes it in line 10 (un, ocha nomu). ocha is Japanese tea: green tea or, as here, barley tea (mugicha). B, koucha, is black tea, which is what English 'tea' usually means, but ocha on its own means Japanese tea, not black tea, and koucha isn't what's on offer. C, ocha shinai?, is an invitation to go out to a cafe for a break; Mai isn't suggesting going anywhere, she's offering the tea that's right there in the office.",
+   "why": "'ocha never covers it' is too absolute: black tea is often counted as a kind of ocha (e.g. ocha no jikan). The real point is that ocha on its own means Japanese tea."
+  },
+  {
+   "script": 28,
+   "kind": "choice",
+   "index": 7,
+   "sub": 1,
+   "field": "romaji",
+   "value": "dakara, kagi ga kaketeru tte!",
+   "why": "Without ga, casual 'kagi kaketeru tte!' means 'I've got it locked, I told you!', so it would be just as natural a reply here, and the gloss 'I'm locking it right now' is wrong. Use the brief's actual trap, kagi ga kaketeru: kakeru with ga, which is clearly wrong."
+  },
+  {
+   "script": 28,
+   "kind": "choice",
+   "index": 7,
+   "sub": 1,
+   "field": "english",
+   "value": "I told you, it's locked! (kakeru, the act of locking, with ga)",
+   "why": "Gloss now matches the revised wrong choice (the ga + kakeru mistake for 'it's locked')."
+  },
+  {
+   "script": 28,
+   "kind": "question",
+   "index": 7,
+   "sub": 0,
+   "field": "explanation",
+   "value": "Line 16: kagi kakatteru, the -teru form of kakaru: the lock is on. Sora found it that way in line 10 (kagi mo kakatteru yo), so he's describing how it is, not doing anything. A, kagi ga kaketeru, is the usual mistake for 'it's locked': kakeru is the act of locking, as in Mai's kagi kakete ne (lines 7 and 15), and with ga the verb is kakaru. B, rokku suru, is mostly for cars and phones, and it makes the door the thing you lock; at the front door it's the kagi that kakaru.",
+   "why": "The old explanation said kagi kaketeru could only mean 'locking it right now', which isn't true. Casual -teru on kakeru also means 'I've got it locked'. This rewrite explains the revised choice A."
+  },
+  {
+   "script": 30,
+   "kind": "modelAnswer",
+   "index": 5,
+   "sub": 2,
+   "field": "romaji",
+   "value": "kodomo sodateru no, honto ni taihen na n da ne. oneesan, sugoi naa.",
+   "why": "The task asks the listener to say raising kids must be tough, but the old second model answer never says that. Its 毎日子供育ててる also sits oddly, since sodateru means raising a child over years."
+  },
+  {
+   "script": 30,
+   "kind": "modelAnswer",
+   "index": 5,
+   "sub": 2,
+   "field": "ja",
+   "value": "子供育てるの、ほんとに大変なんだね。お姉さん、すごいなあ。",
+   "why": "Same change in Japanese, matching the new romaji."
+  },
+  {
+   "script": 30,
+   "kind": "modelAnswer",
+   "index": 5,
+   "sub": 2,
+   "field": "english",
+   "value": "Raising kids really is tough, huh. Your sister's amazing.",
+   "why": "English for the new model answer."
+  },
+  {
+   "script": 31,
+   "kind": "question",
+   "index": 4,
+   "sub": 0,
+   "field": "explanation",
+   "value": "A cough 'comes out' like a fever does: seki ga deru, the same deru as Yuki's 'seki mo deru shi' in line 8 and her 'seki deteta yo ne?' to Kenta in line 10. English 'have a cough' pulls toward motsu, which isn't used; a cough that keeps coming takes deru (a clinic may also ask seki wa arimasu ka?). For coughing at this very moment, seki shiteru also works. Netsu wa nai is the negative of netsu ga aru.",
+   "why": "The old explanation called seki ga aru a trap. It is normal Japanese (clinics ask 咳はありますか？, and people say 熱はないけど咳がある), so only motsu is the real mistake."
+  },
+  {
+   "script": 32,
+   "kind": "choice",
+   "index": 4,
+   "sub": 2,
+   "field": "romaji",
+   "value": "uwa, mabushii! kaaten shimatte!",
+   "why": "Sora really says kaaten akete in line 16, so wrong choice B repeated something he said, and the spoken question (ソラさんは何と言いましたか？) doesn't say which moment it means. This replaces it with the shimaru/shimeru mix-up, which nobody says in the script."
+  },
+  {
+   "script": 32,
+   "kind": "choice",
+   "index": 4,
+   "sub": 2,
+   "field": "english",
+   "value": "Argh, that's bright! Curtains, shut! (shimaru, shutting on their own)",
+   "why": "Gloss for the new wrong choice B."
+  },
+  {
+   "script": 32,
+   "kind": "question",
+   "index": 4,
+   "sub": 0,
+   "field": "explanation",
+   "value": "Line 4: Kenta has just opened the curtains (line 3: kaaten akeru yo) and the light hurts (mabushii), so Sora wants them shut: kaaten shimete. A is English 'draw the curtains' put into Japanese word for word (hiku, pull). Japanese does have kaaten o hiku, but it's mostly written and, like 'draw', it doesn't say which way, so in speech people name the direction with shimeru or akeru. B uses shimaru, the curtains shutting on their own, like doa ga shimaru (kaaten shimatteru = the curtains are shut), so it can't ask someone to shut them; that takes shimeru. Kenta closes them with the same verb in lines 11 and 13 (kaaten shimeru ne, kaaten wa shimeta kedo), and Sora only asks for the opposite, kaaten akete, at the very end, once he's given up on sleep (line 16).",
+   "why": "Explanation rewritten for the new choice B. It also points out the kaaten akete Sora says in line 16."
+  },
+  {
+   "script": 37,
+   "kind": "line",
+   "index": 8,
+   "sub": 0,
+   "field": "english",
+   "value": "Well, no. I told my friend I'd miss the last train, and I was out of the bar by eleven.",
+   "why": "'lose the last train' is not natural English. Line 3 of this script and the brief's own example both use 'miss'."
+  },
+  {
+   "script": 37,
+   "kind": "line",
+   "index": 15,
+   "sub": 0,
+   "field": "english",
+   "value": "That's right. If the train hadn't been late, I'd have missed the last train.",
+   "why": "Same fix as line 8. 'I'd have lost the last train' reads as a calque of nakunaru. The natural English is 'missed'."
+  },
+  {
+   "script": 40,
+   "kind": "modelAnswer",
+   "index": 5,
+   "sub": 2,
+   "field": "english",
+   "value": "No, I'm not confident yet. I'm in your hands.",
+   "why": "yoroshiku onegai shimasu asks for his guidance and goodwill before the game, not for leniency. 'Please go easy on me' is a different set phrase (oteyawaraka ni onegai shimasu), so the gloss would teach the wrong meaning."
+  },
+  {
+   "script": 42,
+   "kind": "line",
+   "index": 6,
+   "sub": 0,
+   "field": "romaji",
+   "value": "sou. yoji ni ikkai, me ga sameta n da kedo, kimochi yokute okirenakatta.",
+   "why": "Without a comma, 一回目が覚めた reads as 一回目 (ikkaime, 'the first time') + ga sameta. Readers and TTS can take that path, which blurs the tested target me ga sameta. A comma after ikkai fixes the grouping. All three fields are changed together."
+  },
+  {
+   "script": 42,
+   "kind": "line",
+   "index": 6,
+   "sub": 0,
+   "field": "ja",
+   "value": "そう。四時に一回、目が覚めたんだけど、気持ちよくて起きれなかった。",
+   "why": "Comma after 一回 so it can't be read as the ordinal 一回目 ('the first time') and the voice groups 目が覚めた as one chunk."
+  },
+  {
+   "script": 42,
+   "kind": "line",
+   "index": 6,
+   "sub": 0,
+   "field": "kana",
+   "value": "そう。よじにいっかい、めがさめたんだけど、きもちよくておきれなかった。",
+   "why": "Same comma in the kana. Without it, いっかいめがさめた has the same ikkaime ambiguity."
+  },
+  {
+   "script": 42,
+   "kind": "question",
+   "index": 3,
+   "sub": 0,
+   "field": "english",
+   "value": "Sora says, \"yoji ni ikkai, me ga sameta n da kedo, kimochi yokute okirenakatta.\" What happened at four o'clock?",
+   "why": "Keeps the quoted line in step with the edited romaji of line 6."
+  },
+  {
+   "script": 42,
+   "kind": "choice",
+   "index": 2,
+   "sub": 3,
+   "field": "english",
+   "value": "'I saw a bad dream' (miru, word for word)",
+   "why": "Only the two wrong glosses were marked '(..., word for word)' and the right one was a plain 'I had a bad dream.', so the answer showed without listening. Giving C the same literal gloss style means the learner has to remember the verb they heard (mita)."
+  },
+  {
+   "script": 45,
+   "kind": "line",
+   "index": 7,
+   "sub": 0,
+   "field": "romaji",
+   "value": "de, kesa satou-san ni mo guchi ittara ne, kenji, keeki no omise de baito shiteru n da tte!",
+   "why": "Romaji convention: copula and the quotative tte are separate words. Every other draft spells the hearsay ending n da tte; this was the only n datte."
+  },
+  {
+   "script": 46,
+   "kind": "line",
+   "index": 17,
+   "sub": 0,
+   "field": "romaji",
+   "value": "honto ni? yokatta. jaa, ashita wa gakkou ikeru ne.",
+   "why": "Said flat, 'gakkou iku ne' sounds like Yuki saying she'll go to school herself, and learners are taught to hear 'iku ne' that way. A sister would say 'ikeru ne' here (so you can go), which clearly means Kenji and still uses gakkou ni iku."
+  },
+  {
+   "script": 46,
+   "kind": "line",
+   "index": 17,
+   "sub": 0,
+   "field": "ja",
+   "value": "ほんとに？よかった。じゃあ、明日は学校行けるね。",
+   "why": "Keeps ja in step with the romaji fix: 行けるね points the line at Kenji."
+  },
+  {
+   "script": 46,
+   "kind": "line",
+   "index": 17,
+   "sub": 0,
+   "field": "kana",
+   "value": "ほんとに？よかった。じゃあ、あしたはがっこういけるね。",
+   "why": "Keeps kana in step with the romaji and ja fix."
+  },
+  {
+   "script": 46,
+   "kind": "line",
+   "index": 17,
+   "sub": 0,
+   "field": "english",
+   "value": "Really? Great. So you can go to school tomorrow, then.",
+   "why": "English now matches ikeru (can go). Kenji's reply 'a, un. iku yo.' still follows."
+  },
+  {
+   "script": 51,
+   "kind": "question",
+   "index": 2,
+   "sub": 0,
+   "field": "explanation",
+   "value": "Kenta uses it in line 1 (yuki to nomi ni itta koto, nakatta yo ne) and line 15 (issho ni nomi ni ikeru ne), and Yuki uses it in line 14 (shigoto no hito to nomi ni iku to). On its own, nomi already means drinking alcohol, so you don't need osake. It's the drinking version of gohan ni iku, which Yuki uses for going out to eat (lines 2 and 18). Friends also invite with plain nomou (kondo nomou yo, let's grab a drink sometime), but nomi ni iku is the clearest way to suggest going out for one.",
+   "why": "The explanation claimed plain nomou is only said with a glass in front of you. That's false: kondo nomou yo and kyou nomanai? are everyday invitations to go out drinking."
+  },
+  {
+   "script": 52,
+   "kind": "choice",
+   "index": 1,
+   "sub": 2,
+   "field": "english",
+   "value": "The important thing Sora's mom calls about is just whether he's eating. Sora hangs up on her, and when she calls Kenta, Kenta tells her Sora is right there.",
+   "why": "The right answer said she 'only wants to know if he's eating', but in line 12 she wants to go on about yesterday (ato ne, kinou no koto na n da kedo). A careful listener could reject the right choice on that detail."
+  },
+  {
+   "script": 59,
+   "kind": "choice",
+   "index": 4,
+   "sub": 1,
+   "field": "romaji",
+   "value": "meeru okuru n ja nai?",
+   "why": "Choice A ('meeru okutta n ja nai?') is something Kenji actually says, word for word, in line 10 ('sore, chigau bangou ni meeru okutta n ja nai?'). A heard question's wrong choice must not be something a character said. This version keeps the okuru/kuru direction contrast in a form nobody says, and it clearly doesn't fit a phone that has just gone off."
+  },
+  {
+   "script": 59,
+   "kind": "choice",
+   "index": 4,
+   "sub": 1,
+   "field": "english",
+   "value": "Aren't you going to send an email?",
+   "why": "Gloss for the new choice A romaji (meeru okuru n ja nai?)."
+  },
+  {
+   "script": 59,
+   "kind": "question",
+   "index": 4,
+   "sub": 0,
+   "field": "explanation",
+   "value": "Line 8: a, sumaho natta yo. meeru kita n ja nai? In Japanese the email is the one that comes: meeru (ga) kita, 'an email came', and Mom answers honto da, meeru kita! A, okuru, is the other direction, sending, which makes no sense when her phone has just gone off; Kenji uses okuru only for her email going out to the wrong number (line 10). C, uketoru, is English 'receive' word for word, but it sounds stiff and is for parcels and documents, not emails.",
+   "why": "The old explanation defended choice A as something Kenji says in line 10. A now asks whether she's about to send an email, so the explanation has to say why that's wrong."
+  },
+  {
+   "script": 67,
+   "kind": "question",
+   "index": 3,
+   "sub": 0,
+   "field": "ja",
+   "value": "ユキさんは、病院までどう行くと言いましたか？",
+   "why": "病院までの道を何と言いましたか reads as 'what did she call the road'; どう行くと言いましたか is the natural way to ask how she said to get there."
+  },
+  {
+   "script": 67,
+   "kind": "question",
+   "index": 3,
+   "sub": 0,
+   "field": "kana",
+   "value": "ゆきさんは、びょういんまでどういくといいましたか？",
+   "why": "Keeps the kana in step with the corrected ja."
+  },
+  {
+   "script": 67,
+   "kind": "question",
+   "index": 3,
+   "sub": 0,
+   "field": "romaji",
+   "value": "yuki-san wa, byouin made dou iku to iimashita ka?",
+   "why": "Keeps the romaji in step with the corrected ja."
+  },
+  {
+   "script": 70,
+   "kind": "meta",
+   "index": 0,
+   "sub": 0,
+   "field": "setting",
+   "value": "Seven in the morning. Satou-san, the elderly man next door, leaves a voicemail for Kenta, who told him yesterday that he never eats breakfast. Yesterday Satou-san also baked his first ever loaf of bread, and it came out far too big for one person.",
+   "why": "The setting said he 'has just baked' the bread, but line 3 (kinou hajimete pan o yaite mita) and question 4 both put the baking yesterday."
+  },
+  {
+   "script": 70,
+   "kind": "question",
+   "index": 3,
+   "sub": 0,
+   "field": "explanation",
+   "value": "Sugar going into a drink is ireru in its plain 'put in' sense: Satou-san says koohii ni osatou o mittsu mo iremasu yo ne (line 7) and ocha ni wa osatou, irenaide kudasai ne (line 9). English 'I take sugar' has no match: satou o toru means picking the sugar up (satou totte = pass me the sugar), not having it in your coffee. Mai's koohii ireta is the other ireru, brewing the cup. With a friend plain satou is fine; Satou-san says osatou because he's speaking politely. (satou, sugar, has the same sounds as his name, only the pitch differs; the o- is politeness, but it also keeps the two apart.) If you do want it black: burakku de ii yo.",
+   "why": "砂糖 (sa-TO-u) and 佐藤 (SA-tou) differ in pitch accent, so 'sounds exactly like his name' is wrong for a learner who only hears the audio."
+  },
+  {
+   "script": 74,
+   "kind": "choice",
+   "index": 1,
+   "sub": 2,
+   "field": "english",
+   "value": "Mai is worried she's failed, but when the results come out at twelve, she has passed on her first try.",
+   "why": "The correct gist choice overstates the audio. Mai only says she might not have got seventy (nanajutten mo toretenai kamo shiremasen) and worries what she'll do if she failed (ochitara dou shiyou). She is never sure, and the explanation itself says she 'fears' it."
+  },
+  {
+   "script": 74,
+   "kind": "question",
+   "index": 5,
+   "sub": 0,
+   "field": "explanation",
+   "value": "Tanaka-san says it this way in line 13 (ikkai de shiken ni ukatta) and line 9 (yatto ukatta). ukaru and ukeru are one sound apart, and line 9 has both: shiken o sankai ukete, yatto ukatta (took it three times, finally passed). shiken o ukarimashita is wrong: the exam takes ni. Tanaka-san asks politely, so answer with -masu.",
+   "why": "The explanation says 'ukarimashita and ukemashita are one sound apart', but u-ka-ri-ma-shi-ta and u-ke-ma-shi-ta differ by more than one sound (kari vs ke). Only the dictionary forms ukaru and ukeru are one sound apart, so the claim is corrected to those."
+  },
+  {
+   "script": 77,
+   "kind": "line",
+   "index": 3,
+   "sub": 0,
+   "field": "uses",
+   "value": "c-shigoto-ga-isogashii",
+   "why": "shigoto ga isogashikatta is the earlier collocation c-shigoto-ga-isogashii (script 6, in the review pool), so the line should be tagged. reviewUsed would also need this id, and no edit kind can change reviewUsed."
+  },
+  {
+   "script": 77,
+   "kind": "line",
+   "index": 9,
+   "sub": 0,
+   "field": "uses",
+   "value": "c-genki-o-dasu",
+   "why": "genki dashite kudasai is the earlier collocation c-genki-o-dasu (script 56). It is also the contrast the Q3 and Q4 explanations point to, so the line should carry the tag. reviewUsed would also need this id."
+  },
+  {
+   "script": 77,
+   "kind": "removeNewWord",
+   "index": 1,
+   "sub": 0,
+   "field": "romaji",
+   "value": "shigoto",
+   "why": "shigoto is already an allowed word: it is the noun in the review-pool collocations c-shigoto-ga-isogashii, c-shigoto-ni-iku and others, so it should not be listed as new."
+  },
+  {
+   "script": 83,
+   "kind": "modelAnswer",
+   "index": 4,
+   "sub": 2,
+   "field": "romaji",
+   "value": "kono aida mitai ni, nekutai shite itta hou ga ii kamo shiremasen ne.",
+   "why": "The old model, ashita mo nekutai shite kitara dou desu ka?, uses -tara dou desu ka. Said to your own manager, that sounds pushy, and the cue asks for a polite suggestion. The new model softens it with kamo shiremasen and recalls the tie he wore the other day."
+  },
+  {
+   "script": 83,
+   "kind": "modelAnswer",
+   "index": 4,
+   "sub": 2,
+   "field": "ja",
+   "value": "この間みたいに、ネクタイして行ったほうがいいかもしれませんね。",
+   "why": "Keeps the ja in step with the new romaji."
+  },
+  {
+   "script": 83,
+   "kind": "modelAnswer",
+   "index": 4,
+   "sub": 2,
+   "field": "english",
+   "value": "Maybe wear a tie, like you did the other day.",
+   "why": "Keeps the English in step with the new model answer."
+  },
+  {
+   "script": 83,
+   "kind": "question",
+   "index": 4,
+   "sub": 0,
+   "field": "answer",
+   "value": "Suggest a tie with nekutai o suru, politely since he's your manager: nekutai o shite itta hou ga ii to omoimasu, or more softly, nekutai shite itta hou ga ii kamo shiremasen ne. Skip -tara dou desu ka with a manager, as it can sound pushy. A tie takes suru, never kiru.",
+   "why": "The answer quoted the dropped -tara dou desu ka model. It now matches the new model answers and gives the register point."
+  },
+  {
+   "script": 84,
+   "kind": "choice",
+   "index": 4,
+   "sub": 3,
+   "field": "romaji",
+   "value": "daigaku o haitta",
+   "why": "The old wrong choice, daigaku ni itta, means 'went to university' (started going), which is just as natural in Mai's line. So the heard question had two acceptable answers. Swapping in o for ni gives the common learner slip that the chunk's mix-up note warns about (daigaku takes ni hairu)."
+  },
+  {
+   "script": 84,
+   "kind": "choice",
+   "index": 4,
+   "sub": 3,
+   "field": "english",
+   "value": "that he entered university (with o, like English 'enter')",
+   "why": "A gloss for the new wrong choice, in the same style as the other two choices."
+  },
+  {
+   "script": 84,
+   "kind": "question",
+   "index": 4,
+   "sub": 0,
+   "field": "explanation",
+   "value": "Mai says musuko-san ga daigaku ni haitta no, kono aida ja nakatta desu ka? (line 9), and Tanaka-san picks it up: daigaku ni haitte kara benkyou bakkari (line 10). You go into a school, so starting university is daigaku ni hairu, with ni for the place you go into, the same ni hairu as kaisha ni hairu. B puts English 'start university' into Japanese word for word, and nobody says it. C copies English 'enter university' with o, but hairu takes ni for what you join: daigaku o haitta is a common learner slip.",
+   "why": "The old explanation said daigaku ni itta only means going to the campus. That's wrong: it often means starting university. The explanation now covers the new choice C."
+  },
+  {
+   "script": 89,
+   "kind": "question",
+   "index": 5,
+   "sub": 0,
+   "field": "explanation",
+   "value": "Line 4: 'jaa, mae no kafe de jikan tsubusou ka'. Kenji answers nanika tabenagara jikan tsubusou (line 5), and later mou hitotsu tabete, jikan tsubusou kana (line 16). Killing time is tsubusu, 'squash': you squash the empty time flat. B is a word-for-word copy of 'kill time'. Korosu is for killing living things, so jikan o korosu sounds like a murder plot. C is wrong: jikan o kakeru is putting time into something on purpose, like the doctor with each patient (line 2). Here they just want to fill a wait.",
+   "why": "'Korosu is only for killing living things' is false: korosu has everyday figurative uses (iki o korosu, koe o korosu, aji o korosu). Dropping 'only' keeps the point without teaching something wrong."
+  },
+  {
+   "script": 90,
+   "kind": "question",
+   "index": 6,
+   "sub": 0,
+   "field": "romaji",
+   "value": "tanaka-san wa, yuki-san no aidea o dou shimashita ka?",
+   "why": "The narrator calls Tanaka-san -san but leaves Yuki's name bare in the same sentence. Every other question in the series says yuki-san, so this one should too."
+  },
+  {
+   "script": 90,
+   "kind": "question",
+   "index": 6,
+   "sub": 0,
+   "field": "ja",
+   "value": "田中さんは、ユキさんのアイデアをどうしましたか？",
+   "why": "Same fix as the romaji: ユキ becomes ユキさん, so both names get さん."
+  },
+  {
+   "script": 90,
+   "kind": "question",
+   "index": 6,
+   "sub": 0,
+   "field": "kana",
+   "value": "たなかさんは、ゆきさんのあいであをどうしましたか？",
+   "why": "Same fix as the romaji: ゆき becomes ゆきさん, so the kana matches the ja."
+  },
+  {
+   "script": 93,
+   "kind": "choice",
+   "index": 3,
+   "sub": 2,
+   "field": "romaji",
+   "value": "me akete",
+   "why": "kao agete ('look up', also 'chin up' to someone anxious) would be just as natural as Mai's first instruction to a stressed Yuki, so it breaks the rule that a heard distractor must not fit the moment. me akete, the opposite of me o tojiru, makes no sense when her eyes are already open."
+  },
+  {
+   "script": 93,
+   "kind": "choice",
+   "index": 3,
+   "sub": 2,
+   "field": "english",
+   "value": "Open your eyes.",
+   "why": "The gloss now matches the new distractor, me akete."
+  },
+  {
+   "script": 93,
+   "kind": "question",
+   "index": 3,
+   "sub": 0,
+   "field": "explanation",
+   "value": "Line 9: 'jaa, me tojite'. Eyes take tojiru, the verb you also use for closing a book, an umbrella or an app. Yuki says it twice more: me tojiteru to, nechaisou (line 12, with my eyes closed I'll nod off) and me tojitetara, aidea ukanda (line 14). A is wrong: shimeru is for doors, windows and lids, so me o shimeru is the classic learner slip. B is wrong: me akete is the opposite, 'open your eyes', and Yuki's eyes were still open when Mai started. Mai asked her to close them, then to put her arms up (te o ue ni agete). In casual speech you'll also hear me tsubutte for 'close your eyes'.",
+   "why": "The explanation now covers the new choice B (me akete) and drops the kao agete reasoning. It keeps the me o akeru contrast from the brief."
+  }
+ ],
+ "skipped": []
+}

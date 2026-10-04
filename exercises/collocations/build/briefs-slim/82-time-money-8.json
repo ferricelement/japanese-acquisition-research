@@ -1,0 +1,332 @@
+{
+ "script": 82,
+ "of": 94,
+ "stage": 4,
+ "chunkId": "time-money-8",
+ "label": "Plans and promises",
+ "topic": "Time, money & plans",
+ "rationale": "How plans go: wait and see, called off, keep your word, plan it out.",
+ "mixUps": "English verbs mislead in all four: 'wait and see' is yousu o miru, not matsu; events are called off with chuushi ni naru rather than kyanseru sareru; promises are mamoru (protect), not motsu; plans stand up with tateru, not tsukuru.",
+ "targets": [
+  {
+   "id": "c-yousu-o-miru",
+   "romaji": "yousu o miru",
+   "polite": "yousu o mimasu",
+   "english": "wait and see; check on (someone)",
+   "ja": "様子を見る",
+   "kana": "ようすをみる",
+   "politeJa": "様子を見ます",
+   "noun": "yousu",
+   "particle": "o",
+   "verb": "miru",
+   "verbJa": "見る",
+   "verbSense": "see, look, watch",
+   "englishVerb": "wait",
+   "trap": "English 'wait and see' leads to plain matsu, which says nothing about watching how things go. For holding off on a problem (a cold, a noise in the car, a plan) the set phrase is yousu o miru, 'look at how things are'. mou sukoshi matte miyou also works when you're waiting for something to happen.",
+   "partners": [
+    "keika (progress: keika o mimashou = let's see how it goes, a doctor's line)",
+    "joukyou (how things stand: joukyou mite kimeyou = let's decide once we see how things are)",
+    "hannou (a reaction: aite no hannou o miru = see how they react)"
+   ],
+   "flags": [],
+   "use": "Said when you hold off acting to see how things go: a cold, a noise in the car, a plan (toriaezu yousu miyou). Doctors say nisannichi yousu o mimashou. It also means going to check on someone: chotto yousu mite kuru.",
+   "notes": "The same noun describes how someone seems: yousu ga hen (he's acting strange). The noun yousumi is everyday too: shibaraku yousumi da ne (let's wait and see for a while).",
+   "example": {
+    "romaji": "toriaezu yousu miyou ka.",
+    "ja": "とりあえず様子見ようか。",
+    "english": "Shall we just wait and see for now?"
+   },
+   "examplePolite": {
+    "romaji": "toriaezu yousu o mimashou ka.",
+    "ja": "とりあえず様子を見ましょうか。",
+    "english": "Shall we just wait and see for now?"
+   }
+  },
+  {
+   "id": "c-chuushi-ni-naru",
+   "romaji": "chuushi ni naru",
+   "polite": "chuushi ni narimasu",
+   "english": "be called off",
+   "ja": "中止になる",
+   "kana": "ちゅうしになる",
+   "politeJa": "中止になります",
+   "noun": "chuushi",
+   "particle": "ni",
+   "verb": "naru",
+   "verbJa": "なる",
+   "verbSense": "become; X ni naru = end up as X",
+   "englishVerb": "cancel",
+   "trap": "English 'cancelled' leads to kyanseru, which fits bookings, orders and your own plans (yoyaku kyanseru shita, kyou no yakusoku kyanseru shite ii?). An event that gets called off, such as a match, a festival, a concert or a school trip, is usually chuushi ni natta, and a cancelled flight is kekkou ni natta.",
+   "partners": [
+    "enki (postponed)",
+    "kyuukou (a class cancelled)",
+    "kekkou (a flight cancelled)"
+   ],
+   "flags": [],
+   "use": "How events get cancelled, mostly in the past: ame de shiai chuushi ni natta. Put off to a later date is enki ni naru, in the same frame.",
+   "notes": "Among friends, a plan that's off is often just nakunatta: kyou no nomikai nakunatta.",
+   "example": {
+    "romaji": "ame de shiai chuushi ni natta.",
+    "ja": "雨で試合中止になった。",
+    "english": "The game got rained off."
+   },
+   "examplePolite": {
+    "romaji": "ame de shiai ga chuushi ni narimashita.",
+    "ja": "雨で試合が中止になりました。",
+    "english": "The game was rained off."
+   }
+  },
+  {
+   "id": "c-yakusoku-o-mamoru",
+   "romaji": "yakusoku o mamoru",
+   "polite": "yakusoku o mamorimasu",
+   "english": "keep a promise",
+   "ja": "約束を守る",
+   "kana": "やくそくをまもる",
+   "politeJa": "約束を守ります",
+   "noun": "yakusoku",
+   "particle": "o",
+   "verb": "mamoru",
+   "verbJa": "守る",
+   "verbSense": "protect, defend; keep to (a promise, a rule, a deadline)",
+   "englishVerb": "keep",
+   "trap": "English 'keep' leads to motsu or tamotsu, but promises, rules and deadlines are 'protected': yakusoku o mamoru, ruuru o mamoru, shimekiri o mamoru.",
+   "partners": [
+    "jikan (time: jikan o mamoru = be on time)",
+    "ruuru (rules)",
+    "shimekiri (a deadline)"
+   ],
+   "flags": [],
+   "use": "Said as a reminder (yakusoku mamotte ne), a reproach (yakusoku mamoranakatta ja nai) or, with wa, a pledge: daijoubu, yakusoku wa mamoru yo (don't worry, I'll keep my word). Being on time works the same way: jikan o mamoru.",
+   "notes": "Breaking one is yakusoku o yaburu (yakusoku yabutta!). yakusoku also covers plans with friends: kyou wa tomodachi to yakusoku shiteru (I'm meeting a friend today).",
+   "example": {
+    "romaji": "kondo wa chanto yakusoku mamotte ne.",
+    "ja": "今度はちゃんと約束守ってね。",
+    "english": "Make sure you keep your promise this time."
+   },
+   "examplePolite": {
+    "romaji": "kondo wa chanto yakusoku o mamotte kudasai ne.",
+    "ja": "今度はちゃんと約束を守ってくださいね。",
+    "english": "Please make sure you keep your promise this time."
+   }
+  },
+  {
+   "id": "c-keikaku-o-tateru",
+   "romaji": "keikaku o tateru",
+   "polite": "keikaku o tatemasu",
+   "english": "make a plan",
+   "ja": "計画を立てる",
+   "kana": "けいかくをたてる",
+   "politeJa": "計画を立てます",
+   "noun": "keikaku",
+   "particle": "o",
+   "verb": "tateru",
+   "verbJa": "立てる",
+   "verbSense": "stand something up; set up (a plan, a goal)",
+   "englishVerb": "make",
+   "trap": "English 'make a plan' leads to keikaku o tsukuru, which is heard but far less often (17 against 128 in the subtitles). Plans and goals are 'stood up': keikaku o tateru, mokuhyou o tateru.",
+   "partners": [
+    "yotei (a schedule)",
+    "mokuhyou (a goal)",
+    "sakusen (a game plan)"
+   ],
+   "flags": [],
+   "use": "For working out a plan ahead: a trip, savings, a study schedule. You mostly hear tateta or tateteru: ryokou no keikaku tateteru. The same verb goes with yotei: natsuyasumi no yotei o tateru.",
+   "notes": "'Got plans?' is yotei aru?, not keikaku aru?; keikaku is a worked-out scheme.",
+   "example": {
+    "romaji": "ima ryokou no keikaku tateteru n da.",
+    "ja": "今旅行の計画立ててるんだ。",
+    "english": "I'm planning a trip right now."
+   },
+   "examplePolite": {
+    "romaji": "ima ryokou no keikaku o tateteru n desu.",
+    "ja": "今旅行の計画を立ててるんです。",
+    "english": "I'm planning a trip right now."
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-karada-ni-ii",
+   "romaji": "karada ni ii",
+   "english": "good for you, healthy",
+   "chunk": "Long-term health",
+   "recent": true
+  },
+  {
+   "id": "c-toshi-o-toru",
+   "romaji": "toshi o toru",
+   "english": "get older, age",
+   "chunk": "Long-term health",
+   "recent": true
+  },
+  {
+   "id": "c-tabako-o-yameru",
+   "romaji": "tabako o yameru",
+   "english": "quit smoking",
+   "chunk": "Long-term health",
+   "recent": true
+  },
+  {
+   "id": "c-arerugii-ga-aru",
+   "romaji": "arerugii ga aru",
+   "english": "be allergic (to something)",
+   "chunk": "Long-term health",
+   "recent": true
+  },
+  {
+   "id": "c-yaruki-ga-nai",
+   "romaji": "yaruki ga nai",
+   "english": "have no motivation, can't be bothered",
+   "chunk": "Motivation and mood",
+   "recent": true
+  },
+  {
+   "id": "c-yaruki-ga-deru",
+   "romaji": "yaruki ga deru",
+   "english": "get motivated",
+   "chunk": "Motivation and mood",
+   "recent": true
+  },
+  {
+   "id": "c-genki-ga-deru",
+   "romaji": "genki ga deru",
+   "english": "perk up, get a lift",
+   "chunk": "Motivation and mood",
+   "recent": true
+  },
+  {
+   "id": "c-tenshon-ga-agaru",
+   "romaji": "tenshon ga agaru",
+   "english": "get excited, get hyped",
+   "chunk": "Motivation and mood",
+   "recent": true
+  },
+  {
+   "id": "c-sutoresu-ga-tamaru",
+   "romaji": "sutoresu ga tamaru",
+   "english": "get stressed, stress builds up",
+   "chunk": "Motivation and mood",
+   "recent": true
+  },
+  {
+   "id": "c-reizouko-ni-ireru",
+   "romaji": "reizouko ni ireru",
+   "english": "put in the fridge",
+   "chunk": "Fridge and microwave",
+   "recent": true
+  },
+  {
+   "id": "c-bentou-o-atatameru",
+   "romaji": "obentou o atatameru",
+   "english": "heat up a boxed lunch",
+   "chunk": "Fridge and microwave",
+   "recent": true
+  },
+  {
+   "id": "c-futa-o-suru",
+   "romaji": "futa o suru",
+   "english": "put the lid on",
+   "chunk": "Fridge and microwave",
+   "recent": true
+  },
+  {
+   "id": "c-kigen-ga-kireru",
+   "romaji": "kigen ga kireru",
+   "english": "expire, be past its date",
+   "chunk": "Fridge and microwave",
+   "recent": true
+  },
+  {
+   "id": "c-baka-ni-suru",
+   "romaji": "baka ni suru",
+   "english": "make fun of, look down on",
+   "chunk": "Pride and teasing",
+   "recent": true
+  },
+  {
+   "id": "c-haji-o-kaku",
+   "romaji": "haji o kaku",
+   "english": "embarrass yourself, make a fool of yourself",
+   "chunk": "Pride and teasing",
+   "recent": true
+  },
+  {
+   "id": "c-kakkou-o-tsukeru",
+   "romaji": "kakko tsukeru",
+   "english": "show off, act cool",
+   "chunk": "Pride and teasing",
+   "recent": true
+  },
+  {
+   "id": "c-karada-o-ugokasu",
+   "romaji": "karada o ugokasu",
+   "english": "get some exercise, move your body",
+   "chunk": "Exercise and outdoors",
+   "recent": true
+  },
+  {
+   "id": "c-kibarashi-ni-naru",
+   "romaji": "kibun tenkan ni naru",
+   "english": "be a nice change of pace, do someone good",
+   "chunk": "Exercise and outdoors",
+   "recent": true
+  },
+  {
+   "id": "c-yama-ni-noboru",
+   "romaji": "yama ni noboru",
+   "english": "climb a mountain",
+   "chunk": "Exercise and outdoors",
+   "recent": true
+  },
+  {
+   "id": "c-tsuri-ni-iku",
+   "romaji": "tsuri ni iku",
+   "english": "go fishing",
+   "chunk": "Exercise and outdoors",
+   "recent": true
+  },
+  {
+   "id": "c-kyanpu-ni-iku",
+   "romaji": "kyanpu ni iku",
+   "english": "go camping",
+   "chunk": "Exercise and outdoors",
+   "recent": true
+  },
+  {
+   "id": "c-netto-de-shiraberu",
+   "romaji": "netto de shiraberu",
+   "english": "look something up online",
+   "chunk": "Internet and apps",
+   "recent": true
+  },
+  {
+   "id": "c-netto-ga-tsunagaru",
+   "romaji": "netto ga tsunagaru",
+   "english": "the internet connects, works",
+   "chunk": "Internet and apps",
+   "recent": true
+  },
+  {
+   "id": "c-denpa-ga-warui",
+   "romaji": "denpa ga warui",
+   "english": "bad signal, poor reception",
+   "chunk": "Internet and apps",
+   "recent": true
+  },
+  {
+   "id": "c-apuri-o-ireru",
+   "romaji": "apuri o ireru",
+   "english": "install an app, get an app",
+   "chunk": "Internet and apps",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "kenta",
+   "sora"
+  ],
+  "format": "dialogue"
+ }
+}

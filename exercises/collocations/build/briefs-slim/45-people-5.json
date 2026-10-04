@@ -1,0 +1,363 @@
+{
+ "script": 45,
+ "of": 94,
+ "stage": 2,
+ "chunkId": "people-5",
+ "label": "Lies, jokes and complaints",
+ "topic": "People & talk",
+ "rationale": "What friends say to each other: lies, jokes, complaints, venting and secrets.",
+ "mixUps": "Lying takes tsuku (uso tsuita), but joking, complaining and venting take iu. monku o iu is complaining at someone or about something wrong, while guchi o iu is grumbling to let off steam. naisho takes ni suru, not mamoru.",
+ "targets": [
+  {
+   "id": "c-uso-o-tsuku",
+   "romaji": "uso o tsuku",
+   "polite": "uso o tsukimasu",
+   "english": "tell a lie",
+   "ja": "嘘をつく",
+   "kana": "うそをつく",
+   "politeJa": "嘘をつきます",
+   "noun": "uso",
+   "particle": "o",
+   "verb": "tsuku",
+   "verbJa": "つく",
+   "verbSense": "let out (breath); in speech it survives mainly in uso o tsuku and tameiki o tsuku (sigh)",
+   "englishVerb": "tell",
+   "trap": "English 'tell' leads to uso o iu, which natives also say (uso bakkari itte, uso iwanaide), but the set phrase for lying is uso o tsuku: uso tsuita, uso tsukanaide.",
+   "partners": [
+    "tameiki (sigh)"
+   ],
+   "flags": [],
+   "use": "Heard as denial or accusation: uso tsuitenai yo (I'm not lying), uso tsukanaide (don't lie to me). Bare uso! is the 'no way!' reaction, not an accusation.",
+   "notes": "A liar is usotsuki.",
+   "example": {
+    "romaji": "uso tsuitenai yo, honto da yo.",
+    "ja": "嘘ついてないよ、ほんとだよ。",
+    "english": "I'm not lying, it's true."
+   },
+   "examplePolite": {
+    "romaji": "uso wa tsuitemasen. hontou desu yo.",
+    "ja": "嘘はついてません。本当ですよ。",
+    "english": "I'm not lying. It's true."
+   }
+  },
+  {
+   "id": "c-joudan-o-iu",
+   "romaji": "joudan o iu",
+   "polite": "joudan o iimasu",
+   "english": "joke, kid around",
+   "ja": "冗談を言う",
+   "kana": "じょうだんをいう",
+   "politeJa": "冗談を言います",
+   "noun": "joudan",
+   "particle": "o",
+   "verb": "iu",
+   "verbJa": "言う",
+   "verbSense": "say",
+   "englishVerb": "make",
+   "trap": "English 'make a joke' leads to joudan o tsukuru, which doesn't work; jokes are said (joudan o iu), and 'just kidding' is joudan da yo.",
+   "partners": [
+    "monku (complaint)",
+    "oseji (flattery)",
+    "wagamama (selfish demands)",
+    "dajare (pun)"
+   ],
+   "flags": [],
+   "use": "Heard in teasing: mata joudan itte (there you go joking again), joudan itteru dake (I'm only joking). The short replies joudan da yo (just kidding) and joudan desho? (you're kidding, right?) leave the verb out. joudan ja nai yo is the annoyed opposite: this is no joke / you've got to be kidding me.",
+   "notes": null,
+   "example": {
+    "romaji": "joudan itteru dake da yo.",
+    "ja": "冗談言ってるだけだよ。",
+    "english": "I'm only joking."
+   },
+   "examplePolite": {
+    "romaji": "joudan o itteru dake desu yo.",
+    "ja": "冗談を言ってるだけですよ。",
+    "english": "I'm only joking."
+   }
+  },
+  {
+   "id": "c-monku-o-iu",
+   "romaji": "monku o iu",
+   "polite": "monku o iimasu",
+   "english": "complain",
+   "ja": "文句を言う",
+   "kana": "もんくをいう",
+   "politeJa": "文句を言います",
+   "noun": "monku",
+   "particle": "o",
+   "verb": "iu",
+   "verbJa": "言う",
+   "verbSense": "say",
+   "englishVerb": "complain",
+   "trap": "English has one verb, 'complain'; Japanese says the complaint: monku o iu, not monku suru. Dictionary picks sound formal: kujou o iu is lodging a complaint with a landlord or company, fuhei o iu is bookish, and kureemu (from 'claim') is a customer complaint to a business. Venting about your day is guchi o iu.",
+   "partners": [
+    "guchi (venting)",
+    "waruguchi (badmouthing)",
+    "wagamama (selfish demands)",
+    "hiniku (sarcasm)"
+   ],
+   "flags": [],
+   "use": "Heard mostly as a rebuke: monku iwanaide (stop complaining), monku bakkari (always complaining). Complaining to a shop or a neighbour is also monku o iu, and being on the receiving end is monku iwareta (someone complained to me). Casual speech often drops o.",
+   "notes": "monku aru? (got a problem with that?) is the confrontational retort, and monku nai yo (no complaints, fine by me) the easy-going reply; both belong to monku ga aru.",
+   "example": {
+    "romaji": "monku bakkari iwanaide yo.",
+    "ja": "文句ばっかり言わないでよ。",
+    "english": "Stop complaining all the time."
+   },
+   "examplePolite": {
+    "romaji": "monku bakari iwanaide kudasai.",
+    "ja": "文句ばかり言わないでください。",
+    "english": "Please stop complaining so much."
+   }
+  },
+  {
+   "id": "c-guchi-o-iu",
+   "romaji": "guchi o iu",
+   "polite": "guchi o iimasu",
+   "english": "grumble, vent",
+   "ja": "愚痴を言う",
+   "kana": "ぐちをいう",
+   "politeJa": "愚痴を言います",
+   "noun": "guchi",
+   "particle": "o",
+   "verb": "iu",
+   "verbJa": "言う",
+   "verbSense": "say",
+   "englishVerb": "complain",
+   "trap": null,
+   "partners": [
+    "waruguchi (badmouthing)",
+    "iiwake (excuses)"
+   ],
+   "flags": [],
+   "use": "Venting about work, family or your lot, usually to a friend over a drink: guchi itte gomen (sorry for moaning), guchi bakkari (always moaning). The listener's side is guchi o kiku (guchi nara kiku yo), and guchiru is the one-word casual verb. monku o iu is objecting to someone or something; guchi is letting off steam about your situation.",
+   "notes": "guchi o kobosu means the same and sounds a little more literary.",
+   "example": {
+    "romaji": "gomen, guchi bakkari itte.",
+    "ja": "ごめん、愚痴ばっかり言って。",
+    "english": "Sorry, all I do is moan."
+   },
+   "examplePolite": {
+    "romaji": "sumimasen, guchi bakari itte shimatte.",
+    "ja": "すみません、愚痴ばかり言ってしまって。",
+    "english": "Sorry for complaining so much."
+   }
+  },
+  {
+   "id": "c-naisho-ni-suru",
+   "romaji": "naisho ni suru",
+   "polite": "naisho ni shimasu",
+   "english": "keep it secret",
+   "ja": "内緒にする",
+   "kana": "ないしょにする",
+   "politeJa": "内緒にします",
+   "noun": "naisho",
+   "particle": "ni",
+   "verb": "suru",
+   "verbJa": "する",
+   "verbSense": "do; with ni, make something into X (kore ni suru = I'll take this one)",
+   "englishVerb": "keep",
+   "trap": "English 'keep a secret' leads to mamoru. himitsu o mamoru is fine (himitsu mamotte ne works too), but naisho doesn't take mamoru: 'keep this between us' is naisho ni shite (or himitsu ni shite).",
+   "partners": [
+    "himitsu (secret)"
+   ],
+   "flags": [],
+   "use": "Almost always a request: kore naisho ni shite ne (keep this between us). On its own, naisho da yo means 'it's a secret' when you won't tell.",
+   "notes": "himitsu ni suru is the neutral twin.",
+   "example": {
+    "romaji": "kore naisho ni shite ne.",
+    "ja": "これ内緒にしてね。",
+    "english": "Keep this between us, okay?"
+   },
+   "examplePolite": {
+    "romaji": "kore wa naisho ni shite kudasai ne.",
+    "ja": "これは内緒にしてくださいね。",
+    "english": "Please keep this to yourself."
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-naka-ga-ii",
+   "romaji": "naka ga ii",
+   "english": "get along well, be close",
+   "chunk": "Close and in touch",
+   "recent": true
+  },
+  {
+   "id": "c-naka-ga-warui",
+   "romaji": "naka ga warui",
+   "english": "be on bad terms",
+   "chunk": "Close and in touch",
+   "recent": true
+  },
+  {
+   "id": "c-renraku-o-toru",
+   "romaji": "renraku o toru",
+   "english": "get or stay in touch",
+   "chunk": "Close and in touch",
+   "recent": true
+  },
+  {
+   "id": "c-renraku-ga-kuru",
+   "romaji": "renraku ga kuru",
+   "english": "hear from someone",
+   "chunk": "Close and in touch",
+   "recent": true
+  },
+  {
+   "id": "c-ki-ni-iru",
+   "romaji": "ki ni iru",
+   "english": "like, be pleased with",
+   "chunk": "Likes, interest, confidence",
+   "recent": true
+  },
+  {
+   "id": "c-kyoumi-ga-aru",
+   "romaji": "kyoumi ga aru",
+   "english": "be interested (in)",
+   "chunk": "Likes, interest, confidence",
+   "recent": true
+  },
+  {
+   "id": "c-tanoshimi-ni-suru",
+   "romaji": "tanoshimi ni suru",
+   "english": "look forward to",
+   "chunk": "Likes, interest, confidence",
+   "recent": true
+  },
+  {
+   "id": "c-jishin-ga-aru",
+   "romaji": "jishin ga aru",
+   "english": "be confident (in yourself, your answer)",
+   "chunk": "Likes, interest, confidence",
+   "recent": true
+  },
+  {
+   "id": "c-junbi-ga-dekiru",
+   "romaji": "junbi ga dekiru",
+   "english": "be ready",
+   "chunk": "Ready and how long",
+   "recent": true
+  },
+  {
+   "id": "c-jikan-ga-kakaru",
+   "romaji": "jikan ga kakaru",
+   "english": "take time",
+   "chunk": "Ready and how long",
+   "recent": true
+  },
+  {
+   "id": "c-jikan-ga-tatsu",
+   "romaji": "jikan ga tatsu",
+   "english": "time passes",
+   "chunk": "Ready and how long",
+   "recent": true
+  },
+  {
+   "id": "c-tema-ga-kakaru",
+   "romaji": "tema ga kakaru",
+   "english": "take work, be a hassle",
+   "chunk": "Ready and how long",
+   "recent": true
+  },
+  {
+   "id": "c-yume-o-miru",
+   "romaji": "yume o miru",
+   "english": "have a dream (while asleep)",
+   "chunk": "Bed and waking",
+   "recent": true
+  },
+  {
+   "id": "c-me-ga-sameru",
+   "romaji": "me ga sameru",
+   "english": "wake up (from sleep); feel wide awake (me ga sameta)",
+   "chunk": "Bed and waking",
+   "recent": true
+  },
+  {
+   "id": "c-futon-ni-hairu",
+   "romaji": "futon ni hairu",
+   "english": "get into bed, get under the covers",
+   "chunk": "Bed and waking",
+   "recent": true
+  },
+  {
+   "id": "c-mezamashi-o-kakeru",
+   "romaji": "mezamashi o kakeru",
+   "english": "set an alarm",
+   "chunk": "Bed and waking",
+   "recent": true
+  },
+  {
+   "id": "c-kotatsu-ni-hairu",
+   "romaji": "kotatsu ni hairu",
+   "english": "get under the kotatsu",
+   "chunk": "Bed and waking",
+   "recent": true
+  },
+  {
+   "id": "c-taifuu-ga-kuru",
+   "romaji": "taifuu ga kuru",
+   "english": "a typhoon comes (hits)",
+   "chunk": "Storms and quakes",
+   "recent": true
+  },
+  {
+   "id": "c-jishin-ga-okiru",
+   "romaji": "jishin ga okiru",
+   "english": "an earthquake happens, hits",
+   "chunk": "Storms and quakes",
+   "recent": true
+  },
+  {
+   "id": "c-kaminari-ga-naru",
+   "romaji": "kaminari ga naru",
+   "english": "it thunders; thunder rumbles",
+   "chunk": "Storms and quakes",
+   "recent": true
+  },
+  {
+   "id": "c-tenki-yohou-ga-hazureru",
+   "romaji": "tenki yohou ga hazureru",
+   "english": "the forecast is wrong",
+   "chunk": "Storms and quakes",
+   "recent": true
+  },
+  {
+   "id": "c-seikaku-ga-ii",
+   "romaji": "seikaku ga ii",
+   "english": "be a nice person",
+   "chunk": "Personality and mood",
+   "recent": true
+  },
+  {
+   "id": "c-seikaku-ga-warui",
+   "romaji": "seikaku ga warui",
+   "english": "be mean, nasty",
+   "chunk": "Personality and mood",
+   "recent": true
+  },
+  {
+   "id": "c-kanji-ga-ii",
+   "romaji": "kanji ga ii",
+   "english": "be pleasant, nice (person or place)",
+   "chunk": "Personality and mood",
+   "recent": true
+  },
+  {
+   "id": "c-genki-ga-nai",
+   "romaji": "genki ga nai",
+   "english": "be down, low on energy",
+   "chunk": "Personality and mood",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "yuki",
+   "okaasan"
+  ],
+  "format": "monologue"
+ }
+}

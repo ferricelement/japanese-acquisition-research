@@ -1,0 +1,184 @@
+{
+ "script": 1,
+ "of": 94,
+ "stage": 1,
+ "chunkId": "weather-1",
+ "label": "Rain and snow",
+ "topic": "Weather & nature",
+ "rationale": "What rain and snow do and what you do about it: it's coming down, it has stopped, the umbrella's own verb, and getting rained on.",
+ "mixUps": "ame ga furu and yuki ga furu share furu, so drill them in one frame (soto, ___ futteru yo), and set ame ni furareta (it rained on me) against plain ame futta. Keep ame ga yamu (it stops by itself) apart from yameru (a person quits), and kasa o sasu (have it up) apart from kasa motsu (carry it).",
+ "targets": [
+  {
+   "id": "c-ame-ga-furu",
+   "romaji": "ame ga furu",
+   "polite": "ame ga furimasu",
+   "english": "it rains; rain falls",
+   "ja": "雨が降る",
+   "kana": "あめがふる",
+   "politeJa": "雨が降ります",
+   "noun": "ame",
+   "particle": "ga",
+   "verb": "furu",
+   "verbJa": "降る",
+   "verbSense": "fall from the sky (rain, snow, hail)",
+   "englishVerb": "rain",
+   "trap": "Not ame ga ochiru: rain falls with furu. Once the topic is weather, furu alone means rain: futte kita (it's started raining), furisou da ne (looks like rain).",
+   "partners": [
+    "yuki (snow)",
+    "hyou (hail, rare)"
+   ],
+   "flags": [],
+   "use": "You hear ame futteru (it's raining) most, usually without ga. Plain ame furu points ahead, as in ashita ame furu kana (will it rain tomorrow?).",
+   "notes": "ame furisou = looks like rain; ame futte kita = it's started raining.",
+   "example": {
+    "romaji": "soto, ame futteru yo.",
+    "ja": "外、雨降ってるよ。",
+    "english": "It's raining outside."
+   },
+   "examplePolite": {
+    "romaji": "soto, ame ga futtemasu yo.",
+    "ja": "外、雨が降ってますよ。",
+    "english": "It's raining outside."
+   }
+  },
+  {
+   "id": "c-yuki-ga-furu",
+   "romaji": "yuki ga furu",
+   "polite": "yuki ga furimasu",
+   "english": "it snows",
+   "ja": "雪が降る",
+   "kana": "ゆきがふる",
+   "politeJa": "雪が降ります",
+   "noun": "yuki",
+   "particle": "ga",
+   "verb": "furu",
+   "verbJa": "降る",
+   "verbSense": "fall from the sky (rain, snow, hail)",
+   "englishVerb": "snow",
+   "trap": "Not yuki ga ochiru: snow takes the same furu as rain, so yuki futteru is 'it's snowing'.",
+   "partners": [
+    "ame (rain)",
+    "hyou (hail, rare)"
+   ],
+   "flags": [],
+   "use": "Same shape as ame ga furu: yuki futteru is 'it's snowing', and ashita yuki furu kamo is 'it might snow tomorrow'.",
+   "notes": "Snow lying on the ground is yuki ga tsumoru (yuki tsumotteru = the snow's settled / there's snow on the ground).",
+   "example": {
+    "romaji": "soto, yuki futteru yo!",
+    "ja": "外、雪降ってるよ！",
+    "english": "It's snowing outside!"
+   },
+   "examplePolite": {
+    "romaji": "soto, yuki ga futtemasu yo.",
+    "ja": "外、雪が降ってますよ。",
+    "english": "It's snowing outside."
+   }
+  },
+  {
+   "id": "c-ame-ga-yamu",
+   "romaji": "ame ga yamu",
+   "polite": "ame ga yamimasu",
+   "english": "the rain stops",
+   "ja": "雨がやむ",
+   "kana": "あめがやむ",
+   "politeJa": "雨がやみます",
+   "noun": "ame",
+   "particle": "ga",
+   "verb": "yamu",
+   "verbJa": "止む",
+   "verbSense": "stop or die down by itself (rain, wind, noise)",
+   "englishVerb": "stop",
+   "trap": "Not ame ga tomaru, and not yameru (a person quitting something): rain stops with intransitive yamu.",
+   "partners": [
+    "kaze (wind)",
+    "yuki (snow)",
+    "oto (noise)"
+   ],
+   "flags": [],
+   "use": "Mostly heard as ame yanda? (has it stopped?) or ame yamu made matou (let's wait till it stops). Ima wa yanderu means it has stopped for now, not 'it is stopping'.",
+   "notes": "ame ga agaru (the rain lifts) is a common alternative: ame agatta ne.",
+   "example": {
+    "romaji": "mou ame yanda?",
+    "ja": "もう雨やんだ？",
+    "english": "Has the rain stopped yet?"
+   },
+   "examplePolite": {
+    "romaji": "ame, mou yamimashita ka?",
+    "ja": "雨、もうやみましたか？",
+    "english": "Has the rain stopped yet?"
+   }
+  },
+  {
+   "id": "c-kasa-o-sasu",
+   "romaji": "kasa o sasu",
+   "polite": "kasa o sashimasu",
+   "english": "put up (open) an umbrella; have an umbrella up",
+   "ja": "傘をさす",
+   "kana": "かさをさす",
+   "politeJa": "傘をさします",
+   "noun": "kasa",
+   "particle": "o",
+   "verb": "sasu",
+   "verbJa": "差す",
+   "verbSense": "hold something up over you (an umbrella, a parasol)",
+   "englishVerb": "open",
+   "trap": "Not kasa o akeru: an umbrella you hold up over you is sasu. Hiraku is only the moment of opening it, motsu is carrying it (kasa motteru? = got an umbrella?), and tsukau fits offering one (kasa tsukau? = want to use my umbrella?).",
+   "partners": [
+    "higasa (parasol)"
+   ],
+   "flags": [],
+   "use": "Said about having an umbrella up over you: kasa sashite aruku (walk with an umbrella up), kasa sasanakute ii yo (no need to put it up). Kasa sashiteru means someone has one up. Taking one with you is kasa motte iku, not sasu: kasa motte itta hou ga ii yo (you'd better take an umbrella).",
+   "notes": "Closing it is kasa o tojiru, or kasa o tatamu (fold it up). A different sasu from the 'sting' in ka ni sasareru, though they sound the same.",
+   "example": {
+    "romaji": "kasa sashita hou ga ii yo.",
+    "ja": "傘さしたほうがいいよ。",
+    "english": "You'd better put your umbrella up."
+   },
+   "examplePolite": {
+    "romaji": "kasa o sashita hou ga ii desu yo.",
+    "ja": "傘をさしたほうがいいですよ。",
+    "english": "You'd better put your umbrella up."
+   }
+  },
+  {
+   "id": "c-ame-ni-furareru",
+   "romaji": "ame ni furareru",
+   "polite": "ame ni furaremasu",
+   "english": "get caught in the rain",
+   "ja": "雨に降られる",
+   "kana": "あめにふられる",
+   "politeJa": "雨に降られます",
+   "noun": "ame",
+   "particle": "ni",
+   "verb": "furareru",
+   "verbJa": "降られる",
+   "verbSense": "furu = fall from the sky; the passive furareru means it fell on you, to your cost",
+   "englishVerb": "get caught",
+   "trap": "'Get caught in the rain' points to tsukamaru, but Japanese says the rain fell on you, with furu's suffering passive: ame ni furareta. Ame ni au (run into rain: ame ni atchatta) is just as natural.",
+   "partners": [
+    "yuki (snow)"
+   ],
+   "flags": [],
+   "use": "Almost always past, usually with -chatta: ame ni furarechatta (I got rained on). Ame ga futta just reports the weather; furareta says it happened to you.",
+   "notes": "Getting soaked is nureru: ame ni nurechatta (I got wet in the rain). Ame ni au sounds like au 'meet' but is a different verb (遭う, run into).",
+   "example": {
+    "romaji": "kinou kaeri ni ame ni furarechatta.",
+    "ja": "昨日帰りに雨に降られちゃった。",
+    "english": "I got caught in the rain on the way home yesterday."
+   },
+   "examplePolite": {
+    "romaji": "kinou kaeri ni ame ni furarechaimashita.",
+    "ja": "昨日帰りに雨に降られちゃいました。",
+    "english": "I got caught in the rain on the way home yesterday."
+   }
+  }
+ ],
+ "reviewPool": [],
+ "suggested": {
+  "cast": [
+   "yuki",
+   "kenta"
+  ],
+  "format": "dialogue"
+ }
+}

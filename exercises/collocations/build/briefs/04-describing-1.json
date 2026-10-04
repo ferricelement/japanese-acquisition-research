@@ -1,0 +1,285 @@
+{
+ "script": 4,
+ "of": 94,
+ "stage": 1,
+ "chunkId": "describing-1",
+ "label": "Looks and voice",
+ "topic": "Describing people",
+ "rationale": "Describing what someone looks and sounds like: tall, short, loud, long hair, a good figure.",
+ "mixUps": "Each noun picks its own size word: height is takai/hikui (never ookii or mijikai), hair is nagai, and a loud voice is ookii, since koe ga takai means high-pitched. sutairu ga ii is a good figure, not fashion (that's oshare).",
+ "targets": [
+  {
+   "id": "c-se-ga-takai",
+   "romaji": "se ga takai",
+   "polite": "se ga takai desu",
+   "english": "be tall",
+   "ja": "背が高い",
+   "kana": "せがたかい",
+   "politeJa": "背が高いです",
+   "noun": "se",
+   "particle": "ga",
+   "verb": "takai",
+   "verbJa": "高い",
+   "verbSense": "takai: high; also expensive",
+   "englishVerb": "tall",
+   "trap": "Not kare wa takai: takai on its own is for things (high, expensive), so a person's height needs se ga takai.",
+   "partners": [
+    "tenjou (ceiling)",
+    "hiiru (heels)"
+   ],
+   "flags": [],
+   "use": "The plain way to call someone tall: ano hito, se takai ne, with ga dropped in casual speech. Before a noun, ga often becomes no: se no takai hito (a tall person).",
+   "notes": "Sei ga takai is a common spoken variant. The 'tall' sense of takai applies to a person only inside this phrase. For an exact height, use shinchou: shinchou nan senchi? (how tall are you?).",
+   "example": {
+    "romaji": "uchi no ani, se takai n da.",
+    "ja": "うちの兄、背高いんだ。",
+    "english": "My big brother's tall."
+   },
+   "examplePolite": {
+    "romaji": "uchi no ani wa se ga takai n desu.",
+    "ja": "うちの兄は背が高いんです。",
+    "english": "My older brother is tall."
+   }
+  },
+  {
+   "id": "c-se-ga-hikui",
+   "romaji": "se ga hikui",
+   "polite": "se ga hikui desu",
+   "english": "be short (height)",
+   "ja": "背が低い",
+   "kana": "せがひくい",
+   "politeJa": "背が低いです",
+   "noun": "se",
+   "particle": "ga",
+   "verb": "hikui",
+   "verbJa": "低い",
+   "verbSense": "hikui: low, not high",
+   "englishVerb": "short",
+   "trap": "Not se ga mijikai: in Japanese height is high or low, so short is hikui. Mijikai is for length and duration, never height.",
+   "partners": [
+    "tenjou (ceiling)",
+    "hiiru (heels)"
+   ],
+   "flags": [],
+   "use": "The opposite of se ga takai, often said about yourself: watashi, se hikui kara... Casual speech drops ga.",
+   "notes": "Casual speech also says chiisai (chiisai hito); chibi is teasing slang.",
+   "example": {
+    "romaji": "watashi, se hikui kara, ue no tana todokanai n da.",
+    "ja": "私、背低いから、上の棚届かないんだ。",
+    "english": "I'm short, so I can't reach the top shelf."
+   },
+   "examplePolite": {
+    "romaji": "watashi wa se ga hikui node, ue no tana ni todokanai n desu.",
+    "ja": "私は背が低いので、上の棚に届かないんです。",
+    "english": "I'm short, so I can't reach the top shelf."
+   }
+  },
+  {
+   "id": "c-koe-ga-ookii",
+   "romaji": "koe ga ookii",
+   "polite": "koe ga ookii desu",
+   "english": "have a loud voice, be loud",
+   "ja": "声が大きい",
+   "kana": "こえがおおきい",
+   "politeJa": "声が大きいです",
+   "noun": "koe",
+   "particle": "ga",
+   "verb": "ookii",
+   "verbJa": "大きい",
+   "verbSense": "ookii: big; for sounds and voices, loud",
+   "englishVerb": "loud",
+   "trap": "Not koe ga takai, which in everyday speech means high-pitched. urusai also works for 'you're being noisy', but it sounds annoyed (urusai! = shut up) and calls the person noisy or nagging, not their voice loud. To describe a loud voice, say koe ga ookii (casually koe dekai).",
+   "partners": [
+    "oto (sound)",
+    "boryuumu (volume)"
+   ],
+   "flags": [],
+   "use": "Said about someone who talks loudly (ano hito, koe ookii yo ne) or to quieten someone: chotto, koe ookii! Casual speech drops ga, and friends often say koe dekai (dekai is blunter and more slangy than ookii). The opposite, koe ga chiisai, means quiet or soft-spoken (koe chiisai yo = speak up, I can't hear you).",
+   "notes": "'Speak up' is motto ookii koe de, and 'in a loud voice' is ookina koe de. In older speech and period dramas, shh, koe ga takai! means 'keep your voice down'.",
+   "example": {
+    "romaji": "chotto, koe ookii yo!",
+    "ja": "ちょっと、声大きいよ！",
+    "english": "Hey, you're being loud!"
+   },
+   "examplePolite": {
+    "romaji": "sumimasen, chotto koe ga ookii desu yo.",
+    "ja": "すみません、ちょっと声が大きいですよ。",
+    "english": "Excuse me, you're being a bit loud."
+   }
+  },
+  {
+   "id": "c-kami-ga-nagai",
+   "romaji": "kami ga nagai",
+   "polite": "kami ga nagai desu",
+   "english": "have long hair",
+   "ja": "髪が長い",
+   "kana": "かみがながい",
+   "politeJa": "髪が長いです",
+   "noun": "kami",
+   "particle": "ga",
+   "verb": "nagai",
+   "verbJa": "長い",
+   "verbSense": "nagai: long (length or time)",
+   "englishVerb": "have",
+   "trap": "Not nagai kami o motte iru ('has long hair'): Japanese doesn't 'have' hair. Say kami ga nagai, the same frame as se ga takai, or nagai kami o shite iru, nagai kami no hito.",
+   "partners": [
+    "ashi (legs)",
+    "tsume (nails)",
+    "matsuge (eyelashes)"
+   ],
+   "flags": [],
+   "use": "Describes someone's hair in the person wa kami ga nagai frame: imouto, kami nagai yo, with ga dropped. Before a noun ga becomes no (kami no nagai hito), and 'your hair's got long' is kami nobita ne.",
+   "notes": "Short hair is kami ga mijikai, but people often just say shooto (shooto ni shita = I went short).",
+   "example": {
+    "romaji": "imouto, kami nagai n da yo.",
+    "ja": "妹、髪長いんだよ。",
+    "english": "My little sister's got long hair."
+   },
+   "examplePolite": {
+    "romaji": "imouto wa kami ga nagai n desu yo.",
+    "ja": "妹は髪が長いんですよ。",
+    "english": "My younger sister has long hair."
+   }
+  },
+  {
+   "id": "c-sutairu-ga-ii",
+   "romaji": "sutairu ga ii",
+   "polite": "sutairu ga ii desu",
+   "english": "have a good figure",
+   "ja": "スタイルがいい",
+   "kana": "スタイルがいい",
+   "politeJa": "スタイルがいいです",
+   "noun": "sutairu",
+   "particle": "ga",
+   "verb": "ii",
+   "verbJa": "いい",
+   "verbSense": "ii: good",
+   "englishVerb": "figure",
+   "trap": "False friend: sutairu ga ii is about the body, not fashion. To praise how someone dresses, say oshare or fuku no sensu ga ii.",
+   "partners": [
+    "kao (kao ga ii: good-looking)",
+    "shisei (shisei ga ii: good posture)"
+   ],
+   "flags": [],
+   "use": "A common compliment on someone's figure, usually meaning slim and well-proportioned: sutairu ii ne, with ga dropped. It's said of men and women alike, and an amazing figure is sutairu batsugun.",
+   "notes": "For a toned build, kitaeteru ne (you work out, don't you) is the usual compliment.",
+   "example": {
+    "romaji": "sutairu ii ne! moderu mitai.",
+    "ja": "スタイルいいね！モデルみたい。",
+    "english": "You've got a great figure! Like a model."
+   },
+   "examplePolite": {
+    "romaji": "sutairu ga ii desu ne! moderu mitai desu.",
+    "ja": "スタイルがいいですね！モデルみたいです。",
+    "english": "You have a great figure! You look like a model."
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-ame-ga-furu",
+   "romaji": "ame ga furu",
+   "english": "it rains; rain falls",
+   "chunk": "Rain and snow",
+   "recent": true
+  },
+  {
+   "id": "c-yuki-ga-furu",
+   "romaji": "yuki ga furu",
+   "english": "it snows",
+   "chunk": "Rain and snow",
+   "recent": true
+  },
+  {
+   "id": "c-ame-ga-yamu",
+   "romaji": "ame ga yamu",
+   "english": "the rain stops",
+   "chunk": "Rain and snow",
+   "recent": true
+  },
+  {
+   "id": "c-kasa-o-sasu",
+   "romaji": "kasa o sasu",
+   "english": "put up (open) an umbrella; have an umbrella up",
+   "chunk": "Rain and snow",
+   "recent": true
+  },
+  {
+   "id": "c-ame-ni-furareru",
+   "romaji": "ame ni furareru",
+   "english": "get caught in the rain",
+   "chunk": "Rain and snow",
+   "recent": true
+  },
+  {
+   "id": "c-onaka-ga-suku",
+   "romaji": "onaka ga suku",
+   "english": "get hungry",
+   "chunk": "Hungry, full, thirsty",
+   "recent": true
+  },
+  {
+   "id": "c-onaka-ga-ippai",
+   "romaji": "onaka ga ippai",
+   "english": "be full (after eating)",
+   "chunk": "Hungry, full, thirsty",
+   "recent": true
+  },
+  {
+   "id": "c-nodo-ga-kawaku",
+   "romaji": "nodo ga kawaku",
+   "english": "get thirsty",
+   "chunk": "Hungry, full, thirsty",
+   "recent": true
+  },
+  {
+   "id": "c-onaka-ga-heru",
+   "romaji": "onaka ga heru",
+   "english": "get hungry (blunter, casual)",
+   "chunk": "Hungry, full, thirsty",
+   "recent": true
+  },
+  {
+   "id": "c-uchi-ni-kaeru",
+   "romaji": "uchi ni kaeru",
+   "english": "go home, get home",
+   "chunk": "Out and back",
+   "recent": true
+  },
+  {
+   "id": "c-uchi-o-deru",
+   "romaji": "uchi o deru",
+   "english": "leave the house",
+   "chunk": "Out and back",
+   "recent": true
+  },
+  {
+   "id": "c-soto-ni-deru",
+   "romaji": "soto ni deru",
+   "english": "go outside, step out",
+   "chunk": "Out and back",
+   "recent": true
+  },
+  {
+   "id": "c-kaimono-ni-iku",
+   "romaji": "kaimono ni iku",
+   "english": "go shopping",
+   "chunk": "Out and back",
+   "recent": true
+  },
+  {
+   "id": "c-kaeri-ga-osoi",
+   "romaji": "kaeri ga osoi",
+   "english": "get home late",
+   "chunk": "Out and back",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "mai",
+   "tanaka"
+  ],
+  "format": "dialogue"
+ }
+}

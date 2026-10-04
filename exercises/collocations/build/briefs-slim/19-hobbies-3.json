@@ -1,0 +1,349 @@
+{
+ "script": 19,
+ "of": 94,
+ "stage": 1,
+ "chunkId": "hobbies-3",
+ "label": "Play and lessons",
+ "topic": "Hobbies, sport & games",
+ "rationale": "English 'play' splits in two: games and sports take suru (casually yaru) and instruments take hiku. Taking lessons in any of them is narau.",
+ "mixUps": "asobu tempts for all of them. suru/yaru names the activity or hobby (piano yatteru), hiku is actually playing (piano hikeru?), and narau is lessons with a teacher (piano naratteta), never benkyou suru. Keep this hiku apart from kaze o hiku and omikuji o hiku, which sound the same.",
+ "targets": [
+  {
+   "id": "c-geemu-o-suru",
+   "romaji": "geemu o suru",
+   "polite": "geemu o shimasu",
+   "english": "play games (video games, cards and the like)",
+   "ja": "ゲームをする",
+   "kana": "ゲームをする",
+   "politeJa": "ゲームをします",
+   "noun": "geemu",
+   "particle": "o",
+   "verb": "suru",
+   "verbJa": "する",
+   "verbSense": "do; the general verb, and sports and games are things you 'do'",
+   "englishVerb": "play",
+   "trap": "English 'play' pulls toward asobu. For gaming in general, friends say geemu suru or yaru (geemu yatteru). With a specific title, gamers also say kono geemu asonda?, and geemu de asobu (play around with a game) is fine.",
+   "partners": [
+    "toranpu (playing cards)",
+    "janken (rock-paper-scissors)",
+    "kakurenbo (hide-and-seek)"
+   ],
+   "flags": [],
+   "use": "Use it for video games, and for card or party games too. Casually it is geemu shiteru or geemu yatteru with o dropped, and zutto geemu shiteta means you were gaming the whole time.",
+   "notes": null,
+   "example": {
+    "romaji": "kinou zutto geemu shiteta",
+    "ja": "昨日ずっとゲームしてた",
+    "english": "I was gaming all day yesterday."
+   },
+   "examplePolite": {
+    "romaji": "kinou wa zutto geemu o shitemashita",
+    "ja": "昨日はずっとゲームをしてました",
+    "english": "I was playing games all day yesterday."
+   }
+  },
+  {
+   "id": "c-sakkaa-o-suru",
+   "romaji": "sakkaa o suru",
+   "polite": "sakkaa o shimasu",
+   "english": "play soccer",
+   "ja": "サッカーをする",
+   "kana": "サッカーをする",
+   "politeJa": "サッカーをします",
+   "noun": "sakkaa",
+   "particle": "o",
+   "verb": "suru",
+   "verbJa": "する",
+   "verbSense": "do; the general verb, and sports and games are things you 'do'",
+   "englishVerb": "play",
+   "trap": "Not sakkaa o asobu: asobu means playing around, so a sport takes suru, or casually yaru (sakkaa yatteru).",
+   "partners": [
+    "tenisu (tennis)",
+    "yakyuu (baseball)",
+    "gorufu (golf)",
+    "basuke (basketball)"
+   ],
+   "flags": [],
+   "use": "Use it for playing any sport, whether regularly or right now. In speech you mostly hear sakkaa shiteru or sakkaa yatteru with o dropped, and yatteta means used to play.",
+   "notes": null,
+   "example": {
+    "romaji": "yasumi no hi wa sakkaa shiteru",
+    "ja": "休みの日はサッカーしてる",
+    "english": "On my days off I play soccer."
+   },
+   "examplePolite": {
+    "romaji": "yasumi no hi wa sakkaa o shitemasu",
+    "ja": "休みの日はサッカーをしてます",
+    "english": "I play soccer on my days off."
+   }
+  },
+  {
+   "id": "c-piano-o-hiku",
+   "romaji": "piano o hiku",
+   "polite": "piano o hikimasu",
+   "english": "play the piano",
+   "ja": "ピアノを弾く",
+   "kana": "ピアノをひく",
+   "politeJa": "ピアノを弾きます",
+   "noun": "piano",
+   "particle": "o",
+   "verb": "hiku",
+   "verbJa": "弾く",
+   "verbSense": "play a string or keyboard instrument (plucked, bowed or keyed); wind and drums take other verbs",
+   "englishVerb": "play",
+   "trap": "Not piano o asobu, and not piano o suru carried over from sakkaa o suru: playing the instrument is hiku (piano hiiteru, piano hikeru?). piano yatteru ('I do piano') names it as a hobby, and lessons with a teacher are piano o narau (piano naratteta); neither means playing it right now.",
+   "partners": [
+    "gitaa (guitar)",
+    "baiorin (violin)",
+    "beesu (bass guitar)",
+    "kyoku (a piece of music)"
+   ],
+   "flags": [],
+   "use": "Use it for actually playing the instrument. The common forms are piano hikeru? (can you play the piano?) and piano hiiteru (is playing now, or plays regularly). With hikeru, ga often replaces o: piano ga hikeru.",
+   "notes": "Wind instruments take fuku (fue o fuku) and drums take tataku (taiko o tataku).",
+   "example": {
+    "romaji": "piano hikeru?",
+    "ja": "ピアノ弾ける？",
+    "english": "Can you play the piano?"
+   },
+   "examplePolite": {
+    "romaji": "piano o hikemasu ka?",
+    "ja": "ピアノを弾けますか？",
+    "english": "Can you play the piano?"
+   }
+  },
+  {
+   "id": "c-piano-o-narau",
+   "romaji": "piano o narau",
+   "polite": "piano o naraimasu",
+   "english": "take piano lessons",
+   "ja": "ピアノを習う",
+   "kana": "ピアノをならう",
+   "politeJa": "ピアノを習います",
+   "noun": "piano",
+   "particle": "o",
+   "verb": "narau",
+   "verbJa": "習う",
+   "verbSense": "learn from a teacher, take lessons in",
+   "englishVerb": "learn",
+   "trap": "English 'learn' leads to benkyou suru, but piano o benkyou shita sounds like studying it as a subject. Lessons with a teacher are narau: piano naratteta. oboeru is memorising or picking something up yourself (shigoto oboeta = I've learned the job).",
+   "partners": [
+    "suiei (swimming)",
+    "shuuji (calligraphy)",
+    "eigo (English)",
+    "karate (karate)"
+   ],
+   "flags": [],
+   "use": "Said about lessons with a teacher, now or as a child: piano naratteru (I take lessons), naratteta (I used to). Casual speech drops o. Childhood lessons like this are a standard getting-to-know-you topic.",
+   "notes": "The teacher's side is oshieru (piano o oshiete iru); after-school lessons like this are called naraigoto.",
+   "example": {
+    "romaji": "chiisai koro, piano naratteta.",
+    "ja": "小さい頃、ピアノ習ってた。",
+    "english": "I took piano lessons when I was little."
+   },
+   "examplePolite": {
+    "romaji": "chiisai koro, piano o narattemashita.",
+    "ja": "小さい頃、ピアノを習ってました。",
+    "english": "I took piano lessons when I was little."
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-toire-ni-iku",
+   "romaji": "toire ni iku",
+   "english": "go to the toilet",
+   "chunk": "Bathroom",
+   "recent": true
+  },
+  {
+   "id": "c-shawaa-o-abiru",
+   "romaji": "shawaa o abiru",
+   "english": "take a shower",
+   "chunk": "Bathroom",
+   "recent": true
+  },
+  {
+   "id": "c-ofuro-ni-hairu",
+   "romaji": "ofuro ni hairu",
+   "english": "take a bath",
+   "chunk": "Bathroom",
+   "recent": true
+  },
+  {
+   "id": "c-ha-o-migaku",
+   "romaji": "ha o migaku",
+   "english": "brush your teeth",
+   "chunk": "Bathroom",
+   "recent": true
+  },
+  {
+   "id": "c-hige-o-soru",
+   "romaji": "hige o soru",
+   "english": "shave (your face)",
+   "chunk": "Bathroom",
+   "recent": true
+  },
+  {
+   "id": "c-atama-ga-ii",
+   "romaji": "atama ga ii",
+   "english": "be smart, clever",
+   "chunk": "Smart and skilled",
+   "recent": true
+  },
+  {
+   "id": "c-nihongo-ga-jouzu",
+   "romaji": "nihongo ga jouzu",
+   "english": "be good at Japanese",
+   "chunk": "Smart and skilled",
+   "recent": true
+  },
+  {
+   "id": "c-shigoto-ga-dekiru",
+   "romaji": "shigoto ga dekiru",
+   "english": "be capable, good at one's job",
+   "chunk": "Smart and skilled",
+   "recent": true
+  },
+  {
+   "id": "c-sensu-ga-ii",
+   "romaji": "sensu ga ii",
+   "english": "have good taste, a good eye",
+   "chunk": "Smart and skilled",
+   "recent": true
+  },
+  {
+   "id": "c-asobi-ni-iku",
+   "romaji": "asobi ni iku",
+   "english": "go out for fun; go visit",
+   "chunk": "Going out for fun",
+   "recent": true
+  },
+  {
+   "id": "c-eiga-ni-iku",
+   "romaji": "eiga ni iku",
+   "english": "go to the movies",
+   "chunk": "Going out for fun",
+   "recent": true
+  },
+  {
+   "id": "c-sanpo-ni-iku",
+   "romaji": "sanpo ni iku",
+   "english": "go for a walk",
+   "chunk": "Going out for fun",
+   "recent": true
+  },
+  {
+   "id": "c-karaoke-ni-iku",
+   "romaji": "karaoke ni iku",
+   "english": "go to karaoke",
+   "chunk": "Going out for fun",
+   "recent": true
+  },
+  {
+   "id": "c-shitsumon-ga-aru",
+   "romaji": "shitsumon ga aru",
+   "english": "have a question",
+   "chunk": "Questions and learning",
+   "recent": true
+  },
+  {
+   "id": "c-shitsumon-ni-kotaeru",
+   "romaji": "shitsumon ni kotaeru",
+   "english": "answer a question",
+   "chunk": "Questions and learning",
+   "recent": true
+  },
+  {
+   "id": "c-eigo-o-hanasu",
+   "romaji": "eigo o hanasu",
+   "english": "speak English",
+   "chunk": "Questions and learning",
+   "recent": true
+  },
+  {
+   "id": "c-benkyou-ni-naru",
+   "romaji": "benkyou ni naru",
+   "english": "be instructive; learn a lot",
+   "chunk": "Questions and learning",
+   "recent": true
+  },
+  {
+   "id": "c-atama-ga-itai",
+   "romaji": "atama ga itai",
+   "english": "have a headache",
+   "chunk": "Aches and pains",
+   "recent": true
+  },
+  {
+   "id": "c-onaka-ga-itai",
+   "romaji": "onaka ga itai",
+   "english": "have a stomachache",
+   "chunk": "Aches and pains",
+   "recent": true
+  },
+  {
+   "id": "c-nodo-ga-itai",
+   "romaji": "nodo ga itai",
+   "english": "have a sore throat",
+   "chunk": "Aches and pains",
+   "recent": true
+  },
+  {
+   "id": "c-koshi-ga-itai",
+   "romaji": "koshi ga itai",
+   "english": "have lower back pain",
+   "chunk": "Aches and pains",
+   "recent": true
+  },
+  {
+   "id": "c-kata-ga-koru",
+   "romaji": "kata ga koru",
+   "english": "have stiff shoulders",
+   "chunk": "Aches and pains",
+   "recent": true
+  },
+  {
+   "id": "c-tomodachi-ga-dekiru",
+   "romaji": "tomodachi ga dekiru",
+   "english": "make a friend, make friends",
+   "chunk": "Making friends",
+   "recent": true
+  },
+  {
+   "id": "c-tomodachi-ni-naru",
+   "romaji": "tomodachi ni naru",
+   "english": "become friends (with someone)",
+   "chunk": "Making friends",
+   "recent": true
+  },
+  {
+   "id": "c-namae-o-oshieru",
+   "romaji": "namae o oshieru",
+   "english": "tell someone your name",
+   "chunk": "Making friends",
+   "recent": true
+  },
+  {
+   "id": "c-koe-o-kakeru",
+   "romaji": "koe o kakeru",
+   "english": "speak to, call out to; ask along",
+   "chunk": "Making friends",
+   "recent": true
+  },
+  {
+   "id": "c-deai-ga-aru",
+   "romaji": "deai ga aru",
+   "english": "meet someone new",
+   "chunk": "Making friends",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "okaasan",
+   "kenji"
+  ],
+  "format": "dialogue"
+ }
+}

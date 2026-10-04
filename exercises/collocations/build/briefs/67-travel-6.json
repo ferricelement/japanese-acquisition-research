@@ -1,0 +1,2206 @@
+{
+ "script": 67,
+ "of": 94,
+ "stage": 3,
+ "chunkId": "travel-6",
+ "label": "Finding the way",
+ "topic": "Getting around",
+ "rationale": "Directions and losing your way: turning left at the corner, getting lost, going the wrong way, getting separated.",
+ "mixUps": "The corner takes o and the side takes ni (tsugi no kado o hidari ni magaru), and turning is magaru, not mawaru. mayou means you don't know where you are, machigaeru means you took the wrong road, and maigo means you got separated, like a lost child.",
+ "targets": [
+  {
+   "id": "c-hidari-ni-magaru",
+   "romaji": "hidari ni magaru",
+   "polite": "hidari ni magarimasu",
+   "english": "turn left",
+   "ja": "左に曲がる",
+   "kana": "ひだりにまがる",
+   "politeJa": "左に曲がります",
+   "noun": "hidari",
+   "particle": "ni",
+   "verb": "magaru",
+   "verbJa": "曲がる",
+   "verbSense": "bend; turn (when moving along a road)",
+   "englishVerb": "turn",
+   "trap": "Not hidari ni mawaru: mawaru is spin or go round; turning at a corner or light is magaru.",
+   "partners": [
+    "migi (right)",
+    "kotchi (this way)"
+   ],
+   "flags": [],
+   "use": "Heard in directions, mostly as the te-form request hidari ni magatte, often with the corner or light first, which takes o or de (tsugi no kado o / de hidari ni magatte). The side takes ni, sometimes e; migi ni magaru (turn right) works the same. In a taxi the verb often drops: tsugi, hidari de onegaishimasu.",
+   "notes": "Drivers and car navigation also say sasetsu / usetsu (left / right turn): koko usetsu dekinai yo (you can't turn right here).",
+   "example": {
+    "romaji": "koko, hidari ni magaru n da yo ne?",
+    "ja": "ここ、左に曲がるんだよね？",
+    "english": "We turn left here, right?"
+   },
+   "examplePolite": {
+    "romaji": "koko o hidari ni magaru n desu yo ne?",
+    "ja": "ここを左に曲がるんですよね？",
+    "english": "We turn left here, don't we?"
+   }
+  },
+  {
+   "id": "c-kado-o-magaru",
+   "romaji": "kado o magaru",
+   "polite": "kado o magarimasu",
+   "english": "turn at the corner",
+   "ja": "角を曲がる",
+   "kana": "かどをまがる",
+   "politeJa": "角を曲がります",
+   "noun": "kado",
+   "particle": "o",
+   "verb": "magaru",
+   "verbJa": "曲がる",
+   "verbSense": "bend; turn (when moving along a road)",
+   "englishVerb": "turn",
+   "trap": "Not kado ni magaru: ni marks the side (migi ni), so the corner takes o (de also works: kado de migi ni magatte). kado o mawatta tokoro (just round the corner) is also fine, but a turn with a side named is magaru.",
+   "partners": [
+    "kousaten (crossroads)",
+    "shingou (traffic light)",
+    "tsukiatari (end of the street)"
+   ],
+   "flags": [],
+   "use": "Heard in directions. The corner takes o because you go round it, and the side takes ni: futatsume no kado o migi ni magatte (turn right at the second corner). With no side named, kado magattara (once you turn the corner) says a place is just round it.",
+   "notes": "A street corner is kado; the inside corner of a room is sumi (heya no sumi).",
+   "example": {
+    "romaji": "ano kado magattara, sugu da yo.",
+    "ja": "あの角曲がったら、すぐだよ。",
+    "english": "It's just round that corner."
+   },
+   "examplePolite": {
+    "romaji": "ano kado o magattara, sugu desu yo.",
+    "ja": "あの角を曲がったら、すぐですよ。",
+    "english": "It's just around that corner."
+   }
+  },
+  {
+   "id": "c-michi-ni-mayou",
+   "romaji": "michi ni mayou",
+   "polite": "michi ni mayoimasu",
+   "english": "get lost",
+   "ja": "道に迷う",
+   "kana": "みちにまよう",
+   "politeJa": "道に迷います",
+   "noun": "michi",
+   "particle": "ni",
+   "verb": "mayou",
+   "verbJa": "迷う",
+   "verbSense": "lose your way; also hesitate, can't decide",
+   "englishVerb": "lose",
+   "trap": "Not michi o nakusu or michi o ushinau: nakusu is for losing things, and being lost is michi ni mayou ('stray on the road').",
+   "partners": [],
+   "flags": [],
+   "use": "Usually mayotta or mayotchatta (I've got lost) once the context is clear, like English 'I'm lost'. ima mayotteru (I'm lost right now) works just as well, and michi mayotte... explains why you're late. michi ni mayotta spells it out.",
+   "notes": "The place you got lost in takes de: eki no naka de mayotta. Taking the wrong road on a route you know is michi o machigaeru (michi machigaeta). Getting separated from the people you're with, like a child in a shop, is maigo ni naru. Asking the way is michi o kiku: sumimasen, chotto michi o kikitai n desu kedo.",
+   "example": {
+    "romaji": "gomen, michi mayotte, chotto okureru.",
+    "ja": "ごめん、道迷って、ちょっと遅れる。",
+    "english": "Sorry, I got lost, I'll be a bit late."
+   },
+   "examplePolite": {
+    "romaji": "sumimasen, michi ni mayotte, sukoshi okuremasu.",
+    "ja": "すみません、道に迷って、少し遅れます。",
+    "english": "Sorry, I got lost, so I'll be a little late."
+   }
+  },
+  {
+   "id": "c-michi-o-machigaeru",
+   "romaji": "michi o machigaeru",
+   "polite": "michi o machigaemasu",
+   "english": "go the wrong way",
+   "ja": "道を間違える",
+   "kana": "みちをまちがえる",
+   "politeJa": "道を間違えます",
+   "noun": "michi",
+   "particle": "o",
+   "verb": "machigaeru",
+   "verbJa": "間違える",
+   "verbSense": "get wrong; mistake one thing for another",
+   "englishVerb": "go",
+   "trap": "A word-for-word machigatta michi ni itta is understood but stiff, and machigatta michi mostly means the wrong path in life. For a route, the road is the object: michi machigaeta (casually also michi machigatteru). michi ni mayou is different: being lost, with no idea where you are.",
+   "partners": [
+    "densha (train)",
+    "deguchi (exit)",
+    "basho (place)",
+    "heya (room)"
+   ],
+   "flags": [],
+   "use": "Mostly in the past, michi machigaeta (I went the wrong way), often as the reason you're late. Casual speech drops o, and the same frame covers the wrong train or exit: densha machigaeta, deguchi machigaeta.",
+   "notes": "Getting on the train going the other way is hantai no densha ni notchatta.",
+   "example": {
+    "romaji": "a, michi machigaeta kamo.",
+    "ja": "あ、道間違えたかも。",
+    "english": "Oh, I think we went the wrong way."
+   },
+   "examplePolite": {
+    "romaji": "a, michi o machigaeta kamo shiremasen.",
+    "ja": "あ、道を間違えたかもしれません。",
+    "english": "Oh, I think we may have gone the wrong way."
+   }
+  },
+  {
+   "id": "c-maigo-ni-naru",
+   "romaji": "maigo ni naru",
+   "polite": "maigo ni narimasu",
+   "english": "get lost (wander off, like a lost child)",
+   "ja": "迷子になる",
+   "kana": "まいごになる",
+   "politeJa": "迷子になります",
+   "noun": "maigo",
+   "particle": "ni",
+   "verb": "naru",
+   "verbJa": "なる",
+   "verbSense": "become, turn into",
+   "englishVerb": "get lost",
+   "trap": "Not maigo suru: maigo is a noun ('lost child'), so you become one, maigo ni natta.",
+   "partners": [],
+   "flags": [],
+   "use": "Mostly about children who wander off (kodomo no koro, maigo ni natta koto aru = I got lost once as a kid) or a companion lost in a crowd. Adults say it of themselves half-jokingly, in a huge station or mall. For an adult who simply can't find the way, indoors or out, the default is mayotta (michi ni mayou). The ni usually stays.",
+   "notes": "Getting separated from your group in a crowd is hagureru: tomodachi to hagurechatta.",
+   "example": {
+    "romaji": "hito ooi kara, maigo ni naranaide ne.",
+    "ja": "人多いから、迷子にならないでね。",
+    "english": "There are lots of people, so don't get lost."
+   },
+   "examplePolite": {
+    "romaji": "hito ga ooi node, maigo ni naranaide kudasai ne.",
+    "ja": "人が多いので、迷子にならないでくださいね。",
+    "english": "There are lots of people, so please don't get lost."
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-ame-ga-furu",
+   "romaji": "ame ga furu",
+   "english": "it rains; rain falls",
+   "chunk": "Rain and snow",
+   "recent": false
+  },
+  {
+   "id": "c-yuki-ga-furu",
+   "romaji": "yuki ga furu",
+   "english": "it snows",
+   "chunk": "Rain and snow",
+   "recent": false
+  },
+  {
+   "id": "c-ame-ga-yamu",
+   "romaji": "ame ga yamu",
+   "english": "the rain stops",
+   "chunk": "Rain and snow",
+   "recent": false
+  },
+  {
+   "id": "c-kasa-o-sasu",
+   "romaji": "kasa o sasu",
+   "english": "put up (open) an umbrella; have an umbrella up",
+   "chunk": "Rain and snow",
+   "recent": false
+  },
+  {
+   "id": "c-ame-ni-furareru",
+   "romaji": "ame ni furareru",
+   "english": "get caught in the rain",
+   "chunk": "Rain and snow",
+   "recent": false
+  },
+  {
+   "id": "c-onaka-ga-suku",
+   "romaji": "onaka ga suku",
+   "english": "get hungry",
+   "chunk": "Hungry, full, thirsty",
+   "recent": false
+  },
+  {
+   "id": "c-onaka-ga-ippai",
+   "romaji": "onaka ga ippai",
+   "english": "be full (after eating)",
+   "chunk": "Hungry, full, thirsty",
+   "recent": false
+  },
+  {
+   "id": "c-nodo-ga-kawaku",
+   "romaji": "nodo ga kawaku",
+   "english": "get thirsty",
+   "chunk": "Hungry, full, thirsty",
+   "recent": false
+  },
+  {
+   "id": "c-onaka-ga-heru",
+   "romaji": "onaka ga heru",
+   "english": "get hungry (blunter, casual)",
+   "chunk": "Hungry, full, thirsty",
+   "recent": false
+  },
+  {
+   "id": "c-uchi-ni-kaeru",
+   "romaji": "uchi ni kaeru",
+   "english": "go home, get home",
+   "chunk": "Out and back",
+   "recent": false
+  },
+  {
+   "id": "c-uchi-o-deru",
+   "romaji": "uchi o deru",
+   "english": "leave the house",
+   "chunk": "Out and back",
+   "recent": false
+  },
+  {
+   "id": "c-soto-ni-deru",
+   "romaji": "soto ni deru",
+   "english": "go outside, step out",
+   "chunk": "Out and back",
+   "recent": false
+  },
+  {
+   "id": "c-kaimono-ni-iku",
+   "romaji": "kaimono ni iku",
+   "english": "go shopping",
+   "chunk": "Out and back",
+   "recent": false
+  },
+  {
+   "id": "c-kaeri-ga-osoi",
+   "romaji": "kaeri ga osoi",
+   "english": "get home late",
+   "chunk": "Out and back",
+   "recent": false
+  },
+  {
+   "id": "c-se-ga-takai",
+   "romaji": "se ga takai",
+   "english": "be tall",
+   "chunk": "Looks and voice",
+   "recent": false
+  },
+  {
+   "id": "c-se-ga-hikui",
+   "romaji": "se ga hikui",
+   "english": "be short (height)",
+   "chunk": "Looks and voice",
+   "recent": false
+  },
+  {
+   "id": "c-koe-ga-ookii",
+   "romaji": "koe ga ookii",
+   "english": "have a loud voice, be loud",
+   "chunk": "Looks and voice",
+   "recent": false
+  },
+  {
+   "id": "c-kami-ga-nagai",
+   "romaji": "kami ga nagai",
+   "english": "have long hair",
+   "chunk": "Looks and voice",
+   "recent": false
+  },
+  {
+   "id": "c-sutairu-ga-ii",
+   "romaji": "sutairu ga ii",
+   "english": "have a good figure",
+   "chunk": "Looks and voice",
+   "recent": false
+  },
+  {
+   "id": "c-densha-ni-noru",
+   "romaji": "densha ni noru",
+   "english": "ride / get on the train",
+   "chunk": "Getting on and off",
+   "recent": false
+  },
+  {
+   "id": "c-basu-ni-noru",
+   "romaji": "basu ni noru",
+   "english": "take the bus",
+   "chunk": "Getting on and off",
+   "recent": false
+  },
+  {
+   "id": "c-kuruma-ni-noru",
+   "romaji": "kuruma ni noru",
+   "english": "get in / ride in a car",
+   "chunk": "Getting on and off",
+   "recent": false
+  },
+  {
+   "id": "c-densha-o-oriru",
+   "romaji": "densha o oriru",
+   "english": "get off the train",
+   "chunk": "Getting on and off",
+   "recent": false
+  },
+  {
+   "id": "c-jitensha-ni-noru",
+   "romaji": "jitensha ni noru",
+   "english": "ride a bike",
+   "chunk": "Getting on and off",
+   "recent": false
+  },
+  {
+   "id": "c-gakkou-ni-iku",
+   "romaji": "gakkou ni iku",
+   "english": "go to school",
+   "chunk": "School and work days",
+   "recent": false
+  },
+  {
+   "id": "c-shigoto-ni-iku",
+   "romaji": "shigoto ni iku",
+   "english": "go to work",
+   "chunk": "School and work days",
+   "recent": false
+  },
+  {
+   "id": "c-shigoto-ga-owaru",
+   "romaji": "shigoto ga owaru",
+   "english": "get off work",
+   "chunk": "School and work days",
+   "recent": false
+  },
+  {
+   "id": "c-shigoto-ga-isogashii",
+   "romaji": "shigoto ga isogashii",
+   "english": "be busy with work",
+   "chunk": "School and work days",
+   "recent": false
+  },
+  {
+   "id": "c-kimochi-ga-ii",
+   "romaji": "kimochi ga ii",
+   "english": "feels good, feels nice",
+   "chunk": "Feels good or bad",
+   "recent": false
+  },
+  {
+   "id": "c-kimochi-ga-warui",
+   "romaji": "kimochi ga warui",
+   "english": "feel queasy, feel nauseous; gross, creepy",
+   "chunk": "Feels good or bad",
+   "recent": false
+  },
+  {
+   "id": "c-kibun-ga-ii",
+   "romaji": "kibun ga ii",
+   "english": "be in a good mood; feel well",
+   "chunk": "Feels good or bad",
+   "recent": false
+  },
+  {
+   "id": "c-kigen-ga-warui",
+   "romaji": "kigen ga warui",
+   "english": "be in a bad mood, grumpy",
+   "chunk": "Feels good or bad",
+   "recent": false
+  },
+  {
+   "id": "c-igokochi-ga-ii",
+   "romaji": "igokochi ga ii",
+   "english": "comfortable to be in, cosy",
+   "chunk": "Feels good or bad",
+   "recent": false
+  },
+  {
+   "id": "c-hon-o-yomu",
+   "romaji": "hon o yomu",
+   "english": "read a book",
+   "chunk": "Read, watch, sing, draw",
+   "recent": false
+  },
+  {
+   "id": "c-eiga-o-miru",
+   "romaji": "eiga o miru",
+   "english": "watch a movie",
+   "chunk": "Read, watch, sing, draw",
+   "recent": false
+  },
+  {
+   "id": "c-uta-o-utau",
+   "romaji": "uta o utau",
+   "english": "sing a song",
+   "chunk": "Read, watch, sing, draw",
+   "recent": false
+  },
+  {
+   "id": "c-e-o-kaku",
+   "romaji": "e o kaku",
+   "english": "draw or paint a picture",
+   "chunk": "Read, watch, sing, draw",
+   "recent": false
+  },
+  {
+   "id": "c-hanashi-o-suru",
+   "romaji": "hanashi o suru",
+   "english": "talk, have a talk",
+   "chunk": "Talking to people",
+   "recent": false
+  },
+  {
+   "id": "c-hanashi-o-kiku",
+   "romaji": "hanashi o kiku",
+   "english": "listen to someone, hear someone out",
+   "chunk": "Talking to people",
+   "recent": false
+  },
+  {
+   "id": "c-hanashi-ga-aru",
+   "romaji": "hanashi ga aru",
+   "english": "need to talk (to you)",
+   "chunk": "Talking to people",
+   "recent": false
+  },
+  {
+   "id": "c-hanashi-ga-nagai",
+   "romaji": "hanashi ga nagai",
+   "english": "be long-winded, go on forever",
+   "chunk": "Talking to people",
+   "recent": false
+  },
+  {
+   "id": "c-jikan-ga-nai",
+   "romaji": "jikan ga nai",
+   "english": "have no time",
+   "chunk": "No time, no money",
+   "recent": false
+  },
+  {
+   "id": "c-hima-ga-nai",
+   "romaji": "hima ga nai",
+   "english": "have no free time",
+   "chunk": "No time, no money",
+   "recent": false
+  },
+  {
+   "id": "c-okane-ga-nai",
+   "romaji": "okane ga nai",
+   "english": "have no money, be broke",
+   "chunk": "No time, no money",
+   "recent": false
+  },
+  {
+   "id": "c-okane-ga-tarinai",
+   "romaji": "okane ga tarinai",
+   "english": "be short of money",
+   "chunk": "No time, no money",
+   "recent": false
+  },
+  {
+   "id": "c-yoyuu-ga-nai",
+   "romaji": "yoyuu ga nai",
+   "english": "have nothing to spare",
+   "chunk": "No time, no money",
+   "recent": false
+  },
+  {
+   "id": "c-tenki-ga-ii",
+   "romaji": "tenki ga ii",
+   "english": "the weather is nice",
+   "chunk": "Weather and wind",
+   "recent": false
+  },
+  {
+   "id": "c-kaze-ga-tsuyoi",
+   "romaji": "kaze ga tsuyoi",
+   "english": "it's windy",
+   "chunk": "Weather and wind",
+   "recent": false
+  },
+  {
+   "id": "c-ame-ga-tsuyoi",
+   "romaji": "ame ga tsuyoi",
+   "english": "the rain is heavy",
+   "chunk": "Weather and wind",
+   "recent": false
+  },
+  {
+   "id": "c-kaze-ga-fuku",
+   "romaji": "kaze ga fuku",
+   "english": "the wind blows",
+   "chunk": "Weather and wind",
+   "recent": false
+  },
+  {
+   "id": "c-kaze-ni-ataru",
+   "romaji": "kaze ni ataru",
+   "english": "get some (fresh) air",
+   "chunk": "Weather and wind",
+   "recent": false
+  },
+  {
+   "id": "c-te-o-arau",
+   "romaji": "te o arau",
+   "english": "wash your hands",
+   "chunk": "Washing and grooming",
+   "recent": false
+  },
+  {
+   "id": "c-kao-o-arau",
+   "romaji": "kao o arau",
+   "english": "wash your face",
+   "chunk": "Washing and grooming",
+   "recent": false
+  },
+  {
+   "id": "c-kami-o-arau",
+   "romaji": "kami o arau",
+   "english": "wash your hair",
+   "chunk": "Washing and grooming",
+   "recent": false
+  },
+  {
+   "id": "c-kami-o-kiru",
+   "romaji": "kami o kiru",
+   "english": "get a haircut",
+   "chunk": "Washing and grooming",
+   "recent": false
+  },
+  {
+   "id": "c-tsume-o-kiru",
+   "romaji": "tsume o kiru",
+   "english": "cut your nails",
+   "chunk": "Washing and grooming",
+   "recent": false
+  },
+  {
+   "id": "c-toire-ni-iku",
+   "romaji": "toire ni iku",
+   "english": "go to the toilet",
+   "chunk": "Bathroom",
+   "recent": false
+  },
+  {
+   "id": "c-shawaa-o-abiru",
+   "romaji": "shawaa o abiru",
+   "english": "take a shower",
+   "chunk": "Bathroom",
+   "recent": false
+  },
+  {
+   "id": "c-ofuro-ni-hairu",
+   "romaji": "ofuro ni hairu",
+   "english": "take a bath",
+   "chunk": "Bathroom",
+   "recent": false
+  },
+  {
+   "id": "c-ha-o-migaku",
+   "romaji": "ha o migaku",
+   "english": "brush your teeth",
+   "chunk": "Bathroom",
+   "recent": false
+  },
+  {
+   "id": "c-hige-o-soru",
+   "romaji": "hige o soru",
+   "english": "shave (your face)",
+   "chunk": "Bathroom",
+   "recent": false
+  },
+  {
+   "id": "c-atama-ga-ii",
+   "romaji": "atama ga ii",
+   "english": "be smart, clever",
+   "chunk": "Smart and skilled",
+   "recent": false
+  },
+  {
+   "id": "c-nihongo-ga-jouzu",
+   "romaji": "nihongo ga jouzu",
+   "english": "be good at Japanese",
+   "chunk": "Smart and skilled",
+   "recent": false
+  },
+  {
+   "id": "c-shigoto-ga-dekiru",
+   "romaji": "shigoto ga dekiru",
+   "english": "be capable, good at one's job",
+   "chunk": "Smart and skilled",
+   "recent": false
+  },
+  {
+   "id": "c-sensu-ga-ii",
+   "romaji": "sensu ga ii",
+   "english": "have good taste, a good eye",
+   "chunk": "Smart and skilled",
+   "recent": false
+  },
+  {
+   "id": "c-asobi-ni-iku",
+   "romaji": "asobi ni iku",
+   "english": "go out for fun; go visit",
+   "chunk": "Going out for fun",
+   "recent": false
+  },
+  {
+   "id": "c-eiga-ni-iku",
+   "romaji": "eiga ni iku",
+   "english": "go to the movies",
+   "chunk": "Going out for fun",
+   "recent": false
+  },
+  {
+   "id": "c-sanpo-ni-iku",
+   "romaji": "sanpo ni iku",
+   "english": "go for a walk",
+   "chunk": "Going out for fun",
+   "recent": false
+  },
+  {
+   "id": "c-karaoke-ni-iku",
+   "romaji": "karaoke ni iku",
+   "english": "go to karaoke",
+   "chunk": "Going out for fun",
+   "recent": false
+  },
+  {
+   "id": "c-shitsumon-ga-aru",
+   "romaji": "shitsumon ga aru",
+   "english": "have a question",
+   "chunk": "Questions and learning",
+   "recent": false
+  },
+  {
+   "id": "c-shitsumon-ni-kotaeru",
+   "romaji": "shitsumon ni kotaeru",
+   "english": "answer a question",
+   "chunk": "Questions and learning",
+   "recent": false
+  },
+  {
+   "id": "c-eigo-o-hanasu",
+   "romaji": "eigo o hanasu",
+   "english": "speak English",
+   "chunk": "Questions and learning",
+   "recent": false
+  },
+  {
+   "id": "c-benkyou-ni-naru",
+   "romaji": "benkyou ni naru",
+   "english": "be instructive; learn a lot",
+   "chunk": "Questions and learning",
+   "recent": false
+  },
+  {
+   "id": "c-atama-ga-itai",
+   "romaji": "atama ga itai",
+   "english": "have a headache",
+   "chunk": "Aches and pains",
+   "recent": false
+  },
+  {
+   "id": "c-onaka-ga-itai",
+   "romaji": "onaka ga itai",
+   "english": "have a stomachache",
+   "chunk": "Aches and pains",
+   "recent": false
+  },
+  {
+   "id": "c-nodo-ga-itai",
+   "romaji": "nodo ga itai",
+   "english": "have a sore throat",
+   "chunk": "Aches and pains",
+   "recent": false
+  },
+  {
+   "id": "c-koshi-ga-itai",
+   "romaji": "koshi ga itai",
+   "english": "have lower back pain",
+   "chunk": "Aches and pains",
+   "recent": false
+  },
+  {
+   "id": "c-kata-ga-koru",
+   "romaji": "kata ga koru",
+   "english": "have stiff shoulders",
+   "chunk": "Aches and pains",
+   "recent": false
+  },
+  {
+   "id": "c-tomodachi-ga-dekiru",
+   "romaji": "tomodachi ga dekiru",
+   "english": "make a friend, make friends",
+   "chunk": "Making friends",
+   "recent": false
+  },
+  {
+   "id": "c-tomodachi-ni-naru",
+   "romaji": "tomodachi ni naru",
+   "english": "become friends (with someone)",
+   "chunk": "Making friends",
+   "recent": false
+  },
+  {
+   "id": "c-namae-o-oshieru",
+   "romaji": "namae o oshieru",
+   "english": "tell someone your name",
+   "chunk": "Making friends",
+   "recent": false
+  },
+  {
+   "id": "c-koe-o-kakeru",
+   "romaji": "koe o kakeru",
+   "english": "speak to, call out to; ask along",
+   "chunk": "Making friends",
+   "recent": false
+  },
+  {
+   "id": "c-deai-ga-aru",
+   "romaji": "deai ga aru",
+   "english": "meet someone new",
+   "chunk": "Making friends",
+   "recent": false
+  },
+  {
+   "id": "c-geemu-o-suru",
+   "romaji": "geemu o suru",
+   "english": "play games (video games, cards and the like)",
+   "chunk": "Play and lessons",
+   "recent": false
+  },
+  {
+   "id": "c-sakkaa-o-suru",
+   "romaji": "sakkaa o suru",
+   "english": "play soccer",
+   "chunk": "Play and lessons",
+   "recent": false
+  },
+  {
+   "id": "c-piano-o-hiku",
+   "romaji": "piano o hiku",
+   "english": "play the piano",
+   "chunk": "Play and lessons",
+   "recent": false
+  },
+  {
+   "id": "c-piano-o-narau",
+   "romaji": "piano o narau",
+   "english": "take piano lessons",
+   "chunk": "Play and lessons",
+   "recent": false
+  },
+  {
+   "id": "c-guai-ga-warui",
+   "romaji": "guai ga warui",
+   "english": "feel unwell",
+   "chunk": "Feeling unwell",
+   "recent": false
+  },
+  {
+   "id": "c-taichou-ga-warui",
+   "romaji": "taichou ga warui",
+   "english": "not feel well, be under the weather (the safe phrase at work)",
+   "chunk": "Feeling unwell",
+   "recent": false
+  },
+  {
+   "id": "c-choushi-ga-warui",
+   "romaji": "choushi ga warui",
+   "english": "feel off; act up (devices)",
+   "chunk": "Feeling unwell",
+   "recent": false
+  },
+  {
+   "id": "c-choushi-ga-ii",
+   "romaji": "choushi ga ii",
+   "english": "be in good shape, going well",
+   "chunk": "Feeling unwell",
+   "recent": false
+  },
+  {
+   "id": "c-kibun-ga-warui",
+   "romaji": "kibun ga warui",
+   "english": "feel sick (queasy or faint); feel put off",
+   "chunk": "Feeling unwell",
+   "recent": false
+  },
+  {
+   "id": "c-jugyou-ga-aru",
+   "romaji": "jugyou ga aru",
+   "english": "have class",
+   "chunk": "What's on",
+   "recent": false
+  },
+  {
+   "id": "c-kaigi-ga-aru",
+   "romaji": "kaigi ga aru",
+   "english": "have a meeting",
+   "chunk": "What's on",
+   "recent": false
+  },
+  {
+   "id": "c-shiken-ga-aru",
+   "romaji": "shiken ga aru",
+   "english": "have an exam",
+   "chunk": "What's on",
+   "recent": false
+  },
+  {
+   "id": "c-shigoto-ga-hairu",
+   "romaji": "shigoto ga hairu",
+   "english": "work comes up",
+   "chunk": "What's on",
+   "recent": false
+  },
+  {
+   "id": "c-enki-ni-naru",
+   "romaji": "enki ni naru",
+   "english": "be postponed",
+   "chunk": "What's on",
+   "recent": false
+  },
+  {
+   "id": "c-un-ga-ii",
+   "romaji": "un ga ii",
+   "english": "be lucky",
+   "chunk": "Luck and help",
+   "recent": false
+  },
+  {
+   "id": "c-un-ga-warui",
+   "romaji": "un ga warui",
+   "english": "be unlucky",
+   "chunk": "Luck and help",
+   "recent": false
+  },
+  {
+   "id": "c-yaku-ni-tatsu",
+   "romaji": "yaku ni tatsu",
+   "english": "be useful, helpful",
+   "chunk": "Luck and help",
+   "recent": false
+  },
+  {
+   "id": "c-tame-ni-naru",
+   "romaji": "tame ni naru",
+   "english": "be worthwhile, do you good",
+   "chunk": "Luck and help",
+   "recent": false
+  },
+  {
+   "id": "c-mizu-o-nomu",
+   "romaji": "mizu o nomu",
+   "english": "drink water",
+   "chunk": "Drinks",
+   "recent": false
+  },
+  {
+   "id": "c-koohii-o-nomu",
+   "romaji": "koohii o nomu",
+   "english": "drink coffee",
+   "chunk": "Drinks",
+   "recent": false
+  },
+  {
+   "id": "c-osake-o-nomu",
+   "romaji": "osake o nomu",
+   "english": "drink (alcohol)",
+   "chunk": "Drinks",
+   "recent": false
+  },
+  {
+   "id": "c-ocha-o-nomu",
+   "romaji": "ocha o nomu",
+   "english": "have tea, drink tea",
+   "chunk": "Drinks",
+   "recent": false
+  },
+  {
+   "id": "c-gohan-o-taberu",
+   "romaji": "gohan o taberu",
+   "english": "eat, have a meal",
+   "chunk": "Meals at home",
+   "recent": false
+  },
+  {
+   "id": "c-gohan-o-tsukuru",
+   "romaji": "gohan o tsukuru",
+   "english": "cook a meal, make dinner",
+   "chunk": "Meals at home",
+   "recent": false
+  },
+  {
+   "id": "c-gohan-ga-dekiru",
+   "romaji": "gohan ga dekiru",
+   "english": "the meal gets ready (dekita = it's ready)",
+   "chunk": "Meals at home",
+   "recent": false
+  },
+  {
+   "id": "c-gohan-ga-sameru",
+   "romaji": "gohan ga sameru",
+   "english": "the food gets cold",
+   "chunk": "Meals at home",
+   "recent": false
+  },
+  {
+   "id": "c-kaze-o-hiku",
+   "romaji": "kaze o hiku",
+   "english": "catch a cold",
+   "chunk": "Getting sick",
+   "recent": false
+  },
+  {
+   "id": "c-kaze-ga-utsuru",
+   "romaji": "kaze ga utsuru",
+   "english": "catch someone's cold",
+   "chunk": "Getting sick",
+   "recent": false
+  },
+  {
+   "id": "c-byouki-ni-naru",
+   "romaji": "byouki ni naru",
+   "english": "get sick, fall ill",
+   "chunk": "Getting sick",
+   "recent": false
+  },
+  {
+   "id": "c-taichou-o-kuzusu",
+   "romaji": "taichou o kuzusu",
+   "english": "get run down, fall ill",
+   "chunk": "Getting sick",
+   "recent": false
+  },
+  {
+   "id": "c-onaka-o-kowasu",
+   "romaji": "onaka o kowasu",
+   "english": "get an upset stomach",
+   "chunk": "Getting sick",
+   "recent": false
+  },
+  {
+   "id": "c-fuku-o-kiru",
+   "romaji": "fuku o kiru",
+   "english": "put on / wear clothes",
+   "chunk": "Clothes and shoes",
+   "recent": false
+  },
+  {
+   "id": "c-kutsu-o-haku",
+   "romaji": "kutsu o haku",
+   "english": "put on / wear shoes",
+   "chunk": "Clothes and shoes",
+   "recent": false
+  },
+  {
+   "id": "c-kutsu-o-nugu",
+   "romaji": "kutsu o nugu",
+   "english": "take off shoes",
+   "chunk": "Clothes and shoes",
+   "recent": false
+  },
+  {
+   "id": "c-fuku-o-nugu",
+   "romaji": "fuku o nugu",
+   "english": "take off clothes, get undressed",
+   "chunk": "Clothes and shoes",
+   "recent": false
+  },
+  {
+   "id": "c-terebi-o-miru",
+   "romaji": "terebi o miru",
+   "english": "watch TV",
+   "chunk": "TV and music",
+   "recent": false
+  },
+  {
+   "id": "c-ongaku-o-kiku",
+   "romaji": "ongaku o kiku",
+   "english": "listen to music",
+   "chunk": "TV and music",
+   "recent": false
+  },
+  {
+   "id": "c-nyuusu-o-miru",
+   "romaji": "nyuusu o miru",
+   "english": "watch or check the news",
+   "chunk": "TV and music",
+   "recent": false
+  },
+  {
+   "id": "c-ongaku-o-kakeru",
+   "romaji": "ongaku o kakeru",
+   "english": "put on music",
+   "chunk": "TV and music",
+   "recent": false
+  },
+  {
+   "id": "c-channeru-o-kaeru",
+   "romaji": "channeru o kaeru",
+   "english": "change the channel",
+   "chunk": "TV and music",
+   "recent": false
+  },
+  {
+   "id": "c-doa-o-akeru",
+   "romaji": "doa o akeru",
+   "english": "open the door",
+   "chunk": "Doors and locks",
+   "recent": false
+  },
+  {
+   "id": "c-doa-o-shimeru",
+   "romaji": "doa o shimeru",
+   "english": "close the door",
+   "chunk": "Doors and locks",
+   "recent": false
+  },
+  {
+   "id": "c-doa-ga-aku",
+   "romaji": "doa ga aku",
+   "english": "the door opens (aiteru = is open)",
+   "chunk": "Doors and locks",
+   "recent": false
+  },
+  {
+   "id": "c-doa-ga-shimaru",
+   "romaji": "doa ga shimaru",
+   "english": "the door closes (shimatteru = is shut)",
+   "chunk": "Doors and locks",
+   "recent": false
+  },
+  {
+   "id": "c-kagi-o-kakeru",
+   "romaji": "kagi o kakeru",
+   "english": "lock (a door, bike, locker)",
+   "chunk": "Doors and locks",
+   "recent": false
+  },
+  {
+   "id": "c-kagi-ga-kakaru",
+   "romaji": "kagi ga kakaru",
+   "english": "(a door) locks, gets locked (kakatteru = is locked)",
+   "chunk": "Doors and locks",
+   "recent": false
+  },
+  {
+   "id": "c-nioi-ga-suru",
+   "romaji": "nioi ga suru",
+   "english": "smell something, there's a smell",
+   "chunk": "Noticing",
+   "recent": false
+  },
+  {
+   "id": "c-oto-ga-suru",
+   "romaji": "oto ga suru",
+   "english": "hear a noise, there's a sound",
+   "chunk": "Noticing",
+   "recent": false
+  },
+  {
+   "id": "c-koe-ga-kikoeru",
+   "romaji": "koe ga kikoeru",
+   "english": "hear a voice; (on a call) can hear someone",
+   "chunk": "Noticing",
+   "recent": false
+  },
+  {
+   "id": "c-ki-ga-tsuku",
+   "romaji": "ki ga tsuku",
+   "english": "notice, realise",
+   "chunk": "Noticing",
+   "recent": false
+  },
+  {
+   "id": "c-kodomo-ga-iru",
+   "romaji": "kodomo ga iru",
+   "english": "have children, have kids",
+   "chunk": "Kids and growing up",
+   "recent": false
+  },
+  {
+   "id": "c-kodomo-ga-umareru",
+   "romaji": "kodomo ga umareru",
+   "english": "have a baby",
+   "chunk": "Kids and growing up",
+   "recent": false
+  },
+  {
+   "id": "c-otona-ni-naru",
+   "romaji": "otona ni naru",
+   "english": "grow up, become an adult",
+   "chunk": "Kids and growing up",
+   "recent": false
+  },
+  {
+   "id": "c-kodomo-o-sodateru",
+   "romaji": "kodomo o sodateru",
+   "english": "raise children, bring up kids",
+   "chunk": "Kids and growing up",
+   "recent": false
+  },
+  {
+   "id": "c-mendou-o-miru",
+   "romaji": "mendou o miru",
+   "english": "look after, take care of",
+   "chunk": "Kids and growing up",
+   "recent": false
+  },
+  {
+   "id": "c-netsu-ga-aru",
+   "romaji": "netsu ga aru",
+   "english": "have a fever",
+   "chunk": "Cold symptoms",
+   "recent": false
+  },
+  {
+   "id": "c-netsu-ga-deru",
+   "romaji": "netsu ga deru",
+   "english": "get a fever",
+   "chunk": "Cold symptoms",
+   "recent": false
+  },
+  {
+   "id": "c-seki-ga-deru",
+   "romaji": "seki ga deru",
+   "english": "have a cough",
+   "chunk": "Cold symptoms",
+   "recent": false
+  },
+  {
+   "id": "c-hanamizu-ga-deru",
+   "romaji": "hanamizu ga deru",
+   "english": "have a runny nose",
+   "chunk": "Cold symptoms",
+   "recent": false
+  },
+  {
+   "id": "c-karada-ga-darui",
+   "romaji": "karada ga darui",
+   "english": "feel heavy and sluggish",
+   "chunk": "Cold symptoms",
+   "recent": false
+  },
+  {
+   "id": "c-mado-o-akeru",
+   "romaji": "mado o akeru",
+   "english": "open the window",
+   "chunk": "Windows and curtains",
+   "recent": false
+  },
+  {
+   "id": "c-mado-o-shimeru",
+   "romaji": "mado o shimeru",
+   "english": "close the window",
+   "chunk": "Windows and curtains",
+   "recent": false
+  },
+  {
+   "id": "c-kaaten-o-shimeru",
+   "romaji": "kaaten o shimeru",
+   "english": "close the curtains",
+   "chunk": "Windows and curtains",
+   "recent": false
+  },
+  {
+   "id": "c-shashin-o-toru",
+   "romaji": "shashin o toru",
+   "english": "take a photo",
+   "chunk": "Photos and your phone",
+   "recent": false
+  },
+  {
+   "id": "c-shashin-o-miru",
+   "romaji": "shashin o miru",
+   "english": "look at photos",
+   "chunk": "Photos and your phone",
+   "recent": false
+  },
+  {
+   "id": "c-sumaho-o-ijiru",
+   "romaji": "sumaho o ijiru",
+   "english": "be on your phone",
+   "chunk": "Photos and your phone",
+   "recent": false
+  },
+  {
+   "id": "c-shashin-o-okuru",
+   "romaji": "shashin o okuru",
+   "english": "send a photo",
+   "chunk": "Photos and your phone",
+   "recent": false
+  },
+  {
+   "id": "c-imi-ga-wakaru",
+   "romaji": "imi ga wakaru",
+   "english": "understand what something means; (negative) make no sense",
+   "chunk": "Understanding",
+   "recent": false
+  },
+  {
+   "id": "c-kimochi-ga-wakaru",
+   "romaji": "kimochi ga wakaru",
+   "english": "know how someone feels",
+   "chunk": "Understanding",
+   "recent": false
+  },
+  {
+   "id": "c-chigai-ga-wakaru",
+   "romaji": "chigai ga wakaru",
+   "english": "tell the difference",
+   "chunk": "Understanding",
+   "recent": false
+  },
+  {
+   "id": "c-gohan-ni-iku",
+   "romaji": "gohan ni iku",
+   "english": "go out to eat",
+   "chunk": "Eating out",
+   "recent": false
+  },
+  {
+   "id": "c-mise-ga-komu",
+   "romaji": "mise ga komu",
+   "english": "(a place) gets crowded (konderu = is packed)",
+   "chunk": "Eating out",
+   "recent": false
+  },
+  {
+   "id": "c-gohan-o-ogoru",
+   "romaji": "gohan o ogoru",
+   "english": "treat someone to a meal",
+   "chunk": "Eating out",
+   "recent": false
+  },
+  {
+   "id": "c-ryou-ga-ooi",
+   "romaji": "ryou ga ooi",
+   "english": "it's a big portion",
+   "chunk": "Eating out",
+   "recent": false
+  },
+  {
+   "id": "c-denki-o-tsukeru",
+   "romaji": "denki o tsukeru",
+   "english": "turn on the light",
+   "chunk": "Lights and buttons",
+   "recent": false
+  },
+  {
+   "id": "c-denki-o-kesu",
+   "romaji": "denki o kesu",
+   "english": "turn off the light",
+   "chunk": "Lights and buttons",
+   "recent": false
+  },
+  {
+   "id": "c-denki-ga-tsuku",
+   "romaji": "denki ga tsuku",
+   "english": "the light comes on (tsuiteru = is on)",
+   "chunk": "Lights and buttons",
+   "recent": false
+  },
+  {
+   "id": "c-botan-o-osu",
+   "romaji": "botan o osu",
+   "english": "press the button",
+   "chunk": "Lights and buttons",
+   "recent": false
+  },
+  {
+   "id": "c-densha-ga-okureru",
+   "romaji": "densha ga okureru",
+   "english": "the train is delayed",
+   "chunk": "Catching the train",
+   "recent": false
+  },
+  {
+   "id": "c-densha-ni-maniau",
+   "romaji": "densha ni maniau",
+   "english": "make the train in time",
+   "chunk": "Catching the train",
+   "recent": false
+  },
+  {
+   "id": "c-densha-ga-deru",
+   "romaji": "densha ga deru",
+   "english": "the train leaves",
+   "chunk": "Catching the train",
+   "recent": false
+  },
+  {
+   "id": "c-densha-ni-okureru",
+   "romaji": "densha ni okureru",
+   "english": "be late for the train (and so miss it)",
+   "chunk": "Catching the train",
+   "recent": false
+  },
+  {
+   "id": "c-shuuden-ga-nakunaru",
+   "romaji": "shuuden ga nakunaru",
+   "english": "the last train is gone (no way home)",
+   "chunk": "Catching the train",
+   "recent": false
+  },
+  {
+   "id": "c-byouin-ni-iku",
+   "romaji": "byouin ni iku",
+   "english": "see a doctor",
+   "chunk": "Doctor and medicine",
+   "recent": false
+  },
+  {
+   "id": "c-kusuri-o-nomu",
+   "romaji": "kusuri o nomu",
+   "english": "take medicine",
+   "chunk": "Doctor and medicine",
+   "recent": false
+  },
+  {
+   "id": "c-kusuri-ga-kiku",
+   "romaji": "kusuri ga kiku",
+   "english": "medicine works, takes effect",
+   "chunk": "Doctor and medicine",
+   "recent": false
+  },
+  {
+   "id": "c-naka-ga-ii",
+   "romaji": "naka ga ii",
+   "english": "get along well, be close",
+   "chunk": "Close and in touch",
+   "recent": false
+  },
+  {
+   "id": "c-naka-ga-warui",
+   "romaji": "naka ga warui",
+   "english": "be on bad terms",
+   "chunk": "Close and in touch",
+   "recent": false
+  },
+  {
+   "id": "c-renraku-o-toru",
+   "romaji": "renraku o toru",
+   "english": "get or stay in touch",
+   "chunk": "Close and in touch",
+   "recent": false
+  },
+  {
+   "id": "c-renraku-ga-kuru",
+   "romaji": "renraku ga kuru",
+   "english": "hear from someone",
+   "chunk": "Close and in touch",
+   "recent": false
+  },
+  {
+   "id": "c-ki-ni-iru",
+   "romaji": "ki ni iru",
+   "english": "like, be pleased with",
+   "chunk": "Likes, interest, confidence",
+   "recent": false
+  },
+  {
+   "id": "c-kyoumi-ga-aru",
+   "romaji": "kyoumi ga aru",
+   "english": "be interested (in)",
+   "chunk": "Likes, interest, confidence",
+   "recent": false
+  },
+  {
+   "id": "c-tanoshimi-ni-suru",
+   "romaji": "tanoshimi ni suru",
+   "english": "look forward to",
+   "chunk": "Likes, interest, confidence",
+   "recent": false
+  },
+  {
+   "id": "c-jishin-ga-aru",
+   "romaji": "jishin ga aru",
+   "english": "be confident (in yourself, your answer)",
+   "chunk": "Likes, interest, confidence",
+   "recent": false
+  },
+  {
+   "id": "c-junbi-ga-dekiru",
+   "romaji": "junbi ga dekiru",
+   "english": "be ready",
+   "chunk": "Ready and how long",
+   "recent": false
+  },
+  {
+   "id": "c-jikan-ga-kakaru",
+   "romaji": "jikan ga kakaru",
+   "english": "take time",
+   "chunk": "Ready and how long",
+   "recent": false
+  },
+  {
+   "id": "c-jikan-ga-tatsu",
+   "romaji": "jikan ga tatsu",
+   "english": "time passes",
+   "chunk": "Ready and how long",
+   "recent": false
+  },
+  {
+   "id": "c-tema-ga-kakaru",
+   "romaji": "tema ga kakaru",
+   "english": "take work, be a hassle",
+   "chunk": "Ready and how long",
+   "recent": false
+  },
+  {
+   "id": "c-yume-o-miru",
+   "romaji": "yume o miru",
+   "english": "have a dream (while asleep)",
+   "chunk": "Bed and waking",
+   "recent": false
+  },
+  {
+   "id": "c-me-ga-sameru",
+   "romaji": "me ga sameru",
+   "english": "wake up (from sleep); feel wide awake (me ga sameta)",
+   "chunk": "Bed and waking",
+   "recent": false
+  },
+  {
+   "id": "c-futon-ni-hairu",
+   "romaji": "futon ni hairu",
+   "english": "get into bed, get under the covers",
+   "chunk": "Bed and waking",
+   "recent": false
+  },
+  {
+   "id": "c-mezamashi-o-kakeru",
+   "romaji": "mezamashi o kakeru",
+   "english": "set an alarm",
+   "chunk": "Bed and waking",
+   "recent": false
+  },
+  {
+   "id": "c-kotatsu-ni-hairu",
+   "romaji": "kotatsu ni hairu",
+   "english": "get under the kotatsu",
+   "chunk": "Bed and waking",
+   "recent": false
+  },
+  {
+   "id": "c-taifuu-ga-kuru",
+   "romaji": "taifuu ga kuru",
+   "english": "a typhoon comes (hits)",
+   "chunk": "Storms and quakes",
+   "recent": false
+  },
+  {
+   "id": "c-jishin-ga-okiru",
+   "romaji": "jishin ga okiru",
+   "english": "an earthquake happens, hits",
+   "chunk": "Storms and quakes",
+   "recent": false
+  },
+  {
+   "id": "c-kaminari-ga-naru",
+   "romaji": "kaminari ga naru",
+   "english": "it thunders; thunder rumbles",
+   "chunk": "Storms and quakes",
+   "recent": false
+  },
+  {
+   "id": "c-tenki-yohou-ga-hazureru",
+   "romaji": "tenki yohou ga hazureru",
+   "english": "the forecast is wrong",
+   "chunk": "Storms and quakes",
+   "recent": false
+  },
+  {
+   "id": "c-seikaku-ga-ii",
+   "romaji": "seikaku ga ii",
+   "english": "be a nice person",
+   "chunk": "Personality and mood",
+   "recent": false
+  },
+  {
+   "id": "c-seikaku-ga-warui",
+   "romaji": "seikaku ga warui",
+   "english": "be mean, nasty",
+   "chunk": "Personality and mood",
+   "recent": false
+  },
+  {
+   "id": "c-kanji-ga-ii",
+   "romaji": "kanji ga ii",
+   "english": "be pleasant, nice (person or place)",
+   "chunk": "Personality and mood",
+   "recent": false
+  },
+  {
+   "id": "c-genki-ga-nai",
+   "romaji": "genki ga nai",
+   "english": "be down, low on energy",
+   "chunk": "Personality and mood",
+   "recent": false
+  },
+  {
+   "id": "c-uso-o-tsuku",
+   "romaji": "uso o tsuku",
+   "english": "tell a lie",
+   "chunk": "Lies, jokes and complaints",
+   "recent": false
+  },
+  {
+   "id": "c-joudan-o-iu",
+   "romaji": "joudan o iu",
+   "english": "joke, kid around",
+   "chunk": "Lies, jokes and complaints",
+   "recent": false
+  },
+  {
+   "id": "c-monku-o-iu",
+   "romaji": "monku o iu",
+   "english": "complain",
+   "chunk": "Lies, jokes and complaints",
+   "recent": false
+  },
+  {
+   "id": "c-guchi-o-iu",
+   "romaji": "guchi o iu",
+   "english": "grumble, vent",
+   "chunk": "Lies, jokes and complaints",
+   "recent": false
+  },
+  {
+   "id": "c-naisho-ni-suru",
+   "romaji": "naisho ni suru",
+   "english": "keep it secret",
+   "chunk": "Lies, jokes and complaints",
+   "recent": false
+  },
+  {
+   "id": "c-yoko-ni-naru",
+   "romaji": "yoko ni naru",
+   "english": "lie down",
+   "chunk": "Rest and recovery",
+   "recent": false
+  },
+  {
+   "id": "c-netsu-ga-sagaru",
+   "romaji": "netsu ga sagaru",
+   "english": "fever goes down",
+   "chunk": "Rest and recovery",
+   "recent": false
+  },
+  {
+   "id": "c-kaze-ga-naoru",
+   "romaji": "kaze ga naoru",
+   "english": "get over a cold",
+   "chunk": "Rest and recovery",
+   "recent": false
+  },
+  {
+   "id": "c-tsukare-ga-toreru",
+   "romaji": "tsukare ga toreru",
+   "english": "shake off tiredness, feel rested",
+   "chunk": "Rest and recovery",
+   "recent": false
+  },
+  {
+   "id": "c-okane-ga-kakaru",
+   "romaji": "okane ga kakaru",
+   "english": "cost money",
+   "chunk": "Costs and paying",
+   "recent": false
+  },
+  {
+   "id": "c-ikura-suru",
+   "romaji": "ikura suru",
+   "english": "how much it costs (price + suru)",
+   "chunk": "Costs and paying",
+   "recent": false
+  },
+  {
+   "id": "c-nedan-ga-takai",
+   "romaji": "nedan ga takai",
+   "english": "the price is high",
+   "chunk": "Costs and paying",
+   "recent": false
+  },
+  {
+   "id": "c-okane-o-harau",
+   "romaji": "okane o harau",
+   "english": "pay (money)",
+   "chunk": "Costs and paying",
+   "recent": false
+  },
+  {
+   "id": "c-warikan-ni-suru",
+   "romaji": "warikan ni suru",
+   "english": "split the bill",
+   "chunk": "Costs and paying",
+   "recent": false
+  },
+  {
+   "id": "c-zubon-o-haku",
+   "romaji": "zubon o haku",
+   "english": "put on / wear trousers",
+   "chunk": "Trying clothes on",
+   "recent": false
+  },
+  {
+   "id": "c-fuku-o-kigaeru",
+   "romaji": "fuku o kigaeru",
+   "english": "change clothes, get changed",
+   "chunk": "Trying clothes on",
+   "recent": false
+  },
+  {
+   "id": "c-fuku-ga-niau",
+   "romaji": "fuku ga niau",
+   "english": "suit someone, look good on someone",
+   "chunk": "Trying clothes on",
+   "recent": false
+  },
+  {
+   "id": "c-saizu-ga-au",
+   "romaji": "saizu ga au",
+   "english": "be the right size, fit",
+   "chunk": "Trying clothes on",
+   "recent": false
+  },
+  {
+   "id": "c-jikan-ga-aku",
+   "romaji": "jikan ga aku",
+   "english": "be free (have time)",
+   "chunk": "Are you free?",
+   "recent": false
+  },
+  {
+   "id": "c-yotei-ga-aru",
+   "romaji": "yotei ga aru",
+   "english": "have plans",
+   "chunk": "Are you free?",
+   "recent": false
+  },
+  {
+   "id": "c-tsugou-ga-ii",
+   "romaji": "tsugou ga ii",
+   "english": "suit someone, be convenient",
+   "chunk": "Are you free?",
+   "recent": false
+  },
+  {
+   "id": "c-tsugou-ga-warui",
+   "romaji": "tsugou ga warui",
+   "english": "not suit someone, can't make it (a time)",
+   "chunk": "Are you free?",
+   "recent": false
+  },
+  {
+   "id": "c-tomodachi-ni-au",
+   "romaji": "tomodachi ni au",
+   "english": "see a friend, meet up",
+   "chunk": "Seeing people",
+   "recent": false
+  },
+  {
+   "id": "c-uchi-made-okuru",
+   "romaji": "ie made okuru",
+   "english": "see or drive someone home",
+   "chunk": "Seeing people",
+   "recent": false
+  },
+  {
+   "id": "c-jikka-ni-kaeru",
+   "romaji": "jikka ni kaeru",
+   "english": "go home to your parents'",
+   "chunk": "Seeing people",
+   "recent": false
+  },
+  {
+   "id": "c-tanjoubi-o-iwau",
+   "romaji": "tanjoubi o iwau",
+   "english": "celebrate a birthday",
+   "chunk": "Seeing people",
+   "recent": false
+  },
+  {
+   "id": "c-nomi-ni-iku",
+   "romaji": "nomi ni iku",
+   "english": "go out for drinks",
+   "chunk": "Drinking out",
+   "recent": false
+  },
+  {
+   "id": "c-tabako-o-suu",
+   "romaji": "tabako o suu",
+   "english": "smoke (a cigarette)",
+   "chunk": "Drinking out",
+   "recent": false
+  },
+  {
+   "id": "c-osake-ga-yowai",
+   "romaji": "osake ga yowai",
+   "english": "can't hold one's drink",
+   "chunk": "Drinking out",
+   "recent": false
+  },
+  {
+   "id": "c-osake-ga-tsuyoi",
+   "romaji": "osake ga tsuyoi",
+   "english": "can hold one's drink",
+   "chunk": "Drinking out",
+   "recent": false
+  },
+  {
+   "id": "c-denwa-o-kakeru",
+   "romaji": "denwa o kakeru",
+   "english": "make a phone call",
+   "chunk": "Phone calls",
+   "recent": false
+  },
+  {
+   "id": "c-denwa-ni-deru",
+   "romaji": "denwa ni deru",
+   "english": "answer the phone",
+   "chunk": "Phone calls",
+   "recent": false
+  },
+  {
+   "id": "c-denwa-o-kiru",
+   "romaji": "denwa o kiru",
+   "english": "hang up the phone",
+   "chunk": "Phone calls",
+   "recent": false
+  },
+  {
+   "id": "c-denwa-ga-naru",
+   "romaji": "denwa ga naru",
+   "english": "the phone rings",
+   "chunk": "Phone calls",
+   "recent": false
+  },
+  {
+   "id": "c-denwa-ga-aru",
+   "romaji": "denwa ga aru",
+   "english": "(someone) called, there was a call from X",
+   "chunk": "Phone calls",
+   "recent": false
+  },
+  {
+   "id": "c-denwa-ga-kakaru",
+   "romaji": "denwa ga kakaru",
+   "english": "get a phone call",
+   "chunk": "Phone calls",
+   "recent": false
+  },
+  {
+   "id": "c-eki-ni-tsuku",
+   "romaji": "eki ni tsuku",
+   "english": "get to the station",
+   "chunk": "On the way",
+   "recent": false
+  },
+  {
+   "id": "c-michi-ga-komu",
+   "romaji": "michi ga komu",
+   "english": "the traffic is heavy",
+   "chunk": "On the way",
+   "recent": false
+  },
+  {
+   "id": "c-seki-ga-aku",
+   "romaji": "seki ga aku",
+   "english": "a seat frees up (aiteru = a seat is free)",
+   "chunk": "On the way",
+   "recent": false
+  },
+  {
+   "id": "c-eki-o-norisugosu",
+   "romaji": "eki o norisugosu",
+   "english": "miss your stop",
+   "chunk": "On the way",
+   "recent": false
+  },
+  {
+   "id": "c-youji-ga-aru",
+   "romaji": "youji ga aru",
+   "english": "have something to do",
+   "chunk": "Can't make it",
+   "recent": false
+  },
+  {
+   "id": "c-asa-ga-hayai",
+   "romaji": "asa ga hayai",
+   "english": "have an early start",
+   "chunk": "Can't make it",
+   "recent": false
+  },
+  {
+   "id": "c-yotei-ga-hairu",
+   "romaji": "yotei ga hairu",
+   "english": "have plans, get booked",
+   "chunk": "Can't make it",
+   "recent": false
+  },
+  {
+   "id": "c-senyaku-ga-aru",
+   "romaji": "sen'yaku ga aru",
+   "english": "have prior plans",
+   "chunk": "Can't make it",
+   "recent": false
+  },
+  {
+   "id": "c-gomi-o-suteru",
+   "romaji": "gomi o suteru",
+   "english": "throw away rubbish",
+   "chunk": "Trash and tidying",
+   "recent": false
+  },
+  {
+   "id": "c-gomi-o-dasu",
+   "romaji": "gomi o dasu",
+   "english": "take out the trash",
+   "chunk": "Trash and tidying",
+   "recent": false
+  },
+  {
+   "id": "c-heya-o-katazukeru",
+   "romaji": "heya o katazukeru",
+   "english": "tidy up one's room",
+   "chunk": "Trash and tidying",
+   "recent": false
+  },
+  {
+   "id": "c-heya-ga-chirakaru",
+   "romaji": "heya ga chirakaru",
+   "english": "(a room) gets messy, is a mess",
+   "chunk": "Trash and tidying",
+   "recent": false
+  },
+  {
+   "id": "c-moto-ni-modosu",
+   "romaji": "moto ni modosu",
+   "english": "put back (as it was)",
+   "chunk": "Trash and tidying",
+   "recent": false
+  },
+  {
+   "id": "c-onegai-ga-aru",
+   "romaji": "onegai ga aru",
+   "english": "have a favour to ask",
+   "chunk": "Favours, sorry, cheer up",
+   "recent": false
+  },
+  {
+   "id": "c-meiwaku-o-kakeru",
+   "romaji": "meiwaku o kakeru",
+   "english": "cause someone trouble",
+   "chunk": "Favours, sorry, cheer up",
+   "recent": false
+  },
+  {
+   "id": "c-shinpai-o-kakeru",
+   "romaji": "shinpai o kakeru",
+   "english": "make someone worry",
+   "chunk": "Favours, sorry, cheer up",
+   "recent": false
+  },
+  {
+   "id": "c-genki-o-dasu",
+   "romaji": "genki o dasu",
+   "english": "cheer up",
+   "chunk": "Favours, sorry, cheer up",
+   "recent": false
+  },
+  {
+   "id": "c-ryokou-ni-iku",
+   "romaji": "ryokou ni iku",
+   "english": "go on a trip",
+   "chunk": "On a trip",
+   "recent": false
+  },
+  {
+   "id": "c-hikouki-ni-noru",
+   "romaji": "hikouki ni noru",
+   "english": "fly, take a plane",
+   "chunk": "On a trip",
+   "recent": false
+  },
+  {
+   "id": "c-hoteru-ni-tomaru",
+   "romaji": "hoteru ni tomaru",
+   "english": "stay at a hotel",
+   "chunk": "On a trip",
+   "recent": false
+  },
+  {
+   "id": "c-omiyage-o-kau",
+   "romaji": "omiyage o kau",
+   "english": "buy gifts to take back",
+   "chunk": "On a trip",
+   "recent": false
+  },
+  {
+   "id": "c-onsen-ni-hairu",
+   "romaji": "onsen ni hairu",
+   "english": "bathe in a hot spring",
+   "chunk": "On a trip",
+   "recent": false
+  },
+  {
+   "id": "c-okane-o-tsukau",
+   "romaji": "okane o tsukau",
+   "english": "spend money",
+   "chunk": "Spending and saving",
+   "recent": false
+  },
+  {
+   "id": "c-kaado-o-tsukau",
+   "romaji": "kaado o tsukau",
+   "english": "pay by card",
+   "chunk": "Spending and saving",
+   "recent": false
+  },
+  {
+   "id": "c-okane-o-tameru",
+   "romaji": "okane o tameru",
+   "english": "save up money",
+   "chunk": "Spending and saving",
+   "recent": false
+  },
+  {
+   "id": "c-pointo-o-tameru",
+   "romaji": "pointo o tameru",
+   "english": "collect loyalty points",
+   "chunk": "Spending and saving",
+   "recent": false
+  },
+  {
+   "id": "c-bangou-o-oshieru",
+   "romaji": "bangou o oshieru",
+   "english": "give someone your number",
+   "chunk": "Numbers and messages",
+   "recent": false
+  },
+  {
+   "id": "c-meeru-o-okuru",
+   "romaji": "meeru o okuru",
+   "english": "send an email",
+   "chunk": "Numbers and messages",
+   "recent": false
+  },
+  {
+   "id": "c-meeru-ga-kuru",
+   "romaji": "meeru ga kuru",
+   "english": "get an email",
+   "chunk": "Numbers and messages",
+   "recent": false
+  },
+  {
+   "id": "c-meeru-o-kaesu",
+   "romaji": "meeru o kaesu",
+   "english": "reply to a message",
+   "chunk": "Numbers and messages",
+   "recent": false
+  },
+  {
+   "id": "c-aji-ga-suru",
+   "romaji": "aji ga suru",
+   "english": "taste (like something)",
+   "chunk": "How it tastes",
+   "recent": false
+  },
+  {
+   "id": "c-aji-ga-usui",
+   "romaji": "aji ga usui",
+   "english": "lightly seasoned; bland (needs more salt)",
+   "chunk": "How it tastes",
+   "recent": false
+  },
+  {
+   "id": "c-aji-ga-koi",
+   "romaji": "aji ga koi",
+   "english": "strongly seasoned, rich",
+   "chunk": "How it tastes",
+   "recent": false
+  },
+  {
+   "id": "c-mukae-ni-iku",
+   "romaji": "mukae ni iku",
+   "english": "go to pick someone up",
+   "chunk": "Picking someone up",
+   "recent": true
+  },
+  {
+   "id": "c-nimotsu-o-motsu",
+   "romaji": "nimotsu o motsu",
+   "english": "carry the bags",
+   "chunk": "Picking someone up",
+   "recent": true
+  },
+  {
+   "id": "c-kuruma-ni-noseru",
+   "romaji": "kuruma ni noseru",
+   "english": "give someone a lift",
+   "chunk": "Picking someone up",
+   "recent": true
+  },
+  {
+   "id": "c-kuruma-o-tomeru",
+   "romaji": "kuruma o tomeru",
+   "english": "park the car",
+   "chunk": "Picking someone up",
+   "recent": true
+  },
+  {
+   "id": "c-konbini-ni-yoru",
+   "romaji": "konbini ni yoru",
+   "english": "stop by the convenience store",
+   "chunk": "Picking someone up",
+   "recent": true
+  },
+  {
+   "id": "c-shigoto-o-yasumu",
+   "romaji": "shigoto o yasumu",
+   "english": "take time off work, miss work",
+   "chunk": "Breaks and time off",
+   "recent": true
+  },
+  {
+   "id": "c-yasumi-o-toru",
+   "romaji": "yasumi o toru",
+   "english": "take time off",
+   "chunk": "Breaks and time off",
+   "recent": true
+  },
+  {
+   "id": "c-kyuukei-o-toru",
+   "romaji": "kyuukei o toru",
+   "english": "take a break",
+   "chunk": "Breaks and time off",
+   "recent": true
+  },
+  {
+   "id": "c-kaisha-o-yameru",
+   "romaji": "kaisha o yameru",
+   "english": "quit one's job",
+   "chunk": "Breaks and time off",
+   "recent": true
+  },
+  {
+   "id": "c-hito-ga-ooi",
+   "romaji": "hito ga ooi",
+   "english": "be crowded, lots of people",
+   "chunk": "Out and about",
+   "recent": true
+  },
+  {
+   "id": "c-ninki-ga-aru",
+   "romaji": "ninki ga aru",
+   "english": "be popular",
+   "chunk": "Out and about",
+   "recent": true
+  },
+  {
+   "id": "c-ii-fun-iki",
+   "romaji": "ii fun'iki",
+   "english": "a nice atmosphere, good vibe",
+   "chunk": "Out and about",
+   "recent": true
+  },
+  {
+   "id": "c-hyouban-ga-ii",
+   "romaji": "hyouban ga ii",
+   "english": "have a good reputation",
+   "chunk": "Out and about",
+   "recent": true
+  },
+  {
+   "id": "c-nimotsu-ga-omoi",
+   "romaji": "nimotsu ga omoi",
+   "english": "the bags are heavy",
+   "chunk": "Out and about",
+   "recent": true
+  },
+  {
+   "id": "c-orei-o-iu",
+   "romaji": "orei o iu",
+   "english": "thank someone, say thanks",
+   "chunk": "Manners and thanks",
+   "recent": true
+  },
+  {
+   "id": "c-keigo-o-tsukau",
+   "romaji": "keigo o tsukau",
+   "english": "speak politely, use honorifics",
+   "chunk": "Manners and thanks",
+   "recent": true
+  },
+  {
+   "id": "c-ki-o-tsukau",
+   "romaji": "ki o tsukau",
+   "english": "be considerate, go to trouble",
+   "chunk": "Manners and thanks",
+   "recent": true
+  },
+  {
+   "id": "c-osewa-ni-naru",
+   "romaji": "osewa ni naru",
+   "english": "be looked after, be indebted",
+   "chunk": "Manners and thanks",
+   "recent": true
+  },
+  {
+   "id": "c-gochisou-ni-naru",
+   "romaji": "gochisou ni naru",
+   "english": "be treated (to a meal)",
+   "chunk": "Manners and thanks",
+   "recent": true
+  },
+  {
+   "id": "c-osara-o-arau",
+   "romaji": "osara o arau",
+   "english": "wash the dishes, wash up",
+   "chunk": "Kitchen",
+   "recent": true
+  },
+  {
+   "id": "c-oyu-o-wakasu",
+   "romaji": "oyu o wakasu",
+   "english": "boil water",
+   "chunk": "Kitchen",
+   "recent": true
+  },
+  {
+   "id": "c-teeburu-o-fuku",
+   "romaji": "teeburu o fuku",
+   "english": "wipe the table",
+   "chunk": "Kitchen",
+   "recent": true
+  },
+  {
+   "id": "c-geemu-ni-hamaru",
+   "romaji": "geemu ni hamaru",
+   "english": "be hooked on games; be really into games",
+   "chunk": "Hooked, tickets, winning",
+   "recent": true
+  },
+  {
+   "id": "c-shiai-ni-katsu",
+   "romaji": "shiai ni katsu",
+   "english": "win a match",
+   "chunk": "Hooked, tickets, winning",
+   "recent": true
+  },
+  {
+   "id": "c-shiai-ni-makeru",
+   "romaji": "shiai ni makeru",
+   "english": "lose a match",
+   "chunk": "Hooked, tickets, winning",
+   "recent": true
+  },
+  {
+   "id": "c-chiketto-o-toru",
+   "romaji": "chiketto o toru",
+   "english": "get hold of tickets",
+   "chunk": "Hooked, tickets, winning",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "satou",
+   "yuki"
+  ],
+  "format": "dialogue"
+ }
+}

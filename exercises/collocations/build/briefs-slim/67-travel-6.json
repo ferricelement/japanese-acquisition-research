@@ -1,0 +1,365 @@
+{
+ "script": 67,
+ "of": 94,
+ "stage": 3,
+ "chunkId": "travel-6",
+ "label": "Finding the way",
+ "topic": "Getting around",
+ "rationale": "Directions and losing your way: turning left at the corner, getting lost, going the wrong way, getting separated.",
+ "mixUps": "The corner takes o and the side takes ni (tsugi no kado o hidari ni magaru), and turning is magaru, not mawaru. mayou means you don't know where you are, machigaeru means you took the wrong road, and maigo means you got separated, like a lost child.",
+ "targets": [
+  {
+   "id": "c-hidari-ni-magaru",
+   "romaji": "hidari ni magaru",
+   "polite": "hidari ni magarimasu",
+   "english": "turn left",
+   "ja": "左に曲がる",
+   "kana": "ひだりにまがる",
+   "politeJa": "左に曲がります",
+   "noun": "hidari",
+   "particle": "ni",
+   "verb": "magaru",
+   "verbJa": "曲がる",
+   "verbSense": "bend; turn (when moving along a road)",
+   "englishVerb": "turn",
+   "trap": "Not hidari ni mawaru: mawaru is spin or go round; turning at a corner or light is magaru.",
+   "partners": [
+    "migi (right)",
+    "kotchi (this way)"
+   ],
+   "flags": [],
+   "use": "Heard in directions, mostly as the te-form request hidari ni magatte, often with the corner or light first, which takes o or de (tsugi no kado o / de hidari ni magatte). The side takes ni, sometimes e; migi ni magaru (turn right) works the same. In a taxi the verb often drops: tsugi, hidari de onegaishimasu.",
+   "notes": "Drivers and car navigation also say sasetsu / usetsu (left / right turn): koko usetsu dekinai yo (you can't turn right here).",
+   "example": {
+    "romaji": "koko, hidari ni magaru n da yo ne?",
+    "ja": "ここ、左に曲がるんだよね？",
+    "english": "We turn left here, right?"
+   },
+   "examplePolite": {
+    "romaji": "koko o hidari ni magaru n desu yo ne?",
+    "ja": "ここを左に曲がるんですよね？",
+    "english": "We turn left here, don't we?"
+   }
+  },
+  {
+   "id": "c-kado-o-magaru",
+   "romaji": "kado o magaru",
+   "polite": "kado o magarimasu",
+   "english": "turn at the corner",
+   "ja": "角を曲がる",
+   "kana": "かどをまがる",
+   "politeJa": "角を曲がります",
+   "noun": "kado",
+   "particle": "o",
+   "verb": "magaru",
+   "verbJa": "曲がる",
+   "verbSense": "bend; turn (when moving along a road)",
+   "englishVerb": "turn",
+   "trap": "Not kado ni magaru: ni marks the side (migi ni), so the corner takes o (de also works: kado de migi ni magatte). kado o mawatta tokoro (just round the corner) is also fine, but a turn with a side named is magaru.",
+   "partners": [
+    "kousaten (crossroads)",
+    "shingou (traffic light)",
+    "tsukiatari (end of the street)"
+   ],
+   "flags": [],
+   "use": "Heard in directions. The corner takes o because you go round it, and the side takes ni: futatsume no kado o migi ni magatte (turn right at the second corner). With no side named, kado magattara (once you turn the corner) says a place is just round it.",
+   "notes": "A street corner is kado; the inside corner of a room is sumi (heya no sumi).",
+   "example": {
+    "romaji": "ano kado magattara, sugu da yo.",
+    "ja": "あの角曲がったら、すぐだよ。",
+    "english": "It's just round that corner."
+   },
+   "examplePolite": {
+    "romaji": "ano kado o magattara, sugu desu yo.",
+    "ja": "あの角を曲がったら、すぐですよ。",
+    "english": "It's just around that corner."
+   }
+  },
+  {
+   "id": "c-michi-ni-mayou",
+   "romaji": "michi ni mayou",
+   "polite": "michi ni mayoimasu",
+   "english": "get lost",
+   "ja": "道に迷う",
+   "kana": "みちにまよう",
+   "politeJa": "道に迷います",
+   "noun": "michi",
+   "particle": "ni",
+   "verb": "mayou",
+   "verbJa": "迷う",
+   "verbSense": "lose your way; also hesitate, can't decide",
+   "englishVerb": "lose",
+   "trap": "Not michi o nakusu or michi o ushinau: nakusu is for losing things, and being lost is michi ni mayou ('stray on the road').",
+   "partners": [],
+   "flags": [],
+   "use": "Usually mayotta or mayotchatta (I've got lost) once the context is clear, like English 'I'm lost'. ima mayotteru (I'm lost right now) works just as well, and michi mayotte... explains why you're late. michi ni mayotta spells it out.",
+   "notes": "The place you got lost in takes de: eki no naka de mayotta. Taking the wrong road on a route you know is michi o machigaeru (michi machigaeta). Getting separated from the people you're with, like a child in a shop, is maigo ni naru. Asking the way is michi o kiku: sumimasen, chotto michi o kikitai n desu kedo.",
+   "example": {
+    "romaji": "gomen, michi mayotte, chotto okureru.",
+    "ja": "ごめん、道迷って、ちょっと遅れる。",
+    "english": "Sorry, I got lost, I'll be a bit late."
+   },
+   "examplePolite": {
+    "romaji": "sumimasen, michi ni mayotte, sukoshi okuremasu.",
+    "ja": "すみません、道に迷って、少し遅れます。",
+    "english": "Sorry, I got lost, so I'll be a little late."
+   }
+  },
+  {
+   "id": "c-michi-o-machigaeru",
+   "romaji": "michi o machigaeru",
+   "polite": "michi o machigaemasu",
+   "english": "go the wrong way",
+   "ja": "道を間違える",
+   "kana": "みちをまちがえる",
+   "politeJa": "道を間違えます",
+   "noun": "michi",
+   "particle": "o",
+   "verb": "machigaeru",
+   "verbJa": "間違える",
+   "verbSense": "get wrong; mistake one thing for another",
+   "englishVerb": "go",
+   "trap": "A word-for-word machigatta michi ni itta is understood but stiff, and machigatta michi mostly means the wrong path in life. For a route, the road is the object: michi machigaeta (casually also michi machigatteru). michi ni mayou is different: being lost, with no idea where you are.",
+   "partners": [
+    "densha (train)",
+    "deguchi (exit)",
+    "basho (place)",
+    "heya (room)"
+   ],
+   "flags": [],
+   "use": "Mostly in the past, michi machigaeta (I went the wrong way), often as the reason you're late. Casual speech drops o, and the same frame covers the wrong train or exit: densha machigaeta, deguchi machigaeta.",
+   "notes": "Getting on the train going the other way is hantai no densha ni notchatta.",
+   "example": {
+    "romaji": "a, michi machigaeta kamo.",
+    "ja": "あ、道間違えたかも。",
+    "english": "Oh, I think we went the wrong way."
+   },
+   "examplePolite": {
+    "romaji": "a, michi o machigaeta kamo shiremasen.",
+    "ja": "あ、道を間違えたかもしれません。",
+    "english": "Oh, I think we may have gone the wrong way."
+   }
+  },
+  {
+   "id": "c-maigo-ni-naru",
+   "romaji": "maigo ni naru",
+   "polite": "maigo ni narimasu",
+   "english": "get lost (wander off, like a lost child)",
+   "ja": "迷子になる",
+   "kana": "まいごになる",
+   "politeJa": "迷子になります",
+   "noun": "maigo",
+   "particle": "ni",
+   "verb": "naru",
+   "verbJa": "なる",
+   "verbSense": "become, turn into",
+   "englishVerb": "get lost",
+   "trap": "Not maigo suru: maigo is a noun ('lost child'), so you become one, maigo ni natta.",
+   "partners": [],
+   "flags": [],
+   "use": "Mostly about children who wander off (kodomo no koro, maigo ni natta koto aru = I got lost once as a kid) or a companion lost in a crowd. Adults say it of themselves half-jokingly, in a huge station or mall. For an adult who simply can't find the way, indoors or out, the default is mayotta (michi ni mayou). The ni usually stays.",
+   "notes": "Getting separated from your group in a crowd is hagureru: tomodachi to hagurechatta.",
+   "example": {
+    "romaji": "hito ooi kara, maigo ni naranaide ne.",
+    "ja": "人多いから、迷子にならないでね。",
+    "english": "There are lots of people, so don't get lost."
+   },
+   "examplePolite": {
+    "romaji": "hito ga ooi node, maigo ni naranaide kudasai ne.",
+    "ja": "人が多いので、迷子にならないでくださいね。",
+    "english": "There are lots of people, so please don't get lost."
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-mukae-ni-iku",
+   "romaji": "mukae ni iku",
+   "english": "go to pick someone up",
+   "chunk": "Picking someone up",
+   "recent": true
+  },
+  {
+   "id": "c-nimotsu-o-motsu",
+   "romaji": "nimotsu o motsu",
+   "english": "carry the bags",
+   "chunk": "Picking someone up",
+   "recent": true
+  },
+  {
+   "id": "c-kuruma-ni-noseru",
+   "romaji": "kuruma ni noseru",
+   "english": "give someone a lift",
+   "chunk": "Picking someone up",
+   "recent": true
+  },
+  {
+   "id": "c-kuruma-o-tomeru",
+   "romaji": "kuruma o tomeru",
+   "english": "park the car",
+   "chunk": "Picking someone up",
+   "recent": true
+  },
+  {
+   "id": "c-konbini-ni-yoru",
+   "romaji": "konbini ni yoru",
+   "english": "stop by the convenience store",
+   "chunk": "Picking someone up",
+   "recent": true
+  },
+  {
+   "id": "c-shigoto-o-yasumu",
+   "romaji": "shigoto o yasumu",
+   "english": "take time off work, miss work",
+   "chunk": "Breaks and time off",
+   "recent": true
+  },
+  {
+   "id": "c-yasumi-o-toru",
+   "romaji": "yasumi o toru",
+   "english": "take time off",
+   "chunk": "Breaks and time off",
+   "recent": true
+  },
+  {
+   "id": "c-kyuukei-o-toru",
+   "romaji": "kyuukei o toru",
+   "english": "take a break",
+   "chunk": "Breaks and time off",
+   "recent": true
+  },
+  {
+   "id": "c-kaisha-o-yameru",
+   "romaji": "kaisha o yameru",
+   "english": "quit one's job",
+   "chunk": "Breaks and time off",
+   "recent": true
+  },
+  {
+   "id": "c-hito-ga-ooi",
+   "romaji": "hito ga ooi",
+   "english": "be crowded, lots of people",
+   "chunk": "Out and about",
+   "recent": true
+  },
+  {
+   "id": "c-ninki-ga-aru",
+   "romaji": "ninki ga aru",
+   "english": "be popular",
+   "chunk": "Out and about",
+   "recent": true
+  },
+  {
+   "id": "c-ii-fun-iki",
+   "romaji": "ii fun'iki",
+   "english": "a nice atmosphere, good vibe",
+   "chunk": "Out and about",
+   "recent": true
+  },
+  {
+   "id": "c-hyouban-ga-ii",
+   "romaji": "hyouban ga ii",
+   "english": "have a good reputation",
+   "chunk": "Out and about",
+   "recent": true
+  },
+  {
+   "id": "c-nimotsu-ga-omoi",
+   "romaji": "nimotsu ga omoi",
+   "english": "the bags are heavy",
+   "chunk": "Out and about",
+   "recent": true
+  },
+  {
+   "id": "c-orei-o-iu",
+   "romaji": "orei o iu",
+   "english": "thank someone, say thanks",
+   "chunk": "Manners and thanks",
+   "recent": true
+  },
+  {
+   "id": "c-keigo-o-tsukau",
+   "romaji": "keigo o tsukau",
+   "english": "speak politely, use honorifics",
+   "chunk": "Manners and thanks",
+   "recent": true
+  },
+  {
+   "id": "c-ki-o-tsukau",
+   "romaji": "ki o tsukau",
+   "english": "be considerate, go to trouble",
+   "chunk": "Manners and thanks",
+   "recent": true
+  },
+  {
+   "id": "c-osewa-ni-naru",
+   "romaji": "osewa ni naru",
+   "english": "be looked after, be indebted",
+   "chunk": "Manners and thanks",
+   "recent": true
+  },
+  {
+   "id": "c-gochisou-ni-naru",
+   "romaji": "gochisou ni naru",
+   "english": "be treated (to a meal)",
+   "chunk": "Manners and thanks",
+   "recent": true
+  },
+  {
+   "id": "c-osara-o-arau",
+   "romaji": "osara o arau",
+   "english": "wash the dishes, wash up",
+   "chunk": "Kitchen",
+   "recent": true
+  },
+  {
+   "id": "c-oyu-o-wakasu",
+   "romaji": "oyu o wakasu",
+   "english": "boil water",
+   "chunk": "Kitchen",
+   "recent": true
+  },
+  {
+   "id": "c-teeburu-o-fuku",
+   "romaji": "teeburu o fuku",
+   "english": "wipe the table",
+   "chunk": "Kitchen",
+   "recent": true
+  },
+  {
+   "id": "c-geemu-ni-hamaru",
+   "romaji": "geemu ni hamaru",
+   "english": "be hooked on games; be really into games",
+   "chunk": "Hooked, tickets, winning",
+   "recent": true
+  },
+  {
+   "id": "c-shiai-ni-katsu",
+   "romaji": "shiai ni katsu",
+   "english": "win a match",
+   "chunk": "Hooked, tickets, winning",
+   "recent": true
+  },
+  {
+   "id": "c-shiai-ni-makeru",
+   "romaji": "shiai ni makeru",
+   "english": "lose a match",
+   "chunk": "Hooked, tickets, winning",
+   "recent": true
+  },
+  {
+   "id": "c-chiketto-o-toru",
+   "romaji": "chiketto o toru",
+   "english": "get hold of tickets",
+   "chunk": "Hooked, tickets, winning",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "satou",
+   "yuki"
+  ],
+  "format": "dialogue"
+ }
+}

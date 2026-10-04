@@ -1,0 +1,326 @@
+{
+ "script": 32,
+ "of": 94,
+ "stage": 2,
+ "chunkId": "home-4",
+ "label": "Windows and curtains",
+ "topic": "Home & daily routine",
+ "rationale": "The same open/close pair on windows and curtains: airing the room, shutting out rain or cold, closing up for the night.",
+ "mixUps": "English 'draw the curtains' hides the direction; Japanese names it: kaaten o shimeru (close) or kaaten o akeru (open). Windows take the same akeru/shimeru as doors, with mado aiteru for the open state.",
+ "targets": [
+  {
+   "id": "c-mado-o-akeru",
+   "romaji": "mado o akeru",
+   "polite": "mado o akemasu",
+   "english": "open the window",
+   "ja": "窓を開ける",
+   "kana": "まどをあける",
+   "politeJa": "窓を開けます",
+   "noun": "mado",
+   "particle": "o",
+   "verb": "akeru",
+   "verbJa": "開ける",
+   "verbSense": "open something (a door, a box, your eyes)",
+   "englishVerb": "open",
+   "trap": "Not mado ga akete iru for 'the window's open': that is mado ga aiteru, or mado ga akete aru if someone left it open on purpose. akeru needs someone doing the opening (mado akete ii?).",
+   "partners": [
+    "doa (door)",
+    "kaaten (curtains)",
+    "reizouko (fridge)"
+   ],
+   "flags": [],
+   "use": "Usually an offer or a question: mado akete ii? (mind if I open the window?), mado akeyou ka. Casual speech drops o; a window that is open is mado aiteru.",
+   "notes": "In a car, mado akete just means put the window down.",
+   "example": {
+    "romaji": "atsui ne, mado akete ii?",
+    "ja": "暑いね、窓開けていい？",
+    "english": "It's hot, mind if I open the window?"
+   },
+   "examplePolite": {
+    "romaji": "atsui desu ne, mado o akete mo ii desu ka?",
+    "ja": "暑いですね、窓を開けてもいいですか？",
+    "english": "It's hot, isn't it? May I open the window?"
+   }
+  },
+  {
+   "id": "c-mado-o-shimeru",
+   "romaji": "mado o shimeru",
+   "polite": "mado o shimemasu",
+   "english": "close the window",
+   "ja": "窓を閉める",
+   "kana": "まどをしめる",
+   "politeJa": "窓を閉めます",
+   "noun": "mado",
+   "particle": "o",
+   "verb": "shimeru",
+   "verbJa": "閉める",
+   "verbSense": "shut something (a door, a window, a lid); with kagi, lock",
+   "englishVerb": "close",
+   "trap": "Not mado o shimaru: shimaru is the window closing or being shut (mado shimatteru); someone shutting it is shimeru (mado shimete).",
+   "partners": [
+    "doa (door)",
+    "kaaten (curtains)",
+    "futa (lid)"
+   ],
+   "flags": [],
+   "use": "Said when it turns cold or noisy or starts to rain: mado shimete (shut the window). Casual speech drops o; a shut window is mado shimatteru.",
+   "notes": "mado shimeta? is a standard check before going out, alongside kagi kaketa?",
+   "example": {
+    "romaji": "ame futte kita, mado shimete!",
+    "ja": "雨降ってきた、窓閉めて！",
+    "english": "It's started raining, shut the windows!"
+   },
+   "examplePolite": {
+    "romaji": "ame ga futte kita node, mado o shimete kudasai.",
+    "ja": "雨が降ってきたので、窓を閉めてください。",
+    "english": "It's started to rain, so please close the windows."
+   }
+  },
+  {
+   "id": "c-kaaten-o-shimeru",
+   "romaji": "kaaten o shimeru",
+   "polite": "kaaten o shimemasu",
+   "english": "close the curtains",
+   "ja": "カーテンを閉める",
+   "kana": "カーテンをしめる",
+   "politeJa": "カーテンを閉めます",
+   "noun": "kaaten",
+   "particle": "o",
+   "verb": "shimeru",
+   "verbJa": "閉める",
+   "verbSense": "shut something (a door, a window, a lid); with kagi, lock",
+   "englishVerb": "close",
+   "trap": null,
+   "partners": [
+    "amado (storm shutters)",
+    "shattaa (shutters)",
+    "futa (lid)"
+   ],
+   "flags": [],
+   "use": "Said in the evening or when the sun is in your eyes: kaaten shimete (close the curtains). Casual speech drops o; opening them in the morning is kaaten o akeru.",
+   "notes": "The state is kaaten shimatteru (the curtains are shut) or kaaten aiteru (open).",
+   "example": {
+    "romaji": "mabushii kara, kaaten shimete.",
+    "ja": "まぶしいから、カーテン閉めて。",
+    "english": "It's too bright, close the curtains."
+   },
+   "examplePolite": {
+    "romaji": "mabushii node, kaaten o shimete kudasai.",
+    "ja": "まぶしいので、カーテンを閉めてください。",
+    "english": "It's bright, so please close the curtains."
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-fuku-o-kiru",
+   "romaji": "fuku o kiru",
+   "english": "put on / wear clothes",
+   "chunk": "Clothes and shoes",
+   "recent": true
+  },
+  {
+   "id": "c-kutsu-o-haku",
+   "romaji": "kutsu o haku",
+   "english": "put on / wear shoes",
+   "chunk": "Clothes and shoes",
+   "recent": true
+  },
+  {
+   "id": "c-kutsu-o-nugu",
+   "romaji": "kutsu o nugu",
+   "english": "take off shoes",
+   "chunk": "Clothes and shoes",
+   "recent": true
+  },
+  {
+   "id": "c-fuku-o-nugu",
+   "romaji": "fuku o nugu",
+   "english": "take off clothes, get undressed",
+   "chunk": "Clothes and shoes",
+   "recent": true
+  },
+  {
+   "id": "c-terebi-o-miru",
+   "romaji": "terebi o miru",
+   "english": "watch TV",
+   "chunk": "TV and music",
+   "recent": true
+  },
+  {
+   "id": "c-ongaku-o-kiku",
+   "romaji": "ongaku o kiku",
+   "english": "listen to music",
+   "chunk": "TV and music",
+   "recent": true
+  },
+  {
+   "id": "c-nyuusu-o-miru",
+   "romaji": "nyuusu o miru",
+   "english": "watch or check the news",
+   "chunk": "TV and music",
+   "recent": true
+  },
+  {
+   "id": "c-ongaku-o-kakeru",
+   "romaji": "ongaku o kakeru",
+   "english": "put on music",
+   "chunk": "TV and music",
+   "recent": true
+  },
+  {
+   "id": "c-channeru-o-kaeru",
+   "romaji": "channeru o kaeru",
+   "english": "change the channel",
+   "chunk": "TV and music",
+   "recent": true
+  },
+  {
+   "id": "c-doa-o-akeru",
+   "romaji": "doa o akeru",
+   "english": "open the door",
+   "chunk": "Doors and locks",
+   "recent": true
+  },
+  {
+   "id": "c-doa-o-shimeru",
+   "romaji": "doa o shimeru",
+   "english": "close the door",
+   "chunk": "Doors and locks",
+   "recent": true
+  },
+  {
+   "id": "c-doa-ga-aku",
+   "romaji": "doa ga aku",
+   "english": "the door opens (aiteru = is open)",
+   "chunk": "Doors and locks",
+   "recent": true
+  },
+  {
+   "id": "c-doa-ga-shimaru",
+   "romaji": "doa ga shimaru",
+   "english": "the door closes (shimatteru = is shut)",
+   "chunk": "Doors and locks",
+   "recent": true
+  },
+  {
+   "id": "c-kagi-o-kakeru",
+   "romaji": "kagi o kakeru",
+   "english": "lock (a door, bike, locker)",
+   "chunk": "Doors and locks",
+   "recent": true
+  },
+  {
+   "id": "c-kagi-ga-kakaru",
+   "romaji": "kagi ga kakaru",
+   "english": "(a door) locks, gets locked (kakatteru = is locked)",
+   "chunk": "Doors and locks",
+   "recent": true
+  },
+  {
+   "id": "c-nioi-ga-suru",
+   "romaji": "nioi ga suru",
+   "english": "smell something, there's a smell",
+   "chunk": "Noticing",
+   "recent": true
+  },
+  {
+   "id": "c-oto-ga-suru",
+   "romaji": "oto ga suru",
+   "english": "hear a noise, there's a sound",
+   "chunk": "Noticing",
+   "recent": true
+  },
+  {
+   "id": "c-koe-ga-kikoeru",
+   "romaji": "koe ga kikoeru",
+   "english": "hear a voice; (on a call) can hear someone",
+   "chunk": "Noticing",
+   "recent": true
+  },
+  {
+   "id": "c-ki-ga-tsuku",
+   "romaji": "ki ga tsuku",
+   "english": "notice, realise",
+   "chunk": "Noticing",
+   "recent": true
+  },
+  {
+   "id": "c-kodomo-ga-iru",
+   "romaji": "kodomo ga iru",
+   "english": "have children, have kids",
+   "chunk": "Kids and growing up",
+   "recent": true
+  },
+  {
+   "id": "c-kodomo-ga-umareru",
+   "romaji": "kodomo ga umareru",
+   "english": "have a baby",
+   "chunk": "Kids and growing up",
+   "recent": true
+  },
+  {
+   "id": "c-otona-ni-naru",
+   "romaji": "otona ni naru",
+   "english": "grow up, become an adult",
+   "chunk": "Kids and growing up",
+   "recent": true
+  },
+  {
+   "id": "c-kodomo-o-sodateru",
+   "romaji": "kodomo o sodateru",
+   "english": "raise children, bring up kids",
+   "chunk": "Kids and growing up",
+   "recent": true
+  },
+  {
+   "id": "c-mendou-o-miru",
+   "romaji": "mendou o miru",
+   "english": "look after, take care of",
+   "chunk": "Kids and growing up",
+   "recent": true
+  },
+  {
+   "id": "c-netsu-ga-aru",
+   "romaji": "netsu ga aru",
+   "english": "have a fever",
+   "chunk": "Cold symptoms",
+   "recent": true
+  },
+  {
+   "id": "c-netsu-ga-deru",
+   "romaji": "netsu ga deru",
+   "english": "get a fever",
+   "chunk": "Cold symptoms",
+   "recent": true
+  },
+  {
+   "id": "c-seki-ga-deru",
+   "romaji": "seki ga deru",
+   "english": "have a cough",
+   "chunk": "Cold symptoms",
+   "recent": true
+  },
+  {
+   "id": "c-hanamizu-ga-deru",
+   "romaji": "hanamizu ga deru",
+   "english": "have a runny nose",
+   "chunk": "Cold symptoms",
+   "recent": true
+  },
+  {
+   "id": "c-karada-ga-darui",
+   "romaji": "karada ga darui",
+   "english": "feel heavy and sluggish",
+   "chunk": "Cold symptoms",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "kenta",
+   "sora"
+  ],
+  "format": "dialogue"
+ }
+}

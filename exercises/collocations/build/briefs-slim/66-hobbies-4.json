@@ -1,0 +1,338 @@
+{
+ "script": 66,
+ "of": 94,
+ "stage": 3,
+ "chunkId": "hobbies-4",
+ "label": "Hooked, tickets, winning",
+ "topic": "Hobbies, sport & games",
+ "rationale": "What comes up once a hobby takes hold: being into something right now, managing to get tickets for a concert or game, and a match won or lost.",
+ "mixUps": "geemu ni hamaru and shiai ni katsu both take ni where English uses 'into' or a direct object, never o. chiketto o toru keeps o, and its toru means securing them (toreta! = I got them), not buying (katta) or being given them (moratta).",
+ "targets": [
+  {
+   "id": "c-geemu-ni-hamaru",
+   "romaji": "geemu ni hamaru",
+   "polite": "geemu ni hamarimasu",
+   "english": "be hooked on games; be really into games",
+   "ja": "ゲームにハマる",
+   "kana": "ゲームにはまる",
+   "politeJa": "ゲームにハマります",
+   "noun": "geemu",
+   "particle": "ni",
+   "verb": "hamaru",
+   "verbJa": "ハマる",
+   "verbSense": "fit snugly into, get stuck in; hence get hooked on",
+   "englishVerb": "be into",
+   "trap": "English has no verb for being into something, so learners fall back on suki desu. suki is fine but only says you like it in general; for a current craze natives say X ni hamatteru, with ni, never o.",
+   "partners": [
+    "dorama (TV dramas)",
+    "anime (anime)",
+    "manga (comics)",
+    "kyanpu (camping)"
+   ],
+   "flags": [
+    "slang"
+   ],
+   "use": "Use it for what you are into right now. It is almost always hamatteru (am hooked), as in saikin X ni hamatteru; hamatta means got hooked. It works with any hobby.",
+   "notes": "Colloquial but mainstream (dictionaries mark this sense as slang, and the katakana shows it): fine in casual and friendly polite talk; in a formal setting say X ni kyoumi ga arimasu. Milder: X ni kyoumi ga aru (interested in). Stronger: X ni muchuu ni natteru (completely absorbed in). hamatta also means got stuck: juutai ni hamatta (got stuck in traffic).",
+   "example": {
+    "romaji": "saikin kono geemu ni hamatteru",
+    "ja": "最近このゲームにハマってる",
+    "english": "I'm hooked on this game lately."
+   },
+   "examplePolite": {
+    "romaji": "saikin kono geemu ni hamattemasu",
+    "ja": "最近このゲームにハマってます",
+    "english": "I've been hooked on this game lately."
+   }
+  },
+  {
+   "id": "c-shiai-ni-katsu",
+   "romaji": "shiai ni katsu",
+   "polite": "shiai ni kachimasu",
+   "english": "win a match",
+   "ja": "試合に勝つ",
+   "kana": "しあいにかつ",
+   "politeJa": "試合に勝ちます",
+   "noun": "shiai",
+   "particle": "ni",
+   "verb": "katsu",
+   "verbJa": "勝つ",
+   "verbSense": "win; beat (both the contest and the opponent take ni)",
+   "englishVerb": "win",
+   "trap": "Not shiai o katsu: English 'win the game' takes an object, but Japanese wins at it with ni. shiai de katsu (win in the match) is also fine. The same ni marks who you beat: Kankoku ni katta = we beat Korea (not Kankoku o).",
+   "partners": [
+    "shoubu (contest)",
+    "janken (rock-paper-scissors)",
+    "geemu (game)",
+    "aite (opponent)"
+   ],
+   "flags": [],
+   "use": "Use it about any match or game you played or watched. It is mostly past tense (katta, or kateta for managed to win). In speech the match is usually said first as the topic and katta stands alone (kinou no shiai, katta yo). Keep ni when the match follows straight on: shiai ni katta.",
+   "notes": "English 'win' is wider: win a prize = shou o morau / toru; win the lottery = takarakuji ga ataru.",
+   "example": {
+    "romaji": "kinou no shiai, katta yo",
+    "ja": "昨日の試合、勝ったよ",
+    "english": "We won yesterday's match."
+   },
+   "examplePolite": {
+    "romaji": "kinou no shiai ni kachimashita yo",
+    "ja": "昨日の試合に勝ちましたよ",
+    "english": "We won yesterday's match."
+   }
+  },
+  {
+   "id": "c-shiai-ni-makeru",
+   "romaji": "shiai ni makeru",
+   "polite": "shiai ni makemasu",
+   "english": "lose a match",
+   "ja": "試合に負ける",
+   "kana": "しあいにまける",
+   "politeJa": "試合に負けます",
+   "noun": "shiai",
+   "particle": "ni",
+   "verb": "makeru",
+   "verbJa": "負ける",
+   "verbSense": "lose a contest; be beaten",
+   "englishVerb": "lose",
+   "trap": "Not shiai o nakusu: nakusu is losing an object. A contest is makeru with ni, never o; shiai de makeru is also fine. The same ni marks who beat you: Kankoku ni maketa = we lost to Korea.",
+   "partners": [
+    "shoubu (contest)",
+    "janken (rock-paper-scissors)",
+    "geemu (game)",
+    "aite (opponent)"
+   ],
+   "flags": [],
+   "use": "It is mostly past tense: maketa, or makechatta (lost, sadly; makechaimashita among colleagues). In speech the match is usually said first as the topic (kinou no shiai, makechatta), and the team goes unsaid. Otherwise keep ni: shiai ni maketa.",
+   "notes": null,
+   "example": {
+    "romaji": "kinou no shiai, makechatta",
+    "ja": "昨日の試合、負けちゃった",
+    "english": "Ugh, we lost yesterday's match."
+   },
+   "examplePolite": {
+    "romaji": "kinou no shiai ni makemashita",
+    "ja": "昨日の試合に負けました",
+    "english": "We lost yesterday's match."
+   }
+  },
+  {
+   "id": "c-chiketto-o-toru",
+   "romaji": "chiketto o toru",
+   "polite": "chiketto o torimasu",
+   "english": "get hold of tickets",
+   "ja": "チケットを取る",
+   "kana": "チケットをとる",
+   "politeJa": "チケットを取ります",
+   "noun": "chiketto",
+   "particle": "o",
+   "verb": "toru",
+   "verbJa": "取る",
+   "verbSense": "take; also get hold of, secure (seats, bookings, rooms)",
+   "englishVerb": "get",
+   "trap": "Not chiketto o morau, which means someone gave them to you: tickets you secure yourself are toru (kau, buy, is also fine), and 'I got them!' is toreta! (casually also getto shita!).",
+   "partners": [
+    "seki (seats: ii seki toreta)",
+    "hoteru (hotel room)",
+    "yado (place to stay)",
+    "yoyaku (booking)"
+   ],
+   "flags": [],
+   "use": "Said about securing tickets for concerts, games, flights or the shinkansen, often ones that sell out. You hear the can-form toreru most, which takes ga (usually dropped in speech): chiketto toreta! (got them!), torenakatta (couldn't get any).",
+   "notes": "kippu is a train ticket (kippu o kau); for the shinkansen you hear both. chiketto covers concerts, games, flights and anything booked online.",
+   "example": {
+    "romaji": "raibu no chiketto toreta!",
+    "ja": "ライブのチケット取れた！",
+    "english": "I got tickets for the concert!"
+   },
+   "examplePolite": {
+    "romaji": "raibu no chiketto ga toremashita!",
+    "ja": "ライブのチケットが取れました！",
+    "english": "I got tickets for the concert!"
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-aji-ga-suru",
+   "romaji": "aji ga suru",
+   "english": "taste (like something)",
+   "chunk": "How it tastes",
+   "recent": true
+  },
+  {
+   "id": "c-aji-ga-usui",
+   "romaji": "aji ga usui",
+   "english": "lightly seasoned; bland (needs more salt)",
+   "chunk": "How it tastes",
+   "recent": true
+  },
+  {
+   "id": "c-aji-ga-koi",
+   "romaji": "aji ga koi",
+   "english": "strongly seasoned, rich",
+   "chunk": "How it tastes",
+   "recent": true
+  },
+  {
+   "id": "c-mukae-ni-iku",
+   "romaji": "mukae ni iku",
+   "english": "go to pick someone up",
+   "chunk": "Picking someone up",
+   "recent": true
+  },
+  {
+   "id": "c-nimotsu-o-motsu",
+   "romaji": "nimotsu o motsu",
+   "english": "carry the bags",
+   "chunk": "Picking someone up",
+   "recent": true
+  },
+  {
+   "id": "c-kuruma-ni-noseru",
+   "romaji": "kuruma ni noseru",
+   "english": "give someone a lift",
+   "chunk": "Picking someone up",
+   "recent": true
+  },
+  {
+   "id": "c-kuruma-o-tomeru",
+   "romaji": "kuruma o tomeru",
+   "english": "park the car",
+   "chunk": "Picking someone up",
+   "recent": true
+  },
+  {
+   "id": "c-konbini-ni-yoru",
+   "romaji": "konbini ni yoru",
+   "english": "stop by the convenience store",
+   "chunk": "Picking someone up",
+   "recent": true
+  },
+  {
+   "id": "c-shigoto-o-yasumu",
+   "romaji": "shigoto o yasumu",
+   "english": "take time off work, miss work",
+   "chunk": "Breaks and time off",
+   "recent": true
+  },
+  {
+   "id": "c-yasumi-o-toru",
+   "romaji": "yasumi o toru",
+   "english": "take time off",
+   "chunk": "Breaks and time off",
+   "recent": true
+  },
+  {
+   "id": "c-kyuukei-o-toru",
+   "romaji": "kyuukei o toru",
+   "english": "take a break",
+   "chunk": "Breaks and time off",
+   "recent": true
+  },
+  {
+   "id": "c-kaisha-o-yameru",
+   "romaji": "kaisha o yameru",
+   "english": "quit one's job",
+   "chunk": "Breaks and time off",
+   "recent": true
+  },
+  {
+   "id": "c-hito-ga-ooi",
+   "romaji": "hito ga ooi",
+   "english": "be crowded, lots of people",
+   "chunk": "Out and about",
+   "recent": true
+  },
+  {
+   "id": "c-ninki-ga-aru",
+   "romaji": "ninki ga aru",
+   "english": "be popular",
+   "chunk": "Out and about",
+   "recent": true
+  },
+  {
+   "id": "c-ii-fun-iki",
+   "romaji": "ii fun'iki",
+   "english": "a nice atmosphere, good vibe",
+   "chunk": "Out and about",
+   "recent": true
+  },
+  {
+   "id": "c-hyouban-ga-ii",
+   "romaji": "hyouban ga ii",
+   "english": "have a good reputation",
+   "chunk": "Out and about",
+   "recent": true
+  },
+  {
+   "id": "c-nimotsu-ga-omoi",
+   "romaji": "nimotsu ga omoi",
+   "english": "the bags are heavy",
+   "chunk": "Out and about",
+   "recent": true
+  },
+  {
+   "id": "c-orei-o-iu",
+   "romaji": "orei o iu",
+   "english": "thank someone, say thanks",
+   "chunk": "Manners and thanks",
+   "recent": true
+  },
+  {
+   "id": "c-keigo-o-tsukau",
+   "romaji": "keigo o tsukau",
+   "english": "speak politely, use honorifics",
+   "chunk": "Manners and thanks",
+   "recent": true
+  },
+  {
+   "id": "c-ki-o-tsukau",
+   "romaji": "ki o tsukau",
+   "english": "be considerate, go to trouble",
+   "chunk": "Manners and thanks",
+   "recent": true
+  },
+  {
+   "id": "c-osewa-ni-naru",
+   "romaji": "osewa ni naru",
+   "english": "be looked after, be indebted",
+   "chunk": "Manners and thanks",
+   "recent": true
+  },
+  {
+   "id": "c-gochisou-ni-naru",
+   "romaji": "gochisou ni naru",
+   "english": "be treated (to a meal)",
+   "chunk": "Manners and thanks",
+   "recent": true
+  },
+  {
+   "id": "c-osara-o-arau",
+   "romaji": "osara o arau",
+   "english": "wash the dishes, wash up",
+   "chunk": "Kitchen",
+   "recent": true
+  },
+  {
+   "id": "c-oyu-o-wakasu",
+   "romaji": "oyu o wakasu",
+   "english": "boil water",
+   "chunk": "Kitchen",
+   "recent": true
+  },
+  {
+   "id": "c-teeburu-o-fuku",
+   "romaji": "teeburu o fuku",
+   "english": "wipe the table",
+   "chunk": "Kitchen",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "yuki",
+   "kenji"
+  ],
+  "format": "dialogue"
+ }
+}

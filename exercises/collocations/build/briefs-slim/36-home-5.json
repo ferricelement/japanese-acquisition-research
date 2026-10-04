@@ -1,0 +1,328 @@
+{
+ "script": 36,
+ "of": 94,
+ "stage": 2,
+ "chunkId": "home-5",
+ "label": "Lights and buttons",
+ "topic": "Home & daily routine",
+ "rationale": "Switching things on and off and pressing a button: the on/off pair, the light's own state, then the press.",
+ "mixUps": "Don't carry akeru and shimeru over from doors: lights go on with tsukeru and off with kesu (not shimeru or tomeru). Drill the pair in one frame: denki ___te.",
+ "targets": [
+  {
+   "id": "c-denki-o-tsukeru",
+   "romaji": "denki o tsukeru",
+   "polite": "denki o tsukemasu",
+   "english": "turn on the light",
+   "ja": "電気をつける",
+   "kana": "でんきをつける",
+   "politeJa": "電気をつけます",
+   "noun": "denki",
+   "particle": "o",
+   "verb": "tsukeru",
+   "verbJa": "つける",
+   "verbSense": "attach; light or switch on (a light, fire, TV)",
+   "englishVerb": "turn on",
+   "trap": "Not denki o ireru: ireru (turn on) goes with suitchi (switch) and dengen (power). The room light is called denki (literally 'electricity') and takes tsukeru, like terebi and eakon: denki tsukete.",
+   "partners": [
+    "terebi (TV)",
+    "eakon (air conditioner)",
+    "danbou (heating)",
+    "hi (fire)"
+   ],
+   "flags": [],
+   "use": "Said whenever a room gets dark: denki tsukete (put the light on), denki tsukeyou ka. Here denki means the light itself, and the same tsukeru works for the TV and air conditioner.",
+   "notes": "suitchi o ireru / dengen o ireru is how you switch a machine on; eakon o ireru is also heard, but tsukeru is the everyday choice. Intransitive pair: denki ga tsuku, mostly heard as denki tsuiteru (the light's on) and denki tsukanai (it won't come on). denki tsukete ends like ki o tsukete (take care), the same verb in another sense.",
+   "example": {
+    "romaji": "kurai ne, denki tsukeyou ka.",
+    "ja": "暗いね、電気つけようか。",
+    "english": "It's dark, shall I put the light on?"
+   },
+   "examplePolite": {
+    "romaji": "kurai desu ne, denki o tsukemashou ka.",
+    "ja": "暗いですね、電気をつけましょうか。",
+    "english": "It's dark, shall I turn the light on?"
+   }
+  },
+  {
+   "id": "c-denki-o-kesu",
+   "romaji": "denki o kesu",
+   "polite": "denki o keshimasu",
+   "english": "turn off the light",
+   "ja": "電気を消す",
+   "kana": "でんきをけす",
+   "politeJa": "電気を消します",
+   "noun": "denki",
+   "particle": "o",
+   "verb": "kesu",
+   "verbJa": "消す",
+   "verbSense": "put out, make disappear (light, fire, writing)",
+   "englishVerb": "turn off",
+   "trap": "Not denki o tomeru, which means cutting off the power supply (denki tomerareta = they cut off my electricity). Lights and TVs are put out with kesu; for the air conditioner or a fan, kesu, kiru (eakon kitte) and tomeru are all used.",
+   "partners": [
+    "terebi (TV)",
+    "eakon (air conditioner)",
+    "gasu (gas stove)",
+    "hi (fire)"
+   ],
+   "flags": [],
+   "use": "The other half of denki o tsukeru, used for the TV, heater and air conditioner too. You hear it as denki keshite (turn the light off) and denki keshita? (did you turn it off?).",
+   "notes": "Intransitive pair: denki ga kieru (the light goes out; denki kieta! = the lights went out). A phone or computer is powered off with dengen o kiru.",
+   "example": {
+    "romaji": "heya no denki keshita?",
+    "ja": "部屋の電気消した？",
+    "english": "Did you turn off the light in your room?"
+   },
+   "examplePolite": {
+    "romaji": "heya no denki o keshimashita ka?",
+    "ja": "部屋の電気を消しましたか？",
+    "english": "Did you turn off the light in your room?"
+   }
+  },
+  {
+   "id": "c-denki-ga-tsuku",
+   "romaji": "denki ga tsuku",
+   "polite": "denki ga tsukimasu",
+   "english": "the light comes on (tsuiteru = is on)",
+   "ja": "電気がつく",
+   "kana": "でんきがつく",
+   "politeJa": "電気がつきます",
+   "noun": "denki",
+   "particle": "ga",
+   "verb": "tsuku",
+   "verbJa": "つく",
+   "verbSense": "come on, catch light; also stick, be attached",
+   "englishVerb": "come on",
+   "trap": "Not denki ga tsuketeru: with ga the verb is tsuku (denki tsuiteru). denki o tsuketeru means someone is keeping it on.",
+   "partners": [
+    "terebi (TV)",
+    "eakon (air conditioner)",
+    "hi (fire)"
+   ],
+   "flags": [],
+   "use": "Describes the light itself, almost always as denki tsuiteru (the light's on) or denki tsukanai (it won't come on). Use tsukeru only when someone switches it on.",
+   "notes": "Sounds like tsuku 'arrive' (eki ni tsuku); the particle and context tell them apart.",
+   "example": {
+    "romaji": "heya no denki tsuiteru yo.",
+    "ja": "部屋の電気ついてるよ。",
+    "english": "The light's on in your room."
+   },
+   "examplePolite": {
+    "romaji": "heya no denki ga tsuite imasu yo.",
+    "ja": "部屋の電気がついていますよ。",
+    "english": "The light is on in your room."
+   }
+  },
+  {
+   "id": "c-botan-o-osu",
+   "romaji": "botan o osu",
+   "polite": "botan o oshimasu",
+   "english": "press the button",
+   "ja": "ボタンを押す",
+   "kana": "ボタンをおす",
+   "politeJa": "ボタンを押します",
+   "noun": "botan",
+   "particle": "o",
+   "verb": "osu",
+   "verbJa": "押す",
+   "verbSense": "push, press",
+   "englishVerb": "press",
+   "trap": null,
+   "partners": [
+    "suitchi (switch)",
+    "intaahon (doorbell)",
+    "hanko (name stamp)",
+    "iine (a like)"
+   ],
+   "flags": [],
+   "use": "For lifts, buses, ticket machines and intercoms: botan oshite (press the button), kono botan osu dake (you just press this button). Casual speech drops o; on a bus, pressing it asks for the next stop.",
+   "notes": "Shirt buttons take other verbs: botan o tomeru (do up), hazusu (undo).",
+   "example": {
+    "romaji": "tsugi de oriru kara, botan oshite.",
+    "ja": "次で降りるから、ボタン押して。",
+    "english": "We get off at the next stop, press the button."
+   },
+   "examplePolite": {
+    "romaji": "sumimasen, tsugi de orimasu node, botan o oshite moraemasu ka?",
+    "ja": "すみません、次で降りますので、ボタンを押してもらえますか？",
+    "english": "Excuse me, I'm getting off at the next stop. Could you press the button?"
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-kodomo-ga-iru",
+   "romaji": "kodomo ga iru",
+   "english": "have children, have kids",
+   "chunk": "Kids and growing up",
+   "recent": true
+  },
+  {
+   "id": "c-kodomo-ga-umareru",
+   "romaji": "kodomo ga umareru",
+   "english": "have a baby",
+   "chunk": "Kids and growing up",
+   "recent": true
+  },
+  {
+   "id": "c-otona-ni-naru",
+   "romaji": "otona ni naru",
+   "english": "grow up, become an adult",
+   "chunk": "Kids and growing up",
+   "recent": true
+  },
+  {
+   "id": "c-kodomo-o-sodateru",
+   "romaji": "kodomo o sodateru",
+   "english": "raise children, bring up kids",
+   "chunk": "Kids and growing up",
+   "recent": true
+  },
+  {
+   "id": "c-mendou-o-miru",
+   "romaji": "mendou o miru",
+   "english": "look after, take care of",
+   "chunk": "Kids and growing up",
+   "recent": true
+  },
+  {
+   "id": "c-netsu-ga-aru",
+   "romaji": "netsu ga aru",
+   "english": "have a fever",
+   "chunk": "Cold symptoms",
+   "recent": true
+  },
+  {
+   "id": "c-netsu-ga-deru",
+   "romaji": "netsu ga deru",
+   "english": "get a fever",
+   "chunk": "Cold symptoms",
+   "recent": true
+  },
+  {
+   "id": "c-seki-ga-deru",
+   "romaji": "seki ga deru",
+   "english": "have a cough",
+   "chunk": "Cold symptoms",
+   "recent": true
+  },
+  {
+   "id": "c-hanamizu-ga-deru",
+   "romaji": "hanamizu ga deru",
+   "english": "have a runny nose",
+   "chunk": "Cold symptoms",
+   "recent": true
+  },
+  {
+   "id": "c-karada-ga-darui",
+   "romaji": "karada ga darui",
+   "english": "feel heavy and sluggish",
+   "chunk": "Cold symptoms",
+   "recent": true
+  },
+  {
+   "id": "c-mado-o-akeru",
+   "romaji": "mado o akeru",
+   "english": "open the window",
+   "chunk": "Windows and curtains",
+   "recent": true
+  },
+  {
+   "id": "c-mado-o-shimeru",
+   "romaji": "mado o shimeru",
+   "english": "close the window",
+   "chunk": "Windows and curtains",
+   "recent": true
+  },
+  {
+   "id": "c-kaaten-o-shimeru",
+   "romaji": "kaaten o shimeru",
+   "english": "close the curtains",
+   "chunk": "Windows and curtains",
+   "recent": true
+  },
+  {
+   "id": "c-shashin-o-toru",
+   "romaji": "shashin o toru",
+   "english": "take a photo",
+   "chunk": "Photos and your phone",
+   "recent": true
+  },
+  {
+   "id": "c-shashin-o-miru",
+   "romaji": "shashin o miru",
+   "english": "look at photos",
+   "chunk": "Photos and your phone",
+   "recent": true
+  },
+  {
+   "id": "c-sumaho-o-ijiru",
+   "romaji": "sumaho o ijiru",
+   "english": "be on your phone",
+   "chunk": "Photos and your phone",
+   "recent": true
+  },
+  {
+   "id": "c-shashin-o-okuru",
+   "romaji": "shashin o okuru",
+   "english": "send a photo",
+   "chunk": "Photos and your phone",
+   "recent": true
+  },
+  {
+   "id": "c-imi-ga-wakaru",
+   "romaji": "imi ga wakaru",
+   "english": "understand what something means; (negative) make no sense",
+   "chunk": "Understanding",
+   "recent": true
+  },
+  {
+   "id": "c-kimochi-ga-wakaru",
+   "romaji": "kimochi ga wakaru",
+   "english": "know how someone feels",
+   "chunk": "Understanding",
+   "recent": true
+  },
+  {
+   "id": "c-chigai-ga-wakaru",
+   "romaji": "chigai ga wakaru",
+   "english": "tell the difference",
+   "chunk": "Understanding",
+   "recent": true
+  },
+  {
+   "id": "c-gohan-ni-iku",
+   "romaji": "gohan ni iku",
+   "english": "go out to eat",
+   "chunk": "Eating out",
+   "recent": true
+  },
+  {
+   "id": "c-mise-ga-komu",
+   "romaji": "mise ga komu",
+   "english": "(a place) gets crowded (konderu = is packed)",
+   "chunk": "Eating out",
+   "recent": true
+  },
+  {
+   "id": "c-gohan-o-ogoru",
+   "romaji": "gohan o ogoru",
+   "english": "treat someone to a meal",
+   "chunk": "Eating out",
+   "recent": true
+  },
+  {
+   "id": "c-ryou-ga-ooi",
+   "romaji": "ryou ga ooi",
+   "english": "it's a big portion",
+   "chunk": "Eating out",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "yuki",
+   "kenji"
+  ],
+  "format": "dialogue"
+ }
+}

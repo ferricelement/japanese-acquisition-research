@@ -1,0 +1,379 @@
+{
+ "script": 17,
+ "of": 94,
+ "stage": 1,
+ "chunkId": "body-3",
+ "label": "Aches and pains",
+ "topic": "Body & health",
+ "rationale": "Saying what hurts: body part + ga itai for any pain, plus stiff shoulders.",
+ "mixUps": "X ga itai covers every pain (atama itai, nodo itai), and koshi is the lower back, which English just calls 'my back'. kata ga koru is stiffness and takes the verb koru, never itai.",
+ "targets": [
+  {
+   "id": "c-atama-ga-itai",
+   "romaji": "atama ga itai",
+   "polite": "atama ga itai desu",
+   "english": "have a headache",
+   "ja": "頭が痛い",
+   "kana": "あたまがいたい",
+   "politeJa": "頭が痛いです",
+   "noun": "atama",
+   "particle": "ga",
+   "verb": "itai",
+   "verbJa": "痛い",
+   "verbSense": "painful, it hurts; on its own, 'ouch!'",
+   "englishVerb": "have",
+   "trap": "Not a 'have' sentence: the head hurts, atama ga itai. The noun zutsuu exists (zutsuu ga suru, zutsuuyaku), but in conversation atama itai comes first.",
+   "partners": [
+    "ha (tooth)",
+    "ashi (leg, foot)",
+    "hiza (knee)",
+    "mimi (ear)"
+   ],
+   "flags": [],
+   "use": "Body part + ga itai is the pattern for any pain, usually said without ga: atama itai. Add n da or n desu when it's the reason you can't do something.",
+   "notes": "Also used, as in English, for a problem that's a headache.",
+   "example": {
+    "romaji": "asa kara zutto atama itai.",
+    "ja": "朝からずっと頭いたい。",
+    "english": "I've had a headache since this morning."
+   },
+   "examplePolite": {
+    "romaji": "asa kara zutto atama ga itai n desu.",
+    "ja": "朝からずっと頭が痛いんです。",
+    "english": "I've had a headache since this morning."
+   }
+  },
+  {
+   "id": "c-onaka-ga-itai",
+   "romaji": "onaka ga itai",
+   "polite": "onaka ga itai desu",
+   "english": "have a stomachache",
+   "ja": "お腹が痛い",
+   "kana": "おなかがいたい",
+   "politeJa": "お腹が痛いです",
+   "noun": "onaka",
+   "particle": "ga",
+   "verb": "itai",
+   "verbJa": "痛い",
+   "verbSense": "painful, it hurts",
+   "englishVerb": "have",
+   "trap": "Dictionaries give i for 'stomach'; i ga itai is said too, but the everyday tummy ache is onaka ga itai.",
+   "partners": [
+    "i (stomach)",
+    "mune (chest)",
+    "senaka (back)"
+   ],
+   "flags": [],
+   "use": "Covers any pain in the belly; usually said without ga, onaka itai, often with n da or n desu to explain. Often a polite hint that you need the toilet.",
+   "notes": "An upset stomach from something you ate is onaka o kowasu (onaka kowashita). Onaka no choushi ga warui is the discreet way to mention it.",
+   "example": {
+    "romaji": "nanka onaka itai. tabesugita kamo.",
+    "ja": "なんかお腹痛い。食べすぎたかも。",
+    "english": "My stomach kind of hurts. Maybe I ate too much."
+   },
+   "examplePolite": {
+    "romaji": "nanka onaka ga itai n desu. tabesugita kamo shiremasen.",
+    "ja": "なんかお腹が痛いんです。食べすぎたかもしれません。",
+    "english": "My stomach kind of hurts. I might have eaten too much."
+   }
+  },
+  {
+   "id": "c-nodo-ga-itai",
+   "romaji": "nodo ga itai",
+   "polite": "nodo ga itai desu",
+   "english": "have a sore throat",
+   "ja": "喉が痛い",
+   "kana": "のどがいたい",
+   "politeJa": "喉が痛いです",
+   "noun": "nodo",
+   "particle": "ga",
+   "verb": "itai",
+   "verbJa": "痛い",
+   "verbSense": "painful, it hurts",
+   "englishVerb": "sore",
+   "trap": null,
+   "partners": [
+    "atama (head)",
+    "ha (tooth)",
+    "mimi (ear)"
+   ],
+   "flags": [],
+   "use": "Often the first sign of a cold: nanka nodo itai, with ga dropped. Add n da or n desu when it explains a rough voice or skipping karaoke.",
+   "notes": "The same nodo is in nodo ga kawaku (thirsty); a scratchy throat is nodo ga igaiga suru.",
+   "example": {
+    "romaji": "nanka nodo itai. kaze kamo.",
+    "ja": "なんか喉痛い。風邪かも。",
+    "english": "My throat's kind of sore. Might be a cold."
+   },
+   "examplePolite": {
+    "romaji": "nanka nodo ga itai n desu. kaze kamo shiremasen.",
+    "ja": "なんか喉が痛いんです。風邪かもしれません。",
+    "english": "My throat is a bit sore. It might be a cold."
+   }
+  },
+  {
+   "id": "c-koshi-ga-itai",
+   "romaji": "koshi ga itai",
+   "polite": "koshi ga itai desu",
+   "english": "have lower back pain",
+   "ja": "腰が痛い",
+   "kana": "こしがいたい",
+   "politeJa": "腰が痛いです",
+   "noun": "koshi",
+   "particle": "ga",
+   "verb": "itai",
+   "verbJa": "痛い",
+   "verbSense": "painful, it hurts",
+   "englishVerb": "hurt",
+   "trap": "'My back hurts' usually means the lower back, which is koshi. Senaka is the upper and middle back, so senaka ga itai points higher.",
+   "partners": [
+    "kata (shoulder)",
+    "hiza (knee)",
+    "senaka (upper back)"
+   ],
+   "flags": [],
+   "use": "The everyday back-pain complaint after lifting, sitting all day or sleeping badly: koshi itai, with ga dropped. Older people say it constantly.",
+   "notes": "Koshi covers the lower back and hips together.",
+   "example": {
+    "romaji": "omoi mono motte, koshi itaku natta.",
+    "ja": "重いもの持って、腰痛くなった。",
+    "english": "I lifted something heavy and now my back hurts."
+   },
+   "examplePolite": {
+    "romaji": "omoi mono o motte, koshi ga itaku narimashita.",
+    "ja": "重いものを持って、腰が痛くなりました。",
+    "english": "I lifted something heavy and hurt my back."
+   }
+  },
+  {
+   "id": "c-kata-ga-koru",
+   "romaji": "kata ga koru",
+   "polite": "kata ga korimasu",
+   "english": "have stiff shoulders",
+   "ja": "肩が凝る",
+   "kana": "かたがこる",
+   "politeJa": "肩が凝ります",
+   "noun": "kata",
+   "particle": "ga",
+   "verb": "koru",
+   "verbJa": "凝る",
+   "verbSense": "stiffen, harden; also be really into something (ryouri ni koru)",
+   "englishVerb": "stiff",
+   "trap": "English uses the adjective 'stiff', so learners look for one; Japanese uses the verb koru: kata ga kotteru.",
+   "partners": [
+    "kubi (neck)"
+   ],
+   "flags": [],
+   "use": "Said as kata kotta (my shoulders have gone stiff) or kata kotteru (they're stiff); the noun katakori is just as common.",
+   "notes": "Japanese complain of stiff shoulders where English speakers often say neck or back. Lower-back pain is koshi ga itai.",
+   "example": {
+    "romaji": "ichinichijuu pasokon de, kata kotta.",
+    "ja": "一日中パソコンで、肩凝った。",
+    "english": "A whole day at the computer, and my shoulders are stiff."
+   },
+   "examplePolite": {
+    "romaji": "ichinichijuu pasokon o tsukatte ite, kata ga korimashita.",
+    "ja": "一日中パソコンを使っていて、肩が凝りました。",
+    "english": "I was on the computer all day, and my shoulders have gone stiff."
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-tenki-ga-ii",
+   "romaji": "tenki ga ii",
+   "english": "the weather is nice",
+   "chunk": "Weather and wind",
+   "recent": true
+  },
+  {
+   "id": "c-kaze-ga-tsuyoi",
+   "romaji": "kaze ga tsuyoi",
+   "english": "it's windy",
+   "chunk": "Weather and wind",
+   "recent": true
+  },
+  {
+   "id": "c-ame-ga-tsuyoi",
+   "romaji": "ame ga tsuyoi",
+   "english": "the rain is heavy",
+   "chunk": "Weather and wind",
+   "recent": true
+  },
+  {
+   "id": "c-kaze-ga-fuku",
+   "romaji": "kaze ga fuku",
+   "english": "the wind blows",
+   "chunk": "Weather and wind",
+   "recent": true
+  },
+  {
+   "id": "c-kaze-ni-ataru",
+   "romaji": "kaze ni ataru",
+   "english": "get some (fresh) air",
+   "chunk": "Weather and wind",
+   "recent": true
+  },
+  {
+   "id": "c-te-o-arau",
+   "romaji": "te o arau",
+   "english": "wash your hands",
+   "chunk": "Washing and grooming",
+   "recent": true
+  },
+  {
+   "id": "c-kao-o-arau",
+   "romaji": "kao o arau",
+   "english": "wash your face",
+   "chunk": "Washing and grooming",
+   "recent": true
+  },
+  {
+   "id": "c-kami-o-arau",
+   "romaji": "kami o arau",
+   "english": "wash your hair",
+   "chunk": "Washing and grooming",
+   "recent": true
+  },
+  {
+   "id": "c-kami-o-kiru",
+   "romaji": "kami o kiru",
+   "english": "get a haircut",
+   "chunk": "Washing and grooming",
+   "recent": true
+  },
+  {
+   "id": "c-tsume-o-kiru",
+   "romaji": "tsume o kiru",
+   "english": "cut your nails",
+   "chunk": "Washing and grooming",
+   "recent": true
+  },
+  {
+   "id": "c-toire-ni-iku",
+   "romaji": "toire ni iku",
+   "english": "go to the toilet",
+   "chunk": "Bathroom",
+   "recent": true
+  },
+  {
+   "id": "c-shawaa-o-abiru",
+   "romaji": "shawaa o abiru",
+   "english": "take a shower",
+   "chunk": "Bathroom",
+   "recent": true
+  },
+  {
+   "id": "c-ofuro-ni-hairu",
+   "romaji": "ofuro ni hairu",
+   "english": "take a bath",
+   "chunk": "Bathroom",
+   "recent": true
+  },
+  {
+   "id": "c-ha-o-migaku",
+   "romaji": "ha o migaku",
+   "english": "brush your teeth",
+   "chunk": "Bathroom",
+   "recent": true
+  },
+  {
+   "id": "c-hige-o-soru",
+   "romaji": "hige o soru",
+   "english": "shave (your face)",
+   "chunk": "Bathroom",
+   "recent": true
+  },
+  {
+   "id": "c-atama-ga-ii",
+   "romaji": "atama ga ii",
+   "english": "be smart, clever",
+   "chunk": "Smart and skilled",
+   "recent": true
+  },
+  {
+   "id": "c-nihongo-ga-jouzu",
+   "romaji": "nihongo ga jouzu",
+   "english": "be good at Japanese",
+   "chunk": "Smart and skilled",
+   "recent": true
+  },
+  {
+   "id": "c-shigoto-ga-dekiru",
+   "romaji": "shigoto ga dekiru",
+   "english": "be capable, good at one's job",
+   "chunk": "Smart and skilled",
+   "recent": true
+  },
+  {
+   "id": "c-sensu-ga-ii",
+   "romaji": "sensu ga ii",
+   "english": "have good taste, a good eye",
+   "chunk": "Smart and skilled",
+   "recent": true
+  },
+  {
+   "id": "c-asobi-ni-iku",
+   "romaji": "asobi ni iku",
+   "english": "go out for fun; go visit",
+   "chunk": "Going out for fun",
+   "recent": true
+  },
+  {
+   "id": "c-eiga-ni-iku",
+   "romaji": "eiga ni iku",
+   "english": "go to the movies",
+   "chunk": "Going out for fun",
+   "recent": true
+  },
+  {
+   "id": "c-sanpo-ni-iku",
+   "romaji": "sanpo ni iku",
+   "english": "go for a walk",
+   "chunk": "Going out for fun",
+   "recent": true
+  },
+  {
+   "id": "c-karaoke-ni-iku",
+   "romaji": "karaoke ni iku",
+   "english": "go to karaoke",
+   "chunk": "Going out for fun",
+   "recent": true
+  },
+  {
+   "id": "c-shitsumon-ga-aru",
+   "romaji": "shitsumon ga aru",
+   "english": "have a question",
+   "chunk": "Questions and learning",
+   "recent": true
+  },
+  {
+   "id": "c-shitsumon-ni-kotaeru",
+   "romaji": "shitsumon ni kotaeru",
+   "english": "answer a question",
+   "chunk": "Questions and learning",
+   "recent": true
+  },
+  {
+   "id": "c-eigo-o-hanasu",
+   "romaji": "eigo o hanasu",
+   "english": "speak English",
+   "chunk": "Questions and learning",
+   "recent": true
+  },
+  {
+   "id": "c-benkyou-ni-naru",
+   "romaji": "benkyou ni naru",
+   "english": "be instructive; learn a lot",
+   "chunk": "Questions and learning",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "satou",
+   "yuki"
+  ],
+  "format": "dialogue"
+ }
+}

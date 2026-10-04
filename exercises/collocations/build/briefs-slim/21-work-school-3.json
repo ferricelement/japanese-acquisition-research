@@ -1,0 +1,381 @@
+{
+ "script": 21,
+ "of": 94,
+ "stage": 1,
+ "chunkId": "work-school-3",
+ "label": "What's on",
+ "topic": "Work & school",
+ "rationale": "The timetable: a class, meeting or exam you have (all ga aru), then plans shifting: work coming up, something postponed.",
+ "mixUps": "jugyou, kaigi and shiken all take ga aru, never motsu; shigoto ga hairu and enki ni naru say what happened to the plan, with no 'I' or 'they' doing it.",
+ "targets": [
+  {
+   "id": "c-jugyou-ga-aru",
+   "romaji": "jugyou ga aru",
+   "polite": "jugyou ga arimasu",
+   "english": "have class",
+   "ja": "授業がある",
+   "kana": "じゅぎょうがある",
+   "politeJa": "授業があります",
+   "noun": "jugyou",
+   "particle": "ga",
+   "verb": "aru",
+   "verbJa": "ある",
+   "verbSense": "there is; have (things, events)",
+   "englishVerb": "have",
+   "trap": "'Have class' tempts jugyou o motsu, which only fits a teacher's teaching load. A class you go to just exists: jugyou ga aru.",
+   "partners": [
+    "kougi (lecture)",
+    "zemi (seminar)",
+    "bukatsu (club practice)"
+   ],
+   "flags": [],
+   "use": "How students explain their day or turn down plans: ashita ichigen kara jugyou aru (I've got class from first period). Casual speech drops ga; jugyou nai means a free day or period.",
+   "notes": "In class right now is jugyou-chuu; skipping it is jugyou o saboru.",
+   "example": {
+    "romaji": "ashita asa kara jugyou aru n da.",
+    "ja": "明日朝から授業あるんだ。",
+    "english": "I've got class first thing tomorrow."
+   },
+   "examplePolite": {
+    "romaji": "ashita wa asa kara jugyou ga aru n desu.",
+    "ja": "明日は朝から授業があるんです。",
+    "english": "I've got class first thing tomorrow."
+   }
+  },
+  {
+   "id": "c-kaigi-ga-aru",
+   "romaji": "kaigi ga aru",
+   "polite": "kaigi ga arimasu",
+   "english": "have a meeting",
+   "ja": "会議がある",
+   "kana": "かいぎがある",
+   "politeJa": "会議があります",
+   "noun": "kaigi",
+   "particle": "ga",
+   "verb": "aru",
+   "verbJa": "ある",
+   "verbSense": "there is; have (things, events)",
+   "englishVerb": "have",
+   "trap": "'Have a meeting' tempts kaigi o motsu, which only works as stiff 'hold a meeting' (the everyday 'hold' is kaigi o hiraku). A meeting on your calendar just exists: kaigi ga aru. Attending is kaigi ni deru; kaigi o deru is leaving the room.",
+   "partners": [
+    "uchiawase (team or client meeting)",
+    "kenshuu (training)",
+    "nomikai (drinks with colleagues)",
+    "mensetsu (interview)"
+   ],
+   "flags": [],
+   "use": "Said when explaining your schedule or why you can't talk: kore kara kaigi aru kara. Casual speech drops ga, and smaller team or client meetings are uchiawase, with the same verb.",
+   "notes": "Someone in one right now is kaigi-chuu: ima kaigi-chuu desu.",
+   "example": {
+    "romaji": "gomen, kore kara kaigi aru n da.",
+    "ja": "ごめん、これから会議あるんだ。",
+    "english": "Sorry, I've got a meeting now."
+   },
+   "examplePolite": {
+    "romaji": "sumimasen, kore kara kaigi ga aru n desu.",
+    "ja": "すみません、これから会議があるんです。",
+    "english": "Sorry, I've got a meeting now."
+   }
+  },
+  {
+   "id": "c-shiken-ga-aru",
+   "romaji": "shiken ga aru",
+   "polite": "shiken ga arimasu",
+   "english": "have an exam",
+   "ja": "試験がある",
+   "kana": "しけんがある",
+   "politeJa": "試験があります",
+   "noun": "shiken",
+   "particle": "ga",
+   "verb": "aru",
+   "verbJa": "ある",
+   "verbSense": "there is; have (things, events)",
+   "englishVerb": "have",
+   "trap": "'Have an exam' tempts shiken o motsu. An exam on your calendar exists: shiken ga aru. Sitting it is shiken o ukeru.",
+   "partners": [
+    "tesuto (test)",
+    "shiai (match)",
+    "kentei (proficiency test)"
+   ],
+   "flags": [],
+   "use": "Said when explaining plans or turning things down: raishuu shiken aru kara muri. Casual speech drops ga, and for school tests students say tesuto more than shiken.",
+   "notes": "Wishing someone luck before it: shiken ganbatte!",
+   "example": {
+    "romaji": "raishuu shiken aru kara, muri.",
+    "ja": "来週試験あるから、無理。",
+    "english": "I've got an exam next week, so I can't."
+   },
+   "examplePolite": {
+    "romaji": "raishuu shiken ga aru node, chotto muri desu.",
+    "ja": "来週試験があるので、ちょっと無理です。",
+    "english": "I've got an exam next week, so I'm afraid I can't."
+   }
+  },
+  {
+   "id": "c-shigoto-ga-hairu",
+   "romaji": "shigoto ga hairu",
+   "polite": "shigoto ga hairimasu",
+   "english": "work comes up",
+   "ja": "仕事が入る",
+   "kana": "しごとがはいる",
+   "politeJa": "仕事が入ります",
+   "noun": "shigoto",
+   "particle": "ga",
+   "verb": "hairu",
+   "verbJa": "入る",
+   "verbSense": "go in, enter; get put into something",
+   "englishVerb": "come up",
+   "trap": null,
+   "partners": [
+    "yotei (plans)",
+    "baito (a part-time shift)",
+    "zangyou (overtime)"
+   ],
+   "flags": [],
+   "use": "The standard reason for cancelling: kyuu ni shigoto haitchatta (work came up suddenly). Mostly in the past, or as haitteru (I've got work booked); ga is usually dropped.",
+   "notes": "Same frame as yotei ga hairu (see there for why not okiru). Freelancers and shops also use it for work coming in: atarashii shigoto ga haitta, yoyaku ga haitta.",
+   "example": {
+    "romaji": "gomen, kyuu ni shigoto haitchatta.",
+    "ja": "ごめん、急に仕事入っちゃった。",
+    "english": "Sorry, something came up at work."
+   },
+   "examplePolite": {
+    "romaji": "sumimasen, kyuu ni shigoto ga haitchaimashita.",
+    "ja": "すみません、急に仕事が入っちゃいました。",
+    "english": "Sorry, something came up at work."
+   }
+  },
+  {
+   "id": "c-enki-ni-naru",
+   "romaji": "enki ni naru",
+   "polite": "enki ni narimasu",
+   "english": "be postponed",
+   "ja": "延期になる",
+   "kana": "えんきになる",
+   "politeJa": "延期になります",
+   "noun": "enki",
+   "particle": "ni",
+   "verb": "naru",
+   "verbJa": "なる",
+   "verbSense": "become, turn into",
+   "englishVerb": "postpone",
+   "trap": "English 'was postponed' tempts the passive enki sareta, which sounds like an official notice. In conversation the event becomes postponed: enki ni natta, like chuushi ni naru (called off).",
+   "partners": [
+    "chuushi (called off)",
+    "toriyame (cancelled)",
+    "kyuukou (class cancelled)"
+   ],
+   "flags": [],
+   "use": "Said when an event moves because of rain, illness or schedules: shiai, ame de enki ni natta. Mostly in the past (natta, natchatta), and the ni stays.",
+   "notes": "Moving it yourself is enki suru, or casually zurasu: raishuu ni zurasou.",
+   "example": {
+    "romaji": "ame de shiai enki ni natta.",
+    "ja": "雨で試合延期になった。",
+    "english": "The game got postponed because of rain."
+   },
+   "examplePolite": {
+    "romaji": "ame de shiai ga enki ni narimashita.",
+    "ja": "雨で試合が延期になりました。",
+    "english": "The game was postponed because of rain."
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-asobi-ni-iku",
+   "romaji": "asobi ni iku",
+   "english": "go out for fun; go visit",
+   "chunk": "Going out for fun",
+   "recent": true
+  },
+  {
+   "id": "c-eiga-ni-iku",
+   "romaji": "eiga ni iku",
+   "english": "go to the movies",
+   "chunk": "Going out for fun",
+   "recent": true
+  },
+  {
+   "id": "c-sanpo-ni-iku",
+   "romaji": "sanpo ni iku",
+   "english": "go for a walk",
+   "chunk": "Going out for fun",
+   "recent": true
+  },
+  {
+   "id": "c-karaoke-ni-iku",
+   "romaji": "karaoke ni iku",
+   "english": "go to karaoke",
+   "chunk": "Going out for fun",
+   "recent": true
+  },
+  {
+   "id": "c-shitsumon-ga-aru",
+   "romaji": "shitsumon ga aru",
+   "english": "have a question",
+   "chunk": "Questions and learning",
+   "recent": true
+  },
+  {
+   "id": "c-shitsumon-ni-kotaeru",
+   "romaji": "shitsumon ni kotaeru",
+   "english": "answer a question",
+   "chunk": "Questions and learning",
+   "recent": true
+  },
+  {
+   "id": "c-eigo-o-hanasu",
+   "romaji": "eigo o hanasu",
+   "english": "speak English",
+   "chunk": "Questions and learning",
+   "recent": true
+  },
+  {
+   "id": "c-benkyou-ni-naru",
+   "romaji": "benkyou ni naru",
+   "english": "be instructive; learn a lot",
+   "chunk": "Questions and learning",
+   "recent": true
+  },
+  {
+   "id": "c-atama-ga-itai",
+   "romaji": "atama ga itai",
+   "english": "have a headache",
+   "chunk": "Aches and pains",
+   "recent": true
+  },
+  {
+   "id": "c-onaka-ga-itai",
+   "romaji": "onaka ga itai",
+   "english": "have a stomachache",
+   "chunk": "Aches and pains",
+   "recent": true
+  },
+  {
+   "id": "c-nodo-ga-itai",
+   "romaji": "nodo ga itai",
+   "english": "have a sore throat",
+   "chunk": "Aches and pains",
+   "recent": true
+  },
+  {
+   "id": "c-koshi-ga-itai",
+   "romaji": "koshi ga itai",
+   "english": "have lower back pain",
+   "chunk": "Aches and pains",
+   "recent": true
+  },
+  {
+   "id": "c-kata-ga-koru",
+   "romaji": "kata ga koru",
+   "english": "have stiff shoulders",
+   "chunk": "Aches and pains",
+   "recent": true
+  },
+  {
+   "id": "c-tomodachi-ga-dekiru",
+   "romaji": "tomodachi ga dekiru",
+   "english": "make a friend, make friends",
+   "chunk": "Making friends",
+   "recent": true
+  },
+  {
+   "id": "c-tomodachi-ni-naru",
+   "romaji": "tomodachi ni naru",
+   "english": "become friends (with someone)",
+   "chunk": "Making friends",
+   "recent": true
+  },
+  {
+   "id": "c-namae-o-oshieru",
+   "romaji": "namae o oshieru",
+   "english": "tell someone your name",
+   "chunk": "Making friends",
+   "recent": true
+  },
+  {
+   "id": "c-koe-o-kakeru",
+   "romaji": "koe o kakeru",
+   "english": "speak to, call out to; ask along",
+   "chunk": "Making friends",
+   "recent": true
+  },
+  {
+   "id": "c-deai-ga-aru",
+   "romaji": "deai ga aru",
+   "english": "meet someone new",
+   "chunk": "Making friends",
+   "recent": true
+  },
+  {
+   "id": "c-geemu-o-suru",
+   "romaji": "geemu o suru",
+   "english": "play games (video games, cards and the like)",
+   "chunk": "Play and lessons",
+   "recent": true
+  },
+  {
+   "id": "c-sakkaa-o-suru",
+   "romaji": "sakkaa o suru",
+   "english": "play soccer",
+   "chunk": "Play and lessons",
+   "recent": true
+  },
+  {
+   "id": "c-piano-o-hiku",
+   "romaji": "piano o hiku",
+   "english": "play the piano",
+   "chunk": "Play and lessons",
+   "recent": true
+  },
+  {
+   "id": "c-piano-o-narau",
+   "romaji": "piano o narau",
+   "english": "take piano lessons",
+   "chunk": "Play and lessons",
+   "recent": true
+  },
+  {
+   "id": "c-guai-ga-warui",
+   "romaji": "guai ga warui",
+   "english": "feel unwell",
+   "chunk": "Feeling unwell",
+   "recent": true
+  },
+  {
+   "id": "c-taichou-ga-warui",
+   "romaji": "taichou ga warui",
+   "english": "not feel well, be under the weather (the safe phrase at work)",
+   "chunk": "Feeling unwell",
+   "recent": true
+  },
+  {
+   "id": "c-choushi-ga-warui",
+   "romaji": "choushi ga warui",
+   "english": "feel off; act up (devices)",
+   "chunk": "Feeling unwell",
+   "recent": true
+  },
+  {
+   "id": "c-choushi-ga-ii",
+   "romaji": "choushi ga ii",
+   "english": "be in good shape, going well",
+   "chunk": "Feeling unwell",
+   "recent": true
+  },
+  {
+   "id": "c-kibun-ga-warui",
+   "romaji": "kibun ga warui",
+   "english": "feel sick (queasy or faint); feel put off",
+   "chunk": "Feeling unwell",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "yuki",
+   "kenta"
+  ],
+  "format": "dialogue"
+ }
+}

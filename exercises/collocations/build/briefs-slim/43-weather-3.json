@@ -1,0 +1,335 @@
+{
+ "script": 43,
+ "of": 94,
+ "stage": 2,
+ "chunkId": "weather-3",
+ "label": "Storms and quakes",
+ "topic": "Weather & nature",
+ "rationale": "The big events people warn each other about, and the forecast that got it wrong: a typhoon on the way, an earthquake, thunder, a missed forecast.",
+ "mixUps": "English 'hit' fits none of them: a typhoon kuru (comes), an earthquake okiru (happens; jishin kita as it shakes) and thunder naru (sounds), so drill the three verbs side by side. kaminari ga naru is 鳴る 'sound', not naru 'become', and a forecast hazureru (misses) or ataru (is right), never machigaeru.",
+ "targets": [
+  {
+   "id": "c-taifuu-ga-kuru",
+   "romaji": "taifuu ga kuru",
+   "polite": "taifuu ga kimasu",
+   "english": "a typhoon comes (hits)",
+   "ja": "台風が来る",
+   "kana": "たいふうがくる",
+   "politeJa": "台風が来ます",
+   "noun": "taifuu",
+   "particle": "ga",
+   "verb": "kuru",
+   "verbJa": "来る",
+   "verbSense": "come, arrive",
+   "englishVerb": "hit",
+   "trap": "English 'a typhoon hits' pushes to taifuu ga utsu or taifuu ga ataru, which don't work: with the typhoon as subject it just comes (taifuu kita). Ataru is fine the other way round, with your plans as subject and ni: ryokou ga taifuu ni atatchatta (our trip ran into a typhoon). Chokugeki (direct hit) is everyday talk too: toukyou chokugeki rashii yo (apparently it's heading straight for Tokyo); jouriku (landfall) mostly comes from the forecast.",
+   "partners": [
+    "jishin (earthquake: jishin kita! as it shakes; the usual set is jishin ga okiru)",
+    "tsunami (tidal wave)",
+    "kanpa (cold wave)",
+    "haru (spring)"
+   ],
+   "flags": [],
+   "use": "Mostly said without ga, about one in the forecast: shuumatsu taifuu kuru kamo (a typhoon might come this weekend). Taifuu kiteru means one has already come close and is nearby or heading in, not a forecast for later in the week; taifuu chikazuiteru stresses that it's getting closer, and taifuu kita means it has arrived. Often there's no verb at all: ashita taifuu da tte (they say there's a typhoon tomorrow).",
+   "notes": "The cause takes de: taifuu de densha tomatta (the trains stopped because of the typhoon); once it's passed, taifuu sugita ne.",
+   "example": {
+    "romaji": "ashita taifuu kuru rashii yo.",
+    "ja": "明日台風来るらしいよ。",
+    "english": "Apparently a typhoon's coming tomorrow."
+   },
+   "examplePolite": {
+    "romaji": "ashita taifuu ga kuru rashii desu yo.",
+    "ja": "明日台風が来るらしいですよ。",
+    "english": "Apparently a typhoon's coming tomorrow."
+   }
+  },
+  {
+   "id": "c-jishin-ga-okiru",
+   "romaji": "jishin ga okiru",
+   "polite": "jishin ga okimasu",
+   "english": "an earthquake happens, hits",
+   "ja": "地震が起きる",
+   "kana": "じしんがおきる",
+   "politeJa": "地震が起きます",
+   "noun": "jishin",
+   "particle": "ga",
+   "verb": "okiru",
+   "verbJa": "起きる",
+   "verbSense": "happen, occur; also wake up, get up",
+   "englishVerb": "hit",
+   "trap": "English 'an earthquake hit' has no matching verb, and utsu or ataru don't work. It happens (okiru), or casually it comes or there is one (jishin kita!, jishin atta).",
+   "partners": [
+    "jiko (an accident)",
+    "kaji (a fire)",
+    "mondai (a problem)",
+    "jiken (an incident)"
+   ],
+   "flags": [],
+   "use": "Used when talking about a quake: jishin ga okita toki (when the earthquake hit), ookii jishin ga okitara (if a big one hits). In the moment people shout jishin da! or jishin kita!, and afterwards say kinou jishin atta ne.",
+   "notes": "The shaking is yureru: ima yureta? (did it just shake?), kekkou yureta ne.",
+   "example": {
+    "romaji": "ookii jishin okitara dou suru?",
+    "ja": "大きい地震起きたらどうする？",
+    "english": "What would you do if a big earthquake hit?"
+   },
+   "examplePolite": {
+    "romaji": "ookii jishin ga okitara dou shimasu ka?",
+    "ja": "大きい地震が起きたらどうしますか？",
+    "english": "What would you do if a big earthquake hit?"
+   }
+  },
+  {
+   "id": "c-kaminari-ga-naru",
+   "romaji": "kaminari ga naru",
+   "polite": "kaminari ga narimasu",
+   "english": "it thunders; thunder rumbles",
+   "ja": "雷が鳴る",
+   "kana": "かみなりがなる",
+   "politeJa": "雷が鳴ります",
+   "noun": "kaminari",
+   "particle": "ga",
+   "verb": "naru",
+   "verbJa": "鳴る",
+   "verbSense": "make a sound, ring (thunder, a phone, a bell, an alarm)",
+   "englishVerb": "thunder",
+   "trap": null,
+   "partners": [
+    "denwa (phone)",
+    "mezamashi (alarm clock)",
+    "chaimu (chime, school bell)",
+    "onaka (stomach, rumbling)"
+   ],
+   "flags": [],
+   "use": "Said when you hear thunder: kaminari natteru (it's thundering), or kaminari natta! for a single clap. Casual speech drops ga.",
+   "notes": "Naru here is 鳴る 'ring' (as in denwa ga naru), said flat (na-RU), while naru 'become' falls (NA-ru). A strike is kaminari ga ochiru: chikaku ni ochita! The flash is kaminari ga hikaru.",
+   "example": {
+    "romaji": "a, kaminari natteru.",
+    "ja": "あ、雷鳴ってる。",
+    "english": "Oh, it's thundering."
+   },
+   "examplePolite": {
+    "romaji": "a, kaminari ga nattemasu ne.",
+    "ja": "あ、雷が鳴ってますね。",
+    "english": "Oh, it's thundering."
+   }
+  },
+  {
+   "id": "c-tenki-yohou-ga-hazureru",
+   "romaji": "tenki yohou ga hazureru",
+   "polite": "tenki yohou ga hazuremasu",
+   "english": "the forecast is wrong",
+   "ja": "天気予報が外れる",
+   "kana": "てんきよほうがはずれる",
+   "politeJa": "天気予報が外れます",
+   "noun": "tenki yohou",
+   "particle": "ga",
+   "verb": "hazureru",
+   "verbJa": "外れる",
+   "verbSense": "miss, come off; turn out wrong (a forecast, guess, lottery ticket)",
+   "englishVerb": "be wrong",
+   "trap": "A forecast misses (hazureru) or hits (ataru), like a guess or a lottery ticket. Machigaeru is a person's slip, so yohou ga machigaeta doesn't work; yohou machigatteta (it was wrong) is also fine, but hazureta is the usual word.",
+   "partners": [
+    "yosou (a guess, prediction)",
+    "takarakuji (a lottery ticket)",
+    "kan (a hunch)"
+   ],
+   "flags": [],
+   "use": "A grumble, almost always in the past: tenki yohou hazureta (the forecast got it wrong), usually without ga, or just yohou hazureta once the weather is already the topic. When it gets it right: yohou atatta.",
+   "notes": "What it says: yohou de wa ame da tte (the forecast says rain).",
+   "example": {
+    "romaji": "tenki yohou, mata hazureta ne.",
+    "ja": "天気予報、また外れたね。",
+    "english": "The forecast got it wrong again."
+   },
+   "examplePolite": {
+    "romaji": "tenki yohou, mata hazuremashita ne.",
+    "ja": "天気予報、また外れましたね。",
+    "english": "The forecast got it wrong again."
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-densha-ga-okureru",
+   "romaji": "densha ga okureru",
+   "english": "the train is delayed",
+   "chunk": "Catching the train",
+   "recent": true
+  },
+  {
+   "id": "c-densha-ni-maniau",
+   "romaji": "densha ni maniau",
+   "english": "make the train in time",
+   "chunk": "Catching the train",
+   "recent": true
+  },
+  {
+   "id": "c-densha-ga-deru",
+   "romaji": "densha ga deru",
+   "english": "the train leaves",
+   "chunk": "Catching the train",
+   "recent": true
+  },
+  {
+   "id": "c-densha-ni-okureru",
+   "romaji": "densha ni okureru",
+   "english": "be late for the train (and so miss it)",
+   "chunk": "Catching the train",
+   "recent": true
+  },
+  {
+   "id": "c-shuuden-ga-nakunaru",
+   "romaji": "shuuden ga nakunaru",
+   "english": "the last train is gone (no way home)",
+   "chunk": "Catching the train",
+   "recent": true
+  },
+  {
+   "id": "c-byouin-ni-iku",
+   "romaji": "byouin ni iku",
+   "english": "see a doctor",
+   "chunk": "Doctor and medicine",
+   "recent": true
+  },
+  {
+   "id": "c-kusuri-o-nomu",
+   "romaji": "kusuri o nomu",
+   "english": "take medicine",
+   "chunk": "Doctor and medicine",
+   "recent": true
+  },
+  {
+   "id": "c-kusuri-ga-kiku",
+   "romaji": "kusuri ga kiku",
+   "english": "medicine works, takes effect",
+   "chunk": "Doctor and medicine",
+   "recent": true
+  },
+  {
+   "id": "c-naka-ga-ii",
+   "romaji": "naka ga ii",
+   "english": "get along well, be close",
+   "chunk": "Close and in touch",
+   "recent": true
+  },
+  {
+   "id": "c-naka-ga-warui",
+   "romaji": "naka ga warui",
+   "english": "be on bad terms",
+   "chunk": "Close and in touch",
+   "recent": true
+  },
+  {
+   "id": "c-renraku-o-toru",
+   "romaji": "renraku o toru",
+   "english": "get or stay in touch",
+   "chunk": "Close and in touch",
+   "recent": true
+  },
+  {
+   "id": "c-renraku-ga-kuru",
+   "romaji": "renraku ga kuru",
+   "english": "hear from someone",
+   "chunk": "Close and in touch",
+   "recent": true
+  },
+  {
+   "id": "c-ki-ni-iru",
+   "romaji": "ki ni iru",
+   "english": "like, be pleased with",
+   "chunk": "Likes, interest, confidence",
+   "recent": true
+  },
+  {
+   "id": "c-kyoumi-ga-aru",
+   "romaji": "kyoumi ga aru",
+   "english": "be interested (in)",
+   "chunk": "Likes, interest, confidence",
+   "recent": true
+  },
+  {
+   "id": "c-tanoshimi-ni-suru",
+   "romaji": "tanoshimi ni suru",
+   "english": "look forward to",
+   "chunk": "Likes, interest, confidence",
+   "recent": true
+  },
+  {
+   "id": "c-jishin-ga-aru",
+   "romaji": "jishin ga aru",
+   "english": "be confident (in yourself, your answer)",
+   "chunk": "Likes, interest, confidence",
+   "recent": true
+  },
+  {
+   "id": "c-junbi-ga-dekiru",
+   "romaji": "junbi ga dekiru",
+   "english": "be ready",
+   "chunk": "Ready and how long",
+   "recent": true
+  },
+  {
+   "id": "c-jikan-ga-kakaru",
+   "romaji": "jikan ga kakaru",
+   "english": "take time",
+   "chunk": "Ready and how long",
+   "recent": true
+  },
+  {
+   "id": "c-jikan-ga-tatsu",
+   "romaji": "jikan ga tatsu",
+   "english": "time passes",
+   "chunk": "Ready and how long",
+   "recent": true
+  },
+  {
+   "id": "c-tema-ga-kakaru",
+   "romaji": "tema ga kakaru",
+   "english": "take work, be a hassle",
+   "chunk": "Ready and how long",
+   "recent": true
+  },
+  {
+   "id": "c-yume-o-miru",
+   "romaji": "yume o miru",
+   "english": "have a dream (while asleep)",
+   "chunk": "Bed and waking",
+   "recent": true
+  },
+  {
+   "id": "c-me-ga-sameru",
+   "romaji": "me ga sameru",
+   "english": "wake up (from sleep); feel wide awake (me ga sameta)",
+   "chunk": "Bed and waking",
+   "recent": true
+  },
+  {
+   "id": "c-futon-ni-hairu",
+   "romaji": "futon ni hairu",
+   "english": "get into bed, get under the covers",
+   "chunk": "Bed and waking",
+   "recent": true
+  },
+  {
+   "id": "c-mezamashi-o-kakeru",
+   "romaji": "mezamashi o kakeru",
+   "english": "set an alarm",
+   "chunk": "Bed and waking",
+   "recent": true
+  },
+  {
+   "id": "c-kotatsu-ni-hairu",
+   "romaji": "kotatsu ni hairu",
+   "english": "get under the kotatsu",
+   "chunk": "Bed and waking",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "yuki",
+   "mai"
+  ],
+  "format": "dialogue"
+ }
+}

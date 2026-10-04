@@ -1,0 +1,339 @@
+{
+ "script": 51,
+ "of": 94,
+ "stage": 3,
+ "chunkId": "food-4",
+ "label": "Drinking out",
+ "topic": "Food & drink",
+ "rationale": "A night out drinking: the invitation, asking about smoking, and whether you can hold your drink.",
+ "mixUps": "nomi ni iku is the drinking version of gohan ni iku, and nomi means alcohol without saying osake. osake ga tsuyoi and osake ga yowai describe the drinker, while kono osake tsuyoi means the drink is strong. Tobacco takes suu, not nomu.",
+ "targets": [
+  {
+   "id": "c-nomi-ni-iku",
+   "romaji": "nomi ni iku",
+   "polite": "nomi ni ikimasu",
+   "english": "go out for drinks",
+   "ja": "飲みに行く",
+   "kana": "のみにいく",
+   "politeJa": "飲みに行きます",
+   "noun": "nomi",
+   "particle": "ni",
+   "verb": "iku",
+   "verbJa": "行く",
+   "verbSense": "go; with a verb stem or activity noun + ni, go (out) to do it (tabe ni iku, kaimono ni iku)",
+   "englishVerb": "go out",
+   "trap": null,
+   "partners": [
+    "kaimono (shopping)",
+    "asobi (hanging out)",
+    "gohan (a meal)",
+    "tsuri (fishing)"
+   ],
+   "flags": [],
+   "use": "The standard invitation and plan for a night out: kondo nomi ni ikou (let's go for a drink sometime), kyou nomi ni ikanai? Bare nomi already means alcohol. Naming the drink is fine too (osake nomi ni iku, koohii nomi ni iku), and a café break is ocha shi ni iku. Casual speech sometimes drops ni (nomi iku).",
+   "notes": "A drinking party with colleagues or a club is a nomikai, and moving on to a second place afterwards is the nijikai (second round).",
+   "example": {
+    "romaji": "kondo, issho ni nomi ni ikou yo.",
+    "ja": "今度、一緒に飲みに行こうよ。",
+    "english": "Let's go for a drink together sometime."
+   },
+   "examplePolite": {
+    "romaji": "kondo, issho ni nomi ni ikimashou.",
+    "ja": "今度、一緒に飲みに行きましょう。",
+    "english": "Let's go for a drink together sometime."
+   }
+  },
+  {
+   "id": "c-tabako-o-suu",
+   "romaji": "tabako o suu",
+   "polite": "tabako o suimasu",
+   "english": "smoke (a cigarette)",
+   "ja": "タバコを吸う",
+   "kana": "タバコをすう",
+   "politeJa": "タバコを吸います",
+   "noun": "tabako",
+   "particle": "o",
+   "verb": "suu",
+   "verbJa": "吸う",
+   "verbSense": "breathe in, suck in (air, smoke)",
+   "englishVerb": "smoke",
+   "trap": "Dictionaries give kitsuen suru for 'smoke', but that is the word on signs and forms (kitsuenjo, kin'en); in speech you inhale the tobacco: tabako (o) suu. kemuri names only the smoke itself.",
+   "partners": [
+    "iki (breath)",
+    "kuuki (air)"
+   ],
+   "flags": [],
+   "use": "Used to ask about smoking and to say whether you smoke: tabako suu? (do you smoke?), sutte mo ii? (mind if I smoke?). Casual speech drops o.",
+   "notes": "Restaurants ask kitsuen seki ka kin'en seki (smoking or non-smoking seat?); kin'en on a sign means no smoking. tabako o nomu is dated (older speakers); don't use it.",
+   "example": {
+    "romaji": "tabako sutte mo ii?",
+    "ja": "タバコ吸ってもいい？",
+    "english": "Mind if I smoke?"
+   },
+   "examplePolite": {
+    "romaji": "tabako o sutte mo ii desu ka?",
+    "ja": "タバコを吸ってもいいですか？",
+    "english": "Do you mind if I smoke?"
+   }
+  },
+  {
+   "id": "c-osake-ga-yowai",
+   "romaji": "osake ga yowai",
+   "polite": "osake ga yowai desu",
+   "english": "can't hold one's drink",
+   "ja": "お酒が弱い",
+   "kana": "おさけがよわい",
+   "politeJa": "お酒が弱いです",
+   "noun": "osake",
+   "particle": "ga",
+   "verb": "yowai",
+   "verbJa": "弱い",
+   "verbSense": "weak, having little strength or tolerance",
+   "englishVerb": "hold",
+   "trap": "English has no set phrase here, so learners fall back on amari nomenai (fine, but blunt). Japanese says the drinker is weak: osake ga yowai (or osake ni yowai). Careful: kono osake tsuyoi is about the drink (high proof), not the drinker.",
+   "partners": [
+    "asa (mornings: asa ga yowai, not a morning person)",
+    "i (stomach: i ga yowai, a delicate stomach)",
+    "karada (health: karada ga yowai, sickly)"
+   ],
+   "flags": [],
+   "use": "Said about yourself to turn down drinks gently (osake yowai n desu) or about someone who gets drunk fast. Casual speech drops ga.",
+   "notes": "osake ni yowai is equally fine; osake ga tsuyoi is the opposite. With conditions only ni works: samusa ni yowai (can't take the cold), atsusa ni yowai (can't take the heat), norimono ni yowai (get travel-sick); samusa ga yowai would mean the cold is mild.",
+   "example": {
+    "romaji": "osake yowai kara, ippai dake ni shitoku.",
+    "ja": "お酒弱いから、一杯だけにしとく。",
+    "english": "I'm a lightweight, so I'll just have one."
+   },
+   "examplePolite": {
+    "romaji": "osake yowai n de, ippai dake ni shitokimasu.",
+    "ja": "お酒弱いんで、一杯だけにしときます。",
+    "english": "I'm not much of a drinker, so I'll just have the one."
+   }
+  },
+  {
+   "id": "c-osake-ga-tsuyoi",
+   "romaji": "osake ga tsuyoi",
+   "polite": "osake ga tsuyoi desu",
+   "english": "can hold one's drink",
+   "ja": "お酒が強い",
+   "kana": "おさけがつよい",
+   "politeJa": "お酒が強いです",
+   "noun": "osake",
+   "particle": "ga",
+   "verb": "tsuyoi",
+   "verbJa": "強い",
+   "verbSense": "strong; with something you take or face, able to handle it",
+   "englishVerb": "hold",
+   "trap": null,
+   "partners": [
+    "kikai (machines: kikai ni tsuyoi, good with tech)",
+    "samusa (the cold: samusa ni tsuyoi)",
+    "puresshaa (pressure: puresshaa ni tsuyoi)"
+   ],
+   "flags": [],
+   "use": "Said about people at drinking parties, often as surprised praise: osake tsuyoi ne! (you can really drink!), or as a question, osake tsuyoi n desu ka? Casual speech drops ga, and osake ni tsuyoi is equally common.",
+   "notes": "osake ga yowai is the opposite. With the drink as the subject, kono osake tsuyoi means the drink is high-proof. Someone who never seems to get drunk is jokingly called a zaru (a sieve).",
+   "example": {
+    "romaji": "osake tsuyoi ne. zenzen kao ni denai.",
+    "ja": "お酒強いね。全然顔に出ない。",
+    "english": "You can really drink. It doesn't even show on your face."
+   },
+   "examplePolite": {
+    "romaji": "osake ga tsuyoi desu ne. zenzen kao ni demasen ne.",
+    "ja": "お酒が強いですね。全然顔に出ませんね。",
+    "english": "You can really drink. It doesn't show on your face at all."
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-uso-o-tsuku",
+   "romaji": "uso o tsuku",
+   "english": "tell a lie",
+   "chunk": "Lies, jokes and complaints",
+   "recent": true
+  },
+  {
+   "id": "c-joudan-o-iu",
+   "romaji": "joudan o iu",
+   "english": "joke, kid around",
+   "chunk": "Lies, jokes and complaints",
+   "recent": true
+  },
+  {
+   "id": "c-monku-o-iu",
+   "romaji": "monku o iu",
+   "english": "complain",
+   "chunk": "Lies, jokes and complaints",
+   "recent": true
+  },
+  {
+   "id": "c-guchi-o-iu",
+   "romaji": "guchi o iu",
+   "english": "grumble, vent",
+   "chunk": "Lies, jokes and complaints",
+   "recent": true
+  },
+  {
+   "id": "c-naisho-ni-suru",
+   "romaji": "naisho ni suru",
+   "english": "keep it secret",
+   "chunk": "Lies, jokes and complaints",
+   "recent": true
+  },
+  {
+   "id": "c-yoko-ni-naru",
+   "romaji": "yoko ni naru",
+   "english": "lie down",
+   "chunk": "Rest and recovery",
+   "recent": true
+  },
+  {
+   "id": "c-netsu-ga-sagaru",
+   "romaji": "netsu ga sagaru",
+   "english": "fever goes down",
+   "chunk": "Rest and recovery",
+   "recent": true
+  },
+  {
+   "id": "c-kaze-ga-naoru",
+   "romaji": "kaze ga naoru",
+   "english": "get over a cold",
+   "chunk": "Rest and recovery",
+   "recent": true
+  },
+  {
+   "id": "c-tsukare-ga-toreru",
+   "romaji": "tsukare ga toreru",
+   "english": "shake off tiredness, feel rested",
+   "chunk": "Rest and recovery",
+   "recent": true
+  },
+  {
+   "id": "c-okane-ga-kakaru",
+   "romaji": "okane ga kakaru",
+   "english": "cost money",
+   "chunk": "Costs and paying",
+   "recent": true
+  },
+  {
+   "id": "c-ikura-suru",
+   "romaji": "ikura suru",
+   "english": "how much it costs (price + suru)",
+   "chunk": "Costs and paying",
+   "recent": true
+  },
+  {
+   "id": "c-nedan-ga-takai",
+   "romaji": "nedan ga takai",
+   "english": "the price is high",
+   "chunk": "Costs and paying",
+   "recent": true
+  },
+  {
+   "id": "c-okane-o-harau",
+   "romaji": "okane o harau",
+   "english": "pay (money)",
+   "chunk": "Costs and paying",
+   "recent": true
+  },
+  {
+   "id": "c-warikan-ni-suru",
+   "romaji": "warikan ni suru",
+   "english": "split the bill",
+   "chunk": "Costs and paying",
+   "recent": true
+  },
+  {
+   "id": "c-zubon-o-haku",
+   "romaji": "zubon o haku",
+   "english": "put on / wear trousers",
+   "chunk": "Trying clothes on",
+   "recent": true
+  },
+  {
+   "id": "c-fuku-o-kigaeru",
+   "romaji": "fuku o kigaeru",
+   "english": "change clothes, get changed",
+   "chunk": "Trying clothes on",
+   "recent": true
+  },
+  {
+   "id": "c-fuku-ga-niau",
+   "romaji": "fuku ga niau",
+   "english": "suit someone, look good on someone",
+   "chunk": "Trying clothes on",
+   "recent": true
+  },
+  {
+   "id": "c-saizu-ga-au",
+   "romaji": "saizu ga au",
+   "english": "be the right size, fit",
+   "chunk": "Trying clothes on",
+   "recent": true
+  },
+  {
+   "id": "c-jikan-ga-aku",
+   "romaji": "jikan ga aku",
+   "english": "be free (have time)",
+   "chunk": "Are you free?",
+   "recent": true
+  },
+  {
+   "id": "c-yotei-ga-aru",
+   "romaji": "yotei ga aru",
+   "english": "have plans",
+   "chunk": "Are you free?",
+   "recent": true
+  },
+  {
+   "id": "c-tsugou-ga-ii",
+   "romaji": "tsugou ga ii",
+   "english": "suit someone, be convenient",
+   "chunk": "Are you free?",
+   "recent": true
+  },
+  {
+   "id": "c-tsugou-ga-warui",
+   "romaji": "tsugou ga warui",
+   "english": "not suit someone, can't make it (a time)",
+   "chunk": "Are you free?",
+   "recent": true
+  },
+  {
+   "id": "c-tomodachi-ni-au",
+   "romaji": "tomodachi ni au",
+   "english": "see a friend, meet up",
+   "chunk": "Seeing people",
+   "recent": true
+  },
+  {
+   "id": "c-uchi-made-okuru",
+   "romaji": "ie made okuru",
+   "english": "see or drive someone home",
+   "chunk": "Seeing people",
+   "recent": true
+  },
+  {
+   "id": "c-jikka-ni-kaeru",
+   "romaji": "jikka ni kaeru",
+   "english": "go home to your parents'",
+   "chunk": "Seeing people",
+   "recent": true
+  },
+  {
+   "id": "c-tanjoubi-o-iwau",
+   "romaji": "tanjoubi o iwau",
+   "english": "celebrate a birthday",
+   "chunk": "Seeing people",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "yuki",
+   "kenta"
+  ],
+  "format": "dialogue"
+ }
+}

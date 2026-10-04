@@ -1,0 +1,352 @@
+{
+ "script": 37,
+ "of": 94,
+ "stage": 2,
+ "chunkId": "travel-2",
+ "label": "Catching the train",
+ "topic": "Getting around",
+ "rationale": "Train timing: a late train, making it, when it leaves, missing it, and the last train gone.",
+ "mixUps": "densha ga okureru (the train runs late) and densha ni okureru (you're late for it, so you miss it) differ only in ga or ni. 'Miss' is never misu suru: say nogashita, or make the train the subject, shuuden nakunatta (the last train's gone).",
+ "targets": [
+  {
+   "id": "c-densha-ga-okureru",
+   "romaji": "densha ga okureru",
+   "polite": "densha ga okuremasu",
+   "english": "the train is delayed",
+   "ja": "電車が遅れる",
+   "kana": "でんしゃがおくれる",
+   "politeJa": "電車が遅れます",
+   "noun": "densha",
+   "particle": "ga",
+   "verb": "okureru",
+   "verbJa": "遅れる",
+   "verbSense": "be late; fall behind time",
+   "englishVerb": "delayed",
+   "trap": "Not densha ga chikoku suru (chikoku is people being late for school or work), and not densha ga osoi for reporting a delay: osoi works as a grumble while you wait (basu osoi ne = the bus is late), but a train running behind schedule, the one you message about, is okureteru. densha osoi can also just mean a slow train.",
+   "partners": [
+    "basu (bus)",
+    "hikouki (plane)"
+   ],
+   "flags": [],
+   "use": "Heard as okureteru (it's running late) or okurete (because it was late), as in gomen, densha okurete... Casual speech drops ga, so densha okureta means the train was late. Swap ga for ni and you are the one who was late: densha ni okureta (I missed the train).",
+   "notes": "When the line has stopped altogether: densha tomatteru. A clock running slow is also tokei ga okureteru (fast is susunderu).",
+   "example": {
+    "romaji": "gomen, densha okureteru.",
+    "ja": "ごめん、電車遅れてる。",
+    "english": "Sorry, the train's delayed."
+   },
+   "examplePolite": {
+    "romaji": "sumimasen, densha ga okuretemasu.",
+    "ja": "すみません、電車が遅れてます。",
+    "english": "Sorry, the train is running late."
+   }
+  },
+  {
+   "id": "c-densha-ni-maniau",
+   "romaji": "densha ni maniau",
+   "polite": "densha ni maniaimasu",
+   "english": "make the train in time",
+   "ja": "電車に間に合う",
+   "kana": "でんしゃにまにあう",
+   "politeJa": "電車に間に合います",
+   "noun": "densha",
+   "particle": "ni",
+   "verb": "maniau",
+   "verbJa": "間に合う",
+   "verbSense": "be in time (for something); be enough",
+   "englishVerb": "catch",
+   "trap": "Not densha o tsukamaeru or densha o toru: making a train in time is ni maniau ('be in time for'). 'I missed the train' is not misu shita (misu is a mistake): say maniawanakatta or nogashita.",
+   "partners": [
+    "shuuden (last train)",
+    "shimekiri (deadline)",
+    "jugyou (class)",
+    "kaigi (meeting)"
+   ],
+   "flags": [],
+   "use": "Mostly heard as a check or a result: maniau? (will we make it?), maniatta (made it), maniawanai (we won't make it). The noun drops once the train is clear. Once it has gone, say densha ni okureta, or more casually nogashita or noriokureta (I missed it). For the last train people usually say shuuden nakunatta (the last train's gone) or shuuden nogashita.",
+   "notes": "maniattemasu also means 'we're fine, no thanks', a common way to turn away a door-to-door or phone salesperson.",
+   "example": {
+    "romaji": "isoganai to, densha ni maniawanai yo.",
+    "ja": "急がないと、電車に間に合わないよ。",
+    "english": "If we don't hurry, we won't make the train."
+   },
+   "examplePolite": {
+    "romaji": "isoganai to, densha ni maniaimasen yo.",
+    "ja": "急がないと、電車に間に合いませんよ。",
+    "english": "If we don't hurry, we won't make the train."
+   }
+  },
+  {
+   "id": "c-densha-ga-deru",
+   "romaji": "densha ga deru",
+   "polite": "densha ga demasu",
+   "english": "the train leaves",
+   "ja": "電車が出る",
+   "kana": "でんしゃがでる",
+   "politeJa": "電車が出ます",
+   "noun": "densha",
+   "particle": "ga",
+   "verb": "deru",
+   "verbJa": "出る",
+   "verbSense": "go out; leave (a place)",
+   "englishVerb": "leave",
+   "trap": "For 'what time does it leave?', not densha ga hanareru or densha ga saru: those describe it pulling away (densha ga hoomu o hanareru). The departure itself is deru, the same verb as leaving the house. shuppatsu suru also works, and hassha is the announcement word.",
+   "partners": [
+    "basu (bus)",
+    "hikouki (plane)",
+    "fune (boat, ferry)"
+   ],
+   "flags": [],
+   "use": "Mostly a timetable question: tsugi no densha nanji ni deru? As it pulls away, densha itchatta or densha dechatta (the train's just gone). Casual speech drops ga.",
+   "notes": "The first train of the day is shihatsu: shihatsu made nomu (drink until the first train).",
+   "example": {
+    "romaji": "tsugi no densha, nanji ni deru?",
+    "ja": "次の電車、何時に出る？",
+    "english": "What time does the next train leave?"
+   },
+   "examplePolite": {
+    "romaji": "tsugi no densha wa nanji ni demasu ka?",
+    "ja": "次の電車は何時に出ますか？",
+    "english": "What time does the next train leave?"
+   }
+  },
+  {
+   "id": "c-densha-ni-okureru",
+   "romaji": "densha ni okureru",
+   "polite": "densha ni okuremasu",
+   "english": "be late for the train (and so miss it)",
+   "ja": "電車に遅れる",
+   "kana": "でんしゃにおくれる",
+   "politeJa": "電車に遅れます",
+   "noun": "densha",
+   "particle": "ni",
+   "verb": "okureru",
+   "verbJa": "遅れる",
+   "verbSense": "be late; fall behind time",
+   "englishVerb": "be late",
+   "trap": "Not densha o misu suru (misu is a mistake). And the particle flips it: densha ni okureru is you being late for it, densha ga okureru is the train running late.",
+   "partners": [
+    "basu (bus)",
+    "hikouki (plane)",
+    "jugyou (class)",
+    "kaigi (meeting)"
+   ],
+   "flags": [],
+   "use": "Mostly said beforehand while rushing: densha ni okurechau! (I'll miss my train!), densha ni okurenai you ni (so we don't miss it). Keep the ni: with no particle, densha okureta is heard as the train running late, which is the usual excuse. Once it has gone, natives usually say noriokureta or nogashita: nebou shite densha noriokureta (I overslept and missed my train).",
+   "notes": "With a class or meeting the same frame just means late (jugyou ni okureta); a train doesn't wait, so late means missed.",
+   "example": {
+    "romaji": "sorosoro denai to, densha ni okurechau yo.",
+    "ja": "そろそろ出ないと、電車に遅れちゃうよ。",
+    "english": "We'd better head out soon or we'll miss the train."
+   },
+   "examplePolite": {
+    "romaji": "sorosoro denai to, densha ni okuremasu yo.",
+    "ja": "そろそろ出ないと、電車に遅れますよ。",
+    "english": "We'd better head out soon or we'll miss the train."
+   }
+  },
+  {
+   "id": "c-shuuden-ga-nakunaru",
+   "romaji": "shuuden ga nakunaru",
+   "polite": "shuuden ga nakunarimasu",
+   "english": "the last train is gone (no way home)",
+   "ja": "終電がなくなる",
+   "kana": "しゅうでんがなくなる",
+   "politeJa": "終電がなくなります",
+   "noun": "shuuden",
+   "particle": "ga",
+   "verb": "nakunaru",
+   "verbJa": "なくなる",
+   "verbSense": "run out; be gone (nai 'none' + naru 'become')",
+   "englishVerb": "miss",
+   "trap": "Not shuuden o misu suru (misu is a mistake): Japanese says the last train 'is gone', with the train as the subject. shuuden nogashita and shuuden ni maniawanakatta also work.",
+   "partners": [
+    "densha (trains)",
+    "basu (buses)"
+   ],
+   "flags": [],
+   "use": "Said as a warning or an excuse near midnight: shuuden nakunatchau (I'll miss the last train), shuuden nakunatta (the trains have stopped for the night). Casual speech drops ga. shuuden nogashita (I missed the last train) is just as common and makes it your miss.",
+   "notes": "shuuden nanji? (when's your last train?) is the usual question as a night out winds down.",
+   "example": {
+    "romaji": "shuuden nakunatchau kara, mou kaeru ne.",
+    "ja": "終電なくなっちゃうから、もう帰るね。",
+    "english": "I'll miss the last train, so I'm heading home."
+   },
+   "examplePolite": {
+    "romaji": "shuuden ga nakunaru node, mou kaerimasu ne.",
+    "ja": "終電がなくなるので、もう帰りますね。",
+    "english": "The last train will be gone soon, so I'll head home now."
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-netsu-ga-aru",
+   "romaji": "netsu ga aru",
+   "english": "have a fever",
+   "chunk": "Cold symptoms",
+   "recent": true
+  },
+  {
+   "id": "c-netsu-ga-deru",
+   "romaji": "netsu ga deru",
+   "english": "get a fever",
+   "chunk": "Cold symptoms",
+   "recent": true
+  },
+  {
+   "id": "c-seki-ga-deru",
+   "romaji": "seki ga deru",
+   "english": "have a cough",
+   "chunk": "Cold symptoms",
+   "recent": true
+  },
+  {
+   "id": "c-hanamizu-ga-deru",
+   "romaji": "hanamizu ga deru",
+   "english": "have a runny nose",
+   "chunk": "Cold symptoms",
+   "recent": true
+  },
+  {
+   "id": "c-karada-ga-darui",
+   "romaji": "karada ga darui",
+   "english": "feel heavy and sluggish",
+   "chunk": "Cold symptoms",
+   "recent": true
+  },
+  {
+   "id": "c-mado-o-akeru",
+   "romaji": "mado o akeru",
+   "english": "open the window",
+   "chunk": "Windows and curtains",
+   "recent": true
+  },
+  {
+   "id": "c-mado-o-shimeru",
+   "romaji": "mado o shimeru",
+   "english": "close the window",
+   "chunk": "Windows and curtains",
+   "recent": true
+  },
+  {
+   "id": "c-kaaten-o-shimeru",
+   "romaji": "kaaten o shimeru",
+   "english": "close the curtains",
+   "chunk": "Windows and curtains",
+   "recent": true
+  },
+  {
+   "id": "c-shashin-o-toru",
+   "romaji": "shashin o toru",
+   "english": "take a photo",
+   "chunk": "Photos and your phone",
+   "recent": true
+  },
+  {
+   "id": "c-shashin-o-miru",
+   "romaji": "shashin o miru",
+   "english": "look at photos",
+   "chunk": "Photos and your phone",
+   "recent": true
+  },
+  {
+   "id": "c-sumaho-o-ijiru",
+   "romaji": "sumaho o ijiru",
+   "english": "be on your phone",
+   "chunk": "Photos and your phone",
+   "recent": true
+  },
+  {
+   "id": "c-shashin-o-okuru",
+   "romaji": "shashin o okuru",
+   "english": "send a photo",
+   "chunk": "Photos and your phone",
+   "recent": true
+  },
+  {
+   "id": "c-imi-ga-wakaru",
+   "romaji": "imi ga wakaru",
+   "english": "understand what something means; (negative) make no sense",
+   "chunk": "Understanding",
+   "recent": true
+  },
+  {
+   "id": "c-kimochi-ga-wakaru",
+   "romaji": "kimochi ga wakaru",
+   "english": "know how someone feels",
+   "chunk": "Understanding",
+   "recent": true
+  },
+  {
+   "id": "c-chigai-ga-wakaru",
+   "romaji": "chigai ga wakaru",
+   "english": "tell the difference",
+   "chunk": "Understanding",
+   "recent": true
+  },
+  {
+   "id": "c-gohan-ni-iku",
+   "romaji": "gohan ni iku",
+   "english": "go out to eat",
+   "chunk": "Eating out",
+   "recent": true
+  },
+  {
+   "id": "c-mise-ga-komu",
+   "romaji": "mise ga komu",
+   "english": "(a place) gets crowded (konderu = is packed)",
+   "chunk": "Eating out",
+   "recent": true
+  },
+  {
+   "id": "c-gohan-o-ogoru",
+   "romaji": "gohan o ogoru",
+   "english": "treat someone to a meal",
+   "chunk": "Eating out",
+   "recent": true
+  },
+  {
+   "id": "c-ryou-ga-ooi",
+   "romaji": "ryou ga ooi",
+   "english": "it's a big portion",
+   "chunk": "Eating out",
+   "recent": true
+  },
+  {
+   "id": "c-denki-o-tsukeru",
+   "romaji": "denki o tsukeru",
+   "english": "turn on the light",
+   "chunk": "Lights and buttons",
+   "recent": true
+  },
+  {
+   "id": "c-denki-o-kesu",
+   "romaji": "denki o kesu",
+   "english": "turn off the light",
+   "chunk": "Lights and buttons",
+   "recent": true
+  },
+  {
+   "id": "c-denki-ga-tsuku",
+   "romaji": "denki ga tsuku",
+   "english": "the light comes on (tsuiteru = is on)",
+   "chunk": "Lights and buttons",
+   "recent": true
+  },
+  {
+   "id": "c-botan-o-osu",
+   "romaji": "botan o osu",
+   "english": "press the button",
+   "chunk": "Lights and buttons",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "satou",
+   "yuki"
+  ],
+  "format": "dialogue"
+ }
+}

@@ -1,0 +1,378 @@
+{
+ "script": 12,
+ "of": 94,
+ "stage": 1,
+ "chunkId": "body-2",
+ "label": "Washing and grooming",
+ "topic": "Body & health",
+ "rationale": "Looking after your body day to day: washing your hands, face and hair, and cutting your hair and nails.",
+ "mixUps": "arau covers every kind of washing, from hands to hair, so there's no separate shampoo verb. The kiru in kami o kiru and tsume o kiru means cut (kitta), not wear (fuku o kiru, kita), and kami kitta is said even when a stylist cut it.",
+ "targets": [
+  {
+   "id": "c-te-o-arau",
+   "romaji": "te o arau",
+   "polite": "te o araimasu",
+   "english": "wash your hands",
+   "ja": "手を洗う",
+   "kana": "てをあらう",
+   "politeJa": "手を洗います",
+   "noun": "te",
+   "particle": "o",
+   "verb": "arau",
+   "verbJa": "洗う",
+   "verbSense": "wash with water (hands, dishes, a car)",
+   "englishVerb": "wash",
+   "trap": null,
+   "partners": [
+    "sara (dishes)",
+    "kuruma (car)",
+    "kao (face)"
+   ],
+   "flags": [],
+   "use": "Said every day, before meals and on coming in: te aratte kite (go wash your hands), te aratta? O often drops in these reminders.",
+   "notes": "Only literal. Ashi o arau (wash your feet) is the idiom for quitting a shady line of work; pulling out of a deal or matter is te o hiku.",
+   "example": {
+    "romaji": "gohan da yo. te aratte kite.",
+    "ja": "ごはんだよ。手洗ってきて。",
+    "english": "Dinner's ready. Go wash your hands."
+   },
+   "examplePolite": {
+    "romaji": "gohan desu yo. te o aratte kite kudasai.",
+    "ja": "ごはんですよ。手を洗ってきてください。",
+    "english": "The meal's ready. Please go and wash your hands."
+   }
+  },
+  {
+   "id": "c-kao-o-arau",
+   "romaji": "kao o arau",
+   "polite": "kao o araimasu",
+   "english": "wash your face",
+   "ja": "顔を洗う",
+   "kana": "かおをあらう",
+   "politeJa": "顔を洗います",
+   "noun": "kao",
+   "particle": "o",
+   "verb": "arau",
+   "verbJa": "洗う",
+   "verbSense": "wash with water (hands, dishes, a car)",
+   "englishVerb": "wash",
+   "trap": null,
+   "partners": [
+    "te (hands)",
+    "kami (hair)",
+    "karada (body)"
+   ],
+   "flags": [],
+   "use": "Part of the morning routine, and the way to wake yourself up: kao aratte kuru (I'll go wash my face). O often drops in casual talk.",
+   "notes": "Kao aratte denaoshite koi (go wash your face and come back) is a rough, stock brush-off for someone not ready.",
+   "example": {
+    "romaji": "nemui kara, kao aratte kuru.",
+    "ja": "眠いから、顔洗ってくる。",
+    "english": "I'm sleepy, so I'll go wash my face."
+   },
+   "examplePolite": {
+    "romaji": "nemui node, kao o aratte kimasu.",
+    "ja": "眠いので、顔を洗ってきます。",
+    "english": "I'm sleepy, so I'll go and wash my face."
+   }
+  },
+  {
+   "id": "c-kami-o-arau",
+   "romaji": "kami o arau",
+   "polite": "kami o araimasu",
+   "english": "wash your hair",
+   "ja": "髪を洗う",
+   "kana": "かみをあらう",
+   "politeJa": "髪を洗います",
+   "noun": "kami",
+   "particle": "o",
+   "verb": "arau",
+   "verbJa": "洗う",
+   "verbSense": "wash with water (hands, dishes, a car)",
+   "englishVerb": "wash",
+   "trap": null,
+   "partners": [
+    "te (hands)",
+    "kao (face)",
+    "karada (body)"
+   ],
+   "flags": [],
+   "use": "Talk of the bath or shower routine: kami aratte kara neru, or kami arau no mendokusai (washing my hair is a pain). At home people say atama arau just as often (atama aratta?, especially to kids). O drops in casual speech.",
+   "notes": "Drying it afterwards is kami o kawakasu (kami kawakashite). Shanpuu suru is also everyday (shanpuu shite kara neru).",
+   "example": {
+    "romaji": "kami aratte kara neru.",
+    "ja": "髪洗ってから寝る。",
+    "english": "I'll wash my hair, then go to bed."
+   },
+   "examplePolite": {
+    "romaji": "kami o aratte kara nemasu.",
+    "ja": "髪を洗ってから寝ます。",
+    "english": "I'll wash my hair before I go to bed."
+   }
+  },
+  {
+   "id": "c-kami-o-kiru",
+   "romaji": "kami o kiru",
+   "polite": "kami o kirimasu",
+   "english": "get a haircut",
+   "ja": "髪を切る",
+   "kana": "かみをきる",
+   "politeJa": "髪を切ります",
+   "noun": "kami",
+   "particle": "o",
+   "verb": "kiru",
+   "verbJa": "切る",
+   "verbSense": "kiru: cut (with a blade or scissors)",
+   "englishVerb": "get",
+   "trap": "English 'get a haircut' suggests kitte morau or the dictionary word sanpatsu suru (old-fashioned). Kitte morau works, but natives just say kami kitta (or katto shita), even when a stylist did it.",
+   "partners": [
+    "maegami (bangs)",
+    "yasai (vegetables)"
+   ],
+   "flags": [],
+   "use": "Mostly heard in the past tense with o dropped: kami kitta? (did you get a haircut?), a stock small-talk line. For the salon trip itself, say kami kiri ni iku (go get a haircut).",
+   "notes": "Don't mix it up with kiru 'wear' (fuku o kiru): cut is kitta / kirimasu, wear is kita / kimasu. By ear, cut drops after ki (KI-tta) and wear is flat (kita). Kami (hair) sounds the same as kami 'paper' (10-list-nouns #14), so kami o kiru can also mean cut paper. Context decides, and kami no ke makes 'hair' explicit.",
+   "example": {
+    "romaji": "are, kami kitta?",
+    "ja": "あれ、髪切った？",
+    "english": "Oh, did you get a haircut?"
+   },
+   "examplePolite": {
+    "romaji": "are, kami kirimashita?",
+    "ja": "あれ、髪切りました？",
+    "english": "Oh, did you get your hair cut?"
+   }
+  },
+  {
+   "id": "c-tsume-o-kiru",
+   "romaji": "tsume o kiru",
+   "polite": "tsume o kirimasu",
+   "english": "cut your nails",
+   "ja": "爪を切る",
+   "kana": "つめをきる",
+   "politeJa": "爪を切ります",
+   "noun": "tsume",
+   "particle": "o",
+   "verb": "kiru",
+   "verbJa": "切る",
+   "verbSense": "cut (with a blade or scissors)",
+   "englishVerb": "cut",
+   "trap": null,
+   "partners": [
+    "kami (hair)",
+    "maegami (bangs)"
+   ],
+   "flags": [],
+   "use": "Said as a reminder or a chore: tsume kitte (cut your nails), tsume kiranakya. O often drops; the clippers are tsumekiri.",
+   "notes": "Many people still know the superstition against cutting your nails at night (yoru tsume o kiru to...).",
+   "example": {
+    "romaji": "sorosoro tsume kiranakya.",
+    "ja": "そろそろ爪切らなきゃ。",
+    "english": "It's about time I cut my nails."
+   },
+   "examplePolite": {
+    "romaji": "sorosoro tsume o kiranai to ikemasen ne.",
+    "ja": "そろそろ爪を切らないといけませんね。",
+    "english": "It's about time I cut my nails."
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-gakkou-ni-iku",
+   "romaji": "gakkou ni iku",
+   "english": "go to school",
+   "chunk": "School and work days",
+   "recent": true
+  },
+  {
+   "id": "c-shigoto-ni-iku",
+   "romaji": "shigoto ni iku",
+   "english": "go to work",
+   "chunk": "School and work days",
+   "recent": true
+  },
+  {
+   "id": "c-shigoto-ga-owaru",
+   "romaji": "shigoto ga owaru",
+   "english": "get off work",
+   "chunk": "School and work days",
+   "recent": true
+  },
+  {
+   "id": "c-shigoto-ga-isogashii",
+   "romaji": "shigoto ga isogashii",
+   "english": "be busy with work",
+   "chunk": "School and work days",
+   "recent": true
+  },
+  {
+   "id": "c-kimochi-ga-ii",
+   "romaji": "kimochi ga ii",
+   "english": "feels good, feels nice",
+   "chunk": "Feels good or bad",
+   "recent": true
+  },
+  {
+   "id": "c-kimochi-ga-warui",
+   "romaji": "kimochi ga warui",
+   "english": "feel queasy, feel nauseous; gross, creepy",
+   "chunk": "Feels good or bad",
+   "recent": true
+  },
+  {
+   "id": "c-kibun-ga-ii",
+   "romaji": "kibun ga ii",
+   "english": "be in a good mood; feel well",
+   "chunk": "Feels good or bad",
+   "recent": true
+  },
+  {
+   "id": "c-kigen-ga-warui",
+   "romaji": "kigen ga warui",
+   "english": "be in a bad mood, grumpy",
+   "chunk": "Feels good or bad",
+   "recent": true
+  },
+  {
+   "id": "c-igokochi-ga-ii",
+   "romaji": "igokochi ga ii",
+   "english": "comfortable to be in, cosy",
+   "chunk": "Feels good or bad",
+   "recent": true
+  },
+  {
+   "id": "c-hon-o-yomu",
+   "romaji": "hon o yomu",
+   "english": "read a book",
+   "chunk": "Read, watch, sing, draw",
+   "recent": true
+  },
+  {
+   "id": "c-eiga-o-miru",
+   "romaji": "eiga o miru",
+   "english": "watch a movie",
+   "chunk": "Read, watch, sing, draw",
+   "recent": true
+  },
+  {
+   "id": "c-uta-o-utau",
+   "romaji": "uta o utau",
+   "english": "sing a song",
+   "chunk": "Read, watch, sing, draw",
+   "recent": true
+  },
+  {
+   "id": "c-e-o-kaku",
+   "romaji": "e o kaku",
+   "english": "draw or paint a picture",
+   "chunk": "Read, watch, sing, draw",
+   "recent": true
+  },
+  {
+   "id": "c-hanashi-o-suru",
+   "romaji": "hanashi o suru",
+   "english": "talk, have a talk",
+   "chunk": "Talking to people",
+   "recent": true
+  },
+  {
+   "id": "c-hanashi-o-kiku",
+   "romaji": "hanashi o kiku",
+   "english": "listen to someone, hear someone out",
+   "chunk": "Talking to people",
+   "recent": true
+  },
+  {
+   "id": "c-hanashi-ga-aru",
+   "romaji": "hanashi ga aru",
+   "english": "need to talk (to you)",
+   "chunk": "Talking to people",
+   "recent": true
+  },
+  {
+   "id": "c-hanashi-ga-nagai",
+   "romaji": "hanashi ga nagai",
+   "english": "be long-winded, go on forever",
+   "chunk": "Talking to people",
+   "recent": true
+  },
+  {
+   "id": "c-jikan-ga-nai",
+   "romaji": "jikan ga nai",
+   "english": "have no time",
+   "chunk": "No time, no money",
+   "recent": true
+  },
+  {
+   "id": "c-hima-ga-nai",
+   "romaji": "hima ga nai",
+   "english": "have no free time",
+   "chunk": "No time, no money",
+   "recent": true
+  },
+  {
+   "id": "c-okane-ga-nai",
+   "romaji": "okane ga nai",
+   "english": "have no money, be broke",
+   "chunk": "No time, no money",
+   "recent": true
+  },
+  {
+   "id": "c-okane-ga-tarinai",
+   "romaji": "okane ga tarinai",
+   "english": "be short of money",
+   "chunk": "No time, no money",
+   "recent": true
+  },
+  {
+   "id": "c-yoyuu-ga-nai",
+   "romaji": "yoyuu ga nai",
+   "english": "have nothing to spare",
+   "chunk": "No time, no money",
+   "recent": true
+  },
+  {
+   "id": "c-tenki-ga-ii",
+   "romaji": "tenki ga ii",
+   "english": "the weather is nice",
+   "chunk": "Weather and wind",
+   "recent": true
+  },
+  {
+   "id": "c-kaze-ga-tsuyoi",
+   "romaji": "kaze ga tsuyoi",
+   "english": "it's windy",
+   "chunk": "Weather and wind",
+   "recent": true
+  },
+  {
+   "id": "c-ame-ga-tsuyoi",
+   "romaji": "ame ga tsuyoi",
+   "english": "the rain is heavy",
+   "chunk": "Weather and wind",
+   "recent": true
+  },
+  {
+   "id": "c-kaze-ga-fuku",
+   "romaji": "kaze ga fuku",
+   "english": "the wind blows",
+   "chunk": "Weather and wind",
+   "recent": true
+  },
+  {
+   "id": "c-kaze-ni-ataru",
+   "romaji": "kaze ni ataru",
+   "english": "get some (fresh) air",
+   "chunk": "Weather and wind",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "kenta",
+   "sora"
+  ],
+  "format": "dialogue"
+ }
+}

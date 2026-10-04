@@ -1,0 +1,336 @@
+{
+ "script": 75,
+ "of": 94,
+ "stage": 4,
+ "chunkId": "time-money-7",
+ "label": "Out on errands",
+ "topic": "Time, money & plans",
+ "rationale": "Running errands: grab some cash, is the shop open yet, has it closed, wait your turn.",
+ "mixUps": "A shop's aiteru means 'open', not 'free' as in ashita aiteru?; shimatteru is 'closed'. orosu is cash from the ATM, not toru. junban o matsu is waiting your turn, while standing in the queue itself is narabu.",
+ "targets": [
+  {
+   "id": "c-okane-o-orosu",
+   "romaji": "okane o orosu",
+   "polite": "okane o oroshimasu",
+   "english": "withdraw cash",
+   "ja": "お金を下ろす",
+   "kana": "おかねをおろす",
+   "politeJa": "お金を下ろします",
+   "noun": "okane",
+   "particle": "o",
+   "verb": "orosu",
+   "verbJa": "下ろす",
+   "verbSense": "bring or take down; lower",
+   "englishVerb": "withdraw",
+   "trap": "Not okane o toru, which sounds like taking someone's money. Cash from an ATM is orosu, 'bring down'. Casual dasu also works.",
+   "partners": [
+    "genkin (cash)",
+    "chokin (savings)"
+   ],
+   "flags": [],
+   "use": "What you say on the way to the ATM or konbini: chotto okane oroshite kuru, okane orosanakya. The o usually drops.",
+   "notes": "hikidasu is the formal word; ATM voice prompts and bank staff say ohikidashi.",
+   "example": {
+    "romaji": "chotto okane oroshite kuru",
+    "ja": "ちょっとお金下ろしてくる",
+    "english": "I'm just going to grab some cash."
+   },
+   "examplePolite": {
+    "romaji": "chotto okane o oroshite kimasu",
+    "ja": "ちょっとお金を下ろしてきます",
+    "english": "I'm just going to grab some cash."
+   }
+  },
+  {
+   "id": "c-mise-ga-aku",
+   "romaji": "mise ga aku",
+   "polite": "mise ga akimasu",
+   "english": "a shop opens (aiteru = is open)",
+   "ja": "店が開く",
+   "kana": "みせがあく",
+   "politeJa": "店が開きます",
+   "noun": "mise",
+   "particle": "ga",
+   "verb": "aku",
+   "verbJa": "開く",
+   "verbSense": "of a door or shop: open, by itself",
+   "englishVerb": "open",
+   "trap": "About the shop itself, use aiteru: ano mise mou aiteru?. akeru is what the staff do, so aketemasu ka? fits only when you ask the staff. yatteru also works. mise o hiraku is starting a new shop.",
+   "partners": [
+    "ginkou (bank)",
+    "byouin (clinic)",
+    "yakkyoku (pharmacy)"
+   ],
+   "flags": [],
+   "use": "Almost always aiteru (is open), in questions about hours: kono mise nanji made aiteru?. Plain aku is the moment it opens: juuji ni aku. yatteru (is open for business) is just as common: nanji made yatteru?",
+   "notes": "mise o akeru = the staff open up; mise o hiraku = start a new shop. A door opening uses the same verb: doa ga aku.",
+   "example": {
+    "romaji": "ano mise, mou aiteru?",
+    "ja": "あの店、もう開いてる？",
+    "english": "Is that shop open yet?"
+   },
+   "examplePolite": {
+    "romaji": "ano mise wa mou aitemasu ka?",
+    "ja": "あの店はもう開いてますか？",
+    "english": "Is that shop open yet?"
+   }
+  },
+  {
+   "id": "c-mise-ga-shimaru",
+   "romaji": "mise ga shimaru",
+   "polite": "mise ga shimarimasu",
+   "english": "a shop closes (shimatteru = is closed)",
+   "ja": "店が閉まる",
+   "kana": "みせがしまる",
+   "politeJa": "店が閉まります",
+   "noun": "mise",
+   "particle": "ga",
+   "verb": "shimaru",
+   "verbJa": "閉まる",
+   "verbSense": "of a door or shop: close, by itself",
+   "englishVerb": "close",
+   "trap": "For the shop's own state, use shimaru: mou shimatteru = it's already closed. shimeru is the staff closing up, so nanji ni shimemasu ka? fits only when you ask the staff. Casual owaru also works.",
+   "partners": [
+    "ginkou (bank)",
+    "byouin (clinic)",
+    "yuubinkyoku (post office)"
+   ],
+   "flags": [],
+   "use": "Mostly shimatteru (is closed) and shimatchau (is about to close): hayaku ikanai to shimatchau yo. Plain shimaru gives the time: kuji ni shimaru.",
+   "notes": "Closing for good is mise o tatamu, or tsubureru (go bust). Sounds like shimau (put away; the -chau ending): mou shimatta can mean 'I already put it away', and shimatta! alone means 'oops'. Context decides.",
+   "example": {
+    "romaji": "ano mise, mou shimatteru yo",
+    "ja": "あの店、もう閉まってるよ",
+    "english": "That shop's already closed."
+   },
+   "examplePolite": {
+    "romaji": "ano mise wa mou shimattemasu yo",
+    "ja": "あの店はもう閉まってますよ",
+    "english": "That shop's already closed."
+   }
+  },
+  {
+   "id": "c-junban-o-matsu",
+   "romaji": "junban o matsu",
+   "polite": "junban o machimasu",
+   "english": "wait your turn",
+   "ja": "順番を待つ",
+   "kana": "じゅんばんをまつ",
+   "politeJa": "順番を待ちます",
+   "noun": "junban",
+   "particle": "o",
+   "verb": "matsu",
+   "verbJa": "待つ",
+   "verbSense": "wait",
+   "englishVerb": "wait",
+   "trap": null,
+   "partners": [
+    "ban (turn)"
+   ],
+   "flags": [],
+   "use": "Said to kids (chanto junban matte ne) and as a pointed remark to someone pushing in: minna junban matteru n desu kedo. The noun junban machi is common too (ima sanjuppun junban machi da tte), and when your turn comes it's junban ga kita, or just ban: tsugi, dare no ban?",
+   "notes": "Pushing in is warikomi: warikomi shinaide.",
+   "example": {
+    "romaji": "chanto junban matte ne.",
+    "ja": "ちゃんと順番待ってね。",
+    "english": "Wait your turn, OK?"
+   },
+   "examplePolite": {
+    "romaji": "chanto junban o matte kudasai ne.",
+    "ja": "ちゃんと順番を待ってくださいね。",
+    "english": "Please wait your turn."
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-hi-ga-kureru",
+   "romaji": "hi ga kureru",
+   "english": "it gets dark (evening)",
+   "chunk": "Sun and moon",
+   "recent": true
+  },
+  {
+   "id": "c-hi-ga-noboru",
+   "romaji": "hi ga noboru",
+   "english": "the sun rises, comes up",
+   "chunk": "Sun and moon",
+   "recent": true
+  },
+  {
+   "id": "c-hi-ga-shizumu",
+   "romaji": "hi ga shizumu",
+   "english": "the sun sets, goes down",
+   "chunk": "Sun and moon",
+   "recent": true
+  },
+  {
+   "id": "c-tsuki-ga-deru",
+   "romaji": "tsuki ga deru",
+   "english": "the moon comes out",
+   "chunk": "Sun and moon",
+   "recent": true
+  },
+  {
+   "id": "c-ocha-o-ireru",
+   "romaji": "ocha o ireru",
+   "english": "make tea",
+   "chunk": "Breakfast",
+   "recent": true
+  },
+  {
+   "id": "c-satou-o-ireru",
+   "romaji": "satou o ireru",
+   "english": "put sugar in, add sugar",
+   "chunk": "Breakfast",
+   "recent": true
+  },
+  {
+   "id": "c-pan-o-yaku",
+   "romaji": "pan o yaku",
+   "english": "toast bread; bake bread",
+   "chunk": "Breakfast",
+   "recent": true
+  },
+  {
+   "id": "c-asagohan-o-nuku",
+   "romaji": "asagohan o nuku",
+   "english": "skip breakfast",
+   "chunk": "Breakfast",
+   "recent": true
+  },
+  {
+   "id": "c-kaji-o-suru",
+   "romaji": "kaji o suru",
+   "english": "do the housework",
+   "chunk": "Housework and laundry",
+   "recent": true
+  },
+  {
+   "id": "c-sentakumono-o-hosu",
+   "romaji": "sentakumono o hosu",
+   "english": "hang out the laundry",
+   "chunk": "Housework and laundry",
+   "recent": true
+  },
+  {
+   "id": "c-sentakumono-ga-kawaku",
+   "romaji": "sentakumono ga kawaku",
+   "english": "the laundry dries",
+   "chunk": "Housework and laundry",
+   "recent": true
+  },
+  {
+   "id": "c-fuku-o-tatamu",
+   "romaji": "fuku o tatamu",
+   "english": "fold clothes",
+   "chunk": "Housework and laundry",
+   "recent": true
+  },
+  {
+   "id": "c-soujiki-o-kakeru",
+   "romaji": "soujiki o kakeru",
+   "english": "vacuum (the floor)",
+   "chunk": "Housework and laundry",
+   "recent": true
+  },
+  {
+   "id": "c-dengen-o-kiru",
+   "romaji": "dengen o kiru",
+   "english": "turn off (a phone or device)",
+   "chunk": "Power, battery, sound",
+   "recent": true
+  },
+  {
+   "id": "c-dengen-o-ireru",
+   "romaji": "dengen o ireru",
+   "english": "turn on (a phone or device)",
+   "chunk": "Power, battery, sound",
+   "recent": true
+  },
+  {
+   "id": "c-juuden-ga-kireru",
+   "romaji": "juuden ga kireru",
+   "english": "battery runs out, dies",
+   "chunk": "Power, battery, sound",
+   "recent": true
+  },
+  {
+   "id": "c-oto-ga-deru",
+   "romaji": "oto ga deru",
+   "english": "sound comes out (of a TV, speaker, phone)",
+   "chunk": "Power, battery, sound",
+   "recent": true
+  },
+  {
+   "id": "c-masuku-o-suru",
+   "romaji": "masuku o suru",
+   "english": "wear a mask",
+   "chunk": "Masks and glasses",
+   "recent": true
+  },
+  {
+   "id": "c-masuku-o-hazusu",
+   "romaji": "masuku o hazusu",
+   "english": "take off a mask",
+   "chunk": "Masks and glasses",
+   "recent": true
+  },
+  {
+   "id": "c-megane-o-kakeru",
+   "romaji": "megane o kakeru",
+   "english": "wear / put on glasses",
+   "chunk": "Masks and glasses",
+   "recent": true
+  },
+  {
+   "id": "c-megane-o-hazusu",
+   "romaji": "megane o hazusu",
+   "english": "take off glasses",
+   "chunk": "Masks and glasses",
+   "recent": true
+  },
+  {
+   "id": "c-shiken-o-ukeru",
+   "romaji": "shiken o ukeru",
+   "english": "take an exam",
+   "chunk": "Exams and results",
+   "recent": true
+  },
+  {
+   "id": "c-ten-o-toru",
+   "romaji": "ten o toru",
+   "english": "score, get marks (on a test)",
+   "chunk": "Exams and results",
+   "recent": true
+  },
+  {
+   "id": "c-kekka-ga-deru",
+   "romaji": "kekka ga deru",
+   "english": "the results come out",
+   "chunk": "Exams and results",
+   "recent": true
+  },
+  {
+   "id": "c-shiken-ni-ukaru",
+   "romaji": "shiken ni ukaru",
+   "english": "pass an exam",
+   "chunk": "Exams and results",
+   "recent": true
+  },
+  {
+   "id": "c-shiken-ni-ochiru",
+   "romaji": "shiken ni ochiru",
+   "english": "fail an exam",
+   "chunk": "Exams and results",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "yuki",
+   "okaasan"
+  ],
+  "format": "monologue"
+ }
+}

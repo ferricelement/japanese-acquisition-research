@@ -1,0 +1,347 @@
+{
+ "script": 86,
+ "of": 94,
+ "stage": 4,
+ "chunkId": "weather-5",
+ "label": "Seasons",
+ "topic": "Weather & nature",
+ "rationale": "Sets that mark the year in daily talk: blossoms out in spring, summer heat and cicadas, snow lying in winter.",
+ "mixUps": "semi ga naku uses naku (鳴く, an animal's call), not naku 'cry' (泣く), and pairs with kaminari ga naru: animals naku, things naru. atsusa ni yowai is the osake ga yowai idea with ni (samusa ni yowai for cold), and snow furu as it falls but tsumoru once it lies.",
+ "targets": [
+  {
+   "id": "c-hana-ga-saku",
+   "romaji": "hana ga saku",
+   "polite": "hana ga sakimasu",
+   "english": "flowers bloom, come out",
+   "ja": "花が咲く",
+   "kana": "はながさく",
+   "politeJa": "花が咲きます",
+   "noun": "hana",
+   "particle": "ga",
+   "verb": "saku",
+   "verbJa": "咲く",
+   "verbSense": "bloom, open (of flowers)",
+   "englishVerb": "bloom",
+   "trap": "'The blossoms are out' points to deru, but flowers that are out are saiteru (sakura saiteru); hana ga deru isn't said. Hiraku is the petals opening, mostly in description, not the everyday word. Blossoms coming down are chiru: mou chitchatta (petals already on the ground are ochiteru).",
+   "partners": [
+    "sakura (cherry blossoms)",
+    "ume (plum blossoms)",
+    "himawari (sunflowers)",
+    "ajisai (hydrangeas)"
+   ],
+   "flags": [],
+   "use": "Mostly about cherry blossoms in spring: sakura saita? (are they out?), mou saiteru (they're already out), mada saitenai. Saiteru is the flowers being out now, not still opening. Ga is usually dropped.",
+   "notes": "Peak bloom is mankai (ima mankai da tte), and going to see them is ohanami: ohanami ikanai?",
+   "example": {
+    "romaji": "beranda no hana, saita yo.",
+    "ja": "ベランダの花、咲いたよ。",
+    "english": "The flowers on the balcony have come out."
+   },
+   "examplePolite": {
+    "romaji": "beranda no hana ga sakimashita yo.",
+    "ja": "ベランダの花が咲きましたよ。",
+    "english": "The flowers on the balcony have come out."
+   }
+  },
+  {
+   "id": "c-atsusa-ni-yowai",
+   "romaji": "atsusa ni yowai",
+   "polite": "atsusa ni yowai desu",
+   "english": "can't take the heat",
+   "ja": "暑さに弱い",
+   "kana": "あつさによわい",
+   "politeJa": "暑さに弱いです",
+   "noun": "atsusa",
+   "particle": "ni",
+   "verb": "yowai",
+   "verbJa": "弱い",
+   "verbSense": "weak, having little strength or tolerance",
+   "englishVerb": "take",
+   "trap": "Atsusa takes ni: atsusa ga yowai isn't said (with osake, ga and ni both work). Atsui no nigate (I can't do heat) is just as everyday.",
+   "partners": [
+    "samusa (the cold)",
+    "norimono (vehicles: get travel-sick)",
+    "osake (drink: osake ni yowai)"
+   ],
+   "flags": [],
+   "use": "Said about yourself or someone else in summer: atsusa ni yowai n da yo ne (I'm no good in the heat). The cold version, samusa ni yowai, is just as common. The ni stays.",
+   "notes": "The opposite is atsusa ni tsuyoi; atsusa is atsui + -sa (the heat), like samusa from samui.",
+   "example": {
+    "romaji": "atsusa ni yowai n da yo ne.",
+    "ja": "暑さに弱いんだよね。",
+    "english": "I'm no good in the heat."
+   },
+   "examplePolite": {
+    "romaji": "atsusa ni yowai n desu yo ne.",
+    "ja": "暑さに弱いんですよね。",
+    "english": "I'm no good in the heat."
+   }
+  },
+  {
+   "id": "c-semi-ga-naku",
+   "romaji": "semi ga naku",
+   "polite": "semi ga nakimasu",
+   "english": "cicadas sing, buzz",
+   "ja": "セミが鳴く",
+   "kana": "セミがなく",
+   "politeJa": "セミが鳴きます",
+   "noun": "semi",
+   "particle": "ga",
+   "verb": "naku",
+   "verbJa": "鳴く",
+   "verbSense": "make its call (an animal, bird or insect)",
+   "englishVerb": "sing",
+   "trap": "English has a verb per creature (sing, chirp, buzz, meow), but Japanese uses naku (鳴く) for nearly all of them, and it sounds the same as naku 'cry' (泣く). Tori ga utau is poetic; in talk it's naku.",
+   "partners": [
+    "tori (birds)",
+    "mushi (insects, e.g. crickets)",
+    "neko (cats)",
+    "kaeru (frogs)"
+   ],
+   "flags": [],
+   "use": "Summer small talk, mostly semi naiteru (the cicadas are going) or semi nakihajimeta ne (the cicadas have started). Casual speech drops ga.",
+   "notes": "Autumn nights have mushi ga naku (crickets and other insects); a barking dog is usually hoeru.",
+   "example": {
+    "romaji": "semi nakihajimeta ne.",
+    "ja": "セミ鳴き始めたね。",
+    "english": "The cicadas have started up."
+   },
+   "examplePolite": {
+    "romaji": "semi ga nakihajimemashita ne.",
+    "ja": "セミが鳴き始めましたね。",
+    "english": "The cicadas have started up."
+   }
+  },
+  {
+   "id": "c-yuki-ga-tsumoru",
+   "romaji": "yuki ga tsumoru",
+   "polite": "yuki ga tsumorimasu",
+   "english": "snow settles, lies on the ground",
+   "ja": "雪が積もる",
+   "kana": "ゆきがつもる",
+   "politeJa": "雪が積もります",
+   "noun": "yuki",
+   "particle": "ga",
+   "verb": "tsumoru",
+   "verbJa": "積もる",
+   "verbSense": "pile up, build up (snow, dust)",
+   "englishVerb": "settle",
+   "trap": "English 'the snow's sticking' points to tsuku, but snow building up on the ground is tsumoru; tsuku is snow stuck on things: kuruma ni yuki tsuiteru. Nokotteru is old snow that hasn't melted yet.",
+   "partners": [
+    "hokori (dust)",
+    "ochiba (fallen leaves)"
+   ],
+   "flags": [],
+   "use": "Mostly as yuki tsumotteru (there's snow on the ground) or tsumoru kana? (will it settle?). Tsumotteru is the snow lying there, while snow still coming down is yuki futteru.",
+   "notes": "Melting is tokeru: yuki mou toketa ne.",
+   "example": {
+    "romaji": "asa okitara, yuki tsumotteta.",
+    "ja": "朝起きたら、雪積もってた。",
+    "english": "When I got up, there was snow on the ground."
+   },
+   "examplePolite": {
+    "romaji": "asa okitara, yuki ga tsumottemashita.",
+    "ja": "朝起きたら、雪が積もってました。",
+    "english": "When I got up, there was snow on the ground."
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-karada-o-ugokasu",
+   "romaji": "karada o ugokasu",
+   "english": "get some exercise, move your body",
+   "chunk": "Exercise and outdoors",
+   "recent": true
+  },
+  {
+   "id": "c-kibarashi-ni-naru",
+   "romaji": "kibun tenkan ni naru",
+   "english": "be a nice change of pace, do someone good",
+   "chunk": "Exercise and outdoors",
+   "recent": true
+  },
+  {
+   "id": "c-yama-ni-noboru",
+   "romaji": "yama ni noboru",
+   "english": "climb a mountain",
+   "chunk": "Exercise and outdoors",
+   "recent": true
+  },
+  {
+   "id": "c-tsuri-ni-iku",
+   "romaji": "tsuri ni iku",
+   "english": "go fishing",
+   "chunk": "Exercise and outdoors",
+   "recent": true
+  },
+  {
+   "id": "c-kyanpu-ni-iku",
+   "romaji": "kyanpu ni iku",
+   "english": "go camping",
+   "chunk": "Exercise and outdoors",
+   "recent": true
+  },
+  {
+   "id": "c-netto-de-shiraberu",
+   "romaji": "netto de shiraberu",
+   "english": "look something up online",
+   "chunk": "Internet and apps",
+   "recent": true
+  },
+  {
+   "id": "c-netto-ga-tsunagaru",
+   "romaji": "netto ga tsunagaru",
+   "english": "the internet connects, works",
+   "chunk": "Internet and apps",
+   "recent": true
+  },
+  {
+   "id": "c-denpa-ga-warui",
+   "romaji": "denpa ga warui",
+   "english": "bad signal, poor reception",
+   "chunk": "Internet and apps",
+   "recent": true
+  },
+  {
+   "id": "c-apuri-o-ireru",
+   "romaji": "apuri o ireru",
+   "english": "install an app, get an app",
+   "chunk": "Internet and apps",
+   "recent": true
+  },
+  {
+   "id": "c-yousu-o-miru",
+   "romaji": "yousu o miru",
+   "english": "wait and see; check on (someone)",
+   "chunk": "Plans and promises",
+   "recent": true
+  },
+  {
+   "id": "c-chuushi-ni-naru",
+   "romaji": "chuushi ni naru",
+   "english": "be called off",
+   "chunk": "Plans and promises",
+   "recent": true
+  },
+  {
+   "id": "c-yakusoku-o-mamoru",
+   "romaji": "yakusoku o mamoru",
+   "english": "keep a promise",
+   "chunk": "Plans and promises",
+   "recent": true
+  },
+  {
+   "id": "c-keikaku-o-tateru",
+   "romaji": "keikaku o tateru",
+   "english": "make a plan",
+   "chunk": "Plans and promises",
+   "recent": true
+  },
+  {
+   "id": "c-boushi-o-kaburu",
+   "romaji": "boushi o kaburu",
+   "english": "wear / put on a hat",
+   "chunk": "Hats and accessories",
+   "recent": true
+  },
+  {
+   "id": "c-yubiwa-o-suru",
+   "romaji": "yubiwa o suru",
+   "english": "wear a ring",
+   "chunk": "Hats and accessories",
+   "recent": true
+  },
+  {
+   "id": "c-nekutai-o-suru",
+   "romaji": "nekutai o suru",
+   "english": "wear a tie",
+   "chunk": "Hats and accessories",
+   "recent": true
+  },
+  {
+   "id": "c-kousui-o-tsukeru",
+   "romaji": "kousui o tsukeru",
+   "english": "wear / put on perfume",
+   "chunk": "Hats and accessories",
+   "recent": true
+  },
+  {
+   "id": "c-shigoto-o-sagasu",
+   "romaji": "shigoto o sagasu",
+   "english": "look for a job",
+   "chunk": "University and jobs",
+   "recent": true
+  },
+  {
+   "id": "c-shigoto-ga-mitsukaru",
+   "romaji": "shigoto ga mitsukaru",
+   "english": "find a job",
+   "chunk": "University and jobs",
+   "recent": true
+  },
+  {
+   "id": "c-daigaku-ni-hairu",
+   "romaji": "daigaku ni hairu",
+   "english": "get into university, start university",
+   "chunk": "University and jobs",
+   "recent": true
+  },
+  {
+   "id": "c-kaisha-ni-hairu",
+   "romaji": "kaisha ni hairu",
+   "english": "join a company",
+   "chunk": "University and jobs",
+   "recent": true
+  },
+  {
+   "id": "c-keiken-ga-aru",
+   "romaji": "keiken ga aru",
+   "english": "have experience",
+   "chunk": "University and jobs",
+   "recent": true
+  },
+  {
+   "id": "c-kega-o-suru",
+   "romaji": "kega o suru",
+   "english": "get hurt, get injured",
+   "chunk": "Visible signs",
+   "recent": true
+  },
+  {
+   "id": "c-chi-ga-deru",
+   "romaji": "chi ga deru",
+   "english": "bleed, be bleeding",
+   "chunk": "Visible signs",
+   "recent": true
+  },
+  {
+   "id": "c-ase-o-kaku",
+   "romaji": "ase o kaku",
+   "english": "sweat, get sweaty",
+   "chunk": "Visible signs",
+   "recent": true
+  },
+  {
+   "id": "c-kaoiro-ga-warui",
+   "romaji": "kaoiro ga warui",
+   "english": "look pale, look unwell",
+   "chunk": "Visible signs",
+   "recent": true
+  },
+  {
+   "id": "c-kao-ga-akai",
+   "romaji": "kao ga akai",
+   "english": "be red in the face",
+   "chunk": "Visible signs",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "yuki",
+   "kenji"
+  ],
+  "format": "dialogue"
+ }
+}

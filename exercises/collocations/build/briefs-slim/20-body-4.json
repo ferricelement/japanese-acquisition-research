@@ -1,0 +1,372 @@
+{
+ "script": 20,
+ "of": 94,
+ "stage": 1,
+ "chunkId": "body-4",
+ "label": "Feeling unwell",
+ "topic": "Body & health",
+ "rationale": "Saying you feel off, from the general guai ga warui and the work-safe taichou ga warui to being in or out of form.",
+ "mixUps": "guai ga warui and taichou ga warui both mean 'I don't feel well', and taichou is the safer word at work. choushi ga warui / ii is being off or on form, and also a device acting up. kibun ga warui is feeling sick or faint right now. kimochi warui (in senses) is queasy or gross.",
+ "targets": [
+  {
+   "id": "c-guai-ga-warui",
+   "romaji": "guai ga warui",
+   "polite": "guai ga warui desu",
+   "english": "feel unwell",
+   "ja": "具合が悪い",
+   "kana": "ぐあいがわるい",
+   "politeJa": "具合が悪いです",
+   "noun": "guai",
+   "particle": "ga",
+   "verb": "warui",
+   "verbJa": "悪い",
+   "verbSense": "bad",
+   "englishVerb": "feel",
+   "trap": "'I'm sick' as byouki desu sounds like a real illness; for just feeling unwell, the condition is bad, guai ga warui.",
+   "partners": [
+    "choushi (condition)",
+    "kibun (feeling; kibun ga warui = feel sick, also 'be put off')"
+   ],
+   "flags": [],
+   "use": "The general 'I'm not feeling well', usually softened to chotto guai warui; others ask guai warui no? or guai dou? (how are you feeling?).",
+   "notes": "The sets next to it split the job. Taichou ga warui means the same in a more careful word, and it's the safe phrase for calling in sick at work. Choushi ga warui is being off form, and also a machine acting up (pasokon no choushi ga warui). Kibun ga warui is feeling sick or faint right now (in a car, in a crowd). Kimochi warui (in the senses list) is queasy, but also 'gross, creepy'.",
+   "example": {
+    "romaji": "chotto guai warui kara, saki ni kaeru ne.",
+    "ja": "ちょっと具合悪いから、先に帰るね。",
+    "english": "I'm not feeling great, so I'll head home early."
+   },
+   "examplePolite": {
+    "romaji": "chotto guai ga warui node, kyou wa saki ni kaette mo ii desu ka?",
+    "ja": "ちょっと具合が悪いので、今日は先に帰ってもいいですか？",
+    "english": "I'm not feeling well. Would it be all right if I went home early today?"
+   }
+  },
+  {
+   "id": "c-taichou-ga-warui",
+   "romaji": "taichou ga warui",
+   "polite": "taichou ga warui desu",
+   "english": "not feel well, be under the weather (the safe phrase at work)",
+   "ja": "体調が悪い",
+   "kana": "たいちょうがわるい",
+   "politeJa": "体調が悪いです",
+   "noun": "taichou",
+   "particle": "ga",
+   "verb": "warui",
+   "verbJa": "悪い",
+   "verbSense": "bad, in poor condition",
+   "englishVerb": "sick",
+   "trap": null,
+   "partners": [
+    "guai (condition)",
+    "kaoiro (complexion)",
+    "kibun (feeling: feel sick)"
+   ],
+   "flags": [],
+   "use": "The stock phrase for calling in sick or cancelling: taichou ga warui node, kyou wa yasumasete kudasai. Casual talk drops ga (chotto taichou warui), and others ask taichou dou? or taichou daijoubu?",
+   "notes": "A little more neutral than guai ga warui, so it's the safe choice at work; the opposite is taichou ga ii.",
+   "example": {
+    "romaji": "gomen, taichou warui kara kyou yasumu.",
+    "ja": "ごめん、体調悪いから今日休む。",
+    "english": "Sorry, I'm not feeling well, so I'm taking today off."
+   },
+   "examplePolite": {
+    "romaji": "sumimasen, taichou ga warui node, kyou wa yasumasete kudasai.",
+    "ja": "すみません、体調が悪いので、今日は休ませてください。",
+    "english": "I'm sorry, I'm not feeling well. Could I have today off?"
+   }
+  },
+  {
+   "id": "c-choushi-ga-warui",
+   "romaji": "choushi ga warui",
+   "polite": "choushi ga warui desu",
+   "english": "feel off; act up (devices)",
+   "ja": "調子が悪い",
+   "kana": "ちょうしがわるい",
+   "politeJa": "調子が悪いです",
+   "noun": "choushi",
+   "particle": "ga",
+   "verb": "warui",
+   "verbJa": "悪い",
+   "verbSense": "bad, in poor condition",
+   "englishVerb": "feel",
+   "trap": "A glitchy phone or PC isn't kowareta, which means it has stopped working (sumaho kowareta? is also said as an exaggeration). If it still works, just badly, it's choushi ga warui: sumaho no choushi warui.",
+   "partners": [
+    "guai (condition: guai ga warui = feel unwell)",
+    "kaoiro (complexion: kaoiro ga warui = look pale)",
+    "me (eyes: me ga warui = poor eyesight)"
+   ],
+   "flags": [],
+   "use": "About yourself it's a vague 'I'm off' (kyou chotto choushi warui). Put a body part or a device before no: onaka no choushi ga warui, sumaho no choushi ga warui (my phone's acting up). Ga often drops in casual talk, the opposite is choushi ii, and choushi dou? asks how things are going.",
+   "notes": "Onaka no choushi ga warui is the discreet way to mention stomach trouble. Choushi ni noru (get carried away) is a separate idiom with the same noun.",
+   "example": {
+    "romaji": "saikin, pasokon no choushi warui n da yo ne.",
+    "ja": "最近、パソコンの調子悪いんだよね。",
+    "english": "My computer's been acting up lately."
+   },
+   "examplePolite": {
+    "romaji": "kinou kara chotto onaka no choushi ga warui n desu.",
+    "ja": "昨日からちょっとお腹の調子が悪いんです。",
+    "english": "My stomach's been a bit off since yesterday."
+   }
+  },
+  {
+   "id": "c-choushi-ga-ii",
+   "romaji": "choushi ga ii",
+   "polite": "choushi ga ii desu",
+   "english": "be in good shape, going well",
+   "ja": "調子がいい",
+   "kana": "ちょうしがいい",
+   "politeJa": "調子がいいです",
+   "noun": "choushi",
+   "particle": "ga",
+   "verb": "ii",
+   "verbJa": "いい",
+   "verbSense": "good, fine, OK",
+   "englishVerb": "feel",
+   "trap": null,
+   "partners": [
+    "guai (condition: guai ga ii = feel well; of a thing, work properly)",
+    "kaoiro (complexion: kaoiro ga ii = look well)",
+    "kigen (mood: kigen ga ii = be in a good mood)"
+   ],
+   "flags": [],
+   "use": "The opposite of choushi ga warui, for your body, your form or a device: kyou choushi ii (I'm on form today), and choushi dou? asks how things are going. Ga often drops.",
+   "notes": "About someone's words it means glib: choushi ii koto bakari iu (always says whatever suits them).",
+   "example": {
+    "romaji": "saikin, karada no choushi ii n da.",
+    "ja": "最近、体の調子いいんだ。",
+    "english": "I've been feeling good lately."
+   },
+   "examplePolite": {
+    "romaji": "saikin, karada no choushi ga ii n desu.",
+    "ja": "最近、体の調子がいいんです。",
+    "english": "I've been in good shape lately."
+   }
+  },
+  {
+   "id": "c-kibun-ga-warui",
+   "romaji": "kibun ga warui",
+   "polite": "kibun ga warui desu",
+   "english": "feel sick (queasy or faint); feel put off",
+   "ja": "気分が悪い",
+   "kana": "きぶんがわるい",
+   "politeJa": "気分が悪いです",
+   "noun": "kibun",
+   "particle": "ga",
+   "verb": "warui",
+   "verbJa": "悪い",
+   "verbSense": "bad",
+   "englishVerb": "feel",
+   "trap": "English 'I feel bad (about it)' is guilt, which is warui na or moushiwake nai, never kibun ga warui. Kibun ga warui is feeling sick, or feeling put off by something someone did; a grumpy mood that others can see is kigen ga warui.",
+   "partners": [
+    "kigen (mood: kigen ga warui = be grumpy)",
+    "kimochi (feeling: kimochi warui = queasy, gross)",
+    "igokochi (comfort: igokochi ga warui = uncomfortable somewhere)"
+   ],
+   "flags": [],
+   "use": "For feeling sick right now, in a crowd, a hot room or a car: chotto kibun ga warui (ga can drop, but it's kept far more than in kimochi warui), and kibun waruku natta when it comes on. Said about something someone did, it means it left you feeling put off: ano iikata, kibun warui.",
+   "notes": "Kimochi warui is the queasier twin with a 'gross' sense; guai ga warui is general unwellness.",
+   "example": {
+    "romaji": "densha kondete, kibun waruku natchatta.",
+    "ja": "電車混んでて、気分悪くなっちゃった。",
+    "english": "The train was packed and I started feeling sick."
+   },
+   "examplePolite": {
+    "romaji": "densha ga sugoku konde ite, kibun ga waruku natte shimatta n desu.",
+    "ja": "電車がすごく混んでいて、気分が悪くなってしまったんです。",
+    "english": "The train was really packed, and I started feeling sick."
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-atama-ga-ii",
+   "romaji": "atama ga ii",
+   "english": "be smart, clever",
+   "chunk": "Smart and skilled",
+   "recent": true
+  },
+  {
+   "id": "c-nihongo-ga-jouzu",
+   "romaji": "nihongo ga jouzu",
+   "english": "be good at Japanese",
+   "chunk": "Smart and skilled",
+   "recent": true
+  },
+  {
+   "id": "c-shigoto-ga-dekiru",
+   "romaji": "shigoto ga dekiru",
+   "english": "be capable, good at one's job",
+   "chunk": "Smart and skilled",
+   "recent": true
+  },
+  {
+   "id": "c-sensu-ga-ii",
+   "romaji": "sensu ga ii",
+   "english": "have good taste, a good eye",
+   "chunk": "Smart and skilled",
+   "recent": true
+  },
+  {
+   "id": "c-asobi-ni-iku",
+   "romaji": "asobi ni iku",
+   "english": "go out for fun; go visit",
+   "chunk": "Going out for fun",
+   "recent": true
+  },
+  {
+   "id": "c-eiga-ni-iku",
+   "romaji": "eiga ni iku",
+   "english": "go to the movies",
+   "chunk": "Going out for fun",
+   "recent": true
+  },
+  {
+   "id": "c-sanpo-ni-iku",
+   "romaji": "sanpo ni iku",
+   "english": "go for a walk",
+   "chunk": "Going out for fun",
+   "recent": true
+  },
+  {
+   "id": "c-karaoke-ni-iku",
+   "romaji": "karaoke ni iku",
+   "english": "go to karaoke",
+   "chunk": "Going out for fun",
+   "recent": true
+  },
+  {
+   "id": "c-shitsumon-ga-aru",
+   "romaji": "shitsumon ga aru",
+   "english": "have a question",
+   "chunk": "Questions and learning",
+   "recent": true
+  },
+  {
+   "id": "c-shitsumon-ni-kotaeru",
+   "romaji": "shitsumon ni kotaeru",
+   "english": "answer a question",
+   "chunk": "Questions and learning",
+   "recent": true
+  },
+  {
+   "id": "c-eigo-o-hanasu",
+   "romaji": "eigo o hanasu",
+   "english": "speak English",
+   "chunk": "Questions and learning",
+   "recent": true
+  },
+  {
+   "id": "c-benkyou-ni-naru",
+   "romaji": "benkyou ni naru",
+   "english": "be instructive; learn a lot",
+   "chunk": "Questions and learning",
+   "recent": true
+  },
+  {
+   "id": "c-atama-ga-itai",
+   "romaji": "atama ga itai",
+   "english": "have a headache",
+   "chunk": "Aches and pains",
+   "recent": true
+  },
+  {
+   "id": "c-onaka-ga-itai",
+   "romaji": "onaka ga itai",
+   "english": "have a stomachache",
+   "chunk": "Aches and pains",
+   "recent": true
+  },
+  {
+   "id": "c-nodo-ga-itai",
+   "romaji": "nodo ga itai",
+   "english": "have a sore throat",
+   "chunk": "Aches and pains",
+   "recent": true
+  },
+  {
+   "id": "c-koshi-ga-itai",
+   "romaji": "koshi ga itai",
+   "english": "have lower back pain",
+   "chunk": "Aches and pains",
+   "recent": true
+  },
+  {
+   "id": "c-kata-ga-koru",
+   "romaji": "kata ga koru",
+   "english": "have stiff shoulders",
+   "chunk": "Aches and pains",
+   "recent": true
+  },
+  {
+   "id": "c-tomodachi-ga-dekiru",
+   "romaji": "tomodachi ga dekiru",
+   "english": "make a friend, make friends",
+   "chunk": "Making friends",
+   "recent": true
+  },
+  {
+   "id": "c-tomodachi-ni-naru",
+   "romaji": "tomodachi ni naru",
+   "english": "become friends (with someone)",
+   "chunk": "Making friends",
+   "recent": true
+  },
+  {
+   "id": "c-namae-o-oshieru",
+   "romaji": "namae o oshieru",
+   "english": "tell someone your name",
+   "chunk": "Making friends",
+   "recent": true
+  },
+  {
+   "id": "c-koe-o-kakeru",
+   "romaji": "koe o kakeru",
+   "english": "speak to, call out to; ask along",
+   "chunk": "Making friends",
+   "recent": true
+  },
+  {
+   "id": "c-deai-ga-aru",
+   "romaji": "deai ga aru",
+   "english": "meet someone new",
+   "chunk": "Making friends",
+   "recent": true
+  },
+  {
+   "id": "c-geemu-o-suru",
+   "romaji": "geemu o suru",
+   "english": "play games (video games, cards and the like)",
+   "chunk": "Play and lessons",
+   "recent": true
+  },
+  {
+   "id": "c-sakkaa-o-suru",
+   "romaji": "sakkaa o suru",
+   "english": "play soccer",
+   "chunk": "Play and lessons",
+   "recent": true
+  },
+  {
+   "id": "c-piano-o-hiku",
+   "romaji": "piano o hiku",
+   "english": "play the piano",
+   "chunk": "Play and lessons",
+   "recent": true
+  },
+  {
+   "id": "c-piano-o-narau",
+   "romaji": "piano o narau",
+   "english": "take piano lessons",
+   "chunk": "Play and lessons",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "kenta",
+   "satou"
+  ],
+  "format": "monologue"
+ }
+}

@@ -1,0 +1,349 @@
+{
+ "script": 24,
+ "of": 94,
+ "stage": 2,
+ "chunkId": "food-2",
+ "label": "Meals at home",
+ "topic": "Food & drink",
+ "rationale": "A meal at home from start to finish: cooking it, calling out that it's ready, eating it, and letting it go cold.",
+ "mixUps": "gohan means the meal here, not only rice: gohan tsukuru is cooking dinner and gohan dekita yo means it's ready. Hot food cooling off is sameru (samechau yo), not samuku naru, which is for weather and people.",
+ "targets": [
+  {
+   "id": "c-gohan-o-taberu",
+   "romaji": "gohan o taberu",
+   "polite": "gohan o tabemasu",
+   "english": "eat, have a meal",
+   "ja": "ご飯を食べる",
+   "kana": "ごはんをたべる",
+   "politeJa": "ご飯を食べます",
+   "noun": "gohan",
+   "particle": "o",
+   "verb": "taberu",
+   "verbJa": "食べる",
+   "verbSense": "eat",
+   "englishVerb": "eat",
+   "trap": "Learners who know gohan as 'rice' avoid it for a pasta or burger dinner, but it is the everyday word for any meal (it means rice only when set against pan or men); shokuji (o) suru is stiffer.",
+   "partners": [
+    "asagohan (breakfast)",
+    "ohiru (lunch)",
+    "yuuhan (dinner)",
+    "bangohan (dinner)"
+   ],
+   "flags": [],
+   "use": "Said about any meal, not just rice. gohan tabeta? (have you eaten?) is a real question between family, partners and close friends, not a greeting as in Korean or Chinese; answer un, tabeta, or mada (tabetenai) for 'not yet', because tabenakatta means you skipped the meal. Casual speech drops o; the meal is named only when it matters (asagohan, ohiru, bangohan).",
+   "notes": "meshi kuu (meshi kutta?) is the rough, mostly male version. Skipping a meal, by choice or habit, is nuku: asagohan nuita (I skipped breakfast).",
+   "example": {
+    "romaji": "gohan tabete kara iku ne.",
+    "ja": "ご飯食べてから行くね。",
+    "english": "I'll head over after I eat."
+   },
+   "examplePolite": {
+    "romaji": "gohan o tabete kara ikimasu ne.",
+    "ja": "ご飯を食べてから行きますね。",
+    "english": "I'll come over after I've eaten."
+   }
+  },
+  {
+   "id": "c-gohan-o-tsukuru",
+   "romaji": "gohan o tsukuru",
+   "polite": "gohan o tsukurimasu",
+   "english": "cook a meal, make dinner",
+   "ja": "ご飯を作る",
+   "kana": "ごはんをつくる",
+   "politeJa": "ご飯を作ります",
+   "noun": "gohan",
+   "particle": "o",
+   "verb": "tsukuru",
+   "verbJa": "作る",
+   "verbSense": "make; with food, prepare or cook",
+   "englishVerb": "cook",
+   "trap": null,
+   "partners": [
+    "bangohan (dinner)",
+    "obentou (packed lunch)",
+    "ryouri (a dish)",
+    "karee (curry)"
+   ],
+   "flags": [],
+   "use": "The everyday way to say who's cooking: kyou wa watashi ga gohan tsukuru, or gohan tsukutte kureta (they made me dinner). Casual speech drops o, and the meal is named only when it matters (bangohan, obentou). ryouri suru also works for tonight's cooking (kyou wa boku ga ryouri suru), but it leans toward cooking as an activity (ryouri suru no ga suki).",
+   "notes": "Cooking the rice itself is gohan o taku (in a rice cooker).",
+   "example": {
+    "romaji": "kyou wa watashi ga gohan tsukuru ne.",
+    "ja": "今日は私がご飯作るね。",
+    "english": "I'll make dinner tonight."
+   },
+   "examplePolite": {
+    "romaji": "kyou wa watashi ga gohan o tsukurimasu ne.",
+    "ja": "今日は私がご飯を作りますね。",
+    "english": "I'll make dinner tonight."
+   }
+  },
+  {
+   "id": "c-gohan-ga-dekiru",
+   "romaji": "gohan ga dekiru",
+   "polite": "gohan ga dekimasu",
+   "english": "the meal gets ready (dekita = it's ready)",
+   "ja": "ご飯ができる",
+   "kana": "ごはんができる",
+   "politeJa": "ご飯ができます",
+   "noun": "gohan",
+   "particle": "ga",
+   "verb": "dekiru",
+   "verbJa": "できる",
+   "verbSense": "come into being, get done; also 'can do' and 'be ready'",
+   "englishVerb": "be ready",
+   "trap": "English 'dinner's ready' is in the present, but the kitchen call says the meal has come into being: gohan dekita yo; plain gohan dekiru yo means it'll be ready soon. The other everyday call is gohan da yo! (food's on!). If you reach for junbi, it's gohan no junbi (ga) dekita, the same dekiru as junbi dekita? (are you ready?).",
+   "partners": [
+    "ryouri (a dish: ryouri dekita; ryouri dekiru? asks if you can cook)",
+    "obentou (packed lunch)",
+    "junbi (preparations: junbi dekita?)"
+   ],
+   "flags": [],
+   "use": "Called out from the kitchen: gohan dekita yo! (dinner's ready!), in the past tense and usually without ga. mou sugu dekiru yo (it's nearly ready) uses the non-past dekiru for what's coming.",
+   "notes": "gohan dekiteru kara (the food's made) means it's already waiting for you. gohan yo! is the motherly, feminine version of gohan da yo. The rice cooker finishing is gohan ga taketa.",
+   "example": {
+    "romaji": "gohan dekita yo! hayaku kite.",
+    "ja": "ご飯できたよ！早く来て。",
+    "english": "Dinner's ready! Come quick."
+   },
+   "examplePolite": {
+    "romaji": "gohan ga dekimashita yo. douzo, samenai uchi ni.",
+    "ja": "ご飯ができましたよ。どうぞ、冷めないうちに。",
+    "english": "Dinner's ready. Please, have it while it's hot."
+   }
+  },
+  {
+   "id": "c-gohan-ga-sameru",
+   "romaji": "gohan ga sameru",
+   "polite": "gohan ga samemasu",
+   "english": "the food gets cold",
+   "ja": "ご飯が冷める",
+   "kana": "ごはんがさめる",
+   "politeJa": "ご飯が冷めます",
+   "noun": "gohan",
+   "particle": "ga",
+   "verb": "sameru",
+   "verbJa": "冷める",
+   "verbSense": "lose heat and cool down (food, drinks, bath water)",
+   "englishVerb": "get cold",
+   "trap": "Not samuku naru: samui is for weather and how you feel, and hot food or drink cooling off is sameru. tsumetaku naru is for something that has gone fully cold.",
+   "partners": [
+    "koohii (coffee)",
+    "ocha (tea)",
+    "ryouri (the food, a dish)",
+    "ofuro (the bath)"
+   ],
+   "flags": [],
+   "use": "Said to get people to the table (hayaku, samechau yo) or about a drink left too long (koohii sameta). Hosts say samenai uchi ni douzo (eat it while it's hot).",
+   "notes": "samasu (let it cool) is the transitive partner. The sameru of me ga sameru (wake up) is a different word.",
+   "example": {
+    "romaji": "hayaku tabeyou, gohan samechau yo.",
+    "ja": "早く食べよう、ご飯冷めちゃうよ。",
+    "english": "Come on, let's eat, the food'll get cold."
+   },
+   "examplePolite": {
+    "romaji": "hayaku tabemashou, gohan ga samechaimasu yo.",
+    "ja": "早く食べましょう、ご飯が冷めちゃいますよ。",
+    "english": "Come on, let's eat, the food'll get cold."
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-tomodachi-ga-dekiru",
+   "romaji": "tomodachi ga dekiru",
+   "english": "make a friend, make friends",
+   "chunk": "Making friends",
+   "recent": true
+  },
+  {
+   "id": "c-tomodachi-ni-naru",
+   "romaji": "tomodachi ni naru",
+   "english": "become friends (with someone)",
+   "chunk": "Making friends",
+   "recent": true
+  },
+  {
+   "id": "c-namae-o-oshieru",
+   "romaji": "namae o oshieru",
+   "english": "tell someone your name",
+   "chunk": "Making friends",
+   "recent": true
+  },
+  {
+   "id": "c-koe-o-kakeru",
+   "romaji": "koe o kakeru",
+   "english": "speak to, call out to; ask along",
+   "chunk": "Making friends",
+   "recent": true
+  },
+  {
+   "id": "c-deai-ga-aru",
+   "romaji": "deai ga aru",
+   "english": "meet someone new",
+   "chunk": "Making friends",
+   "recent": true
+  },
+  {
+   "id": "c-geemu-o-suru",
+   "romaji": "geemu o suru",
+   "english": "play games (video games, cards and the like)",
+   "chunk": "Play and lessons",
+   "recent": true
+  },
+  {
+   "id": "c-sakkaa-o-suru",
+   "romaji": "sakkaa o suru",
+   "english": "play soccer",
+   "chunk": "Play and lessons",
+   "recent": true
+  },
+  {
+   "id": "c-piano-o-hiku",
+   "romaji": "piano o hiku",
+   "english": "play the piano",
+   "chunk": "Play and lessons",
+   "recent": true
+  },
+  {
+   "id": "c-piano-o-narau",
+   "romaji": "piano o narau",
+   "english": "take piano lessons",
+   "chunk": "Play and lessons",
+   "recent": true
+  },
+  {
+   "id": "c-guai-ga-warui",
+   "romaji": "guai ga warui",
+   "english": "feel unwell",
+   "chunk": "Feeling unwell",
+   "recent": true
+  },
+  {
+   "id": "c-taichou-ga-warui",
+   "romaji": "taichou ga warui",
+   "english": "not feel well, be under the weather (the safe phrase at work)",
+   "chunk": "Feeling unwell",
+   "recent": true
+  },
+  {
+   "id": "c-choushi-ga-warui",
+   "romaji": "choushi ga warui",
+   "english": "feel off; act up (devices)",
+   "chunk": "Feeling unwell",
+   "recent": true
+  },
+  {
+   "id": "c-choushi-ga-ii",
+   "romaji": "choushi ga ii",
+   "english": "be in good shape, going well",
+   "chunk": "Feeling unwell",
+   "recent": true
+  },
+  {
+   "id": "c-kibun-ga-warui",
+   "romaji": "kibun ga warui",
+   "english": "feel sick (queasy or faint); feel put off",
+   "chunk": "Feeling unwell",
+   "recent": true
+  },
+  {
+   "id": "c-jugyou-ga-aru",
+   "romaji": "jugyou ga aru",
+   "english": "have class",
+   "chunk": "What's on",
+   "recent": true
+  },
+  {
+   "id": "c-kaigi-ga-aru",
+   "romaji": "kaigi ga aru",
+   "english": "have a meeting",
+   "chunk": "What's on",
+   "recent": true
+  },
+  {
+   "id": "c-shiken-ga-aru",
+   "romaji": "shiken ga aru",
+   "english": "have an exam",
+   "chunk": "What's on",
+   "recent": true
+  },
+  {
+   "id": "c-shigoto-ga-hairu",
+   "romaji": "shigoto ga hairu",
+   "english": "work comes up",
+   "chunk": "What's on",
+   "recent": true
+  },
+  {
+   "id": "c-enki-ni-naru",
+   "romaji": "enki ni naru",
+   "english": "be postponed",
+   "chunk": "What's on",
+   "recent": true
+  },
+  {
+   "id": "c-un-ga-ii",
+   "romaji": "un ga ii",
+   "english": "be lucky",
+   "chunk": "Luck and help",
+   "recent": true
+  },
+  {
+   "id": "c-un-ga-warui",
+   "romaji": "un ga warui",
+   "english": "be unlucky",
+   "chunk": "Luck and help",
+   "recent": true
+  },
+  {
+   "id": "c-yaku-ni-tatsu",
+   "romaji": "yaku ni tatsu",
+   "english": "be useful, helpful",
+   "chunk": "Luck and help",
+   "recent": true
+  },
+  {
+   "id": "c-tame-ni-naru",
+   "romaji": "tame ni naru",
+   "english": "be worthwhile, do you good",
+   "chunk": "Luck and help",
+   "recent": true
+  },
+  {
+   "id": "c-mizu-o-nomu",
+   "romaji": "mizu o nomu",
+   "english": "drink water",
+   "chunk": "Drinks",
+   "recent": true
+  },
+  {
+   "id": "c-koohii-o-nomu",
+   "romaji": "koohii o nomu",
+   "english": "drink coffee",
+   "chunk": "Drinks",
+   "recent": true
+  },
+  {
+   "id": "c-osake-o-nomu",
+   "romaji": "osake o nomu",
+   "english": "drink (alcohol)",
+   "chunk": "Drinks",
+   "recent": true
+  },
+  {
+   "id": "c-ocha-o-nomu",
+   "romaji": "ocha o nomu",
+   "english": "have tea, drink tea",
+   "chunk": "Drinks",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "mai",
+   "tanaka"
+  ],
+  "format": "dialogue"
+ }
+}

@@ -1,0 +1,355 @@
+{
+ "script": 33,
+ "of": 94,
+ "stage": 2,
+ "chunkId": "media-2",
+ "label": "Photos and your phone",
+ "topic": "Phone, photos & screens",
+ "rationale": "The phone as camera and album: taking photos, looking at them, sending them, and idle time on the phone in between.",
+ "mixUps": "Three verbs on shashin: toru (take), miru (look at), okuru (send). Idle phone use is ijiru, not asobu or tsukau, and shashin o okuru shares okuru with meeru o okuru.",
+ "targets": [
+  {
+   "id": "c-shashin-o-toru",
+   "romaji": "shashin o toru",
+   "polite": "shashin o torimasu",
+   "english": "take a photo",
+   "ja": "写真を撮る",
+   "kana": "しゃしんをとる",
+   "politeJa": "写真を撮ります",
+   "noun": "shashin",
+   "particle": "o",
+   "verb": "toru",
+   "verbJa": "撮る",
+   "verbSense": "take (a photo or video)",
+   "englishVerb": "take",
+   "trap": null,
+   "partners": [
+    "douga (video)",
+    "purikura (photo-booth stickers)",
+    "rentogen (X-ray)"
+   ],
+   "flags": [],
+   "use": "Said whenever photos come up, mostly as requests: shashin totte (take a photo of me or us), and shashin totte moraemasu ka? to a stranger. Casual speech drops o.",
+   "notes": "The one English 'take' that is toru. Take medicine is kusuri o nomu, a shower shawaa o abiru, a train densha ni noru, time jikan ga kakaru. toreru = come out in the photo: yoku toreta (it came out well).",
+   "example": {
+    "romaji": "issho ni shashin torou yo.",
+    "ja": "一緒に写真撮ろうよ。",
+    "english": "Let's take a picture together."
+   },
+   "examplePolite": {
+    "romaji": "issho ni shashin o torimashou.",
+    "ja": "一緒に写真を撮りましょう。",
+    "english": "Let's take a picture together."
+   }
+  },
+  {
+   "id": "c-shashin-o-miru",
+   "romaji": "shashin o miru",
+   "polite": "shashin o mimasu",
+   "english": "look at photos",
+   "ja": "写真を見る",
+   "kana": "しゃしんをみる",
+   "politeJa": "写真を見ます",
+   "noun": "shashin",
+   "particle": "o",
+   "verb": "miru",
+   "verbJa": "見る",
+   "verbSense": "see, look at, watch",
+   "englishVerb": "look at",
+   "trap": null,
+   "partners": [
+    "douga (video)",
+    "sukusho (screenshot)",
+    "chizu (map)"
+   ],
+   "flags": [],
+   "use": "Said when people share photos, mostly as kono shashin mite (look at this photo) while holding out a phone, or shashin mita? (did you see the photo I sent?). Casual speech drops o. Something you've only seen in pictures is shashin de mita.",
+   "notes": "Asking to see someone's photos uses miseru: shashin misete (show me).",
+   "example": {
+    "romaji": "chotto kono shashin mite.",
+    "ja": "ちょっとこの写真見て。",
+    "english": "Take a look at this photo."
+   },
+   "examplePolite": {
+    "romaji": "chotto kono shashin o mite kudasai.",
+    "ja": "ちょっとこの写真を見てください。",
+    "english": "Please take a look at this photo."
+   }
+  },
+  {
+   "id": "c-sumaho-o-ijiru",
+   "romaji": "sumaho o ijiru",
+   "polite": "sumaho o ijirimasu",
+   "english": "be on your phone",
+   "ja": "スマホをいじる",
+   "kana": "スマホをいじる",
+   "politeJa": "スマホをいじります",
+   "noun": "sumaho",
+   "particle": "o",
+   "verb": "ijiru",
+   "verbJa": "いじる",
+   "verbSense": "fiddle with, tinker with",
+   "englishVerb": "use",
+   "trap": "Not tsukau or sumaho o asobu: idly being on your phone is sumaho (o) ijiru, and zutto sumaho miteru is just as common. tsukau is understood but sounds like using it for a task; sumaho de asobu is fine but means playing games on it.",
+   "partners": [
+    "keitai (cell phone)",
+    "pasokon (computer)",
+    "kami (hair)",
+    "settei (settings)"
+   ],
+   "flags": [],
+   "use": "Said about idly using a phone, usually in the -teru form: zutto sumaho ijitteru (always on their phone). About someone else it often carries a mild complaint; about yourself it admits a habit. Casual speech drops o.",
+   "notes": "With a person as the object, ijiru means tease (slangy): ijiranaide yo (stop teasing me).",
+   "example": {
+    "romaji": "mata sumaho ijitteru.",
+    "ja": "またスマホいじってる。",
+    "english": "You're on your phone again."
+   },
+   "examplePolite": {
+    "romaji": "neru mae ni, tsui sumaho o ijitchaimasu.",
+    "ja": "寝る前に、ついスマホをいじっちゃいます。",
+    "english": "I always end up on my phone before bed."
+   }
+  },
+  {
+   "id": "c-shashin-o-okuru",
+   "romaji": "shashin o okuru",
+   "polite": "shashin o okurimasu",
+   "english": "send a photo",
+   "ja": "写真を送る",
+   "kana": "しゃしんをおくる",
+   "politeJa": "写真を送ります",
+   "noun": "shashin",
+   "particle": "o",
+   "verb": "okuru",
+   "verbJa": "送る",
+   "verbSense": "send; see someone off",
+   "englishVerb": "send",
+   "trap": null,
+   "partners": [
+    "douga (video)",
+    "sukusho (screenshot)",
+    "ichi jouhou (location)",
+    "sutanpu (LINE sticker)"
+   ],
+   "flags": [],
+   "use": "Said after outings and when sharing on LINE, mostly as a promise or a request: ato de shashin okuru ne (I'll send you the photos later), shashin okutte. The person takes ni and the app takes de. Casual speech drops o.",
+   "notes": "Photos arriving take kuru, like meeru ga kuru: shashin kita yo (got the photos).",
+   "example": {
+    "romaji": "kinou no shashin, rain de okutte.",
+    "ja": "昨日の写真、LINEで送って。",
+    "english": "Send me yesterday's photos on LINE."
+   },
+   "examplePolite": {
+    "romaji": "kinou no shashin, rain de okutte kudasai.",
+    "ja": "昨日の写真、LINEで送ってください。",
+    "english": "Please send me yesterday's photos on LINE."
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-terebi-o-miru",
+   "romaji": "terebi o miru",
+   "english": "watch TV",
+   "chunk": "TV and music",
+   "recent": true
+  },
+  {
+   "id": "c-ongaku-o-kiku",
+   "romaji": "ongaku o kiku",
+   "english": "listen to music",
+   "chunk": "TV and music",
+   "recent": true
+  },
+  {
+   "id": "c-nyuusu-o-miru",
+   "romaji": "nyuusu o miru",
+   "english": "watch or check the news",
+   "chunk": "TV and music",
+   "recent": true
+  },
+  {
+   "id": "c-ongaku-o-kakeru",
+   "romaji": "ongaku o kakeru",
+   "english": "put on music",
+   "chunk": "TV and music",
+   "recent": true
+  },
+  {
+   "id": "c-channeru-o-kaeru",
+   "romaji": "channeru o kaeru",
+   "english": "change the channel",
+   "chunk": "TV and music",
+   "recent": true
+  },
+  {
+   "id": "c-doa-o-akeru",
+   "romaji": "doa o akeru",
+   "english": "open the door",
+   "chunk": "Doors and locks",
+   "recent": true
+  },
+  {
+   "id": "c-doa-o-shimeru",
+   "romaji": "doa o shimeru",
+   "english": "close the door",
+   "chunk": "Doors and locks",
+   "recent": true
+  },
+  {
+   "id": "c-doa-ga-aku",
+   "romaji": "doa ga aku",
+   "english": "the door opens (aiteru = is open)",
+   "chunk": "Doors and locks",
+   "recent": true
+  },
+  {
+   "id": "c-doa-ga-shimaru",
+   "romaji": "doa ga shimaru",
+   "english": "the door closes (shimatteru = is shut)",
+   "chunk": "Doors and locks",
+   "recent": true
+  },
+  {
+   "id": "c-kagi-o-kakeru",
+   "romaji": "kagi o kakeru",
+   "english": "lock (a door, bike, locker)",
+   "chunk": "Doors and locks",
+   "recent": true
+  },
+  {
+   "id": "c-kagi-ga-kakaru",
+   "romaji": "kagi ga kakaru",
+   "english": "(a door) locks, gets locked (kakatteru = is locked)",
+   "chunk": "Doors and locks",
+   "recent": true
+  },
+  {
+   "id": "c-nioi-ga-suru",
+   "romaji": "nioi ga suru",
+   "english": "smell something, there's a smell",
+   "chunk": "Noticing",
+   "recent": true
+  },
+  {
+   "id": "c-oto-ga-suru",
+   "romaji": "oto ga suru",
+   "english": "hear a noise, there's a sound",
+   "chunk": "Noticing",
+   "recent": true
+  },
+  {
+   "id": "c-koe-ga-kikoeru",
+   "romaji": "koe ga kikoeru",
+   "english": "hear a voice; (on a call) can hear someone",
+   "chunk": "Noticing",
+   "recent": true
+  },
+  {
+   "id": "c-ki-ga-tsuku",
+   "romaji": "ki ga tsuku",
+   "english": "notice, realise",
+   "chunk": "Noticing",
+   "recent": true
+  },
+  {
+   "id": "c-kodomo-ga-iru",
+   "romaji": "kodomo ga iru",
+   "english": "have children, have kids",
+   "chunk": "Kids and growing up",
+   "recent": true
+  },
+  {
+   "id": "c-kodomo-ga-umareru",
+   "romaji": "kodomo ga umareru",
+   "english": "have a baby",
+   "chunk": "Kids and growing up",
+   "recent": true
+  },
+  {
+   "id": "c-otona-ni-naru",
+   "romaji": "otona ni naru",
+   "english": "grow up, become an adult",
+   "chunk": "Kids and growing up",
+   "recent": true
+  },
+  {
+   "id": "c-kodomo-o-sodateru",
+   "romaji": "kodomo o sodateru",
+   "english": "raise children, bring up kids",
+   "chunk": "Kids and growing up",
+   "recent": true
+  },
+  {
+   "id": "c-mendou-o-miru",
+   "romaji": "mendou o miru",
+   "english": "look after, take care of",
+   "chunk": "Kids and growing up",
+   "recent": true
+  },
+  {
+   "id": "c-netsu-ga-aru",
+   "romaji": "netsu ga aru",
+   "english": "have a fever",
+   "chunk": "Cold symptoms",
+   "recent": true
+  },
+  {
+   "id": "c-netsu-ga-deru",
+   "romaji": "netsu ga deru",
+   "english": "get a fever",
+   "chunk": "Cold symptoms",
+   "recent": true
+  },
+  {
+   "id": "c-seki-ga-deru",
+   "romaji": "seki ga deru",
+   "english": "have a cough",
+   "chunk": "Cold symptoms",
+   "recent": true
+  },
+  {
+   "id": "c-hanamizu-ga-deru",
+   "romaji": "hanamizu ga deru",
+   "english": "have a runny nose",
+   "chunk": "Cold symptoms",
+   "recent": true
+  },
+  {
+   "id": "c-karada-ga-darui",
+   "romaji": "karada ga darui",
+   "english": "feel heavy and sluggish",
+   "chunk": "Cold symptoms",
+   "recent": true
+  },
+  {
+   "id": "c-mado-o-akeru",
+   "romaji": "mado o akeru",
+   "english": "open the window",
+   "chunk": "Windows and curtains",
+   "recent": true
+  },
+  {
+   "id": "c-mado-o-shimeru",
+   "romaji": "mado o shimeru",
+   "english": "close the window",
+   "chunk": "Windows and curtains",
+   "recent": true
+  },
+  {
+   "id": "c-kaaten-o-shimeru",
+   "romaji": "kaaten o shimeru",
+   "english": "close the curtains",
+   "chunk": "Windows and curtains",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "yuki",
+   "mai"
+  ],
+  "format": "dialogue"
+ }
+}

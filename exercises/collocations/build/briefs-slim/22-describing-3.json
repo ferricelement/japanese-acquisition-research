@@ -1,0 +1,346 @@
+{
+ "script": 22,
+ "of": 94,
+ "stage": 1,
+ "chunkId": "describing-3",
+ "label": "Luck and help",
+ "topic": "Describing people",
+ "rationale": "Quick verdicts on how something went: lucky, unlucky, that helped, that did me good.",
+ "mixUps": "un ga ii and un ga warui are one pair, so drill them in one frame (un ii ne! / un warui na). yaku ni tatsu is practical help with a task (not benri, handy); tame ni naru is something that does you good over time, like a talk, a book or an experience.",
+ "targets": [
+  {
+   "id": "c-un-ga-ii",
+   "romaji": "un ga ii",
+   "polite": "un ga ii desu",
+   "english": "be lucky",
+   "ja": "運がいい",
+   "kana": "うんがいい",
+   "politeJa": "運がいいです",
+   "noun": "un",
+   "particle": "ga",
+   "verb": "ii",
+   "verbJa": "いい",
+   "verbSense": "ii: good (past yokatta)",
+   "englishVerb": "lucky",
+   "trap": "English 'lucky' is an adjective on the person. Japanese usually makes luck the subject, un ga ii (your luck is good), though rakkii! and tsuiteru are just as natural in casual speech. 'Good luck!' before a test or game is ganbatte, not anything with un.",
+   "partners": [
+    "taimingu (taimingu ga ii: good timing)",
+    "engi (engi ga ii: a good omen)"
+   ],
+   "flags": [],
+   "use": "Said when luck goes someone's way: un ii ne! (lucky you), with ga dropped. The past un yokatta (that was lucky) is just as common. Ii becomes yo- in its other forms, so it's never un iikatta.",
+   "notes": "Un ii ne (lucky you) sounds the same as un, ii ne (yeah, nice), so context decides. Kouun (幸運) is the written word.",
+   "example": {
+    "romaji": "ichiban mae no seki? un ii ne!",
+    "ja": "一番前の席？運いいね！",
+    "english": "Front-row seats? Lucky you!"
+   },
+   "examplePolite": {
+    "romaji": "ichiban mae no seki desu ka? un ga ii desu ne!",
+    "ja": "一番前の席ですか？運がいいですね！",
+    "english": "Front-row seats? You're lucky!"
+   }
+  },
+  {
+   "id": "c-un-ga-warui",
+   "romaji": "un ga warui",
+   "polite": "un ga warui desu",
+   "english": "be unlucky",
+   "ja": "運が悪い",
+   "kana": "うんがわるい",
+   "politeJa": "運が悪いです",
+   "noun": "un",
+   "particle": "ga",
+   "verb": "warui",
+   "verbJa": "悪い",
+   "verbSense": "warui: bad",
+   "englishVerb": "unlucky",
+   "trap": "As with un ga ii, luck is the subject: un ga warui (my luck is bad). For your own bad day, tsuitenai is the more natural casual choice (kyou tsuitenai naa); un warukatta ne is the usual consolation.",
+   "partners": [
+    "taimingu (taimingu ga warui: bad timing)",
+    "engi (engi ga warui: a bad omen)"
+   ],
+   "flags": [],
+   "use": "Said about your own bad luck (kyou un warui naa) or to console someone: un warukatta ne (that was just bad luck). Casual speech drops ga.",
+   "notes": "Fuun (不運) is the written word, and anrakkii is rare.",
+   "example": {
+    "romaji": "kyou, honto un warui naa.",
+    "ja": "今日、ほんと運悪いなあ。",
+    "english": "I'm having such bad luck today."
+   },
+   "examplePolite": {
+    "romaji": "sore wa un ga warukatta desu ne.",
+    "ja": "それは運が悪かったですね。",
+    "english": "That was just bad luck."
+   }
+  },
+  {
+   "id": "c-yaku-ni-tatsu",
+   "romaji": "yaku ni tatsu",
+   "polite": "yaku ni tachimasu",
+   "english": "be useful, helpful",
+   "ja": "役に立つ",
+   "kana": "やくにたつ",
+   "politeJa": "役に立ちます",
+   "noun": "yaku",
+   "particle": "ni",
+   "verb": "tatsu",
+   "verbJa": "立つ",
+   "verbSense": "stand (here: serve a purpose)",
+   "englishVerb": "useful",
+   "trap": "'Useful' leads to benri, which means handy or convenient to use. yaku ni tatsu means it actually helped you with something, and it's the one for advice and information: advice that helped is yaku ni tatta, not benri datta.",
+   "partners": [],
+   "flags": [],
+   "use": "Said about advice, information, tools or people being of real use. You hear the past yaku ni tatta (that helped) most, then yaku ni tatenakute gomen (sorry I couldn't help) and the negative yaku ni tatanai (no use; harsh if said of a person).",
+   "notes": "tasukatta (you saved me) is the warmer thanks when someone helps you. To offer help: nanika yaku ni tateru koto attara itte ne. A talk, book or experience that does you good in the longer run is tame ni naru (tame ni naru hanashi), and to thank a senior for a talk, say benkyou ni narimashita.",
+   "example": {
+    "romaji": "kono mae oshiete kureta apuri, sugoku yaku ni tatta yo.",
+    "ja": "この前教えてくれたアプリ、すごく役に立ったよ。",
+    "english": "That app you told me about the other day was really useful."
+   },
+   "examplePolite": {
+    "romaji": "kono mae oshiete kureta apuri, hontou ni yaku ni tachimashita.",
+    "ja": "この前教えてくれたアプリ、本当に役に立ちました。",
+    "english": "The app you told me about the other day was really useful."
+   }
+  },
+  {
+   "id": "c-tame-ni-naru",
+   "romaji": "tame ni naru",
+   "polite": "tame ni narimasu",
+   "english": "be worthwhile, do you good",
+   "ja": "ためになる",
+   "kana": "ためになる",
+   "politeJa": "ためになります",
+   "noun": "tame",
+   "particle": "ni",
+   "verb": "naru",
+   "verbJa": "なる",
+   "verbSense": "naru: become; here, turn out to be of benefit",
+   "englishVerb": "useful",
+   "trap": null,
+   "partners": [
+    "sankou (sankou ni naru: useful as a reference)",
+    "kusuri (ii kusuri ni naru: a setback that teaches you a lesson)"
+   ],
+   "flags": [],
+   "use": "Said about a book, show, talk or piece of advice you come away from knowing more: ano bangumi, tame ni naru yo. Ni is kept, and before a noun it's tame ni naru hanashi (a talk worth hearing). With a person, X no tame ni naranai means it does X no good.",
+   "notes": "Not the grammar -tame ni (in order to): here the phrase ends in naru, and tame means benefit. benkyou ni narimashita is the thank-you said on the spot; tame ni naru judges a book, show or advice as good for you; yaku ni tatsu says it was of practical use (a tool, a tip that helped).",
+   "example": {
+    "romaji": "ano hon, honto ni tame ni naru yo.",
+    "ja": "あの本、ほんとにためになるよ。",
+    "english": "That book's really worth reading."
+   },
+   "examplePolite": {
+    "romaji": "ano hon wa hontou ni tame ni narimasu yo.",
+    "ja": "あの本は本当にためになりますよ。",
+    "english": "That book is really worthwhile."
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-shitsumon-ga-aru",
+   "romaji": "shitsumon ga aru",
+   "english": "have a question",
+   "chunk": "Questions and learning",
+   "recent": true
+  },
+  {
+   "id": "c-shitsumon-ni-kotaeru",
+   "romaji": "shitsumon ni kotaeru",
+   "english": "answer a question",
+   "chunk": "Questions and learning",
+   "recent": true
+  },
+  {
+   "id": "c-eigo-o-hanasu",
+   "romaji": "eigo o hanasu",
+   "english": "speak English",
+   "chunk": "Questions and learning",
+   "recent": true
+  },
+  {
+   "id": "c-benkyou-ni-naru",
+   "romaji": "benkyou ni naru",
+   "english": "be instructive; learn a lot",
+   "chunk": "Questions and learning",
+   "recent": true
+  },
+  {
+   "id": "c-atama-ga-itai",
+   "romaji": "atama ga itai",
+   "english": "have a headache",
+   "chunk": "Aches and pains",
+   "recent": true
+  },
+  {
+   "id": "c-onaka-ga-itai",
+   "romaji": "onaka ga itai",
+   "english": "have a stomachache",
+   "chunk": "Aches and pains",
+   "recent": true
+  },
+  {
+   "id": "c-nodo-ga-itai",
+   "romaji": "nodo ga itai",
+   "english": "have a sore throat",
+   "chunk": "Aches and pains",
+   "recent": true
+  },
+  {
+   "id": "c-koshi-ga-itai",
+   "romaji": "koshi ga itai",
+   "english": "have lower back pain",
+   "chunk": "Aches and pains",
+   "recent": true
+  },
+  {
+   "id": "c-kata-ga-koru",
+   "romaji": "kata ga koru",
+   "english": "have stiff shoulders",
+   "chunk": "Aches and pains",
+   "recent": true
+  },
+  {
+   "id": "c-tomodachi-ga-dekiru",
+   "romaji": "tomodachi ga dekiru",
+   "english": "make a friend, make friends",
+   "chunk": "Making friends",
+   "recent": true
+  },
+  {
+   "id": "c-tomodachi-ni-naru",
+   "romaji": "tomodachi ni naru",
+   "english": "become friends (with someone)",
+   "chunk": "Making friends",
+   "recent": true
+  },
+  {
+   "id": "c-namae-o-oshieru",
+   "romaji": "namae o oshieru",
+   "english": "tell someone your name",
+   "chunk": "Making friends",
+   "recent": true
+  },
+  {
+   "id": "c-koe-o-kakeru",
+   "romaji": "koe o kakeru",
+   "english": "speak to, call out to; ask along",
+   "chunk": "Making friends",
+   "recent": true
+  },
+  {
+   "id": "c-deai-ga-aru",
+   "romaji": "deai ga aru",
+   "english": "meet someone new",
+   "chunk": "Making friends",
+   "recent": true
+  },
+  {
+   "id": "c-geemu-o-suru",
+   "romaji": "geemu o suru",
+   "english": "play games (video games, cards and the like)",
+   "chunk": "Play and lessons",
+   "recent": true
+  },
+  {
+   "id": "c-sakkaa-o-suru",
+   "romaji": "sakkaa o suru",
+   "english": "play soccer",
+   "chunk": "Play and lessons",
+   "recent": true
+  },
+  {
+   "id": "c-piano-o-hiku",
+   "romaji": "piano o hiku",
+   "english": "play the piano",
+   "chunk": "Play and lessons",
+   "recent": true
+  },
+  {
+   "id": "c-piano-o-narau",
+   "romaji": "piano o narau",
+   "english": "take piano lessons",
+   "chunk": "Play and lessons",
+   "recent": true
+  },
+  {
+   "id": "c-guai-ga-warui",
+   "romaji": "guai ga warui",
+   "english": "feel unwell",
+   "chunk": "Feeling unwell",
+   "recent": true
+  },
+  {
+   "id": "c-taichou-ga-warui",
+   "romaji": "taichou ga warui",
+   "english": "not feel well, be under the weather (the safe phrase at work)",
+   "chunk": "Feeling unwell",
+   "recent": true
+  },
+  {
+   "id": "c-choushi-ga-warui",
+   "romaji": "choushi ga warui",
+   "english": "feel off; act up (devices)",
+   "chunk": "Feeling unwell",
+   "recent": true
+  },
+  {
+   "id": "c-choushi-ga-ii",
+   "romaji": "choushi ga ii",
+   "english": "be in good shape, going well",
+   "chunk": "Feeling unwell",
+   "recent": true
+  },
+  {
+   "id": "c-kibun-ga-warui",
+   "romaji": "kibun ga warui",
+   "english": "feel sick (queasy or faint); feel put off",
+   "chunk": "Feeling unwell",
+   "recent": true
+  },
+  {
+   "id": "c-jugyou-ga-aru",
+   "romaji": "jugyou ga aru",
+   "english": "have class",
+   "chunk": "What's on",
+   "recent": true
+  },
+  {
+   "id": "c-kaigi-ga-aru",
+   "romaji": "kaigi ga aru",
+   "english": "have a meeting",
+   "chunk": "What's on",
+   "recent": true
+  },
+  {
+   "id": "c-shiken-ga-aru",
+   "romaji": "shiken ga aru",
+   "english": "have an exam",
+   "chunk": "What's on",
+   "recent": true
+  },
+  {
+   "id": "c-shigoto-ga-hairu",
+   "romaji": "shigoto ga hairu",
+   "english": "work comes up",
+   "chunk": "What's on",
+   "recent": true
+  },
+  {
+   "id": "c-enki-ni-naru",
+   "romaji": "enki ni naru",
+   "english": "be postponed",
+   "chunk": "What's on",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "kenta",
+   "sora"
+  ],
+  "format": "dialogue"
+ }
+}

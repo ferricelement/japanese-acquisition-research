@@ -1,0 +1,290 @@
+{
+ "script": 92,
+ "of": 94,
+ "stage": 4,
+ "chunkId": "hobbies-6",
+ "label": "Seasonal outings",
+ "topic": "Hobbies, sport & games",
+ "rationale": "The two big outings of the Japanese year: cherry-blossom viewing in spring, and the first shrine visit at New Year, where you draw a fortune slip.",
+ "mixUps": "In speech hanami is nearly always ohanami. omikuji o hiku uses hiku 'pull, draw', as in kuji o hiku (draw lots), not toru. It sounds the same as piano o hiku but is a different verb.",
+ "targets": [
+  {
+   "id": "c-hanami-ni-iku",
+   "romaji": "ohanami ni iku",
+   "polite": "ohanami ni ikimasu",
+   "english": "go cherry-blossom viewing",
+   "ja": "お花見に行く",
+   "kana": "おはなみにいく",
+   "politeJa": "お花見に行きます",
+   "noun": "ohanami",
+   "particle": "ni",
+   "verb": "iku",
+   "verbJa": "行く",
+   "verbSense": "go (hanami = hana 'flowers' + mi 'viewing', here with polite o-)",
+   "englishVerb": "go",
+   "trap": null,
+   "partners": [
+    "omatsuri (festival)",
+    "hanabi taikai (fireworks show)",
+    "momijigari (autumn-leaf viewing)"
+   ],
+   "flags": [],
+   "use": "The spring outing everyone talks about: ohanami ikou, ohanami itta? Casual speech drops ni. It is mostly a picnic under the cherry trees with food and drinks, not just looking. Plain hanami is heard mostly in compounds like hanami kyaku (blossom-viewing crowds).",
+   "notes": "The blossoms coming out is sakura ga saku, and full bloom is mankai.",
+   "example": {
+    "romaji": "raishuu, minna de ohanami ikou yo.",
+    "ja": "来週、みんなでお花見行こうよ。",
+    "english": "Let's all go see the cherry blossoms next week."
+   },
+   "examplePolite": {
+    "romaji": "raishuu, minna de ohanami ni ikimashou.",
+    "ja": "来週、みんなでお花見に行きましょう。",
+    "english": "Let's all go cherry-blossom viewing next week."
+   }
+  },
+  {
+   "id": "c-hatsumoude-ni-iku",
+   "romaji": "hatsumoude ni iku",
+   "polite": "hatsumoude ni ikimasu",
+   "english": "make the year's first shrine visit",
+   "ja": "初詣に行く",
+   "kana": "はつもうでにいく",
+   "politeJa": "初詣に行きます",
+   "noun": "hatsumoude",
+   "particle": "ni",
+   "verb": "iku",
+   "verbJa": "行く",
+   "verbSense": "go (hatsumoude = hatsu 'first' + moude 'visit to a shrine')",
+   "englishVerb": "visit",
+   "trap": "'Visit' pulls toward houmon suru, which is a formal call on a person or company. Visiting a shrine is just going: hatsumoude ni iku, or on other days jinja ni omairi ni iku. hatsumoude suru (hatsumoude shita?) is also fine.",
+   "partners": [
+    "omairi (shrine or temple visit)",
+    "ohakamairi (family grave visit)"
+   ],
+   "flags": [],
+   "use": "Asked by everyone in early January: hatsumoude itta? It means the year's first visit to a shrine or temple, usually in the first few days of the year. Casual speech drops ni.",
+   "notes": "At the shrine most people also draw a fortune: omikuji o hiku.",
+   "example": {
+    "romaji": "hatsumoude, mou itta?",
+    "ja": "初詣、もう行った？",
+    "english": "Been to the shrine for New Year yet?"
+   },
+   "examplePolite": {
+    "romaji": "hatsumoude ni wa mou ikimashita ka?",
+    "ja": "初詣にはもう行きましたか？",
+    "english": "Have you made your New Year shrine visit yet?"
+   }
+  },
+  {
+   "id": "c-omikuji-o-hiku",
+   "romaji": "omikuji o hiku",
+   "polite": "omikuji o hikimasu",
+   "english": "draw a fortune slip",
+   "ja": "おみくじを引く",
+   "kana": "おみくじをひく",
+   "politeJa": "おみくじを引きます",
+   "noun": "omikuji",
+   "particle": "o",
+   "verb": "hiku",
+   "verbJa": "引く",
+   "verbSense": "pull; also draw lots, a card or a raffle",
+   "englishVerb": "draw",
+   "trap": "English 'draw' leads to kaku, which is drawing a picture. Drawing lots, a card or a fortune is hiku (pull): omikuji o hiku, kuji o hiku. It is the hiku of kaze o hiku, not the one in piano o hiku.",
+   "partners": [
+    "kuji (lots, raffle)",
+    "kaado (card)",
+    "gacha (in-game lottery)"
+   ],
+   "flags": [],
+   "use": "Said at shrine and temple visits, especially at New Year: omikuji hiita? and then what you got (daikichi datta!). Casual speech drops o.",
+   "notes": "Fortunes run from daikichi (great luck) down to kyou or even daikyou (bad, very bad luck), and a bad one is tied to a rack at the shrine and left behind.",
+   "example": {
+    "romaji": "omikuji hiitara, daikichi datta!",
+    "ja": "おみくじ引いたら、大吉だった！",
+    "english": "I drew a fortune slip and got great luck!"
+   },
+   "examplePolite": {
+    "romaji": "omikuji o hiitara, daikichi deshita!",
+    "ja": "おみくじを引いたら、大吉でした！",
+    "english": "I drew a fortune slip and got great luck!"
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-hana-ga-saku",
+   "romaji": "hana ga saku",
+   "english": "flowers bloom, come out",
+   "chunk": "Seasons",
+   "recent": true
+  },
+  {
+   "id": "c-atsusa-ni-yowai",
+   "romaji": "atsusa ni yowai",
+   "english": "can't take the heat",
+   "chunk": "Seasons",
+   "recent": true
+  },
+  {
+   "id": "c-semi-ga-naku",
+   "romaji": "semi ga naku",
+   "english": "cicadas sing, buzz",
+   "chunk": "Seasons",
+   "recent": true
+  },
+  {
+   "id": "c-yuki-ga-tsumoru",
+   "romaji": "yuki ga tsumoru",
+   "english": "snow settles, lies on the ground",
+   "chunk": "Seasons",
+   "recent": true
+  },
+  {
+   "id": "c-heya-o-kariru",
+   "romaji": "heya o kariru",
+   "english": "rent a room or flat",
+   "chunk": "Your place",
+   "recent": true
+  },
+  {
+   "id": "c-semai-heya",
+   "romaji": "semai heya",
+   "english": "a small, cramped room",
+   "chunk": "Your place",
+   "recent": true
+  },
+  {
+   "id": "c-inu-o-kau",
+   "romaji": "inu o kau",
+   "english": "have / keep a dog",
+   "chunk": "Your place",
+   "recent": true
+  },
+  {
+   "id": "c-nimotsu-ga-todoku",
+   "romaji": "nimotsu ga todoku",
+   "english": "a package arrives, gets delivered",
+   "chunk": "Your place",
+   "recent": true
+  },
+  {
+   "id": "c-nayami-ga-aru",
+   "romaji": "nayami ga aru",
+   "english": "have something on your mind",
+   "chunk": "Worries and advice",
+   "recent": true
+  },
+  {
+   "id": "c-soudan-ga-aru",
+   "romaji": "soudan ga aru",
+   "english": "want to ask your advice",
+   "chunk": "Worries and advice",
+   "recent": true
+  },
+  {
+   "id": "c-soudan-ni-noru",
+   "romaji": "soudan ni noru",
+   "english": "give advice, hear someone out",
+   "chunk": "Worries and advice",
+   "recent": true
+  },
+  {
+   "id": "c-honne-o-iu",
+   "romaji": "honne o iu",
+   "english": "say what you really think",
+   "chunk": "Worries and advice",
+   "recent": true
+  },
+  {
+   "id": "c-jikan-o-kakeru",
+   "romaji": "jikan o kakeru",
+   "english": "put time into, take time over",
+   "chunk": "Using your time",
+   "recent": true
+  },
+  {
+   "id": "c-jikan-o-toru",
+   "romaji": "jikan o toru",
+   "english": "set aside time, take up time",
+   "chunk": "Using your time",
+   "recent": true
+  },
+  {
+   "id": "c-jikan-o-tsukuru",
+   "romaji": "jikan o tsukuru",
+   "english": "make time",
+   "chunk": "Using your time",
+   "recent": true
+  },
+  {
+   "id": "c-jikan-o-tsubusu",
+   "romaji": "jikan o tsubusu",
+   "english": "kill time",
+   "chunk": "Using your time",
+   "recent": true
+  },
+  {
+   "id": "c-atama-o-tsukau",
+   "romaji": "atama o tsukau",
+   "english": "use your head; make you think",
+   "chunk": "Getting work done",
+   "recent": true
+  },
+  {
+   "id": "c-kekka-o-dasu",
+   "romaji": "kekka o dasu",
+   "english": "get results, deliver results",
+   "chunk": "Getting work done",
+   "recent": true
+  },
+  {
+   "id": "c-memo-o-toru",
+   "romaji": "memo o toru",
+   "english": "take notes, write it down",
+   "chunk": "Getting work done",
+   "recent": true
+  },
+  {
+   "id": "c-aidea-ga-ukabu",
+   "romaji": "aidea ga ukabu",
+   "english": "an idea comes to mind",
+   "chunk": "Getting work done",
+   "recent": true
+  },
+  {
+   "id": "c-hanko-o-osu",
+   "romaji": "hanko o osu",
+   "english": "stamp your seal",
+   "chunk": "Getting work done",
+   "recent": true
+  },
+  {
+   "id": "c-namida-ga-deru",
+   "romaji": "namida ga deru",
+   "english": "tear up, eyes water",
+   "chunk": "When it hits you",
+   "recent": true
+  },
+  {
+   "id": "c-torihada-ga-tatsu",
+   "romaji": "torihada ga tatsu",
+   "english": "get goosebumps",
+   "chunk": "When it hits you",
+   "recent": true
+  },
+  {
+   "id": "c-jikkan-ga-waku",
+   "romaji": "jikkan ga waku",
+   "english": "it sinks in, feels real",
+   "chunk": "When it hits you",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "kenta",
+   "sora"
+  ],
+  "format": "dialogue"
+ }
+}

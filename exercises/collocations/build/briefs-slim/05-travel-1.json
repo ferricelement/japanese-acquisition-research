@@ -1,0 +1,324 @@
+{
+ "script": 5,
+ "of": 94,
+ "stage": 1,
+ "chunkId": "travel-1",
+ "label": "Getting on and off",
+ "topic": "Getting around",
+ "rationale": "The ride itself: one frame, X ni noru, for train, bus, car and bike, and oriru for getting off.",
+ "mixUps": "Getting on takes ni and getting off takes o (densha ni noru, densha o oriru), so drill them as a pair. You never take a bus or ride a bike with toru or o noru, and how you travel takes de: jitensha de iku.",
+ "targets": [
+  {
+   "id": "c-densha-ni-noru",
+   "romaji": "densha ni noru",
+   "polite": "densha ni norimasu",
+   "english": "ride / get on the train",
+   "ja": "電車に乗る",
+   "kana": "でんしゃにのる",
+   "politeJa": "電車に乗ります",
+   "noun": "densha",
+   "particle": "ni",
+   "verb": "noru",
+   "verbJa": "乗る",
+   "verbSense": "ride; get onto (a vehicle, a bike, a ride)",
+   "englishVerb": "take",
+   "trap": "Not densha o toru or densha o noru: you ride on a vehicle with ni noru, and 'take' is never toru here.",
+   "partners": [
+    "basu (bus)",
+    "takushii (taxi)",
+    "hikouki (plane)",
+    "jitensha (bike)"
+   ],
+   "flags": [],
+   "use": "The riding and boarding itself: densha notteru (I'm on the train now), densha nottara (once I'm on). To say how you get somewhere, natives use de: densha de iku (I'll go by train), densha de kayotteru (I commute by train). Casual speech often drops ni.",
+   "notes": "norikaeru (change trains) is a single verb. The transitive is noseru, giving someone a ride: nosete kureru? (can you give me a lift?)",
+   "example": {
+    "romaji": "densha nottara, renraku suru ne.",
+    "ja": "電車乗ったら、連絡するね。",
+    "english": "I'll text you once I'm on the train."
+   },
+   "examplePolite": {
+    "romaji": "densha ni nottara, renraku shimasu ne.",
+    "ja": "電車に乗ったら、連絡しますね。",
+    "english": "I'll let you know once I'm on the train."
+   }
+  },
+  {
+   "id": "c-basu-ni-noru",
+   "romaji": "basu ni noru",
+   "polite": "basu ni norimasu",
+   "english": "take the bus",
+   "ja": "バスに乗る",
+   "kana": "バスにのる",
+   "politeJa": "バスに乗ります",
+   "noun": "basu",
+   "particle": "ni",
+   "verb": "noru",
+   "verbJa": "乗る",
+   "verbSense": "ride; get onto (a vehicle, a bike, a ride)",
+   "englishVerb": "take",
+   "trap": "Not basu o toru: 'take the bus' is ni noru, as with every vehicle.",
+   "partners": [
+    "fune (boat, ferry)",
+    "erebeetaa (lift)"
+   ],
+   "flags": [],
+   "use": "Same frame as densha ni noru: basu notta (I've got on the bus, the usual text), basu notteru (I'm on the bus now), basu nottara (once I'm on), often chained as basu notte iku / kaeru. To say how you get there, use de: basu de iku. Casual speech drops ni.",
+   "notes": "On local buses you press the button for your stop (botan o osu); a bus that won't come is basu konai.",
+   "example": {
+    "romaji": "basu notte kaerou ka.",
+    "ja": "バス乗って帰ろうか。",
+    "english": "Shall we take the bus home?"
+   },
+   "examplePolite": {
+    "romaji": "basu ni notte kaerimashou ka?",
+    "ja": "バスに乗って帰りましょうか。",
+    "english": "Shall we take the bus home?"
+   }
+  },
+  {
+   "id": "c-kuruma-ni-noru",
+   "romaji": "kuruma ni noru",
+   "polite": "kuruma ni norimasu",
+   "english": "get in / ride in a car",
+   "ja": "車に乗る",
+   "kana": "くるまにのる",
+   "politeJa": "車に乗ります",
+   "noun": "kuruma",
+   "particle": "ni",
+   "verb": "noru",
+   "verbJa": "乗る",
+   "verbSense": "ride; get onto (a vehicle, a bike, a ride)",
+   "englishVerb": "get in",
+   "trap": "Not kuruma ni hairu or kuruma o noru: getting in is ni noru (kuruma no naka ni hairu is only for ducking inside, say out of the rain). 'What car do you drive?' is kuruma nani notteru? or donna kuruma notteru?, while unten suru is the act of driving (unten dekiru? = can you drive?).",
+   "partners": [
+    "takushii (taxi)",
+    "baiku (motorbike)",
+    "jitensha (bike)"
+   ],
+   "flags": [],
+   "use": "Covers getting in and riding along: kuruma notte (get in the car), kuruma nottara (once we're in). kuruma notteru is 'I'm in the car' (as in the example) and also 'drive / own one': donna kuruma notteru? (what car do you drive?). To say how you get there, use de: kuruma de iku.",
+   "notes": "Getting out is kuruma kara oriru; giving someone a ride is the transitive noseru: nosete kureru?",
+   "example": {
+    "romaji": "saki ni kuruma notteru ne.",
+    "ja": "先に車乗ってるね。",
+    "english": "I'll wait in the car."
+   },
+   "examplePolite": {
+    "romaji": "saki ni kuruma ni nottemasu ne.",
+    "ja": "先に車に乗ってますね。",
+    "english": "I'll wait in the car."
+   }
+  },
+  {
+   "id": "c-densha-o-oriru",
+   "romaji": "densha o oriru",
+   "polite": "densha o orimasu",
+   "english": "get off the train",
+   "ja": "電車を降りる",
+   "kana": "でんしゃをおりる",
+   "politeJa": "電車を降ります",
+   "noun": "densha",
+   "particle": "o",
+   "verb": "oriru",
+   "verbJa": "降りる",
+   "verbSense": "come down; get off (a vehicle, stairs)",
+   "englishVerb": "get off",
+   "trap": "Not densha ni oriru or densha kara deru: getting off is oriru, with the vehicle marked by o (kara also works). Only a car also allows kuruma kara deru, 'climb out'.",
+   "partners": [
+    "basu (bus)",
+    "takushii (taxi)",
+    "kuruma (car)",
+    "hikouki (plane)"
+   ],
+   "flags": [],
+   "use": "Once the train is clear, people usually name only the stop, with de: tsugi de oriru (I'm getting off at the next one). The vehicle takes o, or kara. On a packed train, sumimasen, orimasu! (excuse me, getting off) clears the way.",
+   "notes": "Missing your stop is eki o norisugosu: nete te norisugoshita (I fell asleep and missed my stop). The same verb goes down stairs: kaidan o oriru.",
+   "example": {
+    "romaji": "densha oritara, renraku suru ne.",
+    "ja": "電車降りたら、連絡するね。",
+    "english": "I'll text you when I get off the train."
+   },
+   "examplePolite": {
+    "romaji": "densha o oritara, renraku shimasu ne.",
+    "ja": "電車を降りたら、連絡しますね。",
+    "english": "I'll let you know when I get off the train."
+   }
+  },
+  {
+   "id": "c-jitensha-ni-noru",
+   "romaji": "jitensha ni noru",
+   "polite": "jitensha ni norimasu",
+   "english": "ride a bike",
+   "ja": "自転車に乗る",
+   "kana": "じてんしゃにのる",
+   "politeJa": "自転車に乗ります",
+   "noun": "jitensha",
+   "particle": "ni",
+   "verb": "noru",
+   "verbJa": "乗る",
+   "verbSense": "ride; get onto (a vehicle, a bike, a ride)",
+   "englishVerb": "ride",
+   "trap": "Not jitensha o noru: English 'ride a bike' takes an object, but a bike takes ni noru like every other vehicle.",
+   "partners": [
+    "baiku (motorbike)",
+    "uma (horse)"
+   ],
+   "flags": [],
+   "use": "Used for being able to ride (jitensha noreru? = can you ride a bike?) and for riding one now (jitensha notteru). To say how you get somewhere, use de: jitensha de iku. Casual speech drops ni, and the slangy chari (charinko) often replaces jitensha.",
+   "notes": "Pedalling is kogu (jitensha o kogu), and the everyday shopping bike with a basket is a mamachari.",
+   "example": {
+    "romaji": "jitensha notte, konbini itte kuru.",
+    "ja": "自転車乗って、コンビニ行ってくる。",
+    "english": "I'm going to bike over to the convenience store."
+   },
+   "examplePolite": {
+    "romaji": "jitensha ni notte, konbini ni itte kimasu.",
+    "ja": "自転車に乗って、コンビニに行ってきます。",
+    "english": "I'm going to ride my bike to the convenience store."
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-ame-ga-furu",
+   "romaji": "ame ga furu",
+   "english": "it rains; rain falls",
+   "chunk": "Rain and snow",
+   "recent": true
+  },
+  {
+   "id": "c-yuki-ga-furu",
+   "romaji": "yuki ga furu",
+   "english": "it snows",
+   "chunk": "Rain and snow",
+   "recent": true
+  },
+  {
+   "id": "c-ame-ga-yamu",
+   "romaji": "ame ga yamu",
+   "english": "the rain stops",
+   "chunk": "Rain and snow",
+   "recent": true
+  },
+  {
+   "id": "c-kasa-o-sasu",
+   "romaji": "kasa o sasu",
+   "english": "put up (open) an umbrella; have an umbrella up",
+   "chunk": "Rain and snow",
+   "recent": true
+  },
+  {
+   "id": "c-ame-ni-furareru",
+   "romaji": "ame ni furareru",
+   "english": "get caught in the rain",
+   "chunk": "Rain and snow",
+   "recent": true
+  },
+  {
+   "id": "c-onaka-ga-suku",
+   "romaji": "onaka ga suku",
+   "english": "get hungry",
+   "chunk": "Hungry, full, thirsty",
+   "recent": true
+  },
+  {
+   "id": "c-onaka-ga-ippai",
+   "romaji": "onaka ga ippai",
+   "english": "be full (after eating)",
+   "chunk": "Hungry, full, thirsty",
+   "recent": true
+  },
+  {
+   "id": "c-nodo-ga-kawaku",
+   "romaji": "nodo ga kawaku",
+   "english": "get thirsty",
+   "chunk": "Hungry, full, thirsty",
+   "recent": true
+  },
+  {
+   "id": "c-onaka-ga-heru",
+   "romaji": "onaka ga heru",
+   "english": "get hungry (blunter, casual)",
+   "chunk": "Hungry, full, thirsty",
+   "recent": true
+  },
+  {
+   "id": "c-uchi-ni-kaeru",
+   "romaji": "uchi ni kaeru",
+   "english": "go home, get home",
+   "chunk": "Out and back",
+   "recent": true
+  },
+  {
+   "id": "c-uchi-o-deru",
+   "romaji": "uchi o deru",
+   "english": "leave the house",
+   "chunk": "Out and back",
+   "recent": true
+  },
+  {
+   "id": "c-soto-ni-deru",
+   "romaji": "soto ni deru",
+   "english": "go outside, step out",
+   "chunk": "Out and back",
+   "recent": true
+  },
+  {
+   "id": "c-kaimono-ni-iku",
+   "romaji": "kaimono ni iku",
+   "english": "go shopping",
+   "chunk": "Out and back",
+   "recent": true
+  },
+  {
+   "id": "c-kaeri-ga-osoi",
+   "romaji": "kaeri ga osoi",
+   "english": "get home late",
+   "chunk": "Out and back",
+   "recent": true
+  },
+  {
+   "id": "c-se-ga-takai",
+   "romaji": "se ga takai",
+   "english": "be tall",
+   "chunk": "Looks and voice",
+   "recent": true
+  },
+  {
+   "id": "c-se-ga-hikui",
+   "romaji": "se ga hikui",
+   "english": "be short (height)",
+   "chunk": "Looks and voice",
+   "recent": true
+  },
+  {
+   "id": "c-koe-ga-ookii",
+   "romaji": "koe ga ookii",
+   "english": "have a loud voice, be loud",
+   "chunk": "Looks and voice",
+   "recent": true
+  },
+  {
+   "id": "c-kami-ga-nagai",
+   "romaji": "kami ga nagai",
+   "english": "have long hair",
+   "chunk": "Looks and voice",
+   "recent": true
+  },
+  {
+   "id": "c-sutairu-ga-ii",
+   "romaji": "sutairu ga ii",
+   "english": "have a good figure",
+   "chunk": "Looks and voice",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "yuki",
+   "okaasan"
+  ],
+  "format": "monologue"
+ }
+}

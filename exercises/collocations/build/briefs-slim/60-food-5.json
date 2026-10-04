@@ -1,0 +1,308 @@
+{
+ "script": 60,
+ "of": 94,
+ "stage": 3,
+ "chunkId": "food-5",
+ "label": "How it tastes",
+ "topic": "Food & drink",
+ "rationale": "The everyday comments on flavour: what it tastes like, and seasoning that is too light or too strong.",
+ "mixUps": "A taste you notice uses suru (hen na aji suru), not aru. Seasoning is usui (light) or koi (strong), never yowai or tsuyoi, which are kept for osake.",
+ "targets": [
+  {
+   "id": "c-aji-ga-suru",
+   "romaji": "aji ga suru",
+   "polite": "aji ga shimasu",
+   "english": "taste (like something)",
+   "ja": "味がする",
+   "kana": "あじがする",
+   "politeJa": "味がします",
+   "noun": "aji",
+   "particle": "ga",
+   "verb": "suru",
+   "verbJa": "する",
+   "verbSense": "do; with a taste, smell or sound, be sensed or give off",
+   "englishVerb": "taste",
+   "trap": "English 'it has a weird taste' pulls toward hen na aji ga aru, which sounds off; a taste you notice 'does': hen na aji ga suru. hen na aji da is also fine. Tasting something on purpose is ajimi suru or aji o miru, not aji ga suru.",
+   "partners": [
+    "nioi (smell)",
+    "oto (sound)",
+    "kanji (feel, impression)",
+    "ki (a hunch)"
+   ],
+   "flags": [],
+   "use": "Used to say what something tastes like: hen na aji suru (tastes weird), ichigo no aji ga suru (tastes of strawberry). Casual speech drops ga, and aji shinai means it tastes of nothing.",
+   "notes": "nioi ga suru and oto ga suru use the same frame.",
+   "example": {
+    "romaji": "nanka hen na aji suru.",
+    "ja": "なんか変な味する。",
+    "english": "This tastes kind of weird."
+   },
+   "examplePolite": {
+    "romaji": "nanka hen na aji ga shimasu ne.",
+    "ja": "なんか変な味がしますね。",
+    "english": "This tastes a bit strange."
+   }
+  },
+  {
+   "id": "c-aji-ga-usui",
+   "romaji": "aji ga usui",
+   "polite": "aji ga usui desu",
+   "english": "lightly seasoned; bland (needs more salt)",
+   "ja": "味が薄い",
+   "kana": "あじがうすい",
+   "politeJa": "味が薄いです",
+   "noun": "aji",
+   "particle": "ga",
+   "verb": "usui",
+   "verbJa": "薄い",
+   "verbSense": "thin, faint, weak (paper, colour, taste)",
+   "englishVerb": "weak",
+   "trap": "Not aji ga yowai: food short on salt is usui (thin), the same word as weak coffee. aji ga nai is fine for food with no taste at all.",
+   "partners": [
+    "koohii (coffee)",
+    "ocha (tea)",
+    "iro (colour)",
+    "haibooru (highball: a weak mix)"
+   ],
+   "flags": [],
+   "use": "The everyday verdict on food that needs more salt or soy sauce: chotto aji usui ne. Casual speech drops ga.",
+   "notes": "aji ga koi is the opposite: strongly seasoned, often too salty. usuaji (light seasoning) is often praise (usuaji de oishii); aji ga usui on its own is usually a complaint.",
+   "example": {
+    "romaji": "kore, chotto aji usui ne.",
+    "ja": "これ、ちょっと味薄いね。",
+    "english": "This is a bit bland."
+   },
+   "examplePolite": {
+    "romaji": "kore, chotto aji ga usui desu ne.",
+    "ja": "これ、ちょっと味が薄いですね。",
+    "english": "This is a bit bland."
+   }
+  },
+  {
+   "id": "c-aji-ga-koi",
+   "romaji": "aji ga koi",
+   "polite": "aji ga koi desu",
+   "english": "strongly seasoned, rich",
+   "ja": "味が濃い",
+   "kana": "あじがこい",
+   "politeJa": "味が濃いです",
+   "noun": "aji",
+   "particle": "ga",
+   "verb": "koi",
+   "verbJa": "濃い",
+   "verbSense": "dense, strong in concentration (taste, colour, coffee)",
+   "englishVerb": "strong",
+   "trap": "English 'strong flavour' leads to aji ga tsuyoi, which is said of a pungent, distinctive taste. Heavy seasoning is koi (dense), the same word as strong coffee and dark colour. 'Too salty' on its own is shoppai.",
+   "partners": [
+    "koohii (coffee)",
+    "ocha (tea)",
+    "iro (colour)",
+    "keshou (make-up)"
+   ],
+   "flags": [],
+   "use": "Said about food with a lot of salt, soy sauce or sauce, often as a mild complaint (chotto aji koi ne) and sometimes as praise for food that goes with rice. Casual speech drops ga, and before a noun it is koi aji.",
+   "notes": "aji ga usui is the opposite; aji koisugiru (way too strong) is a clear complaint.",
+   "example": {
+    "romaji": "aji koi kara, gohan susumu ne.",
+    "ja": "味濃いから、ご飯進むね。",
+    "english": "It's richly seasoned, so it goes great with rice."
+   },
+   "examplePolite": {
+    "romaji": "aji ga koi node, gohan ga susumimasu ne.",
+    "ja": "味が濃いので、ご飯が進みますね。",
+    "english": "It's richly seasoned, so it goes great with rice."
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-youji-ga-aru",
+   "romaji": "youji ga aru",
+   "english": "have something to do",
+   "chunk": "Can't make it",
+   "recent": true
+  },
+  {
+   "id": "c-asa-ga-hayai",
+   "romaji": "asa ga hayai",
+   "english": "have an early start",
+   "chunk": "Can't make it",
+   "recent": true
+  },
+  {
+   "id": "c-yotei-ga-hairu",
+   "romaji": "yotei ga hairu",
+   "english": "have plans, get booked",
+   "chunk": "Can't make it",
+   "recent": true
+  },
+  {
+   "id": "c-senyaku-ga-aru",
+   "romaji": "sen'yaku ga aru",
+   "english": "have prior plans",
+   "chunk": "Can't make it",
+   "recent": true
+  },
+  {
+   "id": "c-gomi-o-suteru",
+   "romaji": "gomi o suteru",
+   "english": "throw away rubbish",
+   "chunk": "Trash and tidying",
+   "recent": true
+  },
+  {
+   "id": "c-gomi-o-dasu",
+   "romaji": "gomi o dasu",
+   "english": "take out the trash",
+   "chunk": "Trash and tidying",
+   "recent": true
+  },
+  {
+   "id": "c-heya-o-katazukeru",
+   "romaji": "heya o katazukeru",
+   "english": "tidy up one's room",
+   "chunk": "Trash and tidying",
+   "recent": true
+  },
+  {
+   "id": "c-heya-ga-chirakaru",
+   "romaji": "heya ga chirakaru",
+   "english": "(a room) gets messy, is a mess",
+   "chunk": "Trash and tidying",
+   "recent": true
+  },
+  {
+   "id": "c-moto-ni-modosu",
+   "romaji": "moto ni modosu",
+   "english": "put back (as it was)",
+   "chunk": "Trash and tidying",
+   "recent": true
+  },
+  {
+   "id": "c-onegai-ga-aru",
+   "romaji": "onegai ga aru",
+   "english": "have a favour to ask",
+   "chunk": "Favours, sorry, cheer up",
+   "recent": true
+  },
+  {
+   "id": "c-meiwaku-o-kakeru",
+   "romaji": "meiwaku o kakeru",
+   "english": "cause someone trouble",
+   "chunk": "Favours, sorry, cheer up",
+   "recent": true
+  },
+  {
+   "id": "c-shinpai-o-kakeru",
+   "romaji": "shinpai o kakeru",
+   "english": "make someone worry",
+   "chunk": "Favours, sorry, cheer up",
+   "recent": true
+  },
+  {
+   "id": "c-genki-o-dasu",
+   "romaji": "genki o dasu",
+   "english": "cheer up",
+   "chunk": "Favours, sorry, cheer up",
+   "recent": true
+  },
+  {
+   "id": "c-ryokou-ni-iku",
+   "romaji": "ryokou ni iku",
+   "english": "go on a trip",
+   "chunk": "On a trip",
+   "recent": true
+  },
+  {
+   "id": "c-hikouki-ni-noru",
+   "romaji": "hikouki ni noru",
+   "english": "fly, take a plane",
+   "chunk": "On a trip",
+   "recent": true
+  },
+  {
+   "id": "c-hoteru-ni-tomaru",
+   "romaji": "hoteru ni tomaru",
+   "english": "stay at a hotel",
+   "chunk": "On a trip",
+   "recent": true
+  },
+  {
+   "id": "c-omiyage-o-kau",
+   "romaji": "omiyage o kau",
+   "english": "buy gifts to take back",
+   "chunk": "On a trip",
+   "recent": true
+  },
+  {
+   "id": "c-onsen-ni-hairu",
+   "romaji": "onsen ni hairu",
+   "english": "bathe in a hot spring",
+   "chunk": "On a trip",
+   "recent": true
+  },
+  {
+   "id": "c-okane-o-tsukau",
+   "romaji": "okane o tsukau",
+   "english": "spend money",
+   "chunk": "Spending and saving",
+   "recent": true
+  },
+  {
+   "id": "c-kaado-o-tsukau",
+   "romaji": "kaado o tsukau",
+   "english": "pay by card",
+   "chunk": "Spending and saving",
+   "recent": true
+  },
+  {
+   "id": "c-okane-o-tameru",
+   "romaji": "okane o tameru",
+   "english": "save up money",
+   "chunk": "Spending and saving",
+   "recent": true
+  },
+  {
+   "id": "c-pointo-o-tameru",
+   "romaji": "pointo o tameru",
+   "english": "collect loyalty points",
+   "chunk": "Spending and saving",
+   "recent": true
+  },
+  {
+   "id": "c-bangou-o-oshieru",
+   "romaji": "bangou o oshieru",
+   "english": "give someone your number",
+   "chunk": "Numbers and messages",
+   "recent": true
+  },
+  {
+   "id": "c-meeru-o-okuru",
+   "romaji": "meeru o okuru",
+   "english": "send an email",
+   "chunk": "Numbers and messages",
+   "recent": true
+  },
+  {
+   "id": "c-meeru-ga-kuru",
+   "romaji": "meeru ga kuru",
+   "english": "get an email",
+   "chunk": "Numbers and messages",
+   "recent": true
+  },
+  {
+   "id": "c-meeru-o-kaesu",
+   "romaji": "meeru o kaesu",
+   "english": "reply to a message",
+   "chunk": "Numbers and messages",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "kenta",
+   "satou"
+  ],
+  "format": "monologue"
+ }
+}

@@ -1,0 +1,342 @@
+{
+ "script": 72,
+ "of": 94,
+ "stage": 4,
+ "chunkId": "media-5",
+ "label": "Power, battery, sound",
+ "topic": "Phone, photos & screens",
+ "rationale": "Switching a device on and off, and the times it stops working: a dead battery or no sound.",
+ "mixUps": "dengen o ireru / kiru (you switch it on or off) vs juuden ga kireru (it runs out on its own) is transitive kiru vs intransitive kireru, as in denwa o kiru / denwa ga kireta. Lights and the TV take tsukeru / kesu, and oto ga deru (sound comes out of a device) is not oto ga suru (you hear a noise).",
+ "targets": [
+  {
+   "id": "c-dengen-o-kiru",
+   "romaji": "dengen o kiru",
+   "polite": "dengen o kirimasu",
+   "english": "turn off (a phone or device)",
+   "ja": "電源を切る",
+   "kana": "でんげんをきる",
+   "politeJa": "電源を切ります",
+   "noun": "dengen",
+   "particle": "o",
+   "verb": "kiru",
+   "verbJa": "切る",
+   "verbSense": "cut; cut off (a call, the power)",
+   "englishVerb": "turn off",
+   "trap": "Not sumaho o kesu: powering a phone or device down is dengen o kiru ('cut the power'), with the device joined by no (sumaho no dengen kitte), or casually just keitai kitte; dengen o otosu is common too. Sumaho kesu can sound like turning only the screen off; kesu is for lights and the TV, though pasokon kesu is heard.",
+   "partners": [
+    "suitchi (switch)",
+    "eakon (air conditioner; kesu works too)",
+    "tsuuchi (notifications)",
+    "waifai (Wi-Fi)"
+   ],
+   "flags": [],
+   "use": "Said about switching off a phone or other device, as an excuse (gomen, dengen kitteta = sorry, my phone was off) or a fix (ikkai dengen kitte mite). Cinema and exam announcements say keitai denwa no dengen o okiri kudasai. Casual speech drops o.",
+   "notes": "On is dengen o ireru, and a phone that won't start is dengen ga hairanai (or tsukanai); one that shuts itself off is dengen kireta. Shutting down a computer is often dengen o otosu (pasokon otoshita). The kiru is the one in denwa o kiru.",
+   "example": {
+    "romaji": "ikkai dengen kitte mite.",
+    "ja": "一回電源切ってみて。",
+    "english": "Try turning it off for a moment."
+   },
+   "examplePolite": {
+    "romaji": "ichido dengen o kitte mite kudasai.",
+    "ja": "一度電源を切ってみてください。",
+    "english": "Please try turning it off for a moment."
+   }
+  },
+  {
+   "id": "c-dengen-o-ireru",
+   "romaji": "dengen o ireru",
+   "polite": "dengen o iremasu",
+   "english": "turn on (a phone or device)",
+   "ja": "電源を入れる",
+   "kana": "でんげんをいれる",
+   "politeJa": "電源を入れます",
+   "noun": "dengen",
+   "particle": "o",
+   "verb": "ireru",
+   "verbJa": "入れる",
+   "verbSense": "put in; switch on (the power, a switch)",
+   "englishVerb": "turn on",
+   "trap": "English 'turn on' pulls toward tsukeru, the verb for the appliance itself (denki, terebi, eakon). The power or a switch usually takes ireru ('put in'); dengen tsukeru is heard, but much less. Join the device with no: sumaho no dengen irete.",
+   "partners": [
+    "suitchi (switch)",
+    "danbou (heating)",
+    "eakon (air conditioner; tsukeru is more usual)"
+   ],
+   "flags": [],
+   "use": "Said about switching on a phone, computer or machine, often while troubleshooting: dengen ireta? (did you turn it on?). A device that won't start is dengen ga hairanai (or tsukanai), with intransitive hairu. Casual speech drops o.",
+   "notes": "Off is dengen o kiru. For a computer, pasokon tsukeru and kidou suru (boot up) are heard too.",
+   "example": {
+    "romaji": "chanto dengen ireta?",
+    "ja": "ちゃんと電源入れた？",
+    "english": "Did you actually turn it on?"
+   },
+   "examplePolite": {
+    "romaji": "sumimasen, purojekutaa no dengen o irete moraemasu ka?",
+    "ja": "すみません、プロジェクターの電源を入れてもらえますか？",
+    "english": "Excuse me, could you turn on the projector?"
+   }
+  },
+  {
+   "id": "c-juuden-ga-kireru",
+   "romaji": "juuden ga kireru",
+   "polite": "juuden ga kiremasu",
+   "english": "battery runs out, dies",
+   "ja": "充電が切れる",
+   "kana": "じゅうでんがきれる",
+   "politeJa": "充電が切れます",
+   "noun": "juuden",
+   "particle": "ga",
+   "verb": "kireru",
+   "verbJa": "切れる",
+   "verbSense": "be cut; run out (of a supply, charge or time)",
+   "englishVerb": "die",
+   "trap": "Not shinu: a dead phone is juuden kireta ('the charge ran out'). denchi kireta, juuden nakunatta and batterii kireta are also fine; sumaho shinda is slang.",
+   "partners": [
+    "batterii (battery)",
+    "denchi (battery, including a phone's)",
+    "kigen (expiry date)",
+    "kusuri (medicine, wearing off)"
+   ],
+   "flags": [],
+   "use": "Said when a phone dies, in the past: juuden kireta / kirechatta (my phone died). About to die is juuden kiresou (or juuden yabai, slangy); low but not dead is juuden ga nai.",
+   "notes": "Charging is the plain verb juuden suru. The same kireru is a dropped call: denwa kireta (the call cut off). Switching the phone off yourself is dengen o kiru, the transitive half.",
+   "example": {
+    "romaji": "gomen, juuden kirechatta.",
+    "ja": "ごめん、充電切れちゃった。",
+    "english": "Sorry, my phone died."
+   },
+   "examplePolite": {
+    "romaji": "sumimasen, juuden ga kirechaimashita.",
+    "ja": "すみません、充電が切れちゃいました。",
+    "english": "Sorry, my phone died."
+   }
+  },
+  {
+   "id": "c-oto-ga-deru",
+   "romaji": "oto ga deru",
+   "polite": "oto ga demasu",
+   "english": "sound comes out (of a TV, speaker, phone)",
+   "ja": "音が出る",
+   "kana": "おとがでる",
+   "politeJa": "音が出ます",
+   "noun": "oto",
+   "particle": "ga",
+   "verb": "deru",
+   "verbJa": "出る",
+   "verbSense": "come out, go out; appear",
+   "englishVerb": "work",
+   "trap": "Not oto ga ugokanai: when a TV, speaker or call goes silent, the sound 'doesn't come out', oto ga denai. oto nai is heard too, and it is the plain way to say a clip has no sound at all: kono douga, oto nai yo.",
+   "partners": [
+    "onsei (audio)",
+    "eizou (picture)",
+    "mizu (water, from a tap)",
+    "oyu (hot water)"
+   ],
+   "flags": [],
+   "use": "Said about TVs, speakers, laptops and video calls, most often in the negative or as a check: oto denai (there's no sound), oto deteru? (is there sound?). ga is usually dropped, and on a call oto dete nai yo means your sound isn't coming through.",
+   "notes": "Different from oto ga suru (you hear a noise). Muting is oto o kesu; turning it down is oto o sageru.",
+   "example": {
+    "romaji": "are, oto denai n da kedo.",
+    "ja": "あれ、音出ないんだけど。",
+    "english": "Huh, there's no sound."
+   },
+   "examplePolite": {
+    "romaji": "are, oto ga denai n desu kedo.",
+    "ja": "あれ、音が出ないんですけど。",
+    "english": "Huh, there's no sound."
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-geemu-ni-hamaru",
+   "romaji": "geemu ni hamaru",
+   "english": "be hooked on games; be really into games",
+   "chunk": "Hooked, tickets, winning",
+   "recent": true
+  },
+  {
+   "id": "c-shiai-ni-katsu",
+   "romaji": "shiai ni katsu",
+   "english": "win a match",
+   "chunk": "Hooked, tickets, winning",
+   "recent": true
+  },
+  {
+   "id": "c-shiai-ni-makeru",
+   "romaji": "shiai ni makeru",
+   "english": "lose a match",
+   "chunk": "Hooked, tickets, winning",
+   "recent": true
+  },
+  {
+   "id": "c-chiketto-o-toru",
+   "romaji": "chiketto o toru",
+   "english": "get hold of tickets",
+   "chunk": "Hooked, tickets, winning",
+   "recent": true
+  },
+  {
+   "id": "c-hidari-ni-magaru",
+   "romaji": "hidari ni magaru",
+   "english": "turn left",
+   "chunk": "Finding the way",
+   "recent": true
+  },
+  {
+   "id": "c-kado-o-magaru",
+   "romaji": "kado o magaru",
+   "english": "turn at the corner",
+   "chunk": "Finding the way",
+   "recent": true
+  },
+  {
+   "id": "c-michi-ni-mayou",
+   "romaji": "michi ni mayou",
+   "english": "get lost",
+   "chunk": "Finding the way",
+   "recent": true
+  },
+  {
+   "id": "c-michi-o-machigaeru",
+   "romaji": "michi o machigaeru",
+   "english": "go the wrong way",
+   "chunk": "Finding the way",
+   "recent": true
+  },
+  {
+   "id": "c-maigo-ni-naru",
+   "romaji": "maigo ni naru",
+   "english": "get lost (wander off, like a lost child)",
+   "chunk": "Finding the way",
+   "recent": true
+  },
+  {
+   "id": "c-shukudai-o-suru",
+   "romaji": "shukudai o suru",
+   "english": "do homework",
+   "chunk": "Homework and grades",
+   "recent": true
+  },
+  {
+   "id": "c-shukudai-o-dasu",
+   "romaji": "shukudai o dasu",
+   "english": "hand in homework",
+   "chunk": "Homework and grades",
+   "recent": true
+  },
+  {
+   "id": "c-mondai-o-toku",
+   "romaji": "mondai o toku",
+   "english": "solve a question, do problems",
+   "chunk": "Homework and grades",
+   "recent": true
+  },
+  {
+   "id": "c-seiseki-ga-ii",
+   "romaji": "seiseki ga ii",
+   "english": "have good grades, do well at school",
+   "chunk": "Homework and grades",
+   "recent": true
+  },
+  {
+   "id": "c-hi-ga-kureru",
+   "romaji": "hi ga kureru",
+   "english": "it gets dark (evening)",
+   "chunk": "Sun and moon",
+   "recent": true
+  },
+  {
+   "id": "c-hi-ga-noboru",
+   "romaji": "hi ga noboru",
+   "english": "the sun rises, comes up",
+   "chunk": "Sun and moon",
+   "recent": true
+  },
+  {
+   "id": "c-hi-ga-shizumu",
+   "romaji": "hi ga shizumu",
+   "english": "the sun sets, goes down",
+   "chunk": "Sun and moon",
+   "recent": true
+  },
+  {
+   "id": "c-tsuki-ga-deru",
+   "romaji": "tsuki ga deru",
+   "english": "the moon comes out",
+   "chunk": "Sun and moon",
+   "recent": true
+  },
+  {
+   "id": "c-ocha-o-ireru",
+   "romaji": "ocha o ireru",
+   "english": "make tea",
+   "chunk": "Breakfast",
+   "recent": true
+  },
+  {
+   "id": "c-satou-o-ireru",
+   "romaji": "satou o ireru",
+   "english": "put sugar in, add sugar",
+   "chunk": "Breakfast",
+   "recent": true
+  },
+  {
+   "id": "c-pan-o-yaku",
+   "romaji": "pan o yaku",
+   "english": "toast bread; bake bread",
+   "chunk": "Breakfast",
+   "recent": true
+  },
+  {
+   "id": "c-asagohan-o-nuku",
+   "romaji": "asagohan o nuku",
+   "english": "skip breakfast",
+   "chunk": "Breakfast",
+   "recent": true
+  },
+  {
+   "id": "c-kaji-o-suru",
+   "romaji": "kaji o suru",
+   "english": "do the housework",
+   "chunk": "Housework and laundry",
+   "recent": true
+  },
+  {
+   "id": "c-sentakumono-o-hosu",
+   "romaji": "sentakumono o hosu",
+   "english": "hang out the laundry",
+   "chunk": "Housework and laundry",
+   "recent": true
+  },
+  {
+   "id": "c-sentakumono-ga-kawaku",
+   "romaji": "sentakumono ga kawaku",
+   "english": "the laundry dries",
+   "chunk": "Housework and laundry",
+   "recent": true
+  },
+  {
+   "id": "c-fuku-o-tatamu",
+   "romaji": "fuku o tatamu",
+   "english": "fold clothes",
+   "chunk": "Housework and laundry",
+   "recent": true
+  },
+  {
+   "id": "c-soujiki-o-kakeru",
+   "romaji": "soujiki o kakeru",
+   "english": "vacuum (the floor)",
+   "chunk": "Housework and laundry",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "kenta",
+   "sora"
+  ],
+  "format": "dialogue"
+ }
+}

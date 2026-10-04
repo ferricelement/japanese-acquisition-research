@@ -1,0 +1,355 @@
+{
+ "script": 9,
+ "of": 94,
+ "stage": 1,
+ "chunkId": "people-1",
+ "label": "Talking to people",
+ "topic": "People & talk",
+ "rationale": "The four everyday hanashi sets: talking, listening, opening a serious talk, and someone who goes on and on.",
+ "mixUps": "All four share hanashi, so drill them together: hanashi o suru (you talk), hanashi o kiku (you listen, or do what someone says), hanashi ga aru (I need to talk to you) and hanashi ga nagai (they go on forever), which is not nagai hanashi (a long story: nagai hanashi ni naru kedo...).",
+ "targets": [
+  {
+   "id": "c-hanashi-o-suru",
+   "romaji": "hanashi o suru",
+   "polite": "hanashi o shimasu",
+   "english": "talk, have a talk",
+   "ja": "話をする",
+   "kana": "はなしをする",
+   "politeJa": "話をします",
+   "noun": "hanashi",
+   "particle": "o",
+   "verb": "suru",
+   "verbJa": "する",
+   "verbSense": "do; with a noun, carry out that activity (here, have a talk)",
+   "englishVerb": "talk",
+   "trap": null,
+   "partners": [
+    "uwasa (talking about someone who isn't there: X no uwasa shiteta = we were just talking about X)",
+    "kenka (argument, fight)",
+    "sekenbanashi (small talk)"
+   ],
+   "flags": [],
+   "use": "Used for having a conversation, with to for the person and no for the topic: kare to sono hanashi shita (I talked to him about that), shigoto no hanashi shiteta (we were talking about work). X ni tsuite hanasu is fine too but sounds more structured. Casual speech drops o when hanashi has a word in front of it.",
+   "notes": "nan no hanashi? on its own means 'what are you talking about?', when you're lost or denying something.",
+   "example": {
+    "romaji": "nan no hanashi shiteta no?",
+    "ja": "何の話してたの？",
+    "english": "What were you guys talking about?"
+   },
+   "examplePolite": {
+    "romaji": "nan no hanashi o shiteta n desu ka?",
+    "ja": "何の話をしてたんですか？",
+    "english": "What were you talking about?"
+   }
+  },
+  {
+   "id": "c-hanashi-o-kiku",
+   "romaji": "hanashi o kiku",
+   "polite": "hanashi o kikimasu",
+   "english": "listen to someone, hear someone out",
+   "ja": "話を聞く",
+   "kana": "はなしをきく",
+   "politeJa": "話を聞きます",
+   "noun": "hanashi",
+   "particle": "o",
+   "verb": "kiku",
+   "verbJa": "聞く",
+   "verbSense": "listen, hear; also ask",
+   "englishVerb": "listen",
+   "trap": "English 'listen to me' leads to watashi o kiite, but kiku takes what is said, not the person: watashi no hanashi kiite, or just chotto kiite. And kare ni kiku means ask him (or hear it from him), never listen to him.",
+   "partners": [
+    "guchi (venting: guchi kiku yo = I'll hear you vent)",
+    "uwasa (rumour: sonna uwasa kiita = I heard a rumour like that)",
+    "iken (opinion)",
+    "setsumei (explanation)"
+   ],
+   "flags": [],
+   "use": "The everyday way to ask for or offer an ear: chotto hanashi kiite (just hear me out), hanashi kiku yo (I'm happy to listen). hito no hanashi kiitenai desho is the complaint 'you're not listening to me' (hito here means me, the speaker). It also covers hearing about something: sono hanashi kiita (I heard about that).",
+   "notes": "X no iu koto o kiku = do what X says (oya no iu koto kikinasai). Listening to a friend's problem and helping them think it through is soudan ni noru.",
+   "example": {
+    "romaji": "chotto, hanashi kiite yo.",
+    "ja": "ちょっと、話聞いてよ。",
+    "english": "Hey, just listen to me."
+   },
+   "examplePolite": {
+    "romaji": "chotto hanashi o kiite kudasai.",
+    "ja": "ちょっと話を聞いてください。",
+    "english": "Please just hear me out."
+   }
+  },
+  {
+   "id": "c-hanashi-ga-aru",
+   "romaji": "hanashi ga aru",
+   "polite": "hanashi ga arimasu",
+   "english": "need to talk (to you)",
+   "ja": "話がある",
+   "kana": "はなしがある",
+   "politeJa": "話があります",
+   "noun": "hanashi",
+   "particle": "ga",
+   "verb": "aru",
+   "verbJa": "ある",
+   "verbSense": "there is; have (things, plans, something to bring up)",
+   "englishVerb": "need to talk",
+   "trap": "English 'I need to talk to you' leads to hanasu hitsuyou ga aru, which sounds stiff and official; the everyday opener is chotto hanashi ga aru n da kedo.",
+   "partners": [
+    "soudan (something to talk over)",
+    "onegai (a favour)",
+    "shitsumon (a question)",
+    "youji (something to see to: kimi ni youji ga aru = I need you for something)"
+   ],
+   "flags": [],
+   "use": "Opens a serious or personal talk and usually trails off with n da kedo: chotto hanashi ga aru n da kedo... Natives usually keep the ga here, though chotto hanashi aru n da kedo is heard too. Politely it's hanashi ga aru n desu kedo, and to a boss or client often ohanashi ga aru n desu ga.",
+   "notes": "ii hanashi ga aru n da kedo = I've got a good offer for you (a classic sales opener). Plain good news is more often ii shirase.",
+   "example": {
+    "romaji": "chotto hanashi ga aru n da kedo, ima ii?",
+    "ja": "ちょっと話があるんだけど、今いい？",
+    "english": "I need to talk to you. Got a minute?"
+   },
+   "examplePolite": {
+    "romaji": "chotto ohanashi ga aru n desu kedo, ima ii desu ka?",
+    "ja": "ちょっとお話があるんですけど、今いいですか？",
+    "english": "There's something I'd like to discuss. Do you have a moment?"
+   }
+  },
+  {
+   "id": "c-hanashi-ga-nagai",
+   "romaji": "hanashi ga nagai",
+   "polite": "hanashi ga nagai desu",
+   "english": "be long-winded, go on forever",
+   "ja": "話が長い",
+   "kana": "はなしがながい",
+   "politeJa": "話が長いです",
+   "noun": "hanashi",
+   "particle": "ga",
+   "verb": "nagai",
+   "verbJa": "長い",
+   "verbSense": "long (length or time)",
+   "englishVerb": "long-winded",
+   "trap": null,
+   "partners": [
+    "denwa (phone calls: denwa nagai = always on the phone for ages)",
+    "ofuro (baths: ofuro nagai ne = you take long baths)",
+    "toire (toilet trips)"
+   ],
+   "flags": [],
+   "use": "A stock grumble about bosses, principals and relatives: buchou no hanashi nagai n da yo (my boss goes on forever), with ga dropped. Before a noun it becomes nagai hanashi (a long talk), and 'it's a long story' is hanaseba nagaku naru.",
+   "notes": "nagabanashi = a long chat: nagabanashi shichatte gomen (sorry for keeping you). Someone who just talks a lot is oshaberi, or yoku shaberu.",
+   "example": {
+    "romaji": "buchou no hanashi, honto nagai yo ne.",
+    "ja": "部長の話、ほんと長いよね。",
+    "english": "The boss's talks go on forever, huh."
+   },
+   "examplePolite": {
+    "romaji": "buchou no hanashi wa hontou ni nagai desu yo ne.",
+    "ja": "部長の話は本当に長いですよね。",
+    "english": "The manager's talks really do go on, don't they."
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-uchi-ni-kaeru",
+   "romaji": "uchi ni kaeru",
+   "english": "go home, get home",
+   "chunk": "Out and back",
+   "recent": true
+  },
+  {
+   "id": "c-uchi-o-deru",
+   "romaji": "uchi o deru",
+   "english": "leave the house",
+   "chunk": "Out and back",
+   "recent": true
+  },
+  {
+   "id": "c-soto-ni-deru",
+   "romaji": "soto ni deru",
+   "english": "go outside, step out",
+   "chunk": "Out and back",
+   "recent": true
+  },
+  {
+   "id": "c-kaimono-ni-iku",
+   "romaji": "kaimono ni iku",
+   "english": "go shopping",
+   "chunk": "Out and back",
+   "recent": true
+  },
+  {
+   "id": "c-kaeri-ga-osoi",
+   "romaji": "kaeri ga osoi",
+   "english": "get home late",
+   "chunk": "Out and back",
+   "recent": true
+  },
+  {
+   "id": "c-se-ga-takai",
+   "romaji": "se ga takai",
+   "english": "be tall",
+   "chunk": "Looks and voice",
+   "recent": true
+  },
+  {
+   "id": "c-se-ga-hikui",
+   "romaji": "se ga hikui",
+   "english": "be short (height)",
+   "chunk": "Looks and voice",
+   "recent": true
+  },
+  {
+   "id": "c-koe-ga-ookii",
+   "romaji": "koe ga ookii",
+   "english": "have a loud voice, be loud",
+   "chunk": "Looks and voice",
+   "recent": true
+  },
+  {
+   "id": "c-kami-ga-nagai",
+   "romaji": "kami ga nagai",
+   "english": "have long hair",
+   "chunk": "Looks and voice",
+   "recent": true
+  },
+  {
+   "id": "c-sutairu-ga-ii",
+   "romaji": "sutairu ga ii",
+   "english": "have a good figure",
+   "chunk": "Looks and voice",
+   "recent": true
+  },
+  {
+   "id": "c-densha-ni-noru",
+   "romaji": "densha ni noru",
+   "english": "ride / get on the train",
+   "chunk": "Getting on and off",
+   "recent": true
+  },
+  {
+   "id": "c-basu-ni-noru",
+   "romaji": "basu ni noru",
+   "english": "take the bus",
+   "chunk": "Getting on and off",
+   "recent": true
+  },
+  {
+   "id": "c-kuruma-ni-noru",
+   "romaji": "kuruma ni noru",
+   "english": "get in / ride in a car",
+   "chunk": "Getting on and off",
+   "recent": true
+  },
+  {
+   "id": "c-densha-o-oriru",
+   "romaji": "densha o oriru",
+   "english": "get off the train",
+   "chunk": "Getting on and off",
+   "recent": true
+  },
+  {
+   "id": "c-jitensha-ni-noru",
+   "romaji": "jitensha ni noru",
+   "english": "ride a bike",
+   "chunk": "Getting on and off",
+   "recent": true
+  },
+  {
+   "id": "c-gakkou-ni-iku",
+   "romaji": "gakkou ni iku",
+   "english": "go to school",
+   "chunk": "School and work days",
+   "recent": true
+  },
+  {
+   "id": "c-shigoto-ni-iku",
+   "romaji": "shigoto ni iku",
+   "english": "go to work",
+   "chunk": "School and work days",
+   "recent": true
+  },
+  {
+   "id": "c-shigoto-ga-owaru",
+   "romaji": "shigoto ga owaru",
+   "english": "get off work",
+   "chunk": "School and work days",
+   "recent": true
+  },
+  {
+   "id": "c-shigoto-ga-isogashii",
+   "romaji": "shigoto ga isogashii",
+   "english": "be busy with work",
+   "chunk": "School and work days",
+   "recent": true
+  },
+  {
+   "id": "c-kimochi-ga-ii",
+   "romaji": "kimochi ga ii",
+   "english": "feels good, feels nice",
+   "chunk": "Feels good or bad",
+   "recent": true
+  },
+  {
+   "id": "c-kimochi-ga-warui",
+   "romaji": "kimochi ga warui",
+   "english": "feel queasy, feel nauseous; gross, creepy",
+   "chunk": "Feels good or bad",
+   "recent": true
+  },
+  {
+   "id": "c-kibun-ga-ii",
+   "romaji": "kibun ga ii",
+   "english": "be in a good mood; feel well",
+   "chunk": "Feels good or bad",
+   "recent": true
+  },
+  {
+   "id": "c-kigen-ga-warui",
+   "romaji": "kigen ga warui",
+   "english": "be in a bad mood, grumpy",
+   "chunk": "Feels good or bad",
+   "recent": true
+  },
+  {
+   "id": "c-igokochi-ga-ii",
+   "romaji": "igokochi ga ii",
+   "english": "comfortable to be in, cosy",
+   "chunk": "Feels good or bad",
+   "recent": true
+  },
+  {
+   "id": "c-hon-o-yomu",
+   "romaji": "hon o yomu",
+   "english": "read a book",
+   "chunk": "Read, watch, sing, draw",
+   "recent": true
+  },
+  {
+   "id": "c-eiga-o-miru",
+   "romaji": "eiga o miru",
+   "english": "watch a movie",
+   "chunk": "Read, watch, sing, draw",
+   "recent": true
+  },
+  {
+   "id": "c-uta-o-utau",
+   "romaji": "uta o utau",
+   "english": "sing a song",
+   "chunk": "Read, watch, sing, draw",
+   "recent": true
+  },
+  {
+   "id": "c-e-o-kaku",
+   "romaji": "e o kaku",
+   "english": "draw or paint a picture",
+   "chunk": "Read, watch, sing, draw",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "okaasan",
+   "kenji"
+  ],
+  "format": "dialogue"
+ }
+}

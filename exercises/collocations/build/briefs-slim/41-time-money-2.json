@@ -1,0 +1,318 @@
+{
+ "script": 41,
+ "of": 94,
+ "stage": 2,
+ "chunkId": "time-money-2",
+ "label": "Ready and how long",
+ "topic": "Time, money & plans",
+ "rationale": "Getting things done: are you ready, it takes a while, time's gone by, it's a hassle.",
+ "mixUps": "kakaru vs tatsu: ichinen kakatta = it took a year, ichinen tatta = a year has gone by; tema ga kakaru is effort, not minutes. Readiness is asked in the past (junbi dekita?), never junbi dekiru?.",
+ "targets": [
+  {
+   "id": "c-junbi-ga-dekiru",
+   "romaji": "junbi ga dekiru",
+   "polite": "junbi ga dekimasu",
+   "english": "be ready",
+   "ja": "準備ができる",
+   "kana": "じゅんびができる",
+   "politeJa": "準備ができます",
+   "noun": "junbi",
+   "particle": "ga",
+   "verb": "dekiru",
+   "verbJa": "できる",
+   "verbSense": "be able to; come into being, get done",
+   "englishVerb": "be ready",
+   "trap": "English asks 'are you ready?' in the present. Japanese asks whether it is done: junbi dekita? or junbi dekiteru?. junbi dekiru? means 'can you get ready?'. Casual junbi ii? also works.",
+   "partners": [
+    "gohan (a meal: gohan dekita yo)",
+    "shitaku (getting ready; sounds a bit old-fashioned or parental)"
+   ],
+   "flags": [],
+   "use": "Asked and answered in the past: junbi dekita? / dekita yo / mou chotto. junbi dekitara oshiete = let me know when you're ready.",
+   "notes": "Getting ready yourself is junbi suru; junbi ga dekiru is being done with it. The main list's dekiru already covers 'be ready'; the new point is asking in the past: junbi dekita?",
+   "example": {
+    "romaji": "mou junbi dekita?",
+    "ja": "もう準備できた？",
+    "english": "Are you ready yet?"
+   },
+   "examplePolite": {
+    "romaji": "mou junbi dekimashita ka?",
+    "ja": "もう準備できましたか？",
+    "english": "Are you ready yet?"
+   }
+  },
+  {
+   "id": "c-jikan-ga-kakaru",
+   "romaji": "jikan ga kakaru",
+   "polite": "jikan ga kakarimasu",
+   "english": "take time",
+   "ja": "時間がかかる",
+   "kana": "じかんがかかる",
+   "politeJa": "時間がかかります",
+   "noun": "jikan",
+   "particle": "ga",
+   "verb": "kakaru",
+   "verbJa": "かかる",
+   "verbSense": "be hung on or applied; of time or money: be needed, be used up",
+   "englishVerb": "take",
+   "trap": "English 'take' leads to toru, but jikan o toru mostly means making time for someone (jikan totte kurete arigatou). How long something takes is kakaru.",
+   "partners": [
+    "sanjuppun (thirty minutes)",
+    "ichinichi (a whole day)"
+   ],
+   "flags": [],
+   "use": "Said about how long anything takes, often with an amount in place of jikan: eki made juppun kakaru, dore gurai kakaru?. On its own, jikan kakaru means 'it takes a while'.",
+   "notes": "jikan o kakeru = spend time on something on purpose (jikan kakete tsukutta). tema ga kakaru is the same frame for effort: it's a hassle.",
+   "example": {
+    "romaji": "kore, kekkou jikan kakaru yo",
+    "ja": "これ、けっこう時間かかるよ",
+    "english": "This takes quite a while."
+   },
+   "examplePolite": {
+    "romaji": "kore wa kekkou jikan ga kakarimasu yo",
+    "ja": "これはけっこう時間がかかりますよ",
+    "english": "This takes quite a while."
+   }
+  },
+  {
+   "id": "c-jikan-ga-tatsu",
+   "romaji": "jikan ga tatsu",
+   "polite": "jikan ga tachimasu",
+   "english": "time passes",
+   "ja": "時間が経つ",
+   "kana": "じかんがたつ",
+   "politeJa": "時間が経ちます",
+   "noun": "jikan",
+   "particle": "ga",
+   "verb": "tatsu",
+   "verbJa": "経つ",
+   "verbSense": "of time: pass, go by (sounds the same as tatsu 'stand')",
+   "englishVerb": "pass",
+   "trap": "'It's been a year' is ichinen tatta, not kakatta, which means 'it took a year'. For 'pass', use tatsu or sugiru, not tooru (pass through).",
+   "partners": [
+    "ichinen (a year)",
+    "mikka (three days)"
+   ],
+   "flags": [],
+   "use": "Mostly in the past, about time that has gone by: mou ichinen tatta (it's already been a year). The fixed remark is jikan tatsu no hayai ne (time flies).",
+   "notes": "ichinen kakatta = it took a year; ichinen tatta = a year has gone by.",
+   "example": {
+    "romaji": "jikan tatsu no hayai ne",
+    "ja": "時間経つの早いね",
+    "english": "Time flies, doesn't it."
+   },
+   "examplePolite": {
+    "romaji": "jikan ga tatsu no wa hayai desu ne",
+    "ja": "時間が経つのは早いですね",
+    "english": "Time flies, doesn't it."
+   }
+  },
+  {
+   "id": "c-tema-ga-kakaru",
+   "romaji": "tema ga kakaru",
+   "polite": "tema ga kakarimasu",
+   "english": "take work, be a hassle",
+   "ja": "手間がかかる",
+   "kana": "てまがかかる",
+   "politeJa": "手間がかかります",
+   "noun": "tema",
+   "particle": "ga",
+   "verb": "kakaru",
+   "verbJa": "かかる",
+   "verbSense": "be hung on or applied; of time, money or effort: be needed, be used up",
+   "englishVerb": "take",
+   "trap": "English 'it takes a lot of effort' leads to doryoku, which is effort as in trying hard. A chore that's fiddly or slow is tema ga kakaru, with the same kakaru as jikan ga kakaru.",
+   "partners": [],
+   "flags": [],
+   "use": "Said about cooking, chores and paperwork that eat up effort: kore, kekkou tema kakaru n da yo. Before a noun, ga becomes no: tema no kakaru ryouri (a fiddly dish).",
+   "notes": "tema o kakeru is going to the trouble on purpose: tema kakete tsukutta. Apologising for someone's trouble: otesuu o okake shimashita.",
+   "example": {
+    "romaji": "kono ryouri, kekkou tema kakaru n da.",
+    "ja": "この料理、けっこう手間かかるんだ。",
+    "english": "This dish takes quite a bit of work."
+   },
+   "examplePolite": {
+    "romaji": "kono ryouri wa kekkou tema ga kakaru n desu.",
+    "ja": "この料理はけっこう手間がかかるんです。",
+    "english": "This dish takes quite a bit of work."
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-gohan-ni-iku",
+   "romaji": "gohan ni iku",
+   "english": "go out to eat",
+   "chunk": "Eating out",
+   "recent": true
+  },
+  {
+   "id": "c-mise-ga-komu",
+   "romaji": "mise ga komu",
+   "english": "(a place) gets crowded (konderu = is packed)",
+   "chunk": "Eating out",
+   "recent": true
+  },
+  {
+   "id": "c-gohan-o-ogoru",
+   "romaji": "gohan o ogoru",
+   "english": "treat someone to a meal",
+   "chunk": "Eating out",
+   "recent": true
+  },
+  {
+   "id": "c-ryou-ga-ooi",
+   "romaji": "ryou ga ooi",
+   "english": "it's a big portion",
+   "chunk": "Eating out",
+   "recent": true
+  },
+  {
+   "id": "c-denki-o-tsukeru",
+   "romaji": "denki o tsukeru",
+   "english": "turn on the light",
+   "chunk": "Lights and buttons",
+   "recent": true
+  },
+  {
+   "id": "c-denki-o-kesu",
+   "romaji": "denki o kesu",
+   "english": "turn off the light",
+   "chunk": "Lights and buttons",
+   "recent": true
+  },
+  {
+   "id": "c-denki-ga-tsuku",
+   "romaji": "denki ga tsuku",
+   "english": "the light comes on (tsuiteru = is on)",
+   "chunk": "Lights and buttons",
+   "recent": true
+  },
+  {
+   "id": "c-botan-o-osu",
+   "romaji": "botan o osu",
+   "english": "press the button",
+   "chunk": "Lights and buttons",
+   "recent": true
+  },
+  {
+   "id": "c-densha-ga-okureru",
+   "romaji": "densha ga okureru",
+   "english": "the train is delayed",
+   "chunk": "Catching the train",
+   "recent": true
+  },
+  {
+   "id": "c-densha-ni-maniau",
+   "romaji": "densha ni maniau",
+   "english": "make the train in time",
+   "chunk": "Catching the train",
+   "recent": true
+  },
+  {
+   "id": "c-densha-ga-deru",
+   "romaji": "densha ga deru",
+   "english": "the train leaves",
+   "chunk": "Catching the train",
+   "recent": true
+  },
+  {
+   "id": "c-densha-ni-okureru",
+   "romaji": "densha ni okureru",
+   "english": "be late for the train (and so miss it)",
+   "chunk": "Catching the train",
+   "recent": true
+  },
+  {
+   "id": "c-shuuden-ga-nakunaru",
+   "romaji": "shuuden ga nakunaru",
+   "english": "the last train is gone (no way home)",
+   "chunk": "Catching the train",
+   "recent": true
+  },
+  {
+   "id": "c-byouin-ni-iku",
+   "romaji": "byouin ni iku",
+   "english": "see a doctor",
+   "chunk": "Doctor and medicine",
+   "recent": true
+  },
+  {
+   "id": "c-kusuri-o-nomu",
+   "romaji": "kusuri o nomu",
+   "english": "take medicine",
+   "chunk": "Doctor and medicine",
+   "recent": true
+  },
+  {
+   "id": "c-kusuri-ga-kiku",
+   "romaji": "kusuri ga kiku",
+   "english": "medicine works, takes effect",
+   "chunk": "Doctor and medicine",
+   "recent": true
+  },
+  {
+   "id": "c-naka-ga-ii",
+   "romaji": "naka ga ii",
+   "english": "get along well, be close",
+   "chunk": "Close and in touch",
+   "recent": true
+  },
+  {
+   "id": "c-naka-ga-warui",
+   "romaji": "naka ga warui",
+   "english": "be on bad terms",
+   "chunk": "Close and in touch",
+   "recent": true
+  },
+  {
+   "id": "c-renraku-o-toru",
+   "romaji": "renraku o toru",
+   "english": "get or stay in touch",
+   "chunk": "Close and in touch",
+   "recent": true
+  },
+  {
+   "id": "c-renraku-ga-kuru",
+   "romaji": "renraku ga kuru",
+   "english": "hear from someone",
+   "chunk": "Close and in touch",
+   "recent": true
+  },
+  {
+   "id": "c-ki-ni-iru",
+   "romaji": "ki ni iru",
+   "english": "like, be pleased with",
+   "chunk": "Likes, interest, confidence",
+   "recent": true
+  },
+  {
+   "id": "c-kyoumi-ga-aru",
+   "romaji": "kyoumi ga aru",
+   "english": "be interested (in)",
+   "chunk": "Likes, interest, confidence",
+   "recent": true
+  },
+  {
+   "id": "c-tanoshimi-ni-suru",
+   "romaji": "tanoshimi ni suru",
+   "english": "look forward to",
+   "chunk": "Likes, interest, confidence",
+   "recent": true
+  },
+  {
+   "id": "c-jishin-ga-aru",
+   "romaji": "jishin ga aru",
+   "english": "be confident (in yourself, your answer)",
+   "chunk": "Likes, interest, confidence",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "yuki",
+   "kenta"
+  ],
+  "format": "dialogue"
+ }
+}

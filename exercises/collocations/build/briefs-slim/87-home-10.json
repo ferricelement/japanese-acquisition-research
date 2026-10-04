@@ -1,0 +1,340 @@
+{
+ "script": 87,
+ "of": 94,
+ "stage": 4,
+ "chunkId": "home-10",
+ "label": "Your place",
+ "topic": "Home & daily routine",
+ "rationale": "Talking about where you live: renting, a cramped room, keeping a pet, parcels arriving.",
+ "mixUps": "Renting uses kariru, the 'borrow' verb, and a cramped room is usually semai (narrow) rather than chiisai. The kau of keeping a pet sounds like kau 'buy', and parcels todoku (reach you) rather than tsuku (arrive) like people.",
+ "targets": [
+  {
+   "id": "c-heya-o-kariru",
+   "romaji": "heya o kariru",
+   "polite": "heya o karimasu",
+   "english": "rent a room or flat",
+   "ja": "部屋を借りる",
+   "kana": "へやをかりる",
+   "politeJa": "部屋を借ります",
+   "noun": "heya",
+   "particle": "o",
+   "verb": "kariru",
+   "verbJa": "借りる",
+   "verbSense": "borrow; use something that is someone else's, free or paid",
+   "englishVerb": "rent",
+   "trap": "There's no separate 'rent' verb: the tenant kariru (borrows) and the landlord kasu (lends), so heya o kasu means letting it out. rentaru suru is for cars and kimono, not flats.",
+   "partners": [
+    "ie (house)",
+    "apaato (apartment)",
+    "chuushajou (parking space)",
+    "kuruma (car)"
+   ],
+   "flags": [],
+   "use": "For renting a place to live as the tenant: hitorigurashi de heya karita (I rented a place of my own). Casual speech drops o, and heya here usually means the whole flat.",
+   "notes": "The monthly rent is yachin (yachin takai = the rent's high).",
+   "example": {
+    "romaji": "eki no chikaku ni heya karita n da.",
+    "ja": "駅の近くに部屋借りたんだ。",
+    "english": "I've rented a place near the station."
+   },
+   "examplePolite": {
+    "romaji": "eki no chikaku ni heya o karita n desu.",
+    "ja": "駅の近くに部屋を借りたんです。",
+    "english": "I've rented a place near the station."
+   }
+  },
+  {
+   "id": "c-semai-heya",
+   "romaji": "semai heya",
+   "polite": null,
+   "english": "a small, cramped room",
+   "ja": "狭い部屋",
+   "kana": "せまいへや",
+   "politeJa": null,
+   "noun": "heya",
+   "particle": null,
+   "verb": "semai",
+   "verbJa": "狭い",
+   "verbSense": "narrow, cramped; small in floor space",
+   "englishVerb": "small",
+   "trap": "'Small' points to chiisai, but a room that feels cramped is semai, and a roomy one is hiroi: kono heya semai ne. chiisai heya is fine for a room's size (chiisai heya ga futatsu aru), just not as the complaint.",
+   "partners": [
+    "michi (road)",
+    "daidokoro (kitchen)",
+    "ofuro (bath)"
+   ],
+   "flags": [],
+   "use": "Rooms and flats are usually judged semai (cramped) or hiroi (roomy): semai heya da kedo, douzo. As a comment it's heya ga semai, usually without ga: kono heya semai ne.",
+   "notes": "The host's set line is semai tokoro da kedo, douzo (politely semai tokoro desu ga); the visitor's compliment is hiroi ne! semai also covers narrow roads.",
+   "example": {
+    "romaji": "semai heya da kedo, douzo.",
+    "ja": "狭い部屋だけど、どうぞ。",
+    "english": "It's a tiny place, but come in."
+   },
+   "examplePolite": {
+    "romaji": "semai heya desu kedo, douzo.",
+    "ja": "狭い部屋ですけど、どうぞ。",
+    "english": "It's a small room, but please come in."
+   }
+  },
+  {
+   "id": "c-inu-o-kau",
+   "romaji": "inu o kau",
+   "polite": "inu o kaimasu",
+   "english": "have / keep a dog",
+   "ja": "犬を飼う",
+   "kana": "いぬをかう",
+   "politeJa": "犬を飼います",
+   "noun": "inu",
+   "particle": "o",
+   "verb": "kau",
+   "verbJa": "飼う",
+   "verbSense": "keep, raise (an animal); sounds the same as kau 'buy'",
+   "englishVerb": "have",
+   "trap": "Not inu o motte iru: pets are kept with kau, the sound-alike of 'buy'. inu ga iru also works.",
+   "partners": [
+    "neko (cat)",
+    "petto (pet)",
+    "kingyo (goldfish)"
+   ],
+   "flags": [],
+   "use": "Almost always in the -teru form: inu katteru (I have a dog), nanika katteru? (do you have any pets?). inu ga iru (there's a dog) also works for 'I have a dog'.",
+   "notes": "katteru also means 'have bought'. In standard Tokyo speech kau 'keep' is accented on ka (KAtteru) while kau 'buy' is flat; context does the rest.",
+   "example": {
+    "romaji": "uchi, inu katteru n da.",
+    "ja": "うち、犬飼ってるんだ。",
+    "english": "We've got a dog at home."
+   },
+   "examplePolite": {
+    "romaji": "uchi wa inu o katte iru n desu.",
+    "ja": "うちは犬を飼っているんです。",
+    "english": "We have a dog at home."
+   }
+  },
+  {
+   "id": "c-nimotsu-ga-todoku",
+   "romaji": "nimotsu ga todoku",
+   "polite": "nimotsu ga todokimasu",
+   "english": "a package arrives, gets delivered",
+   "ja": "荷物が届く",
+   "kana": "にもつがとどく",
+   "politeJa": "荷物が届きます",
+   "noun": "nimotsu",
+   "particle": "ga",
+   "verb": "todoku",
+   "verbJa": "届く",
+   "verbSense": "reach, get to (someone); also reach with a hand",
+   "englishVerb": "arrive",
+   "trap": "'Arrive' points to tsuku, which is people and trains arriving (eki ni tsuku). Things sent to you mostly todoku, 'reach you', the same verb as for letters and messages; nimotsu ga tsuku is heard but less usual.",
+   "partners": [
+    "tegami (letter)",
+    "meeru (email)",
+    "purezento (present)"
+   ],
+   "flags": [],
+   "use": "For deliveries and online orders, mostly in the past: nimotsu todoita (my parcel came), or still waiting: mada todokanai. Casual speech drops ga.",
+   "notes": "A missed delivery means asking for saihaitatsu (redelivery).",
+   "example": {
+    "romaji": "kinou tanonda nimotsu, mou todoita.",
+    "ja": "昨日頼んだ荷物、もう届いた。",
+    "english": "The parcel I ordered yesterday already came."
+   },
+   "examplePolite": {
+    "romaji": "kinou tanonda nimotsu ga mou todokimashita.",
+    "ja": "昨日頼んだ荷物がもう届きました。",
+    "english": "The package I ordered yesterday has already arrived."
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-netto-de-shiraberu",
+   "romaji": "netto de shiraberu",
+   "english": "look something up online",
+   "chunk": "Internet and apps",
+   "recent": true
+  },
+  {
+   "id": "c-netto-ga-tsunagaru",
+   "romaji": "netto ga tsunagaru",
+   "english": "the internet connects, works",
+   "chunk": "Internet and apps",
+   "recent": true
+  },
+  {
+   "id": "c-denpa-ga-warui",
+   "romaji": "denpa ga warui",
+   "english": "bad signal, poor reception",
+   "chunk": "Internet and apps",
+   "recent": true
+  },
+  {
+   "id": "c-apuri-o-ireru",
+   "romaji": "apuri o ireru",
+   "english": "install an app, get an app",
+   "chunk": "Internet and apps",
+   "recent": true
+  },
+  {
+   "id": "c-yousu-o-miru",
+   "romaji": "yousu o miru",
+   "english": "wait and see; check on (someone)",
+   "chunk": "Plans and promises",
+   "recent": true
+  },
+  {
+   "id": "c-chuushi-ni-naru",
+   "romaji": "chuushi ni naru",
+   "english": "be called off",
+   "chunk": "Plans and promises",
+   "recent": true
+  },
+  {
+   "id": "c-yakusoku-o-mamoru",
+   "romaji": "yakusoku o mamoru",
+   "english": "keep a promise",
+   "chunk": "Plans and promises",
+   "recent": true
+  },
+  {
+   "id": "c-keikaku-o-tateru",
+   "romaji": "keikaku o tateru",
+   "english": "make a plan",
+   "chunk": "Plans and promises",
+   "recent": true
+  },
+  {
+   "id": "c-boushi-o-kaburu",
+   "romaji": "boushi o kaburu",
+   "english": "wear / put on a hat",
+   "chunk": "Hats and accessories",
+   "recent": true
+  },
+  {
+   "id": "c-yubiwa-o-suru",
+   "romaji": "yubiwa o suru",
+   "english": "wear a ring",
+   "chunk": "Hats and accessories",
+   "recent": true
+  },
+  {
+   "id": "c-nekutai-o-suru",
+   "romaji": "nekutai o suru",
+   "english": "wear a tie",
+   "chunk": "Hats and accessories",
+   "recent": true
+  },
+  {
+   "id": "c-kousui-o-tsukeru",
+   "romaji": "kousui o tsukeru",
+   "english": "wear / put on perfume",
+   "chunk": "Hats and accessories",
+   "recent": true
+  },
+  {
+   "id": "c-shigoto-o-sagasu",
+   "romaji": "shigoto o sagasu",
+   "english": "look for a job",
+   "chunk": "University and jobs",
+   "recent": true
+  },
+  {
+   "id": "c-shigoto-ga-mitsukaru",
+   "romaji": "shigoto ga mitsukaru",
+   "english": "find a job",
+   "chunk": "University and jobs",
+   "recent": true
+  },
+  {
+   "id": "c-daigaku-ni-hairu",
+   "romaji": "daigaku ni hairu",
+   "english": "get into university, start university",
+   "chunk": "University and jobs",
+   "recent": true
+  },
+  {
+   "id": "c-kaisha-ni-hairu",
+   "romaji": "kaisha ni hairu",
+   "english": "join a company",
+   "chunk": "University and jobs",
+   "recent": true
+  },
+  {
+   "id": "c-keiken-ga-aru",
+   "romaji": "keiken ga aru",
+   "english": "have experience",
+   "chunk": "University and jobs",
+   "recent": true
+  },
+  {
+   "id": "c-kega-o-suru",
+   "romaji": "kega o suru",
+   "english": "get hurt, get injured",
+   "chunk": "Visible signs",
+   "recent": true
+  },
+  {
+   "id": "c-chi-ga-deru",
+   "romaji": "chi ga deru",
+   "english": "bleed, be bleeding",
+   "chunk": "Visible signs",
+   "recent": true
+  },
+  {
+   "id": "c-ase-o-kaku",
+   "romaji": "ase o kaku",
+   "english": "sweat, get sweaty",
+   "chunk": "Visible signs",
+   "recent": true
+  },
+  {
+   "id": "c-kaoiro-ga-warui",
+   "romaji": "kaoiro ga warui",
+   "english": "look pale, look unwell",
+   "chunk": "Visible signs",
+   "recent": true
+  },
+  {
+   "id": "c-kao-ga-akai",
+   "romaji": "kao ga akai",
+   "english": "be red in the face",
+   "chunk": "Visible signs",
+   "recent": true
+  },
+  {
+   "id": "c-hana-ga-saku",
+   "romaji": "hana ga saku",
+   "english": "flowers bloom, come out",
+   "chunk": "Seasons",
+   "recent": true
+  },
+  {
+   "id": "c-atsusa-ni-yowai",
+   "romaji": "atsusa ni yowai",
+   "english": "can't take the heat",
+   "chunk": "Seasons",
+   "recent": true
+  },
+  {
+   "id": "c-semi-ga-naku",
+   "romaji": "semi ga naku",
+   "english": "cicadas sing, buzz",
+   "chunk": "Seasons",
+   "recent": true
+  },
+  {
+   "id": "c-yuki-ga-tsumoru",
+   "romaji": "yuki ga tsumoru",
+   "english": "snow settles, lies on the ground",
+   "chunk": "Seasons",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "satou",
+   "yuki"
+  ],
+  "format": "dialogue"
+ }
+}

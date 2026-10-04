@@ -1,0 +1,340 @@
+{
+ "script": 50,
+ "of": 94,
+ "stage": 3,
+ "chunkId": "people-6",
+ "label": "Seeing people",
+ "topic": "People & talk",
+ "rationale": "Getting together: meeting up with a friend, seeing someone home, going back to your parents', and birthdays.",
+ "mixUps": "au takes ni (tomodachi ni au), not o. Seeing someone home is okuru (okutte iku yo), not tsurete iku. jikka ni kaeru is going back to your parents' place, while uchi ni kaeru is just going home.",
+ "targets": [
+  {
+   "id": "c-tomodachi-ni-au",
+   "romaji": "tomodachi ni au",
+   "polite": "tomodachi ni aimasu",
+   "english": "see a friend, meet up",
+   "ja": "友達に会う",
+   "kana": "ともだちにあう",
+   "politeJa": "友達に会います",
+   "noun": "tomodachi",
+   "particle": "ni",
+   "verb": "au",
+   "verbJa": "会う",
+   "verbSense": "meet, see (a person)",
+   "englishVerb": "meet",
+   "trap": "English 'meet a friend' or 'see a friend' leads to tomodachi o au or tomodachi o miru. People you meet take ni or to (tomodachi ni au, tomodachi to au), and miru with a person means watching or minding them (kodomo mitete = keep an eye on the kids).",
+   "partners": [
+    "kanojo (girlfriend)",
+    "kazoku (family)",
+    "senpai (an older colleague or student)"
+   ],
+   "flags": [],
+   "use": "The everyday way to say what you're doing on a day off: kyou wa tomodachi ni au (I'm seeing a friend today). tomodachi to au is also heard and stresses a meet-up you both arranged; asobu (hang out) is the other weekend verb.",
+   "notes": "Bumping into a friend by chance is also au: eki de guuzen atta.",
+   "example": {
+    "romaji": "ashita tomodachi ni au n da.",
+    "ja": "明日友達に会うんだ。",
+    "english": "I'm seeing a friend tomorrow."
+   },
+   "examplePolite": {
+    "romaji": "ashita wa tomodachi ni au n desu.",
+    "ja": "明日は友達に会うんです。",
+    "english": "I'm meeting a friend tomorrow."
+   }
+  },
+  {
+   "id": "c-uchi-made-okuru",
+   "romaji": "ie made okuru",
+   "polite": "ie made okurimasu",
+   "english": "see or drive someone home",
+   "ja": "家まで送る",
+   "kana": "いえまでおくる",
+   "politeJa": "家まで送ります",
+   "noun": "ie",
+   "particle": "made",
+   "verb": "okuru",
+   "verbJa": "送る",
+   "verbSense": "send; also see someone off or take them somewhere",
+   "englishVerb": "take",
+   "trap": "English 'take you home' leads to tsurete iku, which sounds like leading someone who can't go alone (a child, a drunk friend). Seeing someone home as a courtesy, on foot or by car, is okuru: okutteku yo.",
+   "partners": [
+    "eki (the station)",
+    "kuukou (the airport)",
+    "genkan (the front door: genkan made okuru = see someone to the door)"
+   ],
+   "flags": [],
+   "use": "The offer at the end of an evening is okutteku yo (I'll walk or drive you home), often without naming the place, and the thanks is okutte kurete arigatou. made marks how far you go: eki made okuru (see someone to the station). The one taken home says uchi, their own home: uchi made okutte kureta (they saw me home).",
+   "notes": "miokuru is seeing someone off at the door, station or airport.",
+   "example": {
+    "romaji": "osoi kara, ie made okutteku yo.",
+    "ja": "遅いから、家まで送ってくよ。",
+    "english": "It's late, I'll see you home."
+   },
+   "examplePolite": {
+    "romaji": "osoi node, ie made okurimasu yo.",
+    "ja": "遅いので、家まで送りますよ。",
+    "english": "It's late, so I'll take you home."
+   }
+  },
+  {
+   "id": "c-jikka-ni-kaeru",
+   "romaji": "jikka ni kaeru",
+   "polite": "jikka ni kaerimasu",
+   "english": "go home to your parents'",
+   "ja": "実家に帰る",
+   "kana": "じっかにかえる",
+   "politeJa": "実家に帰ります",
+   "noun": "jikka",
+   "particle": "ni",
+   "verb": "kaeru",
+   "verbJa": "帰る",
+   "verbSense": "go back to where you belong (home, your country)",
+   "englishVerb": "go",
+   "trap": "English 'go to my parents' place' leads to oya no uchi ni iku, which sounds like a visit. The home you grew up in is jikka, and you kaeru to it. Your spouse's family home takes iku: tsuma no jikka ni iku.",
+   "partners": [
+    "inaka (your home region in the country)",
+    "kuni (home country)",
+    "furusato (hometown)"
+   ],
+   "flags": [],
+   "use": "The holiday question and answer: oshougatsu wa jikka ni kaeru? (going home for New Year?), obon wa jikka kaeru yo. It takes kaeru because it's a return, even after years of living away.",
+   "notes": "satogaeri = a trip back to your family home, also a mother-to-be going home to give birth.",
+   "example": {
+    "romaji": "oshougatsu wa jikka ni kaeru no?",
+    "ja": "お正月は実家に帰るの？",
+    "english": "Are you going home for New Year?"
+   },
+   "examplePolite": {
+    "romaji": "oshougatsu wa jikka ni kaerimasu ka?",
+    "ja": "お正月は実家に帰りますか？",
+    "english": "Are you going back to your family's for New Year?"
+   }
+  },
+  {
+   "id": "c-tanjoubi-o-iwau",
+   "romaji": "tanjoubi o iwau",
+   "polite": "tanjoubi o iwaimasu",
+   "english": "celebrate a birthday",
+   "ja": "誕生日を祝う",
+   "kana": "たんじょうびをいわう",
+   "politeJa": "誕生日を祝います",
+   "noun": "tanjoubi",
+   "particle": "o",
+   "verb": "iwau",
+   "verbJa": "祝う",
+   "verbSense": "celebrate, mark a happy occasion",
+   "englishVerb": "celebrate",
+   "trap": null,
+   "partners": [
+    "goukaku (passing an exam)",
+    "kekkon (getting married)",
+    "shuushoku (getting a job)",
+    "kinenbi (an anniversary)"
+   ],
+   "flags": [],
+   "use": "Mostly about others doing it for or with you: minna ga tanjoubi iwatte kureta (everyone celebrated my birthday), or planning: kanojo no tanjoubi, dou iwaou? The greeting itself is tanjoubi omedetou.",
+   "notes": "oiwai suru is the softer noun form: tanjoubi no oiwai shiyou (let's do something for the birthday).",
+   "example": {
+    "romaji": "minna ga tanjoubi iwatte kureta n da.",
+    "ja": "みんなが誕生日祝ってくれたんだ。",
+    "english": "Everyone celebrated my birthday for me."
+   },
+   "examplePolite": {
+    "romaji": "minna ga tanjoubi o iwatte kureta n desu.",
+    "ja": "みんなが誕生日を祝ってくれたんです。",
+    "english": "Everyone celebrated my birthday."
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-seikaku-ga-ii",
+   "romaji": "seikaku ga ii",
+   "english": "be a nice person",
+   "chunk": "Personality and mood",
+   "recent": true
+  },
+  {
+   "id": "c-seikaku-ga-warui",
+   "romaji": "seikaku ga warui",
+   "english": "be mean, nasty",
+   "chunk": "Personality and mood",
+   "recent": true
+  },
+  {
+   "id": "c-kanji-ga-ii",
+   "romaji": "kanji ga ii",
+   "english": "be pleasant, nice (person or place)",
+   "chunk": "Personality and mood",
+   "recent": true
+  },
+  {
+   "id": "c-genki-ga-nai",
+   "romaji": "genki ga nai",
+   "english": "be down, low on energy",
+   "chunk": "Personality and mood",
+   "recent": true
+  },
+  {
+   "id": "c-uso-o-tsuku",
+   "romaji": "uso o tsuku",
+   "english": "tell a lie",
+   "chunk": "Lies, jokes and complaints",
+   "recent": true
+  },
+  {
+   "id": "c-joudan-o-iu",
+   "romaji": "joudan o iu",
+   "english": "joke, kid around",
+   "chunk": "Lies, jokes and complaints",
+   "recent": true
+  },
+  {
+   "id": "c-monku-o-iu",
+   "romaji": "monku o iu",
+   "english": "complain",
+   "chunk": "Lies, jokes and complaints",
+   "recent": true
+  },
+  {
+   "id": "c-guchi-o-iu",
+   "romaji": "guchi o iu",
+   "english": "grumble, vent",
+   "chunk": "Lies, jokes and complaints",
+   "recent": true
+  },
+  {
+   "id": "c-naisho-ni-suru",
+   "romaji": "naisho ni suru",
+   "english": "keep it secret",
+   "chunk": "Lies, jokes and complaints",
+   "recent": true
+  },
+  {
+   "id": "c-yoko-ni-naru",
+   "romaji": "yoko ni naru",
+   "english": "lie down",
+   "chunk": "Rest and recovery",
+   "recent": true
+  },
+  {
+   "id": "c-netsu-ga-sagaru",
+   "romaji": "netsu ga sagaru",
+   "english": "fever goes down",
+   "chunk": "Rest and recovery",
+   "recent": true
+  },
+  {
+   "id": "c-kaze-ga-naoru",
+   "romaji": "kaze ga naoru",
+   "english": "get over a cold",
+   "chunk": "Rest and recovery",
+   "recent": true
+  },
+  {
+   "id": "c-tsukare-ga-toreru",
+   "romaji": "tsukare ga toreru",
+   "english": "shake off tiredness, feel rested",
+   "chunk": "Rest and recovery",
+   "recent": true
+  },
+  {
+   "id": "c-okane-ga-kakaru",
+   "romaji": "okane ga kakaru",
+   "english": "cost money",
+   "chunk": "Costs and paying",
+   "recent": true
+  },
+  {
+   "id": "c-ikura-suru",
+   "romaji": "ikura suru",
+   "english": "how much it costs (price + suru)",
+   "chunk": "Costs and paying",
+   "recent": true
+  },
+  {
+   "id": "c-nedan-ga-takai",
+   "romaji": "nedan ga takai",
+   "english": "the price is high",
+   "chunk": "Costs and paying",
+   "recent": true
+  },
+  {
+   "id": "c-okane-o-harau",
+   "romaji": "okane o harau",
+   "english": "pay (money)",
+   "chunk": "Costs and paying",
+   "recent": true
+  },
+  {
+   "id": "c-warikan-ni-suru",
+   "romaji": "warikan ni suru",
+   "english": "split the bill",
+   "chunk": "Costs and paying",
+   "recent": true
+  },
+  {
+   "id": "c-zubon-o-haku",
+   "romaji": "zubon o haku",
+   "english": "put on / wear trousers",
+   "chunk": "Trying clothes on",
+   "recent": true
+  },
+  {
+   "id": "c-fuku-o-kigaeru",
+   "romaji": "fuku o kigaeru",
+   "english": "change clothes, get changed",
+   "chunk": "Trying clothes on",
+   "recent": true
+  },
+  {
+   "id": "c-fuku-ga-niau",
+   "romaji": "fuku ga niau",
+   "english": "suit someone, look good on someone",
+   "chunk": "Trying clothes on",
+   "recent": true
+  },
+  {
+   "id": "c-saizu-ga-au",
+   "romaji": "saizu ga au",
+   "english": "be the right size, fit",
+   "chunk": "Trying clothes on",
+   "recent": true
+  },
+  {
+   "id": "c-jikan-ga-aku",
+   "romaji": "jikan ga aku",
+   "english": "be free (have time)",
+   "chunk": "Are you free?",
+   "recent": true
+  },
+  {
+   "id": "c-yotei-ga-aru",
+   "romaji": "yotei ga aru",
+   "english": "have plans",
+   "chunk": "Are you free?",
+   "recent": true
+  },
+  {
+   "id": "c-tsugou-ga-ii",
+   "romaji": "tsugou ga ii",
+   "english": "suit someone, be convenient",
+   "chunk": "Are you free?",
+   "recent": true
+  },
+  {
+   "id": "c-tsugou-ga-warui",
+   "romaji": "tsugou ga warui",
+   "english": "not suit someone, can't make it (a time)",
+   "chunk": "Are you free?",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "kenta",
+   "satou"
+  ],
+  "format": "monologue"
+ }
+}

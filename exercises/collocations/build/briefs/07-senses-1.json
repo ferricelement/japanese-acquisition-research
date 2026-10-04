@@ -1,0 +1,386 @@
+{
+ "script": 7,
+ "of": 94,
+ "stage": 1,
+ "chunkId": "senses-1",
+ "label": "Feels good or bad",
+ "topic": "Senses & mind",
+ "rationale": "How something feels to you (kimochi), your mood (kibun), someone's temper (kigen) and a place you like being in (igokochi).",
+ "mixUps": "English 'feel good/bad' covers all of these: kimochi ii is a physical sensation, kibun ii is your mood, igokochi ii is a place you're at ease in. kimochi warui is queasy or gross, while a grumpy mood others can see is kigen ga warui, not kibun ga warui (feel sick).",
+ "targets": [
+  {
+   "id": "c-kimochi-ga-ii",
+   "romaji": "kimochi ga ii",
+   "polite": "kimochi ga ii desu",
+   "english": "feels good, feels nice",
+   "ja": "気持ちがいい",
+   "kana": "きもちがいい",
+   "politeJa": "気持ちがいいです",
+   "noun": "kimochi",
+   "particle": "ga",
+   "verb": "ii",
+   "verbJa": "いい",
+   "verbSense": "good, fine; here the feeling is good",
+   "englishVerb": "feel",
+   "trap": "English 'feel good' covers mood and health, but kimochi ii is only a physical sensation: a bath, a breeze, a massage. For 'I feel good today', say kyou choushi ii or kibun ii. A bath isn't tanoshii (fun) either; it's kimochi ii.",
+   "partners": [
+    "igokochi (how comfortable a place is)",
+    "kibun (kibun ga ii: in a good mood)",
+    "choushi (choushi ga ii: in good shape)"
+   ],
+   "flags": [],
+   "use": "A reaction to a bath, a breeze, a massage or a stretch, almost always said as one word without ga: aa, kimochi ii. kimochi ii ne asks the other person to agree.",
+   "notes": "Also used for 'satisfying', like a tidy desk or a crisp sound.",
+   "example": {
+    "romaji": "aa, kaze ga kimochi ii ne.",
+    "ja": "ああ、風が気持ちいいね。",
+    "english": "Ah, the breeze feels nice."
+   },
+   "examplePolite": {
+    "romaji": "aa, kaze ga kimochi ii desu ne.",
+    "ja": "ああ、風が気持ちいいですね。",
+    "english": "Ah, the breeze feels nice, doesn't it."
+   }
+  },
+  {
+   "id": "c-kimochi-ga-warui",
+   "romaji": "kimochi ga warui",
+   "polite": "kimochi ga warui desu",
+   "english": "feel queasy, feel nauseous; gross, creepy",
+   "ja": "気持ちが悪い",
+   "kana": "きもちがわるい",
+   "politeJa": "気持ちが悪いです",
+   "noun": "kimochi",
+   "particle": "ga",
+   "verb": "warui",
+   "verbJa": "悪い",
+   "verbSense": "bad",
+   "englishVerb": "gross",
+   "trap": "English 'feel sick' covers both nausea and illness, but kimochi warui is only nausea or disgust. With a cold or the flu, say guai ga warui; kimochi warui sounds like you're about to throw up. For 'gross', learners say kirai, which only means dislike.",
+   "partners": [
+    "guai (guai ga warui: feel unwell, not queasy)",
+    "kibun (kibun ga warui: feel sick, without the 'gross' sense)"
+   ],
+   "flags": [],
+   "use": "Usually said as one word, kimochi warui. It covers both 'gross/creepy' (a bug, a weird message) and 'I feel queasy' (chotto kimochi warui).",
+   "notes": "About a person, kimochi warui means creepy and is insulting, and the slang clip kimoi (キモい), which only means gross or creepy, is ruder still. To say someone looks unwell, say guai warui sou.",
+   "example": {
+    "romaji": "nomisugite chotto kimochi warui.",
+    "ja": "飲みすぎてちょっと気持ち悪い。",
+    "english": "I drank too much, I feel a bit sick."
+   },
+   "examplePolite": {
+    "romaji": "nomisugite, chotto kimochi ga warui desu.",
+    "ja": "飲みすぎて、ちょっと気持ちが悪いです。",
+    "english": "I drank too much, I feel a bit sick."
+   }
+  },
+  {
+   "id": "c-kibun-ga-ii",
+   "romaji": "kibun ga ii",
+   "polite": "kibun ga ii desu",
+   "english": "be in a good mood; feel well",
+   "ja": "気分がいい",
+   "kana": "きぶんがいい",
+   "politeJa": "気分がいいです",
+   "noun": "kibun",
+   "particle": "ga",
+   "verb": "ii",
+   "verbJa": "いい",
+   "verbSense": "good, fine; here your mood is good",
+   "englishVerb": "feel",
+   "trap": "English 'feel good' covers everything, but kimochi ii is how something feels to you (a bath, a breeze, finally finishing), while kibun ii is your mood or how you feel overall. The negative isn't the mirror: kibun warui means feel sick, or feel put off (sonna koto iwarete kibun warui). Someone else being grumpy is kigen ga warui (kachou kigen warui); for yourself, iraira shiteru (I'm irritable) is more usual.",
+   "partners": [
+    "kigen (temper: kigen ga ii, cheerful)",
+    "choushi (condition: choushi ga ii, doing well)",
+    "kimochi (kimochi ii: something feels nice)"
+   ],
+   "flags": [],
+   "use": "About your mood, usually with ga dropped: kyou kibun ii (I'm in a good mood today). It also covers feeling well again after feeling sick: kibun yoku natta? (feeling better?). After a shower or a walk, sukkiri shita is more usual.",
+   "notes": "ii kibun (a nice feeling) is common too: nanka ii kibun. gokigen da ne means 'you're in a good mood'.",
+   "example": {
+    "romaji": "kyou wa nanka kibun ii n da.",
+    "ja": "今日はなんか気分いいんだ。",
+    "english": "I'm in a good mood today for some reason."
+   },
+   "examplePolite": {
+    "romaji": "kyou wa nanka kibun ga ii n desu.",
+    "ja": "今日はなんか気分がいいんです。",
+    "english": "I'm in a good mood today for some reason."
+   }
+  },
+  {
+   "id": "c-kigen-ga-warui",
+   "romaji": "kigen ga warui",
+   "polite": "kigen ga warui desu",
+   "english": "be in a bad mood, grumpy",
+   "ja": "機嫌が悪い",
+   "kana": "きげんがわるい",
+   "politeJa": "機嫌が悪いです",
+   "noun": "kigen",
+   "particle": "ga",
+   "verb": "warui",
+   "verbJa": "悪い",
+   "verbSense": "bad; here someone's mood is bad and it shows",
+   "englishVerb": "mood",
+   "trap": "For 'in a bad mood', learners say kibun ga warui, which means feeling sick or put off. A mood others can see is kigen ga warui: kare kyou kigen warui.",
+   "partners": [
+    "kibun (kibun ga warui: feel sick, not grumpy)",
+    "taido (taido ga warui: rude, surly)"
+   ],
+   "flags": [],
+   "use": "Said mostly about someone whose mood shows, with ga often dropped: kyou kachou kigen warui. It's also the word for a fussy, cranky baby or child (nemukute kigen warui); for yourself, iraira shiteru (I'm irritable) is more usual.",
+   "notes": "fukigen (sulky, grumpy) is common too, and kigen naoshite asks someone to stop sulking. For a good mood, kigen ii (kyou kigen ii ne) and gokigen (gokigen da ne) both work.",
+   "example": {
+    "romaji": "kyou kachou kigen warui ne.",
+    "ja": "今日課長機嫌悪いね。",
+    "english": "The boss is in a bad mood today."
+   },
+   "examplePolite": {
+    "romaji": "kyou wa kachou, kigen ga warui desu ne.",
+    "ja": "今日は課長、機嫌が悪いですね。",
+    "english": "The boss is in a bad mood today, isn't he."
+   }
+  },
+  {
+   "id": "c-igokochi-ga-ii",
+   "romaji": "igokochi ga ii",
+   "polite": "igokochi ga ii desu",
+   "english": "comfortable to be in, cosy",
+   "ja": "居心地がいい",
+   "kana": "いごこちがいい",
+   "politeJa": "居心地がいいです",
+   "noun": "igokochi",
+   "particle": "ga",
+   "verb": "ii",
+   "verbJa": "いい",
+   "verbSense": "good, nice; here being there feels good",
+   "englishVerb": "comfortable",
+   "trap": "For a place or people you feel at ease with, learners reach for kaiteki (comfortable), which is physical comfort and sounds like an ad; say igokochi ii. Don't stretch it to objects: a comfy chair is raku or suwarigokochi ii, comfy shoes are hakiyasui.",
+   "partners": [
+    "suwarigokochi (how a seat feels)",
+    "norigokochi (how a ride feels)",
+    "kigokochi (how clothes feel)",
+    "negokochi (how a bed feels)"
+   ],
+   "flags": [],
+   "use": "Said about a place or a group you feel at ease in, usually without ga: kono kafe igokochi ii. It also works for people: kare to iru to igokochi ii (I feel at ease with him).",
+   "notes": "The opposite, igokochi warui, means you feel awkward or out of place.",
+   "example": {
+    "romaji": "kono mise, nanka igokochi ii yo ne.",
+    "ja": "この店、なんか居心地いいよね。",
+    "english": "There's something really cosy about this place."
+   },
+   "examplePolite": {
+    "romaji": "kono mise, igokochi ga ii desu ne.",
+    "ja": "この店、居心地がいいですね。",
+    "english": "This place is so cosy, isn't it?"
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-ame-ga-furu",
+   "romaji": "ame ga furu",
+   "english": "it rains; rain falls",
+   "chunk": "Rain and snow",
+   "recent": true
+  },
+  {
+   "id": "c-yuki-ga-furu",
+   "romaji": "yuki ga furu",
+   "english": "it snows",
+   "chunk": "Rain and snow",
+   "recent": true
+  },
+  {
+   "id": "c-ame-ga-yamu",
+   "romaji": "ame ga yamu",
+   "english": "the rain stops",
+   "chunk": "Rain and snow",
+   "recent": true
+  },
+  {
+   "id": "c-kasa-o-sasu",
+   "romaji": "kasa o sasu",
+   "english": "put up (open) an umbrella; have an umbrella up",
+   "chunk": "Rain and snow",
+   "recent": true
+  },
+  {
+   "id": "c-ame-ni-furareru",
+   "romaji": "ame ni furareru",
+   "english": "get caught in the rain",
+   "chunk": "Rain and snow",
+   "recent": true
+  },
+  {
+   "id": "c-onaka-ga-suku",
+   "romaji": "onaka ga suku",
+   "english": "get hungry",
+   "chunk": "Hungry, full, thirsty",
+   "recent": true
+  },
+  {
+   "id": "c-onaka-ga-ippai",
+   "romaji": "onaka ga ippai",
+   "english": "be full (after eating)",
+   "chunk": "Hungry, full, thirsty",
+   "recent": true
+  },
+  {
+   "id": "c-nodo-ga-kawaku",
+   "romaji": "nodo ga kawaku",
+   "english": "get thirsty",
+   "chunk": "Hungry, full, thirsty",
+   "recent": true
+  },
+  {
+   "id": "c-onaka-ga-heru",
+   "romaji": "onaka ga heru",
+   "english": "get hungry (blunter, casual)",
+   "chunk": "Hungry, full, thirsty",
+   "recent": true
+  },
+  {
+   "id": "c-uchi-ni-kaeru",
+   "romaji": "uchi ni kaeru",
+   "english": "go home, get home",
+   "chunk": "Out and back",
+   "recent": true
+  },
+  {
+   "id": "c-uchi-o-deru",
+   "romaji": "uchi o deru",
+   "english": "leave the house",
+   "chunk": "Out and back",
+   "recent": true
+  },
+  {
+   "id": "c-soto-ni-deru",
+   "romaji": "soto ni deru",
+   "english": "go outside, step out",
+   "chunk": "Out and back",
+   "recent": true
+  },
+  {
+   "id": "c-kaimono-ni-iku",
+   "romaji": "kaimono ni iku",
+   "english": "go shopping",
+   "chunk": "Out and back",
+   "recent": true
+  },
+  {
+   "id": "c-kaeri-ga-osoi",
+   "romaji": "kaeri ga osoi",
+   "english": "get home late",
+   "chunk": "Out and back",
+   "recent": true
+  },
+  {
+   "id": "c-se-ga-takai",
+   "romaji": "se ga takai",
+   "english": "be tall",
+   "chunk": "Looks and voice",
+   "recent": true
+  },
+  {
+   "id": "c-se-ga-hikui",
+   "romaji": "se ga hikui",
+   "english": "be short (height)",
+   "chunk": "Looks and voice",
+   "recent": true
+  },
+  {
+   "id": "c-koe-ga-ookii",
+   "romaji": "koe ga ookii",
+   "english": "have a loud voice, be loud",
+   "chunk": "Looks and voice",
+   "recent": true
+  },
+  {
+   "id": "c-kami-ga-nagai",
+   "romaji": "kami ga nagai",
+   "english": "have long hair",
+   "chunk": "Looks and voice",
+   "recent": true
+  },
+  {
+   "id": "c-sutairu-ga-ii",
+   "romaji": "sutairu ga ii",
+   "english": "have a good figure",
+   "chunk": "Looks and voice",
+   "recent": true
+  },
+  {
+   "id": "c-densha-ni-noru",
+   "romaji": "densha ni noru",
+   "english": "ride / get on the train",
+   "chunk": "Getting on and off",
+   "recent": true
+  },
+  {
+   "id": "c-basu-ni-noru",
+   "romaji": "basu ni noru",
+   "english": "take the bus",
+   "chunk": "Getting on and off",
+   "recent": true
+  },
+  {
+   "id": "c-kuruma-ni-noru",
+   "romaji": "kuruma ni noru",
+   "english": "get in / ride in a car",
+   "chunk": "Getting on and off",
+   "recent": true
+  },
+  {
+   "id": "c-densha-o-oriru",
+   "romaji": "densha o oriru",
+   "english": "get off the train",
+   "chunk": "Getting on and off",
+   "recent": true
+  },
+  {
+   "id": "c-jitensha-ni-noru",
+   "romaji": "jitensha ni noru",
+   "english": "ride a bike",
+   "chunk": "Getting on and off",
+   "recent": true
+  },
+  {
+   "id": "c-gakkou-ni-iku",
+   "romaji": "gakkou ni iku",
+   "english": "go to school",
+   "chunk": "School and work days",
+   "recent": true
+  },
+  {
+   "id": "c-shigoto-ni-iku",
+   "romaji": "shigoto ni iku",
+   "english": "go to work",
+   "chunk": "School and work days",
+   "recent": true
+  },
+  {
+   "id": "c-shigoto-ga-owaru",
+   "romaji": "shigoto ga owaru",
+   "english": "get off work",
+   "chunk": "School and work days",
+   "recent": true
+  },
+  {
+   "id": "c-shigoto-ga-isogashii",
+   "romaji": "shigoto ga isogashii",
+   "english": "be busy with work",
+   "chunk": "School and work days",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "satou",
+   "yuki"
+  ],
+  "format": "dialogue"
+ }
+}

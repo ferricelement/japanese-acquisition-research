@@ -1,0 +1,1596 @@
+{
+  "summary": "One listening script with quiz questions per collocation chunk: write, 3-lens review, fix, recheck until clean",
+  "agentCount": 18,
+  "logs": [
+    "script 94 (Body and fitness): 6 review findings, 1 recheck(s), 0 still blocking",
+    "script 1 (Rain and snow): 13 review findings, 1 recheck(s), 0 still blocking",
+    "script 61 (Picking someone up): 11 review findings, 1 recheck(s), 0 still blocking",
+    "3/3 scripts written; 0 with blocking issues left"
+  ],
+  "result": {
+    "scripts": [
+      {
+        "n": 1,
+        "chunkId": "weather-1",
+        "script": {
+          "chunkId": "weather-1",
+          "title": "Umbrella up this time",
+          "format": "dialogue",
+          "register": "casual",
+          "setting": "A winter evening. Yuki turns up at Kenta's flat dripping wet and waits there for the rain to stop.",
+          "speakers": [
+            {
+              "id": "yuki",
+              "name": "Yuki",
+              "voice": "female, late 20s, bright and friendly"
+            },
+            {
+              "id": "kenta",
+              "name": "Kenta",
+              "voice": "male, late 20s, relaxed and easygoing"
+            }
+          ],
+          "lines": [
+            {
+              "speaker": "kenta",
+              "romaji": "a, yuki! e, daijoubu?",
+              "ja": "あ、ユキ！え、大丈夫？",
+              "kana": "あ、ゆき！え、だいじょうぶ？",
+              "english": "Oh, Yuki! Whoa, are you okay?",
+              "uses": []
+            },
+            {
+              "speaker": "yuki",
+              "romaji": "uun, daijoubu ja nai. ame ni furarechatta.",
+              "ja": "ううん、大丈夫じゃない。雨に降られちゃった。",
+              "kana": "ううん、だいじょうぶじゃない。あめにふられちゃった。",
+              "english": "Nope, not okay. I got caught in the rain.",
+              "uses": [
+                "c-ame-ni-furareru"
+              ]
+            },
+            {
+              "speaker": "kenta",
+              "romaji": "ame futteru no? kasa wa?",
+              "ja": "雨降ってるの？傘は？",
+              "kana": "あめふってるの？かさは？",
+              "english": "It's raining? Where's your umbrella?",
+              "uses": [
+                "c-ame-ga-furu"
+              ]
+            },
+            {
+              "speaker": "yuki",
+              "romaji": "motteru yo. kore.",
+              "ja": "持ってるよ。これ。",
+              "kana": "もってるよ。これ。",
+              "english": "I've got it. Right here.",
+              "uses": []
+            },
+            {
+              "speaker": "kenta",
+              "romaji": "jaa, nande kasa sasanakatta no?",
+              "ja": "じゃあ、なんで傘ささなかったの？",
+              "kana": "じゃあ、なんでかさささなかったの？",
+              "english": "Then why didn't you put it up?",
+              "uses": [
+                "c-kasa-o-sasu"
+              ]
+            },
+            {
+              "speaker": "yuki",
+              "romaji": "datte, chotto shika futtenakatta n da yo. demo, kyuu ni metcha futte kite.",
+              "ja": "だって、ちょっとしか降ってなかったんだよ。でも、急にめっちゃ降ってきて。",
+              "kana": "だって、ちょっとしかふってなかったんだよ。でも、きゅうにめっちゃふってきて。",
+              "english": "Well, it was barely raining! Then all of a sudden it started pouring.",
+              "uses": [
+                "c-ame-ga-furu"
+              ]
+            },
+            {
+              "speaker": "kenta",
+              "romaji": "kasa motteta noni, ame ni furareta no?",
+              "ja": "傘持ってたのに、雨に降られたの？",
+              "kana": "かさもってたのに、あめにふられたの？",
+              "english": "You had an umbrella and still got rained on?",
+              "uses": [
+                "c-ame-ni-furareru"
+              ]
+            },
+            {
+              "speaker": "yuki",
+              "romaji": "un. warui?",
+              "ja": "うん。悪い？",
+              "kana": "うん。わるい？",
+              "english": "Yep. Got a problem with that?",
+              "uses": []
+            },
+            {
+              "speaker": "kenta",
+              "romaji": "iya. boku mo kinou ame ni furareta yo. kasa nakatta kedo ne.",
+              "ja": "いや。僕も昨日雨に降られたよ。傘なかったけどね。",
+              "kana": "いや。ぼくもきのうあめにふられたよ。かさなかったけどね。",
+              "english": "Nope. I got caught in the rain yesterday too. Mind you, I didn't have an umbrella.",
+              "uses": [
+                "c-ame-ni-furareru"
+              ]
+            },
+            {
+              "speaker": "yuki",
+              "romaji": "ne, ame yamu made, koko ni ite ii?",
+              "ja": "ね、雨やむまで、ここにいていい？",
+              "kana": "ね、あめやむまで、ここにいていい？",
+              "english": "Hey, can I stay here till the rain stops?",
+              "uses": [
+                "c-ame-ga-yamu"
+              ]
+            },
+            {
+              "speaker": "kenta",
+              "romaji": "ii yo. demo, yamu kana.",
+              "ja": "いいよ。でも、やむかな。",
+              "kana": "いいよ。でも、やむかな。",
+              "english": "Sure. Not sure it's going to stop, though.",
+              "uses": [
+                "c-ame-ga-yamu"
+              ]
+            },
+            {
+              "speaker": "yuki",
+              "romaji": "kenta, soto mada ame futteru?",
+              "ja": "ケンタ、外まだ雨降ってる？",
+              "kana": "けんた、そとまだあめふってる？",
+              "english": "Kenta, is it still raining out?",
+              "uses": [
+                "c-ame-ga-furu"
+              ]
+            },
+            {
+              "speaker": "kenta",
+              "romaji": "uun, mou yanda yo. a, yuki!",
+              "ja": "ううん、もうやんだよ。あ、雪！",
+              "kana": "ううん、もうやんだよ。あ、ゆき！",
+              "english": "Nope, it's stopped. Oh! Snow!",
+              "uses": [
+                "c-ame-ga-yamu"
+              ]
+            },
+            {
+              "speaker": "yuki",
+              "romaji": "e, nani?",
+              "ja": "え、なに？",
+              "kana": "え、なに？",
+              "english": "Yeah? What?",
+              "uses": []
+            },
+            {
+              "speaker": "kenta",
+              "romaji": "yuki no koto ja nakute, soto! yuki futteru yo!",
+              "ja": "ユキのことじゃなくて、外！雪降ってるよ！",
+              "kana": "ゆきのことじゃなくて、そと！ゆきふってるよ！",
+              "english": "I don't mean you. Outside! It's snowing!",
+              "uses": [
+                "c-yuki-ga-furu"
+              ]
+            },
+            {
+              "speaker": "yuki",
+              "romaji": "honto ni? waa, honto ni yuki futteru!",
+              "ja": "ほんとに？わあ、ほんとに雪降ってる！",
+              "kana": "ほんとに？わあ、ほんとにゆきふってる！",
+              "english": "Seriously? Wow, it really is snowing!",
+              "uses": [
+                "c-yuki-ga-furu"
+              ]
+            },
+            {
+              "speaker": "kenta",
+              "romaji": "kondo wa kasa sasu?",
+              "ja": "今度は傘さす？",
+              "kana": "こんどはかささす？",
+              "english": "So, umbrella up this time?",
+              "uses": [
+                "c-kasa-o-sasu"
+              ]
+            },
+            {
+              "speaker": "yuki",
+              "romaji": "sasu yo! jaa ne!",
+              "ja": "さすよ！じゃあね！",
+              "kana": "さすよ！じゃあね！",
+              "english": "It's going up! Bye!",
+              "uses": [
+                "c-kasa-o-sasu"
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "type": "gist",
+              "targets": [],
+              "english": "What happens in this scene?",
+              "ja": "何がありましたか？",
+              "kana": "なにがありましたか？",
+              "romaji": "nani ga arimashita ka?",
+              "choices": [
+                {
+                  "key": "A",
+                  "english": "Yuki forgot her umbrella and waits at Kenta's until the snow stops.",
+                  "romaji": null
+                },
+                {
+                  "key": "B",
+                  "english": "Yuki got rained on even though she had her umbrella with her; now it's snowing, and this time she'll put it up.",
+                  "romaji": null
+                },
+                {
+                  "key": "C",
+                  "english": "Kenta got rained on today, so Yuki lends him her umbrella before she goes.",
+                  "romaji": null
+                }
+              ],
+              "answer": "B",
+              "modelAnswers": [],
+              "explanation": "Line 2: Yuki got caught in the rain (ame ni furarechatta). Lines 4-5: she had her umbrella (motteru yo, kore) but didn't put it up (nande kasa sasanakatta no?), because at first it was barely raining (line 6: chotto shika futtenakatta). Line 13: the rain has stopped (mou yanda yo), and lines 15-16: it's snowing. Lines 17-18: this time she'll put it up (kondo wa kasa sasu? / sasu yo!). A is wrong: she had her umbrella all along, and she waited for the rain to stop, not the snow (line 10). C is wrong: Kenta got rained on yesterday (line 9: kinou), and Yuki keeps her umbrella."
+            },
+            {
+              "type": "respond",
+              "targets": [
+                "c-ame-ga-furu"
+              ],
+              "english": "Kenta is about to head out and asks you, \"ima kara deru n da kedo, soto, ame?\" (I'm heading out. Is it raining?) It is. Tell him it's raining.",
+              "ja": "今から出るんだけど、外、雨？",
+              "kana": "いまからでるんだけど、そと、あめ？",
+              "romaji": "ima kara deru n da kedo, soto, ame?",
+              "choices": [],
+              "answer": "Say it's raining with ame and furu in its -teru form: un, ame futteru yo.",
+              "modelAnswers": [
+                {
+                  "romaji": "un, ame futteru yo.",
+                  "ja": "うん、雨降ってるよ。",
+                  "english": "Yeah, it's raining."
+                },
+                {
+                  "romaji": "un, ame futte kita yo.",
+                  "ja": "うん、雨降ってきたよ。",
+                  "english": "Yeah, it's started raining."
+                }
+              ],
+              "explanation": "Rain falls with furu, not ochiru. Futteru is 'it's raining right now', as in lines 3 and 12 (ame futteru no? / soto mada ame futteru?). Futte kita is 'it's started raining', the shape Yuki uses in line 6 (kyuu ni metcha futte kite). Kenta only said 'ame?', so the verb has to come from you."
+            },
+            {
+              "type": "meaning",
+              "targets": [
+                "c-yuki-ga-furu"
+              ],
+              "english": "After the rain stops, Kenta looks out and says \"soto! yuki futteru yo!\" What is happening outside?",
+              "ja": "今、外は？",
+              "kana": "いま、そとは？",
+              "romaji": "ima, soto wa?",
+              "choices": [
+                {
+                  "key": "A",
+                  "english": "The snow has just stopped, like the rain did.",
+                  "romaji": null
+                },
+                {
+                  "key": "B",
+                  "english": "There's snow on the ground from earlier, but nothing is falling.",
+                  "romaji": null
+                },
+                {
+                  "key": "C",
+                  "english": "It has started snowing, and the snow is coming down right now.",
+                  "romaji": null
+                }
+              ],
+              "answer": "C",
+              "modelAnswers": [],
+              "explanation": "Line 15: yuki futteru is snow falling right now: the same furu as rain, in its -teru form. Yuki looks and agrees in line 16 (honto ni yuki futteru!). A is wrong: mou yanda in line 13 was the rain stopping; for the snow Kenta says futteru, falling right now (lines 15-16). B would be yuki tsumotteru (the snow has settled on the ground), not futteru. In line 13 Kenta's 'a, yuki!' means snow, but Yuki thinks he is calling her name (line 14: e, nani?), so in line 15 he says yuki no koto ja nakute (I don't mean you)."
+            },
+            {
+              "type": "respond",
+              "targets": [
+                "c-ame-ga-yamu"
+              ],
+              "english": "Yuki asks you, \"ne, soto mada ame futteru?\" (Is it still raining out?) You look out: the rain has stopped. Tell her.",
+              "ja": "ね、外まだ雨降ってる？",
+              "kana": "ね、そとまだあめふってる？",
+              "romaji": "ne, soto mada ame futteru?",
+              "choices": [],
+              "answer": "Say no, it has stopped, with yamu in the past: uun, ame mou yanda yo.",
+              "modelAnswers": [
+                {
+                  "romaji": "uun, ame mou yanda yo.",
+                  "ja": "ううん、雨もうやんだよ。",
+                  "english": "No, the rain's stopped."
+                },
+                {
+                  "romaji": "iie, ame wa mou yamimashita yo.",
+                  "ja": "いいえ、雨はもうやみましたよ。",
+                  "english": "No, the rain has stopped now."
+                }
+              ],
+              "explanation": "Rain stops by itself, so it takes yamu: yanda (casual past), yamimashita (polite past). Not tomaru, and not yameru, which is a person quitting something. Kenta answers the same way in line 13, with ame left out (uun, mou yanda yo). The second model is the polite version, for someone like Tanaka-san or Satou-san."
+            },
+            {
+              "type": "heard",
+              "targets": [
+                "c-kasa-o-sasu"
+              ],
+              "english": "Kenta asks Yuki a 'why' question about her umbrella. What did he ask?",
+              "ja": "ケンタさんは何と言いましたか？",
+              "kana": "けんたさんはなんといいましたか？",
+              "romaji": "kenta-san wa nan to iimashita ka?",
+              "choices": [
+                {
+                  "key": "A",
+                  "english": "So why didn't you put your umbrella up?",
+                  "romaji": "jaa, nande kasa sasanakatta no?"
+                },
+                {
+                  "key": "B",
+                  "english": "So why didn't you open your umbrella?",
+                  "romaji": "jaa, nande kasa akenakatta no?"
+                },
+                {
+                  "key": "C",
+                  "english": "So why didn't you have your umbrella with you?",
+                  "romaji": "jaa, nande kasa mottenakatta no?"
+                }
+              ],
+              "answer": "A",
+              "modelAnswers": [],
+              "explanation": "Line 5: kasa o sasu is holding an umbrella up over you, and Kenta asks why she didn't (sasanakatta). B is the English word 'open' put into Japanese: you don't akeru an umbrella, you sasu it (hiraku is only the moment it pops open). C uses motsu, carrying it, and Yuki had just shown him she did have it (line 4: motteru yo, kore). Her problem was having it and not putting it up, which Kenta teases her about again in line 7 and line 17."
+            },
+            {
+              "type": "respond",
+              "targets": [
+                "c-ame-ni-furareru"
+              ],
+              "english": "You turn up at Kenta's flat soaking wet. He asks, \"e, daijoubu? nani ga atta no?\" (Whoa, are you okay? What happened?) Tell him you got caught in the rain.",
+              "ja": "え、大丈夫？何があったの？",
+              "kana": "え、だいじょうぶ？なにがあったの？",
+              "romaji": "e, daijoubu? nani ga atta no?",
+              "choices": [],
+              "answer": "Say the rain fell on you, with furareru (the passive of furu): ame ni furarechatta.",
+              "modelAnswers": [
+                {
+                  "romaji": "ame ni furarechatta. kyuu ni futte kite.",
+                  "ja": "雨に降られちゃった。急に降ってきて。",
+                  "english": "I got caught in the rain. It came on all of a sudden."
+                },
+                {
+                  "romaji": "ame ni furarechaimashita.",
+                  "ja": "雨に降られちゃいました。",
+                  "english": "I got caught in the rain."
+                }
+              ],
+              "explanation": "English 'caught' points to tsukamaru, but Japanese says the rain fell on you: ame ni furareta, and -chatta adds 'and that was bad luck'. That's Yuki's line 2 (ame ni furarechatta), and Kenta uses it in lines 7 and 9. Plain ame ga futta would only report the weather; furareta says it happened to you. The second model is the polite version, for someone like Satou-san."
+            }
+          ],
+          "newWords": [
+            {
+              "romaji": "shika",
+              "ja": "しか",
+              "english": "only (with a negative: chotto shika futtenakatta = it was barely raining)"
+            },
+            {
+              "romaji": "kyuu ni",
+              "ja": "急に",
+              "english": "suddenly, all of a sudden"
+            },
+            {
+              "romaji": "made",
+              "ja": "まで",
+              "english": "until (ame yamu made = until the rain stops)"
+            },
+            {
+              "romaji": "soto",
+              "ja": "外",
+              "english": "outside"
+            },
+            {
+              "romaji": "koto",
+              "ja": "こと",
+              "english": "thing, matter; X no koto = about X (yuki no koto ja nakute = I don't mean you)"
+            },
+            {
+              "romaji": "kondo",
+              "ja": "今度",
+              "english": "this time; next time"
+            },
+            {
+              "romaji": "akeru",
+              "ja": "開ける",
+              "english": "open (a door, a box)"
+            },
+            {
+              "romaji": "iu",
+              "ja": "言う",
+              "english": "say"
+            }
+          ],
+          "reviewUsed": []
+        },
+        "rounds": 1,
+        "reviewed": 13,
+        "remaining": []
+      },
+      {
+        "n": 61,
+        "chunkId": "travel-5",
+        "script": {
+          "chunkId": "travel-5",
+          "title": "A lift from the station",
+          "format": "dialogue",
+          "register": "casual",
+          "setting": "A rainy evening outside a station. Yuki has driven over to pick up her old friend Kenta, who is back from a trip with his bags and a heavy box he won't let her carry. On the way home they stop at a konbini.",
+          "speakers": [
+            {
+              "id": "yuki",
+              "name": "Yuki",
+              "voice": "female, late 20s, bright and friendly"
+            },
+            {
+              "id": "kenta",
+              "name": "Kenta",
+              "voice": "male, late 20s, relaxed and easygoing"
+            }
+          ],
+          "lines": [
+            {
+              "speaker": "yuki",
+              "romaji": "kenta! gomen, osoku natte. kuruma tomeru tokoro nakute.",
+              "ja": "ケンタ！ごめん、遅くなって。車止めるところなくて。",
+              "kana": "けんた！ごめん、おそくなって。くるまとめるところなくて。",
+              "english": "Kenta! Sorry I'm late. I couldn't find anywhere to park.",
+              "uses": [
+                "c-kuruma-o-tomeru"
+              ]
+            },
+            {
+              "speaker": "kenta",
+              "romaji": "uun, daijoubu. ame futteru noni, mukae ni kite kurete arigatou.",
+              "ja": "ううん、大丈夫。雨降ってるのに、迎えに来てくれてありがとう。",
+              "kana": "ううん、だいじょうぶ。あめふってるのに、むかえにきてくれてありがとう。",
+              "english": "No, it's fine. Thanks for coming to get me in the rain.",
+              "uses": [
+                "c-ame-ga-furu"
+              ]
+            },
+            {
+              "speaker": "yuki",
+              "romaji": "ii yo. e, nani sono hako? omosou! nimotsu motsu yo.",
+              "ja": "いいよ。え、何その箱？重そう！荷物持つよ。",
+              "kana": "いいよ。え、なにそのはこ？おもそう！にもつもつよ。",
+              "english": "No problem. Wait, what's that box? It looks heavy! Let me take your stuff.",
+              "uses": [
+                "c-nimotsu-o-motsu"
+              ]
+            },
+            {
+              "speaker": "kenta",
+              "romaji": "aa, hako wa jibun de motsu kara daijoubu. jaa, kotchi no nimotsu dake motte kureru?",
+              "ja": "ああ、箱は自分で持つから大丈夫。じゃあ、こっちの荷物だけ持ってくれる？",
+              "kana": "ああ、はこはじぶんでもつからだいじょうぶ。じゃあ、こっちのにもつだけもってくれる？",
+              "english": "Oh, I'll carry the box myself, it's fine. Could you just take this bag, then?",
+              "uses": [
+                "c-nimotsu-o-motsu"
+              ]
+            },
+            {
+              "speaker": "yuki",
+              "romaji": "un. a, hayaku notte! koko, kuruma tomecha dame na n da.",
+              "ja": "うん。あ、早く乗って！ここ、車止めちゃだめなんだ。",
+              "kana": "うん。あ、はやくのって！ここ、くるまとめちゃだめなんだ。",
+              "english": "Sure. Oh, get in, quick! You're not allowed to park here.",
+              "uses": [
+                "c-kuruma-o-tomeru"
+              ]
+            },
+            {
+              "speaker": "kenta",
+              "romaji": "kuruma ni nosete moraete, honto ni yokatta. basu mo sugoi konderu shi.",
+              "ja": "車に乗せてもらえて、ほんとによかった。バスもすごい混んでるし。",
+              "kana": "くるまにのせてもらえて、ほんとによかった。バスもすごいこんでるし。",
+              "english": "I'm so glad I got a lift. The buses are packed, too.",
+              "uses": [
+                "c-kuruma-ni-noseru"
+              ]
+            },
+            {
+              "speaker": "yuki",
+              "romaji": "demo, kenta ga kuruma nosete tte iu no, hajimete ja nai?",
+              "ja": "でも、ケンタが「車乗せて」って言うの、初めてじゃない？",
+              "kana": "でも、けんたが「くるまのせて」っていうの、はじめてじゃない？",
+              "english": "But this is the first time you've ever asked me for a lift, isn't it?",
+              "uses": [
+                "c-kuruma-ni-noseru"
+              ]
+            },
+            {
+              "speaker": "kenta",
+              "romaji": "sore ga ne, yuki ni omiyage katta n da. ushiro no hako. osake, sanbon.",
+              "ja": "それがね、ユキにお土産買ったんだ。後ろの箱。お酒、三本。",
+              "kana": "それがね、ゆきにおみやげかったんだ。うしろのはこ。おさけ、さんぼん。",
+              "english": "Well, the thing is, I bought you a souvenir. The box in the back. Three bottles of sake.",
+              "uses": [
+                "c-omiyage-o-kau"
+              ]
+            },
+            {
+              "speaker": "yuki",
+              "romaji": "e, sanbon? dakara jibun de motsu tte itta n da. arigatou!",
+              "ja": "え、三本？だから自分で持つって言ったんだ。ありがとう！",
+              "kana": "え、さんぼん？だからじぶんでもつっていったんだ。ありがとう！",
+              "english": "Three bottles? So that's why you wanted to carry it yourself. Thank you!",
+              "uses": []
+            },
+            {
+              "speaker": "kenta",
+              "romaji": "a, onaka suita. konbini yottekanai?",
+              "ja": "あ、おなかすいた。コンビニ寄ってかない？",
+              "kana": "あ、おなかすいた。コンビニよってかない？",
+              "english": "Oh, I'm hungry. Want to stop by a konbini?",
+              "uses": [
+                "c-onaka-ga-suku",
+                "c-konbini-ni-yoru"
+              ]
+            },
+            {
+              "speaker": "yuki",
+              "romaji": "ii yo. asoko no konbini ni yorou. a, demo mise no mae, kuruma ippai tomatteru.",
+              "ja": "いいよ。あそこのコンビニに寄ろう。あ、でも店の前、車いっぱい止まってる。",
+              "kana": "いいよ。あそこのコンビニによろう。あ、でもみせのまえ、くるまいっぱいとまってる。",
+              "english": "Sure. Let's stop at that one over there. Oh, but the front's full of parked cars.",
+              "uses": [
+                "c-konbini-ni-yoru"
+              ]
+            },
+            {
+              "speaker": "kenta",
+              "romaji": "mise no ushiro ni mo kuruma tomerareru yo. hora, asoko aiteru.",
+              "ja": "店の後ろにも車止められるよ。ほら、あそこ空いてる。",
+              "kana": "みせのうしろにもくるまとめられるよ。ほら、あそこあいてる。",
+              "english": "You can park behind the shop too. Look, there's a space over there.",
+              "uses": [
+                "c-kuruma-o-tomeru"
+              ]
+            },
+            {
+              "speaker": "yuki",
+              "romaji": "honto da. de, kuruma ni nosete ageta n da kara, koohii ogotte ne.",
+              "ja": "ほんとだ。で、車に乗せてあげたんだから、コーヒーおごってね。",
+              "kana": "ほんとだ。で、くるまにのせてあげたんだから、コーヒーおごってね。",
+              "english": "Oh, you're right. So, since I gave you a lift, the coffee's on you.",
+              "uses": [
+                "c-kuruma-ni-noseru"
+              ]
+            },
+            {
+              "speaker": "kenta",
+              "romaji": "hai hai. ato, kondo wa boku ga mukae ni iku ne.",
+              "ja": "はいはい。あと、今度は僕が迎えに行くね。",
+              "kana": "はいはい。あと、こんどはぼくがむかえにいくね。",
+              "english": "Yeah, yeah. And next time, I'll come and pick you up.",
+              "uses": [
+                "c-mukae-ni-iku"
+              ]
+            },
+            {
+              "speaker": "yuki",
+              "romaji": "mukae ni iku tte, kenta, kuruma nai jan.",
+              "ja": "「迎えに行く」って、ケンタ、車ないじゃん。",
+              "kana": "「むかえにいく」って、けんた、くるまないじゃん。",
+              "english": "Pick me up? Kenta, you don't even have a car.",
+              "uses": [
+                "c-mukae-ni-iku"
+              ]
+            },
+            {
+              "speaker": "kenta",
+              "romaji": "densha de mukae ni itte, nimotsu motsu yo.",
+              "ja": "電車で迎えに行って、荷物持つよ。",
+              "kana": "でんしゃでむかえにいって、にもつもつよ。",
+              "english": "I'll come and get you on the train, and carry your bags.",
+              "uses": [
+                "c-mukae-ni-iku",
+                "c-nimotsu-o-motsu"
+              ]
+            },
+            {
+              "speaker": "yuki",
+              "romaji": "jaa, kenta ni mo omiyage katte kuru ne. osake, yonhon. zenbu motte ne.",
+              "ja": "じゃあ、ケンタにもお土産買ってくるね。お酒、四本。全部持ってね。",
+              "kana": "じゃあ、けんたにもおみやげかってくるね。おさけ、よんほん。ぜんぶもってね。",
+              "english": "Then I'll bring you back a souvenir too. Four bottles of sake. You can carry them all.",
+              "uses": [
+                "c-omiyage-o-kau"
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "type": "gist",
+              "targets": [],
+              "english": "What happens in this conversation?",
+              "ja": "何がありましたか？",
+              "kana": "なにがありましたか？",
+              "romaji": "nani ga arimashita ka?",
+              "choices": [
+                {
+                  "key": "A",
+                  "english": "Kenta picks Yuki up at the station and carries her heavy box for her.",
+                  "romaji": null
+                },
+                {
+                  "key": "B",
+                  "english": "Yuki picks Kenta up in her car, and his heavy box turns out to be sake he bought for her.",
+                  "romaji": null
+                },
+                {
+                  "key": "C",
+                  "english": "Yuki picks Kenta up, but there's nowhere to park, so they skip the konbini and go straight home.",
+                  "romaji": null
+                }
+              ],
+              "answer": "B",
+              "modelAnswers": [],
+              "explanation": "Lines 1-2: Yuki has driven to the station to get Kenta (mukae ni kite kurete arigatou). Line 7: she points out it's the first time he's asked her for a lift. Line 8 explains: the box in the back is a souvenir he bought her, three bottles of sake, and in line 9 Yuki realises that's why he carried it himself. A swaps the two: Yuki is the one with the car, and Kenta only promises to come and get her next time, by train (lines 14-16). C is wrong because Kenta spots a space behind the shop (line 12) and they stop for coffee (line 13)."
+            },
+            {
+              "type": "respond",
+              "targets": [
+                "c-mukae-ni-iku"
+              ],
+              "english": "Kenta calls you: \"I've just got to the station, but the rain's crazy and I don't have an umbrella.\" You have a car. Offer to come and pick him up.",
+              "ja": "今駅に着いたんだけど、雨すごくて、傘ないんだ。",
+              "kana": "いまえきについたんだけど、あめすごくて、かさないんだ。",
+              "romaji": "ima eki ni tsuita n da kedo, ame sugokute, kasa nai n da.",
+              "choices": [],
+              "answer": "Offer to come and get him with mukae ni iku. Say iku, not kuru, even though English says 'I'll come': eki made mukae ni iku yo.",
+              "modelAnswers": [
+                {
+                  "romaji": "jaa, eki made mukae ni iku yo.",
+                  "ja": "じゃあ、駅まで迎えに行くよ。",
+                  "english": "Then I'll come and pick you up at the station."
+                },
+                {
+                  "romaji": "ima kara mukae ni iku ne. chotto mattete.",
+                  "ja": "今から迎えに行くね。ちょっと待ってて。",
+                  "english": "I'll come and get you now. Hang on a bit."
+                }
+              ],
+              "explanation": "You're the one going, so it's mukae ni iku, as Kenta says in line 14 (kondo wa boku ga mukae ni iku ne). mukae ni kuru is the other direction: in line 2 Kenta thanks Yuki with mukae ni kite kurete arigatou because she came to him. 'Pick up' isn't toru here."
+            },
+            {
+              "type": "heard",
+              "targets": [
+                "c-nimotsu-o-motsu"
+              ],
+              "english": "When Yuki sees Kenta's heavy-looking box, what does she offer?",
+              "ja": "ユキさんは箱を見て、何と言いましたか？",
+              "kana": "ゆきさんははこをみて、なんといいましたか？",
+              "romaji": "yuki-san wa hako o mite, nan to iimashita ka?",
+              "choices": [
+                {
+                  "key": "A",
+                  "english": "I'll haul your luggage over.",
+                  "romaji": "nimotsu hakobu yo."
+                },
+                {
+                  "key": "B",
+                  "english": "I'll grab your bags.",
+                  "romaji": "nimotsu toru yo."
+                },
+                {
+                  "key": "C",
+                  "english": "Let me take your stuff.",
+                  "romaji": "nimotsu motsu yo."
+                }
+              ],
+              "answer": "C",
+              "modelAnswers": [],
+              "explanation": "Line 3: Yuki says omosou! nimotsu motsu yo, and in line 4 Kenta answers kotchi no nimotsu dake motte kureru? A, hakobu, is where English 'carry' points, but it means moving things to a place (kuruma made hakobu, take them to the car; boxes into a flat). Taking a bag off someone's hands, as Yuki offers here, is motsu. B, toru, is 'take' word for word, but it means taking hold of something or taking it away, not carrying it for someone."
+            },
+            {
+              "type": "respond",
+              "targets": [
+                "c-kuruma-ni-noseru"
+              ],
+              "english": "At the end of an evening out, Yuki says: \"I drove here today. How are you getting home?\" Ask her for a lift.",
+              "ja": "今日は車で来たんだ。帰り、どうする？",
+              "kana": "きょうはくるまできたんだ。かえり、どうする？",
+              "romaji": "kyou wa kuruma de kita n da. kaeri, dou suru?",
+              "choices": [],
+              "answer": "Ask for a lift with noseru plus kureru or morau: kaeri, kuruma nosete kureru?",
+              "modelAnswers": [
+                {
+                  "romaji": "jaa, kaeri, kuruma nosete kureru?",
+                  "ja": "じゃあ、帰り、車乗せてくれる？",
+                  "english": "Then can you give me a lift back?"
+                },
+                {
+                  "romaji": "eki made kuruma ni nosete moraeru?",
+                  "ja": "駅まで車に乗せてもらえる？",
+                  "english": "Could you give me a lift to the station?"
+                }
+              ],
+              "explanation": "Giving someone a lift is noseru (put on board), the transitive of noru. Kenta says kuruma ni nosete moraete (line 6) and Yuki says kuruma ni nosete ageta n da kara (line 13). Yuki's hayaku notte (line 5) is the other side: noru is getting in yourself. Don't say raido o ageru, or kuruma o ageru, which would mean giving the car away."
+            },
+            {
+              "type": "meaning",
+              "targets": [
+                "c-kuruma-o-tomeru"
+              ],
+              "english": "What reason does Yuki give for telling Kenta to get in quickly at the station?",
+              "ja": "ユキさんは、どうして「早く乗って」と言いましたか？",
+              "kana": "ゆきさんは、どうして「はやくのって」といいましたか？",
+              "romaji": "yuki-san wa, doushite hayaku notte to iimashita ka?",
+              "choices": [
+                {
+                  "key": "A",
+                  "english": "She isn't allowed to park there.",
+                  "romaji": null
+                },
+                {
+                  "key": "B",
+                  "english": "She can't let him stay at her place tonight.",
+                  "romaji": null
+                },
+                {
+                  "key": "C",
+                  "english": "She doesn't want his bags to get wet in the rain.",
+                  "romaji": null
+                }
+              ],
+              "answer": "A",
+              "modelAnswers": [],
+              "explanation": "Line 5: koko, kuruma tomecha dame na n da. kuruma o tomeru is parking (literally stopping the car), and -cha dame says it isn't allowed, so she has pulled up where she can't stay. Line 1 set this up: she couldn't find anywhere to park (kuruma tomeru tokoro nakute). B confuses it with a different tomeru that means putting someone up for the night. It sounds the same but never goes with kuruma. C: it is raining (line 2), but the reason she gives is the parking."
+            },
+            {
+              "type": "respond",
+              "targets": [
+                "c-konbini-ni-yoru"
+              ],
+              "english": "Tanaka-san is giving you a lift after work and says: \"I'll take you straight home.\" Politely ask if you could stop by a konbini on the way.",
+              "ja": "このまま家まで送りますね。",
+              "kana": "このままいえまでおくりますね。",
+              "romaji": "kono mama ie made okurimasu ne.",
+              "choices": [],
+              "answer": "Ask to drop in at the konbini with yoru, not tomaru: sumimasen, chotto konbini ni yotte moraemasu ka?",
+              "modelAnswers": [
+                {
+                  "romaji": "sumimasen, chotto konbini ni yotte moraemasu ka?",
+                  "ja": "すみません、ちょっとコンビニに寄ってもらえますか？",
+                  "english": "Sorry, could we stop by a konbini?"
+                },
+                {
+                  "romaji": "arigatou gozaimasu. sono mae ni, konbini ni yotte mo ii desu ka?",
+                  "ja": "ありがとうございます。その前に、コンビニに寄ってもいいですか？",
+                  "english": "Thank you. Before that, would it be all right to stop at a konbini?"
+                }
+              ],
+              "explanation": "Dropping in somewhere on the way is yoru: Kenta asks konbini yottekanai? (line 10) and Yuki says asoko no konbini ni yorou (line 11). Not konbini ni tomaru: tomaru is a car stopping or standing somewhere (kuruma ippai tomatteru, line 11), or staying the night. Once you're there, parking is kuruma o tomeru (line 12)."
+            }
+          ],
+          "newWords": [
+            {
+              "romaji": "hako",
+              "ja": "箱",
+              "english": "box"
+            },
+            {
+              "romaji": "omoi",
+              "ja": "重い",
+              "english": "heavy (omosou = looks heavy)"
+            },
+            {
+              "romaji": "tomaru",
+              "ja": "止まる",
+              "english": "(of a car) stop, pull up; tomatteru = is parked there"
+            },
+            {
+              "romaji": "-hon",
+              "ja": "本",
+              "english": "counter for bottles and other long things (sanbon = three, yonhon = four)"
+            },
+            {
+              "romaji": "hakobu",
+              "ja": "運ぶ",
+              "english": "carry, move (things to a place)"
+            }
+          ],
+          "reviewUsed": [
+            "c-ame-ga-furu",
+            "c-omiyage-o-kau",
+            "c-onaka-ga-suku"
+          ]
+        },
+        "rounds": 1,
+        "reviewed": 11,
+        "remaining": []
+      },
+      {
+        "n": 94,
+        "chunkId": "describing-6",
+        "script": {
+          "chunkId": "describing-6",
+          "title": "Who was that runner?",
+          "format": "dialogue",
+          "register": "polite",
+          "setting": "A weekday morning at the office. Tanaka-san, Mai's manager, is putting together a relay team for the company's sports day next month and stops by her desk.",
+          "speakers": [
+            {
+              "id": "tanaka",
+              "name": "Tanaka-san",
+              "voice": "male, 40s, calm and kind, polite office speech"
+            },
+            {
+              "id": "mai",
+              "name": "Mai",
+              "voice": "female, late 20s, warm, a little shy"
+            }
+          ],
+          "lines": [
+            {
+              "speaker": "tanaka",
+              "romaji": "kimura-san, chotto ii desu ka? raigetsu no undoukai no koto na n desu kedo.",
+              "ja": "木村さん、ちょっといいですか？来月の運動会のことなんですけど。",
+              "kana": "きむらさん、ちょっといいですか？らいげつのうんどうかいのことなんですけど。",
+              "english": "Kimura-san, have you got a minute? It's about next month's sports day.",
+              "uses": []
+            },
+            {
+              "speaker": "mai",
+              "romaji": "hai, nan deshou?",
+              "ja": "はい、何でしょう？",
+              "kana": "はい、なんでしょう？",
+              "english": "Sure, what is it?",
+              "uses": []
+            },
+            {
+              "speaker": "tanaka",
+              "romaji": "riree ni deru hito ga, hitori tarinai n desu. kimura-san, dete moraemasen ka?",
+              "ja": "リレーに出る人が、一人足りないんです。木村さん、出てもらえませんか？",
+              "kana": "りれーにでるひとが、ひとりたりないんです。きむらさん、でてもらえませんか？",
+              "english": "We're one runner short for the relay. Could you run in it?",
+              "uses": []
+            },
+            {
+              "speaker": "mai",
+              "romaji": "e, watashi desu ka? undou shinkei yokunai shi, tairyoku mo nai n desu yo.",
+              "ja": "え、私ですか？運動神経よくないし、体力もないんですよ。",
+              "kana": "え、わたしですか？うんどうしんけいよくないし、たいりょくもないんですよ。",
+              "english": "What, me? I'm not very athletic, and I've got no stamina either.",
+              "uses": [
+                "c-undou-shinkei-ga-ii",
+                "c-tairyoku-ga-aru"
+              ]
+            },
+            {
+              "speaker": "tanaka",
+              "romaji": "riree nara, tairyoku ga nakute mo daijoubu desu yo. kimura-san, ashi ga hayai deshou?",
+              "ja": "リレーなら、体力がなくても大丈夫ですよ。木村さん、足が速いでしょう？",
+              "kana": "りれーなら、たいりょくがなくてもだいじょうぶですよ。きむらさん、あしがはやいでしょう？",
+              "english": "You don't need stamina for the relay. And you're a fast runner, aren't you?",
+              "uses": [
+                "c-tairyoku-ga-aru",
+                "c-ashi-ga-hayai"
+              ]
+            },
+            {
+              "speaker": "mai",
+              "romaji": "iya, sonna koto nai desu yo.",
+              "ja": "いや、そんなことないですよ。",
+              "kana": "いや、そんなことないですよ。",
+              "english": "Oh no, not really.",
+              "uses": []
+            },
+            {
+              "speaker": "tanaka",
+              "romaji": "kesa, eki no mae de hashitteru no o mimashita yo. sugoku hayakatta desu.",
+              "ja": "今朝、駅の前で走ってるのを見ましたよ。すごく速かったです。",
+              "kana": "けさ、えきのまえではしってるのをみましたよ。すごくはやかったです。",
+              "english": "I saw you running outside the station this morning. You were really fast.",
+              "uses": []
+            },
+            {
+              "speaker": "mai",
+              "romaji": "kesa desu ka? watashi, kyou wa basu de kaisha made kimashita kedo.",
+              "ja": "今朝ですか？私、今日はバスで会社まで来ましたけど。",
+              "kana": "けさですか？わたし、きょうはばすでかいしゃまできましたけど。",
+              "english": "This morning? I came to work by bus today, though.",
+              "uses": []
+            },
+            {
+              "speaker": "tanaka",
+              "romaji": "e? jaa, ano hito wa dare datta n deshou.",
+              "ja": "え？じゃあ、あの人は誰だったんでしょう。",
+              "kana": "え？じゃあ、あのひとはだれだったんでしょう。",
+              "english": "Huh? Then who was that?",
+              "uses": []
+            },
+            {
+              "speaker": "mai",
+              "romaji": "a, tanaka-san, kyou wa megane o kaketenai n desu ne.",
+              "ja": "あ、田中さん、今日はメガネをかけてないんですね。",
+              "kana": "あ、たなかさん、きょうはめがねをかけてないんですね。",
+              "english": "Oh, Tanaka-san, you're not wearing your glasses today.",
+              "uses": [
+                "c-megane-o-kakeru"
+              ]
+            },
+            {
+              "speaker": "tanaka",
+              "romaji": "jitsu wa, uchi ni wasurete kita n desu. watashi, kanari me ga warui n desu yo.",
+              "ja": "実は、うちに忘れてきたんです。私、かなり目が悪いんですよ。",
+              "kana": "じつは、うちにわすれてきたんです。わたし、かなりめがわるいんですよ。",
+              "english": "Actually, I left them at home. My eyesight's pretty bad.",
+              "uses": [
+                "c-me-ga-warui"
+              ]
+            },
+            {
+              "speaker": "mai",
+              "romaji": "watashi mo me ga warui node, wakarimasu. megane ga nai to, nanimo mienai desu yo ne.",
+              "ja": "私も目が悪いので、わかります。メガネがないと、何も見えないですよね。",
+              "kana": "わたしもめがわるいので、わかります。めがねがないと、なにもみえないですよね。",
+              "english": "My eyesight's bad too, so I know. Without glasses you can't see a thing, can you?",
+              "uses": [
+                "c-me-ga-warui"
+              ]
+            },
+            {
+              "speaker": "tanaka",
+              "romaji": "sou na n desu. demo, ano hito, kami ga nagakute, honto ni ashi ga hayakatta n desu yo.",
+              "ja": "そうなんです。でも、あの人、髪が長くて、ほんとに足が速かったんですよ。",
+              "kana": "そうなんです。でも、あのひと、かみがながくて、ほんとにあしがはやかったんですよ。",
+              "english": "Exactly. But that person had long hair, and could really run.",
+              "uses": [
+                "c-kami-ga-nagai",
+                "c-ashi-ga-hayai"
+              ]
+            },
+            {
+              "speaker": "mai",
+              "romaji": "aa, sore, yuki-san desu yo! mainichi, eki kara hashitte kuru n desu.",
+              "ja": "ああ、それ、ユキさんですよ！毎日、駅から走ってくるんです。",
+              "kana": "ああ、それ、ゆきさんですよ！まいにち、えきからはしってくるんです。",
+              "english": "Oh, that was Yuki! She runs here from the station every day.",
+              "uses": []
+            },
+            {
+              "speaker": "tanaka",
+              "romaji": "yuki-san desu ka. sou ieba, undou shinkei ga yosasou desu ne.",
+              "ja": "ユキさんですか。そういえば、運動神経がよさそうですね。",
+              "kana": "ゆきさんですか。そういえば、うんどうしんけいがよさそうですね。",
+              "english": "Yuki, huh. Come to think of it, she does seem athletic.",
+              "uses": [
+                "c-undou-shinkei-ga-ii"
+              ]
+            },
+            {
+              "speaker": "mai",
+              "romaji": "hai. undou shinkei mo ii shi, ashi mo hayai shi, tairyoku mo aru n desu yo.",
+              "ja": "はい。運動神経もいいし、足も速いし、体力もあるんですよ。",
+              "kana": "はい。うんどうしんけいもいいし、あしもはやいし、たいりょくもあるんですよ。",
+              "english": "She is. She's athletic, she's fast, and she's got stamina too.",
+              "uses": [
+                "c-undou-shinkei-ga-ii",
+                "c-ashi-ga-hayai",
+                "c-tairyoku-ga-aru"
+              ]
+            },
+            {
+              "speaker": "tanaka",
+              "romaji": "jaa, yuki-san ni tanonde mimasu. kimura-san wa, ouen o onegai shimasu ne.",
+              "ja": "じゃあ、ユキさんに頼んでみます。木村さんは、応援をお願いしますね。",
+              "kana": "じゃあ、ゆきさんにたのんでみます。きむらさんは、おうえんをおねがいしますね。",
+              "english": "Then I'll ask Yuki. And Kimura-san, I'm counting on you for the cheering.",
+              "uses": []
+            },
+            {
+              "speaker": "mai",
+              "romaji": "hai! ouen nara, tairyoku ga nakute mo daijoubu desu ne.",
+              "ja": "はい！応援なら、体力がなくても大丈夫ですね。",
+              "kana": "はい！おうえんなら、たいりょくがなくてもだいじょうぶですね。",
+              "english": "Sure! At least cheering doesn't take any stamina.",
+              "uses": [
+                "c-tairyoku-ga-aru"
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "type": "gist",
+              "targets": [],
+              "english": "What happens in this conversation?",
+              "ja": "何がありましたか？",
+              "kana": "なにがありましたか？",
+              "romaji": "nani ga arimashita ka?",
+              "choices": [
+                {
+                  "key": "A",
+                  "english": "Mai agrees to run in the relay once Tanaka-san says it doesn't take stamina.",
+                  "romaji": null
+                },
+                {
+                  "key": "B",
+                  "english": "Tanaka-san took someone else for Mai, so he'll ask Yuki to run instead.",
+                  "romaji": null
+                },
+                {
+                  "key": "C",
+                  "english": "Tanaka-san saw Mai running to work, so he puts her in the relay and Yuki will cheer.",
+                  "romaji": null
+                }
+              ],
+              "answer": "B",
+              "modelAnswers": [],
+              "explanation": "Line 3: Tanaka-san asks Mai to run in the relay. Line 7: he says he saw her running fast outside the station this morning, but in line 8 she says she came to work by bus. Lines 10-11: he isn't wearing his glasses and his eyesight is bad (me ga warui), so he got the wrong person. Line 14: Mai realises it was Yuki, and in line 17 he decides to ask Yuki (yuki-san ni tanonde mimasu). A is wrong: Tanaka-san does say the relay doesn't need stamina (line 5), but Mai never agrees. She'll cheer instead (lines 17-18). C is wrong: the runner Tanaka-san saw was Yuki, not Mai. Mai came by bus (line 8). Tanaka-san will ask Yuki (line 17), and Mai will cheer (lines 17-18)."
+            },
+            {
+              "type": "respond",
+              "targets": [
+                "c-me-ga-warui"
+              ],
+              "english": "You're squinting at a sign across the street, and Mai asks, \"daijoubu? mienai no?\" Explain using me ga warui.",
+              "ja": "大丈夫？見えないの？",
+              "kana": "だいじょうぶ？みえないの？",
+              "romaji": "daijoubu? mienai no?",
+              "choices": [],
+              "answer": "Say your eyesight is bad: me ga warui (in casual speech, me warui). You could add that you left your glasses at home, or, if your eyes have got worse lately, say me ga waruku natta.",
+              "modelAnswers": [
+                {
+                  "romaji": "un, me warui n da. megane, uchi ni wasurechatta.",
+                  "ja": "うん、目悪いんだ。メガネ、うちに忘れちゃった。",
+                  "english": "Yeah, my eyesight's bad. I left my glasses at home."
+                },
+                {
+                  "romaji": "un, saikin me ga waruku natta n da.",
+                  "ja": "うん、最近目が悪くなったんだ。",
+                  "english": "Yeah, my eyes have got worse lately."
+                }
+              ],
+              "explanation": "In lines 11-12, Tanaka-san and Mai both say 'me ga warui' to explain why they can't see, and Tanaka-san has left his glasses at home (uchi ni wasurete kita), like the first model answer. The eyes are the subject and warui describes them, so don't say 'warui me o motteru' (have bad eyes). In casual speech ga drops (me warui). 'Got worse' is the -ku naru form, me ga waruku natta, not warui ni natta. Mai is talking to you casually as a friend, so a casual answer fits."
+            },
+            {
+              "type": "meaning",
+              "targets": [
+                "c-ashi-ga-hayai"
+              ],
+              "english": "Tanaka-san asks Mai, \"kimura-san, ashi ga hayai deshou?\" What did he think about her?",
+              "ja": "田中さんは、木村さんのことをどう思っていましたか？",
+              "kana": "たなかさんは、きむらさんのことをどうおもっていましたか？",
+              "romaji": "tanaka-san wa, kimura-san no koto o dou omotte imashita ka?",
+              "choices": [
+                {
+                  "key": "A",
+                  "english": "That she always gets to work early.",
+                  "romaji": null
+                },
+                {
+                  "key": "B",
+                  "english": "That she gets her work done quickly.",
+                  "romaji": null
+                },
+                {
+                  "key": "C",
+                  "english": "That she's a fast runner.",
+                  "romaji": null
+                }
+              ],
+              "answer": "C",
+              "modelAnswers": [],
+              "explanation": "Line 5: ashi ga hayai puts the speed in the legs, so it means someone who runs fast. Tanaka-san thinks this because, in line 7, he says he saw her running outside the station and she was really fast (sugoku hayakatta). In line 16 Mai says the same thing about Yuki (ashi mo hayai). A confuses this with the other meaning of hayai, 'early'. B would be shigoto ga hayai (a fast worker), and nobody talks about how fast anyone works."
+            },
+            {
+              "type": "heard",
+              "targets": [
+                "c-undou-shinkei-ga-ii"
+              ],
+              "english": "When Tanaka-san asks Mai to run, how does she describe herself?",
+              "ja": "木村さんは、自分のことを何と言いましたか？",
+              "kana": "きむらさんは、じぶんのことをなんといいましたか？",
+              "romaji": "kimura-san wa, jibun no koto o nan to iimashita ka?",
+              "choices": [
+                {
+                  "key": "A",
+                  "english": "I'm not very athletic, and...",
+                  "romaji": "undou shinkei yokunai shi"
+                },
+                {
+                  "key": "B",
+                  "english": "I'm not 'athletic' (English loanword), and...",
+                  "romaji": "asurechikku ja nai shi"
+                },
+                {
+                  "key": "C",
+                  "english": "my coordination isn't fast, and...",
+                  "romaji": "undou shinkei hayakunai shi"
+                }
+              ],
+              "answer": "A",
+              "modelAnswers": [],
+              "explanation": "Line 4: 'undou shinkei yokunai shi'. undou shinkei (literally 'motor nerves') goes with ii, here in the negative yokunai, to mean she's not athletic. Tanaka-san uses the same pair in line 15 (undou shinkei ga yosasou) and Mai uses it in line 16 (undou shinkei mo ii). B is wrong: in Japanese asurechikku means a playground obstacle course, not 'athletic', and Mai doesn't say it. C is wrong: hayai is for speed (ashi ga hayai), while coordination takes ii, not hayai."
+            },
+            {
+              "type": "respond",
+              "targets": [
+                "c-tairyoku-ga-aru"
+              ],
+              "english": "Yuki runs in from the station every morning. Imagine she asks you, \"ashita kara, issho ni eki kara hashiranai?\" Answer using tairyoku: say you've got the stamina for it, or that you haven't.",
+              "ja": "明日から、一緒に駅から走らない？",
+              "kana": "あしたから、いっしょにえきからはしらない？",
+              "romaji": "ashita kara, issho ni eki kara hashiranai?",
+              "choices": [],
+              "answer": "Use tairyoku with aru or nai, dropping ga in casual speech: tairyoku nai kara... to say no, or tairyoku aru yo to say yes.",
+              "modelAnswers": [
+                {
+                  "romaji": "e, muri muri. watashi, tairyoku nai kara.",
+                  "ja": "え、無理無理。私、体力ないから。",
+                  "english": "What? No way. I've got no stamina."
+                },
+                {
+                  "romaji": "ii ne! kou miete mo, kekkou tairyoku aru yo.",
+                  "ja": "いいね！こう見えても、けっこう体力あるよ。",
+                  "english": "Sounds good! I may not look it, but I've got a fair bit of stamina."
+                }
+              ],
+              "explanation": "Stamina takes aru or nai, not ii. Mai says 'tairyoku mo nai' about herself (line 4) and 'tairyoku mo aru' about Yuki (line 16), and lines 5 and 18 use 'tairyoku ga nakute mo daijoubu' (you don't need stamina). Don't say fitto (in Japanese that's how clothes fit) or genki (well, healthy) for stamina. Yuki asks casually, so answer casually."
+            }
+          ],
+          "newWords": [
+            {
+              "romaji": "undoukai",
+              "ja": "運動会",
+              "english": "sports day (here, the company's)"
+            },
+            {
+              "romaji": "riree",
+              "ja": "リレー",
+              "english": "relay race"
+            },
+            {
+              "romaji": "hashiru",
+              "ja": "走る",
+              "english": "run (hashitteru: is running)"
+            },
+            {
+              "romaji": "mieru",
+              "ja": "見える",
+              "english": "can see, be visible (mienai: can't see)"
+            },
+            {
+              "romaji": "ouen",
+              "ja": "応援",
+              "english": "cheering someone on (ouen suru: cheer for)"
+            },
+            {
+              "romaji": "asurechikku",
+              "ja": "アスレチック",
+              "english": "obstacle-course playground (not 'athletic')"
+            }
+          ],
+          "reviewUsed": [
+            "c-megane-o-kakeru",
+            "c-kami-ga-nagai"
+          ]
+        },
+        "rounds": 1,
+        "reviewed": 6,
+        "remaining": []
+      }
+    ]
+  },
+  "workflowProgress": [
+    {
+      "type": "workflow_phase",
+      "index": 1,
+      "title": "Write"
+    },
+    {
+      "type": "workflow_phase",
+      "index": 2,
+      "title": "Review"
+    },
+    {
+      "type": "workflow_phase",
+      "index": 3,
+      "title": "Fix"
+    },
+    {
+      "type": "workflow_phase",
+      "index": 4,
+      "title": "Recheck"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 1,
+      "label": "write:1",
+      "phaseIndex": 1,
+      "phaseTitle": "Write",
+      "agentId": "ac6ae7ee1a8ecae7a",
+      "model": "claude-opus-5-5",
+      "state": "done",
+      "startedAt": 1791087905248,
+      "queuedAt": 1791087905231,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "lastToolSummary": "weather-1",
+      "promptPreview": "Working directory: /Users/main/Developer/Projects/claude-projects/japanese-acquisition-research (paths below are relative to it).\nScript 1 of 94, Stage 1, chunk \"Rain and snow\" (weather-1).\nRules: exercises/collocations/build/conventions.md. Brief (targets with their traps and mix-ups, the review pool, suggested cast): exercises/collocations/build/briefs/01-weather-1.json.\nAllowed words: collocati…",
+      "promptFramed": true,
+      "lastProgressAt": 1791088377512,
+      "tokens": 110550,
+      "toolCalls": 10,
+      "durationMs": 472262,
+      "resultPreview": "{\"chunkId\":\"weather-1\",\"title\":\"Umbrella up this time\",\"format\":\"dialogue\",\"register\":\"casual\",\"setting\":\"A winter evening. Yuki turns up at Kenta's flat dripping wet and waits there for the rain to stop.\",\"speakers\":[{\"id\":\"yuki\",\"name\":\"Yuki\",\"voice\":\"female, late 20s, bright and friendly\"},{\"id\":\"kenta\",\"name\":\"Kenta\",\"voice\":\"male, late 20s, relaxed and easygoing\"}],\"lines\":[{\"speaker\":\"kenta\"…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 2,
+      "label": "write:61",
+      "phaseIndex": 1,
+      "phaseTitle": "Write",
+      "agentId": "a944aa7daafe8961b",
+      "model": "claude-opus-5-5",
+      "state": "done",
+      "startedAt": 1791087905249,
+      "queuedAt": 1791087905231,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "lastToolSummary": "travel-5",
+      "promptPreview": "Working directory: /Users/main/Developer/Projects/claude-projects/japanese-acquisition-research (paths below are relative to it).\nScript 61 of 94, Stage 3, chunk \"Picking someone up\" (travel-5).\nRules: exercises/collocations/build/conventions.md. Brief (targets with their traps and mix-ups, the review pool, suggested cast): exercises/collocations/build/briefs/61-travel-5.json.\nAllowed words: collo…",
+      "promptFramed": true,
+      "lastProgressAt": 1791088454737,
+      "tokens": 145321,
+      "toolCalls": 12,
+      "durationMs": 548504,
+      "resultPreview": "{\"chunkId\":\"travel-5\",\"title\":\"A lift from the station\",\"format\":\"dialogue\",\"register\":\"casual\",\"setting\":\"A rainy evening outside a station. Yuki has driven over to pick up her old friend Kenta, who is back from a trip with his bags and a heavy box he won't let her carry. On the way home they stop at a konbini.\",\"speakers\":[{\"id\":\"yuki\",\"name\":\"Yuki\",\"voice\":\"female, late 20s, bright and friendly…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 3,
+      "label": "write:94",
+      "phaseIndex": 1,
+      "phaseTitle": "Write",
+      "agentId": "a436ecbf0238d5025",
+      "model": "claude-opus-5-5",
+      "state": "done",
+      "startedAt": 1791087905250,
+      "queuedAt": 1791087905231,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "lastToolSummary": "describing-6",
+      "promptPreview": "Working directory: /Users/main/Developer/Projects/claude-projects/japanese-acquisition-research (paths below are relative to it).\nScript 94 of 94, Stage 4, chunk \"Body and fitness\" (describing-6).\nRules: exercises/collocations/build/conventions.md. Brief (targets with their traps and mix-ups, the review pool, suggested cast): exercises/collocations/build/briefs/94-describing-6.json.\nAllowed words:…",
+      "promptFramed": true,
+      "lastProgressAt": 1791088307711,
+      "tokens": 85341,
+      "toolCalls": 9,
+      "durationMs": 401477,
+      "resultPreview": "{\"chunkId\":\"describing-6\",\"title\":\"Who was that runner?\",\"format\":\"dialogue\",\"register\":\"polite\",\"setting\":\"A weekday morning at the office. Tanaka-san, Mai's manager, is putting together a relay team for the company's sports day next month and stops by her desk.\",\"speakers\":[{\"id\":\"tanaka\",\"name\":\"Tanaka-san\",\"voice\":\"male, 40s, calm and kind, polite office speech\"},{\"id\":\"mai\",\"name\":\"Mai\",\"voic…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 4,
+      "label": "native:94",
+      "phaseIndex": 2,
+      "phaseTitle": "Review",
+      "agentId": "aa5574b1754695edd",
+      "model": "claude-opus-5-5",
+      "state": "done",
+      "startedAt": 1791088310227,
+      "queuedAt": 1791088310215,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "promptPreview": "Working directory: /Users/main/Developer/Projects/claude-projects/japanese-acquisition-research (paths below are relative to it).\nScript 94 of 94, Stage 4, chunk \"Body and fitness\" (describing-6).\nRules: exercises/collocations/build/conventions.md. Brief (targets with their traps and mix-ups, the review pool, suggested cast): exercises/collocations/build/briefs/94-describing-6.json.\nAllowed words:…",
+      "promptFramed": true,
+      "lastProgressAt": 1791088432915,
+      "tokens": 88746,
+      "toolCalls": 7,
+      "durationMs": 122685,
+      "resultPreview": "{\"issues\":[{\"where\":\"questions[1] (respond, c-me-ga-warui), modelAnswers[0]\",\"severity\":\"minor\",\"problem\":\"The cue あれ？今日はメガネなんだ。 and the setup (Mai sees you in glasses for the first time) mean you don't usually wear them. Model answer 1, うん、目悪いから。メガネないと、何も見えないんだ。, says you can't see a thing without glasses, so a native listener would ask how you normally get by. As a reply to 'oh, glasses today', …"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 5,
+      "label": "data:94",
+      "phaseIndex": 2,
+      "phaseTitle": "Review",
+      "agentId": "afd793a0721e2fa47",
+      "model": "claude-opus-5-5",
+      "state": "done",
+      "startedAt": 1791088310228,
+      "queuedAt": 1791088310215,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "promptPreview": "Working directory: /Users/main/Developer/Projects/claude-projects/japanese-acquisition-research (paths below are relative to it).\nScript 94 of 94, Stage 4, chunk \"Body and fitness\" (describing-6).\nRules: exercises/collocations/build/conventions.md. Brief (targets with their traps and mix-ups, the review pool, suggested cast): exercises/collocations/build/briefs/94-describing-6.json.\nAllowed words:…",
+      "promptFramed": true,
+      "lastProgressAt": 1791088459998,
+      "tokens": 101236,
+      "toolCalls": 9,
+      "durationMs": 148770,
+      "resultPreview": "{\"issues\":[{\"where\":\"questions[4] (respond, c-tairyoku-ga-aru), modelAnswers[1].romaji\",\"severity\":\"blocking\",\"problem\":\"The romaji doesn't match the ja. The ja has こう見えても, from mieru (kou miete mo, 'I may not look it'), but the romaji says 'kou mite mo', which is こう見ても, from miru.\",\"fix\":\"romaji: \\\"ii ne! kou miete mo, kekkou tairyoku aru yo.\\\" (mieru is already in newWords.)\"},{\"where\":\"lines[9]…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 6,
+      "label": "quiz:94",
+      "phaseIndex": 2,
+      "phaseTitle": "Review",
+      "agentId": "aa565ea1ef399ce95",
+      "model": "claude-opus-5-5",
+      "state": "done",
+      "startedAt": 1791088310229,
+      "queuedAt": 1791088310215,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "promptPreview": "Working directory: /Users/main/Developer/Projects/claude-projects/japanese-acquisition-research (paths below are relative to it).\nScript 94 of 94, Stage 4, chunk \"Body and fitness\" (describing-6).\nRules: exercises/collocations/build/conventions.md. Brief (targets with their traps and mix-ups, the review pool, suggested cast): exercises/collocations/build/briefs/94-describing-6.json.\nAllowed words:…",
+      "promptFramed": true,
+      "lastProgressAt": 1791088457633,
+      "tokens": 99424,
+      "toolCalls": 8,
+      "durationMs": 146404,
+      "resultPreview": "{\"issues\":[{\"where\":\"questions[0] (gist), choice C\",\"severity\":\"minor\",\"problem\":\"C (\\\"...so Mai will run the relay for him\\\") depends on Tanaka-san being a runner, which nobody ever suggests. A learner can rule it out without following the scene, so the gist really comes down to A versus B. A stronger distractor would swap the roles, which is the mistake a learner makes if they catch the names bu…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 7,
+      "label": "native:1",
+      "phaseIndex": 2,
+      "phaseTitle": "Review",
+      "agentId": "a3c6ebff20220e1bf",
+      "model": "claude-opus-5-5",
+      "state": "done",
+      "startedAt": 1791088379593,
+      "queuedAt": 1791088379586,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "promptPreview": "Working directory: /Users/main/Developer/Projects/claude-projects/japanese-acquisition-research (paths below are relative to it).\nScript 1 of 94, Stage 1, chunk \"Rain and snow\" (weather-1).\nRules: exercises/collocations/build/conventions.md. Brief (targets with their traps and mix-ups, the review pool, suggested cast): exercises/collocations/build/briefs/01-weather-1.json.\nAllowed words: collocati…",
+      "promptFramed": true,
+      "lastProgressAt": 1791088549511,
+      "tokens": 73612,
+      "toolCalls": 5,
+      "durationMs": 169913,
+      "resultPreview": "{\"issues\":[{\"where\":\"Line 6 (yuki): だって、ちょっとだったんだよ。でも、急にめっちゃ降ってきて。\",\"severity\":\"minor\",\"problem\":\"'ちょっとだったんだよ' has no subject, so by ear it can just as easily mean 'it was only a short way' as 'it was only spitting'. A native speaker would say what was only a little: the rain. Saying it with furu also gives one more natural ame-ga-furu use.\",\"fix\":\"ja: だって、ちょっとしか降ってなかったんだよ。でも、急にめっちゃ降ってきて。 / romaji…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 8,
+      "label": "data:1",
+      "phaseIndex": 2,
+      "phaseTitle": "Review",
+      "agentId": "af01ad5b502d7dc1e",
+      "model": "claude-opus-5-5",
+      "state": "done",
+      "startedAt": 1791088379596,
+      "queuedAt": 1791088379586,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "promptPreview": "Working directory: /Users/main/Developer/Projects/claude-projects/japanese-acquisition-research (paths below are relative to it).\nScript 1 of 94, Stage 1, chunk \"Rain and snow\" (weather-1).\nRules: exercises/collocations/build/conventions.md. Brief (targets with their traps and mix-ups, the review pool, suggested cast): exercises/collocations/build/briefs/01-weather-1.json.\nAllowed words: collocati…",
+      "promptFramed": true,
+      "lastProgressAt": 1791088535550,
+      "tokens": 89137,
+      "toolCalls": 7,
+      "durationMs": 155951,
+      "resultPreview": "{\"issues\":[{\"where\":\"questions[4] (heard, c-kasa-o-sasu), choice B romaji \\\"jaa, nande kasa akenakatta no?\\\" / newWords\",\"severity\":\"blocking\",\"problem\":\"The listener hears akeru (open) in this choice. It is not in the versatility list at any stage, and it is not a target or review word, but it is missing from newWords.\",\"fix\":\"Add to newWords: {\\\"romaji\\\": \\\"akeru\\\", \\\"ja\\\": \\\"開ける\\\", \\\"english\\\":…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 9,
+      "label": "quiz:1",
+      "phaseIndex": 2,
+      "phaseTitle": "Review",
+      "agentId": "a1acd842d5b6bcf60",
+      "model": "claude-opus-5-5",
+      "state": "done",
+      "startedAt": 1791088379598,
+      "queuedAt": 1791088379587,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "promptPreview": "Working directory: /Users/main/Developer/Projects/claude-projects/japanese-acquisition-research (paths below are relative to it).\nScript 1 of 94, Stage 1, chunk \"Rain and snow\" (weather-1).\nRules: exercises/collocations/build/conventions.md. Brief (targets with their traps and mix-ups, the review pool, suggested cast): exercises/collocations/build/briefs/01-weather-1.json.\nAllowed words: collocati…",
+      "promptFramed": true,
+      "lastProgressAt": 1791088531896,
+      "tokens": 71631,
+      "toolCalls": 4,
+      "durationMs": 152296,
+      "resultPreview": "{\"issues\":[{\"where\":\"questions[2] (meaning, c-yuki-ga-furu): ja/kana/romaji of the question, and choice A\",\"severity\":\"minor\",\"problem\":\"The spoken Japanese question 'soto de wa ima, nani ga futtemasu ka?' asks 'what is falling outside now?', which is a different question from the English 'What is happening outside?'. It assumes something is falling, so a listener can rule out B ('nothing is falli…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 10,
+      "label": "native:61",
+      "phaseIndex": 2,
+      "phaseTitle": "Review",
+      "agentId": "a26b4b655a2f1f2c2",
+      "model": "claude-opus-5-5",
+      "state": "done",
+      "startedAt": 1791088456648,
+      "queuedAt": 1791088456646,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "promptPreview": "Working directory: /Users/main/Developer/Projects/claude-projects/japanese-acquisition-research (paths below are relative to it).\nScript 61 of 94, Stage 3, chunk \"Picking someone up\" (travel-5).\nRules: exercises/collocations/build/conventions.md. Brief (targets with their traps and mix-ups, the review pool, suggested cast): exercises/collocations/build/briefs/61-travel-5.json.\nAllowed words: collo…",
+      "promptFramed": true,
+      "lastProgressAt": 1791088626219,
+      "tokens": 101294,
+      "toolCalls": 12,
+      "durationMs": 169568,
+      "resultPreview": "{\"issues\":[{\"where\":\"Line 12 (kenta)\",\"severity\":\"minor\",\"problem\":\"Bare 後ろにも could mean the back of the car, since 後ろの箱 in line 8 meant exactly that. The listener only learns from the English that it means behind the shop. A native speaker would anchor it to the shop.\",\"fix\":\"ja: 店の後ろにも車止められるよ。ほら、あそこ空いてる。 / kana: みせのうしろにもくるまとめられるよ。ほら、あそこあいてる。 / romaji: mise no ushiro ni mo kuruma tomerareru yo. h…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 11,
+      "label": "data:61",
+      "phaseIndex": 2,
+      "phaseTitle": "Review",
+      "agentId": "acdc06c74e265c939",
+      "model": "claude-opus-5-5",
+      "state": "done",
+      "startedAt": 1791088456650,
+      "queuedAt": 1791088456646,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "promptPreview": "Working directory: /Users/main/Developer/Projects/claude-projects/japanese-acquisition-research (paths below are relative to it).\nScript 61 of 94, Stage 3, chunk \"Picking someone up\" (travel-5).\nRules: exercises/collocations/build/conventions.md. Brief (targets with their traps and mix-ups, the review pool, suggested cast): exercises/collocations/build/briefs/61-travel-5.json.\nAllowed words: collo…",
+      "promptFramed": true,
+      "lastProgressAt": 1791088639869,
+      "tokens": 106695,
+      "toolCalls": 9,
+      "durationMs": 183218,
+      "resultPreview": "{\"issues\":[{\"where\":\"line 2 (kenta), uses\",\"severity\":\"blocking\",\"problem\":\"\\\"mukae ni kite kurete arigatou\\\" is tagged c-mukae-ni-iku, but kite is kuru, not an inflection of iku. This is the contrast partner mukae ni kuru, and question 2's explanation itself calls it \\\"the other direction\\\". Tagging it as mukae ni iku teaches the wrong verb for the target.\",\"fix\":\"uses: [\\\"c-ame-ga-furu\\\"]. The t…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 12,
+      "label": "quiz:61",
+      "phaseIndex": 2,
+      "phaseTitle": "Review",
+      "agentId": "a32a4c309abf8a05a",
+      "model": "claude-opus-5-5",
+      "state": "done",
+      "startedAt": 1791088456650,
+      "queuedAt": 1791088456646,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "promptPreview": "Working directory: /Users/main/Developer/Projects/claude-projects/japanese-acquisition-research (paths below are relative to it).\nScript 61 of 94, Stage 3, chunk \"Picking someone up\" (travel-5).\nRules: exercises/collocations/build/conventions.md. Brief (targets with their traps and mix-ups, the review pool, suggested cast): exercises/collocations/build/briefs/61-travel-5.json.\nAllowed words: collo…",
+      "promptFramed": true,
+      "lastProgressAt": 1791088625953,
+      "tokens": 102315,
+      "toolCalls": 8,
+      "durationMs": 169302,
+      "resultPreview": "{\"issues\":[{\"where\":\"questions[4] (meaning, c-kuruma-o-tomeru): question text and choice C\",\"severity\":\"minor\",\"problem\":\"The question asks why Yuki hurries Kenta into the car, and it is raining hard in the scene (line 2), so C (keeping his bags dry) is a believable real-world reason. A learner who caught the rain but missed 'tomecha dame' could argue for C. The key is still right because only the…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 13,
+      "label": "fix:94",
+      "phaseIndex": 3,
+      "phaseTitle": "Fix",
+      "agentId": "af5773afe1b176e4a",
+      "model": "claude-opus-5-5",
+      "state": "done",
+      "startedAt": 1791088461884,
+      "queuedAt": 1791088461883,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "lastToolSummary": "describing-6",
+      "promptPreview": "Working directory: /Users/main/Developer/Projects/claude-projects/japanese-acquisition-research (paths below are relative to it).\nScript 94 of 94, Stage 4, chunk \"Body and fitness\" (describing-6).\nRules: exercises/collocations/build/conventions.md. Brief (targets with their traps and mix-ups, the review pool, suggested cast): exercises/collocations/build/briefs/94-describing-6.json.\nAllowed words:…",
+      "promptFramed": true,
+      "lastProgressAt": 1791088565253,
+      "tokens": 92820,
+      "toolCalls": 6,
+      "durationMs": 103369,
+      "resultPreview": "{\"chunkId\":\"describing-6\",\"title\":\"Who was that runner?\",\"format\":\"dialogue\",\"register\":\"polite\",\"setting\":\"A weekday morning at the office. Tanaka-san, Mai's manager, is putting together a relay team for the company's sports day next month and stops by her desk.\",\"speakers\":[{\"id\":\"tanaka\",\"name\":\"Tanaka-san\",\"voice\":\"male, 40s, calm and kind, polite office speech\"},{\"id\":\"mai\",\"name\":\"Mai\",\"voic…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 14,
+      "label": "fix:1",
+      "phaseIndex": 3,
+      "phaseTitle": "Fix",
+      "agentId": "ae5329253754ec5fb",
+      "model": "claude-opus-5-5",
+      "state": "done",
+      "startedAt": 1791088551317,
+      "queuedAt": 1791088551313,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "lastToolSummary": "weather-1",
+      "promptPreview": "Working directory: /Users/main/Developer/Projects/claude-projects/japanese-acquisition-research (paths below are relative to it).\nScript 1 of 94, Stage 1, chunk \"Rain and snow\" (weather-1).\nRules: exercises/collocations/build/conventions.md. Brief (targets with their traps and mix-ups, the review pool, suggested cast): exercises/collocations/build/briefs/01-weather-1.json.\nAllowed words: collocati…",
+      "promptFramed": true,
+      "lastProgressAt": 1791088715736,
+      "tokens": 95097,
+      "toolCalls": 8,
+      "durationMs": 164419,
+      "resultPreview": "{\"chunkId\":\"weather-1\",\"title\":\"Umbrella up this time\",\"format\":\"dialogue\",\"register\":\"casual\",\"setting\":\"A winter evening. Yuki turns up at Kenta's flat dripping wet and waits there for the rain to stop.\",\"speakers\":[{\"id\":\"yuki\",\"name\":\"Yuki\",\"voice\":\"female, late 20s, bright and friendly\"},{\"id\":\"kenta\",\"name\":\"Kenta\",\"voice\":\"male, late 20s, relaxed and easygoing\"}],\"lines\":[{\"speaker\":\"kenta\"…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 15,
+      "label": "recheck:94:1",
+      "phaseIndex": 4,
+      "phaseTitle": "Recheck",
+      "agentId": "a7b7c09243385126a",
+      "model": "claude-opus-5-5",
+      "state": "done",
+      "startedAt": 1791088567193,
+      "queuedAt": 1791088567191,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "promptPreview": "Working directory: /Users/main/Developer/Projects/claude-projects/japanese-acquisition-research (paths below are relative to it).\nScript 94 of 94, Stage 4, chunk \"Body and fitness\" (describing-6).\nRules: exercises/collocations/build/conventions.md. Brief (targets with their traps and mix-ups, the review pool, suggested cast): exercises/collocations/build/briefs/94-describing-6.json.\nAllowed words:…",
+      "promptFramed": true,
+      "lastProgressAt": 1791088683063,
+      "tokens": 91188,
+      "toolCalls": 8,
+      "durationMs": 115870,
+      "resultPreview": "{\"issues\":[]}"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 16,
+      "label": "fix:61",
+      "phaseIndex": 3,
+      "phaseTitle": "Fix",
+      "agentId": "afaa06e2ee91098c6",
+      "model": "claude-opus-5-5",
+      "state": "done",
+      "startedAt": 1791088641841,
+      "queuedAt": 1791088641834,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "lastToolSummary": "travel-5",
+      "promptPreview": "Working directory: /Users/main/Developer/Projects/claude-projects/japanese-acquisition-research (paths below are relative to it).\nScript 61 of 94, Stage 3, chunk \"Picking someone up\" (travel-5).\nRules: exercises/collocations/build/conventions.md. Brief (targets with their traps and mix-ups, the review pool, suggested cast): exercises/collocations/build/briefs/61-travel-5.json.\nAllowed words: collo…",
+      "promptFramed": true,
+      "lastProgressAt": 1791088720711,
+      "tokens": 90162,
+      "toolCalls": 5,
+      "durationMs": 78870,
+      "resultPreview": "{\"chunkId\":\"travel-5\",\"title\":\"A lift from the station\",\"format\":\"dialogue\",\"register\":\"casual\",\"setting\":\"A rainy evening outside a station. Yuki has driven over to pick up her old friend Kenta, who is back from a trip with his bags and a heavy box he won't let her carry. On the way home they stop at a konbini.\",\"speakers\":[{\"id\":\"yuki\",\"name\":\"Yuki\",\"voice\":\"female, late 20s, bright and friendly…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 17,
+      "label": "recheck:1:1",
+      "phaseIndex": 4,
+      "phaseTitle": "Recheck",
+      "agentId": "ad0a82a8aa5f938c6",
+      "model": "claude-opus-5-5",
+      "state": "done",
+      "startedAt": 1791088718040,
+      "queuedAt": 1791088718036,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "promptPreview": "Working directory: /Users/main/Developer/Projects/claude-projects/japanese-acquisition-research (paths below are relative to it).\nScript 1 of 94, Stage 1, chunk \"Rain and snow\" (weather-1).\nRules: exercises/collocations/build/conventions.md. Brief (targets with their traps and mix-ups, the review pool, suggested cast): exercises/collocations/build/briefs/01-weather-1.json.\nAllowed words: collocati…",
+      "promptFramed": true,
+      "lastProgressAt": 1791088837821,
+      "tokens": 68829,
+      "toolCalls": 7,
+      "durationMs": 119780,
+      "resultPreview": "{\"issues\":[{\"where\":\"questions[0] (gist), choice B\",\"severity\":\"minor\",\"problem\":\"The right answer is about twice as long as the two wrong ones and is the only choice that tells the whole story. A learner can pick it for its length without having understood the scene.\",\"fix\":\"Make the three choices about the same length. Shorten B to something like \\\"Yuki had her umbrella but didn't put it up; now…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 18,
+      "label": "recheck:61:1",
+      "phaseIndex": 4,
+      "phaseTitle": "Recheck",
+      "agentId": "a41b300b33ef1fc45",
+      "model": "claude-opus-5-5",
+      "state": "done",
+      "startedAt": 1791088722673,
+      "queuedAt": 1791088722670,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "promptPreview": "Working directory: /Users/main/Developer/Projects/claude-projects/japanese-acquisition-research (paths below are relative to it).\nScript 61 of 94, Stage 3, chunk \"Picking someone up\" (travel-5).\nRules: exercises/collocations/build/conventions.md. Brief (targets with their traps and mix-ups, the review pool, suggested cast): exercises/collocations/build/briefs/61-travel-5.json.\nAllowed words: collo…",
+      "promptFramed": true,
+      "lastProgressAt": 1791088879413,
+      "tokens": 102088,
+      "toolCalls": 8,
+      "durationMs": 156739,
+      "resultPreview": "{\"issues\":[]}"
+    }
+  ],
+  "totalTokens": 1715486,
+  "totalToolCalls": 142
+}

@@ -1,0 +1,389 @@
+{
+ "script": 30,
+ "of": 94,
+ "stage": 2,
+ "chunkId": "people-3",
+ "label": "Kids and growing up",
+ "topic": "People & talk",
+ "rationale": "Family life: having kids, a baby arriving, growing up, raising children and looking after someone.",
+ "mixUps": "kodomo iru? (got kids?) is having them and kodomo umareta (the baby came) is the birth, with the child as subject in both, not kodomo o motsu. sodateru is raising (sodatsu is being raised), otona ni naru is growing up, and mendou o miru (look after) is not mendokusai (what a hassle).",
+ "targets": [
+  {
+   "id": "c-kodomo-ga-iru",
+   "romaji": "kodomo ga iru",
+   "polite": "kodomo ga imasu",
+   "english": "have children, have kids",
+   "ja": "子供がいる",
+   "kana": "こどもがいる",
+   "politeJa": "子供がいます",
+   "noun": "kodomo",
+   "particle": "ga",
+   "verb": "iru",
+   "verbJa": "いる",
+   "verbSense": "be, exist (people and animals); with ga, have (people, pets)",
+   "englishVerb": "have",
+   "trap": "English 'have' leads to kodomo o motte iru or the thing-verb aru; in talk, kids, siblings and partners take iru: kodomo iru?, kyoudai iru? (kodomo o motsu oya, parents with children, is written style).",
+   "partners": [
+    "kyoudai (brothers and sisters)",
+    "kareshi (boyfriend)",
+    "kanojo (girlfriend)",
+    "petto (a pet)"
+   ],
+   "flags": [],
+   "use": "Among friends, the get-to-know-you question is kodomo iru? (got kids?), answered un, hitori iru. Politely you ask okosan imasu ka? (or okosan wa irasshaimasu ka?), answered futari imasu. The number goes after the noun: kodomo futari iru (I have two kids). kyoudai iru? and kanojo iru? work the same way.",
+   "notes": "kodomo dekita = we're having a baby, or we've had kids (kekkon shite kodomo mo dekita). The birth itself is kodomo ga umareru: kodomo umareta (the baby's here).",
+   "example": {
+    "romaji": "uchi wa kodomo futari iru n da.",
+    "ja": "うちは子供二人いるんだ。",
+    "english": "We've got two kids."
+   },
+   "examplePolite": {
+    "romaji": "uchi wa kodomo ga futari iru n desu.",
+    "ja": "うちは子供が二人いるんです。",
+    "english": "We have two children."
+   }
+  },
+  {
+   "id": "c-kodomo-ga-umareru",
+   "romaji": "kodomo ga umareru",
+   "polite": "kodomo ga umaremasu",
+   "english": "have a baby",
+   "ja": "子供が生まれる",
+   "kana": "こどもがうまれる",
+   "politeJa": "子供が生まれます",
+   "noun": "kodomo",
+   "particle": "ga",
+   "verb": "umareru",
+   "verbJa": "生まれる",
+   "verbSense": "be born",
+   "englishVerb": "have",
+   "trap": "English 'we had a baby' leads to kodomo ga atta, which isn't said. kodomo o motsu is real but means being a parent as a stage of life (kodomo o motte kara = since I became a parent). Birth news makes the baby the subject: kodomo ga umareta. kodomo o umu (give birth) is said about the mother.",
+   "partners": [
+    "akachan (baby)",
+    "mago (grandchild)",
+    "koneko (kittens)"
+   ],
+   "flags": [],
+   "use": "The way to share baby news, with the child as subject: kodomo ga umareta (we had a baby), raigetsu umareru n da (it's due next month). akachan works the same way, and kodomo dekita is the earlier 'we're expecting'.",
+   "notes": "Your own birth takes the same verb: toukyou de umareta (I was born in Tokyo).",
+   "example": {
+    "romaji": "senshuu, kodomo ga umareta n da.",
+    "ja": "先週、子供が生まれたんだ。",
+    "english": "We had a baby last week."
+   },
+   "examplePolite": {
+    "romaji": "senshuu, kodomo ga umareta n desu.",
+    "ja": "先週、子供が生まれたんです。",
+    "english": "We had a baby last week."
+   }
+  },
+  {
+   "id": "c-otona-ni-naru",
+   "romaji": "otona ni naru",
+   "polite": "otona ni narimasu",
+   "english": "grow up, become an adult",
+   "ja": "大人になる",
+   "kana": "おとなになる",
+   "politeJa": "大人になります",
+   "noun": "otona",
+   "particle": "ni",
+   "verb": "naru",
+   "verbJa": "なる",
+   "verbSense": "become (with ni after a noun)",
+   "englishVerb": "grow up",
+   "trap": "English 'grow up' leads to sodatsu, which is being raised or growing as a child (toukyou de sodatta = I grew up in Tokyo); becoming an adult, or acting like one, is otona ni naru.",
+   "partners": [
+    "oya (parent)",
+    "shakaijin (working adult)",
+    "hatachi (twenty: turn twenty)"
+   ],
+   "flags": [],
+   "use": "Two everyday uses: growing up over the years (otona ni nattara = when you're grown up) and acting mature: otona ni natta ne (you've really grown up), motto otona ni natte yo (grow up a bit).",
+   "notes": "otonappoi = mature for your age; otonagenai = childish (of an adult). To a child, 'when you grow up' is usually ookiku nattara (ookiku nattara nani ni naritai?).",
+   "example": {
+    "romaji": "otona ni nattara wakaru yo.",
+    "ja": "大人になったら分かるよ。",
+    "english": "You'll understand when you're older."
+   },
+   "examplePolite": {
+    "romaji": "otona ni nattara wakarimasu yo.",
+    "ja": "大人になったら分かりますよ。",
+    "english": "You'll understand when you're older."
+   }
+  },
+  {
+   "id": "c-kodomo-o-sodateru",
+   "romaji": "kodomo o sodateru",
+   "polite": "kodomo o sodatemasu",
+   "english": "raise children, bring up kids",
+   "ja": "子供を育てる",
+   "kana": "こどもをそだてる",
+   "politeJa": "子供を育てます",
+   "noun": "kodomo",
+   "particle": "o",
+   "verb": "sodateru",
+   "verbJa": "育てる",
+   "verbSense": "raise, bring up, grow (children, plants, juniors)",
+   "englishVerb": "raise",
+   "trap": null,
+   "partners": [
+    "buka (subordinates: buka o sodateru = bring your team on)",
+    "yasai (vegetables)",
+    "hana (flowers)",
+    "kouhai (juniors: train them up)"
+   ],
+   "flags": [],
+   "use": "Used about parenting as a whole: hitori de kodomo o sodateta (she raised her kids alone), kodomo sodateru no tte taihen da yo. Everyday talk often uses the noun kosodate (parenting) instead: ima kosodate-chuu (I'm busy raising kids).",
+   "notes": "sodatsu is the intransitive side: inaka de sodatta (I grew up in the countryside). Having a dog is inu o kau; inu o sodateru is only raising one from a puppy.",
+   "example": {
+    "romaji": "kodomo sodateru no tte taihen da yo ne.",
+    "ja": "子供育てるのって大変だよね。",
+    "english": "Raising kids is tough, isn't it."
+   },
+   "examplePolite": {
+    "romaji": "kodomo o sodateru no wa taihen desu yo ne.",
+    "ja": "子供を育てるのは大変ですよね。",
+    "english": "Raising children is hard work, isn't it."
+   }
+  },
+  {
+   "id": "c-mendou-o-miru",
+   "romaji": "mendou o miru",
+   "polite": "mendou o mimasu",
+   "english": "look after, take care of",
+   "ja": "面倒を見る",
+   "kana": "めんどうをみる",
+   "politeJa": "面倒を見ます",
+   "noun": "mendou",
+   "particle": "o",
+   "verb": "miru",
+   "verbJa": "見る",
+   "verbSense": "see, look; here, see to, look after",
+   "englishVerb": "take care of",
+   "trap": null,
+   "partners": [
+    "kodomo (kids: chotto kodomo mitete = keep an eye on the kids)",
+    "nimotsu (bags: nimotsu mitete = watch my bags)",
+    "mise (the shop: mise mitete = mind the shop)"
+   ],
+   "flags": [],
+   "use": "Used for looking after kids, pets, juniors or ageing parents; o is often dropped in speech: kodomo no mendou mite kureru? (can you watch the kids?). Most often heard with te kureru or te ageru: zutto mendou mite kureta (they always looked out for me).",
+   "notes": "mendoumi ga ii = good at looking after people, a common compliment for a senpai or big sister. sewa o suru (kodomo no sewa) is the near twin; mendou o miru adds taking responsibility for someone. It shares the noun with mendokusai (what a hassle) but not the feel.",
+   "example": {
+    "romaji": "kodomo no mendou mite kureru?",
+    "ja": "子供の面倒見てくれる？",
+    "english": "Can you look after the kids?"
+   },
+   "examplePolite": {
+    "romaji": "kodomo no mendou o mite moraemasu ka?",
+    "ja": "子供の面倒を見てもらえますか？",
+    "english": "Could you look after the children?"
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-gohan-o-taberu",
+   "romaji": "gohan o taberu",
+   "english": "eat, have a meal",
+   "chunk": "Meals at home",
+   "recent": true
+  },
+  {
+   "id": "c-gohan-o-tsukuru",
+   "romaji": "gohan o tsukuru",
+   "english": "cook a meal, make dinner",
+   "chunk": "Meals at home",
+   "recent": true
+  },
+  {
+   "id": "c-gohan-ga-dekiru",
+   "romaji": "gohan ga dekiru",
+   "english": "the meal gets ready (dekita = it's ready)",
+   "chunk": "Meals at home",
+   "recent": true
+  },
+  {
+   "id": "c-gohan-ga-sameru",
+   "romaji": "gohan ga sameru",
+   "english": "the food gets cold",
+   "chunk": "Meals at home",
+   "recent": true
+  },
+  {
+   "id": "c-kaze-o-hiku",
+   "romaji": "kaze o hiku",
+   "english": "catch a cold",
+   "chunk": "Getting sick",
+   "recent": true
+  },
+  {
+   "id": "c-kaze-ga-utsuru",
+   "romaji": "kaze ga utsuru",
+   "english": "catch someone's cold",
+   "chunk": "Getting sick",
+   "recent": true
+  },
+  {
+   "id": "c-byouki-ni-naru",
+   "romaji": "byouki ni naru",
+   "english": "get sick, fall ill",
+   "chunk": "Getting sick",
+   "recent": true
+  },
+  {
+   "id": "c-taichou-o-kuzusu",
+   "romaji": "taichou o kuzusu",
+   "english": "get run down, fall ill",
+   "chunk": "Getting sick",
+   "recent": true
+  },
+  {
+   "id": "c-onaka-o-kowasu",
+   "romaji": "onaka o kowasu",
+   "english": "get an upset stomach",
+   "chunk": "Getting sick",
+   "recent": true
+  },
+  {
+   "id": "c-fuku-o-kiru",
+   "romaji": "fuku o kiru",
+   "english": "put on / wear clothes",
+   "chunk": "Clothes and shoes",
+   "recent": true
+  },
+  {
+   "id": "c-kutsu-o-haku",
+   "romaji": "kutsu o haku",
+   "english": "put on / wear shoes",
+   "chunk": "Clothes and shoes",
+   "recent": true
+  },
+  {
+   "id": "c-kutsu-o-nugu",
+   "romaji": "kutsu o nugu",
+   "english": "take off shoes",
+   "chunk": "Clothes and shoes",
+   "recent": true
+  },
+  {
+   "id": "c-fuku-o-nugu",
+   "romaji": "fuku o nugu",
+   "english": "take off clothes, get undressed",
+   "chunk": "Clothes and shoes",
+   "recent": true
+  },
+  {
+   "id": "c-terebi-o-miru",
+   "romaji": "terebi o miru",
+   "english": "watch TV",
+   "chunk": "TV and music",
+   "recent": true
+  },
+  {
+   "id": "c-ongaku-o-kiku",
+   "romaji": "ongaku o kiku",
+   "english": "listen to music",
+   "chunk": "TV and music",
+   "recent": true
+  },
+  {
+   "id": "c-nyuusu-o-miru",
+   "romaji": "nyuusu o miru",
+   "english": "watch or check the news",
+   "chunk": "TV and music",
+   "recent": true
+  },
+  {
+   "id": "c-ongaku-o-kakeru",
+   "romaji": "ongaku o kakeru",
+   "english": "put on music",
+   "chunk": "TV and music",
+   "recent": true
+  },
+  {
+   "id": "c-channeru-o-kaeru",
+   "romaji": "channeru o kaeru",
+   "english": "change the channel",
+   "chunk": "TV and music",
+   "recent": true
+  },
+  {
+   "id": "c-doa-o-akeru",
+   "romaji": "doa o akeru",
+   "english": "open the door",
+   "chunk": "Doors and locks",
+   "recent": true
+  },
+  {
+   "id": "c-doa-o-shimeru",
+   "romaji": "doa o shimeru",
+   "english": "close the door",
+   "chunk": "Doors and locks",
+   "recent": true
+  },
+  {
+   "id": "c-doa-ga-aku",
+   "romaji": "doa ga aku",
+   "english": "the door opens (aiteru = is open)",
+   "chunk": "Doors and locks",
+   "recent": true
+  },
+  {
+   "id": "c-doa-ga-shimaru",
+   "romaji": "doa ga shimaru",
+   "english": "the door closes (shimatteru = is shut)",
+   "chunk": "Doors and locks",
+   "recent": true
+  },
+  {
+   "id": "c-kagi-o-kakeru",
+   "romaji": "kagi o kakeru",
+   "english": "lock (a door, bike, locker)",
+   "chunk": "Doors and locks",
+   "recent": true
+  },
+  {
+   "id": "c-kagi-ga-kakaru",
+   "romaji": "kagi ga kakaru",
+   "english": "(a door) locks, gets locked (kakatteru = is locked)",
+   "chunk": "Doors and locks",
+   "recent": true
+  },
+  {
+   "id": "c-nioi-ga-suru",
+   "romaji": "nioi ga suru",
+   "english": "smell something, there's a smell",
+   "chunk": "Noticing",
+   "recent": true
+  },
+  {
+   "id": "c-oto-ga-suru",
+   "romaji": "oto ga suru",
+   "english": "hear a noise, there's a sound",
+   "chunk": "Noticing",
+   "recent": true
+  },
+  {
+   "id": "c-koe-ga-kikoeru",
+   "romaji": "koe ga kikoeru",
+   "english": "hear a voice; (on a call) can hear someone",
+   "chunk": "Noticing",
+   "recent": true
+  },
+  {
+   "id": "c-ki-ga-tsuku",
+   "romaji": "ki ga tsuku",
+   "english": "notice, realise",
+   "chunk": "Noticing",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "kenta",
+   "satou"
+  ],
+  "format": "monologue"
+ }
+}

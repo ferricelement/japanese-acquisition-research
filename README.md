@@ -202,3 +202,33 @@ cd idioms-build
 python3 measure_idioms.py   # harvest.json -> candidates.json / .tsv with corpus counts (needs the corpus above)
 python3 merge.py            # result.json + vet.json -> ../22-list-idioms.json
 ```
+
+## Round 6 — collocation listening scripts (2026-10-04)
+
+- `exercises/collocations/collocation-scripts.json` — 94 listening scripts, one per collocation chunk in course
+  order: a short scene (1,580 lines in all) where the chunk's collocations are each heard at least twice (300 of the
+  405 three times or more), plus 235 uses of earlier chunks' collocations for review. Same format as the Stage 1
+  stories: speaker, romaji, ja, kana (for a voice that misreads a kanji), english, and `uses` (the collocations in
+  that line). A fixed cast of eight with fixed voice notes (`build/conventions.md`), so the audio stays consistent.
+- 499 quiz questions: a gist question per script, then one per collocation — `heard` (which phrase was said; the
+  wrong options are the English-speaker calques, like kekka o morau for kekka o dasu), `meaning`, and `respond`
+  (a character says a cue line and you answer out loud with the collocation; 224 of them, at least half of each
+  script's collocation questions). Each has an explanation citing the lines.
+- `exercises/collocations/stage-<n>.md` — the same scripts as readable pages: what each teaches, the audio script,
+  questions, new words, then answers and the romaji transcript behind a fold.
+- Built by workflow: three pilot scripts written, reviewed three ways (native naturalness, data accuracy, quiz
+  quality), fixed and rechecked; 78 drafts from a stopped full run plus 13 new ones, then one reviewer per four
+  scripts returning field edits (92 applied). One hand edit (`build/hand-edits.json`: Kenji calls his sister
+  neechan). Code checks on every script: structure, each collocation heard twice and tested once, romaji against
+  the kana reading (`build/checks.py`).
+
+### Rebuilding the scripts
+
+```bash
+cd exercises/collocations/build
+python3 make_briefs.py                      # 21-list-collocations.json -> briefs/, briefs-slim/, index.json
+python3 merge.py run-pilot.json             # store the pilot's scripts (workflow output), then check
+python3 apply_edits.py run-lean.json        # lean run: drafts/ + written scripts + review edits -> merge
+python3 build_md.py                         # ../collocation-scripts.json -> ../stage-<n>.md
+python3 recover.py <journal.jsonl> out.json # rebuild results from a run that didn't finish
+```

@@ -1,0 +1,338 @@
+{
+ "script": 46,
+ "of": 94,
+ "stage": 2,
+ "chunkId": "body-8",
+ "label": "Rest and recovery",
+ "topic": "Body & health",
+ "rationale": "Lying down and getting better: the fever drops, the cold clears up, the tiredness goes.",
+ "mixUps": "sagaru, naoru and toreru say the thing goes away by itself, so they take ga; their o twins mean someone does it (netsu o sageru, kaze o naosu). yoko ni naru is lying down to rest, not neru (sleep).",
+ "targets": [
+  {
+   "id": "c-yoko-ni-naru",
+   "romaji": "yoko ni naru",
+   "polite": "yoko ni narimasu",
+   "english": "lie down",
+   "ja": "横になる",
+   "kana": "よこになる",
+   "politeJa": "横になります",
+   "noun": "yoko",
+   "particle": "ni",
+   "verb": "naru",
+   "verbJa": "なる",
+   "verbSense": "become, turn into; with yoko (side) it's 'become horizontal'",
+   "englishVerb": "lie",
+   "trap": "Dictionaries give yokotawaru, which sounds written; in speech you 'become sideways', yoko ni naru. Neru also works but suggests going to sleep.",
+   "partners": [
+    "aomuke (on your back)",
+    "utsubuse (face down)"
+   ],
+   "flags": [],
+   "use": "For lying down to rest rather than to sleep: chotto yoko ni naru (I'll lie down a bit); to someone unwell, yoko ni natta hou ga ii yo. The ni always stays: never yoko naru.",
+   "notes": "Related single verb: nekorobu (lie down casually, sprawl).",
+   "example": {
+    "romaji": "chotto yoko ni natte ii?",
+    "ja": "ちょっと横になっていい？",
+    "english": "Mind if I lie down for a bit?"
+   },
+   "examplePolite": {
+    "romaji": "chotto yoko ni natte mo ii desu ka?",
+    "ja": "ちょっと横になってもいいですか？",
+    "english": "Would it be all right if I lie down for a bit?"
+   }
+  },
+  {
+   "id": "c-netsu-ga-sagaru",
+   "romaji": "netsu ga sagaru",
+   "polite": "netsu ga sagarimasu",
+   "english": "fever goes down",
+   "ja": "熱が下がる",
+   "kana": "ねつがさがる",
+   "politeJa": "熱が下がります",
+   "noun": "netsu",
+   "particle": "ga",
+   "verb": "sagaru",
+   "verbJa": "下がる",
+   "verbSense": "go down, drop (temperature, prices); also step back",
+   "englishVerb": "go down",
+   "trap": "Not netsu ga oriru or heru: a fever 'drops', netsu ga sagaru (netsu sagatta?).",
+   "partners": [
+    "kion (air temperature)",
+    "nedan (price)",
+    "seiseki (grades)"
+   ],
+   "flags": [],
+   "use": "The follow-up to any fever: netsu sagatta? answered with sagatta or mada sagaranai. Ga often drops; a fever going up is netsu ga agaru.",
+   "notes": "Bringing a fever down is netsu o sageru; the medicine for it is genetsuzai. Netsu ga hiku (the fever subsides) is also fine.",
+   "example": {
+    "romaji": "kusuri nondara, netsu sagatta.",
+    "ja": "薬飲んだら、熱下がった。",
+    "english": "I took some medicine and my fever went down."
+   },
+   "examplePolite": {
+    "romaji": "kusuri o nondara, netsu ga sagarimashita.",
+    "ja": "薬を飲んだら、熱が下がりました。",
+    "english": "After I took the medicine, my fever came down."
+   }
+  },
+  {
+   "id": "c-kaze-ga-naoru",
+   "romaji": "kaze ga naoru",
+   "polite": "kaze ga naorimasu",
+   "english": "get over a cold",
+   "ja": "風邪が治る",
+   "kana": "かぜがなおる",
+   "politeJa": "風邪が治ります",
+   "noun": "kaze",
+   "particle": "ga",
+   "verb": "naoru",
+   "verbJa": "治る",
+   "verbSense": "heal, get better (an illness, an injury); the same-sounding naoru also means a thing gets fixed",
+   "englishVerb": "get over",
+   "trap": null,
+   "partners": [
+    "kega (injury)",
+    "byouki (illness)",
+    "kizu (wound)"
+   ],
+   "flags": [],
+   "use": "Asked after someone's cold as kaze naotta? and answered mou naotta or mada naoranai. Ga drops, and kaze itself is often left out once the topic is clear.",
+   "notes": "Hayaku naoshite ne (get well soon) uses the transitive naosu; odaiji ni is the stock polite wish.",
+   "example": {
+    "romaji": "kaze, mou naotta?",
+    "ja": "風邪、もう治った？",
+    "english": "Are you over your cold yet?"
+   },
+   "examplePolite": {
+    "romaji": "kaze wa mou naorimashita ka?",
+    "ja": "風邪はもう治りましたか？",
+    "english": "Have you got over your cold?"
+   }
+  },
+  {
+   "id": "c-tsukare-ga-toreru",
+   "romaji": "tsukare ga toreru",
+   "polite": "tsukare ga toremasu",
+   "english": "shake off tiredness, feel rested",
+   "ja": "疲れが取れる",
+   "kana": "つかれがとれる",
+   "politeJa": "疲れが取れます",
+   "noun": "tsukare",
+   "particle": "ga",
+   "verb": "toreru",
+   "verbJa": "取れる",
+   "verbSense": "come off, come out (a button, a stain); also can get (potential of toru)",
+   "englishVerb": "recover",
+   "trap": "Not tsukare ga naoru: tiredness isn't cured, it 'comes off' (toreru).",
+   "partners": [
+    "itami (pain)",
+    "shimi (stain)",
+    "botan (button)"
+   ],
+   "flags": [],
+   "use": "Most often heard in the negative: nete mo tsukare ga torenai (I sleep and still feel tired). After a bath, a massage or a holiday it's tsukare toreta, and ga often drops.",
+   "notes": "Tsukare o toru is doing something about it: onsen de tsukare o toru (soak it away at a hot spring). Tsukare ga nukenai (the tiredness won't leave) is also common.",
+   "example": {
+    "romaji": "nete mo, zenzen tsukare torenai.",
+    "ja": "寝ても、全然疲れ取れない。",
+    "english": "Even after sleeping, I can't shake the tiredness."
+   },
+   "examplePolite": {
+    "romaji": "nete mo, zenzen tsukare ga toremasen.",
+    "ja": "寝ても、全然疲れが取れません。",
+    "english": "Even after sleeping, I still feel tired."
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-ki-ni-iru",
+   "romaji": "ki ni iru",
+   "english": "like, be pleased with",
+   "chunk": "Likes, interest, confidence",
+   "recent": true
+  },
+  {
+   "id": "c-kyoumi-ga-aru",
+   "romaji": "kyoumi ga aru",
+   "english": "be interested (in)",
+   "chunk": "Likes, interest, confidence",
+   "recent": true
+  },
+  {
+   "id": "c-tanoshimi-ni-suru",
+   "romaji": "tanoshimi ni suru",
+   "english": "look forward to",
+   "chunk": "Likes, interest, confidence",
+   "recent": true
+  },
+  {
+   "id": "c-jishin-ga-aru",
+   "romaji": "jishin ga aru",
+   "english": "be confident (in yourself, your answer)",
+   "chunk": "Likes, interest, confidence",
+   "recent": true
+  },
+  {
+   "id": "c-junbi-ga-dekiru",
+   "romaji": "junbi ga dekiru",
+   "english": "be ready",
+   "chunk": "Ready and how long",
+   "recent": true
+  },
+  {
+   "id": "c-jikan-ga-kakaru",
+   "romaji": "jikan ga kakaru",
+   "english": "take time",
+   "chunk": "Ready and how long",
+   "recent": true
+  },
+  {
+   "id": "c-jikan-ga-tatsu",
+   "romaji": "jikan ga tatsu",
+   "english": "time passes",
+   "chunk": "Ready and how long",
+   "recent": true
+  },
+  {
+   "id": "c-tema-ga-kakaru",
+   "romaji": "tema ga kakaru",
+   "english": "take work, be a hassle",
+   "chunk": "Ready and how long",
+   "recent": true
+  },
+  {
+   "id": "c-yume-o-miru",
+   "romaji": "yume o miru",
+   "english": "have a dream (while asleep)",
+   "chunk": "Bed and waking",
+   "recent": true
+  },
+  {
+   "id": "c-me-ga-sameru",
+   "romaji": "me ga sameru",
+   "english": "wake up (from sleep); feel wide awake (me ga sameta)",
+   "chunk": "Bed and waking",
+   "recent": true
+  },
+  {
+   "id": "c-futon-ni-hairu",
+   "romaji": "futon ni hairu",
+   "english": "get into bed, get under the covers",
+   "chunk": "Bed and waking",
+   "recent": true
+  },
+  {
+   "id": "c-mezamashi-o-kakeru",
+   "romaji": "mezamashi o kakeru",
+   "english": "set an alarm",
+   "chunk": "Bed and waking",
+   "recent": true
+  },
+  {
+   "id": "c-kotatsu-ni-hairu",
+   "romaji": "kotatsu ni hairu",
+   "english": "get under the kotatsu",
+   "chunk": "Bed and waking",
+   "recent": true
+  },
+  {
+   "id": "c-taifuu-ga-kuru",
+   "romaji": "taifuu ga kuru",
+   "english": "a typhoon comes (hits)",
+   "chunk": "Storms and quakes",
+   "recent": true
+  },
+  {
+   "id": "c-jishin-ga-okiru",
+   "romaji": "jishin ga okiru",
+   "english": "an earthquake happens, hits",
+   "chunk": "Storms and quakes",
+   "recent": true
+  },
+  {
+   "id": "c-kaminari-ga-naru",
+   "romaji": "kaminari ga naru",
+   "english": "it thunders; thunder rumbles",
+   "chunk": "Storms and quakes",
+   "recent": true
+  },
+  {
+   "id": "c-tenki-yohou-ga-hazureru",
+   "romaji": "tenki yohou ga hazureru",
+   "english": "the forecast is wrong",
+   "chunk": "Storms and quakes",
+   "recent": true
+  },
+  {
+   "id": "c-seikaku-ga-ii",
+   "romaji": "seikaku ga ii",
+   "english": "be a nice person",
+   "chunk": "Personality and mood",
+   "recent": true
+  },
+  {
+   "id": "c-seikaku-ga-warui",
+   "romaji": "seikaku ga warui",
+   "english": "be mean, nasty",
+   "chunk": "Personality and mood",
+   "recent": true
+  },
+  {
+   "id": "c-kanji-ga-ii",
+   "romaji": "kanji ga ii",
+   "english": "be pleasant, nice (person or place)",
+   "chunk": "Personality and mood",
+   "recent": true
+  },
+  {
+   "id": "c-genki-ga-nai",
+   "romaji": "genki ga nai",
+   "english": "be down, low on energy",
+   "chunk": "Personality and mood",
+   "recent": true
+  },
+  {
+   "id": "c-uso-o-tsuku",
+   "romaji": "uso o tsuku",
+   "english": "tell a lie",
+   "chunk": "Lies, jokes and complaints",
+   "recent": true
+  },
+  {
+   "id": "c-joudan-o-iu",
+   "romaji": "joudan o iu",
+   "english": "joke, kid around",
+   "chunk": "Lies, jokes and complaints",
+   "recent": true
+  },
+  {
+   "id": "c-monku-o-iu",
+   "romaji": "monku o iu",
+   "english": "complain",
+   "chunk": "Lies, jokes and complaints",
+   "recent": true
+  },
+  {
+   "id": "c-guchi-o-iu",
+   "romaji": "guchi o iu",
+   "english": "grumble, vent",
+   "chunk": "Lies, jokes and complaints",
+   "recent": true
+  },
+  {
+   "id": "c-naisho-ni-suru",
+   "romaji": "naisho ni suru",
+   "english": "keep it secret",
+   "chunk": "Lies, jokes and complaints",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "yuki",
+   "kenji"
+  ],
+  "format": "dialogue"
+ }
+}

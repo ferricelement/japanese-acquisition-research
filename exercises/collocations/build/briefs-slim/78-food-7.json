@@ -1,0 +1,339 @@
+{
+ "script": 78,
+ "of": 94,
+ "stage": 4,
+ "chunkId": "food-7",
+ "label": "Fridge and microwave",
+ "topic": "Food & drink",
+ "rationale": "Putting food away and getting it out again: into the fridge, a lid on, heating it up, and checking whether it's past its date.",
+ "mixUps": "reizouko ni ireru takes ni for where the food goes, unlike satou o ireru. Heating food up is atatameru (obentou atatamemasu ka? at the konbini), not atsuku suru. A lid goes on with futa o suru; a screw cap is futa o shimeru. Expiry has no verb of its own: the date runs out with kireru, like juuden ga kireru.",
+ "targets": [
+  {
+   "id": "c-reizouko-ni-ireru",
+   "romaji": "reizouko ni ireru",
+   "polite": "reizouko ni iremasu",
+   "english": "put in the fridge",
+   "ja": "冷蔵庫に入れる",
+   "kana": "れいぞうこにいれる",
+   "politeJa": "冷蔵庫に入れます",
+   "noun": "reizouko",
+   "particle": "ni",
+   "verb": "ireru",
+   "verbJa": "入れる",
+   "verbSense": "put in, put inside",
+   "englishVerb": "put",
+   "trap": "English 'put' leads to oku, which is mainly setting something down on a surface. Into the fridge, a bag or a box, the usual verb is ireru; reizouko ni oite aru (it's been left in the fridge) is also heard.",
+   "partners": [
+    "reitouko (freezer)",
+    "kaban (bag)",
+    "hako (box)"
+   ],
+   "flags": [],
+   "use": "Said about leftovers and shopping, usually with -toku: reizouko ni iretoku ne (I'll put it in the fridge), or as a request, reizouko iretoite. ni is often kept, but casual speech drops it too, and reizouko ni shimau (put away in the fridge) is also common.",
+   "notes": "Taking it out is reizouko kara dasu; chilling a drink is hiyasu (biiru hiyashitoku).",
+   "example": {
+    "romaji": "amatta no, reizouko ni iretoku ne.",
+    "ja": "余ったの、冷蔵庫に入れとくね。",
+    "english": "I'll put what's left in the fridge."
+   },
+   "examplePolite": {
+    "romaji": "amatta no wa, reizouko ni irete okimasu ne.",
+    "ja": "余ったのは、冷蔵庫に入れておきますね。",
+    "english": "I'll put what's left in the fridge."
+   }
+  },
+  {
+   "id": "c-bentou-o-atatameru",
+   "romaji": "obentou o atatameru",
+   "polite": "obentou o atatamemasu",
+   "english": "heat up a boxed lunch",
+   "ja": "お弁当を温める",
+   "kana": "おべんとうをあたためる",
+   "politeJa": "お弁当を温めます",
+   "noun": "obentou",
+   "particle": "o",
+   "verb": "atatameru",
+   "verbJa": "温める",
+   "verbSense": "warm up, heat (food, a room, hands)",
+   "englishVerb": "heat up",
+   "trap": "English 'heat up' leads to atsuku suru; warming food is atatameru. At the till, daijoubu desu means 'no, thanks', so say onegai shimasu if you want it heated.",
+   "partners": [
+    "gyuunyuu (milk)",
+    "suupu (soup)",
+    "nokorimono (leftovers)"
+   ],
+   "flags": [],
+   "use": "Heard at every konbini checkout as a question, obentou atatamemasu ka? (shall I heat it up?), answered with onegai shimasu or daijoubu desu. At home renji de chin suru (zap it) is the casual alternative.",
+   "notes": "At the same till you'll hear ohashi otsuke shimasu ka? (want chopsticks?).",
+   "example": {
+    "romaji": "obentou, renji de atatamete kuru ne.",
+    "ja": "お弁当、レンジで温めてくるね。",
+    "english": "I'll go heat up my lunch in the microwave."
+   },
+   "examplePolite": {
+    "romaji": "obentou, renji de atatamete kimasu ne.",
+    "ja": "お弁当、レンジで温めてきますね。",
+    "english": "I'll go heat up my lunch in the microwave."
+   }
+  },
+  {
+   "id": "c-futa-o-suru",
+   "romaji": "futa o suru",
+   "polite": "futa o shimasu",
+   "english": "put the lid on",
+   "ja": "蓋をする",
+   "kana": "ふたをする",
+   "politeJa": "蓋をします",
+   "noun": "futa",
+   "particle": "o",
+   "verb": "suru",
+   "verbJa": "する",
+   "verbSense": "do; with a lid, plug or wrap, put it on (as with worn items: masuku o suru)",
+   "englishVerb": "put on",
+   "trap": "English 'put the lid on' leads to futa o oku, which means setting the lid down somewhere. Covering a pot is futa (o) suru, the same suru as masuku o suru.",
+   "partners": [
+    "raappu (cling film: raappu shite reizouko ni ireru)",
+    "sen (a plug or stopper: ofuro no sen o suru)"
+   ],
+   "flags": [],
+   "use": "Said while cooking and storing food: futa shite gofun (lid on for five minutes), futa shitoite (keep it covered). Casual speech drops o, and taking the lid off is futa o toru or futa o akeru.",
+   "notes": "futa o shimeru (close the lid) works for pots and boxes too, and is the only choice for a screw-top bottle or jar; opening is futa o akeru.",
+   "example": {
+    "romaji": "futa shite, gofun gurai nikonde.",
+    "ja": "蓋して、五分ぐらい煮込んで。",
+    "english": "Put the lid on and let it simmer about five minutes."
+   },
+   "examplePolite": {
+    "romaji": "futa o shite, gofun gurai nikonde kudasai.",
+    "ja": "蓋をして、五分ぐらい煮込んでください。",
+    "english": "Put the lid on and let it simmer for about five minutes."
+   }
+  },
+  {
+   "id": "c-kigen-ga-kireru",
+   "romaji": "kigen ga kireru",
+   "polite": "kigen ga kiremasu",
+   "english": "expire, be past its date",
+   "ja": "期限が切れる",
+   "kana": "きげんがきれる",
+   "politeJa": "期限が切れます",
+   "noun": "kigen",
+   "particle": "ga",
+   "verb": "kireru",
+   "verbJa": "切れる",
+   "verbSense": "snap, run out; for a time limit, lapse",
+   "englishVerb": "expire",
+   "trap": "Dictionaries give shikkou suru or manryou for 'expire', which are legal and formal words. Food, passports and coupons just run out: kigen ga kireta.",
+   "partners": [
+    "pasupooto (passport)",
+    "keiyaku (contract)",
+    "teiki (commuter pass: teiki kireteru)",
+    "menkyo (licence)"
+   ],
+   "flags": [],
+   "use": "Said about food in the fridge and about cards, passports and coupons, mostly as kireteru or kireta: kore, kigen kireteru (this is past its date). For food the full noun is common: shoumi kigen kireteru.",
+   "notes": "Don't mix it up with kigen ga warui (in a bad mood), which is a different kigen (機嫌).",
+   "example": {
+    "romaji": "kono gyuunyuu, kigen kireteru yo.",
+    "ja": "この牛乳、期限切れてるよ。",
+    "english": "This milk is past its date."
+   },
+   "examplePolite": {
+    "romaji": "kono gyuunyuu, kigen ga kiretemasu yo.",
+    "ja": "この牛乳、期限が切れてますよ。",
+    "english": "This milk is past its date."
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-dengen-o-kiru",
+   "romaji": "dengen o kiru",
+   "english": "turn off (a phone or device)",
+   "chunk": "Power, battery, sound",
+   "recent": true
+  },
+  {
+   "id": "c-dengen-o-ireru",
+   "romaji": "dengen o ireru",
+   "english": "turn on (a phone or device)",
+   "chunk": "Power, battery, sound",
+   "recent": true
+  },
+  {
+   "id": "c-juuden-ga-kireru",
+   "romaji": "juuden ga kireru",
+   "english": "battery runs out, dies",
+   "chunk": "Power, battery, sound",
+   "recent": true
+  },
+  {
+   "id": "c-oto-ga-deru",
+   "romaji": "oto ga deru",
+   "english": "sound comes out (of a TV, speaker, phone)",
+   "chunk": "Power, battery, sound",
+   "recent": true
+  },
+  {
+   "id": "c-masuku-o-suru",
+   "romaji": "masuku o suru",
+   "english": "wear a mask",
+   "chunk": "Masks and glasses",
+   "recent": true
+  },
+  {
+   "id": "c-masuku-o-hazusu",
+   "romaji": "masuku o hazusu",
+   "english": "take off a mask",
+   "chunk": "Masks and glasses",
+   "recent": true
+  },
+  {
+   "id": "c-megane-o-kakeru",
+   "romaji": "megane o kakeru",
+   "english": "wear / put on glasses",
+   "chunk": "Masks and glasses",
+   "recent": true
+  },
+  {
+   "id": "c-megane-o-hazusu",
+   "romaji": "megane o hazusu",
+   "english": "take off glasses",
+   "chunk": "Masks and glasses",
+   "recent": true
+  },
+  {
+   "id": "c-shiken-o-ukeru",
+   "romaji": "shiken o ukeru",
+   "english": "take an exam",
+   "chunk": "Exams and results",
+   "recent": true
+  },
+  {
+   "id": "c-ten-o-toru",
+   "romaji": "ten o toru",
+   "english": "score, get marks (on a test)",
+   "chunk": "Exams and results",
+   "recent": true
+  },
+  {
+   "id": "c-kekka-ga-deru",
+   "romaji": "kekka ga deru",
+   "english": "the results come out",
+   "chunk": "Exams and results",
+   "recent": true
+  },
+  {
+   "id": "c-shiken-ni-ukaru",
+   "romaji": "shiken ni ukaru",
+   "english": "pass an exam",
+   "chunk": "Exams and results",
+   "recent": true
+  },
+  {
+   "id": "c-shiken-ni-ochiru",
+   "romaji": "shiken ni ochiru",
+   "english": "fail an exam",
+   "chunk": "Exams and results",
+   "recent": true
+  },
+  {
+   "id": "c-okane-o-orosu",
+   "romaji": "okane o orosu",
+   "english": "withdraw cash",
+   "chunk": "Out on errands",
+   "recent": true
+  },
+  {
+   "id": "c-mise-ga-aku",
+   "romaji": "mise ga aku",
+   "english": "a shop opens (aiteru = is open)",
+   "chunk": "Out on errands",
+   "recent": true
+  },
+  {
+   "id": "c-mise-ga-shimaru",
+   "romaji": "mise ga shimaru",
+   "english": "a shop closes (shimatteru = is closed)",
+   "chunk": "Out on errands",
+   "recent": true
+  },
+  {
+   "id": "c-junban-o-matsu",
+   "romaji": "junban o matsu",
+   "english": "wait your turn",
+   "chunk": "Out on errands",
+   "recent": true
+  },
+  {
+   "id": "c-karada-ni-ii",
+   "romaji": "karada ni ii",
+   "english": "good for you, healthy",
+   "chunk": "Long-term health",
+   "recent": true
+  },
+  {
+   "id": "c-toshi-o-toru",
+   "romaji": "toshi o toru",
+   "english": "get older, age",
+   "chunk": "Long-term health",
+   "recent": true
+  },
+  {
+   "id": "c-tabako-o-yameru",
+   "romaji": "tabako o yameru",
+   "english": "quit smoking",
+   "chunk": "Long-term health",
+   "recent": true
+  },
+  {
+   "id": "c-arerugii-ga-aru",
+   "romaji": "arerugii ga aru",
+   "english": "be allergic (to something)",
+   "chunk": "Long-term health",
+   "recent": true
+  },
+  {
+   "id": "c-yaruki-ga-nai",
+   "romaji": "yaruki ga nai",
+   "english": "have no motivation, can't be bothered",
+   "chunk": "Motivation and mood",
+   "recent": true
+  },
+  {
+   "id": "c-yaruki-ga-deru",
+   "romaji": "yaruki ga deru",
+   "english": "get motivated",
+   "chunk": "Motivation and mood",
+   "recent": true
+  },
+  {
+   "id": "c-genki-ga-deru",
+   "romaji": "genki ga deru",
+   "english": "perk up, get a lift",
+   "chunk": "Motivation and mood",
+   "recent": true
+  },
+  {
+   "id": "c-tenshon-ga-agaru",
+   "romaji": "tenshon ga agaru",
+   "english": "get excited, get hyped",
+   "chunk": "Motivation and mood",
+   "recent": true
+  },
+  {
+   "id": "c-sutoresu-ga-tamaru",
+   "romaji": "sutoresu ga tamaru",
+   "english": "get stressed, stress builds up",
+   "chunk": "Motivation and mood",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "sora",
+   "mai"
+  ],
+  "format": "dialogue"
+ }
+}

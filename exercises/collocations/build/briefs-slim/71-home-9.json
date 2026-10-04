@@ -1,0 +1,359 @@
+{
+ "script": 71,
+ "of": 94,
+ "stage": 4,
+ "chunkId": "home-9",
+ "label": "Housework and laundry",
+ "topic": "Home & daily routine",
+ "rationale": "The chores beyond the kitchen: housework as a whole, laundry from the line to the drawer, and vacuuming.",
+ "mixUps": "hosu is you hanging the washing out, kawaku is it drying (sentakumono kawaita?), and folding is tatamu, not oru (paper). 'Vacuum' is a verb in English, but Japanese runs the machine with kakeru: soujiki o kakeru, like mezamashi o kakeru.",
+ "targets": [
+  {
+   "id": "c-kaji-o-suru",
+   "romaji": "kaji o suru",
+   "polite": "kaji o shimasu",
+   "english": "do the housework",
+   "ja": "家事をする",
+   "kana": "かじをする",
+   "politeJa": "家事をします",
+   "noun": "kaji",
+   "particle": "o",
+   "verb": "suru",
+   "verbJa": "する",
+   "verbSense": "do; the general verb for tasks and chores",
+   "englishVerb": "do",
+   "trap": null,
+   "partners": [
+    "souji (cleaning)",
+    "sentaku (laundry)",
+    "ryouri (cooking)",
+    "ikuji (childcare)"
+   ],
+   "flags": [],
+   "use": "Housework as a whole (cooking, cleaning, laundry), mostly in talk about who does what at home: kaji wa futari de yatteru (we both do the housework). Casual speech drops o, and yaru often replaces suru.",
+   "notes": "Helping with it is kaji o tetsudau; splitting it is kaji o buntan suru.",
+   "example": {
+    "romaji": "kyou wa ichinichi kaji shiteta.",
+    "ja": "今日は一日家事してた。",
+    "english": "I spent all day on housework."
+   },
+   "examplePolite": {
+    "romaji": "kyou wa ichinichi kaji o shite imashita.",
+    "ja": "今日は一日家事をしていました。",
+    "english": "I spent the whole day doing housework."
+   }
+  },
+  {
+   "id": "c-sentakumono-o-hosu",
+   "romaji": "sentakumono o hosu",
+   "polite": "sentakumono o hoshimasu",
+   "english": "hang out the laundry",
+   "ja": "洗濯物を干す",
+   "kana": "せんたくものをほす",
+   "politeJa": "洗濯物を干します",
+   "noun": "sentakumono",
+   "particle": "o",
+   "verb": "hosu",
+   "verbJa": "干す",
+   "verbSense": "hang out to dry; air in the sun",
+   "englishVerb": "hang",
+   "trap": "English 'hang' points to kakeru, but laundry put out to dry is hosu. The careful noun is sentakumono (the clothes); casual speech often shortens it to sentaku hosu.",
+   "partners": [
+    "futon (futon: air it in the sun)",
+    "taoru (towels)"
+   ],
+   "flags": [],
+   "use": "A daily chore in Japan, where most laundry is hung up to dry rather than tumble-dried: out on the balcony, or indoors (heyaboshi) when it rains. sentakumono hoshita? (did you hang the washing out?). Casual speech drops o.",
+   "notes": "Once it's dry (sentakumono ga kawaku: kawaita?), bringing it in is torikomu (sentakumono torikonde!) and folding it is tatamu (fuku o tatamu).",
+   "example": {
+    "romaji": "tenki ii kara, sentakumono hosou.",
+    "ja": "天気いいから、洗濯物干そう。",
+    "english": "It's sunny, let's hang the washing out."
+   },
+   "examplePolite": {
+    "romaji": "kyou wa tenki ga ii node, sentakumono o soto ni hoshimashita.",
+    "ja": "今日は天気がいいので、洗濯物を外に干しました。",
+    "english": "The weather's nice today, so I hung the laundry outside."
+   }
+  },
+  {
+   "id": "c-sentakumono-ga-kawaku",
+   "romaji": "sentakumono ga kawaku",
+   "polite": "sentakumono ga kawakimasu",
+   "english": "the laundry dries",
+   "ja": "洗濯物が乾く",
+   "kana": "せんたくものがかわく",
+   "politeJa": "洗濯物が乾きます",
+   "noun": "sentakumono",
+   "particle": "ga",
+   "verb": "kawaku",
+   "verbJa": "乾く",
+   "verbSense": "become dry (laundry, paint, hair)",
+   "englishVerb": "dry",
+   "trap": "Not sentakumono o kawaku: kawaku is the laundry drying by itself. Hanging it out to dry is sentakumono o hosu; drying something yourself with heat is kawakasu (kami o kawakasu, dry your hair).",
+   "partners": [
+    "kami (hair)",
+    "penki (paint)",
+    "taoru (towel)"
+   ],
+   "flags": [],
+   "use": "Comes up with the weather: sentakumono kawaita? (is the washing dry?), and in the rainy season the complaint sentakumono ga kawakanai. Casual speech drops ga.",
+   "notes": "Washing hung indoors on a rainy day is heyaboshi; a tumble dryer is kansouki.",
+   "example": {
+    "romaji": "kyou wa sentakumono kawakanai ne.",
+    "ja": "今日は洗濯物乾かないね。",
+    "english": "The washing won't dry today."
+   },
+   "examplePolite": {
+    "romaji": "kyou wa sentakumono ga kawakimasen ne.",
+    "ja": "今日は洗濯物が乾きませんね。",
+    "english": "The laundry won't dry today, will it?"
+   }
+  },
+  {
+   "id": "c-fuku-o-tatamu",
+   "romaji": "fuku o tatamu",
+   "polite": "fuku o tatamimasu",
+   "english": "fold clothes",
+   "ja": "服を畳む",
+   "kana": "ふくをたたむ",
+   "politeJa": "服を畳みます",
+   "noun": "fuku",
+   "particle": "o",
+   "verb": "tatamu",
+   "verbJa": "畳む",
+   "verbSense": "fold up; also close (an umbrella), shut down (a shop)",
+   "englishVerb": "fold",
+   "trap": "Not oru: oru is folding paper (origami) or snapping something (hone o oru). Clothes, futons and umbrellas are tatamu.",
+   "partners": [
+    "sentakumono (laundry)",
+    "futon (futon)",
+    "kasa (umbrella)",
+    "taoru (towel)"
+   ],
+   "flags": [],
+   "use": "Usually once the dry washing has been brought in (sentakumono o torikomu): fuku tatande (fold your clothes), with sentakumono as the object just as often (sentakumono tatanda?). Casual speech drops o.",
+   "notes": "Folded clothes then go away with shimau: tatande shimatte (fold them and put them away).",
+   "example": {
+    "romaji": "fuku, chanto tatande yo.",
+    "ja": "服、ちゃんと畳んでよ。",
+    "english": "Fold your clothes properly."
+   },
+   "examplePolite": {
+    "romaji": "fuku wa chanto tatande kudasai ne.",
+    "ja": "服はちゃんと畳んでくださいね。",
+    "english": "Please fold your clothes properly."
+   }
+  },
+  {
+   "id": "c-soujiki-o-kakeru",
+   "romaji": "soujiki o kakeru",
+   "polite": "soujiki o kakemasu",
+   "english": "vacuum (the floor)",
+   "ja": "掃除機をかける",
+   "kana": "そうじきをかける",
+   "politeJa": "掃除機をかけます",
+   "noun": "soujiki",
+   "particle": "o",
+   "verb": "kakeru",
+   "verbJa": "かける",
+   "verbSense": "hang or put something onto something; set a device going",
+   "englishVerb": "vacuum",
+   "trap": "English 'vacuum' is a verb, but Japanese runs the machine with kakeru: soujiki (o) kakeru. Casual soujiki suru is also heard, and soujiki o tsukau (use the vacuum) is fine but less usual.",
+   "partners": [
+    "airon (iron)",
+    "doraiyaa (hairdryer)"
+   ],
+   "flags": [],
+   "use": "The everyday way to say 'vacuum': soujiki kakeru kara chotto doite (I'm vacuuming, move a sec). Casual speech drops o; souji suru (clean) covers it along with the rest of the cleaning.",
+   "notes": "The same kakeru irons a shirt (airon o kakeru) and sets an alarm (mezamashi o kakeru).",
+   "example": {
+    "romaji": "ato de soujiki kaketoku ne.",
+    "ja": "あとで掃除機かけとくね。",
+    "english": "I'll vacuum later."
+   },
+   "examplePolite": {
+    "romaji": "ato de soujiki o kakete okimasu ne.",
+    "ja": "あとで掃除機をかけておきますね。",
+    "english": "I'll do the vacuuming later."
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-osara-o-arau",
+   "romaji": "osara o arau",
+   "english": "wash the dishes, wash up",
+   "chunk": "Kitchen",
+   "recent": true
+  },
+  {
+   "id": "c-oyu-o-wakasu",
+   "romaji": "oyu o wakasu",
+   "english": "boil water",
+   "chunk": "Kitchen",
+   "recent": true
+  },
+  {
+   "id": "c-teeburu-o-fuku",
+   "romaji": "teeburu o fuku",
+   "english": "wipe the table",
+   "chunk": "Kitchen",
+   "recent": true
+  },
+  {
+   "id": "c-geemu-ni-hamaru",
+   "romaji": "geemu ni hamaru",
+   "english": "be hooked on games; be really into games",
+   "chunk": "Hooked, tickets, winning",
+   "recent": true
+  },
+  {
+   "id": "c-shiai-ni-katsu",
+   "romaji": "shiai ni katsu",
+   "english": "win a match",
+   "chunk": "Hooked, tickets, winning",
+   "recent": true
+  },
+  {
+   "id": "c-shiai-ni-makeru",
+   "romaji": "shiai ni makeru",
+   "english": "lose a match",
+   "chunk": "Hooked, tickets, winning",
+   "recent": true
+  },
+  {
+   "id": "c-chiketto-o-toru",
+   "romaji": "chiketto o toru",
+   "english": "get hold of tickets",
+   "chunk": "Hooked, tickets, winning",
+   "recent": true
+  },
+  {
+   "id": "c-hidari-ni-magaru",
+   "romaji": "hidari ni magaru",
+   "english": "turn left",
+   "chunk": "Finding the way",
+   "recent": true
+  },
+  {
+   "id": "c-kado-o-magaru",
+   "romaji": "kado o magaru",
+   "english": "turn at the corner",
+   "chunk": "Finding the way",
+   "recent": true
+  },
+  {
+   "id": "c-michi-ni-mayou",
+   "romaji": "michi ni mayou",
+   "english": "get lost",
+   "chunk": "Finding the way",
+   "recent": true
+  },
+  {
+   "id": "c-michi-o-machigaeru",
+   "romaji": "michi o machigaeru",
+   "english": "go the wrong way",
+   "chunk": "Finding the way",
+   "recent": true
+  },
+  {
+   "id": "c-maigo-ni-naru",
+   "romaji": "maigo ni naru",
+   "english": "get lost (wander off, like a lost child)",
+   "chunk": "Finding the way",
+   "recent": true
+  },
+  {
+   "id": "c-shukudai-o-suru",
+   "romaji": "shukudai o suru",
+   "english": "do homework",
+   "chunk": "Homework and grades",
+   "recent": true
+  },
+  {
+   "id": "c-shukudai-o-dasu",
+   "romaji": "shukudai o dasu",
+   "english": "hand in homework",
+   "chunk": "Homework and grades",
+   "recent": true
+  },
+  {
+   "id": "c-mondai-o-toku",
+   "romaji": "mondai o toku",
+   "english": "solve a question, do problems",
+   "chunk": "Homework and grades",
+   "recent": true
+  },
+  {
+   "id": "c-seiseki-ga-ii",
+   "romaji": "seiseki ga ii",
+   "english": "have good grades, do well at school",
+   "chunk": "Homework and grades",
+   "recent": true
+  },
+  {
+   "id": "c-hi-ga-kureru",
+   "romaji": "hi ga kureru",
+   "english": "it gets dark (evening)",
+   "chunk": "Sun and moon",
+   "recent": true
+  },
+  {
+   "id": "c-hi-ga-noboru",
+   "romaji": "hi ga noboru",
+   "english": "the sun rises, comes up",
+   "chunk": "Sun and moon",
+   "recent": true
+  },
+  {
+   "id": "c-hi-ga-shizumu",
+   "romaji": "hi ga shizumu",
+   "english": "the sun sets, goes down",
+   "chunk": "Sun and moon",
+   "recent": true
+  },
+  {
+   "id": "c-tsuki-ga-deru",
+   "romaji": "tsuki ga deru",
+   "english": "the moon comes out",
+   "chunk": "Sun and moon",
+   "recent": true
+  },
+  {
+   "id": "c-ocha-o-ireru",
+   "romaji": "ocha o ireru",
+   "english": "make tea",
+   "chunk": "Breakfast",
+   "recent": true
+  },
+  {
+   "id": "c-satou-o-ireru",
+   "romaji": "satou o ireru",
+   "english": "put sugar in, add sugar",
+   "chunk": "Breakfast",
+   "recent": true
+  },
+  {
+   "id": "c-pan-o-yaku",
+   "romaji": "pan o yaku",
+   "english": "toast bread; bake bread",
+   "chunk": "Breakfast",
+   "recent": true
+  },
+  {
+   "id": "c-asagohan-o-nuku",
+   "romaji": "asagohan o nuku",
+   "english": "skip breakfast",
+   "chunk": "Breakfast",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "yuki",
+   "kenta"
+  ],
+  "format": "dialogue"
+ }
+}

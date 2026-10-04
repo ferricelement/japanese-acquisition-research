@@ -1,0 +1,40 @@
+{
+ "edits": [
+  {
+   "script": 39,
+   "kind": "line",
+   "index": 10,
+   "sub": 0,
+   "field": "romaji",
+   "value": "jaa, okaasan ga neechan to naka waruku natta n ja nai?",
+   "why": "Kenji is the younger brother: he calls Yuki neechan in every other script, never by her name."
+  },
+  {
+   "script": 39,
+   "kind": "line",
+   "index": 10,
+   "sub": 0,
+   "field": "ja",
+   "value": "じゃあ、お母さんが姉ちゃんと仲悪くなったんじゃない？",
+   "why": "Kenji is the younger brother: he calls Yuki neechan in every other script, never by her name."
+  },
+  {
+   "script": 39,
+   "kind": "line",
+   "index": 10,
+   "sub": 0,
+   "field": "kana",
+   "value": "じゃあ、おかあさんがねえちゃんとなかわるくなったんじゃない？",
+   "why": "Kenji is the younger brother: he calls Yuki neechan in every other script, never by her name."
+  },
+  {
+   "script": 39,
+   "kind": "question",
+   "index": 3,
+   "sub": 0,
+   "field": "explanation",
+   "value": "Line 10: naka ga warui is about how two people get on (neechan to = with his big sister, Yuki), and waruku natta means it has become bad: they've fallen out. Kenji is joking that this, not work, is why Yuki has gone quiet, and Okaasan protests in line 11 (naka warukunai wa yo!) that the two of them went shopping just last week. A would be guai ga warui (feeling unwell) and C kigen ga warui (in a bad mood): both describe one person, and neither has naka. Okaasan used the same phrase about the past in line 9: mukashi wa sugoku naka warukatta, Kenji and Yuki used to get on badly.",
+   "why": "Kenji is the younger brother: he calls Yuki neechan in every other script, never by her name."
+  }
+ ]
+}

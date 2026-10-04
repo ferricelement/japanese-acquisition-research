@@ -1,0 +1,314 @@
+{
+ "script": 39,
+ "of": 94,
+ "stage": 2,
+ "chunkId": "people-4",
+ "label": "Close and in touch",
+ "topic": "People & talk",
+ "rationale": "How things stand with people: close or on bad terms, staying in touch, and hearing from them.",
+ "mixUps": "naka ga ii and naka ga warui say the relationship is good or bad, where English uses a verb (get along). renraku o toru is getting or staying in touch; renraku ga kuru (renraku kita?) is them getting in touch with you, like meeru ga kuru.",
+ "targets": [
+  {
+   "id": "c-naka-ga-ii",
+   "romaji": "naka ga ii",
+   "polite": "naka ga ii desu",
+   "english": "get along well, be close",
+   "ja": "仲がいい",
+   "kana": "なかがいい",
+   "politeJa": "仲がいいです",
+   "noun": "naka",
+   "particle": "ga",
+   "verb": "ii",
+   "verbJa": "いい",
+   "verbSense": "good, fine (adjective; past yokatta)",
+   "englishVerb": "get along",
+   "trap": "English 'get along' splits in two: the state 'we get along' is naka ga ii (our relationship is good), and the action 'get along, be nice to each other' is nakayoku suru (nakayoku shite ne). This naka is not naka 'inside'.",
+   "partners": [
+    "aishou (chemistry, compatibility)"
+   ],
+   "flags": [],
+   "use": "Said about two people or a group (ano futari naka ii yo ne), or with to for you and someone: tanaka-san to naka ii n da (I'm close with Tanaka). ii becomes yo- in other forms: naka yokatta (we used to be close), nakayoku shite ne (be nice to each other). The opposite is naka ga warui.",
+   "notes": "Opposite: naka ga warui; close friends are nakayoshi. nakayoku suru = get along (as an action), nakayoku natta = we became friends. 10-list-nouns #23 is the homophone naka 'inside'; under its rule S2, 仲 is carded only as this phrase.",
+   "example": {
+    "romaji": "ano futari, naka ii yo ne.",
+    "ja": "あの二人、仲いいよね。",
+    "english": "Those two are close, huh."
+   },
+   "examplePolite": {
+    "romaji": "ano futari wa naka ga ii desu ne.",
+    "ja": "あの二人は仲がいいですね。",
+    "english": "Those two get along well, don't they."
+   }
+  },
+  {
+   "id": "c-naka-ga-warui",
+   "romaji": "naka ga warui",
+   "polite": "naka ga warui desu",
+   "english": "be on bad terms",
+   "ja": "仲が悪い",
+   "kana": "なかがわるい",
+   "politeJa": "仲が悪いです",
+   "noun": "naka",
+   "particle": "ga",
+   "verb": "warui",
+   "verbJa": "悪い",
+   "verbSense": "bad (adjective; past warukatta)",
+   "englishVerb": "get along",
+   "trap": null,
+   "partners": [
+    "aishou (compatibility: aishou ga warui = we just don't click)"
+   ],
+   "flags": [],
+   "use": "Said about two people or groups (ano futari, naka warui no?), or with to for you and someone: oya to naka warui n da (I don't get on with my parents). Falling out is naka ga waruku naru, and plain 'not close' is often softened to amari naka yokunai.",
+   "notes": "The opposite of naka ga ii. kenka shiteru (they've fallen out) is a current fight; naka ga warui is the lasting state.",
+   "example": {
+    "romaji": "ano futari, naka warui no?",
+    "ja": "あの二人、仲悪いの？",
+    "english": "Do those two not get along?"
+   },
+   "examplePolite": {
+    "romaji": "ano futari wa naka ga warui n desu ka?",
+    "ja": "あの二人は仲が悪いんですか？",
+    "english": "Are those two on bad terms?"
+   }
+  },
+  {
+   "id": "c-renraku-o-toru",
+   "romaji": "renraku o toru",
+   "polite": "renraku o torimasu",
+   "english": "get or stay in touch",
+   "ja": "連絡を取る",
+   "kana": "れんらくをとる",
+   "politeJa": "連絡を取ります",
+   "noun": "renraku",
+   "particle": "o",
+   "verb": "toru",
+   "verbJa": "取る",
+   "verbSense": "take, get hold of",
+   "englishVerb": "keep in touch",
+   "trap": "English 'keep in touch' leads to renraku suru for everything. That's right for the goodbye line (mata renraku suru ne, renraku shite ne) and for a single message, but being in contact over time or managing to reach someone is renraku o toru: mada renraku totteru?, renraku ga torenai. renraku o tsuzukeru sounds off, and renraku o tamotsu is stiff written style.",
+   "partners": [
+    "kyori (distance: kyori o toru = keep your distance)",
+    "baransu (balance: baransu o toru = keep your balance)"
+   ],
+   "flags": [],
+   "use": "Mostly about staying in touch or managing to reach someone: mada renraku totteru? (still in touch?), renraku ga torenai (I can't get hold of them). renraku tsukanai means the same and is just as common (renraku ga tsuku is the intransitive side). For a single message or call, renraku suru is the everyday verb.",
+   "notes": "Hearing from someone is renraku ga kuru or renraku moratta.",
+   "example": {
+    "romaji": "kare to mada renraku totteru?",
+    "ja": "彼とまだ連絡取ってる？",
+    "english": "Are you still in touch with him?"
+   },
+   "examplePolite": {
+    "romaji": "kare to wa mada renraku o tottemasu ka?",
+    "ja": "彼とはまだ連絡を取ってますか？",
+    "english": "Are you still in touch with him?"
+   }
+  },
+  {
+   "id": "c-renraku-ga-kuru",
+   "romaji": "renraku ga kuru",
+   "polite": "renraku ga kimasu",
+   "english": "hear from someone",
+   "ja": "連絡が来る",
+   "kana": "れんらくがくる",
+   "politeJa": "連絡が来ます",
+   "noun": "renraku",
+   "particle": "ga",
+   "verb": "kuru",
+   "verbJa": "来る",
+   "verbSense": "come, arrive",
+   "englishVerb": "hear from",
+   "trap": "English 'hear from him' leads to kare kara kiku, which means being told something by him. Getting a message or call from him is kare kara renraku ga kita. renraku o morau also works, but kita is what you hear most.",
+   "partners": [
+    "henji (reply)",
+    "rain (LINE message)",
+    "denwa (call)",
+    "shirase (news: ii shirase ga kita)"
+   ],
+   "flags": [],
+   "use": "The everyday way to ask or report whether someone got in touch: renraku kita? (did they get in touch?), mada renraku konai (still nothing from them), with ga dropped. The sender takes kara: kare kara renraku kita.",
+   "notes": "renraku kitara oshiete = let me know if you hear from them.",
+   "example": {
+    "romaji": "kare kara mada renraku konai.",
+    "ja": "彼からまだ連絡来ない。",
+    "english": "I still haven't heard from him."
+   },
+   "examplePolite": {
+    "romaji": "kare kara mada renraku ga kimasen.",
+    "ja": "彼からまだ連絡が来ません。",
+    "english": "I still haven't heard from him."
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-shashin-o-toru",
+   "romaji": "shashin o toru",
+   "english": "take a photo",
+   "chunk": "Photos and your phone",
+   "recent": true
+  },
+  {
+   "id": "c-shashin-o-miru",
+   "romaji": "shashin o miru",
+   "english": "look at photos",
+   "chunk": "Photos and your phone",
+   "recent": true
+  },
+  {
+   "id": "c-sumaho-o-ijiru",
+   "romaji": "sumaho o ijiru",
+   "english": "be on your phone",
+   "chunk": "Photos and your phone",
+   "recent": true
+  },
+  {
+   "id": "c-shashin-o-okuru",
+   "romaji": "shashin o okuru",
+   "english": "send a photo",
+   "chunk": "Photos and your phone",
+   "recent": true
+  },
+  {
+   "id": "c-imi-ga-wakaru",
+   "romaji": "imi ga wakaru",
+   "english": "understand what something means; (negative) make no sense",
+   "chunk": "Understanding",
+   "recent": true
+  },
+  {
+   "id": "c-kimochi-ga-wakaru",
+   "romaji": "kimochi ga wakaru",
+   "english": "know how someone feels",
+   "chunk": "Understanding",
+   "recent": true
+  },
+  {
+   "id": "c-chigai-ga-wakaru",
+   "romaji": "chigai ga wakaru",
+   "english": "tell the difference",
+   "chunk": "Understanding",
+   "recent": true
+  },
+  {
+   "id": "c-gohan-ni-iku",
+   "romaji": "gohan ni iku",
+   "english": "go out to eat",
+   "chunk": "Eating out",
+   "recent": true
+  },
+  {
+   "id": "c-mise-ga-komu",
+   "romaji": "mise ga komu",
+   "english": "(a place) gets crowded (konderu = is packed)",
+   "chunk": "Eating out",
+   "recent": true
+  },
+  {
+   "id": "c-gohan-o-ogoru",
+   "romaji": "gohan o ogoru",
+   "english": "treat someone to a meal",
+   "chunk": "Eating out",
+   "recent": true
+  },
+  {
+   "id": "c-ryou-ga-ooi",
+   "romaji": "ryou ga ooi",
+   "english": "it's a big portion",
+   "chunk": "Eating out",
+   "recent": true
+  },
+  {
+   "id": "c-denki-o-tsukeru",
+   "romaji": "denki o tsukeru",
+   "english": "turn on the light",
+   "chunk": "Lights and buttons",
+   "recent": true
+  },
+  {
+   "id": "c-denki-o-kesu",
+   "romaji": "denki o kesu",
+   "english": "turn off the light",
+   "chunk": "Lights and buttons",
+   "recent": true
+  },
+  {
+   "id": "c-denki-ga-tsuku",
+   "romaji": "denki ga tsuku",
+   "english": "the light comes on (tsuiteru = is on)",
+   "chunk": "Lights and buttons",
+   "recent": true
+  },
+  {
+   "id": "c-botan-o-osu",
+   "romaji": "botan o osu",
+   "english": "press the button",
+   "chunk": "Lights and buttons",
+   "recent": true
+  },
+  {
+   "id": "c-densha-ga-okureru",
+   "romaji": "densha ga okureru",
+   "english": "the train is delayed",
+   "chunk": "Catching the train",
+   "recent": true
+  },
+  {
+   "id": "c-densha-ni-maniau",
+   "romaji": "densha ni maniau",
+   "english": "make the train in time",
+   "chunk": "Catching the train",
+   "recent": true
+  },
+  {
+   "id": "c-densha-ga-deru",
+   "romaji": "densha ga deru",
+   "english": "the train leaves",
+   "chunk": "Catching the train",
+   "recent": true
+  },
+  {
+   "id": "c-densha-ni-okureru",
+   "romaji": "densha ni okureru",
+   "english": "be late for the train (and so miss it)",
+   "chunk": "Catching the train",
+   "recent": true
+  },
+  {
+   "id": "c-shuuden-ga-nakunaru",
+   "romaji": "shuuden ga nakunaru",
+   "english": "the last train is gone (no way home)",
+   "chunk": "Catching the train",
+   "recent": true
+  },
+  {
+   "id": "c-byouin-ni-iku",
+   "romaji": "byouin ni iku",
+   "english": "see a doctor",
+   "chunk": "Doctor and medicine",
+   "recent": true
+  },
+  {
+   "id": "c-kusuri-o-nomu",
+   "romaji": "kusuri o nomu",
+   "english": "take medicine",
+   "chunk": "Doctor and medicine",
+   "recent": true
+  },
+  {
+   "id": "c-kusuri-ga-kiku",
+   "romaji": "kusuri ga kiku",
+   "english": "medicine works, takes effect",
+   "chunk": "Doctor and medicine",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "okaasan",
+   "kenji"
+  ],
+  "format": "dialogue"
+ }
+}

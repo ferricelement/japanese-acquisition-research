@@ -1,0 +1,335 @@
+{
+ "script": 69,
+ "of": 94,
+ "stage": 3,
+ "chunkId": "weather-4",
+ "label": "Sun and moon",
+ "topic": "Weather & nature",
+ "rationale": "What the sky does through the day: it gets dark, the sun comes up and goes down, the moon comes out.",
+ "mixUps": "hi ga shizumu (the sun sinks) and hi ga kureru (the day closes) both mean evening: shizumu is the sun itself, kureru is the light going, and it isn't kureru 'give'. The sun noboru (climbs) but the moon usually deru (comes out), like a person going out.",
+ "targets": [
+  {
+   "id": "c-hi-ga-kureru",
+   "romaji": "hi ga kureru",
+   "polite": "hi ga kuremasu",
+   "english": "it gets dark (evening)",
+   "ja": "日が暮れる",
+   "kana": "ひがくれる",
+   "politeJa": "日が暮れます",
+   "noun": "hi",
+   "particle": "ga",
+   "verb": "kureru",
+   "verbJa": "暮れる",
+   "verbSense": "(of a day or year) draw to a close; grow dark at dusk",
+   "englishVerb": "get dark",
+   "trap": "Nothing in English points to kureru, and it isn't kureru 'give me': the day 'closes'. Kuraku naru (get dark) is also natural.",
+   "partners": [],
+   "flags": [],
+   "use": "Mostly heard in hi ga kureru mae ni (before it gets dark) and hi ga kureru no ga hayai (it gets dark early). In plain chat people also just say kuraku natte kita.",
+   "notes": "Classic autumn remark: hi ga kureru no hayaku natta ne (it's getting dark earlier). Joking 'this'll take forever': sonna no yattetara hi ga kurechau yo. Days getting longer: hi ga nobita ne. The sun itself going down is hi ga shizumu; kureru is the light going with it.",
+   "example": {
+    "romaji": "hi ga kureru mae ni kaerou.",
+    "ja": "日が暮れる前に帰ろう。",
+    "english": "Let's head home before it gets dark."
+   },
+   "examplePolite": {
+    "romaji": "hi ga kureru mae ni kaerimashou.",
+    "ja": "日が暮れる前に帰りましょう。",
+    "english": "Let's head home before it gets dark."
+   }
+  },
+  {
+   "id": "c-hi-ga-noboru",
+   "romaji": "hi ga noboru",
+   "polite": "hi ga noborimasu",
+   "english": "the sun rises, comes up",
+   "ja": "日が昇る",
+   "kana": "ひがのぼる",
+   "politeJa": "日が昇ります",
+   "noun": "hi",
+   "particle": "ga",
+   "verb": "noboru",
+   "verbJa": "昇る",
+   "verbSense": "rise, go up (the sun, the moon, smoke)",
+   "englishVerb": "rise",
+   "trap": "'Rise' points to agaru, the everyday 'go up', but the usual verb for the sun is noboru: hi ga nobotta.",
+   "partners": [
+    "taiyou (the sun)",
+    "asahi (the morning sun)",
+    "tsuki (the moon)"
+   ],
+   "flags": [],
+   "use": "Said about dawn, often after a night without sleep: mou hi ga nobotteru (the sun's already up). Nobotteru means it is up, not 'it is rising'. For the moment it appears, people say hi ga nobotte kita or hi ga dete kita.",
+   "notes": "Watching the sunrise uses the noun hinode (hinode mi ni iku); the first one of the New Year is hatsuhinode.",
+   "example": {
+    "romaji": "uwa, mou hi ga nobotteru.",
+    "ja": "うわ、もう日が昇ってる。",
+    "english": "Whoa, the sun's already up."
+   },
+   "examplePolite": {
+    "romaji": "uwa, mou hi ga nobottemasu ne.",
+    "ja": "うわ、もう日が昇ってますね。",
+    "english": "Whoa, the sun's already up."
+   }
+  },
+  {
+   "id": "c-hi-ga-shizumu",
+   "romaji": "hi ga shizumu",
+   "polite": "hi ga shizumimasu",
+   "english": "the sun sets, goes down",
+   "ja": "日が沈む",
+   "kana": "ひがしずむ",
+   "politeJa": "日が沈みます",
+   "noun": "hi",
+   "particle": "ga",
+   "verb": "shizumu",
+   "verbJa": "沈む",
+   "verbSense": "sink, go under (into water or below the horizon)",
+   "englishVerb": "set",
+   "trap": "'Go down' points to oriru or sagaru, but the sun sinks: hi ga shizumu, the same verb as a ship sinking. Hi ga ochiru (the sun drops) is just as natural in talk.",
+   "partners": [
+    "taiyou (the sun)",
+    "yuuhi (the setting sun)",
+    "tsuki (the moon)"
+   ],
+   "flags": [],
+   "use": "Mostly in hi ga shizundara (once the sun's down) and hi ga shizumu mae ni (before sunset). In talk hi ga ochiru is just as common: hi ga ochiru no hayaku natta ne (the sun goes down so early now). 'Before it gets dark' is hi ga kureru mae ni or kuraku naru mae ni.",
+   "notes": "The sunset itself is yuuhi (the setting sun) or yuuyake (the red evening sky): yuuhi kirei da ne.",
+   "example": {
+    "romaji": "hi ga shizundara suzushiku naru yo.",
+    "ja": "日が沈んだら涼しくなるよ。",
+    "english": "It'll cool down once the sun goes down."
+   },
+   "examplePolite": {
+    "romaji": "hi ga shizundara suzushiku narimasu yo.",
+    "ja": "日が沈んだら涼しくなりますよ。",
+    "english": "It'll cool down once the sun goes down."
+   }
+  },
+  {
+   "id": "c-tsuki-ga-deru",
+   "romaji": "tsuki ga deru",
+   "polite": "tsuki ga demasu",
+   "english": "the moon comes out",
+   "ja": "月が出る",
+   "kana": "つきがでる",
+   "politeJa": "月が出ます",
+   "noun": "tsuki",
+   "particle": "ga",
+   "verb": "deru",
+   "verbJa": "出る",
+   "verbSense": "come out, appear; also leave, go out",
+   "englishVerb": "come out",
+   "trap": null,
+   "partners": [
+    "hoshi (stars)",
+    "taiyou (the sun)",
+    "niji (a rainbow)"
+   ],
+   "flags": [],
+   "use": "Said when you notice the moon: tsuki deteru (the moon's out), kyou tsuki detenai ne. Deteru means it's out now, not 'it's coming out'.",
+   "notes": "A full moon is mangetsu: kyou mangetsu da tte (apparently it's a full moon tonight).",
+   "example": {
+    "romaji": "mite, tsuki deteru yo.",
+    "ja": "見て、月出てるよ。",
+    "english": "Look, the moon's out."
+   },
+   "examplePolite": {
+    "romaji": "hora, tsuki ga detemasu yo.",
+    "ja": "ほら、月が出てますよ。",
+    "english": "Look, the moon's out."
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-hito-ga-ooi",
+   "romaji": "hito ga ooi",
+   "english": "be crowded, lots of people",
+   "chunk": "Out and about",
+   "recent": true
+  },
+  {
+   "id": "c-ninki-ga-aru",
+   "romaji": "ninki ga aru",
+   "english": "be popular",
+   "chunk": "Out and about",
+   "recent": true
+  },
+  {
+   "id": "c-ii-fun-iki",
+   "romaji": "ii fun'iki",
+   "english": "a nice atmosphere, good vibe",
+   "chunk": "Out and about",
+   "recent": true
+  },
+  {
+   "id": "c-hyouban-ga-ii",
+   "romaji": "hyouban ga ii",
+   "english": "have a good reputation",
+   "chunk": "Out and about",
+   "recent": true
+  },
+  {
+   "id": "c-nimotsu-ga-omoi",
+   "romaji": "nimotsu ga omoi",
+   "english": "the bags are heavy",
+   "chunk": "Out and about",
+   "recent": true
+  },
+  {
+   "id": "c-orei-o-iu",
+   "romaji": "orei o iu",
+   "english": "thank someone, say thanks",
+   "chunk": "Manners and thanks",
+   "recent": true
+  },
+  {
+   "id": "c-keigo-o-tsukau",
+   "romaji": "keigo o tsukau",
+   "english": "speak politely, use honorifics",
+   "chunk": "Manners and thanks",
+   "recent": true
+  },
+  {
+   "id": "c-ki-o-tsukau",
+   "romaji": "ki o tsukau",
+   "english": "be considerate, go to trouble",
+   "chunk": "Manners and thanks",
+   "recent": true
+  },
+  {
+   "id": "c-osewa-ni-naru",
+   "romaji": "osewa ni naru",
+   "english": "be looked after, be indebted",
+   "chunk": "Manners and thanks",
+   "recent": true
+  },
+  {
+   "id": "c-gochisou-ni-naru",
+   "romaji": "gochisou ni naru",
+   "english": "be treated (to a meal)",
+   "chunk": "Manners and thanks",
+   "recent": true
+  },
+  {
+   "id": "c-osara-o-arau",
+   "romaji": "osara o arau",
+   "english": "wash the dishes, wash up",
+   "chunk": "Kitchen",
+   "recent": true
+  },
+  {
+   "id": "c-oyu-o-wakasu",
+   "romaji": "oyu o wakasu",
+   "english": "boil water",
+   "chunk": "Kitchen",
+   "recent": true
+  },
+  {
+   "id": "c-teeburu-o-fuku",
+   "romaji": "teeburu o fuku",
+   "english": "wipe the table",
+   "chunk": "Kitchen",
+   "recent": true
+  },
+  {
+   "id": "c-geemu-ni-hamaru",
+   "romaji": "geemu ni hamaru",
+   "english": "be hooked on games; be really into games",
+   "chunk": "Hooked, tickets, winning",
+   "recent": true
+  },
+  {
+   "id": "c-shiai-ni-katsu",
+   "romaji": "shiai ni katsu",
+   "english": "win a match",
+   "chunk": "Hooked, tickets, winning",
+   "recent": true
+  },
+  {
+   "id": "c-shiai-ni-makeru",
+   "romaji": "shiai ni makeru",
+   "english": "lose a match",
+   "chunk": "Hooked, tickets, winning",
+   "recent": true
+  },
+  {
+   "id": "c-chiketto-o-toru",
+   "romaji": "chiketto o toru",
+   "english": "get hold of tickets",
+   "chunk": "Hooked, tickets, winning",
+   "recent": true
+  },
+  {
+   "id": "c-hidari-ni-magaru",
+   "romaji": "hidari ni magaru",
+   "english": "turn left",
+   "chunk": "Finding the way",
+   "recent": true
+  },
+  {
+   "id": "c-kado-o-magaru",
+   "romaji": "kado o magaru",
+   "english": "turn at the corner",
+   "chunk": "Finding the way",
+   "recent": true
+  },
+  {
+   "id": "c-michi-ni-mayou",
+   "romaji": "michi ni mayou",
+   "english": "get lost",
+   "chunk": "Finding the way",
+   "recent": true
+  },
+  {
+   "id": "c-michi-o-machigaeru",
+   "romaji": "michi o machigaeru",
+   "english": "go the wrong way",
+   "chunk": "Finding the way",
+   "recent": true
+  },
+  {
+   "id": "c-maigo-ni-naru",
+   "romaji": "maigo ni naru",
+   "english": "get lost (wander off, like a lost child)",
+   "chunk": "Finding the way",
+   "recent": true
+  },
+  {
+   "id": "c-shukudai-o-suru",
+   "romaji": "shukudai o suru",
+   "english": "do homework",
+   "chunk": "Homework and grades",
+   "recent": true
+  },
+  {
+   "id": "c-shukudai-o-dasu",
+   "romaji": "shukudai o dasu",
+   "english": "hand in homework",
+   "chunk": "Homework and grades",
+   "recent": true
+  },
+  {
+   "id": "c-mondai-o-toku",
+   "romaji": "mondai o toku",
+   "english": "solve a question, do problems",
+   "chunk": "Homework and grades",
+   "recent": true
+  },
+  {
+   "id": "c-seiseki-ga-ii",
+   "romaji": "seiseki ga ii",
+   "english": "have good grades, do well at school",
+   "chunk": "Homework and grades",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "okaasan",
+   "kenji"
+  ],
+  "format": "dialogue"
+ }
+}

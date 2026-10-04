@@ -1,0 +1,393 @@
+{
+ "script": 31,
+ "of": 94,
+ "stage": 2,
+ "chunkId": "body-6",
+ "label": "Cold symptoms",
+ "topic": "Body & health",
+ "rationale": "Describing a cold or flu: a fever, a cough, a runny nose and that heavy, run-down feeling.",
+ "mixUps": "Symptoms 'come out' with deru (netsu deta, seki ga deru, hanamizu ga deru); netsu ga aru is having a fever right now, never motsu. karada ga darui uses the adjective darui, and darui on its own also means 'can't be bothered'.",
+ "targets": [
+  {
+   "id": "c-netsu-ga-aru",
+   "romaji": "netsu ga aru",
+   "polite": "netsu ga arimasu",
+   "english": "have a fever",
+   "ja": "熱がある",
+   "kana": "ねつがある",
+   "politeJa": "熱があります",
+   "noun": "netsu",
+   "particle": "ga",
+   "verb": "aru",
+   "verbJa": "ある",
+   "verbSense": "there is, exist (for things)",
+   "englishVerb": "have",
+   "trap": "Not netsu o motsu: a fever 'exists', netsu ga aru (netsu aru mitai).",
+   "partners": [
+    "shokuyoku (appetite: shokuyoku ga nai)",
+    "itami (pain: itami ga aru)"
+   ],
+   "flags": [],
+   "use": "For a fever you have now: netsu aru (I've got a temperature), netsu aru no? (have you got a fever?). Netsu deteru also works; netsu deta is the moment it came on.",
+   "notes": "Often given in Celsius: sanjuuhachido aru (I'm running 38). Nausea and chills take suru: hakike ga suru, samuke ga suru. Taking your temperature is netsu o hakaru, not toru.",
+   "example": {
+    "romaji": "kesa kara chotto netsu aru.",
+    "ja": "今朝からちょっと熱ある。",
+    "english": "I've had a bit of a fever since this morning."
+   },
+   "examplePolite": {
+    "romaji": "kesa kara chotto netsu ga aru n desu.",
+    "ja": "今朝からちょっと熱があるんです。",
+    "english": "I've had a slight fever since this morning."
+   }
+  },
+  {
+   "id": "c-netsu-ga-deru",
+   "romaji": "netsu ga deru",
+   "polite": "netsu ga demasu",
+   "english": "get a fever",
+   "ja": "熱が出る",
+   "kana": "ねつがでる",
+   "politeJa": "熱が出ます",
+   "noun": "netsu",
+   "particle": "ga",
+   "verb": "deru",
+   "verbJa": "出る",
+   "verbSense": "come out, appear; also leave, go out",
+   "englishVerb": "get",
+   "trap": "English 'get' pulls toward morau or naru, but a fever 'comes out': netsu ga deru (netsu deta). Morau is for catching a cold from someone (kaze o morau).",
+   "partners": [
+    "kushami (sneeze)",
+    "namida (tears)",
+    "ase (sweat)",
+    "jinmashin (hives)"
+   ],
+   "flags": [],
+   "use": "For a fever coming on, mostly past: netsu deta (I came down with a fever). For one you have now, netsu aru and netsu deteru both work. Coughs and runny noses work the same way: seki ga deru, hanamizu ga deru.",
+   "notes": "The opposite is netsu ga sagaru (the fever goes down). For coughing right now, seki shiteru is also natural.",
+   "example": {
+    "romaji": "kesa kyuu ni netsu deta.",
+    "ja": "今朝急に熱出た。",
+    "english": "I suddenly came down with a fever this morning."
+   },
+   "examplePolite": {
+    "romaji": "kesa kyuu ni netsu ga demashita.",
+    "ja": "今朝急に熱が出ました。",
+    "english": "I suddenly came down with a fever this morning."
+   }
+  },
+  {
+   "id": "c-seki-ga-deru",
+   "romaji": "seki ga deru",
+   "polite": "seki ga demasu",
+   "english": "have a cough",
+   "ja": "咳が出る",
+   "kana": "せきがでる",
+   "politeJa": "咳が出ます",
+   "noun": "seki",
+   "particle": "ga",
+   "verb": "deru",
+   "verbJa": "出る",
+   "verbSense": "come out, appear; also leave, go out",
+   "englishVerb": "cough",
+   "trap": null,
+   "partners": [
+    "kushami (sneeze)",
+    "hanamizu (runny nose)",
+    "netsu (fever)"
+   ],
+   "flags": [],
+   "use": "For a cough you've had a while, said to friends or at the doctor's: seki ga deru n desu, or seki ga tomaranai (I can't stop coughing). For coughing right now, seki shiteru is just as natural.",
+   "notes": "Seki (o) suru, coughing as an action, is more frequent in films (31 hits to 4). Clinics ask netsu ya seki wa arimasu ka? too.",
+   "example": {
+    "romaji": "netsu wa nai kedo, seki ga deru.",
+    "ja": "熱はないけど、咳が出る。",
+    "english": "No fever, but I've got a cough."
+   },
+   "examplePolite": {
+    "romaji": "netsu wa nai n desu kedo, seki ga demasu.",
+    "ja": "熱はないんですけど、咳が出ます。",
+    "english": "I don't have a fever, but I have a cough."
+   }
+  },
+  {
+   "id": "c-hanamizu-ga-deru",
+   "romaji": "hanamizu ga deru",
+   "polite": "hanamizu ga demasu",
+   "english": "have a runny nose",
+   "ja": "鼻水が出る",
+   "kana": "はなみずがでる",
+   "politeJa": "鼻水が出ます",
+   "noun": "hanamizu",
+   "particle": "ga",
+   "verb": "deru",
+   "verbJa": "出る",
+   "verbSense": "come out, appear; also leave, go out",
+   "englishVerb": "run",
+   "trap": "'Runny' has nothing to copy: the noun is hanamizu (nose water), and it comes out, hanamizu ga deru (hanamizu deteru yo).",
+   "partners": [
+    "seki (cough)",
+    "namida (tears)",
+    "kushami (sneeze)"
+   ],
+   "flags": [],
+   "use": "Said of a cold or hay fever, often as hanamizu ga tomaranai (my nose won't stop running). Hanamizu deteru yo, ga dropped, tells someone their nose is running.",
+   "notes": "A blocked nose is hana ga tsumaru (hana tsumatteru); blowing it is hana o kamu.",
+   "example": {
+    "romaji": "hanamizu deteru yo. hai, tisshu.",
+    "ja": "鼻水出てるよ。はい、ティッシュ。",
+    "english": "Your nose is running. Here, a tissue."
+   },
+   "examplePolite": {
+    "romaji": "hanamizu ga dete imasu yo. tisshu, douzo.",
+    "ja": "鼻水が出ていますよ。ティッシュ、どうぞ。",
+    "english": "Your nose is running. Here's a tissue."
+   }
+  },
+  {
+   "id": "c-karada-ga-darui",
+   "romaji": "karada ga darui",
+   "polite": "karada ga darui desu",
+   "english": "feel heavy and sluggish",
+   "ja": "体がだるい",
+   "kana": "からだがだるい",
+   "politeJa": "体がだるいです",
+   "noun": "karada",
+   "particle": "ga",
+   "verb": "darui",
+   "verbJa": "だるい",
+   "verbSense": "heavy, sluggish, listless; casually, 'what a drag'",
+   "englishVerb": "tired",
+   "trap": "Tsukareta isn't wrong, but it points to effort; the heavy, achy feeling with no clear cause, as when a cold is coming, is karada ga darui.",
+   "partners": [
+    "ashi (legs)",
+    "ude (arms)"
+   ],
+   "flags": [],
+   "use": "The heavy, achy feeling of a cold coming on or a bad night: nanka karada darui, with ga dropped. Darui alone is just as common, and about a task it's a casual, youthful 'what a drag' (gakkou darui), not for use with superiors.",
+   "notes": "Shindoi (rough, worn out) overlaps; it comes from western Japan but is heard everywhere.",
+   "example": {
+    "romaji": "asa kara nanka karada darui.",
+    "ja": "朝からなんか体だるい。",
+    "english": "I've felt heavy and sluggish since this morning."
+   },
+   "examplePolite": {
+    "romaji": "asa kara nanka karada ga darui n desu.",
+    "ja": "朝からなんか体がだるいんです。",
+    "english": "I've been feeling sluggish since this morning."
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-kaze-o-hiku",
+   "romaji": "kaze o hiku",
+   "english": "catch a cold",
+   "chunk": "Getting sick",
+   "recent": true
+  },
+  {
+   "id": "c-kaze-ga-utsuru",
+   "romaji": "kaze ga utsuru",
+   "english": "catch someone's cold",
+   "chunk": "Getting sick",
+   "recent": true
+  },
+  {
+   "id": "c-byouki-ni-naru",
+   "romaji": "byouki ni naru",
+   "english": "get sick, fall ill",
+   "chunk": "Getting sick",
+   "recent": true
+  },
+  {
+   "id": "c-taichou-o-kuzusu",
+   "romaji": "taichou o kuzusu",
+   "english": "get run down, fall ill",
+   "chunk": "Getting sick",
+   "recent": true
+  },
+  {
+   "id": "c-onaka-o-kowasu",
+   "romaji": "onaka o kowasu",
+   "english": "get an upset stomach",
+   "chunk": "Getting sick",
+   "recent": true
+  },
+  {
+   "id": "c-fuku-o-kiru",
+   "romaji": "fuku o kiru",
+   "english": "put on / wear clothes",
+   "chunk": "Clothes and shoes",
+   "recent": true
+  },
+  {
+   "id": "c-kutsu-o-haku",
+   "romaji": "kutsu o haku",
+   "english": "put on / wear shoes",
+   "chunk": "Clothes and shoes",
+   "recent": true
+  },
+  {
+   "id": "c-kutsu-o-nugu",
+   "romaji": "kutsu o nugu",
+   "english": "take off shoes",
+   "chunk": "Clothes and shoes",
+   "recent": true
+  },
+  {
+   "id": "c-fuku-o-nugu",
+   "romaji": "fuku o nugu",
+   "english": "take off clothes, get undressed",
+   "chunk": "Clothes and shoes",
+   "recent": true
+  },
+  {
+   "id": "c-terebi-o-miru",
+   "romaji": "terebi o miru",
+   "english": "watch TV",
+   "chunk": "TV and music",
+   "recent": true
+  },
+  {
+   "id": "c-ongaku-o-kiku",
+   "romaji": "ongaku o kiku",
+   "english": "listen to music",
+   "chunk": "TV and music",
+   "recent": true
+  },
+  {
+   "id": "c-nyuusu-o-miru",
+   "romaji": "nyuusu o miru",
+   "english": "watch or check the news",
+   "chunk": "TV and music",
+   "recent": true
+  },
+  {
+   "id": "c-ongaku-o-kakeru",
+   "romaji": "ongaku o kakeru",
+   "english": "put on music",
+   "chunk": "TV and music",
+   "recent": true
+  },
+  {
+   "id": "c-channeru-o-kaeru",
+   "romaji": "channeru o kaeru",
+   "english": "change the channel",
+   "chunk": "TV and music",
+   "recent": true
+  },
+  {
+   "id": "c-doa-o-akeru",
+   "romaji": "doa o akeru",
+   "english": "open the door",
+   "chunk": "Doors and locks",
+   "recent": true
+  },
+  {
+   "id": "c-doa-o-shimeru",
+   "romaji": "doa o shimeru",
+   "english": "close the door",
+   "chunk": "Doors and locks",
+   "recent": true
+  },
+  {
+   "id": "c-doa-ga-aku",
+   "romaji": "doa ga aku",
+   "english": "the door opens (aiteru = is open)",
+   "chunk": "Doors and locks",
+   "recent": true
+  },
+  {
+   "id": "c-doa-ga-shimaru",
+   "romaji": "doa ga shimaru",
+   "english": "the door closes (shimatteru = is shut)",
+   "chunk": "Doors and locks",
+   "recent": true
+  },
+  {
+   "id": "c-kagi-o-kakeru",
+   "romaji": "kagi o kakeru",
+   "english": "lock (a door, bike, locker)",
+   "chunk": "Doors and locks",
+   "recent": true
+  },
+  {
+   "id": "c-kagi-ga-kakaru",
+   "romaji": "kagi ga kakaru",
+   "english": "(a door) locks, gets locked (kakatteru = is locked)",
+   "chunk": "Doors and locks",
+   "recent": true
+  },
+  {
+   "id": "c-nioi-ga-suru",
+   "romaji": "nioi ga suru",
+   "english": "smell something, there's a smell",
+   "chunk": "Noticing",
+   "recent": true
+  },
+  {
+   "id": "c-oto-ga-suru",
+   "romaji": "oto ga suru",
+   "english": "hear a noise, there's a sound",
+   "chunk": "Noticing",
+   "recent": true
+  },
+  {
+   "id": "c-koe-ga-kikoeru",
+   "romaji": "koe ga kikoeru",
+   "english": "hear a voice; (on a call) can hear someone",
+   "chunk": "Noticing",
+   "recent": true
+  },
+  {
+   "id": "c-ki-ga-tsuku",
+   "romaji": "ki ga tsuku",
+   "english": "notice, realise",
+   "chunk": "Noticing",
+   "recent": true
+  },
+  {
+   "id": "c-kodomo-ga-iru",
+   "romaji": "kodomo ga iru",
+   "english": "have children, have kids",
+   "chunk": "Kids and growing up",
+   "recent": true
+  },
+  {
+   "id": "c-kodomo-ga-umareru",
+   "romaji": "kodomo ga umareru",
+   "english": "have a baby",
+   "chunk": "Kids and growing up",
+   "recent": true
+  },
+  {
+   "id": "c-otona-ni-naru",
+   "romaji": "otona ni naru",
+   "english": "grow up, become an adult",
+   "chunk": "Kids and growing up",
+   "recent": true
+  },
+  {
+   "id": "c-kodomo-o-sodateru",
+   "romaji": "kodomo o sodateru",
+   "english": "raise children, bring up kids",
+   "chunk": "Kids and growing up",
+   "recent": true
+  },
+  {
+   "id": "c-mendou-o-miru",
+   "romaji": "mendou o miru",
+   "english": "look after, take care of",
+   "chunk": "Kids and growing up",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "yuki",
+   "kenta"
+  ],
+  "format": "dialogue"
+ }
+}

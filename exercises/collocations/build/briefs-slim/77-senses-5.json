@@ -1,0 +1,376 @@
+{
+ "script": 77,
+ "of": 94,
+ "stage": 4,
+ "chunkId": "senses-5",
+ "label": "Motivation and mood",
+ "topic": "Senses & mind",
+ "rationale": "Your energy and mood: no motivation, getting yourself going, perking up, getting hyped, stress piling up.",
+ "mixUps": "yaruki and genki both 'come out' (deru): yaruki denai is can't get going, genki deta is it gave me a lift, and genki dashite is what you say to someone else. Mood goes up (tenshon agaru) while stress piles up (tamaru); tenshon means hype, not tension.",
+ "targets": [
+  {
+   "id": "c-yaruki-ga-nai",
+   "romaji": "yaruki ga nai",
+   "polite": "yaruki ga arimasen",
+   "english": "have no motivation, can't be bothered",
+   "ja": "やる気がない",
+   "kana": "やるきがない",
+   "politeJa": "やる気がありません",
+   "noun": "yaruki",
+   "particle": "ga",
+   "verb": "nai",
+   "verbJa": "ない",
+   "verbSense": "nai: there isn't, have none (negative of aru)",
+   "englishVerb": "motivated",
+   "trap": null,
+   "partners": [
+    "genki (energy: genki nai, be down)",
+    "jishin (confidence)",
+    "shokuyoku (appetite)",
+    "kyoumi (interest)"
+   ],
+   "flags": [],
+   "use": "About yourself it's the flat 'I just don't feel like it': kyou yaruki nai (I just don't feel like doing anything today). About someone else it's a criticism, they're not trying: ano hito yaruki nai yo ne. In polite talk people usually say yaruki nai desu or yaruki ga nai n desu; yaruki ga arimasen sounds stiff.",
+   "notes": "yaruki denai is 'I can't get going'; yaruki nai is flatter: I just don't feel like it, or, about others, they don't care.",
+   "example": {
+    "romaji": "kyou maji yaruki nai. nanimo shitakunai.",
+    "ja": "今日マジやる気ない。何もしたくない。",
+    "english": "I've got zero motivation today. I don't want to do anything."
+   },
+   "examplePolite": {
+    "romaji": "kyou wa nanka yaruki nai n desu yo.",
+    "ja": "今日はなんかやる気ないんですよ。",
+    "english": "I just don't feel like doing anything today."
+   }
+  },
+  {
+   "id": "c-yaruki-ga-deru",
+   "romaji": "yaruki ga deru",
+   "polite": "yaruki ga demasu",
+   "english": "get motivated",
+   "ja": "やる気が出る",
+   "kana": "やるきがでる",
+   "politeJa": "やる気が出ます",
+   "noun": "yaruki",
+   "particle": "ga",
+   "verb": "deru",
+   "verbJa": "出る",
+   "verbSense": "come out, appear",
+   "englishVerb": "motivated",
+   "trap": "Learners look for an adjective for 'motivated', but everyday Japanese has none. The will to do it 'comes out' (deru): yaruki ga denai. yaruki ga aru (be keen) and mochibeeshon ga agaru are also fine.",
+   "partners": [
+    "yuuki (courage)",
+    "shokuyoku (appetite)",
+    "chikara (strength: chikara ga denai, can't muster the strength)"
+   ],
+   "flags": [],
+   "use": "Mostly said in the negative about yourself, about a task or a day you can't face: yaruki denai (I can't get going). yaruki nai (no motivation at all) is a flatter state and is also said about other people. yaruki aru means keen or motivated; asked as yaruki aru no?, it's a reproach: are you even trying?",
+   "notes": "yaruki is literally 'do-feeling', from yaru + ki.",
+   "example": {
+    "romaji": "kyou zenzen yaruki denai.",
+    "ja": "今日全然やる気出ない。",
+    "english": "I can't get motivated at all today."
+   },
+   "examplePolite": {
+    "romaji": "kyou wa zenzen yaruki ga demasen.",
+    "ja": "今日は全然やる気が出ません。",
+    "english": "I just can't get motivated today."
+   }
+  },
+  {
+   "id": "c-genki-ga-deru",
+   "romaji": "genki ga deru",
+   "polite": "genki ga demasu",
+   "english": "perk up, get a lift",
+   "ja": "元気が出る",
+   "kana": "げんきがでる",
+   "politeJa": "元気が出ます",
+   "noun": "genki",
+   "particle": "ga",
+   "verb": "deru",
+   "verbJa": "出る",
+   "verbSense": "come out, appear; here energy wells up in you",
+   "englishVerb": "cheer up",
+   "trap": "English 'cheer up' is both 'I cheered up' and 'cheer up!', but Japanese splits it: genki deta about yourself, genki dashite to someone else. genki dete! isn't a request, though genki dete kita (I'm perking up) is fine.",
+   "partners": [
+    "yaruki (motivation)",
+    "yuuki (courage)",
+    "shokuyoku (appetite)"
+   ],
+   "flags": [],
+   "use": "Mostly past, about what gave you a lift, with ga often dropped: amai mono tabetara genki deta, or arigatou, genki deta after a kind word. The negative genki denai means you can't shake a low mood.",
+   "notes": "genki moratta (it gave me a boost) is a common way to credit a song, a person or a message.",
+   "example": {
+    "romaji": "arigatou, nanka genki deta.",
+    "ja": "ありがとう、なんか元気出た。",
+    "english": "Thanks, that cheered me up."
+   },
+   "examplePolite": {
+    "romaji": "arigatou gozaimasu. okage de genki ga demashita.",
+    "ja": "ありがとうございます。おかげで元気が出ました。",
+    "english": "Thank you. That cheered me up."
+   }
+  },
+  {
+   "id": "c-tenshon-ga-agaru",
+   "romaji": "tenshon ga agaru",
+   "polite": "tenshon ga agarimasu",
+   "english": "get excited, get hyped",
+   "ja": "テンションが上がる",
+   "kana": "テンションがあがる",
+   "politeJa": "テンションが上がります",
+   "noun": "tenshon",
+   "particle": "ga",
+   "verb": "agaru",
+   "verbJa": "上がる",
+   "verbSense": "go up, rise",
+   "englishVerb": "excited",
+   "trap": "For 'I'm excited', learners say koufun shiteru, which sounds worked-up and, in some contexts, sexual. Say tenshon agaru for hyped right now, and tanoshimi or wakuwaku suru for a plan. False friend: tenshon is energy or mood, not tension.",
+   "partners": [
+    "kibun (mood)",
+    "mochibeeshon (motivation)"
+   ],
+   "flags": [
+    "slang"
+   ],
+   "use": "For being hyped right now: tenshon agaru! or tenshon agatte kita. The opposite is tenshon sagaru (get bummed out), and tenshon takai means hyper. It's an informal word: fine with friends and coworkers, but not in formal speech.",
+   "notes": "English 'tension' or 'nervousness' is kinchou (kinchou suru, get nervous).",
+   "example": {
+    "romaji": "yabai, tenshon agatte kita!",
+    "ja": "やばい、テンション上がってきた！",
+    "english": "Oh man, I'm getting so hyped!"
+   },
+   "examplePolite": {
+    "romaji": "ii desu ne, tenshon ga agatte kimashita!",
+    "ja": "いいですね、テンションが上がってきました！",
+    "english": "This is great, I'm getting excited!"
+   }
+  },
+  {
+   "id": "c-sutoresu-ga-tamaru",
+   "romaji": "sutoresu ga tamaru",
+   "polite": "sutoresu ga tamarimasu",
+   "english": "get stressed, stress builds up",
+   "ja": "ストレスが溜まる",
+   "kana": "ストレスがたまる",
+   "politeJa": "ストレスが溜まります",
+   "noun": "sutoresu",
+   "particle": "ga",
+   "verb": "tamaru",
+   "verbJa": "溜まる",
+   "verbSense": "pile up, accumulate",
+   "englishVerb": "stressed",
+   "trap": "For 'I'm stressed', learners turn 'stress' into a verb: sutoresu shiteru, which isn't Japanese. Stress piles up: sutoresu tamatteru. sutoresu o kanjiru (feel stress) and shigoto ga sutoresu (work stresses me out) are also fine.",
+   "partners": [
+    "tsukare (fatigue)",
+    "shigoto (work)",
+    "sentakumono (laundry)",
+    "okane (money)"
+   ],
+   "flags": [],
+   "use": "Usually in -te ru for how you are now: sutoresu tamatteru (I'm stressed out). Getting rid of it is sutoresu kaishou, and blowing off steam is sutoresu hassan: karaoke de sutoresu hassan shita.",
+   "notes": "The transitive is tameru, as in okane o tameru: sutoresu tamenai you ni ne (don't let the stress build up).",
+   "example": {
+    "romaji": "saikin sutoresu tamatteru.",
+    "ja": "最近ストレス溜まってる。",
+    "english": "Stress has been piling up lately."
+   },
+   "examplePolite": {
+    "romaji": "saikin sutoresu ga tamattemasu.",
+    "ja": "最近ストレスが溜まってます。",
+    "english": "Stress has been piling up lately."
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-kaji-o-suru",
+   "romaji": "kaji o suru",
+   "english": "do the housework",
+   "chunk": "Housework and laundry",
+   "recent": true
+  },
+  {
+   "id": "c-sentakumono-o-hosu",
+   "romaji": "sentakumono o hosu",
+   "english": "hang out the laundry",
+   "chunk": "Housework and laundry",
+   "recent": true
+  },
+  {
+   "id": "c-sentakumono-ga-kawaku",
+   "romaji": "sentakumono ga kawaku",
+   "english": "the laundry dries",
+   "chunk": "Housework and laundry",
+   "recent": true
+  },
+  {
+   "id": "c-fuku-o-tatamu",
+   "romaji": "fuku o tatamu",
+   "english": "fold clothes",
+   "chunk": "Housework and laundry",
+   "recent": true
+  },
+  {
+   "id": "c-soujiki-o-kakeru",
+   "romaji": "soujiki o kakeru",
+   "english": "vacuum (the floor)",
+   "chunk": "Housework and laundry",
+   "recent": true
+  },
+  {
+   "id": "c-dengen-o-kiru",
+   "romaji": "dengen o kiru",
+   "english": "turn off (a phone or device)",
+   "chunk": "Power, battery, sound",
+   "recent": true
+  },
+  {
+   "id": "c-dengen-o-ireru",
+   "romaji": "dengen o ireru",
+   "english": "turn on (a phone or device)",
+   "chunk": "Power, battery, sound",
+   "recent": true
+  },
+  {
+   "id": "c-juuden-ga-kireru",
+   "romaji": "juuden ga kireru",
+   "english": "battery runs out, dies",
+   "chunk": "Power, battery, sound",
+   "recent": true
+  },
+  {
+   "id": "c-oto-ga-deru",
+   "romaji": "oto ga deru",
+   "english": "sound comes out (of a TV, speaker, phone)",
+   "chunk": "Power, battery, sound",
+   "recent": true
+  },
+  {
+   "id": "c-masuku-o-suru",
+   "romaji": "masuku o suru",
+   "english": "wear a mask",
+   "chunk": "Masks and glasses",
+   "recent": true
+  },
+  {
+   "id": "c-masuku-o-hazusu",
+   "romaji": "masuku o hazusu",
+   "english": "take off a mask",
+   "chunk": "Masks and glasses",
+   "recent": true
+  },
+  {
+   "id": "c-megane-o-kakeru",
+   "romaji": "megane o kakeru",
+   "english": "wear / put on glasses",
+   "chunk": "Masks and glasses",
+   "recent": true
+  },
+  {
+   "id": "c-megane-o-hazusu",
+   "romaji": "megane o hazusu",
+   "english": "take off glasses",
+   "chunk": "Masks and glasses",
+   "recent": true
+  },
+  {
+   "id": "c-shiken-o-ukeru",
+   "romaji": "shiken o ukeru",
+   "english": "take an exam",
+   "chunk": "Exams and results",
+   "recent": true
+  },
+  {
+   "id": "c-ten-o-toru",
+   "romaji": "ten o toru",
+   "english": "score, get marks (on a test)",
+   "chunk": "Exams and results",
+   "recent": true
+  },
+  {
+   "id": "c-kekka-ga-deru",
+   "romaji": "kekka ga deru",
+   "english": "the results come out",
+   "chunk": "Exams and results",
+   "recent": true
+  },
+  {
+   "id": "c-shiken-ni-ukaru",
+   "romaji": "shiken ni ukaru",
+   "english": "pass an exam",
+   "chunk": "Exams and results",
+   "recent": true
+  },
+  {
+   "id": "c-shiken-ni-ochiru",
+   "romaji": "shiken ni ochiru",
+   "english": "fail an exam",
+   "chunk": "Exams and results",
+   "recent": true
+  },
+  {
+   "id": "c-okane-o-orosu",
+   "romaji": "okane o orosu",
+   "english": "withdraw cash",
+   "chunk": "Out on errands",
+   "recent": true
+  },
+  {
+   "id": "c-mise-ga-aku",
+   "romaji": "mise ga aku",
+   "english": "a shop opens (aiteru = is open)",
+   "chunk": "Out on errands",
+   "recent": true
+  },
+  {
+   "id": "c-mise-ga-shimaru",
+   "romaji": "mise ga shimaru",
+   "english": "a shop closes (shimatteru = is closed)",
+   "chunk": "Out on errands",
+   "recent": true
+  },
+  {
+   "id": "c-junban-o-matsu",
+   "romaji": "junban o matsu",
+   "english": "wait your turn",
+   "chunk": "Out on errands",
+   "recent": true
+  },
+  {
+   "id": "c-karada-ni-ii",
+   "romaji": "karada ni ii",
+   "english": "good for you, healthy",
+   "chunk": "Long-term health",
+   "recent": true
+  },
+  {
+   "id": "c-toshi-o-toru",
+   "romaji": "toshi o toru",
+   "english": "get older, age",
+   "chunk": "Long-term health",
+   "recent": true
+  },
+  {
+   "id": "c-tabako-o-yameru",
+   "romaji": "tabako o yameru",
+   "english": "quit smoking",
+   "chunk": "Long-term health",
+   "recent": true
+  },
+  {
+   "id": "c-arerugii-ga-aru",
+   "romaji": "arerugii ga aru",
+   "english": "be allergic (to something)",
+   "chunk": "Long-term health",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "satou",
+   "yuki"
+  ],
+  "format": "dialogue"
+ }
+}

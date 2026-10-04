@@ -1,0 +1,409 @@
+{
+ "script": 28,
+ "of": 94,
+ "stage": 2,
+ "chunkId": "home-3",
+ "label": "Doors and locks",
+ "topic": "Home & daily routine",
+ "rationale": "The front door both ways, opening and shutting, plus locking up: each act paired with the state it leaves.",
+ "mixUps": "Each act with o has a ga partner for what the door does or how it is now: akeru/aku, shimeru/shimaru, kakeru/kakaru. Keep doa akete (open it) apart from doa aiteru (it's open), and kagi kakete (lock it) apart from kagi kakatteru (it's locked).",
+ "targets": [
+  {
+   "id": "c-doa-o-akeru",
+   "romaji": "doa o akeru",
+   "polite": "doa o akemasu",
+   "english": "open the door",
+   "ja": "ドアを開ける",
+   "kana": "ドアをあける",
+   "politeJa": "ドアを開けます",
+   "noun": "doa",
+   "particle": "o",
+   "verb": "akeru",
+   "verbJa": "開ける",
+   "verbSense": "open something (a door, a box, your eyes)",
+   "englishVerb": "open",
+   "trap": "English 'open' does both jobs. Someone opening it is akeru (doa akete); the door opening or being open is aku (doa aiteru).",
+   "partners": [
+    "mado (window)",
+    "kaaten (curtains)",
+    "futa (lid)",
+    "kagi (lock: unlock it)"
+   ],
+   "flags": [],
+   "use": "For opening a door yourself or asking someone to: doa akete (open the door), often with kureru when your hands are full. Casual speech drops o; a door that is open is doa aiteru.",
+   "notes": "On the intercom, hai, ima akemasu ne (I'll let you in now) is a common reply when buzzing someone through the entrance; at your own front door it's usually hai, ima ikimasu.",
+   "example": {
+    "romaji": "gomen, doa akete kureru?",
+    "ja": "ごめん、ドア開けてくれる？",
+    "english": "Sorry, can you open the door for me?"
+   },
+   "examplePolite": {
+    "romaji": "sumimasen, doa o akete moraemasu ka?",
+    "ja": "すみません、ドアを開けてもらえますか？",
+    "english": "Excuse me, could you open the door?"
+   }
+  },
+  {
+   "id": "c-doa-o-shimeru",
+   "romaji": "doa o shimeru",
+   "polite": "doa o shimemasu",
+   "english": "close the door",
+   "ja": "ドアを閉める",
+   "kana": "ドアをしめる",
+   "politeJa": "ドアを閉めます",
+   "noun": "doa",
+   "particle": "o",
+   "verb": "shimeru",
+   "verbJa": "閉める",
+   "verbSense": "shut something (a door, a window, a lid); with kagi, lock",
+   "englishVerb": "close",
+   "trap": "Not tojiru: dictionaries give it for 'close', but tojiru is for eyes, books and apps. Doors, windows and lids are shimeru.",
+   "partners": [
+    "mado (window)",
+    "kaaten (curtains)",
+    "futa (lid)",
+    "kagi (lock: lock up)"
+   ],
+   "flags": [],
+   "use": "Mostly a request or reminder: doa shimete (shut the door), chanto shimete ne. Casual speech drops o; a door that is shut is doa shimatteru.",
+   "notes": "With kagi the same verb means lock: kagi shimeta? = did you lock up?",
+   "example": {
+    "romaji": "samui kara, doa shimete.",
+    "ja": "寒いから、ドア閉めて。",
+    "english": "It's cold, shut the door."
+   },
+   "examplePolite": {
+    "romaji": "samui node, doa o shimete kudasai.",
+    "ja": "寒いので、ドアを閉めてください。",
+    "english": "It's cold, so please close the door."
+   }
+  },
+  {
+   "id": "c-doa-ga-aku",
+   "romaji": "doa ga aku",
+   "polite": "doa ga akimasu",
+   "english": "the door opens (aiteru = is open)",
+   "ja": "ドアが開く",
+   "kana": "ドアがあく",
+   "politeJa": "ドアが開きます",
+   "noun": "doa",
+   "particle": "ga",
+   "verb": "aku",
+   "verbJa": "開く",
+   "verbSense": "come open, be open; also become free or empty",
+   "englishVerb": "open",
+   "trap": "Not doa ga akeru: when the door opens by itself or is open, use aku (doa aiteru). akeru needs someone doing it.",
+   "partners": [
+    "mado (window)",
+    "futa (lid)",
+    "kagi (lock: be unlocked)",
+    "mise (shop: be open for business)"
+   ],
+   "flags": [],
+   "use": "Mostly heard as doa aiteru (the door's open) or doa aita (it opened). Train and lift announcements usually say doa ga hirakimasu instead, so expect both sounds. When a person opens it, use doa o akeru.",
+   "notes": "Closing follows the same pattern: doa ga shimaru / doa o shimeru.",
+   "example": {
+    "romaji": "genkan no doa aiteru yo.",
+    "ja": "玄関のドア開いてるよ。",
+    "english": "The front door's open."
+   },
+   "examplePolite": {
+    "romaji": "genkan no doa ga aite imasu yo.",
+    "ja": "玄関のドアが開いていますよ。",
+    "english": "The front door is open."
+   }
+  },
+  {
+   "id": "c-doa-ga-shimaru",
+   "romaji": "doa ga shimaru",
+   "polite": "doa ga shimarimasu",
+   "english": "the door closes (shimatteru = is shut)",
+   "ja": "ドアが閉まる",
+   "kana": "ドアがしまる",
+   "politeJa": "ドアが閉まります",
+   "noun": "doa",
+   "particle": "ga",
+   "verb": "shimaru",
+   "verbJa": "閉まる",
+   "verbSense": "of a door, window or lid: close by itself, or be shut",
+   "englishVerb": "close",
+   "trap": "Not doa ga shimeru: with ga the verb is shimaru (doa shimatteru). shimeru needs someone doing the shutting, as in doa shimete.",
+   "partners": [
+    "mado (window)",
+    "futa (lid)",
+    "kagi (lock: be locked)",
+    "shattaa (shutter)"
+   ],
+   "flags": [],
+   "use": "Heard in every train and lift announcement: doa ga shimarimasu (the doors are closing). At home it's mostly the state, doa shimatteru (the door's shut), or doa shimatchatta when it swings shut by itself.",
+   "notes": "A door that won't shut is doa ga shimaranai; the opening half is doa ga aku.",
+   "example": {
+    "romaji": "genkan no doa, chanto shimatteru?",
+    "ja": "玄関のドア、ちゃんと閉まってる？",
+    "english": "Is the front door properly shut?"
+   },
+   "examplePolite": {
+    "romaji": "genkan no doa wa chanto shimatte imasu ka?",
+    "ja": "玄関のドアはちゃんと閉まっていますか？",
+    "english": "Is the front door properly closed?"
+   }
+  },
+  {
+   "id": "c-kagi-o-kakeru",
+   "romaji": "kagi o kakeru",
+   "polite": "kagi o kakemasu",
+   "english": "lock (a door, bike, locker)",
+   "ja": "鍵をかける",
+   "kana": "かぎをかける",
+   "politeJa": "鍵をかけます",
+   "noun": "kagi",
+   "particle": "o",
+   "verb": "kakeru",
+   "verbJa": "かける",
+   "verbSense": "hang or put something onto something; set a device going",
+   "englishVerb": "lock",
+   "trap": "English 'lock' has no single verb here: the object is kagi (the lock), not the door, and you put it on with kakeru. In casual speech kagi o shimeru (kagi shimeta?) is just as common. rokku suru is mostly for cars and phones.",
+   "partners": [
+    "cheen (door chain)",
+    "rokku (lock)"
+   ],
+   "flags": [],
+   "use": "Said when leaving the house or going to bed: kagi kaketa? (did you lock it?), kagi kakete ne (lock up, okay?).",
+   "notes": "Unlocking is kagi o akeru. The locked state is kagi ga kakaru, nearly always heard as kagi kakatteru (it's locked); kagi shimatteru is just as common.",
+   "example": {
+    "romaji": "are, kagi kaketa kke?",
+    "ja": "あれ、鍵かけたっけ？",
+    "english": "Wait, did I lock the door?"
+   },
+   "examplePolite": {
+    "romaji": "are, kagi o kakemashita kke?",
+    "ja": "あれ、鍵をかけましたっけ？",
+    "english": "Hmm, did I lock the door?"
+   }
+  },
+  {
+   "id": "c-kagi-ga-kakaru",
+   "romaji": "kagi ga kakaru",
+   "polite": "kagi ga kakarimasu",
+   "english": "(a door) locks, gets locked (kakatteru = is locked)",
+   "ja": "鍵がかかる",
+   "kana": "かぎがかかる",
+   "politeJa": "鍵がかかります",
+   "noun": "kagi",
+   "particle": "ga",
+   "verb": "kakaru",
+   "verbJa": "かかる",
+   "verbSense": "hang, be put on; also take (time) and cost (money)",
+   "englishVerb": "be locked",
+   "trap": "'It's locked' is a verb state, kagi ga kakatteru (kagi shimatteru is just as common). Not kagi ga kaketeru: with ga the verb is kakaru. kagi ga kakete aru, 'someone has locked it', is also fine.",
+   "partners": [
+    "cheen (door chain)",
+    "rokku (lock)"
+   ],
+   "flags": [],
+   "use": "Nearly always kagi kakatteru (it's locked) or kagi kakattenai (it's not locked). It describes the state, while kagi o kakeru is the act.",
+   "notes": "The opposite state is kagi ga aiteru (it's unlocked).",
+   "example": {
+    "romaji": "daijoubu, kagi kakatteru yo.",
+    "ja": "大丈夫、鍵かかってるよ。",
+    "english": "It's fine, it's locked."
+   },
+   "examplePolite": {
+    "romaji": "daijoubu desu, kagi ga kakatte imasu yo.",
+    "ja": "大丈夫です、鍵がかかっていますよ。",
+    "english": "It's fine, it's locked."
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-un-ga-ii",
+   "romaji": "un ga ii",
+   "english": "be lucky",
+   "chunk": "Luck and help",
+   "recent": true
+  },
+  {
+   "id": "c-un-ga-warui",
+   "romaji": "un ga warui",
+   "english": "be unlucky",
+   "chunk": "Luck and help",
+   "recent": true
+  },
+  {
+   "id": "c-yaku-ni-tatsu",
+   "romaji": "yaku ni tatsu",
+   "english": "be useful, helpful",
+   "chunk": "Luck and help",
+   "recent": true
+  },
+  {
+   "id": "c-tame-ni-naru",
+   "romaji": "tame ni naru",
+   "english": "be worthwhile, do you good",
+   "chunk": "Luck and help",
+   "recent": true
+  },
+  {
+   "id": "c-mizu-o-nomu",
+   "romaji": "mizu o nomu",
+   "english": "drink water",
+   "chunk": "Drinks",
+   "recent": true
+  },
+  {
+   "id": "c-koohii-o-nomu",
+   "romaji": "koohii o nomu",
+   "english": "drink coffee",
+   "chunk": "Drinks",
+   "recent": true
+  },
+  {
+   "id": "c-osake-o-nomu",
+   "romaji": "osake o nomu",
+   "english": "drink (alcohol)",
+   "chunk": "Drinks",
+   "recent": true
+  },
+  {
+   "id": "c-ocha-o-nomu",
+   "romaji": "ocha o nomu",
+   "english": "have tea, drink tea",
+   "chunk": "Drinks",
+   "recent": true
+  },
+  {
+   "id": "c-gohan-o-taberu",
+   "romaji": "gohan o taberu",
+   "english": "eat, have a meal",
+   "chunk": "Meals at home",
+   "recent": true
+  },
+  {
+   "id": "c-gohan-o-tsukuru",
+   "romaji": "gohan o tsukuru",
+   "english": "cook a meal, make dinner",
+   "chunk": "Meals at home",
+   "recent": true
+  },
+  {
+   "id": "c-gohan-ga-dekiru",
+   "romaji": "gohan ga dekiru",
+   "english": "the meal gets ready (dekita = it's ready)",
+   "chunk": "Meals at home",
+   "recent": true
+  },
+  {
+   "id": "c-gohan-ga-sameru",
+   "romaji": "gohan ga sameru",
+   "english": "the food gets cold",
+   "chunk": "Meals at home",
+   "recent": true
+  },
+  {
+   "id": "c-kaze-o-hiku",
+   "romaji": "kaze o hiku",
+   "english": "catch a cold",
+   "chunk": "Getting sick",
+   "recent": true
+  },
+  {
+   "id": "c-kaze-ga-utsuru",
+   "romaji": "kaze ga utsuru",
+   "english": "catch someone's cold",
+   "chunk": "Getting sick",
+   "recent": true
+  },
+  {
+   "id": "c-byouki-ni-naru",
+   "romaji": "byouki ni naru",
+   "english": "get sick, fall ill",
+   "chunk": "Getting sick",
+   "recent": true
+  },
+  {
+   "id": "c-taichou-o-kuzusu",
+   "romaji": "taichou o kuzusu",
+   "english": "get run down, fall ill",
+   "chunk": "Getting sick",
+   "recent": true
+  },
+  {
+   "id": "c-onaka-o-kowasu",
+   "romaji": "onaka o kowasu",
+   "english": "get an upset stomach",
+   "chunk": "Getting sick",
+   "recent": true
+  },
+  {
+   "id": "c-fuku-o-kiru",
+   "romaji": "fuku o kiru",
+   "english": "put on / wear clothes",
+   "chunk": "Clothes and shoes",
+   "recent": true
+  },
+  {
+   "id": "c-kutsu-o-haku",
+   "romaji": "kutsu o haku",
+   "english": "put on / wear shoes",
+   "chunk": "Clothes and shoes",
+   "recent": true
+  },
+  {
+   "id": "c-kutsu-o-nugu",
+   "romaji": "kutsu o nugu",
+   "english": "take off shoes",
+   "chunk": "Clothes and shoes",
+   "recent": true
+  },
+  {
+   "id": "c-fuku-o-nugu",
+   "romaji": "fuku o nugu",
+   "english": "take off clothes, get undressed",
+   "chunk": "Clothes and shoes",
+   "recent": true
+  },
+  {
+   "id": "c-terebi-o-miru",
+   "romaji": "terebi o miru",
+   "english": "watch TV",
+   "chunk": "TV and music",
+   "recent": true
+  },
+  {
+   "id": "c-ongaku-o-kiku",
+   "romaji": "ongaku o kiku",
+   "english": "listen to music",
+   "chunk": "TV and music",
+   "recent": true
+  },
+  {
+   "id": "c-nyuusu-o-miru",
+   "romaji": "nyuusu o miru",
+   "english": "watch or check the news",
+   "chunk": "TV and music",
+   "recent": true
+  },
+  {
+   "id": "c-ongaku-o-kakeru",
+   "romaji": "ongaku o kakeru",
+   "english": "put on music",
+   "chunk": "TV and music",
+   "recent": true
+  },
+  {
+   "id": "c-channeru-o-kaeru",
+   "romaji": "channeru o kaeru",
+   "english": "change the channel",
+   "chunk": "TV and music",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "sora",
+   "mai"
+  ],
+  "format": "dialogue"
+ }
+}

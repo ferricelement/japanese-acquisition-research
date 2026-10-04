@@ -1,0 +1,327 @@
+{
+ "script": 35,
+ "of": 94,
+ "stage": 2,
+ "chunkId": "food-3",
+ "label": "Eating out",
+ "topic": "Food & drink",
+ "rationale": "A meal out: suggesting it, finding the place packed, saying it's your treat, and remarking on a big portion.",
+ "mixUps": "gohan ni iku needs no taberu. mise ga komu is said as konderu and is not mise ga aiteru (open). Treating someone is ogoru (kyou wa ogoru yo); being treated is gochisou ni naru (in People). A big portion is ryou ga ooi, not ookii.",
+ "targets": [
+  {
+   "id": "c-gohan-ni-iku",
+   "romaji": "gohan ni iku",
+   "polite": "gohan ni ikimasu",
+   "english": "go out to eat",
+   "ja": "ご飯に行く",
+   "kana": "ごはんにいく",
+   "politeJa": "ご飯に行きます",
+   "noun": "gohan",
+   "particle": "ni",
+   "verb": "iku",
+   "verbJa": "行く",
+   "verbSense": "go; with a purpose noun + ni, go out for it (kaimono ni iku)",
+   "englishVerb": "go out",
+   "trap": "English 'go out for dinner' pushes learners to spell it all out (yuushoku o tabe ni ikimasen ka, which is stiff) or to name the place (resutoran ni iku, which means a Western-style restaurant). Friends just say gohan ikou or gohan ikanai?, with no taberu; gohan tabe ni ikou also works.",
+   "partners": [
+    "ranchi (lunch)",
+    "raamen (ramen)",
+    "yakiniku (grill-your-own meat)",
+    "sushi (sushi)"
+   ],
+   "flags": [],
+   "use": "The everyday invitation: gohan ikou (let's get food) or kondo gohan ikanai? (want to get dinner sometime?), usually without ni in casual speech. Whether it means lunch or dinner comes from context.",
+   "notes": "kondo gohan ikou ne is often a friendly 'let's get dinner sometime', not a fixed plan. At work the polite invitation is often shokuji ni ikimasen ka. For drinks it's nomi ni iku.",
+   "example": {
+    "romaji": "shigoto owattara, gohan ikanai?",
+    "ja": "仕事終わったら、ご飯行かない？",
+    "english": "Want to grab dinner after work?"
+   },
+   "examplePolite": {
+    "romaji": "shigoto ga owattara, gohan ni ikimasen ka?",
+    "ja": "仕事が終わったら、ご飯に行きませんか？",
+    "english": "Would you like to go for dinner after work?"
+   }
+  },
+  {
+   "id": "c-mise-ga-komu",
+   "romaji": "mise ga komu",
+   "polite": "mise ga komimasu",
+   "english": "(a place) gets crowded (konderu = is packed)",
+   "ja": "店が混む",
+   "kana": "みせがこむ",
+   "politeJa": "店が混みます",
+   "noun": "mise",
+   "particle": "ga",
+   "verb": "komu",
+   "verbJa": "混む",
+   "verbSense": "fill up with people or traffic",
+   "englishVerb": "crowded",
+   "trap": "English 'crowded' is an adjective, but Japanese uses the verb komu, said as konderu; komu alone means 'gets crowded'. hito ga ooi and ippai (full) are also fine.",
+   "partners": [
+    "densha (train)",
+    "michi (roads, traffic)",
+    "eki (station)",
+    "byouin (hospital)"
+   ],
+   "flags": [],
+   "use": "Said when choosing where to eat or go. You mostly hear konderu (it's packed now) or kondeta (it was), often without ga; plain komu means 'gets crowded', as in yoru wa komu yo.",
+   "notes": "Opposite: mise ga suiteru (not crowded). Keep it apart from mise ga aiteru (the shop is open), from mise ga aku.",
+   "example": {
+    "romaji": "kono mise, itsumo konderu ne.",
+    "ja": "この店、いつも混んでるね。",
+    "english": "This place is always packed."
+   },
+   "examplePolite": {
+    "romaji": "kono omise, itsumo kondemasu ne.",
+    "ja": "このお店、いつも混んでますね。",
+    "english": "This place is always packed."
+   }
+  },
+  {
+   "id": "c-gohan-o-ogoru",
+   "romaji": "gohan o ogoru",
+   "polite": "gohan o ogorimasu",
+   "english": "treat someone to a meal",
+   "ja": "ご飯をおごる",
+   "kana": "ごはんをおごる",
+   "politeJa": "ご飯をおごります",
+   "noun": "gohan",
+   "particle": "o",
+   "verb": "ogoru",
+   "verbJa": "おごる",
+   "verbSense": "pay for someone else, treat",
+   "englishVerb": "treat",
+   "trap": "ogoru is the payer's verb, like 'treat'. When you are the one treated, add kureta or moratta (senpai ga ogotte kureta, senpai ni ogotte moratta); ogotta with no subject named is heard as 'I paid'.",
+   "partners": [
+    "ranchi (lunch)",
+    "koohii (coffee)",
+    "ippai (a drink: ippai ogoru yo)"
+   ],
+   "flags": [],
+   "use": "Said when offering to pay and when telling who paid: kyou wa ogoru yo (it's on me), senpai ni gohan ogotte moratta (my senpai bought me dinner). The meal is often left out, and casual speech drops o.",
+   "notes": "In polite speech the usual offer is gochisou shimasu (kondo gochisou shimasu ne). To a senior, ogorasete kudasai (let me treat you) also works; the noun is ogori: kyou wa watashi no ogori.",
+   "example": {
+    "romaji": "tetsudatte kureta kara, kondo gohan ogoru ne.",
+    "ja": "手伝ってくれたから、今度ご飯おごるね。",
+    "english": "You helped me out, so I'll buy you dinner sometime."
+   },
+   "examplePolite": {
+    "romaji": "tetsudatte moratta node, kondo gohan o ogorimasu ne.",
+    "ja": "手伝ってもらったので、今度ご飯をおごりますね。",
+    "english": "You helped me out, so I'll buy you dinner sometime."
+   }
+  },
+  {
+   "id": "c-ryou-ga-ooi",
+   "romaji": "ryou ga ooi",
+   "polite": "ryou ga ooi desu",
+   "english": "it's a big portion",
+   "ja": "量が多い",
+   "kana": "りょうがおおい",
+   "politeJa": "量が多いです",
+   "noun": "ryou",
+   "particle": "ga",
+   "verb": "ooi",
+   "verbJa": "多い",
+   "verbSense": "many, much, a lot (number or amount)",
+   "englishVerb": "big",
+   "trap": "English 'a big portion' leads to ookii, which is the size of a thing (ookii sara, a big plate). An amount of food is ooi or sukunai: ryou ga ooi.",
+   "partners": [
+    "kazu (number: kazu ga ooi)",
+    "ninzuu (headcount: ninzuu ga ooi)",
+    "shigoto (work: shigoto no ryou ga ooi)"
+   ],
+   "flags": [],
+   "use": "Said about servings in restaurants and when sharing food: koko ryou ooi ne (the portions here are big), ryou ooi kara hanbunko shiyou (it's a lot, let's share). Casual speech drops ga, and the opposite is ryou ga sukunai.",
+   "notes": "When ordering, ask for oomori (a large serving) or sukuname (a smaller one): gohan sukuname de onegai shimasu.",
+   "example": {
+    "romaji": "koko no raamen, ryou ooi ne.",
+    "ja": "ここのラーメン、量多いね。",
+    "english": "The ramen here comes in big portions."
+   },
+   "examplePolite": {
+    "romaji": "koko no raamen wa, ryou ga ooi desu ne.",
+    "ja": "ここのラーメンは、量が多いですね。",
+    "english": "The ramen here comes in big portions."
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-nioi-ga-suru",
+   "romaji": "nioi ga suru",
+   "english": "smell something, there's a smell",
+   "chunk": "Noticing",
+   "recent": true
+  },
+  {
+   "id": "c-oto-ga-suru",
+   "romaji": "oto ga suru",
+   "english": "hear a noise, there's a sound",
+   "chunk": "Noticing",
+   "recent": true
+  },
+  {
+   "id": "c-koe-ga-kikoeru",
+   "romaji": "koe ga kikoeru",
+   "english": "hear a voice; (on a call) can hear someone",
+   "chunk": "Noticing",
+   "recent": true
+  },
+  {
+   "id": "c-ki-ga-tsuku",
+   "romaji": "ki ga tsuku",
+   "english": "notice, realise",
+   "chunk": "Noticing",
+   "recent": true
+  },
+  {
+   "id": "c-kodomo-ga-iru",
+   "romaji": "kodomo ga iru",
+   "english": "have children, have kids",
+   "chunk": "Kids and growing up",
+   "recent": true
+  },
+  {
+   "id": "c-kodomo-ga-umareru",
+   "romaji": "kodomo ga umareru",
+   "english": "have a baby",
+   "chunk": "Kids and growing up",
+   "recent": true
+  },
+  {
+   "id": "c-otona-ni-naru",
+   "romaji": "otona ni naru",
+   "english": "grow up, become an adult",
+   "chunk": "Kids and growing up",
+   "recent": true
+  },
+  {
+   "id": "c-kodomo-o-sodateru",
+   "romaji": "kodomo o sodateru",
+   "english": "raise children, bring up kids",
+   "chunk": "Kids and growing up",
+   "recent": true
+  },
+  {
+   "id": "c-mendou-o-miru",
+   "romaji": "mendou o miru",
+   "english": "look after, take care of",
+   "chunk": "Kids and growing up",
+   "recent": true
+  },
+  {
+   "id": "c-netsu-ga-aru",
+   "romaji": "netsu ga aru",
+   "english": "have a fever",
+   "chunk": "Cold symptoms",
+   "recent": true
+  },
+  {
+   "id": "c-netsu-ga-deru",
+   "romaji": "netsu ga deru",
+   "english": "get a fever",
+   "chunk": "Cold symptoms",
+   "recent": true
+  },
+  {
+   "id": "c-seki-ga-deru",
+   "romaji": "seki ga deru",
+   "english": "have a cough",
+   "chunk": "Cold symptoms",
+   "recent": true
+  },
+  {
+   "id": "c-hanamizu-ga-deru",
+   "romaji": "hanamizu ga deru",
+   "english": "have a runny nose",
+   "chunk": "Cold symptoms",
+   "recent": true
+  },
+  {
+   "id": "c-karada-ga-darui",
+   "romaji": "karada ga darui",
+   "english": "feel heavy and sluggish",
+   "chunk": "Cold symptoms",
+   "recent": true
+  },
+  {
+   "id": "c-mado-o-akeru",
+   "romaji": "mado o akeru",
+   "english": "open the window",
+   "chunk": "Windows and curtains",
+   "recent": true
+  },
+  {
+   "id": "c-mado-o-shimeru",
+   "romaji": "mado o shimeru",
+   "english": "close the window",
+   "chunk": "Windows and curtains",
+   "recent": true
+  },
+  {
+   "id": "c-kaaten-o-shimeru",
+   "romaji": "kaaten o shimeru",
+   "english": "close the curtains",
+   "chunk": "Windows and curtains",
+   "recent": true
+  },
+  {
+   "id": "c-shashin-o-toru",
+   "romaji": "shashin o toru",
+   "english": "take a photo",
+   "chunk": "Photos and your phone",
+   "recent": true
+  },
+  {
+   "id": "c-shashin-o-miru",
+   "romaji": "shashin o miru",
+   "english": "look at photos",
+   "chunk": "Photos and your phone",
+   "recent": true
+  },
+  {
+   "id": "c-sumaho-o-ijiru",
+   "romaji": "sumaho o ijiru",
+   "english": "be on your phone",
+   "chunk": "Photos and your phone",
+   "recent": true
+  },
+  {
+   "id": "c-shashin-o-okuru",
+   "romaji": "shashin o okuru",
+   "english": "send a photo",
+   "chunk": "Photos and your phone",
+   "recent": true
+  },
+  {
+   "id": "c-imi-ga-wakaru",
+   "romaji": "imi ga wakaru",
+   "english": "understand what something means; (negative) make no sense",
+   "chunk": "Understanding",
+   "recent": true
+  },
+  {
+   "id": "c-kimochi-ga-wakaru",
+   "romaji": "kimochi ga wakaru",
+   "english": "know how someone feels",
+   "chunk": "Understanding",
+   "recent": true
+  },
+  {
+   "id": "c-chigai-ga-wakaru",
+   "romaji": "chigai ga wakaru",
+   "english": "tell the difference",
+   "chunk": "Understanding",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "yuki",
+   "okaasan"
+  ],
+  "format": "monologue"
+ }
+}

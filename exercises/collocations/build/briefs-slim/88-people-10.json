@@ -1,0 +1,334 @@
+{
+ "script": 88,
+ "of": 94,
+ "stage": 4,
+ "chunkId": "people-10",
+ "label": "Worries and advice",
+ "topic": "People & talk",
+ "rationale": "Talking a problem through: having something on your mind, asking for advice, hearing someone out, and saying what you really think.",
+ "mixUps": "soudan ga aru (can I ask your advice?) is the side with the problem and soudan ni noru (I'll hear you out) is the friend's side; neither uses adobaisu. honne o iu is saying what you really feel, where shoujiki ni iu is just being frank.",
+ "targets": [
+  {
+   "id": "c-nayami-ga-aru",
+   "romaji": "nayami ga aru",
+   "polite": "nayami ga arimasu",
+   "english": "have something on your mind",
+   "ja": "悩みがある",
+   "kana": "なやみがある",
+   "politeJa": "悩みがあります",
+   "noun": "nayami",
+   "particle": "ga",
+   "verb": "aru",
+   "verbJa": "ある",
+   "verbSense": "there is; have (things, problems, something to bring up)",
+   "englishVerb": "have",
+   "trap": null,
+   "partners": [
+    "mondai (a problem)",
+    "shinpaigoto (a worry)",
+    "konpurekkusu (a hang-up)"
+   ],
+   "flags": [],
+   "use": "Mostly heard as the caring question nanka nayami aru no? (is something bothering you?) or the offer nayami ga aru nara kiku yo (if something's on your mind, I'll listen). nayamigoto means the same, and koi no nayami is love trouble.",
+   "notes": "The verb nayamu means to agonise or be torn: dotchi ni suru ka nayanderu (I can't decide which). shinpai is worrying about what might happen; nayami is a problem you keep turning over. nayami o motsu and nayami o kakaeru (be carrying worries) say the same in a more written style.",
+   "example": {
+    "romaji": "nanka nayami aru no?",
+    "ja": "なんか悩みあるの？",
+    "english": "Is something bothering you?"
+   },
+   "examplePolite": {
+    "romaji": "nanika nayami demo aru n desu ka?",
+    "ja": "何か悩みでもあるんですか？",
+    "english": "Is something on your mind?"
+   }
+  },
+  {
+   "id": "c-soudan-ga-aru",
+   "romaji": "soudan ga aru",
+   "polite": "soudan ga arimasu",
+   "english": "want to ask your advice",
+   "ja": "相談がある",
+   "kana": "そうだんがある",
+   "politeJa": "相談があります",
+   "noun": "soudan",
+   "particle": "ga",
+   "verb": "aru",
+   "verbJa": "ある",
+   "verbSense": "there is; have (things, plans, something to bring up)",
+   "englishVerb": "ask",
+   "trap": "soudan sounds like a formal 'consultation', but it's the everyday word for running something by a friend. 'Can I ask your advice?' is chotto soudan ga aru n da kedo; adobaisu kudasai sounds abrupt.",
+   "partners": [
+    "hanashi (something to talk about)",
+    "onegai (a favour)",
+    "shitsumon (a question)"
+   ],
+   "flags": [],
+   "use": "Opens a talk about something you need help deciding, and usually trails off: chotto soudan ga aru n da kedo... ga is usually kept, as with hanashi ga aru and onegai ga aru, though soudan aru n da kedo is heard too.",
+   "notes": "The listener answers un, nani? or ii yo, soudan noru yo (sure, I'm listening).",
+   "example": {
+    "romaji": "chotto soudan ga aru n da kedo, ii?",
+    "ja": "ちょっと相談があるんだけど、いい？",
+    "english": "Can I ask your advice about something?"
+   },
+   "examplePolite": {
+    "romaji": "chotto soudan ga aru n desu kedo, ii desu ka?",
+    "ja": "ちょっと相談があるんですけど、いいですか？",
+    "english": "Could I ask your advice about something?"
+   }
+  },
+  {
+   "id": "c-soudan-ni-noru",
+   "romaji": "soudan ni noru",
+   "polite": "soudan ni norimasu",
+   "english": "give advice, hear someone out",
+   "ja": "相談に乗る",
+   "kana": "そうだんにのる",
+   "politeJa": "相談に乗ります",
+   "noun": "soudan",
+   "particle": "ni",
+   "verb": "noru",
+   "verbJa": "乗る",
+   "verbSense": "ride, get on; here, get on board with someone's problem",
+   "englishVerb": "advise",
+   "trap": "English 'give advice' leads to adobaisu suru, which is fine for passing on tips. Offering to hear someone out and help them think it through is soudan ni noru, and asking for that is soudan suru.",
+   "partners": [],
+   "flags": [],
+   "use": "Said by the one giving support, as an offer (nanka attara soudan ni noru yo) or a request (chotto soudan notte kurenai? = can I run something by you?). It means listening and helping think it through, not just telling someone what to do.",
+   "notes": "The asker opens with soudan ga aru n da kedo, or says senpai ni soudan shita (I went to my senpai for advice). noru also means go along with: sono hanashi noru (I'm in), sasoi ni noru (take someone up on an offer).",
+   "example": {
+    "romaji": "itsudemo soudan ni noru yo.",
+    "ja": "いつでも相談に乗るよ。",
+    "english": "I'm always here if you need to talk."
+   },
+   "examplePolite": {
+    "romaji": "itsudemo soudan ni norimasu yo.",
+    "ja": "いつでも相談に乗りますよ。",
+    "english": "I'm happy to help anytime."
+   }
+  },
+  {
+   "id": "c-honne-o-iu",
+   "romaji": "honne o iu",
+   "polite": "honne o iimasu",
+   "english": "say what you really think",
+   "ja": "本音を言う",
+   "kana": "ほんねをいう",
+   "politeJa": "本音を言います",
+   "noun": "honne",
+   "particle": "o",
+   "verb": "iu",
+   "verbJa": "言う",
+   "verbSense": "say",
+   "englishVerb": "be honest",
+   "trap": null,
+   "partners": [
+    "hontou no koto (the truth)",
+    "iken (opinion)"
+   ],
+   "flags": [],
+   "use": "Two everyday uses: honne o iu to... opens a frank admission (to be honest...), and honne itte yo asks someone to drop the politeness and tell you straight. honne is the real feeling behind tatemae, the polite surface.",
+   "notes": "honne to tatemae (real feelings vs the polite front) is a pair every Japanese person knows; shoujiki ni iu to also means 'to be honest'.",
+   "example": {
+    "romaji": "honne o iu to, chotto iya da na.",
+    "ja": "本音を言うと、ちょっと嫌だな。",
+    "english": "To be honest, I'm not too keen."
+   },
+   "examplePolite": {
+    "romaji": "honne o iu to, chotto iya na n desu.",
+    "ja": "本音を言うと、ちょっと嫌なんです。",
+    "english": "To be honest, I'd rather not."
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-yousu-o-miru",
+   "romaji": "yousu o miru",
+   "english": "wait and see; check on (someone)",
+   "chunk": "Plans and promises",
+   "recent": true
+  },
+  {
+   "id": "c-chuushi-ni-naru",
+   "romaji": "chuushi ni naru",
+   "english": "be called off",
+   "chunk": "Plans and promises",
+   "recent": true
+  },
+  {
+   "id": "c-yakusoku-o-mamoru",
+   "romaji": "yakusoku o mamoru",
+   "english": "keep a promise",
+   "chunk": "Plans and promises",
+   "recent": true
+  },
+  {
+   "id": "c-keikaku-o-tateru",
+   "romaji": "keikaku o tateru",
+   "english": "make a plan",
+   "chunk": "Plans and promises",
+   "recent": true
+  },
+  {
+   "id": "c-boushi-o-kaburu",
+   "romaji": "boushi o kaburu",
+   "english": "wear / put on a hat",
+   "chunk": "Hats and accessories",
+   "recent": true
+  },
+  {
+   "id": "c-yubiwa-o-suru",
+   "romaji": "yubiwa o suru",
+   "english": "wear a ring",
+   "chunk": "Hats and accessories",
+   "recent": true
+  },
+  {
+   "id": "c-nekutai-o-suru",
+   "romaji": "nekutai o suru",
+   "english": "wear a tie",
+   "chunk": "Hats and accessories",
+   "recent": true
+  },
+  {
+   "id": "c-kousui-o-tsukeru",
+   "romaji": "kousui o tsukeru",
+   "english": "wear / put on perfume",
+   "chunk": "Hats and accessories",
+   "recent": true
+  },
+  {
+   "id": "c-shigoto-o-sagasu",
+   "romaji": "shigoto o sagasu",
+   "english": "look for a job",
+   "chunk": "University and jobs",
+   "recent": true
+  },
+  {
+   "id": "c-shigoto-ga-mitsukaru",
+   "romaji": "shigoto ga mitsukaru",
+   "english": "find a job",
+   "chunk": "University and jobs",
+   "recent": true
+  },
+  {
+   "id": "c-daigaku-ni-hairu",
+   "romaji": "daigaku ni hairu",
+   "english": "get into university, start university",
+   "chunk": "University and jobs",
+   "recent": true
+  },
+  {
+   "id": "c-kaisha-ni-hairu",
+   "romaji": "kaisha ni hairu",
+   "english": "join a company",
+   "chunk": "University and jobs",
+   "recent": true
+  },
+  {
+   "id": "c-keiken-ga-aru",
+   "romaji": "keiken ga aru",
+   "english": "have experience",
+   "chunk": "University and jobs",
+   "recent": true
+  },
+  {
+   "id": "c-kega-o-suru",
+   "romaji": "kega o suru",
+   "english": "get hurt, get injured",
+   "chunk": "Visible signs",
+   "recent": true
+  },
+  {
+   "id": "c-chi-ga-deru",
+   "romaji": "chi ga deru",
+   "english": "bleed, be bleeding",
+   "chunk": "Visible signs",
+   "recent": true
+  },
+  {
+   "id": "c-ase-o-kaku",
+   "romaji": "ase o kaku",
+   "english": "sweat, get sweaty",
+   "chunk": "Visible signs",
+   "recent": true
+  },
+  {
+   "id": "c-kaoiro-ga-warui",
+   "romaji": "kaoiro ga warui",
+   "english": "look pale, look unwell",
+   "chunk": "Visible signs",
+   "recent": true
+  },
+  {
+   "id": "c-kao-ga-akai",
+   "romaji": "kao ga akai",
+   "english": "be red in the face",
+   "chunk": "Visible signs",
+   "recent": true
+  },
+  {
+   "id": "c-hana-ga-saku",
+   "romaji": "hana ga saku",
+   "english": "flowers bloom, come out",
+   "chunk": "Seasons",
+   "recent": true
+  },
+  {
+   "id": "c-atsusa-ni-yowai",
+   "romaji": "atsusa ni yowai",
+   "english": "can't take the heat",
+   "chunk": "Seasons",
+   "recent": true
+  },
+  {
+   "id": "c-semi-ga-naku",
+   "romaji": "semi ga naku",
+   "english": "cicadas sing, buzz",
+   "chunk": "Seasons",
+   "recent": true
+  },
+  {
+   "id": "c-yuki-ga-tsumoru",
+   "romaji": "yuki ga tsumoru",
+   "english": "snow settles, lies on the ground",
+   "chunk": "Seasons",
+   "recent": true
+  },
+  {
+   "id": "c-heya-o-kariru",
+   "romaji": "heya o kariru",
+   "english": "rent a room or flat",
+   "chunk": "Your place",
+   "recent": true
+  },
+  {
+   "id": "c-semai-heya",
+   "romaji": "semai heya",
+   "english": "a small, cramped room",
+   "chunk": "Your place",
+   "recent": true
+  },
+  {
+   "id": "c-inu-o-kau",
+   "romaji": "inu o kau",
+   "english": "have / keep a dog",
+   "chunk": "Your place",
+   "recent": true
+  },
+  {
+   "id": "c-nimotsu-ga-todoku",
+   "romaji": "nimotsu ga todoku",
+   "english": "a package arrives, gets delivered",
+   "chunk": "Your place",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "sora",
+   "mai"
+  ],
+  "format": "dialogue"
+ }
+}

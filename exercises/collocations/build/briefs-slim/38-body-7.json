@@ -1,0 +1,282 @@
+{
+ "script": 38,
+ "of": 94,
+ "stage": 2,
+ "chunkId": "body-7",
+ "label": "Doctor and medicine",
+ "topic": "Body & health",
+ "rationale": "Getting treated: going to the doctor, taking medicine and the medicine working.",
+ "mixUps": "English 'see' and 'take' pull toward miru and toru, but a doctor visit is byouin ni iku and medicine is drunk, kusuri o nomu. The kiku in kusuri ga kiku (it works) sounds the same as kiku 'hear, ask'.",
+ "targets": [
+  {
+   "id": "c-byouin-ni-iku",
+   "romaji": "byouin ni iku",
+   "polite": "byouin ni ikimasu",
+   "english": "see a doctor",
+   "ja": "病院に行く",
+   "kana": "びょういんにいく",
+   "politeJa": "病院に行きます",
+   "noun": "byouin",
+   "particle": "ni",
+   "verb": "iku",
+   "verbJa": "行く",
+   "verbSense": "go",
+   "englishVerb": "see",
+   "trap": "English 'hospital' sounds serious, but byouin is any clinic: for a cold you still go to the byouin, byouin ni iku. Isha ni iku also works; isha o miru or isha ni au doesn't.",
+   "partners": [
+    "haisha (dentist)",
+    "isha (doctor)"
+   ],
+   "flags": [],
+   "use": "The normal way to say 'see a doctor', often as advice: byouin itta hou ga ii yo. Casual speech usually drops ni: byouin itta?",
+   "notes": "Byouin de mite morau (get it looked at) is the other natural way.",
+   "example": {
+    "romaji": "sore, byouin itta hou ga ii yo.",
+    "ja": "それ、病院行った方がいいよ。",
+    "english": "You should get that looked at by a doctor."
+   },
+   "examplePolite": {
+    "romaji": "sore, byouin ni itta hou ga ii desu yo.",
+    "ja": "それ、病院に行った方がいいですよ。",
+    "english": "You should have a doctor look at that."
+   }
+  },
+  {
+   "id": "c-kusuri-o-nomu",
+   "romaji": "kusuri o nomu",
+   "polite": "kusuri o nomimasu",
+   "english": "take medicine",
+   "ja": "薬を飲む",
+   "kana": "くすりをのむ",
+   "politeJa": "薬を飲みます",
+   "noun": "kusuri",
+   "particle": "o",
+   "verb": "nomu",
+   "verbJa": "飲む",
+   "verbSense": "drink, swallow",
+   "englishVerb": "take",
+   "trap": "Not kusuri o toru, which would mean fetching it: medicine is 'drunk', kusuri o nomu, even pills.",
+   "partners": [
+    "sapuri (supplements)",
+    "kazegusuri (cold medicine)"
+   ],
+   "flags": [],
+   "use": "Used for pills, powders and syrups alike, often as a check: kusuri nonda? (did you take your medicine?).",
+   "notes": "Eye drops take sasu (megusuri o sasu); cream takes nuru (kusuri o nuru). When it works, the medicine kiku: kono kusuri, yoku kiku (this medicine works well).",
+   "example": {
+    "romaji": "kusuri nonde, hayaku nete ne.",
+    "ja": "薬飲んで、早く寝てね。",
+    "english": "Take your medicine and get to bed early."
+   },
+   "examplePolite": {
+    "romaji": "kusuri o nonde, yukkuri yasunde kudasai ne.",
+    "ja": "薬を飲んで、ゆっくり休んでくださいね。",
+    "english": "Take your medicine and get some rest."
+   }
+  },
+  {
+   "id": "c-kusuri-ga-kiku",
+   "romaji": "kusuri ga kiku",
+   "polite": "kusuri ga kikimasu",
+   "english": "medicine works, takes effect",
+   "ja": "薬が効く",
+   "kana": "くすりがきく",
+   "politeJa": "薬が効きます",
+   "noun": "kusuri",
+   "particle": "ga",
+   "verb": "kiku",
+   "verbJa": "効く",
+   "verbSense": "take effect, work (medicine, air con, a remedy); sounds the same as kiku 'listen, ask'",
+   "englishVerb": "work",
+   "trap": "Not kusuri ga hataraku: medicine 'takes effect', kusuri ga kiku, which sounds just like kiku 'listen'.",
+   "partners": [
+    "eakon (air con: eakon kiitenai = the AC isn't doing anything)",
+    "chuusha (injection)",
+    "massaaji (massage)"
+   ],
+   "flags": [],
+   "use": "Asked after a pill as kusuri kiita? and said as it kicks in, kusuri kiite kita. Ga often drops; when the effect wears off, the medicine kireru (kusuri ga kireta).",
+   "notes": "Kiku~! is also what people say when wasabi or a strong drink hits.",
+   "example": {
+    "romaji": "kusuri kiite kita. daibu raku.",
+    "ja": "薬効いてきた。だいぶ楽。",
+    "english": "The medicine's kicking in. I feel much better."
+   },
+   "examplePolite": {
+    "romaji": "kusuri ga kiite kimashita. daibu raku ni narimashita.",
+    "ja": "薬が効いてきました。だいぶ楽になりました。",
+    "english": "The medicine is starting to work. I feel much better."
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-mado-o-akeru",
+   "romaji": "mado o akeru",
+   "english": "open the window",
+   "chunk": "Windows and curtains",
+   "recent": true
+  },
+  {
+   "id": "c-mado-o-shimeru",
+   "romaji": "mado o shimeru",
+   "english": "close the window",
+   "chunk": "Windows and curtains",
+   "recent": true
+  },
+  {
+   "id": "c-kaaten-o-shimeru",
+   "romaji": "kaaten o shimeru",
+   "english": "close the curtains",
+   "chunk": "Windows and curtains",
+   "recent": true
+  },
+  {
+   "id": "c-shashin-o-toru",
+   "romaji": "shashin o toru",
+   "english": "take a photo",
+   "chunk": "Photos and your phone",
+   "recent": true
+  },
+  {
+   "id": "c-shashin-o-miru",
+   "romaji": "shashin o miru",
+   "english": "look at photos",
+   "chunk": "Photos and your phone",
+   "recent": true
+  },
+  {
+   "id": "c-sumaho-o-ijiru",
+   "romaji": "sumaho o ijiru",
+   "english": "be on your phone",
+   "chunk": "Photos and your phone",
+   "recent": true
+  },
+  {
+   "id": "c-shashin-o-okuru",
+   "romaji": "shashin o okuru",
+   "english": "send a photo",
+   "chunk": "Photos and your phone",
+   "recent": true
+  },
+  {
+   "id": "c-imi-ga-wakaru",
+   "romaji": "imi ga wakaru",
+   "english": "understand what something means; (negative) make no sense",
+   "chunk": "Understanding",
+   "recent": true
+  },
+  {
+   "id": "c-kimochi-ga-wakaru",
+   "romaji": "kimochi ga wakaru",
+   "english": "know how someone feels",
+   "chunk": "Understanding",
+   "recent": true
+  },
+  {
+   "id": "c-chigai-ga-wakaru",
+   "romaji": "chigai ga wakaru",
+   "english": "tell the difference",
+   "chunk": "Understanding",
+   "recent": true
+  },
+  {
+   "id": "c-gohan-ni-iku",
+   "romaji": "gohan ni iku",
+   "english": "go out to eat",
+   "chunk": "Eating out",
+   "recent": true
+  },
+  {
+   "id": "c-mise-ga-komu",
+   "romaji": "mise ga komu",
+   "english": "(a place) gets crowded (konderu = is packed)",
+   "chunk": "Eating out",
+   "recent": true
+  },
+  {
+   "id": "c-gohan-o-ogoru",
+   "romaji": "gohan o ogoru",
+   "english": "treat someone to a meal",
+   "chunk": "Eating out",
+   "recent": true
+  },
+  {
+   "id": "c-ryou-ga-ooi",
+   "romaji": "ryou ga ooi",
+   "english": "it's a big portion",
+   "chunk": "Eating out",
+   "recent": true
+  },
+  {
+   "id": "c-denki-o-tsukeru",
+   "romaji": "denki o tsukeru",
+   "english": "turn on the light",
+   "chunk": "Lights and buttons",
+   "recent": true
+  },
+  {
+   "id": "c-denki-o-kesu",
+   "romaji": "denki o kesu",
+   "english": "turn off the light",
+   "chunk": "Lights and buttons",
+   "recent": true
+  },
+  {
+   "id": "c-denki-ga-tsuku",
+   "romaji": "denki ga tsuku",
+   "english": "the light comes on (tsuiteru = is on)",
+   "chunk": "Lights and buttons",
+   "recent": true
+  },
+  {
+   "id": "c-botan-o-osu",
+   "romaji": "botan o osu",
+   "english": "press the button",
+   "chunk": "Lights and buttons",
+   "recent": true
+  },
+  {
+   "id": "c-densha-ga-okureru",
+   "romaji": "densha ga okureru",
+   "english": "the train is delayed",
+   "chunk": "Catching the train",
+   "recent": true
+  },
+  {
+   "id": "c-densha-ni-maniau",
+   "romaji": "densha ni maniau",
+   "english": "make the train in time",
+   "chunk": "Catching the train",
+   "recent": true
+  },
+  {
+   "id": "c-densha-ga-deru",
+   "romaji": "densha ga deru",
+   "english": "the train leaves",
+   "chunk": "Catching the train",
+   "recent": true
+  },
+  {
+   "id": "c-densha-ni-okureru",
+   "romaji": "densha ni okureru",
+   "english": "be late for the train (and so miss it)",
+   "chunk": "Catching the train",
+   "recent": true
+  },
+  {
+   "id": "c-shuuden-ga-nakunaru",
+   "romaji": "shuuden ga nakunaru",
+   "english": "the last train is gone (no way home)",
+   "chunk": "Catching the train",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "sora",
+   "mai"
+  ],
+  "format": "dialogue"
+ }
+}

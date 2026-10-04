@@ -1,0 +1,340 @@
+{
+ "script": 68,
+ "of": 94,
+ "stage": 3,
+ "chunkId": "work-school-5",
+ "label": "Homework and grades",
+ "topic": "Work & school",
+ "rationale": "Schoolwork from the desk to the report card: doing homework, handing it in, working problems, good grades.",
+ "mixUps": "shukudai o suru is doing it and shukudai o dasu is handing it in (or setting it, when a teacher says it); a problem you work out is toku, not kotaeru.",
+ "targets": [
+  {
+   "id": "c-shukudai-o-suru",
+   "romaji": "shukudai o suru",
+   "polite": "shukudai o shimasu",
+   "english": "do homework",
+   "ja": "宿題をする",
+   "kana": "しゅくだいをする",
+   "politeJa": "宿題をします",
+   "noun": "shukudai",
+   "particle": "o",
+   "verb": "suru",
+   "verbJa": "する",
+   "verbSense": "do; the general verb for tasks",
+   "englishVerb": "do",
+   "trap": null,
+   "partners": [
+    "kadai (assignment)",
+    "kaji (housework)",
+    "shigoto (work)",
+    "baito (part-time job)"
+   ],
+   "flags": [],
+   "use": "Said by and to students, often as a reminder or a groan: shukudai shita? or shukudai shinakya (I've got to do my homework). The o is often dropped, and yaru is just as common: shukudai yatta?",
+   "notes": "Getting homework is shukudai ga deru (shukudai deta), and handing it in is dasu: shukudai dashita?",
+   "example": {
+    "romaji": "ato de issho ni shukudai shiyou.",
+    "ja": "後で一緒に宿題しよう。",
+    "english": "Let's do our homework together later."
+   },
+   "examplePolite": {
+    "romaji": "ato de issho ni shukudai o shimashou.",
+    "ja": "後で一緒に宿題をしましょう。",
+    "english": "Let's do our homework together later."
+   }
+  },
+  {
+   "id": "c-shukudai-o-dasu",
+   "romaji": "shukudai o dasu",
+   "polite": "shukudai o dashimasu",
+   "english": "hand in homework",
+   "ja": "宿題を出す",
+   "kana": "しゅくだいをだす",
+   "politeJa": "宿題を出します",
+   "noun": "shukudai",
+   "particle": "o",
+   "verb": "dasu",
+   "verbJa": "出す",
+   "verbSense": "put out, take out, send out; here: hand in, or set",
+   "englishVerb": "hand in",
+   "trap": "'Hand in' tempts watasu, which is only the physical handover to a person. Handing in work is putting it out: shukudai dashita? (teishutsu suru is the word on notices.) Who is talking tells you whether dasu means hand in or set.",
+   "partners": [
+    "repooto (report, paper)",
+    "kadai (assignment)",
+    "shorui (documents, forms)"
+   ],
+   "flags": [],
+   "use": "Between students it means handing in: shukudai dashita? From a teacher it means setting it, and being set homework is shukudai ga deru. Casual speech drops o.",
+   "notes": "Forgetting it is shukudai o wasureru: shukudai wasureta.",
+   "example": {
+    "romaji": "shukudai, mou dashita?",
+    "ja": "宿題、もう出した？",
+    "english": "Have you handed in the homework yet?"
+   },
+   "examplePolite": {
+    "romaji": "shukudai wa mou dashimashita ka?",
+    "ja": "宿題はもう出しましたか？",
+    "english": "Have you handed in the homework yet?"
+   }
+  },
+  {
+   "id": "c-mondai-o-toku",
+   "romaji": "mondai o toku",
+   "polite": "mondai o tokimasu",
+   "english": "solve a question, do problems",
+   "ja": "問題を解く",
+   "kana": "もんだいをとく",
+   "politeJa": "問題を解きます",
+   "noun": "mondai",
+   "particle": "o",
+   "verb": "toku",
+   "verbJa": "解く",
+   "verbSense": "untie; solve (a question, a puzzle)",
+   "englishVerb": "solve",
+   "trap": "'Solve' points to kaiketsu suru, but that's for problems in real life. Test and puzzle questions are untied: mondai o toku, and 'I got it' is toketa.",
+   "partners": [
+    "nazo (mystery, riddle)",
+    "kuizu (quiz)",
+    "pazuru (puzzle)"
+   ],
+   "flags": [],
+   "use": "Said about test, homework and quiz questions, often in the potential: kono mondai toketa? (did you get this one?). Casual speech drops o.",
+   "notes": "A question that came up on a test is shiken ni deta mondai.",
+   "example": {
+    "romaji": "kono mondai, dou yatte toku no?",
+    "ja": "この問題、どうやって解くの？",
+    "english": "How do you solve this one?"
+   },
+   "examplePolite": {
+    "romaji": "kono mondai wa dou yatte toku n desu ka?",
+    "ja": "この問題はどうやって解くんですか？",
+    "english": "How do you solve this one?"
+   }
+  },
+  {
+   "id": "c-seiseki-ga-ii",
+   "romaji": "seiseki ga ii",
+   "polite": "seiseki ga ii desu",
+   "english": "have good grades, do well at school",
+   "ja": "成績がいい",
+   "kana": "せいせきがいい",
+   "politeJa": "成績がいいです",
+   "noun": "seiseki",
+   "particle": "ga",
+   "verb": "ii",
+   "verbJa": "いい",
+   "verbSense": "ii: good",
+   "englishVerb": "get",
+   "trap": "'Get good grades' pushes toward a verb (ii seiseki o morau). Japanese describes the grades: seiseki ga ii. ii seiseki o toru also works for one term or exam.",
+   "partners": [
+    "tensuu (score)",
+    "kekka (results)",
+    "uriage (sales)"
+   ],
+   "flags": [],
+   "use": "Said about kids, classmates and students, often as praise: seiseki ii ne, usually without ga. About yourself it sounds like bragging, so people say seiseki agatta (my grades went up) or play it down: seiseki yokunai.",
+   "notes": "ii conjugates from yoi: seiseki yokatta (past), yokunai (not good). The opposite is seiseki ga warui; falling grades are seiseki ga sagaru.",
+   "example": {
+    "romaji": "otouto, seiseki ii n da yo.",
+    "ja": "弟、成績いいんだよ。",
+    "english": "My little brother gets good grades."
+   },
+   "examplePolite": {
+    "romaji": "otouto wa seiseki ga ii n desu yo.",
+    "ja": "弟は成績がいいんですよ。",
+    "english": "My little brother gets good grades."
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-shigoto-o-yasumu",
+   "romaji": "shigoto o yasumu",
+   "english": "take time off work, miss work",
+   "chunk": "Breaks and time off",
+   "recent": true
+  },
+  {
+   "id": "c-yasumi-o-toru",
+   "romaji": "yasumi o toru",
+   "english": "take time off",
+   "chunk": "Breaks and time off",
+   "recent": true
+  },
+  {
+   "id": "c-kyuukei-o-toru",
+   "romaji": "kyuukei o toru",
+   "english": "take a break",
+   "chunk": "Breaks and time off",
+   "recent": true
+  },
+  {
+   "id": "c-kaisha-o-yameru",
+   "romaji": "kaisha o yameru",
+   "english": "quit one's job",
+   "chunk": "Breaks and time off",
+   "recent": true
+  },
+  {
+   "id": "c-hito-ga-ooi",
+   "romaji": "hito ga ooi",
+   "english": "be crowded, lots of people",
+   "chunk": "Out and about",
+   "recent": true
+  },
+  {
+   "id": "c-ninki-ga-aru",
+   "romaji": "ninki ga aru",
+   "english": "be popular",
+   "chunk": "Out and about",
+   "recent": true
+  },
+  {
+   "id": "c-ii-fun-iki",
+   "romaji": "ii fun'iki",
+   "english": "a nice atmosphere, good vibe",
+   "chunk": "Out and about",
+   "recent": true
+  },
+  {
+   "id": "c-hyouban-ga-ii",
+   "romaji": "hyouban ga ii",
+   "english": "have a good reputation",
+   "chunk": "Out and about",
+   "recent": true
+  },
+  {
+   "id": "c-nimotsu-ga-omoi",
+   "romaji": "nimotsu ga omoi",
+   "english": "the bags are heavy",
+   "chunk": "Out and about",
+   "recent": true
+  },
+  {
+   "id": "c-orei-o-iu",
+   "romaji": "orei o iu",
+   "english": "thank someone, say thanks",
+   "chunk": "Manners and thanks",
+   "recent": true
+  },
+  {
+   "id": "c-keigo-o-tsukau",
+   "romaji": "keigo o tsukau",
+   "english": "speak politely, use honorifics",
+   "chunk": "Manners and thanks",
+   "recent": true
+  },
+  {
+   "id": "c-ki-o-tsukau",
+   "romaji": "ki o tsukau",
+   "english": "be considerate, go to trouble",
+   "chunk": "Manners and thanks",
+   "recent": true
+  },
+  {
+   "id": "c-osewa-ni-naru",
+   "romaji": "osewa ni naru",
+   "english": "be looked after, be indebted",
+   "chunk": "Manners and thanks",
+   "recent": true
+  },
+  {
+   "id": "c-gochisou-ni-naru",
+   "romaji": "gochisou ni naru",
+   "english": "be treated (to a meal)",
+   "chunk": "Manners and thanks",
+   "recent": true
+  },
+  {
+   "id": "c-osara-o-arau",
+   "romaji": "osara o arau",
+   "english": "wash the dishes, wash up",
+   "chunk": "Kitchen",
+   "recent": true
+  },
+  {
+   "id": "c-oyu-o-wakasu",
+   "romaji": "oyu o wakasu",
+   "english": "boil water",
+   "chunk": "Kitchen",
+   "recent": true
+  },
+  {
+   "id": "c-teeburu-o-fuku",
+   "romaji": "teeburu o fuku",
+   "english": "wipe the table",
+   "chunk": "Kitchen",
+   "recent": true
+  },
+  {
+   "id": "c-geemu-ni-hamaru",
+   "romaji": "geemu ni hamaru",
+   "english": "be hooked on games; be really into games",
+   "chunk": "Hooked, tickets, winning",
+   "recent": true
+  },
+  {
+   "id": "c-shiai-ni-katsu",
+   "romaji": "shiai ni katsu",
+   "english": "win a match",
+   "chunk": "Hooked, tickets, winning",
+   "recent": true
+  },
+  {
+   "id": "c-shiai-ni-makeru",
+   "romaji": "shiai ni makeru",
+   "english": "lose a match",
+   "chunk": "Hooked, tickets, winning",
+   "recent": true
+  },
+  {
+   "id": "c-chiketto-o-toru",
+   "romaji": "chiketto o toru",
+   "english": "get hold of tickets",
+   "chunk": "Hooked, tickets, winning",
+   "recent": true
+  },
+  {
+   "id": "c-hidari-ni-magaru",
+   "romaji": "hidari ni magaru",
+   "english": "turn left",
+   "chunk": "Finding the way",
+   "recent": true
+  },
+  {
+   "id": "c-kado-o-magaru",
+   "romaji": "kado o magaru",
+   "english": "turn at the corner",
+   "chunk": "Finding the way",
+   "recent": true
+  },
+  {
+   "id": "c-michi-ni-mayou",
+   "romaji": "michi ni mayou",
+   "english": "get lost",
+   "chunk": "Finding the way",
+   "recent": true
+  },
+  {
+   "id": "c-michi-o-machigaeru",
+   "romaji": "michi o machigaeru",
+   "english": "go the wrong way",
+   "chunk": "Finding the way",
+   "recent": true
+  },
+  {
+   "id": "c-maigo-ni-naru",
+   "romaji": "maigo ni naru",
+   "english": "get lost (wander off, like a lost child)",
+   "chunk": "Finding the way",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "sora",
+   "mai"
+  ],
+  "format": "dialogue"
+ }
+}

@@ -1,0 +1,325 @@
+{
+ "script": 44,
+ "of": 94,
+ "stage": 2,
+ "chunkId": "describing-4",
+ "label": "Personality and mood",
+ "topic": "Describing people",
+ "rationale": "What someone is like and how they seem: nice, mean, pleasant to deal with, down today.",
+ "mixUps": "seikaku is who someone is underneath, kanji is the impression their manner gives, and genki ga nai is how they seem right now. seikaku ga warui means mean or nasty, far stronger than 'not nice', and genki ga nai is low and flat, not kibun ga warui (feel sick).",
+ "targets": [
+  {
+   "id": "c-seikaku-ga-ii",
+   "romaji": "seikaku ga ii",
+   "polite": "seikaku ga ii desu",
+   "english": "be a nice person",
+   "ja": "性格がいい",
+   "kana": "せいかくがいい",
+   "politeJa": "性格がいいです",
+   "noun": "seikaku",
+   "particle": "ga",
+   "verb": "ii",
+   "verbJa": "いい",
+   "verbSense": "ii: good",
+   "englishVerb": "nice",
+   "trap": "Not ii seikaku: in that order, ii seikaku shiteru ne is usually sarcastic ('you've got some nerve'). The compliment keeps seikaku first: seikaku ii, seikaku no ii hito. Seikaku warui is far stronger than 'not nice': it means mean or nasty.",
+   "partners": [
+    "hitogara (hitogara ga ii: good-natured)",
+    "kao (kao ga ii: good-looking)",
+    "tsukiai (tsukiai ga ii: sociable, always up for things)"
+   ],
+   "flags": [],
+   "use": "The plain way to say someone is a good, kind person: ano hito, seikaku ii yo ne, with ga dropped. Before a noun it's seikaku no ii hito, and it often pairs with looks: kao mo ii shi seikaku mo ii. Seikaku warui (mean, nasty) is harsh and common in gossip.",
+   "notes": "Ii hito also means 'a nice person', but ii hito na n da kedo... is the classic brush-off (nice, but not for me).",
+   "example": {
+    "romaji": "ano hito, honto ni seikaku ii yo ne.",
+    "ja": "あの人、ほんとに性格いいよね。",
+    "english": "She's such a nice person, isn't she?"
+   },
+   "examplePolite": {
+    "romaji": "ano hito wa hontou ni seikaku ga ii desu yo ne.",
+    "ja": "あの人は本当に性格がいいですよね。",
+    "english": "She really is a lovely person, isn't she?"
+   }
+  },
+  {
+   "id": "c-seikaku-ga-warui",
+   "romaji": "seikaku ga warui",
+   "polite": "seikaku ga warui desu",
+   "english": "be mean, nasty",
+   "ja": "性格が悪い",
+   "kana": "せいかくがわるい",
+   "politeJa": "性格が悪いです",
+   "noun": "seikaku",
+   "particle": "ga",
+   "verb": "warui",
+   "verbJa": "悪い",
+   "verbSense": "warui: bad",
+   "englishVerb": "mean",
+   "trap": "Not warui hito, which judges someone as a bad person in the moral sense (warui hito ja nai kedo... = he's not a bad guy, but...): mean or nasty by nature is seikaku ga warui. ijiwaru (mean, spiteful) works for a person or an act: ijiwaru shinaide = don't be mean.",
+   "partners": [
+    "kuchi (kuchi ga warui: sharp-tongued)",
+    "taido (taido ga warui: rude)",
+    "gyougi (gyougi ga warui: bad manners)"
+   ],
+   "flags": [],
+   "use": "Gossip about someone mean or spiteful, almost always with ga dropped: ano hito, seikaku warui yo ne. It judges who a person is, so it's said about people far more than to them; before a noun it's seikaku no warui hito.",
+   "notes": "Among friends, the clipped seikaku waru! is a playful 'that's so mean!'.",
+   "example": {
+    "romaji": "ano senpai, honto seikaku warui n da yo.",
+    "ja": "あの先輩、ほんと性格悪いんだよ。",
+    "english": "That senior is seriously mean."
+   },
+   "examplePolite": {
+    "romaji": "ano senpai wa hontou ni seikaku ga warui n desu yo.",
+    "ja": "あの先輩は本当に性格が悪いんですよ。",
+    "english": "That senior is really mean."
+   }
+  },
+  {
+   "id": "c-kanji-ga-ii",
+   "romaji": "kanji ga ii",
+   "polite": "kanji ga ii desu",
+   "english": "be pleasant, nice (person or place)",
+   "ja": "感じがいい",
+   "kana": "かんじがいい",
+   "politeJa": "感じがいいです",
+   "noun": "kanji",
+   "particle": "ga",
+   "verb": "ii",
+   "verbJa": "いい",
+   "verbSense": "ii: good",
+   "englishVerb": "nice",
+   "trap": "English 'nice' pulls toward yasashii, but yasashii is a kind, gentle nature. The pleasant impression a person's manner or a place gives is kanji ga ii, and yasashii is wrong for a place. Rude or off-putting is kanji warui.",
+   "partners": [
+    "aiso (aiso ga ii: friendly, affable)",
+    "inshou (inshou ga ii: make a good impression)",
+    "taido (taido ga warui: have a bad attitude)"
+   ],
+   "flags": [],
+   "use": "The verdict on someone's manner, a shop's staff or a place: ano ten'in-san, kanji ii ne, with ga dropped. Before a noun, ga often becomes no: kanji no ii hito (a pleasant person). The opposite, kanji warui (rude, off-putting), is at least as common.",
+   "notes": "In the reverse order, ii kanji (いい感じ) means 'going well, looking good': ii kanji da ne! For the mood of a café or a room, the usual set is ii fun'iki. Kanji (感じ, feeling) sounds the same as kanji (Chinese characters).",
+   "example": {
+    "romaji": "ano mise no ten'in-san, kanji ii ne.",
+    "ja": "あの店の店員さん、感じいいね。",
+    "english": "The staff at that shop are so pleasant."
+   },
+   "examplePolite": {
+    "romaji": "ano mise no ten'in-san wa kanji ga ii desu ne.",
+    "ja": "あの店の店員さんは感じがいいですね。",
+    "english": "The staff at that shop are very pleasant."
+   }
+  },
+  {
+   "id": "c-genki-ga-nai",
+   "romaji": "genki ga nai",
+   "polite": "genki ga arimasen",
+   "english": "be down, low on energy",
+   "ja": "元気がない",
+   "kana": "げんきがない",
+   "politeJa": "元気がありません",
+   "noun": "genki",
+   "particle": "ga",
+   "verb": "nai",
+   "verbJa": "ない",
+   "verbSense": "nai: there isn't, have none (negative of aru)",
+   "englishVerb": "down",
+   "trap": "Not kanashii (sad, too strong), and not genki ja nai, which leans toward 'unwell': for 'you seem down', say genki nai ne. If something has upset them, ochikonderu? (are you feeling down?) is also natural.",
+   "partners": [
+    "yaruki (motivation)",
+    "shokuyoku (appetite)",
+    "jishin (confidence)"
+   ],
+   "flags": [],
+   "use": "Said when you notice someone seems low: genki nai ne, dou shita no? Casual speech drops ga. In polite speech genki nai desu ne is just as common as genki ga arimasen. The opposite is genki ga aru (full of energy).",
+   "notes": "Here genki is a noun (energy), not the adjective genki da. Genki dashite (cheer up) is the usual response. Keep apart: genki nai = low, flat; kigen warui = grumpy; kibun warui = feel sick; guai warui = unwell.",
+   "example": {
+    "romaji": "genki nai ne. dou shita no?",
+    "ja": "元気ないね。どうしたの？",
+    "english": "You seem down. What's up?"
+   },
+   "examplePolite": {
+    "romaji": "genki nai desu ne. dou shita n desu ka?",
+    "ja": "元気ないですね。どうしたんですか？",
+    "english": "You seem down. Is something wrong?"
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-byouin-ni-iku",
+   "romaji": "byouin ni iku",
+   "english": "see a doctor",
+   "chunk": "Doctor and medicine",
+   "recent": true
+  },
+  {
+   "id": "c-kusuri-o-nomu",
+   "romaji": "kusuri o nomu",
+   "english": "take medicine",
+   "chunk": "Doctor and medicine",
+   "recent": true
+  },
+  {
+   "id": "c-kusuri-ga-kiku",
+   "romaji": "kusuri ga kiku",
+   "english": "medicine works, takes effect",
+   "chunk": "Doctor and medicine",
+   "recent": true
+  },
+  {
+   "id": "c-naka-ga-ii",
+   "romaji": "naka ga ii",
+   "english": "get along well, be close",
+   "chunk": "Close and in touch",
+   "recent": true
+  },
+  {
+   "id": "c-naka-ga-warui",
+   "romaji": "naka ga warui",
+   "english": "be on bad terms",
+   "chunk": "Close and in touch",
+   "recent": true
+  },
+  {
+   "id": "c-renraku-o-toru",
+   "romaji": "renraku o toru",
+   "english": "get or stay in touch",
+   "chunk": "Close and in touch",
+   "recent": true
+  },
+  {
+   "id": "c-renraku-ga-kuru",
+   "romaji": "renraku ga kuru",
+   "english": "hear from someone",
+   "chunk": "Close and in touch",
+   "recent": true
+  },
+  {
+   "id": "c-ki-ni-iru",
+   "romaji": "ki ni iru",
+   "english": "like, be pleased with",
+   "chunk": "Likes, interest, confidence",
+   "recent": true
+  },
+  {
+   "id": "c-kyoumi-ga-aru",
+   "romaji": "kyoumi ga aru",
+   "english": "be interested (in)",
+   "chunk": "Likes, interest, confidence",
+   "recent": true
+  },
+  {
+   "id": "c-tanoshimi-ni-suru",
+   "romaji": "tanoshimi ni suru",
+   "english": "look forward to",
+   "chunk": "Likes, interest, confidence",
+   "recent": true
+  },
+  {
+   "id": "c-jishin-ga-aru",
+   "romaji": "jishin ga aru",
+   "english": "be confident (in yourself, your answer)",
+   "chunk": "Likes, interest, confidence",
+   "recent": true
+  },
+  {
+   "id": "c-junbi-ga-dekiru",
+   "romaji": "junbi ga dekiru",
+   "english": "be ready",
+   "chunk": "Ready and how long",
+   "recent": true
+  },
+  {
+   "id": "c-jikan-ga-kakaru",
+   "romaji": "jikan ga kakaru",
+   "english": "take time",
+   "chunk": "Ready and how long",
+   "recent": true
+  },
+  {
+   "id": "c-jikan-ga-tatsu",
+   "romaji": "jikan ga tatsu",
+   "english": "time passes",
+   "chunk": "Ready and how long",
+   "recent": true
+  },
+  {
+   "id": "c-tema-ga-kakaru",
+   "romaji": "tema ga kakaru",
+   "english": "take work, be a hassle",
+   "chunk": "Ready and how long",
+   "recent": true
+  },
+  {
+   "id": "c-yume-o-miru",
+   "romaji": "yume o miru",
+   "english": "have a dream (while asleep)",
+   "chunk": "Bed and waking",
+   "recent": true
+  },
+  {
+   "id": "c-me-ga-sameru",
+   "romaji": "me ga sameru",
+   "english": "wake up (from sleep); feel wide awake (me ga sameta)",
+   "chunk": "Bed and waking",
+   "recent": true
+  },
+  {
+   "id": "c-futon-ni-hairu",
+   "romaji": "futon ni hairu",
+   "english": "get into bed, get under the covers",
+   "chunk": "Bed and waking",
+   "recent": true
+  },
+  {
+   "id": "c-mezamashi-o-kakeru",
+   "romaji": "mezamashi o kakeru",
+   "english": "set an alarm",
+   "chunk": "Bed and waking",
+   "recent": true
+  },
+  {
+   "id": "c-kotatsu-ni-hairu",
+   "romaji": "kotatsu ni hairu",
+   "english": "get under the kotatsu",
+   "chunk": "Bed and waking",
+   "recent": true
+  },
+  {
+   "id": "c-taifuu-ga-kuru",
+   "romaji": "taifuu ga kuru",
+   "english": "a typhoon comes (hits)",
+   "chunk": "Storms and quakes",
+   "recent": true
+  },
+  {
+   "id": "c-jishin-ga-okiru",
+   "romaji": "jishin ga okiru",
+   "english": "an earthquake happens, hits",
+   "chunk": "Storms and quakes",
+   "recent": true
+  },
+  {
+   "id": "c-kaminari-ga-naru",
+   "romaji": "kaminari ga naru",
+   "english": "it thunders; thunder rumbles",
+   "chunk": "Storms and quakes",
+   "recent": true
+  },
+  {
+   "id": "c-tenki-yohou-ga-hazureru",
+   "romaji": "tenki yohou ga hazureru",
+   "english": "the forecast is wrong",
+   "chunk": "Storms and quakes",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "mai",
+   "tanaka"
+  ],
+  "format": "dialogue"
+ }
+}

@@ -1,0 +1,283 @@
+{
+ "script": 93,
+ "of": 94,
+ "stage": 4,
+ "chunkId": "body-11",
+ "label": "Moving your body",
+ "topic": "Body & health",
+ "rationale": "Body instructions heard in class, at the doctor or at a massage: raise your hand, close your eyes, relax.",
+ "mixUps": "Eyes take tojiru, not shimeru (which is for doors and windows). chikara o nuku pulls the strength out and is the opposite of chikara o ireru. te o ageru can also mean raising a hand to someone (hitting them).",
+ "targets": [
+  {
+   "id": "c-te-o-ageru",
+   "romaji": "te o ageru",
+   "polite": "te o agemasu",
+   "english": "raise your hand",
+   "ja": "手を挙げる",
+   "kana": "てをあげる",
+   "politeJa": "手を挙げます",
+   "noun": "te",
+   "particle": "o",
+   "verb": "ageru",
+   "verbJa": "挙げる",
+   "verbSense": "raise, lift up; the same-sounding ageru also means give",
+   "englishVerb": "raise",
+   "trap": null,
+   "partners": [
+    "ude (arm)",
+    "kao (face: kao agete = look up)",
+    "ashi (leg)"
+   ],
+   "flags": [],
+   "use": "Heard in class, at meetings and at events as a request: shitsumon aru hito, te agete. With ni and a person it means raising a hand against them: kodomo ni te o ageru (hit a child).",
+   "notes": "Films inflate the count with police shouting te o agero (hands up!). Putting it down is te o orosu.",
+   "example": {
+    "romaji": "shitsumon aru hito, te agete.",
+    "ja": "質問ある人、手挙げて。",
+    "english": "Anyone with a question, put your hand up."
+   },
+   "examplePolite": {
+    "romaji": "shitsumon ga aru kata wa, te o agete kudasai.",
+    "ja": "質問がある方は、手を挙げてください。",
+    "english": "If you have a question, please raise your hand."
+   }
+  },
+  {
+   "id": "c-me-o-tojiru",
+   "romaji": "me o tojiru",
+   "polite": "me o tojimasu",
+   "english": "close your eyes",
+   "ja": "目を閉じる",
+   "kana": "めをとじる",
+   "politeJa": "目を閉じます",
+   "noun": "me",
+   "particle": "o",
+   "verb": "tojiru",
+   "verbJa": "閉じる",
+   "verbSense": "close, shut (eyes, a book, an app); doors and windows take shimeru instead",
+   "englishVerb": "close",
+   "trap": "Doors and windows take shimeru, so learners say me o shimeru. Eyes take tojiru, or the casual tsuburu: me tsubutte.",
+   "partners": [
+    "hon (book)",
+    "kasa (umbrella)",
+    "apuri (app)"
+   ],
+   "flags": [],
+   "use": "Mostly heard as a request, me tojite: at the dentist under the lamp, with eye drops, or before a surprise. Photos are the opposite: me tsubutchatta (I blinked). Casual speech uses me tsubutte just as much, and o often drops in both.",
+   "notes": "Opening them again is me o akeru. Me o tsuburu also means 'let it slide' (overlook a fault).",
+   "example": {
+    "romaji": "ii tte iu made, me tojitete ne.",
+    "ja": "いいって言うまで、目閉じててね。",
+    "english": "Keep your eyes shut till I say so."
+   },
+   "examplePolite": {
+    "romaji": "ii to iu made, me o tojite ite kudasai ne.",
+    "ja": "いいと言うまで、目を閉じていてくださいね。",
+    "english": "Please keep your eyes closed until I say so."
+   }
+  },
+  {
+   "id": "c-chikara-o-nuku",
+   "romaji": "chikara o nuku",
+   "polite": "chikara o nukimasu",
+   "english": "relax (your body), loosen up",
+   "ja": "力を抜く",
+   "kana": "ちからをぬく",
+   "politeJa": "力を抜きます",
+   "noun": "chikara",
+   "particle": "o",
+   "verb": "nuku",
+   "verbJa": "抜く",
+   "verbSense": "pull out, take out (a tooth, a plug); let out (air, tension); also skip (a meal)",
+   "englishVerb": "relax",
+   "trap": null,
+   "partners": [
+    "kuuki (air: let air out of a tyre)",
+    "ki (attention: ki o nuku = let your guard down)"
+   ],
+   "flags": [],
+   "use": "Heard as an instruction at massages, the doctor's, sport and yoga: chikara nuite, or motto kata no chikara nuite. O often drops in the request.",
+   "notes": "The opposite is chikara o ireru (put strength in). Rirakkusu shite is the other everyday instruction; chikara nuite targets a tense part (kata no chikara nuite), and kata no chikara o nuku also means 'stop trying so hard'.",
+   "example": {
+    "romaji": "motto chikara nuite. sou, sono kanji.",
+    "ja": "もっと力抜いて。そう、その感じ。",
+    "english": "Relax more. Yes, like that."
+   },
+   "examplePolite": {
+    "romaji": "motto chikara o nuite kudasai. hai, sono kanji desu.",
+    "ja": "もっと力を抜いてください。はい、その感じです。",
+    "english": "Please relax a bit more. Yes, that's it."
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-heya-o-kariru",
+   "romaji": "heya o kariru",
+   "english": "rent a room or flat",
+   "chunk": "Your place",
+   "recent": true
+  },
+  {
+   "id": "c-semai-heya",
+   "romaji": "semai heya",
+   "english": "a small, cramped room",
+   "chunk": "Your place",
+   "recent": true
+  },
+  {
+   "id": "c-inu-o-kau",
+   "romaji": "inu o kau",
+   "english": "have / keep a dog",
+   "chunk": "Your place",
+   "recent": true
+  },
+  {
+   "id": "c-nimotsu-ga-todoku",
+   "romaji": "nimotsu ga todoku",
+   "english": "a package arrives, gets delivered",
+   "chunk": "Your place",
+   "recent": true
+  },
+  {
+   "id": "c-nayami-ga-aru",
+   "romaji": "nayami ga aru",
+   "english": "have something on your mind",
+   "chunk": "Worries and advice",
+   "recent": true
+  },
+  {
+   "id": "c-soudan-ga-aru",
+   "romaji": "soudan ga aru",
+   "english": "want to ask your advice",
+   "chunk": "Worries and advice",
+   "recent": true
+  },
+  {
+   "id": "c-soudan-ni-noru",
+   "romaji": "soudan ni noru",
+   "english": "give advice, hear someone out",
+   "chunk": "Worries and advice",
+   "recent": true
+  },
+  {
+   "id": "c-honne-o-iu",
+   "romaji": "honne o iu",
+   "english": "say what you really think",
+   "chunk": "Worries and advice",
+   "recent": true
+  },
+  {
+   "id": "c-jikan-o-kakeru",
+   "romaji": "jikan o kakeru",
+   "english": "put time into, take time over",
+   "chunk": "Using your time",
+   "recent": true
+  },
+  {
+   "id": "c-jikan-o-toru",
+   "romaji": "jikan o toru",
+   "english": "set aside time, take up time",
+   "chunk": "Using your time",
+   "recent": true
+  },
+  {
+   "id": "c-jikan-o-tsukuru",
+   "romaji": "jikan o tsukuru",
+   "english": "make time",
+   "chunk": "Using your time",
+   "recent": true
+  },
+  {
+   "id": "c-jikan-o-tsubusu",
+   "romaji": "jikan o tsubusu",
+   "english": "kill time",
+   "chunk": "Using your time",
+   "recent": true
+  },
+  {
+   "id": "c-atama-o-tsukau",
+   "romaji": "atama o tsukau",
+   "english": "use your head; make you think",
+   "chunk": "Getting work done",
+   "recent": true
+  },
+  {
+   "id": "c-kekka-o-dasu",
+   "romaji": "kekka o dasu",
+   "english": "get results, deliver results",
+   "chunk": "Getting work done",
+   "recent": true
+  },
+  {
+   "id": "c-memo-o-toru",
+   "romaji": "memo o toru",
+   "english": "take notes, write it down",
+   "chunk": "Getting work done",
+   "recent": true
+  },
+  {
+   "id": "c-aidea-ga-ukabu",
+   "romaji": "aidea ga ukabu",
+   "english": "an idea comes to mind",
+   "chunk": "Getting work done",
+   "recent": true
+  },
+  {
+   "id": "c-hanko-o-osu",
+   "romaji": "hanko o osu",
+   "english": "stamp your seal",
+   "chunk": "Getting work done",
+   "recent": true
+  },
+  {
+   "id": "c-namida-ga-deru",
+   "romaji": "namida ga deru",
+   "english": "tear up, eyes water",
+   "chunk": "When it hits you",
+   "recent": true
+  },
+  {
+   "id": "c-torihada-ga-tatsu",
+   "romaji": "torihada ga tatsu",
+   "english": "get goosebumps",
+   "chunk": "When it hits you",
+   "recent": true
+  },
+  {
+   "id": "c-jikkan-ga-waku",
+   "romaji": "jikkan ga waku",
+   "english": "it sinks in, feels real",
+   "chunk": "When it hits you",
+   "recent": true
+  },
+  {
+   "id": "c-hanami-ni-iku",
+   "romaji": "ohanami ni iku",
+   "english": "go cherry-blossom viewing",
+   "chunk": "Seasonal outings",
+   "recent": true
+  },
+  {
+   "id": "c-hatsumoude-ni-iku",
+   "romaji": "hatsumoude ni iku",
+   "english": "make the year's first shrine visit",
+   "chunk": "Seasonal outings",
+   "recent": true
+  },
+  {
+   "id": "c-omikuji-o-hiku",
+   "romaji": "omikuji o hiku",
+   "english": "draw a fortune slip",
+   "chunk": "Seasonal outings",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "yuki",
+   "mai"
+  ],
+  "format": "dialogue"
+ }
+}

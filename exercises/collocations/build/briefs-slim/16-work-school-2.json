@@ -1,0 +1,354 @@
+{
+ "script": 16,
+ "of": 94,
+ "stage": 1,
+ "chunkId": "work-school-2",
+ "label": "Questions and learning",
+ "topic": "Work & school",
+ "rationale": "Class talk: having a question, answering one, speaking English, then the thanks phrase benkyou ni naru.",
+ "mixUps": "shitsumon ga aru (have one) takes ga and shitsumon ni kotaeru (answer it) takes ni, never o; benkyou ni natta (I learned from it) is not benkyou shita (I studied).",
+ "targets": [
+  {
+   "id": "c-shitsumon-ga-aru",
+   "romaji": "shitsumon ga aru",
+   "polite": "shitsumon ga arimasu",
+   "english": "have a question",
+   "ja": "質問がある",
+   "kana": "しつもんがある",
+   "politeJa": "質問があります",
+   "noun": "shitsumon",
+   "particle": "ga",
+   "verb": "aru",
+   "verbJa": "ある",
+   "verbSense": "there is; have (things, plans, something to bring up)",
+   "englishVerb": "have",
+   "trap": "English 'have' leads to motsu, but a question you have is aru: shitsumon ga aru. Asking it is shitsumon suru, or simply kiku.",
+   "partners": [
+    "soudan (something to talk over)",
+    "onegai (favour)",
+    "hanashi (something to talk about)",
+    "iken (opinion, objection)"
+   ],
+   "flags": [],
+   "use": "Said to open a question, usually with n da kedo, and here the ga mostly stays: shitsumon ga aru n da kedo. After nanika it's often dropped or becomes wa: teachers and presenters ask the room nanika shitsumon (wa) arimasu ka?",
+   "notes": "To check before asking: shitsumon ii? (can I ask something?). Answering one is shitsumon ni kotaeru.",
+   "example": {
+    "romaji": "hitotsu shitsumon ga aru n da kedo.",
+    "ja": "一つ質問があるんだけど。",
+    "english": "I've got a question for you."
+   },
+   "examplePolite": {
+    "romaji": "hitotsu shitsumon ga aru n desu kedo.",
+    "ja": "一つ質問があるんですけど。",
+    "english": "I've got a question for you."
+   }
+  },
+  {
+   "id": "c-shitsumon-ni-kotaeru",
+   "romaji": "shitsumon ni kotaeru",
+   "polite": "shitsumon ni kotaemasu",
+   "english": "answer a question",
+   "ja": "質問に答える",
+   "kana": "しつもんにこたえる",
+   "politeJa": "質問に答えます",
+   "noun": "shitsumon",
+   "particle": "ni",
+   "verb": "kotaeru",
+   "verbJa": "答える",
+   "verbSense": "answer, reply",
+   "englishVerb": "answer",
+   "trap": "English 'answer the question' has a direct object, which tempts shitsumon o kotaeru. In Japanese you answer to a question: shitsumon ni kotaeru. Answering the phone is a different verb: denwa ni deru.",
+   "partners": [
+    "ankeeto (survey)",
+    "intabyuu (interview)",
+    "toi (question, in writing)"
+   ],
+   "flags": [],
+   "use": "Said in class, interviews and arguments, often as a demand (chanto shitsumon ni kotaete) or a refusal (sono shitsumon ni wa kotaerarenai). The ni almost always stays.",
+   "notes": "Asking is shitsumon suru or just kiku; the answer itself is kotae (kotae wa?).",
+   "example": {
+    "romaji": "sono shitsumon ni wa kotaerarenai.",
+    "ja": "その質問には答えられない。",
+    "english": "I can't answer that question."
+   },
+   "examplePolite": {
+    "romaji": "sono shitsumon ni wa kotaeraremasen.",
+    "ja": "その質問には答えられません。",
+    "english": "I can't answer that question."
+   }
+  },
+  {
+   "id": "c-eigo-o-hanasu",
+   "romaji": "eigo o hanasu",
+   "polite": "eigo o hanashimasu",
+   "english": "speak English",
+   "ja": "英語を話す",
+   "kana": "えいごをはなす",
+   "politeJa": "英語を話します",
+   "noun": "eigo",
+   "particle": "o",
+   "verb": "hanasu",
+   "verbJa": "話す",
+   "verbSense": "speak, talk; tell",
+   "englishVerb": "speak",
+   "trap": "'Do you speak English?' is a plain present in English, but asking whether someone can takes the potential: eigo hanaseru? or eigo dekiru? Plain eigo hanasu? is understood, but it asks whether someone does speak it somewhere (ie de eigo hanasu no? = do you speak English at home?) or is about to, not whether they can.",
+   "partners": [
+    "nihongo (Japanese)",
+    "kankokugo (Korean)",
+    "chuugokugo (Chinese)",
+    "kansaiben (Kansai dialect)"
+   ],
+   "flags": [],
+   "use": "Mostly heard about ability, in the potential: eigo hanaseru? (can you speak English?). With the potential, ga is as common as o: eigo ga hanaseru. Casual speech drops o. eigo de hanasu means talking in English at that moment: eigo de hanashite mo ii?",
+   "notes": "eigo dekiru? asks the same thing. Whether English gets you by somewhere is tsuujiru: eigo tsuujiru?",
+   "example": {
+    "romaji": "eigo wa chotto dake hanaseru.",
+    "ja": "英語はちょっとだけ話せる。",
+    "english": "I can speak a little English."
+   },
+   "examplePolite": {
+    "romaji": "eigo wa chotto dake hanasemasu.",
+    "ja": "英語はちょっとだけ話せます。",
+    "english": "I can speak a little English."
+   }
+  },
+  {
+   "id": "c-benkyou-ni-naru",
+   "romaji": "benkyou ni naru",
+   "polite": "benkyou ni narimasu",
+   "english": "be instructive; learn a lot",
+   "ja": "勉強になる",
+   "kana": "べんきょうになる",
+   "politeJa": "勉強になります",
+   "noun": "benkyou",
+   "particle": "ni",
+   "verb": "naru",
+   "verbJa": "なる",
+   "verbSense": "become, turn into",
+   "englishVerb": "learn",
+   "trap": "benkyou shita means you sat down and studied. 'I learned a lot from that' is benkyou ni natta: the thing becomes a lesson.",
+   "partners": [
+    "sankou (useful reference)",
+    "tame (good for you)"
+   ],
+   "flags": [],
+   "use": "Said as thanks when someone explains or shows you something: benkyou ni narimasu as a reply on the spot, especially to a senior, and benkyou ni natta or benkyou ni narimashita afterwards.",
+   "notes": "Often comes after naruhodo: naruhodo, benkyou ni narimasu.",
+   "example": {
+    "romaji": "kyou no hanashi, sugoku benkyou ni natta.",
+    "ja": "今日の話、すごく勉強になった。",
+    "english": "I learned a lot from today's talk."
+   },
+   "examplePolite": {
+    "romaji": "kyou no ohanashi, hontou ni benkyou ni narimashita.",
+    "ja": "今日のお話、本当に勉強になりました。",
+    "english": "I learned a lot from today's talk."
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-jikan-ga-nai",
+   "romaji": "jikan ga nai",
+   "english": "have no time",
+   "chunk": "No time, no money",
+   "recent": true
+  },
+  {
+   "id": "c-hima-ga-nai",
+   "romaji": "hima ga nai",
+   "english": "have no free time",
+   "chunk": "No time, no money",
+   "recent": true
+  },
+  {
+   "id": "c-okane-ga-nai",
+   "romaji": "okane ga nai",
+   "english": "have no money, be broke",
+   "chunk": "No time, no money",
+   "recent": true
+  },
+  {
+   "id": "c-okane-ga-tarinai",
+   "romaji": "okane ga tarinai",
+   "english": "be short of money",
+   "chunk": "No time, no money",
+   "recent": true
+  },
+  {
+   "id": "c-yoyuu-ga-nai",
+   "romaji": "yoyuu ga nai",
+   "english": "have nothing to spare",
+   "chunk": "No time, no money",
+   "recent": true
+  },
+  {
+   "id": "c-tenki-ga-ii",
+   "romaji": "tenki ga ii",
+   "english": "the weather is nice",
+   "chunk": "Weather and wind",
+   "recent": true
+  },
+  {
+   "id": "c-kaze-ga-tsuyoi",
+   "romaji": "kaze ga tsuyoi",
+   "english": "it's windy",
+   "chunk": "Weather and wind",
+   "recent": true
+  },
+  {
+   "id": "c-ame-ga-tsuyoi",
+   "romaji": "ame ga tsuyoi",
+   "english": "the rain is heavy",
+   "chunk": "Weather and wind",
+   "recent": true
+  },
+  {
+   "id": "c-kaze-ga-fuku",
+   "romaji": "kaze ga fuku",
+   "english": "the wind blows",
+   "chunk": "Weather and wind",
+   "recent": true
+  },
+  {
+   "id": "c-kaze-ni-ataru",
+   "romaji": "kaze ni ataru",
+   "english": "get some (fresh) air",
+   "chunk": "Weather and wind",
+   "recent": true
+  },
+  {
+   "id": "c-te-o-arau",
+   "romaji": "te o arau",
+   "english": "wash your hands",
+   "chunk": "Washing and grooming",
+   "recent": true
+  },
+  {
+   "id": "c-kao-o-arau",
+   "romaji": "kao o arau",
+   "english": "wash your face",
+   "chunk": "Washing and grooming",
+   "recent": true
+  },
+  {
+   "id": "c-kami-o-arau",
+   "romaji": "kami o arau",
+   "english": "wash your hair",
+   "chunk": "Washing and grooming",
+   "recent": true
+  },
+  {
+   "id": "c-kami-o-kiru",
+   "romaji": "kami o kiru",
+   "english": "get a haircut",
+   "chunk": "Washing and grooming",
+   "recent": true
+  },
+  {
+   "id": "c-tsume-o-kiru",
+   "romaji": "tsume o kiru",
+   "english": "cut your nails",
+   "chunk": "Washing and grooming",
+   "recent": true
+  },
+  {
+   "id": "c-toire-ni-iku",
+   "romaji": "toire ni iku",
+   "english": "go to the toilet",
+   "chunk": "Bathroom",
+   "recent": true
+  },
+  {
+   "id": "c-shawaa-o-abiru",
+   "romaji": "shawaa o abiru",
+   "english": "take a shower",
+   "chunk": "Bathroom",
+   "recent": true
+  },
+  {
+   "id": "c-ofuro-ni-hairu",
+   "romaji": "ofuro ni hairu",
+   "english": "take a bath",
+   "chunk": "Bathroom",
+   "recent": true
+  },
+  {
+   "id": "c-ha-o-migaku",
+   "romaji": "ha o migaku",
+   "english": "brush your teeth",
+   "chunk": "Bathroom",
+   "recent": true
+  },
+  {
+   "id": "c-hige-o-soru",
+   "romaji": "hige o soru",
+   "english": "shave (your face)",
+   "chunk": "Bathroom",
+   "recent": true
+  },
+  {
+   "id": "c-atama-ga-ii",
+   "romaji": "atama ga ii",
+   "english": "be smart, clever",
+   "chunk": "Smart and skilled",
+   "recent": true
+  },
+  {
+   "id": "c-nihongo-ga-jouzu",
+   "romaji": "nihongo ga jouzu",
+   "english": "be good at Japanese",
+   "chunk": "Smart and skilled",
+   "recent": true
+  },
+  {
+   "id": "c-shigoto-ga-dekiru",
+   "romaji": "shigoto ga dekiru",
+   "english": "be capable, good at one's job",
+   "chunk": "Smart and skilled",
+   "recent": true
+  },
+  {
+   "id": "c-sensu-ga-ii",
+   "romaji": "sensu ga ii",
+   "english": "have good taste, a good eye",
+   "chunk": "Smart and skilled",
+   "recent": true
+  },
+  {
+   "id": "c-asobi-ni-iku",
+   "romaji": "asobi ni iku",
+   "english": "go out for fun; go visit",
+   "chunk": "Going out for fun",
+   "recent": true
+  },
+  {
+   "id": "c-eiga-ni-iku",
+   "romaji": "eiga ni iku",
+   "english": "go to the movies",
+   "chunk": "Going out for fun",
+   "recent": true
+  },
+  {
+   "id": "c-sanpo-ni-iku",
+   "romaji": "sanpo ni iku",
+   "english": "go for a walk",
+   "chunk": "Going out for fun",
+   "recent": true
+  },
+  {
+   "id": "c-karaoke-ni-iku",
+   "romaji": "karaoke ni iku",
+   "english": "go to karaoke",
+   "chunk": "Going out for fun",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "yuki",
+   "kenji"
+  ],
+  "format": "dialogue"
+ }
+}

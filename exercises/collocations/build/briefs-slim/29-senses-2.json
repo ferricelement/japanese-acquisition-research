@@ -1,0 +1,350 @@
+{
+ "script": 29,
+ "of": 94,
+ "stage": 2,
+ "chunkId": "senses-2",
+ "label": "Noticing",
+ "topic": "Senses & mind",
+ "rationale": "A smell, a sound or a voice reaches you, and you notice something.",
+ "mixUps": "The smell, sound or voice is the subject (nioi suru, oto shita, koe ga kikoeru), so you don't use kagu or kiku; kikoeru? (can you hear me?) is not kiiteru? (are you listening?). ki ga tsuku (notice) sounds almost like ki o tsukeru (be careful).",
+ "targets": [
+  {
+   "id": "c-nioi-ga-suru",
+   "romaji": "nioi ga suru",
+   "polite": "nioi ga shimasu",
+   "english": "smell something, there's a smell",
+   "ja": "匂いがする",
+   "kana": "においがする",
+   "politeJa": "匂いがします",
+   "noun": "nioi",
+   "particle": "ga",
+   "verb": "suru",
+   "verbJa": "する",
+   "verbSense": "do; here, be perceived: a smell, sound, taste or feeling makes itself felt",
+   "englishVerb": "smell",
+   "trap": "For 'I smell something', learners use kagu, but kagu means sniffing on purpose. The smell is the subject: nanka nioi ga suru. ii nioi! on its own is also fine.",
+   "partners": [
+    "kaori (fragrance)",
+    "aji (taste)",
+    "koe (voice)",
+    "kanji (feeling)"
+   ],
+   "flags": [],
+   "use": "Said the moment you notice a smell, usually without ga: ii nioi suru! or nanka hen na nioi shinai? To name the source, add no: gasu no nioi ga suru (I smell gas).",
+   "notes": "For a bad smell, natives often just say kusai (it stinks).",
+   "example": {
+    "romaji": "nanka ii nioi suru ne.",
+    "ja": "なんかいい匂いするね。",
+    "english": "Something smells good."
+   },
+   "examplePolite": {
+    "romaji": "nanika ii nioi ga shimasu ne.",
+    "ja": "何かいい匂いがしますね。",
+    "english": "Something smells good, doesn't it."
+   }
+  },
+  {
+   "id": "c-oto-ga-suru",
+   "romaji": "oto ga suru",
+   "polite": "oto ga shimasu",
+   "english": "hear a noise, there's a sound",
+   "ja": "音がする",
+   "kana": "おとがする",
+   "politeJa": "音がします",
+   "noun": "oto",
+   "particle": "ga",
+   "verb": "suru",
+   "verbJa": "する",
+   "verbSense": "do; here, be perceived: a sound, smell or taste makes itself felt",
+   "englishVerb": "hear",
+   "trap": "For 'I heard a noise' just now, learners say oto o kiita. That works when you tell the story later, but in the moment natives make the sound the subject: oto shita, or oto ga kikoeta.",
+   "partners": [
+    "koe (voice)",
+    "nioi (smell)",
+    "aji (taste)"
+   ],
+   "flags": [],
+   "use": "The normal way to report a noise, with the noise as the subject, not you: nanka oto shita (I heard something). Use the past shita for a sound just now. ga is usually dropped.",
+   "notes": "Often comes with a sound word: gatan tte oto shita (there was a thud). For 'can hear', the verb is kikoeru: oto ga kikoeru, and koe ga kikoeru for voices and calls.",
+   "example": {
+    "romaji": "ima nanka oto shinakatta?",
+    "ja": "今なんか音しなかった？",
+    "english": "Did you just hear something?"
+   },
+   "examplePolite": {
+    "romaji": "ima nanika oto ga shimasen deshita ka?",
+    "ja": "今何か音がしませんでしたか？",
+    "english": "Did you just hear a noise?"
+   }
+  },
+  {
+   "id": "c-koe-ga-kikoeru",
+   "romaji": "koe ga kikoeru",
+   "polite": "koe ga kikoemasu",
+   "english": "hear a voice; (on a call) can hear someone",
+   "ja": "声が聞こえる",
+   "kana": "こえがきこえる",
+   "politeJa": "声が聞こえます",
+   "noun": "koe",
+   "particle": "ga",
+   "verb": "kikoeru",
+   "verbJa": "聞こえる",
+   "verbSense": "can be heard, reach your ears; also 'sound like' (X ni kikoeru)",
+   "englishVerb": "hear",
+   "trap": "For 'I can hear a voice' or 'can you hear me?', learners use kiku, but kiku is listening on purpose: kiiteru? means 'are you listening?'. A sound reaching you is kikoeru, with the voice as subject: koe kikoeru?",
+   "partners": [
+    "oto (sound)",
+    "ongaku (music)",
+    "ashioto (footsteps)"
+   ],
+   "flags": [],
+   "use": "The voice that reaches you is the subject: tonari no heya kara koe ga kikoeru. On calls and video meetings it's the check koe kikoeteru? (can you hear me?), or just kikoeru?, and the reply chotto kikoenai (I can't really hear you).",
+   "notes": "X ni kikoeru means 'sounds like X': iiwake ni kikoeru (that sounds like an excuse). koe ga suru (there's a voice) says a voice is there; kikoeru is whether it reaches you, which is why calls use kikoeru. On a bad line, koe ga tooi (you sound far away) is the other stock complaint.",
+   "example": {
+    "romaji": "moshimoshi, koe kikoeteru?",
+    "ja": "もしもし、声聞こえてる？",
+    "english": "Hello? Can you hear me?"
+   },
+   "examplePolite": {
+    "romaji": "moshimoshi, koe kikoemasu ka?",
+    "ja": "もしもし、声聞こえますか？",
+    "english": "Hello? Can you hear me?"
+   }
+  },
+  {
+   "id": "c-ki-ga-tsuku",
+   "romaji": "ki ga tsuku",
+   "polite": "ki ga tsukimasu",
+   "english": "notice, realise",
+   "ja": "気が付く",
+   "kana": "きがつく",
+   "politeJa": "気が付きます",
+   "noun": "ki",
+   "particle": "ga",
+   "verb": "tsuku",
+   "verbJa": "付く",
+   "verbSense": "stick, get attached; here your attention catches on something",
+   "englishVerb": "notice",
+   "trap": "For 'I noticed', learners say mita or wakatta. The phrase is ki ga tsuita. Keep it apart from ki o tsukeru (be careful), which sounds almost the same.",
+   "partners": [],
+   "flags": [],
+   "use": "Mostly past: ki ga tsuita (I noticed, I realised) and zenzen ki ga tsukanakatta (I didn't notice at all). The thing noticed takes ni: machigai ni ki ga tsuita. ki ga tsuitara is the everyday 'before I knew it': ki ga tsuitara asa datta (next thing I knew, it was morning).",
+   "notes": "The one-word kizuku means the same and is even more common in drama speech: zenzen kizukanakatta.",
+   "example": {
+    "romaji": "gomen, zenzen ki tsukanakatta.",
+    "ja": "ごめん、全然気つかなかった。",
+    "english": "Sorry, I didn't notice at all."
+   },
+   "examplePolite": {
+    "romaji": "sumimasen, zenzen ki ga tsukimasen deshita.",
+    "ja": "すみません、全然気が付きませんでした。",
+    "english": "Sorry, I didn't notice at all."
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-mizu-o-nomu",
+   "romaji": "mizu o nomu",
+   "english": "drink water",
+   "chunk": "Drinks",
+   "recent": true
+  },
+  {
+   "id": "c-koohii-o-nomu",
+   "romaji": "koohii o nomu",
+   "english": "drink coffee",
+   "chunk": "Drinks",
+   "recent": true
+  },
+  {
+   "id": "c-osake-o-nomu",
+   "romaji": "osake o nomu",
+   "english": "drink (alcohol)",
+   "chunk": "Drinks",
+   "recent": true
+  },
+  {
+   "id": "c-ocha-o-nomu",
+   "romaji": "ocha o nomu",
+   "english": "have tea, drink tea",
+   "chunk": "Drinks",
+   "recent": true
+  },
+  {
+   "id": "c-gohan-o-taberu",
+   "romaji": "gohan o taberu",
+   "english": "eat, have a meal",
+   "chunk": "Meals at home",
+   "recent": true
+  },
+  {
+   "id": "c-gohan-o-tsukuru",
+   "romaji": "gohan o tsukuru",
+   "english": "cook a meal, make dinner",
+   "chunk": "Meals at home",
+   "recent": true
+  },
+  {
+   "id": "c-gohan-ga-dekiru",
+   "romaji": "gohan ga dekiru",
+   "english": "the meal gets ready (dekita = it's ready)",
+   "chunk": "Meals at home",
+   "recent": true
+  },
+  {
+   "id": "c-gohan-ga-sameru",
+   "romaji": "gohan ga sameru",
+   "english": "the food gets cold",
+   "chunk": "Meals at home",
+   "recent": true
+  },
+  {
+   "id": "c-kaze-o-hiku",
+   "romaji": "kaze o hiku",
+   "english": "catch a cold",
+   "chunk": "Getting sick",
+   "recent": true
+  },
+  {
+   "id": "c-kaze-ga-utsuru",
+   "romaji": "kaze ga utsuru",
+   "english": "catch someone's cold",
+   "chunk": "Getting sick",
+   "recent": true
+  },
+  {
+   "id": "c-byouki-ni-naru",
+   "romaji": "byouki ni naru",
+   "english": "get sick, fall ill",
+   "chunk": "Getting sick",
+   "recent": true
+  },
+  {
+   "id": "c-taichou-o-kuzusu",
+   "romaji": "taichou o kuzusu",
+   "english": "get run down, fall ill",
+   "chunk": "Getting sick",
+   "recent": true
+  },
+  {
+   "id": "c-onaka-o-kowasu",
+   "romaji": "onaka o kowasu",
+   "english": "get an upset stomach",
+   "chunk": "Getting sick",
+   "recent": true
+  },
+  {
+   "id": "c-fuku-o-kiru",
+   "romaji": "fuku o kiru",
+   "english": "put on / wear clothes",
+   "chunk": "Clothes and shoes",
+   "recent": true
+  },
+  {
+   "id": "c-kutsu-o-haku",
+   "romaji": "kutsu o haku",
+   "english": "put on / wear shoes",
+   "chunk": "Clothes and shoes",
+   "recent": true
+  },
+  {
+   "id": "c-kutsu-o-nugu",
+   "romaji": "kutsu o nugu",
+   "english": "take off shoes",
+   "chunk": "Clothes and shoes",
+   "recent": true
+  },
+  {
+   "id": "c-fuku-o-nugu",
+   "romaji": "fuku o nugu",
+   "english": "take off clothes, get undressed",
+   "chunk": "Clothes and shoes",
+   "recent": true
+  },
+  {
+   "id": "c-terebi-o-miru",
+   "romaji": "terebi o miru",
+   "english": "watch TV",
+   "chunk": "TV and music",
+   "recent": true
+  },
+  {
+   "id": "c-ongaku-o-kiku",
+   "romaji": "ongaku o kiku",
+   "english": "listen to music",
+   "chunk": "TV and music",
+   "recent": true
+  },
+  {
+   "id": "c-nyuusu-o-miru",
+   "romaji": "nyuusu o miru",
+   "english": "watch or check the news",
+   "chunk": "TV and music",
+   "recent": true
+  },
+  {
+   "id": "c-ongaku-o-kakeru",
+   "romaji": "ongaku o kakeru",
+   "english": "put on music",
+   "chunk": "TV and music",
+   "recent": true
+  },
+  {
+   "id": "c-channeru-o-kaeru",
+   "romaji": "channeru o kaeru",
+   "english": "change the channel",
+   "chunk": "TV and music",
+   "recent": true
+  },
+  {
+   "id": "c-doa-o-akeru",
+   "romaji": "doa o akeru",
+   "english": "open the door",
+   "chunk": "Doors and locks",
+   "recent": true
+  },
+  {
+   "id": "c-doa-o-shimeru",
+   "romaji": "doa o shimeru",
+   "english": "close the door",
+   "chunk": "Doors and locks",
+   "recent": true
+  },
+  {
+   "id": "c-doa-ga-aku",
+   "romaji": "doa ga aku",
+   "english": "the door opens (aiteru = is open)",
+   "chunk": "Doors and locks",
+   "recent": true
+  },
+  {
+   "id": "c-doa-ga-shimaru",
+   "romaji": "doa ga shimaru",
+   "english": "the door closes (shimatteru = is shut)",
+   "chunk": "Doors and locks",
+   "recent": true
+  },
+  {
+   "id": "c-kagi-o-kakeru",
+   "romaji": "kagi o kakeru",
+   "english": "lock (a door, bike, locker)",
+   "chunk": "Doors and locks",
+   "recent": true
+  },
+  {
+   "id": "c-kagi-ga-kakaru",
+   "romaji": "kagi ga kakaru",
+   "english": "(a door) locks, gets locked (kakatteru = is locked)",
+   "chunk": "Doors and locks",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "okaasan",
+   "kenji"
+  ],
+  "format": "dialogue"
+ }
+}

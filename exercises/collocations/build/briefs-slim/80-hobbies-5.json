@@ -1,0 +1,367 @@
+{
+ "script": 80,
+ "of": 94,
+ "stage": 4,
+ "chunkId": "hobbies-5",
+ "label": "Exercise and outdoors",
+ "topic": "Hobbies, sport & games",
+ "rationale": "Getting your body moving and getting out into nature at the weekend, plus what people say it does for them: a nice change of pace.",
+ "mixUps": "yama ni noboru takes ni, not the bare object of English 'climb a mountain'. tsuri ni iku and kyanpu ni iku put the activity straight before ni iku. kibun tenkan ni naru (with naru) means something did you good, while kibun tenkan suru is taking the break yourself.",
+ "targets": [
+  {
+   "id": "c-karada-o-ugokasu",
+   "romaji": "karada o ugokasu",
+   "polite": "karada o ugokashimasu",
+   "english": "get some exercise, move your body",
+   "ja": "体を動かす",
+   "kana": "からだをうごかす",
+   "politeJa": "体を動かします",
+   "noun": "karada",
+   "particle": "o",
+   "verb": "ugokasu",
+   "verbJa": "動かす",
+   "verbSense": "move something, set it in motion (the transitive of ugoku)",
+   "englishVerb": "exercise",
+   "trap": "Not karada o ugoku. ugoku is the intransitive 'move' (karada ga ugokanai = I can't move), and only ugokasu takes o.",
+   "partners": [
+    "te (hands: move your hands)",
+    "ashi (legs: move your legs)",
+    "kubi (neck: move your neck)"
+   ],
+   "flags": [],
+   "use": "The everyday way to talk about getting exercise, often as something you should do: tama ni wa karada ugokasanakya. Casual speech usually drops o, and karada ugokasu no ga suki means you like being active.",
+   "notes": "undou suru is the general word for exercise, from sport to the gym (undou busoku = not enough exercise); karada o ugokasu covers any getting moving, from a walk to cleaning.",
+   "example": {
+    "romaji": "tama ni wa karada ugokasanakya.",
+    "ja": "たまには体動かさなきゃ。",
+    "english": "I need to get some exercise now and then."
+   },
+   "examplePolite": {
+    "romaji": "tama ni wa karada o ugokasanakya ikemasen ne.",
+    "ja": "たまには体を動かさなきゃいけませんね。",
+    "english": "I really should get some exercise now and then."
+   }
+  },
+  {
+   "id": "c-kibarashi-ni-naru",
+   "romaji": "kibun tenkan ni naru",
+   "polite": "kibun tenkan ni narimasu",
+   "english": "be a nice change of pace, do someone good",
+   "ja": "気分転換になる",
+   "kana": "きぶんてんかんになる",
+   "politeJa": "気分転換になります",
+   "noun": "kibun tenkan",
+   "particle": "ni",
+   "verb": "naru",
+   "verbJa": "なる",
+   "verbSense": "become, turn into",
+   "englishVerb": "be",
+   "trap": null,
+   "partners": [
+    "kibarashi (taking your mind off something: ii kibarashi ni natta)",
+    "nagusame (comfort)",
+    "keiken (experience: ii keiken ni naru)"
+   ],
+   "flags": [],
+   "use": "Said to encourage someone or about something that helped: ii kibun tenkan ni naru yo (it'll do you good), ii kibun tenkan ni natta. It often comes with ii. kibun tenkan ni alone means 'for a change': kibun tenkan ni sanpo shite kuru.",
+   "notes": "kibarashi works the same way and is about as common in films; it leans to taking your mind off something bad: ii kibarashi ni natta, kibarashi ni sanpo suru. iya na koto o wasureru (forget your troubles) is another natural way to say it.",
+   "example": {
+    "romaji": "issho ni ikou yo, ii kibun tenkan ni naru yo.",
+    "ja": "一緒に行こうよ、いい気分転換になるよ。",
+    "english": "Come with us, it'll be a nice change of pace."
+   },
+   "examplePolite": {
+    "romaji": "issho ni ikimashou yo, ii kibun tenkan ni narimasu yo.",
+    "ja": "一緒に行きましょうよ、いい気分転換になりますよ。",
+    "english": "Do come along, it'll be a nice change of pace."
+   }
+  },
+  {
+   "id": "c-yama-ni-noboru",
+   "romaji": "yama ni noboru",
+   "polite": "yama ni noborimasu",
+   "english": "climb a mountain",
+   "ja": "山に登る",
+   "kana": "やまにのぼる",
+   "politeJa": "山に登ります",
+   "noun": "yama",
+   "particle": "ni",
+   "verb": "noboru",
+   "verbJa": "登る",
+   "verbSense": "climb, go up (mountains, trees, stairs)",
+   "englishVerb": "climb",
+   "trap": "English 'climb' takes a direct object, so learners default to yama o noboru. That is fine too, mostly when the way up is the point (kewashii yama o nobotta, climbed a steep mountain), but for having climbed a mountain ni is about three times as common: fujisan ni nobotta.",
+   "partners": [
+    "fujisan (Mount Fuji)",
+    "ki (tree)",
+    "yane (roof)",
+    "kaidan (stairs, with o)"
+   ],
+   "flags": [],
+   "use": "Said about hiking up a mountain as much as real climbing, often in the past or as an experience: fujisan nobotta koto aru? The mountain usually takes ni (o is also heard), and casual speech sometimes drops it. The hobby itself is yama nobori (mountain climbing).",
+   "notes": "An easy walk in the hills is haikingu; climbing as a hobby is yama nobori or tozan (shumi wa tozan desu).",
+   "example": {
+    "romaji": "shuumatsu, tomodachi to yama ni nobotta.",
+    "ja": "週末、友達と山に登った。",
+    "english": "I climbed a mountain with friends at the weekend."
+   },
+   "examplePolite": {
+    "romaji": "shuumatsu, tomodachi to yama ni noborimashita.",
+    "ja": "週末、友達と山に登りました。",
+    "english": "I climbed a mountain with friends at the weekend."
+   }
+  },
+  {
+   "id": "c-tsuri-ni-iku",
+   "romaji": "tsuri ni iku",
+   "polite": "tsuri ni ikimasu",
+   "english": "go fishing",
+   "ja": "釣りに行く",
+   "kana": "つりにいく",
+   "politeJa": "釣りに行きます",
+   "noun": "tsuri",
+   "particle": "ni",
+   "verb": "iku",
+   "verbJa": "行く",
+   "verbSense": "go (tsuri is the noun of tsuru, catch on a line)",
+   "englishVerb": "go",
+   "trap": null,
+   "partners": [
+    "sukii (skiing)",
+    "sunobo (snowboarding)",
+    "haikingu (hiking)"
+   ],
+   "flags": [],
+   "use": "Said about fishing trips, as plans or as a habit. Casual speech often drops ni (tsuri iku?), and tsuri itteru means someone is out fishing now, not on their way.",
+   "notes": "A fish on the line is tsureru: nanka tsureta? (catch anything?). tsukamaeru is catching something that could get away, like a bug or a thief, so it fits a fish caught by hand or net, not on a rod.",
+   "example": {
+    "romaji": "yasumi no hi wa, yoku tsuri ni iku.",
+    "ja": "休みの日は、よく釣りに行く。",
+    "english": "I often go fishing on my days off."
+   },
+   "examplePolite": {
+    "romaji": "yasumi no hi wa, yoku tsuri ni ikimasu.",
+    "ja": "休みの日は、よく釣りに行きます。",
+    "english": "I often go fishing on my days off."
+   }
+  },
+  {
+   "id": "c-kyanpu-ni-iku",
+   "romaji": "kyanpu ni iku",
+   "polite": "kyanpu ni ikimasu",
+   "english": "go camping",
+   "ja": "キャンプに行く",
+   "kana": "キャンプにいく",
+   "politeJa": "キャンプに行きます",
+   "noun": "kyanpu",
+   "particle": "ni",
+   "verb": "iku",
+   "verbJa": "行く",
+   "verbSense": "go; with an activity noun + ni, go out to do it",
+   "englishVerb": "go",
+   "trap": "Not kyanpingu ni iku: the activity is kyanpu, and kyanpingu turns up mainly in compounds like kyanpingu kaa (camper van).",
+   "partners": [
+    "baabekyuu (barbecue)",
+    "guranpingu (glamping)",
+    "doraibu (a drive)"
+   ],
+   "flags": [],
+   "use": "Said about camping trips, often family or summer ones. Casual speech drops ni (kyanpu iku?), and being at the campsite is kyanpu shiteru.",
+   "notes": null,
+   "example": {
+    "romaji": "natsuyasumi, kazoku de kyanpu ni itta.",
+    "ja": "夏休み、家族でキャンプに行った。",
+    "english": "We went camping as a family over the summer break."
+   },
+   "examplePolite": {
+    "romaji": "natsuyasumi, kazoku de kyanpu ni ikimashita.",
+    "ja": "夏休み、家族でキャンプに行きました。",
+    "english": "We went camping as a family over the summer break."
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-shiken-o-ukeru",
+   "romaji": "shiken o ukeru",
+   "english": "take an exam",
+   "chunk": "Exams and results",
+   "recent": true
+  },
+  {
+   "id": "c-ten-o-toru",
+   "romaji": "ten o toru",
+   "english": "score, get marks (on a test)",
+   "chunk": "Exams and results",
+   "recent": true
+  },
+  {
+   "id": "c-kekka-ga-deru",
+   "romaji": "kekka ga deru",
+   "english": "the results come out",
+   "chunk": "Exams and results",
+   "recent": true
+  },
+  {
+   "id": "c-shiken-ni-ukaru",
+   "romaji": "shiken ni ukaru",
+   "english": "pass an exam",
+   "chunk": "Exams and results",
+   "recent": true
+  },
+  {
+   "id": "c-shiken-ni-ochiru",
+   "romaji": "shiken ni ochiru",
+   "english": "fail an exam",
+   "chunk": "Exams and results",
+   "recent": true
+  },
+  {
+   "id": "c-okane-o-orosu",
+   "romaji": "okane o orosu",
+   "english": "withdraw cash",
+   "chunk": "Out on errands",
+   "recent": true
+  },
+  {
+   "id": "c-mise-ga-aku",
+   "romaji": "mise ga aku",
+   "english": "a shop opens (aiteru = is open)",
+   "chunk": "Out on errands",
+   "recent": true
+  },
+  {
+   "id": "c-mise-ga-shimaru",
+   "romaji": "mise ga shimaru",
+   "english": "a shop closes (shimatteru = is closed)",
+   "chunk": "Out on errands",
+   "recent": true
+  },
+  {
+   "id": "c-junban-o-matsu",
+   "romaji": "junban o matsu",
+   "english": "wait your turn",
+   "chunk": "Out on errands",
+   "recent": true
+  },
+  {
+   "id": "c-karada-ni-ii",
+   "romaji": "karada ni ii",
+   "english": "good for you, healthy",
+   "chunk": "Long-term health",
+   "recent": true
+  },
+  {
+   "id": "c-toshi-o-toru",
+   "romaji": "toshi o toru",
+   "english": "get older, age",
+   "chunk": "Long-term health",
+   "recent": true
+  },
+  {
+   "id": "c-tabako-o-yameru",
+   "romaji": "tabako o yameru",
+   "english": "quit smoking",
+   "chunk": "Long-term health",
+   "recent": true
+  },
+  {
+   "id": "c-arerugii-ga-aru",
+   "romaji": "arerugii ga aru",
+   "english": "be allergic (to something)",
+   "chunk": "Long-term health",
+   "recent": true
+  },
+  {
+   "id": "c-yaruki-ga-nai",
+   "romaji": "yaruki ga nai",
+   "english": "have no motivation, can't be bothered",
+   "chunk": "Motivation and mood",
+   "recent": true
+  },
+  {
+   "id": "c-yaruki-ga-deru",
+   "romaji": "yaruki ga deru",
+   "english": "get motivated",
+   "chunk": "Motivation and mood",
+   "recent": true
+  },
+  {
+   "id": "c-genki-ga-deru",
+   "romaji": "genki ga deru",
+   "english": "perk up, get a lift",
+   "chunk": "Motivation and mood",
+   "recent": true
+  },
+  {
+   "id": "c-tenshon-ga-agaru",
+   "romaji": "tenshon ga agaru",
+   "english": "get excited, get hyped",
+   "chunk": "Motivation and mood",
+   "recent": true
+  },
+  {
+   "id": "c-sutoresu-ga-tamaru",
+   "romaji": "sutoresu ga tamaru",
+   "english": "get stressed, stress builds up",
+   "chunk": "Motivation and mood",
+   "recent": true
+  },
+  {
+   "id": "c-reizouko-ni-ireru",
+   "romaji": "reizouko ni ireru",
+   "english": "put in the fridge",
+   "chunk": "Fridge and microwave",
+   "recent": true
+  },
+  {
+   "id": "c-bentou-o-atatameru",
+   "romaji": "obentou o atatameru",
+   "english": "heat up a boxed lunch",
+   "chunk": "Fridge and microwave",
+   "recent": true
+  },
+  {
+   "id": "c-futa-o-suru",
+   "romaji": "futa o suru",
+   "english": "put the lid on",
+   "chunk": "Fridge and microwave",
+   "recent": true
+  },
+  {
+   "id": "c-kigen-ga-kireru",
+   "romaji": "kigen ga kireru",
+   "english": "expire, be past its date",
+   "chunk": "Fridge and microwave",
+   "recent": true
+  },
+  {
+   "id": "c-baka-ni-suru",
+   "romaji": "baka ni suru",
+   "english": "make fun of, look down on",
+   "chunk": "Pride and teasing",
+   "recent": true
+  },
+  {
+   "id": "c-haji-o-kaku",
+   "romaji": "haji o kaku",
+   "english": "embarrass yourself, make a fool of yourself",
+   "chunk": "Pride and teasing",
+   "recent": true
+  },
+  {
+   "id": "c-kakkou-o-tsukeru",
+   "romaji": "kakko tsukeru",
+   "english": "show off, act cool",
+   "chunk": "Pride and teasing",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "kenta",
+   "satou"
+  ],
+  "format": "monologue"
+ }
+}

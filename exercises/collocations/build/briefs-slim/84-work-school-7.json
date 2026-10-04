@@ -1,0 +1,357 @@
+{
+ "script": 84,
+ "of": 94,
+ "stage": 4,
+ "chunkId": "work-school-7",
+ "label": "University and jobs",
+ "topic": "Work & school",
+ "rationale": "Getting in somewhere: looking for work, finding it, entering a university or company, the experience you bring.",
+ "mixUps": "Looking is shigoto o sagasu (o) but finding is shigoto ga mitsukaru (ga); daigaku and kaisha both take ni hairu, and keiken takes ga aru, not motsu.",
+ "targets": [
+  {
+   "id": "c-shigoto-o-sagasu",
+   "romaji": "shigoto o sagasu",
+   "polite": "shigoto o sagashimasu",
+   "english": "look for a job",
+   "ja": "仕事を探す",
+   "kana": "しごとをさがす",
+   "politeJa": "仕事を探します",
+   "noun": "shigoto",
+   "particle": "o",
+   "verb": "sagasu",
+   "verbJa": "探す",
+   "verbSense": "look for, search",
+   "englishVerb": "look for",
+   "trap": null,
+   "partners": [
+    "baito (part-time job)",
+    "heya (a flat to rent)"
+   ],
+   "flags": [],
+   "use": "Said about job hunting, mostly in -teru: ima shigoto sagashiteru (I'm looking for work). Casual speech drops o.",
+   "notes": "Changing jobs is tenshoku suru; students' job hunting is shuukatsu.",
+   "example": {
+    "romaji": "ima atarashii shigoto sagashiteru n da.",
+    "ja": "今新しい仕事探してるんだ。",
+    "english": "I'm looking for a new job right now."
+   },
+   "examplePolite": {
+    "romaji": "ima atarashii shigoto o sagashiteru n desu.",
+    "ja": "今新しい仕事を探してるんです。",
+    "english": "I'm looking for a new job right now."
+   }
+  },
+  {
+   "id": "c-shigoto-ga-mitsukaru",
+   "romaji": "shigoto ga mitsukaru",
+   "polite": "shigoto ga mitsukarimasu",
+   "english": "find a job",
+   "ja": "仕事が見つかる",
+   "kana": "しごとがみつかる",
+   "politeJa": "仕事が見つかります",
+   "noun": "shigoto",
+   "particle": "ga",
+   "verb": "mitsukaru",
+   "verbJa": "見つかる",
+   "verbSense": "be found, turn up (intransitive of mitsukeru)",
+   "englishVerb": "find",
+   "trap": null,
+   "partners": [
+    "baito (part-time job)",
+    "heya (a flat to rent)"
+   ],
+   "flags": [],
+   "use": "The usual way to share or ask job news, almost always in the past: atarashii shigoto mitsukatta? Casual speech drops ga, and mada mitsukaranai means you're still looking.",
+   "notes": "Both work: shigoto mitsuketa (I found one) and shigoto mitsukatta (one turned up); the question is usually mitsukatta? Congratulating: shigoto mitsukatte yokatta ne.",
+   "example": {
+    "romaji": "yatto shigoto mitsukatta!",
+    "ja": "やっと仕事見つかった！",
+    "english": "I finally found a job!"
+   },
+   "examplePolite": {
+    "romaji": "yatto shigoto ga mitsukarimashita!",
+    "ja": "やっと仕事が見つかりました！",
+    "english": "I finally found a job!"
+   }
+  },
+  {
+   "id": "c-daigaku-ni-hairu",
+   "romaji": "daigaku ni hairu",
+   "polite": "daigaku ni hairimasu",
+   "english": "get into university, start university",
+   "ja": "大学に入る",
+   "kana": "だいがくにはいる",
+   "politeJa": "大学に入ります",
+   "noun": "daigaku",
+   "particle": "ni",
+   "verb": "hairu",
+   "verbJa": "入る",
+   "verbSense": "go in, enter; join (a school, company or club)",
+   "englishVerb": "start",
+   "trap": "'Start university' tempts daigaku o hajimeru. You enter a school: daigaku ni hairu (formally nyuugaku suru). Going there day to day is daigaku ni iku or kayou.",
+   "partners": [
+    "koukou (high school)",
+    "senmon gakkou (vocational school)",
+    "daigakuin (graduate school)"
+   ],
+   "flags": [],
+   "use": "Said in life stories, often as haitte kara (since I started) or haitta toki (when I started). Casual speech can drop ni; passing the entrance exam itself is daigaku ni ukaru.",
+   "notes": "Graduating is daigaku o deru or sotsugyou suru.",
+   "example": {
+    "romaji": "daigaku haitte kara hitorigurashi shiteru.",
+    "ja": "大学入ってから一人暮らししてる。",
+    "english": "I've lived alone since I started university."
+   },
+   "examplePolite": {
+    "romaji": "daigaku ni haitte kara hitorigurashi o shitemasu.",
+    "ja": "大学に入ってから一人暮らしをしてます。",
+    "english": "I've lived alone since I started university."
+   }
+  },
+  {
+   "id": "c-kaisha-ni-hairu",
+   "romaji": "kaisha ni hairu",
+   "polite": "kaisha ni hairimasu",
+   "english": "join a company",
+   "ja": "会社に入る",
+   "kana": "かいしゃにはいる",
+   "politeJa": "会社に入ります",
+   "noun": "kaisha",
+   "particle": "ni",
+   "verb": "hairu",
+   "verbJa": "入る",
+   "verbSense": "go in, enter; join (a school, company or club)",
+   "englishVerb": "join",
+   "trap": "'Join a company' tempts sanka suru, which is taking part in an event. Joining a firm, school or club is hairu: kaisha ni haitta.",
+   "partners": [
+    "bukatsu (school club)",
+    "saakuru (university club)",
+    "jimusho (a firm, an agency)"
+   ],
+   "flags": [],
+   "use": "Said in self-introductions and work history: kono kaisha ni haitte sannen (three years since I joined). Casual speech can drop ni; the formal word is nyuusha suru.",
+   "notes": "Leaving for good is kaisha o yameru; kaisha ni iku is just going to the office.",
+   "example": {
+    "romaji": "kono kaisha haitte, mou sannen.",
+    "ja": "この会社入って、もう三年。",
+    "english": "It's been three years since I joined this company."
+   },
+   "examplePolite": {
+    "romaji": "kono kaisha ni haitte, mou sannen desu.",
+    "ja": "この会社に入って、もう三年です。",
+    "english": "It's been three years since I joined this company."
+   }
+  },
+  {
+   "id": "c-keiken-ga-aru",
+   "romaji": "keiken ga aru",
+   "polite": "keiken ga arimasu",
+   "english": "have experience",
+   "ja": "経験がある",
+   "kana": "けいけんがある",
+   "politeJa": "経験があります",
+   "noun": "keiken",
+   "particle": "ga",
+   "verb": "aru",
+   "verbJa": "ある",
+   "verbSense": "there is; have (things, a background)",
+   "englishVerb": "have",
+   "trap": "'Have experience' tempts keiken o motteru, which sounds like a CV. Experience exists: keiken aru? For one thing you've done once, -ta koto aru is more natural: itta koto aru?",
+   "partners": [
+    "shikaku (qualification)",
+    "menkyo (licence)",
+    "buranku (a gap in your work history: buranku ga aru)"
+   ],
+   "flags": [],
+   "use": "Said in job talk and about life, usually with what kind before it: baito no keiken aru? Casual speech drops ga, and the negative keiken nai (I've never done it) is common too.",
+   "notes": "After a trip or a hard time: ii keiken ni natta (it was a good experience).",
+   "example": {
+    "romaji": "kou iu shigoto no keiken aru?",
+    "ja": "こういう仕事の経験ある？",
+    "english": "Have you done this kind of work before?"
+   },
+   "examplePolite": {
+    "romaji": "kou iu shigoto no keiken wa arimasu ka?",
+    "ja": "こういう仕事の経験はありますか？",
+    "english": "Do you have experience with this kind of work?"
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-reizouko-ni-ireru",
+   "romaji": "reizouko ni ireru",
+   "english": "put in the fridge",
+   "chunk": "Fridge and microwave",
+   "recent": true
+  },
+  {
+   "id": "c-bentou-o-atatameru",
+   "romaji": "obentou o atatameru",
+   "english": "heat up a boxed lunch",
+   "chunk": "Fridge and microwave",
+   "recent": true
+  },
+  {
+   "id": "c-futa-o-suru",
+   "romaji": "futa o suru",
+   "english": "put the lid on",
+   "chunk": "Fridge and microwave",
+   "recent": true
+  },
+  {
+   "id": "c-kigen-ga-kireru",
+   "romaji": "kigen ga kireru",
+   "english": "expire, be past its date",
+   "chunk": "Fridge and microwave",
+   "recent": true
+  },
+  {
+   "id": "c-baka-ni-suru",
+   "romaji": "baka ni suru",
+   "english": "make fun of, look down on",
+   "chunk": "Pride and teasing",
+   "recent": true
+  },
+  {
+   "id": "c-haji-o-kaku",
+   "romaji": "haji o kaku",
+   "english": "embarrass yourself, make a fool of yourself",
+   "chunk": "Pride and teasing",
+   "recent": true
+  },
+  {
+   "id": "c-kakkou-o-tsukeru",
+   "romaji": "kakko tsukeru",
+   "english": "show off, act cool",
+   "chunk": "Pride and teasing",
+   "recent": true
+  },
+  {
+   "id": "c-karada-o-ugokasu",
+   "romaji": "karada o ugokasu",
+   "english": "get some exercise, move your body",
+   "chunk": "Exercise and outdoors",
+   "recent": true
+  },
+  {
+   "id": "c-kibarashi-ni-naru",
+   "romaji": "kibun tenkan ni naru",
+   "english": "be a nice change of pace, do someone good",
+   "chunk": "Exercise and outdoors",
+   "recent": true
+  },
+  {
+   "id": "c-yama-ni-noboru",
+   "romaji": "yama ni noboru",
+   "english": "climb a mountain",
+   "chunk": "Exercise and outdoors",
+   "recent": true
+  },
+  {
+   "id": "c-tsuri-ni-iku",
+   "romaji": "tsuri ni iku",
+   "english": "go fishing",
+   "chunk": "Exercise and outdoors",
+   "recent": true
+  },
+  {
+   "id": "c-kyanpu-ni-iku",
+   "romaji": "kyanpu ni iku",
+   "english": "go camping",
+   "chunk": "Exercise and outdoors",
+   "recent": true
+  },
+  {
+   "id": "c-netto-de-shiraberu",
+   "romaji": "netto de shiraberu",
+   "english": "look something up online",
+   "chunk": "Internet and apps",
+   "recent": true
+  },
+  {
+   "id": "c-netto-ga-tsunagaru",
+   "romaji": "netto ga tsunagaru",
+   "english": "the internet connects, works",
+   "chunk": "Internet and apps",
+   "recent": true
+  },
+  {
+   "id": "c-denpa-ga-warui",
+   "romaji": "denpa ga warui",
+   "english": "bad signal, poor reception",
+   "chunk": "Internet and apps",
+   "recent": true
+  },
+  {
+   "id": "c-apuri-o-ireru",
+   "romaji": "apuri o ireru",
+   "english": "install an app, get an app",
+   "chunk": "Internet and apps",
+   "recent": true
+  },
+  {
+   "id": "c-yousu-o-miru",
+   "romaji": "yousu o miru",
+   "english": "wait and see; check on (someone)",
+   "chunk": "Plans and promises",
+   "recent": true
+  },
+  {
+   "id": "c-chuushi-ni-naru",
+   "romaji": "chuushi ni naru",
+   "english": "be called off",
+   "chunk": "Plans and promises",
+   "recent": true
+  },
+  {
+   "id": "c-yakusoku-o-mamoru",
+   "romaji": "yakusoku o mamoru",
+   "english": "keep a promise",
+   "chunk": "Plans and promises",
+   "recent": true
+  },
+  {
+   "id": "c-keikaku-o-tateru",
+   "romaji": "keikaku o tateru",
+   "english": "make a plan",
+   "chunk": "Plans and promises",
+   "recent": true
+  },
+  {
+   "id": "c-boushi-o-kaburu",
+   "romaji": "boushi o kaburu",
+   "english": "wear / put on a hat",
+   "chunk": "Hats and accessories",
+   "recent": true
+  },
+  {
+   "id": "c-yubiwa-o-suru",
+   "romaji": "yubiwa o suru",
+   "english": "wear a ring",
+   "chunk": "Hats and accessories",
+   "recent": true
+  },
+  {
+   "id": "c-nekutai-o-suru",
+   "romaji": "nekutai o suru",
+   "english": "wear a tie",
+   "chunk": "Hats and accessories",
+   "recent": true
+  },
+  {
+   "id": "c-kousui-o-tsukeru",
+   "romaji": "kousui o tsukeru",
+   "english": "wear / put on perfume",
+   "chunk": "Hats and accessories",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "mai",
+   "tanaka"
+  ],
+  "format": "dialogue"
+ }
+}

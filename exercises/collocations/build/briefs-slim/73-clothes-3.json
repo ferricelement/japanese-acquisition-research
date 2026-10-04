@@ -1,0 +1,340 @@
+{
+ "script": 73,
+ "of": 94,
+ "stage": 4,
+ "chunkId": "clothes-3",
+ "label": "Masks and glasses",
+ "topic": "Clothes & wearing",
+ "rationale": "Two on/off pairs for the face: a mask goes on with suru, glasses with kakeru, and both come off with hazusu.",
+ "mixUps": "suru vs kakeru for putting on, one shared hazusu for taking off; never nugu, which is for clothes and shoes.",
+ "targets": [
+  {
+   "id": "c-masuku-o-suru",
+   "romaji": "masuku o suru",
+   "polite": "masuku o shimasu",
+   "english": "wear a mask",
+   "ja": "マスクをする",
+   "kana": "マスクをする",
+   "politeJa": "マスクをします",
+   "noun": "masuku",
+   "particle": "o",
+   "verb": "suru",
+   "verbJa": "する",
+   "verbSense": "do; with small worn items, have on",
+   "englishVerb": "wear",
+   "trap": "Not masuku o kiru: small worn items (mask, watch, scarf, tie) just take suru, as in masuku shiteru. masuku o tsukeru is also fine and a little more formal; masuku o kakeru is heard from some speakers too.",
+   "partners": [
+    "tokei (watch)",
+    "mafuraa (scarf)",
+    "tebukuro (gloves)",
+    "beruto (belt)"
+   ],
+   "flags": [],
+   "use": "Usually masuku shiteru (is wearing a mask); casual speech drops o.",
+   "notes": "Off: masuku o hazusu or toru. The same suru goes with a ring or a tie (yubiwa o suru, nekutai o suru). tsukeru is the catch-all for things put on the body: nekkuresu / piasu / kousui o tsukeru (necklace, earrings, perfume). A scarf is also mafuraa o maku (wrap it).",
+   "example": {
+    "romaji": "kaze hiita kara masuku shiteru.",
+    "ja": "風邪ひいたからマスクしてる。",
+    "english": "I've got a cold, so I'm wearing a mask."
+   },
+   "examplePolite": {
+    "romaji": "kaze o hiita node, masuku o shitemasu.",
+    "ja": "風邪をひいたので、マスクをしてます。",
+    "english": "I've caught a cold, so I'm wearing a mask."
+   }
+  },
+  {
+   "id": "c-masuku-o-hazusu",
+   "romaji": "masuku o hazusu",
+   "polite": "masuku o hazushimasu",
+   "english": "take off a mask",
+   "ja": "マスクを外す",
+   "kana": "マスクをはずす",
+   "politeJa": "マスクを外します",
+   "noun": "masuku",
+   "particle": "o",
+   "verb": "hazusu",
+   "verbJa": "外す",
+   "verbSense": "remove, unfasten, detach",
+   "englishVerb": "take off",
+   "trap": "Not masuku o nugu for a face mask: nugu is for clothes and shoes. Masks, glasses, watches and rings come off with hazusu; casual toru (masuku totte) is just as everyday, though masuku totte can also mean 'pass me a mask'.",
+   "partners": [
+    "megane (glasses)",
+    "tokei (watch)",
+    "iyahon (earphones)",
+    "shiitoberuto (seatbelt)"
+   ],
+   "flags": [],
+   "use": "Mostly heard as masuku hazushite (take your mask off) or hazushite mo ii? (OK if I take it off?). masuku hazushita kao (someone's face without the mask) comes up a lot too, as in masuku hazushita kao hajimete mita (first time I've seen your face without the mask). masuku hazushiteru means the mask is already off. Casual speech drops o.",
+   "notes": "Putting one on is masuku o suru (or tsukeru). A mask pulled down under the chin is an ago masuku. A full-head costume or wrestler's mask is the one you nugu.",
+   "example": {
+    "romaji": "koko de masuku hazushite mo ii?",
+    "ja": "ここでマスク外してもいい？",
+    "english": "Is it OK to take my mask off here?"
+   },
+   "examplePolite": {
+    "romaji": "koko de masuku o hazushite mo ii desu ka?",
+    "ja": "ここでマスクを外してもいいですか？",
+    "english": "May I take my mask off here?"
+   }
+  },
+  {
+   "id": "c-megane-o-kakeru",
+   "romaji": "megane o kakeru",
+   "polite": "megane o kakemasu",
+   "english": "wear / put on glasses",
+   "ja": "眼鏡をかける",
+   "kana": "めがねをかける",
+   "politeJa": "眼鏡をかけます",
+   "noun": "megane",
+   "particle": "o",
+   "verb": "kakeru",
+   "verbJa": "かける",
+   "verbSense": "hang or put something onto something",
+   "englishVerb": "wear",
+   "trap": "Not megane o kiru: glasses hang on the ears, so the verb is kakeru. Casual megane shiteru is also common.",
+   "partners": [
+    "sangurasu (sunglasses)"
+   ],
+   "flags": [],
+   "use": "Most often megane kaketeru (wears glasses), which describes a person, not the act of putting them on. Casual speech drops o.",
+   "notes": "Off: megane o hazusu, the same verb as masuku o hazusu. Contact lenses go in: kontakuto o ireru (or tsukeru).",
+   "example": {
+    "romaji": "ano megane kaketeru hito, dare?",
+    "ja": "あの眼鏡かけてる人、誰？",
+    "english": "Who's that person with the glasses?"
+   },
+   "examplePolite": {
+    "romaji": "ano megane o kaketeru hito wa dare desu ka?",
+    "ja": "あの眼鏡をかけてる人は誰ですか？",
+    "english": "Who is that person wearing glasses?"
+   }
+  },
+  {
+   "id": "c-megane-o-hazusu",
+   "romaji": "megane o hazusu",
+   "polite": "megane o hazushimasu",
+   "english": "take off glasses",
+   "ja": "眼鏡を外す",
+   "kana": "めがねをはずす",
+   "politeJa": "眼鏡を外します",
+   "noun": "megane",
+   "particle": "o",
+   "verb": "hazusu",
+   "verbJa": "外す",
+   "verbSense": "remove, unfasten, detach",
+   "englishVerb": "take off",
+   "trap": "Not megane o nugu: nugu is for things you are dressed in (clothes, shoes, hats, gloves). Glasses, watches, masks, rings and earrings come off with hazusu. English 'take off' leading to toru is fine in casual speech (megane totte, masuku totte); hazusu is the neutral verb.",
+   "partners": [
+    "masuku (mask)",
+    "tokei (watch)",
+    "yubiwa (ring)",
+    "nekutai (tie)"
+   ],
+   "flags": [],
+   "use": "Often megane hazushite (take your glasses off) or hazusu to (when I take them off). The same verb takes off masks, watches and rings.",
+   "notes": "Contact lenses come out with kontakuto o hazusu or toru.",
+   "example": {
+    "romaji": "megane hazusu to nani mo mienai.",
+    "ja": "眼鏡外すと何も見えない。",
+    "english": "I can't see a thing without my glasses."
+   },
+   "examplePolite": {
+    "romaji": "megane o hazusu to, nani mo mienai n desu.",
+    "ja": "眼鏡を外すと、何も見えないんです。",
+    "english": "I can't see a thing without my glasses."
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-hidari-ni-magaru",
+   "romaji": "hidari ni magaru",
+   "english": "turn left",
+   "chunk": "Finding the way",
+   "recent": true
+  },
+  {
+   "id": "c-kado-o-magaru",
+   "romaji": "kado o magaru",
+   "english": "turn at the corner",
+   "chunk": "Finding the way",
+   "recent": true
+  },
+  {
+   "id": "c-michi-ni-mayou",
+   "romaji": "michi ni mayou",
+   "english": "get lost",
+   "chunk": "Finding the way",
+   "recent": true
+  },
+  {
+   "id": "c-michi-o-machigaeru",
+   "romaji": "michi o machigaeru",
+   "english": "go the wrong way",
+   "chunk": "Finding the way",
+   "recent": true
+  },
+  {
+   "id": "c-maigo-ni-naru",
+   "romaji": "maigo ni naru",
+   "english": "get lost (wander off, like a lost child)",
+   "chunk": "Finding the way",
+   "recent": true
+  },
+  {
+   "id": "c-shukudai-o-suru",
+   "romaji": "shukudai o suru",
+   "english": "do homework",
+   "chunk": "Homework and grades",
+   "recent": true
+  },
+  {
+   "id": "c-shukudai-o-dasu",
+   "romaji": "shukudai o dasu",
+   "english": "hand in homework",
+   "chunk": "Homework and grades",
+   "recent": true
+  },
+  {
+   "id": "c-mondai-o-toku",
+   "romaji": "mondai o toku",
+   "english": "solve a question, do problems",
+   "chunk": "Homework and grades",
+   "recent": true
+  },
+  {
+   "id": "c-seiseki-ga-ii",
+   "romaji": "seiseki ga ii",
+   "english": "have good grades, do well at school",
+   "chunk": "Homework and grades",
+   "recent": true
+  },
+  {
+   "id": "c-hi-ga-kureru",
+   "romaji": "hi ga kureru",
+   "english": "it gets dark (evening)",
+   "chunk": "Sun and moon",
+   "recent": true
+  },
+  {
+   "id": "c-hi-ga-noboru",
+   "romaji": "hi ga noboru",
+   "english": "the sun rises, comes up",
+   "chunk": "Sun and moon",
+   "recent": true
+  },
+  {
+   "id": "c-hi-ga-shizumu",
+   "romaji": "hi ga shizumu",
+   "english": "the sun sets, goes down",
+   "chunk": "Sun and moon",
+   "recent": true
+  },
+  {
+   "id": "c-tsuki-ga-deru",
+   "romaji": "tsuki ga deru",
+   "english": "the moon comes out",
+   "chunk": "Sun and moon",
+   "recent": true
+  },
+  {
+   "id": "c-ocha-o-ireru",
+   "romaji": "ocha o ireru",
+   "english": "make tea",
+   "chunk": "Breakfast",
+   "recent": true
+  },
+  {
+   "id": "c-satou-o-ireru",
+   "romaji": "satou o ireru",
+   "english": "put sugar in, add sugar",
+   "chunk": "Breakfast",
+   "recent": true
+  },
+  {
+   "id": "c-pan-o-yaku",
+   "romaji": "pan o yaku",
+   "english": "toast bread; bake bread",
+   "chunk": "Breakfast",
+   "recent": true
+  },
+  {
+   "id": "c-asagohan-o-nuku",
+   "romaji": "asagohan o nuku",
+   "english": "skip breakfast",
+   "chunk": "Breakfast",
+   "recent": true
+  },
+  {
+   "id": "c-kaji-o-suru",
+   "romaji": "kaji o suru",
+   "english": "do the housework",
+   "chunk": "Housework and laundry",
+   "recent": true
+  },
+  {
+   "id": "c-sentakumono-o-hosu",
+   "romaji": "sentakumono o hosu",
+   "english": "hang out the laundry",
+   "chunk": "Housework and laundry",
+   "recent": true
+  },
+  {
+   "id": "c-sentakumono-ga-kawaku",
+   "romaji": "sentakumono ga kawaku",
+   "english": "the laundry dries",
+   "chunk": "Housework and laundry",
+   "recent": true
+  },
+  {
+   "id": "c-fuku-o-tatamu",
+   "romaji": "fuku o tatamu",
+   "english": "fold clothes",
+   "chunk": "Housework and laundry",
+   "recent": true
+  },
+  {
+   "id": "c-soujiki-o-kakeru",
+   "romaji": "soujiki o kakeru",
+   "english": "vacuum (the floor)",
+   "chunk": "Housework and laundry",
+   "recent": true
+  },
+  {
+   "id": "c-dengen-o-kiru",
+   "romaji": "dengen o kiru",
+   "english": "turn off (a phone or device)",
+   "chunk": "Power, battery, sound",
+   "recent": true
+  },
+  {
+   "id": "c-dengen-o-ireru",
+   "romaji": "dengen o ireru",
+   "english": "turn on (a phone or device)",
+   "chunk": "Power, battery, sound",
+   "recent": true
+  },
+  {
+   "id": "c-juuden-ga-kireru",
+   "romaji": "juuden ga kireru",
+   "english": "battery runs out, dies",
+   "chunk": "Power, battery, sound",
+   "recent": true
+  },
+  {
+   "id": "c-oto-ga-deru",
+   "romaji": "oto ga deru",
+   "english": "sound comes out (of a TV, speaker, phone)",
+   "chunk": "Power, battery, sound",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "yuki",
+   "mai"
+  ],
+  "format": "dialogue"
+ }
+}

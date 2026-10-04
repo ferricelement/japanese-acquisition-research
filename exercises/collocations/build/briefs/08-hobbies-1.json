@@ -1,0 +1,389 @@
+{
+ "script": 8,
+ "of": 94,
+ "stage": 1,
+ "chunkId": "hobbies-1",
+ "label": "Read, watch, sing, draw",
+ "topic": "Hobbies, sport & games",
+ "rationale": "The everyday pastimes whose English verb carries straight across: a book is read, a film watched, a song sung, a picture drawn or painted.",
+ "mixUps": "Little between them. e o kaku uses the same sound as kaku (write) and covers painting too, never hiku as in sen o hiku (draw a line). miru is 'watch' for films and TV alike (eiga mita, terebi miteru).",
+ "targets": [
+  {
+   "id": "c-hon-o-yomu",
+   "romaji": "hon o yomu",
+   "polite": "hon o yomimasu",
+   "english": "read a book",
+   "ja": "本を読む",
+   "kana": "ほんをよむ",
+   "politeJa": "本を読みます",
+   "noun": "hon",
+   "particle": "o",
+   "verb": "yomu",
+   "verbJa": "読む",
+   "verbSense": "read, silently or aloud",
+   "englishVerb": "read",
+   "trap": null,
+   "partners": [
+    "manga (comics)",
+    "shousetsu (novel)",
+    "zasshi (magazine)",
+    "shinbun (newspaper)"
+   ],
+   "flags": [],
+   "use": "Said about reading as a habit or right now: hon toka yomu? asks if someone reads, and hon yonderu is 'is reading' (or, with mainichi, 'reads every day'). Casual speech drops o, as in hon yomu no suki (I like reading).",
+   "notes": "Reading named as a hobby is dokusho (shumi wa dokusho desu); in chat, hon yomu no ga suki sounds more natural.",
+   "example": {
+    "romaji": "saikin nanka omoshiroi hon yonda?",
+    "ja": "最近なんか面白い本読んだ？",
+    "english": "Read any good books lately?"
+   },
+   "examplePolite": {
+    "romaji": "saikin nanika omoshiroi hon o yomimashita ka?",
+    "ja": "最近何か面白い本を読みましたか？",
+    "english": "Have you read any good books lately?"
+   }
+  },
+  {
+   "id": "c-eiga-o-miru",
+   "romaji": "eiga o miru",
+   "polite": "eiga o mimasu",
+   "english": "watch a movie",
+   "ja": "映画を見る",
+   "kana": "えいがをみる",
+   "politeJa": "映画を見ます",
+   "noun": "eiga",
+   "particle": "o",
+   "verb": "miru",
+   "verbJa": "見る",
+   "verbSense": "see, look at, watch",
+   "englishVerb": "watch",
+   "trap": "'Not yet' is mada mitenai, not mada minai, which means 'I'm not going to watch it yet'.",
+   "partners": [
+    "dorama (TV drama)",
+    "anime (anime)",
+    "douga (online video)",
+    "terebi (TV)"
+   ],
+   "flags": [],
+   "use": "Said about films at home or at the cinema, often without o in casual speech (eiga miru). 'Have you seen it yet?' is the past tense mou mita?, and 'have you ever seen it?' is mita koto aru?",
+   "notes": "Going to the cinema is its own set, eiga ni iku. The invitation is eiga ikanai? or eiga mi ni ikanai?, which mean the same.",
+   "example": {
+    "romaji": "ano eiga, mou mita?",
+    "ja": "あの映画、もう見た？",
+    "english": "Have you seen that movie yet?"
+   },
+   "examplePolite": {
+    "romaji": "ano eiga, mou mimashita ka?",
+    "ja": "あの映画、もう見ましたか？",
+    "english": "Have you seen that movie yet?"
+   }
+  },
+  {
+   "id": "c-uta-o-utau",
+   "romaji": "uta o utau",
+   "polite": "uta o utaimasu",
+   "english": "sing a song",
+   "ja": "歌を歌う",
+   "kana": "うたをうたう",
+   "politeJa": "歌を歌います",
+   "noun": "uta",
+   "particle": "o",
+   "verb": "utau",
+   "verbJa": "歌う",
+   "verbSense": "sing",
+   "englishVerb": "sing",
+   "trap": null,
+   "partners": [
+    "kyoku (song, track)",
+    "hanauta (a hummed tune: hanauta utatteru)"
+   ],
+   "flags": [],
+   "use": "utau already means sing, so uta is often dropped when the song is obvious, as in karaoke de nani utau? (what'll you sing at karaoke?). The full uta (o) utau is for singing in general: uta utau no suki (I like singing).",
+   "notes": "Praise usually names uta: uta umai ne! (casual) or uta ga ojouzu desu ne (polite), both meaning 'you're a great singer'. utau no umai ne is also fine.",
+   "example": {
+    "romaji": "ofuro de uta utau no suki.",
+    "ja": "お風呂で歌うたうの好き。",
+    "english": "I like singing in the bath."
+   },
+   "examplePolite": {
+    "romaji": "ofuro de uta o utau no ga suki desu.",
+    "ja": "お風呂で歌を歌うのが好きです。",
+    "english": "I like singing in the bath."
+   }
+  },
+  {
+   "id": "c-e-o-kaku",
+   "romaji": "e o kaku",
+   "polite": "e o kakimasu",
+   "english": "draw or paint a picture",
+   "ja": "絵を描く",
+   "kana": "えをかく",
+   "politeJa": "絵を描きます",
+   "noun": "e",
+   "particle": "o",
+   "verb": "kaku",
+   "verbJa": "描く",
+   "verbSense": "draw or paint a picture; it sounds the same as kaku (write)",
+   "englishVerb": "draw",
+   "trap": "Not e o hiku (hiku draws a line: sen o hiku) or e o nuru (nuru paints a surface). A picture takes kaku whether it is drawn or painted.",
+   "partners": [
+    "manga (comics)",
+    "irasuto (illustration)",
+    "chizu (map)"
+   ],
+   "flags": [],
+   "use": "Use it for drawing or painting a picture, as a hobby or right now. Casually o is dropped: e kaiteru means you are drawing now or draw as a hobby.",
+   "notes": "egaku is the written reading of the same kanji; in conversation it is kaku.",
+   "example": {
+    "romaji": "e kaku no suki?",
+    "ja": "絵描くの好き？",
+    "english": "Do you like drawing?"
+   },
+   "examplePolite": {
+    "romaji": "e o kaku no ga suki desu ka?",
+    "ja": "絵を描くのが好きですか？",
+    "english": "Do you like drawing?"
+   }
+  }
+ ],
+ "reviewPool": [
+  {
+   "id": "c-ame-ga-furu",
+   "romaji": "ame ga furu",
+   "english": "it rains; rain falls",
+   "chunk": "Rain and snow",
+   "recent": false
+  },
+  {
+   "id": "c-yuki-ga-furu",
+   "romaji": "yuki ga furu",
+   "english": "it snows",
+   "chunk": "Rain and snow",
+   "recent": false
+  },
+  {
+   "id": "c-ame-ga-yamu",
+   "romaji": "ame ga yamu",
+   "english": "the rain stops",
+   "chunk": "Rain and snow",
+   "recent": false
+  },
+  {
+   "id": "c-kasa-o-sasu",
+   "romaji": "kasa o sasu",
+   "english": "put up (open) an umbrella; have an umbrella up",
+   "chunk": "Rain and snow",
+   "recent": false
+  },
+  {
+   "id": "c-ame-ni-furareru",
+   "romaji": "ame ni furareru",
+   "english": "get caught in the rain",
+   "chunk": "Rain and snow",
+   "recent": false
+  },
+  {
+   "id": "c-onaka-ga-suku",
+   "romaji": "onaka ga suku",
+   "english": "get hungry",
+   "chunk": "Hungry, full, thirsty",
+   "recent": true
+  },
+  {
+   "id": "c-onaka-ga-ippai",
+   "romaji": "onaka ga ippai",
+   "english": "be full (after eating)",
+   "chunk": "Hungry, full, thirsty",
+   "recent": true
+  },
+  {
+   "id": "c-nodo-ga-kawaku",
+   "romaji": "nodo ga kawaku",
+   "english": "get thirsty",
+   "chunk": "Hungry, full, thirsty",
+   "recent": true
+  },
+  {
+   "id": "c-onaka-ga-heru",
+   "romaji": "onaka ga heru",
+   "english": "get hungry (blunter, casual)",
+   "chunk": "Hungry, full, thirsty",
+   "recent": true
+  },
+  {
+   "id": "c-uchi-ni-kaeru",
+   "romaji": "uchi ni kaeru",
+   "english": "go home, get home",
+   "chunk": "Out and back",
+   "recent": true
+  },
+  {
+   "id": "c-uchi-o-deru",
+   "romaji": "uchi o deru",
+   "english": "leave the house",
+   "chunk": "Out and back",
+   "recent": true
+  },
+  {
+   "id": "c-soto-ni-deru",
+   "romaji": "soto ni deru",
+   "english": "go outside, step out",
+   "chunk": "Out and back",
+   "recent": true
+  },
+  {
+   "id": "c-kaimono-ni-iku",
+   "romaji": "kaimono ni iku",
+   "english": "go shopping",
+   "chunk": "Out and back",
+   "recent": true
+  },
+  {
+   "id": "c-kaeri-ga-osoi",
+   "romaji": "kaeri ga osoi",
+   "english": "get home late",
+   "chunk": "Out and back",
+   "recent": true
+  },
+  {
+   "id": "c-se-ga-takai",
+   "romaji": "se ga takai",
+   "english": "be tall",
+   "chunk": "Looks and voice",
+   "recent": true
+  },
+  {
+   "id": "c-se-ga-hikui",
+   "romaji": "se ga hikui",
+   "english": "be short (height)",
+   "chunk": "Looks and voice",
+   "recent": true
+  },
+  {
+   "id": "c-koe-ga-ookii",
+   "romaji": "koe ga ookii",
+   "english": "have a loud voice, be loud",
+   "chunk": "Looks and voice",
+   "recent": true
+  },
+  {
+   "id": "c-kami-ga-nagai",
+   "romaji": "kami ga nagai",
+   "english": "have long hair",
+   "chunk": "Looks and voice",
+   "recent": true
+  },
+  {
+   "id": "c-sutairu-ga-ii",
+   "romaji": "sutairu ga ii",
+   "english": "have a good figure",
+   "chunk": "Looks and voice",
+   "recent": true
+  },
+  {
+   "id": "c-densha-ni-noru",
+   "romaji": "densha ni noru",
+   "english": "ride / get on the train",
+   "chunk": "Getting on and off",
+   "recent": true
+  },
+  {
+   "id": "c-basu-ni-noru",
+   "romaji": "basu ni noru",
+   "english": "take the bus",
+   "chunk": "Getting on and off",
+   "recent": true
+  },
+  {
+   "id": "c-kuruma-ni-noru",
+   "romaji": "kuruma ni noru",
+   "english": "get in / ride in a car",
+   "chunk": "Getting on and off",
+   "recent": true
+  },
+  {
+   "id": "c-densha-o-oriru",
+   "romaji": "densha o oriru",
+   "english": "get off the train",
+   "chunk": "Getting on and off",
+   "recent": true
+  },
+  {
+   "id": "c-jitensha-ni-noru",
+   "romaji": "jitensha ni noru",
+   "english": "ride a bike",
+   "chunk": "Getting on and off",
+   "recent": true
+  },
+  {
+   "id": "c-gakkou-ni-iku",
+   "romaji": "gakkou ni iku",
+   "english": "go to school",
+   "chunk": "School and work days",
+   "recent": true
+  },
+  {
+   "id": "c-shigoto-ni-iku",
+   "romaji": "shigoto ni iku",
+   "english": "go to work",
+   "chunk": "School and work days",
+   "recent": true
+  },
+  {
+   "id": "c-shigoto-ga-owaru",
+   "romaji": "shigoto ga owaru",
+   "english": "get off work",
+   "chunk": "School and work days",
+   "recent": true
+  },
+  {
+   "id": "c-shigoto-ga-isogashii",
+   "romaji": "shigoto ga isogashii",
+   "english": "be busy with work",
+   "chunk": "School and work days",
+   "recent": true
+  },
+  {
+   "id": "c-kimochi-ga-ii",
+   "romaji": "kimochi ga ii",
+   "english": "feels good, feels nice",
+   "chunk": "Feels good or bad",
+   "recent": true
+  },
+  {
+   "id": "c-kimochi-ga-warui",
+   "romaji": "kimochi ga warui",
+   "english": "feel queasy, feel nauseous; gross, creepy",
+   "chunk": "Feels good or bad",
+   "recent": true
+  },
+  {
+   "id": "c-kibun-ga-ii",
+   "romaji": "kibun ga ii",
+   "english": "be in a good mood; feel well",
+   "chunk": "Feels good or bad",
+   "recent": true
+  },
+  {
+   "id": "c-kigen-ga-warui",
+   "romaji": "kigen ga warui",
+   "english": "be in a bad mood, grumpy",
+   "chunk": "Feels good or bad",
+   "recent": true
+  },
+  {
+   "id": "c-igokochi-ga-ii",
+   "romaji": "igokochi ga ii",
+   "english": "comfortable to be in, cosy",
+   "chunk": "Feels good or bad",
+   "recent": true
+  }
+ ],
+ "suggested": {
+  "cast": [
+   "sora",
+   "mai"
+  ],
+  "format": "dialogue"
+ }
+}
