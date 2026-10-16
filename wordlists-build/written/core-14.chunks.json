@@ -1,0 +1,24 @@
+{
+ "chunks": [
+  {"label": "How your body feels", "rationale": "Lets you say you're sleepy, sick, run-down or itchy, or that something feels good.", "interference": "Kimochi warui is both 'gross' and 'I feel sick'; darui (heavy body) gets mixed with nemui (sleepy).", "members": ["眠い", "気持ち悪い", "気持ちいい", "だるい", "かゆい"], "stage": 1},
+  {"label": "Looks and style", "rationale": "Lets you compliment how people look and what they wear.", "interference": "Kakkoii is cool, oshare is fashionable; oniai is for couples, niau for clothes.", "members": ["かっこいい", "若い", "おしゃれ", "お似合い"], "stage": 1},
+  {"label": "Tough and tiring", "rationale": "Lets you complain that something is a pain, hard, or wearing you out.", "interference": "Tsurai, kitsui and shindoi overlap; kurushii leans physical (breathing, too full).", "members": ["めんどくさい", "つらい", "きつい", "しんどい", "苦しい"], "stage": 1},
+  {"label": "Sad and missing", "rationale": "Lets you say you're sad, lonely or nostalgic, or feel sorry for someone.", "interference": "Kanashii (sad) vs sabishii (lonely); kawaisou sounds like kawaii but means pity.", "members": ["寂しい", "悲しい", "かわいそう", "懐かしい"], "stage": 1},
+  {"label": "Skill and praise", "rationale": "Lets you say what you're good or bad at and praise someone.", "interference": "Tokui pairs with nigate, heta with jouzu; erai praises effort, yuushuu ability.", "members": ["得意", "下手", "偉い", "立派", "優秀"], "stage": 2},
+  {"label": "Size, look and limits", "rationale": "Lets you talk about size and look when choosing things, and set a limit like 'under 1,000 yen'.", "interference": "Saizu (clothes and shop sizes) vs ookisa (how big); ika (or less) vs ijou (or more).", "members": ["大きさ", "サイズ", "デザイン", "以下"], "stage": 2},
+  {"label": "Favourites and treats", "rationale": "Lets you name a favourite, say 'both', treat yourself and keep a list.", "interference": "Dochira mo becomes 'neither' with a negative verb.", "members": ["お気に入り", "どちらも", "ご褒美", "リスト"], "stage": 2},
+  {"label": "Kind and close", "rationale": "Lets you describe kind, dependable people and close relationships.", "interference": "Naka ii (get along) vs shitashii (close); shinsetsu (kind acts) vs yasashii (kind nature).", "members": ["親切", "仲いい", "頼りになる", "親しい"], "stage": 2},
+  {"label": "Losing and missing out", "rationale": "Lets you react to a loss, a near miss, someone else's luck, or your own weakness.", "interference": "Kuyashii (gutted at losing) vs oshii (so close) vs nasakenai (pathetic).", "members": ["悔しい", "うらやましい", "情けない", "惜しい"], "stage": 2},
+  {"label": "Fine, grateful, awkward", "rationale": "Lets you say something doesn't bother you, helps you, or feels awkward.", "interference": "Heiki vs daijoubu; arigatai describes the help while arigatou is the thanks.", "members": ["平気", "ありがたい", "気まずい"], "stage": 2},
+  {"label": "Serious or sloppy", "rationale": "Lets you say whether someone takes things seriously or half-heartedly.", "interference": "Majime (personality) vs shinken (in the moment); tekitou and iikagen both mean sloppy, iikagen more blaming.", "members": ["真面目", "適当", "真剣", "いいかげん"], "stage": 3},
+  {"label": "Strict, selfish and mean", "rationale": "Lets you complain about strict, selfish, unfair or mean people.", "interference": "Zurui (unfair, sly) vs ijiwaru (mean on purpose).", "members": ["厳しい", "わがまま", "ずるい", "意地悪"], "stage": 3},
+  {"label": "All-in feelings", "rationale": "Lets you say you hate something, are hooked on it, can't resist it, or are giving it everything.", "interference": "Tamaranai can be praise (irresistible) or complaint (unbearable); hisshi (desperate effort) vs muchuu (absorbed).", "members": ["大嫌い", "必死", "夢中", "たまらない"], "stage": 3},
+  {"label": "Odd, open, quiet", "rationale": "Lets you sum up someone's personality in a word.", "interference": "Sunao (open, accepting) vs shoujiki (not lying); otonashii is behaviour, shizuka is noise.", "members": ["変わってる", "素直", "おとなしい"], "stage": 3},
+  {"label": "Calm and careful", "rationale": "Lets you describe how calmly, carefully or eagerly someone works.", "interference": "Teinei (careful, polite) vs shinchou (cautious before deciding); shinchou also means height.", "members": ["冷静", "慎重", "丁寧", "熱心"], "stage": 4},
+  {"label": "Pushy and cocky", "rationale": "Lets you complain about people who nag, act superior, overreact or force things.", "interference": "Erasou (acts superior) vs namaiki (cheeky junior); shitsukoi (keeps at it) vs gouin (forces it).", "members": ["しつこい", "偉そう", "大げさ", "生意気", "強引"], "stage": 4}
+ ],
+ "drops": [
+  {"src": "面倒くさい", "reason": "Duplicate of めんどくさい (same word, kanji spelling); kept めんどくさい, which ranks higher."},
+  {"src": "カッコいい", "reason": "Duplicate of かっこいい (katakana spelling); kept かっこいい, which ranks higher."}
+ ]
+}

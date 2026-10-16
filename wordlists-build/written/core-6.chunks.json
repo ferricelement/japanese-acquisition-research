@@ -1,0 +1,19 @@
+{"chunks": [
+ {"label": "Girls boys men women", "rationale": "Lets you point out and describe the people around you.", "interference": "ko (child) vs hito (person); onna no ko can still mean a young woman.", "members": ["女の子", "男の子", "男の人", "女の人"]},
+ {"label": "Babies kids and age", "rationale": "Lets you talk about babies, kids, young people and who is older.", "interference": "gaki is rude; the neutral word for a kid is kodomo.", "members": ["赤ちゃん", "年上", "ガキ", "若者"]},
+ {"label": "Students and classmates", "rationale": "Lets you talk about the people you studied with.", "interference": "gakusei is mostly university students; seito is school pupils.", "members": ["学生", "後輩", "生徒", "同級生"]},
+ {"label": "School stages", "rationale": "Lets you say what stage of school someone is in.", "interference": "chuugakusei (middle) and koukousei (high) sound alike.", "members": ["小学生", "中学生", "高校生", "大学生"]},
+ {"label": "Plans and occasions", "rationale": "Lets you talk about plans, this time, today and the other day.", "interference": "honjitsu and senjitsu are formal; in chat use kyou and kono aida.", "members": ["今回", "予定", "本日", "先日"]},
+ {"label": "Friends and rivals", "rationale": "Lets you say who is close to you or on your side.", "interference": "yuujin is the formal tomodachi; mikata also means 'way of seeing'.", "members": ["味方", "友人", "親友", "ライバル"]},
+ {"label": "Partners and cheating", "rationale": "Lets you talk about dating, cheating and being single.", "interference": "uwaki is cheating in general; furin involves a married person.", "members": ["彼氏", "恋人", "浮気", "不倫", "独身"]},
+ {"label": "Life and living", "rationale": "Lets you talk about your life, its chances, struggles and memories.", "interference": "jinsei is life as a whole; seikatsu is daily living.", "members": ["人生", "生活", "チャンス", "苦労", "思い出"]},
+ {"label": "Boss and coworkers", "rationale": "Lets you talk about the people you work with.", "interference": "joushi is above you, buka below you, douryou beside you.", "members": ["上司", "社員", "部下", "同僚"]},
+ {"label": "Customers and crowds", "rationale": "Lets you talk about customers, a crowd, or the person in question.", "interference": "kyaku alone sounds blunt; okyakusan is the everyday form.", "members": ["お客さん", "客", "本人", "大勢"]},
+ {"label": "Types of people", "rationale": "Lets you call someone good-looking, gifted, rich or a beginner.", "interference": "bijin is for women, ikemen for men.", "members": ["美人", "イケメン", "天才", "素人", "お金持ち"]},
+ {"label": "Teams and groups", "rationale": "Lets you talk about groups and the roles in them.", "interference": "None.", "members": ["代表", "メンバー", "グループ", "リーダー"]},
+ {"label": "Titles at work", "rationale": "Job titles that also work as names to call someone by.", "interference": "buchou ranks above kachou; mixing them up is awkward.", "members": ["社長", "部長", "店長", "課長", "監督"]},
+ {"label": "Men and women by setting", "rationale": "Words for men and women in formal, group and rough talk.", "interference": "dansei is formal and ossan is rude; joshi and danshi are casual group words.", "members": ["男性", "女子", "男子", "おっさん"]},
+ {"label": "Past present and future", "rationale": "Lets you talk about the past, the present and the future.", "interference": "mirai is the big future; your own future is shourai.", "members": ["時代", "未来", "過去", "現在"]},
+ {"label": "Pointing to a time", "rationale": "Lets you place events in time: back when, before, from now, the moment.", "interference": "izen and kongo are a bit formal; in chat use mae and kore kara.", "members": ["頃", "今後", "瞬間", "以前"]}
+],
+"drops": []}

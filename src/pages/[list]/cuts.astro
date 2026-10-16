@@ -1,0 +1,46 @@
+---
+import StarlightPage from '@astrojs/starlight/components/StarlightPage.astro';
+import JaText from '../../components/JaText.astro';
+import { LIST_KEYS, WORDLISTS, type ListKey } from '../../lib/wordlists';
+
+export function getStaticPaths() {
+	return LIST_KEYS.filter((k) => WORDLISTS[k].course.data.cuts.length).map((list) => ({ params: { list } }));
+}
+const list = Astro.params.list as ListKey;
+const { course, title } = WORDLISTS[list];
+const cuts = course.data.cuts;
+const SECTIONS = [
+	{ key: 'less-common', title: 'Less common', blurb: 'Real everyday words, but said less often than the ones kept.' },
+	{ key: 'drama', title: 'Drama words', blurb: 'Frequent in TV dramas, rare in everyday life.' },
+	{ key: 'covered', title: 'Already covered', blurb: 'Another list already teaches it, or a form of it.' },
+	{ key: 'bookish', title: 'Bookish', blurb: 'Mostly written or formal.' },
+	{ key: 'rare', title: 'Rare', blurb: 'Rarely said.' },
+	{ key: 'dropped', title: 'Dropped in writing or review', blurb: 'A duplicate or not a real word on a closer look.' },
+];
+const known = new Set(SECTIONS.map((s) => s.key));
+const sections = [...SECTIONS, { key: 'other', title: 'Other', blurb: 'Names, fragments, dialect and sounds.' }]
+	.map((s) => ({ ...s, rows: cuts.filter((c) => (s.key === 'other' ? !known.has(c.verdict) : c.verdict === s.key)) }))
+	.filter((s) => s.rows.length);
+const headings = sections.map((s) => ({ depth: 2, slug: s.key, text: `${s.title} (${s.rows.length})` }));
+---
+
+<StarlightPage frontmatter={{ title: `${title}: cuts`, next: false, description: `${title} candidates that did not make the list, with the reason for each.` }} headings={headings}>
+	<p class="vl-lead">{cuts.length} candidates didn’t make the list. Each has a reason, so you can ask for any of them back.</p>
+	<p class="vl-count">Within each group, the most frequent in TV dramas come first.</p>
+	{sections.map((s) => (
+		<>
+			<h2 id={s.key}>{s.title} ({s.rows.length})</h2>
+			<p>{s.blurb}</p>
+			<ul class="vl-cuts not-content" role="list" data-pagefind-weight="0.2">
+				{s.rows.map((r) => (
+					<li class="vl-cut">
+						<span class="vl-main"><span class="vl-ro" translate="no">{r.romaji}</span> <span lang="ja" class="vl-ja">{r.ja}</span></span>
+						<span class="vl-en">{r.english ?? ''}</span>
+						<span class="vl-meta"><span class="vl-rank">{r.freqRank ? `#${r.freqRank}` : '—'}</span></span>
+						{r.reason && <span class="vl-why"><JaText text={r.reason} /></span>}
+					</li>
+				))}
+			</ul>
+		</>
+	))}
+</StarlightPage>

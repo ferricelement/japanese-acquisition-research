@@ -1,0 +1,420 @@
+{
+ "sets": [
+  {
+   "key": "s-seasons",
+   "scope": "Seasons & weather: haru, natsu, aki, fuyu, hare, kumori, yuki, kaze, taifuu, atatakai, suzushii, mushiatsui",
+   "include": [
+    {
+     "src": "夏",
+     "ja": "夏",
+     "kana": "なつ",
+     "romaji": "natsu",
+     "en": "summer",
+     "rank": 1518,
+     "score": 4
+    },
+    {
+     "src": "雨",
+     "ja": "雨",
+     "kana": "あめ",
+     "romaji": "ame",
+     "en": "rain",
+     "rank": 1522,
+     "score": 4
+    },
+    {
+     "src": "降る",
+     "ja": "降る",
+     "kana": "ふる",
+     "romaji": "furu",
+     "en": "fall (rain, snow)",
+     "rank": 2179,
+     "score": 4
+    },
+    {
+     "src": "温かい",
+     "ja": "温かい",
+     "kana": "あたたかい",
+     "romaji": "atatakai",
+     "en": "warm",
+     "rank": 2240,
+     "score": 4
+    },
+    {
+     "src": "冬",
+     "ja": "冬",
+     "kana": "ふゆ",
+     "romaji": "fuyu",
+     "en": "winter",
+     "rank": 2532,
+     "score": 4
+    },
+    {
+     "src": "晴れる",
+     "ja": "晴れる",
+     "kana": "はれる",
+     "romaji": "hareru",
+     "en": "clear up, be sunny",
+     "rank": 2893,
+     "score": 3
+    },
+    {
+     "src": "秋",
+     "ja": "秋",
+     "kana": "あき",
+     "romaji": "aki",
+     "en": "autumn",
+     "rank": 3008,
+     "score": 4
+    },
+    {
+     "src": "季節",
+     "ja": "季節",
+     "kana": "きせつ",
+     "romaji": "kisetsu",
+     "en": "season",
+     "rank": 3106,
+     "score": 3
+    },
+    {
+     "src": "天気",
+     "ja": "天気",
+     "kana": "てんき",
+     "romaji": "tenki",
+     "en": "weather",
+     "rank": 3650,
+     "score": 4
+    },
+    {
+     "src": "天気予報",
+     "ja": "天気予報",
+     "kana": "てんきよほう",
+     "romaji": "tenki yohou",
+     "en": "weather forecast",
+     "rank": 13069,
+     "score": 3
+    },
+    {
+     "src": "止む",
+     "ja": "止む",
+     "kana": "やむ",
+     "romaji": "yamu",
+     "en": "stop (rain)",
+     "rank": 14280,
+     "score": 3
+    },
+    {
+     "src": "湿気",
+     "ja": "湿気",
+     "kana": "しっけ",
+     "romaji": "shikke",
+     "en": "humidity",
+     "rank": 20334,
+     "score": 3
+    },
+    {
+     "src": "梅雨",
+     "ja": "梅雨",
+     "kana": "つゆ",
+     "romaji": "tsuyu",
+     "en": "rainy season",
+     "rank": 22408,
+     "score": 3
+    }
+   ]
+  },
+  {
+   "key": "s-colors",
+   "scope": "Colours: aka/akai, ao/aoi, kiiro, shiro/shiroi, kuro/kuroi, chairo, midori, murasaki, pinku, orenji, haiiro, iro",
+   "include": [
+    {
+     "src": "白い",
+     "ja": "白い",
+     "kana": "しろい",
+     "romaji": "shiroi",
+     "en": "white",
+     "rank": 1914,
+     "score": 4
+    },
+    {
+     "src": "黒い",
+     "ja": "黒い",
+     "kana": "くろい",
+     "romaji": "kuroi",
+     "en": "black",
+     "rank": 2477,
+     "score": 4
+    },
+    {
+     "src": "黒",
+     "ja": "黒",
+     "kana": "くろ",
+     "romaji": "kuro",
+     "en": "black",
+     "rank": 2762,
+     "score": 3
+    },
+    {
+     "src": "青い",
+     "ja": "青い",
+     "kana": "あおい",
+     "romaji": "aoi",
+     "en": "blue; green (lights)",
+     "rank": 3078,
+     "score": 4
+    },
+    {
+     "src": "青",
+     "ja": "青",
+     "kana": "あお",
+     "romaji": "ao",
+     "en": "blue",
+     "rank": 3630,
+     "score": 4
+    },
+    {
+     "src": "緑",
+     "ja": "緑",
+     "kana": "みどり",
+     "romaji": "midori",
+     "en": "green",
+     "rank": 3774,
+     "score": 4
+    },
+    {
+     "src": "ピンク",
+     "ja": "ピンク",
+     "kana": "ピンク",
+     "romaji": "pinku",
+     "en": "pink",
+     "rank": 3884,
+     "score": 3
+    }
+   ]
+  },
+  {
+   "key": "s-taste",
+   "scope": "Tastes & textures: amai, karai, shoppai, suppai, nigai, mazui, katai, yawarakai",
+   "include": []
+  },
+  {
+   "key": "s-countries",
+   "scope": "Countries, languages & nationalities: nihon, -go, -jin, amerika, igirisu, chuugoku, kankoku, gaikoku",
+   "include": [
+    {
+     "src": "国",
+     "ja": "国",
+     "kana": "くに",
+     "romaji": "kuni",
+     "en": "country",
+     "rank": 1119,
+     "score": 4
+    },
+    {
+     "src": "海外",
+     "ja": "海外",
+     "kana": "かいがい",
+     "romaji": "kaigai",
+     "en": "overseas",
+     "rank": 1543,
+     "score": 4
+    },
+    {
+     "src": "日本人",
+     "ja": "日本人",
+     "kana": "にほんじん",
+     "romaji": "nihonjin",
+     "en": "Japanese person",
+     "rank": 2805,
+     "score": 4
+    },
+    {
+     "src": "外国",
+     "ja": "外国",
+     "kana": "がいこく",
+     "romaji": "gaikoku",
+     "en": "foreign country",
+     "rank": 4295,
+     "score": 3
+    },
+    {
+     "src": "国内",
+     "ja": "国内",
+     "kana": "こくない",
+     "romaji": "kokunai",
+     "en": "domestic, in the country",
+     "rank": 4855,
+     "score": 3
+    }
+   ]
+  },
+  {
+   "key": "s-position",
+   "scope": "Position & direction the main list lacks: migi, hidari, tonari, yoko, soba, aida, mukou, oku, massugu, kado, kita, minami, higashi, nishi",
+   "include": [
+    {
+     "src": "向こう",
+     "ja": "向こう",
+     "kana": "むこう",
+     "romaji": "mukou",
+     "en": "over there; the other side",
+     "rank": 590,
+     "score": 4
+    },
+    {
+     "src": "周り",
+     "ja": "周り",
+     "kana": "まわり",
+     "romaji": "mawari",
+     "en": "around; surroundings",
+     "rank": 735,
+     "score": 4
+    },
+    {
+     "src": "そば",
+     "ja": "そば",
+     "kana": "そば",
+     "romaji": "soba",
+     "en": "near; beside",
+     "rank": 785,
+     "score": 3
+    },
+    {
+     "src": "隣",
+     "ja": "隣",
+     "kana": "となり",
+     "romaji": "tonari",
+     "en": "next to; next door",
+     "rank": 921,
+     "score": 4
+    },
+    {
+     "src": "目の前",
+     "ja": "目の前",
+     "kana": "めのまえ",
+     "romaji": "me no mae",
+     "en": "right in front of",
+     "rank": 981,
+     "score": 3
+    },
+    {
+     "src": "側",
+     "ja": "側",
+     "kana": "がわ",
+     "romaji": "gawa",
+     "en": "side",
+     "rank": 1192,
+     "score": 3
+    },
+    {
+     "src": "この辺",
+     "ja": "この辺",
+     "kana": "このへん",
+     "romaji": "kono hen",
+     "en": "around here",
+     "rank": 1367,
+     "score": 4
+    },
+    {
+     "src": "右",
+     "ja": "右",
+     "kana": "みぎ",
+     "romaji": "migi",
+     "en": "right",
+     "rank": 1600,
+     "score": 4
+    },
+    {
+     "src": "まっすぐ",
+     "ja": "まっすぐ",
+     "kana": "まっすぐ",
+     "romaji": "massugu",
+     "en": "straight ahead",
+     "rank": 2303,
+     "score": 4
+    },
+    {
+     "src": "その辺",
+     "ja": "その辺",
+     "kana": "そのへん",
+     "romaji": "sono hen",
+     "en": "around there",
+     "rank": 2713,
+     "score": 3
+    },
+    {
+     "src": "真ん中",
+     "ja": "真ん中",
+     "kana": "まんなか",
+     "romaji": "mannaka",
+     "en": "middle",
+     "rank": 2903,
+     "score": 4
+    },
+    {
+     "src": "南",
+     "ja": "南",
+     "kana": "みなみ",
+     "romaji": "minami",
+     "en": "south",
+     "rank": 2998,
+     "score": 3
+    },
+    {
+     "src": "あちこち",
+     "ja": "あちこち",
+     "kana": "あちこち",
+     "romaji": "achikochi",
+     "en": "here and there, all over",
+     "rank": 3022,
+     "score": 4
+    },
+    {
+     "src": "西",
+     "ja": "西",
+     "kana": "にし",
+     "romaji": "nishi",
+     "en": "west",
+     "rank": 3413,
+     "score": 3
+    },
+    {
+     "src": "北",
+     "ja": "北",
+     "kana": "きた",
+     "romaji": "kita",
+     "en": "north",
+     "rank": 3654,
+     "score": 3
+    },
+    {
+     "src": "手前",
+     "ja": "手前",
+     "kana": "てまえ",
+     "romaji": "temae",
+     "en": "just before, this side",
+     "rank": 3666,
+     "score": 3
+    },
+    {
+     "src": "正面",
+     "ja": "正面",
+     "kana": "しょうめん",
+     "romaji": "shoumen",
+     "en": "front",
+     "rank": 4434,
+     "score": 3
+    },
+    {
+     "src": "そこら",
+     "ja": "そこら",
+     "kana": "そこら",
+     "romaji": "sokora",
+     "en": "around there",
+     "rank": 4602,
+     "score": 3
+    }
+   ]
+  }
+ ]
+}

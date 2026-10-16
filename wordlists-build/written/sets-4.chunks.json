@@ -1,0 +1,27 @@
+{"chunks": [
+{"label": "The four seasons", "rationale": "Name the seasons and say which one you like.", "interference": "None.", "members": ["haru", "夏", "秋", "冬", "季節"], "stage": 2, "set": "s-seasons"},
+{"label": "Basic weather words", "rationale": "Say what the weather is like today or tomorrow.", "interference": "ame 'rain' sounds like ame 'candy'; hare is the noun, hareru the verb.", "members": ["雨", "天気", "yuki", "hare", "kumori", "天気予報"], "stage": 2, "set": "s-seasons"},
+{"label": "Rain starting and stopping", "rationale": "Say it's raining, it's stopped, or it's cleared up.", "interference": "yamu (weather stops by itself) gets mixed up with yameru (someone quits).", "members": ["降る", "止む", "晴れる"], "stage": 2, "set": "s-seasons"},
+{"label": "How the air feels", "rationale": "Comment on warm days, cool evenings and muggy summers.", "interference": "atatakai (pleasant) vs atsui (too hot); suzushii (cool air) vs tsumetai (cold to the touch).", "members": ["温かい", "suzushii", "mushiatsui", "湿気"], "stage": 2, "set": "s-seasons"},
+{"label": "Wind and storms", "rationale": "Talk about wind, typhoons, thunder and the rainy season.", "interference": "kaze 'wind' and kaze 'a cold' sound the same.", "members": ["kaze", "taifuu", "kaminari", "梅雨"], "stage": 3, "set": "s-seasons"},
+
+{"label": "Colour and four basics", "rationale": "Ask what colour something is and call it red, white, black or blue.", "interference": "aoi also covers green traffic lights, but grass is midori.", "members": ["iro", "akai", "白い", "黒い", "青い"], "stage": 2, "set": "s-colors"},
+{"label": "Basic colours as nouns", "rationale": "Name a colour on its own: aka ga suki, kuro no fuku, the light's ao.", "interference": "akai before a noun vs aka on its own; the -i drops when the colour stands alone.", "members": ["aka", "shiro", "黒", "青"], "stage": 2, "set": "s-colors"},
+{"label": "Green, yellow, pink, brown", "rationale": "Describe things in the next most common colours.", "interference": "midori (green things) vs ao (green traffic lights).", "members": ["緑", "kiiro", "ピンク", "chairo"], "stage": 2, "set": "s-colors"},
+{"label": "Purple, orange, grey", "rationale": "Round out the colours for clothes and the sky.", "interference": "haiiro and the loanword gurei both mean grey.", "members": ["murasaki", "orenji", "haiiro"], "stage": 3, "set": "s-colors"},
+
+{"label": "Five basic tastes", "rationale": "Say whether food is sweet, spicy, bitter, sour or salty.", "interference": "karai means spicy, but in western Japan also salty; shoppai is the eastern word for salty.", "members": ["amai", "karai", "nigai", "suppai", "shoppai"], "stage": 2, "set": "s-taste"},
+{"label": "Bad taste and texture", "rationale": "Say food tastes bad, is tough, or is tender.", "interference": "mazui also means 'uh-oh, that's bad', not just bad taste.", "members": ["mazui", "katai", "yawarakai"], "stage": 2, "set": "s-taste"},
+
+{"label": "Japan, nationality, language", "rationale": "Say who is Japanese, what you speak, and build any nationality or language.", "interference": "-jin is the person, -go the language; English is eigo, not igirisugo.", "members": ["nihon", "日本人", "eigo", "-jin", "-go"], "stage": 1, "set": "s-countries"},
+{"label": "Common country names", "rationale": "Say where you and other people are from.", "interference": "igirisu (the UK) isn't guessable from 'England'.", "members": ["amerika", "chuugoku", "kankoku", "igirisu", "oosutoraria"], "stage": 2, "set": "s-countries"},
+{"label": "Home and abroad", "rationale": "Talk about home countries, foreigners and travel abroad.", "interference": "kaigai (going overseas) vs gaikoku (foreign countries themselves).", "members": ["国", "海外", "外国", "gaikokujin", "国内"], "stage": 2, "set": "s-countries"},
+
+{"label": "Street directions", "rationale": "Give and follow directions: right, left, straight on, at the corner.", "interference": "migi and hidari get swapped under pressure.", "members": ["右", "hidari", "まっすぐ", "kado"], "stage": 2, "set": "s-position"},
+{"label": "Next to and near", "rationale": "Say where something is: next to, near, beside, between.", "interference": "tonari is next to the same kind of thing; yoko is beside anything; soba is just near.", "members": ["隣", "そば", "yoko", "aida"], "stage": 2, "set": "s-position"},
+{"label": "Around here and there", "rationale": "Point to a rough area near you, near them or away from both, and ask whereabouts.", "interference": "sono hen (near you) vs ano hen (away from both of us).", "members": ["この辺", "その辺", "ano hen", "dono hen", "そこら"], "stage": 2, "set": "s-position"},
+{"label": "Front and far side", "rationale": "Say something is right in front, across, at the back, just before, or face-on.", "interference": "temae (this side) vs mukou (the far side); oku (deep inside) vs ushiro (behind).", "members": ["向こう", "目の前", "oku", "手前", "正面"], "stage": 3, "set": "s-position"},
+{"label": "Middle, sides, all over", "rationale": "Talk about the surroundings, one side, the middle, and all over the place.", "interference": "mannaka (exact middle) vs naka (inside).", "members": ["周り", "側", "真ん中", "あちこち"], "stage": 3, "set": "s-position"},
+{"label": "Compass points", "rationale": "Use north, south, east and west, mostly for station exits and regions.", "interference": "higashi and hidari both start hi-; kita 'north' sounds like kita 'came'.", "members": ["北", "南", "higashi", "西"], "stage": 3, "set": "s-position"}
+],
+"drops": []}

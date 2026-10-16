@@ -1,0 +1,111 @@
+{
+ "sets": [
+  {
+   "key": "s-numbers",
+   "scope": "Sino-Japanese numbers 0-10, 100, 1,000, 10,000, 100 million, with reading variants and sound changes (yon/shi, nana/shichi, sanbyaku, roppyaku, sanzen, hassen)",
+   "include": []
+  },
+  {
+   "key": "s-native",
+   "scope": "Native counting: hitotsu ... tou, ikutsu",
+   "include": [
+    {
+     "src": "一つ",
+     "ja": "一つ",
+     "kana": "ひとつ",
+     "romaji": "hitotsu",
+     "en": "one (thing)",
+     "rank": 763,
+     "score": 5
+    },
+    {
+     "src": "いくつ",
+     "ja": "いくつ",
+     "kana": "いくつ",
+     "romaji": "ikutsu",
+     "en": "how many; how old",
+     "rank": 1556,
+     "score": 4
+    },
+    {
+     "src": "いくつか",
+     "ja": "いくつか",
+     "kana": "いくつか",
+     "romaji": "ikutsuka",
+     "en": "several, a few",
+     "rank": 2941,
+     "score": 4
+    },
+    {
+     "src": "一つ一つ",
+     "ja": "一つ一つ",
+     "kana": "ひとつひとつ",
+     "romaji": "hitotsu hitotsu",
+     "en": "one by one",
+     "rank": 5036,
+     "score": 3
+    }
+   ]
+  },
+  {
+   "key": "s-people",
+   "scope": "Counting people: hitori, futari, sannin ... nannin",
+   "include": [
+    {
+     "src": "二人",
+     "ja": "二人",
+     "kana": "ふたり",
+     "romaji": "futari",
+     "en": "two people",
+     "rank": 947,
+     "score": 4
+    },
+    {
+     "src": "何人",
+     "ja": "何人",
+     "kana": "なんにん",
+     "romaji": "nannin",
+     "en": "how many people",
+     "rank": 1565,
+     "score": 4
+    },
+    {
+     "src": "二人とも",
+     "ja": "二人とも",
+     "kana": "ふたりとも",
+     "romaji": "futari tomo",
+     "en": "both of them",
+     "rank": 3402,
+     "score": 4
+    },
+    {
+     "src": "人数",
+     "ja": "人数",
+     "kana": "にんずう",
+     "romaji": "ninzuu",
+     "en": "number of people",
+     "rank": 3530,
+     "score": 3
+    },
+    {
+     "src": "たった一人",
+     "ja": "たった一人",
+     "kana": "たったひとり",
+     "romaji": "tatta hitori",
+     "en": "just one person, all alone",
+     "rank": 3834,
+     "score": 3
+    },
+    {
+     "src": "一人一人",
+     "ja": "一人一人",
+     "kana": "ひとりひとり",
+     "romaji": "hitori hitori",
+     "en": "each person",
+     "rank": 4228,
+     "score": 3
+    }
+   ]
+  }
+ ]
+}

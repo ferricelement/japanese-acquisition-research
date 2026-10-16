@@ -1,0 +1,349 @@
+{
+ "sets": [
+  {
+   "key": "s-weekdays",
+   "scope": "Days of the week, nan'youbi, heijitsu",
+   "include": [
+    {
+     "src": "日曜日",
+     "ja": "日曜日",
+     "kana": "にちようび",
+     "romaji": "nichiyoubi",
+     "en": "Sunday",
+     "rank": 3736,
+     "score": 5
+    },
+    {
+     "src": "日曜",
+     "ja": "日曜",
+     "kana": "にちよう",
+     "romaji": "nichiyou",
+     "en": "Sunday",
+     "rank": 3853,
+     "score": 4
+    },
+    {
+     "src": "土曜日",
+     "ja": "土曜日",
+     "kana": "どようび",
+     "romaji": "doyoubi",
+     "en": "Saturday",
+     "rank": 4290,
+     "score": 5
+    },
+    {
+     "src": "休日",
+     "ja": "休日",
+     "kana": "きゅうじつ",
+     "romaji": "kyuujitsu",
+     "en": "day off, holiday",
+     "rank": 4849,
+     "score": 3
+    }
+   ]
+  },
+  {
+   "key": "s-dates",
+   "scope": "Days of the month: tsuitachi, futsuka ... touka, juuyokka, hatsuka, nijuuyokka, nannichi, -nichikan",
+   "include": [
+    {
+     "src": "一日",
+     "ja": "一日",
+     "kana": "いちにち",
+     "romaji": "ichinichi",
+     "en": "one day; all day",
+     "rank": 1444,
+     "score": 4
+    },
+    {
+     "src": "数日",
+     "ja": "数日",
+     "kana": "すうじつ",
+     "romaji": "suujitsu",
+     "en": "a few days",
+     "rank": 3024,
+     "score": 3
+    },
+    {
+     "src": "何日",
+     "ja": "何日",
+     "kana": "なんにち",
+     "romaji": "nannichi",
+     "en": "what date; how many days",
+     "rank": 3041,
+     "score": 4
+    },
+    {
+     "src": "一日中",
+     "ja": "一日中",
+     "kana": "いちにちじゅう",
+     "romaji": "ichinichijuu",
+     "en": "all day long",
+     "rank": 4447,
+     "score": 4
+    }
+   ]
+  },
+  {
+   "key": "s-months",
+   "scope": "Months & month counts: ichigatsu ... juunigatsu, nangatsu, ikkagetsu, nankagetsu",
+   "include": [
+    {
+     "src": "半年",
+     "ja": "半年",
+     "kana": "はんとし",
+     "romaji": "hantoshi",
+     "en": "half a year",
+     "rank": 1425,
+     "score": 4
+    },
+    {
+     "src": "か月",
+     "ja": "か月",
+     "kana": "かげつ",
+     "romaji": "kagetsu",
+     "en": "months (counter)",
+     "rank": 2021,
+     "score": 4
+    },
+    {
+     "src": "カ月",
+     "ja": "カ月",
+     "kana": "かげつ",
+     "romaji": "-kagetsu",
+     "en": "months (duration)",
+     "rank": 5015,
+     "score": 4
+    }
+   ]
+  },
+  {
+   "key": "s-relative",
+   "scope": "Relative-time grid words the main list lacks: ototoi, asatte, sensenshuu, saraishuu, ototoshi, sarainen, maiasa, maiban, maishuu, maitsuki, mainen",
+   "include": [
+    {
+     "src": "今夜",
+     "ja": "今夜",
+     "kana": "こんや",
+     "romaji": "kon'ya",
+     "en": "tonight",
+     "rank": 770,
+     "score": 3
+    },
+    {
+     "src": "この前",
+     "ja": "この前",
+     "kana": "このまえ",
+     "romaji": "kono mae",
+     "en": "the other day",
+     "rank": 800,
+     "score": 4
+    },
+    {
+     "src": "毎年",
+     "ja": "毎年",
+     "kana": "まいとし",
+     "romaji": "maitoshi",
+     "en": "every year",
+     "rank": 2223,
+     "score": 4
+    },
+    {
+     "src": "ゆうべ",
+     "ja": "ゆうべ",
+     "kana": "ゆうべ",
+     "romaji": "yuube",
+     "en": "last night",
+     "rank": 2525,
+     "score": 4
+    },
+    {
+     "src": "毎回",
+     "ja": "毎回",
+     "kana": "まいかい",
+     "romaji": "maikai",
+     "en": "every time",
+     "rank": 2846,
+     "score": 4
+    },
+    {
+     "src": "翌日",
+     "ja": "翌日",
+     "kana": "よくじつ",
+     "romaji": "yokujitsu",
+     "en": "the next day",
+     "rank": 3234,
+     "score": 3
+    },
+    {
+     "src": "あさって",
+     "ja": "あさって",
+     "kana": "あさって",
+     "romaji": "asatte",
+     "en": "day after tomorrow",
+     "rank": 3247,
+     "score": 4
+    },
+    {
+     "src": "毎晩",
+     "ja": "毎晩",
+     "kana": "まいばん",
+     "romaji": "maiban",
+     "en": "every night",
+     "rank": 3427,
+     "score": 4
+    },
+    {
+     "src": "毎朝",
+     "ja": "毎朝",
+     "kana": "まいあさ",
+     "romaji": "maiasa",
+     "en": "every morning",
+     "rank": 3866,
+     "score": 4
+    },
+    {
+     "src": "前日",
+     "ja": "前日",
+     "kana": "ぜんじつ",
+     "romaji": "zenjitsu",
+     "en": "the day before",
+     "rank": 3968,
+     "score": 3
+    },
+    {
+     "src": "毎月",
+     "ja": "毎月",
+     "kana": "まいつき",
+     "romaji": "maitsuki",
+     "en": "every month",
+     "rank": 4039,
+     "score": 4
+    },
+    {
+     "src": "おととい",
+     "ja": "おととい",
+     "kana": "おととい",
+     "romaji": "ototoi",
+     "en": "day before yesterday",
+     "rank": 4331,
+     "score": 4
+    },
+    {
+     "src": "毎週",
+     "ja": "毎週",
+     "kana": "まいしゅう",
+     "romaji": "maishuu",
+     "en": "every week",
+     "rank": 4820,
+     "score": 4
+    }
+   ]
+  },
+  {
+   "key": "s-dayparts",
+   "scope": "Parts of the day & meals: yuugata, yonaka, gozen, gogo, asagohan, hirugohan, bangohan (asa/hiru/yoru are in the main list)",
+   "include": [
+    {
+     "src": "午後",
+     "ja": "午後",
+     "kana": "ごご",
+     "romaji": "gogo",
+     "en": "afternoon; p.m.",
+     "rank": 1394,
+     "score": 4
+    },
+    {
+     "src": "昼間",
+     "ja": "昼間",
+     "kana": "ひるま",
+     "romaji": "hiruma",
+     "en": "daytime",
+     "rank": 2019,
+     "score": 3
+    },
+    {
+     "src": "夕方",
+     "ja": "夕方",
+     "kana": "ゆうがた",
+     "romaji": "yuugata",
+     "en": "evening",
+     "rank": 2124,
+     "score": 4
+    },
+    {
+     "src": "夜中",
+     "ja": "夜中",
+     "kana": "よなか",
+     "romaji": "yonaka",
+     "en": "middle of the night",
+     "rank": 2217,
+     "score": 4
+    },
+    {
+     "src": "お昼",
+     "ja": "お昼",
+     "kana": "おひる",
+     "romaji": "ohiru",
+     "en": "lunch; noon",
+     "rank": 2219,
+     "score": 4
+    },
+    {
+     "src": "夕飯",
+     "ja": "夕飯",
+     "kana": "ゆうはん",
+     "romaji": "yuuhan",
+     "en": "dinner",
+     "rank": 2950,
+     "score": 4
+    },
+    {
+     "src": "午前",
+     "ja": "午前",
+     "kana": "ごぜん",
+     "romaji": "gozen",
+     "en": "morning, a.m.",
+     "rank": 3249,
+     "score": 4
+    },
+    {
+     "src": "深夜",
+     "ja": "深夜",
+     "kana": "しんや",
+     "romaji": "shin'ya",
+     "en": "late at night",
+     "rank": 3562,
+     "score": 3
+    },
+    {
+     "src": "夕食",
+     "ja": "夕食",
+     "kana": "ゆうしょく",
+     "romaji": "yuushoku",
+     "en": "dinner (formal)",
+     "rank": 3909,
+     "score": 3
+    },
+    {
+     "src": "晩",
+     "ja": "晩",
+     "kana": "ばん",
+     "romaji": "ban",
+     "en": "evening, night",
+     "rank": 4729,
+     "score": 3
+    },
+    {
+     "src": "朝食",
+     "ja": "朝食",
+     "kana": "ちょうしょく",
+     "romaji": "choushoku",
+     "en": "breakfast (formal)",
+     "rank": 4784,
+     "score": 3
+    }
+   ]
+  }
+ ]
+}

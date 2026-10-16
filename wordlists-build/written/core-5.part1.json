@@ -1,0 +1,439 @@
+[
+ {
+  "src": "男",
+  "ja": "男",
+  "kana": "おとこ",
+  "romaji": "otoko",
+  "polite": null,
+  "politeJa": null,
+  "english": "man; guy",
+  "use": "On its own it sounds blunt about a specific man; otoko no hito is the neutral way to say 'a man'.",
+  "pos": "noun",
+  "flags": [],
+  "example": {
+   "romaji": "Otoko tte hontou ni baka da yo ne.",
+   "ja": "男って本当にバカだよね。",
+   "english": "Men are so dumb, aren't they?"
+  },
+  "examplePolite": {
+   "romaji": "Otoko tte hontou ni baka desu yo ne.",
+   "ja": "男って本当にバカですよね。",
+   "english": "Men are so dumb, aren't they?"
+  },
+  "notes": "otoko no ko is a boy. Opposite: onna."
+ },
+ {
+  "src": "女",
+  "ja": "女",
+  "kana": "おんな",
+  "romaji": "onna",
+  "polite": null,
+  "politeJa": null,
+  "english": "woman",
+  "use": "On its own it sounds blunt, even rude, about a specific woman; onna no hito is the neutral way to say 'a woman'.",
+  "pos": "noun",
+  "flags": [],
+  "example": {
+   "romaji": "Onna tte muzukashii na.",
+   "ja": "女って難しいな。",
+   "english": "Women are hard to figure out."
+  },
+  "examplePolite": {
+   "romaji": "Onna tte muzukashii desu ne.",
+   "ja": "女って難しいですね。",
+   "english": "Women are hard to figure out, aren't they?"
+  },
+  "notes": "onna no ko is a girl. Opposite: otoko."
+ },
+ {
+  "src": "人間",
+  "ja": "人間",
+  "kana": "にんげん",
+  "romaji": "ningen",
+  "polite": null,
+  "politeJa": null,
+  "english": "human; person",
+  "use": "Stresses being human or what kind of person someone is; for 'a person' in daily talk, hito is the usual word.",
+  "pos": "noun",
+  "flags": [],
+  "example": {
+   "romaji": "Ningen dakara, machigai mo aru yo.",
+   "ja": "人間だから、間違いもあるよ。",
+   "english": "We're only human. Mistakes happen."
+  },
+  "examplePolite": {
+   "romaji": "Ningen desu kara, machigai mo arimasu yo.",
+   "ja": "人間ですから、間違いもありますよ。",
+   "english": "We're only human. Mistakes happen."
+  },
+  "notes": "ningen kankei: relationships with the people around you, at work or school."
+ },
+ {
+  "src": "女性",
+  "ja": "女性",
+  "kana": "じょせい",
+  "romaji": "josei",
+  "polite": null,
+  "politeJa": null,
+  "english": "woman; female",
+  "use": "The polite, neutral word for a woman, common in news, shops and whenever you want to sound respectful.",
+  "pos": "noun",
+  "flags": [],
+  "example": {
+   "romaji": "Ano josei, dare da ka shitteru?",
+   "ja": "あの女性、誰だか知ってる？",
+   "english": "Do you know who that woman is?"
+  },
+  "examplePolite": {
+   "romaji": "Ano josei, dare da ka shitte imasu ka?",
+   "ja": "あの女性、誰だか知っていますか？",
+   "english": "Do you know who that woman is?"
+  },
+  "notes": "The male counterpart is dansei. Softer than onna."
+ },
+ {
+  "src": "先生",
+  "ja": "先生",
+  "kana": "せんせい",
+  "romaji": "sensei",
+  "polite": null,
+  "politeJa": null,
+  "english": "teacher; doctor",
+  "use": "Also a title for doctors, lawyers and writers, used alone or after a name: Tanaka-sensei.",
+  "pos": "noun",
+  "flags": [],
+  "example": {
+   "romaji": "Sensei ni kiite miyou.",
+   "ja": "先生に聞いてみよう。",
+   "english": "Let's ask the teacher."
+  },
+  "examplePolite": {
+   "romaji": "Sensei ni kiite mimashou.",
+   "ja": "先生に聞いてみましょう。",
+   "english": "Let's ask the teacher."
+  },
+  "notes": "Never used about yourself."
+ },
+ {
+  "src": "先輩",
+  "ja": "先輩",
+  "kana": "せんぱい",
+  "romaji": "senpai",
+  "polite": null,
+  "politeJa": null,
+  "english": "senior (at school or work)",
+  "use": "Anyone who joined your school, club or company before you; used as a name, alone or after a surname.",
+  "pos": "noun",
+  "flags": [],
+  "example": {
+   "romaji": "Senpai ni gohan ogotte moratta.",
+   "ja": "先輩にご飯おごってもらった。",
+   "english": "My senpai bought me dinner."
+  },
+  "examplePolite": {
+   "romaji": "Senpai ni gohan o ogotte moraimashita.",
+   "ja": "先輩にご飯をおごってもらいました。",
+   "english": "My senpai bought me dinner."
+  },
+  "notes": "Opposite: kouhai (junior). You usually speak to a senpai in desu/masu."
+ },
+ {
+  "src": "知り合い",
+  "ja": "知り合い",
+  "kana": "しりあい",
+  "romaji": "shiriai",
+  "polite": null,
+  "politeJa": null,
+  "english": "acquaintance; someone you know",
+  "use": "Someone you know but aren't close to.",
+  "pos": "noun",
+  "flags": [],
+  "example": {
+   "romaji": "Ano hito, shiriai na no?",
+   "ja": "あの人、知り合いなの？",
+   "english": "Do you know that person?"
+  },
+  "examplePolite": {
+   "romaji": "Ano hito, shiriai na n desu ka?",
+   "ja": "あの人、知り合いなんですか？",
+   "english": "Do you know that person?"
+  },
+  "notes": "A friend is tomodachi. shiriai ni naru: get to know someone."
+ },
+ {
+  "src": "仲間",
+  "ja": "仲間",
+  "kana": "なかま",
+  "romaji": "nakama",
+  "polite": null,
+  "politeJa": null,
+  "english": "friends; teammates; companions",
+  "use": "People on the same side: a team, a crew, a close group of friends.",
+  "pos": "noun",
+  "flags": [],
+  "example": {
+   "romaji": "Minna daiji na nakama da yo.",
+   "ja": "みんな大事な仲間だよ。",
+   "english": "They're all friends who matter to me."
+  },
+  "examplePolite": {
+   "romaji": "Minna daiji na nakama desu.",
+   "ja": "みんな大事な仲間です。",
+   "english": "They're all friends who matter to me."
+  },
+  "notes": "Warmer and more group-minded than tomodachi."
+ },
+ {
+  "src": "全員",
+  "ja": "全員",
+  "kana": "ぜんいん",
+  "romaji": "zen'in",
+  "polite": null,
+  "politeJa": null,
+  "english": "everyone; all members",
+  "use": "Every single member of a set group, like a class, team or family.",
+  "pos": "noun",
+  "flags": [],
+  "example": {
+   "romaji": "Jaa, zen'in sorotta kara hajimeyou.",
+   "ja": "じゃあ、全員そろったから始めよう。",
+   "english": "OK, everyone's here, so let's start."
+  },
+  "examplePolite": {
+   "romaji": "Dewa, zen'in soroimashita node hajimemashou.",
+   "ja": "では、全員そろいましたので始めましょう。",
+   "english": "Well, everyone's here, so let's begin."
+  },
+  "notes": "minna is the casual 'everyone'; zen'in stresses that nobody is left out."
+ },
+ {
+  "src": "お互い",
+  "ja": "お互い",
+  "kana": "おたがい",
+  "romaji": "otagai",
+  "polite": null,
+  "politeJa": null,
+  "english": "each other; both of us",
+  "use": "Often goes straight before a verb with no particle: otagai ganbarou.",
+  "pos": "noun",
+  "flags": [],
+  "example": {
+   "romaji": "Kore kara mo otagai ganbarou ne.",
+   "ja": "これからもお互い頑張ろうね。",
+   "english": "Let's both keep at it."
+  },
+  "examplePolite": {
+   "romaji": "Kore kara mo otagai ganbarimashou.",
+   "ja": "これからもお互い頑張りましょう。",
+   "english": "Let's both keep at it."
+  },
+  "notes": "otagaisama: 'we're in the same boat', said back when someone thanks or apologises."
+ },
+ {
+  "src": "確認",
+  "ja": "確認する",
+  "kana": "かくにんする",
+  "romaji": "kakunin suru",
+  "polite": "kakunin shimasu",
+  "politeJa": "確認します",
+  "english": "check; confirm",
+  "use": "Making sure something is right or as planned: times, details, bookings.",
+  "pos": "suru-verb",
+  "flags": [],
+  "example": {
+   "romaji": "Chotto kakunin shite kuru ne.",
+   "ja": "ちょっと確認してくるね。",
+   "english": "I'll just go and check."
+  },
+  "examplePolite": {
+   "romaji": "Chotto kakunin shite kimasu.",
+   "ja": "ちょっと確認してきます。",
+   "english": "I'll just go and check."
+  },
+  "notes": "Also a noun: kakunin ga toreta (it's been confirmed)."
+ },
+ {
+  "src": "調べる",
+  "ja": "調べる",
+  "kana": "しらべる",
+  "romaji": "shiraberu",
+  "polite": "shirabemasu",
+  "politeJa": "調べます",
+  "english": "look up; look into; investigate",
+  "use": "Finding out something you don't know: online, in a dictionary, or by digging into it.",
+  "pos": "verb",
+  "flags": [],
+  "example": {
+   "romaji": "Netto de shirabete miru yo.",
+   "ja": "ネットで調べてみるよ。",
+   "english": "I'll look it up online."
+  },
+  "examplePolite": {
+   "romaji": "Netto de shirabete mimasu.",
+   "ja": "ネットで調べてみます。",
+   "english": "I'll look it up online."
+  },
+  "notes": "kakunin suru checks what you already think; shiraberu finds out something new."
+ },
+ {
+  "src": "チェック",
+  "ja": "チェックする",
+  "kana": "チェックする",
+  "romaji": "chekku suru",
+  "polite": "chekku shimasu",
+  "politeJa": "チェックします",
+  "english": "check; look over",
+  "use": "Quick, casual checking of messages, mistakes or a list; also keeping an eye on something.",
+  "pos": "suru-verb",
+  "flags": [],
+  "example": {
+   "romaji": "Kesa no meeru, chekku shita?",
+   "ja": "今朝のメール、チェックした？",
+   "english": "Did you check this morning's email?"
+  },
+  "examplePolite": {
+   "romaji": "Kesa no meeru wa chekku shimashita ka?",
+   "ja": "今朝のメールはチェックしましたか？",
+   "english": "Did you check this morning's email?"
+  },
+  "notes": "Not for paying the bill; that's okaikei."
+ },
+ {
+  "src": "確かめる",
+  "ja": "確かめる",
+  "kana": "たしかめる",
+  "romaji": "tashikameru",
+  "polite": "tashikamemasu",
+  "politeJa": "確かめます",
+  "english": "make sure; check for yourself",
+  "use": "Seeing or trying it yourself to be sure something is true.",
+  "pos": "verb",
+  "flags": [],
+  "example": {
+   "romaji": "Jibun no me de tashikametai.",
+   "ja": "自分の目で確かめたい。",
+   "english": "I want to see it for myself."
+  },
+  "examplePolite": {
+   "romaji": "Jibun no me de tashikametai desu.",
+   "ja": "自分の目で確かめたいです。",
+   "english": "I want to see it for myself."
+  },
+  "notes": "Also for feelings: kimochi o tashikameru (find out how someone really feels)."
+ },
+ {
+  "src": "比べる",
+  "ja": "比べる",
+  "kana": "くらべる",
+  "romaji": "kuraberu",
+  "polite": "kurabemasu",
+  "politeJa": "比べます",
+  "english": "compare",
+  "use": "X to Y o kuraberu (compare X and Y); X ni kurabete (compared with X).",
+  "pos": "verb",
+  "flags": [],
+  "example": {
+   "romaji": "Hoka no mise to kurabete mita?",
+   "ja": "ほかの店と比べてみた？",
+   "english": "Did you compare it with other shops?"
+  },
+  "examplePolite": {
+   "romaji": "Hoka no mise to kurabete mimashita ka?",
+   "ja": "ほかの店と比べてみましたか？",
+   "english": "Did you compare it with other shops?"
+  },
+  "notes": "hito to kurabenai de (don't compare yourself with others) is common advice."
+ },
+ {
+  "src": "間違う",
+  "ja": "間違う",
+  "kana": "まちがう",
+  "romaji": "machigau",
+  "polite": "machigaimasu",
+  "politeJa": "間違います",
+  "english": "be wrong; be mistaken",
+  "use": "Mostly as machigatteru or machigatta: it's wrong, you got it wrong.",
+  "pos": "verb",
+  "flags": [],
+  "example": {
+   "romaji": "Sore, chotto machigatteru yo.",
+   "ja": "それ、ちょっと間違ってるよ。",
+   "english": "That's a bit off."
+  },
+  "examplePolite": {
+   "romaji": "Sore, sukoshi machigatte imasu yo.",
+   "ja": "それ、少し間違っていますよ。",
+   "english": "That's a little off."
+  },
+  "notes": "To mix one thing up with another, use machigaeru: michi o machigaeta (I took a wrong turn). Noun: machigai."
+ },
+ {
+  "src": "ミス",
+  "ja": "ミスする",
+  "kana": "ミスする",
+  "romaji": "misu suru",
+  "polite": "misu shimasu",
+  "politeJa": "ミスします",
+  "english": "make a mistake; slip up",
+  "use": "Small slips, mainly at work, in games or in sport.",
+  "pos": "suru-verb",
+  "flags": [],
+  "example": {
+   "romaji": "Gomen, mata misu shichatta.",
+   "ja": "ごめん、またミスしちゃった。",
+   "english": "Sorry, I messed up again."
+  },
+  "examplePolite": {
+   "romaji": "Sumimasen, mata misu shite shimaimashita.",
+   "ja": "すみません、またミスしてしまいました。",
+   "english": "I'm sorry, I made another mistake."
+  },
+  "notes": "Also a noun: ore no misu da (my mistake)."
+ },
+ {
+  "src": "やり直す",
+  "ja": "やり直す",
+  "kana": "やりなおす",
+  "romaji": "yarinaosu",
+  "polite": "yarinaoshimasu",
+  "politeJa": "やり直します",
+  "english": "redo; start over",
+  "use": "Doing something over from the start, from homework to a relationship.",
+  "pos": "verb",
+  "flags": [],
+  "example": {
+   "romaji": "Dame da, mou ikkai yarinaosou.",
+   "ja": "だめだ、もう一回やり直そう。",
+   "english": "No good. Let's do it over."
+  },
+  "examplePolite": {
+   "romaji": "Dame desu ne, mou ikkai yarinaoshimashou.",
+   "ja": "だめですね、もう一回やり直しましょう。",
+   "english": "That's no good. Let's do it over."
+  },
+  "notes": "-naosu after a verb stem means 'redo': kakinaosu (rewrite), minaosu (look again)."
+ },
+ {
+  "src": "見逃す",
+  "ja": "見逃す",
+  "kana": "みのがす",
+  "romaji": "minogasu",
+  "polite": "minogashimasu",
+  "politeJa": "見逃します",
+  "english": "miss (seeing); let slide",
+  "use": "Missing something you meant to see, or letting someone off.",
+  "pos": "verb",
+  "flags": [],
+  "example": {
+   "romaji": "Kinou no dorama, minogashita.",
+   "ja": "昨日のドラマ、見逃した。",
+   "english": "I missed last night's episode."
+  },
+  "examplePolite": {
+   "romaji": "Kinou no dorama o minogashimashita.",
+   "ja": "昨日のドラマを見逃しました。",
+   "english": "I missed last night's episode."
+  },
+  "notes": "kondo dake minogashite: 'let it slide just this once'."
+ }
+]

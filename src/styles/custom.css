@@ -179,3 +179,13 @@ a.vl-chip:hover { text-decoration: underline; }
 	.vl-says { grid-template-columns: minmax(0, 1fr); }
 	.vl-idiom > .vl-meta { grid-column: 1 / -1; justify-content: flex-start; }
 }
+
+/* Round-7 lists: the meaning sits under the headword; conjugations add a name and a table built by rule. */
+.vl-word-en { font-size: var(--sl-text-lg); color: var(--sl-color-white); }
+.vl-conj > .vl-conj-name { grid-column: 2; color: var(--sl-color-gray-3); }
+.vl-conj > .vl-meta { grid-column: 3; }
+.vl-table-wrap { overflow-x: auto; }
+.vl-conj-table { width: auto; border-collapse: collapse; font-size: var(--sl-text-sm); }
+.vl-conj-table :is(th, td) { padding: 0.25rem 0.9rem 0.25rem 0; border-bottom: 1px solid var(--sl-color-hairline-light); text-align: left; vertical-align: baseline; }
+.vl-conj-table th { color: var(--sl-color-gray-3); font-weight: 400; }
+.vl-conj-table td[lang='ja'] { color: var(--sl-color-gray-2); }

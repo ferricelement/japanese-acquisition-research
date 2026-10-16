@@ -1,0 +1,22 @@
+---
+import ChunkPage from '../../../components/side/ChunkPage.astro';
+import Conjugation from '../../../components/Conjugation.astro';
+import Word from '../../../components/Word.astro';
+import { LIST_KEYS, WORDLISTS, type ListKey } from '../../../lib/wordlists';
+
+export function getStaticPaths() {
+	return LIST_KEYS.flatMap((list) => {
+		const { course } = WORDLISTS[list];
+		return course.data.stages.flatMap((s, si) =>
+			s.chunkIds.map((id, ci) => ({
+				params: { list, stage: String(si + 1), chunk: course.chunkSlug(course.blockById(id)) },
+				props: { id, pos: ci + 1, of: s.chunkIds.length },
+			})),
+		);
+	});
+}
+const list = Astro.params.list as ListKey;
+const { course, title } = WORDLISTS[list];
+---
+
+<ChunkPage course={course} {...Astro.props} title={title} Item={list === 'conjugations' ? Conjugation : Word} itemProps={{ list }} />

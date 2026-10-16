@@ -1,0 +1,22 @@
+{
+ "chunks": [
+  {"label": "Prices and shop counters", "rationale": "Lets you say prices and buy or order things by the piece, bottle, sheet or cup.", "interference": "-hon and -hai share the same changes (ippon/ippai, sanbon/sanbai); 4 yen is yoen.", "members": ["-en", "-ko", "-hon", "一枚", "杯"], "stage": 2, "set": "s-counters"},
+  {"label": "How many times", "rationale": "Lets you say how often something happened and ask how many times.", "interference": "-kai and -do mean the same here; ikkai is also 'ground floor'.", "members": ["一回", "何回", "一度", "何度"], "stage": 2, "set": "s-counters"},
+  {"label": "Animals, machines, books", "rationale": "Lets you count pets, cars and devices, and books.", "interference": "-hiki changes like -hon (ippiki, sanbiki, roppiki); -dai never changes.", "members": ["-hiki", "-dai", "-satsu"], "stage": 3, "set": "s-counters"},
+  {"label": "Turns, floors and rooms", "rationale": "Lets you name a turn, a floor, a place in line, a room or an address block.", "interference": "Floor -kai sounds like 'times' -kai; sangai is 3rd floor but sankai is three times.", "members": ["番", "-kai", "-banme", "号室", "丁目"], "stage": 3, "set": "s-counters"},
+  {"label": "Units of measure", "rationale": "Lets you give distances, heights, weights and volumes.", "interference": "Kiro can be kilograms or kilometres; ikkiro and issenchi shrink like native counters.", "members": ["キロ", "メートル", "センチ", "guramu", "rittoru"], "stage": 3, "set": "s-counters"},
+  {"label": "Set count expressions", "rationale": "Lets you say double, a few times, never once, and overnight.", "interference": "nibai (twice as much) vs nikai (twice); nandoka (a few times) vs nando mo (again and again).", "members": ["倍", "何度か", "一度も", "一晩"], "stage": 3, "set": "s-counters"},
+
+  {"label": "Telling the hour", "rationale": "Lets you ask and tell the time to the half hour, morning or afternoon.", "interference": "yoji, shichiji and kuji break the number pattern; nanji (what time) vs nanjikan (how many hours).", "members": ["一時", "nanji", "半", "gozen", "gogo"], "stage": 1, "set": "s-clock"},
+  {"label": "Minutes and roughly when", "rationale": "Lets you give exact minutes, rough times, and how long ago.", "interference": "-mae means both 'to the hour' and 'ago'; goro is for times, gurai for amounts.", "members": ["-fun", "ごろ", "-sugi", "-mae"], "stage": 2, "set": "s-clock"},
+  {"label": "How long it takes", "rationale": "Lets you say how many hours, minutes, seconds or weeks something lasts.", "interference": "niji (two o'clock) vs nijikan (two hours).", "members": ["-jikan", "-funkan", "秒", "週間"], "stage": 2, "set": "s-clock"},
+
+  {"label": "Saying your age", "rationale": "Lets you give your age and ask someone else's.", "interference": "hassai and jussai shrink; twenty is hatachi, not nijuusai.", "members": ["歳", "nansai", "oikutsu", "二十歳"], "stage": 1, "set": "s-years"},
+  {"label": "Counting years", "rationale": "Lets you give a year, say how many years, and name a school year.", "interference": "Four years is yonen, not yonnen; nannen can mean 'what year' or 'how many years'.", "members": ["-nen", "何年", "年間", "-nensei"], "stage": 2, "set": "s-years"},
+  {"label": "Comparing ages", "rationale": "Lets you talk about age, being the same age, or someone's decade.", "interference": "nijuudai (in one's twenties) vs hatachi (exactly twenty).", "members": ["年齢", "同い年", "nijuudai"], "stage": 3, "set": "s-years"},
+  {"label": "Years later and since", "rationale": "Lets you say a few years, years later, and the first time in years.", "interference": "-nengo (years later) vs -nenburi (first time in years).", "members": ["年ぶり", "年後", "数年"], "stage": 3, "set": "s-years"}
+ ],
+ "drops": [
+  {"src": "時半", "reason": "Tokenizer fragment of X-ji han (e.g. sanji han); covered by 半 (han) and 一時 (-ji)."}
+ ]
+}

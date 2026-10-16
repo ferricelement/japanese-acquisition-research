@@ -1,0 +1,27 @@
+{"chunks": [
+{"label": "Got it or not", "rationale": "Tell someone you understood, or that you didn't.", "interference": "wakarimashita and wakarimasen differ only in the ending, so listen for -shita versus -sen.", "members": ["わかりました", "わかりません", "はーい", "了解"], "stage": 1},
+{"label": "When you didn't catch it", "rationale": "Get people to repeat or slow down, and handle the compliment learners always get.", "interference": "kikoenakatta is about hearing; wakarimasen is about understanding.", "members": ["もう一度お願いします", "聞こえなかった", "ゆっくり話してください", "日本語上手ですね"], "stage": 1},
+{"label": "Agreeing strongly", "rationale": "Say 'yes, exactly' and 'I know the feeling', with friends or to a boss.", "interference": "wakaru wakaru means 'I feel the same', not 'I understand'.", "members": ["そうそう", "その通り", "わかるわかる", "おっしゃるとおり"], "stage": 1},
+{"label": "Tired or fine", "rationale": "Say how you feel and how you slept.", "interference": "yoku neta uses neru (sleep); nemurenakatta uses nemureru (can sleep).", "members": ["疲れた", "全然大丈夫", "よく寝た", "眠れなかった"], "stage": 1},
+{"label": "Hungry, thirsty, full", "rationale": "Say you're hungry, thirsty, full or drunk.", "interference": "hara hetta is rough; onaka pekopeko works for anyone.", "members": ["腹減った", "お腹いっぱい", "喉渇いた", "お腹ペコペコ", "酔っ払った"], "stage": 1},
+{"label": "How was it", "rationale": "Ask how something went and say it was fun or good.", "interference": "tanoshikatta is for fun you had; omoshirokatta is for something interesting or funny.", "members": ["楽しかった", "どうだった？", "どんな感じ？", "面白かった"], "stage": 1},
+{"label": "Giving your opinion", "rationale": "Ask what someone thinks, then agree or hedge.", "interference": "A drawn-out uun is 'hmm', but a quick dropping uun means no.", "members": ["どう思う？", "うーん", "そう思う", "さあ", "なんとも言えない"], "stage": 2},
+{"label": "Shouts and exclamations", "rationale": "Recognize the quick outbursts of surprise, scolding and frustration.", "interference": "kora scolds; it isn't a general 'hey'.", "members": ["やめて", "わあ", "こら", "クソ"], "stage": 2},
+{"label": "What do you mean", "rationale": "Ask for an explanation or what someone is getting at.", "interference": "nan no hanashi and nan no koto are near twins; dou iu koto asks for the reason.", "members": ["どういうこと？", "何の話？", "何のこと", "何か用"], "stage": 2},
+{"label": "Correcting a mix-up", "rationale": "Say 'no, that's not it' and push back on a plan.", "interference": "sou ja nakute corrects what was meant; sou wa ikanai refuses an easy way out.", "members": ["そうじゃなくて", "違う違う", "そうはいかない"], "stage": 2},
+{"label": "Getting attention", "rationale": "Get someone's attention before you speak, and respond when they show you something.", "interference": "ano alone is just 'um'; ooi calls to someone far away.", "members": ["あのね", "あのさ", "ちょっと聞いて", "おーい", "どれどれ"], "stage": 2},
+{"label": "Things you just learned", "rationale": "React to news, or to something you missed.", "interference": "shiranakatta is for facts; kizukanakatta is for things you failed to see.", "members": ["知らなかった", "そういうことか", "気づかなかった"], "stage": 2},
+{"label": "Emergencies and getting help", "rationale": "Call for help or an ambulance, warn of an earthquake, and show where it hurts.", "interference": "tasukete is for danger; tetsudatte is help with a task.", "members": ["助けて", "救急車を呼んで", "地震だ", "ここが痛い"], "stage": 2},
+{"label": "Lost and getting around", "rationale": "Say you're lost and ask the way.", "interference": "None.", "members": ["ここどこ？", "道に迷った", "どう行けばいいですか", "終電逃した"], "stage": 2},
+{"label": "Broken or lost things", "rationale": "Report that something broke, won't work, or went missing.", "interference": "nakushita is lost for good; wasuremono shita is left somewhere.", "members": ["壊れた", "動かない", "忘れ物した", "財布をなくした"], "stage": 2},
+{"label": "Mistakes and running late", "rationale": "Own up to a slip or say you'll be late.", "interference": "machigaechatta is your own mistake; machigatteru says something is wrong.", "members": ["間違えちゃった", "間に合わない", "困ったな", "寝坊した"], "stage": 2},
+{"label": "At your limit", "rationale": "Say you can't take any more.", "interference": "mou dame, mou muri and mou genkai overlap; mou muri is the most casual.", "members": ["もうダメ", "もう無理", "もう限界"], "stage": 2},
+{"label": "Nerves and relief", "rationale": "Say you're nervous, then relieved or feeling better.", "interference": "anshin shita and hotto shita are near twins; kinchou isn't excitement.", "members": ["緊張する", "安心した", "ほっとした", "楽になった"], "stage": 2},
+{"label": "That's how it goes", "rationale": "Concede a point or accept how things are.", "interference": "All start with sou or sore; sorya sou da is 'obviously', sore wa sou is 'fair point'.", "members": ["そりゃそうだ", "そういうもん", "それはそう"], "stage": 3},
+{"label": "Kidding and asides", "rationale": "Mark what you say as a joke, a warning, a secret or a long story.", "interference": "None.", "members": ["冗談だよ", "言っとくけど", "いろいろあって", "ないしょだよ"], "stage": 3},
+{"label": "Steering the conversation", "rationale": "Wrap up a plan, pick up a story, or change the topic.", "interference": "sou iu koto de wraps things up; sou iu koto ka is 'oh, I see'.", "members": ["じゃあ、そういうことで", "どこまで話したっけ", "話変わるけど"], "stage": 3},
+{"label": "Feeling refreshed", "rationale": "Say a bath, a drink or a clean-up made you feel better.", "interference": "sukkiri is cleared up inside; sappari is clean and fresh.", "members": ["すっきりした", "生き返った", "さっぱりした"], "stage": 3}
+],
+"drops": [
+{"src": "緊張", "reason": "Duplicates 緊張する; the phrase entry covers it."}
+]}

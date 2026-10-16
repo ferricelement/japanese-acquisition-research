@@ -1,0 +1,25 @@
+{
+ "chunks": [
+  {"label": "Zero to five", "rationale": "Lets you count and read out numbers up to five.", "interference": "Yon and shi both mean four; say yon.",
+   "members": ["zero", "ichi", "ni", "san", "yon", "go"], "stage": 1, "set": "s-numbers"},
+  {"label": "Six to ten", "rationale": "Lets you count to ten and say times and ages.", "interference": "Nana and shichi both mean seven, kyuu and ku both nine; shichi sounds like ichi.",
+   "members": ["roku", "nana", "hachi", "kyuu", "juu"], "stage": 1, "set": "s-numbers"},
+  {"label": "Building bigger numbers", "rationale": "Lets you say any number up to 9,999.", "interference": "Juuni (12) and nijuu (20) swap the same two parts.",
+   "members": ["juuichi", "nijuu", "hyaku", "sen"], "stage": 2, "set": "s-numbers"},
+  {"label": "Changed hundreds and thousands", "rationale": "Lets you say prices like 300 or 8,000 yen correctly.", "interference": "Saying the regular rokuhyaku or hachisen instead of the changed forms.",
+   "members": ["sanbyaku", "roppyaku", "happyaku", "sanzen", "hassen"], "stage": 2, "set": "s-numbers"},
+  {"label": "Big numbers in man", "rationale": "Lets you talk about rent, salaries and big prices.", "interference": "English counts in thousands; 100,000 is juuman, not hyakusen.",
+   "members": ["ichiman", "juuman", "hyakuman", "ichioku"], "stage": 2, "set": "s-numbers"},
+  {"label": "Things one to five", "rationale": "Lets you count and order things without knowing a counter.", "interference": "Hitotsu and futatsu are things; hitori and futari are people.",
+   "members": ["一つ", "futatsu", "mittsu", "yottsu", "itsutsu"], "stage": 1, "set": "s-native"},
+  {"label": "Things six to ten", "rationale": "Lets you count things up to ten.", "interference": "Muttsu (6) sounds like mittsu (3), and yattsu (8) like yottsu (4).",
+   "members": ["muttsu", "nanatsu", "yattsu", "kokonotsu", "too"], "stage": 1, "set": "s-native"},
+  {"label": "Asking how many", "rationale": "Lets you ask how many, say 'a few' and go through things one by one.", "interference": "Ikutsu asks how many; ikutsuka means a few.",
+   "members": ["いくつ", "いくつか", "一つ一つ"], "stage": 2, "set": "s-native"},
+  {"label": "Counting people", "rationale": "Lets you say and ask how many people, as at a restaurant door.", "interference": "One and two people are hitori and futari, not ichinin and ninin; four is yonin.",
+   "members": ["hitori", "二人", "sannin", "yonin", "何人"], "stage": 1, "set": "s-people"},
+  {"label": "Both, each, only one", "rationale": "Lets you talk about both people, each person, a lone person and the headcount.", "interference": "Hitori hitori (each person) vs hitotsu hitotsu (each thing).",
+   "members": ["二人とも", "一人一人", "たった一人", "人数"], "stage": 2, "set": "s-people"}
+ ],
+ "drops": []
+}

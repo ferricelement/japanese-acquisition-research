@@ -1,0 +1,1975 @@
+{
+ "items": [
+  {
+   "key": "pot",
+   "label": "potential",
+   "kind": "verb",
+   "chunk": "Can, be done, make do",
+   "table": [
+    {
+     "word": "taberu",
+     "romaji": "taberareru",
+     "ja": "食べられる"
+    },
+    {
+     "word": "miru",
+     "romaji": "mirareru",
+     "ja": "見られる"
+    },
+    {
+     "word": "kau",
+     "romaji": "kaeru",
+     "ja": "買える"
+    },
+    {
+     "word": "matsu",
+     "romaji": "materu",
+     "ja": "待てる"
+    },
+    {
+     "word": "kaeru",
+     "romaji": "kaereru",
+     "ja": "帰れる"
+    },
+    {
+     "word": "nomu",
+     "romaji": "nomeru",
+     "ja": "飲める"
+    },
+    {
+     "word": "asobu",
+     "romaji": "asoberu",
+     "ja": "遊べる"
+    },
+    {
+     "word": "kaku",
+     "romaji": "kakeru",
+     "ja": "書ける"
+    },
+    {
+     "word": "oyogu",
+     "romaji": "oyogeru",
+     "ja": "泳げる"
+    },
+    {
+     "word": "hanasu",
+     "romaji": "hanaseru",
+     "ja": "話せる"
+    },
+    {
+     "word": "iku",
+     "romaji": "ikeru",
+     "ja": "行ける"
+    },
+    {
+     "word": "suru",
+     "romaji": "dekiru",
+     "ja": "できる"
+    },
+    {
+     "word": "kuru",
+     "romaji": "korareru",
+     "ja": "来られる"
+    }
+   ],
+   "brief": "Can do: godan -eru, ichidan -rareru (spoken -reru), suru -> dekiru.",
+   "measured": null
+  },
+  {
+   "key": "pas",
+   "label": "passive",
+   "kind": "verb",
+   "chunk": "Can, be done, make do",
+   "table": [
+    {
+     "word": "taberu",
+     "romaji": "taberareru",
+     "ja": "食べられる"
+    },
+    {
+     "word": "miru",
+     "romaji": "mirareru",
+     "ja": "見られる"
+    },
+    {
+     "word": "kau",
+     "romaji": "kawareru",
+     "ja": "買われる"
+    },
+    {
+     "word": "matsu",
+     "romaji": "matareru",
+     "ja": "待たれる"
+    },
+    {
+     "word": "kaeru",
+     "romaji": "kaerareru",
+     "ja": "帰られる"
+    },
+    {
+     "word": "nomu",
+     "romaji": "nomareru",
+     "ja": "飲まれる"
+    },
+    {
+     "word": "asobu",
+     "romaji": "asobareru",
+     "ja": "遊ばれる"
+    },
+    {
+     "word": "kaku",
+     "romaji": "kakareru",
+     "ja": "書かれる"
+    },
+    {
+     "word": "oyogu",
+     "romaji": "oyogareru",
+     "ja": "泳がれる"
+    },
+    {
+     "word": "hanasu",
+     "romaji": "hanasareru",
+     "ja": "話される"
+    },
+    {
+     "word": "iku",
+     "romaji": "ikareru",
+     "ja": "行かれる"
+    },
+    {
+     "word": "suru",
+     "romaji": "sareru",
+     "ja": "される"
+    },
+    {
+     "word": "kuru",
+     "romaji": "korareru",
+     "ja": "来られる"
+    }
+   ],
+   "measured": {
+    "count": 86325,
+    "perMillion": 27230.5,
+    "shareOfHeads": 0.0378
+   },
+   "brief": "Be done to; also the 'suffering' passive (ame ni furareta)."
+  },
+  {
+   "key": "cau",
+   "label": "causative",
+   "kind": "verb",
+   "chunk": "Can, be done, make do",
+   "table": [
+    {
+     "word": "taberu",
+     "romaji": "tabesasete",
+     "ja": "食べさせて"
+    },
+    {
+     "word": "miru",
+     "romaji": "misasete",
+     "ja": "見させて"
+    },
+    {
+     "word": "kau",
+     "romaji": "kawasete",
+     "ja": "買わせて"
+    },
+    {
+     "word": "matsu",
+     "romaji": "matasete",
+     "ja": "待たせて"
+    },
+    {
+     "word": "kaeru",
+     "romaji": "kaerasete",
+     "ja": "帰らせて"
+    },
+    {
+     "word": "nomu",
+     "romaji": "nomasete",
+     "ja": "飲ませて"
+    },
+    {
+     "word": "asobu",
+     "romaji": "asobasete",
+     "ja": "遊ばせて"
+    },
+    {
+     "word": "kaku",
+     "romaji": "kakasete",
+     "ja": "書かせて"
+    },
+    {
+     "word": "oyogu",
+     "romaji": "oyogasete",
+     "ja": "泳がせて"
+    },
+    {
+     "word": "hanasu",
+     "romaji": "hanasasete",
+     "ja": "話させて"
+    },
+    {
+     "word": "iku",
+     "romaji": "ikasete",
+     "ja": "行かせて"
+    },
+    {
+     "word": "suru",
+     "romaji": "sasete",
+     "ja": "させて"
+    },
+    {
+     "word": "kuru",
+     "romaji": "kosasete",
+     "ja": "来させて"
+    }
+   ],
+   "measured": {
+    "count": 31332,
+    "perMillion": 9883.4,
+    "shareOfHeads": 0.0137
+   },
+   "brief": "Make/let someone do; -sasete (kudasai) = let me."
+  },
+  {
+   "key": "cp",
+   "label": "causative-passive",
+   "kind": "verb",
+   "chunk": "Can, be done, make do",
+   "table": [
+    {
+     "word": "taberu",
+     "romaji": "tabesaserareru",
+     "ja": "食べさせられる"
+    },
+    {
+     "word": "miru",
+     "romaji": "misaserareru",
+     "ja": "見させられる"
+    },
+    {
+     "word": "kau",
+     "romaji": "kawasareru",
+     "ja": "買わされる"
+    },
+    {
+     "word": "matsu",
+     "romaji": "matasareru",
+     "ja": "待たされる"
+    },
+    {
+     "word": "kaeru",
+     "romaji": "kaerasareru",
+     "ja": "帰らされる"
+    },
+    {
+     "word": "nomu",
+     "romaji": "nomasareru",
+     "ja": "飲まされる"
+    },
+    {
+     "word": "asobu",
+     "romaji": "asobasareru",
+     "ja": "遊ばされる"
+    },
+    {
+     "word": "kaku",
+     "romaji": "kakasareru",
+     "ja": "書かされる"
+    },
+    {
+     "word": "oyogu",
+     "romaji": "oyogasareru",
+     "ja": "泳がされる"
+    },
+    {
+     "word": "hanasu",
+     "romaji": "hanasaserareru",
+     "ja": "話させられる"
+    },
+    {
+     "word": "iku",
+     "romaji": "ikasareru",
+     "ja": "行かされる"
+    },
+    {
+     "word": "suru",
+     "romaji": "saserareru",
+     "ja": "させられる"
+    },
+    {
+     "word": "kuru",
+     "romaji": "kosaserareru",
+     "ja": "来させられる"
+    }
+   ],
+   "measured": {
+    "count": 648,
+    "perMillion": 204.4,
+    "shareOfHeads": 0.0003
+   },
+   "brief": "Be made to do (godan contraction -asareru)."
+  },
+  {
+   "key": "imp",
+   "label": "command form",
+   "kind": "verb",
+   "chunk": "Commands",
+   "table": [
+    {
+     "word": "taberu",
+     "romaji": "tabero",
+     "ja": "食べろ"
+    },
+    {
+     "word": "miru",
+     "romaji": "miro",
+     "ja": "見ろ"
+    },
+    {
+     "word": "kau",
+     "romaji": "kae",
+     "ja": "買え"
+    },
+    {
+     "word": "matsu",
+     "romaji": "mate",
+     "ja": "待て"
+    },
+    {
+     "word": "kaeru",
+     "romaji": "kaere",
+     "ja": "帰れ"
+    },
+    {
+     "word": "nomu",
+     "romaji": "nome",
+     "ja": "飲め"
+    },
+    {
+     "word": "asobu",
+     "romaji": "asobe",
+     "ja": "遊べ"
+    },
+    {
+     "word": "kaku",
+     "romaji": "kake",
+     "ja": "書け"
+    },
+    {
+     "word": "oyogu",
+     "romaji": "oyoge",
+     "ja": "泳げ"
+    },
+    {
+     "word": "hanasu",
+     "romaji": "hanase",
+     "ja": "話せ"
+    },
+    {
+     "word": "iku",
+     "romaji": "ike",
+     "ja": "行け"
+    },
+    {
+     "word": "suru",
+     "romaji": "shiro",
+     "ja": "しろ"
+    },
+    {
+     "word": "kuru",
+     "romaji": "koi",
+     "ja": "来い"
+    }
+   ],
+   "measured": {
+    "count": 81688,
+    "perMillion": 25767.8,
+    "shareOfHeads": 0.0358
+   },
+   "brief": "Blunt command (tabero, ike); heard in anger, sports, signs."
+  },
+  {
+   "key": "na",
+   "label": "-u na",
+   "kind": "verb",
+   "chunk": "Commands",
+   "table": [
+    {
+     "word": "taberu",
+     "romaji": "taberu na",
+     "ja": "食べるな"
+    },
+    {
+     "word": "miru",
+     "romaji": "miru na",
+     "ja": "見るな"
+    },
+    {
+     "word": "kau",
+     "romaji": "kau na",
+     "ja": "買うな"
+    },
+    {
+     "word": "matsu",
+     "romaji": "matsu na",
+     "ja": "待つな"
+    },
+    {
+     "word": "kaeru",
+     "romaji": "kaeru na",
+     "ja": "帰るな"
+    },
+    {
+     "word": "nomu",
+     "romaji": "nomu na",
+     "ja": "飲むな"
+    },
+    {
+     "word": "asobu",
+     "romaji": "asobu na",
+     "ja": "遊ぶな"
+    },
+    {
+     "word": "kaku",
+     "romaji": "kaku na",
+     "ja": "書くな"
+    },
+    {
+     "word": "oyogu",
+     "romaji": "oyogu na",
+     "ja": "泳ぐな"
+    },
+    {
+     "word": "hanasu",
+     "romaji": "hanasu na",
+     "ja": "話すな"
+    },
+    {
+     "word": "iku",
+     "romaji": "iku na",
+     "ja": "行くな"
+    },
+    {
+     "word": "suru",
+     "romaji": "suru na",
+     "ja": "するな"
+    },
+    {
+     "word": "kuru",
+     "romaji": "kuru na",
+     "ja": "来るな"
+    }
+   ],
+   "measured": {
+    "count": 18729,
+    "perMillion": 5907.9,
+    "shareOfHeads": 0.0082
+   },
+   "brief": "Don't! (blunt prohibition)."
+  },
+  {
+   "key": "nasai",
+   "label": "-nasai",
+   "kind": "verb",
+   "chunk": "Commands",
+   "table": [
+    {
+     "word": "taberu",
+     "romaji": "tabenasai",
+     "ja": "食べなさい"
+    },
+    {
+     "word": "miru",
+     "romaji": "minasai",
+     "ja": "見なさい"
+    },
+    {
+     "word": "kau",
+     "romaji": "kainasai",
+     "ja": "買いなさい"
+    },
+    {
+     "word": "matsu",
+     "romaji": "machinasai",
+     "ja": "待ちなさい"
+    },
+    {
+     "word": "kaeru",
+     "romaji": "kaerinasai",
+     "ja": "帰りなさい"
+    },
+    {
+     "word": "nomu",
+     "romaji": "nominasai",
+     "ja": "飲みなさい"
+    },
+    {
+     "word": "asobu",
+     "romaji": "asobinasai",
+     "ja": "遊びなさい"
+    },
+    {
+     "word": "kaku",
+     "romaji": "kakinasai",
+     "ja": "書きなさい"
+    },
+    {
+     "word": "oyogu",
+     "romaji": "oyoginasai",
+     "ja": "泳ぎなさい"
+    },
+    {
+     "word": "hanasu",
+     "romaji": "hanashinasai",
+     "ja": "話しなさい"
+    },
+    {
+     "word": "iku",
+     "romaji": "ikinasai",
+     "ja": "行きなさい"
+    },
+    {
+     "word": "suru",
+     "romaji": "shinasai",
+     "ja": "しなさい"
+    },
+    {
+     "word": "kuru",
+     "romaji": "kinasai",
+     "ja": "来なさい"
+    }
+   ],
+   "measured": {
+    "count": 7170,
+    "perMillion": 2261.7,
+    "shareOfHeads": 0.0031
+   },
+   "brief": "Parent/teacher command (tabenasai)."
+  },
+  {
+   "key": "te-kure",
+   "label": "-te kure",
+   "kind": "verb",
+   "chunk": "Commands",
+   "table": [
+    {
+     "word": "taberu",
+     "romaji": "tabete kure",
+     "ja": "食べてくれ"
+    },
+    {
+     "word": "miru",
+     "romaji": "mite kure",
+     "ja": "見てくれ"
+    },
+    {
+     "word": "kau",
+     "romaji": "katte kure",
+     "ja": "買ってくれ"
+    },
+    {
+     "word": "matsu",
+     "romaji": "matte kure",
+     "ja": "待ってくれ"
+    },
+    {
+     "word": "kaeru",
+     "romaji": "kaette kure",
+     "ja": "帰ってくれ"
+    },
+    {
+     "word": "nomu",
+     "romaji": "nonde kure",
+     "ja": "飲んでくれ"
+    },
+    {
+     "word": "asobu",
+     "romaji": "asonde kure",
+     "ja": "遊んでくれ"
+    },
+    {
+     "word": "kaku",
+     "romaji": "kaite kure",
+     "ja": "書いてくれ"
+    },
+    {
+     "word": "oyogu",
+     "romaji": "oyoide kure",
+     "ja": "泳いでくれ"
+    },
+    {
+     "word": "hanasu",
+     "romaji": "hanashite kure",
+     "ja": "話してくれ"
+    },
+    {
+     "word": "iku",
+     "romaji": "itte kure",
+     "ja": "行ってくれ"
+    },
+    {
+     "word": "suru",
+     "romaji": "shite kure",
+     "ja": "してくれ"
+    },
+    {
+     "word": "kuru",
+     "romaji": "kite kure",
+     "ja": "来てくれ"
+    }
+   ],
+   "measured": {
+    "count": 19183,
+    "perMillion": 6051.1,
+    "shareOfHeads": 0.0084
+   },
+   "brief": "Blunt request, mostly male (matte kure)."
+  },
+  {
+   "key": "chau",
+   "label": "-chau / -te shimau",
+   "kind": "verb",
+   "chunk": "Helper verbs after -te",
+   "table": [
+    {
+     "word": "taberu",
+     "romaji": "tabechau",
+     "ja": "食べちゃう"
+    },
+    {
+     "word": "miru",
+     "romaji": "michau",
+     "ja": "見ちゃう"
+    },
+    {
+     "word": "kau",
+     "romaji": "katchau",
+     "ja": "買っちゃう"
+    },
+    {
+     "word": "matsu",
+     "romaji": "matchau",
+     "ja": "待っちゃう"
+    },
+    {
+     "word": "kaeru",
+     "romaji": "kaetchau",
+     "ja": "帰っちゃう"
+    },
+    {
+     "word": "nomu",
+     "romaji": "nonjau",
+     "ja": "飲んじゃう"
+    },
+    {
+     "word": "asobu",
+     "romaji": "asonjau",
+     "ja": "遊んじゃう"
+    },
+    {
+     "word": "kaku",
+     "romaji": "kaichau",
+     "ja": "書いちゃう"
+    },
+    {
+     "word": "oyogu",
+     "romaji": "oyoijau",
+     "ja": "泳いじゃう"
+    },
+    {
+     "word": "hanasu",
+     "romaji": "hanashichau",
+     "ja": "話しちゃう"
+    },
+    {
+     "word": "iku",
+     "romaji": "itchau",
+     "ja": "行っちゃう"
+    },
+    {
+     "word": "suru",
+     "romaji": "shichau",
+     "ja": "しちゃう"
+    },
+    {
+     "word": "kuru",
+     "romaji": "kichau",
+     "ja": "来ちゃう"
+    }
+   ],
+   "measured": {
+    "count": 9297,
+    "perMillion": 2932.7,
+    "shareOfHeads": 0.0041
+   },
+   "brief": "Do completely / end up doing (regret)."
+  },
+  {
+   "key": "toku",
+   "label": "-toku / -te oku",
+   "kind": "verb",
+   "chunk": "Helper verbs after -te",
+   "table": [
+    {
+     "word": "taberu",
+     "romaji": "tabetoku",
+     "ja": "食べとく"
+    },
+    {
+     "word": "miru",
+     "romaji": "mitoku",
+     "ja": "見とく"
+    },
+    {
+     "word": "kau",
+     "romaji": "kattoku",
+     "ja": "買っとく"
+    },
+    {
+     "word": "matsu",
+     "romaji": "mattoku",
+     "ja": "待っとく"
+    },
+    {
+     "word": "kaeru",
+     "romaji": "kaettoku",
+     "ja": "帰っとく"
+    },
+    {
+     "word": "nomu",
+     "romaji": "nondoku",
+     "ja": "飲んどく"
+    },
+    {
+     "word": "asobu",
+     "romaji": "asondoku",
+     "ja": "遊んどく"
+    },
+    {
+     "word": "kaku",
+     "romaji": "kaitoku",
+     "ja": "書いとく"
+    },
+    {
+     "word": "oyogu",
+     "romaji": "oyoidoku",
+     "ja": "泳いどく"
+    },
+    {
+     "word": "hanasu",
+     "romaji": "hanashitoku",
+     "ja": "話しとく"
+    },
+    {
+     "word": "iku",
+     "romaji": "ittoku",
+     "ja": "行っとく"
+    },
+    {
+     "word": "suru",
+     "romaji": "shitoku",
+     "ja": "しとく"
+    },
+    {
+     "word": "kuru",
+     "romaji": "kitoku",
+     "ja": "来とく"
+    }
+   ],
+   "measured": {
+    "count": 8786,
+    "perMillion": 2771.5,
+    "shareOfHeads": 0.0038
+   },
+   "brief": "Do in advance / leave as is."
+  },
+  {
+   "key": "te-miru",
+   "label": "-te miru",
+   "kind": "verb",
+   "chunk": "Helper verbs after -te",
+   "table": [
+    {
+     "word": "taberu",
+     "romaji": "tabete miru",
+     "ja": "食べてみる"
+    },
+    {
+     "word": "miru",
+     "romaji": "mite miru",
+     "ja": "見てみる"
+    },
+    {
+     "word": "kau",
+     "romaji": "katte miru",
+     "ja": "買ってみる"
+    },
+    {
+     "word": "matsu",
+     "romaji": "matte miru",
+     "ja": "待ってみる"
+    },
+    {
+     "word": "kaeru",
+     "romaji": "kaette miru",
+     "ja": "帰ってみる"
+    },
+    {
+     "word": "nomu",
+     "romaji": "nonde miru",
+     "ja": "飲んでみる"
+    },
+    {
+     "word": "asobu",
+     "romaji": "asonde miru",
+     "ja": "遊んでみる"
+    },
+    {
+     "word": "kaku",
+     "romaji": "kaite miru",
+     "ja": "書いてみる"
+    },
+    {
+     "word": "oyogu",
+     "romaji": "oyoide miru",
+     "ja": "泳いでみる"
+    },
+    {
+     "word": "hanasu",
+     "romaji": "hanashite miru",
+     "ja": "話してみる"
+    },
+    {
+     "word": "iku",
+     "romaji": "itte miru",
+     "ja": "行ってみる"
+    },
+    {
+     "word": "suru",
+     "romaji": "shite miru",
+     "ja": "してみる"
+    },
+    {
+     "word": "kuru",
+     "romaji": "kite miru",
+     "ja": "来てみる"
+    }
+   ],
+   "measured": {
+    "count": 10229,
+    "perMillion": 3226.7,
+    "shareOfHeads": 0.0045
+   },
+   "brief": "Try doing (and see)."
+  },
+  {
+   "key": "te-mo",
+   "label": "-te mo",
+   "kind": "verb",
+   "chunk": "Helper verbs after -te",
+   "table": [
+    {
+     "word": "taberu",
+     "romaji": "tabetemo",
+     "ja": "食べても"
+    },
+    {
+     "word": "miru",
+     "romaji": "mitemo",
+     "ja": "見ても"
+    },
+    {
+     "word": "kau",
+     "romaji": "kattemo",
+     "ja": "買っても"
+    },
+    {
+     "word": "matsu",
+     "romaji": "mattemo",
+     "ja": "待っても"
+    },
+    {
+     "word": "kaeru",
+     "romaji": "kaettemo",
+     "ja": "帰っても"
+    },
+    {
+     "word": "nomu",
+     "romaji": "nondemo",
+     "ja": "飲んでも"
+    },
+    {
+     "word": "asobu",
+     "romaji": "asondemo",
+     "ja": "遊んでも"
+    },
+    {
+     "word": "kaku",
+     "romaji": "kaitemo",
+     "ja": "書いても"
+    },
+    {
+     "word": "oyogu",
+     "romaji": "oyoidemo",
+     "ja": "泳いでも"
+    },
+    {
+     "word": "hanasu",
+     "romaji": "hanashitemo",
+     "ja": "話しても"
+    },
+    {
+     "word": "iku",
+     "romaji": "ittemo",
+     "ja": "行っても"
+    },
+    {
+     "word": "suru",
+     "romaji": "shitemo",
+     "ja": "しても"
+    },
+    {
+     "word": "kuru",
+     "romaji": "kitemo",
+     "ja": "来ても"
+    }
+   ],
+   "measured": {
+    "count": 9480,
+    "perMillion": 2990.4,
+    "shareOfHeads": 0.0042
+   },
+   "brief": "Even if / even though."
+  },
+  {
+   "key": "tari",
+   "label": "-tari ... -tari",
+   "kind": "verb",
+   "chunk": "Doing two things",
+   "table": [
+    {
+     "word": "taberu",
+     "romaji": "tabetari",
+     "ja": "食べたり"
+    },
+    {
+     "word": "miru",
+     "romaji": "mitari",
+     "ja": "見たり"
+    },
+    {
+     "word": "kau",
+     "romaji": "kattari",
+     "ja": "買ったり"
+    },
+    {
+     "word": "matsu",
+     "romaji": "mattari",
+     "ja": "待ったり"
+    },
+    {
+     "word": "kaeru",
+     "romaji": "kaettari",
+     "ja": "帰ったり"
+    },
+    {
+     "word": "nomu",
+     "romaji": "nondari",
+     "ja": "飲んだり"
+    },
+    {
+     "word": "asobu",
+     "romaji": "asondari",
+     "ja": "遊んだり"
+    },
+    {
+     "word": "kaku",
+     "romaji": "kaitari",
+     "ja": "書いたり"
+    },
+    {
+     "word": "oyogu",
+     "romaji": "oyoidari",
+     "ja": "泳いだり"
+    },
+    {
+     "word": "hanasu",
+     "romaji": "hanashitari",
+     "ja": "話したり"
+    },
+    {
+     "word": "iku",
+     "romaji": "ittari",
+     "ja": "行ったり"
+    },
+    {
+     "word": "suru",
+     "romaji": "shitari",
+     "ja": "したり"
+    },
+    {
+     "word": "kuru",
+     "romaji": "kitari",
+     "ja": "来たり"
+    }
+   ],
+   "measured": {
+    "count": 3393,
+    "perMillion": 1070.3,
+    "shareOfHeads": 0.0015
+   },
+   "brief": "Things like ... and ...; do things like."
+  },
+  {
+   "key": "nagara",
+   "label": "-nagara",
+   "kind": "verb",
+   "chunk": "Doing two things",
+   "table": [
+    {
+     "word": "taberu",
+     "romaji": "tabenagara",
+     "ja": "食べながら"
+    },
+    {
+     "word": "miru",
+     "romaji": "minagara",
+     "ja": "見ながら"
+    },
+    {
+     "word": "kau",
+     "romaji": "kainagara",
+     "ja": "買いながら"
+    },
+    {
+     "word": "matsu",
+     "romaji": "machinagara",
+     "ja": "待ちながら"
+    },
+    {
+     "word": "kaeru",
+     "romaji": "kaerinagara",
+     "ja": "帰りながら"
+    },
+    {
+     "word": "nomu",
+     "romaji": "nominagara",
+     "ja": "飲みながら"
+    },
+    {
+     "word": "asobu",
+     "romaji": "asobinagara",
+     "ja": "遊びながら"
+    },
+    {
+     "word": "kaku",
+     "romaji": "kakinagara",
+     "ja": "書きながら"
+    },
+    {
+     "word": "oyogu",
+     "romaji": "oyoginagara",
+     "ja": "泳ぎながら"
+    },
+    {
+     "word": "hanasu",
+     "romaji": "hanashinagara",
+     "ja": "話しながら"
+    },
+    {
+     "word": "iku",
+     "romaji": "ikinagara",
+     "ja": "行きながら"
+    },
+    {
+     "word": "suru",
+     "romaji": "shinagara",
+     "ja": "しながら"
+    },
+    {
+     "word": "kuru",
+     "romaji": "kinagara",
+     "ja": "来ながら"
+    }
+   ],
+   "measured": {
+    "count": 1489,
+    "perMillion": 469.7,
+    "shareOfHeads": 0.0007
+   },
+   "brief": "While doing (same person)."
+  },
+  {
+   "key": "zu-ni",
+   "label": "-zu ni",
+   "kind": "verb",
+   "chunk": "Doing two things",
+   "table": [
+    {
+     "word": "taberu",
+     "romaji": "tabezu ni",
+     "ja": "食べずに"
+    },
+    {
+     "word": "miru",
+     "romaji": "mizu ni",
+     "ja": "見ずに"
+    },
+    {
+     "word": "kau",
+     "romaji": "kawazu ni",
+     "ja": "買わずに"
+    },
+    {
+     "word": "matsu",
+     "romaji": "matazu ni",
+     "ja": "待たずに"
+    },
+    {
+     "word": "kaeru",
+     "romaji": "kaerazu ni",
+     "ja": "帰らずに"
+    },
+    {
+     "word": "nomu",
+     "romaji": "nomazu ni",
+     "ja": "飲まずに"
+    },
+    {
+     "word": "asobu",
+     "romaji": "asobazu ni",
+     "ja": "遊ばずに"
+    },
+    {
+     "word": "kaku",
+     "romaji": "kakazu ni",
+     "ja": "書かずに"
+    },
+    {
+     "word": "oyogu",
+     "romaji": "oyogazu ni",
+     "ja": "泳がずに"
+    },
+    {
+     "word": "hanasu",
+     "romaji": "hanasazu ni",
+     "ja": "話さずに"
+    },
+    {
+     "word": "iku",
+     "romaji": "ikazu ni",
+     "ja": "行かずに"
+    },
+    {
+     "word": "suru",
+     "romaji": "sezu ni",
+     "ja": "せずに"
+    },
+    {
+     "word": "kuru",
+     "romaji": "kozu ni",
+     "ja": "来ずに"
+    }
+   ],
+   "measured": {
+    "count": 6061,
+    "perMillion": 1911.9,
+    "shareOfHeads": 0.0027
+   },
+   "brief": "Without doing (more written than -naide)."
+  },
+  {
+   "key": "sou",
+   "label": "-sou",
+   "kind": "verb",
+   "chunk": "Looks, too much, easy",
+   "table": [
+    {
+     "word": "taberu",
+     "romaji": "tabesou",
+     "ja": "食べそう"
+    },
+    {
+     "word": "miru",
+     "romaji": "misou",
+     "ja": "見そう"
+    },
+    {
+     "word": "kau",
+     "romaji": "kaisou",
+     "ja": "買いそう"
+    },
+    {
+     "word": "matsu",
+     "romaji": "machisou",
+     "ja": "待ちそう"
+    },
+    {
+     "word": "kaeru",
+     "romaji": "kaerisou",
+     "ja": "帰りそう"
+    },
+    {
+     "word": "nomu",
+     "romaji": "nomisou",
+     "ja": "飲みそう"
+    },
+    {
+     "word": "asobu",
+     "romaji": "asobisou",
+     "ja": "遊びそう"
+    },
+    {
+     "word": "kaku",
+     "romaji": "kakisou",
+     "ja": "書きそう"
+    },
+    {
+     "word": "oyogu",
+     "romaji": "oyogisou",
+     "ja": "泳ぎそう"
+    },
+    {
+     "word": "hanasu",
+     "romaji": "hanashisou",
+     "ja": "話しそう"
+    },
+    {
+     "word": "iku",
+     "romaji": "ikisou",
+     "ja": "行きそう"
+    },
+    {
+     "word": "suru",
+     "romaji": "shisou",
+     "ja": "しそう"
+    },
+    {
+     "word": "kuru",
+     "romaji": "kisou",
+     "ja": "来そう"
+    }
+   ],
+   "measured": {
+    "count": 3872,
+    "perMillion": 1221.4,
+    "shareOfHeads": 0.0017
+   },
+   "brief": "Looks like it's about to (furisou)."
+  },
+  {
+   "key": "sugiru",
+   "label": "-sugiru",
+   "kind": "verb",
+   "chunk": "Looks, too much, easy",
+   "table": [
+    {
+     "word": "taberu",
+     "romaji": "tabesugiru",
+     "ja": "食べすぎる"
+    },
+    {
+     "word": "miru",
+     "romaji": "misugiru",
+     "ja": "見すぎる"
+    },
+    {
+     "word": "kau",
+     "romaji": "kaisugiru",
+     "ja": "買いすぎる"
+    },
+    {
+     "word": "matsu",
+     "romaji": "machisugiru",
+     "ja": "待ちすぎる"
+    },
+    {
+     "word": "kaeru",
+     "romaji": "kaerisugiru",
+     "ja": "帰りすぎる"
+    },
+    {
+     "word": "nomu",
+     "romaji": "nomisugiru",
+     "ja": "飲みすぎる"
+    },
+    {
+     "word": "asobu",
+     "romaji": "asobisugiru",
+     "ja": "遊びすぎる"
+    },
+    {
+     "word": "kaku",
+     "romaji": "kakisugiru",
+     "ja": "書きすぎる"
+    },
+    {
+     "word": "oyogu",
+     "romaji": "oyogisugiru",
+     "ja": "泳ぎすぎる"
+    },
+    {
+     "word": "hanasu",
+     "romaji": "hanashisugiru",
+     "ja": "話しすぎる"
+    },
+    {
+     "word": "iku",
+     "romaji": "ikisugiru",
+     "ja": "行きすぎる"
+    },
+    {
+     "word": "suru",
+     "romaji": "shisugiru",
+     "ja": "しすぎる"
+    },
+    {
+     "word": "kuru",
+     "romaji": "kisugiru",
+     "ja": "来すぎる"
+    }
+   ],
+   "measured": {
+    "count": 1368,
+    "perMillion": 431.5,
+    "shareOfHeads": 0.0006
+   },
+   "brief": "Do too much (tabesugita)."
+  },
+  {
+   "key": "yasui",
+   "label": "-yasui / -nikui",
+   "kind": "verb",
+   "chunk": "Looks, too much, easy",
+   "table": [
+    {
+     "word": "taberu",
+     "romaji": "tabeyasui",
+     "ja": "食べやすい"
+    },
+    {
+     "word": "miru",
+     "romaji": "miyasui",
+     "ja": "見やすい"
+    },
+    {
+     "word": "kau",
+     "romaji": "kaiyasui",
+     "ja": "買いやすい"
+    },
+    {
+     "word": "matsu",
+     "romaji": "machiyasui",
+     "ja": "待ちやすい"
+    },
+    {
+     "word": "kaeru",
+     "romaji": "kaeriyasui",
+     "ja": "帰りやすい"
+    },
+    {
+     "word": "nomu",
+     "romaji": "nomiyasui",
+     "ja": "飲みやすい"
+    },
+    {
+     "word": "asobu",
+     "romaji": "asobiyasui",
+     "ja": "遊びやすい"
+    },
+    {
+     "word": "kaku",
+     "romaji": "kakiyasui",
+     "ja": "書きやすい"
+    },
+    {
+     "word": "oyogu",
+     "romaji": "oyogiyasui",
+     "ja": "泳ぎやすい"
+    },
+    {
+     "word": "hanasu",
+     "romaji": "hanashiyasui",
+     "ja": "話しやすい"
+    },
+    {
+     "word": "iku",
+     "romaji": "ikiyasui",
+     "ja": "行きやすい"
+    },
+    {
+     "word": "suru",
+     "romaji": "shiyasui",
+     "ja": "しやすい"
+    },
+    {
+     "word": "kuru",
+     "romaji": "kiyasui",
+     "ja": "来やすい"
+    }
+   ],
+   "brief": "Easy / hard to do.",
+   "measured": null
+  },
+  {
+   "key": "nn",
+   "label": "spoken -nnai",
+   "kind": "verb",
+   "chunk": "Spoken shortcuts",
+   "table": [
+    {
+     "word": "kaeru",
+     "romaji": "kaennai",
+     "ja": "帰んない"
+    }
+   ],
+   "brief": "Spoken -ranai -> -nnai (wakannai, shiranai -> shiran), -ru -> -n before n/d (iku n da -> ikun da).",
+   "measured": null
+  },
+  {
+   "key": "contractions",
+   "label": "spoken contractions",
+   "kind": "rule",
+   "chunk": "Spoken shortcuts",
+   "table": [
+    {
+     "word": "taberu",
+     "romaji": "tabenakya",
+     "ja": "食べなきゃ"
+    },
+    {
+     "word": "miru",
+     "romaji": "minakya",
+     "ja": "見なきゃ"
+    },
+    {
+     "word": "kau",
+     "romaji": "kawanakya",
+     "ja": "買わなきゃ"
+    },
+    {
+     "word": "matsu",
+     "romaji": "matanakya",
+     "ja": "待たなきゃ"
+    },
+    {
+     "word": "kaeru",
+     "romaji": "kaeranakya",
+     "ja": "帰らなきゃ"
+    },
+    {
+     "word": "nomu",
+     "romaji": "nomanakya",
+     "ja": "飲まなきゃ"
+    },
+    {
+     "word": "asobu",
+     "romaji": "asobanakya",
+     "ja": "遊ばなきゃ"
+    },
+    {
+     "word": "kaku",
+     "romaji": "kakanakya",
+     "ja": "書かなきゃ"
+    },
+    {
+     "word": "oyogu",
+     "romaji": "oyoganakya",
+     "ja": "泳がなきゃ"
+    },
+    {
+     "word": "hanasu",
+     "romaji": "hanasanakya",
+     "ja": "話さなきゃ"
+    },
+    {
+     "word": "iku",
+     "romaji": "ikanakya",
+     "ja": "行かなきゃ"
+    },
+    {
+     "word": "suru",
+     "romaji": "shinakya",
+     "ja": "しなきゃ"
+    },
+    {
+     "word": "kuru",
+     "romaji": "konakya",
+     "ja": "来なきゃ"
+    }
+   ],
+   "brief": "The sound shortcuts that make fast speech hard to hear: -teru, -toku, -chau, -nakya, -nakucha, -cha, -tte, ja (de wa), n da (no da), -rya (-reba: ikeba -> ikya), -teku (-te iku).",
+   "measured": null
+  },
+  {
+   "key": "a-plain",
+   "label": "adjectives: plain and polite",
+   "kind": "adj",
+   "chunk": "Adjectives and the copula",
+   "table": [
+    {
+     "word": "takai",
+     "romaji": "takai desu",
+     "ja": "高いです"
+    },
+    {
+     "word": "ii",
+     "romaji": "ii desu",
+     "ja": "いいです"
+    },
+    {
+     "word": "kirei",
+     "romaji": "kirei desu",
+     "ja": "きれいです"
+    },
+    {
+     "word": "gakusei",
+     "romaji": "gakusei desu",
+     "ja": "学生です"
+    }
+   ],
+   "brief": "takai / takai desu; kirei da / kirei desu; gakusei da / desu.",
+   "measured": null
+  },
+  {
+   "key": "a-past",
+   "label": "-katta / datta",
+   "kind": "adj",
+   "chunk": "Adjectives and the copula",
+   "table": [
+    {
+     "word": "takai",
+     "romaji": "takakatta",
+     "ja": "高かった"
+    },
+    {
+     "word": "ii",
+     "romaji": "yokatta",
+     "ja": "よかった"
+    },
+    {
+     "word": "kirei",
+     "romaji": "kirei datta",
+     "ja": "きれいだった"
+    },
+    {
+     "word": "gakusei",
+     "romaji": "gakusei datta",
+     "ja": "学生だった"
+    }
+   ],
+   "measured": {
+    "count": 21447,
+    "perMillion": 6765.3,
+    "shareOfHeads": 0.0571
+   },
+   "brief": "Past: takakatta, ii -> yokatta, kirei datta."
+  },
+  {
+   "key": "a-neg",
+   "label": "-kunai / ja nai",
+   "kind": "adj",
+   "chunk": "Adjectives and the copula",
+   "table": [
+    {
+     "word": "takai",
+     "romaji": "takakunai",
+     "ja": "高くない"
+    },
+    {
+     "word": "ii",
+     "romaji": "yokunai",
+     "ja": "よくない"
+    },
+    {
+     "word": "kirei",
+     "romaji": "kirei ja nai",
+     "ja": "きれいじゃない"
+    },
+    {
+     "word": "gakusei",
+     "romaji": "gakusei ja nai",
+     "ja": "学生じゃない"
+    }
+   ],
+   "measured": {
+    "count": 4439,
+    "perMillion": 1400.2,
+    "shareOfHeads": 0.0118
+   },
+   "brief": "Negative: takakunai, yokunai, kirei ja nai."
+  },
+  {
+   "key": "a-negpast",
+   "label": "-kunakatta / ja nakatta",
+   "kind": "adj",
+   "chunk": "Adjectives and the copula",
+   "table": [
+    {
+     "word": "takai",
+     "romaji": "takakunakatta",
+     "ja": "高くなかった"
+    },
+    {
+     "word": "ii",
+     "romaji": "yokunakatta",
+     "ja": "よくなかった"
+    },
+    {
+     "word": "kirei",
+     "romaji": "kirei ja nakatta",
+     "ja": "きれいじゃなかった"
+    },
+    {
+     "word": "gakusei",
+     "romaji": "gakusei ja nakatta",
+     "ja": "学生じゃなかった"
+    }
+   ],
+   "measured": {
+    "count": 342,
+    "perMillion": 107.9,
+    "shareOfHeads": 0.0009
+   },
+   "brief": "Negative past."
+  },
+  {
+   "key": "a-te",
+   "label": "-kute / de",
+   "kind": "adj",
+   "chunk": "Adjectives that link and change",
+   "table": [
+    {
+     "word": "taberu",
+     "romaji": "tabete",
+     "ja": "食べて"
+    },
+    {
+     "word": "miru",
+     "romaji": "mite",
+     "ja": "見て"
+    },
+    {
+     "word": "kau",
+     "romaji": "katte",
+     "ja": "買って"
+    },
+    {
+     "word": "matsu",
+     "romaji": "matte",
+     "ja": "待って"
+    },
+    {
+     "word": "kaeru",
+     "romaji": "kaette",
+     "ja": "帰って"
+    },
+    {
+     "word": "nomu",
+     "romaji": "nonde",
+     "ja": "飲んで"
+    },
+    {
+     "word": "asobu",
+     "romaji": "asonde",
+     "ja": "遊んで"
+    },
+    {
+     "word": "kaku",
+     "romaji": "kaite",
+     "ja": "書いて"
+    },
+    {
+     "word": "oyogu",
+     "romaji": "oyoide",
+     "ja": "泳いで"
+    },
+    {
+     "word": "hanasu",
+     "romaji": "hanashite",
+     "ja": "話して"
+    },
+    {
+     "word": "iku",
+     "romaji": "itte",
+     "ja": "行って"
+    },
+    {
+     "word": "suru",
+     "romaji": "shite",
+     "ja": "して"
+    },
+    {
+     "word": "kuru",
+     "romaji": "kite",
+     "ja": "来て"
+    }
+   ],
+   "measured": {
+    "count": 5679,
+    "perMillion": 1791.4,
+    "shareOfHeads": 0.0151
+   },
+   "brief": "Linking adjectives (yasukute oishii); because."
+  },
+  {
+   "key": "a-naru",
+   "label": "-ku / ni + naru",
+   "kind": "adj",
+   "chunk": "Adjectives that link and change",
+   "table": [
+    {
+     "word": "takai",
+     "romaji": "takaku naru",
+     "ja": "高くなる"
+    },
+    {
+     "word": "ii",
+     "romaji": "yoku naru",
+     "ja": "よくなる"
+    },
+    {
+     "word": "kirei",
+     "romaji": "kirei ni naru",
+     "ja": "きれいになる"
+    },
+    {
+     "word": "gakusei",
+     "romaji": "gakusei ni naru",
+     "ja": "学生になる"
+    }
+   ],
+   "measured": {
+    "count": 34699,
+    "perMillion": 10945.5,
+    "shareOfHeads": 0.0924
+   },
+   "brief": "Adverb form and becoming (takaku naru, kirei ni naru)."
+  },
+  {
+   "key": "a-attr",
+   "label": "before a noun",
+   "kind": "adj",
+   "chunk": "Adjectives that link and change",
+   "table": [
+    {
+     "word": "takai",
+     "romaji": "takai",
+     "ja": "高い"
+    },
+    {
+     "word": "ii",
+     "romaji": "ii",
+     "ja": "いい"
+    },
+    {
+     "word": "kirei",
+     "romaji": "kirei na",
+     "ja": "きれいな"
+    },
+    {
+     "word": "gakusei",
+     "romaji": "gakusei no",
+     "ja": "学生の"
+    }
+   ],
+   "measured": {
+    "count": 47154,
+    "perMillion": 14874.4,
+    "shareOfHeads": 0.2974
+   },
+   "brief": "takai hon, kirei na hito, gakusei no toki."
+  },
+  {
+   "key": "a-if",
+   "label": "-kereba / -kattara / nara",
+   "kind": "adj",
+   "chunk": "Adjectives that link and change",
+   "table": [
+    {
+     "word": "taberu",
+     "romaji": "tabetara",
+     "ja": "食べたら"
+    },
+    {
+     "word": "miru",
+     "romaji": "mitara",
+     "ja": "見たら"
+    },
+    {
+     "word": "kau",
+     "romaji": "kattara",
+     "ja": "買ったら"
+    },
+    {
+     "word": "matsu",
+     "romaji": "mattara",
+     "ja": "待ったら"
+    },
+    {
+     "word": "kaeru",
+     "romaji": "kaettara",
+     "ja": "帰ったら"
+    },
+    {
+     "word": "nomu",
+     "romaji": "nondara",
+     "ja": "飲んだら"
+    },
+    {
+     "word": "asobu",
+     "romaji": "asondara",
+     "ja": "遊んだら"
+    },
+    {
+     "word": "kaku",
+     "romaji": "kaitara",
+     "ja": "書いたら"
+    },
+    {
+     "word": "oyogu",
+     "romaji": "oyoidara",
+     "ja": "泳いだら"
+    },
+    {
+     "word": "hanasu",
+     "romaji": "hanashitara",
+     "ja": "話したら"
+    },
+    {
+     "word": "iku",
+     "romaji": "ittara",
+     "ja": "行ったら"
+    },
+    {
+     "word": "suru",
+     "romaji": "shitara",
+     "ja": "したら"
+    },
+    {
+     "word": "kuru",
+     "romaji": "kitara",
+     "ja": "来たら"
+    }
+   ],
+   "measured": {
+    "count": 757,
+    "perMillion": 238.8,
+    "shareOfHeads": 0.002
+   },
+   "brief": "Adjective conditionals."
+  },
+  {
+   "key": "a-sou",
+   "label": "-sou (looks)",
+   "kind": "adj",
+   "chunk": "Adjectives that link and change",
+   "table": [
+    {
+     "word": "taberu",
+     "romaji": "tabesou",
+     "ja": "食べそう"
+    },
+    {
+     "word": "miru",
+     "romaji": "misou",
+     "ja": "見そう"
+    },
+    {
+     "word": "kau",
+     "romaji": "kaisou",
+     "ja": "買いそう"
+    },
+    {
+     "word": "matsu",
+     "romaji": "machisou",
+     "ja": "待ちそう"
+    },
+    {
+     "word": "kaeru",
+     "romaji": "kaerisou",
+     "ja": "帰りそう"
+    },
+    {
+     "word": "nomu",
+     "romaji": "nomisou",
+     "ja": "飲みそう"
+    },
+    {
+     "word": "asobu",
+     "romaji": "asobisou",
+     "ja": "遊びそう"
+    },
+    {
+     "word": "kaku",
+     "romaji": "kakisou",
+     "ja": "書きそう"
+    },
+    {
+     "word": "oyogu",
+     "romaji": "oyogisou",
+     "ja": "泳ぎそう"
+    },
+    {
+     "word": "hanasu",
+     "romaji": "hanashisou",
+     "ja": "話しそう"
+    },
+    {
+     "word": "iku",
+     "romaji": "ikisou",
+     "ja": "行きそう"
+    },
+    {
+     "word": "suru",
+     "romaji": "shisou",
+     "ja": "しそう"
+    },
+    {
+     "word": "kuru",
+     "romaji": "kisou",
+     "ja": "来そう"
+    }
+   ],
+   "measured": {
+    "count": 2509,
+    "perMillion": 791.4,
+    "shareOfHeads": 0.0067
+   },
+   "brief": "Looks (oishisou, yosasou, genki sou)."
+  },
+  {
+   "key": "a-darou",
+   "label": "deshou / darou",
+   "kind": "adj",
+   "chunk": "Adjectives and the copula",
+   "table": [
+    {
+     "word": "takai",
+     "romaji": "takai deshou",
+     "ja": "高いでしょう"
+    },
+    {
+     "word": "ii",
+     "romaji": "ii deshou",
+     "ja": "いいでしょう"
+    },
+    {
+     "word": "kirei",
+     "romaji": "kirei deshou",
+     "ja": "きれいでしょう"
+    },
+    {
+     "word": "gakusei",
+     "romaji": "gakusei deshou",
+     "ja": "学生でしょう"
+    }
+   ],
+   "brief": "Probably; right? (rising).",
+   "measured": null
+  }
+ ]
+}

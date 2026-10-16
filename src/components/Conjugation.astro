@@ -1,0 +1,66 @@
+---
+import JaText from './JaText.astro';
+import { WORDLISTS, type Word } from '../lib/wordlists';
+
+// One conjugation form or rule: what it does, how to make it, the form for every model word, then examples.
+interface Props { item: Word }
+const { item } = Astro.props;
+const course = WORDLISTS.conjugations.course;
+const links = course.listLinksOf(item);
+const examples = [['casual', item.example], ['polite', item.examplePolite]] as const;
+const m = item.measured;
+---
+
+<section class="vl-item vl-idiom vl-conj not-content">
+	<h2 id={item.id} class="vl-ro" translate="no">{item.romaji}</h2>
+	<span class="vl-conj-name">{item.name}</span>
+	<span class="vl-meta"><span class="vl-ja" lang="ja">{item.ja}</span></span>
+	<p class="vl-en vl-word-en">{item.english}</p>
+	<div class="vl-use">
+		{item.use && <p><JaText text={item.use} /></p>}
+		{item.formation && <p><span class="vl-tag">Make it</span> <JaText text={item.formation} /></p>}
+		{item.polite && <p class="vl-use-note"><span class="vl-tag">Polite</span> <span translate="no">{item.polite}</span></p>}
+		{item.notes && <p class="vl-use-note"><JaText text={item.notes} /></p>}
+	</div>
+	{item.table && item.table.length > 0 && (
+		<div class="vl-table-wrap">
+			<table class="vl-conj-table">
+				<tbody>
+					{item.table.map((r) => (
+						<tr>
+							<th scope="row" translate="no">{r.word}</th>
+							<td class="vl-ex-ro" translate="no">{r.romaji}</td>
+							<td lang="ja">{r.ja}</td>
+							<td><button type="button" class="vl-play" data-say={r.ja} aria-label={`Play ${r.romaji}`} data-pagefind-ignore>Play</button></td>
+						</tr>
+					))}
+				</tbody>
+			</table>
+		</div>
+	)}
+	<div class="vl-examples">
+		{examples.map(([label, ex]) => ex && (
+			<div class="vl-ex">
+				<div class="vl-ex-top">
+					<span class="vl-tag">{label}</span>
+					<button type="button" class="vl-play" data-say={ex.ja} aria-label={`Play ${label} example`} data-pagefind-ignore>Play</button>
+				</div>
+				<p class="vl-ex-ro" translate="no">{ex.romaji}</p>
+				<p class="vl-ex-en">{ex.english}</p>
+				<p class="vl-ex-ja" lang="ja">{ex.ja}</p>
+			</div>
+		))}
+	</div>
+	<p class="vl-refs">
+		{item.pos === 'pattern' ? (
+			<span><b>Rank</b> {item.freqRank != null ? `#${item.freqRank} in 3,030 TV dramas` : 'not in the drama list; chosen on judgement'}</span>
+		) : (
+			<span><b>Heard</b> {m ? `${m.count.toLocaleString('en')}× in 3.17 million lines of film and TV subtitles (${(m.shareOfHeads * 100).toFixed(m.shareOfHeads < 0.01 ? 2 : 1)}% of ${item.pos === 'adj' ? 'adjectives' : 'verbs'})` : 'not counted: the tokenizer can’t pick this form out'}</span>
+		)}
+		{links.length > 0 && (
+			<span><b>Main list</b> {links.map((l, i) => (
+				<>{i > 0 && ', '}<a href={l.href} translate="no">{l.romaji}</a><span class="vl-later"> (Stage {l.stage})</span></>
+			))}</span>
+		)}
+	</p>
+</section>

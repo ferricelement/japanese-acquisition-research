@@ -1,0 +1,22 @@
+{"chunks": [
+{"label": "Ways to get around", "rationale": "Say how you get somewhere: by train, bus, bike or taxi.", "interference": "Basu (bus) also turns up as bath in loanwords like basutaoru.", "members": ["電車", "バス", "自転車", "タクシー"]},
+{"label": "Paying at the till", "rationale": "Handle the checkout: card or cash, change, receipt.", "interference": "Reshiito is the till slip, not the formal ryoushuusho receipt.", "members": ["カード", "現金", "おつり", "レジ", "レシート"]},
+{"label": "Shopping and prices", "rationale": "Talk about going shopping, what things cost and getting them cheaper.", "interference": "Seeru is a sale event, waribiki is a discount on an item.", "members": ["買い物", "値段", "商品", "セール", "割引"]},
+{"label": "Messages and online", "rationale": "Talk about emailing, messaging and doing things online.", "interference": "Meeru is often any phone message, not only email.", "members": ["メール", "ネット", "メッセージ", "通販"]},
+{"label": "Hobbies and shows", "rationale": "Talk about what you like doing and watching.", "interference": "Dorama is a scripted series; bangumi is any show on TV.", "members": ["趣味", "ドラマ", "番組", "ファン", "作品"]},
+{"label": "Out and back home", "rationale": "Talk about heading out, getting home and being picked up.", "interference": "None.", "members": ["帰り", "お迎え", "お出かけ", "終電"]},
+{"label": "Trips away", "rationale": "Plan a trip: bags, souvenirs, hot springs.", "interference": "Ryokou is an ordinary trip; tabi is a more emotional journey.", "members": ["旅行", "荷物", "お土産", "温泉", "旅"]},
+{"label": "Dates and nights out", "rationale": "Make plans for dates, drinks and parties.", "interference": "A paatii is a planned party; drinks with coworkers is a nomikai.", "members": ["デート", "飲み会", "パーティー", "バー"]},
+{"label": "Free and extras", "rationale": "Say something costs nothing or comes as a bonus.", "interference": "Tada is casual, muryou is what signs say; saabisu often means free, not service.", "members": ["タダ", "無料", "ポイント", "サービス"]},
+{"label": "Booking, ordering, paying", "rationale": "Book a table, order, pay and split the bill.", "interference": "Shiharai is the formal noun; with friends you use harau or warikan.", "members": ["予約", "注文", "支払い", "割り勘"]},
+{"label": "Sky and scenery", "rationale": "Point out the sky, stars, blossoms and a good view.", "interference": "None.", "members": ["空", "星", "桜", "景色"]},
+{"label": "Nature and animals", "rationale": "Talk about the outdoors, rivers and animals.", "interference": "Kawa also means skin or leather.", "members": ["自然", "川", "動物"]},
+{"label": "Celebrations and events", "rationale": "Talk about celebrating, weddings and events you're going to.", "interference": "Oiwai is the celebration or gift; omedetou is what you say.", "members": ["お祝い", "結婚式", "イベント"]},
+{"label": "Traffic and crowds", "rationale": "Describe lights, jams and packed trains on the way somewhere.", "interference": "None.", "members": ["信号", "渋滞", "満員電車"]},
+{"label": "News and emergencies", "rationale": "Talk about the news, earthquakes and urgent situations.", "interference": "Jishin (earthquake) sounds like jishin (confidence).", "members": ["新聞", "地震", "緊急", "平和"]},
+{"label": "Debt and scams", "rationale": "Talk about who's rich, who owes money and who got scammed.", "interference": "None.", "members": ["借金", "金持ち", "詐欺"]},
+{"label": "Contracts and paperwork", "rationale": "Deal with contracts, personal details and official forms.", "interference": "Kojin is individual, not private life (puraibeeto).", "members": ["契約", "個人", "手続き"]}
+],
+"drops": [
+{"src": "迎え", "reason": "Duplicate of お迎え (same word without the polite o-); the bare form is covered in its notes."}
+]}

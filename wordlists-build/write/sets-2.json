@@ -1,0 +1,301 @@
+{
+ "sets": [
+  {
+   "key": "s-counters",
+   "scope": "Everyday counters and their sound changes: -ko, -hon, -mai, -hiki, -satsu, -dai, -hai, -kai (times), -kai (floor), -ban, -banme, -do, -en, -bai",
+   "include": [
+    {
+     "src": "一度",
+     "ja": "一度",
+     "kana": "いちど",
+     "romaji": "ichido",
+     "en": "once, one time",
+     "rank": 427,
+     "score": 4
+    },
+    {
+     "src": "何度",
+     "ja": "何度",
+     "kana": "なんど",
+     "romaji": "nando",
+     "en": "how many times",
+     "rank": 677,
+     "score": 3
+    },
+    {
+     "src": "番",
+     "ja": "番",
+     "kana": "ばん",
+     "romaji": "ban",
+     "en": "number; one's turn",
+     "rank": 1055,
+     "score": 4
+    },
+    {
+     "src": "何回",
+     "ja": "何回",
+     "kana": "なんかい",
+     "romaji": "nankai",
+     "en": "how many times",
+     "rank": 2121,
+     "score": 4
+    },
+    {
+     "src": "倍",
+     "ja": "倍",
+     "kana": "ばい",
+     "romaji": "bai",
+     "en": "times; double",
+     "rank": 2290,
+     "score": 3
+    },
+    {
+     "src": "一回",
+     "ja": "一回",
+     "kana": "いっかい",
+     "romaji": "ikkai",
+     "en": "once, one time",
+     "rank": 2366,
+     "score": 5
+    },
+    {
+     "src": "キロ",
+     "ja": "キロ",
+     "kana": "キロ",
+     "romaji": "kiro",
+     "en": "kilo",
+     "rank": 2833,
+     "score": 3
+    },
+    {
+     "src": "何度か",
+     "ja": "何度か",
+     "kana": "なんどか",
+     "romaji": "nandoka",
+     "en": "a few times",
+     "rank": 3451,
+     "score": 4
+    },
+    {
+     "src": "一枚",
+     "ja": "一枚",
+     "kana": "いちまい",
+     "romaji": "ichimai",
+     "en": "one sheet",
+     "rank": 4126,
+     "score": 4
+    },
+    {
+     "src": "メートル",
+     "ja": "メートル",
+     "kana": "メートル",
+     "romaji": "meetoru",
+     "en": "metre",
+     "rank": 4149,
+     "score": 3
+    },
+    {
+     "src": "杯",
+     "ja": "杯",
+     "kana": "さかずき",
+     "romaji": "-hai",
+     "en": "counter for cups, glasses",
+     "rank": 4299,
+     "score": 4
+    },
+    {
+     "src": "センチ",
+     "ja": "センチ",
+     "kana": "センチ",
+     "romaji": "senchi",
+     "en": "centimetre",
+     "rank": 4315,
+     "score": 3
+    },
+    {
+     "src": "一度も",
+     "ja": "一度も",
+     "kana": "いちども",
+     "romaji": "ichido mo",
+     "en": "(not) even once",
+     "rank": 4407,
+     "score": 4
+    },
+    {
+     "src": "一晩",
+     "ja": "一晩",
+     "kana": "ひとばん",
+     "romaji": "hitoban",
+     "en": "one night",
+     "rank": 4437,
+     "score": 3
+    },
+    {
+     "src": "丁目",
+     "ja": "丁目",
+     "kana": "ちょうめ",
+     "romaji": "-choume",
+     "en": "block number (address)",
+     "rank": 4474,
+     "score": 3
+    },
+    {
+     "src": "号室",
+     "ja": "号室",
+     "kana": "ごうしつ",
+     "romaji": "-goushitsu",
+     "en": "room number",
+     "rank": 4700,
+     "score": 3
+    }
+   ]
+  },
+  {
+   "key": "s-clock",
+   "scope": "Clock time & durations: -ji (yoji, shichiji, kuji), -fun/-pun, han, nanji, -jikan, -funkan, -byou",
+   "include": [
+    {
+     "src": "秒",
+     "ja": "秒",
+     "kana": "びょう",
+     "romaji": "byou",
+     "en": "second",
+     "rank": 1787,
+     "score": 4
+    },
+    {
+     "src": "時半",
+     "ja": "時半",
+     "kana": "じはん",
+     "romaji": "-ji han",
+     "en": "half past (the hour)",
+     "rank": 3029,
+     "score": 5
+    },
+    {
+     "src": "半",
+     "ja": "半",
+     "kana": "はん",
+     "romaji": "han",
+     "en": "half past, half",
+     "rank": 3285,
+     "score": 5
+    },
+    {
+     "src": "一時",
+     "ja": "一時",
+     "kana": "いちじ",
+     "romaji": "ichiji",
+     "en": "one o'clock; for a while",
+     "rank": 3641,
+     "score": 4
+    },
+    {
+     "src": "ごろ",
+     "ja": "ごろ",
+     "kana": "ごろ",
+     "romaji": "-goro",
+     "en": "around (a time)",
+     "rank": 3829,
+     "score": 5
+    },
+    {
+     "src": "週間",
+     "ja": "週間",
+     "kana": "しゅうかん",
+     "romaji": "-shuukan",
+     "en": "weeks (duration)",
+     "rank": 4683,
+     "score": 4
+    }
+   ]
+  },
+  {
+   "key": "s-years",
+   "scope": "Years & age: -nen, -nenkan, -sai (issai, hassai, jussai, hatachi), nansai / oikutsu, -nensei",
+   "include": [
+    {
+     "src": "歳",
+     "ja": "歳",
+     "kana": "さい",
+     "romaji": "sai",
+     "en": "years old",
+     "rank": 625,
+     "score": 4
+    },
+    {
+     "src": "年間",
+     "ja": "年間",
+     "kana": "ねんかん",
+     "romaji": "nenkan",
+     "en": "for ... years",
+     "rank": 1074,
+     "score": 4
+    },
+    {
+     "src": "何年",
+     "ja": "何年",
+     "kana": "なんねん",
+     "romaji": "nannen",
+     "en": "how many years; what year",
+     "rank": 1099,
+     "score": 3
+    },
+    {
+     "src": "年齢",
+     "ja": "年齢",
+     "kana": "ねんれい",
+     "romaji": "nenrei",
+     "en": "age",
+     "rank": 2076,
+     "score": 3
+    },
+    {
+     "src": "年ぶり",
+     "ja": "年ぶり",
+     "kana": "ねんぶり",
+     "romaji": "-nenburi",
+     "en": "first time in X years",
+     "rank": 2617,
+     "score": 3
+    },
+    {
+     "src": "年後",
+     "ja": "年後",
+     "kana": "ねんご",
+     "romaji": "-nengo",
+     "en": "X years later",
+     "rank": 2771,
+     "score": 3
+    },
+    {
+     "src": "二十歳",
+     "ja": "二十歳",
+     "kana": "はたち",
+     "romaji": "hatachi",
+     "en": "twenty years old",
+     "rank": 3986,
+     "score": 4
+    },
+    {
+     "src": "数年",
+     "ja": "数年",
+     "kana": "すうねん",
+     "romaji": "suunen",
+     "en": "a few years",
+     "rank": 4272,
+     "score": 3
+    },
+    {
+     "src": "同い年",
+     "ja": "同い年",
+     "kana": "おないどし",
+     "romaji": "onaidoshi",
+     "en": "the same age",
+     "rank": 5046,
+     "score": 3
+    }
+   ]
+  }
+ ]
+}

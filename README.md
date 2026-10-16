@@ -232,3 +232,54 @@ python3 apply_edits.py run-lean.json        # lean run: drafts/ + written script
 python3 build_md.py                         # ../collocation-scripts.json -> ../stage-<n>.md
 python3 recover.py <journal.jsonl> out.json # rebuild results from a run that didn't finish
 ```
+
+## Round 7 — core words, word sets, set phrases, conjugations (2026-10-16)
+
+Four more lists, built to fill what the first three don't teach. Before this round the versatility, collocation and idiom
+lists covered 58% of the 1,000 most frequent words in the drama list and 42% of the top 2,000; with these four they cover
+89% and 82% (`wordlists-build/coverage.py`; what's left is mostly grammar fragments, names, laughs and crime-plot words).
+
+- `23-list-core.json` — 1,204 everyday verbs, nouns, adjectives, adverbs, mimetics and connectors the other lists don't
+  teach, in 34 meaning topics and 290 chunks. Stages are by frequency: half of Stage 1's words rank in the top ~1,000 of
+  spoken Japanese, Stage 4's in the top ~3,800.
+- `24-list-sets.json` — 381 words in closed sets learned whole: numbers with their sound changes, counters (one entry per
+  counter, irregular readings listed), clock time, days, dates, months, years and age, family (own vs someone else's),
+  body, position, pronouns, colours, seasons, tastes, countries. Sets stay complete even where the main list has a member.
+- `25-list-phrases.json` — 416 set phrases: greetings and home rituals, thanks and apologies, polite formulas, shopping,
+  eating out, what staff say to you, phone and meeting up, sympathy, celebrations, reactions, trouble. `role` says whether
+  you say it or mostly hear it; `count` is how often the phrase came up in the subtitle corpus.
+- `26-list-conjugations.json` — 60 verb and adjective forms and rules plus 63 grammar patterns. Each form has a `table`
+  built by rule (`conjugate.py`: 13 model verbs covering every class and -te sound change, or takai / ii / kirei / a noun)
+  and `measured`: how often the form occurs in the subtitle corpus as a share of all verbs or adjectives
+  (`conj_tag.py` tags the corpus once, `conj_forms.py` maps endings to forms; potential and -yasui can't be picked out).
+
+Same entry shape as the other lists (casual headword, polite beside it, casual and polite examples), so the site renders
+them with one set of routes: `/core/`, `/sets/`, `/phrases/`, `/conjugations/` (`src/pages/[list]/`, `src/lib/wordlists.ts`).
+
+### How it was built
+
+1. Code: the 5,000 most frequent words in the drama list, minus what the older lists teach (by written form and lemma),
+   tagged by part of speech: 3,477 candidates (`pool.py`).
+2. Selection workflow (9 agents, `select-workflow.js`): seven judges routed every candidate to core / set / phrase /
+   pattern / cut with a 1-5 everyday-commonness score, correcting the drama skew; one agent listed 369 everyday words
+   the drama list under-counts (home, food, clothes, the doctor's, mimetics); one harvested 320 set phrases.
+   `select_merge.py` keeps score 4+, or 3 when the word ranks in the top 3,000 or came from the everyday hunt.
+   Hand restores after reading the cuts: fune, inochi, hikari, tazuneru.
+3. Writing workflow (31 writers, `write-workflow.js`): about 68 core words, 86 phrases or one group of sets per writer,
+   each writing entries and meaning-first chunks of 4-5. Writers save their entries to `written/` in parts of 20
+   (a first attempt returning everything in one reply stalled).
+4. Code checks (`checks.py`): headword romaji against its kana (`romaji.py`, kotoba spelling), each example's romaji
+   against the tokenizer's reading of its Japanese, chunk sizes, duplicates. `merge.py` drops a word that appears twice
+   or that an older list already teaches.
+5. Review workflow (12 reviewers, `review-workflow.js`): one native-speaker review per ~200 entries, returning field edits
+   only; 263 edits and 9 drops applied. Every entry was read by a reviewer (`review_coverage.py` checks the transcripts).
+
+```bash
+cd wordlists-build
+../collocations-build/.venv/bin/python pool.py 5000       # pool.json from the drama list (needs jiten_freq_Drama.csv)
+python3 select_merge.py                                   # select-result.json -> selected.json, select-cuts.json
+python3 write_batches.py                                  # fresh runs only: re-slices write/*.json, which must match written/
+python3 collect_written.py && python3 merge.py            # written/ + review results -> ../23-26 list files
+../collocations-build/.venv/bin/python checks.py          # flags.json
+../collocations-build/.venv/bin/python conj_tag.py        # corpus-tails.tsv (needs the subtitle corpus), then conj_forms.py
+```

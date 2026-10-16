@@ -1,0 +1,39 @@
+{
+ "chunks": [
+  {"label": "Walking and running", "rationale": "Say how you're getting somewhere on foot and tell someone to hurry.", "interference": "isogu is hurrying in general, not running; tobu covers both fly and jump.",
+   "members": ["歩く", "急ぐ", "走る", "飛ぶ"]},
+  {"label": "On, off, open, close", "rationale": "Ask to switch lights and the AC on or off and to open or shut windows and doors.", "interference": "Lights and TVs take tsukeru and kesu, never akeru and shimeru.",
+   "members": ["つける", "消す", "開ける", "閉める"]},
+  {"label": "Trains and buses", "rationale": "Get on, get off, change lines and grumble about the crowds.", "interference": "noru takes ni (densha ni noru) but oriru takes o (densha o oriru).",
+   "members": ["乗る", "降りる", "混む", "乗り換える"]},
+  {"label": "Hungry, thirsty, sleepy, drunk", "rationale": "Say how your body is doing right now.", "interference": "onaka suita and nodo kawaita are past forms but mean 'I'm hungry' and 'I'm thirsty' now.",
+   "members": ["空く", "乾く", "眠る", "酔っ払う"]},
+  {"label": "Sitting and lining up", "rationale": "Handle seats, queues and crowds: sit, line up, meet up, move aside.", "interference": "narabu is joining a line yourself; atsumaru is people gathering as a group.",
+   "members": ["座る", "並ぶ", "集まる", "どく"]},
+  {"label": "Morning routine", "rationale": "Talk through the start of a day: waking someone, washing, heading out, changing, going to school or work.", "interference": "okosu wakes someone else; waking up yourself is okiru.",
+   "members": ["起こす", "洗う", "出かける", "着替える", "通う"]},
+  {"label": "Clothes and weight", "rationale": "Talk about what you wear, how it looks on you, and gaining or losing weight.", "interference": "futotta and yaseta are past forms used for how someone is now.",
+   "members": ["着る", "似合う", "太る", "痩せる"]},
+  {"label": "Cooking and clearing up", "rationale": "Make a meal and clear up: cut, get things ready, grill, throw out.", "interference": "kiru 'cut' (kirimasu) sounds like kiru 'wear' (kimasu); the forms tell them apart.",
+   "members": ["捨てる", "切る", "用意", "焼く"]},
+  {"label": "Laugh, sing, dance, kiss", "rationale": "Describe a fun night out or an affectionate moment.", "interference": "nameru also means 'look down on' (namenna yo!), unrelated to licking.",
+   "members": ["笑う", "歌う", "踊る", "キス", "なめる"]},
+  {"label": "Sick days", "rationale": "Call in sick, say you've caught a cold and talk about getting better.", "interference": "naoru is the illness getting better; naosu is you curing it.",
+   "members": ["休む", "治る", "風邪ひく", "治す"]},
+  {"label": "Falls and bumps", "rationale": "Describe small mishaps: getting soaked, collapsing, tripping, banging into things.", "interference": "korobu is tripping over; taoreru is collapsing or toppling.",
+   "members": ["濡れる", "倒れる", "転ぶ", "ぶつける"]},
+  {"label": "Driving and stopping", "rationale": "Drive, give turns and say when something stops or won't move.", "interference": "tomaru and ugoku happen by themselves; doing it to something is tomeru and ugokasu.",
+   "members": ["止まる", "動く", "曲がる", "運転"]},
+  {"label": "Trips and moves", "rationale": "Talk about travel plans and moving: set off, move on, arrive, move house.", "interference": "idou suru is getting from place to place; hikkosu is moving house.",
+   "members": ["引っ越す", "到着", "移動", "出発"]},
+  {"label": "Taking people along", "rationale": "Bring or take a friend, child or pet, or ask to be picked up.", "interference": "tsurete kuru is toward the speaker, tsurete iku away; for things use motte kuru and motte iku.",
+   "members": ["連れる", "迎えに来る", "連れてくる", "連れて行く"]},
+  {"label": "Following and chasing", "rationale": "Follow, tag along, approach, chase or spot someone.", "interference": "tsuite kuru (follow me) and tsuite iku (I'll go with you) flip on direction, like kuru and iku.",
+   "members": ["ついてくる", "ついていく", "近づく", "追いかける", "見かける"]},
+  {"label": "Welcoming and guiding", "rationale": "Recognise 'come' in respectful, humble and parental speech, and offer to show someone around.", "interference": "irassharu raises the other person and mairu lowers yourself; never use irassharu for yourself.",
+   "members": ["いらっしゃる", "おいで", "参る", "案内"]}
+ ],
+ "drops": [
+  {"src": "急いで", "reason": "Te-form of 急ぐ (same input romaji isogu); its use as 'Hurry!' is covered by that entry's example."}
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "chunks": [
+  {
+   "label": "Can, be done, make do",
+   "rationale": "The four voice forms: can (potential), be done (passive), make or let (causative), be made to (causative-passive). They are all built the same way, a vowel change plus -reru or -seru, so they are easiest to tell apart side by side.",
+   "interference": "Ichidan potential and passive are identical (taberareru, mirareru), and kuru gives korareru for both. -aseru (make do) and -areru (be done) differ by one sound, and -asareru stacks both.",
+   "members": ["pot", "pas", "cau", "cp"],
+   "stage": 3
+  },
+  {
+   "label": "Commands",
+   "rationale": "Ways to tell someone to do or not do something, from rough (ike, iku na) to parental (-nasai) to blunt but personal (-te kure). You mostly hear these; for your own requests, -te and -te kudasai do the job.",
+   "interference": "The command ike sounds like the potential ikeru; ike (go!) and iku na (don't go!) are opposites built on the same verb. -nasai sounds soft but talks down.",
+   "members": ["imp", "na", "nasai", "te-kure"],
+   "stage": 3
+  },
+  {
+   "label": "Helper verbs after -te",
+   "rationale": "Each is the te-form plus a small verb or particle: -te shimau, -te oku, -te miru, -te mo. Two of them shrink in speech (-chau, -toku), so the full and short forms are learned together.",
+   "interference": "-toku (do ahead) vs -teku (-te iku); -chau (end up) vs -cha (-te wa, must not); -te mo (even if) vs -te miru (try).",
+   "members": ["chau", "toku", "te-miru", "te-mo"],
+   "stage": 2
+  },
+  {
+   "label": "Doing two things",
+   "rationale": "Three ways to fit two actions in one sentence: as examples (-tari), at the same time (-nagara), or one without the other (-zu ni).",
+   "interference": "Each takes a different stem: -tari the past (tabetari), -nagara the -masu stem (tabenagara), -zu ni the negative stem (tabezu ni). Mixing the stems is the usual slip.",
+   "members": ["tari", "nagara", "zu-ni"],
+   "stage": 3
+  },
+  {
+   "label": "Looks, too much, easy",
+   "rationale": "All three hang off the -masu stem: tabesou, tabesugiru, tabeyasui. One stem, three common add-ons.",
+   "interference": "Stem + sou (looks like) vs dictionary form + sou da (I hear); -yasui (easy to) vs yasui (cheap).",
+   "members": ["sou", "sugiru", "yasui"],
+   "stage": 3
+  },
+  {
+   "label": "Spoken shortcuts",
+   "rationale": "Fast casual speech squeezes sounds: wakannai, -teru, -nakya, -chau. These are what make real conversation hard to follow, so each is learned as a map back to its full form.",
+   "interference": "-cha (-te wa) vs -chau (-te shimau); -nakya (must) vs -nai (not); the -n of wakannai vs the n of n da.",
+   "members": ["nn", "contractions"],
+   "stage": 2
+  },
+  {
+   "label": "Adjectives and the copula",
+   "rationale": "The core shapes of adjectives and nouns: is, was, isn't, wasn't, probably. i-adjectives change their own ending; na-adjectives and nouns lean on da, desu and deshou.",
+   "interference": "Polite past is -katta desu, not -i deshita; ii becomes yo- in every changed form (yokatta, yokunai); da never follows an i-adjective.",
+   "members": ["a-plain", "a-past", "a-neg", "a-negpast", "a-darou"],
+   "stage": 1
+  },
+  {
+   "label": "Adjectives that link and change",
+   "rationale": "What adjectives do inside a longer sentence: link (-kute / de), change (-ku naru), sit before a noun (na / no), set a condition (-kattara), and say how things look (-sou).",
+   "interference": "-ku naru (becomes) vs -ku suru (makes it); stem + sou (looks) vs plain + sou da (I hear); ii → yokute, yoku, yosasou.",
+   "members": ["a-te", "a-naru", "a-attr", "a-if", "a-sou"],
+   "stage": 2
+  }
+ ],
+ "drops": []
+}

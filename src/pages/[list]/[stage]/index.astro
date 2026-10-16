@@ -1,0 +1,11 @@
+---
+import StageOverview from '../../../components/side/StageOverview.astro';
+import { LIST_KEYS, WORDLISTS, type ListKey } from '../../../lib/wordlists';
+
+export function getStaticPaths() {
+	return LIST_KEYS.flatMap((list) => WORDLISTS[list].course.data.stages.map((_, i) => ({ params: { list, stage: String(i + 1) }, props: { n: i + 1 } })));
+}
+const { course, title, unit } = WORDLISTS[Astro.params.list as ListKey];
+---
+
+<StageOverview course={course} n={Astro.props.n} title={title} unit={unit} />

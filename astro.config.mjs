@@ -16,6 +16,16 @@ const idioms = JSON.parse(readFileSync(new URL('./22-list-idioms.json', import.m
 /** @type {Record<string, { label: string }>} */
 const idiomBlocks = Object.fromEntries(idioms.blocks.map((/** @type {{ id: string }} */ b) => [b.id, b]));
 const idiomSlugs = chunkSlugs(idioms.blocks, collDomainOf);
+// Round 7: core words, word sets, set phrases, conjugations. Each gets a sidebar group like the idioms'.
+const WORDLISTS = [
+	['core', 'Core words', '23-list-core.json'],
+	['sets', 'Word sets', '24-list-sets.json'],
+	['phrases', 'Set phrases', '25-list-phrases.json'],
+	['conjugations', 'Conjugations', '26-list-conjugations.json'],
+].map(([section, title, file]) => {
+	const data = JSON.parse(readFileSync(new URL(`./${file}`, import.meta.url), 'utf8'));
+	return { section, title, data, slugs: chunkSlugs(data.blocks, collDomainOf), labels: Object.fromEntries(data.blocks.map((/** @type {{ id: string, label: string }} */ b) => [b.id, b.label])) };
+});
 
 /**
  * Research markdown keeps its own `#` titles for GitHub; on the site the page title is the h1,
@@ -95,6 +105,22 @@ export default defineConfig({
 						{ label: 'Idiom cuts', link: '/idioms/cuts/' },
 					],
 				},
+				...WORDLISTS.map((w) => ({
+					label: w.title,
+					collapsed: true,
+					items: [
+						{ label: `${w.title} overview`, link: `/${w.section}/` },
+						...w.data.stages.map((/** @type {{ name: string, chunkIds: string[] }} */ s, /** @type {number} */ i) => ({
+							label: s.name,
+							collapsed: true,
+							items: [
+								{ label: `${s.name} ${w.title.toLowerCase()}`, link: `/${w.section}/${i + 1}/` },
+								...s.chunkIds.map((id) => ({ label: w.labels[id], link: sectionChunkPath(w.section, i + 1, w.slugs[id]) })),
+							],
+						})),
+						...(w.data.cuts.length ? [{ label: `${w.title} cuts`, link: `/${w.section}/cuts/` }] : []),
+					],
+				})),
 				{
 					label: 'Categories',
 					collapsed: true,

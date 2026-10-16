@@ -1,0 +1,17 @@
+[
+{"src": "どこまで話したっけ", "ja": "どこまで話したっけ", "kana": "どこまではなしたっけ", "romaji": "doko made hanashita kke", "polite": "doko made hanashimashita kke", "politeJa": "どこまで話しましたっけ", "english": "where was I?", "use": "Pick up a story after an interruption.", "pos": "phrase", "flags": [], "role": "say",
+ "example": {"romaji": "etto, doko made hanashita kke?", "ja": "えっと、どこまで話したっけ？", "english": "Um, where was I?"}, "examplePolite": {"romaji": "etto, doko made hanashimashita kke?", "ja": "えっと、どこまで話しましたっけ？", "english": "Um, where was I?"},
+ "notes": "kke turns a question into 'what was it again?': namae nan datta kke?"},
+{"src": "話変わるけど", "ja": "話変わるけど", "kana": "はなしかわるけど", "romaji": "hanashi kawaru kedo", "polite": "hanashi wa kawarimasu ga", "politeJa": "話は変わりますが", "english": "to change the subject; by the way", "use": "Signals a new topic; tokorode is the textbook 'by the way'.", "pos": "phrase", "flags": [], "role": "say",
+ "example": {"romaji": "hanashi kawaru kedo, raishuu no nomikai iku?", "ja": "話変わるけど、来週の飲み会行く？", "english": "Changing the subject, are you going to next week's drinks?"}, "examplePolite": {"romaji": "hanashi wa kawarimasu ga, raishuu no nomikai ni ikimasu ka?", "ja": "話は変わりますが、来週の飲み会に行きますか？", "english": "To change the subject, are you going to next week's drinks?"},
+ "notes": null},
+{"src": "すっきりした", "ja": "すっきりした", "kana": "すっきりした", "romaji": "sukkiri shita", "polite": "sukkiri shimashita", "politeJa": "すっきりしました", "english": "that feels better; I feel refreshed; that cleared things up", "use": "After a shower, a good cry, a clean-up or finally getting an answer: anything that clears a heavy or cluttered feeling.", "pos": "phrase", "flags": [], "role": "say",
+ "example": {"romaji": "heya katazuketara, sukkiri shita.", "ja": "部屋片付けたら、すっきりした。", "english": "I tidied my room and feel so much better."}, "examplePolite": {"romaji": "heya o katazuketara, sukkiri shimashita.", "ja": "部屋を片付けたら、すっきりしました。", "english": "I tidied my room and feel much better."},
+ "notes": "sappari is close but leans to feeling physically clean or fresh."},
+{"src": "生き返った", "ja": "生き返った", "kana": "いきかえった", "romaji": "ikikaetta", "polite": null, "politeJa": null, "english": "I feel alive again; that hit the spot", "use": "Said after a cold drink on a hot day, a hot bath or a break; literally 'came back to life'.", "pos": "phrase", "flags": [], "role": "say",
+ "example": {"romaji": "aa, tsumetai biiru, ikikaetta!", "ja": "ああ、冷たいビール、生き返った！", "english": "Ah, an ice-cold beer. I feel alive again!"}, "examplePolite": null,
+ "notes": "In stories it's literal: someone came back to life."},
+{"src": "さっぱりした", "ja": "さっぱりした", "kana": "さっぱりした", "romaji": "sappari shita", "polite": "sappari shimashita", "politeJa": "さっぱりしました", "english": "that's refreshing; I feel clean", "use": "After a bath, a haircut or a light, clean-tasting meal.", "pos": "phrase", "flags": [], "role": "say",
+ "example": {"romaji": "kami kitte, sugoku sappari shita yo.", "ja": "髪切って、すごくさっぱりしたよ。", "english": "I got a haircut and feel so fresh."}, "examplePolite": {"romaji": "kami o kitte, sugoku sappari shimashita.", "ja": "髪を切って、すごくさっぱりしました。", "english": "I got a haircut and feel really fresh."},
+ "notes": "With a negative it means 'not at all': sappari wakaranai (no idea at all)."}
+]

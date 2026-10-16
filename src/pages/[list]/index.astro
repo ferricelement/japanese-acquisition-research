@@ -1,0 +1,68 @@
+---
+import StarlightPage from '@astrojs/starlight/components/StarlightPage.astro';
+import { CardGrid, LinkCard } from '@astrojs/starlight/components';
+import ChunkList from '../../components/ChunkList.astro';
+import { url } from '../../lib/data';
+import { LIST_KEYS, WORDLISTS, type ListKey } from '../../lib/wordlists';
+
+export function getStaticPaths() {
+	return LIST_KEYS.map((list) => ({ params: { list } }));
+}
+const list = Astro.params.list as ListKey;
+const { course, title, unit, file } = WORDLISTS[list];
+const data = course.data;
+const RANK = 'Rank is the word’s place among the most frequent words in 3,030 Japanese TV dramas; lower is more common. Words the drama list under-counts (home, food, school, the doctor’s) were chosen on judgement.';
+const COPY: Record<ListKey, { lead: string; reading: string[] }> = {
+	core: {
+		lead: 'The everyday verbs, nouns, adjectives, adverbs and connectors that the main list, collocations and idioms don’t already teach, chosen by how often people say them.',
+		reading: ['The headword is the casual form; polite is its desu/masu form.', RANK, 'Learn alongside links words taught side by side; Main list links the versatility-list items an entry builds on.'],
+	},
+	sets: {
+		lead: 'The closed sets you learn whole: numbers and counters with their sound changes, days, dates, months, clock time, colours, family, body parts, positions and pronouns.',
+		reading: ['Each chunk is part of one set, in its natural order.', 'For family words the headword is what you say about your own family; polite is what you say about someone else’s.', RANK],
+	},
+	phrases: {
+		lead: 'Set phrases said as a whole: greetings, thanks and apologies, polite formulas, shopping and eating out, what staff say to you, and the reactions people use all day.',
+		reading: ['Who says whether you need to say the phrase or will mostly hear it said to you.', 'Heard is how many times the phrase came up in 3.17 million lines of Japanese film and TV subtitles.'],
+	},
+	conjugations: {
+		lead: 'How verbs and adjectives change form, one form per entry, with the form for every model verb built by rule, how often it’s heard, and grammar patterns that attach to those forms.',
+		reading: ['Make it says how to build the form for each verb group; the table shows it for 13 model verbs (or takai, ii, kirei and a noun).', 'Heard is how often the form came up in 3.17 million lines of film and TV subtitles, as a share of all verbs or adjectives.', 'Main list links the versatility-list entry that teaches the form as a word.'],
+	},
+};
+const copy = COPY[list];
+const headings = [
+	{ depth: 2, slug: 'stages', text: 'Stages' },
+	{ depth: 2, slug: 'topics', text: 'Topics' },
+	...course.topics.map((t) => ({ depth: 3, slug: t.key, text: t.name })),
+	{ depth: 2, slug: 'reading-an-entry', text: 'Reading an entry' },
+];
+---
+
+<StarlightPage frontmatter={{ title, description: copy.lead, prev: false }} headings={headings}>
+	<p class="vl-lead">{copy.lead}</p>
+	<p class="vl-count">
+		{data.stats.total} {unit} in {data.stats.chunks} chunks, ordered into {['one', 'two', 'three', 'four'][data.stages.length - 1]} stages that run alongside the main list’s stages.
+		Each chunk is a short page; use Next at the bottom of each page.
+		{data.cuts.length > 0 && <> <a href={url(`${list}/cuts/`)}>Cuts</a> lists the {data.cuts.length} candidates left out.</>}
+		{' '}The data is <a href={url(file)}>{file}</a>.
+	</p>
+
+	<h2 id="stages">Stages</h2>
+	<CardGrid>
+		{data.stages.map((s, i) => (
+			<LinkCard title={`${s.name} · ${s.items} ${unit}`} description={s.summary} href={url(`${list}/${i + 1}/`)} />
+		))}
+	</CardGrid>
+
+	<h2 id="topics">Topics</h2>
+	{course.topics.map((t) => (
+		<>
+			<h3 id={t.key}>{t.name}</h3>
+			<ChunkList blocks={t.blocks} showCategory gloss hrefOf={course.chunkUrl} chipOf={(b) => `Stage ${b.stage}`} />
+		</>
+	))}
+
+	<h2 id="reading-an-entry">Reading an entry</h2>
+	<ul>{copy.reading.map((r) => <li>{r}</li>)}</ul>
+</StarlightPage>

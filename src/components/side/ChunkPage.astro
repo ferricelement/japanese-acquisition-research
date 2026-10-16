@@ -5,8 +5,8 @@ import PlayScript from '../PlayScript.astro';
 import { url } from '../../lib/data';
 
 // A side list's chunk page: what's in the chunk at a glance and what gets mixed up, then each item in full.
-interface Props { course: any; id: string; pos: number; of: number; title: string; Item: any }
-const { course, id, pos, of, title, Item } = Astro.props;
+interface Props { course: any; id: string; pos: number; of: number; title: string; Item: any; itemProps?: Record<string, unknown> }
+const { course, id, pos, of, title, Item, itemProps = {} } = Astro.props;
 const block = course.blockById(id);
 const topic = course.topicOf(block);
 const headings = block.items.map((it: { id: string; romaji: string }) => ({ depth: 2, slug: it.id, text: it.romaji }));
@@ -32,7 +32,7 @@ const isEnd = block.stage === course.data.stages.length && pos === of;
 	</ul>
 	{mixups && <p class="vl-mixups"><b>Mix-ups</b> <JaText text={mixups} /></p>}
 	<div class="vl-items">
-		{block.items.map((item: unknown) => <Item item={item} />)}
+		{block.items.map((item: unknown) => <Item item={item} {...itemProps} />)}
 	</div>
 	<PlayScript />
 </StarlightPage>

@@ -1,0 +1,21 @@
+{"chunks": [
+{"label": "Phone and messages", "rationale": "Talk about your phone, apps and LINE messages.", "interference": "Rain here means the LINE app, not a drawn line.", "members": ["スマホ", "ライン", "アプリ", "既読", "スクショ"], "stage": 1, "set": "s-n-fun"},
+{"label": "Both, each, everything", "rationale": "Say both, each and all of something.", "interference": "Ryouhou is only for two; zentai is the whole as one, subete every part of it.", "members": ["両方", "それぞれ", "全て", "何もかも", "全体"], "stage": 1, "set": "s-n-things"},
+{"label": "Half and the rest", "rationale": "Talk about part of something and what's left.", "interference": "Ichibu is 'some of' a whole; bubun is a specific part.", "members": ["半分", "残り", "一部", "部分"], "stage": 1, "set": "s-n-things"},
+{"label": "Songs and gigs", "rationale": "Talk about music you like and nights out singing or at shows.", "interference": "Kyoku is a song you listen to; uta is a song as sung.", "members": ["曲", "ライブ", "カラオケ"], "stage": 1, "set": "s-n-fun"},
+{"label": "Sport and exercise", "rationale": "Say what sports you play, watch or train for.", "interference": "Taikai is the whole tournament; a single game is shiai.", "members": ["スポーツ", "野球", "ジム", "大会", "活動"], "stage": 1, "set": "s-n-fun"},
+{"label": "Walks and holidays", "rationale": "Talk about strolls, summer break and spring outings.", "interference": "Sanpo is walking for pleasure; walking somewhere is aruku.", "members": ["散歩", "夏休み", "花見"], "stage": 1, "set": "s-n-fun"},
+{"label": "Computer and charging", "rationale": "Handle everyday device trouble: battery, charger, wifi, screen.", "interference": "Juuden is the charge; juudenki is the charger.", "members": ["パソコン", "充電", "充電器", "Wi-Fi", "画面"], "stage": 1, "set": "s-n-fun"},
+{"label": "Videos, manga, social media", "rationale": "Talk about what you watch, read and post.", "interference": "Douga is an online video; a TV show is bangumi.", "members": ["動画", "漫画", "ＳＮＳ", "キャラ", "雑誌"], "stage": 1, "set": "s-n-fun"},
+{"label": "Looks and what's inside", "rationale": "Describe how something looks versus what it really is.", "interference": "Mitame (looks) and nakami (what's inside) are opposites.", "members": ["見た目", "形", "中身", "本物"], "stage": 1, "set": "s-n-things"},
+{"label": "Types and levels", "rationale": "Talk about kinds of things, sets and how good something is.", "interference": "Taipu and shurui both mean 'kind'; only taipu means 'my type'.", "members": ["タイプ", "レベル", "種類", "セット"], "stage": 1, "set": "s-n-things"},
+{"label": "Letters and numbers", "rationale": "Talk about writing, signatures, figures and how many.", "interference": "Ji and moji overlap; kazu is how many, suuji is the figure itself.", "members": ["字", "文字", "数字", "数", "サイン"], "stage": 1, "set": "s-n-things"},
+{"label": "Over, within, except", "rationale": "Put limits on amounts and times, and leave things out.", "interference": "Igai (except) sounds like igai (surprising); ijou and inai include the number.", "members": ["以上", "以外", "以内", "程度"], "stage": 1, "set": "s-n-things"},
+{"label": "Next, last, the end", "rationale": "Say what comes next, what's last and when it's over.", "interference": "Tsuzuki is what follows; nokori is what's left.", "members": ["続き", "おしまい", "最終", "連続"], "stage": 1, "set": "s-n-things"},
+{"label": "Top, biggest, only", "rationale": "Talk about the best, the biggest, huge amounts and the only one.", "interference": "Saidai is the biggest single thing; tairyou is a big amount.", "members": ["トップ", "最大", "大量", "唯一"], "stage": 1, "set": "s-n-things"},
+{"label": "Where and which way", "rationale": "Ask and say where something is and which way to go.", "interference": "Ichi (position) sounds exactly like ichi (one).", "members": ["方向", "位置", "中心"], "stage": 1, "set": "s-n-things"},
+{"label": "That thing, copying, impulse", "rationale": "Refer to 'that thing', copying, acting on impulse and harsh people.", "interference": "Rei no is 'that one'; rei alone is 'example'.", "members": ["例の", "まね", "勢い", "鬼"], "stage": 1, "set": "s-n-things"}
+],
+"drops": [
+{"src": "LINE", "reason": "Duplicate of ライン (same word and rank, the LINE app); kept under ライン."}
+]}

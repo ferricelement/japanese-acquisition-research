@@ -1,0 +1,1512 @@
+{
+"review:3": {
+"edits": [
+{
+"id": "w-adobaisu",
+"field": "notes",
+"value": "More common in speech than the formal word jogen.",
+"why": "jogen is Sino-Japanese, not native"
+},
+{
+"id": "w-sotsugyou-suru",
+"field": "notes",
+"value": "Takes o: daigaku o sotsugyou suru. Also used for leaving a group or growing out of a habit. Sotsugyoushiki is the graduation ceremony.",
+"why": "'also used' wrongly attached to sotsugyoushiki"
+},
+{
+"id": "w-bu",
+"field": "use",
+"value": "Mostly a school sports or hobby club, named by its activity, like sakkaabu (soccer club).",
+"why": "suffix attached, like tenisubu/eigyoubu"
+},
+{
+"id": "w-jimusho",
+"field": "examplePolite.english",
+"value": "I'll head back to the office for a bit.",
+"why": "'go back once' is a mistranslation of ichido"
+},
+{
+"id": "w-nomikai",
+"field": "example.english",
+"value": "I'm out drinking tonight, so I don't need dinner.",
+"why": "ja doesn't say it's a work event"
+},
+{
+"id": "w-ryouhou",
+"field": "examplePolite.romaji",
+"value": "dochira mo ii node, ryouhou kaimasu.",
+"why": "node is one word (kotoba spelling)"
+},
+{
+"id": "w-shitsukoi",
+"field": "english",
+"value": "annoyingly persistent; won't let it go; (food) too rich",
+"why": "main sense is persistence, not pushiness"
+},
+{
+"id": "w-okaeshi",
+"field": "notes",
+"value": "Shop staff say it for your change: hyaku en no okaeshi desu. Okaeshi da! can also mean 'Take that!'",
+"why": "no hyphen; list spells hyaku en"
+},
+{
+"id": "w-kouho",
+"field": "notes",
+"value": "Daiichi kouho = first choice.",
+"why": "prefix dai- attached: daiichi"
+}
+],
+"drops": []
+},
+"review:5": {
+"edits": [
+{
+"id": "w-ekimae",
+"field": "example.romaji",
+"value": "jaa, rokuji ni ekimae de ii?",
+"why": "じゃあ is jaa"
+},
+{
+"id": "w-ekimae",
+"field": "examplePolite.romaji",
+"value": "jaa, rokuji ni ekimae de ii desu ka?",
+"why": "じゃあ is jaa"
+},
+{
+"id": "w-hon-no",
+"field": "example.romaji",
+"value": "hon no sukoshi dake choudai.",
+"why": "ちょうだい is choudai"
+},
+{
+"id": "w-hanamizu",
+"field": "examplePolite.romaji",
+"value": "kaze kamo shiremasen. hanamizu ga tomaranai n desu.",
+"why": "kamo shiremasen spacing, as elsewhere"
+},
+{
+"id": "w-shinpuru",
+"field": "kana",
+"value": "シンプル",
+"why": "loanword kana in katakana, like タイプ/レベル"
+},
+{
+"id": "w-ichi",
+"field": "notes",
+"value": "Same sounds as ichi (one); pitch and context tell them apart.",
+"why": "pitch differs, not exactly the same"
+},
+{
+"id": "w-hosu",
+"field": "notes",
+"value": "Bringing it back in is torikomu. Futon o hosu = air the futon in the sun.",
+"why": "torikomu is the common word for laundry"
+},
+{
+"id": "w-kutsu",
+"field": "example.ja",
+"value": "この靴、歩きやすくていいよ。",
+"why": "was identical to w-nugu example"
+},
+{
+"id": "w-kutsu",
+"field": "example.romaji",
+"value": "kono kutsu, arukiyasukute ii yo.",
+"why": "matches new ja"
+},
+{
+"id": "w-kutsu",
+"field": "example.english",
+"value": "These shoes are really easy to walk in.",
+"why": "matches new ja"
+},
+{
+"id": "w-kutsu",
+"field": "examplePolite.ja",
+"value": "この靴は歩きやすくていいですよ。",
+"why": "was identical to w-nugu example"
+},
+{
+"id": "w-kutsu",
+"field": "examplePolite.romaji",
+"value": "kono kutsu wa arukiyasukute ii desu yo.",
+"why": "matches new ja"
+},
+{
+"id": "w-kutsu",
+"field": "examplePolite.english",
+"value": "These shoes are easy to walk in.",
+"why": "matches new ja"
+},
+{
+"id": "w-shawaa",
+"field": "example.ja",
+"value": "夏はシャワーだけで済ませる。",
+"why": "near-duplicate of w-abiru example"
+},
+{
+"id": "w-shawaa",
+"field": "example.romaji",
+"value": "natsu wa shawaa dake de sumaseru.",
+"why": "matches new ja"
+},
+{
+"id": "w-shawaa",
+"field": "example.english",
+"value": "In summer I just have a shower, no bath.",
+"why": "matches new ja"
+},
+{
+"id": "w-shawaa",
+"field": "examplePolite.ja",
+"value": "夏はシャワーだけで済ませます。",
+"why": "identical to w-abiru polite example"
+},
+{
+"id": "w-shawaa",
+"field": "examplePolite.romaji",
+"value": "natsu wa shawaa dake de sumasemasu.",
+"why": "matches new ja"
+},
+{
+"id": "w-shawaa",
+"field": "examplePolite.english",
+"value": "In summer I just have a shower instead of a bath.",
+"why": "matches new ja"
+},
+{
+"id": "w-kojin",
+"field": "example.ja",
+"value": "それは個人情報だから、教えられないよ。",
+"why": "old example duplicated w-kojinteki and lacked kojin itself"
+},
+{
+"id": "w-kojin",
+"field": "example.romaji",
+"value": "sore wa kojin jouhou da kara, oshierarenai yo.",
+"why": "matches new ja"
+},
+{
+"id": "w-kojin",
+"field": "example.english",
+"value": "That's personal information, so I can't tell you.",
+"why": "matches new ja"
+},
+{
+"id": "w-kojin",
+"field": "examplePolite.ja",
+"value": "それは個人情報なので、教えられません。",
+"why": "old example duplicated w-kojinteki"
+},
+{
+"id": "w-kojin",
+"field": "examplePolite.romaji",
+"value": "sore wa kojin jouhou na node, oshieraremasen.",
+"why": "matches new ja"
+},
+{
+"id": "w-kojin",
+"field": "examplePolite.english",
+"value": "That's personal information, so I'm afraid I can't share it.",
+"why": "matches new ja"
+}
+],
+"drops": []
+},
+"review:2": {
+"edits": [
+{
+"id": "w-sonna-fuu-ni",
+"field": "example.romaji",
+"value": "sonna fuu ni iwanaide yo.",
+"why": "-naide attaches to the verb (house spelling)"
+},
+{
+"id": "w-sonna-fuu-ni",
+"field": "examplePolite.romaji",
+"value": "sonna fuu ni iwanaide kudasai.",
+"why": "-naide attaches to the verb (house spelling)"
+},
+{
+"id": "w-dakara-tte",
+"field": "example.romaji",
+"value": "dakara tte, sonna ni okoranakute mo ii jan.",
+"why": "じゃん is one word: jan"
+},
+{
+"id": "w-soutou",
+"field": "english",
+"value": "considerably; seriously; worth (after an amount)",
+"why": "'pretty (seriously)' was unclear"
+},
+{
+"id": "w-tada-2",
+"field": "english",
+"value": "but, only thing is; just, only",
+"why": "'free' sense is its own entry (w-tada)"
+},
+{
+"id": "w-zehi",
+"field": "notes",
+"value": "Only for things you want or ask for, not predictions; for 'it'll definitely rain' use kitto.",
+"why": "kanarazu isn't used for a weather guess"
+}
+],
+"drops": []
+},
+"review:7": {
+"edits": [
+{
+"id": "s-hara",
+"field": "examplePolite.ja",
+"value": "お腹がすきました。何か食べませんか？",
+"why": "FLAG: polite form onaka had no example"
+},
+{
+"id": "s-hara",
+"field": "examplePolite.romaji",
+"value": "onaka ga sukimashita. nanika tabemasen ka?",
+"why": "matches new polite example"
+},
+{
+"id": "s-hara",
+"field": "examplePolite.english",
+"value": "I'm hungry. Shall we get something to eat?",
+"why": "matches new polite example"
+},
+{
+"id": "s-papa",
+"field": "examplePolite.ja",
+"value": "お父さんは何のお仕事をしているんですか？",
+"why": "FLAG: missing polite example"
+},
+{
+"id": "s-papa",
+"field": "examplePolite.romaji",
+"value": "otousan wa nan no oshigoto o shite iru n desu ka?",
+"why": "matches new polite example"
+},
+{
+"id": "s-papa",
+"field": "examplePolite.english",
+"value": "What does your father do for work?",
+"why": "matches new polite example"
+},
+{
+"id": "s-mama",
+"field": "examplePolite.ja",
+"value": "お母さんによろしくお伝えください。",
+"why": "FLAG: missing polite example"
+},
+{
+"id": "s-mama",
+"field": "examplePolite.romaji",
+"value": "okaasan ni yoroshiku otsutae kudasai.",
+"why": "matches new polite example"
+},
+{
+"id": "s-mama",
+"field": "examplePolite.english",
+"value": "Please give my regards to your mother.",
+"why": "matches new polite example"
+},
+{
+"id": "s-kaasan",
+"field": "examplePolite.ja",
+"value": "お母さんは料理が上手ですね。",
+"why": "FLAG: missing polite example"
+},
+{
+"id": "s-kaasan",
+"field": "examplePolite.romaji",
+"value": "okaasan wa ryouri ga jouzu desu ne.",
+"why": "matches new polite example"
+},
+{
+"id": "s-kaasan",
+"field": "examplePolite.english",
+"value": "Your mother is a great cook.",
+"why": "matches new polite example"
+},
+{
+"id": "s-tousan",
+"field": "examplePolite.ja",
+"value": "お父さんとよく話しますか？",
+"why": "FLAG: missing polite example"
+},
+{
+"id": "s-tousan",
+"field": "examplePolite.romaji",
+"value": "otousan to yoku hanashimasu ka?",
+"why": "matches new polite example"
+},
+{
+"id": "s-tousan",
+"field": "examplePolite.english",
+"value": "Do you talk with your father much?",
+"why": "matches new polite example"
+},
+{
+"id": "s-obachan",
+"field": "examplePolite.ja",
+"value": "隣のおばさんに野菜をもらいました。",
+"why": "FLAG: missing polite example"
+},
+{
+"id": "s-obachan",
+"field": "examplePolite.romaji",
+"value": "tonari no obasan ni yasai o moraimashita.",
+"why": "matches new polite example"
+},
+{
+"id": "s-obachan",
+"field": "examplePolite.english",
+"value": "The lady next door gave me some vegetables.",
+"why": "matches new polite example"
+},
+{
+"id": "s-oniichan",
+"field": "examplePolite.ja",
+"value": "お兄さんとは仲がいいですか？",
+"why": "FLAG: missing polite example"
+},
+{
+"id": "s-oniichan",
+"field": "examplePolite.romaji",
+"value": "oniisan to wa naka ga ii desu ka?",
+"why": "matches new polite example"
+},
+{
+"id": "s-oniichan",
+"field": "examplePolite.english",
+"value": "Do you get on well with your brother?",
+"why": "matches new polite example"
+},
+{
+"id": "s-oneechan",
+"field": "examplePolite.ja",
+"value": "お姉さんは結婚していますか？",
+"why": "FLAG: missing polite example"
+},
+{
+"id": "s-oneechan",
+"field": "examplePolite.romaji",
+"value": "oneesan wa kekkon shite imasu ka?",
+"why": "matches new polite example"
+},
+{
+"id": "s-oneechan",
+"field": "examplePolite.english",
+"value": "Is your sister married?",
+"why": "matches new polite example"
+},
+{
+"id": "s-niichan",
+"field": "examplePolite.ja",
+"value": "お兄さん、これ落としましたよ。",
+"why": "FLAG: missing polite example (polite hail of a young man)"
+},
+{
+"id": "s-niichan",
+"field": "examplePolite.romaji",
+"value": "oniisan, kore otoshimashita yo.",
+"why": "matches new polite example"
+},
+{
+"id": "s-niichan",
+"field": "examplePolite.english",
+"value": "Excuse me, you dropped this.",
+"why": "matches new polite example"
+},
+{
+"id": "s-neechan",
+"field": "examplePolite.ja",
+"value": "お姉さん、すみません、注文いいですか？",
+"why": "FLAG: missing polite example (polite hail of a young woman)"
+},
+{
+"id": "s-neechan",
+"field": "examplePolite.romaji",
+"value": "oneesan, sumimasen, chuumon ii desu ka?",
+"why": "matches new polite example"
+},
+{
+"id": "s-neechan",
+"field": "examplePolite.english",
+"value": "Excuse me, could I order?",
+"why": "matches new polite example"
+},
+{
+"id": "s-jiichan",
+"field": "examplePolite.ja",
+"value": "おじいさんと一緒に住んでいるんですか？",
+"why": "FLAG: missing polite example"
+},
+{
+"id": "s-jiichan",
+"field": "examplePolite.romaji",
+"value": "ojiisan to issho ni sunde iru n desu ka?",
+"why": "matches new polite example"
+},
+{
+"id": "s-jiichan",
+"field": "examplePolite.english",
+"value": "Do you live with your grandfather?",
+"why": "matches new polite example"
+},
+{
+"id": "s-baachan",
+"field": "examplePolite.ja",
+"value": "おばあさんはどこに住んでいるんですか？",
+"why": "FLAG: missing polite example"
+},
+{
+"id": "s-baachan",
+"field": "examplePolite.romaji",
+"value": "obaasan wa doko ni sunde iru n desu ka?",
+"why": "matches new polite example"
+},
+{
+"id": "s-baachan",
+"field": "examplePolite.english",
+"value": "Where does your grandmother live?",
+"why": "matches new polite example"
+},
+{
+"id": "s-en",
+"field": "example.ja",
+"value": "全部で二千円ぐらいだよ。",
+"why": "was identical to s-sanbyaku's example"
+},
+{
+"id": "s-en",
+"field": "example.romaji",
+"value": "zenbu de nisen en gurai da yo.",
+"why": "matches new example; 'X en' spacing as elsewhere"
+},
+{
+"id": "s-en",
+"field": "example.english",
+"value": "It's about 2,000 yen altogether.",
+"why": "matches new example"
+},
+{
+"id": "s-en",
+"field": "examplePolite.ja",
+"value": "全部で二千円ぐらいです。",
+"why": "was identical to s-sanbyaku's example"
+},
+{
+"id": "s-en",
+"field": "examplePolite.romaji",
+"value": "zenbu de nisen en gurai desu.",
+"why": "matches new polite example"
+},
+{
+"id": "s-en",
+"field": "examplePolite.english",
+"value": "It comes to about 2,000 yen altogether.",
+"why": "matches new polite example"
+},
+{
+"id": "s-ichinichijuu",
+"field": "example.romaji",
+"value": "kinou wa ichinichijuu neteta.",
+"why": "contraction 寝てた is one word (neteta)"
+},
+{
+"id": "s-natsu",
+"field": "notes",
+"value": "natsuyasumi = the summer holidays.",
+"why": "compound spelled as one word elsewhere"
+},
+{
+"id": "s-nijuu",
+"field": "notes",
+"value": "Age 20 is usually hatachi rather than nijussai.",
+"why": "nijussai is also said; not wrong"
+},
+{
+"id": "s-koshi",
+"field": "example.english",
+"value": "I hurt my back lifting the bags.",
+"why": "nimotsu is bags/luggage, not a box"
+},
+{
+"id": "s-koshi",
+"field": "examplePolite.english",
+"value": "I hurt my back lifting the bags.",
+"why": "nimotsu is bags/luggage, not a box"
+}
+],
+"drops": []
+},
+"review:4": {
+"edits": [
+{
+"id": "w-sutaato-suru",
+"field": "example.romaji",
+"value": "juuji ni sutaato suru kara, okurenaide ne.",
+"why": "attach -naide ending"
+},
+{
+"id": "w-sutaato-suru",
+"field": "examplePolite.romaji",
+"value": "juuji ni sutaato shimasu node, okurenaide kudasai.",
+"why": "attach -naide ending"
+},
+{
+"id": "w-momeru",
+"field": "example.romaji",
+"value": "okane no koto de oya to mometeru n da.",
+"why": "romaji dropped ru; ja is もめてる"
+},
+{
+"id": "w-ijimeru",
+"field": "example.romaji",
+"value": "anmari ijimenaide yo.",
+"why": "attach -naide ending"
+},
+{
+"id": "w-ijimeru",
+"field": "examplePolite.romaji",
+"value": "amari ijimenaide kudasai yo.",
+"why": "attach -naide ending"
+},
+{
+"id": "w-kamisama",
+"field": "examplePolite.romaji",
+"value": "kamisama, douka goukaku dekimasu you ni",
+"why": "どうか (please) is one word"
+},
+{
+"id": "w-yokan",
+"field": "examplePolite.romaji",
+"value": "nandaka iya na yokan ga shimasu",
+"why": "なんだか is one word"
+},
+{
+"id": "w-kagi",
+"field": "example.romaji",
+"value": "kagi, doko ni oitakke?",
+"why": "attach -kke ending"
+},
+{
+"id": "w-kagi",
+"field": "examplePolite.romaji",
+"value": "kagi wa doko ni okimashitakke?",
+"why": "attach -kke ending"
+},
+{
+"id": "w-wasuremono",
+"field": "example.romaji",
+"value": "wasuremono nai? jaa, iku yo.",
+"why": "ja is じゃあ, not じゃ"
+},
+{
+"id": "w-wasuremono",
+"field": "examplePolite.romaji",
+"value": "wasuremono wa nai desu ka? jaa, ikimashou.",
+"why": "ja is じゃあ, not じゃ"
+},
+{
+"id": "w-buchou",
+"field": "english",
+"value": "department head; head of a school club",
+"why": "club buchou is its head, not the captain"
+}
+],
+"drops": []
+},
+"review:1": {
+"edits": [
+{
+"id": "w-mairu",
+"field": "examplePolite.romaji",
+"value": "ashita no juuji ni sochira e mairimasu.",
+"why": "show main humble go/come sense"
+},
+{
+"id": "w-mairu",
+"field": "examplePolite.ja",
+"value": "明日の10時にそちらへ参ります。",
+"why": "standalone 参りました reads as 'I give up'"
+},
+{
+"id": "w-mairu",
+"field": "examplePolite.english",
+"value": "I'll come to you at ten tomorrow.",
+"why": "matches new example"
+},
+{
+"id": "w-sashiageru",
+"field": "example.romaji",
+"value": "nochihodo, kochira kara odenwa sashiagemasu.",
+"why": "most common spoken use"
+},
+{
+"id": "w-sashiageru",
+"field": "example.ja",
+"value": "後ほど、こちらからお電話差し上げます。",
+"why": "これを差し上げます to a customer sounds patronising"
+},
+{
+"id": "w-sashiageru",
+"field": "example.english",
+"value": "We'll call you back later.",
+"why": "matches new example"
+},
+{
+"id": "w-yobu",
+"field": "example.romaji",
+"value": "nante yobeba ii?",
+"why": "kotoba spelling: nante"
+},
+{
+"id": "w-kitai-suru",
+"field": "example.romaji",
+"value": "anmari kitai shinaide ne.",
+"why": "kotoba spelling: -naide attached"
+},
+{
+"id": "w-kitai-suru",
+"field": "examplePolite.romaji",
+"value": "amari kitai shinaide kudasai ne.",
+"why": "kotoba spelling: -naide attached"
+},
+{
+"id": "w-shaberu",
+"field": "use",
+"value": "Also 'blab': dare ni mo shaberanaide = don't tell anyone.",
+"why": "kotoba spelling: -naide attached"
+},
+{
+"id": "w-hanashikakeru",
+"field": "notes",
+"value": "Ima hanashikakenaide = don't talk to me right now.",
+"why": "kotoba spelling: -naide attached"
+},
+{
+"id": "w-kanchigai-suru",
+"field": "notes",
+"value": "Kanchigai shinaide = don't get the wrong idea. Machigai is a mistake you make; kanchigai is a wrong belief.",
+"why": "kotoba spelling: -naide attached"
+},
+{
+"id": "w-kono-saki",
+"field": "notes",
+"value": "For places: eki wa kono saki desu (the station is just up ahead). For time, kore kara is the plainer word.",
+"why": "kotoba spelling: kore kara"
+},
+{
+"id": "w-fuman",
+"field": "example.romaji",
+"value": "nanka fuman demo aru no?",
+"why": "kotoba spelling: demo"
+},
+{
+"id": "w-fuman",
+"field": "examplePolite.romaji",
+"value": "nanika fuman demo arimasu ka?",
+"why": "kotoba spelling: nanika, demo"
+},
+{
+"id": "w-manzoku-suru",
+"field": "use",
+"value": "Being content with a result or situation; also a jab: kore de manzoku? (Happy now?).",
+"why": "jab isn't the main use"
+}
+],
+"drops": []
+},
+"review:6": {
+"edits": [
+{
+"id": "w-reji",
+"field": "use",
+"value": "Where you pay in any shop; reji bukuro is the plastic bag you get at the till.",
+"why": "rejibukuro is the till's plastic bag, not any shopping bag"
+},
+{
+"id": "w-dochira-mo",
+"field": "use",
+"value": "With a positive it means both; with a negative it means neither: 'dochira mo shiranai' = I don't know either one.",
+"why": "'I don't know either' reads as 'me neither'"
+},
+{
+"id": "w-dasai",
+"field": "examplePolite.romaji",
+"value": "kono shashin no fuku, ima miru to dasai desu ne.",
+"why": "telling someone politely their hat is uncool is unnatural"
+},
+{
+"id": "w-dasai",
+"field": "examplePolite.ja",
+"value": "この写真の服、今見るとダサいですね。",
+"why": "natural polite context"
+},
+{
+"id": "w-dasai",
+"field": "examplePolite.english",
+"value": "The clothes in this photo look so lame now.",
+"why": "matches new sentence"
+},
+{
+"id": "w-esu-enu-esu",
+"field": "ja",
+"value": "SNS",
+"why": "full-width letters; match examples"
+},
+{
+"id": "s-oikutsu",
+"field": "example.romaji",
+"value": "boku, oikutsu?",
+"why": "casual slot held a desu sentence; shows the warm use with kids"
+},
+{
+"id": "s-oikutsu",
+"field": "example.ja",
+"value": "僕、おいくつ？",
+"why": "new casual example"
+},
+{
+"id": "s-oikutsu",
+"field": "example.english",
+"value": "How old are you, little guy?",
+"why": "new casual example"
+},
+{
+"id": "s-oikutsu",
+"field": "examplePolite.romaji",
+"value": "okosan, oikutsu desu ka?",
+"why": "moved the desu sentence to the polite slot"
+},
+{
+"id": "s-oikutsu",
+"field": "examplePolite.ja",
+"value": "お子さん、おいくつですか？",
+"why": "moved from casual slot"
+},
+{
+"id": "s-oikutsu",
+"field": "examplePolite.english",
+"value": "How old is your child?",
+"why": "moved from casual slot"
+},
+{
+"id": "s-haha",
+"field": "example.romaji",
+"value": "haha ga kyou kotchi ni kuru n da.",
+"why": "missing final punctuation"
+},
+{
+"id": "s-haha",
+"field": "example.ja",
+"value": "母が今日こっちに来るんだ。",
+"why": "missing final punctuation"
+},
+{
+"id": "s-haha",
+"field": "examplePolite.romaji",
+"value": "haha wa toukyou ni sunde imasu.",
+"why": "missing final punctuation"
+},
+{
+"id": "s-haha",
+"field": "examplePolite.ja",
+"value": "母は東京に住んでいます。",
+"why": "missing final punctuation"
+},
+{
+"id": "s-kinyoubi",
+"field": "example.romaji",
+"value": "kin'youbi, nomi ni ikanai?",
+"why": "match ja comma"
+},
+{
+"id": "s-nichiyoubi",
+"field": "example.romaji",
+"value": "kondo no nichiyoubi, nani suru?",
+"why": "match ja comma"
+},
+{
+"id": "s-kayoubi",
+"field": "example.romaji",
+"value": "kayoubi no yoru, hima?",
+"why": "match ja comma"
+}
+],
+"drops": [
+{
+"id": "w-batchiri-2",
+"reason": "Duplicate of w-batchiri (same word, same example junbi wa batchiri da yo)."
+},
+{
+"id": "w-zehi-2",
+"reason": "Duplicate of w-zehi (same word, near-identical kondo zehi asobi ni kite example)."
+},
+{
+"id": "w-ittai-2",
+"reason": "Duplicate of w-ittai (same word, identical ittai nani ga atta no? example)."
+},
+{
+"id": "w-nantonaku-2",
+"reason": "Duplicate of w-nantonaku (same word, same gloss and use)."
+},
+{
+"id": "w-kanemochi",
+"reason": "Duplicate of w-okanemochi, the more common form, which has a near-identical example (sugoi okanemochi rashii yo)."
+},
+{
+"id": "w-honki-de",
+"reason": "Covered by w-honki, whose example already uses honki de and whose notes gloss honki de = seriously."
+},
+{
+"id": "w-jissai-ni",
+"reason": "Covered by w-jissai, whose notes say jissai ni means the same and whose example is the same ...yatte miru to sentence."
+}
+]
+},
+"review:8": {
+"edits": [
+{
+"id": "s-ichinichijuu",
+"field": "example.romaji",
+"value": "kinou wa ichinichijuu neteta.",
+"why": "contraction attached (neteta)"
+},
+{
+"id": "s-nen",
+"field": "use",
+"value": "ichinen, ninen, sannen, yonen, gonen, rokunen, nananen, hachinen, kyuunen, juunen; in dates, nisen nijuurokunen = 2026.",
+"why": "counter attached, no hyphen"
+},
+{
+"id": "s-nenkan",
+"field": "notes",
+"value": "Nenkan alone means 'per year': nenkan hyakuman en = a million yen a year.",
+"why": "match ichiman en / niman en spelling"
+},
+{
+"id": "s-natsu",
+"field": "notes",
+"value": "natsuyasumi = the summer holidays.",
+"why": "one compound, as spelled elsewhere"
+},
+{
+"id": "s-tsuyu",
+"field": "notes",
+"value": "tsuyuake = the end of the rainy season. Same sound as tsuyu 'dipping sauce'.",
+"why": "梅雨明け is one compound"
+},
+{
+"id": "s-tsume",
+"field": "examplePolite.romaji",
+"value": "tsume ga nobita node kirimasu",
+"why": "ので spelled node"
+},
+{
+"id": "s-goushitsu",
+"field": "example.romaji",
+"value": "heya wa nihyakuichigoushitsu da yo.",
+"why": "counter attached, no hyphen"
+},
+{
+"id": "s-goushitsu",
+"field": "examplePolite.romaji",
+"value": "heya wa nihyakuichigoushitsu desu.",
+"why": "counter attached, no hyphen"
+},
+{
+"id": "s-kiro",
+"field": "use",
+"value": "Context says weight or distance; the number shortens before it: ikkiro, rokkiro, hakkiro, jukkiro, hyakkiro.",
+"why": "these are Sino-Japanese numbers, not native"
+},
+{
+"id": "s-kiro",
+"field": "kana",
+"value": "キロ",
+"why": "loanwords keep katakana"
+},
+{
+"id": "s-meetoru",
+"field": "kana",
+"value": "メートル",
+"why": "loanwords keep katakana"
+},
+{
+"id": "s-senchi",
+"field": "kana",
+"value": "センチ",
+"why": "loanwords keep katakana"
+},
+{
+"id": "s-guramu",
+"field": "kana",
+"value": "グラム",
+"why": "loanwords keep katakana"
+},
+{
+"id": "s-rittoru",
+"field": "kana",
+"value": "リットル",
+"why": "loanwords keep katakana"
+},
+{
+"id": "s-kankoku",
+"field": "use",
+"value": "Means South Korea; North Korea is kitachousen.",
+"why": "北朝鮮 is one word"
+},
+{
+"id": "s-me-no-mae",
+"field": "use",
+"value": "Right in front, very close: eki no me no mae = right across from the station.",
+"why": "'close enough to see' misleads"
+},
+{
+"id": "s-yatsura",
+"field": "ja",
+"value": "やつら",
+"why": "standard spelling, matches s-yatsu"
+},
+{
+"id": "s-yatsura",
+"field": "example.ja",
+"value": "やつらに負けるわけにはいかない",
+"why": "match headword spelling"
+},
+{
+"id": "s-yatsura",
+"field": "example.romaji",
+"value": "yatsura ni makeru wake ni wa ikanai",
+"why": "unchanged, given with ja"
+},
+{
+"id": "s-sobo",
+"field": "example.ja",
+"value": "祖母の家、田舎にあるんだ",
+"why": "casual speech, not narration"
+},
+{
+"id": "s-sobo",
+"field": "example.romaji",
+"value": "sobo no ie, inaka ni aru n da",
+"why": "match new ja"
+},
+{
+"id": "s-uchira",
+"field": "examplePolite.romaji",
+"value": "watashitachi wa zutto tomodachi desu yo ne",
+"why": "FLAG: polite form had no example"
+},
+{
+"id": "s-uchira",
+"field": "examplePolite.ja",
+"value": "私たちはずっと友達ですよね",
+"why": "FLAG: polite form had no example"
+},
+{
+"id": "s-uchira",
+"field": "examplePolite.english",
+"value": "We'll always be friends, won't we?",
+"why": "FLAG: polite form had no example"
+},
+{
+"id": "s-oyaji",
+"field": "examplePolite.romaji",
+"value": "kinou chichi to kenka shimashita",
+"why": "FLAG: polite form had no example"
+},
+{
+"id": "s-oyaji",
+"field": "examplePolite.ja",
+"value": "昨日父とけんかしました",
+"why": "FLAG: polite form had no example"
+},
+{
+"id": "s-oyaji",
+"field": "examplePolite.english",
+"value": "I had a fight with my father yesterday.",
+"why": "FLAG: polite form had no example"
+},
+{
+"id": "s-ofukuro",
+"field": "examplePolite.romaji",
+"value": "haha no ryouri ga ichiban desu",
+"why": "FLAG: polite form had no example"
+},
+{
+"id": "s-ofukuro",
+"field": "examplePolite.ja",
+"value": "母の料理が一番です",
+"why": "FLAG: polite form had no example"
+},
+{
+"id": "s-ofukuro",
+"field": "examplePolite.english",
+"value": "Nothing beats my mother's cooking.",
+"why": "FLAG: polite form had no example"
+},
+{
+"id": "s-jiisan",
+"field": "examplePolite.romaji",
+"value": "ano ojiisan, mata okotte imasu ne",
+"why": "FLAG: polite form had no example"
+},
+{
+"id": "s-jiisan",
+"field": "examplePolite.ja",
+"value": "あのおじいさん、また怒っていますね",
+"why": "FLAG: polite form had no example"
+},
+{
+"id": "s-jiisan",
+"field": "examplePolite.english",
+"value": "That old man is angry again.",
+"why": "FLAG: polite form had no example"
+},
+{
+"id": "s-kaachan",
+"field": "polite",
+"value": null,
+"why": "FLAG: address word, no desu/masu use; moved to notes"
+},
+{
+"id": "s-kaachan",
+"field": "politeJa",
+"value": null,
+"why": "polite form moved to notes"
+},
+{
+"id": "s-kaachan",
+"field": "notes",
+"value": "okaasan is the standard word; to outsiders, your own mother is haha.",
+"why": "keeps the polite counterpart"
+},
+{
+"id": "s-touchan",
+"field": "polite",
+"value": null,
+"why": "FLAG: address word, no desu/masu use; moved to notes"
+},
+{
+"id": "s-touchan",
+"field": "politeJa",
+"value": null,
+"why": "polite form moved to notes"
+},
+{
+"id": "s-touchan",
+"field": "notes",
+"value": "otousan is the standard word; to outsiders, your own father is chichi.",
+"why": "keeps the polite counterpart"
+}
+],
+"drops": []
+},
+"review:10": {
+"edits": [
+{
+"id": "p-sou-shiyou",
+"field": "notes",
+"value": "Sou suru (I'll do that) is about your own action only, e.g. when you take someone's advice.",
+"why": "'own plan only' misleads; sou suru often accepts advice"
+},
+{
+"id": "p-oishisou",
+"field": "notes",
+"value": "-sou on an adjective means looks: takasou (looks expensive). Ii becomes yosasou (looks good).",
+"why": "'any adjective' overclaims; ii is irregular"
+},
+{
+"id": "p-onaka-suita",
+"field": "example.english",
+"value": "Ugh, I'm hungry. Let's eat something.",
+"why": "suita is hungry, not starving"
+},
+{
+"id": "p-rakkii",
+"field": "kana",
+"value": "ラッキー",
+"why": "loanwords stay katakana in kana field"
+},
+{
+"id": "p-okkee",
+"field": "kana",
+"value": "オッケー",
+"why": "loanwords stay katakana in kana field"
+},
+{
+"id": "p-nan-datte",
+"field": "notes",
+"value": "Asked calmly, it asks what someone else said: sensei, nan datte? (what did the teacher say?)",
+"why": "example reads as addressing the teacher; add gloss"
+}
+],
+"drops": [
+{
+"id": "p-sono-toori-2",
+"reason": "Duplicate of p-sono-toori (same phrase, same meaning and polite form)."
+},
+{
+"id": "p-jaa-enryo-naku",
+"reason": "Duplicate of p-enryo-naku: same phrase plus jaa, same use and an identical polite example."
+}
+]
+},
+"review:9": {
+"edits": [
+{
+"id": "s-jiichan",
+"field": "examplePolite.romaji",
+"value": "ojiisan wa oikutsu desu ka?",
+"why": "add polite example (flag)"
+},
+{
+"id": "s-jiichan",
+"field": "examplePolite.ja",
+"value": "おじいさんはおいくつですか？",
+"why": "add polite example (flag)"
+},
+{
+"id": "s-jiichan",
+"field": "examplePolite.english",
+"value": "How old is your grandfather?",
+"why": "add polite example (flag)"
+},
+{
+"id": "s-baachan",
+"field": "examplePolite.romaji",
+"value": "obaasan no ie ni wa yoku ikimasu ka?",
+"why": "add polite example (flag)"
+},
+{
+"id": "s-baachan",
+"field": "examplePolite.ja",
+"value": "おばあさんの家にはよく行きますか？",
+"why": "add polite example (flag)"
+},
+{
+"id": "s-baachan",
+"field": "examplePolite.english",
+"value": "Do you often go to your grandmother's house?",
+"why": "add polite example (flag)"
+},
+{
+"id": "s-papa",
+"field": "examplePolite.romaji",
+"value": "otousan wa ogenki desu ka?",
+"why": "add polite example (flag)"
+},
+{
+"id": "s-papa",
+"field": "examplePolite.ja",
+"value": "お父さんはお元気ですか？",
+"why": "add polite example (flag)"
+},
+{
+"id": "s-papa",
+"field": "examplePolite.english",
+"value": "How is your father?",
+"why": "add polite example (flag)"
+},
+{
+"id": "s-mama",
+"field": "examplePolite.romaji",
+"value": "okaasan ni yoroshiku otsutae kudasai.",
+"why": "add polite example (flag)"
+},
+{
+"id": "s-mama",
+"field": "examplePolite.ja",
+"value": "お母さんによろしくお伝えください。",
+"why": "add polite example (flag)"
+},
+{
+"id": "s-mama",
+"field": "examplePolite.english",
+"value": "Please give my regards to your mother.",
+"why": "add polite example (flag)"
+},
+{
+"id": "s-kaasan",
+"field": "examplePolite.romaji",
+"value": "okaasan wa ryouri ga jouzu desu ne.",
+"why": "add polite example (flag)"
+},
+{
+"id": "s-kaasan",
+"field": "examplePolite.ja",
+"value": "お母さんは料理が上手ですね。",
+"why": "add polite example (flag)"
+},
+{
+"id": "s-kaasan",
+"field": "examplePolite.english",
+"value": "Your mum is a great cook.",
+"why": "add polite example (flag)"
+},
+{
+"id": "s-tousan",
+"field": "examplePolite.romaji",
+"value": "otousan wa nan no oshigoto desu ka?",
+"why": "add polite example (flag)"
+},
+{
+"id": "s-tousan",
+"field": "examplePolite.ja",
+"value": "お父さんは何のお仕事ですか？",
+"why": "add polite example (flag)"
+},
+{
+"id": "s-tousan",
+"field": "examplePolite.english",
+"value": "What does your father do?",
+"why": "add polite example (flag)"
+},
+{
+"id": "s-oniichan",
+"field": "examplePolite.romaji",
+"value": "oniisan mo issho ni kimasu ka?",
+"why": "add polite example (flag)"
+},
+{
+"id": "s-oniichan",
+"field": "examplePolite.ja",
+"value": "お兄さんも一緒に来ますか？",
+"why": "add polite example (flag)"
+},
+{
+"id": "s-oniichan",
+"field": "examplePolite.english",
+"value": "Is your big brother coming too?",
+"why": "add polite example (flag)"
+},
+{
+"id": "s-oneechan",
+"field": "examplePolite.romaji",
+"value": "oneesan wa doko ni sunde iru n desu ka?",
+"why": "add polite example (flag)"
+},
+{
+"id": "s-oneechan",
+"field": "examplePolite.ja",
+"value": "お姉さんはどこに住んでいるんですか？",
+"why": "add polite example (flag)"
+},
+{
+"id": "s-oneechan",
+"field": "examplePolite.english",
+"value": "Where does your big sister live?",
+"why": "add polite example (flag)"
+},
+{
+"id": "s-niichan",
+"field": "examplePolite.romaji",
+"value": "oniisan to wa nansai chigau n desu ka?",
+"why": "add polite example (flag)"
+},
+{
+"id": "s-niichan",
+"field": "examplePolite.ja",
+"value": "お兄さんとは何歳違うんですか？",
+"why": "add polite example (flag)"
+},
+{
+"id": "s-niichan",
+"field": "examplePolite.english",
+"value": "How many years apart are you and your brother?",
+"why": "add polite example (flag)"
+},
+{
+"id": "s-neechan",
+"field": "examplePolite.romaji",
+"value": "oneesan to wa naka ga ii n desu ka?",
+"why": "add polite example (flag)"
+},
+{
+"id": "s-neechan",
+"field": "examplePolite.ja",
+"value": "お姉さんとは仲がいいんですか？",
+"why": "add polite example (flag)"
+},
+{
+"id": "s-neechan",
+"field": "examplePolite.english",
+"value": "Do you get on well with your big sister?",
+"why": "add polite example (flag)"
+},
+{
+"id": "s-obachan",
+"field": "examplePolite.romaji",
+"value": "shokudou no obasan wa totemo yasashii desu.",
+"why": "add polite example (flag)"
+},
+{
+"id": "s-obachan",
+"field": "examplePolite.ja",
+"value": "食堂のおばさんはとても優しいです。",
+"why": "add polite example (flag)"
+},
+{
+"id": "s-obachan",
+"field": "examplePolite.english",
+"value": "The canteen lady is very kind.",
+"why": "add polite example (flag)"
+},
+{
+"id": "s-uchira",
+"field": "examplePolite.romaji",
+"value": "watashitachi wa onaji daigaku desu.",
+"why": "add polite example (flag)"
+},
+{
+"id": "s-uchira",
+"field": "examplePolite.ja",
+"value": "私たちは同じ大学です。",
+"why": "add polite example (flag)"
+},
+{
+"id": "s-uchira",
+"field": "examplePolite.english",
+"value": "We go to the same university.",
+"why": "add polite example (flag)"
+},
+{
+"id": "s-oyaji",
+"field": "examplePolite.romaji",
+"value": "kinou chichi to kenka shimashita.",
+"why": "add polite example (flag)"
+},
+{
+"id": "s-oyaji",
+"field": "examplePolite.ja",
+"value": "昨日父とケンカしました。",
+"why": "add polite example (flag)"
+},
+{
+"id": "s-oyaji",
+"field": "examplePolite.english",
+"value": "I had a fight with my father yesterday.",
+"why": "add polite example (flag)"
+},
+{
+"id": "s-kaachan",
+"field": "examplePolite.romaji",
+"value": "okaasan wa kyou kimasu ka?",
+"why": "add polite example (flag)"
+},
+{
+"id": "s-kaachan",
+"field": "examplePolite.ja",
+"value": "お母さんは今日来ますか？",
+"why": "add polite example (flag)"
+},
+{
+"id": "s-kaachan",
+"field": "examplePolite.english",
+"value": "Is your mum coming today?",
+"why": "add polite example (flag)"
+},
+{
+"id": "s-ofukuro",
+"field": "examplePolite.romaji",
+"value": "haha no ryouri ga ichiban suki desu.",
+"why": "add polite example (flag)"
+},
+{
+"id": "s-ofukuro",
+"field": "examplePolite.ja",
+"value": "母の料理が一番好きです。",
+"why": "add polite example (flag)"
+},
+{
+"id": "s-ofukuro",
+"field": "examplePolite.english",
+"value": "I like my mother's cooking best.",
+"why": "add polite example (flag)"
+},
+{
+"id": "s-touchan",
+"field": "examplePolite.romaji",
+"value": "otousan wa nanji goro kaette kimasu ka?",
+"why": "add polite example (flag)"
+},
+{
+"id": "s-touchan",
+"field": "examplePolite.ja",
+"value": "お父さんは何時ごろ帰ってきますか？",
+"why": "add polite example (flag)"
+},
+{
+"id": "s-touchan",
+"field": "examplePolite.english",
+"value": "About what time does your dad get home?",
+"why": "add polite example (flag)"
+},
+{
+"id": "s-jiisan",
+"field": "examplePolite.romaji",
+"value": "ano ojiisan wa mata okotte imasu ne.",
+"why": "add polite example (flag)"
+},
+{
+"id": "s-jiisan",
+"field": "examplePolite.ja",
+"value": "あのおじいさんはまた怒っていますね。",
+"why": "add polite example (flag)"
+},
+{
+"id": "s-jiisan",
+"field": "examplePolite.english",
+"value": "That old man is angry again.",
+"why": "add polite example (flag)"
+},
+{
+"id": "s-yatsura",
+"field": "ja",
+"value": "やつら",
+"why": "plain spelling, matches s-yatsu"
+},
+{
+"id": "s-yatsura",
+"field": "example.ja",
+"value": "やつらに負けるわけにはいかない",
+"why": "plain spelling, matches s-yatsu"
+},
+{
+"id": "s-yatsura",
+"field": "example.romaji",
+"value": "yatsura ni makeru wake ni wa ikanai",
+"why": "unchanged, paired with ja edit"
+},
+{
+"id": "s-goushitsu",
+"field": "example.romaji",
+"value": "heya wa nihyakuichigoushitsu da yo.",
+"why": "counter attaches, no hyphen"
+},
+{
+"id": "s-goushitsu",
+"field": "examplePolite.romaji",
+"value": "heya wa nihyakuichigoushitsu desu.",
+"why": "counter attaches, no hyphen"
+},
+{
+"id": "s-tsume",
+"field": "examplePolite.romaji",
+"value": "tsume ga nobita node kirimasu",
+"why": "node is one word"
+},
+{
+"id": "p-youkoso",
+"field": "use",
+"value": "Welcoming someone to a place, event or group, as in youkoso nihon e; you answer with arigatou or a bow.",
+"why": "romaji lowercase"
+}
+],
+"drops": []
+}
+}

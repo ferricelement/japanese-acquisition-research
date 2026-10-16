@@ -1,0 +1,20 @@
+[
+{"src": "いらっしゃいませ", "ja": "いらっしゃいませ", "kana": "いらっしゃいませ", "romaji": "irasshaimase", "polite": null, "politeJa": null,
+ "english": "welcome (in shops)", "use": "Called out by staff as you walk into a shop or restaurant; customers don't reply, a nod is enough.",
+ "pos": "expression", "flags": ["formal"], "role": "hear",
+ "example": {"romaji": "irasshaimase! nanmeisama desu ka?", "ja": "いらっしゃいませ！何名様ですか？", "english": "Welcome! How many in your party?"},
+ "examplePolite": null,
+ "notes": "At someone's home you'll hear irasshai (come on in)."},
+{"src": "お越し", "ja": "お越し", "kana": "おこし", "romaji": "okoshi", "polite": null, "politeJa": null,
+ "english": "coming; visit (honorific)", "use": "Staff and hosts use it about your coming: yoku okoshi kudasaimashita (thanks for coming), mata no okoshi o omachi shite orimasu (please come again).",
+ "pos": "noun", "flags": ["formal"], "role": "hear",
+ "example": {"romaji": "mata no okoshi o omachi shite orimasu.", "ja": "またのお越しをお待ちしております。", "english": "We look forward to seeing you again."},
+ "examplePolite": null,
+ "notes": "Never use it about yourself; for your own visit say ukagaimasu."},
+{"src": "ご注文", "ja": "ご注文", "kana": "ごちゅうもん", "romaji": "gochuumon", "polite": null, "politeJa": null,
+ "english": "your order", "use": "Staff's polite word for your order; for your own order you just say chuumon.",
+ "pos": "noun", "flags": ["formal"], "role": "hear",
+ "example": {"romaji": "gochuumon wa okimari desu ka?", "ja": "ご注文はお決まりですか？", "english": "Are you ready to order?"},
+ "examplePolite": null,
+ "notes": "To ask for more time: mou sukoshi matte kudasai."}
+]

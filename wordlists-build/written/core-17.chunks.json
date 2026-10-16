@@ -1,0 +1,20 @@
+{"chunks": [
+{"label": "Asking how much", "rationale": "Lets you ask how much or how long, and push a question with surprise.", "interference": "Dore gurai is neutral; dore dake and donna ni are usually emotional.", "members": ["どれぐらい", "どれだけ", "どんなに", "いったい"]},
+{"label": "Very and really", "rationale": "Lets you say 'really', 'super' and 'dead tired' at the right strength.", "interference": "Zuibun is about a surprising amount or change, not a plain 'very'.", "members": ["とっても", "めちゃくちゃ", "随分", "死ぬほど"]},
+{"label": "So-so and fairly", "rationale": "Lets you give a modest, middle-of-the-road answer.", "interference": "Maamaa works alone as a reply; sorenari ni and aru teido modify a verb.", "members": ["まあまあ", "そこそこ", "それなり", "ある程度"]},
+{"label": "Feelings as sounds", "rationale": "Lets you say you're nervous, excited, annoyed, let down or relieved.", "interference": "Dokidoki includes nerves; wakuwaku is pure happy excitement.", "members": ["ドキドキ", "ワクワク", "イライラ", "がっかり", "ほっと"]},
+{"label": "Just now, in no time", "rationale": "Lets you say when something happened or must be done.", "interference": "Itsu no ma ni is about not noticing; atto iu ma ni is about speed.", "members": ["たった今", "あっという間に", "いつの間に", "今日中に"]},
+{"label": "As usual, basically", "rationale": "Lets you describe your normal routine and habits.", "interference": "Shotchuu means 'often', not 'always' (itsumo).", "members": ["いつもどおり", "しょっちゅう", "基本的に"]},
+{"label": "Early, last-minute, hectic", "rationale": "Lets you talk about timing and pace: early, cutting it close, rushed or relaxed.", "interference": "Girigiri is about the limit; batabata is about being busy.", "members": ["早め", "ギリギリ", "バタバタ", "のんびり"]},
+{"label": "Just a little", "rationale": "Lets you play down an amount or a thing.", "interference": "Tatta goes before numbers; hon no and chotto shita go before nouns.", "members": ["たった", "ほんの", "ちょっとした", "多少"]},
+{"label": "More and more", "rationale": "Lets you describe change: fast, gradual or still growing.", "interference": "Dondon is about speed; masumasu is about degree.", "members": ["どんどん", "少しずつ", "ますます", "さらに"]},
+{"label": "Enough and complete", "rationale": "Lets you say something is enough, plenty, nearly done or totally done.", "interference": "Juubun (enough) and juppun (ten minutes) share the same kanji.", "members": ["十分", "ほぼ", "完全", "たっぷり"]},
+{"label": "Not at all, never", "rationale": "Lets you say 'not at all' and 'never' with force.", "interference": "All need a negative verb; kesshite is the solemn 'never'.", "members": ["まったく", "さっぱり", "一切", "決して"]},
+{"label": "Quite a lot", "rationale": "Lets you say something has changed a lot or is seriously so.", "interference": "Sukkari (completely) sounds like sukkiri (refreshed).", "members": ["だいぶ", "すっかり", "相当", "よっぽど"]},
+{"label": "Quietly and by accident", "rationale": "Lets you say how something was done: carelessly, vaguely, gently, secretly or without moving.", "interference": "Sotto means gently; kossori means without being seen.", "members": ["うっかり", "なんとなく", "そっと", "こっそり", "じっと"]},
+{"label": "Just right", "rationale": "Lets you say something fits, works or feels just right.", "interference": "Sukkiri is about feeling clear, not about fit.", "members": ["ぴったり", "バッチリ", "すっきり"]},
+{"label": "At least, no more", "rationale": "Lets you set a minimum, a limit, or say what matters most.", "interference": "Semete is a wish; sukunakutomo is a factual minimum.", "members": ["せめて", "少なくとも", "これ以上", "何より"]},
+{"label": "Giving it everything", "rationale": "Lets you say you'll go all out, together, and manage somehow.", "interference": "Seiippai is careful best effort; omoikkiri is holding nothing back.", "members": ["精いっぱい", "思いっきり", "互い", "どうにか"]},
+{"label": "For real and for sure", "rationale": "Lets you say you mean it, really want it, or were wrongly sure.", "interference": "Tekkiri is always a belief that turned out wrong.", "members": ["本気で", "是非", "実際に", "てっきり"]}
+],
+"drops": []}

@@ -1,0 +1,28 @@
+{"chunks": [
+ {"label": "Yes, I did it", "rationale": "Cheer when you succeed or get lucky.", "interference": "yatta is your own win; yatta ne cheers someone else's.", "members": ["やった", "できた", "よし", "ラッキー", "よっしゃ"], "stage": 1},
+ {"label": "It's fine, no problem", "rationale": "Reassure people that all is well.", "interference": "nan demo nai (it's nothing) vs nan demo ii (anything is fine).", "members": ["オッケー", "問題ない", "何でもない", "大したことない"], "stage": 1},
+ {"label": "Oh right, so true", "rationale": "Agree, confirm, or show you just remembered something.", "interference": "a, sou da is remembering, not agreeing.", "members": ["ほんとだ", "あ、そうだ", "それな", "そのとおり"], "stage": 1},
+ {"label": "What is that", "rationale": "React when something surprises you or catches your eye.", "interference": "nani kore is about things near you, nani sore near the other person.", "members": ["何それ", "何これ", "なんだって", "何やってんの", "なになに？"], "stage": 1},
+ {"label": "Really, no way", "rationale": "Show disbelief at surprising news.", "interference": "uso desho doesn't call anyone a liar.", "members": ["信じられない", "マジか", "ありえない", "うそでしょ"], "stage": 1},
+ {"label": "Oh no, what now", "rationale": "React when something goes wrong.", "interference": "shimatta is about your mistake; dou shiyou is not knowing what to do next.", "members": ["しまった", "どうしよう", "おっと", "おかしいな"], "stage": 1},
+ {"label": "Oh and whoa sounds", "rationale": "Make the quick noises that show surprise.", "interference": "ara is mild surprise; arara is 'oh dear' at a mishap.", "members": ["うわっ", "おっ", "あら", "あらら"], "stage": 2},
+ {"label": "Hmm and huh sounds", "rationale": "Show you're listening, or that you're not impressed.", "interference": "Drawn out, fuun, hai hai and haa can all sound rude.", "members": ["ふーん", "はいはい", "いやー", "はあ"], "stage": 2},
+ {"label": "Praising someone", "rationale": "Cheer someone else's success or good luck.", "interference": "yoku yatta talks down, so not to a boss.", "members": ["やったね", "よくやった", "いいなあ", "ナイス"], "stage": 2},
+ {"label": "Looks good", "rationale": "Approve of how something looks or is going.", "interference": "It's yosasou, not ii sou.", "members": ["いい感じ", "いいじゃん", "よさそう", "これこれ"], "stage": 2},
+ {"label": "Congratulations", "rationale": "Congratulate birthdays, weddings, exams and graduations.", "interference": "Polite forms add go- to kekkon and sotsugyou, but not to goukaku.", "members": ["お誕生日おめでとう", "結婚おめでとう", "合格おめでとう", "卒業おめでとう"], "stage": 2},
+ {"label": "That sounds hard", "rationale": "Show sympathy when someone has had a rough time.", "interference": "taihen is hassle and effort; tsurai is emotional pain.", "members": ["大変だったね", "それはつらいね", "気を落とさないで"], "stage": 2},
+ {"label": "Take it easy, get well", "rationale": "Show care for someone who is rushed or unwell.", "interference": "None.", "members": ["焦らなくていいよ", "早く良くなってね", "風邪ひかないようにね"], "stage": 2},
+ {"label": "Forget it, whatever", "rationale": "Drop a topic or brush something off.", "interference": "dou demo ii (I don't care) vs nan demo ii (anything is fine).", "members": ["もういい", "どうでもいい", "まあいいか", "それが何か"], "stage": 2},
+ {"label": "No no, come on", "rationale": "Deny or laugh off praise, ideas and claims.", "interference": "iya iya is modest; sore wa nai is a firm no.", "members": ["いやいや", "それはない", "ないない", "またまた"], "stage": 2},
+ {"label": "Effort and ta-da sounds", "rationale": "Fill the moments of lifting, counting in and showing off.", "interference": "None.", "members": ["よいしょ", "せーの", "ジャーン"], "stage": 3},
+ {"label": "Ouch and damn it", "rationale": "React to pain, defeat and feeling foolish.", "interference": "chikushou is rough; yarareta works for anyone.", "members": ["イテッ", "やられた", "ちくしょう", "バカみたい"], "stage": 3},
+ {"label": "Told you so", "rationale": "Point out you were right, or call out a hypocrite.", "interference": "yoku iu here is sarcastic, not 'people often say'.", "members": ["ほらね", "だから言ったじゃない", "よく言う"], "stage": 3},
+ {"label": "Hey, stop it", "rationale": "Get attention, protest, or hush someone.", "interference": "oi is rough; use sumimasen to get a stranger's attention.", "members": ["おい", "おいおい", "もうっ", "シーッ"], "stage": 3},
+ {"label": "Year-end and New Year", "rationale": "Greet people around Christmas and New Year.", "interference": "yoi otoshi o is before January 1, akemashite omedetou after.", "members": ["あけましておめでとう", "メリークリスマス", "よいお年を", "今年もよろしくお願いします", "今年もお世話になりました"], "stage": 3},
+ {"label": "Leave me alone", "rationale": "Recognize the angry outbursts you'll hear in films and fights.", "interference": "All are rough except hottoite, the only one safe to say yourself.", "members": ["ほっといて", "知るか", "ふざけんな", "いいかげんにしろ"], "stage": 4}
+],
+"drops": [
+ {"src": "どうでも", "reason": "Tokenizer fragment of どうでもいい, which is kept."},
+ {"src": "なんでもない", "reason": "Duplicate of 何でもない (same phrase written in kana)."},
+ {"src": "もういいよ", "reason": "Duplicate of もういい with sentence-final yo."}
+]}

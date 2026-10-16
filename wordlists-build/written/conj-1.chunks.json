@@ -1,0 +1,53 @@
+{
+  "chunks": [
+    {
+      "label": "How verbs work",
+      "rationale": "The machinery every form below uses: which group a verb is in, how its stem shifts, the te/ta sound changes, and the few exceptions.",
+      "interference": "Godan lookalikes like kaeru and hairu get treated as ichidan (kaeta, haita instead of kaetta, haitta).",
+      "members": ["r-groups", "r-stems", "r-te", "r-irregular"]
+    },
+    {
+      "label": "Now and not",
+      "rationale": "Present and negative in both registers: the four forms behind most sentences.",
+      "interference": "Plain and polite pairs blur together; aranai for nai, and -u verbs losing their w (kaanai for kawanai).",
+      "members": ["dict", "masu", "nai", "masen"]
+    },
+    {
+      "label": "The past",
+      "rationale": "The same four slots moved into the past, plain and polite.",
+      "interference": "-nakatta used for 'not yet' where mada -tenai belongs; dropped sound changes (kaeta for kaetta).",
+      "members": ["ta", "mashita", "nakatta", "masen-deshita"]
+    },
+    {
+      "label": "The te-form",
+      "rationale": "The te-form and the requests built on it: do it, please do it, please don't.",
+      "interference": "-naide (please don't) confused with -nakute; bare -te heard as unfinished rather than as a request.",
+      "members": ["te", "te-kudasai", "naide"]
+    },
+    {
+      "label": "Ongoing and done",
+      "rationale": "te-form plus iru: what's going on, what was going on, and what hasn't happened yet.",
+      "interference": "-teru as a resulting state (kekkon shiteru, kiteru) heard as an action in progress; shittenai for shiranai.",
+      "members": ["teru", "teta", "tenai"]
+    },
+    {
+      "label": "Wanting and inviting",
+      "rationale": "Wants, suggestions and invitations, from casual to polite.",
+      "interference": "-mashou (assumes yes) vs -masen ka (leaves room to refuse); kaerou (let's go home) vs kaeru.",
+      "members": ["tai", "vol", "mashou", "masen-ka"]
+    },
+    {
+      "label": "If and when",
+      "rationale": "The four conditionals; -tara covers most needs and the others add shades.",
+      "interference": "All four translate as 'if': -to can't be followed by a request, nara looks ahead, -tara means once it's happened.",
+      "members": ["tara", "ba", "to", "nara"]
+    },
+    {
+      "label": "Must and don't have to",
+      "rationale": "Obligation, permission and prohibition, mostly built from -nai and -te.",
+      "interference": "-nakya (have to) vs -nakute mo ii (don't have to); -cha dame (mustn't) vs -chau (did it).",
+      "members": ["nakya", "nakute", "te-mo-ii", "cha-dame"]
+    }
+  ],
+  "drops": []
+}

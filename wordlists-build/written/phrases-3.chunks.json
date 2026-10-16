@@ -1,0 +1,103 @@
+{
+  "chunks": [
+    {"label": "On my way", "stage": 1,
+     "rationale": "Lets you ask where someone is and report your progress when meeting up.",
+     "interference": "Tsuita yo (I'm here) and mou sugu tsuku (almost there) differ only in tense.",
+     "members": ["今どこ？", "今向かってる", "着いたよ", "もうすぐ着く"]},
+
+    {"label": "Late and waiting", "stage": 1,
+     "rationale": "Lets you apologize for being late and handle the moment you meet up.",
+     "interference": "Okurete gomen (I was late) versus chotto okureru (I will be late).",
+     "members": ["お待たせ", "待ってるね", "遅れてごめん", "ちょっと遅れる", "待った？"]},
+
+    {"label": "Are you okay", "stage": 1,
+     "rationale": "Lets you check on someone who is hurt, upset or getting better.",
+     "interference": "Daijoubu desu as an answer can mean no thanks, not just I'm fine.",
+     "members": ["大丈夫ですか", "何かあった？", "ケガない？", "もう大丈夫？"]},
+
+    {"label": "Don't worry", "stage": 1,
+     "rationale": "Lets you reassure someone who apologizes, worries or rushes.",
+     "interference": "Ki ni shinaide (don't mind it) and shinpai shinaide (don't be anxious) are not interchangeable.",
+     "members": ["気にしないで", "心配しないで", "なんとかなるよ", "ゆっくりでいいよ", "ご心配なく"]},
+
+    {"label": "Waiting your turn", "stage": 1,
+     "rationale": "Lets you follow staff when you're asked to wait, called forward or served.",
+     "interference": "Omatase shimashita (sorry for the wait) and omachi kudasai (please wait) share a verb but come at opposite moments.",
+     "members": ["少々お待ちください", "お待たせしました", "次の方どうぞ", "こちらのレジへどうぞ", "ただいま伺います"]},
+
+    {"label": "Getting a table", "stage": 1,
+     "rationale": "Lets you get from the restaurant door to your seat.",
+     "interference": "Omachi shite orimashita (we expected you) sounds like omachi kudasai (please wait).",
+     "members": ["何名様ですか", "こちらへどうぞ", "お好きな席へどうぞ", "ご予約はされていますか", "お待ちしておりました"]},
+
+    {"label": "Ordering a meal", "stage": 1,
+     "rationale": "Lets you follow the waiter from ordering to clearing the plates.",
+     "interference": "Gochuumon wa okimari (ready to order?) and gochuumon wa ijou (is that all?) start the same way.",
+     "members": ["ごゆっくりどうぞ", "ご注文はお決まりですか", "ご注文は以上でよろしいですか", "お飲み物はいかがなさいますか", "お下げしてもよろしいですか"]},
+
+    {"label": "For here or to go", "stage": 1,
+     "rationale": "Lets you answer the quick questions at fast-food and convenience-store counters.",
+     "interference": "Tennai (eat in) and mochikaeri (take home) both expect a plain hai, so listen for which one was asked.",
+     "members": ["店内でお召し上がりですか", "お持ち帰りですか", "温めますか", "お箸はお付けしますか"]},
+
+    {"label": "Checkout questions", "stage": 1,
+     "rationale": "Lets you get through the questions at almost any shop register.",
+     "interference": "Daijoubu desu here means no thanks, not yes.",
+     "members": ["袋はお付けしますか", "ポイントカードはお持ちですか", "お支払いはどうされますか", "シールでいいですか"]},
+
+    {"label": "Making plans", "stage": 2,
+     "rationale": "Lets you settle a day, time and place with a friend, and back out if you must.",
+     "interference": "Itsu (when, which day) versus nanji (what time).",
+     "members": ["どこで会う？", "いつがいい？", "何時がいい？", "先に行ってて", "行けなくなった"]},
+
+    {"label": "Get well soon", "stage": 2,
+     "rationale": "Lets you say the right thing to someone sick, tired or leaving for a while.",
+     "interference": "Odaiji ni is only for illness; karada ni ki o tsukete is the general take care.",
+     "members": ["お大事に", "無理しないで", "ゆっくり休んで", "体に気をつけて"]},
+
+    {"label": "Cheering someone up", "stage": 2,
+     "rationale": "Lets you comfort someone who's down and praise their effort.",
+     "interference": "Faito means keep going, not fight; ganbatte is the everyday cheer.",
+     "members": ["気持ちわかる", "よく頑張ったね", "元気出して", "ファイト"]},
+
+    {"label": "Calming someone down", "stage": 2,
+     "rationale": "Lets you soothe someone who is panicking or crying, and react to sad news.",
+     "interference": "Kawaisou (poor thing) versus kawaii (cute).",
+     "members": ["落ち着いて", "かわいそうに", "よしよし", "泣かないで"]},
+
+    {"label": "Keeping in touch", "stage": 2,
+     "rationale": "Lets you start, keep up and wind down contact with friends.",
+     "interference": "Mata renraku suru ne can be a polite brush-off rather than a promise.",
+     "members": ["また連絡するね", "今何してる？", "LINEして", "LINE交換しよう"]},
+
+    {"label": "Starting a call", "stage": 2,
+     "rationale": "Lets you open a call and cope with a bad line, a low battery or an unknown caller.",
+     "interference": "Kikoeru (can hear) versus kiku (listen, ask).",
+     "members": ["今大丈夫？", "聞こえる？", "どちら様", "充電切れそう"]},
+
+    {"label": "Handing over money", "stage": 2,
+     "rationale": "Lets you follow the cashier as you pay and get your change.",
+     "interference": "Oazukari shimasu names the money you handed over, not the total you owe.",
+     "members": ["お返しです", "お預かりします", "ご一緒でよろしいですか", "一括でよろしいですか"]},
+
+    {"label": "Shop greetings", "stage": 2,
+     "rationale": "Lets you understand staff as you browse, ask for help and leave.",
+     "interference": "Nanika osagashi desu ka (looking for something?) versus nanika goyou desu ka (what do you need?).",
+     "members": ["またお越しください", "何かお探しですか", "ご覧ください", "ご用", "毎度"]},
+
+    {"label": "Calling back", "stage": 3,
+     "rationale": "Lets you put off a call and follow up on one you missed.",
+     "interference": "Denwa suru (call) versus kakenaosu and orikaesu (call back).",
+     "members": ["後で電話する", "後でかけ直す", "折り返しお電話します", "電話出られなくてごめん"]},
+
+    {"label": "Clinic and front desk", "stage": 3,
+     "rationale": "Lets you follow reception at a clinic, office or business phone line.",
+     "interference": "Ukagau means ask here, but come or visit in tadaima ukagaimasu.",
+     "members": ["今日はどうされましたか", "お電話ありがとうございます", "保険証をお願いします", "お名前を伺ってもよろしいですか"]}
+  ],
+  "drops": [
+    {"src": "ごゆっくり", "reason": "Duplicate of ごゆっくりどうぞ; the short form is mentioned in that entry's notes."},
+    {"src": "何かあったの", "reason": "Duplicate of 何かあった？ with the softening no; mentioned in that entry's notes."},
+    {"src": "なんとかなる", "reason": "Duplicate of なんとかなるよ, the same phrase without yo."}
+  ]
+}

@@ -1,0 +1,156 @@
+{
+ "w-mousu": [
+  "has a polite form but no polite example"
+ ],
+ "w-gozonji": [
+  "has a polite form but no polite example"
+ ],
+ "w-moushiageru": [
+  "has a polite form but no polite example"
+ ],
+ "w-meshiagaru": [
+  "has a polite form but no polite example"
+ ],
+ "w-sashiageru": [
+  "has a polite form but no polite example"
+ ],
+ "w-itasu": [
+  "has a polite form but no polite example"
+ ],
+ "w-nasaru": [
+  "has a polite form but no polite example"
+ ],
+ "w-waifai": [
+  "example romaji may not match its ja (tokenizer reads 'kokowifiaru', 0.83)"
+ ],
+ "w-daradara": [
+  "example romaji may not match its ja (tokenizer reads 'kyoutsuitachidaradarashichata', 0.81)"
+ ],
+ "w-kutakuta": [
+  "example romaji may not match its ja (tokenizer reads 'tsuitachiaruitemoukutakuta', 0.81)",
+  "examplePolite romaji may not match its ja (tokenizer reads 'tsuitachiaruitemoukutakutadesu', 0.83)"
+ ],
+ "s-hara": [
+  "has a polite form but no polite example"
+ ],
+ "s-futsuka": [
+  "example romaji may not match its ja (tokenizer reads 'yongatsufutakagatanjouhinanda', 0.81)",
+  "examplePolite romaji may not match its ja (tokenizer reads 'yongatsufutakagatanjouhidesu', 0.81)"
+ ],
+ "s-jiichan": [
+  "has a polite form but no polite example"
+ ],
+ "s-baachan": [
+  "has a polite form but no polite example"
+ ],
+ "s-papa": [
+  "has a polite form but no polite example"
+ ],
+ "s-mama": [
+  "has a polite form but no polite example"
+ ],
+ "s-kaasan": [
+  "has a polite form but no polite example"
+ ],
+ "s-tousan": [
+  "has a polite form but no polite example"
+ ],
+ "s-oniichan": [
+  "has a polite form but no polite example"
+ ],
+ "s-oneechan": [
+  "has a polite form but no polite example"
+ ],
+ "s-niichan": [
+  "has a polite form but no polite example"
+ ],
+ "s-neechan": [
+  "has a polite form but no polite example"
+ ],
+ "s-obachan": [
+  "has a polite form but no polite example"
+ ],
+ "s-uchira": [
+  "has a polite form but no polite example"
+ ],
+ "s-sensenshuu": [
+  "example romaji may not match its ja (tokenizer reads 'sakizakishuukarakazehiiteru', 0.77)",
+  "examplePolite romaji may not match its ja (tokenizer reads 'sakizakishuukarakazeohiiteimasu', 0.80)"
+ ],
+ "s-ototoshi": [
+  "example romaji may not match its ja (tokenizer reads 'issakunenkekkonshitanda', 0.67)",
+  "examplePolite romaji may not match its ja (tokenizer reads 'issakunenkekkonshimashita', 0.69)"
+ ],
+ "s-oyaji": [
+  "has a polite form but no polite example"
+ ],
+ "s-ofukuro": [
+  "has a polite form but no polite example"
+ ],
+ "s-touchan": [
+  "example romaji may not match its ja (tokenizer reads 'chichichanhayakukaetekitene', 0.81)"
+ ],
+ "s-jiisan": [
+  "has a polite form but no polite example"
+ ],
+ "s-ano-kata": [
+  "example romaji may not match its ja (tokenizer reads 'anohougashachoudesuyo', 0.84)"
+ ],
+ "p-okaeshi-desu": [
+  "example romaji may not match its ja (tokenizer reads 'ennookaeshidesu', 0.70)"
+ ],
+ "w-kiru-2": [
+  "same romaji as w-kiru (one may be a duplicate)"
+ ],
+ "w-kiru": [
+  "same romaji as w-kiru-2 (one may be a duplicate)"
+ ],
+ "w-kurasu-2": [
+  "same romaji as w-kurasu (one may be a duplicate)"
+ ],
+ "w-kurasu": [
+  "same romaji as w-kurasu-2 (one may be a duplicate)"
+ ],
+ "w-igai": [
+  "same romaji as w-igai-2 (one may be a duplicate)"
+ ],
+ "w-igai-2": [
+  "same romaji as w-igai (one may be a duplicate)"
+ ],
+ "w-tada-2": [
+  "same romaji as w-tada (one may be a duplicate)"
+ ],
+ "w-tada": [
+  "same romaji as w-tada-2 (one may be a duplicate)"
+ ],
+ "w-naosu": [
+  "same romaji as w-naosu-2 (one may be a duplicate)"
+ ],
+ "w-naosu-2": [
+  "same romaji as w-naosu (one may be a duplicate)"
+ ],
+ "w-fuku": [
+  "same romaji as w-fuku-2 (one may be a duplicate)"
+ ],
+ "w-fuku-2": [
+  "same romaji as w-fuku (one may be a duplicate)"
+ ],
+ "s-go": [
+  "same romaji as s-go-2 (one may be a duplicate)"
+ ],
+ "s-go-2": [
+  "same romaji as s-go (one may be a duplicate)"
+ ],
+ "s-kai": [
+  "same romaji as s-kai-2 (one may be a duplicate)"
+ ],
+ "s-kai-2": [
+  "same romaji as s-kai (one may be a duplicate)"
+ ],
+ "s-ban-2": [
+  "same romaji as s-ban (one may be a duplicate)"
+ ],
+ "s-ban": [
+  "same romaji as s-ban-2 (one may be a duplicate)"
+ ]
+}

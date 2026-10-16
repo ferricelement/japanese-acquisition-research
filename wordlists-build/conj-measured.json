@@ -1,0 +1,322 @@
+{
+ "lines": 3170155,
+ "heads": {
+  "v": 2282918,
+  "i": 375348,
+  "na": 158574
+ },
+ "forms": {
+  "dict": {
+   "count": 541997,
+   "perMillion": 170968.6,
+   "shareOfHeads": 0.2374
+  },
+  "masu": {
+   "count": 42700,
+   "perMillion": 13469.4,
+   "shareOfHeads": 0.0187
+  },
+  "mashita": {
+   "count": 24624,
+   "perMillion": 7767.4,
+   "shareOfHeads": 0.0108
+  },
+  "masen": {
+   "count": 22113,
+   "perMillion": 6975.4,
+   "shareOfHeads": 0.0097
+  },
+  "masen-deshita": {
+   "count": 1555,
+   "perMillion": 490.5,
+   "shareOfHeads": 0.0007
+  },
+  "mashou": {
+   "count": 5725,
+   "perMillion": 1805.9,
+   "shareOfHeads": 0.0025
+  },
+  "ta": {
+   "count": 332220,
+   "perMillion": 104796.1,
+   "shareOfHeads": 0.1455
+  },
+  "te": {
+   "count": 180317,
+   "perMillion": 56879.6,
+   "shareOfHeads": 0.079
+  },
+  "nai": {
+   "count": 113039,
+   "perMillion": 35657.2,
+   "shareOfHeads": 0.0495
+  },
+  "nakatta": {
+   "count": 17519,
+   "perMillion": 5526.2,
+   "shareOfHeads": 0.0077
+  },
+  "nakute": {
+   "count": 2167,
+   "perMillion": 683.6,
+   "shareOfHeads": 0.0009
+  },
+  "naide": {
+   "count": 11273,
+   "perMillion": 3556.0,
+   "shareOfHeads": 0.0049
+  },
+  "nakereba": {
+   "count": 9945,
+   "perMillion": 3137.1,
+   "shareOfHeads": 0.0044
+  },
+  "nakucha": {
+   "count": 899,
+   "perMillion": 283.6,
+   "shareOfHeads": 0.0004
+  },
+  "teru": {
+   "count": 277549,
+   "perMillion": 87550.6,
+   "shareOfHeads": 0.1216
+  },
+  "tai": {
+   "count": 38324,
+   "perMillion": 12089.0,
+   "shareOfHeads": 0.0168
+  },
+  "vol": {
+   "count": 36685,
+   "perMillion": 11572.0,
+   "shareOfHeads": 0.0161
+  },
+  "tara": {
+   "count": 21822,
+   "perMillion": 6883.6,
+   "shareOfHeads": 0.0096
+  },
+  "ba": {
+   "count": 23023,
+   "perMillion": 7262.4,
+   "shareOfHeads": 0.0101
+  },
+  "pot": null,
+  "pas-rareru": {
+   "count": 86325,
+   "perMillion": 27230.5,
+   "shareOfHeads": 0.0378
+  },
+  "cau": {
+   "count": 31332,
+   "perMillion": 9883.4,
+   "shareOfHeads": 0.0137
+  },
+  "cp": {
+   "count": 648,
+   "perMillion": 204.4,
+   "shareOfHeads": 0.0003
+  },
+  "imp": {
+   "count": 81688,
+   "perMillion": 25767.8,
+   "shareOfHeads": 0.0358
+  },
+  "na": {
+   "count": 18729,
+   "perMillion": 5907.9,
+   "shareOfHeads": 0.0082
+  },
+  "nasai": {
+   "count": 7170,
+   "perMillion": 2261.7,
+   "shareOfHeads": 0.0031
+  },
+  "te-kudasai": {
+   "count": 9762,
+   "perMillion": 3079.3,
+   "shareOfHeads": 0.0043
+  },
+  "te-kure": {
+   "count": 19183,
+   "perMillion": 6051.1,
+   "shareOfHeads": 0.0084
+  },
+  "te-kureru": {
+   "count": 21432,
+   "perMillion": 6760.6,
+   "shareOfHeads": 0.0094
+  },
+  "te-morau": {
+   "count": 5075,
+   "perMillion": 1600.9,
+   "shareOfHeads": 0.0022
+  },
+  "te-ageru": {
+   "count": 2182,
+   "perMillion": 688.3,
+   "shareOfHeads": 0.001
+  },
+  "chau": {
+   "count": 9297,
+   "perMillion": 2932.7,
+   "shareOfHeads": 0.0041
+  },
+  "toku": {
+   "count": 8786,
+   "perMillion": 2771.5,
+   "shareOfHeads": 0.0038
+  },
+  "te-miru": {
+   "count": 10229,
+   "perMillion": 3226.7,
+   "shareOfHeads": 0.0045
+  },
+  "te-kuru": {
+   "count": 30479,
+   "perMillion": 9614.4,
+   "shareOfHeads": 0.0134
+  },
+  "te-iku": {
+   "count": 11789,
+   "perMillion": 3718.7,
+   "shareOfHeads": 0.0052
+  },
+  "te-mo": {
+   "count": 9480,
+   "perMillion": 2990.4,
+   "shareOfHeads": 0.0042
+  },
+  "te-mo-ii": {
+   "count": 2369,
+   "perMillion": 747.3,
+   "shareOfHeads": 0.001
+  },
+  "cha": {
+   "count": 1790,
+   "perMillion": 564.6,
+   "shareOfHeads": 0.0008
+  },
+  "tari": {
+   "count": 3393,
+   "perMillion": 1070.3,
+   "shareOfHeads": 0.0015
+  },
+  "nagara": {
+   "count": 1489,
+   "perMillion": 469.7,
+   "shareOfHeads": 0.0007
+  },
+  "sou": {
+   "count": 3872,
+   "perMillion": 1221.4,
+   "shareOfHeads": 0.0017
+  },
+  "sugiru": {
+   "count": 1368,
+   "perMillion": 431.5,
+   "shareOfHeads": 0.0006
+  },
+  "yasui-nikui": null,
+  "zu": {
+   "count": 6061,
+   "perMillion": 1911.9,
+   "shareOfHeads": 0.0027
+  },
+  "te-hoshii": {
+   "count": 6174,
+   "perMillion": 1947.5,
+   "shareOfHeads": 0.0027
+  },
+  "i-plain": {
+   "count": 258908,
+   "perMillion": 81670.5,
+   "shareOfHeads": 0.6898
+  },
+  "i-katta": {
+   "count": 21447,
+   "perMillion": 6765.3,
+   "shareOfHeads": 0.0571
+  },
+  "i-kunai": {
+   "count": 4439,
+   "perMillion": 1400.2,
+   "shareOfHeads": 0.0118
+  },
+  "i-kunakatta": {
+   "count": 342,
+   "perMillion": 107.9,
+   "shareOfHeads": 0.0009
+  },
+  "i-kute": {
+   "count": 5679,
+   "perMillion": 1791.4,
+   "shareOfHeads": 0.0151
+  },
+  "i-ku": {
+   "count": 34699,
+   "perMillion": 10945.5,
+   "shareOfHeads": 0.0924
+  },
+  "i-kereba": {
+   "count": 2318,
+   "perMillion": 731.2,
+   "shareOfHeads": 0.0062
+  },
+  "i-kattara": {
+   "count": 757,
+   "perMillion": 238.8,
+   "shareOfHeads": 0.002
+  },
+  "i-sou": {
+   "count": 2509,
+   "perMillion": 791.4,
+   "shareOfHeads": 0.0067
+  },
+  "i-sugiru": {
+   "count": 2792,
+   "perMillion": 880.7,
+   "shareOfHeads": 0.0074
+  },
+  "na-na": {
+   "count": 47154,
+   "perMillion": 14874.4,
+   "shareOfHeads": 0.2974
+  },
+  "na-ni": {
+   "count": 50548,
+   "perMillion": 15945.0,
+   "shareOfHeads": 0.3188
+  },
+  "na-da": {
+   "count": 32255,
+   "perMillion": 10174.6,
+   "shareOfHeads": 0.2034
+  },
+  "na-desu": {
+   "count": 7741,
+   "perMillion": 2441.8,
+   "shareOfHeads": 0.0488
+  },
+  "na-datta": {
+   "count": 4075,
+   "perMillion": 1285.4,
+   "shareOfHeads": 0.0257
+  },
+  "na-ja-nai": {
+   "count": 2335,
+   "perMillion": 736.6,
+   "shareOfHeads": 0.0147
+  },
+  "na-de": {
+   "count": 4853,
+   "perMillion": 1530.8,
+   "shareOfHeads": 0.0306
+  },
+  "na-nara": {
+   "count": 683,
+   "perMillion": 215.4,
+   "shareOfHeads": 0.0043
+  }
+ }
+}

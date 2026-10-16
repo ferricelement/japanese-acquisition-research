@@ -1,0 +1,868 @@
+{
+ "sets": [
+  {
+   "key": "s-family",
+   "scope": "Family words, own vs someone else's (chichi/otousan, haha/okaasan, ani/oniisan ...) and the casual home forms (papa, mama, oniichan)",
+   "include": [
+    {
+     "src": "お母さん",
+     "ja": "お母さん",
+     "kana": "おかあさん",
+     "romaji": "okaasan",
+     "en": "mother; Mum",
+     "rank": 340,
+     "score": 5
+    },
+    {
+     "src": "家族",
+     "ja": "家族",
+     "kana": "かぞく",
+     "romaji": "kazoku",
+     "en": "family",
+     "rank": 343,
+     "score": 4
+    },
+    {
+     "src": "お父さん",
+     "ja": "お父さん",
+     "kana": "おとうさん",
+     "romaji": "otousan",
+     "en": "father; Dad",
+     "rank": 386,
+     "score": 5
+    },
+    {
+     "src": "娘",
+     "ja": "娘",
+     "kana": "むすめ",
+     "romaji": "musume",
+     "en": "daughter",
+     "rank": 488,
+     "score": 4
+    },
+    {
+     "src": "親",
+     "ja": "親",
+     "kana": "おや",
+     "romaji": "oya",
+     "en": "parent(s)",
+     "rank": 491,
+     "score": 4
+    },
+    {
+     "src": "息子",
+     "ja": "息子",
+     "kana": "むすこ",
+     "romaji": "musuko",
+     "en": "son",
+     "rank": 645,
+     "score": 4
+    },
+    {
+     "src": "父親",
+     "ja": "父親",
+     "kana": "ちちおや",
+     "romaji": "chichioya",
+     "en": "father",
+     "rank": 667,
+     "score": 3
+    },
+    {
+     "src": "母親",
+     "ja": "母親",
+     "kana": "ははおや",
+     "romaji": "hahaoya",
+     "en": "mother",
+     "rank": 692,
+     "score": 3
+    },
+    {
+     "src": "父",
+     "ja": "父",
+     "kana": "ちち",
+     "romaji": "chichi",
+     "en": "(my) father",
+     "rank": 697,
+     "score": 4
+    },
+    {
+     "src": "母",
+     "ja": "母",
+     "kana": "はは",
+     "romaji": "haha",
+     "en": "(my) mother",
+     "rank": 706,
+     "score": 4
+    },
+    {
+     "src": "奥さん",
+     "ja": "奥さん",
+     "kana": "おくさん",
+     "romaji": "okusan",
+     "en": "(someone's) wife",
+     "rank": 849,
+     "score": 4
+    },
+    {
+     "src": "妻",
+     "ja": "妻",
+     "kana": "つま",
+     "romaji": "tsuma",
+     "en": "(my) wife",
+     "rank": 872,
+     "score": 3
+    },
+    {
+     "src": "パパ",
+     "ja": "パパ",
+     "kana": "パパ",
+     "romaji": "papa",
+     "en": "dad",
+     "rank": 1028,
+     "score": 4
+    },
+    {
+     "src": "夫",
+     "ja": "夫",
+     "kana": "おっと",
+     "romaji": "otto",
+     "en": "(my) husband",
+     "rank": 1132,
+     "score": 3
+    },
+    {
+     "src": "おじさん",
+     "ja": "おじさん",
+     "kana": "おじさん",
+     "romaji": "ojisan",
+     "en": "uncle; middle-aged man",
+     "rank": 1133,
+     "score": 4
+    },
+    {
+     "src": "旦那",
+     "ja": "旦那",
+     "kana": "だんな",
+     "romaji": "danna",
+     "en": "husband",
+     "rank": 1231,
+     "score": 4
+    },
+    {
+     "src": "夫婦",
+     "ja": "夫婦",
+     "kana": "ふうふ",
+     "romaji": "fuufu",
+     "en": "married couple",
+     "rank": 1254,
+     "score": 3
+    },
+    {
+     "src": "両親",
+     "ja": "両親",
+     "kana": "りょうしん",
+     "romaji": "ryoushin",
+     "en": "parents",
+     "rank": 1289,
+     "score": 4
+    },
+    {
+     "src": "妹",
+     "ja": "妹",
+     "kana": "いもうと",
+     "romaji": "imouto",
+     "en": "younger sister",
+     "rank": 1296,
+     "score": 4
+    },
+    {
+     "src": "母さん",
+     "ja": "母さん",
+     "kana": "かあさん",
+     "romaji": "kaasan",
+     "en": "Mum (casual)",
+     "rank": 1319,
+     "score": 3
+    },
+    {
+     "src": "弟",
+     "ja": "弟",
+     "kana": "おとうと",
+     "romaji": "otouto",
+     "en": "younger brother",
+     "rank": 1446,
+     "score": 4
+    },
+    {
+     "src": "親父",
+     "ja": "親父",
+     "kana": "おやじ",
+     "romaji": "oyaji",
+     "en": "dad; old man",
+     "rank": 1491,
+     "score": 3
+    },
+    {
+     "src": "親子",
+     "ja": "親子",
+     "kana": "おやこ",
+     "romaji": "oyako",
+     "en": "parent and child",
+     "rank": 1517,
+     "score": 3
+    },
+    {
+     "src": "娘さん",
+     "ja": "娘さん",
+     "kana": "むすめさん",
+     "romaji": "musumesan",
+     "en": "(someone's) daughter",
+     "rank": 1520,
+     "score": 3
+    },
+    {
+     "src": "父さん",
+     "ja": "父さん",
+     "kana": "とうさん",
+     "romaji": "tousan",
+     "en": "Dad (casual)",
+     "rank": 1653,
+     "score": 3
+    },
+    {
+     "src": "おばあちゃん",
+     "ja": "おばあちゃん",
+     "kana": "おばあちゃん",
+     "romaji": "obaachan",
+     "en": "grandma; old lady",
+     "rank": 1664,
+     "score": 4
+    },
+    {
+     "src": "兄",
+     "ja": "兄",
+     "kana": "あに",
+     "romaji": "ani",
+     "en": "(my) older brother",
+     "rank": 1701,
+     "score": 4
+    },
+    {
+     "src": "息子さん",
+     "ja": "息子さん",
+     "kana": "むすこさん",
+     "romaji": "musukosan",
+     "en": "(someone's) son",
+     "rank": 1810,
+     "score": 3
+    },
+    {
+     "src": "主人",
+     "ja": "主人",
+     "kana": "しゅじん",
+     "romaji": "shujin",
+     "en": "(my) husband",
+     "rank": 1832,
+     "score": 3
+    },
+    {
+     "src": "ご主人",
+     "ja": "ご主人",
+     "kana": "ごしゅじん",
+     "romaji": "goshujin",
+     "en": "(someone's) husband",
+     "rank": 1902,
+     "score": 3
+    },
+    {
+     "src": "おばさん",
+     "ja": "おばさん",
+     "kana": "おばさん",
+     "romaji": "obasan",
+     "en": "aunt; middle-aged woman",
+     "rank": 1935,
+     "score": 4
+    },
+    {
+     "src": "お姉ちゃん",
+     "ja": "お姉ちゃん",
+     "kana": "おねえちゃん",
+     "romaji": "oneechan",
+     "en": "big sister (casual)",
+     "rank": 1968,
+     "score": 4
+    },
+    {
+     "src": "お兄ちゃん",
+     "ja": "お兄ちゃん",
+     "kana": "おにいちゃん",
+     "romaji": "oniichan",
+     "en": "big brother (casual)",
+     "rank": 1977,
+     "score": 4
+    },
+    {
+     "src": "孫",
+     "ja": "孫",
+     "kana": "まご",
+     "romaji": "mago",
+     "en": "grandchild",
+     "rank": 1984,
+     "score": 3
+    },
+    {
+     "src": "お兄さん",
+     "ja": "お兄さん",
+     "kana": "おにいさん",
+     "romaji": "oniisan",
+     "en": "older brother; young man",
+     "rank": 2038,
+     "score": 4
+    },
+    {
+     "src": "お姉さん",
+     "ja": "お姉さん",
+     "kana": "おねえさん",
+     "romaji": "oneesan",
+     "en": "older sister; young woman",
+     "rank": 2046,
+     "score": 4
+    },
+    {
+     "src": "ご両親",
+     "ja": "ご両親",
+     "kana": "ごりょうしん",
+     "romaji": "goryoushin",
+     "en": "(your) parents",
+     "rank": 2122,
+     "score": 3
+    },
+    {
+     "src": "おじいちゃん",
+     "ja": "おじいちゃん",
+     "kana": "おじいちゃん",
+     "romaji": "ojiichan",
+     "en": "grandpa; old man",
+     "rank": 2162,
+     "score": 4
+    },
+    {
+     "src": "親戚",
+     "ja": "親戚",
+     "kana": "しんせき",
+     "romaji": "shinseki",
+     "en": "relatives",
+     "rank": 2254,
+     "score": 3
+    },
+    {
+     "src": "嫁",
+     "ja": "嫁",
+     "kana": "よめ",
+     "romaji": "yome",
+     "en": "wife; daughter-in-law",
+     "rank": 2260,
+     "score": 3
+    },
+    {
+     "src": "お子さん",
+     "ja": "お子さん",
+     "kana": "おこさん",
+     "romaji": "okosan",
+     "en": "(your) child",
+     "rank": 2403,
+     "score": 3
+    },
+    {
+     "src": "兄弟",
+     "ja": "兄弟",
+     "kana": "きょうだい",
+     "romaji": "kyoudai",
+     "en": "siblings",
+     "rank": 2424,
+     "score": 4
+    },
+    {
+     "src": "姉",
+     "ja": "姉",
+     "kana": "あね",
+     "romaji": "ane",
+     "en": "(my) older sister",
+     "rank": 2454,
+     "score": 4
+    },
+    {
+     "src": "母ちゃん",
+     "ja": "母ちゃん",
+     "kana": "かあちゃん",
+     "romaji": "kaachan",
+     "en": "mum, ma (casual)",
+     "rank": 3177,
+     "score": 3
+    },
+    {
+     "src": "姉ちゃん",
+     "ja": "姉ちゃん",
+     "kana": "ねえちゃん",
+     "romaji": "neechan",
+     "en": "big sis (casual)",
+     "rank": 3283,
+     "score": 3
+    },
+    {
+     "src": "おばちゃん",
+     "ja": "おばちゃん",
+     "kana": "おばちゃん",
+     "romaji": "obachan",
+     "en": "auntie; middle-aged lady",
+     "rank": 3405,
+     "score": 4
+    },
+    {
+     "src": "おふくろ",
+     "ja": "おふくろ",
+     "kana": "おふくろ",
+     "romaji": "ofukuro",
+     "en": "mum (men's word)",
+     "rank": 3456,
+     "score": 3
+    },
+    {
+     "src": "兄さん",
+     "ja": "兄さん",
+     "kana": "にいさん",
+     "romaji": "niisan",
+     "en": "big brother",
+     "rank": 3484,
+     "score": 3
+    },
+    {
+     "src": "兄ちゃん",
+     "ja": "兄ちゃん",
+     "kana": "にいちゃん",
+     "romaji": "niichan",
+     "en": "big bro (casual)",
+     "rank": 3921,
+     "score": 3
+    },
+    {
+     "src": "長男",
+     "ja": "長男",
+     "kana": "ちょうなん",
+     "romaji": "chounan",
+     "en": "eldest son",
+     "rank": 3938,
+     "score": 3
+    },
+    {
+     "src": "姉さん",
+     "ja": "姉さん",
+     "kana": "ねえさん",
+     "romaji": "neesan",
+     "en": "big sister",
+     "rank": 4079,
+     "score": 3
+    },
+    {
+     "src": "妹さん",
+     "ja": "妹さん",
+     "kana": "いもうとさん",
+     "romaji": "imoutosan",
+     "en": "(your) younger sister",
+     "rank": 4233,
+     "score": 4
+    },
+    {
+     "src": "じいさん",
+     "ja": "じいさん",
+     "kana": "じいさん",
+     "romaji": "jiisan",
+     "en": "old man, grandpa (rough)",
+     "rank": 4397,
+     "score": 3
+    },
+    {
+     "src": "おじいさん",
+     "ja": "おじいさん",
+     "kana": "おじいさん",
+     "romaji": "ojiisan",
+     "en": "grandfather; old man",
+     "rank": 4687,
+     "score": 4
+    },
+    {
+     "src": "父ちゃん",
+     "ja": "父ちゃん",
+     "kana": "とうちゃん",
+     "romaji": "touchan",
+     "en": "dad, pa (casual)",
+     "rank": 4835,
+     "score": 3
+    },
+    {
+     "src": "ばあちゃん",
+     "ja": "ばあちゃん",
+     "kana": "ばあちゃん",
+     "romaji": "baachan",
+     "en": "grandma (casual)",
+     "rank": 5021,
+     "score": 4
+    }
+   ]
+  },
+  {
+   "key": "s-body",
+   "scope": "Body parts: atama, kao, me, mimi, hana, kuchi, ha, kubi, kata, te, ude, yubi, mune, onaka, senaka, koshi, ashi, hiza, kami",
+   "include": [
+    {
+     "src": "指",
+     "ja": "指",
+     "kana": "ゆび",
+     "romaji": "yubi",
+     "en": "finger",
+     "rank": 1853,
+     "score": 3
+    },
+    {
+     "src": "肌",
+     "ja": "肌",
+     "kana": "はだ",
+     "romaji": "hada",
+     "en": "skin",
+     "rank": 2768,
+     "score": 3
+    },
+    {
+     "src": "全身",
+     "ja": "全身",
+     "kana": "ぜんしん",
+     "romaji": "zenshin",
+     "en": "whole body",
+     "rank": 3525,
+     "score": 3
+    },
+    {
+     "src": "喉",
+     "ja": "喉",
+     "kana": "のど",
+     "romaji": "nodo",
+     "en": "throat",
+     "rank": 3552,
+     "score": 4
+    },
+    {
+     "src": "髪の毛",
+     "ja": "髪の毛",
+     "kana": "かみのけ",
+     "romaji": "kami no ke",
+     "en": "hair (on the head)",
+     "rank": 3658,
+     "score": 3
+    },
+    {
+     "src": "右手",
+     "ja": "右手",
+     "kana": "みぎて",
+     "romaji": "migite",
+     "en": "right hand",
+     "rank": 4112,
+     "score": 3
+    },
+    {
+     "src": "お尻",
+     "ja": "お尻",
+     "kana": "おしり",
+     "romaji": "oshiri",
+     "en": "bottom, backside",
+     "rank": 4530,
+     "score": 4
+    },
+    {
+     "src": "舌",
+     "ja": "舌",
+     "kana": "した",
+     "romaji": "shita",
+     "en": "tongue",
+     "rank": 4557,
+     "score": 3
+    },
+    {
+     "src": "左手",
+     "ja": "左手",
+     "kana": "ひだりて",
+     "romaji": "hidarite",
+     "en": "left hand",
+     "rank": 4678,
+     "score": 3
+    },
+    {
+     "src": "両手",
+     "ja": "両手",
+     "kana": "りょうて",
+     "romaji": "ryoute",
+     "en": "both hands",
+     "rank": 4842,
+     "score": 3
+    },
+    {
+     "src": "唇",
+     "ja": "唇",
+     "kana": "くちびる",
+     "romaji": "kuchibiru",
+     "en": "lips",
+     "rank": 5081,
+     "score": 3
+    }
+   ]
+  },
+  {
+   "key": "s-pronouns",
+   "scope": "Personal pronouns & people-pointers the main list lacks: ore, atashi, anata, kimi, omae, anta, kare, kanojo, aitsu, koitsu, soitsu, yatsu, -ra, wareware",
+   "include": [
+    {
+     "src": "俺",
+     "ja": "俺",
+     "kana": "おれ",
+     "romaji": "ore",
+     "en": "I, me (male, casual)",
+     "rank": 44,
+     "score": 4
+    },
+    {
+     "src": "お前",
+     "ja": "お前",
+     "kana": "おまえ",
+     "romaji": "omae",
+     "en": "you (rough, male)",
+     "rank": 65,
+     "score": 3
+    },
+    {
+     "src": "あなた",
+     "ja": "あなた",
+     "kana": "あなた",
+     "romaji": "anata",
+     "en": "you; dear (to husband)",
+     "rank": 68,
+     "score": 3
+    },
+    {
+     "src": "あんた",
+     "ja": "あんた",
+     "kana": "あんた",
+     "romaji": "anta",
+     "en": "you (casual, blunt)",
+     "rank": 176,
+     "score": 3
+    },
+    {
+     "src": "やつ",
+     "ja": "やつ",
+     "kana": "やつ",
+     "romaji": "yatsu",
+     "en": "guy; thing (casual)",
+     "rank": 250,
+     "score": 4
+    },
+    {
+     "src": "あいつ",
+     "ja": "あいつ",
+     "kana": "あいつ",
+     "romaji": "aitsu",
+     "en": "that guy, him/her",
+     "rank": 251,
+     "score": 4
+    },
+    {
+     "src": "彼女",
+     "ja": "彼女",
+     "kana": "かのじょ",
+     "romaji": "kanojo",
+     "en": "she; girlfriend",
+     "rank": 273,
+     "score": 4
+    },
+    {
+     "src": "彼",
+     "ja": "彼",
+     "kana": "かれ",
+     "romaji": "kare",
+     "en": "he; boyfriend",
+     "rank": 282,
+     "score": 3
+    },
+    {
+     "src": "あの人",
+     "ja": "あの人",
+     "kana": "あのひと",
+     "romaji": "ano hito",
+     "en": "that person; he, she",
+     "rank": 384,
+     "score": 5
+    },
+    {
+     "src": "私たち",
+     "ja": "私たち",
+     "kana": "わたしたち",
+     "romaji": "watashitachi",
+     "en": "we, us",
+     "rank": 395,
+     "score": 5
+    },
+    {
+     "src": "こいつ",
+     "ja": "こいつ",
+     "kana": "こいつ",
+     "romaji": "koitsu",
+     "en": "this guy (rough)",
+     "rank": 451,
+     "score": 3
+    },
+    {
+     "src": "この人",
+     "ja": "この人",
+     "kana": "このひと",
+     "romaji": "kono hito",
+     "en": "this person",
+     "rank": 466,
+     "score": 4
+    },
+    {
+     "src": "あの子",
+     "ja": "あの子",
+     "kana": "あのこ",
+     "romaji": "ano ko",
+     "en": "that kid; that girl",
+     "rank": 484,
+     "score": 4
+    },
+    {
+     "src": "俺たち",
+     "ja": "俺たち",
+     "kana": "おれたち",
+     "romaji": "oretachi",
+     "en": "we (men, casual)",
+     "rank": 544,
+     "score": 4
+    },
+    {
+     "src": "お前ら",
+     "ja": "お前ら",
+     "kana": "おまえら",
+     "romaji": "omaera",
+     "en": "you lot (rough)",
+     "rank": 799,
+     "score": 3
+    },
+    {
+     "src": "その人",
+     "ja": "その人",
+     "kana": "そのひと",
+     "romaji": "sono hito",
+     "en": "that person",
+     "rank": 811,
+     "score": 4
+    },
+    {
+     "src": "そいつ",
+     "ja": "そいつ",
+     "kana": "そいつ",
+     "romaji": "soitsu",
+     "en": "that guy (rough)",
+     "rank": 1195,
+     "score": 3
+    },
+    {
+     "src": "僕たち",
+     "ja": "僕たち",
+     "kana": "ぼくたち",
+     "romaji": "bokutachi",
+     "en": "we (boku)",
+     "rank": 1369,
+     "score": 3
+    },
+    {
+     "src": "あいつら",
+     "ja": "あいつら",
+     "kana": "あいつら",
+     "romaji": "aitsura",
+     "en": "those guys",
+     "rank": 1387,
+     "score": 3
+    },
+    {
+     "src": "僕ら",
+     "ja": "僕ら",
+     "kana": "ぼくら",
+     "romaji": "bokura",
+     "en": "we (boku)",
+     "rank": 1464,
+     "score": 3
+    },
+    {
+     "src": "俺ら",
+     "ja": "俺ら",
+     "kana": "おれら",
+     "romaji": "orera",
+     "en": "we (men, casual)",
+     "rank": 1795,
+     "score": 3
+    },
+    {
+     "src": "うちら",
+     "ja": "うちら",
+     "kana": "うちら",
+     "romaji": "uchira",
+     "en": "us, we (casual)",
+     "rank": 2859,
+     "score": 3
+    },
+    {
+     "src": "自分自身",
+     "ja": "自分自身",
+     "kana": "じぶんじしん",
+     "romaji": "jibun jishin",
+     "en": "oneself",
+     "rank": 3400,
+     "score": 3
+    },
+    {
+     "src": "ヤツら",
+     "ja": "ヤツら",
+     "kana": "ヤツら",
+     "romaji": "yatsura",
+     "en": "those guys, them (rough)",
+     "rank": 3902,
+     "score": 3
+    },
+    {
+     "src": "あの方",
+     "ja": "あの方",
+     "kana": "あのかた",
+     "romaji": "ano kata",
+     "en": "that person (polite)",
+     "rank": 4117,
+     "score": 3
+    },
+    {
+     "src": "あたし",
+     "ja": "あたし",
+     "kana": "あたし",
+     "romaji": "atashi",
+     "en": "I (female, casual)",
+     "rank": 4312,
+     "score": 4
+    },
+    {
+     "src": "私達",
+     "ja": "私達",
+     "kana": "わたしたち",
+     "romaji": "watashitachi",
+     "en": "we, us",
+     "rank": 4604,
+     "score": 5
+    }
+   ]
+  }
+ ]
+}

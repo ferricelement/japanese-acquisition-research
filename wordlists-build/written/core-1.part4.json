@@ -1,0 +1,23 @@
+[
+ {"src": "似合う", "ja": "似合う", "kana": "にあう", "romaji": "niau", "polite": "niaimasu", "politeJa": "似合います", "english": "suit, look good on", "use": "Mostly a compliment on clothes, hair or glasses, often as niatteru.",
+  "pos": "verb", "flags": [], "example": {"romaji": "sono fuku, sugoku niau ne.", "ja": "その服、すごく似合うね。", "english": "That outfit really suits you."}, "examplePolite": {"romaji": "sono fuku, totemo niaimasu ne.", "ja": "その服、とても似合いますね。", "english": "That outfit looks great on you."},
+  "notes": "oniai desu is the polite version shop staff use."},
+ {"src": "消す", "ja": "消す", "kana": "けす", "romaji": "kesu", "polite": "keshimasu", "politeJa": "消します", "english": "turn off (a light, TV); erase, delete", "use": "Opposite of tsukeru.",
+  "pos": "verb", "flags": [], "example": {"romaji": "neru kara denki keshite.", "ja": "寝るから電気消して。", "english": "I'm going to bed, turn off the light."}, "examplePolite": {"romaji": "neru node denki o keshite kudasai.", "ja": "寝るので電気を消してください。", "english": "I'm going to sleep, so please turn off the light."},
+  "notes": "Also delete: shashin o kesu. Something going out by itself is kieru."},
+ {"src": "洗う", "ja": "洗う", "kana": "あらう", "romaji": "arau", "polite": "araimasu", "politeJa": "洗います", "english": "wash", "use": null,
+  "pos": "verb", "flags": [], "example": {"romaji": "gohan no mae ni te aratte ne.", "ja": "ご飯の前に手洗ってね。", "english": "Wash your hands before dinner."}, "examplePolite": {"romaji": "gohan no mae ni te o aratte kudasai.", "ja": "ご飯の前に手を洗ってください。", "english": "Please wash your hands before the meal."},
+  "notes": "Doing the laundry is sentaku suru; washing up is sara o arau."},
+ {"src": "着替える", "ja": "着替える", "kana": "きがえる", "romaji": "kigaeru", "polite": "kigaemasu", "politeJa": "着替えます", "english": "change clothes, get changed", "use": null,
+  "pos": "verb", "flags": [], "example": {"romaji": "chotto kigaete kuru ne.", "ja": "ちょっと着替えてくるね。", "english": "I'm just going to get changed."}, "examplePolite": {"romaji": "chotto kigaete kimasu.", "ja": "ちょっと着替えてきます。", "english": "I'll just go and get changed."},
+  "notes": "kigae = a change of clothes. Also heard as kikaeru."},
+ {"src": "焼く", "ja": "焼く", "kana": "やく", "romaji": "yaku", "polite": "yakimasu", "politeJa": "焼きます", "english": "grill, bake, toast; burn", "use": "Almost any dry-heat cooking: niku o yaku, pan o yaku.",
+  "pos": "verb", "flags": [], "example": {"romaji": "kyou wa niku yakou ka.", "ja": "今日は肉焼こうか。", "english": "Shall we grill some meat today?"}, "examplePolite": {"romaji": "kyou wa niku o yakimashou ka.", "ja": "今日は肉を焼きましょうか。", "english": "Shall we grill some meat today?"},
+  "notes": "Getting tanned uses yakeru: hi ni yaketa (I got a tan)."},
+ {"src": "閉める", "ja": "閉める", "kana": "しめる", "romaji": "shimeru", "polite": "shimemasu", "politeJa": "閉めます", "english": "close, shut (a door, window); close (a shop)", "use": "You close something; something closing by itself is shimaru.",
+  "pos": "verb", "flags": [], "example": {"romaji": "samui kara mado shimete.", "ja": "寒いから窓閉めて。", "english": "It's cold, shut the window."}, "examplePolite": {"romaji": "samui node mado o shimete kudasai.", "ja": "寒いので窓を閉めてください。", "english": "It's cold, so please close the window."},
+  "notes": "Opposite: akeru. 締める shimeru, same sound, is fasten or tighten (a seatbelt, a tie)."},
+ {"src": "引っ越す", "ja": "引っ越す", "kana": "ひっこす", "romaji": "hikkosu", "polite": "hikkoshimasu", "politeJa": "引っ越します", "english": "move house", "use": null,
+  "pos": "verb", "flags": [], "example": {"romaji": "raigetsu hikkosu n da.", "ja": "来月引っ越すんだ。", "english": "I'm moving next month."}, "examplePolite": {"romaji": "raigetsu hikkoshimasu.", "ja": "来月引っ越します。", "english": "I'm moving next month."},
+  "notes": "hikkoshi = a move (noun): hikkoshi no junbi (packing for a move)."}
+]

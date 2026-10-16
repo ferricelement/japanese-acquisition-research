@@ -1,0 +1,168 @@
+{
+"review:1": {
+"edits": [
+{
+"id": "w-itsu-made-mo",
+"field": "example.romaji",
+"value": "itsu made mo kuyokuyo shinaide.",
+"why": "-naide ending attached, as elsewhere"
+},
+{
+"id": "w-itsu-made-mo",
+"field": "examplePolite.romaji",
+"value": "itsu made mo kuyokuyo shinaide kudasai.",
+"why": "-naide ending attached, as elsewhere"
+},
+{
+"id": "w-sassato",
+"field": "examplePolite.ja",
+"value": "さっさと済ませてしまいましょう。",
+"why": "pushy sassato clashes with polite request"
+},
+{
+"id": "w-sassato",
+"field": "examplePolite.romaji",
+"value": "sassato sumasete shimaimashou.",
+"why": "matches new ja"
+},
+{
+"id": "w-sassato",
+"field": "examplePolite.english",
+"value": "Let's just get it done and over with.",
+"why": "matches new ja"
+},
+{
+"id": "w-sukunakutomo",
+"field": "notes",
+"value": "Also 'at least' for one case: sukunakutomo watashi wa shiranakatta (I, at least, didn't know).",
+"why": "'anyway' gloss misleading"
+},
+{
+"id": "p-dochira-sama-desu-ka",
+"field": "romaji",
+"value": "dochirasama desu ka",
+"why": "suffix -sama attached, no hyphen"
+},
+{
+"id": "p-dochira-sama-desu-ka",
+"field": "example.romaji",
+"value": "shitsurei desu ga, dochirasama desu ka?",
+"why": "suffix -sama attached, no hyphen"
+},
+{
+"id": "p-dochira-sama-desu-ka",
+"field": "notes",
+"value": "The casual dare? sounds blunt to a stranger. Business calls often use dochirasama deshou ka.",
+"why": "suffix -sama attached, no hyphen"
+},
+{
+"id": "p-otanjoubi-omedetou",
+"field": "examplePolite.ja",
+"value": "お誕生日おめでとうございます。今日は私がごちそうします。",
+"why": "polite 'my treat' is gochisou shimasu"
+},
+{
+"id": "p-otanjoubi-omedetou",
+"field": "examplePolite.romaji",
+"value": "otanjoubi omedetou gozaimasu. kyou wa watashi ga gochisou shimasu.",
+"why": "matches new ja"
+},
+{
+"id": "p-waa",
+"field": "notes",
+"value": "uwa! leans toward shock or disgust; waa is usually pleasant.",
+"why": "contradicted p-uwa (uwaa is awe)"
+},
+{
+"id": "p-naisu",
+"field": "kana",
+"value": "ナイス",
+"why": "loanword kana in katakana, like faito"
+},
+{
+"id": "p-ima-nani-shiteru",
+"field": "notes",
+"value": "A common answer is betsu ni or nani mo shitenai (nothing much).",
+"why": "nani mo spaced as elsewhere"
+},
+{
+"id": "p-kinchou-suru",
+"field": "notes",
+"value": "Not 'excited': wakuwaku suru is the happy kind of nerves.",
+"why": "mimetic is one word"
+}
+],
+"drops": []
+},
+"review:2": {
+"edits": [
+{
+"id": "p-mada-mada",
+"field": "use",
+"value": "The humble reply to a compliment (iie, mada mada desu), or says something is far from good enough; said about someone else it's a put-down.",
+"why": "main use (humble reply) missing"
+},
+{
+"id": "p-hottoite",
+"field": "polite",
+"value": "houtte oite kudasai",
+"why": "放って reads houtte"
+},
+{
+"id": "p-hottoite",
+"field": "examplePolite.romaji",
+"value": "sumimasen, shibaraku houtte oite kudasai.",
+"why": "match 放って reading"
+},
+{
+"id": "p-hottoite",
+"field": "notes",
+"value": "Short for houtte oite, from houtte oku (leave alone); hottoku is the spoken form.",
+"why": "correct source form"
+},
+{
+"id": "g-r-irregular",
+"field": "notes",
+"value": "There is no aranai or kuranai: aru → nai, kuru → konai.",
+"why": "kuranai is the real learner mistake"
+},
+{
+"id": "g-te-itadakeru",
+"field": "polite",
+"value": null,
+"why": "inherently polite; example already polite (FLAG)"
+},
+{
+"id": "g-sasete-itadaku",
+"field": "polite",
+"value": null,
+"why": "inherently polite; example already polite (FLAG)"
+},
+{
+"id": "g-tari",
+"field": "use",
+"value": "Listing sample activities, usually closed with suru: eiga mitari, kaimono shitari shita. A single -tari keeps it vague (netari shiteta = I was sleeping and stuff).",
+"why": "spelling: shiteta"
+},
+{
+"id": "g-de-sae",
+"field": "notes",
+"value": "Casual talk usually says de mo: 'kodomo de mo wakaru'. Don't mix with sae ... -ba, 'as long as'.",
+"why": "sura is literary, not casual"
+},
+{
+"id": "g-imp",
+"field": "ja",
+"value": "〜え / 〜ろ",
+"why": "match romaji order"
+},
+{
+"id": "g-imp",
+"field": "kana",
+"value": "〜え / 〜ろ",
+"why": "match romaji order"
+}
+],
+"drops": []
+}
+}

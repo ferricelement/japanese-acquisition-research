@@ -1,0 +1,30 @@
+{"chunks": [
+{"label": "Deciding and arranging", "rationale": "Say what you decided, what got decided for you, and what you were told to do.", "interference": "koto ni suru (you chose) vs koto ni naru (it was decided or turned out that way).", "members": ["ことになる", "ことにする", "ように言う", "ようにする"], "stage": 1},
+{"label": "Credit and blame", "rationale": "Say what helped, what's to blame, and excuse yourself.", "interference": "okage de is for good results, no sei de for bad ones.", "members": ["おかげで", "のせいで", "せいにする", "もんだから", "からこそ"], "stage": 1},
+{"label": "Pretending and trying", "rationale": "Talk about pretending, attempts that got cut off, and what you won't do.", "interference": "-ou to suru (tried, was about to) vs -te goran and -te miru (try it and see).", "members": ["ふりをする", "しようとする", "気はない", "ごらん"], "stage": 2},
+{"label": "Can, must and needn't", "rationale": "Fuller ways to say what's allowed, possible, pointless, out of the question or right.", "interference": "koto wa nai (no need) vs -ta koto wa nai (never have); wake ni wa ikanai vs wake ja nai.", "members": ["いけない", "ことができる", "ことはない", "わけにはいかない", "すべき"], "stage": 2},
+{"label": "When it happens", "rationale": "Say how often, since when, and at what moment something happened.", "interference": "-ru koto ga aru (sometimes) vs -ta koto ga aru (have ever).", "members": ["事がある", "たびに", "以来", "と思ったら", "最中", "途端"], "stage": 2},
+{"label": "Very polite speech", "rationale": "Understand and use the keigo of shops, offices and polite requests.", "interference": "kudasaru (they kindly do it for you) vs itadaku (you humbly receive it).", "members": ["ござる", "いただける", "くださる", "させていただく"], "stage": 2},
+{"label": "Quoting and referring", "rationale": "Ask whether, pass on what you heard, sum it up, and refer back to what was said.", "interference": "to ieba (speaking of X) vs sou ieba (that reminds me).", "members": ["かどうか", "とおり", "といえば", "ということだ", "によると"], "stage": 2},
+{"label": "Seeming and sure", "rationale": "Say how sure you are, from 'seems' to 'must be' to 'not necessarily'.", "interference": "you da (formal 'seems') vs mitai (casual) vs -sou (looks).", "members": ["ような", "ようだ", "限る", "違いない"], "stage": 3},
+{"label": "Ifs and hopes", "rationale": "Suppose things, set conditions and limits, and hope out loud.", "interference": "-to ii (I hope) vs -tara ii (you should); sae areba (as long as) vs de sae (even).", "members": ["としたら", "といい", "限り", "次第", "さえあれば"], "stage": 3},
+{"label": "Even though", "rationale": "Push back, complain, make allowances and play things down.", "interference": "ni shite wa (for a) vs ni shite mo (even allowing for); kuse ni vs the neutral -noni.", "members": ["くせに", "からって", "にしても", "にしては", "といっても"], "stage": 3},
+{"label": "Even and let alone", "rationale": "Go one step further: far from, not only, rather, even.", "interference": "dokoro ka flips the expectation; dake de naku just adds to it.", "members": ["どころか", "だけでなく", "というより", "でさえ"], "stage": 3},
+{"label": "Point of view", "rationale": "Say in what role, for whom, toward whom and about what.", "interference": "ni totte (from X's view) vs no tame ni (for X's benefit); -muke vs -muki.", "members": ["として", "にとって", "に対して", "関する", "向け"], "stage": 3},
+{"label": "Noun add-ons", "rationale": "Small endings that make a noun a type, a whole, a without, or a game.", "interference": "-goto (and all) and -gokko (playing at) sound alike.", "members": ["系", "ごと", "なしで", "ごっこ"], "stage": 3},
+{"label": "Casual emphasis", "rationale": "Overdo it, insist, and refuse with feeling.", "interference": "tteba (I said!) vs plain tte (quoting).", "members": ["まくる", "ってば", "もんか"], "stage": 4}
+],
+"drops": [
+{"src": "ですか", "reason": "Polite copula plus question ka, a plain conjugated form; da and ka are in the main list."},
+{"src": "でした", "reason": "Polite past of desu, a plain conjugated form covered by the conjugation list."},
+{"src": "ましょうか", "reason": "Duplicates -mashou (ka) in the conjugation list."},
+{"src": "ませんでした", "reason": "Duplicates -masen deshita in the conjugation list."},
+{"src": "おかげ", "reason": "Duplicates おかげで."},
+{"src": "言うとおり", "reason": "Duplicates とおり; iu toori is covered there."},
+{"src": "対する", "reason": "Duplicates に対して."},
+{"src": "しだい", "reason": "Duplicates 次第."},
+{"src": "わけにはいきません", "reason": "Polite form of わけにはいかない; duplicate."},
+{"src": "ご覧", "reason": "Duplicates ごらん (-te goran)."},
+{"src": "事になる", "reason": "Duplicates ことになる."},
+{"src": "フリ", "reason": "Duplicates ふりをする."}
+]}
