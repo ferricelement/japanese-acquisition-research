@@ -1,0 +1,505 @@
+id	romaji	english	topic	use
+s-zero	zero	zero	Numbers	The everyday spoken zero; rei is the formal version used in weather, scores and announceme
+s-ichi	ichi	one	Numbers	For counting, prices, times and maths; one thing is hitotsu and one person is hitori.
+s-ni	ni	two	Numbers	
+s-san	san	three	Numbers	
+s-yon	yon	four	Numbers	The default four; shi appears in shigatsu (April) and when counting ichi, ni, san, shi alo
+s-go	go	five	Numbers	
+s-roku	roku	six	Numbers	
+s-nana	nana	seven	Numbers	The safe default seven; shichi is standard in shichigatsu (July) and common in shichiji (7
+s-hachi	hachi	eight	Numbers	
+s-kyuu	kyuu	nine	Numbers	The default nine; 9 o'clock is kuji and September is kugatsu.
+s-juu	juu	ten	Numbers	
+s-hitotsu	hitotsu	one (thing); one	Counting things	Counts things that have no special counter, and is how you order: kore hitotsu.
+s-futatsu	futatsu	two (things)	Counting things	The count usually comes after the thing: ringo o futatsu.
+s-mittsu	mittsu	three (things)	Counting things	
+s-yottsu	yottsu	four (things)	Counting things	
+s-itsutsu	itsutsu	five (things)	Counting things	
+s-muttsu	muttsu	six (things)	Counting things	
+s-nanatsu	nanatsu	seven (things)	Counting things	
+s-yattsu	yattsu	eight (things)	Counting things	
+s-kokonotsu	kokonotsu	nine (things)	Counting things	
+s-hitori	hitori	one person; alone	Counting people	Counts one person, and with de means on your own: hitori de.
+s-futari	futari	two people; the two of them; a couple	Counting people	Futari de means just the two of us or them.
+s-sannin	sannin	three people (and from three up: number + -nin)	Counting people	Regular from three on, except yonin for four.
+s-yonin	yonin	four people	Counting people	The one irregular count of people from three up.
+s-nannin	nannin	how many people	Counting people	Asks how many people; restaurant staff ask the same thing as nanmei sama desu ka.
+s-ji	-ji	o'clock	Clock time	ichiji, niji, sanji, yoji, goji, rokuji, shichiji, hachiji, kuji, juuji, juuichiji, juunij
+s-nanji	nanji	what time	Clock time	Nanji ni = at what time; nanji made = until what time.
+s-han	han	half past; and a half	Clock time	After -ji for half past (sanji han); after other units for 'and a half' (ichijikan han).
+s-gozen	gozen	a.m.; morning	Clock time	Goes before the time: gozen juuji = 10 a.m.; gozenchuu = during the morning.
+s-gogo	gogo	p.m.; afternoon	Clock time	Goes before the time: gogo sanji = 3 p.m.; on its own it means 'the afternoon'.
+s-getsuyoubi	getsuyoubi	Monday	Days of the week	Add ni for a specific Monday (getsuyoubi ni); add wa for every Monday or as a topic.
+s-kayoubi	kayoubi	Tuesday	Days of the week	
+s-suiyoubi	suiyoubi	Wednesday	Days of the week	
+s-mokuyoubi	mokuyoubi	Thursday	Days of the week	
+s-kinyoubi	kin'youbi	Friday	Days of the week	
+s-doyoubi	doyoubi	Saturday	Days of the week	
+s-nichiyoubi	nichiyoubi	Sunday	Days of the week	
+s-nanyoubi	nan'youbi	what day of the week	Days of the week	
+s-sai	-sai	years old	Years and age	issai, nisai, sansai, yonsai, gosai, rokusai, nanasai, hassai, kyuusai, jussai; twenty is 
+s-nansai	nansai	how old	Years and age	The plain way to ask an age; with an adult you don't know well, oikutsu desu ka is softer.
+s-oikutsu	oikutsu	how old (polite); how many (polite)	Years and age	The polite way to ask someone's age, also used warmly with small children.
+s-hatachi	hatachi	twenty years old	Years and age	The special word for age twenty; drinking and smoking become legal at hatachi.
+s-asagohan	asagohan	breakfast	Parts of the day	
+s-hirugohan	hirugohan	lunch	Parts of the day	
+s-bangohan	bangohan	dinner	Parts of the day	
+s-ohiru	ohiru	lunch; noon	Parts of the day	
+s-okaasan	okaasan	mother; Mum	Family	For someone else's mother, and for your own mum when talking to her or at home.
+s-otousan	otousan	father; Dad	Family	For someone else's father, and for your own dad when talking to him or at home.
+s-haha	haha	my mother; mother	Family	Your own mother when talking to people outside the family; someone else's mother is okaasa
+s-chichi	chichi	my father; father	Family	Your own father when talking to people outside the family; someone else's father is otousa
+s-kazoku	kazoku	family	Family	Your own family or families in general; someone else's family is gokazoku.
+s-oya	oya	parent; parents	Family	One or both parents, often parents in general; someone else's parents are oyagosan.
+s-ryoushin	ryoushin	parents; my parents	Family	Both your parents; someone else's are goryoushin.
+s-goryoushin	goryoushin	(your) parents; someone's parents	Family	Someone else's parents; the polite form of ryoushin.
+s-ani	ani	my older brother	Family	Your own older brother when talking to others; someone else's is oniisan.
+s-oniisan	oniisan	older brother; young man	Family	Someone else's older brother, or what you call your own to his face.
+s-ane	ane	my older sister	Family	Your own older sister when talking to others; someone else's is oneesan.
+s-oneesan	oneesan	older sister; young woman	Family	Someone else's older sister, or what you call your own to her face.
+s-kyoudai	kyoudai	siblings; brothers	Family	Brothers and sisters in general; the kanji says brothers but it covers sisters too.
+s-imouto	imouto	younger sister; my little sister	Family	Your own younger sister; someone else's is imoutosan.
+s-otouto	otouto	younger brother; my little brother	Family	Your own younger brother; someone else's is otoutosan.
+s-imoutosan	imoutosan	(your) younger sister	Family	Someone else's younger sister.
+s-me	me	eye; eyes	Body	
+s-kao	kao	face	Body	
+s-kuchi	kuchi	mouth	Body	
+s-mimi	mimi	ear; ears; hearing	Body	
+s-hana	hana	nose	Body	
+s-atama	atama	head	Body	
+s-kami	kami	hair (on the head)	Body	
+s-kubi	kubi	neck	Body	
+s-kata	kata	shoulder; shoulders	Body	
+s-te	te	hand; arm	Body	
+s-ashi	ashi	leg; foot	Body	
+s-yubi	yubi	finger; toe	Body	
+s-ude	ude	arm; skill	Body	
+s-onaka	onaka	stomach; belly	Body	Onaka suita means I'm hungry; onaka ippai means I'm full.
+s-senaka	senaka	back	Body	
+s-mune	mune	chest; breasts; heart	Body	
+s-hara	hara	belly; gut	Body	Blunt, mostly male word for onaka; hara hetta means I'm starving.
+s-ore	ore	I; me (men, casual)	Pronouns	Men's everyday 'I' with friends and family; switch to watashi or boku in polite talk.
+s-anata	anata	you; dear	Pronouns	Sounds distant or pointed face to face; Japanese usually use the person's name instead.
+s-atashi	atashi	I; me (women, casual)	Pronouns	Soft, casual 'I', mostly used by women.
+s-kimi	kimi	you	Pronouns	Said to friends, partners or juniors, mostly by men and bosses; everywhere in songs.
+s-ano-hito	ano hito	that person; he; she	Pronouns	The everyday way to say he or she about someone over there or not present.
+s-kanojo	kanojo	she; her; girlfriend	Pronouns	In casual talk it usually means girlfriend; as 'she' it can sound distant.
+s-kare	kare	he; him; boyfriend	Pronouns	In casual talk it often means boyfriend; for 'he', people usually use the name or ano hito
+s-kono-hito	kono hito	this person; this guy	Pronouns	Points at someone beside you or in a photo.
+s-sono-hito	sono hito	that person (just mentioned)	Pronouns	Refers back to someone just mentioned, or someone near the listener.
+s-ano-ko	ano ko	that kid; that girl	Pronouns	For a child or a young person, often a girl; warm or neutral.
+s-watashitachi	watashitachi	we; us	Pronouns	Neutral 'we', fine anywhere; men say oretachi or bokutachi in casual talk.
+s-oretachi	oretachi	we; us (men, casual)	Pronouns	
+s-bokutachi	bokutachi	we; us (boys and men, gentle)	Pronouns	Gentler male 'we'; boys say it, and men use it in polite-ish talk.
+s-nihon	nihon	Japan	Countries and languages	nippon is the formal or sporty version, as on national teams.
+s-nihonjin	nihonjin	Japanese person	Countries and languages	
+s-eigo	eigo	English (the language)	Countries and languages	
+s-jin	-jin	person from (a country)	Countries and languages	Add to a country for nationality: amerikajin, kankokujin.
+s-go-2	-go	language (of a country)	Countries and languages	Add to a country for its language: nihongo, chuugokugo, kankokugo.
+s-juuichi	juuichi	eleven (and 11-19: ten plus the digit)	Numbers	Teens are ten plus the digit, with the same yon, nana and kyuu choices as the digits.
+s-nijuu	nijuu	twenty (and the tens: digit times ten)	Numbers	Tens put the digit before juu, and use yon, nana and kyuu.
+s-hyaku	hyaku	a hundred	Numbers	Hyaku alone means one hundred; no ichi in front.
+s-sen	sen	a thousand	Numbers	Sen alone means one thousand; issen is only heard inside issenman (ten million).
+s-sanbyaku	sanbyaku	three hundred	Numbers	
+s-roppyaku	roppyaku	six hundred	Numbers	
+s-happyaku	happyaku	eight hundred	Numbers	
+s-sanzen	sanzen	three thousand	Numbers	
+s-hassen	hassen	eight thousand	Numbers	
+s-ichiman	ichiman	ten thousand	Numbers	Japanese groups big numbers in man (10,000), not thousands, and always says ichiman, never
+s-juuman	juuman	a hundred thousand	Numbers	Ten man; prices and rent in this range are said in man.
+s-hyakuman	hyakuman	a million	Numbers	A hundred man; there is no separate word for million.
+s-ichioku	ichioku	a hundred million	Numbers	The next unit after man: ten thousand man is ichioku.
+s-ikutsu	ikutsu	how many; how old	Counting things	Asks how many things with no special counter, and a child's or friend's age.
+s-ikutsuka	ikutsuka	several; a few	Counting things	A vague small number of things; for people use nannin ka.
+s-hitotsu-hitotsu	hitotsu hitotsu	one by one; each one	Counting things	Stresses going through things one at a time, carefully.
+s-futari-tomo	futari tomo	both (people); both of them	Counting people	
+s-hitori-hitori	hitori hitori	each person; one by one	Counting people	Stresses every individual, not the group.
+s-tatta-hitori	tatta hitori	just one person; all alone	Counting people	Tatta stresses how few, often with a sad or surprised tone.
+s-ninzuu	ninzuu	number of people; headcount	Counting people	Used for bookings, parties and group plans.
+s-en	-en	yen	Counters	After the number: ichien, nien, san'en, yoen, goen, rokuen, nanaen, hachien, kyuuen, juuen
+s-ko	-ko	small things (counter); pieces	Counters	For small or chunky things like eggs, apples and sweets: ikko, niko, sanko, yonko, goko, r
+s-hon	-hon	long thin things (counter): bottles, pens, umbrellas	Counters	Changes with the number: ippon, nihon, sanbon, yonhon, gohon, roppon, nanahon, happon, kyu
+s-mai	-mai	flat things (counter): sheets, tickets, plates, shirts	Counters	No sound changes: ichimai, nimai, sanmai, yonmai ... juumai; how many is nanmai.
+s-hai	-hai	cups, glasses, bowls (counter)	Counters	Same changes as -hon: ippai, nihai, sanbai, yonhai, gohai, roppai, nanahai, happai, kyuuha
+s-kai	-kai	times (how often)	Counters	ikkai, nikai, sankai, yonkai, gokai, rokkai, nanakai, hakkai, kyuukai, jukkai; mou ikkai =
+s-nankai	nankai	how many times	Counters	Nankai mo = many times, over and over.
+s-do	-do	times (occurrences); degrees	Counters	Like -kai but a bit more formal, with no sound changes: ichido, nido, sando ... juudo; mou
+s-nando	nando	how many times; what temperature	Counters	Mostly heard as nando mo, 'again and again', often with some annoyance.
+s-fun	-fun	minute(s)	Clock time	Many become -pun: ippun, nifun, sanpun, yonpun, gofun, roppun, nanafun, happun, kyuufun, j
+s-goro	-goro	around, about (a point in time)	Clock time	After a time or date: sanji goro, raishuu goro; for amounts use gurai instead.
+s-sugi	-sugi	past, after (a time)	Clock time	After a time: juuji sugi = just after ten; sanji juppun sugi = ten past three.
+s-mae	-mae	before; ago; to (the hour)	Clock time	After a time for 'to' (goji juppun mae = ten to five), after a length of time for 'ago' (m
+s-jikan	-jikan	hours (length of time)	Clock time	ichijikan, nijikan, sanjikan, yojikan, gojikan, rokujikan, nanajikan (or shichijikan), hac
+s-funkan	-funkan	minutes (as a length of time)	Clock time	Stresses how long: juppunkan = for ten minutes; in speech plain -fun often does the same j
+s-byou	-byou	second(s)	Clock time	No sound changes: ichibyou, nibyou ... juubyou; how many is nanbyou.
+s-shuukan	-shuukan	weeks (length of time)	Clock time	isshuukan, nishuukan, sanshuukan, yonshuukan, goshuukan, rokushuukan, nanashuukan, hasshuu
+s-nichiyou	nichiyou	Sunday (short form)	Days of the week	Any day name can drop -bi in speech: getsuyou, kayou, suiyou, mokuyou, kin'you, doyou.
+s-heijitsu	heijitsu	weekday; Monday to Friday	Days of the week	Pairs with shuumatsu (weekend); opening hours and train times often differ between them.
+s-kyuujitsu	kyuujitsu	day off; holiday	Days of the week	Any non-working day, weekends included; yasumi is the more everyday word.
+s-tsuitachi	tsuitachi	the 1st (of the month)	Dates	Only the date; a length of one day is ichinichi.
+s-futsuka	futsuka	the 2nd; two days	Dates	Same word for the date and for a two-day span.
+s-mikka	mikka	the 3rd; three days	Dates	
+s-yokka	yokka	the 4th; four days	Dates	
+s-itsuka	itsuka	the 5th; five days	Dates	
+s-muika	muika	the 6th; six days	Dates	
+s-nanoka	nanoka	the 7th; seven days	Dates	
+s-youka	youka	the 8th; eight days	Dates	
+s-kokonoka	kokonoka	the 9th; nine days	Dates	
+s-tooka	tooka	the 10th; ten days	Dates	
+s-juugonichi	juugonichi	the 15th; any regular date (number + nichi)	Dates	Every date not on the irregular list is just the number plus nichi; 17th and 19th use shic
+s-juuyokka	juuyokka	the 14th; fourteen days	Dates	Like the 4th it takes yokka, not yonnichi.
+s-hatsuka	hatsuka	the 20th; twenty days	Dates	Not nijuunichi.
+s-nijuuyokka	nijuuyokka	the 24th; twenty-four days	Dates	Any date ending in 4 uses yokka: 4th, 14th, 24th.
+s-nannichi	nannichi	what date; how many days	Dates	
+s-ichinichijuu	ichinichijuu	all day long	Dates	
+s-nichikan	-nichikan	for ... days (length of time)	Dates	Takes the irregular day forms: futsukakan, mikkakan, yokkakan, tookakan; one day is ichini
+s-suujitsu	suujitsu	a few days; several days	Dates	A bit formal; in casual talk people often say nisannichi (two or three days).
+s-ichigatsu	ichigatsu	January	Months	
+s-nigatsu	nigatsu	February	Months	
+s-sangatsu	sangatsu	March	Months	
+s-shigatsu	shigatsu	April	Months	
+s-gogatsu	gogatsu	May	Months	
+s-rokugatsu	rokugatsu	June	Months	
+s-shichigatsu	shichigatsu	July	Months	
+s-hachigatsu	hachigatsu	August	Months	
+s-kugatsu	kugatsu	September	Months	
+s-juugatsu	juugatsu	October	Months	
+s-juuichigatsu	juuichigatsu	November	Months	
+s-juunigatsu	juunigatsu	December	Months	
+s-nangatsu	nangatsu	what month	Months	Months are just the number + -gatsu, except 4, 7 and 9: shigatsu, shichigatsu, kugatsu.
+s-kagetsu	-kagetsu	months (counter for length of time)	Months	ikkagetsu, nikagetsu, sankagetsu, yonkagetsu, gokagetsu, rokkagetsu, nanakagetsu, hachikag
+s-hantoshi	hantoshi	half a year; six months	Months	More natural in talk than rokkagetsu.
+s-nen	-nen	year (in dates); years (how long)	Years and age	ichinen, ninen, sannen, yonen, gonen, rokunen, nananen, hachinen, kyuunen, juunen; in date
+s-nannen	nannen	what year; how many years	Years and age	Nannen umare = what year were you born, a common indirect way to ask age.
+s-nenkan	-nenkan	for ... years (length of time)	Years and age	Stresses the span: sannenkan = for three years; same sound changes as -nen (yonenkan).
+s-nensei	-nensei	year or grade (in school or university)	Years and age	ichinensei, ninensei, sannensei, yonensei ...; daigaku yonensei = final-year university st
+s-konya	kon'ya	tonight	Days and years around now	
+s-kono-mae	kono mae	the other day; last time	Days and years around now	
+s-yuube	yuube	last night	Days and years around now	
+s-ototoi	ototoi	the day before yesterday	Days and years around now	
+s-asatte	asatte	the day after tomorrow	Days and years around now	
+s-maiasa	maiasa	every morning	Days and years around now	
+s-maiban	maiban	every night; every evening	Days and years around now	
+s-maishuu	maishuu	every week	Days and years around now	
+s-maitsuki	maitsuki	every month	Days and years around now	
+s-maitoshi	maitoshi	every year	Days and years around now	
+s-maikai	maikai	every time	Days and years around now	
+s-ban-2	ban	evening; night	Parts of the day	Mostly in set words: konban (this evening), maiban, bangohan, asa kara ban made.
+s-yonaka	yonaka	the middle of the night	Parts of the day	
+s-shinya	shin'ya	late at night; after midnight	Parts of the day	Sounds more official than yonaka; used for late shifts, late-night TV and opening hours.
+s-yuugata	yuugata	early evening; late afternoon	Parts of the day	Roughly 4 to 7 p.m., while it gets dark; after that it's yoru.
+s-hiruma	hiruma	daytime; during the day	Parts of the day	
+s-haru	haru	spring	Seasons and weather	
+s-natsu	natsu	summer	Seasons and weather	
+s-aki	aki	autumn; fall	Seasons and weather	
+s-fuyu	fuyu	winter	Seasons and weather	
+s-kisetsu	kisetsu	season; time of year	Seasons and weather	kono kisetsu = this time of year.
+s-ame	ame	rain	Seasons and weather	Rain falls with furu: ame ga furu.
+s-tenki	tenki	weather; fine weather	Seasons and weather	
+s-yuki	yuki	snow	Seasons and weather	
+s-hare	hare	sunny weather; clear skies	Seasons and weather	The forecast word for sunny: ashita wa hare.
+s-kumori	kumori	cloudy weather; overcast	Seasons and weather	
+s-tenki-yohou	tenki yohou	weather forecast	Seasons and weather	
+s-furu	furu	fall (rain, snow)	Seasons and weather	Only for things falling from the sky: ame ga furu, yuki ga furu.
+s-yamu	yamu	stop (rain, snow, wind)	Seasons and weather	For weather or noise stopping by itself.
+s-hareru	hareru	clear up; be sunny	Seasons and weather	Mostly past or -te form: hareta (it cleared up), hareteru (it's sunny).
+s-atatakai	atatakai	warm	Seasons and weather	Pleasant warmth: weather, rooms, food, kind people. Unpleasant heat is atsui.
+s-suzushii	suzushii	cool (pleasantly)	Seasons and weather	For air and weather; cold food or drinks are tsumetai.
+s-mushiatsui	mushiatsui	hot and humid; muggy	Seasons and weather	The standard complaint about Japanese summers.
+s-shikke	shikke	humidity; damp	Seasons and weather	Comes up with hair, laundry and mould as much as weather.
+s-iro	iro	colour	Colours	nani iro? asks what colour something is.
+s-akai	akai	red	Colours	Adjective form, before a noun: akai kuruma.
+s-shiroi	shiroi	white	Colours	
+s-kuroi	kuroi	black; dark	Colours	
+s-aoi	aoi	blue; green (traffic lights, leaves)	Colours	Also covers green traffic lights and fresh greenery.
+s-aka	aka	red (the colour)	Colours	Noun form: aka ga suki, aka no kuruma. At lights, aka = red.
+s-shiro	shiro	white (the colour)	Colours	Noun form: shiro ga ii, shiro no kuruma.
+s-kuro	kuro	black (the colour)	Colours	Noun form: kuro ga suki, kuro no fuku.
+s-ao	ao	blue; green (traffic light)	Colours	Noun form. At lights, ao = green.
+s-midori	midori	green; greenery	Colours	For green things and plants; traffic lights are ao.
+s-kiiro	kiiro	yellow	Colours	kiiroi is the adjective before a noun: kiiroi kuruma.
+s-pinku	pinku	pink	Colours	
+s-chairo	chairo	brown	Colours	Literally 'tea colour'; chairoi is the adjective.
+s-okusan	okusan	(someone's) wife	Family	Someone else's wife; also a way to address a married woman.
+s-tsuma	tsuma	my wife; wife	Family	Neutral word for your own wife; someone else's is okusan.
+s-otto	otto	my husband; husband	Family	Neutral word for your own husband; someone else's is goshujin.
+s-goshujin	goshujin	(someone's) husband	Family	Polite word for someone else's husband.
+s-musume	musume	daughter; my daughter	Family	Your own daughter; someone else's is musumesan.
+s-musuko	musuko	son; my son	Family	Your own son; someone else's is musukosan.
+s-musumesan	musumesan	(your) daughter; young woman	Family	Someone else's daughter.
+s-musukosan	musukosan	(your) son	Family	Someone else's son.
+s-okosan	okosan	(your) child; children	Family	Polite word for someone else's child or children; your own is kodomo.
+s-ojiichan	ojiichan	grandpa; old man	Family	Your own grandpa at home and with friends; also a friendly word for any old man.
+s-obaachan	obaachan	grandma; old lady	Family	Your own grandma at home and with friends; also a friendly word for any old woman.
+s-ojiisan	ojiisan	grandfather; old man	Family	Someone else's grandfather, or a polite word for an elderly man.
+s-obaasan	obaasan	grandmother; old woman	Family	Someone else's grandmother, or a polite word for an elderly woman.
+s-jiichan	jiichan	grandpa	Family	Plain, homely word for your own grandpa, common with boys and men.
+s-baachan	baachan	grandma	Family	Plain, homely word for your own grandma, common with boys and men.
+s-papa	papa	dad; daddy	Family	What many kids, and some adults, call their father at home.
+s-mama	mama	mum; mummy	Family	What many kids, and some adults, call their mother at home.
+s-kaasan	kaasan	Mum	Family	A more grown-up way to call your mother at home; common with teens and in dramas.
+s-tousan	tousan	Dad	Family	A more grown-up way to call your father at home; common with teens and in dramas.
+s-oniichan	oniichan	big brother	Family	What younger siblings call an older brother at home; also a friendly call to a young man.
+s-oneechan	oneechan	big sister	Family	What younger siblings call an older sister at home; also a friendly call to a young woman.
+s-niichan	niichan	big bro; young guy	Family	Shorter, rougher oniichan; older people also use it to hail a young man.
+s-neechan	neechan	big sis; young woman	Family	Shorter, rougher oneechan; used to hail a young woman, it can sound crude.
+s-niisan	niisan	older brother	Family	A grown-up, slightly formal way to call your older brother; common in dramas.
+s-neesan	neesan	older sister	Family	A grown-up, slightly formal way to call your older sister; common in dramas.
+s-ojisan	ojisan	uncle; middle-aged man	Family	Any uncle, or any man around 40 to 60; kids use it for adult men.
+s-obasan	obasan	aunt; middle-aged woman	Family	Any aunt, or any woman around 40 to 60; kids use it for adult women.
+s-obachan	obachan	auntie; middle-aged lady	Family	Warmer, casual obasan; also how people call a friendly older woman at a shop.
+s-shinseki	shinseki	relatives; a relative	Family	
+s-itoko	itoko	cousin	Family	
+s-ha	ha	tooth; teeth	Body	
+s-nodo	nodo	throat	Body	
+s-kuchibiru	kuchibiru	lips; lip	Body	
+s-shita	shita	tongue	Body	
+s-koshi	koshi	lower back; hips	Body	
+s-hiza	hiza	knee; lap	Body	
+s-oshiri	oshiri	bottom; backside	Body	The everyday word; shiri alone is cruder.
+s-migi	migi	right	Position and direction	
+s-hidari	hidari	left	Position and direction	
+s-massugu	massugu	straight; straight ahead	Position and direction	Also 'directly': massugu kaeru = go straight home.
+s-kado	kado	corner (of a street, table)	Position and direction	The outside corner you turn at; a room's inside corner is sumi.
+s-tonari	tonari	next to; next door	Position and direction	Right beside, usually the same kind of thing: seats, houses, people.
+s-soba	soba	near; beside	Position and direction	Close by, vaguer than tonari or yoko: eki no soba = near the station.
+s-yoko	yoko	side; beside; sideways	Position and direction	Beside anything at all, not just the same kind of thing.
+s-aida	aida	between; while (a stretch of time)	Position and direction	X to Y no aida = between X and Y.
+s-kono-hen	kono hen	around here; this area	Position and direction	
+s-sono-hen	sono hen	around there; thereabouts	Position and direction	Near the listener, or just 'somewhere around there'.
+s-ano-hen	ano hen	over there; that area	Position and direction	An area away from you both, or one you both know.
+s-dono-hen	dono hen	whereabouts; which part	Position and direction	Softer than doko when you only want a rough area.
+s-sokora	sokora	around there; somewhere around	Position and direction	Vague: sokora ni aru = it's around there somewhere.
+s-omae	omae	you (rough)	Pronouns	Men use it with close friends or to talk down; from a stranger it's aggressive.
+s-anta	anta	you (blunt)	Pronouns	Short for anata; blunt or familiar, common with older women and in arguments.
+s-omaera	omaera	you lot; you guys	Pronouns	Rough 'you' for a group; common among male friends and from coaches.
+s-yatsu	yatsu	guy; thing; one	Pronouns	Casual word for a person or a thing: ii yatsu is a good guy, akai yatsu is the red one.
+s-aitsu	aitsu	that guy; him; her	Pronouns	Casual 'him' or 'her' for someone not here; friendly or dismissive by tone.
+s-koitsu	koitsu	this guy; this one	Pronouns	Rough 'this person' for someone right beside you.
+s-soitsu	soitsu	that guy (just mentioned)	Pronouns	Rough word for someone the other person just brought up.
+s-aitsura	aitsura	those guys; them	Pronouns	
+s-yatsura	yatsura	those guys; them (rough)	Pronouns	Rough 'them', often for rivals or enemies.
+s-ra	-ra	plural ending for people (casual)	Pronouns	Added to pronouns and names for 'and the others': karera, bokura, tanaka-ra.
+s-bokura	bokura	we; us (boys and men)	Pronouns	Casual male 'we', softer than orera; very common in songs.
+s-orera	orera	we; us (men, rough)	Pronouns	
+s-uchira	uchira	we; us (casual)	Pronouns	Young women's and western Japan's casual 'we'.
+s-amerika	amerika	America; the US	Countries and languages	The everyday name for the US; beikoku is the news word.
+s-chuugoku	chuugoku	China	Countries and languages	
+s-kankoku	kankoku	South Korea	Countries and languages	Means South Korea; North Korea is kitachousen.
+s-igirisu	igirisu	Britain; the UK	Countries and languages	Covers the UK and England alike; British people are igirisujin.
+s-oosutoraria	oosutoraria	Australia	Countries and languages	
+s-kuni	kuni	country; home country	Countries and languages	
+s-kaigai	kaigai	overseas; abroad	Countries and languages	The usual word for going abroad: kaigai ryokou = a trip overseas.
+s-gaikoku	gaikoku	foreign country; abroad	Countries and languages	Any country that isn't Japan.
+s-gaikokujin	gaikokujin	foreigner	Countries and languages	The neutral word for non-Japanese people.
+s-kokunai	kokunai	domestic; within the country	Countries and languages	Mostly for travel and flights: kokunai ryokou, kokunaisen (domestic flights).
+s-amai	amai	sweet; soft on someone	Tastes and textures	Second sense: kodomo ni amai = soft on the kids.
+s-karai	karai	spicy (hot)	Tastes and textures	Chilli heat; hot in temperature is atsui.
+s-nigai	nigai	bitter	Tastes and textures	Also for experiences: nigai omoide = a bitter memory.
+s-suppai	suppai	sour	Tastes and textures	
+s-shoppai	shoppai	salty	Tastes and textures	The everyday word for too salty, mainly in eastern Japan.
+s-mazui	mazui	tastes bad; bad, awkward (situation)	Tastes and textures	mazui! alone means 'uh-oh, this is bad'.
+s-katai	katai	hard; tough; stiff	Tastes and textures	For food, beds and bodies; also stiff or formal (katai hanashi).
+s-yawarakai	yawarakai	soft; tender	Tastes and textures	For food, cushions and skin; also a gentle manner.
+s-hiki	-hiki	small animals (counter): dogs, cats, fish, insects	Counters	Same changes as -hon: ippiki, nihiki, sanbiki, yonhiki, gohiki, roppiki, nanahiki, happiki
+s-dai	-dai	machines and vehicles (counter): cars, bikes, phones, computers	Counters	No sound changes: ichidai, nidai, sandai ... juudai; how many is nandai.
+s-satsu	-satsu	books, notebooks, magazines (counter)	Counters	issatsu, nisatsu, sansatsu, yonsatsu, gosatsu, rokusatsu, nanasatsu, hassatsu, kyuusatsu, 
+s-ban	ban	number (in a sequence); turn	Counters	After a number for numbered things like platforms and lines (sanban = number 3); dare no b
+s-kai-2	-kai	floor (of a building)	Counters	ikkai, nikai, sangai, yonkai, gokai, rokkai, nanakai, hakkai, kyuukai, jukkai; which floor
+s-banme	-banme	-th (position in order): first, second, third	Counters	ichibanme, nibanme, sanbanme ...; which one in order is nanbanme.
+s-goushitsu	-goushitsu	room number	Counters	After the number on a door: hotel rooms, flats, classrooms; which room is nangoushitsu.
+s-choume	-choume	block (in an address)	Counters	Comes after the district name: sanchoume; the changes are itchoume, hatchoume, jutchoume; 
+s-kiro	kiro	kilo: kilogram; kilometre	Counters	Context says weight or distance; the number shortens before it: ikkiro, rokkiro, hakkiro, 
+s-meetoru	meetoru	metre	Counters	No sound changes: ichimeetoru, nimeetoru, hyakumeetoru; how far is nanmeetoru.
+s-senchi	senchi	centimetre	Counters	Sound changes: issenchi, hassenchi, jussenchi; height is usually said in senchi.
+s-guramu	guramu	gram	Counters	Common when buying meat or food by weight: hyakuguramu = 100 g.
+s-rittoru	rittoru	litre	Counters	For drinks and bottle sizes: nirittoru no pettobotoru = a two-litre plastic bottle.
+s-bai	bai	double; times as much	Counters	Bai alone means double (bai ni naru = doubles); nibai, sanbai ... = two, three times as mu
+s-nandoka	nandoka	a few times; several times	Counters	A vague count like 'a couple of times'; casual speech also says nankai ka.
+s-ichido-mo	ichido mo	never once; (not) even once	Counters	Always with a negative verb: ichido mo nai = never.
+s-hitoban	hitoban	one night; overnight	Counters	Hitobanjuu = all night long.
+s-nenrei	nenrei	age	Years and age	The formal word, used on forms, in rules and in news; in conversation people mostly say to
+s-onaidoshi	onaidoshi	the same age	Years and age	Said of people born in the same year, a quick bond in Japan: onaidoshi da ne = we're the s
+s-nijuudai	nijuudai	in one's twenties; the 20s	Years and age	Swap the number for any decade: sanjuudai = thirties, yonjuudai = forties.
+s-nenburi	-nenburi	for the first time in ... years	Years and age	Often heard when meeting someone again: gonenburi = first time in five years.
+s-nengo	-nengo	... years later; in ... years	Years and age	sannengo = three years later or in three years' time; the opposite is -nen mae (years ago)
+s-suunen	suunen	a few years; several years	Years and age	Mostly in suunen mae (a few years ago) and suunengo (in a few years).
+s-sensenshuu	sensenshuu	the week before last	Days and years around now	
+s-saraishuu	saraishuu	the week after next	Days and years around now	
+s-ototoshi	ototoshi	the year before last	Days and years around now	
+s-sarainen	sarainen	the year after next	Days and years around now	
+s-zenjitsu	zenjitsu	the day before (an event)	Days and years around now	Counted from a set day, not from today; for 'yesterday' say kinou.
+s-yokujitsu	yokujitsu	the next day; the following day	Days and years around now	Counted from a set or past day, not from today; for 'tomorrow' say ashita.
+s-yuuhan	yuuhan	dinner; evening meal	Parts of the day	Same as bangohan; common at home.
+s-yuushoku	yuushoku	dinner (formal)	Parts of the day	Heard at hotels, restaurants and in announcements; at home say bangohan or yuuhan.
+s-choushoku	choushoku	breakfast (formal)	Parts of the day	Heard at hotels and on menus; at home say asagohan.
+s-kaze	kaze	wind	Seasons and weather	Wind blows with fuku: kaze ga fuku. Windy is kaze ga tsuyoi.
+s-taifuu	taifuu	typhoon	Seasons and weather	Typhoons come late summer to autumn; taifuu ga kuru = a typhoon is coming.
+s-kaminari	kaminari	thunder; lightning	Seasons and weather	One word for both; kaminari ga naru = it thunders.
+s-tsuyu	tsuyu	rainy season	Seasons and weather	Japan's early-summer rains, roughly June to mid-July.
+s-murasaki	murasaki	purple	Colours	
+s-orenji	orenji	orange (colour; fruit)	Colours	orenji iro makes it clear you mean the colour.
+s-haiiro	haiiro	grey	Colours	Literally 'ash colour'. For clothes, the loanword gurei is just as common.
+s-danna	danna	husband; hubby	Family	Casual word for your own husband; someone else's is dannasan.
+s-fuufu	fuufu	married couple; husband and wife	Family	
+s-shujin	shujin	my husband	Family	Older-style word a wife uses for her own husband, mostly in polite talk.
+s-yome	yome	wife; daughter-in-law	Family	Many men use it casually for their own wife; traditionally it means a son's wife.
+s-chichioya	chichioya	father	Family	Father as a role ('a father', 'his father'), not what you call him.
+s-hahaoya	hahaoya	mother	Family	Mother as a role ('a mother', 'her mother'), not what you call her.
+s-oyako	oyako	parent and child	Family	
+s-chounan	chounan	eldest son	Family	
+s-choujo	choujo	eldest daughter	Family	
+s-mago	mago	grandchild	Family	Your own grandchild; someone else's is omagosan.
+s-sofu	sofu	my grandfather	Family	Your own grandfather in polite talk with outsiders; at home say ojiichan.
+s-sobo	sobo	my grandmother	Family	Your own grandmother in polite talk with outsiders; at home say obaachan.
+s-oyaji	oyaji	my dad; old man	Family	Men's casual word for their own father; also any middle-aged man, or the owner of a small 
+s-kaachan	kaachan	mum; ma	Family	Homely, old-fashioned way to call your mother; also in rough men's talk.
+s-ofukuro	ofukuro	my mum; mother	Family	Men's casual word for their own mother when talking to others.
+s-touchan	touchan	dad; pa	Family	Homely, old-fashioned way to call your father.
+s-jiisan	jiisan	old man; grandpa	Family	Blunt word for an old man or your own grandpa; can sound rude.
+s-kami-no-ke	kami no ke	hair; a hair	Body	Same hair as kami but more concrete, often single hairs or hair that has fallen out.
+s-hada	hada	skin	Body	Mostly about how skin looks or feels.
+s-tsume	tsume	nail; claw	Body	
+s-migite	migite	right hand	Body	
+s-hidarite	hidarite	left hand	Body	
+s-ryoute	ryoute	both hands	Body	
+s-zenshin	zenshin	whole body; all over	Body	
+s-mukou	mukou	over there; the other side	Position and direction	The far side of something: kawa no mukou = across the river.
+s-me-no-mae	me no mae	right in front of you	Position and direction	Right in front, very close: eki no me no mae = right across from the station.
+s-oku	oku	the back; deep inside	Position and direction	The far end inside a space: mise no oku = the back of the shop.
+s-temae	temae	just before; this side (nearer)	Position and direction	In directions: eki no temae = just before you reach the station.
+s-shoumen	shoumen	front; directly opposite	Position and direction	The main face of a building, or straight across from you.
+s-mawari	mawari	around; surroundings; the people around you	Position and direction	mawari no hito = the people around you, a big deal in Japanese social life.
+s-gawa	-gawa	side	Position and direction	Attaches to a place or direction: migigawa (right side), kotchigawa (this side), mukougawa
+s-mannaka	mannaka	middle; centre	Position and direction	
+s-achikochi	achikochi	here and there; all over	Position and direction	
+s-kita	kita	north	Position and direction	Big stations name exits by direction: kitaguchi = north exit.
+s-minami	minami	south	Position and direction	minamiguchi = the south exit of a station.
+s-higashi	higashi	east	Position and direction	higashiguchi = the east exit of a station.
+s-nishi	nishi	west	Position and direction	nishiguchi = the west exit of a station; nishi nihon = western Japan.
+s-ano-kata	ano kata	that person (polite)	Pronouns	Respectful ano hito, for customers, elders and bosses.
+s-wareware	wareware	we (formal)	Pronouns	Speeches, business and speaking for a group; stiff or jokey in chat.
+s-jibun-jishin	jibun jishin	oneself; myself; yourself	Pronouns	Stresses the self: jibun jishin de kimeru means decide for yourself.
+g-r-groups	ichidan, godan, suru, kuru	Every verb is in one of three groups, and the group decides how it changes.	Verb forms	Check a new verb's group once; every form follows from it.
+g-r-stems	kaka-, kaki-, kake-, kako-	Godan verbs shift their last vowel to a, i, e or o to fit the ending.	Verb forms	Know which ending takes which vowel and you can build most forms of any godan verb.
+g-r-te	-te / -ta	Godan verbs change sound before -te and -ta, depending on their last syllable.	Verb forms	-te, -ta, -tara and -teru all share these changes, so drilling them once pays off everywhe
+g-r-irregular	suru, kuru, iku, aru, ii	The few verbs (plus the adjective ii) that break the patterns.	Verb forms	They are among the most common words in speech, so their odd forms come up constantly.
+g-dict	-u / -ru	Plain present and future: I do, I will do.	Verb forms	The everyday verb form with friends and family. It also goes before a noun to describe it:
+g-masu	-masu	Polite present and future: I do, I will do.	Verb forms	With strangers, staff, colleagues and anyone you'd call -san. The safe default while you'r
+g-nai	-nai	Plain negative: I don't, I won't.	Verb forms	The everyday 'don't / won't' with friends and family. -nai desu is a softer polite option.
+g-masen	-masen	Polite negative: I don't, I won't.	Verb forms	Politely saying you don't or won't do something, including polite refusals.
+g-ta	-ta	Plain past: I did.	Verb forms	Casually telling what happened; with mou it means 'already' (mou tabeta).
+g-mashita	-mashita	Polite past: I did.	Verb forms	Telling what happened to people you speak politely to. Set phrases too: wakarimashita (und
+g-nakatta	-nakatta	Plain negative past: I didn't.	Verb forms	Casually saying something didn't happen.
+g-masen-deshita	-masen deshita	Polite negative past: I didn't.	Verb forms	Politely saying something didn't happen, often in apologies: shirimasen deshita (I didn't 
+g-te	-te	Links actions (and then), gives a reason, or on its own asks someone to do something.	Verb forms	Everywhere: chaining what you did, explaining why, and casual requests like chotto matte.
+g-te-kudasai	-te kudasai	Please do...	Verb forms	Asking politely, for example to staff or strangers, and in instructions.
+g-naide	-naide (kudasai)	Don't...; also 'without doing'.	Verb forms	Asking someone not to do something: -naide with friends, -naide kudasai politely. Also 'wi
+g-koto-ni-naru	-koto ni naru	it's been decided that; end up doing	Grammar patterns	For plans settled by others or by circumstance; the past, -koto ni natta, is the usual way
+g-koto-ni-suru	-koto ni suru	decide to	Grammar patterns	Usually past, -koto ni shita, to report a choice you made; -koto ni shite iru means it's y
+g-you-ni-iu	-you ni iu	tell someone to; ask someone to	Grammar patterns	Reports an instruction indirectly; put the verb in -nai form for 'told not to'.
+g-you-ni-suru	-you ni suru	make a point of; try to (as a habit)	Grammar patterns	For an ongoing effort, not a one-off attempt; -you ni shite iru means 'I make sure to'.
+g-okage-de	-okage de	thanks to	Grammar patterns	For a good result; the helper comes first.
+g-no-sei-de	-no sei de	because of (blaming)	Grammar patterns	For a bad result, pinning it on the cause.
+g-no-sei-ni-suru	-no sei ni suru	blame it on	Grammar patterns	The person or thing blamed goes before no sei; often a complaint about unfair blame.
+g-mon-dakara	-mon dakara	because, you see (giving an excuse)	Grammar patterns	Explains why something went wrong, usually your own slip, in a soft, apologetic way.
+g-kara-koso	-kara koso	precisely because; it's because ... that	Grammar patterns	Stresses that this reason is the real point, often turning a seeming drawback into the rea
+g-teru	-teru / -te iru	Is doing, or is in a state (is married, knows, lives somewhere).	Verb forms	What someone is doing right now, ongoing habits, and states like shitteru (know) and kekko
+g-teta	-teta / -te ita	Was doing, or had been in a state.	Verb forms	Setting the scene in a story (what you were doing when...), and past states like 'I used t
+g-tenai	-tenai / -te inai	Isn't doing; or hasn't done (yet).	Verb forms	With mada, it's how you say you haven't done something yet.
+g-tai	-tai	Want to do.	Verb forms	Saying what you want to do, or asking a friend what they want to do.
+g-vol	-ou / -you	Let's...; with to omou, I think I'll...	Verb forms	Casual suggestions to friends (ikou!), and plans: -ou to omotteru (I'm thinking of...).
+g-mashou	-mashou (ka)	Let's...; with ka, shall we...? or shall I...?	Verb forms	Polite suggestions, and offers of help: mochimashou ka? (shall I carry it?).
+g-masen-ka	-masen ka	Won't you...? Would you like to...?	Verb forms	Inviting someone politely while leaving them room to say no.
+g-a-plain	-i / da / desu	Says something is X, casually or politely.	Adjectives and the copula	The base of every description. Casually an i-adjective stands alone (takai!) and da is oft
+g-a-past	-katta / datta	Was X.	Adjectives and the copula	Saying how something was: oishikatta, tanoshikatta. yokatta on its own also means 'I'm gla
+g-a-neg	-kunai / ja nai	Is not X.	Adjectives and the copula	Everyday 'not': samukunai?, amari suki ja nai. Often softened with sonna ni or amari.
+g-a-negpast	-kunakatta / ja nakatta	Was not X.	Adjectives and the copula	Saying something wasn't so: anmari oishikunakatta. Usually softened with anmari or sonna n
+g-a-darou	deshou / darou	Probably; or, said rising, 'right?'.	Adjectives and the copula	Guessing (ashita wa ame deshou) and checking that you agree (ii deshou?). Casual speech sh
+g-a-te	-kute / de	Links descriptions (X and Y), or gives a reason.	Adjectives and the copula	Stringing descriptions: yasukute oishii (cheap and tasty). Also a reason: samukute nerenak
+g-a-naru	-ku naru / ni naru	Becomes X; the -ku / ni part is also the adverb form.	Adjectives and the copula	For changes: samuku natta, jouzu ni natta. The same -ku / ni form works as an adverb: haya
+g-a-attr	-i / na / no + noun	Describes a noun directly: an X thing.	Adjectives and the copula	Constantly, to describe things and people: takai mise, kirei na hito, gakusei no toki.
+g-a-if	-kereba / -kattara / nara	If it's X.	Adjectives and the copula	Conditions about qualities: takakattara kawanai. yokattara (if you like) is a very common 
+g-a-sou	-sou	Looks X, judging by appearance.	Adjectives and the copula	Reacting to what you see: oishisou! (looks good!), tanoshisou, genki sou.
+g-furi-o-suru	-furi o suru	pretend to; act as if	Grammar patterns	Speech often drops the o: 'shiranai furi suru'.
+g-ou-to-suru	-ou to suru	try to; be about to	Grammar patterns	Mostly past, -ou to shita, for an attempt that failed or got interrupted: 'I was just abou
+g-ki-wa-nai	-ki wa nai	have no intention of; don't feel like	Grammar patterns	A firm 'I'm not going to'.
+g-te-goran	-te goran	try doing (said to a child or junior)	Grammar patterns	A gentle 'go on, try it' from parents, teachers or seniors.
+g-te-wa-ikenai	-te wa ikenai	must not; not allowed to	Grammar patterns	The fuller, firmer version of -cha dame; heard in rules, warnings and from parents and tea
+g-koto-ga-dekiru	-koto ga dekiru	can; be able to	Grammar patterns	A fuller, more formal way to say the potential form; common in rules, signs and polite exp
+g-koto-wa-nai	-koto wa nai	there's no need to	Grammar patterns	Reassures someone or tells them not to bother: 'you don't have to go that far'.
+g-wake-ni-wa-ikanai	-wake ni wa ikanai	can't very well; can't just	Grammar patterns	Something is possible but wrong for social or moral reasons: 'I can't just leave him there
+g-beki-da	-beki da	should; ought to	Grammar patterns	A strong, principled 'should'; for friendly advice -ta hou ga ii sounds softer.
+g-ru-koto-ga-aru	-ru koto ga aru	sometimes does; there are times when	Grammar patterns	Says something happens now and then; often with tama ni or tokidoki.
+g-tabi-ni	-tabi ni	every time; whenever	Grammar patterns	The second thing happens without fail on each occasion.
+g-te-irai	-te irai	since; ever since	Grammar patterns	From a past event until now, usually with something that has stayed true.
+g-to-omottara	-to omottara	just when I thought; no sooner ... than	Grammar patterns	Something unexpected follows right away, or the reality turns out different: 'I thought X,
+g-saichuu-ni	-saichuu ni	in the middle of; right while	Grammar patterns	Usually for an interruption that came at a bad moment.
+g-ta-totan	-ta totan	the moment that; as soon as	Grammar patterns	The second thing happens instantly and usually unexpectedly.
+g-gozaimasu	gozaimasu	is; there is, we have (very polite)	Grammar patterns	Shop and hotel staff use it in place of desu and arimasu; you mostly hear it rather than s
+g-te-itadakeru	-te itadakeru	could you (kindly)	Grammar patterns	The standard polite request to strangers, staff and people at work; -te itadakemasen ka is
+g-te-kudasaru	-te kudasaru	kindly do (for me), said of someone above you	Grammar patterns	The respectful -te kureru: a teacher, boss or customer does something for you.
+g-sasete-itadaku	-sasete itadaku	humbly do; allow me to	Grammar patterns	Announces your own action very politely, as if asking permission; everywhere in business, 
+g-ka-dou-ka	-ka dou ka	whether or not	Grammar patterns	Tucks a yes/no question into a sentence, usually before wakaranai, kiku or shiraberu.
+g-toori	-toori	just as; the way (said, planned, shown)	Grammar patterns	Something matches what was said or shown; iu toori, 'just as you say', is the most common.
+g-to-ieba	-to ieba	speaking of; when you think of	Grammar patterns	Picks up a word just said to shift topic, or names the classic example: 'kyouto to ieba ot
+g-to-iu-koto-da	-to iu koto da	it means that; I hear that	Grammar patterns	Sums up or draws a conclusion ('so that means...'), or passes on news you heard.
+g-ni-yoru-to	-ni yoru to	according to	Grammar patterns	Names the source of what you heard; the sentence usually ends in -sou da, rashii or tte.
+g-tara	-tara	If..., or when (once)..., then something happens.	Verb forms	The everyday 'if' and 'when (once)': the conditional to reach for first.
+g-ba	-ba	If... (a general condition).	Verb forms	Conditions and advice; -ba ii means 'you just have to' or 'you should'.
+g-to	-u to	Whenever or if X happens, Y follows naturally.	Verb forms	Directions, how things work, and habits: migi ni magaru to... (turn right and...).
+g-nara	nara	If that's the case; if you're going to...	Verb forms	Reacting to what someone just said, often with advice.
+g-nakya	-nakya / -nakereba	Have to, must.	Verb forms	Casual -nakya (or -nakucha) for what you've got to do. The full -nakereba naranai is forma
+g-nakute	-nakute	Not ... and; because (it's) not ...; with mo ii, don't have to.	Verb forms	Giving a reason something didn't work out, and with mo ii, telling someone they don't need
+g-te-mo-ii	-te mo ii	It's OK to...; can I...?	Verb forms	Asking for permission (-te mo ii?) and giving it.
+g-cha-dame	-cha dame	Mustn't, don't.	Verb forms	Casual 'you can't do that', often to children or close friends.
+g-chau	-chau / -te shimau	Did it completely, or did it by accident and regret it.	Verb forms	All over casual talk, mostly in the past: tabechatta (I ate it all), wasurechatta (oops, I
+g-toku	-toku / -te oku	Do it now, ready for later; or leave it as it is.	Verb forms	Planning and getting things ready: yoyaku shitoku ne (I'll book it). Also 'leave it': hott
+g-te-miru	-te miru	Try doing it and see how it goes.	Verb forms	Suggesting or reporting a try: tabete mite (try it), itte mita (I went to check it out).
+g-te-mo	-temo	Even if / even though.	Verb forms	For 'even if' and 'no matter what': ame futtemo iku. Also the start of asking permission: 
+g-tari	-tari ... -tari	Doing things like A and B, among other things.	Verb forms	Listing sample activities, usually closed with suru: eiga mitari, kaimono shitari shita. A
+g-nagara	-nagara	Doing one thing while doing another (same person).	Verb forms	Two actions at once by one person: arukinagara, terebi minagara. The main action comes las
+g-zu-ni	-zu ni	Without doing it.	Verb forms	Doing one thing without the other: nani mo iwazu ni kaetta. In chat -naide is more common;
+g-you-na	-you na	like; such as; a kind of	Grammar patterns	Goes before a noun to compare or give an example; casual mitai na does the same job.
+g-you-da	-you da	it seems; it looks like	Grammar patterns	A judgment from what you see or know; more formal than mitai, so you hear it in polite spe
+g-to-wa-kagiranai	-to wa kagiranai	not necessarily; not always	Grammar patterns	Pushes back on an assumption; often with kanarazu shimo or itsumo.
+g-ni-chigai-nai	-ni chigai nai	must be; no doubt	Grammar patterns	A confident guess from evidence; stronger than hazu.
+g-to-shitara	-to shitara	if; supposing; if it's true that	Grammar patterns	For a pure hypothetical or something you just learned; often moshi ... to shitara.
+g-to-ii	-to ii	I hope; it would be good if	Grammar patterns	Mostly -to ii ne to wish someone well, or -to ii na for your own hope.
+g-kagiri	-kagiri	as long as; as far as	Grammar patterns	Sets a condition or limit: 'as long as I'm here', 'as far as I know'.
+g-shidai	-shidai	depending on; as soon as	Grammar patterns	After a noun it means 'it's up to'; after a -masu stem, 'as soon as', a polite promise at 
+g-sae-areba	-sae areba	as long as there's; all you need is	Grammar patterns	Says one thing is all it takes; the general shape is X sae + a -ba form, and areba is the 
+g-kuse-ni	-kuse ni	even though (critical); and yet	Grammar patterns	Criticises someone for acting against what they are or know; sounds accusing, so keep it o
+g-kara-tte	-kara tte	just because	Grammar patterns	Almost always followed by a negative or a complaint: 'just because X doesn't mean Y'.
+g-ni-shite-mo	-ni shite mo	even if; even so; still	Grammar patterns	Grants one point, then adds a reservation: 'even allowing for that'.
+g-ni-shite-wa	-ni shite wa	for a; considering (it's)	Grammar patterns	Says something is surprising given what it is: 'pretty good for a beginner'.
+g-to-itte-mo	-to itte mo	although; that said; though it's only	Grammar patterns	Plays down what you just said: 'I cook, though it's just simple stuff'.
+g-dokoro-ka	-dokoro ka	far from; let alone	Grammar patterns	Rejects an expectation and goes further the other way: 'far from cheap, it cost double'.
+g-dake-de-naku	-dake de naku	not only ... but also	Grammar patterns	The second half usually has mo: 'not only X, Y too'.
+g-to-iu-yori	-to iu yori	rather than; or rather; more like	Grammar patterns	Corrects your own word choice: 'not so much X as Y'.
+g-de-sae	-de sae	even	Grammar patterns	Picks an extreme case to make the point: 'even the teacher couldn't'.
+g-to-shite	-to shite	as (a role); in the capacity of	Grammar patterns	Names the role, status or purpose: 'as a teacher', 'as a present'.
+g-ni-totte	-ni totte	for; to (from someone's point of view)	Grammar patterns	Says who something matters to or how it looks to them, not who benefits.
+g-ni-taishite	-ni taishite	toward; against; in contrast to	Grammar patterns	Marks who an attitude or action is aimed at: 'rude to customers', 'angry at him'.
+g-ni-kanshite	-ni kanshite	about; concerning; regarding	Grammar patterns	The formal ni tsuite, for meetings, emails and announcements.
+g-muke	-muke	aimed at; made for	Grammar patterns	Says who a product or service is designed for: 'for kids', 'for beginners'.
+g-kei	-kei	-type; -style; kind of	Grammar patterns	Labels a person, look or thing by its type: 'oshare kei' (the stylish type).
+g-goto	-goto	and all, including; every (-goto ni)	Grammar patterns	Noun + goto keeps the whole thing together ('skin and all'); -goto ni means each or every.
+g-nashi-de	-nashi de	without	Grammar patterns	Doing something without a thing; also nashi ni and, in speech, nashi ja.
+g-gokko	-gokko	playing at; make-believe	Grammar patterns	Children's pretend games, or an adult doing a mock version of something.
+g-pot	-eru / -rareru	Says someone can or can't do something.	Verb forms	The everyday way to say can and can't: nihongo hanaseru?, ashita ikeru?, mou taberarenai.
+g-pas	-areru / -rareru	Something is done to someone, often with a feeling of 'it happened to me'.	Verb forms	Mostly for things done to you, often unwelcome: okorareta (I got told off), ame ni furaret
+g-cau	-aseru / -saseru	Makes or lets someone do something.	Verb forms	Heard most as -sasete or -sasete kudasai, 'let me': chotto kangaesasete (let me think). Al
+g-cp	-asareru / -saserareru	Being made to do something you didn't want to.	Verb forms	For complaining about being forced or kept: nomasareta (they made me drink), matasareta (I
+g-imp	-e / -ro	A blunt order: do it!	Verb forms	Heard in anger, among rough-talking male friends, in sports cheering and on signs. Learner
+g-na	-u na	A blunt 'don't!'.	Verb forms	Strong bans: parents to small kids, rough friends, signs and warnings. In normal talk peop
+g-nasai	-nasai	A firm instruction, the way a parent or teacher gives it.	Verb forms	Parents to kids, teachers to students: hayaku nenasai, chanto tabenasai. It also lives in 
+g-te-kure	-te kure	Do it (for me): a blunt request.	Verb forms	Mostly men, to friends or juniors, or in tense moments: matte kure! Everyday requests use 
+g-sou	-sou	Looks like it's about to happen.	Verb forms	Judging from what you see: ame furisou (looks like rain), nakisou (about to cry), ochisou 
+g-sugiru	-sugiru	Doing something too much.	Verb forms	Mostly in the past, about overdoing it: tabesugita, nomisugita. Works on adjectives too: t
+g-yasui	-yasui / -nikui	Easy to do / hard to do.	Verb forms	Describing things and people: kono pen kakiyasui, hanashiyasui hito. -yasui also means 'te
+g-nn	-nnai	In fast speech, -ranai and -ru before n turn into n.	Verb forms	All over casual speech, so you mostly need to hear it: wakannai (I don't get it), tsumanna
+g-contractions	-nakya, -teru, -chau	The squeezed sounds of fast casual speech.	Verb forms	Nearly every casual sentence has one; learn to hear each as its full form. Using them with
+g-makuru	-makuru	do like crazy; keep on doing	Grammar patterns	Attaches to the -masu stem for doing something nonstop or to excess.
+g-tteba	-tteba	I said!; come on! (insisting)	Grammar patterns	Added to a repeated statement or a name when you're frustrated the other person isn't list
+g-mon-ka	-mon ka	as if I would!; no way	Grammar patterns	A strong, emotional refusal or denial.

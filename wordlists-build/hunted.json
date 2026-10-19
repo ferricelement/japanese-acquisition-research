@@ -1,0 +1,6265 @@
+[
+{
+"ja": "うんうん",
+"kana": "うんうん",
+"romaji": "un un",
+"polite": null,
+"en": "uh-huh, yeah yeah (I'm listening)",
+"move": "c-react",
+"cv": 5,
+"surface": [
+"うんうん"
+],
+"key": "c-react",
+"score": 5,
+"focus": false,
+"source": "conversation-hunt",
+"count": 71
+},
+{
+"ja": "えー！",
+"kana": "えー！",
+"romaji": "ee!",
+"polite": null,
+"en": "whaat?! no way! (surprise or mild protest)",
+"move": "c-react",
+"cv": 5,
+"surface": [
+"えーっ",
+"えー！",
+"えー？"
+],
+"key": "c-react",
+"score": 5,
+"focus": false,
+"source": "conversation-hunt",
+"count": 262
+},
+{
+"ja": "そうなの？",
+"kana": "そうなの？",
+"romaji": "sou na no?",
+"polite": "sou na n desu ka?",
+"en": "oh really? is that so?",
+"move": "c-react",
+"cv": 5,
+"surface": [
+"そうなの？",
+"そうなの?"
+],
+"key": "c-react",
+"score": 5,
+"focus": false,
+"source": "conversation-hunt",
+"count": 555
+},
+{
+"ja": "そうだったんだ",
+"kana": "そうだったんだ",
+"romaji": "sou datta n da",
+"polite": "sou datta n desu ne",
+"en": "oh, so that's what it was; I had no idea",
+"move": "c-react",
+"cv": 5,
+"surface": [
+"そうだったんだ",
+"そうだったの"
+],
+"key": "c-react",
+"score": 5,
+"focus": false,
+"source": "conversation-hunt",
+"count": 152
+},
+{
+"ja": "よかったね",
+"kana": "よかったね",
+"romaji": "yokatta ne",
+"polite": "yokatta desu ne",
+"en": "I'm glad for you; good for you",
+"move": "c-react",
+"cv": 5,
+"surface": [
+"よかったね",
+"良かったね"
+],
+"key": "c-react",
+"score": 5,
+"focus": false,
+"source": "conversation-hunt",
+"count": 143
+},
+{
+"ja": "なーんだ",
+"kana": "なーんだ",
+"romaji": "nanda",
+"polite": null,
+"en": "oh, is that all? (relief or letdown)",
+"move": "c-react",
+"cv": 4,
+"surface": [
+"なーんだ",
+"なんだ、そっか",
+"なんだ、そうか"
+],
+"key": "c-react",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 9
+},
+{
+"ja": "あるある",
+"kana": "あるある",
+"romaji": "aru aru",
+"polite": null,
+"en": "so relatable; that always happens",
+"move": "c-react",
+"cv": 4,
+"surface": [
+"あるある"
+],
+"key": "c-react",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 13
+},
+{
+"ja": "楽しそう",
+"kana": "たのしそう",
+"romaji": "tanoshisou",
+"polite": "tanoshisou desu ne",
+"en": "sounds fun!",
+"move": "c-react",
+"cv": 4,
+"surface": [
+"楽しそう"
+],
+"key": "c-react",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 257
+},
+{
+"ja": "面白そう",
+"kana": "おもしろそう",
+"romaji": "omoshirosou",
+"polite": "omoshirosou desu ne",
+"en": "sounds interesting!",
+"move": "c-react",
+"cv": 4,
+"surface": [
+"面白そう",
+"おもしろそう"
+],
+"key": "c-react",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 125
+},
+{
+"ja": "大変そう",
+"kana": "たいへんそう",
+"romaji": "taihensou",
+"polite": "taihensou desu ne",
+"en": "sounds rough; that must be hard",
+"move": "c-react",
+"cv": 4,
+"surface": [
+"大変そう"
+],
+"key": "c-react",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 31
+},
+{
+"ja": "やるじゃん",
+"kana": "やるじゃん",
+"romaji": "yaru jan",
+"polite": null,
+"en": "not bad!; nice going",
+"move": "c-react",
+"cv": 4,
+"surface": [
+"やるじゃん"
+],
+"key": "c-react",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 13
+},
+{
+"ja": "マジで言ってる？",
+"kana": "まじでいってる？",
+"romaji": "maji de itteru?",
+"polite": null,
+"en": "are you serious?; you're not joking?",
+"move": "c-react",
+"cv": 4,
+"surface": [
+"マジで言ってる",
+"本気で言ってる"
+],
+"key": "c-react",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 72
+},
+{
+"ja": "そんなことある？",
+"kana": "そんなことある？",
+"romaji": "sonna koto aru?",
+"polite": null,
+"en": "how is that even possible?!",
+"move": "c-react",
+"cv": 4,
+"surface": [
+"そんなことある？",
+"そんなことある?"
+],
+"key": "c-react",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 1
+},
+{
+"ja": "え、それだけ？",
+"kana": "え、それだけ？",
+"romaji": "e, sore dake?",
+"polite": "e, sore dake desu ka?",
+"en": "wait, that's it?",
+"move": "c-react",
+"cv": 4,
+"surface": [
+"それだけ？",
+"それだけ?"
+],
+"key": "c-react",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 268
+},
+{
+"ja": "ドンマイ",
+"kana": "どんまい",
+"romaji": "donmai",
+"polite": null,
+"en": "never mind; don't sweat it (after a slip-up)",
+"move": "c-react",
+"cv": 4,
+"surface": [
+"ドンマイ"
+],
+"key": "c-react",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 3
+},
+{
+"ja": "当たり！",
+"kana": "あたり！",
+"romaji": "atari",
+"polite": null,
+"en": "bingo!; you got it",
+"move": "c-react",
+"cv": 4,
+"surface": [
+"当たり！",
+"あたり！"
+],
+"key": "c-react",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 22
+},
+{
+"ja": "嘘みたい",
+"kana": "うそみたい",
+"romaji": "uso mitai",
+"polite": null,
+"en": "it's unreal; I can hardly believe it",
+"move": "c-react",
+"cv": 4,
+"surface": [
+"嘘みたい",
+"うそみたい"
+],
+"key": "c-react",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 32
+},
+{
+"ja": "嘘つけ",
+"kana": "うそつけ",
+"romaji": "uso tsuke",
+"polite": null,
+"en": "yeah, right; liar! (playful)",
+"move": "c-react",
+"cv": 4,
+"surface": [
+"嘘つけ",
+"うそつけ"
+],
+"key": "c-react",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 45
+},
+{
+"ja": "それで？",
+"kana": "それで？",
+"romaji": "sore de?",
+"polite": null,
+"en": "and then? so?",
+"move": "c-ask",
+"cv": 5,
+"surface": [
+"それで？",
+"それで?"
+],
+"key": "c-ask",
+"score": 5,
+"focus": false,
+"source": "conversation-hunt",
+"count": 1029
+},
+{
+"ja": "どうなったの？",
+"kana": "どうなったの？",
+"romaji": "dou natta no?",
+"polite": "dou natta n desu ka?",
+"en": "so what happened? how did it turn out?",
+"move": "c-ask",
+"cv": 5,
+"surface": [
+"どうなったの"
+],
+"key": "c-ask",
+"score": 5,
+"focus": false,
+"source": "conversation-hunt",
+"count": 162
+},
+{
+"ja": "何があったの？",
+"kana": "なにがあったの？",
+"romaji": "nani ga atta no?",
+"polite": "nani ga atta n desu ka?",
+"en": "what happened?",
+"move": "c-ask",
+"cv": 5,
+"surface": [
+"何があったの",
+"なにがあったの"
+],
+"key": "c-ask",
+"score": 5,
+"focus": false,
+"source": "conversation-hunt",
+"count": 865
+},
+{
+"ja": "どんな人？",
+"kana": "どんなひと？",
+"romaji": "donna hito?",
+"polite": "donna hito desu ka?",
+"en": "what's he / she like?",
+"move": "c-ask",
+"cv": 5,
+"surface": [
+"どんな人？",
+"どんな人?"
+],
+"key": "c-ask",
+"score": 5,
+"focus": false,
+"source": "conversation-hunt",
+"count": 47
+},
+{
+"ja": "何て言ってた？",
+"kana": "なんていってた？",
+"romaji": "nante itteta?",
+"polite": "nante itte imashita ka?",
+"en": "what did they say?",
+"move": "c-ask",
+"cv": 5,
+"surface": [
+"何て言ってた",
+"なんて言ってた"
+],
+"key": "c-ask",
+"score": 5,
+"focus": false,
+"source": "conversation-hunt",
+"count": 62
+},
+{
+"ja": "何してたの？",
+"kana": "なにしてたの？",
+"romaji": "nani shiteta no?",
+"polite": "nani shite ita n desu ka?",
+"en": "what were you up to?",
+"move": "c-ask",
+"cv": 5,
+"surface": [
+"何してたの",
+"なにしてたの"
+],
+"key": "c-ask",
+"score": 5,
+"focus": false,
+"source": "conversation-hunt",
+"count": 70
+},
+{
+"ja": "そっちは？",
+"kana": "そっちは？",
+"romaji": "sotchi wa?",
+"polite": null,
+"en": "what about you?; and you?",
+"move": "c-ask",
+"cv": 5,
+"surface": [
+"そっちは？",
+"そっちは?"
+],
+"key": "c-ask",
+"score": 5,
+"focus": false,
+"source": "conversation-hunt",
+"count": 110
+},
+{
+"ja": "〜ってどう？",
+"kana": "〜ってどう？",
+"romaji": "...tte dou?",
+"polite": "...wa dou desu ka?",
+"en": "how's ...?; what's ... like?",
+"move": "c-ask",
+"cv": 5,
+"surface": [
+"ってどう？",
+"ってどう?"
+],
+"key": "c-ask",
+"score": 5,
+"focus": false,
+"source": "conversation-hunt",
+"count": 3
+},
+{
+"ja": "いつから？",
+"kana": "いつから？",
+"romaji": "itsu kara?",
+"polite": "itsu kara desu ka?",
+"en": "since when?",
+"move": "c-ask",
+"cv": 4,
+"surface": [
+"いつから？",
+"いつから?"
+],
+"key": "c-ask",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 108
+},
+{
+"ja": "誰と行ったの？",
+"kana": "だれといったの？",
+"romaji": "dare to itta no?",
+"polite": "dare to itta n desu ka?",
+"en": "who'd you go with?",
+"move": "c-ask",
+"cv": 4,
+"surface": [
+"誰と行ったの"
+],
+"key": "c-ask",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 0
+},
+{
+"ja": "どうやって知り合ったの？",
+"kana": "どうやってしりあったの？",
+"romaji": "dou yatte shiriatta no?",
+"polite": "dou yatte shiriatta n desu ka?",
+"en": "how did you two meet?",
+"move": "c-ask",
+"cv": 4,
+"surface": [
+"どうやって知り合った"
+],
+"key": "c-ask",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 17
+},
+{
+"ja": "大丈夫だった？",
+"kana": "だいじょうぶだった？",
+"romaji": "daijoubu datta?",
+"polite": "daijoubu deshita ka?",
+"en": "were you okay?; did it go all right?",
+"move": "c-ask",
+"cv": 4,
+"surface": [
+"大丈夫だった"
+],
+"key": "c-ask",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 120
+},
+{
+"ja": "なんで知ってるの？",
+"kana": "なんでしってるの？",
+"romaji": "nande shitteru no?",
+"polite": "doushite shitte iru n desu ka?",
+"en": "how do you know that?",
+"move": "c-ask",
+"cv": 4,
+"surface": [
+"なんで知ってるの",
+"何で知ってるの"
+],
+"key": "c-ask",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 32
+},
+{
+"ja": "誰から聞いたの？",
+"kana": "だれからきいたの？",
+"romaji": "dare kara kiita no?",
+"polite": "dare kara kiita n desu ka?",
+"en": "who told you that?",
+"move": "c-ask",
+"cv": 4,
+"surface": [
+"誰から聞いた"
+],
+"key": "c-ask",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 35
+},
+{
+"ja": "他には？",
+"kana": "ほかには？",
+"romaji": "hoka ni wa?",
+"polite": null,
+"en": "what else?; anything else?",
+"move": "c-ask",
+"cv": 4,
+"surface": [
+"他には？",
+"ほかには？"
+],
+"key": "c-ask",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 375
+},
+{
+"ja": "最近何にハマってる？",
+"kana": "さいきんなににはまってる？",
+"romaji": "saikin nani ni hamatteru?",
+"polite": "saikin nani ni hamatte imasu ka?",
+"en": "what are you into lately?",
+"move": "c-ask",
+"cv": 4,
+"surface": [
+"ハマってる",
+"はまってる"
+],
+"key": "c-ask",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 34
+},
+{
+"ja": "休みの日は何してるの？",
+"kana": "やすみのひはなにしてるの？",
+"romaji": "yasumi no hi wa nani shiteru no?",
+"polite": "yasumi no hi wa nani o shite imasu ka?",
+"en": "what do you do on your days off?",
+"move": "c-ask",
+"cv": 4,
+"surface": [
+"休みの日は何して",
+"休みの日って何して"
+],
+"key": "c-ask",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 0
+},
+{
+"ja": "なんかいいことあった？",
+"kana": "なんかいいことあった？",
+"romaji": "nanka ii koto atta?",
+"polite": "nanika ii koto arimashita ka?",
+"en": "did something good happen? (you look happy)",
+"move": "c-ask",
+"cv": 4,
+"surface": [
+"いいことあった"
+],
+"key": "c-ask",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 3
+},
+{
+"ja": "何が？",
+"kana": "なにが？",
+"romaji": "nani ga?",
+"polite": "nani ga desu ka?",
+"en": "what is?; what about it?",
+"move": "c-ask",
+"cv": 4,
+"surface": [
+"何が？",
+"なにが？"
+],
+"key": "c-ask",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 1092
+},
+{
+"ja": "なんでそう思うの？",
+"kana": "なんでそうおもうの？",
+"romaji": "nande sou omou no?",
+"polite": "doushite sou omou n desu ka?",
+"en": "why do you think so?",
+"move": "c-ask",
+"cv": 4,
+"surface": [
+"なんでそう思う",
+"何でそう思う"
+],
+"key": "c-ask",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 11
+},
+{
+"ja": "どっちが好き？",
+"kana": "どっちがすき？",
+"romaji": "dotchi ga suki?",
+"polite": "dochira ga suki desu ka?",
+"en": "which do you prefer?",
+"move": "c-ask",
+"cv": 4,
+"surface": [
+"どっちが好き"
+],
+"key": "c-ask",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 7
+},
+{
+"ja": "あれからどう？",
+"kana": "あれからどう？",
+"romaji": "are kara dou?",
+"polite": "are kara dou desu ka?",
+"en": "how's it been since then?",
+"move": "c-ask",
+"cv": 4,
+"surface": [
+"あれからどう"
+],
+"key": "c-ask",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 3
+},
+{
+"ja": "慣れた？",
+"kana": "なれた？",
+"romaji": "nareta?",
+"polite": "naremashita ka?",
+"en": "getting used to it?",
+"move": "c-ask",
+"cv": 4,
+"surface": [
+"慣れた？",
+"慣れた?"
+],
+"key": "c-ask",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 8
+},
+{
+"ja": "何が一番よかった？",
+"kana": "なにがいちばんよかった？",
+"romaji": "nani ga ichiban yokatta?",
+"polite": "nani ga ichiban yokatta desu ka?",
+"en": "what was the best part?",
+"move": "c-ask",
+"cv": 4,
+"surface": [
+"何が一番よかった",
+"何が一番良かった"
+],
+"key": "c-ask",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 0
+},
+{
+"ja": "だよね",
+"kana": "だよね",
+"romaji": "da yo ne",
+"polite": "desu yo ne",
+"en": "right?!; I know, right",
+"move": "c-agree",
+"cv": 5,
+"surface": [
+"だよね",
+"だよねー"
+],
+"key": "c-agree",
+"score": 5,
+"focus": false,
+"source": "conversation-hunt",
+"count": 1200
+},
+{
+"ja": "まあね",
+"kana": "まあね",
+"romaji": "maa ne",
+"polite": null,
+"en": "well, yeah; I guess so",
+"move": "c-agree",
+"cv": 5,
+"surface": [
+"まあね"
+],
+"key": "c-agree",
+"score": 5,
+"focus": false,
+"source": "conversation-hunt",
+"count": 286
+},
+{
+"ja": "私も",
+"kana": "わたしも",
+"romaji": "watashi mo",
+"polite": "watashi mo desu",
+"en": "me too (guys: boku mo / ore mo)",
+"move": "c-agree",
+"cv": 5,
+"surface": [
+"わたしも",
+"あたしも",
+"私もそう"
+],
+"key": "c-agree",
+"score": 5,
+"focus": false,
+"source": "conversation-hunt",
+"count": 434
+},
+{
+"ja": "どうだろう",
+"kana": "どうだろう",
+"romaji": "dou darou",
+"polite": "dou deshou ne",
+"en": "hmm, I'm not so sure about that",
+"move": "c-agree",
+"cv": 5,
+"surface": [
+"どうだろう"
+],
+"key": "c-agree",
+"score": 5,
+"focus": false,
+"source": "conversation-hunt",
+"count": 165
+},
+{
+"ja": "それはそうだけど",
+"kana": "それはそうだけど",
+"romaji": "sore wa sou da kedo",
+"polite": "sore wa sou desu kedo",
+"en": "that's true, but...",
+"move": "c-agree",
+"cv": 5,
+"surface": [
+"それはそうだけど"
+],
+"key": "c-agree",
+"score": 5,
+"focus": false,
+"source": "conversation-hunt",
+"count": 9
+},
+{
+"ja": "そうでもない",
+"kana": "そうでもない",
+"romaji": "sou demo nai",
+"polite": "sou demo nai desu",
+"en": "not really; not so much",
+"move": "c-agree",
+"cv": 5,
+"surface": [
+"そうでもない"
+],
+"key": "c-agree",
+"score": 5,
+"focus": false,
+"source": "conversation-hunt",
+"count": 245
+},
+{
+"ja": "ほんとそれ",
+"kana": "ほんとそれ",
+"romaji": "honto sore",
+"polite": null,
+"en": "so true; exactly",
+"move": "c-agree",
+"cv": 4,
+"surface": [
+"ほんとそれ",
+"本当それ"
+],
+"key": "c-agree",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 2
+},
+{
+"ja": "同感",
+"kana": "どうかん",
+"romaji": "doukan",
+"polite": "doukan desu",
+"en": "same here; I agree",
+"move": "c-agree",
+"cv": 4,
+"surface": [
+"同感だ",
+"同感です"
+],
+"key": "c-agree",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 134
+},
+{
+"ja": "それはある",
+"kana": "それはある",
+"romaji": "sore wa aru",
+"polite": "sore wa arimasu ne",
+"en": "that's a factor; fair point",
+"move": "c-agree",
+"cv": 4,
+"surface": [
+"それはある"
+],
+"key": "c-agree",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 27
+},
+{
+"ja": "言えてる",
+"kana": "いえてる",
+"romaji": "ieteru",
+"polite": null,
+"en": "you said it; good point",
+"move": "c-agree",
+"cv": 4,
+"surface": [
+"言えてる"
+],
+"key": "c-agree",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 42
+},
+{
+"ja": "そうとも限らない",
+"kana": "そうともかぎらない",
+"romaji": "sou to mo kagiranai",
+"polite": "sou to mo kagirimasen",
+"en": "not necessarily",
+"move": "c-agree",
+"cv": 4,
+"surface": [
+"とも限らない",
+"とは限らない"
+],
+"key": "c-agree",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 225
+},
+{
+"ja": "人による",
+"kana": "ひとによる",
+"romaji": "hito ni yoru",
+"polite": "hito ni yorimasu ne",
+"en": "depends on the person",
+"move": "c-agree",
+"cv": 4,
+"surface": [
+"人による",
+"人によるよ"
+],
+"key": "c-agree",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 37
+},
+{
+"ja": "気持ちはわかるけど",
+"kana": "きもちはわかるけど",
+"romaji": "kimochi wa wakaru kedo",
+"polite": "kimochi wa wakarimasu kedo",
+"en": "I get how you feel, but...",
+"move": "c-agree",
+"cv": 4,
+"surface": [
+"気持ちはわかる",
+"気持ちは分かる"
+],
+"key": "c-agree",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 167
+},
+{
+"ja": "言われてみれば",
+"kana": "いわれてみれば",
+"romaji": "iwarete mireba",
+"polite": null,
+"en": "now that you mention it",
+"move": "c-agree",
+"cv": 4,
+"surface": [
+"言われてみれば"
+],
+"key": "c-agree",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 7
+},
+{
+"ja": "それもそうだね",
+"kana": "それもそうだね",
+"romaji": "sore mo sou da ne",
+"polite": "sore mo sou desu ne",
+"en": "that's true too; fair point",
+"move": "c-agree",
+"cv": 4,
+"surface": [
+"それもそうだね",
+"それもそうか"
+],
+"key": "c-agree",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 1
+},
+{
+"ja": "それは違うと思う",
+"kana": "それはちがうとおもう",
+"romaji": "sore wa chigau to omou",
+"polite": "sore wa chigau to omoimasu",
+"en": "I don't think that's right",
+"move": "c-agree",
+"cv": 4,
+"surface": [
+"違うと思う"
+],
+"key": "c-agree",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 75
+},
+{
+"ja": "そこまでじゃない",
+"kana": "そこまでじゃない",
+"romaji": "soko made ja nai",
+"polite": "soko made ja nai desu",
+"en": "it's not that bad / that great; not to that extent",
+"move": "c-agree",
+"cv": 4,
+"surface": [
+"そこまでじゃない"
+],
+"key": "c-agree",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 8
+},
+{
+"ja": "そうは思わない",
+"kana": "そうはおもわない",
+"romaji": "sou wa omowanai",
+"polite": "sou wa omoimasen",
+"en": "I don't think so",
+"move": "c-agree",
+"cv": 4,
+"surface": [
+"そうは思わない"
+],
+"key": "c-agree",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 213
+},
+{
+"ja": "そう言ってるじゃん",
+"kana": "そういってるじゃん",
+"romaji": "sou itteru jan",
+"polite": null,
+"en": "that's what I'm saying!",
+"move": "c-agree",
+"cv": 4,
+"surface": [
+"そう言ってるじゃん",
+"だから言ってるじゃん"
+],
+"key": "c-agree",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 0
+},
+{
+"ja": "いいんじゃない？",
+"kana": "いいんじゃない？",
+"romaji": "ii n ja nai?",
+"polite": "ii n ja nai desu ka?",
+"en": "sounds good to me; why not?",
+"move": "c-opine",
+"cv": 5,
+"surface": [
+"いいんじゃない"
+],
+"key": "c-opine",
+"score": 5,
+"focus": true,
+"source": "conversation-hunt",
+"count": 345
+},
+{
+"ja": "〜っぽい",
+"kana": "〜っぽい",
+"romaji": "-ppoi",
+"polite": null,
+"en": "-ish; seems like (kodomo ppoi = childish)",
+"move": "c-opine",
+"cv": 5,
+"surface": [
+"っぽい"
+],
+"key": "c-opine",
+"score": 5,
+"focus": true,
+"source": "conversation-hunt",
+"count": 525
+},
+{
+"ja": "よくわかんないけど",
+"kana": "よくわかんないけど",
+"romaji": "yoku wakannai kedo",
+"polite": "yoku wakaranai desu kedo",
+"en": "I'm not really sure, but...",
+"move": "c-opine",
+"cv": 5,
+"surface": [
+"よくわかんないけど",
+"よく分かんないけど"
+],
+"key": "c-opine",
+"score": 5,
+"focus": true,
+"source": "conversation-hunt",
+"count": 7
+},
+{
+"ja": "そう思わない？",
+"kana": "そうおもわない？",
+"romaji": "sou omowanai?",
+"polite": "sou omoimasen ka?",
+"en": "don't you think?",
+"move": "c-opine",
+"cv": 5,
+"surface": [
+"そう思わない？",
+"そう思わない?"
+],
+"key": "c-opine",
+"score": 5,
+"focus": true,
+"source": "conversation-hunt",
+"count": 76
+},
+{
+"ja": "普通に",
+"kana": "ふつうに",
+"romaji": "futsuu ni",
+"polite": null,
+"en": "honestly, genuinely (futsuu ni oishii = legit tasty)",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"普通に",
+"ふつうに"
+],
+"key": "c-opine",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 375
+},
+{
+"ja": "ぶっちゃけ",
+"kana": "ぶっちゃけ",
+"romaji": "butchake",
+"polite": null,
+"en": "honestly; to be blunt",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"ぶっちゃけ"
+],
+"key": "c-opine",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 56
+},
+{
+"ja": "意外と",
+"kana": "いがいと",
+"romaji": "igai to",
+"polite": null,
+"en": "surprisingly; more than you'd think",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"意外と",
+"いがいと"
+],
+"key": "c-opine",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 71
+},
+{
+"ja": "別にいいけど",
+"kana": "べつにいいけど",
+"romaji": "betsu ni ii kedo",
+"polite": "betsu ni ii desu kedo",
+"en": "I mean, it's fine, but...",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"別にいいけど"
+],
+"key": "c-opine",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 11
+},
+{
+"ja": "どっちかっていうと",
+"kana": "どっちかっていうと",
+"romaji": "dotchika tte iu to",
+"polite": "dochira ka to iu to",
+"en": "if anything; I'd lean toward",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"どっちかっていうと",
+"どっちかというと"
+],
+"key": "c-opine",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 12
+},
+{
+"ja": "悪くない",
+"kana": "わるくない",
+"romaji": "warukunai",
+"polite": "warukunai desu ne",
+"en": "not bad",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"悪くない"
+],
+"key": "c-opine",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 835
+},
+{
+"ja": "〜みたいな",
+"kana": "〜みたいな",
+"romaji": "mitai na",
+"polite": null,
+"en": "like, ... (trailing hedge after a quote or idea)",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"みたいな",
+"みたいなー"
+],
+"key": "c-opine",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 2910
+},
+{
+"ja": "わりと",
+"kana": "わりと",
+"romaji": "warito",
+"polite": null,
+"en": "fairly; relatively",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"わりと"
+],
+"key": "c-opine",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 100
+},
+{
+"ja": "個人的には",
+"kana": "こじんてきには",
+"romaji": "kojinteki ni wa",
+"polite": null,
+"en": "personally; for me",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"個人的には"
+],
+"key": "c-opine",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 83
+},
+{
+"ja": "アリだね",
+"kana": "ありだね",
+"romaji": "ari da ne",
+"polite": "ari desu ne",
+"en": "that works; I'm into that",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"アリだね",
+"全然アリ",
+"アリかも"
+],
+"key": "c-opine",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 4
+},
+{
+"ja": "なんか違う",
+"kana": "なんかちがう",
+"romaji": "nanka chigau",
+"polite": "nanka chigaimasu ne",
+"en": "something's off; not quite it",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"なんか違う"
+],
+"key": "c-opine",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 10
+},
+{
+"ja": "何だっけ",
+"kana": "なんだっけ",
+"romaji": "nan dakke",
+"polite": "nan deshita kke",
+"en": "what was it again?",
+"move": "c-repair",
+"cv": 5,
+"surface": [
+"何だっけ",
+"なんだっけ"
+],
+"key": "c-repair",
+"score": 5,
+"focus": false,
+"source": "conversation-hunt",
+"count": 178
+},
+{
+"ja": "何て言うんだっけ",
+"kana": "なんていうんだっけ",
+"romaji": "nante iu n dakke",
+"polite": "nante iu n deshita kke",
+"en": "what's the word for it again?",
+"move": "c-repair",
+"cv": 4,
+"surface": [
+"何て言うんだっけ",
+"なんて言うんだっけ"
+],
+"key": "c-repair",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 12
+},
+{
+"ja": "誰のこと？",
+"kana": "だれのこと？",
+"romaji": "dare no koto?",
+"polite": "dare no koto desu ka?",
+"en": "who do you mean?",
+"move": "c-repair",
+"cv": 4,
+"surface": [
+"誰のこと"
+],
+"key": "c-repair",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 159
+},
+{
+"ja": "ごめん、聞いてなかった",
+"kana": "ごめん、きいてなかった",
+"romaji": "gomen, kiitenakatta",
+"polite": "sumimasen, kiite imasen deshita",
+"en": "sorry, I wasn't listening",
+"move": "c-repair",
+"cv": 4,
+"surface": [
+"聞いてなかった"
+],
+"key": "c-repair",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 127
+},
+{
+"ja": "言いたいことわかる？",
+"kana": "いいたいことわかる？",
+"romaji": "iitai koto wakaru?",
+"polite": "iitai koto wakarimasu ka?",
+"en": "you know what I mean?",
+"move": "c-repair",
+"cv": 4,
+"surface": [
+"言いたいことわかる",
+"言いたいこと分かる"
+],
+"key": "c-repair",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 6
+},
+{
+"ja": "ほら、あれ",
+"kana": "ほら、あれ",
+"romaji": "hora, are",
+"polite": null,
+"en": "you know, that thing (hunting for a word)",
+"move": "c-repair",
+"cv": 4,
+"surface": [
+"ほら、あれ",
+"ほらあれ"
+],
+"key": "c-repair",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 4
+},
+{
+"ja": "合ってる？",
+"kana": "あってる？",
+"romaji": "atteru?",
+"polite": "atte imasu ka?",
+"en": "is that right?; did I get it right?",
+"move": "c-repair",
+"cv": 4,
+"surface": [
+"合ってる？",
+"合ってる?"
+],
+"key": "c-repair",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 32
+},
+{
+"ja": "ちょっと違うかな",
+"kana": "ちょっとちがうかな",
+"romaji": "chotto chigau kana",
+"polite": "chotto chigau kamo shiremasen",
+"en": "not quite, I think",
+"move": "c-repair",
+"cv": 4,
+"surface": [
+"ちょっと違う"
+],
+"key": "c-repair",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 89
+},
+{
+"ja": "英語で言うと",
+"kana": "えいごでいうと",
+"romaji": "eigo de iu to",
+"polite": null,
+"en": "in English it's...",
+"move": "c-repair",
+"cv": 4,
+"surface": [
+"英語で言うと"
+],
+"key": "c-repair",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 0
+},
+{
+"ja": "今のなし",
+"kana": "いまのなし",
+"romaji": "ima no nashi",
+"polite": null,
+"en": "scratch that; forget what I said",
+"move": "c-repair",
+"cv": 4,
+"surface": [
+"今のなし",
+"今のナシ"
+],
+"key": "c-repair",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 2
+},
+{
+"ja": "まあ、そんな感じ",
+"kana": "まあ、そんなかんじ",
+"romaji": "maa, sonna kanji",
+"polite": "maa, sonna kanji desu",
+"en": "so yeah, that's about it (wrapping up a story)",
+"move": "c-flow",
+"cv": 5,
+"surface": [
+"そんな感じ",
+"まあそんな感じ"
+],
+"key": "c-flow",
+"score": 5,
+"focus": false,
+"source": "conversation-hunt",
+"count": 221
+},
+{
+"ja": "話戻るけど",
+"kana": "はなしもどるけど",
+"romaji": "hanashi modoru kedo",
+"polite": null,
+"en": "going back to what we were saying",
+"move": "c-flow",
+"cv": 4,
+"surface": [
+"話戻るけど",
+"話を戻すと"
+],
+"key": "c-flow",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 5
+},
+{
+"ja": "それで思い出したけど",
+"kana": "それでおもいだしたけど",
+"romaji": "sore de omoidashita kedo",
+"polite": "sore de omoidashimashita kedo",
+"en": "that reminds me",
+"move": "c-flow",
+"cv": 4,
+"surface": [
+"それで思い出した"
+],
+"key": "c-flow",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 10
+},
+{
+"ja": "聞いた？",
+"kana": "きいた？",
+"romaji": "kiita?",
+"polite": "kikimashita ka?",
+"en": "did you hear? (opening some news)",
+"move": "c-flow",
+"cv": 4,
+"surface": [
+"聞いた？",
+"聞いた?"
+],
+"key": "c-flow",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 287
+},
+{
+"ja": "知ってた？",
+"kana": "しってた？",
+"romaji": "shitteta?",
+"polite": "shitte imashita ka?",
+"en": "did you know?",
+"move": "c-flow",
+"cv": 4,
+"surface": [
+"知ってた？",
+"知ってた?"
+],
+"key": "c-flow",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 226
+},
+{
+"ja": "長くなるけど",
+"kana": "ながくなるけど",
+"romaji": "nagaku naru kedo",
+"polite": "nagaku narimasu kedo",
+"en": "it's a long story, but...",
+"move": "c-flow",
+"cv": 4,
+"surface": [
+"長くなるけど"
+],
+"key": "c-flow",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 7
+},
+{
+"ja": "ちょっと話があるんだけど",
+"kana": "ちょっとはなしがあるんだけど",
+"romaji": "chotto hanashi ga aru n da kedo",
+"polite": "chotto ohanashi ga aru n desu kedo",
+"en": "there's something I want to talk about",
+"move": "c-flow",
+"cv": 4,
+"surface": [
+"話があるんだけど",
+"話があるんだ"
+],
+"key": "c-flow",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 159
+},
+{
+"ja": "続けて",
+"kana": "つづけて",
+"romaji": "tsuzukete",
+"polite": "tsuzukete kudasai",
+"en": "go on; keep going",
+"move": "c-flow",
+"cv": 4,
+"surface": [
+"続けて"
+],
+"key": "c-flow",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 1835
+},
+{
+"ja": "話聞くよ",
+"kana": "はなしきくよ",
+"romaji": "hanashi kiku yo",
+"polite": "ohanashi kikimasu yo",
+"en": "I'm all ears; tell me about it",
+"move": "c-flow",
+"cv": 4,
+"surface": [
+"話聞くよ",
+"話なら聞くよ"
+],
+"key": "c-flow",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 2
+},
+{
+"ja": "それでさ",
+"kana": "それでさ",
+"romaji": "sore de sa",
+"polite": null,
+"en": "and so...; so then... (keeps your story rolling)",
+"move": "c-tell",
+"cv": 5,
+"surface": [
+"それでさ",
+"そんでさ"
+],
+"key": "c-tell",
+"score": 5,
+"focus": false,
+"source": "conversation-hunt",
+"count": 11
+},
+{
+"ja": "そしたらさ",
+"kana": "そしたらさ",
+"romaji": "soshitara sa",
+"polite": null,
+"en": "and then, what do you know...",
+"move": "c-tell",
+"cv": 4,
+"surface": [
+"そしたら"
+],
+"key": "c-tell",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 635
+},
+{
+"ja": "それがさ",
+"kana": "それがさ",
+"romaji": "sore ga sa",
+"polite": "sore ga desu ne",
+"en": "well, here's the thing... (a twist is coming)",
+"move": "c-tell",
+"cv": 4,
+"surface": [
+"それがさ",
+"それがね"
+],
+"key": "c-tell",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 14
+},
+{
+"ja": "要するに",
+"kana": "ようするに",
+"romaji": "yousuru ni",
+"polite": null,
+"en": "basically; in short",
+"move": "c-tell",
+"cv": 4,
+"surface": [
+"要するに",
+"ようするに"
+],
+"key": "c-tell",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 174
+},
+{
+"ja": "ほんとは",
+"kana": "ほんとは",
+"romaji": "honto wa",
+"polite": null,
+"en": "actually; the truth is (it's not what it looked like)",
+"move": "c-tell",
+"cv": 4,
+"surface": [
+"ほんとは",
+"本当は"
+],
+"key": "c-tell",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 809
+},
+{
+"ja": "確か",
+"kana": "たしか",
+"romaji": "tashika",
+"polite": null,
+"en": "if I remember right",
+"move": "c-tell",
+"cv": 4,
+"surface": [
+"確か、",
+"たしか、"
+],
+"key": "c-tell",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 32
+},
+{
+"ja": "あれだよ、あれ",
+"kana": "あれだよ、あれ",
+"romaji": "are da yo, are",
+"polite": "are desu yo, are",
+"en": "you know, that thing... (when the word won't come)",
+"move": "c-tell",
+"cv": 4,
+"surface": [
+"あれだよあれ",
+"あれだよ、あれ"
+],
+"key": "c-tell",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 0
+},
+{
+"ja": "ねえ、聞いた？",
+"kana": "ねえ、きいた？",
+"romaji": "nee, kiita?",
+"polite": "kikimashita?",
+"en": "hey, did you hear (about...)?",
+"move": "c-tell",
+"cv": 4,
+"surface": [
+"ねえ聞いた",
+"ねえ、聞いた",
+"の話聞いた"
+],
+"key": "c-tell",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 6
+},
+{
+"ja": "もう言ったっけ？",
+"kana": "もういったっけ？",
+"romaji": "mou itta kke?",
+"polite": "mou iimashita kke?",
+"en": "did I already tell you?",
+"move": "c-tell",
+"cv": 4,
+"surface": [
+"言ったっけ",
+"話したっけ"
+],
+"key": "c-tell",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 74
+},
+{
+"ja": "一瞬〜かと思った",
+"kana": "いっしゅん〜かとおもった",
+"romaji": "isshun ... ka to omotta",
+"polite": "isshun ... ka to omoimashita",
+"en": "for a second I thought...",
+"move": "c-tell",
+"cv": 4,
+"surface": [
+"一瞬、",
+"かと思った"
+],
+"key": "c-tell",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 567
+},
+{
+"ja": "気がついたら",
+"kana": "きがついたら",
+"romaji": "ki ga tsuitara",
+"polite": null,
+"en": "before I knew it; next thing I knew",
+"move": "c-tell",
+"cv": 4,
+"surface": [
+"気がついたら",
+"気づいたら"
+],
+"key": "c-tell",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 65
+},
+{
+"ja": "つい〜しちゃった",
+"kana": "つい〜しちゃった",
+"romaji": "tsui ... shichatta",
+"polite": "tsui ... shite shimaimashita",
+"en": "I couldn't help it; I ended up doing it without meaning to",
+"move": "c-tell",
+"cv": 4,
+"surface": [
+"ついつい",
+"つい買っちゃ",
+"つい言っちゃ"
+],
+"key": "c-tell",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 10
+},
+{
+"ja": "別にいいんだけど",
+"kana": "べつにいいんだけど",
+"romaji": "betsu ni ii n da kedo",
+"polite": "betsu ni ii n desu kedo",
+"en": "it's not a big deal, but...",
+"move": "c-tell",
+"cv": 4,
+"surface": [
+"別にいいんだけど",
+"べつにいいんだけど"
+],
+"key": "c-tell",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 2
+},
+{
+"ja": "〜って話",
+"kana": "〜ってはなし",
+"romaji": "... tte hanashi",
+"polite": "... tte hanashi desu",
+"en": "...and that's the story",
+"move": "c-tell",
+"cv": 4,
+"surface": [
+"って話",
+"っていう話"
+],
+"key": "c-tell",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 402
+},
+{
+"ja": "なんでかっていうと",
+"kana": "なんでかっていうと",
+"romaji": "nande ka tte iu to",
+"polite": "naze ka to iu to",
+"en": "and the reason is...",
+"move": "c-tell",
+"cv": 4,
+"surface": [
+"なんでかっていうと",
+"なぜかというと"
+],
+"key": "c-tell",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 9
+},
+{
+"ja": "今思えば",
+"kana": "いまおもえば",
+"romaji": "ima omoeba",
+"polite": null,
+"en": "looking back now",
+"move": "c-tell",
+"cv": 4,
+"surface": [
+"今思えば",
+"今思うと"
+],
+"key": "c-tell",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 12
+},
+{
+"ja": "どうなったと思う？",
+"kana": "どうなったとおもう？",
+"romaji": "dou natta to omou?",
+"polite": "dou natta to omoimasu?",
+"en": "guess what happened?",
+"move": "c-tell",
+"cv": 4,
+"surface": [
+"どうなったと思う"
+],
+"key": "c-tell",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 14
+},
+{
+"ja": "オチないんだけど",
+"kana": "おちないんだけど",
+"romaji": "ochi nai n da kedo",
+"polite": "ochi wa nai n desu kedo",
+"en": "there's no punchline, but... (it's just a story)",
+"move": "c-tell",
+"cv": 4,
+"surface": [
+"オチないんだけど",
+"オチはない"
+],
+"key": "c-tell",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 0
+},
+{
+"ja": "よく覚えてないけど",
+"kana": "よくおぼえてないけど",
+"romaji": "yoku oboetenai kedo",
+"polite": "yoku oboete inai n desu kedo",
+"en": "I don't remember exactly, but...",
+"move": "c-tell",
+"cv": 4,
+"surface": [
+"よく覚えてない",
+"覚えてないけど"
+],
+"key": "c-tell",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 28
+},
+{
+"ja": "落ち込んでる",
+"kana": "おちこんでる",
+"romaji": "ochikonderu",
+"polite": "ochikonde imasu",
+"en": "I'm feeling down",
+"move": "c-feel",
+"cv": 4,
+"surface": [
+"落ち込んで",
+"落ち込む"
+],
+"key": "c-feel",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 205
+},
+{
+"ja": "泣ける",
+"kana": "なける",
+"romaji": "nakeru",
+"polite": null,
+"en": "it makes you cry; such a tearjerker",
+"move": "c-feel",
+"cv": 4,
+"surface": [
+"泣ける"
+],
+"key": "c-feel",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 20
+},
+{
+"ja": "癒される",
+"kana": "いやされる",
+"romaji": "iyasareru",
+"polite": "iyasaremasu",
+"en": "so soothing; it melts my stress away",
+"move": "c-feel",
+"cv": 4,
+"surface": [
+"癒される",
+"癒やされる"
+],
+"key": "c-feel",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 24
+},
+{
+"ja": "悩んでる",
+"kana": "なやんでる",
+"romaji": "nayanderu",
+"polite": "nayande imasu",
+"en": "I'm torn; it's weighing on me",
+"move": "c-feel",
+"cv": 4,
+"surface": [
+"悩んでる",
+"悩んでて"
+],
+"key": "c-feel",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 102
+},
+{
+"ja": "元気ないね",
+"kana": "げんきないね",
+"romaji": "genki nai ne",
+"polite": "genki nai desu ne",
+"en": "you seem down",
+"move": "c-feel",
+"cv": 4,
+"surface": [
+"元気ないね",
+"元気ない"
+],
+"key": "c-feel",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 13
+},
+{
+"ja": "照れる",
+"kana": "てれる",
+"romaji": "tereru",
+"polite": null,
+"en": "aw, you're making me blush",
+"move": "c-feel",
+"cv": 4,
+"surface": [
+"照れる",
+"照れるな"
+],
+"key": "c-feel",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 13
+},
+{
+"ja": "もうやだ",
+"kana": "もうやだ",
+"romaji": "mou yada",
+"polite": null,
+"en": "ugh, I've had it; I hate this",
+"move": "c-feel",
+"cv": 5,
+"surface": [
+"もうやだ",
+"もう嫌だ"
+],
+"key": "c-feel",
+"score": 5,
+"focus": false,
+"source": "conversation-hunt",
+"count": 26
+},
+{
+"ja": "そんな気分じゃない",
+"kana": "そんなきぶんじゃない",
+"romaji": "sonna kibun ja nai",
+"polite": "sonna kibun ja nai desu",
+"en": "I'm not in the mood",
+"move": "c-feel",
+"cv": 4,
+"surface": [
+"気分じゃない"
+],
+"key": "c-feel",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 96
+},
+{
+"ja": "やる気が出ない",
+"kana": "やるきがでない",
+"romaji": "yaruki ga denai",
+"polite": "yaruki ga demasen",
+"en": "I can't get motivated",
+"move": "c-feel",
+"cv": 4,
+"surface": [
+"やる気が出ない",
+"やる気出ない"
+],
+"key": "c-feel",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 1
+},
+{
+"ja": "気楽にいこう",
+"kana": "きらくにいこう",
+"romaji": "kiraku ni ikou",
+"polite": null,
+"en": "take it easy; don't stress",
+"move": "c-feel",
+"cv": 4,
+"surface": [
+"気楽に"
+],
+"key": "c-feel",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 130
+},
+{
+"ja": "気にしすぎだよ",
+"kana": "きにしすぎだよ",
+"romaji": "ki ni shisugi da yo",
+"polite": "ki ni shisugi desu yo",
+"en": "you're overthinking it",
+"move": "c-feel",
+"cv": 4,
+"surface": [
+"気にしすぎ"
+],
+"key": "c-feel",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 9
+},
+{
+"ja": "相変わらずだよ",
+"kana": "あいかわらずだよ",
+"romaji": "aikawarazu da yo",
+"polite": "aikawarazu desu",
+"en": "same as ever; nothing much new",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"相変わらず"
+],
+"key": "c-catchup",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 219
+},
+{
+"ja": "ぼちぼち",
+"kana": "ぼちぼち",
+"romaji": "bochibochi",
+"polite": "bochibochi desu",
+"en": "so-so; getting by",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"ぼちぼち"
+],
+"key": "c-catchup",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 18
+},
+{
+"ja": "なんとかやってる",
+"kana": "なんとかやってる",
+"romaji": "nantoka yatteru",
+"polite": "nantoka yatte imasu",
+"en": "getting by; hanging in there",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"なんとかやって"
+],
+"key": "c-catchup",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 11
+},
+{
+"ja": "バタバタしてた",
+"kana": "ばたばたしてた",
+"romaji": "batabata shiteta",
+"polite": "batabata shite imashita",
+"en": "things have been hectic",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"バタバタ",
+"ばたばた"
+],
+"key": "c-catchup",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 25
+},
+{
+"ja": "仕事どう？",
+"kana": "しごとどう？",
+"romaji": "shigoto dou?",
+"polite": "oshigoto wa dou desu ka?",
+"en": "how's work?",
+"move": "c-catchup",
+"cv": 5,
+"surface": [
+"仕事どう"
+],
+"key": "c-catchup",
+"score": 5,
+"focus": true,
+"source": "conversation-hunt",
+"count": 7
+},
+{
+"ja": "週末何した？",
+"kana": "しゅうまつなにした？",
+"romaji": "shuumatsu nani shita?",
+"polite": "shuumatsu wa nani o shimashita ka?",
+"en": "what did you do on the weekend?",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"週末何した",
+"週末なにした"
+],
+"key": "c-catchup",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 0
+},
+{
+"ja": "髪切った？",
+"kana": "かみきった？",
+"romaji": "kami kitta?",
+"polite": "kami kirimashita?",
+"en": "did you get a haircut?",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"髪切った"
+],
+"key": "c-catchup",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 6
+},
+{
+"ja": "雰囲気変わったね",
+"kana": "ふんいきかわったね",
+"romaji": "fun'iki kawatta ne",
+"polite": "fun'iki kawarimashita ne",
+"en": "you look different",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"雰囲気変わった"
+],
+"key": "c-catchup",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 3
+},
+{
+"ja": "元気そうだね",
+"kana": "げんきそうだね",
+"romaji": "genkisou da ne",
+"polite": "ogenkisou desu ne",
+"en": "you look well",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"元気そう"
+],
+"key": "c-catchup",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 255
+},
+{
+"ja": "時間経つの早いね",
+"kana": "じかんたつのはやいね",
+"romaji": "jikan tatsu no hayai ne",
+"polite": "jikan ga tatsu no wa hayai desu ne",
+"en": "time flies, huh",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"経つの早い",
+"たつの早い",
+"経つのが早い"
+],
+"key": "c-catchup",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 0
+},
+{
+"ja": "仕事何してるの？",
+"kana": "しごとなにしてるの？",
+"romaji": "shigoto nani shiteru no?",
+"polite": "oshigoto wa nani o sarete iru n desu ka?",
+"en": "what do you do for work?",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"仕事何してる",
+"何の仕事"
+],
+"key": "c-catchup",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 38
+},
+{
+"ja": "ちゃんと食べてる？",
+"kana": "ちゃんとたべてる？",
+"romaji": "chanto tabeteru?",
+"polite": null,
+"en": "are you eating properly? (looking after yourself?)",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"ちゃんと食べてる"
+],
+"key": "c-catchup",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 6
+},
+{
+"ja": "〜にハマってる",
+"kana": "〜にはまってる",
+"romaji": "... ni hamatteru",
+"polite": "... ni hamatte imasu",
+"en": "I'm really into...; I'm hooked on...",
+"move": "c-catchup",
+"cv": 5,
+"surface": [
+"ハマってる",
+"はまってる"
+],
+"key": "c-catchup",
+"score": 5,
+"focus": true,
+"source": "conversation-hunt",
+"count": 34
+},
+{
+"ja": "家族は元気？",
+"kana": "かぞくはげんき？",
+"romaji": "kazoku wa genki?",
+"polite": "gokazoku wa ogenki desu ka?",
+"en": "how's your family?",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"家族は元気"
+],
+"key": "c-catchup",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 9
+},
+{
+"ja": "いい人いる？",
+"kana": "いいひといる？",
+"romaji": "ii hito iru?",
+"polite": null,
+"en": "seeing anyone?",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"いい人いる",
+"いい人いない"
+],
+"key": "c-catchup",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 0
+},
+{
+"ja": "何年ぶり？",
+"kana": "なんねんぶり？",
+"romaji": "nannenburi?",
+"polite": "nannenburi desu ka?",
+"en": "how many years has it been?",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"何年ぶり"
+],
+"key": "c-catchup",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 32
+},
+{
+"ja": "涼しくなってきたね",
+"kana": "すずしくなってきたね",
+"romaji": "suzushiku natte kita ne",
+"polite": "suzushiku natte kimashita ne",
+"en": "it's getting cooler, huh",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"涼しくなって",
+"寒くなってきた"
+],
+"key": "c-catchup",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 8
+},
+{
+"ja": "休みの日は何してる？",
+"kana": "やすみのひはなにしてる？",
+"romaji": "yasumi no hi wa nani shiteru?",
+"polite": "oyasumi no hi wa nani o shite imasu ka?",
+"en": "what do you do on your days off?",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"休みの日は何",
+"休みの日何"
+],
+"key": "c-catchup",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 0
+},
+{
+"ja": "空いてる？",
+"kana": "あいてる？",
+"romaji": "aiteru?",
+"polite": "aite imasu ka?",
+"en": "are you free (then)?",
+"move": "c-plans",
+"cv": 5,
+"surface": [
+"空いてる？",
+"日空いてる",
+"日あいてる"
+],
+"key": "c-plans",
+"score": 5,
+"focus": false,
+"source": "conversation-hunt",
+"count": 30
+},
+{
+"ja": "予定ある？",
+"kana": "よていある？",
+"romaji": "yotei aru?",
+"polite": "yotei arimasu ka?",
+"en": "got any plans?",
+"move": "c-plans",
+"cv": 4,
+"surface": [
+"予定ある"
+],
+"key": "c-plans",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 5
+},
+{
+"ja": "行ける行ける",
+"kana": "いけるいける",
+"romaji": "ikeru ikeru",
+"polite": null,
+"en": "yeah, I can make it; sure, easy",
+"move": "c-plans",
+"cv": 4,
+"surface": [
+"行ける行ける",
+"いけるいける"
+],
+"key": "c-plans",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 1
+},
+{
+"ja": "その話乗った",
+"kana": "そのはなしのった",
+"romaji": "sono hanashi notta",
+"polite": null,
+"en": "I'm in!; count me in",
+"move": "c-plans",
+"cv": 4,
+"surface": [
+"その話乗った",
+"話乗った"
+],
+"key": "c-plans",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 0
+},
+{
+"ja": "今度誘って",
+"kana": "こんどさそって",
+"romaji": "kondo sasotte",
+"polite": "kondo sasotte kudasai",
+"en": "invite me next time",
+"move": "c-plans",
+"cv": 4,
+"surface": [
+"誘って"
+],
+"key": "c-plans",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 252
+},
+{
+"ja": "気が向いたら",
+"kana": "きがむいたら",
+"romaji": "ki ga muitara",
+"polite": null,
+"en": "if I feel like it",
+"move": "c-plans",
+"cv": 4,
+"surface": [
+"気が向いたら"
+],
+"key": "c-plans",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 14
+},
+{
+"ja": "一緒に来る？",
+"kana": "いっしょにくる？",
+"romaji": "issho ni kuru?",
+"polite": "issho ni kimasu ka?",
+"en": "want to come along?",
+"move": "c-plans",
+"cv": 4,
+"surface": [
+"一緒に来る",
+"一緒に行く？"
+],
+"key": "c-plans",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 248
+},
+{
+"ja": "付き合うよ",
+"kana": "つきあうよ",
+"romaji": "tsukiau yo",
+"polite": "otsukiai shimasu yo",
+"en": "I'll come along; I'll keep you company",
+"move": "c-plans",
+"cv": 4,
+"surface": [
+"付き合うよ",
+"つきあうよ"
+],
+"key": "c-plans",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 16
+},
+{
+"ja": "決まり！",
+"kana": "きまり！",
+"romaji": "kimari!",
+"polite": null,
+"en": "it's a deal!; settled",
+"move": "c-plans",
+"cv": 4,
+"surface": [
+"決まり！",
+"決まりね",
+"決まりだね"
+],
+"key": "c-plans",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 32
+},
+{
+"ja": "約束ね",
+"kana": "やくそくね",
+"romaji": "yakusoku ne",
+"polite": "yakusoku desu yo",
+"en": "it's a promise, okay?",
+"move": "c-plans",
+"cv": 4,
+"surface": [
+"約束ね",
+"約束だよ"
+],
+"key": "c-plans",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 28
+},
+{
+"ja": "合わせるよ",
+"kana": "あわせるよ",
+"romaji": "awaseru yo",
+"polite": "awasemasu yo",
+"en": "I'll fit around you; whatever suits you",
+"move": "c-plans",
+"cv": 4,
+"surface": [
+"合わせるよ"
+],
+"key": "c-plans",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 13
+},
+{
+"ja": "うち来る？",
+"kana": "うちくる？",
+"romaji": "uchi kuru?",
+"polite": "uchi ni kimasen ka?",
+"en": "want to come over?",
+"move": "c-plans",
+"cv": 4,
+"surface": [
+"うち来る",
+"うちに来る？"
+],
+"key": "c-plans",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 1
+},
+{
+"ja": "行きたいけど…",
+"kana": "いきたいけど…",
+"romaji": "ikitai kedo...",
+"polite": "ikitai n desu kedo...",
+"en": "I'd love to, but...",
+"move": "c-plans",
+"cv": 4,
+"surface": [
+"行きたいけど"
+],
+"key": "c-plans",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 18
+},
+{
+"ja": "終電大丈夫？",
+"kana": "しゅうでんだいじょうぶ？",
+"romaji": "shuuden daijoubu?",
+"polite": "shuuden daijoubu desu ka?",
+"en": "are you okay for the last train?",
+"move": "c-plans",
+"cv": 4,
+"surface": [
+"終電大丈夫",
+"終電何時"
+],
+"key": "c-plans",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 0
+},
+{
+"ja": "送るよ",
+"kana": "おくるよ",
+"romaji": "okuru yo",
+"polite": "okurimasu yo",
+"en": "I'll walk you / drive you home",
+"move": "c-plans",
+"cv": 4,
+"surface": [
+"送るよ",
+"送ってく"
+],
+"key": "c-plans",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 522
+},
+{
+"ja": "今日はパス",
+"kana": "きょうはパス",
+"romaji": "kyou wa pasu",
+"polite": null,
+"en": "I'll pass today",
+"move": "c-plans",
+"cv": 4,
+"surface": [
+"今日はパス",
+"パスで"
+],
+"key": "c-plans",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 48
+},
+{
+"ja": "うそうそ",
+"kana": "うそうそ",
+"romaji": "uso uso",
+"polite": null,
+"en": "just kidding, just kidding",
+"move": "c-banter",
+"cv": 4,
+"surface": [
+"うそうそ",
+"ウソウソ",
+"嘘嘘"
+],
+"key": "c-banter",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 13
+},
+{
+"ja": "うざい",
+"kana": "うざい",
+"romaji": "uzai",
+"polite": null,
+"en": "so annoying; get lost",
+"move": "c-banter",
+"cv": 4,
+"surface": [
+"うざい",
+"ウザい"
+],
+"key": "c-banter",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 54
+},
+{
+"ja": "バカじゃないの",
+"kana": "ばかじゃないの",
+"romaji": "baka ja nai no",
+"polite": null,
+"en": "are you an idiot?; don't be silly",
+"move": "c-banter",
+"cv": 4,
+"surface": [
+"バカじゃないの",
+"馬鹿じゃないの"
+],
+"key": "c-banter",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 57
+},
+{
+"ja": "調子に乗るな",
+"kana": "ちょうしにのるな",
+"romaji": "choushi ni noru na",
+"polite": null,
+"en": "don't get cocky",
+"move": "c-banter",
+"cv": 4,
+"surface": [
+"調子に乗る",
+"調子乗"
+],
+"key": "c-banter",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 33
+},
+{
+"ja": "自慢？",
+"kana": "じまん？",
+"romaji": "jiman?",
+"polite": null,
+"en": "are you bragging?",
+"move": "c-banter",
+"cv": 4,
+"surface": [
+"自慢か",
+"自慢？",
+"自慢して"
+],
+"key": "c-banter",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 52
+},
+{
+"ja": "それ自分で言う？",
+"kana": "それじぶんでいう？",
+"romaji": "sore jibun de iu?",
+"polite": null,
+"en": "you're saying that about yourself?",
+"move": "c-banter",
+"cv": 4,
+"surface": [
+"自分で言う"
+],
+"key": "c-banter",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 18
+},
+{
+"ja": "気のせいだよ",
+"kana": "きのせいだよ",
+"romaji": "ki no sei da yo",
+"polite": "ki no sei desu yo",
+"en": "it's just your imagination",
+"move": "c-banter",
+"cv": 4,
+"surface": [
+"気のせい"
+],
+"key": "c-banter",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 77
+},
+{
+"ja": "また始まった",
+"kana": "またはじまった",
+"romaji": "mata hajimatta",
+"polite": null,
+"en": "here we go again",
+"move": "c-banter",
+"cv": 4,
+"surface": [
+"また始まった"
+],
+"key": "c-banter",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 26
+},
+{
+"ja": "オチは？",
+"kana": "おちは？",
+"romaji": "ochi wa?",
+"polite": null,
+"en": "and the punchline is...?",
+"move": "c-banter",
+"cv": 4,
+"surface": [
+"オチは"
+],
+"key": "c-banter",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 3
+},
+{
+"ja": "すべった",
+"kana": "すべった",
+"romaji": "subetta",
+"polite": null,
+"en": "that joke bombed",
+"move": "c-banter",
+"cv": 4,
+"surface": [
+"すべった",
+"滑った"
+],
+"key": "c-banter",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 62
+},
+{
+"ja": "からかわないで",
+"kana": "からかわないで",
+"romaji": "karakawanaide",
+"polite": null,
+"en": "stop teasing me",
+"move": "c-banter",
+"cv": 4,
+"surface": [
+"からかわない",
+"からかって"
+],
+"key": "c-banter",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 355
+},
+{
+"ja": "ノリ悪い",
+"kana": "のりわるい",
+"romaji": "nori warui",
+"polite": null,
+"en": "you're no fun",
+"move": "c-banter",
+"cv": 4,
+"surface": [
+"ノリ悪い",
+"ノリが悪い"
+],
+"key": "c-banter",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 4
+},
+{
+"ja": "ネタバレしないで",
+"kana": "ねたばれしないで",
+"romaji": "netabare shinaide",
+"polite": null,
+"en": "no spoilers!",
+"move": "c-banter",
+"cv": 4,
+"surface": [
+"ネタバレ"
+],
+"key": "c-banter",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 19
+},
+{
+"ja": "空気読んで",
+"kana": "くうきよんで",
+"romaji": "kuuki yonde",
+"polite": null,
+"en": "read the room",
+"move": "c-banter",
+"cv": 4,
+"surface": [
+"空気読"
+],
+"key": "c-banter",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 7
+},
+{
+"ja": "勘弁してよ",
+"kana": "かんべんしてよ",
+"romaji": "kanben shite yo",
+"polite": "kanben shite kudasai",
+"en": "give me a break",
+"move": "c-banter",
+"cv": 4,
+"surface": [
+"勘弁して"
+],
+"key": "c-banter",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 294
+},
+{
+"ja": "やっほー",
+"kana": "やっほー",
+"romaji": "yahhoo",
+"polite": null,
+"en": "hiya!; hey!",
+"move": "c-social",
+"cv": 4,
+"surface": [
+"やっほー",
+"ヤッホー"
+],
+"key": "c-social",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 61
+},
+{
+"ja": "悪いね",
+"kana": "わるいね",
+"romaji": "warui ne",
+"polite": "sumimasen",
+"en": "sorry for the trouble; thanks, I owe you",
+"move": "c-social",
+"cv": 4,
+"surface": [
+"悪いね",
+"悪いな"
+],
+"key": "c-social",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 560
+},
+{
+"ja": "今日はありがとう",
+"kana": "きょうはありがとう",
+"romaji": "kyou wa arigatou",
+"polite": "kyou wa arigatou gozaimashita",
+"en": "thanks for today",
+"move": "c-social",
+"cv": 5,
+"surface": [
+"今日はありがとう"
+],
+"key": "c-social",
+"score": 5,
+"focus": false,
+"source": "conversation-hunt",
+"count": 17
+},
+{
+"ja": "気が利くね",
+"kana": "きがきくね",
+"romaji": "ki ga kiku ne",
+"polite": "ki ga kikimasu ne",
+"en": "how thoughtful of you",
+"move": "c-social",
+"cv": 4,
+"surface": [
+"気が利く"
+],
+"key": "c-social",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 11
+},
+{
+"ja": "なんて呼べばいい？",
+"kana": "なんてよべばいい？",
+"romaji": "nante yobeba ii?",
+"polite": "nan to oyobi sureba ii desu ka?",
+"en": "what should I call you?",
+"move": "c-social",
+"cv": 4,
+"surface": [
+"なんて呼べば",
+"何て呼べば"
+],
+"key": "c-social",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 25
+},
+{
+"ja": "〜って呼んで",
+"kana": "〜ってよんで",
+"romaji": "... tte yonde",
+"polite": "... tte yonde kudasai",
+"en": "call me...",
+"move": "c-social",
+"cv": 4,
+"surface": [
+"って呼んで"
+],
+"key": "c-social",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 113
+},
+{
+"ja": "タメ口でいいよ",
+"kana": "ためぐちでいいよ",
+"romaji": "tameguchi de ii yo",
+"polite": null,
+"en": "you can talk casually with me",
+"move": "c-social",
+"cv": 4,
+"surface": [
+"タメ口でいい",
+"タメ語でいい"
+],
+"key": "c-social",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 0
+},
+{
+"ja": "着いたらLINEして",
+"kana": "ついたららいんして",
+"romaji": "tsuitara rain shite",
+"polite": "tsuitara renraku kudasai",
+"en": "text me when you get home",
+"move": "c-social",
+"cv": 4,
+"surface": [
+"着いたら連絡",
+"着いたらLINE"
+],
+"key": "c-social",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 14
+},
+{
+"ja": "私が悪かった",
+"kana": "わたしがわるかった",
+"romaji": "watashi ga warukatta",
+"polite": "watashi ga warukatta desu",
+"en": "it was my fault; my bad",
+"move": "c-social",
+"cv": 4,
+"surface": [
+"私が悪かった",
+"俺が悪かった",
+"僕が悪かった"
+],
+"key": "c-social",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 81
+},
+{
+"ja": "お互い様だよ",
+"kana": "おたがいさまだよ",
+"romaji": "otagaisama da yo",
+"polite": "otagaisama desu",
+"en": "we're in the same boat; no need to thank me",
+"move": "c-social",
+"cv": 4,
+"surface": [
+"お互い様",
+"お互いさま"
+],
+"key": "c-social",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 74
+},
+{
+"ja": "連絡しなくてごめん",
+"kana": "れんらくしなくてごめん",
+"romaji": "renraku shinakute gomen",
+"polite": "gobusata shite sumimasen",
+"en": "sorry I haven't been in touch",
+"move": "c-social",
+"cv": 4,
+"surface": [
+"連絡しなくて",
+"連絡できなくて"
+],
+"key": "c-social",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 13
+},
+{
+"ja": "会いたかった",
+"kana": "あいたかった",
+"romaji": "aitakatta",
+"polite": "oai shitakatta desu",
+"en": "I missed you",
+"move": "c-social",
+"cv": 4,
+"surface": [
+"会いたかった"
+],
+"key": "c-social",
+"score": 4,
+"focus": false,
+"source": "conversation-hunt",
+"count": 403
+},
+{
+"ja": "出身どこ？",
+"kana": "しゅっしんどこ？",
+"romaji": "shusshin doko?",
+"polite": "goshusshin wa dochira desu ka?",
+"en": "where are you from? (where did you grow up?)",
+"move": "c-intro",
+"cv": 5,
+"surface": [
+"出身どこ",
+"どこ出身",
+"出身はどこ"
+],
+"key": "c-intro",
+"score": 5,
+"focus": true,
+"source": "conversation-hunt",
+"count": 23
+},
+{
+"ja": "〜出身だよ",
+"kana": "〜しゅっしんだよ",
+"romaji": "... shusshin da yo",
+"polite": "... shusshin desu",
+"en": "I'm from ... (originally)",
+"move": "c-intro",
+"cv": 5,
+"surface": [
+"出身だよ",
+"出身です",
+"出身なんだ"
+],
+"key": "c-intro",
+"score": 5,
+"focus": true,
+"source": "conversation-hunt",
+"count": 42
+},
+{
+"ja": "どこから来たの？",
+"kana": "どこからきたの？",
+"romaji": "doko kara kita no?",
+"polite": "dochira kara irasshatta n desu ka?",
+"en": "where are you from? (where did you come over from?)",
+"move": "c-intro",
+"cv": 5,
+"surface": [
+"どこから来たの",
+"どこから来た"
+],
+"key": "c-intro",
+"score": 5,
+"focus": true,
+"source": "conversation-hunt",
+"count": 364
+},
+{
+"ja": "地元どこ？",
+"kana": "じもとどこ？",
+"romaji": "jimoto doko?",
+"polite": "jimoto wa dochira desu ka?",
+"en": "where's your hometown?",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"地元どこ",
+"地元はどこ"
+],
+"key": "c-intro",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 0
+},
+{
+"ja": "〜のどの辺？",
+"kana": "〜のどのへん？",
+"romaji": "... no dono hen?",
+"polite": "... no dono hen desu ka?",
+"en": "whereabouts in ...?",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"のどの辺",
+"のどのへん"
+],
+"key": "c-intro",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 3
+},
+{
+"ja": "生まれも育ちも〜",
+"kana": "うまれもそだちも〜",
+"romaji": "umare mo sodachi mo ...",
+"polite": "umare mo sodachi mo ... desu",
+"en": "born and raised in ...",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"生まれも育ちも"
+],
+"key": "c-intro",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 11
+},
+{
+"ja": "どんなところ？",
+"kana": "どんなところ？",
+"romaji": "donna tokoro?",
+"polite": "donna tokoro desu ka?",
+"en": "what's it like there?",
+"move": "c-intro",
+"cv": 5,
+"surface": [
+"どんなところ",
+"どんな所"
+],
+"key": "c-intro",
+"score": 5,
+"focus": true,
+"source": "conversation-hunt",
+"count": 36
+},
+{
+"ja": "何もないところだよ",
+"kana": "なにもないところだよ",
+"romaji": "nanimo nai tokoro da yo",
+"polite": "nanimo nai tokoro desu yo",
+"en": "there's not much there (the modest answer about your hometown)",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"何もないところ",
+"何もない所",
+"なんもないところ"
+],
+"key": "c-intro",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 12
+},
+{
+"ja": "今どこに住んでるの？",
+"kana": "いまどこにすんでるの？",
+"romaji": "ima doko ni sunderu no?",
+"polite": "ima dochira ni osumai desu ka?",
+"en": "where do you live now?",
+"move": "c-intro",
+"cv": 5,
+"surface": [
+"どこに住んでる",
+"どこ住んでる"
+],
+"key": "c-intro",
+"score": 5,
+"focus": true,
+"source": "conversation-hunt",
+"count": 35
+},
+{
+"ja": "〜に住んでる",
+"kana": "〜にすんでる",
+"romaji": "... ni sunderu",
+"polite": "... ni sunde imasu",
+"en": "I live in ...",
+"move": "c-intro",
+"cv": 5,
+"surface": [
+"に住んでる",
+"に住んでます"
+],
+"key": "c-intro",
+"score": 5,
+"focus": true,
+"source": "conversation-hunt",
+"count": 508
+},
+{
+"ja": "一人暮らし？",
+"kana": "ひとりぐらし？",
+"romaji": "hitorigurashi?",
+"polite": "hitorigurashi desu ka?",
+"en": "do you live on your own?",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"一人暮らし",
+"ひとり暮らし"
+],
+"key": "c-intro",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 51
+},
+{
+"ja": "実家に住んでる",
+"kana": "じっかにすんでる",
+"romaji": "jikka ni sunderu",
+"polite": "jikka ni sunde imasu",
+"en": "I live with my parents (in the family home)",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"実家に住んで",
+"実家暮らし"
+],
+"key": "c-intro",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 0
+},
+{
+"ja": "日本に来てどのぐらい？",
+"kana": "にほんにきてどのぐらい？",
+"romaji": "nihon ni kite dono gurai?",
+"polite": "nihon ni kite dono gurai desu ka?",
+"en": "how long have you been in Japan?",
+"move": "c-intro",
+"cv": 5,
+"surface": [
+"来てどのくらい",
+"来てどれくらい",
+"来てどのぐらい"
+],
+"key": "c-intro",
+"score": 5,
+"focus": true,
+"source": "conversation-hunt",
+"count": 6
+},
+{
+"ja": "〜年ぐらいになる",
+"kana": "〜ねんぐらいになる",
+"romaji": "...nen gurai ni naru",
+"polite": "...nen gurai ni narimasu",
+"en": "it's been about ... years",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"年ぐらいになる",
+"年くらいになる",
+"年になります"
+],
+"key": "c-intro",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 25
+},
+{
+"ja": "来たばっかり",
+"kana": "きたばっかり",
+"romaji": "kita bakkari",
+"polite": "kita bakari desu",
+"en": "I've only just got here",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"来たばっかり",
+"来たばかり"
+],
+"key": "c-intro",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 107
+},
+{
+"ja": "なんで日本に来たの？",
+"kana": "なんでにほんにきたの？",
+"romaji": "nande nihon ni kita no?",
+"polite": "dou shite nihon ni kita n desu ka?",
+"en": "what made you come to Japan?",
+"move": "c-intro",
+"cv": 5,
+"surface": [
+"なんで日本に来た",
+"どうして日本に来た"
+],
+"key": "c-intro",
+"score": 5,
+"focus": true,
+"source": "conversation-hunt",
+"count": 0
+},
+{
+"ja": "きっかけは？",
+"kana": "きっかけは？",
+"romaji": "kikkake wa?",
+"polite": "kikkake wa nan desu ka?",
+"en": "what got you started? how did it come about?",
+"move": "c-intro",
+"cv": 5,
+"surface": [
+"きっかけは",
+"きっかけって"
+],
+"key": "c-intro",
+"score": 5,
+"focus": true,
+"source": "conversation-hunt",
+"count": 24
+},
+{
+"ja": "〜がきっかけで",
+"kana": "〜がきっかけで",
+"romaji": "... ga kikkake de",
+"polite": null,
+"en": "it all started with ...; ... is what got me into it",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"がきっかけで"
+],
+"key": "c-intro",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 13
+},
+{
+"ja": "ずっと日本に来たかったんだ",
+"kana": "ずっとにほんにきたかったんだ",
+"romaji": "zutto nihon ni kitakatta n da",
+"polite": "zutto nihon ni kitakatta n desu",
+"en": "I'd always wanted to come to Japan",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"ずっと日本に来たかった",
+"日本に来たかった"
+],
+"key": "c-intro",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 0
+},
+{
+"ja": "仕事で来た",
+"kana": "しごとできた",
+"romaji": "shigoto de kita",
+"polite": "shigoto de kimashita",
+"en": "I came over for work",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"仕事で来た",
+"仕事で来ました"
+],
+"key": "c-intro",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 9
+},
+{
+"ja": "留学してる",
+"kana": "りゅうがくしてる",
+"romaji": "ryuugaku shiteru",
+"polite": "ryuugaku shite imasu",
+"en": "I'm here studying abroad",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"留学してる",
+"留学中"
+],
+"key": "c-intro",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 3
+},
+{
+"ja": "いつまでいるの？",
+"kana": "いつまでいるの？",
+"romaji": "itsu made iru no?",
+"polite": "itsu made irassharu n desu ka?",
+"en": "how long are you here for?",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"いつまでいるの",
+"いつまでいる"
+],
+"key": "c-intro",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 7
+},
+{
+"ja": "まだ決めてない",
+"kana": "まだきめてない",
+"romaji": "mada kimetenai",
+"polite": "mada kimete imasen",
+"en": "I haven't decided yet",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"まだ決めてない",
+"まだ決めてません"
+],
+"key": "c-intro",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 30
+},
+{
+"ja": "日本の生活はどう？",
+"kana": "にほんのせいかつはどう？",
+"romaji": "nihon no seikatsu wa dou?",
+"polite": "nihon no seikatsu wa dou desu ka?",
+"en": "how are you finding life in Japan?",
+"move": "c-intro",
+"cv": 5,
+"surface": [
+"日本の生活はどう",
+"日本の生活どう"
+],
+"key": "c-intro",
+"score": 5,
+"focus": true,
+"source": "conversation-hunt",
+"count": 0
+},
+{
+"ja": "だいぶ慣れた",
+"kana": "だいぶなれた",
+"romaji": "daibu nareta",
+"polite": "daibu naremashita",
+"en": "I've pretty much settled in",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"だいぶ慣れた",
+"大分慣れた",
+"だいぶ慣れました"
+],
+"key": "c-intro",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 0
+},
+{
+"ja": "日本のどこが好き？",
+"kana": "にほんのどこがすき？",
+"romaji": "nihon no doko ga suki?",
+"polite": "nihon no doko ga suki desu ka?",
+"en": "what do you like about Japan?",
+"move": "c-intro",
+"cv": 5,
+"surface": [
+"日本のどこが好き"
+],
+"key": "c-intro",
+"score": 5,
+"focus": true,
+"source": "conversation-hunt",
+"count": 0
+},
+{
+"ja": "日本語どこで勉強したの？",
+"kana": "にほんごどこでべんきょうしたの？",
+"romaji": "nihongo doko de benkyou shita no?",
+"polite": "nihongo wa doko de benkyou shita n desu ka?",
+"en": "where did you learn your Japanese?",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"どこで勉強した",
+"日本語どこで"
+],
+"key": "c-intro",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 3
+},
+{
+"ja": "独学だよ",
+"kana": "どくがくだよ",
+"romaji": "dokugaku da yo",
+"polite": "dokugaku desu",
+"en": "I taught myself",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"独学で",
+"独学だよ",
+"独学です"
+],
+"key": "c-intro",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 9
+},
+{
+"ja": "日本語勉強してるんだ",
+"kana": "にほんごべんきょうしてるんだ",
+"romaji": "nihongo benkyou shiteru n da",
+"polite": "nihongo o benkyou shite iru n desu",
+"en": "I'm learning Japanese",
+"move": "c-intro",
+"cv": 5,
+"surface": [
+"日本語勉強してる",
+"日本語を勉強して"
+],
+"key": "c-intro",
+"score": 5,
+"focus": true,
+"source": "conversation-hunt",
+"count": 0
+},
+{
+"ja": "日本語で話そう",
+"kana": "にほんごではなそう",
+"romaji": "nihongo de hanasou",
+"polite": "nihongo de hanashimashou",
+"en": "let's talk in Japanese",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"日本語で話そう",
+"日本語で話しましょう"
+],
+"key": "c-intro",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 0
+},
+{
+"ja": "英語話せる？",
+"kana": "えいごはなせる？",
+"romaji": "eigo hanaseru?",
+"polite": "eigo hanasemasu ka?",
+"en": "do you speak English?",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"英語話せる",
+"英語話せます",
+"英語しゃべれる"
+],
+"key": "c-intro",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 10
+},
+{
+"ja": "どこで働いてるの？",
+"kana": "どこではたらいてるの？",
+"romaji": "doko de hataraiteru no?",
+"polite": "dochira de hataraite iru n desu ka?",
+"en": "where do you work?",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"どこで働いてる",
+"どこで働いて"
+],
+"key": "c-intro",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 6
+},
+{
+"ja": "〜で働いてる",
+"kana": "〜ではたらいてる",
+"romaji": "... de hataraiteru",
+"polite": "... de hataraite imasu",
+"en": "I work at ...",
+"move": "c-intro",
+"cv": 5,
+"surface": [
+"で働いてる",
+"で働いてます"
+],
+"key": "c-intro",
+"score": 5,
+"focus": true,
+"source": "conversation-hunt",
+"count": 244
+},
+{
+"ja": "どんな仕事？",
+"kana": "どんなしごと？",
+"romaji": "donna shigoto?",
+"polite": "donna oshigoto desu ka?",
+"en": "what kind of work is it?",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"どんな仕事",
+"どんなお仕事"
+],
+"key": "c-intro",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 97
+},
+{
+"ja": "〜関係の仕事をしてる",
+"kana": "〜かんけいのしごとをしてる",
+"romaji": "... kankei no shigoto o shiteru",
+"polite": "... kankei no shigoto o shite imasu",
+"en": "I work in something to do with ... (IT, tourism ...)",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"関係の仕事",
+"系の仕事"
+],
+"key": "c-intro",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 5
+},
+{
+"ja": "会社員だよ",
+"kana": "かいしゃいんだよ",
+"romaji": "kaishain da yo",
+"polite": "kaishain desu",
+"en": "I work for a company; I'm an office worker",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"会社員"
+],
+"key": "c-intro",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 21
+},
+{
+"ja": "今は仕事探し中",
+"kana": "いまはしごとさがしちゅう",
+"romaji": "ima wa shigoto sagashichuu",
+"polite": "ima wa shigoto sagashichuu desu",
+"en": "I'm job hunting at the moment",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"仕事探し中",
+"仕事探してる"
+],
+"key": "c-intro",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 0
+},
+{
+"ja": "通勤どのぐらい？",
+"kana": "つうきんどのぐらい？",
+"romaji": "tsuukin dono gurai?",
+"polite": "tsuukin wa dono gurai desu ka?",
+"en": "how long's your commute?",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"通勤どのくらい",
+"通勤どれくらい",
+"通勤時間"
+],
+"key": "c-intro",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 0
+},
+{
+"ja": "専攻は？",
+"kana": "せんこうは？",
+"romaji": "senkou wa?",
+"polite": "senkou wa nan desu ka?",
+"en": "what's your major? what are you studying?",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"専攻は",
+"専攻何"
+],
+"key": "c-intro",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 28
+},
+{
+"ja": "大学で〜を勉強してる",
+"kana": "だいがくで〜をべんきょうしてる",
+"romaji": "daigaku de ... o benkyou shiteru",
+"polite": "daigaku de ... o benkyou shite imasu",
+"en": "I study ... at uni",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"を勉強してる",
+"を専攻してる"
+],
+"key": "c-intro",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 14
+},
+{
+"ja": "兄弟いる？",
+"kana": "きょうだいいる？",
+"romaji": "kyoudai iru?",
+"polite": "gokyoudai wa imasu ka?",
+"en": "do you have any brothers or sisters?",
+"move": "c-intro",
+"cv": 5,
+"surface": [
+"兄弟いる",
+"兄弟は",
+"ご兄弟"
+],
+"key": "c-intro",
+"score": 5,
+"focus": true,
+"source": "conversation-hunt",
+"count": 240
+},
+{
+"ja": "一人っ子なんだ",
+"kana": "ひとりっこなんだ",
+"romaji": "hitorikko na n da",
+"polite": "hitorikko desu",
+"en": "I'm an only child",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"一人っ子",
+"ひとりっ子"
+],
+"key": "c-intro",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 36
+},
+{
+"ja": "兄が一人いる",
+"kana": "あにがひとりいる",
+"romaji": "ani ga hitori iru",
+"polite": "ani ga hitori imasu",
+"en": "I've got one older brother",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"兄が一人",
+"姉が一人",
+"弟が一人"
+],
+"key": "c-intro",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 5
+},
+{
+"ja": "何人家族？",
+"kana": "なんにんかぞく？",
+"romaji": "nannin kazoku?",
+"polite": "nannin kazoku desu ka?",
+"en": "how many are there in your family?",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"何人家族"
+],
+"key": "c-intro",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 1
+},
+{
+"ja": "4人家族だよ",
+"kana": "よにんかぞくだよ",
+"romaji": "yonin kazoku da yo",
+"polite": "yonin kazoku desu",
+"en": "there are four of us (in my family)",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"4人家族",
+"四人家族",
+"5人家族"
+],
+"key": "c-intro",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 3
+},
+{
+"ja": "結婚してる？",
+"kana": "けっこんしてる？",
+"romaji": "kekkon shiteru?",
+"polite": "kekkon shite imasu ka?",
+"en": "are you married?",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"結婚してる",
+"結婚されて"
+],
+"key": "c-intro",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 136
+},
+{
+"ja": "子供いる？",
+"kana": "こどもいる？",
+"romaji": "kodomo iru?",
+"polite": "okosan wa imasu ka?",
+"en": "do you have kids?",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"子供いる",
+"子どもいる",
+"お子さん"
+],
+"key": "c-intro",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 107
+},
+{
+"ja": "ペット飼ってる？",
+"kana": "ペットかってる？",
+"romaji": "petto katteru?",
+"polite": "petto o katte imasu ka?",
+"en": "do you have any pets?",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"ペット飼って",
+"何か飼ってる"
+],
+"key": "c-intro",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 2
+},
+{
+"ja": "年いくつ？",
+"kana": "としいくつ？",
+"romaji": "toshi ikutsu?",
+"polite": "oikutsu desu ka?",
+"en": "how old are you?",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"年いくつ",
+"いくつなの",
+"おいくつ"
+],
+"key": "c-intro",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 35
+},
+{
+"ja": "何年生まれ？",
+"kana": "なんねんうまれ？",
+"romaji": "nannen umare?",
+"polite": "nannen umare desu ka?",
+"en": "what year were you born? (a softer way to ask someone's age)",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"何年生まれ"
+],
+"key": "c-intro",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 2
+},
+{
+"ja": "同い年だ！",
+"kana": "おないどしだ！",
+"romaji": "onaidoshi da!",
+"polite": "onaidoshi desu ne",
+"en": "we're the same age!",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"同い年"
+],
+"key": "c-intro",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 47
+},
+{
+"ja": "血液型は？",
+"kana": "けつえきがたは？",
+"romaji": "ketsuekigata wa?",
+"polite": "ketsuekigata wa nan desu ka?",
+"en": "what's your blood type? (a classic Japanese getting-to-know-you question)",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"血液型"
+],
+"key": "c-intro",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 44
+},
+{
+"ja": "インスタやってる？",
+"kana": "インスタやってる？",
+"romaji": "insuta yatteru?",
+"polite": "insuta yatte imasu ka?",
+"en": "are you on Instagram?",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"インスタやってる",
+"インスタやって"
+],
+"key": "c-intro",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 0
+},
+{
+"ja": "〜の友達なんだ",
+"kana": "〜のともだちなんだ",
+"romaji": "... no tomodachi na n da",
+"polite": "... no tomodachi desu",
+"en": "I'm a friend of ...'s",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"の友達なんだ",
+"の友達です"
+],
+"key": "c-intro",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 20
+},
+{
+"ja": "〜から話は聞いてる",
+"kana": "〜からはなしはきいてる",
+"romaji": "... kara hanashi wa kiiteru",
+"polite": "... kara ohanashi wa kiite imasu",
+"en": "I've heard about you from ...",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"話は聞いてる",
+"話は聞いて",
+"お話は伺って"
+],
+"key": "c-intro",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 56
+},
+{
+"ja": "会えてうれしい",
+"kana": "あえてうれしい",
+"romaji": "aete ureshii",
+"polite": "oai dekite ureshii desu",
+"en": "so glad to meet you",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"会えてうれしい",
+"会えて嬉しい",
+"お会いできて"
+],
+"key": "c-intro",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 859
+},
+{
+"ja": "もともとは〜",
+"kana": "もともとは〜",
+"romaji": "motomoto wa ...",
+"polite": null,
+"en": "originally ...; I was originally ...",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"もともとは",
+"元々は"
+],
+"key": "c-intro",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 39
+},
+{
+"ja": "趣味は？",
+"kana": "しゅみは？",
+"romaji": "shumi wa?",
+"polite": "goshumi wa nan desu ka?",
+"en": "what are your hobbies? what do you do for fun?",
+"move": "c-likes",
+"cv": 5,
+"surface": [
+"趣味は",
+"趣味って"
+],
+"key": "c-likes",
+"score": 5,
+"focus": true,
+"source": "conversation-hunt",
+"count": 68
+},
+{
+"ja": "〜が趣味なんだ",
+"kana": "〜がしゅみなんだ",
+"romaji": "... ga shumi na n da",
+"polite": "shumi wa ... desu",
+"en": "... is my hobby; I'm into ...",
+"move": "c-likes",
+"cv": 5,
+"surface": [
+"が趣味"
+],
+"key": "c-likes",
+"score": 5,
+"focus": true,
+"source": "conversation-hunt",
+"count": 31
+},
+{
+"ja": "趣味っていうほどじゃないけど",
+"kana": "しゅみっていうほどじゃないけど",
+"romaji": "shumi tte iu hodo ja nai kedo",
+"polite": "shumi to iu hodo ja nai n desu kedo",
+"en": "it's not really a hobby, but...",
+"move": "c-likes",
+"cv": 4,
+"surface": [
+"趣味っていうほど",
+"趣味というほど"
+],
+"key": "c-likes",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 0
+},
+{
+"ja": "家でゴロゴロしてる",
+"kana": "いえでゴロゴロしてる",
+"romaji": "ie de gorogoro shiteru",
+"polite": "ie de gorogoro shite imasu",
+"en": "I just laze around at home",
+"move": "c-likes",
+"cv": 4,
+"surface": [
+"ゴロゴロしてる",
+"ごろごろしてる"
+],
+"key": "c-likes",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 3
+},
+{
+"ja": "〜って好き？",
+"kana": "〜ってすき？",
+"romaji": "...tte suki?",
+"polite": "... wa suki desu ka?",
+"en": "do you like ...?",
+"move": "c-likes",
+"cv": 5,
+"surface": [
+"って好き？",
+"って好き?"
+],
+"key": "c-likes",
+"score": 5,
+"focus": true,
+"source": "conversation-hunt",
+"count": 3
+},
+{
+"ja": "好きな食べ物は？",
+"kana": "すきなたべものは？",
+"romaji": "suki na tabemono wa?",
+"polite": "suki na tabemono wa nan desu ka?",
+"en": "what's your favourite food?",
+"move": "c-likes",
+"cv": 5,
+"surface": [
+"好きな食べ物"
+],
+"key": "c-likes",
+"score": 5,
+"focus": true,
+"source": "conversation-hunt",
+"count": 10
+},
+{
+"ja": "どんな音楽聴くの？",
+"kana": "どんなおんがくきくの？",
+"romaji": "donna ongaku kiku no?",
+"polite": "donna ongaku o kikimasu ka?",
+"en": "what kind of music do you listen to?",
+"move": "c-likes",
+"cv": 5,
+"surface": [
+"どんな音楽",
+"音楽聴く"
+],
+"key": "c-likes",
+"score": 5,
+"focus": true,
+"source": "conversation-hunt",
+"count": 14
+},
+{
+"ja": "洋楽と邦楽どっち聴く？",
+"kana": "ようがくとほうがくどっちきく？",
+"romaji": "yougaku to hougaku dotchi kiku?",
+"polite": "yougaku to hougaku, dochira o kikimasu ka?",
+"en": "do you listen to Western or Japanese music?",
+"move": "c-likes",
+"cv": 4,
+"surface": [
+"洋楽と邦楽",
+"洋楽聴く",
+"邦楽聴く"
+],
+"key": "c-likes",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 0
+},
+{
+"ja": "好きなアーティストいる？",
+"kana": "すきなアーティストいる？",
+"romaji": "suki na aatisuto iru?",
+"polite": "suki na aatisuto wa imasu ka?",
+"en": "any artists you like?",
+"move": "c-likes",
+"cv": 4,
+"surface": [
+"好きなアーティスト",
+"好きな歌手"
+],
+"key": "c-likes",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 0
+},
+{
+"ja": "ライブとか行く？",
+"kana": "ライブとかいく？",
+"romaji": "raibu toka iku?",
+"polite": "raibu toka ikimasu ka?",
+"en": "do you go to gigs?",
+"move": "c-likes",
+"cv": 4,
+"surface": [
+"ライブとか行く",
+"ライブ行く"
+],
+"key": "c-likes",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 0
+},
+{
+"ja": "推しは誰？",
+"kana": "おしはだれ？",
+"romaji": "oshi wa dare?",
+"polite": "oshi wa dare desu ka?",
+"en": "who's your fave? (idol, band member, character)",
+"move": "c-likes",
+"cv": 4,
+"surface": [
+"推しは誰",
+"推し誰"
+],
+"key": "c-likes",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 0
+},
+{
+"ja": "映画とか見る？",
+"kana": "えいがとかみる？",
+"romaji": "eiga toka miru?",
+"polite": "eiga toka mimasu ka?",
+"en": "do you watch movies much?",
+"move": "c-likes",
+"cv": 4,
+"surface": [
+"映画とか見る",
+"映画見る"
+],
+"key": "c-likes",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 7
+},
+{
+"ja": "最近何か面白いの見た？",
+"kana": "さいきんなにかおもしろいのみた？",
+"romaji": "saikin nanika omoshiroi no mita?",
+"polite": "saikin nanika omoshiroi no mimashita ka?",
+"en": "seen anything good lately?",
+"move": "c-likes",
+"cv": 5,
+"surface": [
+"面白いの見た",
+"何か面白いの"
+],
+"key": "c-likes",
+"score": 5,
+"focus": true,
+"source": "conversation-hunt",
+"count": 0
+},
+{
+"ja": "今何かドラマ見てる？",
+"kana": "いまなにかドラマみてる？",
+"romaji": "ima nanika dorama miteru?",
+"polite": "ima nanika dorama mite imasu ka?",
+"en": "are you watching any shows at the moment?",
+"move": "c-likes",
+"cv": 4,
+"surface": [
+"ドラマ見てる",
+"何かドラマ"
+],
+"key": "c-likes",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 0
+},
+{
+"ja": "ゲームする？",
+"kana": "ゲームする？",
+"romaji": "geemu suru?",
+"polite": "geemu shimasu ka?",
+"en": "do you play video games?",
+"move": "c-likes",
+"cv": 4,
+"surface": [
+"ゲームする",
+"ゲームとか"
+],
+"key": "c-likes",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 17
+},
+{
+"ja": "何かスポーツやってる？",
+"kana": "なにかスポーツやってる？",
+"romaji": "nanika supootsu yatteru?",
+"polite": "nanika supootsu o yatte imasu ka?",
+"en": "do you play any sport?",
+"move": "c-likes",
+"cv": 4,
+"surface": [
+"スポーツやって",
+"何かスポーツ"
+],
+"key": "c-likes",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 2
+},
+{
+"ja": "ジムに通ってる",
+"kana": "ジムにかよってる",
+"romaji": "jimu ni kayotteru",
+"polite": "jimu ni kayotte imasu",
+"en": "I go to the gym (regularly)",
+"move": "c-likes",
+"cv": 4,
+"surface": [
+"ジムに通って",
+"ジム通い"
+],
+"key": "c-likes",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 3
+},
+{
+"ja": "昔〜やってた",
+"kana": "むかし〜やってた",
+"romaji": "mukashi ... yatteta",
+"polite": "mukashi ... o yatte imashita",
+"en": "I used to do / play ... (back in the day)",
+"move": "c-likes",
+"cv": 4,
+"surface": [
+"昔やってた",
+"前やってた"
+],
+"key": "c-likes",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 4
+},
+{
+"ja": "料理する？",
+"kana": "りょうりする？",
+"romaji": "ryouri suru?",
+"polite": "ryouri shimasu ka?",
+"en": "do you cook?",
+"move": "c-likes",
+"cv": 4,
+"surface": [
+"料理する",
+"料理とか"
+],
+"key": "c-likes",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 59
+},
+{
+"ja": "辛いの大丈夫？",
+"kana": "からいのだいじょうぶ？",
+"romaji": "karai no daijoubu?",
+"polite": "karai no wa daijoubu desu ka?",
+"en": "are you okay with spicy food?",
+"move": "c-likes",
+"cv": 4,
+"surface": [
+"辛いの大丈夫",
+"辛いのは大丈夫"
+],
+"key": "c-likes",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 0
+},
+{
+"ja": "納豆食べられる？",
+"kana": "なっとうたべられる？",
+"romaji": "nattou taberareru?",
+"polite": "nattou taberaremasu ka?",
+"en": "can you eat natto? (the classic question for foreigners)",
+"move": "c-likes",
+"cv": 4,
+"surface": [
+"納豆食べられる",
+"納豆食べれる"
+],
+"key": "c-likes",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 0
+},
+{
+"ja": "なんでも食べるよ",
+"kana": "なんでもたべるよ",
+"romaji": "nandemo taberu yo",
+"polite": "nandemo tabemasu yo",
+"en": "I'll eat anything",
+"move": "c-likes",
+"cv": 4,
+"surface": [
+"何でも食べる",
+"なんでも食べる"
+],
+"key": "c-likes",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 4
+},
+{
+"ja": "お酒飲む？",
+"kana": "おさけのむ？",
+"romaji": "osake nomu?",
+"polite": "osake wa nomimasu ka?",
+"en": "do you drink?",
+"move": "c-likes",
+"cv": 4,
+"surface": [
+"お酒飲む",
+"お酒は飲む"
+],
+"key": "c-likes",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 2
+},
+{
+"ja": "お酒弱いんだ",
+"kana": "おさけよわいんだ",
+"romaji": "osake yowai n da",
+"polite": "osake yowai n desu",
+"en": "I can't hold my drink; I'm a lightweight",
+"move": "c-likes",
+"cv": 4,
+"surface": [
+"お酒弱い",
+"酒弱い"
+],
+"key": "c-likes",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 0
+},
+{
+"ja": "よく旅行する？",
+"kana": "よくりょこうする？",
+"romaji": "yoku ryokou suru?",
+"polite": "yoku ryokou shimasu ka?",
+"en": "do you travel much?",
+"move": "c-likes",
+"cv": 4,
+"surface": [
+"よく旅行する",
+"旅行好き"
+],
+"key": "c-likes",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 4
+},
+{
+"ja": "〜行ったことある？",
+"kana": "〜いったことある？",
+"romaji": "... itta koto aru?",
+"polite": "... ni itta koto arimasu ka?",
+"en": "have you been to ...?",
+"move": "c-likes",
+"cv": 5,
+"surface": [
+"行ったことある",
+"行ったことあります"
+],
+"key": "c-likes",
+"score": 5,
+"focus": true,
+"source": "conversation-hunt",
+"count": 45
+},
+{
+"ja": "まだ行ったことない",
+"kana": "まだいったことない",
+"romaji": "mada itta koto nai",
+"polite": "mada itta koto ga arimasen",
+"en": "I haven't been there yet",
+"move": "c-likes",
+"cv": 4,
+"surface": [
+"行ったことない",
+"行ったことがない"
+],
+"key": "c-likes",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 53
+},
+{
+"ja": "日本でどこ行った？",
+"kana": "にほんでどこいった？",
+"romaji": "nihon de doko itta?",
+"polite": "nihon de wa doko ni ikimashita ka?",
+"en": "where have you been in Japan?",
+"move": "c-likes",
+"cv": 4,
+"surface": [
+"どこ行った",
+"どこに行った"
+],
+"key": "c-likes",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 474
+},
+{
+"ja": "いつか行ってみたい",
+"kana": "いつかいってみたい",
+"romaji": "itsuka itte mitai",
+"polite": "itsuka itte mitai desu",
+"en": "I'd love to go someday",
+"move": "c-likes",
+"cv": 4,
+"surface": [
+"いつか行ってみたい",
+"行ってみたい"
+],
+"key": "c-likes",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 22
+},
+{
+"ja": "犬派？猫派？",
+"kana": "いぬは？ねこは？",
+"romaji": "inu ha? neko ha?",
+"polite": "inu ha desu ka, neko ha desu ka?",
+"en": "dog person or cat person?",
+"move": "c-likes",
+"cv": 4,
+"surface": [
+"犬派？猫派？",
+"犬派か猫派か",
+"犬派猫派"
+],
+"key": "c-likes",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 0
+},
+{
+"ja": "インドア派だよ",
+"kana": "インドアはだよ",
+"romaji": "indoa ha da yo",
+"polite": "indoa ha desu",
+"en": "I'm more of a homebody",
+"move": "c-likes",
+"cv": 4,
+"surface": [
+"インドア派"
+],
+"key": "c-likes",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 0
+},
+{
+"ja": "時間がある時は〜",
+"kana": "じかんがあるときは〜",
+"romaji": "jikan ga aru toki wa ...",
+"polite": null,
+"en": "when I've got time, I ...",
+"move": "c-likes",
+"cv": 4,
+"surface": [
+"時間がある時は",
+"時間ある時は",
+"時間があるときは"
+],
+"key": "c-likes",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 1
+},
+{
+"ja": "〜のが好き",
+"kana": "〜のがすき",
+"romaji": "...no ga suki",
+"polite": "...no ga suki desu",
+"en": "I like (doing) ...",
+"move": "c-likes",
+"cv": 4,
+"surface": [
+"のが好き"
+],
+"key": "c-likes",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 424
+},
+{
+"ja": "最近始めたんだ",
+"kana": "さいきんはじめたんだ",
+"romaji": "saikin hajimeta n da",
+"polite": "saikin hajimeta n desu",
+"en": "I only took it up recently",
+"move": "c-likes",
+"cv": 4,
+"surface": [
+"最近始めた"
+],
+"key": "c-likes",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 0
+},
+{
+"ja": "どのぐらいやってるの？",
+"kana": "どのぐらいやってるの？",
+"romaji": "dono gurai yatteru no?",
+"polite": "dono gurai yatte iru n desu ka?",
+"en": "how long have you been doing it?",
+"move": "c-likes",
+"cv": 4,
+"surface": [
+"どのくらいやって",
+"どれくらいやって",
+"どのぐらいやって"
+],
+"key": "c-likes",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 3
+},
+{
+"ja": "全然下手だけど",
+"kana": "ぜんぜんへただけど",
+"romaji": "zenzen heta da kedo",
+"polite": "zenzen heta desu kedo",
+"en": "I'm not any good at it, though",
+"move": "c-likes",
+"cv": 4,
+"surface": [
+"下手だけど",
+"下手なんだけど"
+],
+"key": "c-likes",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 3
+},
+{
+"ja": "週末はだいたい〜",
+"kana": "しゅうまつはだいたい〜",
+"romaji": "shuumatsu wa daitai ...",
+"polite": null,
+"en": "on weekends I usually ...",
+"move": "c-likes",
+"cv": 4,
+"surface": [
+"週末はだいたい",
+"週末は大体"
+],
+"key": "c-likes",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 0
+},
+{
+"ja": "カラオケで何歌う？",
+"kana": "カラオケでなにうたう？",
+"romaji": "karaoke de nani utau?",
+"polite": "karaoke de wa nani o utaimasu ka?",
+"en": "what do you sing at karaoke?",
+"move": "c-likes",
+"cv": 4,
+"surface": [
+"カラオケで何歌う",
+"何歌う"
+],
+"key": "c-likes",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 0
+},
+{
+"ja": "絶対ハマるよ",
+"kana": "ぜったいハマるよ",
+"romaji": "zettai hamaru yo",
+"polite": "zettai hamarimasu yo",
+"en": "you'll love it, trust me",
+"move": "c-likes",
+"cv": 4,
+"surface": [
+"絶対ハマる",
+"絶対はまる"
+],
+"key": "c-likes",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 1
+},
+{
+"ja": "今度教えて",
+"kana": "こんどおしえて",
+"romaji": "kondo oshiete",
+"polite": "kondo oshiete kudasai",
+"en": "you'll have to show me sometime",
+"move": "c-likes",
+"cv": 4,
+"surface": [
+"今度教えて"
+],
+"key": "c-likes",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 3
+},
+{
+"ja": "私もやってみたい",
+"kana": "わたしもやってみたい",
+"romaji": "watashi mo yatte mitai",
+"polite": "watashi mo yatte mitai desu",
+"en": "I'd like to give it a try too",
+"move": "c-likes",
+"cv": 4,
+"surface": [
+"私もやってみたい",
+"やってみたい"
+],
+"key": "c-likes",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 63
+},
+{
+"ja": "お気に入りのお店ある？",
+"kana": "おきにいりのおみせある？",
+"romaji": "okiniiri no omise aru?",
+"polite": "okiniiri no omise wa arimasu ka?",
+"en": "got a favourite place to eat or hang out?",
+"move": "c-likes",
+"cv": 4,
+"surface": [
+"お気に入りの店",
+"お気に入りのお店"
+],
+"key": "c-likes",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 0
+},
+{
+"ja": "食べたことある？",
+"kana": "たべたことある？",
+"romaji": "tabeta koto aru?",
+"polite": "tabeta koto arimasu ka?",
+"en": "have you ever tried it?",
+"move": "c-likes",
+"cv": 4,
+"surface": [
+"食べたことある",
+"食べたことあります"
+],
+"key": "c-likes",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 5
+},
+{
+"ja": "どっち派？",
+"kana": "どっちは？",
+"romaji": "dotchi ha?",
+"polite": "dochira ha desu ka?",
+"en": "which side are you on? which do you go for?",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"どっち派"
+],
+"key": "c-opine",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 1
+},
+{
+"ja": "私は〜派かな",
+"kana": "わたしは〜はかな",
+"romaji": "watashi wa ... ha kana",
+"polite": "watashi wa ... ha desu ne",
+"en": "I'm more of a ... person, I guess",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"派かな",
+"派なんだ",
+"派です"
+],
+"key": "c-opine",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 30
+},
+{
+"ja": "どっちがいいと思う？",
+"kana": "どっちがいいとおもう？",
+"romaji": "dotchi ga ii to omou?",
+"polite": "dochira ga ii to omoimasu ka?",
+"en": "which do you think is better?",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"どっちがいいと思う"
+],
+"key": "c-opine",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 4
+},
+{
+"ja": "私的には",
+"kana": "わたしてきには",
+"romaji": "watashi teki ni wa",
+"polite": null,
+"en": "for me; as far as I'm concerned",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"私的には"
+],
+"key": "c-opine",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 8
+},
+{
+"ja": "時と場合による",
+"kana": "ときとばあいによる",
+"romaji": "toki to baai ni yoru",
+"polite": "toki to baai ni yorimasu",
+"en": "it depends on the situation",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"時と場合による",
+"場合による"
+],
+"key": "c-opine",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 41
+},
+{
+"ja": "人それぞれ",
+"kana": "ひとそれぞれ",
+"romaji": "hito sorezore",
+"polite": "hito sorezore desu yo ne",
+"en": "everyone's different; to each their own",
+"move": "c-opine",
+"cv": 5,
+"surface": [
+"人それぞれ"
+],
+"key": "c-opine",
+"score": 5,
+"focus": true,
+"source": "conversation-hunt",
+"count": 32
+},
+{
+"ja": "期待してたほどじゃなかった",
+"kana": "きたいしてたほどじゃなかった",
+"romaji": "kitai shiteta hodo ja nakatta",
+"polite": "kitai shite ita hodo ja nakatta desu",
+"en": "it wasn't as good as I'd hoped",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"期待してたほど",
+"期待したほど"
+],
+"key": "c-opine",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 1
+},
+{
+"ja": "好みが分かれる",
+"kana": "このみがわかれる",
+"romaji": "konomi ga wakareru",
+"polite": "konomi ga wakaremasu ne",
+"en": "people either love it or hate it",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"好みが分かれる",
+"好み分かれる"
+],
+"key": "c-opine",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 0
+},
+{
+"ja": "好きな人は好きだよね",
+"kana": "すきなひとはすきだよね",
+"romaji": "suki na hito wa suki da yo ne",
+"polite": "suki na hito wa suki desu yo ne",
+"en": "it's not for everyone, but fans love it",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"好きな人は好き"
+],
+"key": "c-opine",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 0
+},
+{
+"ja": "私は好きだけど",
+"kana": "わたしはすきだけど",
+"romaji": "watashi wa suki da kedo",
+"polite": "watashi wa suki desu kedo",
+"en": "well, I like it (even if others don't)",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"私は好きだけど",
+"俺は好きだけど",
+"僕は好きだけど"
+],
+"key": "c-opine",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 0
+},
+{
+"ja": "あんまり好きじゃない",
+"kana": "あんまりすきじゃない",
+"romaji": "anmari suki ja nai",
+"polite": "amari suki ja nai desu",
+"en": "I'm not that keen on it",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"あんまり好きじゃない",
+"あまり好きじゃない"
+],
+"key": "c-opine",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 26
+},
+{
+"ja": "嫌いじゃない",
+"kana": "きらいじゃない",
+"romaji": "kirai ja nai",
+"polite": "kirai ja nai desu",
+"en": "I don't mind it; I kind of like it",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"嫌いじゃない"
+],
+"key": "c-opine",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 49
+},
+{
+"ja": "それはそれでいい",
+"kana": "それはそれでいい",
+"romaji": "sore wa sore de ii",
+"polite": "sore wa sore de ii desu ne",
+"en": "that's good in its own way",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"それはそれで"
+],
+"key": "c-opine",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 41
+},
+{
+"ja": "考えたことなかった",
+"kana": "かんがえたことなかった",
+"romaji": "kangaeta koto nakatta",
+"polite": "kangaeta koto nakatta desu",
+"en": "I'd never thought about that",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"考えたことなかった",
+"考えたこともなかった"
+],
+"key": "c-opine",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 18
+},
+{
+"ja": "難しいところだね",
+"kana": "むずかしいところだね",
+"romaji": "muzukashii tokoro da ne",
+"polite": "muzukashii tokoro desu ne",
+"en": "that's a tough one",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"難しいところ",
+"難しいとこ"
+],
+"key": "c-opine",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 13
+},
+{
+"ja": "〜って言う人もいるけど",
+"kana": "〜っていうひともいるけど",
+"romaji": "...tte iu hito mo iru kedo",
+"polite": "...to iu hito mo imasu kedo",
+"en": "some people say ..., but",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"って言う人もいる",
+"という人もいる"
+],
+"key": "c-opine",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 9
+},
+{
+"ja": "国によって違うよね",
+"kana": "くにによってちがうよね",
+"romaji": "kuni ni yotte chigau yo ne",
+"polite": "kuni ni yotte chigaimasu yo ne",
+"en": "it differs from country to country, doesn't it",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"国によって違う"
+],
+"key": "c-opine",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 0
+},
+{
+"ja": "〜と比べてどう？",
+"kana": "〜とくらべてどう？",
+"romaji": "...to kurabete dou?",
+"polite": "...to kurabete dou desu ka?",
+"en": "how does it compare with ...?",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"と比べてどう",
+"と比べて"
+],
+"key": "c-opine",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 38
+},
+{
+"ja": "そんなに変わらない",
+"kana": "そんなにかわらない",
+"romaji": "sonna ni kawaranai",
+"polite": "sonna ni kawaranai desu",
+"en": "it's not that different",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"そんなに変わらない",
+"あんまり変わらない"
+],
+"key": "c-opine",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 4
+},
+{
+"ja": "〜に似てる",
+"kana": "〜ににてる",
+"romaji": "...ni niteru",
+"polite": "...ni nite imasu",
+"en": "it's like ...; it's similar to ...",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"に似てる",
+"に似てます"
+],
+"key": "c-opine",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 185
+},
+{
+"ja": "当たり外れがある",
+"kana": "あたりはずれがある",
+"romaji": "atari hazure ga aru",
+"polite": "atari hazure ga arimasu",
+"en": "it's hit and miss",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"当たり外れ",
+"当たりはずれ"
+],
+"key": "c-opine",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 0
+},
+{
+"ja": "〜の割には",
+"kana": "〜のわりには",
+"romaji": "...no wari ni wa",
+"polite": null,
+"en": "for ...; considering ... (good for the price)",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"の割には",
+"のわりには"
+],
+"key": "c-opine",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 23
+},
+{
+"ja": "〜ところが好き",
+"kana": "〜ところがすき",
+"romaji": "...tokoro ga suki",
+"polite": "...tokoro ga suki desu",
+"en": "I like how ...; what I like is ...",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"ところが好き",
+"とこが好き"
+],
+"key": "c-opine",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 18
+},
+{
+"ja": "一概には言えない",
+"kana": "いちがいにはいえない",
+"romaji": "ichigai ni wa ienai",
+"polite": "ichigai ni wa iemasen",
+"en": "you can't really generalise",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"一概には言えない",
+"一概に"
+],
+"key": "c-opine",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 6
+},
+{
+"ja": "偏見かもしれないけど",
+"kana": "へんけんかもしれないけど",
+"romaji": "henken kamo shirenai kedo",
+"polite": "henken kamo shiremasen kedo",
+"en": "this might be a stereotype, but...",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"偏見かもしれない",
+"偏見かもだけど"
+],
+"key": "c-opine",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 0
+},
+{
+"ja": "私だったら〜",
+"kana": "わたしだったら〜",
+"romaji": "watashi dattara ...",
+"polite": null,
+"en": "if it were me, I'd ...",
+"move": "c-opine",
+"cv": 5,
+"surface": [
+"私だったら",
+"俺だったら",
+"僕だったら"
+],
+"key": "c-opine",
+"score": 5,
+"focus": true,
+"source": "conversation-hunt",
+"count": 129
+},
+{
+"ja": "そういう考え方もあるね",
+"kana": "そういうかんがえかたもあるね",
+"romaji": "sou iu kangaekata mo aru ne",
+"polite": "sou iu kangaekata mo arimasu ne",
+"en": "that's one way to look at it",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"そういう考え方もある",
+"考え方もある"
+],
+"key": "c-opine",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 2
+},
+{
+"ja": "〜ってイメージがある",
+"kana": "〜ってイメージがある",
+"romaji": "...tte imeeji ga aru",
+"polite": "...to iu imeeji ga arimasu",
+"en": "I picture it as ...; my impression is ...",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"ってイメージ",
+"というイメージ"
+],
+"key": "c-opine",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 0
+},
+{
+"ja": "イメージと違う",
+"kana": "イメージとちがう",
+"romaji": "imeeji to chigau",
+"polite": "imeeji to chigaimasu",
+"en": "it's not what I imagined",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"イメージと違う",
+"イメージと違った"
+],
+"key": "c-opine",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 0
+},
+{
+"ja": "実際どうなの？",
+"kana": "じっさいどうなの？",
+"romaji": "jissai dou na no?",
+"polite": "jissai dou na n desu ka?",
+"en": "what's it really like?",
+"move": "c-opine",
+"cv": 5,
+"surface": [
+"実際どうなの",
+"実際どう"
+],
+"key": "c-opine",
+"score": 5,
+"focus": true,
+"source": "conversation-hunt",
+"count": 9
+},
+{
+"ja": "住みやすい？",
+"kana": "すみやすい？",
+"romaji": "sumiyasui?",
+"polite": "sumiyasui desu ka?",
+"en": "is it a nice place to live?",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"住みやすい"
+],
+"key": "c-opine",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 4
+},
+{
+"ja": "何が一番違う？",
+"kana": "なにがいちばんちがう？",
+"romaji": "nani ga ichiban chigau?",
+"polite": "nani ga ichiban chigaimasu ka?",
+"en": "what's the biggest difference?",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"一番違う"
+],
+"key": "c-opine",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 0
+},
+{
+"ja": "やっぱり〜が一番",
+"kana": "やっぱり〜がいちばん",
+"romaji": "yappari ... ga ichiban",
+"polite": "yappari ... ga ichiban desu ne",
+"en": "you can't beat ...; ... is the best after all",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"が一番だね",
+"が一番だよね"
+],
+"key": "c-opine",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 4
+},
+{
+"ja": "見て損はない",
+"kana": "みてそんはない",
+"romaji": "mite son wa nai",
+"polite": "mite son wa nai desu yo",
+"en": "it's worth a watch",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"見て損はない",
+"損はない"
+],
+"key": "c-opine",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 21
+},
+{
+"ja": "感想は？",
+"kana": "かんそうは？",
+"romaji": "kansou wa?",
+"polite": "kansou wa dou desu ka?",
+"en": "so what did you think of it?",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"感想は"
+],
+"key": "c-opine",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 67
+},
+{
+"ja": "あのニュース見た？",
+"kana": "あのニュースみた？",
+"romaji": "ano nyuusu mita?",
+"polite": "ano nyuusu mimashita ka?",
+"en": "did you see that news?",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"ニュース見た"
+],
+"key": "c-opine",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 7
+},
+{
+"ja": "いまいち",
+"kana": "いまいち",
+"romaji": "imaichi",
+"polite": null,
+"en": "not quite there; a bit lacking",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"いまいち",
+"イマイチ"
+],
+"key": "c-opine",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 76
+},
+{
+"ja": "言いたいことは分かる",
+"kana": "いいたいことはわかる",
+"romaji": "iitai koto wa wakaru",
+"polite": "iitai koto wa wakarimasu",
+"en": "I see what you're getting at (but...)",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"言いたいことは分かる",
+"言いたいことはわかる"
+],
+"key": "c-opine",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 23
+},
+{
+"ja": "〜はどうかと思う",
+"kana": "〜はどうかとおもう",
+"romaji": "...wa dou ka to omou",
+"polite": "...wa dou ka to omoimasu",
+"en": "I'm not so sure about ...; I have my doubts about ...",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"どうかと思う"
+],
+"key": "c-opine",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 12
+},
+{
+"ja": "私には合わなかった",
+"kana": "わたしにはあわなかった",
+"romaji": "watashi ni wa awanakatta",
+"polite": "watashi ni wa awanakatta desu",
+"en": "it wasn't for me",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"合わなかった",
+"には合わない"
+],
+"key": "c-opine",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 133
+},
+{
+"ja": "最近忙しい？",
+"kana": "さいきんいそがしい？",
+"romaji": "saikin isogashii?",
+"polite": "saikin isogashii desu ka?",
+"en": "been busy lately?",
+"move": "c-catchup",
+"cv": 5,
+"surface": [
+"最近忙しい"
+],
+"key": "c-catchup",
+"score": 5,
+"focus": true,
+"source": "conversation-hunt",
+"count": 1
+},
+{
+"ja": "特に何もないよ",
+"kana": "とくになにもないよ",
+"romaji": "toku ni nanimo nai yo",
+"polite": "toku ni nanimo nai desu",
+"en": "nothing much, really",
+"move": "c-catchup",
+"cv": 5,
+"surface": [
+"特に何もない",
+"特になんもない"
+],
+"key": "c-catchup",
+"score": 5,
+"focus": true,
+"source": "conversation-hunt",
+"count": 6
+},
+{
+"ja": "調子どう？",
+"kana": "ちょうしどう？",
+"romaji": "choushi dou?",
+"polite": "choushi wa dou desu ka?",
+"en": "how are you doing? how's it going?",
+"move": "c-catchup",
+"cv": 5,
+"surface": [
+"調子どう",
+"調子はどう"
+],
+"key": "c-catchup",
+"score": 5,
+"focus": true,
+"source": "conversation-hunt",
+"count": 523
+},
+{
+"ja": "連休どこか行った？",
+"kana": "れんきゅうどこかいった？",
+"romaji": "renkyuu dokoka itta?",
+"polite": "renkyuu wa dokoka ikimashita ka?",
+"en": "go anywhere over the long weekend?",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"連休どこか行った",
+"連休どっか行った"
+],
+"key": "c-catchup",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 0
+},
+{
+"ja": "週末ゆっくりできた？",
+"kana": "しゅうまつゆっくりできた？",
+"romaji": "shuumatsu yukkuri dekita?",
+"polite": "shuumatsu wa yukkuri dekimashita ka?",
+"en": "did you get to relax on the weekend?",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"ゆっくりできた"
+],
+"key": "c-catchup",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 0
+},
+{
+"ja": "特に予定ない",
+"kana": "とくによていない",
+"romaji": "toku ni yotei nai",
+"polite": "toku ni yotei wa nai desu",
+"en": "no plans, really",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"特に予定ない",
+"特に予定はない"
+],
+"key": "c-catchup",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 0
+},
+{
+"ja": "早く週末にならないかな",
+"kana": "はやくしゅうまつにならないかな",
+"romaji": "hayaku shuumatsu ni naranai kana",
+"polite": null,
+"en": "can't wait for the weekend",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"早く週末にならない",
+"週末にならないかな"
+],
+"key": "c-catchup",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 0
+},
+{
+"ja": "蒸し暑いね",
+"kana": "むしあついね",
+"romaji": "mushiatsui ne",
+"polite": "mushiatsui desu ne",
+"en": "so humid, huh",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"蒸し暑い"
+],
+"key": "c-catchup",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 8
+},
+{
+"ja": "雨ばっかりだね",
+"kana": "あめばっかりだね",
+"romaji": "ame bakkari da ne",
+"polite": "ame bakari desu ne",
+"en": "it's been nothing but rain, huh",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"雨ばっかり",
+"雨ばかり"
+],
+"key": "c-catchup",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 0
+},
+{
+"ja": "寒暖差すごいね",
+"kana": "かんだんさすごいね",
+"romaji": "kandansa sugoi ne",
+"polite": "kandansa ga sugoi desu ne",
+"en": "the temperature's been all over the place",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"寒暖差"
+],
+"key": "c-catchup",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 1
+},
+{
+"ja": "今年もあと少しだね",
+"kana": "ことしもあとすこしだね",
+"romaji": "kotoshi mo ato sukoshi da ne",
+"polite": "kotoshi mo ato sukoshi desu ne",
+"en": "the year's almost over, huh",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"今年もあと少し",
+"今年もあとちょっと"
+],
+"key": "c-catchup",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 0
+},
+{
+"ja": "お正月は帰るの？",
+"kana": "おしょうがつはかえるの？",
+"romaji": "oshougatsu wa kaeru no?",
+"polite": "oshougatsu wa kaerareru n desu ka?",
+"en": "going home for New Year?",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"正月は帰る",
+"正月帰る"
+],
+"key": "c-catchup",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 0
+},
+{
+"ja": "花粉症ある？",
+"kana": "かふんしょうある？",
+"romaji": "kafunshou aru?",
+"polite": "kafunshou wa arimasu ka?",
+"en": "do you get hay fever?",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"花粉症"
+],
+"key": "c-catchup",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 5
+},
+{
+"ja": "何か変わったことあった？",
+"kana": "なにかかわったことあった？",
+"romaji": "nanika kawatta koto atta?",
+"polite": "nanika kawatta koto arimashita ka?",
+"en": "anything new with you?",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"変わったことあった",
+"変わったこと"
+],
+"key": "c-catchup",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 40
+},
+{
+"ja": "前に言ってた〜、どうなった？",
+"kana": "まえにいってた〜、どうなった？",
+"romaji": "mae ni itteta ..., dou natta?",
+"polite": "mae ni itte ita ..., dou narimashita ka?",
+"en": "how did that ... you mentioned turn out?",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"前に言ってた",
+"あれどうなった"
+],
+"key": "c-catchup",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 12
+},
+{
+"ja": "痩せた？",
+"kana": "やせた？",
+"romaji": "yaseta?",
+"polite": "yasemashita ka?",
+"en": "have you lost weight?",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"痩せた",
+"やせた？"
+],
+"key": "c-catchup",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 64
+},
+{
+"ja": "最近ちょっと太っちゃった",
+"kana": "さいきんちょっとふとっちゃった",
+"romaji": "saikin chotto futotchatta",
+"polite": "saikin chotto futotte shimaimashita",
+"en": "I've put on a bit of weight lately",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"太っちゃった",
+"太った"
+],
+"key": "c-catchup",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 167
+},
+{
+"ja": "最近ちょっと疲れ気味",
+"kana": "さいきんちょっとつかれぎみ",
+"romaji": "saikin chotto tsukaregimi",
+"polite": "saikin chotto tsukaregimi desu",
+"en": "I've been a bit worn out lately",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"疲れ気味"
+],
+"key": "c-catchup",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 2
+},
+{
+"ja": "ちょっと寝不足",
+"kana": "ちょっとねぶそく",
+"romaji": "chotto nebusoku",
+"polite": "chotto nebusoku desu",
+"en": "I haven't been getting enough sleep",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"寝不足"
+],
+"key": "c-catchup",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 15
+},
+{
+"ja": "やっと落ち着いた",
+"kana": "やっとおちついた",
+"romaji": "yatto ochitsuita",
+"polite": "yatto ochitsukimashita",
+"en": "things have finally settled down",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"やっと落ち着いた",
+"落ち着いた"
+],
+"key": "c-catchup",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 160
+},
+{
+"ja": "久しぶりに〜した",
+"kana": "ひさしぶりに〜した",
+"romaji": "hisashiburi ni ... shita",
+"polite": "hisashiburi ni ... shimashita",
+"en": "I ... for the first time in ages",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"久しぶりに"
+],
+"key": "c-catchup",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 80
+},
+{
+"ja": "引っ越したんだ",
+"kana": "ひっこしたんだ",
+"romaji": "hikkoshita n da",
+"polite": "hikkoshita n desu",
+"en": "I moved house",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"引っ越した"
+],
+"key": "c-catchup",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 101
+},
+{
+"ja": "転職したんだ",
+"kana": "てんしょくしたんだ",
+"romaji": "tenshoku shita n da",
+"polite": "tenshoku shita n desu",
+"en": "I changed jobs",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"転職した"
+],
+"key": "c-catchup",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 12
+},
+{
+"ja": "今日は休み？",
+"kana": "きょうはやすみ？",
+"romaji": "kyou wa yasumi?",
+"polite": "kyou wa oyasumi desu ka?",
+"en": "are you off today?",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"今日は休み",
+"今日休み"
+],
+"key": "c-catchup",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 27
+},
+{
+"ja": "ご飯食べた？",
+"kana": "ごはんたべた？",
+"romaji": "gohan tabeta?",
+"polite": "gohan tabemashita ka?",
+"en": "have you eaten? (a caring check-in)",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"ご飯食べた",
+"ごはん食べた"
+],
+"key": "c-catchup",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 8
+},
+{
+"ja": "残業多い？",
+"kana": "ざんぎょうおおい？",
+"romaji": "zangyou ooi?",
+"polite": "zangyou wa ooi desu ka?",
+"en": "do you do a lot of overtime?",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"残業多い",
+"残業が多い"
+],
+"key": "c-catchup",
+"score": 4,
+"focus": true,
+"source": "conversation-hunt",
+"count": 0
+}
+]

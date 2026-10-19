@@ -283,3 +283,25 @@ python3 collect_written.py && python3 merge.py            # written/ + review re
 ../collocations-build/.venv/bin/python checks.py          # flags.json
 ../collocations-build/.venv/bin/python conj_tag.py        # corpus-tails.tsv (needs the subtitle corpus), then conj_forms.py
 ```
+
+### Conversation pass (2026-10-19)
+
+The first version ranked by how common things are in general, which put shopping, eating out and staff phrases near the
+front. The learner's goal is to sustain casual conversation, with small talk, getting to know someone and saying what you
+think above everything else, so all four lists were re-ordered around that:
+
+- Every entry has `cv` (conversational value, 1-5, judged) and `focus` (it serves small talk, getting to know someone or
+  trading opinions). Chunks are staged by tier: Stage 1 is focus chunks and cv 3.5+, then 3.0+, then 2.5+. Core words below
+  that go to a last stage, **Errands, chores and formal**; sets and conjugations just learn that tier last.
+- The phrase list became **Conversation phrases**, organised by the moves of a conversation: getting to know you, likes and
+  free time, what do you think, small talk, then reacting, asking and following up, agreeing and disagreeing, telling what
+  happened, feelings, plans, clarifying, teasing, changing the subject, greetings between friends. 349 new phrases came from
+  three hunts for those moves (where you're from, what you do, why Japan, hobbies, food, "dou omou?" ...), written, reviewed
+  once and chunked by move. The shopping, restaurant and staff phrases are kept, in a last stage, **Errands and service**.
+  765 phrases in all.
+- Hand edits: the numbers 0-10 and people counts are marked focus (age, family size and "how long have you been here" need them).
+
+Built by `conversation-workflow.js` (5 cv judges, 2 phrase hunters), `focus-workflow.js` (3 focus judges, 1 hunter for the
+top-tier moves), the writers in `write-workflow.js`, and `chunk-workflow.js` (chunkers per group of moves plus reviewers of
+the new phrases). Code: `cv_merge.py` (scores -> `cv.json`, hunted phrases -> `hunted.json` + writer batches; run once,
+it keeps the hunt unless given `--rehunt`), `chunk_batches.py`, `chunk_merge.py`, then `merge.py` as before.

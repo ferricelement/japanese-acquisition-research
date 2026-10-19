@@ -1,0 +1,318 @@
+{
+"chunk:1": {
+"chunks": [
+{
+"move": "c-errands",
+"label": "Asking and declining politely",
+"rationale": "Ask if something is okay, offer something, ask a favour or turn an offer down in any polite setting.",
+"interference": "Kekkou desu usually means no thanks rather than great, and yoroshii desu ka is just a politer ii desu ka.",
+"members": [
+"p-ii-desu-ka",
+"p-kekkou-desu",
+"p-ikaga-desu-ka",
+"p-onegai-dekimasu-ka",
+"p-yoroshii-desu-ka"
+],
+"stage": 1
+},
+{
+"move": "c-errands",
+"label": "Eating out with friends",
+"rationale": "Get a meal or drinks with friends going, from the first beer to splitting the bill.",
+"interference": "Okawari (a refill) and okaikei (the bill) both start with o-ka and get swapped.",
+"members": [
+"p-toriaezu-biiru",
+"p-okawari",
+"p-okaikei-onegai-shimasu",
+"p-betsubetsu-de-onegai-shimasu",
+"p-chuumon-ii-desu-ka"
+],
+"stage": 2
+},
+{
+"move": "c-errands",
+"label": "Ordering food",
+"rationale": "Pick dishes, ask what's good, get water and say you're done ordering.",
+"interference": "Ijou desu (that's all) is easy to mix with ii desu (no thanks).",
+"members": [
+"p-kore-kudasai",
+"p-kore-ni-shimasu",
+"p-osusume-wa-nan-desu-ka",
+"p-omizu-kudasai",
+"p-ijou-desu"
+],
+"stage": 2
+},
+{
+"move": "c-errands",
+"label": "Table or takeaway",
+"rationale": "Say how many you are, whether you're eating in or taking it away, and ask for a bigger portion.",
+"interference": "Tennai de (eat in) and mochikaeri de (take away) are easy to swap.",
+"members": [
+"p-futari-desu",
+"p-tennai-de",
+"p-mochikaeri-de",
+"p-oomori-de"
+],
+"stage": 2
+},
+{
+"move": "c-errands",
+"label": "Paying at the till",
+"rationale": "Ask the price, check card and tax, and get a receipt when you pay.",
+"interference": "Ryoushuusho is the formal receipt for expenses, not the till slip reshiito.",
+"members": [
+"p-ikura-desu-ka",
+"p-kaado-tsukaemasu-ka",
+"p-kaado-de-onegai-shimasu",
+"p-zeikomi-desu-ka",
+"p-ryoushuusho-onegai-shimasu"
+],
+"stage": 2
+},
+{
+"move": "c-errands",
+"label": "Finding your way",
+"rationale": "Ask for the toilet or directions, say you're lost, and tell a driver or crowd where you're getting off.",
+"interference": "Koko doko (where am I?) sounds close to koko de ii desu (here is fine), and orimasu is also the humble word for 'to be' at work.",
+"members": [
+"p-toire-wa-doko-desu-ka",
+"p-dou-ikeba-ii-desu-ka",
+"p-michi-ni-mayotta",
+"p-koko-doko",
+"p-koko-de-ii-desu",
+"p-orimasu"
+],
+"stage": 2
+},
+{
+"move": "c-errands",
+"label": "Emergencies",
+"rationale": "Shout about an earthquake, say where it hurts and call for help or an ambulance.",
+"interference": "None.",
+"members": [
+"p-jishin-da",
+"p-koko-ga-itai",
+"p-tasukete",
+"p-kyuukyuusha-o-yonde"
+],
+"stage": 2
+},
+{
+"move": "c-errands",
+"label": "Just browsing",
+"rationale": "Keep shop staff at bay, try things on and leave without buying.",
+"interference": "Chotto kangaemasu and ato de mata kimasu both usually mean no sale, not a real promise to come back.",
+"members": [
+"p-miteru-dake-desu",
+"p-chotto-kangaemasu",
+"p-ato-de-mata-kimasu",
+"p-shichaku-shite-mo-ii-desu-ka"
+],
+"stage": 2
+},
+{
+"move": "c-errands",
+"label": "Bags and wrapping",
+"rationale": "Accept or refuse a bag or receipt and say whether it needs gift wrapping.",
+"interference": "Daijoubu desu here means no thanks, so fukuro wa daijoubu desu turns the bag down.",
+"members": [
+"p-fukuro-wa-daijoubu-desu",
+"p-fukuro-onegai-shimasu",
+"p-reshiito-wa-daijoubu-desu",
+"p-kono-mama-de-ii-desu",
+"p-purezento-you-desu"
+],
+"stage": 2
+},
+{
+"move": "c-errands",
+"label": "Around the office",
+"rationale": "Greet coworkers, head home before others and come back from going out.",
+"interference": "Gokurousama goes to juniors or workers, so saying it to a senior instead of otsukaresama is rude.",
+"members": [
+"p-otsukaresama-desu",
+"p-osaki-ni-shitsurei-shimasu",
+"p-tadaima-modorimashita",
+"p-gokurousama-desu",
+"p-gokurousan"
+],
+"stage": 2
+},
+{
+"move": "c-errands",
+"label": "Staff making you wait",
+"rationale": "Understand staff saying certainly, one moment, coming, and here you are.",
+"interference": "Tadaima ukagaimasu (coming right away) is not tadaima, I'm home.",
+"members": [
+"p-kashikomarimashita",
+"p-shoushou-omachi-kudasai",
+"p-omatase-shimashita",
+"p-tadaima-ukagaimasu"
+],
+"stage": 2
+},
+{
+"move": "c-errands",
+"label": "Staff greetings",
+"rationale": "Recognise the welcome, take your time and come again lines staff say as you arrive and leave.",
+"interference": "Omachi shite orimashita (we were expecting you) gets mixed with omatase shimashita (sorry to keep you waiting).",
+"members": [
+"p-irasshaimase",
+"p-goyukkuri-douzo",
+"p-mata-okoshi-kudasai",
+"p-omachi-shite-orimashita",
+"p-okoshi"
+],
+"stage": 2
+},
+{
+"move": "c-errands",
+"label": "Getting seated",
+"rationale": "Answer the questions and directions staff give as they seat you.",
+"interference": "Kochira e douzo (this way) is easy to confuse with kochira no reji e douzo (this register).",
+"members": [
+"p-nanmeisama-desu-ka",
+"p-kochira-e-douzo",
+"p-osuki-na-seki-e-douzo",
+"p-goyoyaku-wa-sarete-imasu-ka"
+],
+"stage": 2
+},
+{
+"move": "c-errands",
+"label": "Staff taking your order",
+"rationale": "Follow the waiter asking if you're ready, what you'll drink, whether that's all and if they can clear plates.",
+"interference": "The two gochuumon questions differ only at the end: okimari (ready to order?) versus ijou de yoroshii (is that all?).",
+"members": [
+"p-gochuumon-wa-okimari-desu-ka",
+"p-onomimono-wa-ikaga-nasaimasu-ka",
+"p-gochuumon-wa-ijou-de-yoroshii-desu-ka",
+"p-osage-shite-mo-yoroshii-desu-ka",
+"p-gochuumon"
+],
+"stage": 3
+},
+{
+"move": "c-errands",
+"label": "Convenience store questions",
+"rationale": "Answer the cashier's quick questions about heating, bags, chopsticks and points cards.",
+"interference": "Otsuke shimasu ka (shall I add one?) is easy to confuse with omochi desu ka (do you have one?).",
+"members": [
+"p-atatamemasu-ka",
+"p-fukuro-wa-otsuke-shimasu-ka",
+"p-ohashi-wa-otsuke-shimasu-ka",
+"p-pointo-kaado-wa-omochi-desu-ka",
+"p-shiiru-de-ii-desu-ka"
+],
+"stage": 3
+},
+{
+"move": "c-errands",
+"label": "Staff taking payment",
+"rationale": "Follow the cashier through payment method, money handed over, change and one bill or one payment.",
+"interference": "Goissho (one bill for the group) and ikkatsu (one card payment, no instalments) both sound like 'all at once'.",
+"members": [
+"p-oshiharai-wa-dou-saremasu-ka",
+"p-oazukari-shimasu",
+"p-okaeshi-desu",
+"p-goissho-de-yoroshii-desu-ka",
+"p-ikkatsu-de-yoroshii-desu-ka"
+],
+"stage": 3
+},
+{
+"move": "c-errands",
+"label": "At the counter",
+"rationale": "Respond when you're called up to the counter and asked if it's for here or to go.",
+"interference": "Omeshiagari (eating, honorific) hides the plain tennai de you answer with.",
+"members": [
+"p-tennai-de-omeshiagari-desu-ka",
+"p-omochikaeri-desu-ka",
+"p-tsugi-no-kata-douzo",
+"p-kochira-no-reji-e-douzo"
+],
+"stage": 3
+},
+{
+"move": "c-errands",
+"label": "Shop staff approaching",
+"rationale": "Recognise staff offering help or inviting you to look, so you can answer with miteru dake desu.",
+"interference": "Nanika osagashi (looking for something?) and nanika goyou (need anything?) are near twins.",
+"members": [
+"p-nanika-osagashi-desu-ka",
+"p-goran-kudasai",
+"p-nanika-goyou-desu-ka",
+"p-maido"
+],
+"stage": 3
+},
+{
+"move": "c-errands",
+"label": "Formal replies at work",
+"rationale": "Answer a request or instruction at work with understood, I'll check, I'll consider it or you're right.",
+"interference": "Kentou shimasu often means a polite no, unlike kakunin shimasu, which promises a real check.",
+"members": [
+"p-shouchi-shimashita",
+"p-kakunin-shimasu",
+"p-kentou-shimasu",
+"p-ossharu-toori-desu",
+"p-oyaku-ni-tateru"
+],
+"stage": 3
+},
+{
+"move": "c-errands",
+"label": "Asking favours formally",
+"rationale": "Open and soften a request to someone senior or a stranger in a formal setting.",
+"interference": "Osoreirimasu works as both thanks and excuse me, much like sumimasen.",
+"members": [
+"p-onegai-itashimasu",
+"p-oisogashii-tokoro-sumimasen",
+"p-otesuu-desu-ga",
+"p-osoreirimasu"
+],
+"stage": 3
+},
+{
+"move": "c-errands",
+"label": "Formal apologies",
+"rationale": "Apologise seriously at work or to a customer for a mistake or trouble caused.",
+"interference": "Moushiwake arimasen and gozaimasen are the same apology; gozaimasen is the politer staff form.",
+"members": [
+"p-moushiwake-arimasen",
+"p-gomeiwaku-o-okake-shimashita",
+"p-moushiwake-gozaimasen"
+],
+"stage": 3
+},
+{
+"move": "c-errands",
+"label": "Business phone calls",
+"rationale": "Open a business call, ask who's calling and promise to call back.",
+"interference": "Orikaeshi (call back) sounds like okaeshi (your change).",
+"members": [
+"p-itsumo-arigatou-gozaimasu",
+"p-osewa-ni-natte-orimasu",
+"p-odenwa-arigatou-gozaimasu",
+"p-dochira-sama-desu-ka",
+"p-orikaeshi-odenwa-shimasu"
+],
+"stage": 3
+},
+{
+"move": "c-errands",
+"label": "At the clinic desk",
+"rationale": "Follow reception at a clinic or office asking what's wrong, your name and your insurance card.",
+"interference": "Okake kudasai (have a seat) is easy to mix with omachi kudasai (please wait).",
+"members": [
+"p-kyou-wa-dou-saremashita-ka",
+"p-onamae-o-ukagatte-mo-yoroshii-desu-ka",
+"p-hokenshou-o-onegai-shimasu",
+"p-okake-kudasai"
+],
+"stage": 3
+}
+]
+}
+}

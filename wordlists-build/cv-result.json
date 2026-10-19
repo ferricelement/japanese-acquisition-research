@@ -1,0 +1,12107 @@
+{
+"cv:core-2": {
+"items": [
+{
+"id": "w-mikata",
+"cv": 3
+},
+{
+"id": "w-yuujin",
+"cv": 2
+},
+{
+"id": "w-shinyuu",
+"cv": 4
+},
+{
+"id": "w-raibaru",
+"cv": 3
+},
+{
+"id": "w-isshun",
+"cv": 4
+},
+{
+"id": "w-imagoro",
+"cv": 3
+},
+{
+"id": "w-sakihodo",
+"cv": 2
+},
+{
+"id": "w-imadoki",
+"cv": 3
+},
+{
+"id": "w-inochi",
+"cv": 2
+},
+{
+"id": "w-hikari",
+"cv": 2
+},
+{
+"id": "w-tazuneru",
+"cv": 2
+},
+{
+"id": "w-fune",
+"cv": 2
+},
+{
+"id": "w-honki",
+"cv": 5
+},
+{
+"id": "w-taido",
+"cv": 3
+},
+{
+"id": "w-yuuki",
+"cv": 3
+},
+{
+"id": "w-zenryoku",
+"cv": 3
+},
+{
+"id": "w-puraido",
+"cv": 3
+},
+{
+"id": "w-shokku",
+"cv": 4
+},
+{
+"id": "w-jigoku",
+"cv": 4
+},
+{
+"id": "w-omoi-o-suru",
+"cv": 3
+},
+{
+"id": "w-genin",
+"cv": 3
+},
+{
+"id": "w-kikkake",
+"cv": 4
+},
+{
+"id": "w-eikyou",
+"cv": 3
+},
+{
+"id": "w-kouka",
+"cv": 3
+},
+{
+"id": "w-imeeji",
+"cv": 4
+},
+{
+"id": "w-koudou",
+"cv": 2
+},
+{
+"id": "w-atsukai",
+"cv": 3
+},
+{
+"id": "w-nazo",
+"cv": 4
+},
+{
+"id": "w-shigeki",
+"cv": 3
+},
+{
+"id": "w-genkai",
+"cv": 4
+},
+{
+"id": "w-gomeiwaku",
+"cv": 2
+},
+{
+"id": "w-toraburu",
+"cv": 3
+},
+{
+"id": "w-futan",
+"cv": 2
+},
+{
+"id": "w-kihon",
+"cv": 4
+},
+{
+"id": "w-jouken",
+"cv": 2
+},
+{
+"id": "w-naiyou",
+"cv": 3
+},
+{
+"id": "w-kouho",
+"cv": 2
+},
+{
+"id": "w-iken",
+"cv": 2
+},
+{
+"id": "w-tachiba",
+"cv": 3
+},
+{
+"id": "w-iiwake",
+"cv": 3
+},
+{
+"id": "w-adobaisu",
+"cv": 3
+},
+{
+"id": "w-henji",
+"cv": 3
+},
+{
+"id": "w-henshin",
+"cv": 3
+},
+{
+"id": "w-hannou",
+"cv": 3
+},
+{
+"id": "w-kinjo",
+"cv": 3
+},
+{
+"id": "w-manshon",
+"cv": 3
+},
+{
+"id": "w-jitaku",
+"cv": 2
+},
+{
+"id": "w-otaku",
+"cv": 2
+},
+{
+"id": "w-koukou",
+"cv": 4
+},
+{
+"id": "w-shougakkou",
+"cv": 3
+},
+{
+"id": "w-chuugaku",
+"cv": 4
+},
+{
+"id": "w-kyoushitsu",
+"cv": 3
+},
+{
+"id": "w-omise",
+"cv": 3
+},
+{
+"id": "w-konbini",
+"cv": 3
+},
+{
+"id": "w-suupaa",
+"cv": 2
+},
+{
+"id": "w-kouen",
+"cv": 3
+},
+{
+"id": "w-purezento",
+"cv": 3
+},
+{
+"id": "w-okaeshi",
+"cv": 2
+},
+{
+"id": "w-tegami",
+"cv": 2
+},
+{
+"id": "w-gohan",
+"cv": 4
+},
+{
+"id": "w-shokuji",
+"cv": 2
+},
+{
+"id": "w-meshi",
+"cv": 4
+},
+{
+"id": "w-tabemono",
+"cv": 3
+},
+{
+"id": "w-nomimono",
+"cv": 2
+},
+{
+"id": "w-shiryou",
+"cv": 2
+},
+{
+"id": "w-happyou",
+"cv": 2
+},
+{
+"id": "w-shiji",
+"cv": 2
+},
+{
+"id": "w-deeta",
+"cv": 2
+},
+{
+"id": "w-kurasu",
+"cv": 3
+},
+{
+"id": "w-sotsugyou-suru",
+"cv": 3
+},
+{
+"id": "w-bu",
+"cv": 3
+},
+{
+"id": "w-shikaku",
+"cv": 2
+},
+{
+"id": "w-chiimu",
+"cv": 3
+},
+{
+"id": "w-genba",
+"cv": 2
+},
+{
+"id": "w-puro",
+"cv": 3
+},
+{
+"id": "w-jimusho",
+"cv": 2
+},
+{
+"id": "w-shokuba",
+"cv": 3
+},
+{
+"id": "w-choushi",
+"cv": 4
+},
+{
+"id": "w-netsu",
+"cv": 3
+},
+{
+"id": "w-kaze",
+"cv": 3
+},
+{
+"id": "w-guai",
+"cv": 3
+},
+{
+"id": "w-nebusoku",
+"cv": 4
+},
+{
+"id": "w-jiken",
+"cv": 3
+},
+{
+"id": "w-yo-no-naka",
+"cv": 3
+},
+{
+"id": "w-shakai",
+"cv": 3
+},
+{
+"id": "w-masukomi",
+"cv": 2
+},
+{
+"id": "w-kyoka",
+"cv": 2
+},
+{
+"id": "w-ruuru",
+"cv": 3
+},
+{
+"id": "w-kinshi",
+"cv": 2
+},
+{
+"id": "w-kenri",
+"cv": 2
+},
+{
+"id": "w-deeto",
+"cv": 4
+},
+{
+"id": "w-nomikai",
+"cv": 4
+},
+{
+"id": "w-paatii",
+"cv": 3
+},
+{
+"id": "w-baa",
+"cv": 2
+},
+{
+"id": "w-meeru",
+"cv": 3
+},
+{
+"id": "w-netto",
+"cv": 3
+},
+{
+"id": "w-messeeji",
+"cv": 3
+},
+{
+"id": "w-tsuuhan",
+"cv": 2
+},
+{
+"id": "w-shumi",
+"cv": 4
+},
+{
+"id": "w-dorama",
+"cv": 4
+},
+{
+"id": "w-bangumi",
+"cv": 3
+},
+{
+"id": "w-fan",
+"cv": 4
+},
+{
+"id": "w-sakuhin",
+"cv": 3
+},
+{
+"id": "w-hanbun",
+"cv": 3
+},
+{
+"id": "w-nokori",
+"cv": 2
+},
+{
+"id": "w-ichibu",
+"cv": 2
+},
+{
+"id": "w-bubun",
+"cv": 3
+},
+{
+"id": "w-ryouhou",
+"cv": 3
+},
+{
+"id": "w-sorezore",
+"cv": 2
+},
+{
+"id": "w-subete",
+"cv": 2
+},
+{
+"id": "w-nanimo-kamo",
+"cv": 3
+},
+{
+"id": "w-zentai",
+"cv": 2
+},
+{
+"id": "w-rei-no",
+"cv": 4
+},
+{
+"id": "w-mane-suru",
+"cv": 3
+},
+{
+"id": "w-ikioi",
+"cv": 3
+},
+{
+"id": "w-oni",
+"cv": 3
+},
+{
+"id": "w-mendokusai",
+"cv": 5
+},
+{
+"id": "w-tsurai",
+"cv": 5
+},
+{
+"id": "w-kitsui",
+"cv": 4
+},
+{
+"id": "w-shindoi",
+"cv": 4
+},
+{
+"id": "w-kurushii",
+"cv": 3
+},
+{
+"id": "w-majime",
+"cv": 4
+},
+{
+"id": "w-tekitou",
+"cv": 4
+},
+{
+"id": "w-shinken",
+"cv": 3
+},
+{
+"id": "w-iikagen",
+"cv": 3
+},
+{
+"id": "w-kawatteru",
+"cv": 4
+},
+{
+"id": "w-sunao",
+"cv": 3
+},
+{
+"id": "w-otonashii",
+"cv": 3
+},
+{
+"id": "w-shitsukoi",
+"cv": 3
+},
+{
+"id": "w-erasou",
+"cv": 3
+},
+{
+"id": "w-oogesa",
+"cv": 4
+},
+{
+"id": "w-namaiki",
+"cv": 3
+},
+{
+"id": "w-gouin",
+"cv": 3
+},
+{
+"id": "w-buji",
+"cv": 3
+},
+{
+"id": "w-kiken",
+"cv": 2
+},
+{
+"id": "w-anzen",
+"cv": 2
+},
+{
+"id": "w-junchou",
+"cv": 3
+},
+{
+"id": "w-jama",
+"cv": 3
+},
+{
+"id": "w-raku",
+"cv": 4
+},
+{
+"id": "w-choudo-ii",
+"cv": 3
+},
+{
+"id": "w-benri",
+"cv": 3
+},
+{
+"id": "w-urusai",
+"cv": 4
+},
+{
+"id": "w-shizuka",
+"cv": 3
+},
+{
+"id": "w-akarui",
+"cv": 3
+},
+{
+"id": "w-kitanai",
+"cv": 3
+},
+{
+"id": "w-kusai",
+"cv": 3
+},
+{
+"id": "w-atarimae",
+"cv": 4
+},
+{
+"id": "w-tadashii",
+"cv": 3
+},
+{
+"id": "w-kakujitsu",
+"cv": 2
+},
+{
+"id": "w-matomo",
+"cv": 3
+},
+{
+"id": "w-akiraka",
+"cv": 3
+},
+{
+"id": "w-muda",
+"cv": 3
+},
+{
+"id": "w-mottainai",
+"cv": 4
+},
+{
+"id": "w-imi-nai",
+"cv": 4
+},
+{
+"id": "w-dou-shiyou-mo-nai",
+"cv": 3
+},
+{
+"id": "w-aikawarazu",
+"cv": 4
+},
+{
+"id": "w-motomoto",
+"cv": 4
+},
+{
+"id": "w-tokku-ni",
+"cv": 3
+},
+{
+"id": "w-imada-ni",
+"cv": 3
+},
+{
+"id": "w-nido-to",
+"cv": 3
+},
+{
+"id": "w-hisashiburi-ni",
+"cv": 4
+},
+{
+"id": "w-aratamete",
+"cv": 2
+},
+{
+"id": "w-ittan",
+"cv": 3
+},
+{
+"id": "w-hikitsuzuki",
+"cv": 2
+},
+{
+"id": "w-touzen",
+"cv": 3
+},
+{
+"id": "w-jissai",
+"cv": 4
+},
+{
+"id": "w-douyara",
+"cv": 3
+},
+{
+"id": "w-zannen-nagara",
+"cv": 2
+},
+{
+"id": "w-totsuzen",
+"cv": 3
+},
+{
+"id": "w-ikinari",
+"cv": 4
+},
+{
+"id": "w-itsu-no-ma-ni-ka",
+"cv": 4
+},
+{
+"id": "w-ikki-ni",
+"cv": 3
+},
+{
+"id": "w-naze",
+"cv": 2
+},
+{
+"id": "w-ittai",
+"cv": 3
+},
+{
+"id": "w-nandaka",
+"cv": 4
+},
+{
+"id": "w-nazeka",
+"cv": 4
+},
+{
+"id": "w-nantonaku",
+"cv": 5
+},
+{
+"id": "w-sono-uchi",
+"cv": 4
+},
+{
+"id": "w-itsu-made-mo",
+"cv": 3
+},
+{
+"id": "w-izure",
+"cv": 2
+},
+{
+"id": "w-ima-no-uchi",
+"cv": 3
+},
+{
+"id": "w-wazawaza",
+"cv": 4
+},
+{
+"id": "w-wazato",
+"cv": 3
+},
+{
+"id": "w-muriyari",
+"cv": 3
+},
+{
+"id": "w-aete",
+"cv": 3
+},
+{
+"id": "w-sassato",
+"cv": 3
+},
+{
+"id": "w-sassoku",
+"cv": 3
+},
+{
+"id": "w-douji",
+"cv": 2
+},
+{
+"id": "w-sono-ba",
+"cv": 3
+},
+{
+"id": "w-guuzen",
+"cv": 4
+},
+{
+"id": "w-tamatama",
+"cv": 4
+},
+{
+"id": "w-mangaichi",
+"cv": 2
+},
+{
+"id": "w-hyotto-shite",
+"cv": 3
+},
+{
+"id": "w-juubun",
+"cv": 3
+},
+{
+"id": "w-hobo",
+"cv": 4
+},
+{
+"id": "w-kanzen",
+"cv": 4
+},
+{
+"id": "w-tappuri",
+"cv": 2
+},
+{
+"id": "w-semete",
+"cv": 3
+},
+{
+"id": "w-sukunakutomo",
+"cv": 2
+},
+{
+"id": "w-kore-ijou",
+"cv": 3
+},
+{
+"id": "w-nani-yori",
+"cv": 3
+},
+{
+"id": "w-dondon",
+"cv": 3
+},
+{
+"id": "w-sukoshi-zutsu",
+"cv": 3
+},
+{
+"id": "w-masumasu",
+"cv": 2
+},
+{
+"id": "w-sara-ni",
+"cv": 2
+},
+{
+"id": "w-hikkosu",
+"cv": 3
+},
+{
+"id": "w-touchaku",
+"cv": 2
+},
+{
+"id": "w-idou-suru",
+"cv": 2
+},
+{
+"id": "w-shuppatsu-suru",
+"cv": 2
+},
+{
+"id": "w-yasumu",
+"cv": 4
+},
+{
+"id": "w-naoru",
+"cv": 3
+},
+{
+"id": "w-kaze-hiku",
+"cv": 3
+},
+{
+"id": "w-naosu",
+"cv": 2
+},
+{
+"id": "w-nureru",
+"cv": 3
+},
+{
+"id": "w-taoreru",
+"cv": 3
+},
+{
+"id": "w-korobu",
+"cv": 3
+},
+{
+"id": "w-butsukeru",
+"cv": 3
+},
+{
+"id": "w-suku",
+"cv": 4
+},
+{
+"id": "w-kawaku",
+"cv": 3
+},
+{
+"id": "w-nemuru",
+"cv": 3
+},
+{
+"id": "w-yopparau",
+"cv": 4
+},
+{
+"id": "w-kiru",
+"cv": 3
+},
+{
+"id": "w-niau",
+"cv": 4
+},
+{
+"id": "w-futoru",
+"cv": 4
+},
+{
+"id": "w-yaseru",
+"cv": 3
+},
+{
+"id": "w-katazukeru",
+"cv": 3
+},
+{
+"id": "w-shimau",
+"cv": 2
+},
+{
+"id": "w-seiri-suru",
+"cv": 2
+},
+{
+"id": "w-kazaru",
+"cv": 2
+},
+{
+"id": "w-aseru",
+"cv": 4
+},
+{
+"id": "w-awateru",
+"cv": 3
+},
+{
+"id": "w-bibiru",
+"cv": 4
+},
+{
+"id": "w-yudan-suru",
+"cv": 3
+},
+{
+"id": "w-kizuku",
+"cv": 4
+},
+{
+"id": "w-omoitsuku",
+"cv": 3
+},
+{
+"id": "w-yosou",
+"cv": 4
+},
+{
+"id": "w-omoikomu",
+"cv": 3
+},
+{
+"id": "w-daiji-ni-suru",
+"cv": 3
+},
+{
+"id": "w-taisetsu-ni-suru",
+"cv": 2
+},
+{
+"id": "w-sewa-ni-naru",
+"cv": 2
+},
+{
+"id": "w-fuzakeru",
+"cv": 3
+},
+{
+"id": "w-ukeru",
+"cv": 5
+},
+{
+"id": "w-waraeru",
+"cv": 4
+},
+{
+"id": "w-karakau",
+"cv": 3
+},
+{
+"id": "w-aku",
+"cv": 2
+},
+{
+"id": "w-shimaru",
+"cv": 2
+},
+{
+"id": "w-sutaato-suru",
+"cv": 2
+},
+{
+"id": "w-sutoppu",
+"cv": 2
+},
+{
+"id": "w-moto-ni-modoru",
+"cv": 3
+},
+{
+"id": "w-nobiru",
+"cv": 3
+},
+{
+"id": "w-nobasu",
+"cv": 3
+},
+{
+"id": "w-henka",
+"cv": 3
+},
+{
+"id": "w-riyou-suru",
+"cv": 2
+},
+{
+"id": "w-tsunagu",
+"cv": 2
+},
+{
+"id": "w-koukan-suru",
+"cv": 2
+},
+{
+"id": "w-appu-suru",
+"cv": 3
+},
+{
+"id": "w-atsumeru",
+"cv": 3
+},
+{
+"id": "w-sorou",
+"cv": 2
+},
+{
+"id": "w-wakeru",
+"cv": 2
+},
+{
+"id": "w-naraberu",
+"cv": 2
+},
+{
+"id": "w-tsumeru",
+"cv": 2
+},
+{
+"id": "w-harau",
+"cv": 2
+},
+{
+"id": "w-shiharau",
+"cv": 2
+},
+{
+"id": "w-tsuika-suru",
+"cv": 2
+},
+{
+"id": "w-fukumeru",
+"cv": 2
+},
+{
+"id": "w-chikoku-suru",
+"cv": 3
+},
+{
+"id": "w-saboru",
+"cv": 4
+},
+{
+"id": "w-tsutomeru",
+"cv": 2
+},
+{
+"id": "w-kenka-suru",
+"cv": 4
+},
+{
+"id": "w-momeru",
+"cv": 3
+},
+{
+"id": "w-ijimeru",
+"cv": 3
+},
+{
+"id": "w-teikou",
+"cv": 3
+},
+{
+"id": "w-joushi",
+"cv": 4
+},
+{
+"id": "w-shain",
+"cv": 2
+},
+{
+"id": "w-buka",
+"cv": 2
+},
+{
+"id": "w-douryou",
+"cv": 3
+},
+{
+"id": "w-kareshi",
+"cv": 4
+},
+{
+"id": "w-koibito",
+"cv": 3
+},
+{
+"id": "w-uwaki",
+"cv": 4
+},
+{
+"id": "w-furin",
+"cv": 3
+},
+{
+"id": "w-dokushin",
+"cv": 3
+},
+{
+"id": "w-daihyou",
+"cv": 2
+},
+{
+"id": "w-menbaa",
+"cv": 3
+},
+{
+"id": "w-guruupu",
+"cv": 3
+},
+{
+"id": "w-riidaa",
+"cv": 2
+},
+{
+"id": "w-gakusei",
+"cv": 3
+},
+{
+"id": "w-kouhai",
+"cv": 3
+},
+{
+"id": "w-seito",
+"cv": 2
+},
+{
+"id": "w-doukyuusei",
+"cv": 3
+},
+{
+"id": "w-bijin",
+"cv": 3
+},
+{
+"id": "w-ikemen",
+"cv": 4
+},
+{
+"id": "w-tensai",
+"cv": 4
+},
+{
+"id": "w-shirouto",
+"cv": 2
+},
+{
+"id": "w-okanemochi",
+"cv": 3
+},
+{
+"id": "w-dansei",
+"cv": 2
+},
+{
+"id": "w-joshi",
+"cv": 3
+},
+{
+"id": "w-danshi",
+"cv": 3
+},
+{
+"id": "w-ossan",
+"cv": 3
+},
+{
+"id": "w-akachan",
+"cv": 3
+},
+{
+"id": "w-toshiue",
+"cv": 3
+},
+{
+"id": "w-gaki",
+"cv": 3
+},
+{
+"id": "w-wakamono",
+"cv": 2
+},
+{
+"id": "w-shachou",
+"cv": 2
+},
+{
+"id": "w-buchou",
+"cv": 2
+},
+{
+"id": "w-tenchou",
+"cv": 2
+},
+{
+"id": "w-kachou",
+"cv": 2
+},
+{
+"id": "w-kantoku",
+"cv": 2
+},
+{
+"id": "w-shougakusei",
+"cv": 3
+},
+{
+"id": "w-chuugakusei",
+"cv": 3
+},
+{
+"id": "w-koukousei",
+"cv": 3
+},
+{
+"id": "w-daigakusei",
+"cv": 3
+},
+{
+"id": "w-genjitsu",
+"cv": 3
+},
+{
+"id": "w-kamisama",
+"cv": 3
+},
+{
+"id": "w-risou",
+"cv": 3
+},
+{
+"id": "w-kiseki",
+"cv": 3
+},
+{
+"id": "w-kioku",
+"cv": 3
+},
+{
+"id": "w-aru-hi",
+"cv": 3
+},
+{
+"id": "w-dekigoto",
+"cv": 2
+},
+{
+"id": "w-tochuu",
+"cv": 4
+},
+{
+"id": "w-zenkai",
+"cv": 3
+},
+{
+"id": "w-chokuzen",
+"cv": 3
+},
+{
+"id": "w-toujitsu",
+"cv": 2
+},
+{
+"id": "w-hatsu",
+"cv": 3
+},
+{
+"id": "w-shiki",
+"cv": 3
+},
+{
+"id": "w-kinen",
+"cv": 3
+},
+{
+"id": "w-kyoumi-nai",
+"cv": 4
+},
+{
+"id": "w-renai",
+"cv": 4
+},
+{
+"id": "w-konomi",
+"cv": 3
+},
+{
+"id": "w-shitto-suru",
+"cv": 3
+},
+{
+"id": "w-sainou",
+"cv": 3
+},
+{
+"id": "w-nouryoku",
+"cv": 2
+},
+{
+"id": "w-jitsuryoku",
+"cv": 2
+},
+{
+"id": "w-iwakan",
+"cv": 3
+},
+{
+"id": "w-ishiki",
+"cv": 2
+},
+{
+"id": "w-kanjou",
+"cv": 2
+},
+{
+"id": "w-kankaku",
+"cv": 3
+},
+{
+"id": "w-yokan",
+"cv": 3
+},
+{
+"id": "w-mokuteki",
+"cv": 2
+},
+{
+"id": "w-sakusen",
+"cv": 3
+},
+{
+"id": "w-mokuhyou",
+"cv": 3
+},
+{
+"id": "w-yuusen-suru",
+"cv": 3
+},
+{
+"id": "w-nagare",
+"cv": 4
+},
+{
+"id": "w-tenkai",
+"cv": 3
+},
+{
+"id": "w-ketsuron",
+"cv": 3
+},
+{
+"id": "w-dankai",
+"cv": 2
+},
+{
+"id": "w-oshaberi",
+"cv": 3
+},
+{
+"id": "w-kaiwa",
+"cv": 2
+},
+{
+"id": "w-neta",
+"cv": 4
+},
+{
+"id": "w-wadai",
+"cv": 3
+},
+{
+"id": "w-inaka",
+"cv": 3
+},
+{
+"id": "w-juusho",
+"cv": 2
+},
+{
+"id": "w-apaato",
+"cv": 2
+},
+{
+"id": "w-katei",
+"cv": 2
+},
+{
+"id": "w-jimoto",
+"cv": 4
+},
+{
+"id": "w-shusshin",
+"cv": 4
+},
+{
+"id": "w-jikoshoukai",
+"cv": 2
+},
+{
+"id": "w-renrakusaki",
+"cv": 2
+},
+{
+"id": "w-youchien",
+"cv": 2
+},
+{
+"id": "w-biru",
+"cv": 2
+},
+{
+"id": "w-kaidan",
+"cv": 2
+},
+{
+"id": "w-shisetsu",
+"cv": 2
+},
+{
+"id": "w-keitai",
+"cv": 3
+},
+{
+"id": "w-denwa-bangou",
+"cv": 2
+},
+{
+"id": "w-tokei",
+"cv": 2
+},
+{
+"id": "w-kamera",
+"cv": 2
+},
+{
+"id": "w-doa",
+"cv": 2
+},
+{
+"id": "w-mado",
+"cv": 2
+},
+{
+"id": "w-genkan",
+"cv": 2
+},
+{
+"id": "w-niwa",
+"cv": 2
+},
+{
+"id": "w-kagi",
+"cv": 2
+},
+{
+"id": "w-saifu",
+"cv": 2
+},
+{
+"id": "w-kasa",
+"cv": 2
+},
+{
+"id": "w-megane",
+"cv": 2
+},
+{
+"id": "w-wasuremono",
+"cv": 2
+},
+{
+"id": "w-niku",
+"cv": 3
+},
+{
+"id": "w-sakana",
+"cv": 3
+},
+{
+"id": "w-yasai",
+"cv": 3
+},
+{
+"id": "w-kudamono",
+"cv": 3
+},
+{
+"id": "w-ocha",
+"cv": 3
+},
+{
+"id": "w-koohii",
+"cv": 3
+},
+{
+"id": "w-omizu",
+"cv": 2
+},
+{
+"id": "w-oyu",
+"cv": 2
+},
+{
+"id": "w-pan",
+"cv": 3
+},
+{
+"id": "w-tamago",
+"cv": 3
+},
+{
+"id": "w-gyuunyuu",
+"cv": 2
+},
+{
+"id": "w-chiizu",
+"cv": 3
+},
+{
+"id": "w-shinjin",
+"cv": 3
+},
+{
+"id": "w-eigyou",
+"cv": 2
+},
+{
+"id": "w-shuushoku-suru",
+"cv": 3
+},
+{
+"id": "w-sutaffu",
+"cv": 2
+},
+{
+"id": "w-shoubai",
+"cv": 2
+},
+{
+"id": "w-sagyou",
+"cv": 2
+},
+{
+"id": "w-kikaku",
+"cv": 2
+},
+{
+"id": "w-hyouka",
+"cv": 2
+},
+{
+"id": "w-honban",
+"cv": 3
+},
+{
+"id": "w-jugyou",
+"cv": 3
+},
+{
+"id": "w-tesuto",
+"cv": 3
+},
+{
+"id": "w-shukudai",
+"cv": 3
+},
+{
+"id": "w-kumi",
+"cv": 2
+},
+{
+"id": "w-teishutsu-suru",
+"cv": 2
+},
+{
+"id": "w-kenkyuu",
+"cv": 2
+},
+{
+"id": "w-gijutsu",
+"cv": 2
+}
+]
+},
+"cv:core-3": {
+"items": [
+{
+"id": "w-senmon",
+"cv": 3
+},
+{
+"id": "w-shisutemu",
+"cv": 2
+},
+{
+"id": "w-kusuri",
+"cv": 3
+},
+{
+"id": "w-oishasan",
+"cv": 2
+},
+{
+"id": "w-kensa",
+"cv": 2
+},
+{
+"id": "w-chiryou",
+"cv": 2
+},
+{
+"id": "w-haisha",
+"cv": 2
+},
+{
+"id": "w-nyuuin-suru",
+"cv": 3
+},
+{
+"id": "w-taiin-suru",
+"cv": 2
+},
+{
+"id": "w-shujutsu",
+"cv": 2
+},
+{
+"id": "w-kaifuku-suru",
+"cv": 2
+},
+{
+"id": "w-ninshin-suru",
+"cv": 3
+},
+{
+"id": "w-kankyou",
+"cv": 3
+},
+{
+"id": "w-rekishi",
+"cv": 3
+},
+{
+"id": "w-kyouiku",
+"cv": 2
+},
+{
+"id": "w-oiwai",
+"cv": 3
+},
+{
+"id": "w-kekkonshiki",
+"cv": 3
+},
+{
+"id": "w-ibento",
+"cv": 3
+},
+{
+"id": "w-ryokou",
+"cv": 4
+},
+{
+"id": "w-nimotsu",
+"cv": 2
+},
+{
+"id": "w-omiyage",
+"cv": 3
+},
+{
+"id": "w-onsen",
+"cv": 3
+},
+{
+"id": "w-tabi",
+"cv": 2
+},
+{
+"id": "w-densha",
+"cv": 3
+},
+{
+"id": "w-basu",
+"cv": 2
+},
+{
+"id": "w-jitensha",
+"cv": 2
+},
+{
+"id": "w-takushii",
+"cv": 2
+},
+{
+"id": "w-shizen",
+"cv": 3
+},
+{
+"id": "w-kawa",
+"cv": 2
+},
+{
+"id": "w-doubutsu",
+"cv": 3
+},
+{
+"id": "w-sora",
+"cv": 2
+},
+{
+"id": "w-hoshi",
+"cv": 2
+},
+{
+"id": "w-sakura",
+"cv": 3
+},
+{
+"id": "w-keshiki",
+"cv": 3
+},
+{
+"id": "w-taipu",
+"cv": 4
+},
+{
+"id": "w-reberu",
+"cv": 3
+},
+{
+"id": "w-shurui",
+"cv": 2
+},
+{
+"id": "w-setto",
+"cv": 2
+},
+{
+"id": "w-ji",
+"cv": 2
+},
+{
+"id": "w-moji",
+"cv": 2
+},
+{
+"id": "w-suuji",
+"cv": 2
+},
+{
+"id": "w-kazu",
+"cv": 2
+},
+{
+"id": "w-sain",
+"cv": 2
+},
+{
+"id": "w-tsuzuki",
+"cv": 3
+},
+{
+"id": "w-oshimai",
+"cv": 2
+},
+{
+"id": "w-saishuu",
+"cv": 3
+},
+{
+"id": "w-renzoku",
+"cv": 3
+},
+{
+"id": "w-houkou",
+"cv": 2
+},
+{
+"id": "w-ichi",
+"cv": 1
+},
+{
+"id": "w-chuushin",
+"cv": 2
+},
+{
+"id": "w-toppu",
+"cv": 2
+},
+{
+"id": "w-saidai",
+"cv": 2
+},
+{
+"id": "w-tairyou",
+"cv": 2
+},
+{
+"id": "w-yuiitsu",
+"cv": 2
+},
+{
+"id": "w-kuyashii",
+"cv": 4
+},
+{
+"id": "w-urayamashii",
+"cv": 5
+},
+{
+"id": "w-nasakenai",
+"cv": 3
+},
+{
+"id": "w-oshii",
+"cv": 4
+},
+{
+"id": "w-daikirai",
+"cv": 4
+},
+{
+"id": "w-hisshi",
+"cv": 3
+},
+{
+"id": "w-muchuu",
+"cv": 3
+},
+{
+"id": "w-tamaranai",
+"cv": 3
+},
+{
+"id": "w-kakkoii",
+"cv": 4
+},
+{
+"id": "w-wakai",
+"cv": 4
+},
+{
+"id": "w-oshare",
+"cv": 4
+},
+{
+"id": "w-oniai",
+"cv": 3
+},
+{
+"id": "w-kibishii",
+"cv": 4
+},
+{
+"id": "w-wagamama",
+"cv": 3
+},
+{
+"id": "w-zurui",
+"cv": 5
+},
+{
+"id": "w-ijiwaru",
+"cv": 3
+},
+{
+"id": "w-reisei",
+"cv": 3
+},
+{
+"id": "w-shinchou",
+"cv": 2
+},
+{
+"id": "w-teinei",
+"cv": 2
+},
+{
+"id": "w-nesshin",
+"cv": 2
+},
+{
+"id": "w-yoroshii",
+"cv": 1
+},
+{
+"id": "w-seishiki",
+"cv": 2
+},
+{
+"id": "w-kanou",
+"cv": 1
+},
+{
+"id": "w-gutaiteki",
+"cv": 3
+},
+{
+"id": "w-kojinteki",
+"cv": 4
+},
+{
+"id": "w-mezurashii",
+"cv": 4
+},
+{
+"id": "w-yoku-aru",
+"cv": 4
+},
+{
+"id": "w-sokkuri",
+"cv": 3
+},
+{
+"id": "w-betsubetsu",
+"cv": 2
+},
+{
+"id": "w-hade",
+"cv": 3
+},
+{
+"id": "w-jimi",
+"cv": 3
+},
+{
+"id": "w-fukuzatsu",
+"cv": 3
+},
+{
+"id": "w-tanjun",
+"cv": 3
+},
+{
+"id": "w-shinpuru",
+"cv": 3
+},
+{
+"id": "w-tsui-ni",
+"cv": 3
+},
+{
+"id": "w-iyoiyo",
+"cv": 3
+},
+{
+"id": "w-toutou",
+"cv": 3
+},
+{
+"id": "w-mamonaku",
+"cv": 1
+},
+{
+"id": "w-nakayoku",
+"cv": 3
+},
+{
+"id": "w-tsuide-ni",
+"cv": 3
+},
+{
+"id": "w-nen-no-tame",
+"cv": 2
+},
+{
+"id": "w-narubeku",
+"cv": 3
+},
+{
+"id": "w-tatta",
+"cv": 3
+},
+{
+"id": "w-hon-no",
+"cv": 3
+},
+{
+"id": "w-chotto-shita",
+"cv": 3
+},
+{
+"id": "w-tashou",
+"cv": 2
+},
+{
+"id": "w-tsureru",
+"cv": 3
+},
+{
+"id": "w-mukae-ni-kuru",
+"cv": 3
+},
+{
+"id": "w-tsurete-kuru",
+"cv": 3
+},
+{
+"id": "w-tsurete-iku",
+"cv": 3
+},
+{
+"id": "w-noru",
+"cv": 3
+},
+{
+"id": "w-oriru",
+"cv": 2
+},
+{
+"id": "w-komu",
+"cv": 3
+},
+{
+"id": "w-norikaeru",
+"cv": 2
+},
+{
+"id": "w-nugu",
+"cv": 2
+},
+{
+"id": "w-haku",
+"cv": 2
+},
+{
+"id": "w-abiru",
+"cv": 2
+},
+{
+"id": "w-migaku",
+"cv": 2
+},
+{
+"id": "w-fuku",
+"cv": 2
+},
+{
+"id": "w-hosu",
+"cv": 1
+},
+{
+"id": "w-tatamu",
+"cv": 1
+},
+{
+"id": "w-nebou-suru",
+"cv": 4
+},
+{
+"id": "w-hirune-suru",
+"cv": 3
+},
+{
+"id": "w-hayaoki-suru",
+"cv": 3
+},
+{
+"id": "w-yofukashi-suru",
+"cv": 3
+},
+{
+"id": "w-atatameru",
+"cv": 2
+},
+{
+"id": "w-chin-suru",
+"cv": 2
+},
+{
+"id": "w-wakasu",
+"cv": 1
+},
+{
+"id": "w-yuderu",
+"cv": 2
+},
+{
+"id": "w-itameru",
+"cv": 2
+},
+{
+"id": "w-kowareru",
+"cv": 3
+},
+{
+"id": "w-naosu-2",
+"cv": 3
+},
+{
+"id": "w-wareru",
+"cv": 2
+},
+{
+"id": "w-yogoreru",
+"cv": 2
+},
+{
+"id": "w-kusaru",
+"cv": 2
+},
+{
+"id": "w-kodomo-no-koro",
+"cv": 4
+},
+{
+"id": "w-chiisai-koro",
+"cv": 4
+},
+{
+"id": "w-ano-koro",
+"cv": 4
+},
+{
+"id": "w-touji",
+"cv": 3
+},
+{
+"id": "w-imi-ga-nai",
+"cv": 4
+},
+{
+"id": "w-imi-ga-aru",
+"cv": 3
+},
+{
+"id": "w-you-ga-aru",
+"cv": 3
+},
+{
+"id": "w-kachi",
+"cv": 3
+},
+{
+"id": "w-kafe",
+"cv": 3
+},
+{
+"id": "w-izakaya",
+"cv": 3
+},
+{
+"id": "w-resutoran",
+"cv": 2
+},
+{
+"id": "w-iriguchi",
+"cv": 2
+},
+{
+"id": "w-ekimae",
+"cv": 3
+},
+{
+"id": "w-chuushajou",
+"cv": 1
+},
+{
+"id": "w-kaijou",
+"cv": 2
+},
+{
+"id": "w-ginkou",
+"cv": 2
+},
+{
+"id": "w-biyouin",
+"cv": 3
+},
+{
+"id": "w-yuubinkyoku",
+"cv": 1
+},
+{
+"id": "w-hyakkin",
+"cv": 2
+},
+{
+"id": "w-terebi",
+"cv": 3
+},
+{
+"id": "w-denki",
+"cv": 2
+},
+{
+"id": "w-teeburu",
+"cv": 1
+},
+{
+"id": "w-isu",
+"cv": 1
+},
+{
+"id": "w-fukuro",
+"cv": 1
+},
+{
+"id": "w-kaban",
+"cv": 2
+},
+{
+"id": "w-baggu",
+"cv": 2
+},
+{
+"id": "w-hako",
+"cv": 1
+},
+{
+"id": "w-souji-suru",
+"cv": 3
+},
+{
+"id": "w-gomi",
+"cv": 2
+},
+{
+"id": "w-kaji",
+"cv": 3
+},
+{
+"id": "w-dougu",
+"cv": 2
+},
+{
+"id": "w-fuku-2",
+"cv": 4
+},
+{
+"id": "w-kutsu",
+"cv": 3
+},
+{
+"id": "w-kutsushita",
+"cv": 1
+},
+{
+"id": "w-zubon",
+"cv": 2
+},
+{
+"id": "w-ofuro",
+"cv": 3
+},
+{
+"id": "w-toire",
+"cv": 2
+},
+{
+"id": "w-shawaa",
+"cv": 2
+},
+{
+"id": "w-taoru",
+"cv": 1
+},
+{
+"id": "w-tisshu",
+"cv": 1
+},
+{
+"id": "w-futon",
+"cv": 2
+},
+{
+"id": "w-beddo",
+"cv": 2
+},
+{
+"id": "w-makura",
+"cv": 1
+},
+{
+"id": "w-pajama",
+"cv": 1
+},
+{
+"id": "w-reizouko",
+"cv": 2
+},
+{
+"id": "w-hashi",
+"cv": 1
+},
+{
+"id": "w-sara",
+"cv": 1
+},
+{
+"id": "w-koppu",
+"cv": 1
+},
+{
+"id": "w-sentaku-suru",
+"cv": 2
+},
+{
+"id": "w-sentakumono",
+"cv": 1
+},
+{
+"id": "w-beranda",
+"cv": 1
+},
+{
+"id": "w-sentakuki",
+"cv": 1
+},
+{
+"id": "w-ryouri",
+"cv": 4
+},
+{
+"id": "w-hamigaki",
+"cv": 1
+},
+{
+"id": "w-araimono",
+"cv": 1
+},
+{
+"id": "w-takuhaibin",
+"cv": 1
+},
+{
+"id": "w-jisui-suru",
+"cv": 3
+},
+{
+"id": "w-eakon",
+"cv": 2
+},
+{
+"id": "w-renji",
+"cv": 1
+},
+{
+"id": "w-rimokon",
+"cv": 1
+},
+{
+"id": "w-soujiki",
+"cv": 1
+},
+{
+"id": "w-biiru",
+"cv": 3
+},
+{
+"id": "w-wain",
+"cv": 2
+},
+{
+"id": "w-juusu",
+"cv": 2
+},
+{
+"id": "w-aji",
+"cv": 3
+},
+{
+"id": "w-nama",
+"cv": 3
+},
+{
+"id": "w-shio",
+"cv": 1
+},
+{
+"id": "w-shouyu",
+"cv": 1
+},
+{
+"id": "w-keeki",
+"cv": 2
+},
+{
+"id": "w-okashi",
+"cv": 3
+},
+{
+"id": "w-aisu",
+"cv": 2
+},
+{
+"id": "w-choko",
+"cv": 2
+},
+{
+"id": "w-oyatsu",
+"cv": 2
+},
+{
+"id": "w-karee",
+"cv": 2
+},
+{
+"id": "w-raamen",
+"cv": 3
+},
+{
+"id": "w-sushi",
+"cv": 2
+},
+{
+"id": "w-udon",
+"cv": 2
+},
+{
+"id": "w-bentou",
+"cv": 2
+},
+{
+"id": "w-nabe",
+"cv": 3
+},
+{
+"id": "w-onigiri",
+"cv": 2
+},
+{
+"id": "w-misoshiru",
+"cv": 1
+},
+{
+"id": "w-menyuu",
+"cv": 1
+},
+{
+"id": "w-ranchi",
+"cv": 3
+},
+{
+"id": "w-gaishoku",
+"cv": 2
+},
+{
+"id": "w-tabehoudai",
+"cv": 2
+},
+{
+"id": "w-mochikaeri",
+"cv": 1
+},
+{
+"id": "w-uchiawase",
+"cv": 2
+},
+{
+"id": "w-sukejuuru",
+"cv": 3
+},
+{
+"id": "w-shorui",
+"cv": 1
+},
+{
+"id": "w-shutchou",
+"cv": 3
+},
+{
+"id": "w-shimekiri",
+"cv": 3
+},
+{
+"id": "w-kyuukei",
+"cv": 2
+},
+{
+"id": "w-zangyou",
+"cv": 4
+},
+{
+"id": "w-tsuukin",
+"cv": 3
+},
+{
+"id": "w-yuukyuu",
+"cv": 3
+},
+{
+"id": "w-renkyuu",
+"cv": 4
+},
+{
+"id": "w-kenkou",
+"cv": 3
+},
+{
+"id": "w-undou",
+"cv": 3
+},
+{
+"id": "w-daietto",
+"cv": 4
+},
+{
+"id": "w-taijuu",
+"cv": 3
+},
+{
+"id": "w-kenkou-shindan",
+"cv": 2
+},
+{
+"id": "w-hanamizu",
+"cv": 2
+},
+{
+"id": "w-seki",
+"cv": 2
+},
+{
+"id": "w-netchuushou",
+"cv": 2
+},
+{
+"id": "w-kafunshou",
+"cv": 3
+},
+{
+"id": "w-shinbun",
+"cv": 1
+},
+{
+"id": "w-jishin",
+"cv": 3
+},
+{
+"id": "w-kinkyuu",
+"cv": 1
+},
+{
+"id": "w-heiwa",
+"cv": 2
+},
+{
+"id": "w-keiyaku",
+"cv": 2
+},
+{
+"id": "w-kojin",
+"cv": 2
+},
+{
+"id": "w-tetsuzuki",
+"cv": 2
+},
+{
+"id": "w-kaeri",
+"cv": 3
+},
+{
+"id": "w-omukae",
+"cv": 2
+},
+{
+"id": "w-odekake",
+"cv": 3
+},
+{
+"id": "w-shuuden",
+"cv": 3
+},
+{
+"id": "w-shingou",
+"cv": 1
+},
+{
+"id": "w-juutai",
+"cv": 2
+},
+{
+"id": "w-manin-densha",
+"cv": 2
+},
+{
+"id": "w-tada",
+"cv": 3
+},
+{
+"id": "w-muryou",
+"cv": 2
+},
+{
+"id": "w-pointo",
+"cv": 1
+},
+{
+"id": "w-saabisu",
+"cv": 2
+},
+{
+"id": "w-kaimono",
+"cv": 4
+},
+{
+"id": "w-nedan",
+"cv": 2
+},
+{
+"id": "w-shouhin",
+"cv": 1
+},
+{
+"id": "w-seeru",
+"cv": 2
+},
+{
+"id": "w-waribiki",
+"cv": 2
+},
+{
+"id": "w-yoyaku-suru",
+"cv": 2
+},
+{
+"id": "w-chuumon-suru",
+"cv": 2
+},
+{
+"id": "w-shiharai",
+"cv": 1
+},
+{
+"id": "w-warikan",
+"cv": 3
+},
+{
+"id": "w-shakkin",
+"cv": 2
+},
+{
+"id": "w-sagi",
+"cv": 3
+},
+{
+"id": "w-kaado",
+"cv": 1
+},
+{
+"id": "w-genkin",
+"cv": 2
+},
+{
+"id": "w-otsuri",
+"cv": 1
+},
+{
+"id": "w-reji",
+"cv": 1
+},
+{
+"id": "w-reshiito",
+"cv": 1
+},
+{
+"id": "w-douga",
+"cv": 4
+},
+{
+"id": "w-manga",
+"cv": 4
+},
+{
+"id": "w-esu-enu-esu",
+"cv": 3
+},
+{
+"id": "w-kyara",
+"cv": 4
+},
+{
+"id": "w-zasshi",
+"cv": 2
+},
+{
+"id": "w-kyoku",
+"cv": 4
+},
+{
+"id": "w-raibu",
+"cv": 4
+},
+{
+"id": "w-karaoke",
+"cv": 4
+},
+{
+"id": "w-supootsu",
+"cv": 3
+},
+{
+"id": "w-yakyuu",
+"cv": 3
+},
+{
+"id": "w-jimu",
+"cv": 3
+},
+{
+"id": "w-taikai",
+"cv": 2
+},
+{
+"id": "w-katsudou",
+"cv": 2
+},
+{
+"id": "w-sanpo",
+"cv": 3
+},
+{
+"id": "w-natsuyasumi",
+"cv": 3
+},
+{
+"id": "w-hanami",
+"cv": 3
+},
+{
+"id": "w-sumaho",
+"cv": 3
+},
+{
+"id": "w-rain",
+"cv": 4
+},
+{
+"id": "w-apuri",
+"cv": 3
+},
+{
+"id": "w-kidoku",
+"cv": 3
+},
+{
+"id": "w-sukusho",
+"cv": 3
+},
+{
+"id": "w-pasokon",
+"cv": 2
+},
+{
+"id": "w-juuden",
+"cv": 2
+},
+{
+"id": "w-juudenki",
+"cv": 1
+},
+{
+"id": "w-waifai",
+"cv": 1
+},
+{
+"id": "w-gamen",
+"cv": 2
+},
+{
+"id": "w-ookisa",
+"cv": 2
+},
+{
+"id": "w-saizu",
+"cv": 2
+},
+{
+"id": "w-dezain",
+"cv": 3
+},
+{
+"id": "w-ika",
+"cv": 2
+},
+{
+"id": "w-okiniiri",
+"cv": 3
+},
+{
+"id": "w-dochira-mo",
+"cv": 2
+},
+{
+"id": "w-gohoubi",
+"cv": 3
+},
+{
+"id": "w-risuto",
+"cv": 2
+},
+{
+"id": "w-nemui",
+"cv": 4
+},
+{
+"id": "w-kimochi-warui",
+"cv": 4
+},
+{
+"id": "w-kimochi-ii",
+"cv": 4
+},
+{
+"id": "w-darui",
+"cv": 4
+},
+{
+"id": "w-kayui",
+"cv": 2
+},
+{
+"id": "w-shinsetsu",
+"cv": 3
+},
+{
+"id": "w-naka-ii",
+"cv": 4
+},
+{
+"id": "w-tayori-ni-naru",
+"cv": 3
+},
+{
+"id": "w-shitashii",
+"cv": 3
+},
+{
+"id": "w-saitei",
+"cv": 4
+},
+{
+"id": "w-kudaranai",
+"cv": 4
+},
+{
+"id": "w-mashi",
+"cv": 4
+},
+{
+"id": "w-bimyou",
+"cv": 5
+},
+{
+"id": "w-dasai",
+"cv": 4
+},
+{
+"id": "w-kuwashii",
+"cv": 3
+},
+{
+"id": "w-komakai",
+"cv": 3
+},
+{
+"id": "w-usui",
+"cv": 2
+},
+{
+"id": "w-koi",
+"cv": 2
+},
+{
+"id": "w-kimoi",
+"cv": 4
+},
+{
+"id": "w-umai",
+"cv": 4
+},
+{
+"id": "w-nurui",
+"cv": 2
+},
+{
+"id": "w-ukkari",
+"cv": 3
+},
+{
+"id": "w-sotto",
+"cv": 2
+},
+{
+"id": "w-kossori",
+"cv": 3
+},
+{
+"id": "w-jitto",
+"cv": 2
+},
+{
+"id": "w-ichiichi",
+"cv": 3
+},
+{
+"id": "w-imasara",
+"cv": 4
+},
+{
+"id": "w-yayakoshii",
+"cv": 3
+},
+{
+"id": "w-fuben",
+"cv": 2
+},
+{
+"id": "w-seiippai",
+"cv": 3
+},
+{
+"id": "w-omoikkiri",
+"cv": 3
+},
+{
+"id": "w-otagai",
+"cv": 3
+},
+{
+"id": "w-dou-ni-ka",
+"cv": 3
+},
+{
+"id": "w-tekkiri",
+"cv": 4
+},
+{
+"id": "w-itsumo-doori",
+"cv": 3
+},
+{
+"id": "w-shotchuu",
+"cv": 4
+},
+{
+"id": "w-kihonteki-ni",
+"cv": 4
+},
+{
+"id": "w-tatta-ima",
+"cv": 2
+},
+{
+"id": "w-atto-iu-ma-ni",
+"cv": 3
+},
+{
+"id": "w-itsu-no-ma-ni",
+"cv": 4
+},
+{
+"id": "w-kyoujuu-ni",
+"cv": 2
+},
+{
+"id": "w-dore-gurai",
+"cv": 4
+},
+{
+"id": "w-dore-dake",
+"cv": 3
+},
+{
+"id": "w-donna-ni",
+"cv": 3
+},
+{
+"id": "w-maamaa",
+"cv": 5
+},
+{
+"id": "w-sokosoko",
+"cv": 3
+},
+{
+"id": "w-sorenari",
+"cv": 3
+},
+{
+"id": "w-aru-teido",
+"cv": 3
+},
+{
+"id": "w-pittari",
+"cv": 3
+},
+{
+"id": "w-batchiri",
+"cv": 3
+},
+{
+"id": "w-sukkiri-suru",
+"cv": 4
+},
+{
+"id": "w-dokidoki-suru",
+"cv": 4
+},
+{
+"id": "w-wakuwaku-suru",
+"cv": 4
+},
+{
+"id": "w-iraira-suru",
+"cv": 4
+},
+{
+"id": "w-gakkari-suru",
+"cv": 4
+},
+{
+"id": "w-hotto-suru",
+"cv": 3
+},
+{
+"id": "w-hayame",
+"cv": 2
+},
+{
+"id": "w-girigiri",
+"cv": 4
+},
+{
+"id": "w-batabata-suru",
+"cv": 4
+},
+{
+"id": "w-nonbiri-suru",
+"cv": 4
+},
+{
+"id": "w-bootto",
+"cv": 3
+},
+{
+"id": "w-nikoniko",
+"cv": 2
+},
+{
+"id": "w-moyamoya",
+"cv": 3
+},
+{
+"id": "w-ukiuki",
+"cv": 3
+},
+{
+"id": "w-zatto",
+"cv": 2
+},
+{
+"id": "w-perapera",
+"cv": 3
+},
+{
+"id": "w-kotsukotsu",
+"cv": 2
+},
+{
+"id": "w-gorogoro",
+"cv": 4
+},
+{
+"id": "w-daradara",
+"cv": 3
+},
+{
+"id": "w-urouro",
+"cv": 2
+},
+{
+"id": "w-burabura",
+"cv": 3
+},
+{
+"id": "w-garagara",
+"cv": 2
+},
+{
+"id": "w-guchagucha",
+"cv": 3
+},
+{
+"id": "w-gyutto",
+"cv": 2
+},
+{
+"id": "w-gyuugyuu",
+"cv": 2
+},
+{
+"id": "w-fuwafuwa",
+"cv": 2
+},
+{
+"id": "w-sakusaku",
+"cv": 2
+},
+{
+"id": "w-mochimochi",
+"cv": 2
+},
+{
+"id": "w-kotteri",
+"cv": 2
+},
+{
+"id": "w-paripari",
+"cv": 2
+},
+{
+"id": "w-gussuri",
+"cv": 3
+},
+{
+"id": "w-furafura",
+"cv": 2
+},
+{
+"id": "w-kutakuta",
+"cv": 4
+},
+{
+"id": "w-utouto",
+"cv": 2
+},
+{
+"id": "w-pekopeko",
+"cv": 3
+},
+{
+"id": "w-karakara",
+"cv": 2
+},
+{
+"id": "w-mukamuka",
+"cv": 3
+},
+{
+"id": "w-zukizuki",
+"cv": 2
+},
+{
+"id": "w-buruburu",
+"cv": 2
+},
+{
+"id": "w-pikapika",
+"cv": 2
+},
+{
+"id": "w-sarasara",
+"cv": 1
+},
+{
+"id": "w-bishobisho",
+"cv": 2
+},
+{
+"id": "w-tsurutsuru",
+"cv": 1
+},
+{
+"id": "w-betobeto",
+"cv": 2
+},
+{
+"id": "w-pokapoka",
+"cv": 2
+},
+{
+"id": "w-jimejime",
+"cv": 3
+},
+{
+"id": "w-zaazaa",
+"cv": 2
+},
+{
+"id": "w-mushimushi",
+"cv": 3
+}
+]
+},
+"cv:sets-conj": {
+"items": [
+{
+"id": "s-zero",
+"cv": 2
+},
+{
+"id": "s-ichi",
+"cv": 3
+},
+{
+"id": "s-ni",
+"cv": 3
+},
+{
+"id": "s-san",
+"cv": 3
+},
+{
+"id": "s-yon",
+"cv": 3
+},
+{
+"id": "s-go",
+"cv": 3
+},
+{
+"id": "s-roku",
+"cv": 3
+},
+{
+"id": "s-nana",
+"cv": 3
+},
+{
+"id": "s-hachi",
+"cv": 3
+},
+{
+"id": "s-kyuu",
+"cv": 3
+},
+{
+"id": "s-juu",
+"cv": 3
+},
+{
+"id": "s-hitotsu",
+"cv": 3
+},
+{
+"id": "s-futatsu",
+"cv": 3
+},
+{
+"id": "s-mittsu",
+"cv": 2
+},
+{
+"id": "s-yottsu",
+"cv": 2
+},
+{
+"id": "s-itsutsu",
+"cv": 2
+},
+{
+"id": "s-muttsu",
+"cv": 2
+},
+{
+"id": "s-nanatsu",
+"cv": 2
+},
+{
+"id": "s-yattsu",
+"cv": 2
+},
+{
+"id": "s-kokonotsu",
+"cv": 2
+},
+{
+"id": "s-hitori",
+"cv": 4
+},
+{
+"id": "s-futari",
+"cv": 4
+},
+{
+"id": "s-sannin",
+"cv": 3
+},
+{
+"id": "s-yonin",
+"cv": 3
+},
+{
+"id": "s-nannin",
+"cv": 3
+},
+{
+"id": "s-ji",
+"cv": 3
+},
+{
+"id": "s-nanji",
+"cv": 4
+},
+{
+"id": "s-han",
+"cv": 3
+},
+{
+"id": "s-gozen",
+"cv": 2
+},
+{
+"id": "s-gogo",
+"cv": 3
+},
+{
+"id": "s-getsuyoubi",
+"cv": 3
+},
+{
+"id": "s-kayoubi",
+"cv": 3
+},
+{
+"id": "s-suiyoubi",
+"cv": 3
+},
+{
+"id": "s-mokuyoubi",
+"cv": 3
+},
+{
+"id": "s-kinyoubi",
+"cv": 3
+},
+{
+"id": "s-doyoubi",
+"cv": 3
+},
+{
+"id": "s-nichiyoubi",
+"cv": 3
+},
+{
+"id": "s-nanyoubi",
+"cv": 3
+},
+{
+"id": "s-sai",
+"cv": 3
+},
+{
+"id": "s-nansai",
+"cv": 3
+},
+{
+"id": "s-oikutsu",
+"cv": 2
+},
+{
+"id": "s-hatachi",
+"cv": 3
+},
+{
+"id": "s-asagohan",
+"cv": 3
+},
+{
+"id": "s-hirugohan",
+"cv": 3
+},
+{
+"id": "s-bangohan",
+"cv": 3
+},
+{
+"id": "s-ohiru",
+"cv": 3
+},
+{
+"id": "s-okaasan",
+"cv": 4
+},
+{
+"id": "s-otousan",
+"cv": 4
+},
+{
+"id": "s-haha",
+"cv": 2
+},
+{
+"id": "s-chichi",
+"cv": 2
+},
+{
+"id": "s-kazoku",
+"cv": 4
+},
+{
+"id": "s-oya",
+"cv": 4
+},
+{
+"id": "s-ryoushin",
+"cv": 3
+},
+{
+"id": "s-goryoushin",
+"cv": 2
+},
+{
+"id": "s-ani",
+"cv": 2
+},
+{
+"id": "s-oniisan",
+"cv": 3
+},
+{
+"id": "s-ane",
+"cv": 2
+},
+{
+"id": "s-oneesan",
+"cv": 3
+},
+{
+"id": "s-kyoudai",
+"cv": 4
+},
+{
+"id": "s-imouto",
+"cv": 4
+},
+{
+"id": "s-otouto",
+"cv": 4
+},
+{
+"id": "s-imoutosan",
+"cv": 3
+},
+{
+"id": "s-me",
+"cv": 4
+},
+{
+"id": "s-kao",
+"cv": 4
+},
+{
+"id": "s-kuchi",
+"cv": 3
+},
+{
+"id": "s-mimi",
+"cv": 3
+},
+{
+"id": "s-hana",
+"cv": 3
+},
+{
+"id": "s-atama",
+"cv": 4
+},
+{
+"id": "s-kami",
+"cv": 4
+},
+{
+"id": "s-kubi",
+"cv": 3
+},
+{
+"id": "s-kata",
+"cv": 3
+},
+{
+"id": "s-te",
+"cv": 3
+},
+{
+"id": "s-ashi",
+"cv": 3
+},
+{
+"id": "s-yubi",
+"cv": 2
+},
+{
+"id": "s-ude",
+"cv": 3
+},
+{
+"id": "s-onaka",
+"cv": 4
+},
+{
+"id": "s-senaka",
+"cv": 2
+},
+{
+"id": "s-mune",
+"cv": 3
+},
+{
+"id": "s-hara",
+"cv": 3
+},
+{
+"id": "s-ore",
+"cv": 4
+},
+{
+"id": "s-anata",
+"cv": 2
+},
+{
+"id": "s-atashi",
+"cv": 4
+},
+{
+"id": "s-kimi",
+"cv": 3
+},
+{
+"id": "s-ano-hito",
+"cv": 4
+},
+{
+"id": "s-kanojo",
+"cv": 4
+},
+{
+"id": "s-kare",
+"cv": 4
+},
+{
+"id": "s-kono-hito",
+"cv": 3
+},
+{
+"id": "s-sono-hito",
+"cv": 4
+},
+{
+"id": "s-ano-ko",
+"cv": 3
+},
+{
+"id": "s-watashitachi",
+"cv": 3
+},
+{
+"id": "s-oretachi",
+"cv": 3
+},
+{
+"id": "s-bokutachi",
+"cv": 2
+},
+{
+"id": "s-nihon",
+"cv": 4
+},
+{
+"id": "s-nihonjin",
+"cv": 4
+},
+{
+"id": "s-eigo",
+"cv": 4
+},
+{
+"id": "s-jin",
+"cv": 3
+},
+{
+"id": "s-go-2",
+"cv": 4
+},
+{
+"id": "s-juuichi",
+"cv": 3
+},
+{
+"id": "s-nijuu",
+"cv": 3
+},
+{
+"id": "s-hyaku",
+"cv": 3
+},
+{
+"id": "s-sen",
+"cv": 3
+},
+{
+"id": "s-sanbyaku",
+"cv": 2
+},
+{
+"id": "s-roppyaku",
+"cv": 2
+},
+{
+"id": "s-happyaku",
+"cv": 2
+},
+{
+"id": "s-sanzen",
+"cv": 2
+},
+{
+"id": "s-hassen",
+"cv": 2
+},
+{
+"id": "s-ichiman",
+"cv": 3
+},
+{
+"id": "s-juuman",
+"cv": 2
+},
+{
+"id": "s-hyakuman",
+"cv": 2
+},
+{
+"id": "s-ichioku",
+"cv": 2
+},
+{
+"id": "s-ikutsu",
+"cv": 3
+},
+{
+"id": "s-ikutsuka",
+"cv": 2
+},
+{
+"id": "s-hitotsu-hitotsu",
+"cv": 2
+},
+{
+"id": "s-futari-tomo",
+"cv": 3
+},
+{
+"id": "s-hitori-hitori",
+"cv": 2
+},
+{
+"id": "s-tatta-hitori",
+"cv": 2
+},
+{
+"id": "s-ninzuu",
+"cv": 2
+},
+{
+"id": "s-en",
+"cv": 3
+},
+{
+"id": "s-ko",
+"cv": 2
+},
+{
+"id": "s-hon",
+"cv": 2
+},
+{
+"id": "s-mai",
+"cv": 2
+},
+{
+"id": "s-hai",
+"cv": 3
+},
+{
+"id": "s-kai",
+"cv": 4
+},
+{
+"id": "s-nankai",
+"cv": 3
+},
+{
+"id": "s-do",
+"cv": 3
+},
+{
+"id": "s-nando",
+"cv": 3
+},
+{
+"id": "s-fun",
+"cv": 3
+},
+{
+"id": "s-goro",
+"cv": 4
+},
+{
+"id": "s-sugi",
+"cv": 3
+},
+{
+"id": "s-mae",
+"cv": 4
+},
+{
+"id": "s-jikan",
+"cv": 3
+},
+{
+"id": "s-funkan",
+"cv": 2
+},
+{
+"id": "s-byou",
+"cv": 2
+},
+{
+"id": "s-shuukan",
+"cv": 3
+},
+{
+"id": "s-nichiyou",
+"cv": 3
+},
+{
+"id": "s-heijitsu",
+"cv": 3
+},
+{
+"id": "s-kyuujitsu",
+"cv": 3
+},
+{
+"id": "s-tsuitachi",
+"cv": 2
+},
+{
+"id": "s-futsuka",
+"cv": 3
+},
+{
+"id": "s-mikka",
+"cv": 3
+},
+{
+"id": "s-yokka",
+"cv": 2
+},
+{
+"id": "s-itsuka",
+"cv": 2
+},
+{
+"id": "s-muika",
+"cv": 2
+},
+{
+"id": "s-nanoka",
+"cv": 2
+},
+{
+"id": "s-youka",
+"cv": 2
+},
+{
+"id": "s-kokonoka",
+"cv": 2
+},
+{
+"id": "s-tooka",
+"cv": 2
+},
+{
+"id": "s-juugonichi",
+"cv": 2
+},
+{
+"id": "s-juuyokka",
+"cv": 2
+},
+{
+"id": "s-hatsuka",
+"cv": 2
+},
+{
+"id": "s-nijuuyokka",
+"cv": 2
+},
+{
+"id": "s-nannichi",
+"cv": 3
+},
+{
+"id": "s-ichinichijuu",
+"cv": 4
+},
+{
+"id": "s-nichikan",
+"cv": 3
+},
+{
+"id": "s-suujitsu",
+"cv": 2
+},
+{
+"id": "s-ichigatsu",
+"cv": 3
+},
+{
+"id": "s-nigatsu",
+"cv": 3
+},
+{
+"id": "s-sangatsu",
+"cv": 3
+},
+{
+"id": "s-shigatsu",
+"cv": 3
+},
+{
+"id": "s-gogatsu",
+"cv": 3
+},
+{
+"id": "s-rokugatsu",
+"cv": 3
+},
+{
+"id": "s-shichigatsu",
+"cv": 3
+},
+{
+"id": "s-hachigatsu",
+"cv": 3
+},
+{
+"id": "s-kugatsu",
+"cv": 3
+},
+{
+"id": "s-juugatsu",
+"cv": 3
+},
+{
+"id": "s-juuichigatsu",
+"cv": 3
+},
+{
+"id": "s-juunigatsu",
+"cv": 3
+},
+{
+"id": "s-nangatsu",
+"cv": 3
+},
+{
+"id": "s-kagetsu",
+"cv": 3
+},
+{
+"id": "s-hantoshi",
+"cv": 3
+},
+{
+"id": "s-nen",
+"cv": 3
+},
+{
+"id": "s-nannen",
+"cv": 3
+},
+{
+"id": "s-nenkan",
+"cv": 3
+},
+{
+"id": "s-nensei",
+"cv": 3
+},
+{
+"id": "s-konya",
+"cv": 3
+},
+{
+"id": "s-kono-mae",
+"cv": 5
+},
+{
+"id": "s-yuube",
+"cv": 3
+},
+{
+"id": "s-ototoi",
+"cv": 3
+},
+{
+"id": "s-asatte",
+"cv": 3
+},
+{
+"id": "s-maiasa",
+"cv": 3
+},
+{
+"id": "s-maiban",
+"cv": 3
+},
+{
+"id": "s-maishuu",
+"cv": 3
+},
+{
+"id": "s-maitsuki",
+"cv": 2
+},
+{
+"id": "s-maitoshi",
+"cv": 3
+},
+{
+"id": "s-maikai",
+"cv": 3
+},
+{
+"id": "s-ban-2",
+"cv": 3
+},
+{
+"id": "s-yonaka",
+"cv": 3
+},
+{
+"id": "s-shinya",
+"cv": 3
+},
+{
+"id": "s-yuugata",
+"cv": 3
+},
+{
+"id": "s-hiruma",
+"cv": 2
+},
+{
+"id": "s-haru",
+"cv": 3
+},
+{
+"id": "s-natsu",
+"cv": 3
+},
+{
+"id": "s-aki",
+"cv": 3
+},
+{
+"id": "s-fuyu",
+"cv": 3
+},
+{
+"id": "s-kisetsu",
+"cv": 3
+},
+{
+"id": "s-ame",
+"cv": 3
+},
+{
+"id": "s-tenki",
+"cv": 3
+},
+{
+"id": "s-yuki",
+"cv": 3
+},
+{
+"id": "s-hare",
+"cv": 2
+},
+{
+"id": "s-kumori",
+"cv": 2
+},
+{
+"id": "s-tenki-yohou",
+"cv": 2
+},
+{
+"id": "s-furu",
+"cv": 3
+},
+{
+"id": "s-yamu",
+"cv": 2
+},
+{
+"id": "s-hareru",
+"cv": 2
+},
+{
+"id": "s-atatakai",
+"cv": 3
+},
+{
+"id": "s-suzushii",
+"cv": 3
+},
+{
+"id": "s-mushiatsui",
+"cv": 3
+},
+{
+"id": "s-shikke",
+"cv": 2
+},
+{
+"id": "s-iro",
+"cv": 3
+},
+{
+"id": "s-akai",
+"cv": 3
+},
+{
+"id": "s-shiroi",
+"cv": 3
+},
+{
+"id": "s-kuroi",
+"cv": 3
+},
+{
+"id": "s-aoi",
+"cv": 3
+},
+{
+"id": "s-aka",
+"cv": 2
+},
+{
+"id": "s-shiro",
+"cv": 2
+},
+{
+"id": "s-kuro",
+"cv": 2
+},
+{
+"id": "s-ao",
+"cv": 2
+},
+{
+"id": "s-midori",
+"cv": 2
+},
+{
+"id": "s-kiiro",
+"cv": 2
+},
+{
+"id": "s-pinku",
+"cv": 2
+},
+{
+"id": "s-chairo",
+"cv": 2
+},
+{
+"id": "s-okusan",
+"cv": 3
+},
+{
+"id": "s-tsuma",
+"cv": 2
+},
+{
+"id": "s-otto",
+"cv": 2
+},
+{
+"id": "s-goshujin",
+"cv": 2
+},
+{
+"id": "s-musume",
+"cv": 3
+},
+{
+"id": "s-musuko",
+"cv": 3
+},
+{
+"id": "s-musumesan",
+"cv": 2
+},
+{
+"id": "s-musukosan",
+"cv": 2
+},
+{
+"id": "s-okosan",
+"cv": 2
+},
+{
+"id": "s-ojiichan",
+"cv": 3
+},
+{
+"id": "s-obaachan",
+"cv": 3
+},
+{
+"id": "s-ojiisan",
+"cv": 2
+},
+{
+"id": "s-obaasan",
+"cv": 2
+},
+{
+"id": "s-jiichan",
+"cv": 2
+},
+{
+"id": "s-baachan",
+"cv": 2
+},
+{
+"id": "s-papa",
+"cv": 3
+},
+{
+"id": "s-mama",
+"cv": 3
+},
+{
+"id": "s-kaasan",
+"cv": 2
+},
+{
+"id": "s-tousan",
+"cv": 2
+},
+{
+"id": "s-oniichan",
+"cv": 3
+},
+{
+"id": "s-oneechan",
+"cv": 3
+},
+{
+"id": "s-niichan",
+"cv": 2
+},
+{
+"id": "s-neechan",
+"cv": 2
+},
+{
+"id": "s-niisan",
+"cv": 2
+},
+{
+"id": "s-neesan",
+"cv": 2
+},
+{
+"id": "s-ojisan",
+"cv": 3
+},
+{
+"id": "s-obasan",
+"cv": 3
+},
+{
+"id": "s-obachan",
+"cv": 2
+},
+{
+"id": "s-shinseki",
+"cv": 3
+},
+{
+"id": "s-itoko",
+"cv": 3
+},
+{
+"id": "s-ha",
+"cv": 3
+},
+{
+"id": "s-nodo",
+"cv": 3
+},
+{
+"id": "s-kuchibiru",
+"cv": 2
+},
+{
+"id": "s-shita",
+"cv": 2
+},
+{
+"id": "s-koshi",
+"cv": 3
+},
+{
+"id": "s-hiza",
+"cv": 2
+},
+{
+"id": "s-oshiri",
+"cv": 2
+},
+{
+"id": "s-migi",
+"cv": 2
+},
+{
+"id": "s-hidari",
+"cv": 2
+},
+{
+"id": "s-massugu",
+"cv": 2
+},
+{
+"id": "s-kado",
+"cv": 2
+},
+{
+"id": "s-tonari",
+"cv": 3
+},
+{
+"id": "s-soba",
+"cv": 2
+},
+{
+"id": "s-yoko",
+"cv": 3
+},
+{
+"id": "s-aida",
+"cv": 3
+},
+{
+"id": "s-kono-hen",
+"cv": 3
+},
+{
+"id": "s-sono-hen",
+"cv": 3
+},
+{
+"id": "s-ano-hen",
+"cv": 3
+},
+{
+"id": "s-dono-hen",
+"cv": 3
+},
+{
+"id": "s-sokora",
+"cv": 2
+},
+{
+"id": "s-omae",
+"cv": 3
+},
+{
+"id": "s-anta",
+"cv": 3
+},
+{
+"id": "s-omaera",
+"cv": 2
+},
+{
+"id": "s-yatsu",
+"cv": 4
+},
+{
+"id": "s-aitsu",
+"cv": 4
+},
+{
+"id": "s-koitsu",
+"cv": 3
+},
+{
+"id": "s-soitsu",
+"cv": 2
+},
+{
+"id": "s-aitsura",
+"cv": 3
+},
+{
+"id": "s-yatsura",
+"cv": 2
+},
+{
+"id": "s-ra",
+"cv": 3
+},
+{
+"id": "s-bokura",
+"cv": 2
+},
+{
+"id": "s-orera",
+"cv": 2
+},
+{
+"id": "s-uchira",
+"cv": 3
+},
+{
+"id": "s-amerika",
+"cv": 3
+},
+{
+"id": "s-chuugoku",
+"cv": 2
+},
+{
+"id": "s-kankoku",
+"cv": 3
+},
+{
+"id": "s-igirisu",
+"cv": 2
+},
+{
+"id": "s-oosutoraria",
+"cv": 3
+},
+{
+"id": "s-kuni",
+"cv": 3
+},
+{
+"id": "s-kaigai",
+"cv": 3
+},
+{
+"id": "s-gaikoku",
+"cv": 3
+},
+{
+"id": "s-gaikokujin",
+"cv": 3
+},
+{
+"id": "s-kokunai",
+"cv": 2
+},
+{
+"id": "s-amai",
+"cv": 4
+},
+{
+"id": "s-karai",
+"cv": 4
+},
+{
+"id": "s-nigai",
+"cv": 3
+},
+{
+"id": "s-suppai",
+"cv": 3
+},
+{
+"id": "s-shoppai",
+"cv": 3
+},
+{
+"id": "s-mazui",
+"cv": 4
+},
+{
+"id": "s-katai",
+"cv": 3
+},
+{
+"id": "s-yawarakai",
+"cv": 3
+},
+{
+"id": "s-hiki",
+"cv": 2
+},
+{
+"id": "s-dai",
+"cv": 2
+},
+{
+"id": "s-satsu",
+"cv": 2
+},
+{
+"id": "s-ban",
+"cv": 3
+},
+{
+"id": "s-kai-2",
+"cv": 2
+},
+{
+"id": "s-banme",
+"cv": 3
+},
+{
+"id": "s-goushitsu",
+"cv": 1
+},
+{
+"id": "s-choume",
+"cv": 1
+},
+{
+"id": "s-kiro",
+"cv": 3
+},
+{
+"id": "s-meetoru",
+"cv": 2
+},
+{
+"id": "s-senchi",
+"cv": 2
+},
+{
+"id": "s-guramu",
+"cv": 1
+},
+{
+"id": "s-rittoru",
+"cv": 1
+},
+{
+"id": "s-bai",
+"cv": 3
+},
+{
+"id": "s-nandoka",
+"cv": 3
+},
+{
+"id": "s-ichido-mo",
+"cv": 4
+},
+{
+"id": "s-hitoban",
+"cv": 2
+},
+{
+"id": "s-nenrei",
+"cv": 1
+},
+{
+"id": "s-onaidoshi",
+"cv": 4
+},
+{
+"id": "s-nijuudai",
+"cv": 3
+},
+{
+"id": "s-nenburi",
+"cv": 3
+},
+{
+"id": "s-nengo",
+"cv": 3
+},
+{
+"id": "s-suunen",
+"cv": 2
+},
+{
+"id": "s-sensenshuu",
+"cv": 3
+},
+{
+"id": "s-saraishuu",
+"cv": 2
+},
+{
+"id": "s-ototoshi",
+"cv": 3
+},
+{
+"id": "s-sarainen",
+"cv": 2
+},
+{
+"id": "s-zenjitsu",
+"cv": 2
+},
+{
+"id": "s-yokujitsu",
+"cv": 2
+},
+{
+"id": "s-yuuhan",
+"cv": 3
+},
+{
+"id": "s-yuushoku",
+"cv": 2
+},
+{
+"id": "s-choushoku",
+"cv": 2
+},
+{
+"id": "s-kaze",
+"cv": 3
+},
+{
+"id": "s-taifuu",
+"cv": 3
+},
+{
+"id": "s-kaminari",
+"cv": 2
+},
+{
+"id": "s-tsuyu",
+"cv": 3
+},
+{
+"id": "s-murasaki",
+"cv": 2
+},
+{
+"id": "s-orenji",
+"cv": 2
+},
+{
+"id": "s-haiiro",
+"cv": 2
+},
+{
+"id": "s-danna",
+"cv": 3
+},
+{
+"id": "s-fuufu",
+"cv": 3
+},
+{
+"id": "s-shujin",
+"cv": 2
+},
+{
+"id": "s-yome",
+"cv": 3
+},
+{
+"id": "s-chichioya",
+"cv": 2
+},
+{
+"id": "s-hahaoya",
+"cv": 2
+},
+{
+"id": "s-oyako",
+"cv": 2
+},
+{
+"id": "s-chounan",
+"cv": 2
+},
+{
+"id": "s-choujo",
+"cv": 2
+},
+{
+"id": "s-mago",
+"cv": 2
+},
+{
+"id": "s-sofu",
+"cv": 2
+},
+{
+"id": "s-sobo",
+"cv": 2
+},
+{
+"id": "s-oyaji",
+"cv": 3
+},
+{
+"id": "s-kaachan",
+"cv": 2
+},
+{
+"id": "s-ofukuro",
+"cv": 3
+},
+{
+"id": "s-touchan",
+"cv": 2
+},
+{
+"id": "s-jiisan",
+"cv": 2
+},
+{
+"id": "s-kami-no-ke",
+"cv": 2
+},
+{
+"id": "s-hada",
+"cv": 3
+},
+{
+"id": "s-tsume",
+"cv": 2
+},
+{
+"id": "s-migite",
+"cv": 2
+},
+{
+"id": "s-hidarite",
+"cv": 2
+},
+{
+"id": "s-ryoute",
+"cv": 2
+},
+{
+"id": "s-zenshin",
+"cv": 2
+},
+{
+"id": "s-mukou",
+"cv": 3
+},
+{
+"id": "s-me-no-mae",
+"cv": 3
+},
+{
+"id": "s-oku",
+"cv": 2
+},
+{
+"id": "s-temae",
+"cv": 2
+},
+{
+"id": "s-shoumen",
+"cv": 2
+},
+{
+"id": "s-mawari",
+"cv": 3
+},
+{
+"id": "s-gawa",
+"cv": 2
+},
+{
+"id": "s-mannaka",
+"cv": 2
+},
+{
+"id": "s-achikochi",
+"cv": 3
+},
+{
+"id": "s-kita",
+"cv": 2
+},
+{
+"id": "s-minami",
+"cv": 2
+},
+{
+"id": "s-higashi",
+"cv": 2
+},
+{
+"id": "s-nishi",
+"cv": 2
+},
+{
+"id": "s-ano-kata",
+"cv": 2
+},
+{
+"id": "s-wareware",
+"cv": 1
+},
+{
+"id": "s-jibun-jishin",
+"cv": 3
+},
+{
+"id": "g-r-groups",
+"cv": 4
+},
+{
+"id": "g-r-stems",
+"cv": 4
+},
+{
+"id": "g-r-te",
+"cv": 5
+},
+{
+"id": "g-r-irregular",
+"cv": 5
+},
+{
+"id": "g-dict",
+"cv": 5
+},
+{
+"id": "g-masu",
+"cv": 4
+},
+{
+"id": "g-nai",
+"cv": 5
+},
+{
+"id": "g-masen",
+"cv": 3
+},
+{
+"id": "g-ta",
+"cv": 5
+},
+{
+"id": "g-mashita",
+"cv": 4
+},
+{
+"id": "g-nakatta",
+"cv": 5
+},
+{
+"id": "g-masen-deshita",
+"cv": 2
+},
+{
+"id": "g-te",
+"cv": 5
+},
+{
+"id": "g-te-kudasai",
+"cv": 2
+},
+{
+"id": "g-naide",
+"cv": 4
+},
+{
+"id": "g-koto-ni-naru",
+"cv": 4
+},
+{
+"id": "g-koto-ni-suru",
+"cv": 4
+},
+{
+"id": "g-you-ni-iu",
+"cv": 3
+},
+{
+"id": "g-you-ni-suru",
+"cv": 3
+},
+{
+"id": "g-okage-de",
+"cv": 3
+},
+{
+"id": "g-no-sei-de",
+"cv": 3
+},
+{
+"id": "g-no-sei-ni-suru",
+"cv": 2
+},
+{
+"id": "g-mon-dakara",
+"cv": 3
+},
+{
+"id": "g-kara-koso",
+"cv": 2
+},
+{
+"id": "g-teru",
+"cv": 5
+},
+{
+"id": "g-teta",
+"cv": 5
+},
+{
+"id": "g-tenai",
+"cv": 5
+},
+{
+"id": "g-tai",
+"cv": 5
+},
+{
+"id": "g-vol",
+"cv": 5
+},
+{
+"id": "g-mashou",
+"cv": 3
+},
+{
+"id": "g-masen-ka",
+"cv": 3
+},
+{
+"id": "g-a-plain",
+"cv": 5
+},
+{
+"id": "g-a-past",
+"cv": 5
+},
+{
+"id": "g-a-neg",
+"cv": 5
+},
+{
+"id": "g-a-negpast",
+"cv": 4
+},
+{
+"id": "g-a-darou",
+"cv": 5
+},
+{
+"id": "g-a-te",
+"cv": 4
+},
+{
+"id": "g-a-naru",
+"cv": 4
+},
+{
+"id": "g-a-attr",
+"cv": 5
+},
+{
+"id": "g-a-if",
+"cv": 4
+},
+{
+"id": "g-a-sou",
+"cv": 5
+},
+{
+"id": "g-furi-o-suru",
+"cv": 3
+},
+{
+"id": "g-ou-to-suru",
+"cv": 3
+},
+{
+"id": "g-ki-wa-nai",
+"cv": 3
+},
+{
+"id": "g-te-goran",
+"cv": 2
+},
+{
+"id": "g-te-wa-ikenai",
+"cv": 2
+},
+{
+"id": "g-koto-ga-dekiru",
+"cv": 2
+},
+{
+"id": "g-koto-wa-nai",
+"cv": 3
+},
+{
+"id": "g-wake-ni-wa-ikanai",
+"cv": 3
+},
+{
+"id": "g-beki-da",
+"cv": 3
+},
+{
+"id": "g-ru-koto-ga-aru",
+"cv": 3
+},
+{
+"id": "g-tabi-ni",
+"cv": 3
+},
+{
+"id": "g-te-irai",
+"cv": 2
+},
+{
+"id": "g-to-omottara",
+"cv": 3
+},
+{
+"id": "g-saichuu-ni",
+"cv": 2
+},
+{
+"id": "g-ta-totan",
+"cv": 2
+},
+{
+"id": "g-gozaimasu",
+"cv": 2
+},
+{
+"id": "g-te-itadakeru",
+"cv": 2
+},
+{
+"id": "g-te-kudasaru",
+"cv": 2
+},
+{
+"id": "g-sasete-itadaku",
+"cv": 1
+},
+{
+"id": "g-ka-dou-ka",
+"cv": 3
+},
+{
+"id": "g-toori",
+"cv": 3
+},
+{
+"id": "g-to-ieba",
+"cv": 4
+},
+{
+"id": "g-to-iu-koto-da",
+"cv": 4
+},
+{
+"id": "g-ni-yoru-to",
+"cv": 2
+},
+{
+"id": "g-tara",
+"cv": 5
+},
+{
+"id": "g-ba",
+"cv": 4
+},
+{
+"id": "g-to",
+"cv": 3
+},
+{
+"id": "g-nara",
+"cv": 4
+},
+{
+"id": "g-nakya",
+"cv": 5
+},
+{
+"id": "g-nakute",
+"cv": 4
+},
+{
+"id": "g-te-mo-ii",
+"cv": 4
+},
+{
+"id": "g-cha-dame",
+"cv": 3
+},
+{
+"id": "g-chau",
+"cv": 5
+},
+{
+"id": "g-toku",
+"cv": 4
+},
+{
+"id": "g-te-miru",
+"cv": 4
+},
+{
+"id": "g-te-mo",
+"cv": 4
+},
+{
+"id": "g-tari",
+"cv": 4
+},
+{
+"id": "g-nagara",
+"cv": 3
+},
+{
+"id": "g-zu-ni",
+"cv": 2
+},
+{
+"id": "g-you-na",
+"cv": 3
+},
+{
+"id": "g-you-da",
+"cv": 2
+},
+{
+"id": "g-to-wa-kagiranai",
+"cv": 2
+},
+{
+"id": "g-ni-chigai-nai",
+"cv": 2
+},
+{
+"id": "g-to-shitara",
+"cv": 3
+},
+{
+"id": "g-to-ii",
+"cv": 4
+},
+{
+"id": "g-kagiri",
+"cv": 2
+},
+{
+"id": "g-shidai",
+"cv": 2
+},
+{
+"id": "g-sae-areba",
+"cv": 2
+},
+{
+"id": "g-kuse-ni",
+"cv": 3
+},
+{
+"id": "g-kara-tte",
+"cv": 3
+},
+{
+"id": "g-ni-shite-mo",
+"cv": 3
+},
+{
+"id": "g-ni-shite-wa",
+"cv": 3
+},
+{
+"id": "g-to-itte-mo",
+"cv": 3
+},
+{
+"id": "g-dokoro-ka",
+"cv": 2
+},
+{
+"id": "g-dake-de-naku",
+"cv": 2
+},
+{
+"id": "g-to-iu-yori",
+"cv": 3
+},
+{
+"id": "g-de-sae",
+"cv": 2
+},
+{
+"id": "g-to-shite",
+"cv": 2
+},
+{
+"id": "g-ni-totte",
+"cv": 3
+},
+{
+"id": "g-ni-taishite",
+"cv": 2
+},
+{
+"id": "g-ni-kanshite",
+"cv": 1
+},
+{
+"id": "g-muke",
+"cv": 2
+},
+{
+"id": "g-kei",
+"cv": 3
+},
+{
+"id": "g-goto",
+"cv": 2
+},
+{
+"id": "g-nashi-de",
+"cv": 2
+},
+{
+"id": "g-gokko",
+"cv": 2
+},
+{
+"id": "g-pot",
+"cv": 5
+},
+{
+"id": "g-pas",
+"cv": 4
+},
+{
+"id": "g-cau",
+"cv": 3
+},
+{
+"id": "g-cp",
+"cv": 3
+},
+{
+"id": "g-imp",
+"cv": 2
+},
+{
+"id": "g-na",
+"cv": 2
+},
+{
+"id": "g-nasai",
+"cv": 2
+},
+{
+"id": "g-te-kure",
+"cv": 2
+},
+{
+"id": "g-sou",
+"cv": 4
+},
+{
+"id": "g-sugiru",
+"cv": 4
+},
+{
+"id": "g-yasui",
+"cv": 4
+},
+{
+"id": "g-nn",
+"cv": 5
+},
+{
+"id": "g-contractions",
+"cv": 5
+},
+{
+"id": "g-makuru",
+"cv": 3
+},
+{
+"id": "g-tteba",
+"cv": 3
+},
+{
+"id": "g-mon-ka",
+"cv": 3
+}
+]
+},
+"cv:core-1": {
+"items": [
+{
+"id": "w-aruku",
+"cv": 3
+},
+{
+"id": "w-isogu",
+"cv": 3
+},
+{
+"id": "w-hashiru",
+"cv": 3
+},
+{
+"id": "w-tobu",
+"cv": 3
+},
+{
+"id": "w-suwaru",
+"cv": 2
+},
+{
+"id": "w-narabu",
+"cv": 3
+},
+{
+"id": "w-atsumaru",
+"cv": 4
+},
+{
+"id": "w-doku",
+"cv": 2
+},
+{
+"id": "w-irassharu",
+"cv": 2
+},
+{
+"id": "w-oide",
+"cv": 2
+},
+{
+"id": "w-mairu",
+"cv": 2
+},
+{
+"id": "w-annai-suru",
+"cv": 3
+},
+{
+"id": "w-suteru",
+"cv": 3
+},
+{
+"id": "w-kiru-2",
+"cv": 3
+},
+{
+"id": "w-youi-suru",
+"cv": 2
+},
+{
+"id": "w-yaku",
+"cv": 3
+},
+{
+"id": "w-tsukeru",
+"cv": 2
+},
+{
+"id": "w-kesu",
+"cv": 2
+},
+{
+"id": "w-akeru",
+"cv": 2
+},
+{
+"id": "w-shimeru",
+"cv": 2
+},
+{
+"id": "w-okosu",
+"cv": 3
+},
+{
+"id": "w-arau",
+"cv": 2
+},
+{
+"id": "w-dekakeru",
+"cv": 4
+},
+{
+"id": "w-kigaeru",
+"cv": 2
+},
+{
+"id": "w-kayou",
+"cv": 3
+},
+{
+"id": "w-ayamaru",
+"cv": 3
+},
+{
+"id": "w-mitomeru",
+"cv": 3
+},
+{
+"id": "w-hakkiri-iu",
+"cv": 4
+},
+{
+"id": "w-kaku",
+"cv": 3
+},
+{
+"id": "w-yomu",
+"cv": 4
+},
+{
+"id": "w-setsumei-suru",
+"cv": 3
+},
+{
+"id": "w-osowaru",
+"cv": 3
+},
+{
+"id": "w-yobu",
+"cv": 3
+},
+{
+"id": "w-shoukai-suru",
+"cv": 3
+},
+{
+"id": "w-sasou",
+"cv": 4
+},
+{
+"id": "w-kotowaru",
+"cv": 3
+},
+{
+"id": "w-mousu",
+"cv": 2
+},
+{
+"id": "w-ossharu",
+"cv": 2
+},
+{
+"id": "w-gozonji",
+"cv": 2
+},
+{
+"id": "w-moushiageru",
+"cv": 1
+},
+{
+"id": "w-meshiagaru",
+"cv": 2
+},
+{
+"id": "w-shaberu",
+"cv": 4
+},
+{
+"id": "w-damaru",
+"cv": 3
+},
+{
+"id": "w-aisatsu-suru",
+"cv": 2
+},
+{
+"id": "w-hanashikakeru",
+"cv": 3
+},
+{
+"id": "w-tsutaeru",
+"cv": 3
+},
+{
+"id": "w-tsutawaru",
+"cv": 3
+},
+{
+"id": "w-tsuujiru",
+"cv": 3
+},
+{
+"id": "w-houkoku-suru",
+"cv": 2
+},
+{
+"id": "w-shinjiru",
+"cv": 4
+},
+{
+"id": "w-kanjiru",
+"cv": 3
+},
+{
+"id": "w-souzou-suru",
+"cv": 3
+},
+{
+"id": "w-ochitsuku",
+"cv": 3
+},
+{
+"id": "w-yorokobu",
+"cv": 3
+},
+{
+"id": "w-odoroku",
+"cv": 3
+},
+{
+"id": "w-tanoshimu",
+"cv": 3
+},
+{
+"id": "w-shiranai",
+"cv": 5
+},
+{
+"id": "w-omoidasu",
+"cv": 4
+},
+{
+"id": "w-kanchigai-suru",
+"cv": 3
+},
+{
+"id": "w-rikai-suru",
+"cv": 3
+},
+{
+"id": "w-kitai-suru",
+"cv": 3
+},
+{
+"id": "w-gaman-suru",
+"cv": 4
+},
+{
+"id": "w-koukai-suru",
+"cv": 3
+},
+{
+"id": "w-nayamu",
+"cv": 4
+},
+{
+"id": "w-nattoku-suru",
+"cv": 3
+},
+{
+"id": "w-handan-suru",
+"cv": 2
+},
+{
+"id": "w-gokai",
+"cv": 3
+},
+{
+"id": "w-konran-suru",
+"cv": 3
+},
+{
+"id": "w-tasukeru",
+"cv": 3
+},
+{
+"id": "w-tasukaru",
+"cv": 4
+},
+{
+"id": "w-ouen-suru",
+"cv": 4
+},
+{
+"id": "w-kyouryoku-suru",
+"cv": 2
+},
+{
+"id": "w-sapooto-suru",
+"cv": 2
+},
+{
+"id": "w-kekkon-suru",
+"cv": 4
+},
+{
+"id": "w-deau",
+"cv": 4
+},
+{
+"id": "w-rikon-suru",
+"cv": 3
+},
+{
+"id": "w-shiriau",
+"cv": 3
+},
+{
+"id": "w-puropoozu-suru",
+"cv": 3
+},
+{
+"id": "w-hataraku",
+"cv": 4
+},
+{
+"id": "w-tsuzuku",
+"cv": 3
+},
+{
+"id": "w-nareru",
+"cv": 4
+},
+{
+"id": "w-erabu",
+"cv": 3
+},
+{
+"id": "w-kimaru",
+"cv": 4
+},
+{
+"id": "w-kettei",
+"cv": 3
+},
+{
+"id": "w-henkou-suru",
+"cv": 2
+},
+{
+"id": "w-kariru",
+"cv": 3
+},
+{
+"id": "w-kaesu",
+"cv": 3
+},
+{
+"id": "w-watasu",
+"cv": 2
+},
+{
+"id": "w-motte-kuru",
+"cv": 3
+},
+{
+"id": "w-nokoru",
+"cv": 2
+},
+{
+"id": "w-nokosu",
+"cv": 2
+},
+{
+"id": "w-azukaru",
+"cv": 2
+},
+{
+"id": "w-azukeru",
+"cv": 2
+},
+{
+"id": "w-okuru",
+"cv": 4
+},
+{
+"id": "w-todoku",
+"cv": 3
+},
+{
+"id": "w-todokeru",
+"cv": 2
+},
+{
+"id": "w-hakobu",
+"cv": 2
+},
+{
+"id": "w-itadaku",
+"cv": 2
+},
+{
+"id": "w-uketoru",
+"cv": 2
+},
+{
+"id": "w-sashiageru",
+"cv": 2
+},
+{
+"id": "w-mitsukeru",
+"cv": 3
+},
+{
+"id": "w-nakusu",
+"cv": 3
+},
+{
+"id": "w-otosu",
+"cv": 3
+},
+{
+"id": "w-hirou",
+"cv": 2
+},
+{
+"id": "w-kakusu",
+"cv": 3
+},
+{
+"id": "w-hakken",
+"cv": 3
+},
+{
+"id": "w-osu",
+"cv": 2
+},
+{
+"id": "w-hiku",
+"cv": 3
+},
+{
+"id": "w-nageru",
+"cv": 2
+},
+{
+"id": "w-tsukamaeru",
+"cv": 2
+},
+{
+"id": "w-itasu",
+"cv": 2
+},
+{
+"id": "w-nasaru",
+"cv": 2
+},
+{
+"id": "w-taiou-suru",
+"cv": 2
+},
+{
+"id": "w-umaku-iku",
+"cv": 4
+},
+{
+"id": "w-shippai-suru",
+"cv": 4
+},
+{
+"id": "w-seikou-suru",
+"cv": 3
+},
+{
+"id": "w-kansei-suru",
+"cv": 3
+},
+{
+"id": "w-goukaku-suru",
+"cv": 3
+},
+{
+"id": "w-susumeru",
+"cv": 2
+},
+{
+"id": "w-kaiketsu-suru",
+"cv": 2
+},
+{
+"id": "w-matomeru",
+"cv": 2
+},
+{
+"id": "w-hikiukeru",
+"cv": 2
+},
+{
+"id": "w-mezasu",
+"cv": 3
+},
+{
+"id": "w-shoubu",
+"cv": 3
+},
+{
+"id": "w-doryoku-suru",
+"cv": 3
+},
+{
+"id": "w-tamesu",
+"cv": 3
+},
+{
+"id": "w-chousen-suru",
+"cv": 3
+},
+{
+"id": "w-nigeru",
+"cv": 3
+},
+{
+"id": "w-korosu",
+"cv": 2
+},
+{
+"id": "w-makikomu",
+"cv": 3
+},
+{
+"id": "w-me-ni-au",
+"cv": 4
+},
+{
+"id": "w-ikiru",
+"cv": 3
+},
+{
+"id": "w-kurasu-2",
+"cv": 3
+},
+{
+"id": "w-sugosu",
+"cv": 3
+},
+{
+"id": "w-otoko",
+"cv": 3
+},
+{
+"id": "w-onna",
+"cv": 3
+},
+{
+"id": "w-ningen",
+"cv": 3
+},
+{
+"id": "w-josei",
+"cv": 2
+},
+{
+"id": "w-sensei",
+"cv": 3
+},
+{
+"id": "w-senpai",
+"cv": 4
+},
+{
+"id": "w-shiriai",
+"cv": 3
+},
+{
+"id": "w-nakama",
+"cv": 3
+},
+{
+"id": "w-zenin",
+"cv": 3
+},
+{
+"id": "w-okyakusan",
+"cv": 2
+},
+{
+"id": "w-kyaku",
+"cv": 2
+},
+{
+"id": "w-honnin",
+"cv": 3
+},
+{
+"id": "w-oozei",
+"cv": 2
+},
+{
+"id": "w-konkai",
+"cv": 3
+},
+{
+"id": "w-yotei",
+"cv": 4
+},
+{
+"id": "w-honjitsu",
+"cv": 2
+},
+{
+"id": "w-senjitsu",
+"cv": 2
+},
+{
+"id": "w-jinsei",
+"cv": 3
+},
+{
+"id": "w-seikatsu",
+"cv": 3
+},
+{
+"id": "w-chansu",
+"cv": 3
+},
+{
+"id": "w-kurou",
+"cv": 3
+},
+{
+"id": "w-omoide",
+"cv": 4
+},
+{
+"id": "w-jidai",
+"cv": 3
+},
+{
+"id": "w-mirai",
+"cv": 2
+},
+{
+"id": "w-kako",
+"cv": 3
+},
+{
+"id": "w-genzai",
+"cv": 2
+},
+{
+"id": "w-koro",
+"cv": 4
+},
+{
+"id": "w-kongo",
+"cv": 2
+},
+{
+"id": "w-shunkan",
+"cv": 3
+},
+{
+"id": "w-izen",
+"cv": 2
+},
+{
+"id": "w-shourai",
+"cv": 3
+},
+{
+"id": "w-taimingu",
+"cv": 3
+},
+{
+"id": "w-kanousei",
+"cv": 2
+},
+{
+"id": "w-kono-saki",
+"cv": 2
+},
+{
+"id": "w-kikai",
+"cv": 3
+},
+{
+"id": "w-shiawase",
+"cv": 4
+},
+{
+"id": "w-kansha-suru",
+"cv": 2
+},
+{
+"id": "w-egao",
+"cv": 3
+},
+{
+"id": "w-kibou",
+"cv": 2
+},
+{
+"id": "w-anshin-suru",
+"cv": 4
+},
+{
+"id": "w-fuan",
+"cv": 4
+},
+{
+"id": "w-manzoku-suru",
+"cv": 3
+},
+{
+"id": "w-fuman",
+"cv": 3
+},
+{
+"id": "w-kankei",
+"cv": 3
+},
+{
+"id": "w-kankei-nai",
+"cv": 4
+},
+{
+"id": "w-jiyuu",
+"cv": 3
+},
+{
+"id": "w-puraibeeto",
+"cv": 3
+},
+{
+"id": "w-baai",
+"cv": 2
+},
+{
+"id": "w-joukyou",
+"cv": 2
+},
+{
+"id": "w-houhou",
+"cv": 2
+},
+{
+"id": "w-joutai",
+"cv": 2
+},
+{
+"id": "w-riyuu",
+"cv": 3
+},
+{
+"id": "w-sekinin",
+"cv": 3
+},
+{
+"id": "w-jijitsu",
+"cv": 2
+},
+{
+"id": "w-jijou",
+"cv": 3
+},
+{
+"id": "w-machigai",
+"cv": 3
+},
+{
+"id": "w-gyaku",
+"cv": 3
+},
+{
+"id": "w-hantai",
+"cv": 3
+},
+{
+"id": "w-seikai",
+"cv": 3
+},
+{
+"id": "w-himitsu",
+"cv": 4
+},
+{
+"id": "w-jouhou",
+"cv": 3
+},
+{
+"id": "w-kiroku",
+"cv": 2
+},
+{
+"id": "w-kiji",
+"cv": 2
+},
+{
+"id": "w-basho",
+"cv": 3
+},
+{
+"id": "w-machi",
+"cv": 3
+},
+{
+"id": "w-sekai",
+"cv": 3
+},
+{
+"id": "w-sekaijuu",
+"cv": 2
+},
+{
+"id": "w-yasumi",
+"cv": 4
+},
+{
+"id": "w-baito",
+"cv": 4
+},
+{
+"id": "w-kyuuryou",
+"cv": 3
+},
+{
+"id": "w-kega-suru",
+"cv": 3
+},
+{
+"id": "w-keisatsu",
+"cv": 2
+},
+{
+"id": "w-jiko",
+"cv": 2
+},
+{
+"id": "w-kizu",
+"cv": 2
+},
+{
+"id": "w-kyuukyuusha",
+"cv": 2
+},
+{
+"id": "w-ijou",
+"cv": 2
+},
+{
+"id": "w-igai",
+"cv": 3
+},
+{
+"id": "w-inai",
+"cv": 2
+},
+{
+"id": "w-teido",
+"cv": 2
+},
+{
+"id": "w-mitame",
+"cv": 3
+},
+{
+"id": "w-katachi",
+"cv": 2
+},
+{
+"id": "w-nakami",
+"cv": 3
+},
+{
+"id": "w-honmono",
+"cv": 3
+},
+{
+"id": "w-sabishii",
+"cv": 4
+},
+{
+"id": "w-kanashii",
+"cv": 4
+},
+{
+"id": "w-kawaisou",
+"cv": 4
+},
+{
+"id": "w-natsukashii",
+"cv": 4
+},
+{
+"id": "w-heiki",
+"cv": 4
+},
+{
+"id": "w-arigatai",
+"cv": 3
+},
+{
+"id": "w-kimazui",
+"cv": 4
+},
+{
+"id": "w-tokui",
+"cv": 4
+},
+{
+"id": "w-heta",
+"cv": 4
+},
+{
+"id": "w-erai",
+"cv": 4
+},
+{
+"id": "w-rippa",
+"cv": 3
+},
+{
+"id": "w-yuushuu",
+"cv": 3
+},
+{
+"id": "w-okashii",
+"cv": 4
+},
+{
+"id": "w-igai-2",
+"cv": 4
+},
+{
+"id": "w-fushigi",
+"cv": 3
+},
+{
+"id": "w-ayashii",
+"cv": 3
+},
+{
+"id": "w-tokubetsu",
+"cv": 3
+},
+{
+"id": "w-yuumei",
+"cv": 3
+},
+{
+"id": "w-suteki",
+"cv": 3
+},
+{
+"id": "w-kanpeki",
+"cv": 3
+},
+{
+"id": "w-subarashii",
+"cv": 2
+},
+{
+"id": "w-omoi",
+"cv": 3
+},
+{
+"id": "w-karui",
+"cv": 3
+},
+{
+"id": "w-furui",
+"cv": 3
+},
+{
+"id": "w-tsumetai",
+"cv": 3
+},
+{
+"id": "w-taisetsu",
+"cv": 3
+},
+{
+"id": "w-taishita",
+"cv": 4
+},
+{
+"id": "w-juuyou",
+"cv": 2
+},
+{
+"id": "w-kichou",
+"cv": 2
+},
+{
+"id": "w-chikai",
+"cv": 3
+},
+{
+"id": "w-tooi",
+"cv": 3
+},
+{
+"id": "w-hiroi",
+"cv": 3
+},
+{
+"id": "w-semai",
+"cv": 3
+},
+{
+"id": "w-dekai",
+"cv": 3
+},
+{
+"id": "w-kanarazu",
+"cv": 3
+},
+{
+"id": "w-doushitemo",
+"cv": 3
+},
+{
+"id": "w-machigai-nai",
+"cv": 3
+},
+{
+"id": "w-zehi",
+"cv": 3
+},
+{
+"id": "w-shikkari",
+"cv": 3
+},
+{
+"id": "w-chokusetsu",
+"cv": 3
+},
+{
+"id": "w-hakkiri",
+"cv": 3
+},
+{
+"id": "w-kichinto",
+"cv": 2
+},
+{
+"id": "w-sonna-fuu-ni",
+"cv": 3
+},
+{
+"id": "w-marude",
+"cv": 3
+},
+{
+"id": "w-sasuga-ni",
+"cv": 4
+},
+{
+"id": "w-masa-ni",
+"cv": 3
+},
+{
+"id": "w-angai",
+"cv": 3
+},
+{
+"id": "w-mattaku",
+"cv": 3
+},
+{
+"id": "w-sappari",
+"cv": 3
+},
+{
+"id": "w-issai",
+"cv": 2
+},
+{
+"id": "w-kesshite",
+"cv": 2
+},
+{
+"id": "w-daibu",
+"cv": 3
+},
+{
+"id": "w-sukkari",
+"cv": 3
+},
+{
+"id": "w-soutou",
+"cv": 3
+},
+{
+"id": "w-yoppodo",
+"cv": 3
+},
+{
+"id": "w-tottemo",
+"cv": 3
+},
+{
+"id": "w-mechakucha",
+"cv": 4
+},
+{
+"id": "w-zuibun",
+"cv": 3
+},
+{
+"id": "w-shinu-hodo",
+"cv": 4
+},
+{
+"id": "w-sore-kara",
+"cv": 4
+},
+{
+"id": "w-soshite",
+"cv": 2
+},
+{
+"id": "w-soshitara",
+"cv": 4
+},
+{
+"id": "w-sono-ato",
+"cv": 4
+},
+{
+"id": "w-tada-2",
+"cv": 4
+},
+{
+"id": "w-sore-demo",
+"cv": 3
+},
+{
+"id": "w-dakara-tte",
+"cv": 4
+},
+{
+"id": "w-sore-ni-shite-mo",
+"cv": 4
+},
+{
+"id": "w-sono-kawari",
+"cv": 3
+},
+{
+"id": "w-tokoro-de",
+"cv": 4
+},
+{
+"id": "w-sore-yori",
+"cv": 4
+},
+{
+"id": "w-chinami-ni",
+"cv": 4
+},
+{
+"id": "w-sate",
+"cv": 2
+},
+{
+"id": "w-tte-iu-ka",
+"cv": 5
+},
+{
+"id": "w-gyaku-ni",
+"cv": 4
+},
+{
+"id": "w-aru-imi",
+"cv": 3
+},
+{
+"id": "w-mushiro",
+"cv": 3
+},
+{
+"id": "w-iwayuru",
+"cv": 3
+},
+{
+"id": "w-somosomo",
+"cv": 3
+},
+{
+"id": "w-tte-koto-wa",
+"cv": 4
+},
+{
+"id": "w-dakara-koso",
+"cv": 3
+},
+{
+"id": "w-sore-koso",
+"cv": 3
+},
+{
+"id": "w-shikamo",
+"cv": 4
+},
+{
+"id": "w-sore-to-mo",
+"cv": 3
+},
+{
+"id": "w-sore-ni",
+"cv": 3
+},
+{
+"id": "w-sore-to",
+"cv": 3
+},
+{
+"id": "w-tomaru",
+"cv": 2
+},
+{
+"id": "w-ugoku",
+"cv": 2
+},
+{
+"id": "w-magaru",
+"cv": 2
+},
+{
+"id": "w-unten-suru",
+"cv": 3
+},
+{
+"id": "w-tsuite-kuru",
+"cv": 3
+},
+{
+"id": "w-tsuite-iku",
+"cv": 3
+},
+{
+"id": "w-chikazuku",
+"cv": 2
+},
+{
+"id": "w-oikakeru",
+"cv": 2
+},
+{
+"id": "w-mikakeru",
+"cv": 3
+},
+{
+"id": "w-warau",
+"cv": 4
+},
+{
+"id": "w-utau",
+"cv": 3
+},
+{
+"id": "w-odoru",
+"cv": 3
+},
+{
+"id": "w-kisu-suru",
+"cv": 3
+},
+{
+"id": "w-nameru",
+"cv": 3
+},
+{
+"id": "w-homeru",
+"cv": 3
+},
+{
+"id": "w-chuui-suru",
+"cv": 3
+},
+{
+"id": "w-sekkyou-suru",
+"cv": 3
+},
+{
+"id": "w-jiman-suru",
+"cv": 3
+},
+{
+"id": "w-hanashiau",
+"cv": 3
+},
+{
+"id": "w-teian",
+"cv": 2
+},
+{
+"id": "w-sansei-suru",
+"cv": 3
+},
+{
+"id": "w-iidasu",
+"cv": 3
+},
+{
+"id": "w-moriagaru",
+"cv": 4
+},
+{
+"id": "w-kandou-suru",
+"cv": 4
+},
+{
+"id": "w-koufun-suru",
+"cv": 3
+},
+{
+"id": "w-tsuzukeru",
+"cv": 3
+},
+{
+"id": "w-akiru",
+"cv": 4
+},
+{
+"id": "w-kodawaru",
+"cv": 3
+},
+{
+"id": "w-hansei-suru",
+"cv": 3
+},
+{
+"id": "w-ochikomu",
+"cv": 4
+},
+{
+"id": "w-kizutsuku",
+"cv": 3
+},
+{
+"id": "w-mukatsuku",
+"cv": 5
+},
+{
+"id": "w-haradatsu",
+"cv": 4
+},
+{
+"id": "w-yurusu",
+"cv": 3
+},
+{
+"id": "w-mataseru",
+"cv": 3
+},
+{
+"id": "w-enryo-suru",
+"cv": 3
+},
+{
+"id": "w-yuzuru",
+"cv": 2
+},
+{
+"id": "w-kamawanai",
+"cv": 3
+},
+{
+"id": "w-kakawaru",
+"cv": 3
+},
+{
+"id": "w-kirau",
+"cv": 3
+},
+{
+"id": "w-sakeru",
+"cv": 3
+},
+{
+"id": "w-kamau",
+"cv": 3
+},
+{
+"id": "w-houtte-oku",
+"cv": 3
+},
+{
+"id": "w-tsukiau",
+"cv": 4
+},
+{
+"id": "w-wakareru",
+"cv": 4
+},
+{
+"id": "w-kokuhaku-suru",
+"cv": 4
+},
+{
+"id": "w-moteru",
+"cv": 4
+},
+{
+"id": "w-makaseru",
+"cv": 3
+},
+{
+"id": "w-omakase",
+"cv": 3
+},
+{
+"id": "w-tayoru",
+"cv": 3
+},
+{
+"id": "w-suki-ni-suru",
+"cv": 3
+},
+{
+"id": "w-shinyou-suru",
+"cv": 3
+},
+{
+"id": "w-shinrai-suru",
+"cv": 3
+},
+{
+"id": "w-sonkei-suru",
+"cv": 3
+},
+{
+"id": "w-akogareru",
+"cv": 3
+},
+{
+"id": "w-sanka-suru",
+"cv": 3
+},
+{
+"id": "w-sawagu",
+"cv": 3
+},
+{
+"id": "w-medatsu",
+"cv": 3
+},
+{
+"id": "w-kaisan-suru",
+"cv": 3
+},
+{
+"id": "w-kieru",
+"cv": 3
+},
+{
+"id": "w-moeru",
+"cv": 2
+},
+{
+"id": "w-nukeru",
+"cv": 2
+},
+{
+"id": "w-nagareru",
+"cv": 2
+},
+{
+"id": "w-moreru",
+"cv": 2
+},
+{
+"id": "w-fueru",
+"cv": 3
+},
+{
+"id": "w-fuyasu",
+"cv": 2
+},
+{
+"id": "w-tamaru",
+"cv": 3
+},
+{
+"id": "w-sageru",
+"cv": 2
+},
+{
+"id": "w-hikaeru",
+"cv": 3
+},
+{
+"id": "w-kakunin-suru",
+"cv": 2
+},
+{
+"id": "w-shiraberu",
+"cv": 3
+},
+{
+"id": "w-chekku-suru",
+"cv": 3
+},
+{
+"id": "w-tashikameru",
+"cv": 2
+},
+{
+"id": "w-kuraberu",
+"cv": 3
+},
+{
+"id": "w-machigau",
+"cv": 3
+},
+{
+"id": "w-misu-suru",
+"cv": 3
+},
+{
+"id": "w-yarinaosu",
+"cv": 3
+},
+{
+"id": "w-minogasu",
+"cv": 2
+},
+{
+"id": "w-ikeru",
+"cv": 4
+},
+{
+"id": "w-tsuiteru",
+"cv": 4
+},
+{
+"id": "w-ureru",
+"cv": 3
+},
+{
+"id": "w-ateru",
+"cv": 3
+},
+{
+"id": "w-katsuyaku-suru",
+"cv": 3
+},
+{
+"id": "w-renshuu-suru",
+"cv": 3
+},
+{
+"id": "w-shuuchuu-suru",
+"cv": 3
+},
+{
+"id": "w-narau",
+"cv": 3
+},
+{
+"id": "w-manabu",
+"cv": 2
+},
+{
+"id": "w-keisan-suru",
+"cv": 2
+},
+{
+"id": "w-bareru",
+"cv": 4
+},
+{
+"id": "w-damasu",
+"cv": 3
+},
+{
+"id": "w-tsukamaru",
+"cv": 2
+},
+{
+"id": "w-nusumu",
+"cv": 2
+},
+{
+"id": "w-gomakasu",
+"cv": 3
+},
+{
+"id": "w-umu",
+"cv": 3
+},
+{
+"id": "w-sodatsu",
+"cv": 3
+},
+{
+"id": "w-seichou-suru",
+"cv": 3
+},
+{
+"id": "w-onna-no-ko",
+"cv": 4
+},
+{
+"id": "w-otoko-no-ko",
+"cv": 4
+},
+{
+"id": "w-otoko-no-hito",
+"cv": 3
+},
+{
+"id": "w-onna-no-hito",
+"cv": 3
+}
+]
+},
+"cv:phrases": {
+"items": [
+{
+"id": "p-mata-ne",
+"cv": 5,
+"move": "c-social"
+},
+{
+"id": "p-mata-ashita",
+"cv": 4,
+"move": "c-social"
+},
+{
+"id": "p-jaa-mata",
+"cv": 5,
+"move": "c-social"
+},
+{
+"id": "p-baibai",
+"cv": 4,
+"move": "c-social"
+},
+{
+"id": "p-sayounara",
+"cv": 2,
+"move": "c-social"
+},
+{
+"id": "p-tadaima",
+"cv": 3,
+"move": "c-social"
+},
+{
+"id": "p-okaeri",
+"cv": 3,
+"move": "c-social"
+},
+{
+"id": "p-ittekimasu",
+"cv": 2,
+"move": "c-social"
+},
+{
+"id": "p-itterasshai",
+"cv": 2,
+"move": "c-social"
+},
+{
+"id": "p-okaerinasai",
+"cv": 2,
+"move": "c-social"
+},
+{
+"id": "p-konbanwa",
+"cv": 2,
+"move": "c-social"
+},
+{
+"id": "p-onamae-wa",
+"cv": 3,
+"move": "c-ask"
+},
+{
+"id": "p-dochira-kara-desu-ka",
+"cv": 3,
+"move": "c-ask"
+},
+{
+"id": "p-youkoso",
+"cv": 2,
+"move": "c-social"
+},
+{
+"id": "p-doumo",
+"cv": 3,
+"move": "c-social"
+},
+{
+"id": "p-arigatou-gozaimashita",
+"cv": 2,
+"move": "c-social"
+},
+{
+"id": "p-doumo-arigatou",
+"cv": 4,
+"move": "c-social"
+},
+{
+"id": "p-sankyuu",
+"cv": 4,
+"move": "c-social"
+},
+{
+"id": "p-ie-ie",
+"cv": 4,
+"move": "c-social"
+},
+{
+"id": "p-douitashimashite",
+"cv": 2,
+"move": "c-social"
+},
+{
+"id": "p-tondemonai",
+"cv": 3,
+"move": "c-social"
+},
+{
+"id": "p-gomen-nasai",
+"cv": 4,
+"move": "c-social"
+},
+{
+"id": "p-sumimasen-deshita",
+"cv": 2,
+"move": "c-social"
+},
+{
+"id": "p-gomen-gomen",
+"cv": 5,
+"move": "c-social"
+},
+{
+"id": "p-doumo-sumimasen",
+"cv": 2,
+"move": "c-social"
+},
+{
+"id": "p-osoku-natte-sumimasen",
+"cv": 2,
+"move": "c-social"
+},
+{
+"id": "p-ii-desu-ka",
+"cv": 2,
+"move": "c-errands"
+},
+{
+"id": "p-yoroshii-desu-ka",
+"cv": 2,
+"move": "c-errands"
+},
+{
+"id": "p-kiite-mo-ii",
+"cv": 4,
+"move": "c-ask"
+},
+{
+"id": "p-dou-suru",
+"cv": 5,
+"move": "c-plans"
+},
+{
+"id": "p-dou-shitara-ii",
+"cv": 4,
+"move": "c-ask"
+},
+{
+"id": "p-sou-shiyou",
+"cv": 4,
+"move": "c-plans"
+},
+{
+"id": "p-dotchi-demo-ii",
+"cv": 4,
+"move": "c-plans"
+},
+{
+"id": "p-jaa-sore-de",
+"cv": 3,
+"move": "c-plans"
+},
+{
+"id": "p-kore-ni-shimasu",
+"cv": 2,
+"move": "c-errands"
+},
+{
+"id": "p-kore-kudasai",
+"cv": 2,
+"move": "c-errands"
+},
+{
+"id": "p-osusume-wa-nan-desu-ka",
+"cv": 2,
+"move": "c-errands"
+},
+{
+"id": "p-shichaku-shite-mo-ii-desu-ka",
+"cv": 1,
+"move": "c-errands"
+},
+{
+"id": "p-ikura-desu-ka",
+"cv": 2,
+"move": "c-errands"
+},
+{
+"id": "p-kaado-de-onegai-shimasu",
+"cv": 2,
+"move": "c-errands"
+},
+{
+"id": "p-kaado-tsukaemasu-ka",
+"cv": 2,
+"move": "c-errands"
+},
+{
+"id": "p-zeikomi-desu-ka",
+"cv": 1,
+"move": "c-errands"
+},
+{
+"id": "p-reshiito-wa-daijoubu-desu",
+"cv": 1,
+"move": "c-errands"
+},
+{
+"id": "p-fukuro-wa-daijoubu-desu",
+"cv": 1,
+"move": "c-errands"
+},
+{
+"id": "p-fukuro-onegai-shimasu",
+"cv": 1,
+"move": "c-errands"
+},
+{
+"id": "p-kono-mama-de-ii-desu",
+"cv": 1,
+"move": "c-errands"
+},
+{
+"id": "p-purezento-you-desu",
+"cv": 1,
+"move": "c-errands"
+},
+{
+"id": "p-onaka-suita",
+"cv": 4,
+"move": "c-feel"
+},
+{
+"id": "p-oishisou",
+"cv": 4,
+"move": "c-react"
+},
+{
+"id": "p-oishikatta",
+"cv": 4,
+"move": "c-react"
+},
+{
+"id": "p-tabesugita",
+"cv": 4,
+"move": "c-feel"
+},
+{
+"id": "p-mou-taberarenai",
+"cv": 3,
+"move": "c-feel"
+},
+{
+"id": "p-chuumon-ii-desu-ka",
+"cv": 2,
+"move": "c-errands"
+},
+{
+"id": "p-ijou-desu",
+"cv": 2,
+"move": "c-errands"
+},
+{
+"id": "p-toire-wa-doko-desu-ka",
+"cv": 2,
+"move": "c-errands"
+},
+{
+"id": "p-futari-desu",
+"cv": 2,
+"move": "c-errands"
+},
+{
+"id": "p-omizu-kudasai",
+"cv": 2,
+"move": "c-errands"
+},
+{
+"id": "p-mochikaeri-de",
+"cv": 2,
+"move": "c-errands"
+},
+{
+"id": "p-tennai-de",
+"cv": 2,
+"move": "c-errands"
+},
+{
+"id": "p-oomori-de",
+"cv": 1,
+"move": "c-errands"
+},
+{
+"id": "p-kashikomarimashita",
+"cv": 2,
+"move": "c-errands"
+},
+{
+"id": "p-irasshaimase",
+"cv": 2,
+"move": "c-errands"
+},
+{
+"id": "p-gochuumon",
+"cv": 1,
+"move": "c-errands"
+},
+{
+"id": "p-okoshi",
+"cv": 1,
+"move": "c-errands"
+},
+{
+"id": "p-shoushou-omachi-kudasai",
+"cv": 2,
+"move": "c-errands"
+},
+{
+"id": "p-omatase-shimashita",
+"cv": 2,
+"move": "c-errands"
+},
+{
+"id": "p-tsugi-no-kata-douzo",
+"cv": 1,
+"move": "c-errands"
+},
+{
+"id": "p-kochira-no-reji-e-douzo",
+"cv": 1,
+"move": "c-errands"
+},
+{
+"id": "p-tadaima-ukagaimasu",
+"cv": 1,
+"move": "c-errands"
+},
+{
+"id": "p-nanmeisama-desu-ka",
+"cv": 2,
+"move": "c-errands"
+},
+{
+"id": "p-kochira-e-douzo",
+"cv": 2,
+"move": "c-errands"
+},
+{
+"id": "p-osuki-na-seki-e-douzo",
+"cv": 1,
+"move": "c-errands"
+},
+{
+"id": "p-goyoyaku-wa-sarete-imasu-ka",
+"cv": 1,
+"move": "c-errands"
+},
+{
+"id": "p-omachi-shite-orimashita",
+"cv": 1,
+"move": "c-errands"
+},
+{
+"id": "p-goyukkuri-douzo",
+"cv": 1,
+"move": "c-errands"
+},
+{
+"id": "p-gochuumon-wa-okimari-desu-ka",
+"cv": 1,
+"move": "c-errands"
+},
+{
+"id": "p-gochuumon-wa-ijou-de-yoroshii-desu-ka",
+"cv": 1,
+"move": "c-errands"
+},
+{
+"id": "p-onomimono-wa-ikaga-nasaimasu-ka",
+"cv": 1,
+"move": "c-errands"
+},
+{
+"id": "p-osage-shite-mo-yoroshii-desu-ka",
+"cv": 1,
+"move": "c-errands"
+},
+{
+"id": "p-tennai-de-omeshiagari-desu-ka",
+"cv": 1,
+"move": "c-errands"
+},
+{
+"id": "p-omochikaeri-desu-ka",
+"cv": 1,
+"move": "c-errands"
+},
+{
+"id": "p-atatamemasu-ka",
+"cv": 1,
+"move": "c-errands"
+},
+{
+"id": "p-ohashi-wa-otsuke-shimasu-ka",
+"cv": 1,
+"move": "c-errands"
+},
+{
+"id": "p-fukuro-wa-otsuke-shimasu-ka",
+"cv": 1,
+"move": "c-errands"
+},
+{
+"id": "p-pointo-kaado-wa-omochi-desu-ka",
+"cv": 1,
+"move": "c-errands"
+},
+{
+"id": "p-oshiharai-wa-dou-saremasu-ka",
+"cv": 1,
+"move": "c-errands"
+},
+{
+"id": "p-shiiru-de-ii-desu-ka",
+"cv": 1,
+"move": "c-errands"
+},
+{
+"id": "p-ima-doko",
+"cv": 4,
+"move": "c-plans"
+},
+{
+"id": "p-ima-mukatteru",
+"cv": 3,
+"move": "c-plans"
+},
+{
+"id": "p-tsuita-yo",
+"cv": 3,
+"move": "c-plans"
+},
+{
+"id": "p-mou-sugu-tsuku",
+"cv": 3,
+"move": "c-plans"
+},
+{
+"id": "p-omatase",
+"cv": 4,
+"move": "c-social"
+},
+{
+"id": "p-matteru-ne",
+"cv": 3,
+"move": "c-plans"
+},
+{
+"id": "p-okurete-gomen",
+"cv": 4,
+"move": "c-social"
+},
+{
+"id": "p-chotto-okureru",
+"cv": 3,
+"move": "c-plans"
+},
+{
+"id": "p-matta",
+"cv": 3,
+"move": "c-social"
+},
+{
+"id": "p-daijoubu-desu-ka",
+"cv": 3,
+"move": "c-feel"
+},
+{
+"id": "p-nanika-atta",
+"cv": 4,
+"move": "c-ask"
+},
+{
+"id": "p-kega-nai",
+"cv": 2,
+"move": "c-feel"
+},
+{
+"id": "p-mou-daijoubu",
+"cv": 4,
+"move": "c-feel"
+},
+{
+"id": "p-ki-ni-shinaide",
+"cv": 5,
+"move": "c-feel"
+},
+{
+"id": "p-shinpai-shinaide",
+"cv": 4,
+"move": "c-feel"
+},
+{
+"id": "p-nantoka-naru-yo",
+"cv": 4,
+"move": "c-feel"
+},
+{
+"id": "p-yukkuri-de-ii-yo",
+"cv": 3,
+"move": "c-feel"
+},
+{
+"id": "p-goshinpai-naku",
+"cv": 2,
+"move": "c-social"
+},
+{
+"id": "p-yatta",
+"cv": 5,
+"move": "c-react"
+},
+{
+"id": "p-dekita",
+"cv": 3,
+"move": "c-react"
+},
+{
+"id": "p-yoshi",
+"cv": 3,
+"move": "c-react"
+},
+{
+"id": "p-rakkii",
+"cv": 4,
+"move": "c-react"
+},
+{
+"id": "p-yossha",
+"cv": 3,
+"move": "c-react"
+},
+{
+"id": "p-okkee",
+"cv": 5,
+"move": "c-agree"
+},
+{
+"id": "p-mondai-nai",
+"cv": 3,
+"move": "c-agree"
+},
+{
+"id": "p-nan-demo-nai",
+"cv": 4,
+"move": "c-repair"
+},
+{
+"id": "p-taishita-koto-nai",
+"cv": 4,
+"move": "c-opine"
+},
+{
+"id": "p-honto-da",
+"cv": 4,
+"move": "c-react"
+},
+{
+"id": "p-a-sou-da",
+"cv": 5,
+"move": "c-flow"
+},
+{
+"id": "p-sore-na",
+"cv": 5,
+"move": "c-react"
+},
+{
+"id": "p-sono-toori",
+"cv": 3,
+"move": "c-agree"
+},
+{
+"id": "p-nani-sore",
+"cv": 5,
+"move": "c-react"
+},
+{
+"id": "p-nani-kore",
+"cv": 4,
+"move": "c-react"
+},
+{
+"id": "p-nan-datte",
+"cv": 3,
+"move": "c-react"
+},
+{
+"id": "p-nani-yatten-no",
+"cv": 3,
+"move": "c-banter"
+},
+{
+"id": "p-nani-nani",
+"cv": 5,
+"move": "c-ask"
+},
+{
+"id": "p-shinjirarenai",
+"cv": 4,
+"move": "c-react"
+},
+{
+"id": "p-maji-ka",
+"cv": 5,
+"move": "c-react"
+},
+{
+"id": "p-arienai",
+"cv": 5,
+"move": "c-react"
+},
+{
+"id": "p-uso-desho",
+"cv": 5,
+"move": "c-react"
+},
+{
+"id": "p-shimatta",
+"cv": 3,
+"move": "c-react"
+},
+{
+"id": "p-dou-shiyou",
+"cv": 4,
+"move": "c-feel"
+},
+{
+"id": "p-otto",
+"cv": 2,
+"move": "c-react"
+},
+{
+"id": "p-okashii-na",
+"cv": 3,
+"move": "c-react"
+},
+{
+"id": "p-wakarimashita",
+"cv": 2,
+"move": "c-agree"
+},
+{
+"id": "p-wakarimasen",
+"cv": 3,
+"move": "c-repair"
+},
+{
+"id": "p-haai",
+"cv": 3,
+"move": "c-agree"
+},
+{
+"id": "p-ryoukai",
+"cv": 4,
+"move": "c-agree"
+},
+{
+"id": "p-mou-ichido-onegai-shimasu",
+"cv": 3,
+"move": "c-repair"
+},
+{
+"id": "p-kikoenakatta",
+"cv": 4,
+"move": "c-repair"
+},
+{
+"id": "p-yukkuri-hanashite-kudasai",
+"cv": 3,
+"move": "c-repair"
+},
+{
+"id": "p-nihongo-jouzu-desu-ne",
+"cv": 3,
+"move": "c-social"
+},
+{
+"id": "p-sou-sou",
+"cv": 5,
+"move": "c-agree"
+},
+{
+"id": "p-wakaru-wakaru",
+"cv": 5,
+"move": "c-react"
+},
+{
+"id": "p-ossharu-toori-desu",
+"cv": 1,
+"move": "c-errands"
+},
+{
+"id": "p-tsukareta",
+"cv": 4,
+"move": "c-feel"
+},
+{
+"id": "p-zenzen-daijoubu",
+"cv": 5,
+"move": "c-feel"
+},
+{
+"id": "p-yoku-neta",
+"cv": 3,
+"move": "c-catchup"
+},
+{
+"id": "p-nemurenakatta",
+"cv": 4,
+"move": "c-feel"
+},
+{
+"id": "p-hara-hetta",
+"cv": 3,
+"move": "c-feel"
+},
+{
+"id": "p-onaka-ippai",
+"cv": 4,
+"move": "c-feel"
+},
+{
+"id": "p-nodo-kawaita",
+"cv": 3,
+"move": "c-feel"
+},
+{
+"id": "p-onaka-pekopeko",
+"cv": 3,
+"move": "c-feel"
+},
+{
+"id": "p-yopparatta",
+"cv": 4,
+"move": "c-feel"
+},
+{
+"id": "p-tanoshikatta",
+"cv": 5,
+"move": "c-opine"
+},
+{
+"id": "p-dou-datta",
+"cv": 5,
+"move": "c-ask"
+},
+{
+"id": "p-donna-kanji",
+"cv": 5,
+"move": "c-ask"
+},
+{
+"id": "p-omoshirokatta",
+"cv": 5,
+"move": "c-opine"
+},
+{
+"id": "p-genki-datta",
+"cv": 4,
+"move": "c-catchup"
+},
+{
+"id": "p-saikin-dou",
+"cv": 5,
+"move": "c-catchup"
+},
+{
+"id": "p-dou-shiteru",
+"cv": 4,
+"move": "c-catchup"
+},
+{
+"id": "p-kawari-nai",
+"cv": 4,
+"move": "c-catchup"
+},
+{
+"id": "p-kawatte-nai-ne",
+"cv": 3,
+"move": "c-catchup"
+},
+{
+"id": "p-mata-ato-de",
+"cv": 4,
+"move": "c-social"
+},
+{
+"id": "p-mata-kondo",
+"cv": 4,
+"move": "c-plans"
+},
+{
+"id": "p-mata-raishuu",
+"cv": 3,
+"move": "c-social"
+},
+{
+"id": "p-mata-asobou-ne",
+"cv": 4,
+"move": "c-social"
+},
+{
+"id": "p-jaa-sorosoro",
+"cv": 4,
+"move": "c-flow"
+},
+{
+"id": "p-sorosoro-ikou-ka",
+"cv": 3,
+"move": "c-plans"
+},
+{
+"id": "p-osaki-ni",
+"cv": 3,
+"move": "c-social"
+},
+{
+"id": "p-osaki-ni-shitsurei-shimasu",
+"cv": 2,
+"move": "c-errands"
+},
+{
+"id": "p-ki-o-tsukete-kaette-ne",
+"cv": 4,
+"move": "c-social"
+},
+{
+"id": "p-oki-o-tsukete",
+"cv": 2,
+"move": "c-social"
+},
+{
+"id": "p-genki-de-ne",
+"cv": 3,
+"move": "c-social"
+},
+{
+"id": "p-yoroshiku-tsutaete",
+"cv": 3,
+"move": "c-social"
+},
+{
+"id": "p-atsui-desu-ne",
+"cv": 3,
+"move": "c-catchup"
+},
+{
+"id": "p-samui-desu-ne",
+"cv": 3,
+"move": "c-catchup"
+},
+{
+"id": "p-ii-tenki-desu-ne",
+"cv": 2,
+"move": "c-catchup"
+},
+{
+"id": "p-odekake-desu-ka",
+"cv": 2,
+"move": "c-social"
+},
+{
+"id": "p-tasukatta",
+"cv": 4,
+"move": "c-social"
+},
+{
+"id": "p-iroiro-arigatou",
+"cv": 3,
+"move": "c-social"
+},
+{
+"id": "p-itsumo-arigatou-gozaimasu",
+"cv": 2,
+"move": "c-errands"
+},
+{
+"id": "p-osewa-ni-narimashita",
+"cv": 2,
+"move": "c-social"
+},
+{
+"id": "p-otsukaresama-desu",
+"cv": 2,
+"move": "c-errands"
+},
+{
+"id": "p-otsukaresama-deshita",
+"cv": 3,
+"move": "c-social"
+},
+{
+"id": "p-gokurousama-desu",
+"cv": 1,
+"move": "c-errands"
+},
+{
+"id": "p-gokurousan",
+"cv": 1,
+"move": "c-errands"
+},
+{
+"id": "p-irasshai",
+"cv": 3,
+"move": "c-social"
+},
+{
+"id": "p-oagari-kudasai",
+"cv": 2,
+"move": "c-social"
+},
+{
+"id": "p-raku-ni-shite",
+"cv": 3,
+"move": "c-social"
+},
+{
+"id": "p-okake-kudasai",
+"cv": 1,
+"move": "c-errands"
+},
+{
+"id": "p-ojama-shimasu",
+"cv": 3,
+"move": "c-social"
+},
+{
+"id": "p-ojama-shimashita",
+"cv": 3,
+"move": "c-social"
+},
+{
+"id": "p-enryo-shinaide",
+"cv": 3,
+"move": "c-social"
+},
+{
+"id": "p-enryo-naku",
+"cv": 3,
+"move": "c-social"
+},
+{
+"id": "p-okamai-naku",
+"cv": 2,
+"move": "c-social"
+},
+{
+"id": "p-osaki-ni-douzo",
+"cv": 2,
+"move": "c-social"
+},
+{
+"id": "p-shitsurei-shimashita",
+"cv": 2,
+"move": "c-social"
+},
+{
+"id": "p-orimasu",
+"cv": 1,
+"move": "c-errands"
+},
+{
+"id": "p-shitsurei-desu-ga",
+"cv": 2,
+"move": "c-ask"
+},
+{
+"id": "p-ikaga-desu-ka",
+"cv": 2,
+"move": "c-errands"
+},
+{
+"id": "p-tetsudaou-ka",
+"cv": 3,
+"move": "c-social"
+},
+{
+"id": "p-douzo-douzo",
+"cv": 3,
+"move": "c-social"
+},
+{
+"id": "p-nanika-attara-itte-ne",
+"cv": 3,
+"move": "c-social"
+},
+{
+"id": "p-yokattara-douzo",
+"cv": 3,
+"move": "c-social"
+},
+{
+"id": "p-ii-no",
+"cv": 4,
+"move": "c-ask"
+},
+{
+"id": "p-yorokonde",
+"cv": 3,
+"move": "c-plans"
+},
+{
+"id": "p-ki-o-tsukawanaide",
+"cv": 3,
+"move": "c-social"
+},
+{
+"id": "p-kekkou-desu",
+"cv": 2,
+"move": "c-errands"
+},
+{
+"id": "p-kyou-wa-chotto",
+"cv": 4,
+"move": "c-plans"
+},
+{
+"id": "p-koko-de-ii-desu",
+"cv": 2,
+"move": "c-errands"
+},
+{
+"id": "p-enryo-shite-okimasu",
+"cv": 2,
+"move": "c-plans"
+},
+{
+"id": "p-warui-kedo",
+"cv": 4,
+"move": "c-social"
+},
+{
+"id": "p-choudai",
+"cv": 3,
+"move": "c-social"
+},
+{
+"id": "p-chotto-tetsudatte",
+"cv": 3,
+"move": "c-social"
+},
+{
+"id": "p-onegai-ga-aru-n-da-kedo",
+"cv": 3,
+"move": "c-flow"
+},
+{
+"id": "p-onegai-dekimasu-ka",
+"cv": 2,
+"move": "c-errands"
+},
+{
+"id": "p-miteru-dake-desu",
+"cv": 2,
+"move": "c-errands"
+},
+{
+"id": "p-ato-de-mata-kimasu",
+"cv": 1,
+"move": "c-errands"
+},
+{
+"id": "p-chotto-kangaemasu",
+"cv": 1,
+"move": "c-errands"
+},
+{
+"id": "p-kanpai",
+"cv": 4,
+"move": "c-social"
+},
+{
+"id": "p-mou-ippai",
+"cv": 3,
+"move": "c-plans"
+},
+{
+"id": "p-nomisugita",
+"cv": 4,
+"move": "c-feel"
+},
+{
+"id": "p-toriaezu-biiru",
+"cv": 2,
+"move": "c-errands"
+},
+{
+"id": "p-ogoru-yo",
+"cv": 4,
+"move": "c-social"
+},
+{
+"id": "p-okaikei-onegai-shimasu",
+"cv": 2,
+"move": "c-errands"
+},
+{
+"id": "p-ryoushuusho-onegai-shimasu",
+"cv": 1,
+"move": "c-errands"
+},
+{
+"id": "p-betsubetsu-de-onegai-shimasu",
+"cv": 2,
+"move": "c-errands"
+},
+{
+"id": "p-nomi-ni-ikanai",
+"cv": 4,
+"move": "c-plans"
+},
+{
+"id": "p-ocha-demo-dou",
+"cv": 4,
+"move": "c-plans"
+},
+{
+"id": "p-nani-taberu",
+"cv": 4,
+"move": "c-plans"
+},
+{
+"id": "p-suki-kirai-aru",
+"cv": 3,
+"move": "c-ask"
+},
+{
+"id": "p-gohan-ikanai",
+"cv": 4,
+"move": "c-plans"
+},
+{
+"id": "p-okaeshi-desu",
+"cv": 1,
+"move": "c-errands"
+},
+{
+"id": "p-oazukari-shimasu",
+"cv": 1,
+"move": "c-errands"
+},
+{
+"id": "p-goissho-de-yoroshii-desu-ka",
+"cv": 1,
+"move": "c-errands"
+},
+{
+"id": "p-ikkatsu-de-yoroshii-desu-ka",
+"cv": 1,
+"move": "c-errands"
+},
+{
+"id": "p-mata-okoshi-kudasai",
+"cv": 1,
+"move": "c-errands"
+},
+{
+"id": "p-nanika-osagashi-desu-ka",
+"cv": 1,
+"move": "c-errands"
+},
+{
+"id": "p-goran-kudasai",
+"cv": 1,
+"move": "c-errands"
+},
+{
+"id": "p-nanika-goyou-desu-ka",
+"cv": 1,
+"move": "c-errands"
+},
+{
+"id": "p-maido",
+"cv": 1,
+"move": "c-errands"
+},
+{
+"id": "p-doko-de-au",
+"cv": 4,
+"move": "c-plans"
+},
+{
+"id": "p-itsu-ga-ii",
+"cv": 4,
+"move": "c-plans"
+},
+{
+"id": "p-nanji-ga-ii",
+"cv": 4,
+"move": "c-plans"
+},
+{
+"id": "p-saki-ni-ittete",
+"cv": 3,
+"move": "c-plans"
+},
+{
+"id": "p-ikenaku-natta",
+"cv": 3,
+"move": "c-plans"
+},
+{
+"id": "p-mata-renraku-suru-ne",
+"cv": 4,
+"move": "c-flow"
+},
+{
+"id": "p-ima-nani-shiteru",
+"cv": 4,
+"move": "c-catchup"
+},
+{
+"id": "p-rain-shite",
+"cv": 3,
+"move": "c-social"
+},
+{
+"id": "p-rain-koukan-shiyou",
+"cv": 3,
+"move": "c-social"
+},
+{
+"id": "p-ima-daijoubu",
+"cv": 3,
+"move": "c-flow"
+},
+{
+"id": "p-kikoeru",
+"cv": 2,
+"move": "c-repair"
+},
+{
+"id": "p-dochira-sama-desu-ka",
+"cv": 1,
+"move": "c-errands"
+},
+{
+"id": "p-juuden-kiresou",
+"cv": 2,
+"move": "c-flow"
+},
+{
+"id": "p-odaiji-ni",
+"cv": 3,
+"move": "c-feel"
+},
+{
+"id": "p-muri-shinaide",
+"cv": 4,
+"move": "c-feel"
+},
+{
+"id": "p-yukkuri-yasunde",
+"cv": 3,
+"move": "c-feel"
+},
+{
+"id": "p-karada-ni-ki-o-tsukete",
+"cv": 3,
+"move": "c-social"
+},
+{
+"id": "p-kimochi-wakaru",
+"cv": 5,
+"move": "c-feel"
+},
+{
+"id": "p-yoku-ganbatta-ne",
+"cv": 4,
+"move": "c-feel"
+},
+{
+"id": "p-genki-dashite",
+"cv": 3,
+"move": "c-feel"
+},
+{
+"id": "p-faito",
+"cv": 3,
+"move": "c-feel"
+},
+{
+"id": "p-ochitsuite",
+"cv": 3,
+"move": "c-feel"
+},
+{
+"id": "p-kawaisou-ni",
+"cv": 3,
+"move": "c-feel"
+},
+{
+"id": "p-yoshi-yoshi",
+"cv": 2,
+"move": "c-feel"
+},
+{
+"id": "p-nakanaide",
+"cv": 3,
+"move": "c-feel"
+},
+{
+"id": "p-taihen-datta-ne",
+"cv": 5,
+"move": "c-feel"
+},
+{
+"id": "p-sore-wa-tsurai-ne",
+"cv": 4,
+"move": "c-feel"
+},
+{
+"id": "p-ki-o-otosanaide",
+"cv": 3,
+"move": "c-feel"
+},
+{
+"id": "p-aseranakute-ii-yo",
+"cv": 3,
+"move": "c-feel"
+},
+{
+"id": "p-hayaku-yoku-natte-ne",
+"cv": 3,
+"move": "c-feel"
+},
+{
+"id": "p-kaze-hikanai-you-ni-ne",
+"cv": 3,
+"move": "c-social"
+},
+{
+"id": "p-otanjoubi-omedetou",
+"cv": 4,
+"move": "c-social"
+},
+{
+"id": "p-kekkon-omedetou",
+"cv": 3,
+"move": "c-social"
+},
+{
+"id": "p-goukaku-omedetou",
+"cv": 3,
+"move": "c-social"
+},
+{
+"id": "p-sotsugyou-omedetou",
+"cv": 3,
+"move": "c-social"
+},
+{
+"id": "p-uwa",
+"cv": 4,
+"move": "c-react"
+},
+{
+"id": "p-o",
+"cv": 3,
+"move": "c-react"
+},
+{
+"id": "p-ara",
+"cv": 3,
+"move": "c-react"
+},
+{
+"id": "p-arara",
+"cv": 3,
+"move": "c-react"
+},
+{
+"id": "p-fuun",
+"cv": 4,
+"move": "c-react"
+},
+{
+"id": "p-hai-hai",
+"cv": 3,
+"move": "c-react"
+},
+{
+"id": "p-iyaa",
+"cv": 4,
+"move": "c-react"
+},
+{
+"id": "p-haa",
+"cv": 3,
+"move": "c-react"
+},
+{
+"id": "p-yatta-ne",
+"cv": 4,
+"move": "c-react"
+},
+{
+"id": "p-yoku-yatta",
+"cv": 3,
+"move": "c-react"
+},
+{
+"id": "p-ii-naa",
+"cv": 5,
+"move": "c-banter"
+},
+{
+"id": "p-naisu",
+"cv": 4,
+"move": "c-react"
+},
+{
+"id": "p-ii-kanji",
+"cv": 4,
+"move": "c-opine"
+},
+{
+"id": "p-ii-jan",
+"cv": 5,
+"move": "c-opine"
+},
+{
+"id": "p-yosasou",
+"cv": 4,
+"move": "c-opine"
+},
+{
+"id": "p-kore-kore",
+"cv": 3,
+"move": "c-react"
+},
+{
+"id": "p-mou-ii",
+"cv": 3,
+"move": "c-feel"
+},
+{
+"id": "p-dou-demo-ii",
+"cv": 3,
+"move": "c-opine"
+},
+{
+"id": "p-maa-ii-ka",
+"cv": 4,
+"move": "c-opine"
+},
+{
+"id": "p-sore-ga-nanika",
+"cv": 3,
+"move": "c-banter"
+},
+{
+"id": "p-iya-iya",
+"cv": 5,
+"move": "c-agree"
+},
+{
+"id": "p-sore-wa-nai",
+"cv": 4,
+"move": "c-agree"
+},
+{
+"id": "p-nai-nai",
+"cv": 4,
+"move": "c-banter"
+},
+{
+"id": "p-mata-mata",
+"cv": 3,
+"move": "c-banter"
+},
+{
+"id": "p-yamete",
+"cv": 4,
+"move": "c-banter"
+},
+{
+"id": "p-waa",
+"cv": 4,
+"move": "c-react"
+},
+{
+"id": "p-kora",
+"cv": 2,
+"move": "c-banter"
+},
+{
+"id": "p-kuso",
+"cv": 3,
+"move": "c-react"
+},
+{
+"id": "p-dou-omou",
+"cv": 5,
+"move": "c-ask"
+},
+{
+"id": "p-uun",
+"cv": 5,
+"move": "c-opine"
+},
+{
+"id": "p-sou-omou",
+"cv": 4,
+"move": "c-agree"
+},
+{
+"id": "p-saa",
+"cv": 4,
+"move": "c-opine"
+},
+{
+"id": "p-nantomo-ienai",
+"cv": 3,
+"move": "c-opine"
+},
+{
+"id": "p-dou-iu-koto",
+"cv": 5,
+"move": "c-repair"
+},
+{
+"id": "p-nan-no-hanashi",
+"cv": 4,
+"move": "c-repair"
+},
+{
+"id": "p-nan-no-koto",
+"cv": 4,
+"move": "c-repair"
+},
+{
+"id": "p-nanka-you",
+"cv": 3,
+"move": "c-flow"
+},
+{
+"id": "p-sou-ja-nakute",
+"cv": 5,
+"move": "c-repair"
+},
+{
+"id": "p-chigau-chigau",
+"cv": 4,
+"move": "c-agree"
+},
+{
+"id": "p-sou-wa-ikanai",
+"cv": 3,
+"move": "c-agree"
+},
+{
+"id": "p-ano-ne",
+"cv": 5,
+"move": "c-flow"
+},
+{
+"id": "p-ano-sa",
+"cv": 5,
+"move": "c-flow"
+},
+{
+"id": "p-chotto-kiite",
+"cv": 5,
+"move": "c-flow"
+},
+{
+"id": "p-ooi",
+"cv": 2,
+"move": "c-flow"
+},
+{
+"id": "p-dore-dore",
+"cv": 3,
+"move": "c-react"
+},
+{
+"id": "p-shiranakatta",
+"cv": 5,
+"move": "c-react"
+},
+{
+"id": "p-sou-iu-koto-ka",
+"cv": 5,
+"move": "c-react"
+},
+{
+"id": "p-kizukanakatta",
+"cv": 3,
+"move": "c-react"
+},
+{
+"id": "p-tasukete",
+"cv": 2,
+"move": "c-errands"
+},
+{
+"id": "p-kyuukyuusha-o-yonde",
+"cv": 1,
+"move": "c-errands"
+},
+{
+"id": "p-jishin-da",
+"cv": 2,
+"move": "c-errands"
+},
+{
+"id": "p-koko-ga-itai",
+"cv": 2,
+"move": "c-errands"
+},
+{
+"id": "p-koko-doko",
+"cv": 2,
+"move": "c-errands"
+},
+{
+"id": "p-michi-ni-mayotta",
+"cv": 2,
+"move": "c-errands"
+},
+{
+"id": "p-dou-ikeba-ii-desu-ka",
+"cv": 2,
+"move": "c-errands"
+},
+{
+"id": "p-shuuden-nogashita",
+"cv": 3,
+"move": "c-tell"
+},
+{
+"id": "p-kowareta",
+"cv": 3,
+"move": "c-tell"
+},
+{
+"id": "p-ugokanai",
+"cv": 2,
+"move": "c-tell"
+},
+{
+"id": "p-wasuremono-shita",
+"cv": 3,
+"move": "c-tell"
+},
+{
+"id": "p-saifu-o-nakushita",
+"cv": 3,
+"move": "c-tell"
+},
+{
+"id": "p-machigaechatta",
+"cv": 4,
+"move": "c-tell"
+},
+{
+"id": "p-ma-ni-awanai",
+"cv": 3,
+"move": "c-feel"
+},
+{
+"id": "p-komatta-na",
+"cv": 3,
+"move": "c-feel"
+},
+{
+"id": "p-nebou-shita",
+"cv": 4,
+"move": "c-tell"
+},
+{
+"id": "p-mou-dame",
+"cv": 4,
+"move": "c-feel"
+},
+{
+"id": "p-mou-muri",
+"cv": 5,
+"move": "c-feel"
+},
+{
+"id": "p-mou-genkai",
+"cv": 3,
+"move": "c-feel"
+},
+{
+"id": "p-kinchou-suru",
+"cv": 4,
+"move": "c-feel"
+},
+{
+"id": "p-anshin-shita",
+"cv": 4,
+"move": "c-feel"
+},
+{
+"id": "p-hotto-shita",
+"cv": 3,
+"move": "c-feel"
+},
+{
+"id": "p-raku-ni-natta",
+"cv": 3,
+"move": "c-feel"
+},
+{
+"id": "p-moushiwake-arimasen",
+"cv": 1,
+"move": "c-errands"
+},
+{
+"id": "p-moushiwake-gozaimasen",
+"cv": 1,
+"move": "c-errands"
+},
+{
+"id": "p-oisogashii-tokoro-sumimasen",
+"cv": 1,
+"move": "c-errands"
+},
+{
+"id": "p-gomeiwaku-o-okake-shimashita",
+"cv": 1,
+"move": "c-errands"
+},
+{
+"id": "p-suman",
+"cv": 3,
+"move": "c-social"
+},
+{
+"id": "p-moushiwake-nai",
+"cv": 2,
+"move": "c-social"
+},
+{
+"id": "p-yurushite",
+"cv": 3,
+"move": "c-social"
+},
+{
+"id": "p-kakunin-shimasu",
+"cv": 1,
+"move": "c-errands"
+},
+{
+"id": "p-shouchi-shimashita",
+"cv": 1,
+"move": "c-errands"
+},
+{
+"id": "p-onegai-itashimasu",
+"cv": 1,
+"move": "c-errands"
+},
+{
+"id": "p-kentou-shimasu",
+"cv": 1,
+"move": "c-errands"
+},
+{
+"id": "p-osoreirimasu",
+"cv": 1,
+"move": "c-errands"
+},
+{
+"id": "p-okagesama-de",
+"cv": 2,
+"move": "c-catchup"
+},
+{
+"id": "p-mada-mada-desu",
+"cv": 3,
+"move": "c-social"
+},
+{
+"id": "p-mada-mada",
+"cv": 3,
+"move": "c-opine"
+},
+{
+"id": "p-oyaku-ni-tateru",
+"cv": 2,
+"move": "c-errands"
+},
+{
+"id": "p-osewa-ni-natte-orimasu",
+"cv": 1,
+"move": "c-errands"
+},
+{
+"id": "p-tadaima-modorimashita",
+"cv": 1,
+"move": "c-errands"
+},
+{
+"id": "p-otesuu-desu-ga",
+"cv": 1,
+"move": "c-errands"
+},
+{
+"id": "p-makasete",
+"cv": 3,
+"move": "c-plans"
+},
+{
+"id": "p-tanomu-yo",
+"cv": 3,
+"move": "c-social"
+},
+{
+"id": "p-tanomu-kara",
+"cv": 3,
+"move": "c-social"
+},
+{
+"id": "p-onegai-dakara",
+"cv": 3,
+"move": "c-social"
+},
+{
+"id": "p-okawari",
+"cv": 2,
+"move": "c-errands"
+},
+{
+"id": "p-meshiagare",
+"cv": 2,
+"move": "c-social"
+},
+{
+"id": "p-gohan-da-yo",
+"cv": 2,
+"move": "c-social"
+},
+{
+"id": "p-samenai-uchi-ni",
+"cv": 2,
+"move": "c-social"
+},
+{
+"id": "p-kyou-wa-dou-saremashita-ka",
+"cv": 1,
+"move": "c-errands"
+},
+{
+"id": "p-odenwa-arigatou-gozaimasu",
+"cv": 1,
+"move": "c-errands"
+},
+{
+"id": "p-hokenshou-o-onegai-shimasu",
+"cv": 1,
+"move": "c-errands"
+},
+{
+"id": "p-onamae-o-ukagatte-mo-yoroshii-desu-ka",
+"cv": 1,
+"move": "c-errands"
+},
+{
+"id": "p-ato-de-denwa-suru",
+"cv": 3,
+"move": "c-plans"
+},
+{
+"id": "p-ato-de-kakenaosu",
+"cv": 3,
+"move": "c-plans"
+},
+{
+"id": "p-orikaeshi-odenwa-shimasu",
+"cv": 1,
+"move": "c-errands"
+},
+{
+"id": "p-denwa-derarenakute-gomen",
+"cv": 3,
+"move": "c-social"
+},
+{
+"id": "p-akemashite-omedetou",
+"cv": 3,
+"move": "c-social"
+},
+{
+"id": "p-merii-kurisumasu",
+"cv": 3,
+"move": "c-social"
+},
+{
+"id": "p-yoi-otoshi-o",
+"cv": 3,
+"move": "c-social"
+},
+{
+"id": "p-kotoshi-mo-yoroshiku-onegai-shimasu",
+"cv": 3,
+"move": "c-social"
+},
+{
+"id": "p-kotoshi-mo-osewa-ni-narimashita",
+"cv": 2,
+"move": "c-social"
+},
+{
+"id": "p-yoisho",
+"cv": 2,
+"move": "c-react"
+},
+{
+"id": "p-seeno",
+"cv": 2,
+"move": "c-react"
+},
+{
+"id": "p-jaan",
+"cv": 3,
+"move": "c-banter"
+},
+{
+"id": "p-ite",
+"cv": 2,
+"move": "c-react"
+},
+{
+"id": "p-yarareta",
+"cv": 3,
+"move": "c-react"
+},
+{
+"id": "p-chikushou",
+"cv": 2,
+"move": "c-react"
+},
+{
+"id": "p-baka-mitai",
+"cv": 3,
+"move": "c-opine"
+},
+{
+"id": "p-hora-ne",
+"cv": 4,
+"move": "c-banter"
+},
+{
+"id": "p-dakara-itta-ja-nai",
+"cv": 3,
+"move": "c-banter"
+},
+{
+"id": "p-yoku-iu",
+"cv": 3,
+"move": "c-banter"
+},
+{
+"id": "p-oi",
+"cv": 2,
+"move": "c-banter"
+},
+{
+"id": "p-oioi",
+"cv": 3,
+"move": "c-banter"
+},
+{
+"id": "p-mou",
+"cv": 4,
+"move": "c-react"
+},
+{
+"id": "p-shii",
+"cv": 2,
+"move": "c-react"
+},
+{
+"id": "p-hottoite",
+"cv": 3,
+"move": "c-feel"
+},
+{
+"id": "p-shiru-ka",
+"cv": 2,
+"move": "c-banter"
+},
+{
+"id": "p-fuzaken-na",
+"cv": 2,
+"move": "c-banter"
+},
+{
+"id": "p-iikagen-ni-shiro",
+"cv": 2,
+"move": "c-banter"
+},
+{
+"id": "p-sorya-sou-da",
+"cv": 4,
+"move": "c-agree"
+},
+{
+"id": "p-sou-iu-mon",
+"cv": 4,
+"move": "c-opine"
+},
+{
+"id": "p-sore-wa-sou",
+"cv": 4,
+"move": "c-agree"
+},
+{
+"id": "p-joudan-da-yo",
+"cv": 5,
+"move": "c-banter"
+},
+{
+"id": "p-ittoku-kedo",
+"cv": 3,
+"move": "c-tell"
+},
+{
+"id": "p-iroiro-atte",
+"cv": 4,
+"move": "c-tell"
+},
+{
+"id": "p-naisho-da-yo",
+"cv": 4,
+"move": "c-tell"
+},
+{
+"id": "p-jaa-sou-iu-koto-de",
+"cv": 4,
+"move": "c-flow"
+},
+{
+"id": "p-doko-made-hanashita-kke",
+"cv": 4,
+"move": "c-flow"
+},
+{
+"id": "p-hanashi-kawaru-kedo",
+"cv": 5,
+"move": "c-flow"
+},
+{
+"id": "p-sukkiri-shita",
+"cv": 4,
+"move": "c-feel"
+},
+{
+"id": "p-ikikaetta",
+"cv": 3,
+"move": "c-feel"
+},
+{
+"id": "p-sappari-shita",
+"cv": 3,
+"move": "c-feel"
+}
+]
+},
+"hunt:1": {
+"items": [
+{
+"ja": "うんうん",
+"kana": "うんうん",
+"romaji": "un un",
+"polite": null,
+"en": "uh-huh, yeah yeah (I'm listening)",
+"move": "c-react",
+"cv": 5,
+"surface": [
+"うんうん"
+]
+},
+{
+"ja": "えー！",
+"kana": "えー！",
+"romaji": "ee!",
+"polite": null,
+"en": "whaat?! no way! (surprise or mild protest)",
+"move": "c-react",
+"cv": 5,
+"surface": [
+"えーっ",
+"えー！",
+"えー？"
+]
+},
+{
+"ja": "そうなの？",
+"kana": "そうなの？",
+"romaji": "sou na no?",
+"polite": "sou na n desu ka?",
+"en": "oh really? is that so?",
+"move": "c-react",
+"cv": 5,
+"surface": [
+"そうなの？",
+"そうなの?"
+]
+},
+{
+"ja": "そうだったんだ",
+"kana": "そうだったんだ",
+"romaji": "sou datta n da",
+"polite": "sou datta n desu ne",
+"en": "oh, so that's what it was; I had no idea",
+"move": "c-react",
+"cv": 5,
+"surface": [
+"そうだったんだ",
+"そうだったの"
+]
+},
+{
+"ja": "よかったね",
+"kana": "よかったね",
+"romaji": "yokatta ne",
+"polite": "yokatta desu ne",
+"en": "I'm glad for you; good for you",
+"move": "c-react",
+"cv": 5,
+"surface": [
+"よかったね",
+"良かったね"
+]
+},
+{
+"ja": "なーんだ",
+"kana": "なーんだ",
+"romaji": "nanda",
+"polite": null,
+"en": "oh, is that all? (relief or letdown)",
+"move": "c-react",
+"cv": 4,
+"surface": [
+"なーんだ",
+"なんだ、そっか",
+"なんだ、そうか"
+]
+},
+{
+"ja": "ウケる",
+"kana": "うける",
+"romaji": "ukeru",
+"polite": null,
+"en": "lol, that's hilarious",
+"move": "c-react",
+"cv": 4,
+"surface": [
+"ウケる",
+"ウケるー"
+]
+},
+{
+"ja": "あるある",
+"kana": "あるある",
+"romaji": "aru aru",
+"polite": null,
+"en": "so relatable; that always happens",
+"move": "c-react",
+"cv": 4,
+"surface": [
+"あるある"
+]
+},
+{
+"ja": "懐かしい",
+"kana": "なつかしい",
+"romaji": "natsukashii",
+"polite": null,
+"en": "that takes me back!; so nostalgic",
+"move": "c-react",
+"cv": 4,
+"surface": [
+"懐かしい",
+"なつかしい"
+]
+},
+{
+"ja": "羨ましい",
+"kana": "うらやましい",
+"romaji": "urayamashii",
+"polite": "urayamashii desu",
+"en": "I'm so jealous; lucky you",
+"move": "c-react",
+"cv": 4,
+"surface": [
+"羨ましい",
+"うらやましい"
+]
+},
+{
+"ja": "ずるい",
+"kana": "ずるい",
+"romaji": "zurui",
+"polite": null,
+"en": "no fair!; lucky you (playful)",
+"move": "c-react",
+"cv": 4,
+"surface": [
+"ずるい"
+]
+},
+{
+"ja": "楽しそう",
+"kana": "たのしそう",
+"romaji": "tanoshisou",
+"polite": "tanoshisou desu ne",
+"en": "sounds fun!",
+"move": "c-react",
+"cv": 4,
+"surface": [
+"楽しそう"
+]
+},
+{
+"ja": "面白そう",
+"kana": "おもしろそう",
+"romaji": "omoshirosou",
+"polite": "omoshirosou desu ne",
+"en": "sounds interesting!",
+"move": "c-react",
+"cv": 4,
+"surface": [
+"面白そう",
+"おもしろそう"
+]
+},
+{
+"ja": "大変そう",
+"kana": "たいへんそう",
+"romaji": "taihensou",
+"polite": "taihensou desu ne",
+"en": "sounds rough; that must be hard",
+"move": "c-react",
+"cv": 4,
+"surface": [
+"大変そう"
+]
+},
+{
+"ja": "惜しい",
+"kana": "おしい",
+"romaji": "oshii",
+"polite": null,
+"en": "so close!; what a shame",
+"move": "c-react",
+"cv": 4,
+"surface": [
+"惜しい",
+"おしい！"
+]
+},
+{
+"ja": "もったいない",
+"kana": "もったいない",
+"romaji": "mottainai",
+"polite": null,
+"en": "what a waste!",
+"move": "c-react",
+"cv": 4,
+"surface": [
+"もったいない",
+"勿体ない"
+]
+},
+{
+"ja": "偉い！",
+"kana": "えらい！",
+"romaji": "erai",
+"polite": null,
+"en": "good for you!; well done (for the effort)",
+"move": "c-react",
+"cv": 4,
+"surface": [
+"偉い！",
+"えらい！",
+"偉いね"
+]
+},
+{
+"ja": "やるじゃん",
+"kana": "やるじゃん",
+"romaji": "yaru jan",
+"polite": null,
+"en": "not bad!; nice going",
+"move": "c-react",
+"cv": 4,
+"surface": [
+"やるじゃん"
+]
+},
+{
+"ja": "かっこいい",
+"kana": "かっこいい",
+"romaji": "kakkoii",
+"polite": "kakkoii desu ne",
+"en": "cool!; that's so cool",
+"move": "c-react",
+"cv": 4,
+"surface": [
+"かっこいい",
+"カッコいい",
+"格好いい"
+]
+},
+{
+"ja": "マジで言ってる？",
+"kana": "まじでいってる？",
+"romaji": "maji de itteru?",
+"polite": null,
+"en": "are you serious?; you're not joking?",
+"move": "c-react",
+"cv": 4,
+"surface": [
+"マジで言ってる",
+"本気で言ってる"
+]
+},
+{
+"ja": "そんなことある？",
+"kana": "そんなことある？",
+"romaji": "sonna koto aru?",
+"polite": null,
+"en": "how is that even possible?!",
+"move": "c-react",
+"cv": 4,
+"surface": [
+"そんなことある？",
+"そんなことある?"
+]
+},
+{
+"ja": "え、それだけ？",
+"kana": "え、それだけ？",
+"romaji": "e, sore dake?",
+"polite": "e, sore dake desu ka?",
+"en": "wait, that's it?",
+"move": "c-react",
+"cv": 4,
+"surface": [
+"それだけ？",
+"それだけ?"
+]
+},
+{
+"ja": "ドンマイ",
+"kana": "どんまい",
+"romaji": "donmai",
+"polite": null,
+"en": "never mind; don't sweat it (after a slip-up)",
+"move": "c-react",
+"cv": 4,
+"surface": [
+"ドンマイ"
+]
+},
+{
+"ja": "当たり！",
+"kana": "あたり！",
+"romaji": "atari",
+"polite": null,
+"en": "bingo!; you got it",
+"move": "c-react",
+"cv": 4,
+"surface": [
+"当たり！",
+"あたり！"
+]
+},
+{
+"ja": "まずい",
+"kana": "まずい",
+"romaji": "mazui",
+"polite": null,
+"en": "uh-oh, that's bad (also: tastes bad)",
+"move": "c-react",
+"cv": 4,
+"surface": [
+"まずい",
+"マズい"
+]
+},
+{
+"ja": "むかつく",
+"kana": "むかつく",
+"romaji": "mukatsuku",
+"polite": null,
+"en": "that's so annoying; it pisses me off",
+"move": "c-react",
+"cv": 4,
+"surface": [
+"むかつく",
+"ムカつく"
+]
+},
+{
+"ja": "嘘みたい",
+"kana": "うそみたい",
+"romaji": "uso mitai",
+"polite": null,
+"en": "it's unreal; I can hardly believe it",
+"move": "c-react",
+"cv": 4,
+"surface": [
+"嘘みたい",
+"うそみたい"
+]
+},
+{
+"ja": "天才！",
+"kana": "てんさい！",
+"romaji": "tensai",
+"polite": null,
+"en": "you're a genius!",
+"move": "c-react",
+"cv": 4,
+"surface": [
+"天才！",
+"天才じゃん"
+]
+},
+{
+"ja": "怪しい",
+"kana": "あやしい",
+"romaji": "ayashii",
+"polite": null,
+"en": "sounds fishy; suspicious (often teasing)",
+"move": "c-react",
+"cv": 4,
+"surface": [
+"怪しい",
+"あやしい"
+]
+},
+{
+"ja": "珍しい",
+"kana": "めずらしい",
+"romaji": "mezurashii",
+"polite": "mezurashii desu ne",
+"en": "that's unusual (for you)!",
+"move": "c-react",
+"cv": 4,
+"surface": [
+"珍しい",
+"めずらしい"
+]
+},
+{
+"ja": "嘘つけ",
+"kana": "うそつけ",
+"romaji": "uso tsuke",
+"polite": null,
+"en": "yeah, right; liar! (playful)",
+"move": "c-react",
+"cv": 4,
+"surface": [
+"嘘つけ",
+"うそつけ"
+]
+},
+{
+"ja": "きつい",
+"kana": "きつい",
+"romaji": "kitsui",
+"polite": null,
+"en": "that's rough; that's a lot",
+"move": "c-react",
+"cv": 4,
+"surface": [
+"きつい",
+"キツい"
+]
+},
+{
+"ja": "それで？",
+"kana": "それで？",
+"romaji": "sore de?",
+"polite": null,
+"en": "and then? so?",
+"move": "c-ask",
+"cv": 5,
+"surface": [
+"それで？",
+"それで?"
+]
+},
+{
+"ja": "どうなったの？",
+"kana": "どうなったの？",
+"romaji": "dou natta no?",
+"polite": "dou natta n desu ka?",
+"en": "so what happened? how did it turn out?",
+"move": "c-ask",
+"cv": 5,
+"surface": [
+"どうなったの"
+]
+},
+{
+"ja": "何があったの？",
+"kana": "なにがあったの？",
+"romaji": "nani ga atta no?",
+"polite": "nani ga atta n desu ka?",
+"en": "what happened?",
+"move": "c-ask",
+"cv": 5,
+"surface": [
+"何があったの",
+"なにがあったの"
+]
+},
+{
+"ja": "どんな人？",
+"kana": "どんなひと？",
+"romaji": "donna hito?",
+"polite": "donna hito desu ka?",
+"en": "what's he / she like?",
+"move": "c-ask",
+"cv": 5,
+"surface": [
+"どんな人？",
+"どんな人?"
+]
+},
+{
+"ja": "何て言ってた？",
+"kana": "なんていってた？",
+"romaji": "nante itteta?",
+"polite": "nante itte imashita ka?",
+"en": "what did they say?",
+"move": "c-ask",
+"cv": 5,
+"surface": [
+"何て言ってた",
+"なんて言ってた"
+]
+},
+{
+"ja": "何してたの？",
+"kana": "なにしてたの？",
+"romaji": "nani shiteta no?",
+"polite": "nani shite ita n desu ka?",
+"en": "what were you up to?",
+"move": "c-ask",
+"cv": 5,
+"surface": [
+"何してたの",
+"なにしてたの"
+]
+},
+{
+"ja": "そっちは？",
+"kana": "そっちは？",
+"romaji": "sotchi wa?",
+"polite": null,
+"en": "what about you?; and you?",
+"move": "c-ask",
+"cv": 5,
+"surface": [
+"そっちは？",
+"そっちは?"
+]
+},
+{
+"ja": "〜ってどう？",
+"kana": "〜ってどう？",
+"romaji": "...tte dou?",
+"polite": "...wa dou desu ka?",
+"en": "how's ...?; what's ... like?",
+"move": "c-ask",
+"cv": 5,
+"surface": [
+"ってどう？",
+"ってどう?"
+]
+},
+{
+"ja": "いつから？",
+"kana": "いつから？",
+"romaji": "itsu kara?",
+"polite": "itsu kara desu ka?",
+"en": "since when?",
+"move": "c-ask",
+"cv": 4,
+"surface": [
+"いつから？",
+"いつから?"
+]
+},
+{
+"ja": "誰と行ったの？",
+"kana": "だれといったの？",
+"romaji": "dare to itta no?",
+"polite": "dare to itta n desu ka?",
+"en": "who'd you go with?",
+"move": "c-ask",
+"cv": 4,
+"surface": [
+"誰と行ったの"
+]
+},
+{
+"ja": "どうやって知り合ったの？",
+"kana": "どうやってしりあったの？",
+"romaji": "dou yatte shiriatta no?",
+"polite": "dou yatte shiriatta n desu ka?",
+"en": "how did you two meet?",
+"move": "c-ask",
+"cv": 4,
+"surface": [
+"どうやって知り合った"
+]
+},
+{
+"ja": "大丈夫だった？",
+"kana": "だいじょうぶだった？",
+"romaji": "daijoubu datta?",
+"polite": "daijoubu deshita ka?",
+"en": "were you okay?; did it go all right?",
+"move": "c-ask",
+"cv": 4,
+"surface": [
+"大丈夫だった"
+]
+},
+{
+"ja": "なんで知ってるの？",
+"kana": "なんでしってるの？",
+"romaji": "nande shitteru no?",
+"polite": "doushite shitte iru n desu ka?",
+"en": "how do you know that?",
+"move": "c-ask",
+"cv": 4,
+"surface": [
+"なんで知ってるの",
+"何で知ってるの"
+]
+},
+{
+"ja": "誰から聞いたの？",
+"kana": "だれからきいたの？",
+"romaji": "dare kara kiita no?",
+"polite": "dare kara kiita n desu ka?",
+"en": "who told you that?",
+"move": "c-ask",
+"cv": 4,
+"surface": [
+"誰から聞いた"
+]
+},
+{
+"ja": "他には？",
+"kana": "ほかには？",
+"romaji": "hoka ni wa?",
+"polite": null,
+"en": "what else?; anything else?",
+"move": "c-ask",
+"cv": 4,
+"surface": [
+"他には？",
+"ほかには？"
+]
+},
+{
+"ja": "最近何にハマってる？",
+"kana": "さいきんなににはまってる？",
+"romaji": "saikin nani ni hamatteru?",
+"polite": "saikin nani ni hamatte imasu ka?",
+"en": "what are you into lately?",
+"move": "c-ask",
+"cv": 4,
+"surface": [
+"ハマってる",
+"はまってる"
+]
+},
+{
+"ja": "休みの日は何してるの？",
+"kana": "やすみのひはなにしてるの？",
+"romaji": "yasumi no hi wa nani shiteru no?",
+"polite": "yasumi no hi wa nani o shite imasu ka?",
+"en": "what do you do on your days off?",
+"move": "c-ask",
+"cv": 4,
+"surface": [
+"休みの日は何して",
+"休みの日って何して"
+]
+},
+{
+"ja": "なんかいいことあった？",
+"kana": "なんかいいことあった？",
+"romaji": "nanka ii koto atta?",
+"polite": "nanika ii koto arimashita ka?",
+"en": "did something good happen? (you look happy)",
+"move": "c-ask",
+"cv": 4,
+"surface": [
+"いいことあった"
+]
+},
+{
+"ja": "何が？",
+"kana": "なにが？",
+"romaji": "nani ga?",
+"polite": "nani ga desu ka?",
+"en": "what is?; what about it?",
+"move": "c-ask",
+"cv": 4,
+"surface": [
+"何が？",
+"なにが？"
+]
+},
+{
+"ja": "なんでそう思うの？",
+"kana": "なんでそうおもうの？",
+"romaji": "nande sou omou no?",
+"polite": "doushite sou omou n desu ka?",
+"en": "why do you think so?",
+"move": "c-ask",
+"cv": 4,
+"surface": [
+"なんでそう思う",
+"何でそう思う"
+]
+},
+{
+"ja": "どっちが好き？",
+"kana": "どっちがすき？",
+"romaji": "dotchi ga suki?",
+"polite": "dochira ga suki desu ka?",
+"en": "which do you prefer?",
+"move": "c-ask",
+"cv": 4,
+"surface": [
+"どっちが好き"
+]
+},
+{
+"ja": "あれからどう？",
+"kana": "あれからどう？",
+"romaji": "are kara dou?",
+"polite": "are kara dou desu ka?",
+"en": "how's it been since then?",
+"move": "c-ask",
+"cv": 4,
+"surface": [
+"あれからどう"
+]
+},
+{
+"ja": "慣れた？",
+"kana": "なれた？",
+"romaji": "nareta?",
+"polite": "naremashita ka?",
+"en": "getting used to it?",
+"move": "c-ask",
+"cv": 4,
+"surface": [
+"慣れた？",
+"慣れた?"
+]
+},
+{
+"ja": "何が一番よかった？",
+"kana": "なにがいちばんよかった？",
+"romaji": "nani ga ichiban yokatta?",
+"polite": "nani ga ichiban yokatta desu ka?",
+"en": "what was the best part?",
+"move": "c-ask",
+"cv": 4,
+"surface": [
+"何が一番よかった",
+"何が一番良かった"
+]
+},
+{
+"ja": "だよね",
+"kana": "だよね",
+"romaji": "da yo ne",
+"polite": "desu yo ne",
+"en": "right?!; I know, right",
+"move": "c-agree",
+"cv": 5,
+"surface": [
+"だよね",
+"だよねー"
+]
+},
+{
+"ja": "まあね",
+"kana": "まあね",
+"romaji": "maa ne",
+"polite": null,
+"en": "well, yeah; I guess so",
+"move": "c-agree",
+"cv": 5,
+"surface": [
+"まあね"
+]
+},
+{
+"ja": "私も",
+"kana": "わたしも",
+"romaji": "watashi mo",
+"polite": "watashi mo desu",
+"en": "me too (guys: boku mo / ore mo)",
+"move": "c-agree",
+"cv": 5,
+"surface": [
+"わたしも",
+"あたしも",
+"私もそう"
+]
+},
+{
+"ja": "どうだろう",
+"kana": "どうだろう",
+"romaji": "dou darou",
+"polite": "dou deshou ne",
+"en": "hmm, I'm not so sure about that",
+"move": "c-agree",
+"cv": 5,
+"surface": [
+"どうだろう"
+]
+},
+{
+"ja": "それはそうだけど",
+"kana": "それはそうだけど",
+"romaji": "sore wa sou da kedo",
+"polite": "sore wa sou desu kedo",
+"en": "that's true, but...",
+"move": "c-agree",
+"cv": 5,
+"surface": [
+"それはそうだけど"
+]
+},
+{
+"ja": "そうでもない",
+"kana": "そうでもない",
+"romaji": "sou demo nai",
+"polite": "sou demo nai desu",
+"en": "not really; not so much",
+"move": "c-agree",
+"cv": 5,
+"surface": [
+"そうでもない"
+]
+},
+{
+"ja": "ほんとそれ",
+"kana": "ほんとそれ",
+"romaji": "honto sore",
+"polite": null,
+"en": "so true; exactly",
+"move": "c-agree",
+"cv": 4,
+"surface": [
+"ほんとそれ",
+"本当それ"
+]
+},
+{
+"ja": "同感",
+"kana": "どうかん",
+"romaji": "doukan",
+"polite": "doukan desu",
+"en": "same here; I agree",
+"move": "c-agree",
+"cv": 4,
+"surface": [
+"同感だ",
+"同感です"
+]
+},
+{
+"ja": "それはある",
+"kana": "それはある",
+"romaji": "sore wa aru",
+"polite": "sore wa arimasu ne",
+"en": "that's a factor; fair point",
+"move": "c-agree",
+"cv": 4,
+"surface": [
+"それはある"
+]
+},
+{
+"ja": "言えてる",
+"kana": "いえてる",
+"romaji": "ieteru",
+"polite": null,
+"en": "you said it; good point",
+"move": "c-agree",
+"cv": 4,
+"surface": [
+"言えてる"
+]
+},
+{
+"ja": "間違いない",
+"kana": "まちがいない",
+"romaji": "machigai nai",
+"polite": "machigai nai desu",
+"en": "no doubt; definitely",
+"move": "c-agree",
+"cv": 4,
+"surface": [
+"間違いない"
+]
+},
+{
+"ja": "そうとも限らない",
+"kana": "そうともかぎらない",
+"romaji": "sou to mo kagiranai",
+"polite": "sou to mo kagirimasen",
+"en": "not necessarily",
+"move": "c-agree",
+"cv": 4,
+"surface": [
+"とも限らない",
+"とは限らない"
+]
+},
+{
+"ja": "人による",
+"kana": "ひとによる",
+"romaji": "hito ni yoru",
+"polite": "hito ni yorimasu ne",
+"en": "depends on the person",
+"move": "c-agree",
+"cv": 4,
+"surface": [
+"人による",
+"人によるよ"
+]
+},
+{
+"ja": "気持ちはわかるけど",
+"kana": "きもちはわかるけど",
+"romaji": "kimochi wa wakaru kedo",
+"polite": "kimochi wa wakarimasu kedo",
+"en": "I get how you feel, but...",
+"move": "c-agree",
+"cv": 4,
+"surface": [
+"気持ちはわかる",
+"気持ちは分かる"
+]
+},
+{
+"ja": "言われてみれば",
+"kana": "いわれてみれば",
+"romaji": "iwarete mireba",
+"polite": null,
+"en": "now that you mention it",
+"move": "c-agree",
+"cv": 4,
+"surface": [
+"言われてみれば"
+]
+},
+{
+"ja": "それもそうだね",
+"kana": "それもそうだね",
+"romaji": "sore mo sou da ne",
+"polite": "sore mo sou desu ne",
+"en": "that's true too; fair point",
+"move": "c-agree",
+"cv": 4,
+"surface": [
+"それもそうだね",
+"それもそうか"
+]
+},
+{
+"ja": "それは違うと思う",
+"kana": "それはちがうとおもう",
+"romaji": "sore wa chigau to omou",
+"polite": "sore wa chigau to omoimasu",
+"en": "I don't think that's right",
+"move": "c-agree",
+"cv": 4,
+"surface": [
+"違うと思う"
+]
+},
+{
+"ja": "そこまでじゃない",
+"kana": "そこまでじゃない",
+"romaji": "soko made ja nai",
+"polite": "soko made ja nai desu",
+"en": "it's not that bad / that great; not to that extent",
+"move": "c-agree",
+"cv": 4,
+"surface": [
+"そこまでじゃない"
+]
+},
+{
+"ja": "そうは思わない",
+"kana": "そうはおもわない",
+"romaji": "sou wa omowanai",
+"polite": "sou wa omoimasen",
+"en": "I don't think so",
+"move": "c-agree",
+"cv": 4,
+"surface": [
+"そうは思わない"
+]
+},
+{
+"ja": "そう言ってるじゃん",
+"kana": "そういってるじゃん",
+"romaji": "sou itteru jan",
+"polite": null,
+"en": "that's what I'm saying!",
+"move": "c-agree",
+"cv": 4,
+"surface": [
+"そう言ってるじゃん",
+"だから言ってるじゃん"
+]
+},
+{
+"ja": "さすがに",
+"kana": "さすがに",
+"romaji": "sasuga ni",
+"polite": null,
+"en": "that's going a bit far; even so, (that's) too...",
+"move": "c-opine",
+"cv": 5,
+"surface": [
+"さすがに"
+]
+},
+{
+"ja": "微妙",
+"kana": "びみょう",
+"romaji": "bimyou",
+"polite": "bimyou desu ne",
+"en": "meh; iffy; hard to say",
+"move": "c-opine",
+"cv": 5,
+"surface": [
+"びみょう",
+"微妙だな",
+"微妙だね"
+]
+},
+{
+"ja": "いいんじゃない？",
+"kana": "いいんじゃない？",
+"romaji": "ii n ja nai?",
+"polite": "ii n ja nai desu ka?",
+"en": "sounds good to me; why not?",
+"move": "c-opine",
+"cv": 5,
+"surface": [
+"いいんじゃない"
+]
+},
+{
+"ja": "〜っぽい",
+"kana": "〜っぽい",
+"romaji": "-ppoi",
+"polite": null,
+"en": "-ish; seems like (kodomo ppoi = childish)",
+"move": "c-opine",
+"cv": 5,
+"surface": [
+"っぽい"
+]
+},
+{
+"ja": "面倒くさい",
+"kana": "めんどくさい",
+"romaji": "mendokusai",
+"polite": "mendokusai desu ne",
+"en": "what a pain; can't be bothered",
+"move": "c-opine",
+"cv": 5,
+"surface": [
+"めんどくさい",
+"面倒くさい",
+"めんどい"
+]
+},
+{
+"ja": "よくわかんないけど",
+"kana": "よくわかんないけど",
+"romaji": "yoku wakannai kedo",
+"polite": "yoku wakaranai desu kedo",
+"en": "I'm not really sure, but...",
+"move": "c-opine",
+"cv": 5,
+"surface": [
+"よくわかんないけど",
+"よく分かんないけど"
+]
+},
+{
+"ja": "そう思わない？",
+"kana": "そうおもわない？",
+"romaji": "sou omowanai?",
+"polite": "sou omoimasen ka?",
+"en": "don't you think?",
+"move": "c-opine",
+"cv": 5,
+"surface": [
+"そう思わない？",
+"そう思わない?"
+]
+},
+{
+"ja": "普通に",
+"kana": "ふつうに",
+"romaji": "futsuu ni",
+"polite": null,
+"en": "honestly, genuinely (futsuu ni oishii = legit tasty)",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"普通に",
+"ふつうに"
+]
+},
+{
+"ja": "ぶっちゃけ",
+"kana": "ぶっちゃけ",
+"romaji": "butchake",
+"polite": null,
+"en": "honestly; to be blunt",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"ぶっちゃけ"
+]
+},
+{
+"ja": "逆に",
+"kana": "ぎゃくに",
+"romaji": "gyaku ni",
+"polite": null,
+"en": "if anything, the opposite; actually",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"逆に、",
+"逆にさ",
+"ぎゃくに"
+]
+},
+{
+"ja": "意外と",
+"kana": "いがいと",
+"romaji": "igai to",
+"polite": null,
+"en": "surprisingly; more than you'd think",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"意外と",
+"いがいと"
+]
+},
+{
+"ja": "別にいいけど",
+"kana": "べつにいいけど",
+"romaji": "betsu ni ii kedo",
+"polite": "betsu ni ii desu kedo",
+"en": "I mean, it's fine, but...",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"別にいいけど"
+]
+},
+{
+"ja": "どっちかっていうと",
+"kana": "どっちかっていうと",
+"romaji": "dotchika tte iu to",
+"polite": "dochira ka to iu to",
+"en": "if anything; I'd lean toward",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"どっちかっていうと",
+"どっちかというと"
+]
+},
+{
+"ja": "まあまあ",
+"kana": "まあまあ",
+"romaji": "maa maa",
+"polite": "maa maa desu",
+"en": "so-so; not bad",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"まあまあ"
+]
+},
+{
+"ja": "悪くない",
+"kana": "わるくない",
+"romaji": "warukunai",
+"polite": "warukunai desu ne",
+"en": "not bad",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"悪くない"
+]
+},
+{
+"ja": "〜みたいな",
+"kana": "〜みたいな",
+"romaji": "mitai na",
+"polite": null,
+"en": "like, ... (trailing hedge after a quote or idea)",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"みたいな",
+"みたいなー"
+]
+},
+{
+"ja": "わりと",
+"kana": "わりと",
+"romaji": "warito",
+"polite": null,
+"en": "fairly; relatively",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"わりと"
+]
+},
+{
+"ja": "なんとなく",
+"kana": "なんとなく",
+"romaji": "nantonaku",
+"polite": null,
+"en": "somehow; just a feeling; no real reason",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"なんとなく",
+"何となく"
+]
+},
+{
+"ja": "個人的には",
+"kana": "こじんてきには",
+"romaji": "kojinteki ni wa",
+"polite": null,
+"en": "personally; for me",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"個人的には"
+]
+},
+{
+"ja": "アリだね",
+"kana": "ありだね",
+"romaji": "ari da ne",
+"polite": "ari desu ne",
+"en": "that works; I'm into that",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"アリだね",
+"全然アリ",
+"アリかも"
+]
+},
+{
+"ja": "むしろ",
+"kana": "むしろ",
+"romaji": "mushiro",
+"polite": null,
+"en": "if anything; rather",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"むしろ"
+]
+},
+{
+"ja": "なんか違う",
+"kana": "なんかちがう",
+"romaji": "nanka chigau",
+"polite": "nanka chigaimasu ne",
+"en": "something's off; not quite it",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"なんか違う"
+]
+},
+{
+"ja": "っていうか",
+"kana": "っていうか",
+"romaji": "tte iu ka",
+"polite": "to iu ka",
+"en": "I mean; or rather",
+"move": "c-repair",
+"cv": 5,
+"surface": [
+"っていうか",
+"ていうか"
+]
+},
+{
+"ja": "何だっけ",
+"kana": "なんだっけ",
+"romaji": "nan dakke",
+"polite": "nan deshita kke",
+"en": "what was it again?",
+"move": "c-repair",
+"cv": 5,
+"surface": [
+"何だっけ",
+"なんだっけ"
+]
+},
+{
+"ja": "何て言うんだっけ",
+"kana": "なんていうんだっけ",
+"romaji": "nante iu n dakke",
+"polite": "nante iu n deshita kke",
+"en": "what's the word for it again?",
+"move": "c-repair",
+"cv": 4,
+"surface": [
+"何て言うんだっけ",
+"なんて言うんだっけ"
+]
+},
+{
+"ja": "誰のこと？",
+"kana": "だれのこと？",
+"romaji": "dare no koto?",
+"polite": "dare no koto desu ka?",
+"en": "who do you mean?",
+"move": "c-repair",
+"cv": 4,
+"surface": [
+"誰のこと"
+]
+},
+{
+"ja": "ごめん、聞いてなかった",
+"kana": "ごめん、きいてなかった",
+"romaji": "gomen, kiitenakatta",
+"polite": "sumimasen, kiite imasen deshita",
+"en": "sorry, I wasn't listening",
+"move": "c-repair",
+"cv": 4,
+"surface": [
+"聞いてなかった"
+]
+},
+{
+"ja": "言いたいことわかる？",
+"kana": "いいたいことわかる？",
+"romaji": "iitai koto wakaru?",
+"polite": "iitai koto wakarimasu ka?",
+"en": "you know what I mean?",
+"move": "c-repair",
+"cv": 4,
+"surface": [
+"言いたいことわかる",
+"言いたいこと分かる"
+]
+},
+{
+"ja": "ほら、あれ",
+"kana": "ほら、あれ",
+"romaji": "hora, are",
+"polite": null,
+"en": "you know, that thing (hunting for a word)",
+"move": "c-repair",
+"cv": 4,
+"surface": [
+"ほら、あれ",
+"ほらあれ"
+]
+},
+{
+"ja": "合ってる？",
+"kana": "あってる？",
+"romaji": "atteru?",
+"polite": "atte imasu ka?",
+"en": "is that right?; did I get it right?",
+"move": "c-repair",
+"cv": 4,
+"surface": [
+"合ってる？",
+"合ってる?"
+]
+},
+{
+"ja": "ちょっと違うかな",
+"kana": "ちょっとちがうかな",
+"romaji": "chotto chigau kana",
+"polite": "chotto chigau kamo shiremasen",
+"en": "not quite, I think",
+"move": "c-repair",
+"cv": 4,
+"surface": [
+"ちょっと違う"
+]
+},
+{
+"ja": "英語で言うと",
+"kana": "えいごでいうと",
+"romaji": "eigo de iu to",
+"polite": null,
+"en": "in English it's...",
+"move": "c-repair",
+"cv": 4,
+"surface": [
+"英語で言うと"
+]
+},
+{
+"ja": "今のなし",
+"kana": "いまのなし",
+"romaji": "ima no nashi",
+"polite": null,
+"en": "scratch that; forget what I said",
+"move": "c-repair",
+"cv": 4,
+"surface": [
+"今のなし",
+"今のナシ"
+]
+},
+{
+"ja": "ところで",
+"kana": "ところで",
+"romaji": "tokoro de",
+"polite": null,
+"en": "by the way",
+"move": "c-flow",
+"cv": 5,
+"surface": [
+"ところで"
+]
+},
+{
+"ja": "まあ、そんな感じ",
+"kana": "まあ、そんなかんじ",
+"romaji": "maa, sonna kanji",
+"polite": "maa, sonna kanji desu",
+"en": "so yeah, that's about it (wrapping up a story)",
+"move": "c-flow",
+"cv": 5,
+"surface": [
+"そんな感じ",
+"まあそんな感じ"
+]
+},
+{
+"ja": "ちなみに",
+"kana": "ちなみに",
+"romaji": "chinami ni",
+"polite": null,
+"en": "by the way; for what it's worth",
+"move": "c-flow",
+"cv": 4,
+"surface": [
+"ちなみに"
+]
+},
+{
+"ja": "それより",
+"kana": "それより",
+"romaji": "sore yori",
+"polite": null,
+"en": "more importantly; never mind that",
+"move": "c-flow",
+"cv": 4,
+"surface": [
+"それより"
+]
+},
+{
+"ja": "話戻るけど",
+"kana": "はなしもどるけど",
+"romaji": "hanashi modoru kedo",
+"polite": null,
+"en": "going back to what we were saying",
+"move": "c-flow",
+"cv": 4,
+"surface": [
+"話戻るけど",
+"話を戻すと"
+]
+},
+{
+"ja": "それで思い出したけど",
+"kana": "それでおもいだしたけど",
+"romaji": "sore de omoidashita kedo",
+"polite": "sore de omoidashimashita kedo",
+"en": "that reminds me",
+"move": "c-flow",
+"cv": 4,
+"surface": [
+"それで思い出した"
+]
+},
+{
+"ja": "聞いた？",
+"kana": "きいた？",
+"romaji": "kiita?",
+"polite": "kikimashita ka?",
+"en": "did you hear? (opening some news)",
+"move": "c-flow",
+"cv": 4,
+"surface": [
+"聞いた？",
+"聞いた?"
+]
+},
+{
+"ja": "知ってた？",
+"kana": "しってた？",
+"romaji": "shitteta?",
+"polite": "shitte imashita ka?",
+"en": "did you know?",
+"move": "c-flow",
+"cv": 4,
+"surface": [
+"知ってた？",
+"知ってた?"
+]
+},
+{
+"ja": "長くなるけど",
+"kana": "ながくなるけど",
+"romaji": "nagaku naru kedo",
+"polite": "nagaku narimasu kedo",
+"en": "it's a long story, but...",
+"move": "c-flow",
+"cv": 4,
+"surface": [
+"長くなるけど"
+]
+},
+{
+"ja": "ちょっと話があるんだけど",
+"kana": "ちょっとはなしがあるんだけど",
+"romaji": "chotto hanashi ga aru n da kedo",
+"polite": "chotto ohanashi ga aru n desu kedo",
+"en": "there's something I want to talk about",
+"move": "c-flow",
+"cv": 4,
+"surface": [
+"話があるんだけど",
+"話があるんだ"
+]
+},
+{
+"ja": "続けて",
+"kana": "つづけて",
+"romaji": "tsuzukete",
+"polite": "tsuzukete kudasai",
+"en": "go on; keep going",
+"move": "c-flow",
+"cv": 4,
+"surface": [
+"続けて"
+]
+},
+{
+"ja": "話聞くよ",
+"kana": "はなしきくよ",
+"romaji": "hanashi kiku yo",
+"polite": "ohanashi kikimasu yo",
+"en": "I'm all ears; tell me about it",
+"move": "c-flow",
+"cv": 4,
+"surface": [
+"話聞くよ",
+"話なら聞くよ"
+]
+}
+]
+},
+"hunt:2": {
+"items": [
+{
+"ja": "それでさ",
+"kana": "それでさ",
+"romaji": "sore de sa",
+"polite": null,
+"en": "and so...; so then... (keeps your story rolling)",
+"move": "c-tell",
+"cv": 5,
+"surface": [
+"それでさ",
+"そんでさ"
+]
+},
+{
+"ja": "その後",
+"kana": "そのあと",
+"romaji": "sono ato",
+"polite": null,
+"en": "after that",
+"move": "c-tell",
+"cv": 5,
+"surface": [
+"その後",
+"そのあと"
+]
+},
+{
+"ja": "それから",
+"kana": "それから",
+"romaji": "sore kara",
+"polite": null,
+"en": "and then; after that",
+"move": "c-tell",
+"cv": 5,
+"surface": [
+"それから"
+]
+},
+{
+"ja": "そしたらさ",
+"kana": "そしたらさ",
+"romaji": "soshitara sa",
+"polite": null,
+"en": "and then, what do you know...",
+"move": "c-tell",
+"cv": 4,
+"surface": [
+"そしたら"
+]
+},
+{
+"ja": "しかも",
+"kana": "しかも",
+"romaji": "shikamo",
+"polite": null,
+"en": "and on top of that; what's more",
+"move": "c-tell",
+"cv": 4,
+"surface": [
+"しかも"
+]
+},
+{
+"ja": "それがさ",
+"kana": "それがさ",
+"romaji": "sore ga sa",
+"polite": "sore ga desu ne",
+"en": "well, here's the thing... (a twist is coming)",
+"move": "c-tell",
+"cv": 4,
+"surface": [
+"それがさ",
+"それがね"
+]
+},
+{
+"ja": "要するに",
+"kana": "ようするに",
+"romaji": "yousuru ni",
+"polite": null,
+"en": "basically; in short",
+"move": "c-tell",
+"cv": 4,
+"surface": [
+"要するに",
+"ようするに"
+]
+},
+{
+"ja": "ほんとは",
+"kana": "ほんとは",
+"romaji": "honto wa",
+"polite": null,
+"en": "actually; the truth is (it's not what it looked like)",
+"move": "c-tell",
+"cv": 4,
+"surface": [
+"ほんとは",
+"本当は"
+]
+},
+{
+"ja": "確か",
+"kana": "たしか",
+"romaji": "tashika",
+"polite": null,
+"en": "if I remember right",
+"move": "c-tell",
+"cv": 4,
+"surface": [
+"確か、",
+"たしか、"
+]
+},
+{
+"ja": "あれだよ、あれ",
+"kana": "あれだよ、あれ",
+"romaji": "are da yo, are",
+"polite": "are desu yo, are",
+"en": "you know, that thing... (when the word won't come)",
+"move": "c-tell",
+"cv": 4,
+"surface": [
+"あれだよあれ",
+"あれだよ、あれ"
+]
+},
+{
+"ja": "ねえ、聞いた？",
+"kana": "ねえ、きいた？",
+"romaji": "nee, kiita?",
+"polite": "kikimashita?",
+"en": "hey, did you hear (about...)?",
+"move": "c-tell",
+"cv": 4,
+"surface": [
+"ねえ聞いた",
+"ねえ、聞いた",
+"の話聞いた"
+]
+},
+{
+"ja": "もう言ったっけ？",
+"kana": "もういったっけ？",
+"romaji": "mou itta kke?",
+"polite": "mou iimashita kke?",
+"en": "did I already tell you?",
+"move": "c-tell",
+"cv": 4,
+"surface": [
+"言ったっけ",
+"話したっけ"
+]
+},
+{
+"ja": "一瞬〜かと思った",
+"kana": "いっしゅん〜かとおもった",
+"romaji": "isshun ... ka to omotta",
+"polite": "isshun ... ka to omoimashita",
+"en": "for a second I thought...",
+"move": "c-tell",
+"cv": 4,
+"surface": [
+"一瞬、",
+"かと思った"
+]
+},
+{
+"ja": "〜と思ったら",
+"kana": "〜とおもったら",
+"romaji": "... to omottara",
+"polite": null,
+"en": "just when I thought..., (it turned out)",
+"move": "c-tell",
+"cv": 4,
+"surface": [
+"と思ったら"
+]
+},
+{
+"ja": "気がついたら",
+"kana": "きがついたら",
+"romaji": "ki ga tsuitara",
+"polite": null,
+"en": "before I knew it; next thing I knew",
+"move": "c-tell",
+"cv": 4,
+"surface": [
+"気がついたら",
+"気づいたら"
+]
+},
+{
+"ja": "いつの間にか",
+"kana": "いつのまにか",
+"romaji": "itsu no ma ni ka",
+"polite": null,
+"en": "at some point, without noticing",
+"move": "c-tell",
+"cv": 4,
+"surface": [
+"いつの間にか",
+"いつのまにか"
+]
+},
+{
+"ja": "なぜか",
+"kana": "なぜか",
+"romaji": "nazeka",
+"polite": null,
+"en": "for some reason",
+"move": "c-tell",
+"cv": 4,
+"surface": [
+"なぜか"
+]
+},
+{
+"ja": "つい〜しちゃった",
+"kana": "つい〜しちゃった",
+"romaji": "tsui ... shichatta",
+"polite": "tsui ... shite shimaimashita",
+"en": "I couldn't help it; I ended up doing it without meaning to",
+"move": "c-tell",
+"cv": 4,
+"surface": [
+"ついつい",
+"つい買っちゃ",
+"つい言っちゃ"
+]
+},
+{
+"ja": "なんとなく",
+"kana": "なんとなく",
+"romaji": "nantonaku",
+"polite": null,
+"en": "no real reason, just because; kind of",
+"move": "c-tell",
+"cv": 5,
+"surface": [
+"なんとなく"
+]
+},
+{
+"ja": "たまたま",
+"kana": "たまたま",
+"romaji": "tamatama",
+"polite": null,
+"en": "by chance; I just happened to",
+"move": "c-tell",
+"cv": 4,
+"surface": [
+"たまたま"
+]
+},
+{
+"ja": "別にいいんだけど",
+"kana": "べつにいいんだけど",
+"romaji": "betsu ni ii n da kedo",
+"polite": "betsu ni ii n desu kedo",
+"en": "it's not a big deal, but...",
+"move": "c-tell",
+"cv": 4,
+"surface": [
+"別にいいんだけど",
+"べつにいいんだけど"
+]
+},
+{
+"ja": "まあ、そんな感じ",
+"kana": "まあ、そんなかんじ",
+"romaji": "maa, sonna kanji",
+"polite": "maa, sonna kanji desu",
+"en": "so yeah, that's about it (wrapping up a story)",
+"move": "c-tell",
+"cv": 5,
+"surface": [
+"そんな感じ"
+]
+},
+{
+"ja": "〜って話",
+"kana": "〜ってはなし",
+"romaji": "... tte hanashi",
+"polite": "... tte hanashi desu",
+"en": "...and that's the story",
+"move": "c-tell",
+"cv": 4,
+"surface": [
+"って話",
+"っていう話"
+]
+},
+{
+"ja": "なんでかっていうと",
+"kana": "なんでかっていうと",
+"romaji": "nande ka tte iu to",
+"polite": "naze ka to iu to",
+"en": "and the reason is...",
+"move": "c-tell",
+"cv": 4,
+"surface": [
+"なんでかっていうと",
+"なぜかというと"
+]
+},
+{
+"ja": "今思えば",
+"kana": "いまおもえば",
+"romaji": "ima omoeba",
+"polite": null,
+"en": "looking back now",
+"move": "c-tell",
+"cv": 4,
+"surface": [
+"今思えば",
+"今思うと"
+]
+},
+{
+"ja": "子供の頃",
+"kana": "こどものころ",
+"romaji": "kodomo no koro",
+"polite": null,
+"en": "when I was a kid",
+"move": "c-tell",
+"cv": 4,
+"surface": [
+"子供の頃",
+"子どもの頃",
+"小さい頃"
+]
+},
+{
+"ja": "どうなったと思う？",
+"kana": "どうなったとおもう？",
+"romaji": "dou natta to omou?",
+"polite": "dou natta to omoimasu?",
+"en": "guess what happened?",
+"move": "c-tell",
+"cv": 4,
+"surface": [
+"どうなったと思う"
+]
+},
+{
+"ja": "オチないんだけど",
+"kana": "おちないんだけど",
+"romaji": "ochi nai n da kedo",
+"polite": "ochi wa nai n desu kedo",
+"en": "there's no punchline, but... (it's just a story)",
+"move": "c-tell",
+"cv": 4,
+"surface": [
+"オチないんだけど",
+"オチはない"
+]
+},
+{
+"ja": "よく覚えてないけど",
+"kana": "よくおぼえてないけど",
+"romaji": "yoku oboetenai kedo",
+"polite": "yoku oboete inai n desu kedo",
+"en": "I don't remember exactly, but...",
+"move": "c-tell",
+"cv": 4,
+"surface": [
+"よく覚えてない",
+"覚えてないけど"
+]
+},
+{
+"ja": "めんどくさい",
+"kana": "めんどくさい",
+"romaji": "mendokusai",
+"polite": null,
+"en": "what a pain; I can't be bothered",
+"move": "c-feel",
+"cv": 5,
+"surface": [
+"めんどくさい",
+"面倒くさい",
+"めんどい"
+]
+},
+{
+"ja": "むかつく",
+"kana": "むかつく",
+"romaji": "mukatsuku",
+"polite": null,
+"en": "that pisses me off; so annoying",
+"move": "c-feel",
+"cv": 4,
+"surface": [
+"むかつく",
+"ムカつく"
+]
+},
+{
+"ja": "だるい",
+"kana": "だるい",
+"romaji": "darui",
+"polite": null,
+"en": "I feel sluggish; such a drag",
+"move": "c-feel",
+"cv": 4,
+"surface": [
+"だるい",
+"ダルい"
+]
+},
+{
+"ja": "寂しい",
+"kana": "さびしい",
+"romaji": "sabishii",
+"polite": "sabishii desu",
+"en": "I'm lonely; I'll miss you; it feels empty",
+"move": "c-feel",
+"cv": 4,
+"surface": [
+"寂しい",
+"さびしい",
+"さみしい"
+]
+},
+{
+"ja": "落ち込んでる",
+"kana": "おちこんでる",
+"romaji": "ochikonderu",
+"polite": "ochikonde imasu",
+"en": "I'm feeling down",
+"move": "c-feel",
+"cv": 4,
+"surface": [
+"落ち込んで",
+"落ち込む"
+]
+},
+{
+"ja": "ショック",
+"kana": "ショック",
+"romaji": "shokku",
+"polite": "shokku desu",
+"en": "what a blow; I'm gutted",
+"move": "c-feel",
+"cv": 4,
+"surface": [
+"ショック"
+]
+},
+{
+"ja": "悔しい",
+"kana": "くやしい",
+"romaji": "kuyashii",
+"polite": "kuyashii desu",
+"en": "so frustrating (I lost / I nearly had it)",
+"move": "c-feel",
+"cv": 4,
+"surface": [
+"悔しい",
+"くやしい"
+]
+},
+{
+"ja": "うらやましい",
+"kana": "うらやましい",
+"romaji": "urayamashii",
+"polite": "urayamashii desu",
+"en": "I'm so jealous",
+"move": "c-feel",
+"cv": 4,
+"surface": [
+"うらやましい",
+"羨ましい"
+]
+},
+{
+"ja": "懐かしい",
+"kana": "なつかしい",
+"romaji": "natsukashii",
+"polite": "natsukashii desu ne",
+"en": "that brings back memories",
+"move": "c-feel",
+"cv": 5,
+"surface": [
+"懐かしい",
+"なつかしい"
+]
+},
+{
+"ja": "ワクワクする",
+"kana": "わくわくする",
+"romaji": "wakuwaku suru",
+"polite": "wakuwaku shimasu",
+"en": "I'm so excited",
+"move": "c-feel",
+"cv": 4,
+"surface": [
+"ワクワク",
+"わくわく"
+]
+},
+{
+"ja": "きつい",
+"kana": "きつい",
+"romaji": "kitsui",
+"polite": "kitsui desu",
+"en": "that's rough; it's brutal",
+"move": "c-feel",
+"cv": 4,
+"surface": [
+"きつい",
+"キツい"
+]
+},
+{
+"ja": "傷つく",
+"kana": "きずつく",
+"romaji": "kizutsuku",
+"polite": null,
+"en": "ouch, that hurts my feelings",
+"move": "c-feel",
+"cv": 4,
+"surface": [
+"傷つく",
+"傷ついた"
+]
+},
+{
+"ja": "泣ける",
+"kana": "なける",
+"romaji": "nakeru",
+"polite": null,
+"en": "it makes you cry; such a tearjerker",
+"move": "c-feel",
+"cv": 4,
+"surface": [
+"泣ける"
+]
+},
+{
+"ja": "癒される",
+"kana": "いやされる",
+"romaji": "iyasareru",
+"polite": "iyasaremasu",
+"en": "so soothing; it melts my stress away",
+"move": "c-feel",
+"cv": 4,
+"surface": [
+"癒される",
+"癒やされる"
+]
+},
+{
+"ja": "悩んでる",
+"kana": "なやんでる",
+"romaji": "nayanderu",
+"polite": "nayande imasu",
+"en": "I'm torn; it's weighing on me",
+"move": "c-feel",
+"cv": 4,
+"surface": [
+"悩んでる",
+"悩んでて"
+]
+},
+{
+"ja": "えらい！",
+"kana": "えらい！",
+"romaji": "erai!",
+"polite": null,
+"en": "good for you!; well done",
+"move": "c-feel",
+"cv": 4,
+"surface": [
+"えらい！",
+"偉いね",
+"えらいね"
+]
+},
+{
+"ja": "話聞くよ",
+"kana": "はなしきくよ",
+"romaji": "hanashi kiku yo",
+"polite": "ohanashi kikimasu yo",
+"en": "I'm here if you want to talk",
+"move": "c-feel",
+"cv": 4,
+"surface": [
+"話聞くよ",
+"話なら聞く"
+]
+},
+{
+"ja": "元気ないね",
+"kana": "げんきないね",
+"romaji": "genki nai ne",
+"polite": "genki nai desu ne",
+"en": "you seem down",
+"move": "c-feel",
+"cv": 4,
+"surface": [
+"元気ないね",
+"元気ない"
+]
+},
+{
+"ja": "照れる",
+"kana": "てれる",
+"romaji": "tereru",
+"polite": null,
+"en": "aw, you're making me blush",
+"move": "c-feel",
+"cv": 4,
+"surface": [
+"照れる",
+"照れるな"
+]
+},
+{
+"ja": "気まずい",
+"kana": "きまずい",
+"romaji": "kimazui",
+"polite": "kimazui desu",
+"en": "awkward",
+"move": "c-feel",
+"cv": 4,
+"surface": [
+"気まずい"
+]
+},
+{
+"ja": "もうやだ",
+"kana": "もうやだ",
+"romaji": "mou yada",
+"polite": null,
+"en": "ugh, I've had it; I hate this",
+"move": "c-feel",
+"cv": 5,
+"surface": [
+"もうやだ",
+"もう嫌だ"
+]
+},
+{
+"ja": "眠い",
+"kana": "ねむい",
+"romaji": "nemui",
+"polite": "nemui desu",
+"en": "I'm sleepy",
+"move": "c-feel",
+"cv": 4,
+"surface": [
+"ねむい",
+"眠いよ",
+"眠いな"
+]
+},
+{
+"ja": "そんな気分じゃない",
+"kana": "そんなきぶんじゃない",
+"romaji": "sonna kibun ja nai",
+"polite": "sonna kibun ja nai desu",
+"en": "I'm not in the mood",
+"move": "c-feel",
+"cv": 4,
+"surface": [
+"気分じゃない"
+]
+},
+{
+"ja": "やる気が出ない",
+"kana": "やるきがでない",
+"romaji": "yaruki ga denai",
+"polite": "yaruki ga demasen",
+"en": "I can't get motivated",
+"move": "c-feel",
+"cv": 4,
+"surface": [
+"やる気が出ない",
+"やる気出ない"
+]
+},
+{
+"ja": "もったいない",
+"kana": "もったいない",
+"romaji": "mottainai",
+"polite": "mottainai desu",
+"en": "what a waste",
+"move": "c-feel",
+"cv": 4,
+"surface": [
+"もったいない"
+]
+},
+{
+"ja": "気楽にいこう",
+"kana": "きらくにいこう",
+"romaji": "kiraku ni ikou",
+"polite": null,
+"en": "take it easy; don't stress",
+"move": "c-feel",
+"cv": 4,
+"surface": [
+"気楽に"
+]
+},
+{
+"ja": "気にしすぎだよ",
+"kana": "きにしすぎだよ",
+"romaji": "ki ni shisugi da yo",
+"polite": "ki ni shisugi desu yo",
+"en": "you're overthinking it",
+"move": "c-feel",
+"cv": 4,
+"surface": [
+"気にしすぎ"
+]
+},
+{
+"ja": "あるある",
+"kana": "あるある",
+"romaji": "aru aru",
+"polite": null,
+"en": "so relatable; that always happens",
+"move": "c-feel",
+"cv": 4,
+"surface": [
+"あるある"
+]
+},
+{
+"ja": "相変わらずだよ",
+"kana": "あいかわらずだよ",
+"romaji": "aikawarazu da yo",
+"polite": "aikawarazu desu",
+"en": "same as ever; nothing much new",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"相変わらず"
+]
+},
+{
+"ja": "ぼちぼち",
+"kana": "ぼちぼち",
+"romaji": "bochibochi",
+"polite": "bochibochi desu",
+"en": "so-so; getting by",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"ぼちぼち"
+]
+},
+{
+"ja": "まあまあ",
+"kana": "まあまあ",
+"romaji": "maa maa",
+"polite": "maa maa desu",
+"en": "so-so; not bad",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"まあまあ"
+]
+},
+{
+"ja": "なんとかやってる",
+"kana": "なんとかやってる",
+"romaji": "nantoka yatteru",
+"polite": "nantoka yatte imasu",
+"en": "getting by; hanging in there",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"なんとかやって"
+]
+},
+{
+"ja": "バタバタしてた",
+"kana": "ばたばたしてた",
+"romaji": "batabata shiteta",
+"polite": "batabata shite imashita",
+"en": "things have been hectic",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"バタバタ",
+"ばたばた"
+]
+},
+{
+"ja": "仕事どう？",
+"kana": "しごとどう？",
+"romaji": "shigoto dou?",
+"polite": "oshigoto wa dou desu ka?",
+"en": "how's work?",
+"move": "c-catchup",
+"cv": 5,
+"surface": [
+"仕事どう"
+]
+},
+{
+"ja": "週末何した？",
+"kana": "しゅうまつなにした？",
+"romaji": "shuumatsu nani shita?",
+"polite": "shuumatsu wa nani o shimashita ka?",
+"en": "what did you do on the weekend?",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"週末何した",
+"週末なにした"
+]
+},
+{
+"ja": "髪切った？",
+"kana": "かみきった？",
+"romaji": "kami kitta?",
+"polite": "kami kirimashita?",
+"en": "did you get a haircut?",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"髪切った"
+]
+},
+{
+"ja": "雰囲気変わったね",
+"kana": "ふんいきかわったね",
+"romaji": "fun'iki kawatta ne",
+"polite": "fun'iki kawarimashita ne",
+"en": "you look different",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"雰囲気変わった"
+]
+},
+{
+"ja": "元気そうだね",
+"kana": "げんきそうだね",
+"romaji": "genkisou da ne",
+"polite": "ogenkisou desu ne",
+"en": "you look well",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"元気そう"
+]
+},
+{
+"ja": "時間経つの早いね",
+"kana": "じかんたつのはやいね",
+"romaji": "jikan tatsu no hayai ne",
+"polite": "jikan ga tatsu no wa hayai desu ne",
+"en": "time flies, huh",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"経つの早い",
+"たつの早い",
+"経つのが早い"
+]
+},
+{
+"ja": "なんかいいことあった？",
+"kana": "なんかいいことあった？",
+"romaji": "nanka ii koto atta?",
+"polite": "nanika ii koto arimashita?",
+"en": "something good happen? (you look happy)",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"いいことあった"
+]
+},
+{
+"ja": "仕事何してるの？",
+"kana": "しごとなにしてるの？",
+"romaji": "shigoto nani shiteru no?",
+"polite": "oshigoto wa nani o sarete iru n desu ka?",
+"en": "what do you do for work?",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"仕事何してる",
+"何の仕事"
+]
+},
+{
+"ja": "ちゃんと食べてる？",
+"kana": "ちゃんとたべてる？",
+"romaji": "chanto tabeteru?",
+"polite": null,
+"en": "are you eating properly? (looking after yourself?)",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"ちゃんと食べてる"
+]
+},
+{
+"ja": "〜にハマってる",
+"kana": "〜にはまってる",
+"romaji": "... ni hamatteru",
+"polite": "... ni hamatte imasu",
+"en": "I'm really into...; I'm hooked on...",
+"move": "c-catchup",
+"cv": 5,
+"surface": [
+"ハマってる",
+"はまってる"
+]
+},
+{
+"ja": "家族は元気？",
+"kana": "かぞくはげんき？",
+"romaji": "kazoku wa genki?",
+"polite": "gokazoku wa ogenki desu ka?",
+"en": "how's your family?",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"家族は元気"
+]
+},
+{
+"ja": "いい人いる？",
+"kana": "いいひといる？",
+"romaji": "ii hito iru?",
+"polite": null,
+"en": "seeing anyone?",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"いい人いる",
+"いい人いない"
+]
+},
+{
+"ja": "何年ぶり？",
+"kana": "なんねんぶり？",
+"romaji": "nannenburi?",
+"polite": "nannenburi desu ka?",
+"en": "how many years has it been?",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"何年ぶり"
+]
+},
+{
+"ja": "涼しくなってきたね",
+"kana": "すずしくなってきたね",
+"romaji": "suzushiku natte kita ne",
+"polite": "suzushiku natte kimashita ne",
+"en": "it's getting cooler, huh",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"涼しくなって",
+"寒くなってきた"
+]
+},
+{
+"ja": "休みの日は何してる？",
+"kana": "やすみのひはなにしてる？",
+"romaji": "yasumi no hi wa nani shiteru?",
+"polite": "oyasumi no hi wa nani o shite imasu ka?",
+"en": "what do you do on your days off?",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"休みの日は何",
+"休みの日何"
+]
+},
+{
+"ja": "空いてる？",
+"kana": "あいてる？",
+"romaji": "aiteru?",
+"polite": "aite imasu ka?",
+"en": "are you free (then)?",
+"move": "c-plans",
+"cv": 5,
+"surface": [
+"空いてる？",
+"日空いてる",
+"日あいてる"
+]
+},
+{
+"ja": "予定ある？",
+"kana": "よていある？",
+"romaji": "yotei aru?",
+"polite": "yotei arimasu ka?",
+"en": "got any plans?",
+"move": "c-plans",
+"cv": 4,
+"surface": [
+"予定ある"
+]
+},
+{
+"ja": "行ける行ける",
+"kana": "いけるいける",
+"romaji": "ikeru ikeru",
+"polite": null,
+"en": "yeah, I can make it; sure, easy",
+"move": "c-plans",
+"cv": 4,
+"surface": [
+"行ける行ける",
+"いけるいける"
+]
+},
+{
+"ja": "その話乗った",
+"kana": "そのはなしのった",
+"romaji": "sono hanashi notta",
+"polite": null,
+"en": "I'm in!; count me in",
+"move": "c-plans",
+"cv": 4,
+"surface": [
+"その話乗った",
+"話乗った"
+]
+},
+{
+"ja": "ぜひ！",
+"kana": "ぜひ！",
+"romaji": "zehi!",
+"polite": "zehi onegai shimasu",
+"en": "I'd love to!; definitely",
+"move": "c-plans",
+"cv": 4,
+"surface": [
+"ぜひぜひ",
+"ぜひ！",
+"是非！"
+]
+},
+{
+"ja": "今度誘って",
+"kana": "こんどさそって",
+"romaji": "kondo sasotte",
+"polite": "kondo sasotte kudasai",
+"en": "invite me next time",
+"move": "c-plans",
+"cv": 4,
+"surface": [
+"誘って"
+]
+},
+{
+"ja": "気が向いたら",
+"kana": "きがむいたら",
+"romaji": "ki ga muitara",
+"polite": null,
+"en": "if I feel like it",
+"move": "c-plans",
+"cv": 4,
+"surface": [
+"気が向いたら"
+]
+},
+{
+"ja": "一緒に来る？",
+"kana": "いっしょにくる？",
+"romaji": "issho ni kuru?",
+"polite": "issho ni kimasu ka?",
+"en": "want to come along?",
+"move": "c-plans",
+"cv": 4,
+"surface": [
+"一緒に来る",
+"一緒に行く？"
+]
+},
+{
+"ja": "付き合うよ",
+"kana": "つきあうよ",
+"romaji": "tsukiau yo",
+"polite": "otsukiai shimasu yo",
+"en": "I'll come along; I'll keep you company",
+"move": "c-plans",
+"cv": 4,
+"surface": [
+"付き合うよ",
+"つきあうよ"
+]
+},
+{
+"ja": "決まり！",
+"kana": "きまり！",
+"romaji": "kimari!",
+"polite": null,
+"en": "it's a deal!; settled",
+"move": "c-plans",
+"cv": 4,
+"surface": [
+"決まり！",
+"決まりね",
+"決まりだね"
+]
+},
+{
+"ja": "約束ね",
+"kana": "やくそくね",
+"romaji": "yakusoku ne",
+"polite": "yakusoku desu yo",
+"en": "it's a promise, okay?",
+"move": "c-plans",
+"cv": 4,
+"surface": [
+"約束ね",
+"約束だよ"
+]
+},
+{
+"ja": "合わせるよ",
+"kana": "あわせるよ",
+"romaji": "awaseru yo",
+"polite": "awasemasu yo",
+"en": "I'll fit around you; whatever suits you",
+"move": "c-plans",
+"cv": 4,
+"surface": [
+"合わせるよ"
+]
+},
+{
+"ja": "うち来る？",
+"kana": "うちくる？",
+"romaji": "uchi kuru?",
+"polite": "uchi ni kimasen ka?",
+"en": "want to come over?",
+"move": "c-plans",
+"cv": 4,
+"surface": [
+"うち来る",
+"うちに来る？"
+]
+},
+{
+"ja": "行きたいけど…",
+"kana": "いきたいけど…",
+"romaji": "ikitai kedo...",
+"polite": "ikitai n desu kedo...",
+"en": "I'd love to, but...",
+"move": "c-plans",
+"cv": 4,
+"surface": [
+"行きたいけど"
+]
+},
+{
+"ja": "終電大丈夫？",
+"kana": "しゅうでんだいじょうぶ？",
+"romaji": "shuuden daijoubu?",
+"polite": "shuuden daijoubu desu ka?",
+"en": "are you okay for the last train?",
+"move": "c-plans",
+"cv": 4,
+"surface": [
+"終電大丈夫",
+"終電何時"
+]
+},
+{
+"ja": "送るよ",
+"kana": "おくるよ",
+"romaji": "okuru yo",
+"polite": "okurimasu yo",
+"en": "I'll walk you / drive you home",
+"move": "c-plans",
+"cv": 4,
+"surface": [
+"送るよ",
+"送ってく"
+]
+},
+{
+"ja": "今日はパス",
+"kana": "きょうはパス",
+"romaji": "kyou wa pasu",
+"polite": null,
+"en": "I'll pass today",
+"move": "c-plans",
+"cv": 4,
+"surface": [
+"今日はパス",
+"パスで"
+]
+},
+{
+"ja": "ずるい",
+"kana": "ずるい",
+"romaji": "zurui",
+"polite": null,
+"en": "no fair!",
+"move": "c-banter",
+"cv": 4,
+"surface": [
+"ずるい",
+"ズルい"
+]
+},
+{
+"ja": "ダサい",
+"kana": "ださい",
+"romaji": "dasai",
+"polite": null,
+"en": "so lame; tacky",
+"move": "c-banter",
+"cv": 4,
+"surface": [
+"ダサい",
+"ださい"
+]
+},
+{
+"ja": "うそうそ",
+"kana": "うそうそ",
+"romaji": "uso uso",
+"polite": null,
+"en": "just kidding, just kidding",
+"move": "c-banter",
+"cv": 4,
+"surface": [
+"うそうそ",
+"ウソウソ",
+"嘘嘘"
+]
+},
+{
+"ja": "ウケる",
+"kana": "うける",
+"romaji": "ukeru",
+"polite": null,
+"en": "that's hilarious; lol",
+"move": "c-banter",
+"cv": 4,
+"surface": [
+"ウケる",
+"うける"
+]
+},
+{
+"ja": "うざい",
+"kana": "うざい",
+"romaji": "uzai",
+"polite": null,
+"en": "so annoying; get lost",
+"move": "c-banter",
+"cv": 4,
+"surface": [
+"うざい",
+"ウザい"
+]
+},
+{
+"ja": "バカじゃないの",
+"kana": "ばかじゃないの",
+"romaji": "baka ja nai no",
+"polite": null,
+"en": "are you an idiot?; don't be silly",
+"move": "c-banter",
+"cv": 4,
+"surface": [
+"バカじゃないの",
+"馬鹿じゃないの"
+]
+},
+{
+"ja": "調子に乗るな",
+"kana": "ちょうしにのるな",
+"romaji": "choushi ni noru na",
+"polite": null,
+"en": "don't get cocky",
+"move": "c-banter",
+"cv": 4,
+"surface": [
+"調子に乗る",
+"調子乗"
+]
+},
+{
+"ja": "自慢？",
+"kana": "じまん？",
+"romaji": "jiman?",
+"polite": null,
+"en": "are you bragging?",
+"move": "c-banter",
+"cv": 4,
+"surface": [
+"自慢か",
+"自慢？",
+"自慢して"
+]
+},
+{
+"ja": "それ自分で言う？",
+"kana": "それじぶんでいう？",
+"romaji": "sore jibun de iu?",
+"polite": null,
+"en": "you're saying that about yourself?",
+"move": "c-banter",
+"cv": 4,
+"surface": [
+"自分で言う"
+]
+},
+{
+"ja": "気のせいだよ",
+"kana": "きのせいだよ",
+"romaji": "ki no sei da yo",
+"polite": "ki no sei desu yo",
+"en": "it's just your imagination",
+"move": "c-banter",
+"cv": 4,
+"surface": [
+"気のせい"
+]
+},
+{
+"ja": "また始まった",
+"kana": "またはじまった",
+"romaji": "mata hajimatta",
+"polite": null,
+"en": "here we go again",
+"move": "c-banter",
+"cv": 4,
+"surface": [
+"また始まった"
+]
+},
+{
+"ja": "しつこい",
+"kana": "しつこい",
+"romaji": "shitsukoi",
+"polite": null,
+"en": "give it a rest; you're relentless",
+"move": "c-banter",
+"cv": 4,
+"surface": [
+"しつこい"
+]
+},
+{
+"ja": "オチは？",
+"kana": "おちは？",
+"romaji": "ochi wa?",
+"polite": null,
+"en": "and the punchline is...?",
+"move": "c-banter",
+"cv": 4,
+"surface": [
+"オチは"
+]
+},
+{
+"ja": "すべった",
+"kana": "すべった",
+"romaji": "subetta",
+"polite": null,
+"en": "that joke bombed",
+"move": "c-banter",
+"cv": 4,
+"surface": [
+"すべった",
+"滑った"
+]
+},
+{
+"ja": "からかわないで",
+"kana": "からかわないで",
+"romaji": "karakawanaide",
+"polite": null,
+"en": "stop teasing me",
+"move": "c-banter",
+"cv": 4,
+"surface": [
+"からかわない",
+"からかって"
+]
+},
+{
+"ja": "やるじゃん",
+"kana": "やるじゃん",
+"romaji": "yaru jan",
+"polite": null,
+"en": "not bad!; look at you",
+"move": "c-banter",
+"cv": 4,
+"surface": [
+"やるじゃん"
+]
+},
+{
+"ja": "ノリ悪い",
+"kana": "のりわるい",
+"romaji": "nori warui",
+"polite": null,
+"en": "you're no fun",
+"move": "c-banter",
+"cv": 4,
+"surface": [
+"ノリ悪い",
+"ノリが悪い"
+]
+},
+{
+"ja": "ネタバレしないで",
+"kana": "ねたばれしないで",
+"romaji": "netabare shinaide",
+"polite": null,
+"en": "no spoilers!",
+"move": "c-banter",
+"cv": 4,
+"surface": [
+"ネタバレ"
+]
+},
+{
+"ja": "空気読んで",
+"kana": "くうきよんで",
+"romaji": "kuuki yonde",
+"polite": null,
+"en": "read the room",
+"move": "c-banter",
+"cv": 4,
+"surface": [
+"空気読"
+]
+},
+{
+"ja": "〜くせに",
+"kana": "〜くせに",
+"romaji": "... kuse ni",
+"polite": null,
+"en": "even though you... (says who?)",
+"move": "c-banter",
+"cv": 4,
+"surface": [
+"くせに"
+]
+},
+{
+"ja": "勝手にして",
+"kana": "かってにして",
+"romaji": "katte ni shite",
+"polite": null,
+"en": "suit yourself",
+"move": "c-banter",
+"cv": 4,
+"surface": [
+"勝手にして",
+"勝手にしろ"
+]
+},
+{
+"ja": "勘弁してよ",
+"kana": "かんべんしてよ",
+"romaji": "kanben shite yo",
+"polite": "kanben shite kudasai",
+"en": "give me a break",
+"move": "c-banter",
+"cv": 4,
+"surface": [
+"勘弁して"
+]
+},
+{
+"ja": "やっほー",
+"kana": "やっほー",
+"romaji": "yahhoo",
+"polite": null,
+"en": "hiya!; hey!",
+"move": "c-social",
+"cv": 4,
+"surface": [
+"やっほー",
+"ヤッホー"
+]
+},
+{
+"ja": "悪いね",
+"kana": "わるいね",
+"romaji": "warui ne",
+"polite": "sumimasen",
+"en": "sorry for the trouble; thanks, I owe you",
+"move": "c-social",
+"cv": 4,
+"surface": [
+"悪いね",
+"悪いな"
+]
+},
+{
+"ja": "今日はありがとう",
+"kana": "きょうはありがとう",
+"romaji": "kyou wa arigatou",
+"polite": "kyou wa arigatou gozaimashita",
+"en": "thanks for today",
+"move": "c-social",
+"cv": 5,
+"surface": [
+"今日はありがとう"
+]
+},
+{
+"ja": "気が利くね",
+"kana": "きがきくね",
+"romaji": "ki ga kiku ne",
+"polite": "ki ga kikimasu ne",
+"en": "how thoughtful of you",
+"move": "c-social",
+"cv": 4,
+"surface": [
+"気が利く"
+]
+},
+{
+"ja": "なんて呼べばいい？",
+"kana": "なんてよべばいい？",
+"romaji": "nante yobeba ii?",
+"polite": "nan to oyobi sureba ii desu ka?",
+"en": "what should I call you?",
+"move": "c-social",
+"cv": 4,
+"surface": [
+"なんて呼べば",
+"何て呼べば"
+]
+},
+{
+"ja": "〜って呼んで",
+"kana": "〜ってよんで",
+"romaji": "... tte yonde",
+"polite": "... tte yonde kudasai",
+"en": "call me...",
+"move": "c-social",
+"cv": 4,
+"surface": [
+"って呼んで"
+]
+},
+{
+"ja": "タメ口でいいよ",
+"kana": "ためぐちでいいよ",
+"romaji": "tameguchi de ii yo",
+"polite": null,
+"en": "you can talk casually with me",
+"move": "c-social",
+"cv": 4,
+"surface": [
+"タメ口でいい",
+"タメ語でいい"
+]
+},
+{
+"ja": "着いたらLINEして",
+"kana": "ついたららいんして",
+"romaji": "tsuitara rain shite",
+"polite": "tsuitara renraku kudasai",
+"en": "text me when you get home",
+"move": "c-social",
+"cv": 4,
+"surface": [
+"着いたら連絡",
+"着いたらLINE"
+]
+},
+{
+"ja": "私が悪かった",
+"kana": "わたしがわるかった",
+"romaji": "watashi ga warukatta",
+"polite": "watashi ga warukatta desu",
+"en": "it was my fault; my bad",
+"move": "c-social",
+"cv": 4,
+"surface": [
+"私が悪かった",
+"俺が悪かった",
+"僕が悪かった"
+]
+},
+{
+"ja": "お互い様だよ",
+"kana": "おたがいさまだよ",
+"romaji": "otagaisama da yo",
+"polite": "otagaisama desu",
+"en": "we're in the same boat; no need to thank me",
+"move": "c-social",
+"cv": 4,
+"surface": [
+"お互い様",
+"お互いさま"
+]
+},
+{
+"ja": "連絡しなくてごめん",
+"kana": "れんらくしなくてごめん",
+"romaji": "renraku shinakute gomen",
+"polite": "gobusata shite sumimasen",
+"en": "sorry I haven't been in touch",
+"move": "c-social",
+"cv": 4,
+"surface": [
+"連絡しなくて",
+"連絡できなくて"
+]
+},
+{
+"ja": "会いたかった",
+"kana": "あいたかった",
+"romaji": "aitakatta",
+"polite": "oai shitakatta desu",
+"en": "I missed you",
+"move": "c-social",
+"cv": 4,
+"surface": [
+"会いたかった"
+]
+}
+]
+}
+}

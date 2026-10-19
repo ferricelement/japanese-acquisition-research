@@ -155,6 +155,26 @@
    "file": "patterns-1.json",
    "kind": "patterns",
    "n": 1
+  },
+  {
+   "file": "phrases-6.json",
+   "kind": "phrases",
+   "n": 6
+  },
+  {
+   "file": "phrases-7.json",
+   "kind": "phrases",
+   "n": 7
+  },
+  {
+   "file": "phrases-8.json",
+   "kind": "phrases",
+   "n": 8
+  },
+  {
+   "file": "phrases-9.json",
+   "kind": "phrases",
+   "n": 9
   }
  ]
 }

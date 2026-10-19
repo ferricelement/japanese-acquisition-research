@@ -1,0 +1,401 @@
+id	romaji	english	topic	use
+w-senmon	senmon	specialty; field of expertise; major	Work and school	Your field of work or study; also what a shop or school specialises in.
+w-shisutemu	shisutemu	system	Work and school	A computer system at work, or how a place is set up, like how a bar charges or how orderin
+w-kusuri	kusuri	medicine; drugs	Health	You 'drink' medicine in Japanese, even pills: kusuri o nomu.
+w-oishasan	oishasan	doctor	Health	The friendly everyday word; isha alone sounds blunt, and you address a doctor as sensei.
+w-kensa	kensa	(medical) test; examination; inspection	Health	Tests at a hospital, or checks on goods and bags; kensa o ukeru = have tests done.
+w-chiryou	chiryou	medical treatment	Health	Ongoing care for an illness or injury, including dental work.
+w-haisha	haisha	dentist; the dentist's	Health	Means both the person and the clinic: haisha ni iku = go to the dentist.
+w-nyuuin-suru	nyuuin suru	to go into hospital; to be hospitalised	Health	As a patient staying overnight or longer; nyuuin shite iru = is in hospital.
+w-taiin-suru	taiin suru	to leave hospital; to be discharged	Health	
+w-shujutsu	shujutsu	surgery; an operation	Health	The patient 'receives' it (shujutsu o ukeru), though casually people say shujutsu suru too
+w-kaifuku-suru	kaifuku suru	to recover; to get better	Health	A bit formal; for your own cold people usually say yoku naru or naoru.
+w-ninshin-suru	ninshin suru	to get pregnant; pregnancy	Health	Ninshin shite iru = is pregnant.
+w-kankyou	kankyou	environment; surroundings, conditions	Society and news	Both the natural environment and the conditions where you live, work or study.
+w-rekishi	rekishi	history	Society and news	
+w-kyouiku	kyouiku	education; training	Society and news	Schooling and bringing up children; at work, training new staff.
+w-oiwai	oiwai	celebration; congratulatory gift	Getting around	Covers both the party and the gift or money you give.
+w-kekkonshiki	kekkonshiki	wedding	Getting around	
+w-ibento	ibento	event	Getting around	Concerts, fan meetups, festivals, in-store promotions.
+w-ryokou	ryokou	trip; travel	Getting around	
+w-nimotsu	nimotsu	bags; luggage; parcel	Getting around	Anything you carry or have delivered.
+w-omiyage	omiyage	souvenir; gift brought back from a trip	Getting around	Usually snacks brought back for family, friends or coworkers, or a small gift when visitin
+w-onsen	onsen	hot spring	Getting around	Both the spring and the bath or town built around it.
+w-tabi	tabi	journey; travel	Getting around	More emotional and bookish than ryokou; used for long or solo trips, and in songs and titl
+w-densha	densha	train	Getting around	The everyday word for trains, including the subway.
+w-basu	basu	bus	Getting around	
+w-jitensha	jitensha	bicycle	Getting around	
+w-takushii	takushii	taxi	Getting around	
+w-shizen	shizen	nature; natural	Nature and animals	Shizen ni also means naturally, without forcing it.
+w-kawa	kawa	river	Nature and animals	
+w-doubutsu	doubutsu	animal	Nature and animals	
+w-sora	sora	sky	Nature and animals	
+w-hoshi	hoshi	star	Nature and animals	
+w-sakura	sakura	cherry blossom; cherry tree	Nature and animals	The spring blossom everyone goes out to see; ohanami is the picnic under it.
+w-keshiki	keshiki	scenery; view	Nature and animals	The view in front of you, usually a nice one.
+w-taipu	taipu	type; kind; someone's type (romantically)	Things, kinds and amounts	Very often the kind of person you're attracted to.
+w-reberu	reberu	level; standard	Things, kinds and amounts	
+w-shurui	shurui	kind; type; variety	Things, kinds and amounts	
+w-setto	setto	set (of things); meal set; setting up	Things, kinds and amounts	
+w-ji	ji	written character, letter; handwriting	Things, kinds and amounts	Often means someone's handwriting: ji ga kirei = neat handwriting.
+w-moji	moji	letter; character; text	Things, kinds and amounts	A written character in any script, or text on a screen.
+w-suuji	suuji	number (the figure); figures; digits	Things, kinds and amounts	The number as written or as data, not how many there are.
+w-kazu	kazu	number (of things); count	Things, kinds and amounts	How many there are: kazu ga ooi = there are a lot.
+w-sain	sain	signature; autograph; signal	Things, kinds and amounts	Sain suru = to sign; also a signal someone gives you.
+w-tsuzuki	tsuzuki	what comes next; the rest; continuation	Things, kinds and amounts	The next part of a story, show or task: tsuzuki wa ashita = the rest tomorrow.
+w-oshimai	oshimai	the end; over; that's it	Things, kinds and amounts	A soft, slightly childlike way to say something is finished; also ends stories.
+w-saishuu	saishuu	last; final	Things, kinds and amounts	Mostly in compounds: saishuubi (last day), saishuukai (final episode).
+w-renzoku	renzoku	in a row; consecutive; a series	Things, kinds and amounts	Usually after a count: mikka renzoku = three days in a row.
+w-houkou	houkou	direction; way	Things, kinds and amounts	
+w-ichi	ichi	position; location; place	Things, kinds and amounts	Exactly where something is, as on a map or in a lineup.
+w-chuushin	chuushin	centre; middle; core	Things, kinds and amounts	The centre point, or the main focus: X o chuushin ni = centred on X.
+w-toppu	toppu	top; first place; the head (of a group)	Things, kinds and amounts	
+w-saidai	saidai	biggest; largest; maximum	Things, kinds and amounts	Usually before a noun with no: saidai no mondai = the biggest problem.
+w-tairyou	tairyou	a large amount; loads; in bulk	Things, kinds and amounts	Usually tairyou ni (in huge amounts) or tairyou no (a huge amount of).
+w-yuiitsu	yuiitsu	the only (one); sole	Things, kinds and amounts	Usually before a noun with no: yuiitsu no tomodachi = my only friend.
+w-kuyashii	kuyashii	frustrating; gutted; galling	Adjectives: feelings	The sting of losing or being beaten when you could have won; English has no single word fo
+w-urayamashii	urayamashii	jealous; envious; lucky you	Adjectives: feelings	Said straight to someone, friendly not bitter: 'ii na, urayamashii!' = lucky you!
+w-nasakenai	nasakenai	pathetic; shameful; miserable	Adjectives: feelings	Often aimed at yourself: 'nasakenai' = I'm so pathetic.
+w-oshii	oshii	so close!; a shame; a waste	Adjectives: feelings	Shouted when someone just misses: 'oshii!' = so close!
+w-daikirai	daikirai	hate; really dislike	Adjectives: feelings	The strong form of kirai; used freely for food and things, and in fights with people.
+w-hisshi	hisshi	desperate; frantic; all-out	Adjectives: feelings	Mostly as hisshi ni + verb: doing something with everything you've got.
+w-muchuu	muchuu	hooked on; crazy about; absorbed in	Adjectives: feelings	Pattern X ni muchuu: 'geemu ni muchuu' = hooked on games.
+w-tamaranai	tamaranai	irresistible; amazing; unbearable	Adjectives: feelings	Mostly praise for food, smells and cute things; after a te-form it means 'unbearably': ats
+w-kakkoii	kakkoii	cool; good-looking; stylish	Adjectives: people	Praise for looks (often men), clothes, cars, or a cool thing someone did.
+w-wakai	wakai	young	Adjectives: people	Often a compliment on looking young: 'wakai ne!' = you look so young!
+w-oshare	oshare	stylish; fashionable; trendy (place)	Adjectives: people	For people, clothes and places: 'oshare na kafe' = a trendy café.
+w-oniai	oniai	well-matched; suits you	Adjectives: people	Mostly about couples: 'oniai da ne' = you two are perfect together.
+w-kibishii	kibishii	strict; harsh; tough (situation)	Adjectives: people	For strict people (parents, coaches) and tough conditions: 'kibishii na' = that's tough.
+w-wagamama	wagamama	selfish; spoiled; demanding	Adjectives: people	Someone who insists on getting their own way, like a spoiled child.
+w-zurui	zurui	unfair; sly; no fair!	Adjectives: people	The protest 'zurui!' when someone gets something you don't, or cheats; often half-joking.
+w-ijiwaru	ijiwaru	mean; nasty; spiteful	Adjectives: people	Deliberately unkind, often in small ways; also playful: 'ijiwaru!' = you meanie!
+w-reisei	reisei	calm; level-headed; cool under pressure	Adjectives: people	Often reisei ni: 'reisei ni natte' = calm down and think straight.
+w-shinchou	shinchou	careful; cautious	Adjectives: people	Usually shinchou ni: think it through before you decide or act.
+w-teinei	teinei	polite; careful; thorough	Adjectives: people	For courteous manners and careful work: 'teinei na setsumei' = a careful explanation.
+w-nesshin	nesshin	eager; keen; dedicated	Adjectives: people	Usually nesshin ni + verb: 'nesshin ni benkyou suru' = study hard.
+w-yoroshii	yoroshii	all right, fine (polite 'ii')	Adjectives: things and situations	Staff and hosts ask 'Yoroshii desu ka?' (Is that all right? / May I?).
+w-seishiki	seishiki	official, formal	Adjectives: things and situations	Usually 'seishiki ni' (officially) or 'seishiki na' before a noun.
+w-kanou	kanou	possible	Adjectives: things and situations	Sounds formal; everyday talk uses 'dekiru' instead.
+w-gutaiteki	gutaiteki	concrete, specific	Adjectives: things and situations	Mostly 'gutaiteki ni' (specifically); 'Gutaiteki ni wa?' asks 'Like what, exactly?'
+w-kojinteki	kojinteki	personal; personally	Adjectives: things and situations	'Kojinteki ni wa' (personally, for me) softens an opinion.
+w-mezurashii	mezurashii	rare, unusual	Adjectives: things and situations	Often a comment on someone acting out of character: 'Mezurashii ne!'
+w-yoku-aru	yoku aru	common, happens a lot	Adjectives: things and situations	Before a noun it means 'typical, common': 'yoku aru hanashi'.
+w-sokkuri	sokkuri	just like, the spitting image of	Adjectives: things and situations	'X ni sokkuri' means looks just like X.
+w-betsubetsu	betsubetsu	separate, separately	Adjectives: things and situations	'Betsubetsu de' at the till means paying separately.
+w-hade	hade	flashy, loud, showy	Adjectives: things and situations	For colours and clothes, and for people or lifestyles that stand out.
+w-jimi	jimi	plain, low-key; dull	Adjectives: things and situations	For clothes, colours, people and work that don't stand out.
+w-fukuzatsu	fukuzatsu	complicated, complex	Adjectives: things and situations	'Fukuzatsu na kimochi' means mixed feelings.
+w-tanjun	tanjun	simple; simple-minded	Adjectives: things and situations	About a person it means easily led or naive, often teasing.
+w-shinpuru	shinpuru	simple, clean (in a good way)	Adjectives: things and situations	Usually positive: a clean design, an uncomplicated plan.
+w-tsui-ni	tsui ni	finally; at last	Adverbs: manner and certainty	Marks the end of a long wait or build-up, good or bad.
+w-iyoiyo	iyoiyo	at last (it's here); finally about to	Adverbs: manner and certainty	Builds anticipation for something that's about to start or arrive.
+w-toutou	toutou	finally; in the end	Adverbs: manner and certainty	For an outcome after a long time or many events, often one that was dreaded.
+w-mamonaku	mamonaku	shortly; soon	Adverbs: manner and certainty	Mostly heard in announcements on trains, at stations and in shops.
+w-nakayoku	nakayoku	getting along; on good terms	Adverbs: manner and certainty	From nakayoi, 'close'; nakayoku suru means to get along or be friends.
+w-tsuide-ni	tsuide ni	while you're at it; on the way; also	Adverbs: manner and certainty	Tacks an extra task onto something already happening; a common way to ask small favours.
+w-nen-no-tame	nen no tame	just in case; to be safe	Adverbs: manner and certainty	Explains a precaution or a double-check.
+w-narubeku	narubeku	as much as possible; if possible	Adverbs: manner and certainty	Softens a request or plan: try to, where you can.
+w-tatta	tatta	only; just	Degree words	Stresses how small a number or amount is, often with dake.
+w-hon-no	hon no	just a; a mere; only a little	Degree words	Comes before a noun to make it small: hon no sukoshi (just a tiny bit).
+w-chotto-shita	chotto shita	small; slight; minor	Degree words	Before a noun: a small, casual thing, like chotto shita omiyage (a little gift).
+w-tashou	tashou	a little; somewhat; more or less	Degree words	Often in 'even if a bit...' and in hedges: tashou no okure (some delay).
+w-tsureru	tsureru	have someone with you; take or bring someone along	Verbs: moving	For people and animals, mostly as tsureteru (has with them) or inside tsurete iku and tsur
+w-mukae-ni-kuru	mukae ni kuru	come to pick (someone) up	Verbs: moving	For people; coming to collect a thing is tori ni kuru.
+w-tsurete-kuru	tsurete kuru	bring (a person or pet)	Verbs: moving	Toward the speaker or the place being talked about.
+w-tsurete-iku	tsurete iku	take (a person or pet) somewhere	Verbs: moving	Away from the speaker; tsurete itte! = take me with you!
+w-noru	noru	get on, ride (a train, bus, car, bike)	Verbs: moving	The vehicle takes ni: densha ni noru.
+w-oriru	oriru	get off (a train, bus); go down	Verbs: moving	The vehicle takes o: densha o oriru.
+w-komu	komu	get crowded, be busy (with people)	Verbs: moving	Usually as konde iru / konderu (is crowded).
+w-norikaeru	norikaeru	change (trains, buses), transfer	Verbs: moving	The line you switch to takes ni.
+w-nugu	nugu	take off (clothes, shoes, hats)	Verbs: home and routine	
+w-haku	haku	put on, wear (shoes, socks, trousers, skirts)	Verbs: home and routine	For anything on the feet or legs; haite iru (haiteru) = be wearing.
+w-abiru	abiru	take (a shower); bathe in (sunlight)	Verbs: home and routine	Almost always shawaa o abiru; also sunlight or criticism pouring onto you.
+w-migaku	migaku	brush (teeth); polish	Verbs: home and routine	Above all ha o migaku, brushing your teeth; also shoes, or a skill (ude o migaku).
+w-fuku	fuku	wipe; dry (with a towel)	Verbs: home and routine	With a cloth or towel: tables, hands, tears, a wet body.
+w-hosu	hosu	hang out to dry; air (a futon)	Verbs: home and routine	
+w-tatamu	tatamu	fold (clothes, futons, umbrellas)	Verbs: home and routine	
+w-nebou-suru	nebou suru	oversleep	Verbs: home and routine	The classic excuse for being late.
+w-hirune-suru	hirune suru	take a nap	Verbs: home and routine	A daytime nap, often after lunch.
+w-hayaoki-suru	hayaoki suru	get up early	Verbs: home and routine	
+w-yofukashi-suru	yofukashi suru	stay up late	Verbs: home and routine	
+w-atatameru	atatameru	warm up; reheat	Verbs: home and routine	Convenience store staff ask atatamemasu ka? about your bento.
+w-chin-suru	chin suru	microwave, heat in the microwave	Verbs: home and routine	From the microwave's ding; the everyday word at home.
+w-wakasu	wakasu	boil (water); heat (the bath)	Verbs: home and routine	
+w-yuderu	yuderu	boil (food)	Verbs: home and routine	Cooking food in boiling water — pasta, eggs, vegetables.
+w-itameru	itameru	stir-fry; fry (in a pan)	Verbs: home and routine	
+w-kowareru	kowareru	break; stop working; be broken	Verbs: change, start and end	Machines and objects breaking down by themselves.
+w-naosu-2	naosu	fix; repair; correct	Verbs: change, start and end	Repairing things and correcting mistakes or habits; after a verb stem, -naosu means 'redo'
+w-wareru	wareru	crack; break; smash; split	Verbs: change, start and end	Glass, plates, screens and eggs cracking or smashing.
+w-yogoreru	yogoreru	get dirty; get stained	Verbs: change, start and end	Clothes, hands or rooms getting dirty; yogorete iru = is dirty.
+w-kusaru	kusaru	go off; rot; go bad	Verbs: change, start and end	Mostly heard as kusatteru, 'it's gone off'.
+w-kodomo-no-koro	kodomo no koro	when I was a kid; childhood	Life and time	The standard opener for a childhood memory.
+w-chiisai-koro	chiisai koro	when I was little	Life and time	A soft, everyday way to talk about early childhood.
+w-ano-koro	ano koro	back then; in those days	Life and time	Points to a time both of you know, often with nostalgia.
+w-touji	touji	at the time; back then	Life and time	Sets the scene when explaining past events: touji wa, touji no ~ (the ~ of that time).
+w-imi-ga-nai	imi ga nai	pointless; no use; makes no sense	Reasons and situations	Casually shortened to imi nai, often as imi nai jan (that's pointless).
+w-imi-ga-aru	imi ga aru	there's a point; worth it, meaningful	Reasons and situations	Often asked with doubt: sore, imi aru? (is there any point?).
+w-you-ga-aru	you ga aru	have something to do; want someone for something	Reasons and situations	Used to excuse yourself (I've got something on) or about why someone came to see you.
+w-kachi	kachi	value; worth	Reasons and situations	Usually 'X suru kachi ga aru' (worth doing).
+w-kafe	kafe	café	Places	
+w-izakaya	izakaya	izakaya; Japanese pub	Places	A casual bar with lots of small dishes, the usual place for drinks after work.
+w-resutoran	resutoran	restaurant	Places	Usually a sit-down, often Western-style place; a casual eatery is just a mise or shokudou.
+w-iriguchi	iriguchi	entrance; way in	Places	
+w-ekimae	ekimae	in front of the station; the station area	Places	The shops and square outside a station, the standard place to meet.
+w-chuushajou	chuushajou	car park; parking lot	Places	
+w-kaijou	kaijou	venue; event hall	Places	Where an event happens: a concert, wedding, exam or party.
+w-ginkou	ginkou	bank	Places	
+w-biyouin	biyouin	hair salon; hairdresser's	Places	Where you get a cut or colour; a traditional men's barber is a tokoya.
+w-yuubinkyoku	yuubinkyoku	post office	Places	
+w-hyakkin	hyakkin	100-yen shop	Places	Short for hyaku-en kin'itsu; fine in any register.
+w-terebi	terebi	TV; television	Home and everyday things	
+w-denki	denki	light; electricity	Home and everyday things	In a room it usually means the light: denki o tsukeru / kesu.
+w-teeburu	teeburu	table	Home and everyday things	
+w-isu	isu	chair	Home and everyday things	
+w-fukuro	fukuro	bag (plastic or paper); sack; packet	Home and everyday things	A soft carrier bag or pouch; cashiers ask fukuro wa goriyou desu ka? (Do you need a bag?).
+w-kaban	kaban	bag (school bag, work bag, handbag)	Home and everyday things	The general word for a bag you carry your things in.
+w-baggu	baggu	bag; handbag	Home and everyday things	Mostly a handbag or fashion bag; kaban is the general word.
+w-hako	hako	box	Home and everyday things	
+w-souji-suru	souji suru	clean (a room or house); cleaning	Home and everyday things	Sweeping, wiping or vacuuming; washing clothes is sentaku and washing dishes is arau.
+w-gomi	gomi	rubbish; trash	Home and everyday things	Sorted strictly, with moeru gomi (burnable), moenai gomi and recycling collected on set da
+w-kaji	kaji	housework; chores	Home and everyday things	
+w-dougu	dougu	tool; equipment; gear	Home and everyday things	Anything you use for a job: cleaning things, sports gear, art supplies.
+w-fuku-2	fuku	clothes; outfit	Home and everyday things	
+w-kutsu	kutsu	shoes	Home and everyday things	
+w-kutsushita	kutsushita	socks	Home and everyday things	
+w-zubon	zubon	trousers; pants	Home and everyday things	
+w-ofuro	ofuro	bath; bathtub; bathroom (for bathing)	Home and everyday things	Taking a bath is ofuro ni hairu, literally 'go into the bath'.
+w-toire	toire	toilet; bathroom	Home and everyday things	
+w-shawaa	shawaa	shower	Home and everyday things	
+w-taoru	taoru	towel	Home and everyday things	
+w-tisshu	tisshu	tissue; tissues	Home and everyday things	
+w-futon	futon	futon; bedding (floor mattress and quilt)	Home and everyday things	Laid out on the floor at night and folded away by day.
+w-beddo	beddo	bed	Home and everyday things	
+w-makura	makura	pillow	Home and everyday things	
+w-pajama	pajama	pyjamas	Home and everyday things	
+w-reizouko	reizouko	fridge; refrigerator	Home and everyday things	
+w-hashi	hashi	chopsticks	Home and everyday things	Most people say ohashi in everyday speech.
+w-sara	sara	plate; dish	Home and everyday things	Most people say osara; doing the dishes is osara o arau.
+w-koppu	koppu	glass; cup (for cold drinks)	Home and everyday things	A drinking glass or plastic cup; a mug for hot drinks is a magu kappu.
+w-sentaku-suru	sentaku suru	do the laundry; wash clothes	Home and everyday things	Only for clothes and linen; washing dishes or hands is arau.
+w-sentakumono	sentakumono	the washing; laundry (the clothes)	Home and everyday things	The clothes themselves, dirty or drying.
+w-beranda	beranda	balcony	Home and everyday things	Where most Japanese flats hang their washing out to dry.
+w-sentakuki	sentakuki	washing machine	Home and everyday things	
+w-ryouri	ryouri	cooking; a dish; cuisine	Home and everyday things	
+w-hamigaki	hamigaki	brushing your teeth	Home and everyday things	Mostly as hamigaki suru, to brush your teeth.
+w-araimono	araimono	the dishes; washing-up	Home and everyday things	Usually dirty dishes; goes with suru or yaru.
+w-takuhaibin	takuhaibin	parcel delivery; a delivered parcel	Home and everyday things	Courier delivery to your door; you hear 'takuhaibin desu' at the intercom.
+w-jisui-suru	jisui suru	cook for yourself; make your own meals	Home and everyday things	Said of people living alone who cook instead of eating out or buying ready meals.
+w-eakon	eakon	air conditioner; heat pump	Home and everyday things	Wall units both cool and heat, so it's on in winter too.
+w-renji	renji	microwave	Home and everyday things	Short for denshi renji; it means the microwave, not a stove.
+w-rimokon	rimokon	remote control	Home and everyday things	
+w-soujiki	soujiki	vacuum cleaner	Home and everyday things	To vacuum is soujiki o kakeru.
+w-biiru	biiru	beer	Food and drink	
+w-wain	wain	wine	Food and drink	
+w-juusu	juusu	juice; soft drink	Food and drink	Covers sweet soft drinks like cola too, not just fruit juice.
+w-aji	aji	taste; flavour	Food and drink	
+w-nama	nama	raw; draft beer; live	Food and drink	Raw food, a draft beer at a bar, or something seen live and in person.
+w-shio	shio	salt	Food and drink	
+w-shouyu	shouyu	soy sauce	Food and drink	
+w-keeki	keeki	cake	Food and drink	
+w-okashi	okashi	sweets; snacks	Food and drink	Covers candy, chips and biscuits, anything packaged to snack on.
+w-aisu	aisu	ice cream; ice lolly	Food and drink	Means ice cream, not ice; ice cubes are koori.
+w-choko	choko	chocolate	Food and drink	Short for chokoreeto; the short form is what people usually say.
+w-oyatsu	oyatsu	snack; snack time	Food and drink	The afternoon snack between meals, especially for kids.
+w-karee	karee	curry; curry and rice	Food and drink	Usually Japanese curry over rice, a standard home dinner.
+w-raamen	raamen	ramen	Food and drink	
+w-sushi	sushi	sushi	Food and drink	
+w-udon	udon	udon (thick wheat noodles)	Food and drink	
+w-bentou	bentou	packed lunch; boxed meal	Food and drink	Home-made or bought at a convenience store; usually said obentou.
+w-nabe	nabe	hot pot; pot	Food and drink	Most often the shared hot-pot meal cooked at the table in winter.
+w-onigiri	onigiri	rice ball	Food and drink	
+w-misoshiru	misoshiru	miso soup	Food and drink	
+w-menyuu	menyuu	menu	Food and drink	
+w-ranchi	ranchi	lunch; lunch special	Food and drink	Mostly for lunch out; lunch at home is hirugohan.
+w-gaishoku	gaishoku	eating out	Food and drink	Talks about the habit of eating out rather than one restaurant meal.
+w-tabehoudai	tabehoudai	all-you-can-eat	Food and drink	A set price, usually with a time limit.
+w-mochikaeri	mochikaeri	takeaway; to go	Food and drink	Staff ask 'omochikaeri desu ka?': is it to go?
+w-uchiawase	uchiawase	a (planning) meeting	Work and school	A working meeting to go over details, often small and with a client or colleague.
+w-sukejuuru	sukejuuru	schedule	Work and school	Your plans for a day or week, or the timetable for a project or trip.
+w-shorui	shorui	documents; paperwork	Work and school	Official papers such as forms, contracts and applications.
+w-shutchou	shutchou	business trip	Work and school	
+w-shimekiri	shimekiri	deadline; closing date	Work and school	
+w-kyuukei	kyuukei	a break; rest	Work and school	A short pause from work, study or a long drive; used with suru.
+w-zangyou	zangyou	overtime (work)	Work and school	Staying late at work after normal hours; zangyou suru = to work overtime.
+w-tsuukin	tsuukin	commuting to work; the commute	Work and school	
+w-yuukyuu	yuukyuu	paid leave; paid time off	Work and school	Short for yuukyuu kyuuka; you 'take' it: yuukyuu o toru.
+w-renkyuu	renkyuu	days off in a row; long weekend	Work and school	Two or more days off in a row, especially around public holidays.
+w-kenkou	kenkou	health	Health	Health in general; kenkou ni ii = good for you.
+w-undou	undou	exercise; physical activity	Health	Exercise for your health; undou suru = to work out.
+w-daietto	daietto	diet (to lose weight)	Health	Always about losing weight; daietto chuu = on a diet.
+w-taijuu	taijuu	body weight	Health	Weight goes up (fueru) or down (heru); taijuu o hakaru = weigh yourself.
+w-kenkou-shindan	kenkou shindan	health check-up; medical check-up	Health	The yearly check-up most companies and schools require.
+w-hanamizu	hanamizu	runny nose; snot	Health	Hanamizu ga deru = have a runny nose.
+w-seki	seki	cough	Health	Seki ga deru = to cough; seki ga tomaranai = can't stop coughing.
+w-netchuushou	netchuushou	heatstroke; heat exhaustion	Health	A common summer warning in Japan; netchuushou ni naru = get heatstroke.
+w-kafunshou	kafunshou	hay fever; pollen allergy	Health	Very common in Japan each spring; kafunshou nan da = I've got hay fever.
+w-shinbun	shinbun	newspaper	Society and news	
+w-jishin	jishin	earthquake	Society and news	
+w-kinkyuu	kinkyuu	emergency; urgent	Society and news	Sounds serious, like an alarm or the news; for an everyday rush people often say isogi.
+w-heiwa	heiwa	peaceful; peace	Society and news	In daily talk it mostly means calm, nothing going on.
+w-keiyaku	keiyaku	contract	Society and news	Phone plans, apartments, jobs; anything you sign up to.
+w-kojin	kojin	individual; personal	Society and news	Mostly heard in kojinteki ni (personally, for me) and kojin jouhou (personal data).
+w-tetsuzuki	tetsuzuki	paperwork; procedure	Society and news	The forms and steps for official things: moving, banks, visas, cancelling.
+w-kaeri	kaeri	the way back; coming home	Getting around	Kaeri ni = on the way home.
+w-omukae	omukae	picking someone up; meeting someone	Getting around	Picking up kids from daycare or someone from the station; omukae ni iku = go and pick up.
+w-odekake	odekake	going out; a day out	Getting around	A soft word for an outing, often with kids or a partner; odekake suru = go out.
+w-shuuden	shuuden	last train	Getting around	
+w-shingou	shingou	traffic light	Getting around	Directions are given by them: tsugi no shingou (the next light).
+w-juutai	juutai	traffic jam	Getting around	
+w-manin-densha	man'in densha	packed train	Getting around	The rush-hour train where you can't move; man'in alone means full to capacity.
+w-tada	tada	free (no charge)	Money and shopping	The casual word; muryou is what signs and staff say.
+w-muryou	muryou	free of charge	Money and shopping	The standard word on signs, menus and from staff; tada is the casual one.
+w-pointo	pointo	loyalty points; key point	Money and shopping	Store points come up at almost every till: pointo kaado wa omochi desu ka?
+w-saabisu	saabisu	service; something free, on the house	Money and shopping	In shops and restaurants it often means a freebie.
+w-kaimono	kaimono	shopping	Money and shopping	Both grocery runs and fun shopping; kaimono ni iku = go shopping.
+w-nedan	nedan	price	Money and shopping	
+w-shouhin	shouhin	product; item for sale	Money and shopping	Shop and business talk; for stuff you bought, people just say mono.
+w-seeru	seeru	sale (discounts)	Money and shopping	A shop's bargain period; never 'sale' as in selling something.
+w-waribiki	waribiki	discount	Money and shopping	A set amount or percent off; gakusei waribiki = student discount.
+w-yoyaku-suru	yoyaku suru	book; reserve	Money and shopping	For restaurants, hotels, doctors, haircuts; the noun yoyaku is the booking itself.
+w-chuumon-suru	chuumon suru	order (food, goods)	Money and shopping	At a restaurant or online; the noun chuumon is the order itself.
+w-shiharai	shiharai	payment; paying	Money and shopping	Common on bills and with shop staff; with friends you'd more often use the verb harau.
+w-warikan	warikan	splitting the bill evenly	Money and shopping	The default among friends; warikan ni suru = split it.
+w-shakkin	shakkin	debt; borrowed money	Money and shopping	Money owed, to a bank or a person.
+w-sagi	sagi	scam; fraud	Money and shopping	
+w-kaado	kaado	card (credit, points, ID)	Money and shopping	At a till it usually means a credit card; kaado de = by card.
+w-genkin	genkin	cash	Money and shopping	
+w-otsuri	otsuri	change (money back)	Money and shopping	
+w-reji	reji	checkout; till	Money and shopping	Where you pay in any shop; reji bukuro is the plastic bag you get at the till.
+w-reshiito	reshiito	receipt	Money and shopping	The till slip; a formal receipt for expenses is a ryoushuusho.
+w-douga	douga	video (clip, online)	Free time and tech	Any video clip, especially online; a TV show is bangumi.
+w-manga	manga	manga; comics	Free time and tech	
+w-esu-enu-esu	esu enu esu	social media	Free time and tech	Japanese says SNS where English says 'social media'.
+w-kyara	kyara	character (in a story or game); someone's persona	Free time and tech	Also the role someone plays among friends: sonna kyara ja nai = that's not like me.
+w-zasshi	zasshi	magazine	Free time and tech	
+w-kyoku	kyoku	song; piece of music; tune	Free time and tech	The usual word for a song you listen to or play.
+w-raibu	raibu	gig; concert; live show	Free time and tech	
+w-karaoke	karaoke	karaoke	Free time and tech	Usually a private room you rent by the hour with friends.
+w-supootsu	supootsu	sport; sports	Free time and tech	
+w-yakyuu	yakyuu	baseball	Free time and tech	
+w-jimu	jimu	gym (fitness)	Free time and tech	
+w-taikai	taikai	tournament; competition; big meet	Free time and tech	
+w-katsudou	katsudou	activity; activities (club, volunteer, work)	Free time and tech	For organised, ongoing activity like a club or a band, not one fun thing you did.
+w-sanpo	sanpo	walk; stroll	Free time and tech	A walk for its own sake, often with a dog: sanpo suru or sanpo ni iku.
+w-natsuyasumi	natsuyasumi	summer holidays; summer break	Free time and tech	
+w-hanami	hanami	cherry-blossom viewing (party)	Free time and tech	A spring picnic with food and drinks under the cherry trees.
+w-sumaho	sumaho	smartphone; phone	Free time and tech	The everyday word for your mobile phone.
+w-rain	rain	LINE (messaging app); a LINE message; line	Free time and tech	Japan's main messaging app; rain suru means 'message someone on LINE'.
+w-apuri	apuri	app	Free time and tech	
+w-kidoku	kidoku	read (message receipt); 'seen'	Free time and tech	The 'Read' mark LINE shows once someone opens your message.
+w-sukusho	sukusho	screenshot	Free time and tech	
+w-pasokon	pasokon	computer; PC; laptop	Free time and tech	
+w-juuden	juuden	battery charge; charging	Free time and tech	Also the battery level itself: juuden ga nai = my battery's dead.
+w-juudenki	juudenki	charger	Free time and tech	
+w-waifai	waifai	wifi	Free time and tech	
+w-gamen	gamen	screen; display	Free time and tech	
+w-ookisa	ookisa	size; how big	Things, kinds and amounts	-sa turns an adjective into a 'how much' noun: ookii (big) becomes ookisa (size).
+w-saizu	saizu	size (clothes, shoes, products)	Things, kinds and amounts	The shop word for S, M, L and shoe sizes.
+w-dezain	dezain	design; look (of a thing)	Things, kinds and amounts	Often just means how something looks: 'dezain ga kawaii' = it looks cute.
+w-ika	ika	or less; or under; below	Things, kinds and amounts	Goes after a number and includes it: 'sen'en ika' = 1,000 yen or less.
+w-okiniiri	okiniiri	favourite (thing, place); favourites list	Things, kinds and amounts	A noun: 'okiniiri no mise' = my favourite shop; also the favourites button in apps.
+w-dochira-mo	dochira mo	both; (with a negative) neither	Things, kinds and amounts	With a positive it means both; with a negative it means neither: 'dochira mo shiranai' = I
+w-gohoubi	gohoubi	reward; treat	Things, kinds and amounts	Often a treat you give yourself: 'jibun e no gohoubi' = a little reward for me.
+w-risuto	risuto	list	Things, kinds and amounts	
+w-nemui	nemui	sleepy	Adjectives: feelings	
+w-kimochi-warui	kimochi warui	gross; creepy; (I) feel sick	Adjectives: feelings	Covers both something disgusting and your own nausea: on its own, 'kimochi warui' often me
+w-kimochi-ii	kimochi ii	feels good; pleasant; refreshing	Adjectives: feelings	For physical comfort: a breeze, a hot bath, a massage, a good stretch.
+w-darui	darui	sluggish; heavy and tired; run-down	Adjectives: feelings	Your body feels heavy and slow, often before a cold or after bad sleep.
+w-kayui	kayui	itchy	Adjectives: feelings	
+w-shinsetsu	shinsetsu	kind; helpful	Adjectives: people	Mostly for kind acts, often by strangers: 'shinsetsu ni oshiete kureta' = kindly showed me
+w-naka-ii	naka ii	get along well; close	Adjectives: people	Short for naka ga ii; describes a relationship, not one person.
+w-tayori-ni-naru	tayori ni naru	reliable; someone you can count on	Adjectives: people	Praise for a person you can lean on: 'tayori ni naru senpai' = a senior I can count on.
+w-shitashii	shitashii	close; on familiar terms	Adjectives: people	Describes how close people are: 'shitashii tomodachi' = a close friend.
+w-saitei	saitei	the worst, awful; at least, minimum	Adjectives: things and situations	'Saitei!' about a person means 'You're the worst!'
+w-kudaranai	kudaranai	stupid, silly, worthless	Adjectives: things and situations	For jokes, shows or arguments not worth your time.
+w-mashi	mashi	better (of bad options), less bad	Adjectives: things and situations	'X yori mashi' means better than X; never real praise.
+w-bimyou	bimyou	iffy, so-so; hard to say; subtle	Adjectives: things and situations	A soft way to say 'not great' or 'not sure' without saying no.
+w-dasai	dasai	uncool, tacky, lame	Adjectives: things and situations	For clothes, style and try-hard behaviour.
+w-kuwashii	kuwashii	detailed; knows a lot about	Adjectives: things and situations	About a person: 'X ni kuwashii' means knows X well.
+w-komakai	komakai	small, fine; detailed; picky	Adjectives: things and situations	
+w-usui	usui	thin; weak, watery (taste); pale (colour)	Adjectives: things and situations	For drinks and food it means bland or watered down.
+w-koi	koi	strong, rich (taste); dark, deep (colour); thick	Adjectives: things and situations	For strong coffee, rich flavours, dark colours, heavy makeup.
+w-kimoi	kimoi	gross; creepy	Adjectives: things and situations	Blunt slang for anything that disgusts or creeps you out, people included.
+w-umai	umai	tasty; good at, skilful	Adjectives: things and situations	A hearty, casual 'delicious', said more by men; also praises someone's skill.
+w-nurui	nurui	lukewarm; tepid	Adjectives: things and situations	For drinks, food or bathwater that should be hot or cold but isn't.
+w-ukkari	ukkari	carelessly; absent-mindedly; by mistake	Adverbs: manner and certainty	A slip you didn't mean, often with -te shimau.
+w-sotto	sotto	gently; quietly; softly	Adverbs: manner and certainty	Moving carefully so as not to disturb anyone or anything.
+w-kossori	kossori	secretly; sneakily; on the quiet	Adverbs: manner and certainty	Doing something so others won't notice.
+w-jitto	jitto	still; fixedly; patiently	Adverbs: manner and certainty	Not moving, or staring hard: jitto shite (hold still), jitto miru.
+w-ichiichi	ichiichi	every single time; one by one	Adverbs: manner and certainty	Mostly a complaint about fussing over every little thing.
+w-imasara	imasara	now (when it's too late); after all this time	Adverbs: manner and certainty	Complains that something comes far too late to matter.
+w-yayakoshii	yayakoshii	complicated; confusing	Adverbs: manner and certainty	For things that are a tangle to follow or sort out, like rules, plans or who's dating whom
+w-fuben	fuben	inconvenient	Adverbs: manner and certainty	For places, tools or setups that make life harder; the opposite of benri.
+w-seiippai	seiippai	as hard as you can; your very best	Adverbs: manner and certainty	Full effort within your limits; seiippai ganbaru.
+w-omoikkiri	omoikkiri	with all your might; to your heart's content	Adverbs: manner and certainty	Holding nothing back: omoikkiri asobu, omoikkiri naku.
+w-otagai	otagai	each other; both of us	Adverbs: manner and certainty	Often otagai ni (to each other), or alone meaning 'we both'.
+w-dou-ni-ka	dou ni ka	somehow; one way or another	Adverbs: manner and certainty	Managing despite difficulty: dou ni ka naru (it'll work out).
+w-tekkiri	tekkiri	I was sure (but wrong); I just assumed	Adverbs: manner and certainty	Always a belief that turned out wrong, usually tekkiri ... to omotta.
+w-itsumo-doori	itsumo doori	as usual; the usual way	Adverbs: manner and certainty	Things go, or should go, the normal way: itsumo doori de ii (the usual is fine).
+w-shotchuu	shotchuu	all the time; constantly	Adverbs: manner and certainty	A casual 'often', usually hinting 'too often'.
+w-kihonteki-ni	kihonteki ni	basically; as a rule	Adverbs: manner and certainty	States the general rule while leaving room for exceptions.
+w-tatta-ima	tatta ima	just now; this very moment	Adverbs: manner and certainty	Stronger than ima: it happened a moment ago.
+w-atto-iu-ma-ni	atto iu ma ni	in no time; in the blink of an eye	Adverbs: manner and certainty	For time flying or something happening fast, often with -te shimau.
+w-itsu-no-ma-ni	itsu no ma ni	when did...?; before I knew it	Adverbs: manner and certainty	Surprise that something happened without you noticing.
+w-kyoujuu-ni	kyoujuu ni	by the end of today; sometime today	Adverbs: manner and certainty	Sets a deadline for today.
+w-dore-gurai	dore gurai	how much; how long; how many	Degree words	The everyday question for any amount, time or distance; dore kurai is the same word.
+w-dore-dake	dore dake	how much; how far	Degree words	Usually emotional: how much someone worried, waited or cared, not a neutral measurement.
+w-donna-ni	donna ni	no matter how; how (very) much	Degree words	Usually with -te mo: donna ni ganbatte mo (no matter how hard I try).
+w-maamaa	maamaa	so-so; not bad; now, now	Degree words	The reply to 'how was it?' when it was OK but not great.
+w-sokosoko	sokosoko	fairly; reasonably; decent	Degree words	Neither bad nor great; often modest about your own skills or things.
+w-sorenari	sorenari	reasonably; in its own way; as you'd expect	Degree words	Usually sorenari ni: decent enough given the situation, effort or price.
+w-aru-teido	aru teido	to some extent; a certain amount	Degree words	Hedges a claim so you don't overstate it.
+w-pittari	pittari	exactly; a perfect fit; just right	Sound and feeling words	A perfect match in size, timing or suitability: pittari no hito (the perfect person).
+w-batchiri	batchiri	perfect; all set; nailed it	Sound and feeling words	Casual 'perfectly done' or 'fully ready': junbi batchiri.
+w-sukkiri-suru	sukkiri suru	feel refreshed; feel better; look neat	Sound and feeling words	Relief once something is off your chest or out of the way; also a tidy, uncluttered look.
+w-dokidoki-suru	dokidoki suru	heart pounding; be nervous; be thrilled	Sound and feeling words	A racing heart from nerves, excitement or a crush.
+w-wakuwaku-suru	wakuwaku suru	be excited; can't wait	Sound and feeling words	Happy anticipation of something coming up.
+w-iraira-suru	iraira suru	be irritated; get annoyed	Sound and feeling words	Ongoing irritation or impatience from people, waiting or stress.
+w-gakkari-suru	gakkari suru	be disappointed; be let down	Sound and feeling words	When something falls short of what you hoped.
+w-hotto-suru	hotto suru	be relieved; feel at ease	Sound and feeling words	The relief when a worry ends, or the calm of feeling at home.
+w-hayame	hayame	a bit early; earlier than usual	Sound and feeling words	Mostly hayame ni: doing something ahead of time to be safe.
+w-girigiri	girigiri	just barely; at the last minute; cutting it close	Sound and feeling words	Right at the limit of time, space or money: girigiri ma ni atta (just made it).
+w-batabata-suru	batabata suru	be hectic; rush around	Sound and feeling words	A common excuse for being out of touch: batabata shiteta (things have been crazy).
+w-nonbiri-suru	nonbiri suru	take it easy; relax; be laid-back	Sound and feeling words	Relaxing with no rush; also describes an easygoing person or place.
+w-bootto	bootto	spaced out; absent-minded	Sound and feeling words	Usually bootto suru (zone out) or bootto shite ita (wasn't paying attention).
+w-nikoniko	nikoniko	smiling; beaming	Sound and feeling words	Usually nikoniko suru or nikoniko shite iru: a warm, steady smile.
+w-moyamoya	moyamoya	uneasy; bothered; unresolved feeling	Sound and feeling words	Usually moyamoya suru: a nagging feeling you can't put your finger on.
+w-ukiuki	ukiuki	cheerful; in high spirits	Sound and feeling words	Usually ukiuki suru: light, bouncy happiness before something nice, like a trip.
+w-zatto	zatto	roughly; quickly, briefly	Sound and feeling words	For a quick once-over (zatto miru) or a ballpark figure.
+w-perapera	perapera	fluent (speaking)	Sound and feeling words	Usually X-go ga perapera (fluent in a language).
+w-kotsukotsu	kotsukotsu	steadily; bit by bit	Sound and feeling words	For patient, unglamorous effort over time, like saving or studying.
+w-gorogoro	gorogoro	lazing around; rumbling	Sound and feeling words	Usually gorogoro suru: lying around at home doing nothing.
+w-daradara	daradara	lazily; dragging on	Sound and feeling words	For slacking with no purpose, or something that drags on too long, like a meeting.
+w-urouro	urouro	hanging around; wandering aimlessly	Sound and feeling words	Moving back and forth in one area, lost or loitering; can sound suspicious.
+w-burabura	burabura	strolling around; idling	Sound and feeling words	Usually burabura suru: wandering with no plan, or idling without a job.
+w-garagara	garagara	nearly empty (place); hoarse (voice)	Sound and feeling words	For trains, shops or roads with hardly anyone in them.
+w-guchagucha	guchagucha	messy, jumbled; mushy	Sound and feeling words	For a room, hair or thoughts in a mess, or food gone soggy.
+w-gyutto	gyutto	tightly, firmly	Sound and feeling words	With squeezing or holding verbs: gyutto dakishimeru (hug tight), gyutto nigiru (grip tight
+w-gyuugyuu	gyuugyuu	packed tight, crammed	Sound and feeling words	For a train, bag or schedule crammed full.
+w-fuwafuwa	fuwafuwa	fluffy, soft; floaty	Sound and feeling words	Praise for fluffy food, hair, towels or bedding.
+w-sakusaku	sakusaku	light and crispy; quickly and smoothly	Sound and feeling words	For light, crisp food like tempura or cookies.
+w-mochimochi	mochimochi	chewy, springy	Sound and feeling words	Praise for soft, bouncy food like mochi, bread or noodles.
+w-kotteri	kotteri	rich, heavy (food)	Sound and feeling words	Usually kotteri shita: rich, oily or thick flavour, like ramen broth.
+w-paripari	paripari	crisp, crunchy	Sound and feeling words	For thin, crackly things: seaweed, chips, fresh lettuce, crisp chicken skin.
+w-gussuri	gussuri	soundly (asleep)	Sound and feeling words	Almost always with neru or nemuru.
+w-furafura	furafura	dizzy, unsteady; drifting aimlessly	Sound and feeling words	Usually furafura suru: feeling faint from hunger, fever or tiredness.
+w-kutakuta	kutakuta	worn out, exhausted	Sound and feeling words	Usually kutakuta da or kutakuta ni naru, after a long day.
+w-utouto	utouto	dozing off, nodding off	Sound and feeling words	Usually utouto suru: drifting into light sleep, like on a train.
+w-pekopeko	pekopeko	starving (hungry); bowing again and again	Sound and feeling words	Almost always onaka ga pekopeko (I'm starving).
+w-karakara	karakara	parched; bone-dry	Sound and feeling words	Usually nodo ga karakara (my throat's parched); also dry air or weather.
+w-mukamuka	mukamuka	queasy, sick to your stomach; seething (angry)	Sound and feeling words	Usually mukamuka suru, for nausea or for anger building up.
+w-zukizuki	zukizuki	throbbing (pain)	Sound and feeling words	Usually X ga zukizuki suru, for a headache, toothache or wound.
+w-buruburu	buruburu	shivering; trembling	Sound and feeling words	Shaking from cold or fear, often buruburu furueru.
+w-pikapika	pikapika	shiny, spotless; sparkling	Sound and feeling words	For something polished or brand new; often pikapika ni suru (make it spotless).
+w-sarasara	sarasara	silky, smooth; flowing	Sound and feeling words	For hair, sand or skin that's smooth and dry, not sticky.
+w-bishobisho	bishobisho	soaking wet, drenched	Sound and feeling words	For clothes, hair or people soaked by rain or a spill.
+w-tsurutsuru	tsurutsuru	smooth; slippery	Sound and feeling words	For slick surfaces like an icy road, and very smooth skin.
+w-betobeto	betobeto	sticky	Sound and feeling words	For sticky hands, sweaty skin or a greasy table.
+w-pokapoka	pokapoka	nice and warm; cozy	Sound and feeling words	For gentle sunshine, or warmth spreading through your body after a bath.
+w-jimejime	jimejime	damp, humid	Sound and feeling words	Usually jimejime suru, for the rainy season or a damp room.
+w-zaazaa	zaazaa	pouring (rain)	Sound and feeling words	For heavy rain: ame ga zaazaa futte iru.
+w-mushimushi	mushimushi	muggy, hot and humid	Sound and feeling words	Usually mushimushi suru, for sticky summer heat.

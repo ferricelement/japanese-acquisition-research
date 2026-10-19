@@ -20,7 +20,7 @@ const idiomSlugs = chunkSlugs(idioms.blocks, collDomainOf);
 const WORDLISTS = [
 	['core', 'Core words', '23-list-core.json'],
 	['sets', 'Word sets', '24-list-sets.json'],
-	['phrases', 'Set phrases', '25-list-phrases.json'],
+	['phrases', 'Conversation phrases', '25-list-phrases.json'],
 	['conjugations', 'Conjugations', '26-list-conjugations.json'],
 ].map(([section, title, file]) => {
 	const data = JSON.parse(readFileSync(new URL(`./${file}`, import.meta.url), 'utf8'));

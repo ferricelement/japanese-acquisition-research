@@ -1,0 +1,230 @@
+move	id	romaji	english	cv	role
+c-intro	p-onamae-wa	onamae wa?	what's your name?	3	both
+c-intro	p-dochira-kara-desu-ka	dochira kara desu ka	where are you from?	3	both
+c-intro	p-nihongo-jouzu-desu-ne	nihongo jouzu desu ne	your Japanese is good	3	hear
+c-intro	p-doko-kara-kita-no	doko kara kita no?	where are you from?; where did you come from?	5	both
+c-intro	p-shusshin-da-yo	... shusshin da yo	I'm from ...; I grew up in ...	5	say
+c-intro	p-shusshin-doko	shusshin doko?	where are you from?; where did you grow up?	5	both
+c-intro	p-no-dono-hen	... no dono hen?	whereabouts in ...?	4	both
+c-intro	p-jimoto-doko	jimoto doko?	where's your hometown?	4	both
+c-intro	p-ni-sunderu	... ni sunderu	I live in ...	5	say
+c-intro	p-ima-doko-ni-sunderu-no	ima doko ni sunderu no?	where do you live now?	5	both
+c-intro	p-hitorigurashi	hitorigurashi?	do you live on your own?; living alone?	4	both
+c-intro	p-jikka-ni-sunderu	jikka ni sunderu	I live with my parents; I live at home	4	say
+c-intro	p-de-hataraiteru	... de hataraiteru	I work at ...; I work in ...	5	say
+c-intro	p-donna-shigoto	donna shigoto?	what kind of work is it?; what do you do?	4	both
+c-intro	p-kaishain-da-yo	kaishain da yo	I work for a company; I'm an office worker	4	say
+c-intro	p-doko-de-hataraiteru-no	doko de hataraiteru no?	where do you work?	4	both
+c-intro	p-kankei-no-shigoto-o-shiteru	... kankei no shigoto o shiteru	I work in ...; I do something to do with ...	4	say
+c-intro	p-nihongo-benkyou-shiteru-n-da	nihongo benkyou shiteru n da	I'm learning Japanese	5	say
+c-intro	p-eigo-hanaseru	eigo hanaseru?	do you speak English?; can you speak English?	4	both
+c-intro	p-dokugaku-da-yo	dokugaku da yo	I taught myself; self-taught	4	say
+c-intro	p-nihongo-doko-de-benkyou-shita-no	nihongo doko de benkyou shita no?	where did you learn your Japanese?	4	hear
+c-intro	p-nihongo-de-hanasou	nihongo de hanasou	let's talk in Japanese	4	say
+c-intro	p-nihon-ni-kite-dono-gurai	nihon ni kite dono gurai?	how long have you been in Japan?	5	hear
+c-intro	p-kita-bakkari	kita bakkari	I've only just got here; I just arrived	4	say
+c-intro	p-nen-gurai-ni-naru	...nen gurai ni naru	it's been about ... years	4	say
+c-intro	p-itsu-made-iru-no	itsu made iru no?	how long are you here for?; until when are you staying?	4	hear
+c-intro	p-mada-kimetenai	mada kimetenai	I haven't decided yet	4	say
+c-intro	p-shitsurei-desu-ga	shitsurei desu ga	excuse me, but (may I ask)	2	both
+c-intro	p-rain-koukan-shiyou	rain koukan shiyou	let's swap LINE contacts	3	say
+c-intro	p-kyoudai-iru	kyoudai iru?	do you have any brothers or sisters?	5	both
+c-intro	p-hitorikko-na-n-da	hitorikko na n da	I'm an only child	4	say
+c-intro	p-ani-ga-hitori-iru	ani ga hitori iru	I've got one older brother	4	say
+c-intro	p-nannin-kazoku	nannin kazoku?	how many are there in your family?	4	both
+c-intro	p-yonin-kazoku-da-yo	yonin kazoku da yo	there are four of us in my family	4	say
+c-intro	p-kekkon-shiteru	kekkon shiteru?	are you married?	4	both
+c-intro	p-kodomo-iru	kodomo iru?	do you have kids?	4	both
+c-intro	p-petto-katteru	petto katteru?	do you have any pets?	4	both
+c-intro	p-aete-ureshii	aete ureshii	so glad to meet you; great to see you	4	both
+c-intro	p-kara-hanashi-wa-kiiteru	... kara hanashi wa kiiteru	I've heard about you from ...; ... has told me about you	4	both
+c-intro	p-no-tomodachi-na-n-da	... no tomodachi na n da	I'm a friend of ...'s	4	say
+c-intro	p-insuta-yatteru	insuta yatteru?	are you on Instagram?	4	both
+c-intro	p-nande-nihon-ni-kita-no	nande nihon ni kita no?	what made you come to Japan?; why did you come to Japan?	5	hear
+c-intro	p-shigoto-de-kita	shigoto de kita	I came over for work	4	say
+c-intro	p-zutto-nihon-ni-kitakatta-n-da	zutto nihon ni kitakatta n da	I'd always wanted to come to Japan	4	say
+c-intro	p-kikkake-wa	kikkake wa?	what got you started?; how did that come about?	5	both
+c-intro	p-ga-kikkake-de	... ga kikkake de	it started with ...; ... is what got me into it	4	say
+c-intro	p-nihon-no-seikatsu-wa-dou	nihon no seikatsu wa dou?	how are you finding life in Japan?; how's life in Japan?	5	hear
+c-intro	p-daibu-nareta	daibu nareta	I've pretty much settled in; I'm much more used to it now	4	say
+c-intro	p-nihon-no-doko-ga-suki	nihon no doko ga suki?	what do you like about Japan?	5	hear
+c-intro	p-tsuukin-dono-gurai	tsuukin dono gurai?	how long's your commute?	4	both
+c-intro	p-mada-mada-desu	mada mada desu	I've still got a long way to go	3	say
+c-intro	p-senkou-wa	senkou wa?	what's your major?; what are you studying?	4	both
+c-intro	p-daigaku-de-o-benkyou-shiteru	daigaku de ... o benkyou shiteru	I study ... at uni	4	say
+c-intro	p-ryuugaku-shiteru	ryuugaku shiteru	I'm here studying abroad; I'm an exchange student	4	say
+c-intro	p-ima-wa-shigoto-sagashichuu	ima wa shigoto sagashichuu	I'm job hunting at the moment; I'm between jobs	4	say
+c-intro	p-toshi-ikutsu	toshi ikutsu?	how old are you?	4	both
+c-intro	p-nannen-umare	nannen umare?	what year were you born?	4	both
+c-intro	p-onaidoshi-da	onaidoshi da!	we're the same age!	4	say
+c-intro	p-ketsuekigata-wa	ketsuekigata wa?	what's your blood type?	4	hear
+c-intro	p-donna-tokoro	donna tokoro?	what's it like there?; what kind of place is it?	5	both
+c-intro	p-nanimo-nai-tokoro-da-yo	nanimo nai tokoro da yo	there's not much there; it's the middle of nowhere	4	say
+c-intro	p-umare-mo-sodachi-mo	umare mo sodachi mo ...	born and raised in ...	4	say
+c-intro	p-motomoto-wa	motomoto wa ...	originally ...; at first ...	4	say
+c-likes	p-shumi-wa	shumi wa?	what are your hobbies?; what do you do for fun?	5	both
+c-likes	p-ga-shumi-na-n-da	... ga shumi na n da	... is my hobby; I'm into ...	5	say
+c-likes	p-no-ga-suki	... no ga suki	I like (doing) ...	4	say
+c-likes	p-tte-suki	... tte suki?	do you like ...?	5	both
+c-likes	p-shumi-tte-iu-hodo-ja-nai-kedo	shumi tte iu hodo ja nai kedo	it's not really a hobby, but ...	4	say
+c-likes	p-shuumatsu-wa-daitai	shuumatsu wa daitai ...	on weekends I usually ...	4	say
+c-likes	p-saikin-hajimeta-n-da	saikin hajimeta n da	I only took it up recently; I just started	4	say
+c-likes	p-suki-kirai-aru	suki kirai aru?	anything you don't eat?; are you picky?	3	both
+c-likes	p-suki-na-tabemono-wa	suki na tabemono wa?	what's your favourite food?	5	both
+c-likes	p-ryouri-suru	ryouri suru?	do you cook?	4	both
+c-likes	p-tabeta-koto-aru	tabeta koto aru?	have you ever tried it?; have you ever eaten ...?	4	both
+c-likes	p-nandemo-taberu-yo	nandemo taberu yo	I'll eat anything; I'm not fussy	4	say
+c-likes	p-osake-nomu	osake nomu?	do you drink?	4	both
+c-likes	p-geemu-suru	geemu suru?	do you play video games?	4	both
+c-likes	p-eiga-toka-miru	eiga toka miru?	do you watch films much?; do you watch movies and stuff?	4	both
+c-likes	p-ie-de-gorogoro-shiteru	ie de gorogoro shiteru	I just laze around at home	4	say
+c-likes	p-jikan-ga-aru-toki-wa	jikan ga aru toki wa ...	when I've got time, I ...	4	say
+c-likes	p-itta-koto-aru	... itta koto aru?	have you been to ...?; have you ever been to ...?	5	both
+c-likes	p-nihon-de-doko-itta	nihon de doko itta?	where have you been in Japan?	4	hear
+c-likes	p-mada-itta-koto-nai	mada itta koto nai	I haven't been there yet; I've never been	4	say
+c-likes	p-itsuka-itte-mitai	itsuka itte mitai	I'd love to go someday; I want to go one day	4	say
+c-likes	p-yoku-ryokou-suru	yoku ryokou suru?	do you travel much?; do you travel a lot?	4	both
+c-likes	p-donna-ongaku-kiku-no	donna ongaku kiku no?	what kind of music do you listen to?	5	both
+c-likes	p-suki-na-aatisuto-iru	suki na aatisuto iru?	any artists you like?; got a favourite artist?	4	both
+c-likes	p-yougaku-to-hougaku-dotchi-kiku	yougaku to hougaku dotchi kiku?	do you listen to Western or Japanese music?	4	hear
+c-likes	p-raibu-toka-iku	raibu toka iku?	do you go to gigs?; do you go to concerts?	4	both
+c-likes	p-nanika-supootsu-yatteru	nanika supootsu yatteru?	do you play any sport?	4	both
+c-likes	p-jimu-ni-kayotteru	jimu ni kayotteru	I go to the gym (regularly)	4	say
+c-likes	p-mukashi-yatteta	mukashi ... yatteta	I used to do ...; I used to play ...	4	say
+c-likes	p-dono-gurai-yatteru-no	dono gurai yatteru no?	how long have you been doing it?	4	both
+c-likes	p-watashi-mo-yatte-mitai	watashi mo yatte mitai	I'd like to give it a try too	4	say
+c-likes	p-kondo-oshiete	kondo oshiete	you'll have to show me sometime; tell me sometime	4	say
+c-likes	p-zenzen-heta-da-kedo	zenzen heta da kedo	I'm not any good at it, though	4	say
+c-likes	p-zettai-hamaru-yo	zettai hamaru yo	you'll love it, trust me; you'll get hooked	4	say
+c-likes	p-saikin-nanika-omoshiroi-no-mita	saikin nanika omoshiroi no mita?	seen anything good lately?	5	both
+c-likes	p-ima-nanika-dorama-miteru	ima nanika dorama miteru?	are you watching any shows at the moment?	4	both
+c-likes	p-oshi-wa-dare	oshi wa dare?	who's your fave? (idol, band member, character)	4	both
+c-likes	p-karaoke-de-nani-utau	karaoke de nani utau?	what do you sing at karaoke?	4	both
+c-likes	p-karai-no-daijoubu	karai no daijoubu?	are you okay with spicy food?	4	both
+c-likes	p-nattou-taberareru	nattou taberareru?	can you eat natto?	4	hear
+c-likes	p-osake-yowai-n-da	osake yowai n da	I can't hold my drink; I'm a lightweight	4	say
+c-likes	p-okiniiri-no-omise-aru	okiniiri no omise aru?	got a favourite place to eat or hang out?	4	both
+c-likes	p-inu-ha-neko-ha	inu ha? neko ha?	dog person or cat person?	4	both
+c-likes	p-indoa-ha-da-yo	indoa ha da yo	I'm more of a homebody; I like staying in	4	say
+c-opine	p-taishita-koto-nai	taishita koto nai	it's no big deal; nothing serious	4	both
+c-opine	p-omoshirokatta	omoshirokatta	that was interesting; that was fun; that was funny	5	say
+c-opine	p-ii-n-ja-nai	ii n ja nai?	sounds good to me; why not?; I think it's fine	5	both
+c-opine	p-warukunai	warukunai	not bad; pretty good	4	both
+c-opine	p-kirai-ja-nai	kirai ja nai	I don't mind it; I kind of like it	4	both
+c-opine	p-mite-son-wa-nai	mite son wa nai	it's worth a watch; you won't regret seeing it	4	both
+c-opine	p-ari-da-ne	ari da ne	that works; that's an option; I'm into that	4	both
+c-opine	p-watashi-ni-wa-awanakatta	watashi ni wa awanakatta	it wasn't for me; it didn't suit me	4	say
+c-opine	p-imaichi	imaichi	not quite there; a bit lacking; so-so	4	both
+c-opine	p-anmari-suki-ja-nai	anmari suki ja nai	I'm not that keen on it; I don't really like it	4	say
+c-opine	p-nanka-chigau	nanka chigau	something's off; not quite it	4	both
+c-opine	p-kitai-shiteta-hodo-ja-nakatta	kitai shiteta hodo ja nakatta	it wasn't as good as I'd hoped	4	say
+c-opine	p-sou-omowanai	sou omowanai?	don't you think?; don't you agree?	5	both
+c-opine	p-jissai-dou-na-no	jissai dou na no?	what's it really like?; how is it, honestly?	5	both
+c-opine	p-kansou-wa	kansou wa?	so what did you think?; your thoughts?	4	both
+c-opine	p-dotchi-ga-ii-to-omou	dotchi ga ii to omou?	which do you think is better?	4	both
+c-opine	p-sumiyasui	sumiyasui?	is it a nice place to live?; is it easy to live there?	4	both
+c-opine	p-ii-kanji	ii kanji	nice; going well; looks good	4	both
+c-opine	p-dou-demo-ii	dou demo ii	whatever; I don't care; it doesn't matter	3	both
+c-opine	p-maa-ii-ka	maa ii ka	oh well; never mind	4	say
+c-opine	p-dou-omou	dou omou?	what do you think?	5	both
+c-opine	p-saa	saa	well, who knows; come on, let's go	4	both
+c-opine	p-nantomo-ienai	nantomo ienai	hard to say; I can't really say	3	both
+c-opine	p-ano-nyuusu-mita	ano nyuusu mita?	did you see that news?; did you hear about that?	4	both
+c-opine	p-watashi-wa-ha-kana	watashi wa ... ha kana	I'm more of a ... person, I guess	4	say
+c-opine	p-dotchika-tte-iu-to	dotchika tte iu to	if anything; I'd lean toward; if I had to choose	4	say
+c-opine	p-dotchi-ha	dotchi ha?	which side are you on?; which do you go for?	4	both
+c-opine	p-watashi-dattara	watashi dattara ...	if it were me, I'd ...; if I were you, ...	5	say
+c-opine	p-yoku-wakannai-kedo	yoku wakannai kedo	I'm not really sure, but ...; I don't know much, but ...	5	say
+c-opine	p-kojinteki-ni-wa	kojinteki ni wa	personally; for me	4	say
+c-opine	p-butchake	butchake	honestly; to be blunt; let's be real	4	both
+c-opine	p-watashi-teki-ni-wa	watashi teki ni wa	for me; as far as I'm concerned	4	both
+c-opine	p-futsuu-ni	futsuu ni	honestly, genuinely; normally, as usual	4	both
+c-opine	p-warito	warito	fairly; relatively; quite	4	both
+c-opine	p-igai-to	igai to	surprisingly; more than you'd think	4	both
+c-opine	p-no-wari-ni-wa	... no wari ni wa	for ...; considering ...	4	both
+c-opine	p-ppoi	-ppoi	-ish; kind of like; seems like	5	both
+c-opine	p-mitai-na	... mitai na	like, ...; something like ... (trailing hedge)	4	both
+c-opine	p-tte-imeeji-ga-aru	... tte imeeji ga aru	I picture it as ...; my impression is ...	4	say
+c-opine	p-imeeji-to-chigau	imeeji to chigau	it's not what I imagined; not what I expected	4	both
+c-opine	p-ni-niteru	... ni niteru	it's like ...; it looks like ...; it's similar to ...	4	both
+c-opine	p-to-kurabete-dou	... to kurabete dou?	how does it compare with ...?	4	both
+c-opine	p-sonna-ni-kawaranai	sonna ni kawaranai	it's not that different; about the same	4	both
+c-opine	p-yappari-ga-ichiban	yappari ... ga ichiban	you can't beat ...; ... is the best after all	4	both
+c-opine	p-nani-ga-ichiban-chigau	nani ga ichiban chigau?	what's the biggest difference?	4	both
+c-opine	p-mada-mada	mada mada	not there yet; still plenty	3	both
+c-opine	p-baka-mitai	baka mitai	how stupid; I feel so dumb; ridiculous	3	both
+c-opine	p-sou-iu-mon	sou iu mon	that's just how it is	4	both
+c-opine	p-hito-sorezore	hito sorezore	everyone's different; to each their own	5	both
+c-opine	p-toki-to-baai-ni-yoru	toki to baai ni yoru	it depends on the situation; it depends	4	both
+c-opine	p-ichigai-ni-wa-ienai	ichigai ni wa ienai	you can't really generalise; it's hard to say	4	both
+c-opine	p-kuni-ni-yotte-chigau-yo-ne	kuni ni yotte chigau yo ne	it differs from country to country, doesn't it	4	both
+c-opine	p-tokoro-ga-suki	... tokoro ga suki	I like how ...; what I like is ...	4	say
+c-opine	p-watashi-wa-suki-da-kedo	watashi wa suki da kedo	well, I like it (even if others don't)	4	say
+c-opine	p-suki-na-hito-wa-suki-da-yo-ne	suki na hito wa suki da yo ne	it's not for everyone, but fans love it	4	both
+c-opine	p-konomi-ga-wakareru	konomi ga wakareru	people either love it or hate it; it divides opinion	4	both
+c-opine	p-atari-hazure-ga-aru	atari hazure ga aru	it's hit and miss; some are good, some aren't	4	both
+c-opine	p-sore-wa-sore-de-ii	sore wa sore de ii	that's good in its own way; that works too	4	both
+c-opine	p-iitai-koto-wa-wakaru	iitai koto wa wakaru	I see what you're getting at (but ...); I get your point	4	both
+c-opine	p-kangaeta-koto-nakatta	kangaeta koto nakatta	I'd never thought about that; that never occurred to me	4	say
+c-opine	p-muzukashii-tokoro-da-ne	muzukashii tokoro da ne	that's a tough one; it's a tricky question	4	both
+c-opine	p-sou-iu-kangaekata-mo-aru-ne	sou iu kangaekata mo aru ne	that's one way to look at it; fair point	4	both
+c-opine	p-wa-dou-ka-to-omou	... wa dou ka to omou	I'm not so sure about ...; I have my doubts about ...	4	both
+c-opine	p-betsu-ni-ii-kedo	betsu ni ii kedo	I mean, it's fine, but ...; whatever, fine	4	both
+c-opine	p-tte-iu-hito-mo-iru-kedo	... tte iu hito mo iru kedo	some people say ..., but	4	both
+c-opine	p-henken-kamo-shirenai-kedo	henken kamo shirenai kedo	this might be a stereotype, but ...; maybe I'm biased, but ...	4	say
+c-catchup	p-yoku-neta	yoku neta	I slept well	3	say
+c-catchup	p-tanoshikatta	tanoshikatta	that was fun; I had a great time	5	say
+c-catchup	p-choushi-dou	choushi dou?	how are you doing?; how's it going?	5	both
+c-catchup	p-nanika-kawatta-koto-atta	nanika kawatta koto atta?	anything new with you?	4	both
+c-catchup	p-kyou-wa-yasumi	kyou wa yasumi?	are you off today?; is it your day off?	4	both
+c-catchup	p-kazoku-wa-genki	kazoku wa genki?	how's your family?	4	both
+c-catchup	p-suzushiku-natte-kita-ne	suzushiku natte kita ne	it's getting cooler, isn't it	4	both
+c-catchup	p-aikawarazu-da-yo	aikawarazu da yo	same as ever; nothing much new	4	say
+c-catchup	p-batabata-shiteta	batabata shiteta	things have been hectic; I've been rushed off my feet	4	say
+c-catchup	p-bochibochi	bochibochi	so-so; getting by; not bad	4	both
+c-catchup	p-chotto-nebusoku	chotto nebusoku	I haven't been sleeping enough; a bit short on sleep	4	say
+c-catchup	p-nantoka-yatteru	nantoka yatteru	getting by; hanging in there	4	say
+c-catchup	p-ni-hamatteru	... ni hamatteru	I'm really into ...; I'm hooked on ...	5	both
+c-catchup	p-shigoto-nani-shiteru-no	shigoto nani shiteru no?	what do you do for work?	4	both
+c-catchup	p-shigoto-dou	shigoto dou?	how's work?	5	both
+c-catchup	p-saikin-isogashii	saikin isogashii?	been busy lately?	5	both
+c-catchup	p-toku-ni-nanimo-nai-yo	toku ni nanimo nai yo	nothing much, really; nothing in particular	5	say
+c-catchup	p-saikin-chotto-tsukaregimi	saikin chotto tsukaregimi	I've been a bit worn out lately	4	say
+c-catchup	p-toku-ni-yotei-nai	toku ni yotei nai	no plans, really	4	say
+c-catchup	p-genki-datta	genki datta?	how have you been?	4	both
+c-catchup	p-saikin-dou	saikin dou?	how's it going lately?	5	both
+c-catchup	p-dou-shiteru	dou shiteru	how are they doing?; what are you up to these days?	4	both
+c-catchup	p-kawari-nai	kawari nai	no change; all well, same as ever	4	both
+c-catchup	p-kawatte-nai-ne	kawatte nai ne	you haven't changed	3	both
+c-catchup	p-atsui-desu-ne	atsui desu ne	hot, isn't it?	3	both
+c-catchup	p-samui-desu-ne	samui desu ne	cold, isn't it?	3	both
+c-catchup	p-ii-tenki-desu-ne	ii tenki desu ne	nice weather, isn't it?	2	both
+c-catchup	p-ima-nani-shiteru	ima nani shiteru?	what are you up to?; what are you doing now?	4	say
+c-catchup	p-genkisou-da-ne	genkisou da ne	you look well; you seem good	4	both
+c-catchup	p-saikin-chotto-futotchatta	saikin chotto futotchatta	I've put on a bit of weight lately	4	say
+c-catchup	p-yaseta	yaseta?	have you lost weight?	4	both
+c-catchup	p-nannenburi	nannenburi?	how many years has it been?	4	both
+c-catchup	p-mae-ni-itteta-dou-natta	mae ni itteta ..., dou natta?	how did that ... you mentioned turn out?	4	both
+c-catchup	p-yatto-ochitsuita	yatto ochitsuita	things have finally settled down	4	say
+c-catchup	p-hikkoshita-n-da	hikkoshita n da	I moved house; I've moved	4	say
+c-catchup	p-hisashiburi-ni-shita	hisashiburi ni ... shita	I ... for the first time in ages	4	say
+c-catchup	p-tenshoku-shita-n-da	tenshoku shita n da	I changed jobs	4	say
+c-catchup	p-shuumatsu-nani-shita	shuumatsu nani shita?	what did you do on the weekend?	4	both
+c-catchup	p-shuumatsu-yukkuri-dekita	shuumatsu yukkuri dekita?	did you get to relax on the weekend?	4	both
+c-catchup	p-renkyuu-dokoka-itta	renkyuu dokoka itta?	go anywhere over the long weekend?	4	both
+c-catchup	p-gohan-tabeta	gohan tabeta?	have you eaten?	4	both
+c-catchup	p-chanto-tabeteru	chanto tabeteru?	are you eating properly?	4	hear
+c-catchup	p-zangyou-ooi	zangyou ooi?	do you do a lot of overtime?	4	both
+c-catchup	p-yasumi-no-hi-wa-nani-shiteru	yasumi no hi wa nani shiteru?	what do you do on your days off?	4	both
+c-catchup	p-ii-hito-iru	ii hito iru?	seeing anyone?; anyone special?	4	hear
+c-catchup	p-mushiatsui-ne	mushiatsui ne	so humid, huh; it's muggy	4	both
+c-catchup	p-ame-bakkari-da-ne	ame bakkari da ne	it's been nothing but rain, huh	4	both
+c-catchup	p-kafunshou-aru	kafunshou aru?	do you get hay fever?	4	both
+c-catchup	p-kandansa-sugoi-ne	kandansa sugoi ne	the temperature's all over the place, huh	4	both
+c-catchup	p-okagesama-de	okagesama de	I'm well, thank you; thanks to you	2	say
+c-catchup	p-kami-kitta	kami kitta?	did you get a haircut?	4	both
+c-catchup	p-funiki-kawatta-ne	fun'iki kawatta ne	you look different; you seem different	4	both
+c-catchup	p-jikan-tatsu-no-hayai-ne	jikan tatsu no hayai ne	time flies, huh	4	both
+c-catchup	p-kotoshi-mo-ato-sukoshi-da-ne	kotoshi mo ato sukoshi da ne	the year's almost over, huh	4	both
+c-catchup	p-oshougatsu-wa-kaeru-no	oshougatsu wa kaeru no?	going home for New Year?	4	both
+c-catchup	p-hayaku-shuumatsu-ni-naranai-kana	hayaku shuumatsu ni naranai kana	can't wait for the weekend	4	say

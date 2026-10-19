@@ -1,0 +1,31 @@
+{
+ "cv": "/Users/main/Developer/Projects/claude-projects/japanese-acquisition-research/wordlists-build/cv",
+ "review": "/Users/main/Developer/Projects/claude-projects/japanese-acquisition-research/wordlists-build/review",
+ "chunks": [
+  "chunk-1.tsv",
+  "chunk-2.tsv",
+  "chunk-3.tsv"
+ ],
+ "reviews": [
+  "new-1.md",
+  "new-2.md",
+  "new-3.md"
+ ],
+ "moves": {
+  "c-intro": "Getting to know someone: introducing yourself and asking about job, studies, hometown, family, where you live, how long you've been here, why you came (shigoto nani shiteru no?, shusshin doko?, nihon ni kite dono gurai?)",
+  "c-likes": "Likes, hobbies and free time: what you like, are into, do on weekends (shumi wa?, yasumi no hi nani shiteru?, ...ni hamatteru, ...tte suki?)",
+  "c-opine": "What do you think: asking for and giving opinions on a topic, comparing views (dou omou?, ...tte dou?, watashi wa ... ha kana, ...to omou kedo, sore wa chotto ...)",
+  "c-catchup": "Small talk and catching up (saikin dou?, isogashii?, atsui ne, shuumatsu nani shita?, kawari nai?)",
+  "c-react": "Reacting and backchannelling: showing you're listening and how you feel about it (hee, maji de?, sugoi, uso!, sore na, wakaru, naruhodo ne)",
+  "c-ask": "Asking and following up: keeping the other person talking (de, dou datta?, sore de?, nande?, itsu kara?, dare to itta no?)",
+  "c-agree": "Agreeing and disagreeing, softly or firmly (da yo ne, tashika ni, sou ka na, iya, sore wa chigau to omou)",
+  "c-tell": "Telling what happened: sequencing, quoting, building to the point (sore de, sono ato, kekkyoku, ...tte itteta, ...n da kedo sa)",
+  "c-feel": "Feelings and empathy (ureshii!, mukatsuku, taihen datta ne, ki ni shinaide, wakaru, sore wa tsurai ne)",
+  "c-plans": "Plans and invitations (kondo ... shinai?, hima?, ii ne, ikou!, mata kondo ne, nanji ni suru?)",
+  "c-repair": "Clarifying and repair when you're lost (e, nani?, dou iu imi?, mou ikkai, tte iu ka, nante iu ka, chotto matte)",
+  "c-banter": "Teasing, joking and banter (joudan da yo, uso da yo, ii na~, zurui, yarou ka?, dasai)",
+  "c-flow": "Opening, closing and changing the subject (nee kiite, tokoro de, sou ieba, hanashi kawaru kedo, jaa sorosoro)",
+  "c-social": "Greetings, thanks and apologies between friends (hisashiburi!, mata ne, arigatou ne, gomen ne, otsukare)",
+  "c-errands": "Errands, service and formal settings: shopping, eating out, what staff say, phone and business politeness, travel, emergencies"
+ }
+}

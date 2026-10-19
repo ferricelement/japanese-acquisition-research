@@ -21,8 +21,12 @@ load = lambda f, d=None: json.load(open(os.path.join(HERE, f))) if os.path.exist
 sel, cuts_sel = load('selected.json'), load('select-cuts.json', [])
 written = load('write-result.json')
 # review-result.json is the main review; review-gap-result.json covers what its reviewers didn't read
-review = {f'{f}:{k}': v for f in ('review-result.json', 'review-gap-result.json') for k, v in load(f, {}).items()}
+review = {f'{f}:{k}': v for f in ('review-result.json', 'review-gap-result.json', 'review-conv-result.json') for k, v in load(f, {}).items()}
 edits = load('edits.json', {})
+# conversation pass (2026-10-19): cv = conversational value 1-5 per item id, move = chat-move topic for phrases;
+# phrase-chunks.json re-chunks the phrases by chat move
+cvs = load('cv.json', {})
+phrase_chunks = load('phrase-chunks.json')
 tax = load('taxonomy.json')
 inv = {e['key']: e for e in load('conj-inventory.json')}
 meas = load('conj-measured.json')['forms']
@@ -35,6 +39,9 @@ with open(os.path.join(ROOT, 'versatility-build', 'jiten_freq_Drama.csv'), encod
             if k not in ranks or int(r['Rank']) < ranks[k]:
                 ranks[k] = int(r['Rank'])
 cand = {x['ja']: x for v in sel.values() for x in v}
+# conversation phrases hunted in the conversation pass (hunted.json: candidates with cv, move and corpus count)
+for x in load('hunted.json', []):
+    cand.setdefault(x['ja'], x)
 
 vl = json.load(open(os.path.join(ROOT, '20-list-versatile.json')))
 vl_items = {it['id']: it for b in vl['blocks'] for it in b['items']}
@@ -49,11 +56,11 @@ short = lambda desc: desc.split(' (')[0]
 
 LISTS = {
     'core': dict(file='23-list-core.json', prefix='w', unit='words', title='Core words',
-                 description='The everyday verbs, nouns, adjectives and adverbs the other lists don’t teach, chosen by how often people say them.'),
+                 description='The everyday verbs, nouns, adjectives and adverbs the other lists don’t teach, ordered by how much they help you keep a conversation going.'),
     'sets': dict(file='24-list-sets.json', prefix='s', unit='words', title='Word sets',
                  description='Numbers, counters, days, dates, months, clock time, colours, family, body parts, positions and pronouns: the closed sets you learn whole.'),
-    'phrases': dict(file='25-list-phrases.json', prefix='p', unit='phrases', title='Set phrases',
-                    description='Greetings, thanks, polite formulas, shopping and eating out, what staff say to you, and everyday reactions.'),
+    'phrases': dict(file='25-list-phrases.json', prefix='p', unit='phrases', title='Conversation phrases',
+                    description='Getting to know someone, small talk and saying what you think, then the reactions, follow-ups and story glue that keep a chat going.'),
     'conjugations': dict(file='26-list-conjugations.json', prefix='g', unit='forms and patterns', title='Conjugations',
                          description='Every verb and adjective form a conversation needs, with tables built by rule and how often each is heard, plus the grammar patterns that attach to them.'),
 }
@@ -86,6 +93,15 @@ TOPICS = {
     'phrases': {k: short(v) for k, v in tax['phrase'].items()},
     'conjugations': {'verbs': 'Verb forms', 'adjectives': 'Adjectives and the copula', 'patterns': 'Grammar patterns'},
 }
+MOVE_NAMES = {
+    'c-intro': 'Getting to know you', 'c-likes': 'Likes and free time', 'c-opine': 'What do you think', 'c-catchup': 'Small talk',
+    'c-react': 'Reacting', 'c-ask': 'Asking and following up', 'c-agree': 'Agreeing and disagreeing',
+    'c-tell': 'Telling what happened', 'c-feel': 'Feelings and empathy', 'c-plans': 'Plans and invitations',
+    'c-repair': 'Clarifying', 'c-banter': 'Teasing and banter', 'c-flow': 'Opening and changing the subject',
+    'c-social': 'Greetings, thanks and sorry', 'c-errands': 'Errands and service',
+}
+if phrase_chunks:
+    TOPICS['phrases'] = MOVE_NAMES
 
 out = {k: {'blocks': [], 'cuts': [], 'stages': [], 'categories': []} for k in LISTS}
 used_ids = set()
@@ -118,6 +134,8 @@ def finish(e, prefix, kind):
     if kind == 'phrases':
         item['role'] = e.get('role') or 'both'
         item['count'] = c.get('count')
+    if c.get('cv'):
+        item['cv'] = c['cv']
     item['id'] = new_id(prefix, item['romaji'])
     return item
 
@@ -225,6 +243,34 @@ for iid, reason in edits.get('drop', []):
     dropped[iid] = reason
 log.append(f'review edits applied: {applied}; drops: {len(dropped)}')
 
+# Conversation pass: every item gets its cv; the phrases are regrouped into the chunkers' chat-move chunks, and the
+# errands phrases keep their old situation chunks.
+for v in pending.values():
+    for _, items, _ in v:
+        for it in items:
+            if it['id'] in cvs:
+                it['cv'] = cvs[it['id']]['cv']
+                it['focus'] = bool(cvs[it['id']].get('focus'))
+            elif cand.get(it.get('ja'), {}).get('focus'):
+                it['focus'] = True
+if phrase_chunks:
+    ph_items = {it['id']: it for _, items, _ in pending['phrases'] for it in items}
+    placed, regrouped = set(), []
+    for ch in phrase_chunks['chunks']:
+        members = [ph_items[i] for i in ch['members'] if i in ph_items and i not in placed]
+        placed.update(m['id'] for m in members)
+        if members:
+            regrouped.append((ch, members, ch['move']))
+    for ch, items, _ in pending['phrases']:
+        rest = [it for it in items if it['id'] not in placed and (cvs.get(it['id']) or {}).get('move') == 'c-errands']
+        if rest:
+            placed.update(it['id'] for it in rest)
+            regrouped.append(({**ch, 'stage': None}, rest, 'c-errands'))
+    unplaced = [i for i in ph_items if i not in placed]
+    if unplaced:
+        log.append(f'phrases in no chat-move chunk: {unplaced}')
+    pending['phrases'] = regrouped
+
 # Stages, numbering and output.
 EFF = {5: 800, 4: 2000, 3: 3500, 2: 6000, 1: 9000}
 for lst, chunks in pending.items():
@@ -245,6 +291,8 @@ for lst, chunks in pending.items():
                        'interference': ch['interference'], 'items': kept, 'stage': ch.get('stage'), 'prio': prio, 'seq': len(blocks)})
     # a chunk that drops left under 3 joins the nearest chunk on the same topic that has room (6 at most)
     for b in [b for b in blocks if len(b['items']) < 3 and lst != 'conjugations']:
+        if not b['items'] or len(b['items']) >= 3:  # emptied or grown by an earlier fold
+            continue
         mates = [m for m in blocks if m is not b and m['topic'] == b['topic'] and m['items'] and len(m['items']) + len(b['items']) <= 6]
         if mates:
             m = min(mates, key=lambda m: abs(m['seq'] - b['seq']))
@@ -252,29 +300,47 @@ for lst, chunks in pending.items():
             log.append(f"{lst}: chunk '{b['label']}' ({len(b['items'])}) joined '{m['label']}'")
             b['items'] = []
     blocks = [b for b in blocks if b['items']]
-    if lst == 'core':
-        order = sorted(blocks, key=lambda b: b['prio'])
+    # Conversation first: chunks are staged by value tier — 1: focus (small talk, getting to know someone, opinions) or
+    # mean cv 3.5+; 2: 3.0+; 3: 2.5+; 4: lower. For core words tier 4 is a last stage of errands, chores and formal talk,
+    # and for phrases the errands move is; sets and conjugations just learn their low tier last.
+    for b in blocks:
+        v = [it['cv'] for it in b['items'] if it.get('cv')]
+        b['cv'] = sum(v) / len(v) if v else 3
+        b['focus'] = sum(1 for it in b['items'] if it.get('focus')) * 2 >= len(b['items'])
+        b['tier'] = 1 if b['focus'] or b['cv'] >= 3.5 else 2 if b['cv'] >= 3.0 else 3 if b['cv'] >= 2.5 else 4
+        b['errands'] = (b['topic'] == 'c-errands') if lst == 'phrases' else bool(cvs) and lst == 'core' and b['tier'] == 4
+    talk = [b for b in blocks if not b['errands']]
+    if cvs and lst in ('core', 'sets', 'conjugations'):
+        for b in talk:
+            # the verb-group rules open the conjugations whatever their score
+            b['stage'] = 1 if any(it['pos'] == 'rule' for it in b['items']) else b['tier']
+    elif lst == 'core':
+        order = sorted(talk, key=lambda b: b['prio'])
         for i, b in enumerate(order):
             b['stage'] = 1 + (4 * i) // len(order)
-    for b in blocks:
-        b['stage'] = b['stage'] or 4
+    for b in talk:
+        b['stage'] = b['stage'] or 3
     # no empty stages: a list whose writers used only stages 1-3 gets three
-    used = sorted({b['stage'] for b in blocks})
-    for b in blocks:
+    used = sorted({b['stage'] for b in talk})
+    for b in talk:
         b['stage'] = used.index(b['stage']) + 1
     # a last stage under 5% of the list (phrases: 7 of 416) joins the one before
-    total_items = sum(len(b['items']) for b in blocks)
-    while len(used) > 1 and sum(len(b['items']) for b in blocks if b['stage'] == len(used)) < 0.05 * total_items:
-        for b in blocks:
+    total_items = sum(len(b['items']) for b in talk)
+    while len(used) > 1 and sum(len(b['items']) for b in talk if b['stage'] == len(used)) < 0.05 * total_items:
+        for b in talk:
             if b['stage'] == len(used):
                 b['stage'] -= 1
         used = used[:-1]
+    errands_stage = len(used) + 1 if any(b['errands'] for b in blocks) else None
+    for b in blocks:
+        if b['errands']:
+            b['stage'] = errands_stage
     topic_order = list(TOPICS[lst])
     # core chunks within a stage go most frequent first; the other lists keep the writer's order (monday before friday)
     blocks.sort(key=lambda b: (b['stage'], topic_order.index(b['topic']) if b['topic'] in topic_order else 99, b['prio'] if lst == 'core' else b['seq']))
     n = 1
     stages = []
-    for s in range(1, len(used) + 1 if blocks else 1):
+    for s in range(1, (errands_stage or len(used)) + 1 if blocks else 1):
         sb = [b for b in blocks if b['stage'] == s]
         for b in sb:
             start = n
@@ -285,13 +351,21 @@ for lst, chunks in pending.items():
             b['category'] = TOPICS[lst].get(b['topic'], b['topic'])
         cnt = sum(len(b['items']) for b in sb)
         ranked = [it['freqRank'] for b in sb for it in b['items'] if it.get('freqRank')]
-        if lst == 'core' and ranked:
+        if s == errands_stage:
+            summary = f"{cnt} {LISTS[lst]['unit']} for {'shops, restaurants and service' if lst == 'phrases' else 'errands, chores, service and formal talk'}: there for when you need them, not for chatting."
+        elif lst == 'core' and ranked and cvs:
+            what = {1: 'for small talk, getting to know someone and saying what you think', 2: 'that come up in most chats',
+                    3: 'for narrower topics'}.get(s, 'for later')
+            summary = f"{cnt} words {what}; half of them rank in the top {int(median(ranked)):,} of spoken Japanese."
+        elif lst == 'core' and ranked:
             summary = f"{cnt} words; half of them rank in the top {int(median(ranked)):,} of spoken Japanese."
         else:
             names = list(dict.fromkeys(b['category'] for b in sb))
             more = f' and {len(names) - 4} more' if len(names) > 5 else ''
             summary = f"{cnt} {LISTS[lst]['unit']} in {len(sb)} chunks: " + ', '.join(names[:4] if more else names).lower() + more + '.'
-        stages.append({'name': f'Stage {s}', 'summary': summary, 'items': cnt, 'chunkIds': [b['id'] for b in sb]})
+        last_name = 'Errands and service' if lst == 'phrases' else 'Errands, chores and formal'
+        stages.append({'name': last_name if s == errands_stage else f'Stage {s}', 'summary': summary, 'items': cnt,
+                       'chunkIds': [b['id'] for b in sb]})
     cats = []
     for t in topic_order + sorted({b['topic'] for b in blocks} - set(topic_order)):
         ids_ = [b['id'] for b in blocks if b['topic'] == t]
@@ -299,7 +373,7 @@ for lst, chunks in pending.items():
             scope = {**tax['core'], **tax['set'], **tax['phrase']}.get(t, TOPICS[lst].get(t, t))
             cats.append({'key': t, 'name': TOPICS[lst].get(t, t), 'scope': scope, 'chunkIds': ids_})
     for b in blocks:
-        for k in ('prio', 'topic', 'seq'):
+        for k in ('prio', 'topic', 'seq', 'cv', 'errands', 'focus', 'tier'):
             b.pop(k, None)
     out[lst].update(blocks=blocks, stages=stages, categories=cats)
 

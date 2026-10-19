@@ -1,0 +1,7044 @@
+{
+"w-mikata": {
+"cv": 3
+},
+"w-yuujin": {
+"cv": 2
+},
+"w-shinyuu": {
+"cv": 4
+},
+"w-raibaru": {
+"cv": 3
+},
+"w-isshun": {
+"cv": 4
+},
+"w-imagoro": {
+"cv": 3
+},
+"w-sakihodo": {
+"cv": 2
+},
+"w-imadoki": {
+"cv": 3
+},
+"w-inochi": {
+"cv": 2
+},
+"w-hikari": {
+"cv": 2
+},
+"w-tazuneru": {
+"cv": 2
+},
+"w-fune": {
+"cv": 2
+},
+"w-honki": {
+"cv": 5,
+"focus": true
+},
+"w-taido": {
+"cv": 3
+},
+"w-yuuki": {
+"cv": 3
+},
+"w-zenryoku": {
+"cv": 3
+},
+"w-puraido": {
+"cv": 3
+},
+"w-shokku": {
+"cv": 4,
+"focus": true
+},
+"w-jigoku": {
+"cv": 4
+},
+"w-omoi-o-suru": {
+"cv": 3
+},
+"w-genin": {
+"cv": 3
+},
+"w-kikkake": {
+"cv": 4,
+"focus": true
+},
+"w-eikyou": {
+"cv": 3
+},
+"w-kouka": {
+"cv": 3
+},
+"w-imeeji": {
+"cv": 4,
+"focus": true
+},
+"w-koudou": {
+"cv": 2
+},
+"w-atsukai": {
+"cv": 3
+},
+"w-nazo": {
+"cv": 4
+},
+"w-shigeki": {
+"cv": 3
+},
+"w-genkai": {
+"cv": 4
+},
+"w-gomeiwaku": {
+"cv": 2
+},
+"w-toraburu": {
+"cv": 3
+},
+"w-futan": {
+"cv": 2
+},
+"w-kihon": {
+"cv": 4
+},
+"w-jouken": {
+"cv": 2
+},
+"w-naiyou": {
+"cv": 3
+},
+"w-kouho": {
+"cv": 2
+},
+"w-iken": {
+"cv": 2
+},
+"w-tachiba": {
+"cv": 3
+},
+"w-iiwake": {
+"cv": 3
+},
+"w-adobaisu": {
+"cv": 3
+},
+"w-henji": {
+"cv": 3
+},
+"w-henshin": {
+"cv": 3
+},
+"w-hannou": {
+"cv": 3
+},
+"w-kinjo": {
+"cv": 3,
+"focus": true
+},
+"w-manshon": {
+"cv": 3
+},
+"w-jitaku": {
+"cv": 2
+},
+"w-otaku": {
+"cv": 2
+},
+"w-koukou": {
+"cv": 4,
+"focus": true
+},
+"w-shougakkou": {
+"cv": 3
+},
+"w-chuugaku": {
+"cv": 4
+},
+"w-kyoushitsu": {
+"cv": 3
+},
+"w-omise": {
+"cv": 3
+},
+"w-konbini": {
+"cv": 3
+},
+"w-suupaa": {
+"cv": 2
+},
+"w-kouen": {
+"cv": 3
+},
+"w-purezento": {
+"cv": 3
+},
+"w-okaeshi": {
+"cv": 2
+},
+"w-tegami": {
+"cv": 2
+},
+"w-gohan": {
+"cv": 4,
+"focus": true
+},
+"w-shokuji": {
+"cv": 2
+},
+"w-meshi": {
+"cv": 4
+},
+"w-tabemono": {
+"cv": 3,
+"focus": true
+},
+"w-nomimono": {
+"cv": 2
+},
+"w-shiryou": {
+"cv": 2
+},
+"w-happyou": {
+"cv": 2
+},
+"w-shiji": {
+"cv": 2
+},
+"w-deeta": {
+"cv": 2
+},
+"w-kurasu": {
+"cv": 3
+},
+"w-sotsugyou-suru": {
+"cv": 3,
+"focus": true
+},
+"w-bu": {
+"cv": 3,
+"focus": true
+},
+"w-shikaku": {
+"cv": 2
+},
+"w-chiimu": {
+"cv": 3
+},
+"w-genba": {
+"cv": 2
+},
+"w-puro": {
+"cv": 3
+},
+"w-jimusho": {
+"cv": 2
+},
+"w-shokuba": {
+"cv": 3
+},
+"w-choushi": {
+"cv": 4,
+"focus": true
+},
+"w-netsu": {
+"cv": 3
+},
+"w-kaze": {
+"cv": 3
+},
+"w-guai": {
+"cv": 3
+},
+"w-nebusoku": {
+"cv": 4
+},
+"w-jiken": {
+"cv": 3
+},
+"w-yo-no-naka": {
+"cv": 3
+},
+"w-shakai": {
+"cv": 3
+},
+"w-masukomi": {
+"cv": 2
+},
+"w-kyoka": {
+"cv": 2
+},
+"w-ruuru": {
+"cv": 3
+},
+"w-kinshi": {
+"cv": 2
+},
+"w-kenri": {
+"cv": 2
+},
+"w-deeto": {
+"cv": 4
+},
+"w-nomikai": {
+"cv": 4,
+"focus": true
+},
+"w-paatii": {
+"cv": 3
+},
+"w-baa": {
+"cv": 2
+},
+"w-meeru": {
+"cv": 3
+},
+"w-netto": {
+"cv": 3
+},
+"w-messeeji": {
+"cv": 3
+},
+"w-tsuuhan": {
+"cv": 2
+},
+"w-shumi": {
+"cv": 4,
+"focus": true
+},
+"w-dorama": {
+"cv": 4,
+"focus": true
+},
+"w-bangumi": {
+"cv": 3
+},
+"w-fan": {
+"cv": 4,
+"focus": true
+},
+"w-sakuhin": {
+"cv": 3
+},
+"w-hanbun": {
+"cv": 3
+},
+"w-nokori": {
+"cv": 2
+},
+"w-ichibu": {
+"cv": 2
+},
+"w-bubun": {
+"cv": 3
+},
+"w-ryouhou": {
+"cv": 3
+},
+"w-sorezore": {
+"cv": 2
+},
+"w-subete": {
+"cv": 2
+},
+"w-nanimo-kamo": {
+"cv": 3
+},
+"w-zentai": {
+"cv": 2
+},
+"w-rei-no": {
+"cv": 4
+},
+"w-mane-suru": {
+"cv": 3
+},
+"w-ikioi": {
+"cv": 3
+},
+"w-oni": {
+"cv": 3
+},
+"w-mendokusai": {
+"cv": 5,
+"focus": true
+},
+"w-tsurai": {
+"cv": 5,
+"focus": true
+},
+"w-kitsui": {
+"cv": 4,
+"focus": true
+},
+"w-shindoi": {
+"cv": 4
+},
+"w-kurushii": {
+"cv": 3
+},
+"w-majime": {
+"cv": 4,
+"focus": true
+},
+"w-tekitou": {
+"cv": 4
+},
+"w-shinken": {
+"cv": 3
+},
+"w-iikagen": {
+"cv": 3
+},
+"w-kawatteru": {
+"cv": 4,
+"focus": true
+},
+"w-sunao": {
+"cv": 3
+},
+"w-otonashii": {
+"cv": 3
+},
+"w-shitsukoi": {
+"cv": 3
+},
+"w-erasou": {
+"cv": 3
+},
+"w-oogesa": {
+"cv": 4
+},
+"w-namaiki": {
+"cv": 3
+},
+"w-gouin": {
+"cv": 3
+},
+"w-buji": {
+"cv": 3
+},
+"w-kiken": {
+"cv": 2
+},
+"w-anzen": {
+"cv": 2
+},
+"w-junchou": {
+"cv": 3,
+"focus": true
+},
+"w-jama": {
+"cv": 3
+},
+"w-raku": {
+"cv": 4
+},
+"w-choudo-ii": {
+"cv": 3
+},
+"w-benri": {
+"cv": 3,
+"focus": true
+},
+"w-urusai": {
+"cv": 4
+},
+"w-shizuka": {
+"cv": 3
+},
+"w-akarui": {
+"cv": 3
+},
+"w-kitanai": {
+"cv": 3
+},
+"w-kusai": {
+"cv": 3
+},
+"w-atarimae": {
+"cv": 4
+},
+"w-tadashii": {
+"cv": 3
+},
+"w-kakujitsu": {
+"cv": 2
+},
+"w-matomo": {
+"cv": 3
+},
+"w-akiraka": {
+"cv": 3
+},
+"w-muda": {
+"cv": 3
+},
+"w-mottainai": {
+"cv": 4
+},
+"w-imi-nai": {
+"cv": 4
+},
+"w-dou-shiyou-mo-nai": {
+"cv": 3
+},
+"w-aikawarazu": {
+"cv": 4,
+"focus": true
+},
+"w-motomoto": {
+"cv": 4
+},
+"w-tokku-ni": {
+"cv": 3
+},
+"w-imada-ni": {
+"cv": 3
+},
+"w-nido-to": {
+"cv": 3
+},
+"w-hisashiburi-ni": {
+"cv": 4
+},
+"w-aratamete": {
+"cv": 2
+},
+"w-ittan": {
+"cv": 3
+},
+"w-hikitsuzuki": {
+"cv": 2
+},
+"w-touzen": {
+"cv": 3
+},
+"w-jissai": {
+"cv": 4
+},
+"w-douyara": {
+"cv": 3
+},
+"w-zannen-nagara": {
+"cv": 2
+},
+"w-totsuzen": {
+"cv": 3
+},
+"w-ikinari": {
+"cv": 4
+},
+"w-itsu-no-ma-ni-ka": {
+"cv": 4
+},
+"w-ikki-ni": {
+"cv": 3
+},
+"w-naze": {
+"cv": 2
+},
+"w-ittai": {
+"cv": 3
+},
+"w-nandaka": {
+"cv": 4
+},
+"w-nazeka": {
+"cv": 4
+},
+"w-nantonaku": {
+"cv": 5,
+"focus": true
+},
+"w-sono-uchi": {
+"cv": 4
+},
+"w-itsu-made-mo": {
+"cv": 3
+},
+"w-izure": {
+"cv": 2
+},
+"w-ima-no-uchi": {
+"cv": 3
+},
+"w-wazawaza": {
+"cv": 4
+},
+"w-wazato": {
+"cv": 3
+},
+"w-muriyari": {
+"cv": 3
+},
+"w-aete": {
+"cv": 3
+},
+"w-sassato": {
+"cv": 3
+},
+"w-sassoku": {
+"cv": 3
+},
+"w-douji": {
+"cv": 2
+},
+"w-sono-ba": {
+"cv": 3
+},
+"w-guuzen": {
+"cv": 4,
+"focus": true
+},
+"w-tamatama": {
+"cv": 4
+},
+"w-mangaichi": {
+"cv": 2
+},
+"w-hyotto-shite": {
+"cv": 3
+},
+"w-juubun": {
+"cv": 3
+},
+"w-hobo": {
+"cv": 4
+},
+"w-kanzen": {
+"cv": 4
+},
+"w-tappuri": {
+"cv": 2
+},
+"w-semete": {
+"cv": 3
+},
+"w-sukunakutomo": {
+"cv": 2
+},
+"w-kore-ijou": {
+"cv": 3
+},
+"w-nani-yori": {
+"cv": 3
+},
+"w-dondon": {
+"cv": 3
+},
+"w-sukoshi-zutsu": {
+"cv": 3
+},
+"w-masumasu": {
+"cv": 2
+},
+"w-sara-ni": {
+"cv": 2
+},
+"w-hikkosu": {
+"cv": 3,
+"focus": true
+},
+"w-touchaku": {
+"cv": 2
+},
+"w-idou-suru": {
+"cv": 2
+},
+"w-shuppatsu-suru": {
+"cv": 2
+},
+"w-yasumu": {
+"cv": 4
+},
+"w-naoru": {
+"cv": 3
+},
+"w-kaze-hiku": {
+"cv": 3
+},
+"w-naosu": {
+"cv": 2
+},
+"w-nureru": {
+"cv": 3
+},
+"w-taoreru": {
+"cv": 3
+},
+"w-korobu": {
+"cv": 3
+},
+"w-butsukeru": {
+"cv": 3
+},
+"w-suku": {
+"cv": 4
+},
+"w-kawaku": {
+"cv": 3
+},
+"w-nemuru": {
+"cv": 3
+},
+"w-yopparau": {
+"cv": 4
+},
+"w-kiru": {
+"cv": 3
+},
+"w-niau": {
+"cv": 4
+},
+"w-futoru": {
+"cv": 4
+},
+"w-yaseru": {
+"cv": 3
+},
+"w-katazukeru": {
+"cv": 3
+},
+"w-shimau": {
+"cv": 2
+},
+"w-seiri-suru": {
+"cv": 2
+},
+"w-kazaru": {
+"cv": 2
+},
+"w-aseru": {
+"cv": 4
+},
+"w-awateru": {
+"cv": 3
+},
+"w-bibiru": {
+"cv": 4
+},
+"w-yudan-suru": {
+"cv": 3
+},
+"w-kizuku": {
+"cv": 4
+},
+"w-omoitsuku": {
+"cv": 3
+},
+"w-yosou": {
+"cv": 4
+},
+"w-omoikomu": {
+"cv": 3
+},
+"w-daiji-ni-suru": {
+"cv": 3
+},
+"w-taisetsu-ni-suru": {
+"cv": 2
+},
+"w-sewa-ni-naru": {
+"cv": 2
+},
+"w-fuzakeru": {
+"cv": 3
+},
+"w-ukeru": {
+"cv": 5,
+"focus": true
+},
+"w-waraeru": {
+"cv": 4
+},
+"w-karakau": {
+"cv": 3
+},
+"w-aku": {
+"cv": 2
+},
+"w-shimaru": {
+"cv": 2
+},
+"w-sutaato-suru": {
+"cv": 2
+},
+"w-sutoppu": {
+"cv": 2
+},
+"w-moto-ni-modoru": {
+"cv": 3
+},
+"w-nobiru": {
+"cv": 3
+},
+"w-nobasu": {
+"cv": 3
+},
+"w-henka": {
+"cv": 3
+},
+"w-riyou-suru": {
+"cv": 2
+},
+"w-tsunagu": {
+"cv": 2
+},
+"w-koukan-suru": {
+"cv": 2,
+"focus": true
+},
+"w-appu-suru": {
+"cv": 3
+},
+"w-atsumeru": {
+"cv": 3
+},
+"w-sorou": {
+"cv": 2
+},
+"w-wakeru": {
+"cv": 2
+},
+"w-naraberu": {
+"cv": 2
+},
+"w-tsumeru": {
+"cv": 2
+},
+"w-harau": {
+"cv": 2
+},
+"w-shiharau": {
+"cv": 2
+},
+"w-tsuika-suru": {
+"cv": 2
+},
+"w-fukumeru": {
+"cv": 2
+},
+"w-chikoku-suru": {
+"cv": 3
+},
+"w-saboru": {
+"cv": 4
+},
+"w-tsutomeru": {
+"cv": 2,
+"focus": true
+},
+"w-kenka-suru": {
+"cv": 4
+},
+"w-momeru": {
+"cv": 3
+},
+"w-ijimeru": {
+"cv": 3
+},
+"w-teikou": {
+"cv": 3
+},
+"w-joushi": {
+"cv": 4
+},
+"w-shain": {
+"cv": 2
+},
+"w-buka": {
+"cv": 2
+},
+"w-douryou": {
+"cv": 3
+},
+"w-kareshi": {
+"cv": 4,
+"focus": true
+},
+"w-koibito": {
+"cv": 3,
+"focus": true
+},
+"w-uwaki": {
+"cv": 4
+},
+"w-furin": {
+"cv": 3
+},
+"w-dokushin": {
+"cv": 3
+},
+"w-daihyou": {
+"cv": 2
+},
+"w-menbaa": {
+"cv": 3
+},
+"w-guruupu": {
+"cv": 3
+},
+"w-riidaa": {
+"cv": 2
+},
+"w-gakusei": {
+"cv": 3,
+"focus": true
+},
+"w-kouhai": {
+"cv": 3
+},
+"w-seito": {
+"cv": 2
+},
+"w-doukyuusei": {
+"cv": 3
+},
+"w-bijin": {
+"cv": 3
+},
+"w-ikemen": {
+"cv": 4
+},
+"w-tensai": {
+"cv": 4
+},
+"w-shirouto": {
+"cv": 2
+},
+"w-okanemochi": {
+"cv": 3
+},
+"w-dansei": {
+"cv": 2
+},
+"w-joshi": {
+"cv": 3
+},
+"w-danshi": {
+"cv": 3
+},
+"w-ossan": {
+"cv": 3
+},
+"w-akachan": {
+"cv": 3
+},
+"w-toshiue": {
+"cv": 3
+},
+"w-gaki": {
+"cv": 3
+},
+"w-wakamono": {
+"cv": 2
+},
+"w-shachou": {
+"cv": 2
+},
+"w-buchou": {
+"cv": 2
+},
+"w-tenchou": {
+"cv": 2
+},
+"w-kachou": {
+"cv": 2
+},
+"w-kantoku": {
+"cv": 2
+},
+"w-shougakusei": {
+"cv": 3
+},
+"w-chuugakusei": {
+"cv": 3
+},
+"w-koukousei": {
+"cv": 3
+},
+"w-daigakusei": {
+"cv": 3
+},
+"w-genjitsu": {
+"cv": 3
+},
+"w-kamisama": {
+"cv": 3
+},
+"w-risou": {
+"cv": 3
+},
+"w-kiseki": {
+"cv": 3
+},
+"w-kioku": {
+"cv": 3
+},
+"w-aru-hi": {
+"cv": 3
+},
+"w-dekigoto": {
+"cv": 2
+},
+"w-tochuu": {
+"cv": 4
+},
+"w-zenkai": {
+"cv": 3
+},
+"w-chokuzen": {
+"cv": 3
+},
+"w-toujitsu": {
+"cv": 2
+},
+"w-hatsu": {
+"cv": 3
+},
+"w-shiki": {
+"cv": 3
+},
+"w-kinen": {
+"cv": 3
+},
+"w-kyoumi-nai": {
+"cv": 4,
+"focus": true
+},
+"w-renai": {
+"cv": 4
+},
+"w-konomi": {
+"cv": 3
+},
+"w-shitto-suru": {
+"cv": 3
+},
+"w-sainou": {
+"cv": 3
+},
+"w-nouryoku": {
+"cv": 2
+},
+"w-jitsuryoku": {
+"cv": 2
+},
+"w-iwakan": {
+"cv": 3
+},
+"w-ishiki": {
+"cv": 2
+},
+"w-kanjou": {
+"cv": 2
+},
+"w-kankaku": {
+"cv": 3
+},
+"w-yokan": {
+"cv": 3
+},
+"w-mokuteki": {
+"cv": 2
+},
+"w-sakusen": {
+"cv": 3
+},
+"w-mokuhyou": {
+"cv": 3
+},
+"w-yuusen-suru": {
+"cv": 3
+},
+"w-nagare": {
+"cv": 4
+},
+"w-tenkai": {
+"cv": 3
+},
+"w-ketsuron": {
+"cv": 3
+},
+"w-dankai": {
+"cv": 2
+},
+"w-oshaberi": {
+"cv": 3
+},
+"w-kaiwa": {
+"cv": 2
+},
+"w-neta": {
+"cv": 4
+},
+"w-wadai": {
+"cv": 3
+},
+"w-inaka": {
+"cv": 3,
+"focus": true
+},
+"w-juusho": {
+"cv": 2
+},
+"w-apaato": {
+"cv": 2
+},
+"w-katei": {
+"cv": 2
+},
+"w-jimoto": {
+"cv": 4,
+"focus": true
+},
+"w-shusshin": {
+"cv": 4,
+"focus": true
+},
+"w-jikoshoukai": {
+"cv": 2,
+"focus": true
+},
+"w-renrakusaki": {
+"cv": 2,
+"focus": true
+},
+"w-youchien": {
+"cv": 2
+},
+"w-biru": {
+"cv": 2
+},
+"w-kaidan": {
+"cv": 2
+},
+"w-shisetsu": {
+"cv": 2
+},
+"w-keitai": {
+"cv": 3
+},
+"w-denwa-bangou": {
+"cv": 2
+},
+"w-tokei": {
+"cv": 2
+},
+"w-kamera": {
+"cv": 2
+},
+"w-doa": {
+"cv": 2
+},
+"w-mado": {
+"cv": 2
+},
+"w-genkan": {
+"cv": 2
+},
+"w-niwa": {
+"cv": 2
+},
+"w-kagi": {
+"cv": 2
+},
+"w-saifu": {
+"cv": 2
+},
+"w-kasa": {
+"cv": 2
+},
+"w-megane": {
+"cv": 2
+},
+"w-wasuremono": {
+"cv": 2
+},
+"w-niku": {
+"cv": 3
+},
+"w-sakana": {
+"cv": 3
+},
+"w-yasai": {
+"cv": 3
+},
+"w-kudamono": {
+"cv": 3
+},
+"w-ocha": {
+"cv": 3,
+"focus": true
+},
+"w-koohii": {
+"cv": 3
+},
+"w-omizu": {
+"cv": 2
+},
+"w-oyu": {
+"cv": 2
+},
+"w-pan": {
+"cv": 3
+},
+"w-tamago": {
+"cv": 3
+},
+"w-gyuunyuu": {
+"cv": 2
+},
+"w-chiizu": {
+"cv": 3
+},
+"w-shinjin": {
+"cv": 3
+},
+"w-eigyou": {
+"cv": 2
+},
+"w-shuushoku-suru": {
+"cv": 3
+},
+"w-sutaffu": {
+"cv": 2
+},
+"w-shoubai": {
+"cv": 2
+},
+"w-sagyou": {
+"cv": 2
+},
+"w-kikaku": {
+"cv": 2
+},
+"w-hyouka": {
+"cv": 2
+},
+"w-honban": {
+"cv": 3
+},
+"w-jugyou": {
+"cv": 3
+},
+"w-tesuto": {
+"cv": 3
+},
+"w-shukudai": {
+"cv": 3
+},
+"w-kumi": {
+"cv": 2
+},
+"w-teishutsu-suru": {
+"cv": 2
+},
+"w-kenkyuu": {
+"cv": 2
+},
+"w-gijutsu": {
+"cv": 2
+},
+"w-senmon": {
+"cv": 3,
+"focus": true
+},
+"w-shisutemu": {
+"cv": 2
+},
+"w-kusuri": {
+"cv": 3
+},
+"w-oishasan": {
+"cv": 2
+},
+"w-kensa": {
+"cv": 2
+},
+"w-chiryou": {
+"cv": 2
+},
+"w-haisha": {
+"cv": 2
+},
+"w-nyuuin-suru": {
+"cv": 3
+},
+"w-taiin-suru": {
+"cv": 2
+},
+"w-shujutsu": {
+"cv": 2
+},
+"w-kaifuku-suru": {
+"cv": 2
+},
+"w-ninshin-suru": {
+"cv": 3
+},
+"w-kankyou": {
+"cv": 3
+},
+"w-rekishi": {
+"cv": 3
+},
+"w-kyouiku": {
+"cv": 2
+},
+"w-oiwai": {
+"cv": 3
+},
+"w-kekkonshiki": {
+"cv": 3
+},
+"w-ibento": {
+"cv": 3
+},
+"w-ryokou": {
+"cv": 4,
+"focus": true
+},
+"w-nimotsu": {
+"cv": 2
+},
+"w-omiyage": {
+"cv": 3
+},
+"w-onsen": {
+"cv": 3,
+"focus": true
+},
+"w-tabi": {
+"cv": 2
+},
+"w-densha": {
+"cv": 3
+},
+"w-basu": {
+"cv": 2
+},
+"w-jitensha": {
+"cv": 2
+},
+"w-takushii": {
+"cv": 2
+},
+"w-shizen": {
+"cv": 3
+},
+"w-kawa": {
+"cv": 2
+},
+"w-doubutsu": {
+"cv": 3
+},
+"w-sora": {
+"cv": 2
+},
+"w-hoshi": {
+"cv": 2
+},
+"w-sakura": {
+"cv": 3
+},
+"w-keshiki": {
+"cv": 3
+},
+"w-taipu": {
+"cv": 4,
+"focus": true
+},
+"w-reberu": {
+"cv": 3
+},
+"w-shurui": {
+"cv": 2
+},
+"w-setto": {
+"cv": 2
+},
+"w-ji": {
+"cv": 2
+},
+"w-moji": {
+"cv": 2
+},
+"w-suuji": {
+"cv": 2
+},
+"w-kazu": {
+"cv": 2
+},
+"w-sain": {
+"cv": 2
+},
+"w-tsuzuki": {
+"cv": 3
+},
+"w-oshimai": {
+"cv": 2
+},
+"w-saishuu": {
+"cv": 3
+},
+"w-renzoku": {
+"cv": 3
+},
+"w-houkou": {
+"cv": 2
+},
+"w-ichi": {
+"cv": 1
+},
+"w-chuushin": {
+"cv": 2
+},
+"w-toppu": {
+"cv": 2
+},
+"w-saidai": {
+"cv": 2
+},
+"w-tairyou": {
+"cv": 2
+},
+"w-yuiitsu": {
+"cv": 2
+},
+"w-kuyashii": {
+"cv": 4
+},
+"w-urayamashii": {
+"cv": 5,
+"focus": true
+},
+"w-nasakenai": {
+"cv": 3
+},
+"w-oshii": {
+"cv": 4
+},
+"w-daikirai": {
+"cv": 4,
+"focus": true
+},
+"w-hisshi": {
+"cv": 3
+},
+"w-muchuu": {
+"cv": 3,
+"focus": true
+},
+"w-tamaranai": {
+"cv": 3
+},
+"w-kakkoii": {
+"cv": 4,
+"focus": true
+},
+"w-wakai": {
+"cv": 4,
+"focus": true
+},
+"w-oshare": {
+"cv": 4,
+"focus": true
+},
+"w-oniai": {
+"cv": 3
+},
+"w-kibishii": {
+"cv": 4
+},
+"w-wagamama": {
+"cv": 3
+},
+"w-zurui": {
+"cv": 5,
+"focus": true
+},
+"w-ijiwaru": {
+"cv": 3
+},
+"w-reisei": {
+"cv": 3
+},
+"w-shinchou": {
+"cv": 2
+},
+"w-teinei": {
+"cv": 2
+},
+"w-nesshin": {
+"cv": 2
+},
+"w-yoroshii": {
+"cv": 1
+},
+"w-seishiki": {
+"cv": 2
+},
+"w-kanou": {
+"cv": 1
+},
+"w-gutaiteki": {
+"cv": 3
+},
+"w-kojinteki": {
+"cv": 4,
+"focus": true
+},
+"w-mezurashii": {
+"cv": 4,
+"focus": true
+},
+"w-yoku-aru": {
+"cv": 4,
+"focus": true
+},
+"w-sokkuri": {
+"cv": 3
+},
+"w-betsubetsu": {
+"cv": 2
+},
+"w-hade": {
+"cv": 3
+},
+"w-jimi": {
+"cv": 3
+},
+"w-fukuzatsu": {
+"cv": 3
+},
+"w-tanjun": {
+"cv": 3
+},
+"w-shinpuru": {
+"cv": 3
+},
+"w-tsui-ni": {
+"cv": 3
+},
+"w-iyoiyo": {
+"cv": 3
+},
+"w-toutou": {
+"cv": 3
+},
+"w-mamonaku": {
+"cv": 1
+},
+"w-nakayoku": {
+"cv": 3
+},
+"w-tsuide-ni": {
+"cv": 3
+},
+"w-nen-no-tame": {
+"cv": 2
+},
+"w-narubeku": {
+"cv": 3
+},
+"w-tatta": {
+"cv": 3
+},
+"w-hon-no": {
+"cv": 3
+},
+"w-chotto-shita": {
+"cv": 3
+},
+"w-tashou": {
+"cv": 2
+},
+"w-tsureru": {
+"cv": 3
+},
+"w-mukae-ni-kuru": {
+"cv": 3
+},
+"w-tsurete-kuru": {
+"cv": 3
+},
+"w-tsurete-iku": {
+"cv": 3
+},
+"w-noru": {
+"cv": 3
+},
+"w-oriru": {
+"cv": 2
+},
+"w-komu": {
+"cv": 3
+},
+"w-norikaeru": {
+"cv": 2
+},
+"w-nugu": {
+"cv": 2
+},
+"w-haku": {
+"cv": 2
+},
+"w-abiru": {
+"cv": 2
+},
+"w-migaku": {
+"cv": 2
+},
+"w-fuku": {
+"cv": 2
+},
+"w-hosu": {
+"cv": 1
+},
+"w-tatamu": {
+"cv": 1
+},
+"w-nebou-suru": {
+"cv": 4
+},
+"w-hirune-suru": {
+"cv": 3
+},
+"w-hayaoki-suru": {
+"cv": 3
+},
+"w-yofukashi-suru": {
+"cv": 3
+},
+"w-atatameru": {
+"cv": 2
+},
+"w-chin-suru": {
+"cv": 2
+},
+"w-wakasu": {
+"cv": 1
+},
+"w-yuderu": {
+"cv": 2
+},
+"w-itameru": {
+"cv": 2
+},
+"w-kowareru": {
+"cv": 3
+},
+"w-naosu-2": {
+"cv": 3
+},
+"w-wareru": {
+"cv": 2
+},
+"w-yogoreru": {
+"cv": 2
+},
+"w-kusaru": {
+"cv": 2
+},
+"w-kodomo-no-koro": {
+"cv": 4,
+"focus": true
+},
+"w-chiisai-koro": {
+"cv": 4,
+"focus": true
+},
+"w-ano-koro": {
+"cv": 4
+},
+"w-touji": {
+"cv": 3
+},
+"w-imi-ga-nai": {
+"cv": 4
+},
+"w-imi-ga-aru": {
+"cv": 3
+},
+"w-you-ga-aru": {
+"cv": 3
+},
+"w-kachi": {
+"cv": 3
+},
+"w-kafe": {
+"cv": 3,
+"focus": true
+},
+"w-izakaya": {
+"cv": 3,
+"focus": true
+},
+"w-resutoran": {
+"cv": 2
+},
+"w-iriguchi": {
+"cv": 2
+},
+"w-ekimae": {
+"cv": 3
+},
+"w-chuushajou": {
+"cv": 1
+},
+"w-kaijou": {
+"cv": 2
+},
+"w-ginkou": {
+"cv": 2
+},
+"w-biyouin": {
+"cv": 3
+},
+"w-yuubinkyoku": {
+"cv": 1
+},
+"w-hyakkin": {
+"cv": 2
+},
+"w-terebi": {
+"cv": 3
+},
+"w-denki": {
+"cv": 2
+},
+"w-teeburu": {
+"cv": 1
+},
+"w-isu": {
+"cv": 1
+},
+"w-fukuro": {
+"cv": 1
+},
+"w-kaban": {
+"cv": 2
+},
+"w-baggu": {
+"cv": 2
+},
+"w-hako": {
+"cv": 1
+},
+"w-souji-suru": {
+"cv": 3
+},
+"w-gomi": {
+"cv": 2
+},
+"w-kaji": {
+"cv": 3
+},
+"w-dougu": {
+"cv": 2
+},
+"w-fuku-2": {
+"cv": 4
+},
+"w-kutsu": {
+"cv": 3
+},
+"w-kutsushita": {
+"cv": 1
+},
+"w-zubon": {
+"cv": 2
+},
+"w-ofuro": {
+"cv": 3
+},
+"w-toire": {
+"cv": 2
+},
+"w-shawaa": {
+"cv": 2
+},
+"w-taoru": {
+"cv": 1
+},
+"w-tisshu": {
+"cv": 1
+},
+"w-futon": {
+"cv": 2
+},
+"w-beddo": {
+"cv": 2
+},
+"w-makura": {
+"cv": 1
+},
+"w-pajama": {
+"cv": 1
+},
+"w-reizouko": {
+"cv": 2
+},
+"w-hashi": {
+"cv": 1
+},
+"w-sara": {
+"cv": 1
+},
+"w-koppu": {
+"cv": 1
+},
+"w-sentaku-suru": {
+"cv": 2
+},
+"w-sentakumono": {
+"cv": 1
+},
+"w-beranda": {
+"cv": 1
+},
+"w-sentakuki": {
+"cv": 1
+},
+"w-ryouri": {
+"cv": 4,
+"focus": true
+},
+"w-hamigaki": {
+"cv": 1
+},
+"w-araimono": {
+"cv": 1
+},
+"w-takuhaibin": {
+"cv": 1
+},
+"w-jisui-suru": {
+"cv": 3
+},
+"w-eakon": {
+"cv": 2
+},
+"w-renji": {
+"cv": 1
+},
+"w-rimokon": {
+"cv": 1
+},
+"w-soujiki": {
+"cv": 1
+},
+"w-biiru": {
+"cv": 3
+},
+"w-wain": {
+"cv": 2
+},
+"w-juusu": {
+"cv": 2
+},
+"w-aji": {
+"cv": 3
+},
+"w-nama": {
+"cv": 3
+},
+"w-shio": {
+"cv": 1
+},
+"w-shouyu": {
+"cv": 1
+},
+"w-keeki": {
+"cv": 2
+},
+"w-okashi": {
+"cv": 3
+},
+"w-aisu": {
+"cv": 2
+},
+"w-choko": {
+"cv": 2
+},
+"w-oyatsu": {
+"cv": 2
+},
+"w-karee": {
+"cv": 2
+},
+"w-raamen": {
+"cv": 3,
+"focus": true
+},
+"w-sushi": {
+"cv": 2,
+"focus": true
+},
+"w-udon": {
+"cv": 2
+},
+"w-bentou": {
+"cv": 2
+},
+"w-nabe": {
+"cv": 3
+},
+"w-onigiri": {
+"cv": 2
+},
+"w-misoshiru": {
+"cv": 1
+},
+"w-menyuu": {
+"cv": 1
+},
+"w-ranchi": {
+"cv": 3
+},
+"w-gaishoku": {
+"cv": 2
+},
+"w-tabehoudai": {
+"cv": 2
+},
+"w-mochikaeri": {
+"cv": 1
+},
+"w-uchiawase": {
+"cv": 2
+},
+"w-sukejuuru": {
+"cv": 3
+},
+"w-shorui": {
+"cv": 1
+},
+"w-shutchou": {
+"cv": 3
+},
+"w-shimekiri": {
+"cv": 3
+},
+"w-kyuukei": {
+"cv": 2
+},
+"w-zangyou": {
+"cv": 4,
+"focus": true
+},
+"w-tsuukin": {
+"cv": 3
+},
+"w-yuukyuu": {
+"cv": 3
+},
+"w-renkyuu": {
+"cv": 4
+},
+"w-kenkou": {
+"cv": 3
+},
+"w-undou": {
+"cv": 3
+},
+"w-daietto": {
+"cv": 4
+},
+"w-taijuu": {
+"cv": 3
+},
+"w-kenkou-shindan": {
+"cv": 2
+},
+"w-hanamizu": {
+"cv": 2
+},
+"w-seki": {
+"cv": 2
+},
+"w-netchuushou": {
+"cv": 2
+},
+"w-kafunshou": {
+"cv": 3
+},
+"w-shinbun": {
+"cv": 1
+},
+"w-jishin": {
+"cv": 3
+},
+"w-kinkyuu": {
+"cv": 1
+},
+"w-heiwa": {
+"cv": 2
+},
+"w-keiyaku": {
+"cv": 2
+},
+"w-kojin": {
+"cv": 2
+},
+"w-tetsuzuki": {
+"cv": 2
+},
+"w-kaeri": {
+"cv": 3
+},
+"w-omukae": {
+"cv": 2
+},
+"w-odekake": {
+"cv": 3
+},
+"w-shuuden": {
+"cv": 3
+},
+"w-shingou": {
+"cv": 1
+},
+"w-juutai": {
+"cv": 2
+},
+"w-manin-densha": {
+"cv": 2
+},
+"w-tada": {
+"cv": 3
+},
+"w-muryou": {
+"cv": 2
+},
+"w-pointo": {
+"cv": 1
+},
+"w-saabisu": {
+"cv": 2
+},
+"w-kaimono": {
+"cv": 4,
+"focus": true
+},
+"w-nedan": {
+"cv": 2
+},
+"w-shouhin": {
+"cv": 1
+},
+"w-seeru": {
+"cv": 2
+},
+"w-waribiki": {
+"cv": 2
+},
+"w-yoyaku-suru": {
+"cv": 2
+},
+"w-chuumon-suru": {
+"cv": 2
+},
+"w-shiharai": {
+"cv": 1
+},
+"w-warikan": {
+"cv": 3
+},
+"w-shakkin": {
+"cv": 2
+},
+"w-sagi": {
+"cv": 3
+},
+"w-kaado": {
+"cv": 1
+},
+"w-genkin": {
+"cv": 2
+},
+"w-otsuri": {
+"cv": 1
+},
+"w-reji": {
+"cv": 1
+},
+"w-reshiito": {
+"cv": 1
+},
+"w-douga": {
+"cv": 4,
+"focus": true
+},
+"w-manga": {
+"cv": 4,
+"focus": true
+},
+"w-esu-enu-esu": {
+"cv": 3,
+"focus": true
+},
+"w-kyara": {
+"cv": 4
+},
+"w-zasshi": {
+"cv": 2
+},
+"w-kyoku": {
+"cv": 4,
+"focus": true
+},
+"w-raibu": {
+"cv": 4,
+"focus": true
+},
+"w-karaoke": {
+"cv": 4,
+"focus": true
+},
+"w-supootsu": {
+"cv": 3,
+"focus": true
+},
+"w-yakyuu": {
+"cv": 3
+},
+"w-jimu": {
+"cv": 3
+},
+"w-taikai": {
+"cv": 2
+},
+"w-katsudou": {
+"cv": 2
+},
+"w-sanpo": {
+"cv": 3
+},
+"w-natsuyasumi": {
+"cv": 3,
+"focus": true
+},
+"w-hanami": {
+"cv": 3
+},
+"w-sumaho": {
+"cv": 3
+},
+"w-rain": {
+"cv": 4,
+"focus": true
+},
+"w-apuri": {
+"cv": 3
+},
+"w-kidoku": {
+"cv": 3
+},
+"w-sukusho": {
+"cv": 3
+},
+"w-pasokon": {
+"cv": 2
+},
+"w-juuden": {
+"cv": 2
+},
+"w-juudenki": {
+"cv": 1
+},
+"w-waifai": {
+"cv": 1
+},
+"w-gamen": {
+"cv": 2
+},
+"w-ookisa": {
+"cv": 2
+},
+"w-saizu": {
+"cv": 2
+},
+"w-dezain": {
+"cv": 3
+},
+"w-ika": {
+"cv": 2
+},
+"w-okiniiri": {
+"cv": 3
+},
+"w-dochira-mo": {
+"cv": 2,
+"focus": true
+},
+"w-gohoubi": {
+"cv": 3
+},
+"w-risuto": {
+"cv": 2
+},
+"w-nemui": {
+"cv": 4
+},
+"w-kimochi-warui": {
+"cv": 4
+},
+"w-kimochi-ii": {
+"cv": 4
+},
+"w-darui": {
+"cv": 4
+},
+"w-kayui": {
+"cv": 2
+},
+"w-shinsetsu": {
+"cv": 3,
+"focus": true
+},
+"w-naka-ii": {
+"cv": 4,
+"focus": true
+},
+"w-tayori-ni-naru": {
+"cv": 3
+},
+"w-shitashii": {
+"cv": 3
+},
+"w-saitei": {
+"cv": 4
+},
+"w-kudaranai": {
+"cv": 4
+},
+"w-mashi": {
+"cv": 4
+},
+"w-bimyou": {
+"cv": 5,
+"focus": true
+},
+"w-dasai": {
+"cv": 4,
+"focus": true
+},
+"w-kuwashii": {
+"cv": 3
+},
+"w-komakai": {
+"cv": 3
+},
+"w-usui": {
+"cv": 2
+},
+"w-koi": {
+"cv": 2
+},
+"w-kimoi": {
+"cv": 4
+},
+"w-umai": {
+"cv": 4,
+"focus": true
+},
+"w-nurui": {
+"cv": 2
+},
+"w-ukkari": {
+"cv": 3
+},
+"w-sotto": {
+"cv": 2
+},
+"w-kossori": {
+"cv": 3
+},
+"w-jitto": {
+"cv": 2
+},
+"w-ichiichi": {
+"cv": 3
+},
+"w-imasara": {
+"cv": 4
+},
+"w-yayakoshii": {
+"cv": 3
+},
+"w-fuben": {
+"cv": 2
+},
+"w-seiippai": {
+"cv": 3
+},
+"w-omoikkiri": {
+"cv": 3
+},
+"w-otagai": {
+"cv": 3
+},
+"w-dou-ni-ka": {
+"cv": 3
+},
+"w-tekkiri": {
+"cv": 4
+},
+"w-itsumo-doori": {
+"cv": 3
+},
+"w-shotchuu": {
+"cv": 4
+},
+"w-kihonteki-ni": {
+"cv": 4
+},
+"w-tatta-ima": {
+"cv": 2
+},
+"w-atto-iu-ma-ni": {
+"cv": 3
+},
+"w-itsu-no-ma-ni": {
+"cv": 4
+},
+"w-kyoujuu-ni": {
+"cv": 2
+},
+"w-dore-gurai": {
+"cv": 4,
+"focus": true
+},
+"w-dore-dake": {
+"cv": 3
+},
+"w-donna-ni": {
+"cv": 3
+},
+"w-maamaa": {
+"cv": 5,
+"focus": true
+},
+"w-sokosoko": {
+"cv": 3
+},
+"w-sorenari": {
+"cv": 3
+},
+"w-aru-teido": {
+"cv": 3
+},
+"w-pittari": {
+"cv": 3
+},
+"w-batchiri": {
+"cv": 3
+},
+"w-sukkiri-suru": {
+"cv": 4
+},
+"w-dokidoki-suru": {
+"cv": 4
+},
+"w-wakuwaku-suru": {
+"cv": 4
+},
+"w-iraira-suru": {
+"cv": 4
+},
+"w-gakkari-suru": {
+"cv": 4
+},
+"w-hotto-suru": {
+"cv": 3
+},
+"w-hayame": {
+"cv": 2
+},
+"w-girigiri": {
+"cv": 4
+},
+"w-batabata-suru": {
+"cv": 4
+},
+"w-nonbiri-suru": {
+"cv": 4,
+"focus": true
+},
+"w-bootto": {
+"cv": 3
+},
+"w-nikoniko": {
+"cv": 2
+},
+"w-moyamoya": {
+"cv": 3
+},
+"w-ukiuki": {
+"cv": 3
+},
+"w-zatto": {
+"cv": 2
+},
+"w-perapera": {
+"cv": 3,
+"focus": true
+},
+"w-kotsukotsu": {
+"cv": 2
+},
+"w-gorogoro": {
+"cv": 4,
+"focus": true
+},
+"w-daradara": {
+"cv": 3
+},
+"w-urouro": {
+"cv": 2
+},
+"w-burabura": {
+"cv": 3
+},
+"w-garagara": {
+"cv": 2
+},
+"w-guchagucha": {
+"cv": 3
+},
+"w-gyutto": {
+"cv": 2
+},
+"w-gyuugyuu": {
+"cv": 2
+},
+"w-fuwafuwa": {
+"cv": 2
+},
+"w-sakusaku": {
+"cv": 2
+},
+"w-mochimochi": {
+"cv": 2
+},
+"w-kotteri": {
+"cv": 2
+},
+"w-paripari": {
+"cv": 2
+},
+"w-gussuri": {
+"cv": 3
+},
+"w-furafura": {
+"cv": 2
+},
+"w-kutakuta": {
+"cv": 4
+},
+"w-utouto": {
+"cv": 2
+},
+"w-pekopeko": {
+"cv": 3
+},
+"w-karakara": {
+"cv": 2
+},
+"w-mukamuka": {
+"cv": 3
+},
+"w-zukizuki": {
+"cv": 2
+},
+"w-buruburu": {
+"cv": 2
+},
+"w-pikapika": {
+"cv": 2
+},
+"w-sarasara": {
+"cv": 1
+},
+"w-bishobisho": {
+"cv": 2
+},
+"w-tsurutsuru": {
+"cv": 1
+},
+"w-betobeto": {
+"cv": 2
+},
+"w-pokapoka": {
+"cv": 2
+},
+"w-jimejime": {
+"cv": 3
+},
+"w-zaazaa": {
+"cv": 2
+},
+"w-mushimushi": {
+"cv": 3
+},
+"s-zero": {
+"cv": 2,
+"focus": true
+},
+"s-ichi": {
+"cv": 3,
+"focus": true
+},
+"s-ni": {
+"cv": 3,
+"focus": true
+},
+"s-san": {
+"cv": 3,
+"focus": true
+},
+"s-yon": {
+"cv": 3,
+"focus": true
+},
+"s-go": {
+"cv": 3,
+"focus": true
+},
+"s-roku": {
+"cv": 3,
+"focus": true
+},
+"s-nana": {
+"cv": 3,
+"focus": true
+},
+"s-hachi": {
+"cv": 3,
+"focus": true
+},
+"s-kyuu": {
+"cv": 3,
+"focus": true
+},
+"s-juu": {
+"cv": 3,
+"focus": true
+},
+"s-hitotsu": {
+"cv": 3
+},
+"s-futatsu": {
+"cv": 3
+},
+"s-mittsu": {
+"cv": 2
+},
+"s-yottsu": {
+"cv": 2
+},
+"s-itsutsu": {
+"cv": 2
+},
+"s-muttsu": {
+"cv": 2
+},
+"s-nanatsu": {
+"cv": 2
+},
+"s-yattsu": {
+"cv": 2
+},
+"s-kokonotsu": {
+"cv": 2
+},
+"s-hitori": {
+"cv": 4,
+"focus": true
+},
+"s-futari": {
+"cv": 4,
+"focus": true
+},
+"s-sannin": {
+"cv": 3,
+"focus": true
+},
+"s-yonin": {
+"cv": 3,
+"focus": true
+},
+"s-nannin": {
+"cv": 3,
+"focus": true
+},
+"s-ji": {
+"cv": 3
+},
+"s-nanji": {
+"cv": 4
+},
+"s-han": {
+"cv": 3
+},
+"s-gozen": {
+"cv": 2
+},
+"s-gogo": {
+"cv": 3
+},
+"s-getsuyoubi": {
+"cv": 3
+},
+"s-kayoubi": {
+"cv": 3
+},
+"s-suiyoubi": {
+"cv": 3
+},
+"s-mokuyoubi": {
+"cv": 3
+},
+"s-kinyoubi": {
+"cv": 3
+},
+"s-doyoubi": {
+"cv": 3
+},
+"s-nichiyoubi": {
+"cv": 3
+},
+"s-nanyoubi": {
+"cv": 3
+},
+"s-sai": {
+"cv": 3,
+"focus": true
+},
+"s-nansai": {
+"cv": 3,
+"focus": true
+},
+"s-oikutsu": {
+"cv": 2
+},
+"s-hatachi": {
+"cv": 3
+},
+"s-asagohan": {
+"cv": 3
+},
+"s-hirugohan": {
+"cv": 3
+},
+"s-bangohan": {
+"cv": 3
+},
+"s-ohiru": {
+"cv": 3
+},
+"s-okaasan": {
+"cv": 4,
+"focus": true
+},
+"s-otousan": {
+"cv": 4,
+"focus": true
+},
+"s-haha": {
+"cv": 2,
+"focus": true
+},
+"s-chichi": {
+"cv": 2,
+"focus": true
+},
+"s-kazoku": {
+"cv": 4,
+"focus": true
+},
+"s-oya": {
+"cv": 4,
+"focus": true
+},
+"s-ryoushin": {
+"cv": 3,
+"focus": true
+},
+"s-goryoushin": {
+"cv": 2
+},
+"s-ani": {
+"cv": 2,
+"focus": true
+},
+"s-oniisan": {
+"cv": 3,
+"focus": true
+},
+"s-ane": {
+"cv": 2,
+"focus": true
+},
+"s-oneesan": {
+"cv": 3,
+"focus": true
+},
+"s-kyoudai": {
+"cv": 4,
+"focus": true
+},
+"s-imouto": {
+"cv": 4,
+"focus": true
+},
+"s-otouto": {
+"cv": 4,
+"focus": true
+},
+"s-imoutosan": {
+"cv": 3
+},
+"s-me": {
+"cv": 4
+},
+"s-kao": {
+"cv": 4
+},
+"s-kuchi": {
+"cv": 3
+},
+"s-mimi": {
+"cv": 3
+},
+"s-hana": {
+"cv": 3
+},
+"s-atama": {
+"cv": 4
+},
+"s-kami": {
+"cv": 4
+},
+"s-kubi": {
+"cv": 3
+},
+"s-kata": {
+"cv": 3
+},
+"s-te": {
+"cv": 3
+},
+"s-ashi": {
+"cv": 3
+},
+"s-yubi": {
+"cv": 2
+},
+"s-ude": {
+"cv": 3
+},
+"s-onaka": {
+"cv": 4
+},
+"s-senaka": {
+"cv": 2
+},
+"s-mune": {
+"cv": 3
+},
+"s-hara": {
+"cv": 3
+},
+"s-ore": {
+"cv": 4
+},
+"s-anata": {
+"cv": 2
+},
+"s-atashi": {
+"cv": 4
+},
+"s-kimi": {
+"cv": 3
+},
+"s-ano-hito": {
+"cv": 4
+},
+"s-kanojo": {
+"cv": 4,
+"focus": true
+},
+"s-kare": {
+"cv": 4,
+"focus": true
+},
+"s-kono-hito": {
+"cv": 3
+},
+"s-sono-hito": {
+"cv": 4
+},
+"s-ano-ko": {
+"cv": 3
+},
+"s-watashitachi": {
+"cv": 3
+},
+"s-oretachi": {
+"cv": 3
+},
+"s-bokutachi": {
+"cv": 2
+},
+"s-nihon": {
+"cv": 4,
+"focus": true
+},
+"s-nihonjin": {
+"cv": 4,
+"focus": true
+},
+"s-eigo": {
+"cv": 4,
+"focus": true
+},
+"s-jin": {
+"cv": 3,
+"focus": true
+},
+"s-go-2": {
+"cv": 4,
+"focus": true
+},
+"s-juuichi": {
+"cv": 3
+},
+"s-nijuu": {
+"cv": 3
+},
+"s-hyaku": {
+"cv": 3
+},
+"s-sen": {
+"cv": 3
+},
+"s-sanbyaku": {
+"cv": 2
+},
+"s-roppyaku": {
+"cv": 2
+},
+"s-happyaku": {
+"cv": 2
+},
+"s-sanzen": {
+"cv": 2
+},
+"s-hassen": {
+"cv": 2
+},
+"s-ichiman": {
+"cv": 3
+},
+"s-juuman": {
+"cv": 2
+},
+"s-hyakuman": {
+"cv": 2
+},
+"s-ichioku": {
+"cv": 2
+},
+"s-ikutsu": {
+"cv": 3
+},
+"s-ikutsuka": {
+"cv": 2
+},
+"s-hitotsu-hitotsu": {
+"cv": 2
+},
+"s-futari-tomo": {
+"cv": 3
+},
+"s-hitori-hitori": {
+"cv": 2
+},
+"s-tatta-hitori": {
+"cv": 2
+},
+"s-ninzuu": {
+"cv": 2
+},
+"s-en": {
+"cv": 3
+},
+"s-ko": {
+"cv": 2
+},
+"s-hon": {
+"cv": 2
+},
+"s-mai": {
+"cv": 2
+},
+"s-hai": {
+"cv": 3
+},
+"s-kai": {
+"cv": 4
+},
+"s-nankai": {
+"cv": 3
+},
+"s-do": {
+"cv": 3
+},
+"s-nando": {
+"cv": 3
+},
+"s-fun": {
+"cv": 3
+},
+"s-goro": {
+"cv": 4
+},
+"s-sugi": {
+"cv": 3
+},
+"s-mae": {
+"cv": 4
+},
+"s-jikan": {
+"cv": 3
+},
+"s-funkan": {
+"cv": 2
+},
+"s-byou": {
+"cv": 2
+},
+"s-shuukan": {
+"cv": 3
+},
+"s-nichiyou": {
+"cv": 3
+},
+"s-heijitsu": {
+"cv": 3
+},
+"s-kyuujitsu": {
+"cv": 3
+},
+"s-tsuitachi": {
+"cv": 2
+},
+"s-futsuka": {
+"cv": 3
+},
+"s-mikka": {
+"cv": 3
+},
+"s-yokka": {
+"cv": 2
+},
+"s-itsuka": {
+"cv": 2
+},
+"s-muika": {
+"cv": 2
+},
+"s-nanoka": {
+"cv": 2
+},
+"s-youka": {
+"cv": 2
+},
+"s-kokonoka": {
+"cv": 2
+},
+"s-tooka": {
+"cv": 2
+},
+"s-juugonichi": {
+"cv": 2
+},
+"s-juuyokka": {
+"cv": 2
+},
+"s-hatsuka": {
+"cv": 2
+},
+"s-nijuuyokka": {
+"cv": 2
+},
+"s-nannichi": {
+"cv": 3
+},
+"s-ichinichijuu": {
+"cv": 4
+},
+"s-nichikan": {
+"cv": 3
+},
+"s-suujitsu": {
+"cv": 2
+},
+"s-ichigatsu": {
+"cv": 3
+},
+"s-nigatsu": {
+"cv": 3
+},
+"s-sangatsu": {
+"cv": 3
+},
+"s-shigatsu": {
+"cv": 3
+},
+"s-gogatsu": {
+"cv": 3
+},
+"s-rokugatsu": {
+"cv": 3
+},
+"s-shichigatsu": {
+"cv": 3
+},
+"s-hachigatsu": {
+"cv": 3
+},
+"s-kugatsu": {
+"cv": 3
+},
+"s-juugatsu": {
+"cv": 3
+},
+"s-juuichigatsu": {
+"cv": 3
+},
+"s-juunigatsu": {
+"cv": 3
+},
+"s-nangatsu": {
+"cv": 3
+},
+"s-kagetsu": {
+"cv": 3,
+"focus": true
+},
+"s-hantoshi": {
+"cv": 3
+},
+"s-nen": {
+"cv": 3,
+"focus": true
+},
+"s-nannen": {
+"cv": 3
+},
+"s-nenkan": {
+"cv": 3
+},
+"s-nensei": {
+"cv": 3,
+"focus": true
+},
+"s-konya": {
+"cv": 3
+},
+"s-kono-mae": {
+"cv": 5
+},
+"s-yuube": {
+"cv": 3
+},
+"s-ototoi": {
+"cv": 3
+},
+"s-asatte": {
+"cv": 3
+},
+"s-maiasa": {
+"cv": 3
+},
+"s-maiban": {
+"cv": 3
+},
+"s-maishuu": {
+"cv": 3
+},
+"s-maitsuki": {
+"cv": 2
+},
+"s-maitoshi": {
+"cv": 3
+},
+"s-maikai": {
+"cv": 3
+},
+"s-ban-2": {
+"cv": 3
+},
+"s-yonaka": {
+"cv": 3
+},
+"s-shinya": {
+"cv": 3
+},
+"s-yuugata": {
+"cv": 3
+},
+"s-hiruma": {
+"cv": 2
+},
+"s-haru": {
+"cv": 3
+},
+"s-natsu": {
+"cv": 3
+},
+"s-aki": {
+"cv": 3
+},
+"s-fuyu": {
+"cv": 3
+},
+"s-kisetsu": {
+"cv": 3
+},
+"s-ame": {
+"cv": 3
+},
+"s-tenki": {
+"cv": 3,
+"focus": true
+},
+"s-yuki": {
+"cv": 3
+},
+"s-hare": {
+"cv": 2
+},
+"s-kumori": {
+"cv": 2
+},
+"s-tenki-yohou": {
+"cv": 2
+},
+"s-furu": {
+"cv": 3
+},
+"s-yamu": {
+"cv": 2
+},
+"s-hareru": {
+"cv": 2
+},
+"s-atatakai": {
+"cv": 3
+},
+"s-suzushii": {
+"cv": 3
+},
+"s-mushiatsui": {
+"cv": 3,
+"focus": true
+},
+"s-shikke": {
+"cv": 2
+},
+"s-iro": {
+"cv": 3
+},
+"s-akai": {
+"cv": 3
+},
+"s-shiroi": {
+"cv": 3
+},
+"s-kuroi": {
+"cv": 3
+},
+"s-aoi": {
+"cv": 3
+},
+"s-aka": {
+"cv": 2
+},
+"s-shiro": {
+"cv": 2
+},
+"s-kuro": {
+"cv": 2
+},
+"s-ao": {
+"cv": 2
+},
+"s-midori": {
+"cv": 2
+},
+"s-kiiro": {
+"cv": 2
+},
+"s-pinku": {
+"cv": 2
+},
+"s-chairo": {
+"cv": 2
+},
+"s-okusan": {
+"cv": 3
+},
+"s-tsuma": {
+"cv": 2
+},
+"s-otto": {
+"cv": 2
+},
+"s-goshujin": {
+"cv": 2
+},
+"s-musume": {
+"cv": 3
+},
+"s-musuko": {
+"cv": 3
+},
+"s-musumesan": {
+"cv": 2
+},
+"s-musukosan": {
+"cv": 2
+},
+"s-okosan": {
+"cv": 2
+},
+"s-ojiichan": {
+"cv": 3
+},
+"s-obaachan": {
+"cv": 3
+},
+"s-ojiisan": {
+"cv": 2
+},
+"s-obaasan": {
+"cv": 2
+},
+"s-jiichan": {
+"cv": 2
+},
+"s-baachan": {
+"cv": 2
+},
+"s-papa": {
+"cv": 3
+},
+"s-mama": {
+"cv": 3
+},
+"s-kaasan": {
+"cv": 2
+},
+"s-tousan": {
+"cv": 2
+},
+"s-oniichan": {
+"cv": 3
+},
+"s-oneechan": {
+"cv": 3
+},
+"s-niichan": {
+"cv": 2
+},
+"s-neechan": {
+"cv": 2
+},
+"s-niisan": {
+"cv": 2
+},
+"s-neesan": {
+"cv": 2
+},
+"s-ojisan": {
+"cv": 3
+},
+"s-obasan": {
+"cv": 3
+},
+"s-obachan": {
+"cv": 2
+},
+"s-shinseki": {
+"cv": 3
+},
+"s-itoko": {
+"cv": 3
+},
+"s-ha": {
+"cv": 3
+},
+"s-nodo": {
+"cv": 3
+},
+"s-kuchibiru": {
+"cv": 2
+},
+"s-shita": {
+"cv": 2
+},
+"s-koshi": {
+"cv": 3
+},
+"s-hiza": {
+"cv": 2
+},
+"s-oshiri": {
+"cv": 2
+},
+"s-migi": {
+"cv": 2
+},
+"s-hidari": {
+"cv": 2
+},
+"s-massugu": {
+"cv": 2
+},
+"s-kado": {
+"cv": 2
+},
+"s-tonari": {
+"cv": 3
+},
+"s-soba": {
+"cv": 2
+},
+"s-yoko": {
+"cv": 3
+},
+"s-aida": {
+"cv": 3
+},
+"s-kono-hen": {
+"cv": 3,
+"focus": true
+},
+"s-sono-hen": {
+"cv": 3
+},
+"s-ano-hen": {
+"cv": 3
+},
+"s-dono-hen": {
+"cv": 3
+},
+"s-sokora": {
+"cv": 2
+},
+"s-omae": {
+"cv": 3
+},
+"s-anta": {
+"cv": 3
+},
+"s-omaera": {
+"cv": 2
+},
+"s-yatsu": {
+"cv": 4
+},
+"s-aitsu": {
+"cv": 4
+},
+"s-koitsu": {
+"cv": 3
+},
+"s-soitsu": {
+"cv": 2
+},
+"s-aitsura": {
+"cv": 3
+},
+"s-yatsura": {
+"cv": 2
+},
+"s-ra": {
+"cv": 3
+},
+"s-bokura": {
+"cv": 2
+},
+"s-orera": {
+"cv": 2
+},
+"s-uchira": {
+"cv": 3
+},
+"s-amerika": {
+"cv": 3,
+"focus": true
+},
+"s-chuugoku": {
+"cv": 2,
+"focus": true
+},
+"s-kankoku": {
+"cv": 3,
+"focus": true
+},
+"s-igirisu": {
+"cv": 2,
+"focus": true
+},
+"s-oosutoraria": {
+"cv": 3,
+"focus": true
+},
+"s-kuni": {
+"cv": 3,
+"focus": true
+},
+"s-kaigai": {
+"cv": 3,
+"focus": true
+},
+"s-gaikoku": {
+"cv": 3
+},
+"s-gaikokujin": {
+"cv": 3
+},
+"s-kokunai": {
+"cv": 2
+},
+"s-amai": {
+"cv": 4,
+"focus": true
+},
+"s-karai": {
+"cv": 4,
+"focus": true
+},
+"s-nigai": {
+"cv": 3
+},
+"s-suppai": {
+"cv": 3
+},
+"s-shoppai": {
+"cv": 3
+},
+"s-mazui": {
+"cv": 4
+},
+"s-katai": {
+"cv": 3
+},
+"s-yawarakai": {
+"cv": 3
+},
+"s-hiki": {
+"cv": 2
+},
+"s-dai": {
+"cv": 2
+},
+"s-satsu": {
+"cv": 2
+},
+"s-ban": {
+"cv": 3
+},
+"s-kai-2": {
+"cv": 2
+},
+"s-banme": {
+"cv": 3
+},
+"s-goushitsu": {
+"cv": 1
+},
+"s-choume": {
+"cv": 1
+},
+"s-kiro": {
+"cv": 3
+},
+"s-meetoru": {
+"cv": 2
+},
+"s-senchi": {
+"cv": 2
+},
+"s-guramu": {
+"cv": 1
+},
+"s-rittoru": {
+"cv": 1
+},
+"s-bai": {
+"cv": 3
+},
+"s-nandoka": {
+"cv": 3
+},
+"s-ichido-mo": {
+"cv": 4
+},
+"s-hitoban": {
+"cv": 2
+},
+"s-nenrei": {
+"cv": 1
+},
+"s-onaidoshi": {
+"cv": 4,
+"focus": true
+},
+"s-nijuudai": {
+"cv": 3,
+"focus": true
+},
+"s-nenburi": {
+"cv": 3
+},
+"s-nengo": {
+"cv": 3
+},
+"s-suunen": {
+"cv": 2
+},
+"s-sensenshuu": {
+"cv": 3
+},
+"s-saraishuu": {
+"cv": 2
+},
+"s-ototoshi": {
+"cv": 3
+},
+"s-sarainen": {
+"cv": 2
+},
+"s-zenjitsu": {
+"cv": 2
+},
+"s-yokujitsu": {
+"cv": 2
+},
+"s-yuuhan": {
+"cv": 3
+},
+"s-yuushoku": {
+"cv": 2
+},
+"s-choushoku": {
+"cv": 2
+},
+"s-kaze": {
+"cv": 3
+},
+"s-taifuu": {
+"cv": 3
+},
+"s-kaminari": {
+"cv": 2
+},
+"s-tsuyu": {
+"cv": 3
+},
+"s-murasaki": {
+"cv": 2
+},
+"s-orenji": {
+"cv": 2
+},
+"s-haiiro": {
+"cv": 2
+},
+"s-danna": {
+"cv": 3
+},
+"s-fuufu": {
+"cv": 3
+},
+"s-shujin": {
+"cv": 2
+},
+"s-yome": {
+"cv": 3
+},
+"s-chichioya": {
+"cv": 2
+},
+"s-hahaoya": {
+"cv": 2
+},
+"s-oyako": {
+"cv": 2
+},
+"s-chounan": {
+"cv": 2
+},
+"s-choujo": {
+"cv": 2
+},
+"s-mago": {
+"cv": 2
+},
+"s-sofu": {
+"cv": 2
+},
+"s-sobo": {
+"cv": 2
+},
+"s-oyaji": {
+"cv": 3
+},
+"s-kaachan": {
+"cv": 2
+},
+"s-ofukuro": {
+"cv": 3
+},
+"s-touchan": {
+"cv": 2
+},
+"s-jiisan": {
+"cv": 2
+},
+"s-kami-no-ke": {
+"cv": 2
+},
+"s-hada": {
+"cv": 3
+},
+"s-tsume": {
+"cv": 2
+},
+"s-migite": {
+"cv": 2
+},
+"s-hidarite": {
+"cv": 2
+},
+"s-ryoute": {
+"cv": 2
+},
+"s-zenshin": {
+"cv": 2
+},
+"s-mukou": {
+"cv": 3
+},
+"s-me-no-mae": {
+"cv": 3
+},
+"s-oku": {
+"cv": 2
+},
+"s-temae": {
+"cv": 2
+},
+"s-shoumen": {
+"cv": 2
+},
+"s-mawari": {
+"cv": 3
+},
+"s-gawa": {
+"cv": 2
+},
+"s-mannaka": {
+"cv": 2
+},
+"s-achikochi": {
+"cv": 3
+},
+"s-kita": {
+"cv": 2
+},
+"s-minami": {
+"cv": 2
+},
+"s-higashi": {
+"cv": 2
+},
+"s-nishi": {
+"cv": 2
+},
+"s-ano-kata": {
+"cv": 2
+},
+"s-wareware": {
+"cv": 1
+},
+"s-jibun-jishin": {
+"cv": 3
+},
+"g-r-groups": {
+"cv": 4
+},
+"g-r-stems": {
+"cv": 4
+},
+"g-r-te": {
+"cv": 5
+},
+"g-r-irregular": {
+"cv": 5
+},
+"g-dict": {
+"cv": 5
+},
+"g-masu": {
+"cv": 4
+},
+"g-nai": {
+"cv": 5
+},
+"g-masen": {
+"cv": 3
+},
+"g-ta": {
+"cv": 5,
+"focus": true
+},
+"g-mashita": {
+"cv": 4
+},
+"g-nakatta": {
+"cv": 5
+},
+"g-masen-deshita": {
+"cv": 2
+},
+"g-te": {
+"cv": 5
+},
+"g-te-kudasai": {
+"cv": 2
+},
+"g-naide": {
+"cv": 4
+},
+"g-koto-ni-naru": {
+"cv": 4
+},
+"g-koto-ni-suru": {
+"cv": 4
+},
+"g-you-ni-iu": {
+"cv": 3
+},
+"g-you-ni-suru": {
+"cv": 3
+},
+"g-okage-de": {
+"cv": 3
+},
+"g-no-sei-de": {
+"cv": 3
+},
+"g-no-sei-ni-suru": {
+"cv": 2
+},
+"g-mon-dakara": {
+"cv": 3
+},
+"g-kara-koso": {
+"cv": 2
+},
+"g-teru": {
+"cv": 5,
+"focus": true
+},
+"g-teta": {
+"cv": 5
+},
+"g-tenai": {
+"cv": 5
+},
+"g-tai": {
+"cv": 5,
+"focus": true
+},
+"g-vol": {
+"cv": 5
+},
+"g-mashou": {
+"cv": 3
+},
+"g-masen-ka": {
+"cv": 3
+},
+"g-a-plain": {
+"cv": 5
+},
+"g-a-past": {
+"cv": 5
+},
+"g-a-neg": {
+"cv": 5
+},
+"g-a-negpast": {
+"cv": 4
+},
+"g-a-darou": {
+"cv": 5
+},
+"g-a-te": {
+"cv": 4
+},
+"g-a-naru": {
+"cv": 4
+},
+"g-a-attr": {
+"cv": 5
+},
+"g-a-if": {
+"cv": 4
+},
+"g-a-sou": {
+"cv": 5
+},
+"g-furi-o-suru": {
+"cv": 3
+},
+"g-ou-to-suru": {
+"cv": 3
+},
+"g-ki-wa-nai": {
+"cv": 3
+},
+"g-te-goran": {
+"cv": 2
+},
+"g-te-wa-ikenai": {
+"cv": 2
+},
+"g-koto-ga-dekiru": {
+"cv": 2
+},
+"g-koto-wa-nai": {
+"cv": 3
+},
+"g-wake-ni-wa-ikanai": {
+"cv": 3
+},
+"g-beki-da": {
+"cv": 3
+},
+"g-ru-koto-ga-aru": {
+"cv": 3
+},
+"g-tabi-ni": {
+"cv": 3
+},
+"g-te-irai": {
+"cv": 2
+},
+"g-to-omottara": {
+"cv": 3
+},
+"g-saichuu-ni": {
+"cv": 2
+},
+"g-ta-totan": {
+"cv": 2
+},
+"g-gozaimasu": {
+"cv": 2
+},
+"g-te-itadakeru": {
+"cv": 2
+},
+"g-te-kudasaru": {
+"cv": 2
+},
+"g-sasete-itadaku": {
+"cv": 1
+},
+"g-ka-dou-ka": {
+"cv": 3
+},
+"g-toori": {
+"cv": 3
+},
+"g-to-ieba": {
+"cv": 4,
+"focus": true
+},
+"g-to-iu-koto-da": {
+"cv": 4
+},
+"g-ni-yoru-to": {
+"cv": 2
+},
+"g-tara": {
+"cv": 5
+},
+"g-ba": {
+"cv": 4
+},
+"g-to": {
+"cv": 3
+},
+"g-nara": {
+"cv": 4
+},
+"g-nakya": {
+"cv": 5
+},
+"g-nakute": {
+"cv": 4
+},
+"g-te-mo-ii": {
+"cv": 4
+},
+"g-cha-dame": {
+"cv": 3
+},
+"g-chau": {
+"cv": 5
+},
+"g-toku": {
+"cv": 4
+},
+"g-te-miru": {
+"cv": 4,
+"focus": true
+},
+"g-te-mo": {
+"cv": 4
+},
+"g-tari": {
+"cv": 4,
+"focus": true
+},
+"g-nagara": {
+"cv": 3
+},
+"g-zu-ni": {
+"cv": 2
+},
+"g-you-na": {
+"cv": 3
+},
+"g-you-da": {
+"cv": 2
+},
+"g-to-wa-kagiranai": {
+"cv": 2
+},
+"g-ni-chigai-nai": {
+"cv": 2
+},
+"g-to-shitara": {
+"cv": 3
+},
+"g-to-ii": {
+"cv": 4
+},
+"g-kagiri": {
+"cv": 2
+},
+"g-shidai": {
+"cv": 2
+},
+"g-sae-areba": {
+"cv": 2
+},
+"g-kuse-ni": {
+"cv": 3
+},
+"g-kara-tte": {
+"cv": 3
+},
+"g-ni-shite-mo": {
+"cv": 3
+},
+"g-ni-shite-wa": {
+"cv": 3
+},
+"g-to-itte-mo": {
+"cv": 3
+},
+"g-dokoro-ka": {
+"cv": 2
+},
+"g-dake-de-naku": {
+"cv": 2
+},
+"g-to-iu-yori": {
+"cv": 3
+},
+"g-de-sae": {
+"cv": 2
+},
+"g-to-shite": {
+"cv": 2
+},
+"g-ni-totte": {
+"cv": 3
+},
+"g-ni-taishite": {
+"cv": 2
+},
+"g-ni-kanshite": {
+"cv": 1
+},
+"g-muke": {
+"cv": 2
+},
+"g-kei": {
+"cv": 3
+},
+"g-goto": {
+"cv": 2
+},
+"g-nashi-de": {
+"cv": 2
+},
+"g-gokko": {
+"cv": 2
+},
+"g-pot": {
+"cv": 5
+},
+"g-pas": {
+"cv": 4
+},
+"g-cau": {
+"cv": 3
+},
+"g-cp": {
+"cv": 3
+},
+"g-imp": {
+"cv": 2
+},
+"g-na": {
+"cv": 2
+},
+"g-nasai": {
+"cv": 2
+},
+"g-te-kure": {
+"cv": 2
+},
+"g-sou": {
+"cv": 4
+},
+"g-sugiru": {
+"cv": 4
+},
+"g-yasui": {
+"cv": 4
+},
+"g-nn": {
+"cv": 5
+},
+"g-contractions": {
+"cv": 5
+},
+"g-makuru": {
+"cv": 3
+},
+"g-tteba": {
+"cv": 3
+},
+"g-mon-ka": {
+"cv": 3
+},
+"w-aruku": {
+"cv": 3
+},
+"w-isogu": {
+"cv": 3
+},
+"w-hashiru": {
+"cv": 3
+},
+"w-tobu": {
+"cv": 3
+},
+"w-suwaru": {
+"cv": 2
+},
+"w-narabu": {
+"cv": 3
+},
+"w-atsumaru": {
+"cv": 4
+},
+"w-doku": {
+"cv": 2
+},
+"w-irassharu": {
+"cv": 2
+},
+"w-oide": {
+"cv": 2
+},
+"w-mairu": {
+"cv": 2
+},
+"w-annai-suru": {
+"cv": 3,
+"focus": true
+},
+"w-suteru": {
+"cv": 3
+},
+"w-kiru-2": {
+"cv": 3
+},
+"w-youi-suru": {
+"cv": 2
+},
+"w-yaku": {
+"cv": 3
+},
+"w-tsukeru": {
+"cv": 2
+},
+"w-kesu": {
+"cv": 2
+},
+"w-akeru": {
+"cv": 2
+},
+"w-shimeru": {
+"cv": 2
+},
+"w-okosu": {
+"cv": 3
+},
+"w-arau": {
+"cv": 2
+},
+"w-dekakeru": {
+"cv": 4,
+"focus": true
+},
+"w-kigaeru": {
+"cv": 2
+},
+"w-kayou": {
+"cv": 3,
+"focus": true
+},
+"w-ayamaru": {
+"cv": 3
+},
+"w-mitomeru": {
+"cv": 3
+},
+"w-hakkiri-iu": {
+"cv": 4
+},
+"w-kaku": {
+"cv": 3
+},
+"w-yomu": {
+"cv": 4,
+"focus": true
+},
+"w-setsumei-suru": {
+"cv": 3
+},
+"w-osowaru": {
+"cv": 3
+},
+"w-yobu": {
+"cv": 3,
+"focus": true
+},
+"w-shoukai-suru": {
+"cv": 3,
+"focus": true
+},
+"w-sasou": {
+"cv": 4,
+"focus": true
+},
+"w-kotowaru": {
+"cv": 3
+},
+"w-mousu": {
+"cv": 2
+},
+"w-ossharu": {
+"cv": 2
+},
+"w-gozonji": {
+"cv": 2
+},
+"w-moushiageru": {
+"cv": 1
+},
+"w-meshiagaru": {
+"cv": 2
+},
+"w-shaberu": {
+"cv": 4,
+"focus": true
+},
+"w-damaru": {
+"cv": 3
+},
+"w-aisatsu-suru": {
+"cv": 2
+},
+"w-hanashikakeru": {
+"cv": 3
+},
+"w-tsutaeru": {
+"cv": 3
+},
+"w-tsutawaru": {
+"cv": 3,
+"focus": true
+},
+"w-tsuujiru": {
+"cv": 3
+},
+"w-houkoku-suru": {
+"cv": 2
+},
+"w-shinjiru": {
+"cv": 4,
+"focus": true
+},
+"w-kanjiru": {
+"cv": 3
+},
+"w-souzou-suru": {
+"cv": 3
+},
+"w-ochitsuku": {
+"cv": 3
+},
+"w-yorokobu": {
+"cv": 3
+},
+"w-odoroku": {
+"cv": 3
+},
+"w-tanoshimu": {
+"cv": 3
+},
+"w-shiranai": {
+"cv": 5,
+"focus": true
+},
+"w-omoidasu": {
+"cv": 4
+},
+"w-kanchigai-suru": {
+"cv": 3
+},
+"w-rikai-suru": {
+"cv": 3
+},
+"w-kitai-suru": {
+"cv": 3
+},
+"w-gaman-suru": {
+"cv": 4
+},
+"w-koukai-suru": {
+"cv": 3
+},
+"w-nayamu": {
+"cv": 4
+},
+"w-nattoku-suru": {
+"cv": 3
+},
+"w-handan-suru": {
+"cv": 2
+},
+"w-gokai": {
+"cv": 3
+},
+"w-konran-suru": {
+"cv": 3
+},
+"w-tasukeru": {
+"cv": 3
+},
+"w-tasukaru": {
+"cv": 4
+},
+"w-ouen-suru": {
+"cv": 4,
+"focus": true
+},
+"w-kyouryoku-suru": {
+"cv": 2
+},
+"w-sapooto-suru": {
+"cv": 2
+},
+"w-kekkon-suru": {
+"cv": 4,
+"focus": true
+},
+"w-deau": {
+"cv": 4,
+"focus": true
+},
+"w-rikon-suru": {
+"cv": 3
+},
+"w-shiriau": {
+"cv": 3,
+"focus": true
+},
+"w-puropoozu-suru": {
+"cv": 3
+},
+"w-hataraku": {
+"cv": 4,
+"focus": true
+},
+"w-tsuzuku": {
+"cv": 3
+},
+"w-nareru": {
+"cv": 4,
+"focus": true
+},
+"w-erabu": {
+"cv": 3
+},
+"w-kimaru": {
+"cv": 4
+},
+"w-kettei": {
+"cv": 3
+},
+"w-henkou-suru": {
+"cv": 2
+},
+"w-kariru": {
+"cv": 3
+},
+"w-kaesu": {
+"cv": 3
+},
+"w-watasu": {
+"cv": 2
+},
+"w-motte-kuru": {
+"cv": 3
+},
+"w-nokoru": {
+"cv": 2
+},
+"w-nokosu": {
+"cv": 2
+},
+"w-azukaru": {
+"cv": 2
+},
+"w-azukeru": {
+"cv": 2
+},
+"w-okuru": {
+"cv": 4
+},
+"w-todoku": {
+"cv": 3
+},
+"w-todokeru": {
+"cv": 2
+},
+"w-hakobu": {
+"cv": 2
+},
+"w-itadaku": {
+"cv": 2
+},
+"w-uketoru": {
+"cv": 2
+},
+"w-sashiageru": {
+"cv": 2
+},
+"w-mitsukeru": {
+"cv": 3
+},
+"w-nakusu": {
+"cv": 3
+},
+"w-otosu": {
+"cv": 3
+},
+"w-hirou": {
+"cv": 2
+},
+"w-kakusu": {
+"cv": 3
+},
+"w-hakken": {
+"cv": 3
+},
+"w-osu": {
+"cv": 2
+},
+"w-hiku": {
+"cv": 3
+},
+"w-nageru": {
+"cv": 2
+},
+"w-tsukamaeru": {
+"cv": 2
+},
+"w-itasu": {
+"cv": 2
+},
+"w-nasaru": {
+"cv": 2
+},
+"w-taiou-suru": {
+"cv": 2
+},
+"w-umaku-iku": {
+"cv": 4,
+"focus": true
+},
+"w-shippai-suru": {
+"cv": 4
+},
+"w-seikou-suru": {
+"cv": 3
+},
+"w-kansei-suru": {
+"cv": 3
+},
+"w-goukaku-suru": {
+"cv": 3
+},
+"w-susumeru": {
+"cv": 2
+},
+"w-kaiketsu-suru": {
+"cv": 2
+},
+"w-matomeru": {
+"cv": 2
+},
+"w-hikiukeru": {
+"cv": 2
+},
+"w-mezasu": {
+"cv": 3
+},
+"w-shoubu": {
+"cv": 3
+},
+"w-doryoku-suru": {
+"cv": 3
+},
+"w-tamesu": {
+"cv": 3
+},
+"w-chousen-suru": {
+"cv": 3
+},
+"w-nigeru": {
+"cv": 3
+},
+"w-korosu": {
+"cv": 2
+},
+"w-makikomu": {
+"cv": 3
+},
+"w-me-ni-au": {
+"cv": 4
+},
+"w-ikiru": {
+"cv": 3
+},
+"w-kurasu-2": {
+"cv": 3,
+"focus": true
+},
+"w-sugosu": {
+"cv": 3,
+"focus": true
+},
+"w-otoko": {
+"cv": 3
+},
+"w-onna": {
+"cv": 3
+},
+"w-ningen": {
+"cv": 3
+},
+"w-josei": {
+"cv": 2
+},
+"w-sensei": {
+"cv": 3
+},
+"w-senpai": {
+"cv": 4
+},
+"w-shiriai": {
+"cv": 3
+},
+"w-nakama": {
+"cv": 3
+},
+"w-zenin": {
+"cv": 3
+},
+"w-okyakusan": {
+"cv": 2
+},
+"w-kyaku": {
+"cv": 2
+},
+"w-honnin": {
+"cv": 3
+},
+"w-oozei": {
+"cv": 2
+},
+"w-konkai": {
+"cv": 3
+},
+"w-yotei": {
+"cv": 4,
+"focus": true
+},
+"w-honjitsu": {
+"cv": 2
+},
+"w-senjitsu": {
+"cv": 2
+},
+"w-jinsei": {
+"cv": 3
+},
+"w-seikatsu": {
+"cv": 3,
+"focus": true
+},
+"w-chansu": {
+"cv": 3
+},
+"w-kurou": {
+"cv": 3
+},
+"w-omoide": {
+"cv": 4
+},
+"w-jidai": {
+"cv": 3
+},
+"w-mirai": {
+"cv": 2
+},
+"w-kako": {
+"cv": 3
+},
+"w-genzai": {
+"cv": 2
+},
+"w-koro": {
+"cv": 4,
+"focus": true
+},
+"w-kongo": {
+"cv": 2
+},
+"w-shunkan": {
+"cv": 3
+},
+"w-izen": {
+"cv": 2
+},
+"w-shourai": {
+"cv": 3,
+"focus": true
+},
+"w-taimingu": {
+"cv": 3
+},
+"w-kanousei": {
+"cv": 2
+},
+"w-kono-saki": {
+"cv": 2
+},
+"w-kikai": {
+"cv": 3
+},
+"w-shiawase": {
+"cv": 4
+},
+"w-kansha-suru": {
+"cv": 2
+},
+"w-egao": {
+"cv": 3
+},
+"w-kibou": {
+"cv": 2
+},
+"w-anshin-suru": {
+"cv": 4
+},
+"w-fuan": {
+"cv": 4
+},
+"w-manzoku-suru": {
+"cv": 3
+},
+"w-fuman": {
+"cv": 3
+},
+"w-kankei": {
+"cv": 3
+},
+"w-kankei-nai": {
+"cv": 4
+},
+"w-jiyuu": {
+"cv": 3
+},
+"w-puraibeeto": {
+"cv": 3
+},
+"w-baai": {
+"cv": 2
+},
+"w-joukyou": {
+"cv": 2
+},
+"w-houhou": {
+"cv": 2
+},
+"w-joutai": {
+"cv": 2
+},
+"w-riyuu": {
+"cv": 3
+},
+"w-sekinin": {
+"cv": 3
+},
+"w-jijitsu": {
+"cv": 2
+},
+"w-jijou": {
+"cv": 3
+},
+"w-machigai": {
+"cv": 3
+},
+"w-gyaku": {
+"cv": 3
+},
+"w-hantai": {
+"cv": 3
+},
+"w-seikai": {
+"cv": 3
+},
+"w-himitsu": {
+"cv": 4
+},
+"w-jouhou": {
+"cv": 3
+},
+"w-kiroku": {
+"cv": 2
+},
+"w-kiji": {
+"cv": 2
+},
+"w-basho": {
+"cv": 3
+},
+"w-machi": {
+"cv": 3,
+"focus": true
+},
+"w-sekai": {
+"cv": 3
+},
+"w-sekaijuu": {
+"cv": 2
+},
+"w-yasumi": {
+"cv": 4,
+"focus": true
+},
+"w-baito": {
+"cv": 4,
+"focus": true
+},
+"w-kyuuryou": {
+"cv": 3
+},
+"w-kega-suru": {
+"cv": 3
+},
+"w-keisatsu": {
+"cv": 2
+},
+"w-jiko": {
+"cv": 2
+},
+"w-kizu": {
+"cv": 2
+},
+"w-kyuukyuusha": {
+"cv": 2
+},
+"w-ijou": {
+"cv": 2
+},
+"w-igai": {
+"cv": 3
+},
+"w-inai": {
+"cv": 2
+},
+"w-teido": {
+"cv": 2
+},
+"w-mitame": {
+"cv": 3
+},
+"w-katachi": {
+"cv": 2
+},
+"w-nakami": {
+"cv": 3
+},
+"w-honmono": {
+"cv": 3
+},
+"w-sabishii": {
+"cv": 4,
+"focus": true
+},
+"w-kanashii": {
+"cv": 4
+},
+"w-kawaisou": {
+"cv": 4,
+"focus": true
+},
+"w-natsukashii": {
+"cv": 4,
+"focus": true
+},
+"w-heiki": {
+"cv": 4
+},
+"w-arigatai": {
+"cv": 3
+},
+"w-kimazui": {
+"cv": 4
+},
+"w-tokui": {
+"cv": 4,
+"focus": true
+},
+"w-heta": {
+"cv": 4,
+"focus": true
+},
+"w-erai": {
+"cv": 4,
+"focus": true
+},
+"w-rippa": {
+"cv": 3
+},
+"w-yuushuu": {
+"cv": 3
+},
+"w-okashii": {
+"cv": 4
+},
+"w-igai-2": {
+"cv": 4,
+"focus": true
+},
+"w-fushigi": {
+"cv": 3
+},
+"w-ayashii": {
+"cv": 3
+},
+"w-tokubetsu": {
+"cv": 3
+},
+"w-yuumei": {
+"cv": 3,
+"focus": true
+},
+"w-suteki": {
+"cv": 3,
+"focus": true
+},
+"w-kanpeki": {
+"cv": 3
+},
+"w-subarashii": {
+"cv": 2
+},
+"w-omoi": {
+"cv": 3
+},
+"w-karui": {
+"cv": 3
+},
+"w-furui": {
+"cv": 3
+},
+"w-tsumetai": {
+"cv": 3
+},
+"w-taisetsu": {
+"cv": 3
+},
+"w-taishita": {
+"cv": 4
+},
+"w-juuyou": {
+"cv": 2
+},
+"w-kichou": {
+"cv": 2
+},
+"w-chikai": {
+"cv": 3,
+"focus": true
+},
+"w-tooi": {
+"cv": 3,
+"focus": true
+},
+"w-hiroi": {
+"cv": 3
+},
+"w-semai": {
+"cv": 3
+},
+"w-dekai": {
+"cv": 3
+},
+"w-kanarazu": {
+"cv": 3
+},
+"w-doushitemo": {
+"cv": 3
+},
+"w-machigai-nai": {
+"cv": 3
+},
+"w-zehi": {
+"cv": 3,
+"focus": true
+},
+"w-shikkari": {
+"cv": 3
+},
+"w-chokusetsu": {
+"cv": 3
+},
+"w-hakkiri": {
+"cv": 3
+},
+"w-kichinto": {
+"cv": 2
+},
+"w-sonna-fuu-ni": {
+"cv": 3
+},
+"w-marude": {
+"cv": 3
+},
+"w-sasuga-ni": {
+"cv": 4
+},
+"w-masa-ni": {
+"cv": 3
+},
+"w-angai": {
+"cv": 3
+},
+"w-mattaku": {
+"cv": 3
+},
+"w-sappari": {
+"cv": 3
+},
+"w-issai": {
+"cv": 2
+},
+"w-kesshite": {
+"cv": 2
+},
+"w-daibu": {
+"cv": 3
+},
+"w-sukkari": {
+"cv": 3
+},
+"w-soutou": {
+"cv": 3
+},
+"w-yoppodo": {
+"cv": 3
+},
+"w-tottemo": {
+"cv": 3
+},
+"w-mechakucha": {
+"cv": 4,
+"focus": true
+},
+"w-zuibun": {
+"cv": 3
+},
+"w-shinu-hodo": {
+"cv": 4
+},
+"w-sore-kara": {
+"cv": 4,
+"focus": true
+},
+"w-soshite": {
+"cv": 2
+},
+"w-soshitara": {
+"cv": 4,
+"focus": true
+},
+"w-sono-ato": {
+"cv": 4,
+"focus": true
+},
+"w-tada-2": {
+"cv": 4,
+"focus": true
+},
+"w-sore-demo": {
+"cv": 3
+},
+"w-dakara-tte": {
+"cv": 4
+},
+"w-sore-ni-shite-mo": {
+"cv": 4
+},
+"w-sono-kawari": {
+"cv": 3
+},
+"w-tokoro-de": {
+"cv": 4,
+"focus": true
+},
+"w-sore-yori": {
+"cv": 4
+},
+"w-chinami-ni": {
+"cv": 4
+},
+"w-sate": {
+"cv": 2
+},
+"w-tte-iu-ka": {
+"cv": 5,
+"focus": true
+},
+"w-gyaku-ni": {
+"cv": 4
+},
+"w-aru-imi": {
+"cv": 3
+},
+"w-mushiro": {
+"cv": 3
+},
+"w-iwayuru": {
+"cv": 3
+},
+"w-somosomo": {
+"cv": 3
+},
+"w-tte-koto-wa": {
+"cv": 4
+},
+"w-dakara-koso": {
+"cv": 3
+},
+"w-sore-koso": {
+"cv": 3
+},
+"w-shikamo": {
+"cv": 4
+},
+"w-sore-to-mo": {
+"cv": 3
+},
+"w-sore-ni": {
+"cv": 3
+},
+"w-sore-to": {
+"cv": 3
+},
+"w-tomaru": {
+"cv": 2
+},
+"w-ugoku": {
+"cv": 2
+},
+"w-magaru": {
+"cv": 2
+},
+"w-unten-suru": {
+"cv": 3
+},
+"w-tsuite-kuru": {
+"cv": 3
+},
+"w-tsuite-iku": {
+"cv": 3
+},
+"w-chikazuku": {
+"cv": 2
+},
+"w-oikakeru": {
+"cv": 2
+},
+"w-mikakeru": {
+"cv": 3
+},
+"w-warau": {
+"cv": 4
+},
+"w-utau": {
+"cv": 3,
+"focus": true
+},
+"w-odoru": {
+"cv": 3,
+"focus": true
+},
+"w-kisu-suru": {
+"cv": 3
+},
+"w-nameru": {
+"cv": 3
+},
+"w-homeru": {
+"cv": 3
+},
+"w-chuui-suru": {
+"cv": 3
+},
+"w-sekkyou-suru": {
+"cv": 3
+},
+"w-jiman-suru": {
+"cv": 3
+},
+"w-hanashiau": {
+"cv": 3
+},
+"w-teian": {
+"cv": 2
+},
+"w-sansei-suru": {
+"cv": 3
+},
+"w-iidasu": {
+"cv": 3
+},
+"w-moriagaru": {
+"cv": 4
+},
+"w-kandou-suru": {
+"cv": 4,
+"focus": true
+},
+"w-koufun-suru": {
+"cv": 3
+},
+"w-tsuzukeru": {
+"cv": 3
+},
+"w-akiru": {
+"cv": 4
+},
+"w-kodawaru": {
+"cv": 3
+},
+"w-hansei-suru": {
+"cv": 3
+},
+"w-ochikomu": {
+"cv": 4
+},
+"w-kizutsuku": {
+"cv": 3
+},
+"w-mukatsuku": {
+"cv": 5,
+"focus": true
+},
+"w-haradatsu": {
+"cv": 4
+},
+"w-yurusu": {
+"cv": 3
+},
+"w-mataseru": {
+"cv": 3
+},
+"w-enryo-suru": {
+"cv": 3
+},
+"w-yuzuru": {
+"cv": 2
+},
+"w-kamawanai": {
+"cv": 3
+},
+"w-kakawaru": {
+"cv": 3
+},
+"w-kirau": {
+"cv": 3
+},
+"w-sakeru": {
+"cv": 3
+},
+"w-kamau": {
+"cv": 3
+},
+"w-houtte-oku": {
+"cv": 3
+},
+"w-tsukiau": {
+"cv": 4,
+"focus": true
+},
+"w-wakareru": {
+"cv": 4
+},
+"w-kokuhaku-suru": {
+"cv": 4
+},
+"w-moteru": {
+"cv": 4,
+"focus": true
+},
+"w-makaseru": {
+"cv": 3
+},
+"w-omakase": {
+"cv": 3
+},
+"w-tayoru": {
+"cv": 3
+},
+"w-suki-ni-suru": {
+"cv": 3
+},
+"w-shinyou-suru": {
+"cv": 3
+},
+"w-shinrai-suru": {
+"cv": 3
+},
+"w-sonkei-suru": {
+"cv": 3
+},
+"w-akogareru": {
+"cv": 3
+},
+"w-sanka-suru": {
+"cv": 3
+},
+"w-sawagu": {
+"cv": 3
+},
+"w-medatsu": {
+"cv": 3
+},
+"w-kaisan-suru": {
+"cv": 3
+},
+"w-kieru": {
+"cv": 3
+},
+"w-moeru": {
+"cv": 2
+},
+"w-nukeru": {
+"cv": 2
+},
+"w-nagareru": {
+"cv": 2
+},
+"w-moreru": {
+"cv": 2
+},
+"w-fueru": {
+"cv": 3
+},
+"w-fuyasu": {
+"cv": 2
+},
+"w-tamaru": {
+"cv": 3
+},
+"w-sageru": {
+"cv": 2
+},
+"w-hikaeru": {
+"cv": 3
+},
+"w-kakunin-suru": {
+"cv": 2
+},
+"w-shiraberu": {
+"cv": 3
+},
+"w-chekku-suru": {
+"cv": 3
+},
+"w-tashikameru": {
+"cv": 2
+},
+"w-kuraberu": {
+"cv": 3
+},
+"w-machigau": {
+"cv": 3
+},
+"w-misu-suru": {
+"cv": 3
+},
+"w-yarinaosu": {
+"cv": 3
+},
+"w-minogasu": {
+"cv": 2
+},
+"w-ikeru": {
+"cv": 4
+},
+"w-tsuiteru": {
+"cv": 4
+},
+"w-ureru": {
+"cv": 3
+},
+"w-ateru": {
+"cv": 3
+},
+"w-katsuyaku-suru": {
+"cv": 3
+},
+"w-renshuu-suru": {
+"cv": 3
+},
+"w-shuuchuu-suru": {
+"cv": 3
+},
+"w-narau": {
+"cv": 3,
+"focus": true
+},
+"w-manabu": {
+"cv": 2
+},
+"w-keisan-suru": {
+"cv": 2
+},
+"w-bareru": {
+"cv": 4
+},
+"w-damasu": {
+"cv": 3
+},
+"w-tsukamaru": {
+"cv": 2
+},
+"w-nusumu": {
+"cv": 2
+},
+"w-gomakasu": {
+"cv": 3
+},
+"w-umu": {
+"cv": 3
+},
+"w-sodatsu": {
+"cv": 3,
+"focus": true
+},
+"w-seichou-suru": {
+"cv": 3
+},
+"w-onna-no-ko": {
+"cv": 4
+},
+"w-otoko-no-ko": {
+"cv": 4
+},
+"w-otoko-no-hito": {
+"cv": 3
+},
+"w-onna-no-hito": {
+"cv": 3
+},
+"p-mata-ne": {
+"cv": 5,
+"move": "c-social"
+},
+"p-mata-ashita": {
+"cv": 4,
+"move": "c-social"
+},
+"p-jaa-mata": {
+"cv": 5,
+"move": "c-social"
+},
+"p-baibai": {
+"cv": 4,
+"move": "c-social"
+},
+"p-sayounara": {
+"cv": 2,
+"move": "c-social"
+},
+"p-tadaima": {
+"cv": 3,
+"move": "c-social"
+},
+"p-okaeri": {
+"cv": 3,
+"move": "c-social"
+},
+"p-ittekimasu": {
+"cv": 2,
+"move": "c-social"
+},
+"p-itterasshai": {
+"cv": 2,
+"move": "c-social"
+},
+"p-okaerinasai": {
+"cv": 2,
+"move": "c-social"
+},
+"p-konbanwa": {
+"cv": 2,
+"move": "c-social"
+},
+"p-onamae-wa": {
+"cv": 3,
+"move": "c-intro",
+"focus": true
+},
+"p-dochira-kara-desu-ka": {
+"cv": 3,
+"move": "c-intro",
+"focus": true
+},
+"p-youkoso": {
+"cv": 2,
+"move": "c-social"
+},
+"p-doumo": {
+"cv": 3,
+"move": "c-social"
+},
+"p-arigatou-gozaimashita": {
+"cv": 2,
+"move": "c-social"
+},
+"p-doumo-arigatou": {
+"cv": 4,
+"move": "c-social"
+},
+"p-sankyuu": {
+"cv": 4,
+"move": "c-social"
+},
+"p-ie-ie": {
+"cv": 4,
+"move": "c-social"
+},
+"p-douitashimashite": {
+"cv": 2,
+"move": "c-social"
+},
+"p-tondemonai": {
+"cv": 3,
+"move": "c-social"
+},
+"p-gomen-nasai": {
+"cv": 4,
+"move": "c-social"
+},
+"p-sumimasen-deshita": {
+"cv": 2,
+"move": "c-social"
+},
+"p-gomen-gomen": {
+"cv": 5,
+"move": "c-social"
+},
+"p-doumo-sumimasen": {
+"cv": 2,
+"move": "c-social"
+},
+"p-osoku-natte-sumimasen": {
+"cv": 2,
+"move": "c-social"
+},
+"p-ii-desu-ka": {
+"cv": 2,
+"move": "c-errands"
+},
+"p-yoroshii-desu-ka": {
+"cv": 2,
+"move": "c-errands"
+},
+"p-kiite-mo-ii": {
+"cv": 4,
+"move": "c-ask",
+"focus": true
+},
+"p-dou-suru": {
+"cv": 5,
+"move": "c-plans"
+},
+"p-dou-shitara-ii": {
+"cv": 4,
+"move": "c-ask"
+},
+"p-sou-shiyou": {
+"cv": 4,
+"move": "c-plans"
+},
+"p-dotchi-demo-ii": {
+"cv": 4,
+"move": "c-plans"
+},
+"p-jaa-sore-de": {
+"cv": 3,
+"move": "c-plans"
+},
+"p-kore-ni-shimasu": {
+"cv": 2,
+"move": "c-errands"
+},
+"p-kore-kudasai": {
+"cv": 2,
+"move": "c-errands"
+},
+"p-osusume-wa-nan-desu-ka": {
+"cv": 2,
+"move": "c-errands"
+},
+"p-shichaku-shite-mo-ii-desu-ka": {
+"cv": 1,
+"move": "c-errands"
+},
+"p-ikura-desu-ka": {
+"cv": 2,
+"move": "c-errands"
+},
+"p-kaado-de-onegai-shimasu": {
+"cv": 2,
+"move": "c-errands"
+},
+"p-kaado-tsukaemasu-ka": {
+"cv": 2,
+"move": "c-errands"
+},
+"p-zeikomi-desu-ka": {
+"cv": 1,
+"move": "c-errands"
+},
+"p-reshiito-wa-daijoubu-desu": {
+"cv": 1,
+"move": "c-errands"
+},
+"p-fukuro-wa-daijoubu-desu": {
+"cv": 1,
+"move": "c-errands"
+},
+"p-fukuro-onegai-shimasu": {
+"cv": 1,
+"move": "c-errands"
+},
+"p-kono-mama-de-ii-desu": {
+"cv": 1,
+"move": "c-errands"
+},
+"p-purezento-you-desu": {
+"cv": 1,
+"move": "c-errands"
+},
+"p-onaka-suita": {
+"cv": 4,
+"move": "c-feel"
+},
+"p-oishisou": {
+"cv": 4,
+"move": "c-react"
+},
+"p-oishikatta": {
+"cv": 4,
+"move": "c-react"
+},
+"p-tabesugita": {
+"cv": 4,
+"move": "c-feel"
+},
+"p-mou-taberarenai": {
+"cv": 3,
+"move": "c-feel"
+},
+"p-chuumon-ii-desu-ka": {
+"cv": 2,
+"move": "c-errands"
+},
+"p-ijou-desu": {
+"cv": 2,
+"move": "c-errands"
+},
+"p-toire-wa-doko-desu-ka": {
+"cv": 2,
+"move": "c-errands"
+},
+"p-futari-desu": {
+"cv": 2,
+"move": "c-errands"
+},
+"p-omizu-kudasai": {
+"cv": 2,
+"move": "c-errands"
+},
+"p-mochikaeri-de": {
+"cv": 2,
+"move": "c-errands"
+},
+"p-tennai-de": {
+"cv": 2,
+"move": "c-errands"
+},
+"p-oomori-de": {
+"cv": 1,
+"move": "c-errands"
+},
+"p-kashikomarimashita": {
+"cv": 2,
+"move": "c-errands"
+},
+"p-irasshaimase": {
+"cv": 2,
+"move": "c-errands"
+},
+"p-gochuumon": {
+"cv": 1,
+"move": "c-errands"
+},
+"p-okoshi": {
+"cv": 1,
+"move": "c-errands"
+},
+"p-shoushou-omachi-kudasai": {
+"cv": 2,
+"move": "c-errands"
+},
+"p-omatase-shimashita": {
+"cv": 2,
+"move": "c-errands"
+},
+"p-tsugi-no-kata-douzo": {
+"cv": 1,
+"move": "c-errands"
+},
+"p-kochira-no-reji-e-douzo": {
+"cv": 1,
+"move": "c-errands"
+},
+"p-tadaima-ukagaimasu": {
+"cv": 1,
+"move": "c-errands"
+},
+"p-nanmeisama-desu-ka": {
+"cv": 2,
+"move": "c-errands"
+},
+"p-kochira-e-douzo": {
+"cv": 2,
+"move": "c-errands"
+},
+"p-osuki-na-seki-e-douzo": {
+"cv": 1,
+"move": "c-errands"
+},
+"p-goyoyaku-wa-sarete-imasu-ka": {
+"cv": 1,
+"move": "c-errands"
+},
+"p-omachi-shite-orimashita": {
+"cv": 1,
+"move": "c-errands"
+},
+"p-goyukkuri-douzo": {
+"cv": 1,
+"move": "c-errands"
+},
+"p-gochuumon-wa-okimari-desu-ka": {
+"cv": 1,
+"move": "c-errands"
+},
+"p-gochuumon-wa-ijou-de-yoroshii-desu-ka": {
+"cv": 1,
+"move": "c-errands"
+},
+"p-onomimono-wa-ikaga-nasaimasu-ka": {
+"cv": 1,
+"move": "c-errands"
+},
+"p-osage-shite-mo-yoroshii-desu-ka": {
+"cv": 1,
+"move": "c-errands"
+},
+"p-tennai-de-omeshiagari-desu-ka": {
+"cv": 1,
+"move": "c-errands"
+},
+"p-omochikaeri-desu-ka": {
+"cv": 1,
+"move": "c-errands"
+},
+"p-atatamemasu-ka": {
+"cv": 1,
+"move": "c-errands"
+},
+"p-ohashi-wa-otsuke-shimasu-ka": {
+"cv": 1,
+"move": "c-errands"
+},
+"p-fukuro-wa-otsuke-shimasu-ka": {
+"cv": 1,
+"move": "c-errands"
+},
+"p-pointo-kaado-wa-omochi-desu-ka": {
+"cv": 1,
+"move": "c-errands"
+},
+"p-oshiharai-wa-dou-saremasu-ka": {
+"cv": 1,
+"move": "c-errands"
+},
+"p-shiiru-de-ii-desu-ka": {
+"cv": 1,
+"move": "c-errands"
+},
+"p-ima-doko": {
+"cv": 4,
+"move": "c-plans"
+},
+"p-ima-mukatteru": {
+"cv": 3,
+"move": "c-plans"
+},
+"p-tsuita-yo": {
+"cv": 3,
+"move": "c-plans"
+},
+"p-mou-sugu-tsuku": {
+"cv": 3,
+"move": "c-plans"
+},
+"p-omatase": {
+"cv": 4,
+"move": "c-social"
+},
+"p-matteru-ne": {
+"cv": 3,
+"move": "c-plans"
+},
+"p-okurete-gomen": {
+"cv": 4,
+"move": "c-social"
+},
+"p-chotto-okureru": {
+"cv": 3,
+"move": "c-plans"
+},
+"p-matta": {
+"cv": 3,
+"move": "c-social"
+},
+"p-daijoubu-desu-ka": {
+"cv": 3,
+"move": "c-feel"
+},
+"p-nanika-atta": {
+"cv": 4,
+"move": "c-ask"
+},
+"p-kega-nai": {
+"cv": 2,
+"move": "c-feel"
+},
+"p-mou-daijoubu": {
+"cv": 4,
+"move": "c-feel"
+},
+"p-ki-ni-shinaide": {
+"cv": 5,
+"move": "c-feel"
+},
+"p-shinpai-shinaide": {
+"cv": 4,
+"move": "c-feel"
+},
+"p-nantoka-naru-yo": {
+"cv": 4,
+"move": "c-feel"
+},
+"p-yukkuri-de-ii-yo": {
+"cv": 3,
+"move": "c-feel"
+},
+"p-goshinpai-naku": {
+"cv": 2,
+"move": "c-social"
+},
+"p-yatta": {
+"cv": 5,
+"move": "c-react"
+},
+"p-dekita": {
+"cv": 3,
+"move": "c-react"
+},
+"p-yoshi": {
+"cv": 3,
+"move": "c-react"
+},
+"p-rakkii": {
+"cv": 4,
+"move": "c-react"
+},
+"p-yossha": {
+"cv": 3,
+"move": "c-react"
+},
+"p-okkee": {
+"cv": 5,
+"move": "c-agree"
+},
+"p-mondai-nai": {
+"cv": 3,
+"move": "c-agree"
+},
+"p-nan-demo-nai": {
+"cv": 4,
+"move": "c-repair"
+},
+"p-taishita-koto-nai": {
+"cv": 4,
+"move": "c-opine"
+},
+"p-honto-da": {
+"cv": 4,
+"move": "c-react"
+},
+"p-a-sou-da": {
+"cv": 5,
+"move": "c-flow",
+"focus": true
+},
+"p-sore-na": {
+"cv": 5,
+"move": "c-react",
+"focus": true
+},
+"p-sono-toori": {
+"cv": 3,
+"move": "c-agree"
+},
+"p-nani-sore": {
+"cv": 5,
+"move": "c-react",
+"focus": true
+},
+"p-nani-kore": {
+"cv": 4,
+"move": "c-react"
+},
+"p-nan-datte": {
+"cv": 3,
+"move": "c-react"
+},
+"p-nani-yatten-no": {
+"cv": 3,
+"move": "c-banter"
+},
+"p-nani-nani": {
+"cv": 5,
+"move": "c-ask",
+"focus": true
+},
+"p-shinjirarenai": {
+"cv": 4,
+"move": "c-react",
+"focus": true
+},
+"p-maji-ka": {
+"cv": 5,
+"move": "c-react",
+"focus": true
+},
+"p-arienai": {
+"cv": 5,
+"move": "c-react",
+"focus": true
+},
+"p-uso-desho": {
+"cv": 5,
+"move": "c-react",
+"focus": true
+},
+"p-shimatta": {
+"cv": 3,
+"move": "c-react"
+},
+"p-dou-shiyou": {
+"cv": 4,
+"move": "c-feel"
+},
+"p-otto": {
+"cv": 2,
+"move": "c-react"
+},
+"p-okashii-na": {
+"cv": 3,
+"move": "c-react"
+},
+"p-wakarimashita": {
+"cv": 2,
+"move": "c-agree"
+},
+"p-wakarimasen": {
+"cv": 3,
+"move": "c-repair"
+},
+"p-haai": {
+"cv": 3,
+"move": "c-agree"
+},
+"p-ryoukai": {
+"cv": 4,
+"move": "c-agree"
+},
+"p-mou-ichido-onegai-shimasu": {
+"cv": 3,
+"move": "c-repair"
+},
+"p-kikoenakatta": {
+"cv": 4,
+"move": "c-repair"
+},
+"p-yukkuri-hanashite-kudasai": {
+"cv": 3,
+"move": "c-repair"
+},
+"p-nihongo-jouzu-desu-ne": {
+"cv": 3,
+"move": "c-intro",
+"focus": true
+},
+"p-sou-sou": {
+"cv": 5,
+"move": "c-agree",
+"focus": true
+},
+"p-wakaru-wakaru": {
+"cv": 5,
+"move": "c-react",
+"focus": true
+},
+"p-ossharu-toori-desu": {
+"cv": 1,
+"move": "c-errands"
+},
+"p-tsukareta": {
+"cv": 4,
+"move": "c-feel"
+},
+"p-zenzen-daijoubu": {
+"cv": 5,
+"move": "c-feel"
+},
+"p-yoku-neta": {
+"cv": 3,
+"move": "c-catchup"
+},
+"p-nemurenakatta": {
+"cv": 4,
+"move": "c-feel"
+},
+"p-hara-hetta": {
+"cv": 3,
+"move": "c-feel"
+},
+"p-onaka-ippai": {
+"cv": 4,
+"move": "c-feel"
+},
+"p-nodo-kawaita": {
+"cv": 3,
+"move": "c-feel"
+},
+"p-onaka-pekopeko": {
+"cv": 3,
+"move": "c-feel"
+},
+"p-yopparatta": {
+"cv": 4,
+"move": "c-feel"
+},
+"p-tanoshikatta": {
+"cv": 5,
+"move": "c-catchup",
+"focus": true
+},
+"p-dou-datta": {
+"cv": 5,
+"move": "c-ask",
+"focus": true
+},
+"p-donna-kanji": {
+"cv": 5,
+"move": "c-ask",
+"focus": true
+},
+"p-omoshirokatta": {
+"cv": 5,
+"move": "c-opine",
+"focus": true
+},
+"p-genki-datta": {
+"cv": 4,
+"move": "c-catchup",
+"focus": true
+},
+"p-saikin-dou": {
+"cv": 5,
+"move": "c-catchup",
+"focus": true
+},
+"p-dou-shiteru": {
+"cv": 4,
+"move": "c-catchup",
+"focus": true
+},
+"p-kawari-nai": {
+"cv": 4,
+"move": "c-catchup",
+"focus": true
+},
+"p-kawatte-nai-ne": {
+"cv": 3,
+"move": "c-catchup"
+},
+"p-mata-ato-de": {
+"cv": 4,
+"move": "c-social"
+},
+"p-mata-kondo": {
+"cv": 4,
+"move": "c-plans"
+},
+"p-mata-raishuu": {
+"cv": 3,
+"move": "c-social"
+},
+"p-mata-asobou-ne": {
+"cv": 4,
+"move": "c-social"
+},
+"p-jaa-sorosoro": {
+"cv": 4,
+"move": "c-flow"
+},
+"p-sorosoro-ikou-ka": {
+"cv": 3,
+"move": "c-plans"
+},
+"p-osaki-ni": {
+"cv": 3,
+"move": "c-social"
+},
+"p-osaki-ni-shitsurei-shimasu": {
+"cv": 2,
+"move": "c-errands"
+},
+"p-ki-o-tsukete-kaette-ne": {
+"cv": 4,
+"move": "c-social"
+},
+"p-oki-o-tsukete": {
+"cv": 2,
+"move": "c-social"
+},
+"p-genki-de-ne": {
+"cv": 3,
+"move": "c-social"
+},
+"p-yoroshiku-tsutaete": {
+"cv": 3,
+"move": "c-social"
+},
+"p-atsui-desu-ne": {
+"cv": 3,
+"move": "c-catchup",
+"focus": true
+},
+"p-samui-desu-ne": {
+"cv": 3,
+"move": "c-catchup",
+"focus": true
+},
+"p-ii-tenki-desu-ne": {
+"cv": 2,
+"move": "c-catchup",
+"focus": true
+},
+"p-odekake-desu-ka": {
+"cv": 2,
+"move": "c-social"
+},
+"p-tasukatta": {
+"cv": 4,
+"move": "c-social"
+},
+"p-iroiro-arigatou": {
+"cv": 3,
+"move": "c-social"
+},
+"p-itsumo-arigatou-gozaimasu": {
+"cv": 2,
+"move": "c-errands"
+},
+"p-osewa-ni-narimashita": {
+"cv": 2,
+"move": "c-social"
+},
+"p-otsukaresama-desu": {
+"cv": 2,
+"move": "c-errands"
+},
+"p-otsukaresama-deshita": {
+"cv": 3,
+"move": "c-social"
+},
+"p-gokurousama-desu": {
+"cv": 1,
+"move": "c-errands"
+},
+"p-gokurousan": {
+"cv": 1,
+"move": "c-errands"
+},
+"p-irasshai": {
+"cv": 3,
+"move": "c-social"
+},
+"p-oagari-kudasai": {
+"cv": 2,
+"move": "c-social"
+},
+"p-raku-ni-shite": {
+"cv": 3,
+"move": "c-social"
+},
+"p-okake-kudasai": {
+"cv": 1,
+"move": "c-errands"
+},
+"p-ojama-shimasu": {
+"cv": 3,
+"move": "c-social"
+},
+"p-ojama-shimashita": {
+"cv": 3,
+"move": "c-social"
+},
+"p-enryo-shinaide": {
+"cv": 3,
+"move": "c-social"
+},
+"p-enryo-naku": {
+"cv": 3,
+"move": "c-social"
+},
+"p-okamai-naku": {
+"cv": 2,
+"move": "c-social"
+},
+"p-osaki-ni-douzo": {
+"cv": 2,
+"move": "c-social"
+},
+"p-shitsurei-shimashita": {
+"cv": 2,
+"move": "c-social"
+},
+"p-orimasu": {
+"cv": 1,
+"move": "c-errands"
+},
+"p-shitsurei-desu-ga": {
+"cv": 2,
+"move": "c-intro",
+"focus": true
+},
+"p-ikaga-desu-ka": {
+"cv": 2,
+"move": "c-errands"
+},
+"p-tetsudaou-ka": {
+"cv": 3,
+"move": "c-social"
+},
+"p-douzo-douzo": {
+"cv": 3,
+"move": "c-social"
+},
+"p-nanika-attara-itte-ne": {
+"cv": 3,
+"move": "c-social"
+},
+"p-yokattara-douzo": {
+"cv": 3,
+"move": "c-social"
+},
+"p-ii-no": {
+"cv": 4,
+"move": "c-ask"
+},
+"p-yorokonde": {
+"cv": 3,
+"move": "c-plans"
+},
+"p-ki-o-tsukawanaide": {
+"cv": 3,
+"move": "c-social"
+},
+"p-kekkou-desu": {
+"cv": 2,
+"move": "c-errands"
+},
+"p-kyou-wa-chotto": {
+"cv": 4,
+"move": "c-plans"
+},
+"p-koko-de-ii-desu": {
+"cv": 2,
+"move": "c-errands"
+},
+"p-enryo-shite-okimasu": {
+"cv": 2,
+"move": "c-plans"
+},
+"p-warui-kedo": {
+"cv": 4,
+"move": "c-social"
+},
+"p-choudai": {
+"cv": 3,
+"move": "c-social"
+},
+"p-chotto-tetsudatte": {
+"cv": 3,
+"move": "c-social"
+},
+"p-onegai-ga-aru-n-da-kedo": {
+"cv": 3,
+"move": "c-flow"
+},
+"p-onegai-dekimasu-ka": {
+"cv": 2,
+"move": "c-errands"
+},
+"p-miteru-dake-desu": {
+"cv": 2,
+"move": "c-errands"
+},
+"p-ato-de-mata-kimasu": {
+"cv": 1,
+"move": "c-errands"
+},
+"p-chotto-kangaemasu": {
+"cv": 1,
+"move": "c-errands"
+},
+"p-kanpai": {
+"cv": 4,
+"move": "c-social"
+},
+"p-mou-ippai": {
+"cv": 3,
+"move": "c-plans"
+},
+"p-nomisugita": {
+"cv": 4,
+"move": "c-feel"
+},
+"p-toriaezu-biiru": {
+"cv": 2,
+"move": "c-errands"
+},
+"p-ogoru-yo": {
+"cv": 4,
+"move": "c-social"
+},
+"p-okaikei-onegai-shimasu": {
+"cv": 2,
+"move": "c-errands"
+},
+"p-ryoushuusho-onegai-shimasu": {
+"cv": 1,
+"move": "c-errands"
+},
+"p-betsubetsu-de-onegai-shimasu": {
+"cv": 2,
+"move": "c-errands"
+},
+"p-nomi-ni-ikanai": {
+"cv": 4,
+"move": "c-plans"
+},
+"p-ocha-demo-dou": {
+"cv": 4,
+"move": "c-plans"
+},
+"p-nani-taberu": {
+"cv": 4,
+"move": "c-plans"
+},
+"p-suki-kirai-aru": {
+"cv": 3,
+"move": "c-likes",
+"focus": true
+},
+"p-gohan-ikanai": {
+"cv": 4,
+"move": "c-plans"
+},
+"p-okaeshi-desu": {
+"cv": 1,
+"move": "c-errands"
+},
+"p-oazukari-shimasu": {
+"cv": 1,
+"move": "c-errands"
+},
+"p-goissho-de-yoroshii-desu-ka": {
+"cv": 1,
+"move": "c-errands"
+},
+"p-ikkatsu-de-yoroshii-desu-ka": {
+"cv": 1,
+"move": "c-errands"
+},
+"p-mata-okoshi-kudasai": {
+"cv": 1,
+"move": "c-errands"
+},
+"p-nanika-osagashi-desu-ka": {
+"cv": 1,
+"move": "c-errands"
+},
+"p-goran-kudasai": {
+"cv": 1,
+"move": "c-errands"
+},
+"p-nanika-goyou-desu-ka": {
+"cv": 1,
+"move": "c-errands"
+},
+"p-maido": {
+"cv": 1,
+"move": "c-errands"
+},
+"p-doko-de-au": {
+"cv": 4,
+"move": "c-plans"
+},
+"p-itsu-ga-ii": {
+"cv": 4,
+"move": "c-plans"
+},
+"p-nanji-ga-ii": {
+"cv": 4,
+"move": "c-plans"
+},
+"p-saki-ni-ittete": {
+"cv": 3,
+"move": "c-plans"
+},
+"p-ikenaku-natta": {
+"cv": 3,
+"move": "c-plans"
+},
+"p-mata-renraku-suru-ne": {
+"cv": 4,
+"move": "c-flow"
+},
+"p-ima-nani-shiteru": {
+"cv": 4,
+"move": "c-catchup"
+},
+"p-rain-shite": {
+"cv": 3,
+"move": "c-social"
+},
+"p-rain-koukan-shiyou": {
+"cv": 3,
+"move": "c-intro",
+"focus": true
+},
+"p-ima-daijoubu": {
+"cv": 3,
+"move": "c-flow"
+},
+"p-kikoeru": {
+"cv": 2,
+"move": "c-repair"
+},
+"p-dochira-sama-desu-ka": {
+"cv": 1,
+"move": "c-errands"
+},
+"p-juuden-kiresou": {
+"cv": 2,
+"move": "c-flow"
+},
+"p-odaiji-ni": {
+"cv": 3,
+"move": "c-feel"
+},
+"p-muri-shinaide": {
+"cv": 4,
+"move": "c-feel"
+},
+"p-yukkuri-yasunde": {
+"cv": 3,
+"move": "c-feel"
+},
+"p-karada-ni-ki-o-tsukete": {
+"cv": 3,
+"move": "c-social"
+},
+"p-kimochi-wakaru": {
+"cv": 5,
+"move": "c-feel",
+"focus": true
+},
+"p-yoku-ganbatta-ne": {
+"cv": 4,
+"move": "c-feel"
+},
+"p-genki-dashite": {
+"cv": 3,
+"move": "c-feel"
+},
+"p-faito": {
+"cv": 3,
+"move": "c-feel"
+},
+"p-ochitsuite": {
+"cv": 3,
+"move": "c-feel"
+},
+"p-kawaisou-ni": {
+"cv": 3,
+"move": "c-feel"
+},
+"p-yoshi-yoshi": {
+"cv": 2,
+"move": "c-feel"
+},
+"p-nakanaide": {
+"cv": 3,
+"move": "c-feel"
+},
+"p-taihen-datta-ne": {
+"cv": 5,
+"move": "c-feel",
+"focus": true
+},
+"p-sore-wa-tsurai-ne": {
+"cv": 4,
+"move": "c-feel"
+},
+"p-ki-o-otosanaide": {
+"cv": 3,
+"move": "c-feel"
+},
+"p-aseranakute-ii-yo": {
+"cv": 3,
+"move": "c-feel"
+},
+"p-hayaku-yoku-natte-ne": {
+"cv": 3,
+"move": "c-feel"
+},
+"p-kaze-hikanai-you-ni-ne": {
+"cv": 3,
+"move": "c-social"
+},
+"p-otanjoubi-omedetou": {
+"cv": 4,
+"move": "c-social"
+},
+"p-kekkon-omedetou": {
+"cv": 3,
+"move": "c-social"
+},
+"p-goukaku-omedetou": {
+"cv": 3,
+"move": "c-social"
+},
+"p-sotsugyou-omedetou": {
+"cv": 3,
+"move": "c-social"
+},
+"p-uwa": {
+"cv": 4,
+"move": "c-react"
+},
+"p-o": {
+"cv": 3,
+"move": "c-react"
+},
+"p-ara": {
+"cv": 3,
+"move": "c-react"
+},
+"p-arara": {
+"cv": 3,
+"move": "c-react"
+},
+"p-fuun": {
+"cv": 4,
+"move": "c-react",
+"focus": true
+},
+"p-hai-hai": {
+"cv": 3,
+"move": "c-react"
+},
+"p-iyaa": {
+"cv": 4,
+"move": "c-react"
+},
+"p-haa": {
+"cv": 3,
+"move": "c-react"
+},
+"p-yatta-ne": {
+"cv": 4,
+"move": "c-react"
+},
+"p-yoku-yatta": {
+"cv": 3,
+"move": "c-react"
+},
+"p-ii-naa": {
+"cv": 5,
+"move": "c-react",
+"focus": true
+},
+"p-naisu": {
+"cv": 4,
+"move": "c-react"
+},
+"p-ii-kanji": {
+"cv": 4,
+"move": "c-opine",
+"focus": true
+},
+"p-ii-jan": {
+"cv": 5,
+"move": "c-react",
+"focus": true
+},
+"p-yosasou": {
+"cv": 4,
+"move": "c-react",
+"focus": true
+},
+"p-kore-kore": {
+"cv": 3,
+"move": "c-react"
+},
+"p-mou-ii": {
+"cv": 3,
+"move": "c-feel"
+},
+"p-dou-demo-ii": {
+"cv": 3,
+"move": "c-opine"
+},
+"p-maa-ii-ka": {
+"cv": 4,
+"move": "c-opine"
+},
+"p-sore-ga-nanika": {
+"cv": 3,
+"move": "c-banter"
+},
+"p-iya-iya": {
+"cv": 5,
+"move": "c-react",
+"focus": true
+},
+"p-sore-wa-nai": {
+"cv": 4,
+"move": "c-agree",
+"focus": true
+},
+"p-nai-nai": {
+"cv": 4,
+"move": "c-banter",
+"focus": true
+},
+"p-mata-mata": {
+"cv": 3,
+"move": "c-banter"
+},
+"p-yamete": {
+"cv": 4,
+"move": "c-banter"
+},
+"p-waa": {
+"cv": 4,
+"move": "c-react"
+},
+"p-kora": {
+"cv": 2,
+"move": "c-banter"
+},
+"p-kuso": {
+"cv": 3,
+"move": "c-react"
+},
+"p-dou-omou": {
+"cv": 5,
+"move": "c-opine",
+"focus": true
+},
+"p-uun": {
+"cv": 5,
+"move": "c-agree",
+"focus": true
+},
+"p-sou-omou": {
+"cv": 4,
+"move": "c-agree",
+"focus": true
+},
+"p-saa": {
+"cv": 4,
+"move": "c-opine"
+},
+"p-nantomo-ienai": {
+"cv": 3,
+"move": "c-opine",
+"focus": true
+},
+"p-dou-iu-koto": {
+"cv": 5,
+"move": "c-repair",
+"focus": true
+},
+"p-nan-no-hanashi": {
+"cv": 4,
+"move": "c-repair"
+},
+"p-nan-no-koto": {
+"cv": 4,
+"move": "c-repair"
+},
+"p-nanka-you": {
+"cv": 3,
+"move": "c-flow"
+},
+"p-sou-ja-nakute": {
+"cv": 5,
+"move": "c-repair",
+"focus": true
+},
+"p-chigau-chigau": {
+"cv": 4,
+"move": "c-agree",
+"focus": true
+},
+"p-sou-wa-ikanai": {
+"cv": 3,
+"move": "c-agree"
+},
+"p-ano-ne": {
+"cv": 5,
+"move": "c-flow"
+},
+"p-ano-sa": {
+"cv": 5,
+"move": "c-flow",
+"focus": true
+},
+"p-chotto-kiite": {
+"cv": 5,
+"move": "c-flow",
+"focus": true
+},
+"p-ooi": {
+"cv": 2,
+"move": "c-flow"
+},
+"p-dore-dore": {
+"cv": 3,
+"move": "c-react"
+},
+"p-shiranakatta": {
+"cv": 5,
+"move": "c-react",
+"focus": true
+},
+"p-sou-iu-koto-ka": {
+"cv": 5,
+"move": "c-react",
+"focus": true
+},
+"p-kizukanakatta": {
+"cv": 3,
+"move": "c-react"
+},
+"p-tasukete": {
+"cv": 2,
+"move": "c-errands"
+},
+"p-kyuukyuusha-o-yonde": {
+"cv": 1,
+"move": "c-errands"
+},
+"p-jishin-da": {
+"cv": 2,
+"move": "c-errands"
+},
+"p-koko-ga-itai": {
+"cv": 2,
+"move": "c-errands"
+},
+"p-koko-doko": {
+"cv": 2,
+"move": "c-errands"
+},
+"p-michi-ni-mayotta": {
+"cv": 2,
+"move": "c-errands"
+},
+"p-dou-ikeba-ii-desu-ka": {
+"cv": 2,
+"move": "c-errands"
+},
+"p-shuuden-nogashita": {
+"cv": 3,
+"move": "c-tell"
+},
+"p-kowareta": {
+"cv": 3,
+"move": "c-tell"
+},
+"p-ugokanai": {
+"cv": 2,
+"move": "c-tell"
+},
+"p-wasuremono-shita": {
+"cv": 3,
+"move": "c-tell"
+},
+"p-saifu-o-nakushita": {
+"cv": 3,
+"move": "c-tell"
+},
+"p-machigaechatta": {
+"cv": 4,
+"move": "c-tell"
+},
+"p-ma-ni-awanai": {
+"cv": 3,
+"move": "c-feel"
+},
+"p-komatta-na": {
+"cv": 3,
+"move": "c-feel"
+},
+"p-nebou-shita": {
+"cv": 4,
+"move": "c-tell"
+},
+"p-mou-dame": {
+"cv": 4,
+"move": "c-feel"
+},
+"p-mou-muri": {
+"cv": 5,
+"move": "c-feel"
+},
+"p-mou-genkai": {
+"cv": 3,
+"move": "c-feel"
+},
+"p-kinchou-suru": {
+"cv": 4,
+"move": "c-feel"
+},
+"p-anshin-shita": {
+"cv": 4,
+"move": "c-feel"
+},
+"p-hotto-shita": {
+"cv": 3,
+"move": "c-feel"
+},
+"p-raku-ni-natta": {
+"cv": 3,
+"move": "c-feel"
+},
+"p-moushiwake-arimasen": {
+"cv": 1,
+"move": "c-errands"
+},
+"p-moushiwake-gozaimasen": {
+"cv": 1,
+"move": "c-errands"
+},
+"p-oisogashii-tokoro-sumimasen": {
+"cv": 1,
+"move": "c-errands"
+},
+"p-gomeiwaku-o-okake-shimashita": {
+"cv": 1,
+"move": "c-errands"
+},
+"p-suman": {
+"cv": 3,
+"move": "c-social"
+},
+"p-moushiwake-nai": {
+"cv": 2,
+"move": "c-social"
+},
+"p-yurushite": {
+"cv": 3,
+"move": "c-social"
+},
+"p-kakunin-shimasu": {
+"cv": 1,
+"move": "c-errands"
+},
+"p-shouchi-shimashita": {
+"cv": 1,
+"move": "c-errands"
+},
+"p-onegai-itashimasu": {
+"cv": 1,
+"move": "c-errands"
+},
+"p-kentou-shimasu": {
+"cv": 1,
+"move": "c-errands"
+},
+"p-osoreirimasu": {
+"cv": 1,
+"move": "c-errands"
+},
+"p-okagesama-de": {
+"cv": 2,
+"move": "c-catchup"
+},
+"p-mada-mada-desu": {
+"cv": 3,
+"move": "c-intro",
+"focus": true
+},
+"p-mada-mada": {
+"cv": 3,
+"move": "c-opine"
+},
+"p-oyaku-ni-tateru": {
+"cv": 2,
+"move": "c-errands"
+},
+"p-osewa-ni-natte-orimasu": {
+"cv": 1,
+"move": "c-errands"
+},
+"p-tadaima-modorimashita": {
+"cv": 1,
+"move": "c-errands"
+},
+"p-otesuu-desu-ga": {
+"cv": 1,
+"move": "c-errands"
+},
+"p-makasete": {
+"cv": 3,
+"move": "c-plans"
+},
+"p-tanomu-yo": {
+"cv": 3,
+"move": "c-social"
+},
+"p-tanomu-kara": {
+"cv": 3,
+"move": "c-social"
+},
+"p-onegai-dakara": {
+"cv": 3,
+"move": "c-social"
+},
+"p-okawari": {
+"cv": 2,
+"move": "c-errands"
+},
+"p-meshiagare": {
+"cv": 2,
+"move": "c-social"
+},
+"p-gohan-da-yo": {
+"cv": 2,
+"move": "c-social"
+},
+"p-samenai-uchi-ni": {
+"cv": 2,
+"move": "c-social"
+},
+"p-kyou-wa-dou-saremashita-ka": {
+"cv": 1,
+"move": "c-errands"
+},
+"p-odenwa-arigatou-gozaimasu": {
+"cv": 1,
+"move": "c-errands"
+},
+"p-hokenshou-o-onegai-shimasu": {
+"cv": 1,
+"move": "c-errands"
+},
+"p-onamae-o-ukagatte-mo-yoroshii-desu-ka": {
+"cv": 1,
+"move": "c-errands"
+},
+"p-ato-de-denwa-suru": {
+"cv": 3,
+"move": "c-plans"
+},
+"p-ato-de-kakenaosu": {
+"cv": 3,
+"move": "c-plans"
+},
+"p-orikaeshi-odenwa-shimasu": {
+"cv": 1,
+"move": "c-errands"
+},
+"p-denwa-derarenakute-gomen": {
+"cv": 3,
+"move": "c-social"
+},
+"p-akemashite-omedetou": {
+"cv": 3,
+"move": "c-social"
+},
+"p-merii-kurisumasu": {
+"cv": 3,
+"move": "c-social"
+},
+"p-yoi-otoshi-o": {
+"cv": 3,
+"move": "c-social"
+},
+"p-kotoshi-mo-yoroshiku-onegai-shimasu": {
+"cv": 3,
+"move": "c-social"
+},
+"p-kotoshi-mo-osewa-ni-narimashita": {
+"cv": 2,
+"move": "c-social"
+},
+"p-yoisho": {
+"cv": 2,
+"move": "c-react"
+},
+"p-seeno": {
+"cv": 2,
+"move": "c-react"
+},
+"p-jaan": {
+"cv": 3,
+"move": "c-banter"
+},
+"p-ite": {
+"cv": 2,
+"move": "c-react"
+},
+"p-yarareta": {
+"cv": 3,
+"move": "c-react"
+},
+"p-chikushou": {
+"cv": 2,
+"move": "c-react"
+},
+"p-baka-mitai": {
+"cv": 3,
+"move": "c-opine"
+},
+"p-hora-ne": {
+"cv": 4,
+"move": "c-banter"
+},
+"p-dakara-itta-ja-nai": {
+"cv": 3,
+"move": "c-banter"
+},
+"p-yoku-iu": {
+"cv": 3,
+"move": "c-banter"
+},
+"p-oi": {
+"cv": 2,
+"move": "c-banter"
+},
+"p-oioi": {
+"cv": 3,
+"move": "c-banter"
+},
+"p-mou": {
+"cv": 4,
+"move": "c-react"
+},
+"p-shii": {
+"cv": 2,
+"move": "c-react"
+},
+"p-hottoite": {
+"cv": 3,
+"move": "c-feel"
+},
+"p-shiru-ka": {
+"cv": 2,
+"move": "c-banter"
+},
+"p-fuzaken-na": {
+"cv": 2,
+"move": "c-banter"
+},
+"p-iikagen-ni-shiro": {
+"cv": 2,
+"move": "c-banter"
+},
+"p-sorya-sou-da": {
+"cv": 4,
+"move": "c-agree",
+"focus": true
+},
+"p-sou-iu-mon": {
+"cv": 4,
+"move": "c-opine",
+"focus": true
+},
+"p-sore-wa-sou": {
+"cv": 4,
+"move": "c-agree",
+"focus": true
+},
+"p-joudan-da-yo": {
+"cv": 5,
+"move": "c-banter",
+"focus": true
+},
+"p-ittoku-kedo": {
+"cv": 3,
+"move": "c-tell"
+},
+"p-iroiro-atte": {
+"cv": 4,
+"move": "c-tell",
+"focus": true
+},
+"p-naisho-da-yo": {
+"cv": 4,
+"move": "c-tell"
+},
+"p-jaa-sou-iu-koto-de": {
+"cv": 4,
+"move": "c-flow"
+},
+"p-doko-made-hanashita-kke": {
+"cv": 4,
+"move": "c-flow"
+},
+"p-hanashi-kawaru-kedo": {
+"cv": 5,
+"move": "c-flow",
+"focus": true
+},
+"p-sukkiri-shita": {
+"cv": 4,
+"move": "c-feel"
+},
+"p-ikikaetta": {
+"cv": 3,
+"move": "c-feel"
+},
+"p-sappari-shita": {
+"cv": 3,
+"move": "c-feel"
+}
+}

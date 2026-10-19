@@ -1,0 +1,174 @@
+move	id	romaji	english	cv	role
+c-react	p-oishisou	oishisou	looks delicious	4	say
+c-react	p-oishikatta	oishikatta	that was delicious	4	say
+c-react	p-yatta	yatta	yay; yes, I did it	5	both
+c-react	p-dekita	dekita	done; I did it; it's ready	3	both
+c-react	p-yoshi	yoshi	right; okay then; all right!	3	say
+c-react	p-rakkii	rakkii	lucky!; what luck	4	say
+c-react	p-yossha	yossha	yes!; all right!	3	say
+c-react	p-honto-da	honto da	oh, it's true; you're right	4	say
+c-react	p-sore-na	sore na	right?!; so true	5	both
+c-react	p-nani-sore	nani sore	what's that?!; what's that supposed to mean	5	both
+c-react	p-nani-kore	nani kore	what is this?!	4	say
+c-react	p-nan-datte	nan datte	what?!; what did you say?	3	both
+c-react	p-shinjirarenai	shinjirarenai	unbelievable; I can't believe it	4	both
+c-react	p-maji-ka	maji ka	seriously?; oh man	5	both
+c-react	p-arienai	arienai	no way; that's impossible; that's outrageous	5	both
+c-react	p-uso-desho	uso desho	you're kidding, right?; no way	5	both
+c-react	p-shimatta	shimatta	oh no; damn (my mistake)	3	say
+c-react	p-otto	otto	oops; whoa there	2	say
+c-react	p-okashii-na	okashii na	that's strange; something's not right	3	say
+c-react	p-wakaru-wakaru	wakaru wakaru	I know, I know; I totally get it	5	say
+c-react	p-sou-na-no	sou na no?	oh, really?; is that so?	5	both
+c-react	p-ee	ee!	what?!; no way!	5	both
+c-react	p-sou-datta-n-da	sou datta n da	oh, so that's what it was; I had no idea	5	both
+c-react	p-un-un	un un	uh-huh; yeah, yeah (I'm listening)	5	both
+c-react	p-aru-aru	aru aru	so relatable; that always happens	4	both
+c-react	p-yokatta-ne	yokatta ne	good for you; I'm glad for you	5	both
+c-react	p-tanoshisou	tanoshisou	sounds fun; looks fun	4	both
+c-react	p-omoshirosou	omoshirosou	sounds interesting; looks good	4	both
+c-react	p-taihensou	taihensou	sounds rough; that must be hard	4	both
+c-react	p-uwa	uwa!	whoa!; ugh!	4	both
+c-react	p-o	o!	oh!; hey!	3	say
+c-react	p-ara	ara	oh!; oh my	3	hear
+c-react	p-arara	arara	oh dear; oops	3	both
+c-react	p-fuun	fuun	hmm; I see; huh	4	both
+c-react	p-hai-hai	hai hai	yeah, yeah; okay, okay	3	both
+c-react	p-iyaa	iyaa	man...; wow; well...	4	both
+c-react	p-haa	haa	huh?!; sigh; uh, okay	3	hear
+c-react	p-yatta-ne	yatta ne	you did it!; way to go	4	say
+c-react	p-yoku-yatta	yoku yatta	well done; good job	3	both
+c-react	p-ii-naa	ii naa	lucky you; I'm jealous; that's nice	5	say
+c-react	p-naisu	naisu	nice!; good one	4	both
+c-react	p-ii-jan	ii jan	nice!; that's good; why not?	5	both
+c-react	p-yosasou	yosasou	looks good; seems nice	4	both
+c-react	p-kore-kore	kore kore	this is it!; now, now	3	both
+c-react	p-iya-iya	iya iya	no, no; not at all; oh, come on	5	both
+c-react	p-waa	waa	wow!; whoa!	4	both
+c-react	p-kuso	kuso	damn!; crap!; shit!	3	hear
+c-react	p-dore-dore	dore dore	let's see; let me have a look	3	say
+c-react	p-shiranakatta	shiranakatta	I didn't know (that); I had no idea	5	say
+c-react	p-sou-iu-koto-ka	sou iu koto ka	oh, so that's it; now I get it	5	say
+c-react	p-kizukanakatta	kizukanakatta	I didn't notice; I didn't realize	3	say
+c-react	p-e-sore-dake	e, sore dake?	wait, that's it?; that's all?	4	both
+c-react	p-maji-de-itteru	maji de itteru?	are you serious?; you're not joking?	4	both
+c-react	p-uso-mitai	uso mitai	it's unreal; I can hardly believe it	4	both
+c-react	p-naanda	naanda	oh, is that all?; oh, it's only that	4	both
+c-react	p-sonna-koto-aru	sonna koto aru?	how is that even possible?	4	both
+c-react	p-yoisho	yoisho	heave-ho; oof	2	say
+c-react	p-seeno	seeno	ready, one, two, three!; on three	2	both
+c-react	p-ite	ite!	ouch!	2	say
+c-react	p-yarareta	yarareta	got me!; they got us; I've been had	3	both
+c-react	p-chikushou	chikushou	damn it	2	hear
+c-react	p-mou	mou!	ugh!; come on!	4	hear
+c-react	p-shii	shii!	shh!	2	both
+c-react	p-uso-tsuke	uso tsuke	yeah, right; liar!	4	both
+c-react	p-atari	atari!	bingo!; you got it	4	both
+c-react	p-yaru-jan	yaru jan	not bad!; nice going	4	both
+c-react	p-donmai	donmai	never mind; don't sweat it	4	both
+c-ask	p-kiite-mo-ii	kiite mo ii?	can I ask you something?	4	say
+c-ask	p-dou-shitara-ii	dou shitara ii?	what should I do?	4	both
+c-ask	p-nanika-atta	nanika atta?	did something happen?; is something wrong?	4	say
+c-ask	p-nani-nani	nani nani	what, what?; tell me!	5	say
+c-ask	p-dou-datta	dou datta?	how was it?	5	both
+c-ask	p-donna-kanji	donna kanji?	what's it like?; how's it going?	5	both
+c-ask	p-sore-de	sore de?	and then?; so?	5	both
+c-ask	p-nani-ga-atta-no	nani ga atta no?	what happened?	5	both
+c-ask	p-dou-natta-no	dou natta no?	how did it turn out?; so what happened?	5	both
+c-ask	p-hoka-ni-wa	hoka ni wa?	what else?; anything else?	4	both
+c-ask	p-sotchi-wa	sotchi wa?	what about you?; and you?	5	say
+c-ask	p-tte-dou	... tte dou?	how's ...?; what's ... like?	5	both
+c-ask	p-are-kara-dou	are kara dou?	how's it been since then?	4	both
+c-ask	p-ii-no	ii no?	are you sure?; is it really okay?	4	both
+c-ask	p-nani-shiteta-no	nani shiteta no?	what were you up to?; what were you doing?	5	both
+c-ask	p-daijoubu-datta	daijoubu datta?	were you okay?; did it go all right?	4	both
+c-ask	p-nareta	nareta?	getting used to it?; settled in?	4	both
+c-ask	p-saikin-nani-ni-hamatteru	saikin nani ni hamatteru?	what are you into lately?	4	both
+c-ask	p-dotchi-ga-suki	dotchi ga suki?	which do you prefer?; which do you like better?	4	both
+c-ask	p-nani-ga-ichiban-yokatta	nani ga ichiban yokatta?	what was the best part?	4	both
+c-ask	p-nani-ga	nani ga?	what is?; what about it?	4	both
+c-ask	p-itsu-kara	itsu kara?	since when?	4	both
+c-ask	p-nante-itteta	nante itteta?	what did they say?	5	both
+c-ask	p-dare-kara-kiita-no	dare kara kiita no?	who told you that?	4	both
+c-ask	p-nande-shitteru-no	nande shitteru no?	how do you know that?	4	both
+c-ask	p-donna-hito	donna hito?	what's he like?; what's she like?	5	both
+c-ask	p-dare-to-itta-no	dare to itta no?	who'd you go with?	4	both
+c-ask	p-dou-yatte-shiriatta-no	dou yatte shiriatta no?	how did you two meet?	4	both
+c-ask	p-nande-sou-omou-no	nande sou omou no?	why do you think so?	4	both
+c-ask	p-nanka-ii-koto-atta	nanka ii koto atta?	did something good happen?	4	both
+c-agree	p-okkee	okkee	OK; all right	5	both
+c-agree	p-mondai-nai	mondai nai	no problem; it's fine	3	both
+c-agree	p-sono-toori	sono toori	exactly; that's right	3	both
+c-agree	p-wakarimashita	wakarimashita	okay, understood; I see	2	say
+c-agree	p-haai	haai	okay!; yes!; coming!	3	both
+c-agree	p-ryoukai	ryoukai	got it; roger	4	say
+c-agree	p-sou-sou	sou sou	yes, exactly!; oh right	5	both
+c-agree	p-da-yo-ne	da yo ne	right?!; I know, right	5	both
+c-agree	p-watashi-mo	watashi mo	me too	5	say
+c-agree	p-doukan	doukan	same here; I agree	4	both
+c-agree	p-honto-sore	honto sore	so true; exactly	4	both
+c-agree	p-maa-ne	maa ne	well, yeah; I guess so	5	both
+c-agree	p-sore-wa-nai	sore wa nai	no way; that's not fair; that won't happen	4	both
+c-agree	p-uun	uun	hmm; well...	5	both
+c-agree	p-sou-omou	sou omou	I think so	4	say
+c-agree	p-chigau-chigau	chigau chigau	no, no, that's not it	4	say
+c-agree	p-sou-wa-ikanai	sou wa ikanai	it's not that simple; not so fast	3	both
+c-agree	p-sou-demo-nai	sou demo nai	not really; not so much	5	both
+c-agree	p-dou-darou	dou darou	hmm, I'm not sure; I wonder	5	both
+c-agree	p-hito-ni-yoru	hito ni yoru	depends on the person	4	both
+c-agree	p-soko-made-ja-nai	soko made ja nai	it's not that bad; not that much	4	both
+c-agree	p-sorya-sou-da	sorya sou da	well, of course; naturally	4	both
+c-agree	p-sore-wa-sou	sore wa sou	that's true; fair enough	4	say
+c-agree	p-ieteru	ieteru	you said it; good point	4	both
+c-agree	p-sore-wa-aru	sore wa aru	that's a factor; fair point	4	both
+c-agree	p-iwarete-mireba	iwarete mireba	now that you mention it	4	both
+c-agree	p-sore-mo-sou-da-ne	sore mo sou da ne	that's true too; fair point	4	both
+c-agree	p-sore-wa-sou-da-kedo	sore wa sou da kedo	that's true, but...	5	both
+c-agree	p-sou-to-mo-kagiranai	sou to mo kagiranai	not necessarily	4	both
+c-agree	p-kimochi-wa-wakaru-kedo	kimochi wa wakaru kedo	I get how you feel, but...	4	both
+c-agree	p-sou-wa-omowanai	sou wa omowanai	I don't think so	4	both
+c-agree	p-sore-wa-chigau-to-omou	sore wa chigau to omou	I don't think that's right	4	both
+c-agree	p-sou-itteru-jan	sou itteru jan	that's what I'm saying!	4	both
+c-repair	p-nan-demo-nai	nan demo nai	it's nothing; never mind	4	say
+c-repair	p-wakarimasen	wakarimasen	I don't understand; I don't know	3	say
+c-repair	p-mou-ichido-onegai-shimasu	mou ichido onegai shimasu	once more, please; could you say that again?	3	say
+c-repair	p-kikoenakatta	kikoenakatta	I didn't catch that; I couldn't hear	4	say
+c-repair	p-yukkuri-hanashite-kudasai	yukkuri hanashite kudasai	please speak slowly	3	say
+c-repair	p-dare-no-koto	dare no koto?	who do you mean?	4	say
+c-repair	p-gomen-kiitenakatta	gomen, kiitenakatta	sorry, I wasn't listening	4	say
+c-repair	p-chotto-chigau-kana	chotto chigau kana	not quite, I think	4	both
+c-repair	p-atteru	atteru?	is that right?; did I get it right?	4	say
+c-repair	p-nan-dakke	nan dakke	what was it again?	5	say
+c-repair	p-nante-iu-n-dakke	nante iu n dakke	what's the word for it again?	4	say
+c-repair	p-iitai-koto-wakaru	iitai koto wakaru?	you know what I mean?	4	say
+c-repair	p-hora-are	hora, are	you know, that thing	4	say
+c-repair	p-eigo-de-iu-to	eigo de iu to	in English it's...; in English you'd say...	4	say
+c-repair	p-kikoeru	kikoeru?	can you hear me?	2	both
+c-repair	p-dou-iu-koto	dou iu koto?	what do you mean?; what's going on?	5	both
+c-repair	p-nan-no-hanashi	nan no hanashi?	what are you talking about?	4	both
+c-repair	p-nan-no-koto	nan no koto?	what do you mean?; what are you talking about?	4	both
+c-repair	p-sou-ja-nakute	sou ja nakute	no, I mean...; that's not what I meant	5	say
+c-repair	p-ima-no-nashi	ima no nashi	scratch that; forget what I said	4	say
+c-flow	p-a-sou-da	a, sou da	oh, right; oh, I just remembered	5	say
+c-flow	p-jaa-sorosoro	jaa sorosoro	well, I'd better get going	4	say
+c-flow	p-onegai-ga-aru-n-da-kedo	onegai ga aru n da kedo	I have a favour to ask	3	say
+c-flow	p-mata-renraku-suru-ne	mata renraku suru ne	I'll be in touch; I'll get back to you	4	say
+c-flow	p-ima-daijoubu	ima daijoubu?	is now a good time?; got a minute?	3	both
+c-flow	p-juuden-kiresou	juuden kiresou	my battery's about to die	2	say
+c-flow	p-nanka-you	nanka you?	what do you want?; what is it?	3	both
+c-flow	p-ano-ne	ano ne	you know what; listen	5	say
+c-flow	p-ano-sa	ano sa	hey, so...; listen	5	say
+c-flow	p-chotto-kiite	chotto kiite	listen to this; hear me out	5	say
+c-flow	p-ooi	ooi	hey!; hello? (calling out)	2	both
+c-flow	p-kiita	kiita?	did you hear? (about some news)	4	both
+c-flow	p-shitteta	shitteta?	did you know?	4	both
+c-flow	p-tsuzukete	tsuzukete	go on; keep going	4	both
+c-flow	p-maa-sonna-kanji	maa, sonna kanji	so yeah, that's about it	5	say
+c-flow	p-chotto-hanashi-ga-aru-n-da-kedo	chotto hanashi ga aru n da kedo	there's something I want to talk to you about	4	both
+c-flow	p-sore-de-omoidashita-kedo	sore de omoidashita kedo	that reminds me	4	say
+c-flow	p-nagaku-naru-kedo	nagaku naru kedo	it's a long story, but...	4	say
+c-flow	p-hanashi-modoru-kedo	hanashi modoru kedo	going back to what we were saying	4	say
+c-flow	p-hanashi-kiku-yo	hanashi kiku yo	I'm all ears; tell me about it	4	say
+c-flow	p-jaa-sou-iu-koto-de	jaa, sou iu koto de	okay, so that's settled; right, let's go with that	4	both
+c-flow	p-doko-made-hanashita-kke	doko made hanashita kke	where was I?	4	say
+c-flow	p-hanashi-kawaru-kedo	hanashi kawaru kedo	to change the subject; by the way	5	say

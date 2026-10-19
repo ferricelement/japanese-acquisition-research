@@ -1,0 +1,527 @@
+{
+ "review-new:3": {
+  "edits": [
+   {
+    "id": "p-uzai",
+    "field": "english",
+    "value": "so annoying; you're such a pain",
+    "why": "Uzai calls something or someone annoying; it doesn't mean 'get lost' (that's kiero or acchi itte)."
+   },
+   {
+    "id": "p-ima-wa-shigoto-sagashichuu",
+    "field": "example.english",
+    "value": "I quit my job, and now I'm looking for work.",
+    "why": "'I quit my company' isn't natural English for kaisha yamete."
+   },
+   {
+    "id": "p-toshi-ikutsu",
+    "field": "notes",
+    "value": "Nansai? asks the same and is just as common among friends; ikutsu? alone works too.",
+    "why": "Nansai? isn't mostly for children. Young adults use it with each other all the time, so the note was misleading."
+   },
+   {
+    "id": "p-ketsuekigata-wa",
+    "field": "example.ja",
+    "value": "ねえ、血液型は？A型でしょ？",
+    "why": "Asking and then immediately saying 'you don't know?' in the same breath reads oddly. Guessing the type shows the personality-linking habit the use mentions."
+   },
+   {
+    "id": "p-ketsuekigata-wa",
+    "field": "example.romaji",
+    "value": "nee, ketsuekigata wa? ee gata desho?",
+    "why": "Matches the new ja."
+   },
+   {
+    "id": "p-ketsuekigata-wa",
+    "field": "example.english",
+    "value": "Hey, what's your blood type? You're type A, right?",
+    "why": "Matches the new ja."
+   },
+   {
+    "id": "p-ketsuekigata-wa",
+    "field": "examplePolite.ja",
+    "value": "血液型は何ですか？私はO型です。",
+    "why": "'Shiranai n desu ka?' straight after the question is odd, and in polite speech it can sound like a reproach. Offering your own type is the natural polite follow-up."
+   },
+   {
+    "id": "p-ketsuekigata-wa",
+    "field": "examplePolite.romaji",
+    "value": "ketsuekigata wa nan desu ka? watashi wa oo gata desu.",
+    "why": "Matches the new ja."
+   },
+   {
+    "id": "p-ketsuekigata-wa",
+    "field": "examplePolite.english",
+    "value": "What's your blood type? I'm type O.",
+    "why": "Matches the new ja."
+   },
+   {
+    "id": "p-betsu-ni-ii-kedo",
+    "field": "example.ja",
+    "value": "明日にする？別にいいけど。",
+    "why": "The old example (fine, but tell me first next time) does the same job as p-betsu-ni-ii-n-da-kedo. This shows the separate use: going along with something without enthusiasm."
+   },
+   {
+    "id": "p-betsu-ni-ii-kedo",
+    "field": "example.romaji",
+    "value": "ashita ni suru? betsu ni ii kedo.",
+    "why": "Matches the new ja."
+   },
+   {
+    "id": "p-betsu-ni-ii-kedo",
+    "field": "example.english",
+    "value": "Make it tomorrow? Fine by me, I guess.",
+    "why": "Matches the new ja."
+   },
+   {
+    "id": "p-betsu-ni-ii-kedo",
+    "field": "examplePolite.ja",
+    "value": "私は別にいいですけど。",
+    "why": "The old polite example almost repeats new-2's 'betsu ni ii n desu kedo, ichiou oshiete kudasai'. This is the everyday polite 'I don't mind (but others might)'."
+   },
+   {
+    "id": "p-betsu-ni-ii-kedo",
+    "field": "examplePolite.romaji",
+    "value": "watashi wa betsu ni ii desu kedo.",
+    "why": "Matches the new ja."
+   },
+   {
+    "id": "p-betsu-ni-ii-kedo",
+    "field": "examplePolite.english",
+    "value": "I don't mind, I suppose.",
+    "why": "Matches the new ja."
+   },
+   {
+    "id": "p-betsu-ni-ii-kedo",
+    "field": "notes",
+    "value": "Betsu ni ii n da kedo leads into a small complaint instead; a bare betsu ni ('not really') can sound cold.",
+    "why": "Separates this entry from p-betsu-ni-ii-n-da-kedo, whose note already covers bare betsu ni."
+   },
+   {
+    "id": "p-iitai-koto-wa-wakaru",
+    "field": "examplePolite.ja",
+    "value": "言いたいことは分かりますけど、今は時間がないんです。",
+    "why": "'Jikan ga arimasen' is stiff and blunt here. 'Ima wa jikan ga nai n desu' is how people actually say it politely."
+   },
+   {
+    "id": "p-iitai-koto-wa-wakaru",
+    "field": "examplePolite.romaji",
+    "value": "iitai koto wa wakarimasu kedo, ima wa jikan ga nai n desu.",
+    "why": "Matches the new ja."
+   },
+   {
+    "id": "p-iitai-koto-wa-wakaru",
+    "field": "examplePolite.english",
+    "value": "I see your point, but we just don't have time right now.",
+    "why": "Matches the new ja."
+   },
+   {
+    "id": "p-sore-wa-aru",
+    "field": "english",
+    "value": "that could be it; that's part of it",
+    "why": "'That's a factor' is stiff for a casual reaction, and 'fair point' already glosses three other entries in this batch."
+   },
+   {
+    "id": "p-iwarete-mireba",
+    "field": "examplePolite.ja",
+    "value": "言われてみれば、最近見かけませんね。",
+    "why": "'Kare o mimasen' sounds odd in polite speech. 'Mikakemasen' (haven't run into him) is the natural verb."
+   },
+   {
+    "id": "p-iwarete-mireba",
+    "field": "examplePolite.romaji",
+    "value": "iwarete mireba, saikin mikakemasen ne.",
+    "why": "Matches the new ja."
+   },
+   {
+    "id": "p-iwarete-mireba",
+    "field": "examplePolite.english",
+    "value": "Now that you mention it, I haven't seen him around lately.",
+    "why": "Matches the new ja."
+   },
+   {
+    "id": "p-sou-to-mo-kagiranai",
+    "field": "examplePolite.ja",
+    "value": "そうとも限りませんよ。安くておいしい店もありますから。",
+    "why": "Echoing the claim back as 'takai kara oishii desu ka?' sounds unnatural in desu/masu. Giving a reason is the natural polite pushback."
+   },
+   {
+    "id": "p-sou-to-mo-kagiranai",
+    "field": "examplePolite.romaji",
+    "value": "sou to mo kagirimasen yo. yasukute oishii mise mo arimasu kara.",
+    "why": "Matches the new ja."
+   },
+   {
+    "id": "p-sou-to-mo-kagiranai",
+    "field": "examplePolite.english",
+    "value": "Not necessarily. There are cheap places that are good too.",
+    "why": "Matches the new ja."
+   }
+  ],
+  "drops": []
+ },
+ "review-new:2": {
+  "edits": [
+   {
+    "id": "p-nande-nihon-ni-kita-no",
+    "field": "polite",
+    "value": "doushite nihon ni kita n desu ka?",
+    "why": "Kotoba spells why as one word, doushite (as in p-nande-shitteru-no); dou shite is 'doing how'."
+   },
+   {
+    "id": "p-nande-nihon-ni-kita-no",
+    "field": "examplePolite.romaji",
+    "value": "doushite nihon ni kita n desu ka? anime toka desu ka?",
+    "why": "Same doushite spelling fix."
+   },
+   {
+    "id": "p-nande-nihon-ni-kita-no",
+    "field": "notes",
+    "value": "Nande and doushite both mean why; nande is more casual.",
+    "why": "Same doushite spelling fix."
+   },
+   {
+    "id": "p-dotchika-tte-iu-to",
+    "field": "romaji",
+    "value": "dotchi ka tte iu to",
+    "why": "Should match its own polite form dochira ka and the dataset's dotchi ka erande; the ka is spaced."
+   },
+   {
+    "id": "p-dotchika-tte-iu-to",
+    "field": "example.romaji",
+    "value": "dotchi ka tte iu to, natsu yori fuyu ga suki.",
+    "why": "Same spacing fix as the headword."
+   },
+   {
+    "id": "p-watashi-teki-ni-wa",
+    "field": "romaji",
+    "value": "watashiteki ni wa",
+    "why": "-teki is an ending and gets attached, as in kojinteki, kihonteki and zentaiteki elsewhere in the data."
+   },
+   {
+    "id": "p-watashi-teki-ni-wa",
+    "field": "example.romaji",
+    "value": "watashiteki ni wa, kore de zenzen ii yo.",
+    "why": "Same -teki spelling fix."
+   },
+   {
+    "id": "p-karaoke-de-nani-utau",
+    "field": "example.ja",
+    "value": "カラオケでいつも何歌う？今度一緒に行こうよ。",
+    "why": "'今度カラオケ行くけど、いつも何歌う？' is awkward, and the example left out the headword's 'karaoke de'."
+   },
+   {
+    "id": "p-karaoke-de-nani-utau",
+    "field": "example.romaji",
+    "value": "karaoke de itsumo nani utau? kondo issho ni ikou yo.",
+    "why": "Romaji for the new example."
+   },
+   {
+    "id": "p-karaoke-de-nani-utau",
+    "field": "example.english",
+    "value": "What do you usually sing at karaoke? Let's go together sometime.",
+    "why": "English for the new example."
+   },
+   {
+    "id": "p-sore-de-omoidashita-kedo",
+    "field": "polite",
+    "value": "sore de omoidashita n desu kedo",
+    "why": "In polite speech people say 思い出したんですけど; 思い出しましたけど sounds stiff before a question."
+   },
+   {
+    "id": "p-sore-de-omoidashita-kedo",
+    "field": "politeJa",
+    "value": "それで思い出したんですけど",
+    "why": "Matches the new polite form."
+   },
+   {
+    "id": "p-sore-de-omoidashita-kedo",
+    "field": "examplePolite.ja",
+    "value": "それで思い出したんですけど、来週の会議は何時からですか？",
+    "why": "Uses the natural polite lead-in."
+   },
+   {
+    "id": "p-sore-de-omoidashita-kedo",
+    "field": "examplePolite.romaji",
+    "value": "sore de omoidashita n desu kedo, raishuu no kaigi wa nanji kara desu ka?",
+    "why": "Romaji for the new polite example."
+   },
+   {
+    "id": "p-ki-no-sei-da-yo",
+    "field": "example.english",
+    "value": "'Have I put on weight?' Nah, it's just your imagination.",
+    "why": "Here 太った？ is the friend asking about themselves. 'Gained weight?' reads like you asking them, which the futotchatta entry calls rude."
+   }
+  ],
+  "drops": []
+ },
+ "review-new:1": {
+  "edits": [
+   {
+    "id": "p-toku-ni-nanimo-nai-yo",
+    "field": "example.romaji",
+    "value": "saikin? toku ni nanimo nai yo. itsumo doori.",
+    "why": "いつも通り is read itsumo doori (voiced, どおり), not douri."
+   },
+   {
+    "id": "p-toku-ni-nanimo-nai-yo",
+    "field": "examplePolite.romaji",
+    "value": "saikin desu ka? toku ni nanimo nai desu. itsumo doori desu.",
+    "why": "いつも通り is read itsumo doori (voiced, どおり), not douri."
+   },
+   {
+    "id": "p-chotto-nebusoku",
+    "field": "example.romaji",
+    "value": "un, daijoubu. chotto nebusoku na n da.",
+    "why": "Kotoba spacing writes the explanatory なんだ as na n da, like the other entries do."
+   },
+   {
+    "id": "p-chotto-nebusoku",
+    "field": "examplePolite.romaji",
+    "value": "daijoubu desu. chotto nebusoku na n desu.",
+    "why": "Kotoba spacing writes なんです as na n desu, like the other entries do."
+   },
+   {
+    "id": "p-sou-omowanai",
+    "field": "use",
+    "value": "Tags your opinion and invites agreement; answer sou da ne to agree or uun, dou kana to hedge.",
+    "why": "うーん is spelled uun in kotoba spelling, which is also how the existing uun entry has it. u-n is not a kotoba spelling."
+   },
+   {
+    "id": "p-kyou-wa-pasu",
+    "field": "kana",
+    "value": "きょうはパス",
+    "why": "The kana field keeps loanwords in katakana (カード, ビール, ラッキー). パス is English 'pass', not a native word written in katakana."
+   },
+   {
+    "id": "p-tsuitara-rain-shite",
+    "field": "kana",
+    "value": "ついたらラインして",
+    "why": "Matches the existing entries for rain shite and rain koukan shiyou, which keep the loanword in katakana as ライン."
+   },
+   {
+    "id": "p-nen-gurai-ni-naru",
+    "field": "example.ja",
+    "value": "東京に来て、もう5年ぐらいになるかな。",
+    "why": "Ending with ね when telling someone about your own life sounds like you're asking them to agree with something they can't know. かな goes with ぐらい and is what people actually say."
+   },
+   {
+    "id": "p-nen-gurai-ni-naru",
+    "field": "example.romaji",
+    "value": "toukyou ni kite, mou gonen gurai ni naru kana.",
+    "why": "Romaji to match the new ja."
+   },
+   {
+    "id": "p-nen-gurai-ni-naru",
+    "field": "example.english",
+    "value": "It's been about five years since I came to Tokyo, I think.",
+    "why": "Translates the hedging kana."
+   },
+   {
+    "id": "p-dokugaku-da-yo",
+    "field": "example.ja",
+    "value": "学校とかは通ってない。全部独学だよ。",
+    "why": "学校は行ってない sounds like 'I don't go to school' (skipping school). For taking classes the verb is 通う."
+   },
+   {
+    "id": "p-dokugaku-da-yo",
+    "field": "example.romaji",
+    "value": "gakkou toka wa kayotte nai. zenbu dokugaku da yo.",
+    "why": "Romaji to match the new ja."
+   },
+   {
+    "id": "p-dokugaku-da-yo",
+    "field": "example.english",
+    "value": "I don't go to classes or anything. I've taught myself all of it.",
+    "why": "Matches the new ja."
+   },
+   {
+    "id": "p-dokugaku-da-yo",
+    "field": "examplePolite.ja",
+    "value": "学校には通っていません。全部独学です。",
+    "why": "For attending classes the verb is 通う; 行っていません reads as 'I don't go to school'."
+   },
+   {
+    "id": "p-dokugaku-da-yo",
+    "field": "examplePolite.romaji",
+    "value": "gakkou ni wa kayotte imasen. zenbu dokugaku desu.",
+    "why": "Romaji to match the new ja."
+   },
+   {
+    "id": "p-dokugaku-da-yo",
+    "field": "examplePolite.english",
+    "value": "I don't take classes. I've taught myself everything.",
+    "why": "Matches the new ja."
+   },
+   {
+    "id": "p-nihongo-benkyou-shiteru-n-da",
+    "field": "example.ja",
+    "value": "今、日本語勉強してるんだ。ゆっくり話してくれる？",
+    "why": "A bare ゆっくり話して is a bit bossy from a learner to someone they've just met; くれる？ is the natural ask. The comma stops 今日本語 being misread as 今日 + 本語, which is what the tokenizer did."
+   },
+   {
+    "id": "p-nihongo-benkyou-shiteru-n-da",
+    "field": "example.romaji",
+    "value": "ima, nihongo benkyou shiteru n da. yukkuri hanashite kureru?",
+    "why": "Romaji to match the new ja."
+   },
+   {
+    "id": "p-nihongo-benkyou-shiteru-n-da",
+    "field": "example.english",
+    "value": "I'm learning Japanese at the moment. Could you speak slowly?",
+    "why": "Matches the softer request."
+   },
+   {
+    "id": "p-nihongo-benkyou-shiteru-n-da",
+    "field": "examplePolite.ja",
+    "value": "今、日本語を勉強しているんです。ゆっくり話してください。",
+    "why": "The comma stops 今日本語 being misread as 今日 + 本語."
+   },
+   {
+    "id": "p-nihongo-benkyou-shiteru-n-da",
+    "field": "examplePolite.romaji",
+    "value": "ima, nihongo o benkyou shite iru n desu. yukkuri hanashite kudasai.",
+    "why": "Romaji to match the new ja."
+   },
+   {
+    "id": "p-shigoto-nani-shiteru-no",
+    "field": "example.ja",
+    "value": "へえ、東京に住んでるんだ。仕事何してるの？",
+    "why": "The old example ended with the same まだ銀行？ as p-doko-de-hataraiteru-no, so the two cards were hard to tell apart. This one shows the usual getting-to-know-you setting."
+   },
+   {
+    "id": "p-shigoto-nani-shiteru-no",
+    "field": "example.romaji",
+    "value": "hee, toukyou ni sunderu n da. shigoto nani shiteru no?",
+    "why": "Romaji to match the new ja."
+   },
+   {
+    "id": "p-shigoto-nani-shiteru-no",
+    "field": "example.english",
+    "value": "Oh, you live in Tokyo? What do you do for work?",
+    "why": "Matches the new ja."
+   },
+   {
+    "id": "p-shigoto-nani-shiteru-no",
+    "field": "polite",
+    "value": "oshigoto wa nani o sarete imasu ka?",
+    "why": "When you ask a stranger about their job politely, the natural form is the respectful されていますか. していますか sounds like a textbook."
+   },
+   {
+    "id": "p-shigoto-nani-shiteru-no",
+    "field": "politeJa",
+    "value": "お仕事は何をされていますか？",
+    "why": "Matches the respectful polite form."
+   },
+   {
+    "id": "p-shigoto-nani-shiteru-no",
+    "field": "examplePolite.ja",
+    "value": "失礼ですけど、お仕事は何をされていますか？",
+    "why": "After 失礼ですけど, the respectful されています is what people say."
+   },
+   {
+    "id": "p-shigoto-nani-shiteru-no",
+    "field": "examplePolite.romaji",
+    "value": "shitsurei desu kedo, oshigoto wa nani o sarete imasu ka?",
+    "why": "Romaji to match the new ja."
+   },
+   {
+    "id": "p-kansou-wa",
+    "field": "polite",
+    "value": "kansou wa dou deshita ka?",
+    "why": "You ask for impressions after the thing is over, so the polite question is in the past. 感想はどうですか sounds off after reading a book."
+   },
+   {
+    "id": "p-kansou-wa",
+    "field": "politeJa",
+    "value": "感想はどうでしたか？",
+    "why": "Matches the past-tense polite form."
+   },
+   {
+    "id": "p-kansou-wa",
+    "field": "examplePolite.ja",
+    "value": "あの本、読み終わりましたか？感想はどうでしたか？",
+    "why": "The book is finished, so the past どうでしたか is natural."
+   },
+   {
+    "id": "p-kansou-wa",
+    "field": "examplePolite.romaji",
+    "value": "ano hon, yomiowarimashita ka? kansou wa dou deshita ka?",
+    "why": "Romaji to match the new ja."
+   },
+   {
+    "id": "p-aitakatta",
+    "field": "polite",
+    "value": "oai shitakatta desu",
+    "why": "To someone you greet with おひさしぶりです, 会いたかったです sounds too intimate. Adults say お会いしたかったです."
+   },
+   {
+    "id": "p-aitakatta",
+    "field": "politeJa",
+    "value": "お会いしたかったです",
+    "why": "Matches the humble polite form."
+   },
+   {
+    "id": "p-aitakatta",
+    "field": "examplePolite.ja",
+    "value": "お久しぶりです。ずっとお会いしたかったです。",
+    "why": "With お久しぶりです, the natural polite form is お会いしたかったです."
+   },
+   {
+    "id": "p-aitakatta",
+    "field": "examplePolite.romaji",
+    "value": "ohisashiburi desu. zutto oai shitakatta desu.",
+    "why": "Romaji to match the new ja."
+   },
+   {
+    "id": "p-choushi-dou",
+    "field": "example.ja",
+    "value": "おー、最近調子どう？忙しい？",
+    "why": "やあ is a manga or textbook greeting that friends don't really say. おー is what they say when they bump into each other."
+   },
+   {
+    "id": "p-choushi-dou",
+    "field": "example.romaji",
+    "value": "oo, saikin choushi dou? isogashii?",
+    "why": "Romaji to match the new ja (おー is spelled oo)."
+   },
+   {
+    "id": "p-ki-ga-muitara",
+    "field": "examplePolite.ja",
+    "value": "気が向いたら、いつでも遊びに来てください。",
+    "why": "ぜひ (by all means) clashes with 気が向いたら (if you happen to feel like it). いつでも is what people pair with it."
+   },
+   {
+    "id": "p-ki-ga-muitara",
+    "field": "examplePolite.romaji",
+    "value": "ki ga muitara, itsu demo asobi ni kite kudasai.",
+    "why": "Romaji to match the new ja."
+   },
+   {
+    "id": "p-ki-ga-muitara",
+    "field": "examplePolite.english",
+    "value": "Drop by any time you feel like it.",
+    "why": "Matches the new ja."
+   },
+   {
+    "id": "p-shumi-wa",
+    "field": "notes",
+    "value": "Shumi wa? can sound like an interview question, so friends often ask yasumi no hi nani shiteru? instead.",
+    "why": "Shumi isn't a formal word. The question just sounds stock, like an interview or a matchmaking meeting, and 'formal' would mislead."
+   },
+   {
+    "id": "p-nanika-kawatta-koto-atta",
+    "field": "use",
+    "value": "Asked when you catch up after time apart; if nothing's new, answer toku ni nai yo or aikawarazu da yo.",
+    "why": "A bare betsu ni can sound curt, as p-toku-ni-nanimo-nai-yo says. Teaching it here as the answer contradicts that entry."
+   },
+   {
+    "id": "p-jikka-ni-sunderu",
+    "field": "use",
+    "value": "Answer to hitorigurashi? or doko ni sunderu no?; living with your parents as a young adult is common in Japan.",
+    "why": "The entry had no use field, and every other entry has one."
+   }
+  ],
+  "drops": []
+ }
+}

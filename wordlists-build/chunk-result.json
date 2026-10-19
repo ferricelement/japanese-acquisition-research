@@ -1,0 +1,2639 @@
+{
+"review-new:3": {
+"edits": [
+{
+"id": "p-uzai",
+"field": "english",
+"value": "so annoying; you're such a pain",
+"why": "Uzai calls something or someone annoying; it doesn't mean 'get lost' (that's kiero or acchi itte)."
+},
+{
+"id": "p-ima-wa-shigoto-sagashichuu",
+"field": "example.english",
+"value": "I quit my job, and now I'm looking for work.",
+"why": "'I quit my company' isn't natural English for kaisha yamete."
+},
+{
+"id": "p-toshi-ikutsu",
+"field": "notes",
+"value": "Nansai? asks the same and is just as common among friends; ikutsu? alone works too.",
+"why": "Nansai? isn't mostly for children. Young adults use it with each other all the time, so the note was misleading."
+},
+{
+"id": "p-ketsuekigata-wa",
+"field": "example.ja",
+"value": "ねえ、血液型は？A型でしょ？",
+"why": "Asking and then immediately saying 'you don't know?' in the same breath reads oddly. Guessing the type shows the personality-linking habit the use mentions."
+},
+{
+"id": "p-ketsuekigata-wa",
+"field": "example.romaji",
+"value": "nee, ketsuekigata wa? ee gata desho?",
+"why": "Matches the new ja."
+},
+{
+"id": "p-ketsuekigata-wa",
+"field": "example.english",
+"value": "Hey, what's your blood type? You're type A, right?",
+"why": "Matches the new ja."
+},
+{
+"id": "p-ketsuekigata-wa",
+"field": "examplePolite.ja",
+"value": "血液型は何ですか？私はO型です。",
+"why": "'Shiranai n desu ka?' straight after the question is odd, and in polite speech it can sound like a reproach. Offering your own type is the natural polite follow-up."
+},
+{
+"id": "p-ketsuekigata-wa",
+"field": "examplePolite.romaji",
+"value": "ketsuekigata wa nan desu ka? watashi wa oo gata desu.",
+"why": "Matches the new ja."
+},
+{
+"id": "p-ketsuekigata-wa",
+"field": "examplePolite.english",
+"value": "What's your blood type? I'm type O.",
+"why": "Matches the new ja."
+},
+{
+"id": "p-betsu-ni-ii-kedo",
+"field": "example.ja",
+"value": "明日にする？別にいいけど。",
+"why": "The old example (fine, but tell me first next time) does the same job as p-betsu-ni-ii-n-da-kedo. This shows the separate use: going along with something without enthusiasm."
+},
+{
+"id": "p-betsu-ni-ii-kedo",
+"field": "example.romaji",
+"value": "ashita ni suru? betsu ni ii kedo.",
+"why": "Matches the new ja."
+},
+{
+"id": "p-betsu-ni-ii-kedo",
+"field": "example.english",
+"value": "Make it tomorrow? Fine by me, I guess.",
+"why": "Matches the new ja."
+},
+{
+"id": "p-betsu-ni-ii-kedo",
+"field": "examplePolite.ja",
+"value": "私は別にいいですけど。",
+"why": "The old polite example almost repeats new-2's 'betsu ni ii n desu kedo, ichiou oshiete kudasai'. This is the everyday polite 'I don't mind (but others might)'."
+},
+{
+"id": "p-betsu-ni-ii-kedo",
+"field": "examplePolite.romaji",
+"value": "watashi wa betsu ni ii desu kedo.",
+"why": "Matches the new ja."
+},
+{
+"id": "p-betsu-ni-ii-kedo",
+"field": "examplePolite.english",
+"value": "I don't mind, I suppose.",
+"why": "Matches the new ja."
+},
+{
+"id": "p-betsu-ni-ii-kedo",
+"field": "notes",
+"value": "Betsu ni ii n da kedo leads into a small complaint instead; a bare betsu ni ('not really') can sound cold.",
+"why": "Separates this entry from p-betsu-ni-ii-n-da-kedo, whose note already covers bare betsu ni."
+},
+{
+"id": "p-iitai-koto-wa-wakaru",
+"field": "examplePolite.ja",
+"value": "言いたいことは分かりますけど、今は時間がないんです。",
+"why": "'Jikan ga arimasen' is stiff and blunt here. 'Ima wa jikan ga nai n desu' is how people actually say it politely."
+},
+{
+"id": "p-iitai-koto-wa-wakaru",
+"field": "examplePolite.romaji",
+"value": "iitai koto wa wakarimasu kedo, ima wa jikan ga nai n desu.",
+"why": "Matches the new ja."
+},
+{
+"id": "p-iitai-koto-wa-wakaru",
+"field": "examplePolite.english",
+"value": "I see your point, but we just don't have time right now.",
+"why": "Matches the new ja."
+},
+{
+"id": "p-sore-wa-aru",
+"field": "english",
+"value": "that could be it; that's part of it",
+"why": "'That's a factor' is stiff for a casual reaction, and 'fair point' already glosses three other entries in this batch."
+},
+{
+"id": "p-iwarete-mireba",
+"field": "examplePolite.ja",
+"value": "言われてみれば、最近見かけませんね。",
+"why": "'Kare o mimasen' sounds odd in polite speech. 'Mikakemasen' (haven't run into him) is the natural verb."
+},
+{
+"id": "p-iwarete-mireba",
+"field": "examplePolite.romaji",
+"value": "iwarete mireba, saikin mikakemasen ne.",
+"why": "Matches the new ja."
+},
+{
+"id": "p-iwarete-mireba",
+"field": "examplePolite.english",
+"value": "Now that you mention it, I haven't seen him around lately.",
+"why": "Matches the new ja."
+},
+{
+"id": "p-sou-to-mo-kagiranai",
+"field": "examplePolite.ja",
+"value": "そうとも限りませんよ。安くておいしい店もありますから。",
+"why": "Echoing the claim back as 'takai kara oishii desu ka?' sounds unnatural in desu/masu. Giving a reason is the natural polite pushback."
+},
+{
+"id": "p-sou-to-mo-kagiranai",
+"field": "examplePolite.romaji",
+"value": "sou to mo kagirimasen yo. yasukute oishii mise mo arimasu kara.",
+"why": "Matches the new ja."
+},
+{
+"id": "p-sou-to-mo-kagiranai",
+"field": "examplePolite.english",
+"value": "Not necessarily. There are cheap places that are good too.",
+"why": "Matches the new ja."
+}
+],
+"drops": []
+},
+"review-new:2": {
+"edits": [
+{
+"id": "p-nande-nihon-ni-kita-no",
+"field": "polite",
+"value": "doushite nihon ni kita n desu ka?",
+"why": "Kotoba spells why as one word, doushite (as in p-nande-shitteru-no); dou shite is 'doing how'."
+},
+{
+"id": "p-nande-nihon-ni-kita-no",
+"field": "examplePolite.romaji",
+"value": "doushite nihon ni kita n desu ka? anime toka desu ka?",
+"why": "Same doushite spelling fix."
+},
+{
+"id": "p-nande-nihon-ni-kita-no",
+"field": "notes",
+"value": "Nande and doushite both mean why; nande is more casual.",
+"why": "Same doushite spelling fix."
+},
+{
+"id": "p-dotchika-tte-iu-to",
+"field": "romaji",
+"value": "dotchi ka tte iu to",
+"why": "Should match its own polite form dochira ka and the dataset's dotchi ka erande; the ka is spaced."
+},
+{
+"id": "p-dotchika-tte-iu-to",
+"field": "example.romaji",
+"value": "dotchi ka tte iu to, natsu yori fuyu ga suki.",
+"why": "Same spacing fix as the headword."
+},
+{
+"id": "p-watashi-teki-ni-wa",
+"field": "romaji",
+"value": "watashiteki ni wa",
+"why": "-teki is an ending and gets attached, as in kojinteki, kihonteki and zentaiteki elsewhere in the data."
+},
+{
+"id": "p-watashi-teki-ni-wa",
+"field": "example.romaji",
+"value": "watashiteki ni wa, kore de zenzen ii yo.",
+"why": "Same -teki spelling fix."
+},
+{
+"id": "p-karaoke-de-nani-utau",
+"field": "example.ja",
+"value": "カラオケでいつも何歌う？今度一緒に行こうよ。",
+"why": "'今度カラオケ行くけど、いつも何歌う？' is awkward, and the example left out the headword's 'karaoke de'."
+},
+{
+"id": "p-karaoke-de-nani-utau",
+"field": "example.romaji",
+"value": "karaoke de itsumo nani utau? kondo issho ni ikou yo.",
+"why": "Romaji for the new example."
+},
+{
+"id": "p-karaoke-de-nani-utau",
+"field": "example.english",
+"value": "What do you usually sing at karaoke? Let's go together sometime.",
+"why": "English for the new example."
+},
+{
+"id": "p-sore-de-omoidashita-kedo",
+"field": "polite",
+"value": "sore de omoidashita n desu kedo",
+"why": "In polite speech people say 思い出したんですけど; 思い出しましたけど sounds stiff before a question."
+},
+{
+"id": "p-sore-de-omoidashita-kedo",
+"field": "politeJa",
+"value": "それで思い出したんですけど",
+"why": "Matches the new polite form."
+},
+{
+"id": "p-sore-de-omoidashita-kedo",
+"field": "examplePolite.ja",
+"value": "それで思い出したんですけど、来週の会議は何時からですか？",
+"why": "Uses the natural polite lead-in."
+},
+{
+"id": "p-sore-de-omoidashita-kedo",
+"field": "examplePolite.romaji",
+"value": "sore de omoidashita n desu kedo, raishuu no kaigi wa nanji kara desu ka?",
+"why": "Romaji for the new polite example."
+},
+{
+"id": "p-ki-no-sei-da-yo",
+"field": "example.english",
+"value": "'Have I put on weight?' Nah, it's just your imagination.",
+"why": "Here 太った？ is the friend asking about themselves. 'Gained weight?' reads like you asking them, which the futotchatta entry calls rude."
+}
+],
+"drops": []
+},
+"review-new:1": {
+"edits": [
+{
+"id": "p-toku-ni-nanimo-nai-yo",
+"field": "example.romaji",
+"value": "saikin? toku ni nanimo nai yo. itsumo doori.",
+"why": "いつも通り is read itsumo doori (voiced, どおり), not douri."
+},
+{
+"id": "p-toku-ni-nanimo-nai-yo",
+"field": "examplePolite.romaji",
+"value": "saikin desu ka? toku ni nanimo nai desu. itsumo doori desu.",
+"why": "いつも通り is read itsumo doori (voiced, どおり), not douri."
+},
+{
+"id": "p-chotto-nebusoku",
+"field": "example.romaji",
+"value": "un, daijoubu. chotto nebusoku na n da.",
+"why": "Kotoba spacing writes the explanatory なんだ as na n da, like the other entries do."
+},
+{
+"id": "p-chotto-nebusoku",
+"field": "examplePolite.romaji",
+"value": "daijoubu desu. chotto nebusoku na n desu.",
+"why": "Kotoba spacing writes なんです as na n desu, like the other entries do."
+},
+{
+"id": "p-sou-omowanai",
+"field": "use",
+"value": "Tags your opinion and invites agreement; answer sou da ne to agree or uun, dou kana to hedge.",
+"why": "うーん is spelled uun in kotoba spelling, which is also how the existing uun entry has it. u-n is not a kotoba spelling."
+},
+{
+"id": "p-kyou-wa-pasu",
+"field": "kana",
+"value": "きょうはパス",
+"why": "The kana field keeps loanwords in katakana (カード, ビール, ラッキー). パス is English 'pass', not a native word written in katakana."
+},
+{
+"id": "p-tsuitara-rain-shite",
+"field": "kana",
+"value": "ついたらラインして",
+"why": "Matches the existing entries for rain shite and rain koukan shiyou, which keep the loanword in katakana as ライン."
+},
+{
+"id": "p-nen-gurai-ni-naru",
+"field": "example.ja",
+"value": "東京に来て、もう5年ぐらいになるかな。",
+"why": "Ending with ね when telling someone about your own life sounds like you're asking them to agree with something they can't know. かな goes with ぐらい and is what people actually say."
+},
+{
+"id": "p-nen-gurai-ni-naru",
+"field": "example.romaji",
+"value": "toukyou ni kite, mou gonen gurai ni naru kana.",
+"why": "Romaji to match the new ja."
+},
+{
+"id": "p-nen-gurai-ni-naru",
+"field": "example.english",
+"value": "It's been about five years since I came to Tokyo, I think.",
+"why": "Translates the hedging kana."
+},
+{
+"id": "p-dokugaku-da-yo",
+"field": "example.ja",
+"value": "学校とかは通ってない。全部独学だよ。",
+"why": "学校は行ってない sounds like 'I don't go to school' (skipping school). For taking classes the verb is 通う."
+},
+{
+"id": "p-dokugaku-da-yo",
+"field": "example.romaji",
+"value": "gakkou toka wa kayotte nai. zenbu dokugaku da yo.",
+"why": "Romaji to match the new ja."
+},
+{
+"id": "p-dokugaku-da-yo",
+"field": "example.english",
+"value": "I don't go to classes or anything. I've taught myself all of it.",
+"why": "Matches the new ja."
+},
+{
+"id": "p-dokugaku-da-yo",
+"field": "examplePolite.ja",
+"value": "学校には通っていません。全部独学です。",
+"why": "For attending classes the verb is 通う; 行っていません reads as 'I don't go to school'."
+},
+{
+"id": "p-dokugaku-da-yo",
+"field": "examplePolite.romaji",
+"value": "gakkou ni wa kayotte imasen. zenbu dokugaku desu.",
+"why": "Romaji to match the new ja."
+},
+{
+"id": "p-dokugaku-da-yo",
+"field": "examplePolite.english",
+"value": "I don't take classes. I've taught myself everything.",
+"why": "Matches the new ja."
+},
+{
+"id": "p-nihongo-benkyou-shiteru-n-da",
+"field": "example.ja",
+"value": "今、日本語勉強してるんだ。ゆっくり話してくれる？",
+"why": "A bare ゆっくり話して is a bit bossy from a learner to someone they've just met; くれる？ is the natural ask. The comma stops 今日本語 being misread as 今日 + 本語, which is what the tokenizer did."
+},
+{
+"id": "p-nihongo-benkyou-shiteru-n-da",
+"field": "example.romaji",
+"value": "ima, nihongo benkyou shiteru n da. yukkuri hanashite kureru?",
+"why": "Romaji to match the new ja."
+},
+{
+"id": "p-nihongo-benkyou-shiteru-n-da",
+"field": "example.english",
+"value": "I'm learning Japanese at the moment. Could you speak slowly?",
+"why": "Matches the softer request."
+},
+{
+"id": "p-nihongo-benkyou-shiteru-n-da",
+"field": "examplePolite.ja",
+"value": "今、日本語を勉強しているんです。ゆっくり話してください。",
+"why": "The comma stops 今日本語 being misread as 今日 + 本語."
+},
+{
+"id": "p-nihongo-benkyou-shiteru-n-da",
+"field": "examplePolite.romaji",
+"value": "ima, nihongo o benkyou shite iru n desu. yukkuri hanashite kudasai.",
+"why": "Romaji to match the new ja."
+},
+{
+"id": "p-shigoto-nani-shiteru-no",
+"field": "example.ja",
+"value": "へえ、東京に住んでるんだ。仕事何してるの？",
+"why": "The old example ended with the same まだ銀行？ as p-doko-de-hataraiteru-no, so the two cards were hard to tell apart. This one shows the usual getting-to-know-you setting."
+},
+{
+"id": "p-shigoto-nani-shiteru-no",
+"field": "example.romaji",
+"value": "hee, toukyou ni sunderu n da. shigoto nani shiteru no?",
+"why": "Romaji to match the new ja."
+},
+{
+"id": "p-shigoto-nani-shiteru-no",
+"field": "example.english",
+"value": "Oh, you live in Tokyo? What do you do for work?",
+"why": "Matches the new ja."
+},
+{
+"id": "p-shigoto-nani-shiteru-no",
+"field": "polite",
+"value": "oshigoto wa nani o sarete imasu ka?",
+"why": "When you ask a stranger about their job politely, the natural form is the respectful されていますか. していますか sounds like a textbook."
+},
+{
+"id": "p-shigoto-nani-shiteru-no",
+"field": "politeJa",
+"value": "お仕事は何をされていますか？",
+"why": "Matches the respectful polite form."
+},
+{
+"id": "p-shigoto-nani-shiteru-no",
+"field": "examplePolite.ja",
+"value": "失礼ですけど、お仕事は何をされていますか？",
+"why": "After 失礼ですけど, the respectful されています is what people say."
+},
+{
+"id": "p-shigoto-nani-shiteru-no",
+"field": "examplePolite.romaji",
+"value": "shitsurei desu kedo, oshigoto wa nani o sarete imasu ka?",
+"why": "Romaji to match the new ja."
+},
+{
+"id": "p-kansou-wa",
+"field": "polite",
+"value": "kansou wa dou deshita ka?",
+"why": "You ask for impressions after the thing is over, so the polite question is in the past. 感想はどうですか sounds off after reading a book."
+},
+{
+"id": "p-kansou-wa",
+"field": "politeJa",
+"value": "感想はどうでしたか？",
+"why": "Matches the past-tense polite form."
+},
+{
+"id": "p-kansou-wa",
+"field": "examplePolite.ja",
+"value": "あの本、読み終わりましたか？感想はどうでしたか？",
+"why": "The book is finished, so the past どうでしたか is natural."
+},
+{
+"id": "p-kansou-wa",
+"field": "examplePolite.romaji",
+"value": "ano hon, yomiowarimashita ka? kansou wa dou deshita ka?",
+"why": "Romaji to match the new ja."
+},
+{
+"id": "p-aitakatta",
+"field": "polite",
+"value": "oai shitakatta desu",
+"why": "To someone you greet with おひさしぶりです, 会いたかったです sounds too intimate. Adults say お会いしたかったです."
+},
+{
+"id": "p-aitakatta",
+"field": "politeJa",
+"value": "お会いしたかったです",
+"why": "Matches the humble polite form."
+},
+{
+"id": "p-aitakatta",
+"field": "examplePolite.ja",
+"value": "お久しぶりです。ずっとお会いしたかったです。",
+"why": "With お久しぶりです, the natural polite form is お会いしたかったです."
+},
+{
+"id": "p-aitakatta",
+"field": "examplePolite.romaji",
+"value": "ohisashiburi desu. zutto oai shitakatta desu.",
+"why": "Romaji to match the new ja."
+},
+{
+"id": "p-choushi-dou",
+"field": "example.ja",
+"value": "おー、最近調子どう？忙しい？",
+"why": "やあ is a manga or textbook greeting that friends don't really say. おー is what they say when they bump into each other."
+},
+{
+"id": "p-choushi-dou",
+"field": "example.romaji",
+"value": "oo, saikin choushi dou? isogashii?",
+"why": "Romaji to match the new ja (おー is spelled oo)."
+},
+{
+"id": "p-ki-ga-muitara",
+"field": "examplePolite.ja",
+"value": "気が向いたら、いつでも遊びに来てください。",
+"why": "ぜひ (by all means) clashes with 気が向いたら (if you happen to feel like it). いつでも is what people pair with it."
+},
+{
+"id": "p-ki-ga-muitara",
+"field": "examplePolite.romaji",
+"value": "ki ga muitara, itsu demo asobi ni kite kudasai.",
+"why": "Romaji to match the new ja."
+},
+{
+"id": "p-ki-ga-muitara",
+"field": "examplePolite.english",
+"value": "Drop by any time you feel like it.",
+"why": "Matches the new ja."
+},
+{
+"id": "p-shumi-wa",
+"field": "notes",
+"value": "Shumi wa? can sound like an interview question, so friends often ask yasumi no hi nani shiteru? instead.",
+"why": "Shumi isn't a formal word. The question just sounds stock, like an interview or a matchmaking meeting, and 'formal' would mislead."
+},
+{
+"id": "p-nanika-kawatta-koto-atta",
+"field": "use",
+"value": "Asked when you catch up after time apart; if nothing's new, answer toku ni nai yo or aikawarazu da yo.",
+"why": "A bare betsu ni can sound curt, as p-toku-ni-nanimo-nai-yo says. Teaching it here as the answer contradicts that entry."
+},
+{
+"id": "p-jikka-ni-sunderu",
+"field": "use",
+"value": "Answer to hitorigurashi? or doko ni sunderu no?; living with your parents as a young adult is common in Japan.",
+"why": "The entry had no use field, and every other entry has one."
+}
+],
+"drops": []
+},
+"chunk:2": {
+"chunks": [
+{
+"move": "c-react",
+"label": "Uh-huh I'm listening",
+"rationale": "Shows you're following while your friend talks.",
+"interference": "fuun can sound bored if overused, and hai-hai can sound dismissive.",
+"members": [
+"p-un-un",
+"p-fuun",
+"p-hai-hai"
+],
+"stage": 1
+},
+{
+"move": "c-react",
+"label": "Really seriously",
+"rationale": "Reacts with surprise to news so the teller keeps going.",
+"interference": "ee needs a rising pitch or it sounds like a polite 'yes'; uso desho isn't calling them a liar.",
+"members": [
+"p-ee",
+"p-sou-na-no",
+"p-maji-ka",
+"p-uso-desho"
+],
+"stage": 1
+},
+{
+"move": "c-react",
+"label": "Oh I didn't know",
+"rationale": "Acknowledges new information or a sudden understanding.",
+"interference": "sou datta n da takes in news; sou iu koto ka means it finally clicked.",
+"members": [
+"p-sou-datta-n-da",
+"p-shiranakatta",
+"p-sou-iu-koto-ka",
+"p-honto-da",
+"p-kizukanakatta"
+],
+"stage": 1
+},
+{
+"move": "c-react",
+"label": "So true so relatable",
+"rationale": "Signals you share the feeling or experience they describe.",
+"interference": "aru aru means 'that happens', wakaru wakaru means 'I feel that'.",
+"members": [
+"p-wakaru-wakaru",
+"p-sore-na",
+"p-aru-aru"
+],
+"stage": 1
+},
+{
+"move": "c-react",
+"label": "Sounds fun looks good",
+"rationale": "Comments on what someone describes, shows or serves you.",
+"interference": "-sou guesses from outside; oishisou is before eating, oishikatta after.",
+"members": [
+"p-tanoshisou",
+"p-omoshirosou",
+"p-taihensou",
+"p-oishisou",
+"p-yosasou",
+"p-oishikatta"
+],
+"stage": 1
+},
+{
+"move": "c-react",
+"label": "Good for you",
+"rationale": "Responds warmly when a friend shares good news.",
+"interference": "ii naa is envy for them, ii jan is approval; yokatta ne is for them, yokatta alone is your own relief.",
+"members": [
+"p-ii-jan",
+"p-yokatta-ne",
+"p-ii-naa",
+"p-naisu"
+],
+"stage": 1
+},
+{
+"move": "c-react",
+"label": "No way unbelievable",
+"rationale": "Reacts strongly to something shocking or outrageous.",
+"interference": "iya iya also brushes off compliments; arienai can mean outrageous, not just surprising.",
+"members": [
+"p-arienai",
+"p-iya-iya",
+"p-shinjirarenai",
+"p-uso-mitai"
+],
+"stage": 2
+},
+{
+"move": "c-react",
+"label": "What you're kidding",
+"rationale": "Challenges something odd or cheeky someone just said.",
+"interference": "nani sore can sound scornful; uso tsuke is playful only with close friends.",
+"members": [
+"p-nani-sore",
+"p-maji-de-itteru",
+"p-uso-tsuke",
+"p-nan-datte"
+],
+"stage": 2
+},
+{
+"move": "c-react",
+"label": "Wow and whoa",
+"rationale": "Gives a quick gut reaction to something you see or hear.",
+"interference": "uwa can be delight or disgust; ara sounds older or feminine.",
+"members": [
+"p-waa",
+"p-uwa",
+"p-iyaa",
+"p-o",
+"p-ara"
+],
+"stage": 2
+},
+{
+"move": "c-react",
+"label": "Well done never mind",
+"rationale": "Responds to how someone did, whether they nailed it or missed.",
+"interference": "yatta ne is 'you did it', yatta is 'I did it'; yoku yatta can sound top-down.",
+"members": [
+"p-yaru-jan",
+"p-yatta-ne",
+"p-donmai",
+"p-yoku-yatta",
+"p-atari"
+],
+"stage": 2
+},
+{
+"move": "c-react",
+"label": "Yes I did it",
+"rationale": "Celebrates your own win or a bit of luck.",
+"interference": "yossha sounds masculine; dekita also means 'it's ready'.",
+"members": [
+"p-yatta",
+"p-yossha",
+"p-rakkii",
+"p-yoshi",
+"p-dekita"
+],
+"stage": 2
+},
+{
+"move": "c-react",
+"label": "Oh that's all",
+"rationale": "Reacts when the story or news turns out smaller than expected.",
+"interference": "naanda can be relief or letdown; haa? with a rising tone sounds rude.",
+"members": [
+"p-naanda",
+"p-e-sore-dake",
+"p-haa"
+],
+"stage": 2
+},
+{
+"move": "c-react",
+"label": "Huh that's odd",
+"rationale": "Voices puzzlement at something strange.",
+"interference": "nani kore is about a thing in front of you, nani sore about what they said.",
+"members": [
+"p-nani-kore",
+"p-sonna-koto-aru",
+"p-okashii-na"
+],
+"stage": 2
+},
+{
+"move": "c-react",
+"label": "Oops oh no",
+"rationale": "Reacts to small mistakes and mishaps.",
+"interference": "shimatta is your own slip; arara reacts to anyone's small mishap.",
+"members": [
+"p-shimatta",
+"p-arara",
+"p-otto",
+"p-yarareta"
+],
+"stage": 2
+},
+{
+"move": "c-react",
+"label": "Ugh damn ouch",
+"rationale": "Lets out frustration or pain.",
+"interference": "kuso and chikushou are rough; mou is mild annoyance.",
+"members": [
+"p-mou",
+"p-kuso",
+"p-chikushou",
+"p-ite"
+],
+"stage": 3
+},
+{
+"move": "c-react",
+"label": "Doing things together",
+"rationale": "Covers the little noises of handling things side by side.",
+"interference": "kore kore can also scold ('now, now'); seeno times a group action.",
+"members": [
+"p-dore-dore",
+"p-kore-kore",
+"p-seeno",
+"p-yoisho",
+"p-shii"
+],
+"stage": 3
+},
+{
+"move": "c-ask",
+"label": "And then what",
+"rationale": "Pushes a story forward to the next part.",
+"interference": "A flat sore de? sounds impatient; nani nani is eager, not suspicious.",
+"members": [
+"p-sore-de",
+"p-nani-ga-atta-no",
+"p-dou-natta-no",
+"p-nani-nani",
+"p-hoka-ni-wa"
+],
+"stage": 1
+},
+{
+"move": "c-ask",
+"label": "How was it",
+"rationale": "Gets someone talking about an event, trip or weekend.",
+"interference": "dou datta asks about the past; dou is about now.",
+"members": [
+"p-dou-datta",
+"p-nani-ga-ichiban-yokatta",
+"p-dare-to-itta-no",
+"p-daijoubu-datta"
+],
+"stage": 1
+},
+{
+"move": "c-ask",
+"label": "And you your take",
+"rationale": "Turns the question back and draws out their preferences and views.",
+"interference": "sotchi wa is the casual 'you'; anata wa sounds cold.",
+"members": [
+"p-sotchi-wa",
+"p-saikin-nani-ni-hamatteru",
+"p-dotchi-ga-suki",
+"p-nande-sou-omou-no"
+],
+"stage": 1
+},
+{
+"move": "c-ask",
+"label": "What's it like",
+"rationale": "Asks how a job, place or new situation is going.",
+"interference": "tte dou attaches to a noun ('shigoto tte dou?'); donna kanji stands alone.",
+"members": [
+"p-tte-dou",
+"p-donna-kanji",
+"p-nareta"
+],
+"stage": 1
+},
+{
+"move": "c-ask",
+"label": "Asking about people",
+"rationale": "Finds out about the people in someone's life and story.",
+"interference": "nante itteta asks what they said; nante iu asks what something is called.",
+"members": [
+"p-donna-hito",
+"p-dou-yatte-shiriatta-no",
+"p-nante-itteta"
+],
+"stage": 1
+},
+{
+"move": "c-ask",
+"label": "What's new with you",
+"rationale": "Catches up on what a friend has been up to.",
+"interference": "nanika atta asks if something's wrong; nanka ii koto atta asks about something good.",
+"members": [
+"p-nani-shiteta-no",
+"p-are-kara-dou",
+"p-nanika-atta",
+"p-nanka-ii-koto-atta"
+],
+"stage": 2
+},
+{
+"move": "c-ask",
+"label": "Since when who told",
+"rationale": "Digs into the details behind a piece of news or gossip.",
+"interference": "nande shitteru no can sound accusing without a smile.",
+"members": [
+"p-itsu-kara",
+"p-nani-ga",
+"p-dare-kara-kiita-no",
+"p-nande-shitteru-no"
+],
+"stage": 2
+},
+{
+"move": "c-ask",
+"label": "Asking first asking advice",
+"rationale": "Opens a question, checks it's okay, or asks for advice.",
+"interference": "ii no? checks it's really okay; ii yo is the reply 'it's fine'.",
+"members": [
+"p-kiite-mo-ii",
+"p-dou-shitara-ii",
+"p-ii-no"
+],
+"stage": 2
+},
+{
+"move": "c-agree",
+"label": "Yes exactly",
+"rationale": "Agrees warmly with what your friend just said.",
+"interference": "sou sou confirms their point; da yo ne echoes a shared feeling.",
+"members": [
+"p-sou-sou",
+"p-da-yo-ne",
+"p-honto-sore",
+"p-sorya-sou-da",
+"p-sou-itteru-jan"
+],
+"stage": 1
+},
+{
+"move": "c-agree",
+"label": "Me too I agree",
+"rationale": "Says you share their view or experience.",
+"interference": "'me neither' is watashi mo + a negative verb, not watashi mo alone; sono toori is a bit formal.",
+"members": [
+"p-watashi-mo",
+"p-sou-omou",
+"p-doukan",
+"p-sono-toori"
+],
+"stage": 1
+},
+{
+"move": "c-agree",
+"label": "OK got it",
+"rationale": "Accepts a suggestion or confirms you understood.",
+"interference": "wakarimashita is polite; ryoukai can sound curt to elders.",
+"members": [
+"p-okkee",
+"p-ryoukai",
+"p-haai",
+"p-mondai-nai",
+"p-wakarimashita"
+],
+"stage": 1
+},
+{
+"move": "c-agree",
+"label": "Hmm I'm not sure",
+"rationale": "Hedges instead of fully agreeing.",
+"interference": "uun can mean 'no' or just 'hmm' depending on pitch; maa ne is half agreement, not a yes.",
+"members": [
+"p-uun",
+"p-maa-ne",
+"p-dou-darou",
+"p-hito-ni-yoru"
+],
+"stage": 1
+},
+{
+"move": "c-agree",
+"label": "Not really",
+"rationale": "Disagrees gently by playing the claim down.",
+"interference": "sou demo nai means 'not really'; sou ja nai means 'that's wrong'.",
+"members": [
+"p-sou-demo-nai",
+"p-soko-made-ja-nai",
+"p-sou-to-mo-kagiranai"
+],
+"stage": 1
+},
+{
+"move": "c-agree",
+"label": "True but",
+"rationale": "Grants their point before pushing back.",
+"interference": "The trailing kedo does the disagreeing; there's no need to add demo.",
+"members": [
+"p-sore-wa-sou-da-kedo",
+"p-kimochi-wa-wakaru-kedo",
+"p-sou-wa-ikanai"
+],
+"stage": 1
+},
+{
+"move": "c-agree",
+"label": "Fair point",
+"rationale": "Concedes a good point in a discussion.",
+"interference": "sore wa aru means 'that's a factor'; aru aru means 'so relatable'.",
+"members": [
+"p-sore-wa-sou",
+"p-sore-wa-aru",
+"p-ieteru",
+"p-sore-mo-sou-da-ne",
+"p-iwarete-mireba"
+],
+"stage": 2
+},
+{
+"move": "c-agree",
+"label": "I don't think so",
+"rationale": "Disagrees firmly or corrects a claim.",
+"interference": "sore wa nai rejects an idea, not a person; chigau chigau corrects a fact.",
+"members": [
+"p-sou-wa-omowanai",
+"p-chigau-chigau",
+"p-sore-wa-nai",
+"p-sore-wa-chigau-to-omou"
+],
+"stage": 2
+},
+{
+"move": "c-repair",
+"label": "Didn't catch that",
+"rationale": "Asks for a repeat or slower speech when you're lost.",
+"interference": "The kudasai and onegai shimasu forms are polite; wakarimasen can mean 'I don't know'.",
+"members": [
+"p-mou-ichido-onegai-shimasu",
+"p-kikoenakatta",
+"p-yukkuri-hanashite-kudasai",
+"p-gomen-kiitenakatta",
+"p-wakarimasen"
+],
+"stage": 1
+},
+{
+"move": "c-repair",
+"label": "What do you mean",
+"rationale": "Asks what or who they are referring to.",
+"interference": "nan no hanashi? can sound like denial if said sharply.",
+"members": [
+"p-dou-iu-koto",
+"p-nan-no-koto",
+"p-dare-no-koto",
+"p-nan-no-hanashi"
+],
+"stage": 1
+},
+{
+"move": "c-repair",
+"label": "What's the word",
+"rationale": "Buys time when a word escapes you.",
+"interference": "nan dakke recalls a thing, nante iu n dakke recalls a word; both are half to yourself.",
+"members": [
+"p-nan-dakke",
+"p-nante-iu-n-dakke",
+"p-hora-are",
+"p-eigo-de-iu-to"
+],
+"stage": 1
+},
+{
+"move": "c-repair",
+"label": "No I mean",
+"rationale": "Corrects yourself or takes something back.",
+"interference": "sou ja nakute fixes your own words; chotto chigau kana gently fixes theirs.",
+"members": [
+"p-sou-ja-nakute",
+"p-chotto-chigau-kana",
+"p-ima-no-nashi",
+"p-nan-demo-nai"
+],
+"stage": 2
+},
+{
+"move": "c-repair",
+"label": "Did I get it",
+"rationale": "Checks you understood or were understood.",
+"interference": "atteru asks if you're right; kikoeru is for bad audio or calls.",
+"members": [
+"p-atteru",
+"p-iitai-koto-wakaru",
+"p-kikoeru"
+],
+"stage": 2
+},
+{
+"move": "c-flow",
+"label": "Hey guess what",
+"rationale": "Grabs attention to start a story or share news.",
+"interference": "ano ne and ano sa open a topic; a drawn-out ano... is just hesitation.",
+"members": [
+"p-ano-ne",
+"p-ano-sa",
+"p-chotto-kiite",
+"p-kiita",
+"p-shitteta"
+],
+"stage": 1
+},
+{
+"move": "c-flow",
+"label": "By the way",
+"rationale": "Shifts to a new topic or back to an old one.",
+"interference": "hanashi kawaru changes the topic; hanashi modoru goes back.",
+"members": [
+"p-hanashi-kawaru-kedo",
+"p-a-sou-da",
+"p-sore-de-omoidashita-kedo",
+"p-hanashi-modoru-kedo"
+],
+"stage": 1
+},
+{
+"move": "c-flow",
+"label": "Wrapping up",
+"rationale": "Ends a chat or call smoothly.",
+"interference": "jaa sou iu koto de settles a plan rather than just saying goodbye.",
+"members": [
+"p-jaa-sorosoro",
+"p-mata-renraku-suru-ne",
+"p-jaa-sou-iu-koto-de",
+"p-juuden-kiresou"
+],
+"stage": 1
+},
+{
+"move": "c-flow",
+"label": "Managing a long story",
+"rationale": "Hands the turn over, takes it back, and keeps a long story on track.",
+"interference": "kke marks trying to recall (doko made hanashita kke), not a plain question.",
+"members": [
+"p-maa-sonna-kanji",
+"p-tsuzukete",
+"p-hanashi-kiku-yo",
+"p-nagaku-naru-kedo",
+"p-doko-made-hanashita-kke"
+],
+"stage": 2
+},
+{
+"move": "c-flow",
+"label": "Got a minute",
+"rationale": "Opens a request, a serious talk, or a call for attention.",
+"interference": "chotto hanashi ga aru can sound ominous; nanka you? is blunt.",
+"members": [
+"p-ima-daijoubu",
+"p-chotto-hanashi-ga-aru-n-da-kedo",
+"p-onegai-ga-aru-n-da-kedo",
+"p-ooi",
+"p-nanka-you"
+],
+"stage": 2
+}
+]
+},
+"chunk:3": {
+"chunks": [
+{
+"move": "c-tell",
+"label": "Moving the story along",
+"rationale": "Lets you carry a story forward and signal a twist is coming.",
+"interference": "sore de sa just moves on, while sore ga sa warns that a twist is coming.",
+"members": [
+"p-sore-de-sa",
+"p-soshitara-sa",
+"p-sore-ga-sa",
+"p-ki-ga-tsuitara"
+],
+"stage": 1
+},
+{
+"move": "c-tell",
+"label": "Getting to the point",
+"rationale": "Lets you sum up, give the reason, or reveal what really happened.",
+"interference": "honto wa (the truth is) is easy to mix up with the reaction honto? (really?).",
+"members": [
+"p-honto-wa",
+"p-yousuru-ni",
+"p-nande-ka-tte-iu-to",
+"p-tte-hanashi"
+],
+"stage": 2
+},
+{
+"move": "c-tell",
+"label": "Opening a story",
+"rationale": "Lets you launch into a story or hook the listener before you start.",
+"interference": "mou ittakke? (did I tell you?) is easy to confuse with mou itta (I already said it).",
+"members": [
+"p-iroiro-atte",
+"p-mou-ittakke",
+"p-dou-natta-to-omou"
+],
+"stage": 2
+},
+{
+"move": "c-tell",
+"label": "Own little slip-ups",
+"rationale": "Lets you own up to small everyday mistakes when you tell what happened.",
+"interference": "The -chatta endings blur together, and tsui ... shichatta needs a verb in the gap.",
+"members": [
+"p-machigaechatta",
+"p-nebou-shita",
+"p-tsui-shichatta",
+"p-wasuremono-shita"
+],
+"stage": 2
+},
+{
+"move": "c-tell",
+"label": "Hazy memory and hindsight",
+"rationale": "Lets you hedge details you are not sure of and look back on events.",
+"interference": "tashika (if I remember right) is not tashikani (certainly; true).",
+"members": [
+"p-tashika",
+"p-yoku-oboetenai-kedo",
+"p-isshun-ka-to-omotta",
+"p-ima-omoeba"
+],
+"stage": 2
+},
+{
+"move": "c-tell",
+"label": "Framing a story",
+"rationale": "Lets you play a story down or mark it as an aside or a secret.",
+"interference": "betsu ni ii n da kedo softens the start, but betsu ni alone sounds curt.",
+"members": [
+"p-betsu-ni-ii-n-da-kedo",
+"p-naisho-da-yo",
+"p-ittoku-kedo",
+"p-ochi-nai-n-da-kedo"
+],
+"stage": 3
+},
+{
+"move": "c-tell",
+"label": "Things gone wrong",
+"rationale": "Lets you report a lost, broken or missed thing in a story.",
+"interference": "nakushita (lost it) and wasureta (forgot it) get swapped, as do kowareta (broke) and ugokanai (won't run).",
+"members": [
+"p-shuuden-nogashita",
+"p-kowareta",
+"p-saifu-o-nakushita",
+"p-ugokanai"
+],
+"stage": 3
+},
+{
+"move": "c-feel",
+"label": "Sympathy for a hard time",
+"rationale": "Lets you show you understand when someone tells you something rough.",
+"interference": "taihen datta ne is for something over, taihen da ne for something still going; kawaisou ni can sound condescending.",
+"members": [
+"p-taihen-datta-ne",
+"p-kimochi-wakaru",
+"p-sore-wa-tsurai-ne",
+"p-kawaisou-ni"
+],
+"stage": 1
+},
+{
+"move": "c-feel",
+"label": "Telling them not to worry",
+"rationale": "Lets you wave off an apology or settle someone's worry.",
+"interference": "ki ni shinaide (never mind it) and shinpai shinaide (don't worry) overlap, while zenzen daijoubu is about yourself.",
+"members": [
+"p-ki-ni-shinaide",
+"p-zenzen-daijoubu",
+"p-shinpai-shinaide",
+"p-nantoka-naru-yo"
+],
+"stage": 1
+},
+{
+"move": "c-feel",
+"label": "Saying you are worn out",
+"rationale": "Lets you say how tired you are when someone asks how you are.",
+"interference": "nemurenakatta (couldn't sleep) is not nemui (sleepy).",
+"members": [
+"p-tsukareta",
+"p-nemurenakatta",
+"p-mou-genkai"
+],
+"stage": 1
+},
+{
+"move": "c-feel",
+"label": "Hungry and thirsty",
+"rationale": "Lets you say you need food or a drink.",
+"interference": "hara hetta is rough and masculine; onaka suita is the neutral one.",
+"members": [
+"p-onaka-suita",
+"p-onaka-pekopeko",
+"p-nodo-kawaita",
+"p-hara-hetta"
+],
+"stage": 1
+},
+{
+"move": "c-feel",
+"label": "Had enough",
+"rationale": "Lets you vent that you are fed up or have reached your limit.",
+"interference": "The mou set starts alike: muri (can't), yada (hate it), dame (hopeless), ii (forget it); hottoite is harsh.",
+"members": [
+"p-mou-muri",
+"p-mou-yada",
+"p-mou-dame",
+"p-mou-ii",
+"p-hottoite"
+],
+"stage": 2
+},
+{
+"move": "c-feel",
+"label": "Checking on someone",
+"rationale": "Lets you ask if a friend is okay or doing better.",
+"interference": "daijoubu desu ka is polite; with friends just daijoubu? is enough.",
+"members": [
+"p-daijoubu-desu-ka",
+"p-genki-nai-ne",
+"p-mou-daijoubu",
+"p-kega-nai"
+],
+"stage": 2
+},
+{
+"move": "c-feel",
+"label": "Oh no moments",
+"rationale": "Lets you voice panic, nerves or being stuck.",
+"interference": "dou shiyou (what do I do?) is not dou suru? (what shall we do?).",
+"members": [
+"p-dou-shiyou",
+"p-kinchou-suru",
+"p-komatta-na",
+"p-ma-ni-awanai"
+],
+"stage": 2
+},
+{
+"move": "c-feel",
+"label": "Feeling relieved",
+"rationale": "Lets you say the worry is over.",
+"interference": "anshin shita and hotto shita are near-synonyms, and raku ni natta also means it got easier.",
+"members": [
+"p-anshin-shita",
+"p-hotto-shita",
+"p-raku-ni-natta"
+],
+"stage": 2
+},
+{
+"move": "c-feel",
+"label": "Low moods",
+"rationale": "Lets you say you are down, torn or unmotivated.",
+"interference": "ochikonderu (feeling down) and nayanderu (torn, worrying over something) get swapped.",
+"members": [
+"p-ochikonderu",
+"p-yaruki-ga-denai",
+"p-nayanderu",
+"p-sonna-kibun-ja-nai"
+],
+"stage": 2
+},
+{
+"move": "c-feel",
+"label": "Easing someone up",
+"rationale": "Lets you tell someone to relax, slow down or stop overthinking.",
+"interference": "yukkuri de ii yo and aseranakute ii yo mean the same, and ochitsuite can sound like a scolding.",
+"members": [
+"p-ki-ni-shisugi-da-yo",
+"p-kiraku-ni-ikou",
+"p-yukkuri-de-ii-yo",
+"p-ochitsuite",
+"p-aseranakute-ii-yo"
+],
+"stage": 2
+},
+{
+"move": "c-feel",
+"label": "Too much food or drink",
+"rationale": "Lets you say you are full, stuffed or drunk.",
+"interference": "tabesugita and nomisugita differ by one verb, and onaka ippai (full) is not mou ippai (one more).",
+"members": [
+"p-onaka-ippai",
+"p-tabesugita",
+"p-nomisugita",
+"p-yopparatta",
+"p-mou-taberarenai"
+],
+"stage": 2
+},
+{
+"move": "c-feel",
+"label": "Being moved",
+"rationale": "Lets you say a show, song or moment got to you.",
+"interference": "nakeru (it makes you cry) is not naku (to cry), and tereru is about your own blushing.",
+"members": [
+"p-nakeru",
+"p-iyasareru",
+"p-tereru"
+],
+"stage": 2
+},
+{
+"move": "c-feel",
+"label": "Cheering someone on",
+"rationale": "Lets you encourage effort and praise it afterwards.",
+"interference": "yoku ganbatta ne is for effort already made, faito for effort ahead.",
+"members": [
+"p-yoku-ganbatta-ne",
+"p-muri-shinaide",
+"p-faito"
+],
+"stage": 2
+},
+{
+"move": "c-feel",
+"label": "Feeling refreshed",
+"rationale": "Lets you say something left you feeling better or revived.",
+"interference": "sukkiri (clear, unburdened) and sappari (clean, fresh) sound alike.",
+"members": [
+"p-sukkiri-shita",
+"p-sappari-shita",
+"p-ikikaetta"
+],
+"stage": 3
+},
+{
+"move": "c-feel",
+"label": "Get well wishes",
+"rationale": "Lets you wish a sick friend a quick recovery.",
+"interference": "odaiji ni is only for illness or injury, not a general take care.",
+"members": [
+"p-odaiji-ni",
+"p-hayaku-yoku-natte-ne",
+"p-yukkuri-yasunde"
+],
+"stage": 3
+},
+{
+"move": "c-feel",
+"label": "Comforting someone upset",
+"rationale": "Lets you comfort a friend who is down or in tears.",
+"interference": "yoshi yoshi is for kids and pets and can sound patronising to an adult.",
+"members": [
+"p-genki-dashite",
+"p-ki-o-otosanaide",
+"p-nakanaide",
+"p-yoshi-yoshi"
+],
+"stage": 3
+},
+{
+"move": "c-plans",
+"label": "Inviting someone out",
+"rationale": "Lets you invite a friend to eat, drink or come along.",
+"interference": "The -nai? ending is an invitation, not \"aren't you going?\".",
+"members": [
+"p-gohan-ikanai",
+"p-nomi-ni-ikanai",
+"p-ocha-demo-dou",
+"p-issho-ni-kuru",
+"p-uchi-kuru"
+],
+"stage": 2
+},
+{
+"move": "c-plans",
+"label": "Finding a time and place",
+"rationale": "Lets you check if someone is free and pin down when and where.",
+"interference": "aiteru? (are you free?) is easy to mix up with aite (partner).",
+"members": [
+"p-aiteru",
+"p-yotei-aru",
+"p-itsu-ga-ii",
+"p-nanji-ga-ii",
+"p-doko-de-au"
+],
+"stage": 2
+},
+{
+"move": "c-plans",
+"label": "Saying yes to plans",
+"rationale": "Lets you accept an invite with enthusiasm.",
+"interference": "tsukiau (keep you company) also means to date someone.",
+"members": [
+"p-ikeru-ikeru",
+"p-sono-hanashi-notta",
+"p-tsukiau-yo",
+"p-yorokonde"
+],
+"stage": 2
+},
+{
+"move": "c-plans",
+"label": "Turning down softly",
+"rationale": "Lets you say no to an invite without bluntness.",
+"interference": "kyou wa chotto works because it trails off, so don't finish the sentence.",
+"members": [
+"p-kyou-wa-chotto",
+"p-ikitai-kedo",
+"p-kyou-wa-pasu",
+"p-enryo-shite-okimasu"
+],
+"stage": 2
+},
+{
+"move": "c-plans",
+"label": "Deciding what to do",
+"rationale": "Lets you ask what to do and show you are easy either way.",
+"interference": "dou suru? (what shall we do?) is not dou shiyou (what do I do?!).",
+"members": [
+"p-dou-suru",
+"p-dotchi-demo-ii",
+"p-nani-taberu",
+"p-awaseru-yo",
+"p-makasete"
+],
+"stage": 2
+},
+{
+"move": "c-plans",
+"label": "Settling the plan",
+"rationale": "Lets you agree on a choice and lock it in.",
+"interference": "sou shiyou (let's do that) and sou suru (I'll do that) differ in who acts.",
+"members": [
+"p-sou-shiyou",
+"p-jaa-sore-de",
+"p-kimari",
+"p-yakusoku-ne"
+],
+"stage": 2
+},
+{
+"move": "c-plans",
+"label": "On the way",
+"rationale": "Lets you check where someone is and report where you are.",
+"interference": "tsuita (I've arrived) and tsuku (I will arrive) get swapped.",
+"members": [
+"p-ima-doko",
+"p-ima-mukatteru",
+"p-mou-sugu-tsuku",
+"p-tsuita-yo",
+"p-matteru-ne"
+],
+"stage": 2
+},
+{
+"move": "c-plans",
+"label": "Maybe next time",
+"rationale": "Lets you leave the door open when you can't or won't commit.",
+"interference": "mata kondo can be a polite no rather than a real promise.",
+"members": [
+"p-mata-kondo",
+"p-kondo-sasotte",
+"p-ki-ga-muitara"
+],
+"stage": 3
+},
+{
+"move": "c-plans",
+"label": "Delays and call-backs",
+"rationale": "Lets you handle running late, dropping out, or calling later.",
+"interference": "ato de denwa suru (I'll call) and ato de kakenaosu (I'll call back) overlap.",
+"members": [
+"p-chotto-okureru",
+"p-ikenaku-natta",
+"p-ato-de-denwa-suru",
+"p-ato-de-kakenaosu",
+"p-saki-ni-ittete"
+],
+"stage": 3
+},
+{
+"move": "c-plans",
+"label": "End of the night",
+"rationale": "Lets you suggest leaving, offer a ride home, or order one more.",
+"interference": "mou ippai (one more drink) is not onaka ippai (I'm full).",
+"members": [
+"p-sorosoro-ikou-ka",
+"p-shuuden-daijoubu",
+"p-okuru-yo",
+"p-mou-ippai"
+],
+"stage": 3
+},
+{
+"move": "c-banter",
+"label": "Joking around",
+"rationale": "Lets you mark a joke, ask for the punchline, or admit one bombed.",
+"interference": "uso uso (just kidding) is not the reaction uso! (no way!).",
+"members": [
+"p-joudan-da-yo",
+"p-uso-uso",
+"p-ochi-wa",
+"p-subetta",
+"p-jaan"
+],
+"stage": 2
+},
+{
+"move": "c-banter",
+"label": "Laughing it off",
+"rationale": "Lets you deny or shrug off teasing.",
+"interference": "sore ga nanika? (so what?) can sound combative if said flat.",
+"members": [
+"p-nai-nai",
+"p-ki-no-sei-da-yo",
+"p-mata-mata",
+"p-sore-ga-nanika"
+],
+"stage": 2
+},
+{
+"move": "c-banter",
+"label": "Stop teasing me",
+"rationale": "Lets you ask someone to ease off when they tease you.",
+"interference": "yamete can sound truly upset, so tone carries the playfulness.",
+"members": [
+"p-yamete",
+"p-karakawanaide",
+"p-kanben-shite-yo"
+],
+"stage": 2
+},
+{
+"move": "c-banter",
+"label": "Told you so",
+"rationale": "Lets you gloat when you were right or a habit repeats.",
+"interference": "hora ne (see? told you) is not hora (look!).",
+"members": [
+"p-hora-ne",
+"p-dakara-itta-ja-nai",
+"p-mata-hajimatta"
+],
+"stage": 2
+},
+{
+"move": "c-banter",
+"label": "Calling out bragging",
+"rationale": "Lets you poke fun at someone showing off.",
+"interference": "yoku iu (look who's talking) uses the same words as yoku iu (often say).",
+"members": [
+"p-jiman",
+"p-sore-jibun-de-iu",
+"p-yoku-iu",
+"p-choushi-ni-noru-na"
+],
+"stage": 2
+},
+{
+"move": "c-banter",
+"label": "Spoilers and killjoys",
+"rationale": "Lets you handle someone spoiling the fun or the mood.",
+"interference": "nori warui (no fun) has nothing to do with noru meaning to ride.",
+"members": [
+"p-netabare-shinaide",
+"p-nori-warui",
+"p-kuuki-yonde"
+],
+"stage": 3
+},
+{
+"move": "c-banter",
+"label": "Hey, cut that out",
+"rationale": "Lets you recognise rough calls to stop or pay attention.",
+"interference": "These are mostly for hearing; kora and iikagen ni shiro sound like scolding.",
+"members": [
+"p-nani-yatten-no",
+"p-oioi",
+"p-oi",
+"p-kora",
+"p-iikagen-ni-shiro"
+],
+"stage": 3
+},
+{
+"move": "c-banter",
+"label": "Rough comebacks",
+"rationale": "Lets you recognise harsh retorts and how hard they hit.",
+"interference": "baka ja nai no can be fond or cutting depending on tone, and shiru ka is ruder than shiranai.",
+"members": [
+"p-uzai",
+"p-baka-ja-nai-no",
+"p-shiru-ka",
+"p-fuzaken-na"
+],
+"stage": 3
+},
+{
+"move": "c-social",
+"label": "Bye for now",
+"rationale": "Lets you say goodbye to a friend you will see again soon.",
+"interference": "sayounara sounds final; mata ne is the friendly default.",
+"members": [
+"p-mata-ne",
+"p-jaa-mata",
+"p-mata-ashita",
+"p-mata-ato-de",
+"p-baibai"
+],
+"stage": 1
+},
+{
+"move": "c-social",
+"label": "Saying hi",
+"rationale": "Lets you greet a friend or someone you run into.",
+"interference": "doumo means both hi and thanks.",
+"members": [
+"p-yahhoo",
+"p-aitakatta",
+"p-doumo",
+"p-konbanwa",
+"p-odekake-desu-ka"
+],
+"stage": 1
+},
+{
+"move": "c-social",
+"label": "Thanking a friend",
+"rationale": "Lets you thank someone casually for a favour.",
+"interference": "warui ne here means thanks, I owe you, not \"that's bad\".",
+"members": [
+"p-sankyuu",
+"p-doumo-arigatou",
+"p-tasukatta",
+"p-warui-ne",
+"p-arigatou-gozaimashita"
+],
+"stage": 1
+},
+{
+"move": "c-social",
+"label": "Saying sorry",
+"rationale": "Lets you apologise to a friend, lightly or properly.",
+"interference": "gomen gomen is light, and suman is masculine.",
+"members": [
+"p-gomen-gomen",
+"p-gomen-nasai",
+"p-watashi-ga-warukatta",
+"p-suman"
+],
+"stage": 1
+},
+{
+"move": "c-social",
+"label": "Ending a hangout",
+"rationale": "Lets you wrap up time together warmly and stay in touch.",
+"interference": "tsuitara rain shite (text me when you get home) and rain shite (message me) differ only by the first word.",
+"members": [
+"p-kyou-wa-arigatou",
+"p-mata-asobou-ne",
+"p-ki-o-tsukete-kaette-ne",
+"p-tsuitara-rain-shite",
+"p-rain-shite"
+],
+"stage": 1
+},
+{
+"move": "c-social",
+"label": "Replying to thanks",
+"rationale": "Lets you brush off thanks or praise.",
+"interference": "douitashimashite sounds stiff between friends; ie ie is the natural reply.",
+"members": [
+"p-ie-ie",
+"p-otagaisama-da-yo",
+"p-tondemonai",
+"p-douitashimashite"
+],
+"stage": 1
+},
+{
+"move": "c-social",
+"label": "What to call each other",
+"rationale": "Lets you settle names and casual speech when you first meet.",
+"interference": "... tte yonde (call me ...) is not yonde (read it).",
+"members": [
+"p-nante-yobeba-ii",
+"p-tte-yonde",
+"p-tameguchi-de-ii-yo"
+],
+"stage": 1
+},
+{
+"move": "c-social",
+"label": "Late or out of touch",
+"rationale": "Lets you apologise for keeping someone waiting or going quiet.",
+"interference": "matta? (did you wait?) is not matte (wait).",
+"members": [
+"p-okurete-gomen",
+"p-omatase",
+"p-matta",
+"p-renraku-shinakute-gomen",
+"p-denwa-derarenakute-gomen"
+],
+"stage": 2
+},
+{
+"move": "c-social",
+"label": "At the table",
+"rationale": "Lets you toast, treat, and call people to eat.",
+"interference": "ogoru (to treat) and okoru (to get angry) sound close.",
+"members": [
+"p-kanpai",
+"p-ogoru-yo",
+"p-gohan-da-yo",
+"p-meshiagare",
+"p-samenai-uchi-ni"
+],
+"stage": 2
+},
+{
+"move": "c-social",
+"label": "Asking a favour",
+"rationale": "Lets you ask a friend for help or for something.",
+"interference": "choudai (give me) gets mixed up with chotto (a bit).",
+"members": [
+"p-warui-kedo",
+"p-chotto-tetsudatte",
+"p-tanomu-yo",
+"p-choudai"
+],
+"stage": 2
+},
+{
+"move": "c-social",
+"label": "Take care wishes",
+"rationale": "Lets you wish someone well when you part.",
+"interference": "ki o tsukete (take care) gets mixed up with ki ni shinaide (don't worry).",
+"members": [
+"p-genki-de-ne",
+"p-karada-ni-ki-o-tsukete",
+"p-kaze-hikanai-you-ni-ne",
+"p-oki-o-tsukete"
+],
+"stage": 2
+},
+{
+"move": "c-social",
+"label": "Offering help",
+"rationale": "Lets you offer a hand and thank someone for theirs.",
+"interference": "tetsudaou ka (shall I help?) is not tetsudatte (help me).",
+"members": [
+"p-tetsudaou-ka",
+"p-nanika-attara-itte-ne",
+"p-ki-ga-kiku-ne"
+],
+"stage": 2
+},
+{
+"move": "c-social",
+"label": "Heading off",
+"rationale": "Lets you leave before others or part for longer.",
+"interference": "osaki ni (I'm off first) is not osaki ni douzo (after you).",
+"members": [
+"p-osaki-ni",
+"p-mata-raishuu",
+"p-yoroshiku-tsutaete",
+"p-sayounara"
+],
+"stage": 2
+},
+{
+"move": "c-social",
+"label": "Congratulations",
+"rationale": "Lets you congratulate a friend on a milestone.",
+"interference": "omedetou and arigatou both end in -ou and can slip.",
+"members": [
+"p-otanjoubi-omedetou",
+"p-goukaku-omedetou",
+"p-sotsugyou-omedetou",
+"p-kekkon-omedetou"
+],
+"stage": 2
+},
+{
+"move": "c-social",
+"label": "Visiting a home",
+"rationale": "Lets you enter and leave a friend's place politely.",
+"interference": "ojama shimasu is for arriving, ojama shimashita for leaving.",
+"members": [
+"p-ojama-shimasu",
+"p-irasshai",
+"p-ojama-shimashita",
+"p-oagari-kudasai",
+"p-youkoso"
+],
+"stage": 2
+},
+{
+"move": "c-social",
+"label": "Go ahead and help yourself",
+"rationale": "Lets you put a guest or friend at ease.",
+"interference": "enryo shinaide (don't hold back) is not enryo shite okimasu (I'll pass).",
+"members": [
+"p-douzo-douzo",
+"p-yokattara-douzo",
+"p-enryo-shinaide",
+"p-raku-ni-shite",
+"p-osaki-ni-douzo"
+],
+"stage": 2
+},
+{
+"move": "c-social",
+"label": "Replying to kindness",
+"rationale": "Lets you accept or politely decline someone's fuss over you.",
+"interference": "enryo naku accepts, while okamai naku declines.",
+"members": [
+"p-ki-o-tsukawanaide",
+"p-enryo-naku",
+"p-okamai-naku",
+"p-goshinpai-naku"
+],
+"stage": 3
+},
+{
+"move": "c-social",
+"label": "Thanks for everything",
+"rationale": "Lets you thank someone at the end of work, a stay or a stretch of time.",
+"interference": "otsukaresama deshita thanks effort and does not mean \"you are tired\".",
+"members": [
+"p-otsukaresama-deshita",
+"p-iroiro-arigatou",
+"p-osewa-ni-narimashita"
+],
+"stage": 3
+},
+{
+"move": "c-social",
+"label": "Leaving and coming home",
+"rationale": "Lets you use the set phrases at the door of a shared home.",
+"interference": "tadaima is said by the one arriving, okaeri by the one at home.",
+"members": [
+"p-tadaima",
+"p-okaeri",
+"p-ittekimasu",
+"p-itterasshai",
+"p-okaerinasai"
+],
+"stage": 3
+},
+{
+"move": "c-social",
+"label": "Begging a favour",
+"rationale": "Lets you plead hard for help or forgiveness.",
+"interference": "tanomu kara and onegai dakara mean the same, and both are stronger than tanomu yo.",
+"members": [
+"p-onegai-dakara",
+"p-tanomu-kara",
+"p-yurushite"
+],
+"stage": 3
+},
+{
+"move": "c-social",
+"label": "Polite apologies",
+"rationale": "Lets you apologise formally to someone outside your circle.",
+"interference": "doumo sumimasen can also mean thank you so much.",
+"members": [
+"p-shitsurei-shimashita",
+"p-sumimasen-deshita",
+"p-doumo-sumimasen",
+"p-osoku-natte-sumimasen",
+"p-moushiwake-nai"
+],
+"stage": 3
+},
+{
+"move": "c-social",
+"label": "Holiday greetings",
+"rationale": "Lets you greet friends at Christmas and New Year.",
+"interference": "yoi otoshi o is said before New Year, akemashite omedetou only after.",
+"members": [
+"p-akemashite-omedetou",
+"p-merii-kurisumasu",
+"p-yoi-otoshi-o",
+"p-kotoshi-mo-yoroshiku-onegai-shimasu",
+"p-kotoshi-mo-osewa-ni-narimashita"
+],
+"stage": 3
+}
+]
+},
+"chunk:1": {
+"chunks": [
+{
+"move": "c-intro",
+"label": "Where you're from",
+"rationale": "Ask where someone is from and say where you grew up.",
+"interference": "doko kara kita no can also mean 'where have you just come from' today.",
+"members": [
+"p-doko-kara-kita-no",
+"p-shusshin-da-yo",
+"p-shusshin-doko",
+"p-jimoto-doko",
+"p-umare-mo-sodachi-mo"
+],
+"stage": 1
+},
+{
+"move": "c-intro",
+"label": "What you do for work",
+"rationale": "Ask about someone's job and describe your own.",
+"interference": "de hataraiteru takes de for the workplace, while sunderu takes ni.",
+"members": [
+"p-donna-shigoto",
+"p-de-hataraiteru",
+"p-doko-de-hataraiteru-no",
+"p-kankei-no-shigoto-o-shiteru",
+"p-kaishain-da-yo"
+],
+"stage": 1
+},
+{
+"move": "c-intro",
+"label": "Where you live now",
+"rationale": "Ask where someone lives and say how and where you live.",
+"interference": "jikka is your parents' home, not just any house you live in.",
+"members": [
+"p-ima-doko-ni-sunderu-no",
+"p-ni-sunderu",
+"p-hitorigurashi",
+"p-jikka-ni-sunderu",
+"p-tsuukin-dono-gurai"
+],
+"stage": 1
+},
+{
+"move": "c-intro",
+"label": "Why you came to Japan",
+"rationale": "Answer and ask the 'why Japan' question and what sparked it.",
+"interference": "nande asks for the reason; kikkake asks what set it off.",
+"members": [
+"p-nande-nihon-ni-kita-no",
+"p-kikkake-wa",
+"p-shigoto-de-kita",
+"p-zutto-nihon-ni-kitakatta-n-da",
+"p-ga-kikkake-de"
+],
+"stage": 1
+},
+{
+"move": "c-intro",
+"label": "How long you're here",
+"rationale": "Say how long you've been in Japan and how long you'll stay.",
+"interference": "dono gurai looks back (how long so far); itsu made looks ahead (until when).",
+"members": [
+"p-nihon-ni-kite-dono-gurai",
+"p-nen-gurai-ni-naru",
+"p-kita-bakkari",
+"p-itsu-made-iru-no",
+"p-mada-kimetenai"
+],
+"stage": 1
+},
+{
+"move": "c-intro",
+"label": "Speaking in Japanese",
+"rationale": "Say you're learning and steer the chat into Japanese.",
+"interference": "hanaseru? (can you speak) vs hanasou (let's speak).",
+"members": [
+"p-nihongo-benkyou-shiteru-n-da",
+"p-nihongo-de-hanasou",
+"p-eigo-hanaseru"
+],
+"stage": 1
+},
+{
+"move": "c-intro",
+"label": "Compliments on your Japanese",
+"rationale": "Handle the inevitable 'your Japanese is good' and the questions that follow.",
+"interference": "dokugaku (self-taught) sounds close to daigaku (university).",
+"members": [
+"p-nihongo-jouzu-desu-ne",
+"p-mada-mada-desu",
+"p-nihongo-doko-de-benkyou-shita-no",
+"p-dokugaku-da-yo"
+],
+"stage": 1
+},
+{
+"move": "c-intro",
+"label": "Meeting a friend's friend",
+"rationale": "Greet someone new through a mutual friend and swap contacts.",
+"interference": "rain here is the LINE app, not the weather.",
+"members": [
+"p-aete-ureshii",
+"p-no-tomodachi-na-n-da",
+"p-rain-koukan-shiyou",
+"p-insuta-yatteru",
+"p-kara-hanashi-wa-kiiteru"
+],
+"stage": 1
+},
+{
+"move": "c-intro",
+"label": "Describing your hometown",
+"rationale": "Pin down where their hometown is and say what yours is like.",
+"interference": "dono hen (whereabouts) vs donna (what kind of).",
+"members": [
+"p-donna-tokoro",
+"p-no-dono-hen",
+"p-nanimo-nai-tokoro-da-yo",
+"p-motomoto-wa"
+],
+"stage": 1
+},
+{
+"move": "c-intro",
+"label": "Life in Japan",
+"rationale": "Answer how you're finding Japan and what you like about it.",
+"interference": "None.",
+"members": [
+"p-nihon-no-seikatsu-wa-dou",
+"p-nihon-no-doko-ga-suki",
+"p-daibu-nareta"
+],
+"stage": 1
+},
+{
+"move": "c-intro",
+"label": "Brothers sisters and family",
+"rationale": "Ask about siblings and family size and describe your own.",
+"interference": "ani is your own older brother; theirs is oniisan.",
+"members": [
+"p-kyoudai-iru",
+"p-nannin-kazoku",
+"p-hitorikko-na-n-da",
+"p-ani-ga-hitori-iru",
+"p-yonin-kazoku-da-yo"
+],
+"stage": 1
+},
+{
+"move": "c-intro",
+"label": "Studies and job hunting",
+"rationale": "Talk about what you study or that you're between jobs.",
+"interference": "ryuugaku (study abroad) vs ryokou (travel).",
+"members": [
+"p-senkou-wa",
+"p-daigaku-de-o-benkyou-shiteru",
+"p-ryuugaku-shiteru",
+"p-ima-wa-shigoto-sagashichuu"
+],
+"stage": 2
+},
+{
+"move": "c-intro",
+"label": "Age and birth year",
+"rationale": "Work out ages, which Japanese friends often check early.",
+"interference": "nannen umare (what year born) vs nannen (how many years).",
+"members": [
+"p-toshi-ikutsu",
+"p-onaidoshi-da",
+"p-nannen-umare",
+"p-ketsuekigata-wa"
+],
+"stage": 2
+},
+{
+"move": "c-intro",
+"label": "Partner kids and pets",
+"rationale": "Ask about someone's household beyond their parents and siblings.",
+"interference": "katteru here means keeping a pet (飼う), not buying (買う).",
+"members": [
+"p-kekkon-shiteru",
+"p-kodomo-iru",
+"p-petto-katteru"
+],
+"stage": 2
+},
+{
+"move": "c-intro",
+"label": "Polite first-meeting questions",
+"rationale": "Recognise the formal versions people use with a stranger.",
+"interference": "These are polite forms; among friends doko kara kita no replaces dochira kara desu ka.",
+"members": [
+"p-onamae-wa",
+"p-dochira-kara-desu-ka",
+"p-shitsurei-desu-ga"
+],
+"stage": 2
+},
+{
+"move": "c-likes",
+"label": "Hobbies and what you like",
+"rationale": "Ask about hobbies and say what you're into.",
+"interference": "no ga suki follows a verb (taberu no ga suki); a noun takes ga suki directly.",
+"members": [
+"p-shumi-wa",
+"p-ga-shumi-na-n-da",
+"p-tte-suki",
+"p-no-ga-suki",
+"p-shumi-tte-iu-hodo-ja-nai-kedo"
+],
+"stage": 1
+},
+{
+"move": "c-likes",
+"label": "Weekends and free time",
+"rationale": "Say what you usually do when you're off.",
+"interference": "daitai (usually) vs zettai (definitely).",
+"members": [
+"p-shuumatsu-wa-daitai",
+"p-jikan-ga-aru-toki-wa",
+"p-ie-de-gorogoro-shiteru"
+],
+"stage": 1
+},
+{
+"move": "c-likes",
+"label": "Do you do this",
+"rationale": "Ask about everyday pastimes with a simple yes-no question.",
+"interference": "jimu ni kayotteru (go regularly) vs jimu ni itta (went once).",
+"members": [
+"p-eiga-toka-miru",
+"p-ryouri-suru",
+"p-nanika-supootsu-yatteru",
+"p-geemu-suru",
+"p-jimu-ni-kayotteru"
+],
+"stage": 1
+},
+{
+"move": "c-likes",
+"label": "Food you like",
+"rationale": "Trade favourite foods and say how adventurous you are.",
+"interference": "tabeta koto aru? (ever eaten it) vs tabeta? (did you eat).",
+"members": [
+"p-suki-na-tabemono-wa",
+"p-tabeta-koto-aru",
+"p-nandemo-taberu-yo",
+"p-suki-kirai-aru"
+],
+"stage": 1
+},
+{
+"move": "c-likes",
+"label": "Places you've been",
+"rationale": "Ask where someone has travelled and say where you want to go.",
+"interference": "itta koto aru? (ever been) vs itta? (did you go).",
+"members": [
+"p-itta-koto-aru",
+"p-mada-itta-koto-nai",
+"p-itsuka-itte-mitai",
+"p-nihon-de-doko-itta",
+"p-yoku-ryokou-suru"
+],
+"stage": 1
+},
+{
+"move": "c-likes",
+"label": "Shows and favourites",
+"rationale": "Swap what you've been watching and who you're a fan of.",
+"interference": "oshi is the person you're a fan of, not a crush.",
+"members": [
+"p-saikin-nanika-omoshiroi-no-mita",
+"p-ima-nanika-dorama-miteru",
+"p-oshi-wa-dare"
+],
+"stage": 1
+},
+{
+"move": "c-likes",
+"label": "Music and gigs",
+"rationale": "Ask about someone's music taste, gigs and karaoke songs.",
+"interference": "raibu is a live gig or concert, not 'live' as in living.",
+"members": [
+"p-donna-ongaku-kiku-no",
+"p-suki-na-aatisuto-iru",
+"p-raibu-toka-iku",
+"p-karaoke-de-nani-utau"
+],
+"stage": 1
+},
+{
+"move": "c-likes",
+"label": "How long and how good",
+"rationale": "Follow up on a hobby by asking how long, and say how new or rusty you are.",
+"interference": "mukashi yatteta (used to do) vs yatteru (do now).",
+"members": [
+"p-dono-gurai-yatteru-no",
+"p-saikin-hajimeta-n-da",
+"p-mukashi-yatteta",
+"p-zenzen-heta-da-kedo"
+],
+"stage": 1
+},
+{
+"move": "c-likes",
+"label": "Getting into their hobby",
+"rationale": "Show interest in trying their hobby or pull them into yours.",
+"interference": "yatte mitai means want to try, not want to see.",
+"members": [
+"p-watashi-mo-yatte-mitai",
+"p-kondo-oshiete",
+"p-zettai-hamaru-yo"
+],
+"stage": 2
+},
+{
+"move": "c-likes",
+"label": "Eating and drinking out",
+"rationale": "Sort out food and drink limits when you go out together.",
+"interference": "osake yowai means you get drunk easily, not that you dislike drinking.",
+"members": [
+"p-osake-nomu",
+"p-karai-no-daijoubu",
+"p-osake-yowai-n-da",
+"p-okiniiri-no-omise-aru",
+"p-nattou-taberareru"
+],
+"stage": 2
+},
+{
+"move": "c-likes",
+"label": "Which type are you",
+"rationale": "Play the 'this or that' game about what kind of person you are.",
+"interference": "ha here means side or camp (派), not the topic particle wa.",
+"members": [
+"p-inu-ha-neko-ha",
+"p-indoa-ha-da-yo",
+"p-yougaku-to-hougaku-dotchi-kiku"
+],
+"stage": 2
+},
+{
+"move": "c-opine",
+"label": "Asking their view",
+"rationale": "Invite someone's opinion or reaction on a topic.",
+"interference": "sou omowanai? fishes for agreement; dou omou? is open.",
+"members": [
+"p-dou-omou",
+"p-sou-omowanai",
+"p-jissai-dou-na-no",
+"p-kansou-wa",
+"p-ano-nyuusu-mita"
+],
+"stage": 1
+},
+{
+"move": "c-opine",
+"label": "Saying it's good",
+"rationale": "Give a quick positive verdict on something.",
+"interference": "omoshirokatta means fun or interesting, not only funny.",
+"members": [
+"p-ii-n-ja-nai",
+"p-omoshirokatta",
+"p-ii-kanji",
+"p-ari-da-ne",
+"p-mite-son-wa-nai"
+],
+"stage": 1
+},
+{
+"move": "c-opine",
+"label": "Saying it's not great",
+"rationale": "Give a mild negative verdict without sounding harsh.",
+"interference": "awanakatta (didn't suit me) vs aenakatta (couldn't meet).",
+"members": [
+"p-imaichi",
+"p-anmari-suki-ja-nai",
+"p-nanka-chigau",
+"p-kitai-shiteta-hodo-ja-nakatta",
+"p-watashi-ni-wa-awanakatta"
+],
+"stage": 1
+},
+{
+"move": "c-opine",
+"label": "Liking it your way",
+"rationale": "Say you like something in a low-key way and say what you like about it.",
+"interference": "warukunai and kirai ja nai sound negative but mean you like it.",
+"members": [
+"p-warukunai",
+"p-kirai-ja-nai",
+"p-tokoro-ga-suki",
+"p-watashi-wa-suki-da-kedo"
+],
+"stage": 1
+},
+{
+"move": "c-opine",
+"label": "Framing your own view",
+"rationale": "Open your opinion so it lands as personal, not as fact.",
+"interference": "watashi dattara (if it were me) vs watashi datta (it was me).",
+"members": [
+"p-yoku-wakannai-kedo",
+"p-watashi-dattara",
+"p-kojinteki-ni-wa",
+"p-watashi-teki-ni-wa",
+"p-butchake"
+],
+"stage": 1
+},
+{
+"move": "c-opine",
+"label": "Comparing here and there",
+"rationale": "Compare Japan with home, or one thing with another.",
+"interference": "sumiyasui is easy (yasui) to live in, not cheap.",
+"members": [
+"p-to-kurabete-dou",
+"p-sonna-ni-kawaranai",
+"p-nani-ga-ichiban-chigau",
+"p-yappari-ga-ichiban",
+"p-sumiyasui"
+],
+"stage": 1
+},
+{
+"move": "c-opine",
+"label": "It depends",
+"rationale": "Avoid a flat answer when the honest view is 'it depends'.",
+"interference": "ichigai ni wa ienai (can't generalise) vs nantomo ienai (can't say).",
+"members": [
+"p-toki-to-baai-ni-yoru",
+"p-nantomo-ienai",
+"p-muzukashii-tokoro-da-ne",
+"p-ichigai-ni-wa-ienai",
+"p-kuni-ni-yotte-chigau-yo-ne"
+],
+"stage": 1
+},
+{
+"move": "c-opine",
+"label": "Tastes differ",
+"rationale": "Say that opinions split without saying anyone is wrong.",
+"interference": "wakareru (split, divide) vs wakaru (understand).",
+"members": [
+"p-hito-sorezore",
+"p-suki-na-hito-wa-suki-da-yo-ne",
+"p-konomi-ga-wakareru",
+"p-atari-hazure-ga-aru"
+],
+"stage": 2
+},
+{
+"move": "c-opine",
+"label": "Picking a side",
+"rationale": "Ask which option someone prefers and lean one way yourself.",
+"interference": "dotchi? (which one) vs dotchika (either one); ha is 'camp' (派), not the particle wa.",
+"members": [
+"p-dotchi-ga-ii-to-omou",
+"p-dotchika-tte-iu-to",
+"p-dotchi-ha",
+"p-watashi-wa-ha-kana"
+],
+"stage": 2
+},
+{
+"move": "c-opine",
+"label": "Rating words",
+"rationale": "Shade a verdict up or down with a small degree word.",
+"interference": "futsuu ni can mean 'honestly, really', not just 'normally'.",
+"members": [
+"p-warito",
+"p-igai-to",
+"p-futsuu-ni",
+"p-no-wari-ni-wa"
+],
+"stage": 2
+},
+{
+"move": "c-opine",
+"label": "Kind of like",
+"rationale": "Describe something by likeness when you lack the exact word.",
+"interference": "trailing mitai na ('like, ...') vs mitai (want to see).",
+"members": [
+"p-ppoi",
+"p-mitai-na",
+"p-ni-niteru"
+],
+"stage": 2
+},
+{
+"move": "c-opine",
+"label": "Weighing their point",
+"rationale": "Acknowledge someone's view before adding your own.",
+"interference": "iitai koto wa wakaru signals a 'but' is coming, not full agreement.",
+"members": [
+"p-iitai-koto-wa-wakaru",
+"p-sou-iu-kangaekata-mo-aru-ne",
+"p-kangaeta-koto-nakatta",
+"p-sore-wa-sore-de-ii"
+],
+"stage": 2
+},
+{
+"move": "c-opine",
+"label": "Impressions and stereotypes",
+"rationale": "Share an impression or doubt while flagging it may be unfair.",
+"interference": "imeeji means impression, not picture.",
+"members": [
+"p-tte-imeeji-ga-aru",
+"p-imeeji-to-chigau",
+"p-tte-iu-hito-mo-iru-kedo",
+"p-wa-dou-ka-to-omou",
+"p-henken-kamo-shirenai-kedo"
+],
+"stage": 2
+},
+{
+"move": "c-opine",
+"label": "Shrugging it off",
+"rationale": "Let a point go or play something down.",
+"interference": "saa can mean 'who knows' or 'come on, let's go'.",
+"members": [
+"p-maa-ii-ka",
+"p-taishita-koto-nai",
+"p-sou-iu-mon",
+"p-saa"
+],
+"stage": 2
+},
+{
+"move": "c-opine",
+"label": "Sounding unimpressed",
+"rationale": "Recognise or voice a cool, dismissive take.",
+"interference": "dou demo ii (don't care) sounds cold; nandemo ii (anything's fine) is the friendly one.",
+"members": [
+"p-betsu-ni-ii-kedo",
+"p-dou-demo-ii",
+"p-mada-mada",
+"p-baka-mitai"
+],
+"stage": 3
+},
+{
+"move": "c-catchup",
+"label": "How have you been",
+"rationale": "Open a catch-up by asking how someone's doing.",
+"interference": "genki datta? (been well since we last met) vs genki? (are you well).",
+"members": [
+"p-saikin-dou",
+"p-choushi-dou",
+"p-saikin-isogashii",
+"p-genki-datta",
+"p-nanika-kawatta-koto-atta"
+],
+"stage": 1
+},
+{
+"move": "c-catchup",
+"label": "Nothing much new",
+"rationale": "Answer 'how are you' when life is just ticking along.",
+"interference": "kawari nai (nothing's changed) vs kawaranai (won't change).",
+"members": [
+"p-toku-ni-nanimo-nai-yo",
+"p-aikawarazu-da-yo",
+"p-bochibochi",
+"p-kawari-nai",
+"p-nantoka-yatteru"
+],
+"stage": 1
+},
+{
+"move": "c-catchup",
+"label": "Busy tired or rested",
+"rationale": "Say how busy or worn out you've been.",
+"interference": "nebusoku (short on sleep) vs nemui (sleepy right now).",
+"members": [
+"p-batabata-shiteta",
+"p-saikin-chotto-tsukaregimi",
+"p-chotto-nebusoku",
+"p-yatto-ochitsuita",
+"p-yoku-neta"
+],
+"stage": 1
+},
+{
+"move": "c-catchup",
+"label": "Last weekend",
+"rationale": "Ask about and sum up a weekend or holiday.",
+"interference": "yukkuri dekita (got to relax) vs yukkuri (slowly).",
+"members": [
+"p-shuumatsu-nani-shita",
+"p-tanoshikatta",
+"p-shuumatsu-yukkuri-dekita",
+"p-renkyuu-dokoka-itta"
+],
+"stage": 1
+},
+{
+"move": "c-catchup",
+"label": "How work is going",
+"rationale": "Check in on someone's job, the default catch-up topic.",
+"interference": "shigoto nani shiteru no asks what job; shigoto dou asks how it's going.",
+"members": [
+"p-shigoto-dou",
+"p-shigoto-nani-shiteru-no",
+"p-zangyou-ooi"
+],
+"stage": 1
+},
+{
+"move": "c-catchup",
+"label": "Your news",
+"rationale": "Share what's new with you and follow up on their news.",
+"interference": "hamatteru (hooked on) vs haitteru (is inside).",
+"members": [
+"p-ni-hamatteru",
+"p-mae-ni-itteta-dou-natta",
+"p-hikkoshita-n-da",
+"p-tenshoku-shita-n-da",
+"p-hisashiburi-ni-shita"
+],
+"stage": 1
+},
+{
+"move": "c-catchup",
+"label": "Weather and seasons",
+"rationale": "Make the easy seasonal small talk Japanese conversations open with.",
+"interference": "mushiatsui (humid) vs atsui (hot).",
+"members": [
+"p-suzushiku-natte-kita-ne",
+"p-ame-bakkari-da-ne",
+"p-mushiatsui-ne",
+"p-kandansa-sugoi-ne",
+"p-kafunshou-aru"
+],
+"stage": 1
+},
+{
+"move": "c-catchup",
+"label": "Days off and plans",
+"rationale": "Ask about days off and say you've got nothing on.",
+"interference": "yotei (plans) vs yoyaku (booking).",
+"members": [
+"p-toku-ni-yotei-nai",
+"p-kyou-wa-yasumi",
+"p-yasumi-no-hi-wa-nani-shiteru",
+"p-hayaku-shuumatsu-ni-naranai-kana"
+],
+"stage": 2
+},
+{
+"move": "c-catchup",
+"label": "Seeing someone again",
+"rationale": "Greet a friend you haven't seen in a long time.",
+"interference": "nannenburi (how many years) vs hisashiburi (long time no see).",
+"members": [
+"p-genkisou-da-ne",
+"p-kawatte-nai-ne",
+"p-nannenburi"
+],
+"stage": 2
+},
+{
+"move": "c-catchup",
+"label": "Asking about their people",
+"rationale": "Ask after someone's family, partner or a mutual friend.",
+"interference": "dou shiteru (how are they doing) vs dou shita (what happened).",
+"members": [
+"p-kazoku-wa-genki",
+"p-dou-shiteru",
+"p-ii-hito-iru"
+],
+"stage": 2
+},
+{
+"move": "c-catchup",
+"label": "Casual check-in texts",
+"rationale": "Send or answer the light check-ins friends drop by message.",
+"interference": "gohan tabeta? is a caring check-in, not an invitation to eat.",
+"members": [
+"p-ima-nani-shiteru",
+"p-gohan-tabeta",
+"p-chanto-tabeteru"
+],
+"stage": 2
+},
+{
+"move": "c-catchup",
+"label": "Noticing changes",
+"rationale": "Comment on a new haircut or look, or on your own weight.",
+"interference": "kitta (cut) vs kita (came, wore).",
+"members": [
+"p-kami-kitta",
+"p-funiki-kawatta-ne",
+"p-yaseta",
+"p-saikin-chotto-futotchatta"
+],
+"stage": 2
+},
+{
+"move": "c-catchup",
+"label": "Time flies",
+"rationale": "Remark on how fast the year goes and ask about holiday plans.",
+"interference": "kaeru (go home) sounds the same as kaeru (change).",
+"members": [
+"p-jikan-tatsu-no-hayai-ne",
+"p-kotoshi-mo-ato-sukoshi-da-ne",
+"p-oshougatsu-wa-kaeru-no"
+],
+"stage": 2
+},
+{
+"move": "c-catchup",
+"label": "Polite small talk",
+"rationale": "Handle formal small talk with older people or acquaintances.",
+"interference": "desu ne is polite; with friends it drops to atsui ne.",
+"members": [
+"p-atsui-desu-ne",
+"p-samui-desu-ne",
+"p-ii-tenki-desu-ne",
+"p-okagesama-de"
+],
+"stage": 3
+}
+]
+}
+}

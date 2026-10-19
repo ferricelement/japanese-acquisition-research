@@ -1,0 +1,106 @@
+move	id	romaji	english	cv	role
+c-errands	p-otsukaresama-desu	otsukaresama desu	hello; thanks for your hard work (between coworkers)	2	both
+c-errands	p-gokurousama-desu	gokurousama desu	thanks for your trouble (to workers, juniors)	1	both
+c-errands	p-gokurousan	gokurousan	thanks for your trouble; good job	1	hear
+c-errands	p-itsumo-arigatou-gozaimasu	itsumo arigatou gozaimasu	thanks as always	2	both
+c-errands	p-osaki-ni-shitsurei-shimasu	osaki ni shitsurei shimasu	I'll be leaving now, before you	2	say
+c-errands	p-okake-kudasai	okake kudasai	please have a seat	1	hear
+c-errands	p-moushiwake-arimasen	moushiwake arimasen	I'm very sorry (formal)	1	both
+c-errands	p-moushiwake-gozaimasen	moushiwake gozaimasen	we're deeply sorry (very formal)	1	hear
+c-errands	p-oisogashii-tokoro-sumimasen	oisogashii tokoro sumimasen	sorry to bother you when you're busy	1	say
+c-errands	p-gomeiwaku-o-okake-shimashita	gomeiwaku o okake shimashita	sorry for the trouble I caused	1	say
+c-errands	p-orimasu	orimasu	I'm getting off (on a crowded train or bus)	1	say
+c-errands	p-kakunin-shimasu	kakunin shimasu	I'll check	1	both
+c-errands	p-shouchi-shimashita	shouchi shimashita	understood; certainly, will do	1	both
+c-errands	p-onegai-itashimasu	onegai itashimasu	please (very polite)	1	both
+c-errands	p-kentou-shimasu	kentou shimasu	I'll think it over; we'll consider it	1	both
+c-errands	p-osoreirimasu	osoreirimasu	thank you; excuse me (very polite)	1	hear
+c-errands	p-oyaku-ni-tateru	oyaku ni tateru	be of help (humble)	2	say
+c-errands	p-kashikomarimashita	kashikomarimashita	certainly; understood	2	hear
+c-errands	p-irasshaimase	irasshaimase	welcome (in shops)	2	hear
+c-errands	p-gochuumon	gochuumon	your order	1	hear
+c-errands	p-okoshi	okoshi	coming; visit (honorific)	1	hear
+c-errands	p-kore-ni-shimasu	kore ni shimasu	I'll take this one; I'll have this	2	say
+c-errands	p-kore-kudasai	kore kudasai	I'll have this, please	2	say
+c-errands	p-osusume-wa-nan-desu-ka	osusume wa nan desu ka	what do you recommend?	2	say
+c-errands	p-shichaku-shite-mo-ii-desu-ka	shichaku shite mo ii desu ka	can I try this on?	1	say
+c-errands	p-ikura-desu-ka	ikura desu ka	how much is it?	2	say
+c-errands	p-kaado-de-onegai-shimasu	kaado de onegai shimasu	by card, please	2	say
+c-errands	p-kaado-tsukaemasu-ka	kaado tsukaemasu ka	can I pay by card?	2	say
+c-errands	p-zeikomi-desu-ka	zeikomi desu ka	does that include tax?	1	say
+c-errands	p-reshiito-wa-daijoubu-desu	reshiito wa daijoubu desu	I don't need the receipt	1	say
+c-errands	p-fukuro-wa-daijoubu-desu	fukuro wa daijoubu desu	I don't need a bag	1	say
+c-errands	p-fukuro-onegai-shimasu	fukuro onegai shimasu	a bag, please	1	say
+c-errands	p-kono-mama-de-ii-desu	kono mama de ii desu	it's fine as it is	1	say
+c-errands	p-purezento-you-desu	purezento you desu	it's a gift	1	say
+c-errands	p-chuumon-ii-desu-ka	chuumon ii desu ka	can we order?	2	say
+c-errands	p-ijou-desu	ijou desu	that's all	2	both
+c-errands	p-toire-wa-doko-desu-ka	toire wa doko desu ka	where's the toilet?	2	say
+c-errands	p-futari-desu	futari desu	two people; a table for two	2	say
+c-errands	p-omizu-kudasai	omizu kudasai	water, please	2	say
+c-errands	p-mochikaeri-de	mochikaeri de	to take away, please	2	say
+c-errands	p-tennai-de	tennai de	to eat in, please; for here	2	say
+c-errands	p-oomori-de	oomori de	a large portion, please	1	say
+c-errands	p-ii-desu-ka	ii desu ka	is it okay?; may I?	2	both
+c-errands	p-yoroshii-desu-ka	yoroshii desu ka	would that be all right?; may I?	2	both
+c-errands	p-miteru-dake-desu	miteru dake desu	I'm just looking	2	say
+c-errands	p-ato-de-mata-kimasu	ato de mata kimasu	I'll come back later	1	say
+c-errands	p-chotto-kangaemasu	chotto kangaemasu	I'll think about it	1	say
+c-errands	p-okaikei-onegai-shimasu	okaikei onegai shimasu	the bill, please	2	say
+c-errands	p-ryoushuusho-onegai-shimasu	ryoushuusho onegai shimasu	a receipt, please (official one)	1	say
+c-errands	p-betsubetsu-de-onegai-shimasu	betsubetsu de onegai shimasu	separate bills, please	2	say
+c-errands	p-okawari	okawari	seconds; a refill	2	both
+c-errands	p-toriaezu-biiru	toriaezu biiru	beer to start	2	both
+c-errands	p-onegai-dekimasu-ka	onegai dekimasu ka	could you do that for me?; could I ask for...?	2	say
+c-errands	p-kekkou-desu	kekkou desu	no, thank you; that's fine	2	say
+c-errands	p-koko-de-ii-desu	koko de ii desu	here is fine	2	say
+c-errands	p-ikaga-desu-ka	ikaga desu ka	would you like some?; how about it?; how is it?	2	both
+c-errands	p-osewa-ni-natte-orimasu	osewa ni natte orimasu	thanks for your continued support (business greeting)	1	both
+c-errands	p-tadaima-modorimashita	tadaima modorimashita	I'm back (at work)	1	say
+c-errands	p-otesuu-desu-ga	otesuu desu ga	sorry to trouble you, but...	1	both
+c-errands	p-shoushou-omachi-kudasai	shoushou omachi kudasai	one moment, please	2	hear
+c-errands	p-omatase-shimashita	omatase shimashita	sorry to keep you waiting; here you are	2	both
+c-errands	p-tsugi-no-kata-douzo	tsugi no kata douzo	next, please	1	hear
+c-errands	p-kochira-no-reji-e-douzo	kochira no reji e douzo	this register, please; I can help you over here	1	hear
+c-errands	p-tadaima-ukagaimasu	tadaima ukagaimasu	I'll be right with you; coming right away	1	hear
+c-errands	p-nanmeisama-desu-ka	nanmeisama desu ka	how many people?; how many in your party?	2	hear
+c-errands	p-kochira-e-douzo	kochira e douzo	this way, please	2	hear
+c-errands	p-osuki-na-seki-e-douzo	osuki na seki e douzo	sit anywhere you like	1	hear
+c-errands	p-goyoyaku-wa-sarete-imasu-ka	goyoyaku wa sarete imasu ka	do you have a reservation?	1	hear
+c-errands	p-omachi-shite-orimashita	omachi shite orimashita	we've been expecting you; welcome	1	hear
+c-errands	p-goyukkuri-douzo	goyukkuri douzo	enjoy your meal; enjoy your stay; take your time	1	hear
+c-errands	p-gochuumon-wa-okimari-desu-ka	gochuumon wa okimari desu ka	are you ready to order?	1	hear
+c-errands	p-gochuumon-wa-ijou-de-yoroshii-desu-ka	gochuumon wa ijou de yoroshii desu ka	will that be all?; is that everything?	1	hear
+c-errands	p-onomimono-wa-ikaga-nasaimasu-ka	onomimono wa ikaga nasaimasu ka	what would you like to drink?; would you like a drink?	1	hear
+c-errands	p-osage-shite-mo-yoroshii-desu-ka	osage shite mo yoroshii desu ka	may I take your plate?; may I clear this?	1	hear
+c-errands	p-tennai-de-omeshiagari-desu-ka	tennai de omeshiagari desu ka	for here?; are you eating in?	1	hear
+c-errands	p-omochikaeri-desu-ka	omochikaeri desu ka	to go?; takeaway?	1	hear
+c-errands	p-atatamemasu-ka	atatamemasu ka	shall I heat it up?	1	hear
+c-errands	p-ohashi-wa-otsuke-shimasu-ka	ohashi wa otsuke shimasu ka	do you need chopsticks?	1	hear
+c-errands	p-fukuro-wa-otsuke-shimasu-ka	fukuro wa otsuke shimasu ka	do you need a bag?	1	hear
+c-errands	p-pointo-kaado-wa-omochi-desu-ka	pointo kaado wa omochi desu ka	do you have a points card?	1	hear
+c-errands	p-oshiharai-wa-dou-saremasu-ka	oshiharai wa dou saremasu ka	how would you like to pay?	1	hear
+c-errands	p-shiiru-de-ii-desu-ka	shiiru de ii desu ka	is a sticker okay? (instead of a bag)	1	hear
+c-errands	p-dochira-sama-desu-ka	dochirasama desu ka	who is this?; may I ask who's calling?	1	both
+c-errands	p-okaeshi-desu	okaeshi desu	here's your change	1	hear
+c-errands	p-oazukari-shimasu	oazukari shimasu	out of (the amount you hand over); I'll take that for you	1	hear
+c-errands	p-goissho-de-yoroshii-desu-ka	goissho de yoroshii desu ka	all on one bill?; all together?	1	hear
+c-errands	p-ikkatsu-de-yoroshii-desu-ka	ikkatsu de yoroshii desu ka	in one payment? (paying by card)	1	hear
+c-errands	p-mata-okoshi-kudasai	mata okoshi kudasai	please come again	1	hear
+c-errands	p-nanika-osagashi-desu-ka	nanika osagashi desu ka	are you looking for something?; can I help you find anything?	1	hear
+c-errands	p-goran-kudasai	goran kudasai	please take a look	1	hear
+c-errands	p-nanika-goyou-desu-ka	nanika goyou desu ka	can I help you?; what do you need?	1	hear
+c-errands	p-maido	maido	thanks as always; hi there (shopkeeper's greeting)	1	hear
+c-errands	p-orikaeshi-odenwa-shimasu	orikaeshi odenwa shimasu	I'll call you back; we'll return your call	1	both
+c-errands	p-kyou-wa-dou-saremashita-ka	kyou wa dou saremashita ka	what brings you in today?; what seems to be the problem?	1	hear
+c-errands	p-odenwa-arigatou-gozaimasu	odenwa arigatou gozaimasu	thank you for calling	1	hear
+c-errands	p-hokenshou-o-onegai-shimasu	hokenshou o onegai shimasu	your health insurance card, please	1	hear
+c-errands	p-onamae-o-ukagatte-mo-yoroshii-desu-ka	onamae o ukagatte mo yoroshii desu ka	may I have your name?	1	hear
+c-errands	p-ossharu-toori-desu	ossharu toori desu	you're quite right; exactly as you say	1	both
+c-errands	p-tasukete	tasukete	help!	2	say
+c-errands	p-kyuukyuusha-o-yonde	kyuukyuusha o yonde	call an ambulance	1	say
+c-errands	p-jishin-da	jishin da	it's an earthquake!; earthquake!	2	both
+c-errands	p-koko-ga-itai	koko ga itai	it hurts here	2	say
+c-errands	p-koko-doko	koko doko?	where am I?; where is this?	2	say
+c-errands	p-michi-ni-mayotta	michi ni mayotta	I'm lost; I got lost	2	say
+c-errands	p-dou-ikeba-ii-desu-ka	dou ikeba ii desu ka	how do I get there?	2	say

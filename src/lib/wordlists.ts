@@ -44,7 +44,7 @@ const make = (data: unknown, section: string) => makeCourse(data as ListData<Wor
 export const WORDLISTS = {
 	core: { course: make(core, 'core'), title: 'Core words', unit: 'words', file: '23-list-core.json' },
 	sets: { course: make(sets, 'sets'), title: 'Word sets', unit: 'words', file: '24-list-sets.json' },
-	phrases: { course: make(phrases, 'phrases'), title: 'Set phrases', unit: 'phrases', file: '25-list-phrases.json' },
+	phrases: { course: make(phrases, 'phrases'), title: 'Conversation phrases', unit: 'phrases', file: '25-list-phrases.json' },
 	conjugations: { course: make(conjugations, 'conjugations'), title: 'Conjugations', unit: 'forms and patterns', file: '26-list-conjugations.json' },
 } as const;
 export type ListKey = keyof typeof WORDLISTS;

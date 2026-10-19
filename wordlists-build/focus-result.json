@@ -1,0 +1,3069 @@
+{
+"focus:phrases": {
+"focus": [
+{
+"id": "p-onamae-wa",
+"move": "c-intro"
+},
+{
+"id": "p-dochira-kara-desu-ka",
+"move": "c-intro"
+},
+{
+"id": "p-shitsurei-desu-ga",
+"move": "c-intro"
+},
+{
+"id": "p-nihongo-jouzu-desu-ne",
+"move": "c-intro"
+},
+{
+"id": "p-mada-mada-desu",
+"move": "c-intro"
+},
+{
+"id": "p-rain-koukan-shiyou",
+"move": "c-intro"
+},
+{
+"id": "p-suki-kirai-aru",
+"move": "c-likes"
+},
+{
+"id": "p-dou-omou",
+"move": "c-opine"
+},
+{
+"id": "p-nantomo-ienai",
+"move": "c-opine"
+},
+{
+"id": "p-omoshirokatta",
+"move": "c-opine"
+},
+{
+"id": "p-ii-kanji",
+"move": "c-opine"
+},
+{
+"id": "p-sou-iu-mon",
+"move": "c-opine"
+},
+{
+"id": "p-saikin-dou",
+"move": "c-catchup"
+},
+{
+"id": "p-genki-datta",
+"move": "c-catchup"
+},
+{
+"id": "p-kawari-nai",
+"move": "c-catchup"
+},
+{
+"id": "p-dou-shiteru",
+"move": "c-catchup"
+},
+{
+"id": "p-atsui-desu-ne",
+"move": "c-catchup"
+},
+{
+"id": "p-samui-desu-ne",
+"move": "c-catchup"
+},
+{
+"id": "p-ii-tenki-desu-ne",
+"move": "c-catchup"
+},
+{
+"id": "p-tanoshikatta",
+"move": "c-catchup"
+},
+{
+"id": "p-sore-na",
+"move": "c-react"
+},
+{
+"id": "p-wakaru-wakaru",
+"move": "c-react"
+},
+{
+"id": "p-nani-sore",
+"move": "c-react"
+},
+{
+"id": "p-maji-ka",
+"move": "c-react"
+},
+{
+"id": "p-uso-desho",
+"move": "c-react"
+},
+{
+"id": "p-arienai",
+"move": "c-react"
+},
+{
+"id": "p-shinjirarenai",
+"move": "c-react"
+},
+{
+"id": "p-fuun",
+"move": "c-react"
+},
+{
+"id": "p-ii-naa",
+"move": "c-react"
+},
+{
+"id": "p-ii-jan",
+"move": "c-react"
+},
+{
+"id": "p-yosasou",
+"move": "c-react"
+},
+{
+"id": "p-shiranakatta",
+"move": "c-react"
+},
+{
+"id": "p-sou-iu-koto-ka",
+"move": "c-react"
+},
+{
+"id": "p-iya-iya",
+"move": "c-react"
+},
+{
+"id": "p-dou-datta",
+"move": "c-ask"
+},
+{
+"id": "p-donna-kanji",
+"move": "c-ask"
+},
+{
+"id": "p-kiite-mo-ii",
+"move": "c-ask"
+},
+{
+"id": "p-nani-nani",
+"move": "c-ask"
+},
+{
+"id": "p-sou-sou",
+"move": "c-agree"
+},
+{
+"id": "p-sou-omou",
+"move": "c-agree"
+},
+{
+"id": "p-sore-wa-sou",
+"move": "c-agree"
+},
+{
+"id": "p-sorya-sou-da",
+"move": "c-agree"
+},
+{
+"id": "p-sore-wa-nai",
+"move": "c-agree"
+},
+{
+"id": "p-chigau-chigau",
+"move": "c-agree"
+},
+{
+"id": "p-uun",
+"move": "c-agree"
+},
+{
+"id": "p-iroiro-atte",
+"move": "c-tell"
+},
+{
+"id": "p-taihen-datta-ne",
+"move": "c-feel"
+},
+{
+"id": "p-kimochi-wakaru",
+"move": "c-feel"
+},
+{
+"id": "p-dou-iu-koto",
+"move": "c-repair"
+},
+{
+"id": "p-sou-ja-nakute",
+"move": "c-repair"
+},
+{
+"id": "p-joudan-da-yo",
+"move": "c-banter"
+},
+{
+"id": "p-nai-nai",
+"move": "c-banter"
+},
+{
+"id": "p-hanashi-kawaru-kedo",
+"move": "c-flow"
+},
+{
+"id": "p-a-sou-da",
+"move": "c-flow"
+},
+{
+"id": "p-chotto-kiite",
+"move": "c-flow"
+},
+{
+"id": "p-ano-sa",
+"move": "c-flow"
+}
+]
+},
+"focus:core-a": {
+"focus": [
+{
+"id": "w-annai-suru",
+"move": "c-plans"
+},
+{
+"id": "w-dekakeru",
+"move": "c-catchup"
+},
+{
+"id": "w-kayou",
+"move": "c-likes"
+},
+{
+"id": "w-yomu",
+"move": "c-likes"
+},
+{
+"id": "w-yobu",
+"move": "c-intro"
+},
+{
+"id": "w-shoukai-suru",
+"move": "c-intro"
+},
+{
+"id": "w-sasou",
+"move": "c-plans"
+},
+{
+"id": "w-shaberu",
+"move": "c-intro"
+},
+{
+"id": "w-tsutawaru",
+"move": "c-repair"
+},
+{
+"id": "w-shinjiru",
+"move": "c-react"
+},
+{
+"id": "w-shiranai",
+"move": "c-react"
+},
+{
+"id": "w-ouen-suru",
+"move": "c-likes"
+},
+{
+"id": "w-kekkon-suru",
+"move": "c-intro"
+},
+{
+"id": "w-deau",
+"move": "c-ask"
+},
+{
+"id": "w-shiriau",
+"move": "c-ask"
+},
+{
+"id": "w-hataraku",
+"move": "c-intro"
+},
+{
+"id": "w-nareru",
+"move": "c-intro"
+},
+{
+"id": "w-umaku-iku",
+"move": "c-catchup"
+},
+{
+"id": "w-kurasu-2",
+"move": "c-intro"
+},
+{
+"id": "w-sugosu",
+"move": "c-catchup"
+},
+{
+"id": "w-yotei",
+"move": "c-plans"
+},
+{
+"id": "w-seikatsu",
+"move": "c-intro"
+},
+{
+"id": "w-koro",
+"move": "c-tell"
+},
+{
+"id": "w-shourai",
+"move": "c-intro"
+},
+{
+"id": "w-machi",
+"move": "c-opine"
+},
+{
+"id": "w-yasumi",
+"move": "c-likes"
+},
+{
+"id": "w-baito",
+"move": "c-intro"
+},
+{
+"id": "w-sabishii",
+"move": "c-feel"
+},
+{
+"id": "w-kawaisou",
+"move": "c-react"
+},
+{
+"id": "w-natsukashii",
+"move": "c-react"
+},
+{
+"id": "w-tokui",
+"move": "c-likes"
+},
+{
+"id": "w-heta",
+"move": "c-likes"
+},
+{
+"id": "w-erai",
+"move": "c-react"
+},
+{
+"id": "w-igai-2",
+"move": "c-opine"
+},
+{
+"id": "w-yuumei",
+"move": "c-intro"
+},
+{
+"id": "w-suteki",
+"move": "c-react"
+},
+{
+"id": "w-chikai",
+"move": "c-intro"
+},
+{
+"id": "w-tooi",
+"move": "c-intro"
+},
+{
+"id": "w-zehi",
+"move": "c-plans"
+},
+{
+"id": "w-mechakucha",
+"move": "c-opine"
+},
+{
+"id": "w-sore-kara",
+"move": "c-tell"
+},
+{
+"id": "w-soshitara",
+"move": "c-tell"
+},
+{
+"id": "w-sono-ato",
+"move": "c-tell"
+},
+{
+"id": "w-tada-2",
+"move": "c-opine"
+},
+{
+"id": "w-tokoro-de",
+"move": "c-flow"
+},
+{
+"id": "w-tte-iu-ka",
+"move": "c-repair"
+},
+{
+"id": "w-utau",
+"move": "c-likes"
+},
+{
+"id": "w-odoru",
+"move": "c-likes"
+},
+{
+"id": "w-kandou-suru",
+"move": "c-opine"
+},
+{
+"id": "w-mukatsuku",
+"move": "c-feel"
+},
+{
+"id": "w-tsukiau",
+"move": "c-intro"
+},
+{
+"id": "w-moteru",
+"move": "c-banter"
+},
+{
+"id": "w-narau",
+"move": "c-intro"
+},
+{
+"id": "w-sodatsu",
+"move": "c-intro"
+},
+{
+"id": "w-honki",
+"move": "c-react"
+},
+{
+"id": "w-shokku",
+"move": "c-feel"
+},
+{
+"id": "w-kikkake",
+"move": "c-intro"
+},
+{
+"id": "w-imeeji",
+"move": "c-opine"
+},
+{
+"id": "w-kinjo",
+"move": "c-intro"
+},
+{
+"id": "w-koukou",
+"move": "c-tell"
+},
+{
+"id": "w-gohan",
+"move": "c-plans"
+},
+{
+"id": "w-tabemono",
+"move": "c-likes"
+},
+{
+"id": "w-sotsugyou-suru",
+"move": "c-intro"
+},
+{
+"id": "w-bu",
+"move": "c-intro"
+},
+{
+"id": "w-choushi",
+"move": "c-catchup"
+},
+{
+"id": "w-nomikai",
+"move": "c-plans"
+},
+{
+"id": "w-shumi",
+"move": "c-likes"
+},
+{
+"id": "w-dorama",
+"move": "c-likes"
+},
+{
+"id": "w-fan",
+"move": "c-likes"
+},
+{
+"id": "w-mendokusai",
+"move": "c-feel"
+},
+{
+"id": "w-tsurai",
+"move": "c-feel"
+},
+{
+"id": "w-kitsui",
+"move": "c-catchup"
+},
+{
+"id": "w-majime",
+"move": "c-opine"
+},
+{
+"id": "w-kawatteru",
+"move": "c-banter"
+},
+{
+"id": "w-junchou",
+"move": "c-catchup"
+},
+{
+"id": "w-benri",
+"move": "c-opine"
+},
+{
+"id": "w-aikawarazu",
+"move": "c-catchup"
+},
+{
+"id": "w-nantonaku",
+"move": "c-intro"
+},
+{
+"id": "w-guuzen",
+"move": "c-react"
+},
+{
+"id": "w-hikkosu",
+"move": "c-intro"
+},
+{
+"id": "w-ukeru",
+"move": "c-react"
+},
+{
+"id": "w-koukan-suru",
+"move": "c-intro"
+},
+{
+"id": "w-tsutomeru",
+"move": "c-intro"
+},
+{
+"id": "w-kareshi",
+"move": "c-intro"
+},
+{
+"id": "w-koibito",
+"move": "c-intro"
+},
+{
+"id": "w-gakusei",
+"move": "c-intro"
+},
+{
+"id": "w-kyoumi-nai",
+"move": "c-likes"
+},
+{
+"id": "w-inaka",
+"move": "c-intro"
+},
+{
+"id": "w-jimoto",
+"move": "c-intro"
+},
+{
+"id": "w-shusshin",
+"move": "c-intro"
+},
+{
+"id": "w-jikoshoukai",
+"move": "c-intro"
+},
+{
+"id": "w-renrakusaki",
+"move": "c-intro"
+},
+{
+"id": "w-ocha",
+"move": "c-plans"
+}
+]
+},
+"focus:core-b": {
+"focus": [
+{
+"id": "w-senmon"
+},
+{
+"id": "w-ryokou"
+},
+{
+"id": "w-onsen"
+},
+{
+"id": "w-taipu"
+},
+{
+"id": "w-urayamashii"
+},
+{
+"id": "w-daikirai"
+},
+{
+"id": "w-muchuu"
+},
+{
+"id": "w-kakkoii"
+},
+{
+"id": "w-wakai"
+},
+{
+"id": "w-oshare"
+},
+{
+"id": "w-zurui"
+},
+{
+"id": "w-kojinteki"
+},
+{
+"id": "w-mezurashii"
+},
+{
+"id": "w-yoku-aru"
+},
+{
+"id": "w-kodomo-no-koro"
+},
+{
+"id": "w-chiisai-koro"
+},
+{
+"id": "w-kafe"
+},
+{
+"id": "w-izakaya"
+},
+{
+"id": "w-ryouri"
+},
+{
+"id": "w-raamen"
+},
+{
+"id": "w-sushi"
+},
+{
+"id": "w-zangyou"
+},
+{
+"id": "w-kaimono"
+},
+{
+"id": "w-douga"
+},
+{
+"id": "w-manga"
+},
+{
+"id": "w-esu-enu-esu"
+},
+{
+"id": "w-kyoku"
+},
+{
+"id": "w-raibu"
+},
+{
+"id": "w-karaoke"
+},
+{
+"id": "w-supootsu"
+},
+{
+"id": "w-natsuyasumi"
+},
+{
+"id": "w-rain"
+},
+{
+"id": "w-dochira-mo"
+},
+{
+"id": "w-shinsetsu"
+},
+{
+"id": "w-naka-ii"
+},
+{
+"id": "w-bimyou"
+},
+{
+"id": "w-dasai"
+},
+{
+"id": "w-umai"
+},
+{
+"id": "w-dore-gurai"
+},
+{
+"id": "w-maamaa"
+},
+{
+"id": "w-nonbiri-suru"
+},
+{
+"id": "w-gorogoro"
+},
+{
+"id": "w-perapera"
+},
+{
+"id": "s-hitori"
+},
+{
+"id": "s-nannin"
+},
+{
+"id": "s-sai"
+},
+{
+"id": "s-nansai"
+},
+{
+"id": "s-okaasan"
+},
+{
+"id": "s-otousan"
+},
+{
+"id": "s-haha"
+},
+{
+"id": "s-chichi"
+},
+{
+"id": "s-kazoku"
+},
+{
+"id": "s-oya"
+},
+{
+"id": "s-ryoushin"
+},
+{
+"id": "s-ani"
+},
+{
+"id": "s-oniisan"
+},
+{
+"id": "s-ane"
+},
+{
+"id": "s-oneesan"
+},
+{
+"id": "s-kyoudai"
+},
+{
+"id": "s-imouto"
+},
+{
+"id": "s-otouto"
+},
+{
+"id": "s-kanojo"
+},
+{
+"id": "s-kare"
+},
+{
+"id": "s-nihon"
+},
+{
+"id": "s-nihonjin"
+},
+{
+"id": "s-eigo"
+},
+{
+"id": "s-jin"
+},
+{
+"id": "s-go-2"
+},
+{
+"id": "s-nen"
+},
+{
+"id": "s-kagetsu"
+},
+{
+"id": "s-nensei"
+},
+{
+"id": "s-tenki"
+},
+{
+"id": "s-mushiatsui"
+},
+{
+"id": "s-kono-hen"
+},
+{
+"id": "s-amerika"
+},
+{
+"id": "s-chuugoku"
+},
+{
+"id": "s-kankoku"
+},
+{
+"id": "s-igirisu"
+},
+{
+"id": "s-oosutoraria"
+},
+{
+"id": "s-kuni"
+},
+{
+"id": "s-kaigai"
+},
+{
+"id": "s-amai"
+},
+{
+"id": "s-karai"
+},
+{
+"id": "s-onaidoshi"
+},
+{
+"id": "s-nijuudai"
+},
+{
+"id": "g-teru"
+},
+{
+"id": "g-ta"
+},
+{
+"id": "g-tai"
+},
+{
+"id": "g-tari"
+},
+{
+"id": "g-te-miru"
+},
+{
+"id": "g-to-ieba"
+}
+]
+},
+"hunt:top": {
+"items": [
+{
+"ja": "出身どこ？",
+"kana": "しゅっしんどこ？",
+"romaji": "shusshin doko?",
+"polite": "goshusshin wa dochira desu ka?",
+"en": "where are you from? (where did you grow up?)",
+"move": "c-intro",
+"cv": 5,
+"surface": [
+"出身どこ",
+"どこ出身",
+"出身はどこ"
+]
+},
+{
+"ja": "〜出身だよ",
+"kana": "〜しゅっしんだよ",
+"romaji": "... shusshin da yo",
+"polite": "... shusshin desu",
+"en": "I'm from ... (originally)",
+"move": "c-intro",
+"cv": 5,
+"surface": [
+"出身だよ",
+"出身です",
+"出身なんだ"
+]
+},
+{
+"ja": "どこから来たの？",
+"kana": "どこからきたの？",
+"romaji": "doko kara kita no?",
+"polite": "dochira kara irasshatta n desu ka?",
+"en": "where are you from? (where did you come over from?)",
+"move": "c-intro",
+"cv": 5,
+"surface": [
+"どこから来たの",
+"どこから来た"
+]
+},
+{
+"ja": "地元どこ？",
+"kana": "じもとどこ？",
+"romaji": "jimoto doko?",
+"polite": "jimoto wa dochira desu ka?",
+"en": "where's your hometown?",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"地元どこ",
+"地元はどこ"
+]
+},
+{
+"ja": "〜のどの辺？",
+"kana": "〜のどのへん？",
+"romaji": "... no dono hen?",
+"polite": "... no dono hen desu ka?",
+"en": "whereabouts in ...?",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"のどの辺",
+"のどのへん"
+]
+},
+{
+"ja": "生まれも育ちも〜",
+"kana": "うまれもそだちも〜",
+"romaji": "umare mo sodachi mo ...",
+"polite": "umare mo sodachi mo ... desu",
+"en": "born and raised in ...",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"生まれも育ちも"
+]
+},
+{
+"ja": "どんなところ？",
+"kana": "どんなところ？",
+"romaji": "donna tokoro?",
+"polite": "donna tokoro desu ka?",
+"en": "what's it like there?",
+"move": "c-intro",
+"cv": 5,
+"surface": [
+"どんなところ",
+"どんな所"
+]
+},
+{
+"ja": "何もないところだよ",
+"kana": "なにもないところだよ",
+"romaji": "nanimo nai tokoro da yo",
+"polite": "nanimo nai tokoro desu yo",
+"en": "there's not much there (the modest answer about your hometown)",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"何もないところ",
+"何もない所",
+"なんもないところ"
+]
+},
+{
+"ja": "今どこに住んでるの？",
+"kana": "いまどこにすんでるの？",
+"romaji": "ima doko ni sunderu no?",
+"polite": "ima dochira ni osumai desu ka?",
+"en": "where do you live now?",
+"move": "c-intro",
+"cv": 5,
+"surface": [
+"どこに住んでる",
+"どこ住んでる"
+]
+},
+{
+"ja": "〜に住んでる",
+"kana": "〜にすんでる",
+"romaji": "... ni sunderu",
+"polite": "... ni sunde imasu",
+"en": "I live in ...",
+"move": "c-intro",
+"cv": 5,
+"surface": [
+"に住んでる",
+"に住んでます"
+]
+},
+{
+"ja": "一人暮らし？",
+"kana": "ひとりぐらし？",
+"romaji": "hitorigurashi?",
+"polite": "hitorigurashi desu ka?",
+"en": "do you live on your own?",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"一人暮らし",
+"ひとり暮らし"
+]
+},
+{
+"ja": "実家に住んでる",
+"kana": "じっかにすんでる",
+"romaji": "jikka ni sunderu",
+"polite": "jikka ni sunde imasu",
+"en": "I live with my parents (in the family home)",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"実家に住んで",
+"実家暮らし"
+]
+},
+{
+"ja": "日本に来てどのぐらい？",
+"kana": "にほんにきてどのぐらい？",
+"romaji": "nihon ni kite dono gurai?",
+"polite": "nihon ni kite dono gurai desu ka?",
+"en": "how long have you been in Japan?",
+"move": "c-intro",
+"cv": 5,
+"surface": [
+"来てどのくらい",
+"来てどれくらい",
+"来てどのぐらい"
+]
+},
+{
+"ja": "〜年ぐらいになる",
+"kana": "〜ねんぐらいになる",
+"romaji": "...nen gurai ni naru",
+"polite": "...nen gurai ni narimasu",
+"en": "it's been about ... years",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"年ぐらいになる",
+"年くらいになる",
+"年になります"
+]
+},
+{
+"ja": "来たばっかり",
+"kana": "きたばっかり",
+"romaji": "kita bakkari",
+"polite": "kita bakari desu",
+"en": "I've only just got here",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"来たばっかり",
+"来たばかり"
+]
+},
+{
+"ja": "なんで日本に来たの？",
+"kana": "なんでにほんにきたの？",
+"romaji": "nande nihon ni kita no?",
+"polite": "dou shite nihon ni kita n desu ka?",
+"en": "what made you come to Japan?",
+"move": "c-intro",
+"cv": 5,
+"surface": [
+"なんで日本に来た",
+"どうして日本に来た"
+]
+},
+{
+"ja": "きっかけは？",
+"kana": "きっかけは？",
+"romaji": "kikkake wa?",
+"polite": "kikkake wa nan desu ka?",
+"en": "what got you started? how did it come about?",
+"move": "c-intro",
+"cv": 5,
+"surface": [
+"きっかけは",
+"きっかけって"
+]
+},
+{
+"ja": "〜がきっかけで",
+"kana": "〜がきっかけで",
+"romaji": "... ga kikkake de",
+"polite": null,
+"en": "it all started with ...; ... is what got me into it",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"がきっかけで"
+]
+},
+{
+"ja": "ずっと日本に来たかったんだ",
+"kana": "ずっとにほんにきたかったんだ",
+"romaji": "zutto nihon ni kitakatta n da",
+"polite": "zutto nihon ni kitakatta n desu",
+"en": "I'd always wanted to come to Japan",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"ずっと日本に来たかった",
+"日本に来たかった"
+]
+},
+{
+"ja": "仕事で来た",
+"kana": "しごとできた",
+"romaji": "shigoto de kita",
+"polite": "shigoto de kimashita",
+"en": "I came over for work",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"仕事で来た",
+"仕事で来ました"
+]
+},
+{
+"ja": "留学してる",
+"kana": "りゅうがくしてる",
+"romaji": "ryuugaku shiteru",
+"polite": "ryuugaku shite imasu",
+"en": "I'm here studying abroad",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"留学してる",
+"留学中"
+]
+},
+{
+"ja": "いつまでいるの？",
+"kana": "いつまでいるの？",
+"romaji": "itsu made iru no?",
+"polite": "itsu made irassharu n desu ka?",
+"en": "how long are you here for?",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"いつまでいるの",
+"いつまでいる"
+]
+},
+{
+"ja": "まだ決めてない",
+"kana": "まだきめてない",
+"romaji": "mada kimetenai",
+"polite": "mada kimete imasen",
+"en": "I haven't decided yet",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"まだ決めてない",
+"まだ決めてません"
+]
+},
+{
+"ja": "日本の生活はどう？",
+"kana": "にほんのせいかつはどう？",
+"romaji": "nihon no seikatsu wa dou?",
+"polite": "nihon no seikatsu wa dou desu ka?",
+"en": "how are you finding life in Japan?",
+"move": "c-intro",
+"cv": 5,
+"surface": [
+"日本の生活はどう",
+"日本の生活どう"
+]
+},
+{
+"ja": "だいぶ慣れた",
+"kana": "だいぶなれた",
+"romaji": "daibu nareta",
+"polite": "daibu naremashita",
+"en": "I've pretty much settled in",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"だいぶ慣れた",
+"大分慣れた",
+"だいぶ慣れました"
+]
+},
+{
+"ja": "日本のどこが好き？",
+"kana": "にほんのどこがすき？",
+"romaji": "nihon no doko ga suki?",
+"polite": "nihon no doko ga suki desu ka?",
+"en": "what do you like about Japan?",
+"move": "c-intro",
+"cv": 5,
+"surface": [
+"日本のどこが好き"
+]
+},
+{
+"ja": "日本語どこで勉強したの？",
+"kana": "にほんごどこでべんきょうしたの？",
+"romaji": "nihongo doko de benkyou shita no?",
+"polite": "nihongo wa doko de benkyou shita n desu ka?",
+"en": "where did you learn your Japanese?",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"どこで勉強した",
+"日本語どこで"
+]
+},
+{
+"ja": "独学だよ",
+"kana": "どくがくだよ",
+"romaji": "dokugaku da yo",
+"polite": "dokugaku desu",
+"en": "I taught myself",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"独学で",
+"独学だよ",
+"独学です"
+]
+},
+{
+"ja": "日本語勉強してるんだ",
+"kana": "にほんごべんきょうしてるんだ",
+"romaji": "nihongo benkyou shiteru n da",
+"polite": "nihongo o benkyou shite iru n desu",
+"en": "I'm learning Japanese",
+"move": "c-intro",
+"cv": 5,
+"surface": [
+"日本語勉強してる",
+"日本語を勉強して"
+]
+},
+{
+"ja": "日本語で話そう",
+"kana": "にほんごではなそう",
+"romaji": "nihongo de hanasou",
+"polite": "nihongo de hanashimashou",
+"en": "let's talk in Japanese",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"日本語で話そう",
+"日本語で話しましょう"
+]
+},
+{
+"ja": "英語話せる？",
+"kana": "えいごはなせる？",
+"romaji": "eigo hanaseru?",
+"polite": "eigo hanasemasu ka?",
+"en": "do you speak English?",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"英語話せる",
+"英語話せます",
+"英語しゃべれる"
+]
+},
+{
+"ja": "どこで働いてるの？",
+"kana": "どこではたらいてるの？",
+"romaji": "doko de hataraiteru no?",
+"polite": "dochira de hataraite iru n desu ka?",
+"en": "where do you work?",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"どこで働いてる",
+"どこで働いて"
+]
+},
+{
+"ja": "〜で働いてる",
+"kana": "〜ではたらいてる",
+"romaji": "... de hataraiteru",
+"polite": "... de hataraite imasu",
+"en": "I work at ...",
+"move": "c-intro",
+"cv": 5,
+"surface": [
+"で働いてる",
+"で働いてます"
+]
+},
+{
+"ja": "どんな仕事？",
+"kana": "どんなしごと？",
+"romaji": "donna shigoto?",
+"polite": "donna oshigoto desu ka?",
+"en": "what kind of work is it?",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"どんな仕事",
+"どんなお仕事"
+]
+},
+{
+"ja": "〜関係の仕事をしてる",
+"kana": "〜かんけいのしごとをしてる",
+"romaji": "... kankei no shigoto o shiteru",
+"polite": "... kankei no shigoto o shite imasu",
+"en": "I work in something to do with ... (IT, tourism ...)",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"関係の仕事",
+"系の仕事"
+]
+},
+{
+"ja": "会社員だよ",
+"kana": "かいしゃいんだよ",
+"romaji": "kaishain da yo",
+"polite": "kaishain desu",
+"en": "I work for a company; I'm an office worker",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"会社員"
+]
+},
+{
+"ja": "今は仕事探し中",
+"kana": "いまはしごとさがしちゅう",
+"romaji": "ima wa shigoto sagashichuu",
+"polite": "ima wa shigoto sagashichuu desu",
+"en": "I'm job hunting at the moment",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"仕事探し中",
+"仕事探してる"
+]
+},
+{
+"ja": "通勤どのぐらい？",
+"kana": "つうきんどのぐらい？",
+"romaji": "tsuukin dono gurai?",
+"polite": "tsuukin wa dono gurai desu ka?",
+"en": "how long's your commute?",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"通勤どのくらい",
+"通勤どれくらい",
+"通勤時間"
+]
+},
+{
+"ja": "学生？",
+"kana": "がくせい？",
+"romaji": "gakusei?",
+"polite": "gakusei desu ka?",
+"en": "are you a student?",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"学生なの",
+"学生さん"
+]
+},
+{
+"ja": "専攻は？",
+"kana": "せんこうは？",
+"romaji": "senkou wa?",
+"polite": "senkou wa nan desu ka?",
+"en": "what's your major? what are you studying?",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"専攻は",
+"専攻何"
+]
+},
+{
+"ja": "大学で〜を勉強してる",
+"kana": "だいがくで〜をべんきょうしてる",
+"romaji": "daigaku de ... o benkyou shiteru",
+"polite": "daigaku de ... o benkyou shite imasu",
+"en": "I study ... at uni",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"を勉強してる",
+"を専攻してる"
+]
+},
+{
+"ja": "兄弟いる？",
+"kana": "きょうだいいる？",
+"romaji": "kyoudai iru?",
+"polite": "gokyoudai wa imasu ka?",
+"en": "do you have any brothers or sisters?",
+"move": "c-intro",
+"cv": 5,
+"surface": [
+"兄弟いる",
+"兄弟は",
+"ご兄弟"
+]
+},
+{
+"ja": "一人っ子なんだ",
+"kana": "ひとりっこなんだ",
+"romaji": "hitorikko na n da",
+"polite": "hitorikko desu",
+"en": "I'm an only child",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"一人っ子",
+"ひとりっ子"
+]
+},
+{
+"ja": "兄が一人いる",
+"kana": "あにがひとりいる",
+"romaji": "ani ga hitori iru",
+"polite": "ani ga hitori imasu",
+"en": "I've got one older brother",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"兄が一人",
+"姉が一人",
+"弟が一人"
+]
+},
+{
+"ja": "何人家族？",
+"kana": "なんにんかぞく？",
+"romaji": "nannin kazoku?",
+"polite": "nannin kazoku desu ka?",
+"en": "how many are there in your family?",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"何人家族"
+]
+},
+{
+"ja": "4人家族だよ",
+"kana": "よにんかぞくだよ",
+"romaji": "yonin kazoku da yo",
+"polite": "yonin kazoku desu",
+"en": "there are four of us (in my family)",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"4人家族",
+"四人家族",
+"5人家族"
+]
+},
+{
+"ja": "結婚してる？",
+"kana": "けっこんしてる？",
+"romaji": "kekkon shiteru?",
+"polite": "kekkon shite imasu ka?",
+"en": "are you married?",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"結婚してる",
+"結婚されて"
+]
+},
+{
+"ja": "子供いる？",
+"kana": "こどもいる？",
+"romaji": "kodomo iru?",
+"polite": "okosan wa imasu ka?",
+"en": "do you have kids?",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"子供いる",
+"子どもいる",
+"お子さん"
+]
+},
+{
+"ja": "ペット飼ってる？",
+"kana": "ペットかってる？",
+"romaji": "petto katteru?",
+"polite": "petto o katte imasu ka?",
+"en": "do you have any pets?",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"ペット飼って",
+"何か飼ってる"
+]
+},
+{
+"ja": "年いくつ？",
+"kana": "としいくつ？",
+"romaji": "toshi ikutsu?",
+"polite": "oikutsu desu ka?",
+"en": "how old are you?",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"年いくつ",
+"いくつなの",
+"おいくつ"
+]
+},
+{
+"ja": "何年生まれ？",
+"kana": "なんねんうまれ？",
+"romaji": "nannen umare?",
+"polite": "nannen umare desu ka?",
+"en": "what year were you born? (a softer way to ask someone's age)",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"何年生まれ"
+]
+},
+{
+"ja": "同い年だ！",
+"kana": "おないどしだ！",
+"romaji": "onaidoshi da!",
+"polite": "onaidoshi desu ne",
+"en": "we're the same age!",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"同い年"
+]
+},
+{
+"ja": "血液型は？",
+"kana": "けつえきがたは？",
+"romaji": "ketsuekigata wa?",
+"polite": "ketsuekigata wa nan desu ka?",
+"en": "what's your blood type? (a classic Japanese getting-to-know-you question)",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"血液型"
+]
+},
+{
+"ja": "インスタやってる？",
+"kana": "インスタやってる？",
+"romaji": "insuta yatteru?",
+"polite": "insuta yatte imasu ka?",
+"en": "are you on Instagram?",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"インスタやってる",
+"インスタやって"
+]
+},
+{
+"ja": "〜の友達なんだ",
+"kana": "〜のともだちなんだ",
+"romaji": "... no tomodachi na n da",
+"polite": "... no tomodachi desu",
+"en": "I'm a friend of ...'s",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"の友達なんだ",
+"の友達です"
+]
+},
+{
+"ja": "〜から話は聞いてる",
+"kana": "〜からはなしはきいてる",
+"romaji": "... kara hanashi wa kiiteru",
+"polite": "... kara ohanashi wa kiite imasu",
+"en": "I've heard about you from ...",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"話は聞いてる",
+"話は聞いて",
+"お話は伺って"
+]
+},
+{
+"ja": "会えてうれしい",
+"kana": "あえてうれしい",
+"romaji": "aete ureshii",
+"polite": "oai dekite ureshii desu",
+"en": "so glad to meet you",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"会えてうれしい",
+"会えて嬉しい",
+"お会いできて"
+]
+},
+{
+"ja": "もともとは〜",
+"kana": "もともとは〜",
+"romaji": "motomoto wa ...",
+"polite": null,
+"en": "originally ...; I was originally ...",
+"move": "c-intro",
+"cv": 4,
+"surface": [
+"もともとは",
+"元々は"
+]
+},
+{
+"ja": "趣味は？",
+"kana": "しゅみは？",
+"romaji": "shumi wa?",
+"polite": "goshumi wa nan desu ka?",
+"en": "what are your hobbies? what do you do for fun?",
+"move": "c-likes",
+"cv": 5,
+"surface": [
+"趣味は",
+"趣味って"
+]
+},
+{
+"ja": "〜が趣味なんだ",
+"kana": "〜がしゅみなんだ",
+"romaji": "... ga shumi na n da",
+"polite": "shumi wa ... desu",
+"en": "... is my hobby; I'm into ...",
+"move": "c-likes",
+"cv": 5,
+"surface": [
+"が趣味"
+]
+},
+{
+"ja": "趣味っていうほどじゃないけど",
+"kana": "しゅみっていうほどじゃないけど",
+"romaji": "shumi tte iu hodo ja nai kedo",
+"polite": "shumi to iu hodo ja nai n desu kedo",
+"en": "it's not really a hobby, but...",
+"move": "c-likes",
+"cv": 4,
+"surface": [
+"趣味っていうほど",
+"趣味というほど"
+]
+},
+{
+"ja": "家でゴロゴロしてる",
+"kana": "いえでゴロゴロしてる",
+"romaji": "ie de gorogoro shiteru",
+"polite": "ie de gorogoro shite imasu",
+"en": "I just laze around at home",
+"move": "c-likes",
+"cv": 4,
+"surface": [
+"ゴロゴロしてる",
+"ごろごろしてる"
+]
+},
+{
+"ja": "〜って好き？",
+"kana": "〜ってすき？",
+"romaji": "...tte suki?",
+"polite": "... wa suki desu ka?",
+"en": "do you like ...?",
+"move": "c-likes",
+"cv": 5,
+"surface": [
+"って好き？",
+"って好き?"
+]
+},
+{
+"ja": "好きな食べ物は？",
+"kana": "すきなたべものは？",
+"romaji": "suki na tabemono wa?",
+"polite": "suki na tabemono wa nan desu ka?",
+"en": "what's your favourite food?",
+"move": "c-likes",
+"cv": 5,
+"surface": [
+"好きな食べ物"
+]
+},
+{
+"ja": "どんな音楽聴くの？",
+"kana": "どんなおんがくきくの？",
+"romaji": "donna ongaku kiku no?",
+"polite": "donna ongaku o kikimasu ka?",
+"en": "what kind of music do you listen to?",
+"move": "c-likes",
+"cv": 5,
+"surface": [
+"どんな音楽",
+"音楽聴く"
+]
+},
+{
+"ja": "洋楽と邦楽どっち聴く？",
+"kana": "ようがくとほうがくどっちきく？",
+"romaji": "yougaku to hougaku dotchi kiku?",
+"polite": "yougaku to hougaku, dochira o kikimasu ka?",
+"en": "do you listen to Western or Japanese music?",
+"move": "c-likes",
+"cv": 4,
+"surface": [
+"洋楽と邦楽",
+"洋楽聴く",
+"邦楽聴く"
+]
+},
+{
+"ja": "好きなアーティストいる？",
+"kana": "すきなアーティストいる？",
+"romaji": "suki na aatisuto iru?",
+"polite": "suki na aatisuto wa imasu ka?",
+"en": "any artists you like?",
+"move": "c-likes",
+"cv": 4,
+"surface": [
+"好きなアーティスト",
+"好きな歌手"
+]
+},
+{
+"ja": "ライブとか行く？",
+"kana": "ライブとかいく？",
+"romaji": "raibu toka iku?",
+"polite": "raibu toka ikimasu ka?",
+"en": "do you go to gigs?",
+"move": "c-likes",
+"cv": 4,
+"surface": [
+"ライブとか行く",
+"ライブ行く"
+]
+},
+{
+"ja": "推しは誰？",
+"kana": "おしはだれ？",
+"romaji": "oshi wa dare?",
+"polite": "oshi wa dare desu ka?",
+"en": "who's your fave? (idol, band member, character)",
+"move": "c-likes",
+"cv": 4,
+"surface": [
+"推しは誰",
+"推し誰"
+]
+},
+{
+"ja": "映画とか見る？",
+"kana": "えいがとかみる？",
+"romaji": "eiga toka miru?",
+"polite": "eiga toka mimasu ka?",
+"en": "do you watch movies much?",
+"move": "c-likes",
+"cv": 4,
+"surface": [
+"映画とか見る",
+"映画見る"
+]
+},
+{
+"ja": "最近何か面白いの見た？",
+"kana": "さいきんなにかおもしろいのみた？",
+"romaji": "saikin nanika omoshiroi no mita?",
+"polite": "saikin nanika omoshiroi no mimashita ka?",
+"en": "seen anything good lately?",
+"move": "c-likes",
+"cv": 5,
+"surface": [
+"面白いの見た",
+"何か面白いの"
+]
+},
+{
+"ja": "今何かドラマ見てる？",
+"kana": "いまなにかドラマみてる？",
+"romaji": "ima nanika dorama miteru?",
+"polite": "ima nanika dorama mite imasu ka?",
+"en": "are you watching any shows at the moment?",
+"move": "c-likes",
+"cv": 4,
+"surface": [
+"ドラマ見てる",
+"何かドラマ"
+]
+},
+{
+"ja": "ゲームする？",
+"kana": "ゲームする？",
+"romaji": "geemu suru?",
+"polite": "geemu shimasu ka?",
+"en": "do you play video games?",
+"move": "c-likes",
+"cv": 4,
+"surface": [
+"ゲームする",
+"ゲームとか"
+]
+},
+{
+"ja": "何かスポーツやってる？",
+"kana": "なにかスポーツやってる？",
+"romaji": "nanika supootsu yatteru?",
+"polite": "nanika supootsu o yatte imasu ka?",
+"en": "do you play any sport?",
+"move": "c-likes",
+"cv": 4,
+"surface": [
+"スポーツやって",
+"何かスポーツ"
+]
+},
+{
+"ja": "ジムに通ってる",
+"kana": "ジムにかよってる",
+"romaji": "jimu ni kayotteru",
+"polite": "jimu ni kayotte imasu",
+"en": "I go to the gym (regularly)",
+"move": "c-likes",
+"cv": 4,
+"surface": [
+"ジムに通って",
+"ジム通い"
+]
+},
+{
+"ja": "昔〜やってた",
+"kana": "むかし〜やってた",
+"romaji": "mukashi ... yatteta",
+"polite": "mukashi ... o yatte imashita",
+"en": "I used to do / play ... (back in the day)",
+"move": "c-likes",
+"cv": 4,
+"surface": [
+"昔やってた",
+"前やってた"
+]
+},
+{
+"ja": "料理する？",
+"kana": "りょうりする？",
+"romaji": "ryouri suru?",
+"polite": "ryouri shimasu ka?",
+"en": "do you cook?",
+"move": "c-likes",
+"cv": 4,
+"surface": [
+"料理する",
+"料理とか"
+]
+},
+{
+"ja": "辛いの大丈夫？",
+"kana": "からいのだいじょうぶ？",
+"romaji": "karai no daijoubu?",
+"polite": "karai no wa daijoubu desu ka?",
+"en": "are you okay with spicy food?",
+"move": "c-likes",
+"cv": 4,
+"surface": [
+"辛いの大丈夫",
+"辛いのは大丈夫"
+]
+},
+{
+"ja": "納豆食べられる？",
+"kana": "なっとうたべられる？",
+"romaji": "nattou taberareru?",
+"polite": "nattou taberaremasu ka?",
+"en": "can you eat natto? (the classic question for foreigners)",
+"move": "c-likes",
+"cv": 4,
+"surface": [
+"納豆食べられる",
+"納豆食べれる"
+]
+},
+{
+"ja": "なんでも食べるよ",
+"kana": "なんでもたべるよ",
+"romaji": "nandemo taberu yo",
+"polite": "nandemo tabemasu yo",
+"en": "I'll eat anything",
+"move": "c-likes",
+"cv": 4,
+"surface": [
+"何でも食べる",
+"なんでも食べる"
+]
+},
+{
+"ja": "お酒飲む？",
+"kana": "おさけのむ？",
+"romaji": "osake nomu?",
+"polite": "osake wa nomimasu ka?",
+"en": "do you drink?",
+"move": "c-likes",
+"cv": 4,
+"surface": [
+"お酒飲む",
+"お酒は飲む"
+]
+},
+{
+"ja": "お酒弱いんだ",
+"kana": "おさけよわいんだ",
+"romaji": "osake yowai n da",
+"polite": "osake yowai n desu",
+"en": "I can't hold my drink; I'm a lightweight",
+"move": "c-likes",
+"cv": 4,
+"surface": [
+"お酒弱い",
+"酒弱い"
+]
+},
+{
+"ja": "よく旅行する？",
+"kana": "よくりょこうする？",
+"romaji": "yoku ryokou suru?",
+"polite": "yoku ryokou shimasu ka?",
+"en": "do you travel much?",
+"move": "c-likes",
+"cv": 4,
+"surface": [
+"よく旅行する",
+"旅行好き"
+]
+},
+{
+"ja": "〜行ったことある？",
+"kana": "〜いったことある？",
+"romaji": "... itta koto aru?",
+"polite": "... ni itta koto arimasu ka?",
+"en": "have you been to ...?",
+"move": "c-likes",
+"cv": 5,
+"surface": [
+"行ったことある",
+"行ったことあります"
+]
+},
+{
+"ja": "まだ行ったことない",
+"kana": "まだいったことない",
+"romaji": "mada itta koto nai",
+"polite": "mada itta koto ga arimasen",
+"en": "I haven't been there yet",
+"move": "c-likes",
+"cv": 4,
+"surface": [
+"行ったことない",
+"行ったことがない"
+]
+},
+{
+"ja": "日本でどこ行った？",
+"kana": "にほんでどこいった？",
+"romaji": "nihon de doko itta?",
+"polite": "nihon de wa doko ni ikimashita ka?",
+"en": "where have you been in Japan?",
+"move": "c-likes",
+"cv": 4,
+"surface": [
+"どこ行った",
+"どこに行った"
+]
+},
+{
+"ja": "いつか行ってみたい",
+"kana": "いつかいってみたい",
+"romaji": "itsuka itte mitai",
+"polite": "itsuka itte mitai desu",
+"en": "I'd love to go someday",
+"move": "c-likes",
+"cv": 4,
+"surface": [
+"いつか行ってみたい",
+"行ってみたい"
+]
+},
+{
+"ja": "犬派？猫派？",
+"kana": "いぬは？ねこは？",
+"romaji": "inu ha? neko ha?",
+"polite": "inu ha desu ka, neko ha desu ka?",
+"en": "dog person or cat person?",
+"move": "c-likes",
+"cv": 4,
+"surface": [
+"犬派？猫派？",
+"犬派か猫派か",
+"犬派猫派"
+]
+},
+{
+"ja": "インドア派だよ",
+"kana": "インドアはだよ",
+"romaji": "indoa ha da yo",
+"polite": "indoa ha desu",
+"en": "I'm more of a homebody",
+"move": "c-likes",
+"cv": 4,
+"surface": [
+"インドア派"
+]
+},
+{
+"ja": "時間がある時は〜",
+"kana": "じかんがあるときは〜",
+"romaji": "jikan ga aru toki wa ...",
+"polite": null,
+"en": "when I've got time, I ...",
+"move": "c-likes",
+"cv": 4,
+"surface": [
+"時間がある時は",
+"時間ある時は",
+"時間があるときは"
+]
+},
+{
+"ja": "〜のが好き",
+"kana": "〜のがすき",
+"romaji": "...no ga suki",
+"polite": "...no ga suki desu",
+"en": "I like (doing) ...",
+"move": "c-likes",
+"cv": 4,
+"surface": [
+"のが好き"
+]
+},
+{
+"ja": "最近始めたんだ",
+"kana": "さいきんはじめたんだ",
+"romaji": "saikin hajimeta n da",
+"polite": "saikin hajimeta n desu",
+"en": "I only took it up recently",
+"move": "c-likes",
+"cv": 4,
+"surface": [
+"最近始めた"
+]
+},
+{
+"ja": "どのぐらいやってるの？",
+"kana": "どのぐらいやってるの？",
+"romaji": "dono gurai yatteru no?",
+"polite": "dono gurai yatte iru n desu ka?",
+"en": "how long have you been doing it?",
+"move": "c-likes",
+"cv": 4,
+"surface": [
+"どのくらいやって",
+"どれくらいやって",
+"どのぐらいやって"
+]
+},
+{
+"ja": "全然下手だけど",
+"kana": "ぜんぜんへただけど",
+"romaji": "zenzen heta da kedo",
+"polite": "zenzen heta desu kedo",
+"en": "I'm not any good at it, though",
+"move": "c-likes",
+"cv": 4,
+"surface": [
+"下手だけど",
+"下手なんだけど"
+]
+},
+{
+"ja": "週末はだいたい〜",
+"kana": "しゅうまつはだいたい〜",
+"romaji": "shuumatsu wa daitai ...",
+"polite": null,
+"en": "on weekends I usually ...",
+"move": "c-likes",
+"cv": 4,
+"surface": [
+"週末はだいたい",
+"週末は大体"
+]
+},
+{
+"ja": "カラオケで何歌う？",
+"kana": "カラオケでなにうたう？",
+"romaji": "karaoke de nani utau?",
+"polite": "karaoke de wa nani o utaimasu ka?",
+"en": "what do you sing at karaoke?",
+"move": "c-likes",
+"cv": 4,
+"surface": [
+"カラオケで何歌う",
+"何歌う"
+]
+},
+{
+"ja": "絶対ハマるよ",
+"kana": "ぜったいハマるよ",
+"romaji": "zettai hamaru yo",
+"polite": "zettai hamarimasu yo",
+"en": "you'll love it, trust me",
+"move": "c-likes",
+"cv": 4,
+"surface": [
+"絶対ハマる",
+"絶対はまる"
+]
+},
+{
+"ja": "今度教えて",
+"kana": "こんどおしえて",
+"romaji": "kondo oshiete",
+"polite": "kondo oshiete kudasai",
+"en": "you'll have to show me sometime",
+"move": "c-likes",
+"cv": 4,
+"surface": [
+"今度教えて"
+]
+},
+{
+"ja": "私もやってみたい",
+"kana": "わたしもやってみたい",
+"romaji": "watashi mo yatte mitai",
+"polite": "watashi mo yatte mitai desu",
+"en": "I'd like to give it a try too",
+"move": "c-likes",
+"cv": 4,
+"surface": [
+"私もやってみたい",
+"やってみたい"
+]
+},
+{
+"ja": "お気に入りのお店ある？",
+"kana": "おきにいりのおみせある？",
+"romaji": "okiniiri no omise aru?",
+"polite": "okiniiri no omise wa arimasu ka?",
+"en": "got a favourite place to eat or hang out?",
+"move": "c-likes",
+"cv": 4,
+"surface": [
+"お気に入りの店",
+"お気に入りのお店"
+]
+},
+{
+"ja": "食べたことある？",
+"kana": "たべたことある？",
+"romaji": "tabeta koto aru?",
+"polite": "tabeta koto arimasu ka?",
+"en": "have you ever tried it?",
+"move": "c-likes",
+"cv": 4,
+"surface": [
+"食べたことある",
+"食べたことあります"
+]
+},
+{
+"ja": "どっち派？",
+"kana": "どっちは？",
+"romaji": "dotchi ha?",
+"polite": "dochira ha desu ka?",
+"en": "which side are you on? which do you go for?",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"どっち派"
+]
+},
+{
+"ja": "私は〜派かな",
+"kana": "わたしは〜はかな",
+"romaji": "watashi wa ... ha kana",
+"polite": "watashi wa ... ha desu ne",
+"en": "I'm more of a ... person, I guess",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"派かな",
+"派なんだ",
+"派です"
+]
+},
+{
+"ja": "どっちがいいと思う？",
+"kana": "どっちがいいとおもう？",
+"romaji": "dotchi ga ii to omou?",
+"polite": "dochira ga ii to omoimasu ka?",
+"en": "which do you think is better?",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"どっちがいいと思う"
+]
+},
+{
+"ja": "私的には",
+"kana": "わたしてきには",
+"romaji": "watashi teki ni wa",
+"polite": null,
+"en": "for me; as far as I'm concerned",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"私的には"
+]
+},
+{
+"ja": "時と場合による",
+"kana": "ときとばあいによる",
+"romaji": "toki to baai ni yoru",
+"polite": "toki to baai ni yorimasu",
+"en": "it depends on the situation",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"時と場合による",
+"場合による"
+]
+},
+{
+"ja": "人それぞれ",
+"kana": "ひとそれぞれ",
+"romaji": "hito sorezore",
+"polite": "hito sorezore desu yo ne",
+"en": "everyone's different; to each their own",
+"move": "c-opine",
+"cv": 5,
+"surface": [
+"人それぞれ"
+]
+},
+{
+"ja": "期待してたほどじゃなかった",
+"kana": "きたいしてたほどじゃなかった",
+"romaji": "kitai shiteta hodo ja nakatta",
+"polite": "kitai shite ita hodo ja nakatta desu",
+"en": "it wasn't as good as I'd hoped",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"期待してたほど",
+"期待したほど"
+]
+},
+{
+"ja": "好みが分かれる",
+"kana": "このみがわかれる",
+"romaji": "konomi ga wakareru",
+"polite": "konomi ga wakaremasu ne",
+"en": "people either love it or hate it",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"好みが分かれる",
+"好み分かれる"
+]
+},
+{
+"ja": "好きな人は好きだよね",
+"kana": "すきなひとはすきだよね",
+"romaji": "suki na hito wa suki da yo ne",
+"polite": "suki na hito wa suki desu yo ne",
+"en": "it's not for everyone, but fans love it",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"好きな人は好き"
+]
+},
+{
+"ja": "私は好きだけど",
+"kana": "わたしはすきだけど",
+"romaji": "watashi wa suki da kedo",
+"polite": "watashi wa suki desu kedo",
+"en": "well, I like it (even if others don't)",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"私は好きだけど",
+"俺は好きだけど",
+"僕は好きだけど"
+]
+},
+{
+"ja": "あんまり好きじゃない",
+"kana": "あんまりすきじゃない",
+"romaji": "anmari suki ja nai",
+"polite": "amari suki ja nai desu",
+"en": "I'm not that keen on it",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"あんまり好きじゃない",
+"あまり好きじゃない"
+]
+},
+{
+"ja": "嫌いじゃない",
+"kana": "きらいじゃない",
+"romaji": "kirai ja nai",
+"polite": "kirai ja nai desu",
+"en": "I don't mind it; I kind of like it",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"嫌いじゃない"
+]
+},
+{
+"ja": "それはそれでいい",
+"kana": "それはそれでいい",
+"romaji": "sore wa sore de ii",
+"polite": "sore wa sore de ii desu ne",
+"en": "that's good in its own way",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"それはそれで"
+]
+},
+{
+"ja": "一理ある",
+"kana": "いちりある",
+"romaji": "ichiri aru",
+"polite": "ichiri arimasu ne",
+"en": "you've got a point",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"一理ある",
+"一理あります"
+]
+},
+{
+"ja": "考えたことなかった",
+"kana": "かんがえたことなかった",
+"romaji": "kangaeta koto nakatta",
+"polite": "kangaeta koto nakatta desu",
+"en": "I'd never thought about that",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"考えたことなかった",
+"考えたこともなかった"
+]
+},
+{
+"ja": "難しいところだね",
+"kana": "むずかしいところだね",
+"romaji": "muzukashii tokoro da ne",
+"polite": "muzukashii tokoro desu ne",
+"en": "that's a tough one",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"難しいところ",
+"難しいとこ"
+]
+},
+{
+"ja": "〜って言う人もいるけど",
+"kana": "〜っていうひともいるけど",
+"romaji": "...tte iu hito mo iru kedo",
+"polite": "...to iu hito mo imasu kedo",
+"en": "some people say ..., but",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"って言う人もいる",
+"という人もいる"
+]
+},
+{
+"ja": "国によって違うよね",
+"kana": "くにによってちがうよね",
+"romaji": "kuni ni yotte chigau yo ne",
+"polite": "kuni ni yotte chigaimasu yo ne",
+"en": "it differs from country to country, doesn't it",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"国によって違う"
+]
+},
+{
+"ja": "〜と比べてどう？",
+"kana": "〜とくらべてどう？",
+"romaji": "...to kurabete dou?",
+"polite": "...to kurabete dou desu ka?",
+"en": "how does it compare with ...?",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"と比べてどう",
+"と比べて"
+]
+},
+{
+"ja": "そんなに変わらない",
+"kana": "そんなにかわらない",
+"romaji": "sonna ni kawaranai",
+"polite": "sonna ni kawaranai desu",
+"en": "it's not that different",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"そんなに変わらない",
+"あんまり変わらない"
+]
+},
+{
+"ja": "〜に似てる",
+"kana": "〜ににてる",
+"romaji": "...ni niteru",
+"polite": "...ni nite imasu",
+"en": "it's like ...; it's similar to ...",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"に似てる",
+"に似てます"
+]
+},
+{
+"ja": "当たり外れがある",
+"kana": "あたりはずれがある",
+"romaji": "atari hazure ga aru",
+"polite": "atari hazure ga arimasu",
+"en": "it's hit and miss",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"当たり外れ",
+"当たりはずれ"
+]
+},
+{
+"ja": "〜の割には",
+"kana": "〜のわりには",
+"romaji": "...no wari ni wa",
+"polite": null,
+"en": "for ...; considering ... (good for the price)",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"の割には",
+"のわりには"
+]
+},
+{
+"ja": "〜ところが好き",
+"kana": "〜ところがすき",
+"romaji": "...tokoro ga suki",
+"polite": "...tokoro ga suki desu",
+"en": "I like how ...; what I like is ...",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"ところが好き",
+"とこが好き"
+]
+},
+{
+"ja": "一概には言えない",
+"kana": "いちがいにはいえない",
+"romaji": "ichigai ni wa ienai",
+"polite": "ichigai ni wa iemasen",
+"en": "you can't really generalise",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"一概には言えない",
+"一概に"
+]
+},
+{
+"ja": "偏見かもしれないけど",
+"kana": "へんけんかもしれないけど",
+"romaji": "henken kamo shirenai kedo",
+"polite": "henken kamo shiremasen kedo",
+"en": "this might be a stereotype, but...",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"偏見かもしれない",
+"偏見かもだけど"
+]
+},
+{
+"ja": "私だったら〜",
+"kana": "わたしだったら〜",
+"romaji": "watashi dattara ...",
+"polite": null,
+"en": "if it were me, I'd ...",
+"move": "c-opine",
+"cv": 5,
+"surface": [
+"私だったら",
+"俺だったら",
+"僕だったら"
+]
+},
+{
+"ja": "そういう考え方もあるね",
+"kana": "そういうかんがえかたもあるね",
+"romaji": "sou iu kangaekata mo aru ne",
+"polite": "sou iu kangaekata mo arimasu ne",
+"en": "that's one way to look at it",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"そういう考え方もある",
+"考え方もある"
+]
+},
+{
+"ja": "〜ってイメージがある",
+"kana": "〜ってイメージがある",
+"romaji": "...tte imeeji ga aru",
+"polite": "...to iu imeeji ga arimasu",
+"en": "I picture it as ...; my impression is ...",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"ってイメージ",
+"というイメージ"
+]
+},
+{
+"ja": "イメージと違う",
+"kana": "イメージとちがう",
+"romaji": "imeeji to chigau",
+"polite": "imeeji to chigaimasu",
+"en": "it's not what I imagined",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"イメージと違う",
+"イメージと違った"
+]
+},
+{
+"ja": "実際どうなの？",
+"kana": "じっさいどうなの？",
+"romaji": "jissai dou na no?",
+"polite": "jissai dou na n desu ka?",
+"en": "what's it really like?",
+"move": "c-opine",
+"cv": 5,
+"surface": [
+"実際どうなの",
+"実際どう"
+]
+},
+{
+"ja": "住みやすい？",
+"kana": "すみやすい？",
+"romaji": "sumiyasui?",
+"polite": "sumiyasui desu ka?",
+"en": "is it a nice place to live?",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"住みやすい"
+]
+},
+{
+"ja": "何が一番違う？",
+"kana": "なにがいちばんちがう？",
+"romaji": "nani ga ichiban chigau?",
+"polite": "nani ga ichiban chigaimasu ka?",
+"en": "what's the biggest difference?",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"一番違う"
+]
+},
+{
+"ja": "やっぱり〜が一番",
+"kana": "やっぱり〜がいちばん",
+"romaji": "yappari ... ga ichiban",
+"polite": "yappari ... ga ichiban desu ne",
+"en": "you can't beat ...; ... is the best after all",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"が一番だね",
+"が一番だよね"
+]
+},
+{
+"ja": "見て損はない",
+"kana": "みてそんはない",
+"romaji": "mite son wa nai",
+"polite": "mite son wa nai desu yo",
+"en": "it's worth a watch",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"見て損はない",
+"損はない"
+]
+},
+{
+"ja": "感想は？",
+"kana": "かんそうは？",
+"romaji": "kansou wa?",
+"polite": "kansou wa dou desu ka?",
+"en": "so what did you think of it?",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"感想は"
+]
+},
+{
+"ja": "あのニュース見た？",
+"kana": "あのニュースみた？",
+"romaji": "ano nyuusu mita?",
+"polite": "ano nyuusu mimashita ka?",
+"en": "did you see that news?",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"ニュース見た"
+]
+},
+{
+"ja": "いまいち",
+"kana": "いまいち",
+"romaji": "imaichi",
+"polite": null,
+"en": "not quite there; a bit lacking",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"いまいち",
+"イマイチ"
+]
+},
+{
+"ja": "どっちもどっち",
+"kana": "どっちもどっち",
+"romaji": "dotchi mo dotchi",
+"polite": null,
+"en": "they're as bad as each other",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"どっちもどっち"
+]
+},
+{
+"ja": "言いたいことは分かる",
+"kana": "いいたいことはわかる",
+"romaji": "iitai koto wa wakaru",
+"polite": "iitai koto wa wakarimasu",
+"en": "I see what you're getting at (but...)",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"言いたいことは分かる",
+"言いたいことはわかる"
+]
+},
+{
+"ja": "〜はどうかと思う",
+"kana": "〜はどうかとおもう",
+"romaji": "...wa dou ka to omou",
+"polite": "...wa dou ka to omoimasu",
+"en": "I'm not so sure about ...; I have my doubts about ...",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"どうかと思う"
+]
+},
+{
+"ja": "私には合わなかった",
+"kana": "わたしにはあわなかった",
+"romaji": "watashi ni wa awanakatta",
+"polite": "watashi ni wa awanakatta desu",
+"en": "it wasn't for me",
+"move": "c-opine",
+"cv": 4,
+"surface": [
+"合わなかった",
+"には合わない"
+]
+},
+{
+"ja": "最近忙しい？",
+"kana": "さいきんいそがしい？",
+"romaji": "saikin isogashii?",
+"polite": "saikin isogashii desu ka?",
+"en": "been busy lately?",
+"move": "c-catchup",
+"cv": 5,
+"surface": [
+"最近忙しい"
+]
+},
+{
+"ja": "特に何もないよ",
+"kana": "とくになにもないよ",
+"romaji": "toku ni nanimo nai yo",
+"polite": "toku ni nanimo nai desu",
+"en": "nothing much, really",
+"move": "c-catchup",
+"cv": 5,
+"surface": [
+"特に何もない",
+"特になんもない"
+]
+},
+{
+"ja": "調子どう？",
+"kana": "ちょうしどう？",
+"romaji": "choushi dou?",
+"polite": "choushi wa dou desu ka?",
+"en": "how are you doing? how's it going?",
+"move": "c-catchup",
+"cv": 5,
+"surface": [
+"調子どう",
+"調子はどう"
+]
+},
+{
+"ja": "連休どこか行った？",
+"kana": "れんきゅうどこかいった？",
+"romaji": "renkyuu dokoka itta?",
+"polite": "renkyuu wa dokoka ikimashita ka?",
+"en": "go anywhere over the long weekend?",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"連休どこか行った",
+"連休どっか行った"
+]
+},
+{
+"ja": "週末ゆっくりできた？",
+"kana": "しゅうまつゆっくりできた？",
+"romaji": "shuumatsu yukkuri dekita?",
+"polite": "shuumatsu wa yukkuri dekimashita ka?",
+"en": "did you get to relax on the weekend?",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"ゆっくりできた"
+]
+},
+{
+"ja": "特に予定ない",
+"kana": "とくによていない",
+"romaji": "toku ni yotei nai",
+"polite": "toku ni yotei wa nai desu",
+"en": "no plans, really",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"特に予定ない",
+"特に予定はない"
+]
+},
+{
+"ja": "早く週末にならないかな",
+"kana": "はやくしゅうまつにならないかな",
+"romaji": "hayaku shuumatsu ni naranai kana",
+"polite": null,
+"en": "can't wait for the weekend",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"早く週末にならない",
+"週末にならないかな"
+]
+},
+{
+"ja": "蒸し暑いね",
+"kana": "むしあついね",
+"romaji": "mushiatsui ne",
+"polite": "mushiatsui desu ne",
+"en": "so humid, huh",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"蒸し暑い"
+]
+},
+{
+"ja": "雨ばっかりだね",
+"kana": "あめばっかりだね",
+"romaji": "ame bakkari da ne",
+"polite": "ame bakari desu ne",
+"en": "it's been nothing but rain, huh",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"雨ばっかり",
+"雨ばかり"
+]
+},
+{
+"ja": "寒暖差すごいね",
+"kana": "かんだんさすごいね",
+"romaji": "kandansa sugoi ne",
+"polite": "kandansa ga sugoi desu ne",
+"en": "the temperature's been all over the place",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"寒暖差"
+]
+},
+{
+"ja": "今年もあと少しだね",
+"kana": "ことしもあとすこしだね",
+"romaji": "kotoshi mo ato sukoshi da ne",
+"polite": "kotoshi mo ato sukoshi desu ne",
+"en": "the year's almost over, huh",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"今年もあと少し",
+"今年もあとちょっと"
+]
+},
+{
+"ja": "お正月は帰るの？",
+"kana": "おしょうがつはかえるの？",
+"romaji": "oshougatsu wa kaeru no?",
+"polite": "oshougatsu wa kaerareru n desu ka?",
+"en": "going home for New Year?",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"正月は帰る",
+"正月帰る"
+]
+},
+{
+"ja": "花粉症ある？",
+"kana": "かふんしょうある？",
+"romaji": "kafunshou aru?",
+"polite": "kafunshou wa arimasu ka?",
+"en": "do you get hay fever?",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"花粉症"
+]
+},
+{
+"ja": "何か変わったことあった？",
+"kana": "なにかかわったことあった？",
+"romaji": "nanika kawatta koto atta?",
+"polite": "nanika kawatta koto arimashita ka?",
+"en": "anything new with you?",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"変わったことあった",
+"変わったこと"
+]
+},
+{
+"ja": "前に言ってた〜、どうなった？",
+"kana": "まえにいってた〜、どうなった？",
+"romaji": "mae ni itteta ..., dou natta?",
+"polite": "mae ni itte ita ..., dou narimashita ka?",
+"en": "how did that ... you mentioned turn out?",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"前に言ってた",
+"あれどうなった"
+]
+},
+{
+"ja": "痩せた？",
+"kana": "やせた？",
+"romaji": "yaseta?",
+"polite": "yasemashita ka?",
+"en": "have you lost weight?",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"痩せた",
+"やせた？"
+]
+},
+{
+"ja": "最近ちょっと太っちゃった",
+"kana": "さいきんちょっとふとっちゃった",
+"romaji": "saikin chotto futotchatta",
+"polite": "saikin chotto futotte shimaimashita",
+"en": "I've put on a bit of weight lately",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"太っちゃった",
+"太った"
+]
+},
+{
+"ja": "最近ちょっと疲れ気味",
+"kana": "さいきんちょっとつかれぎみ",
+"romaji": "saikin chotto tsukaregimi",
+"polite": "saikin chotto tsukaregimi desu",
+"en": "I've been a bit worn out lately",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"疲れ気味"
+]
+},
+{
+"ja": "ちょっと寝不足",
+"kana": "ちょっとねぶそく",
+"romaji": "chotto nebusoku",
+"polite": "chotto nebusoku desu",
+"en": "I haven't been getting enough sleep",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"寝不足"
+]
+},
+{
+"ja": "やっと落ち着いた",
+"kana": "やっとおちついた",
+"romaji": "yatto ochitsuita",
+"polite": "yatto ochitsukimashita",
+"en": "things have finally settled down",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"やっと落ち着いた",
+"落ち着いた"
+]
+},
+{
+"ja": "久しぶりに〜した",
+"kana": "ひさしぶりに〜した",
+"romaji": "hisashiburi ni ... shita",
+"polite": "hisashiburi ni ... shimashita",
+"en": "I ... for the first time in ages",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"久しぶりに"
+]
+},
+{
+"ja": "引っ越したんだ",
+"kana": "ひっこしたんだ",
+"romaji": "hikkoshita n da",
+"polite": "hikkoshita n desu",
+"en": "I moved house",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"引っ越した"
+]
+},
+{
+"ja": "転職したんだ",
+"kana": "てんしょくしたんだ",
+"romaji": "tenshoku shita n da",
+"polite": "tenshoku shita n desu",
+"en": "I changed jobs",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"転職した"
+]
+},
+{
+"ja": "今日は休み？",
+"kana": "きょうはやすみ？",
+"romaji": "kyou wa yasumi?",
+"polite": "kyou wa oyasumi desu ka?",
+"en": "are you off today?",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"今日は休み",
+"今日休み"
+]
+},
+{
+"ja": "ご飯食べた？",
+"kana": "ごはんたべた？",
+"romaji": "gohan tabeta?",
+"polite": "gohan tabemashita ka?",
+"en": "have you eaten? (a caring check-in)",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"ご飯食べた",
+"ごはん食べた"
+]
+},
+{
+"ja": "残業多い？",
+"kana": "ざんぎょうおおい？",
+"romaji": "zangyou ooi?",
+"polite": "zangyou wa ooi desu ka?",
+"en": "do you do a lot of overtime?",
+"move": "c-catchup",
+"cv": 4,
+"surface": [
+"残業多い",
+"残業が多い"
+]
+}
+]
+}
+}

@@ -1,0 +1,259 @@
+move	id	romaji	english	cv	role
+c-tell	p-tsui-shichatta	tsui ... shichatta	I couldn't help it; I ended up doing it without meaning to	4	say
+c-tell	p-tashika	tashika	if I remember right; I'm pretty sure	4	both
+c-tell	p-yoku-oboetenai-kedo	yoku oboetenai kedo	I don't remember exactly, but...	4	say
+c-tell	p-ima-omoeba	ima omoeba	looking back now; in hindsight	4	say
+c-tell	p-shuuden-nogashita	shuuden nogashita	I missed the last train	3	say
+c-tell	p-kowareta	kowareta	it's broken; it broke	3	say
+c-tell	p-ugokanai	ugokanai	it won't work; it won't move; it's stuck	2	say
+c-tell	p-wasuremono-shita	wasuremono shita	I left something behind; I forgot something	3	say
+c-tell	p-saifu-o-nakushita	saifu o nakushita	I've lost my wallet	3	say
+c-tell	p-machigaechatta	machigaechatta	oops, I got it wrong; I made a mistake	4	say
+c-tell	p-nebou-shita	nebou shita	I overslept	4	say
+c-tell	p-mou-ittakke	mou ittakke?	did I already tell you?	4	say
+c-tell	p-dou-natta-to-omou	dou natta to omou?	guess what happened?	4	say
+c-tell	p-sore-de-sa	sore de sa	and so...; so then...	5	say
+c-tell	p-ki-ga-tsuitara	ki ga tsuitara	before I knew it; next thing I knew	4	say
+c-tell	p-sore-ga-sa	sore ga sa	well, here's the thing... (a twist is coming)	4	say
+c-tell	p-nande-ka-tte-iu-to	nande ka tte iu to	and the reason is...; because...	4	say
+c-tell	p-yousuru-ni	yousuru ni	basically; in short	4	both
+c-tell	p-ochi-nai-n-da-kedo	ochi nai n da kedo	there's no punchline, but... (it's just a story)	4	say
+c-tell	p-betsu-ni-ii-n-da-kedo	betsu ni ii n da kedo	it's not a big deal, but...	4	both
+c-tell	p-ittoku-kedo	ittoku kedo	just so you know; let me tell you	3	both
+c-tell	p-iroiro-atte	iroiro atte	a lot happened, so...; it's a long story	4	both
+c-tell	p-naisho-da-yo	naisho da yo	keep it a secret; it's a secret	4	say
+c-tell	p-honto-wa	honto wa	actually; the truth is	4	both
+c-tell	p-soshitara-sa	soshitara sa	and then, guess what...	4	both
+c-tell	p-isshun-ka-to-omotta	isshun ... ka to omotta	for a second I thought...	4	both
+c-tell	p-tte-hanashi	... tte hanashi	...and that's the story; I hear that...	4	both
+c-feel	p-onaka-suita	onaka suita	I'm hungry	4	say
+c-feel	p-tabesugita	tabesugita	I ate too much	4	say
+c-feel	p-mou-taberarenai	mou taberarenai	I can't eat another bite	3	say
+c-feel	p-daijoubu-desu-ka	daijoubu desu ka	are you all right?; are you okay?	3	both
+c-feel	p-kega-nai	kega nai?	are you hurt?	2	say
+c-feel	p-mou-daijoubu	mou daijoubu?	are you feeling better now?; are you okay now?	4	say
+c-feel	p-ki-ni-shinaide	ki ni shinaide	don't worry about it; never mind	5	say
+c-feel	p-shinpai-shinaide	shinpai shinaide	don't worry	4	say
+c-feel	p-nantoka-naru-yo	nantoka naru yo	it'll work out; it'll be fine somehow	4	say
+c-feel	p-yukkuri-de-ii-yo	yukkuri de ii yo	take your time; no rush	3	both
+c-feel	p-dou-shiyou	dou shiyou	what do I do?; oh no	4	say
+c-feel	p-tsukareta	tsukareta	I'm tired	4	say
+c-feel	p-zenzen-daijoubu	zenzen daijoubu	totally fine; no problem at all	5	say
+c-feel	p-nemurenakatta	nemurenakatta	I couldn't sleep	4	say
+c-feel	p-hara-hetta	hara hetta	I'm starving; I'm hungry	3	say
+c-feel	p-onaka-ippai	onaka ippai	I'm full	4	say
+c-feel	p-nodo-kawaita	nodo kawaita	I'm thirsty	3	say
+c-feel	p-onaka-pekopeko	onaka pekopeko	I'm starving	3	say
+c-feel	p-yopparatta	yopparatta	I'm drunk; I got drunk	4	say
+c-feel	p-nomisugita	nomisugita	I drank too much	4	say
+c-feel	p-odaiji-ni	odaiji ni	get well soon; take care	3	both
+c-feel	p-muri-shinaide	muri shinaide	don't overdo it; don't push yourself	4	say
+c-feel	p-yukkuri-yasunde	yukkuri yasunde	get some good rest	3	say
+c-feel	p-kimochi-wakaru	kimochi wakaru	I know how you feel	5	say
+c-feel	p-yoku-ganbatta-ne	yoku ganbatta ne	you did really well; great effort	4	say
+c-feel	p-genki-dashite	genki dashite	cheer up	3	say
+c-feel	p-faito	faito	go for it!; you can do it!	3	say
+c-feel	p-ochitsuite	ochitsuite	calm down; take it easy	3	both
+c-feel	p-kawaisou-ni	kawaisou ni	poor thing; that's so sad	3	say
+c-feel	p-yoshi-yoshi	yoshi yoshi	there, there; good boy, good girl	2	say
+c-feel	p-nakanaide	nakanaide	don't cry	3	say
+c-feel	p-taihen-datta-ne	taihen datta ne	that must have been hard; what an ordeal	5	say
+c-feel	p-sore-wa-tsurai-ne	sore wa tsurai ne	that sounds really hard; that must hurt	4	say
+c-feel	p-ki-o-otosanaide	ki o otosanaide	don't let it get you down; don't lose heart	3	say
+c-feel	p-aseranakute-ii-yo	aseranakute ii yo	no rush; take your time	3	say
+c-feel	p-hayaku-yoku-natte-ne	hayaku yoku natte ne	get better soon	3	say
+c-feel	p-mou-ii	mou ii	enough; forget it; never mind	3	both
+c-feel	p-ma-ni-awanai	ma ni awanai	I won't make it in time; there's not enough time	3	say
+c-feel	p-komatta-na	komatta na	this is a problem; what do I do now?	3	say
+c-feel	p-mou-dame	mou dame	I can't go on; it's hopeless; I'm done for	4	say
+c-feel	p-mou-muri	mou muri	I can't anymore; no way	5	say
+c-feel	p-mou-genkai	mou genkai	I'm at my limit	3	say
+c-feel	p-kinchou-suru	kinchou suru	I'm nervous; I get nervous	4	say
+c-feel	p-anshin-shita	anshin shita	what a relief; I feel reassured	4	say
+c-feel	p-hotto-shita	hotto shita	I'm relieved; phew	3	say
+c-feel	p-raku-ni-natta	raku ni natta	I feel better; it got easier	3	say
+c-feel	p-mou-yada	mou yada	ugh, I've had it; I hate this	5	say
+c-feel	p-ochikonderu	ochikonderu	I'm feeling down	4	both
+c-feel	p-nayanderu	nayanderu	I'm torn; something's weighing on me	4	both
+c-feel	p-sonna-kibun-ja-nai	sonna kibun ja nai	I'm not in the mood	4	say
+c-feel	p-yaruki-ga-denai	yaruki ga denai	I can't get motivated	4	say
+c-feel	p-kiraku-ni-ikou	kiraku ni ikou	take it easy; don't stress	4	say
+c-feel	p-genki-nai-ne	genki nai ne	you seem down	4	both
+c-feel	p-ki-ni-shisugi-da-yo	ki ni shisugi da yo	you're overthinking it	4	both
+c-feel	p-iyasareru	iyasareru	so soothing; it melts my stress away	4	say
+c-feel	p-nakeru	nakeru	it makes you cry; such a tearjerker	4	say
+c-feel	p-tereru	tereru	aw, you're making me blush	4	say
+c-feel	p-hottoite	hottoite	leave me alone; mind your own business	3	both
+c-feel	p-sukkiri-shita	sukkiri shita	that feels better; I feel refreshed; that cleared things up	4	say
+c-feel	p-ikikaetta	ikikaetta	I feel alive again; that hit the spot	3	say
+c-feel	p-sappari-shita	sappari shita	that's refreshing; I feel clean	3	say
+c-plans	p-dou-suru	dou suru?	what do you want to do?; what shall we do?	5	both
+c-plans	p-sou-shiyou	sou shiyou	let's do that	4	say
+c-plans	p-dotchi-demo-ii	dotchi demo ii	either is fine	4	say
+c-plans	p-jaa-sore-de	jaa sore de	okay, let's go with that	3	say
+c-plans	p-ima-doko	ima doko?	where are you?	4	both
+c-plans	p-ima-mukatteru	ima mukatteru	I'm on my way	3	say
+c-plans	p-tsuita-yo	tsuita yo	I'm here; I've arrived	3	say
+c-plans	p-mou-sugu-tsuku	mou sugu tsuku	I'm almost there	3	say
+c-plans	p-matteru-ne	matteru ne	I'll be waiting; I'll wait for you	3	say
+c-plans	p-chotto-okureru	chotto okureru	I'll be a little late	3	say
+c-plans	p-aiteru	aiteru?	are you free (then)?	5	both
+c-plans	p-issho-ni-kuru	issho ni kuru?	want to come along?	4	both
+c-plans	p-awaseru-yo	awaseru yo	I'll fit around you; whatever suits you	4	say
+c-plans	p-yotei-aru	yotei aru?	got any plans?	4	both
+c-plans	p-uchi-kuru	uchi kuru?	want to come over?	4	both
+c-plans	p-kimari	kimari!	it's a deal!; settled	4	both
+c-plans	p-yakusoku-ne	yakusoku ne	it's a promise, okay?	4	both
+c-plans	p-tsukiau-yo	tsukiau yo	I'll come along; I'll keep you company	4	say
+c-plans	p-ikeru-ikeru	ikeru ikeru	yeah, I can make it; sure, easy	4	both
+c-plans	p-sono-hanashi-notta	sono hanashi notta	count me in; I'm in	4	say
+c-plans	p-kondo-sasotte	kondo sasotte	invite me next time	4	say
+c-plans	p-kyou-wa-pasu	kyou wa pasu	I'll pass today	4	say
+c-plans	p-ikitai-kedo	ikitai kedo...	I'd love to, but...	4	say
+c-plans	p-ki-ga-muitara	ki ga muitara	if I feel like it	4	both
+c-plans	p-okuru-yo	okuru yo	I'll walk you home; I'll drive you	4	both
+c-plans	p-shuuden-daijoubu	shuuden daijoubu?	are you okay for the last train?	4	both
+c-plans	p-mata-kondo	mata kondo	next time; another time	4	both
+c-plans	p-sorosoro-ikou-ka	sorosoro ikou ka	shall we get going?	3	both
+c-plans	p-yorokonde	yorokonde	gladly; with pleasure	3	say
+c-plans	p-kyou-wa-chotto	kyou wa chotto...	today's not good for me	4	both
+c-plans	p-enryo-shite-okimasu	enryo shite okimasu	I'll pass, thanks	2	say
+c-plans	p-mou-ippai	mou ippai	one more (drink); another glass	3	both
+c-plans	p-nomi-ni-ikanai	nomi ni ikanai?	want to go for a drink?	4	both
+c-plans	p-ocha-demo-dou	ocha demo dou?	how about a tea or something?; want to grab a coffee?	4	say
+c-plans	p-nani-taberu	nani taberu?	what shall we eat?; what are you having?	4	both
+c-plans	p-gohan-ikanai	gohan ikanai?	want to grab a bite?	4	both
+c-plans	p-doko-de-au	doko de au?	where shall we meet?	4	say
+c-plans	p-itsu-ga-ii	itsu ga ii?	when works for you?; when's good?	4	say
+c-plans	p-nanji-ga-ii	nanji ga ii?	what time works for you?	4	say
+c-plans	p-saki-ni-ittete	saki ni ittete	go on ahead; go without me	3	say
+c-plans	p-ikenaku-natta	ikenaku natta	I can't make it after all	3	say
+c-plans	p-makasete	makasete	leave it to me	3	say
+c-plans	p-ato-de-denwa-suru	ato de denwa suru	I'll call you later	3	say
+c-plans	p-ato-de-kakenaosu	ato de kakenaosu	I'll call you back later	3	say
+c-banter	p-nani-yatten-no	nani yatten no	what are you doing?!	3	both
+c-banter	p-sore-ga-nanika	sore ga nanika	so what?; is there a problem?	3	both
+c-banter	p-nai-nai	nai nai	no way; not at all; nope	4	both
+c-banter	p-mata-mata	mata mata	oh, come on; you're kidding	3	both
+c-banter	p-yamete	yamete	stop it!; don't!	4	say
+c-banter	p-kora	kora	hey! (scolding); stop that!	2	hear
+c-banter	p-ochi-wa	ochi wa?	and the punchline is...?	4	both
+c-banter	p-ki-no-sei-da-yo	ki no sei da yo	it's just your imagination	4	both
+c-banter	p-karakawanaide	karakawanaide	stop teasing me	4	say
+c-banter	p-kanben-shite-yo	kanben shite yo	give me a break	4	say
+c-banter	p-uzai	uzai	so annoying; get lost	4	hear
+c-banter	p-mata-hajimatta	mata hajimatta	here we go again	4	say
+c-banter	p-netabare-shinaide	netabare shinaide	no spoilers!	4	say
+c-banter	p-jaan	jaan	ta-da!	3	say
+c-banter	p-hora-ne	hora ne	see?; told you	4	both
+c-banter	p-dakara-itta-ja-nai	dakara itta ja nai	I told you so	3	both
+c-banter	p-yoku-iu	yoku iu	look who's talking; you've got some nerve	3	both
+c-banter	p-oi	oi	hey!	2	hear
+c-banter	p-oioi	oioi	hey, hey; come on; whoa, whoa	3	hear
+c-banter	p-shiru-ka	shiru ka	how should I know!; who cares!	2	hear
+c-banter	p-fuzaken-na	fuzaken na	don't mess with me; you've got to be kidding	2	hear
+c-banter	p-iikagen-ni-shiro	iikagen ni shiro	knock it off!; that's enough!	2	hear
+c-banter	p-joudan-da-yo	joudan da yo	just kidding	5	say
+c-banter	p-baka-ja-nai-no	baka ja nai no	are you an idiot?; don't be silly	4	hear
+c-banter	p-jiman	jiman?	are you bragging?	4	say
+c-banter	p-choushi-ni-noru-na	choushi ni noru na	don't get cocky	4	hear
+c-banter	p-sore-jibun-de-iu	sore jibun de iu?	you're saying that about yourself?	4	say
+c-banter	p-subetta	subetta	that joke bombed; it fell flat	4	both
+c-banter	p-uso-uso	uso uso	just kidding, just kidding	4	say
+c-banter	p-kuuki-yonde	kuuki yonde	read the room	4	hear
+c-banter	p-nori-warui	nori warui	you're no fun	4	hear
+c-social	p-mata-ne	mata ne	see you; bye	5	both
+c-social	p-mata-ashita	mata ashita	see you tomorrow	4	both
+c-social	p-jaa-mata	jaa mata	see you then; bye for now	5	both
+c-social	p-baibai	baibai	bye-bye	4	both
+c-social	p-sayounara	sayounara	goodbye	2	both
+c-social	p-tadaima	tadaima	I'm home; I'm back	3	say
+c-social	p-okaeri	okaeri	welcome home; welcome back	3	both
+c-social	p-ittekimasu	ittekimasu	I'm off; see you later (when leaving)	2	say
+c-social	p-itterasshai	itterasshai	see you later; have a good day (to someone leaving)	2	both
+c-social	p-okaerinasai	okaerinasai	welcome home; welcome back	2	both
+c-social	p-konbanwa	konbanwa	good evening; hi (after dark)	2	both
+c-social	p-youkoso	youkoso	welcome	2	hear
+c-social	p-doumo	doumo	thanks; hi	3	both
+c-social	p-arigatou-gozaimashita	arigatou gozaimashita	thank you (for what you did)	2	both
+c-social	p-doumo-arigatou	doumo arigatou	thanks a lot; thank you very much	4	say
+c-social	p-sankyuu	sankyuu	thanks	4	both
+c-social	p-ie-ie	ie ie	no, no; not at all	4	say
+c-social	p-douitashimashite	douitashimashite	you're welcome	2	say
+c-social	p-tondemonai	tondemonai	not at all (reply to thanks or praise); outrageous	3	both
+c-social	p-gomen-nasai	gomen nasai	I'm sorry	4	say
+c-social	p-sumimasen-deshita	sumimasen deshita	I'm sorry (for what I did)	2	say
+c-social	p-gomen-gomen	gomen gomen	sorry, sorry (light)	5	say
+c-social	p-doumo-sumimasen	doumo sumimasen	I'm so sorry; thank you so much	2	say
+c-social	p-osoku-natte-sumimasen	osoku natte sumimasen	sorry I'm late; sorry for the slow reply	2	say
+c-social	p-omatase	omatase	sorry to keep you waiting; here I am	4	both
+c-social	p-okurete-gomen	okurete gomen	sorry I'm late	4	say
+c-social	p-matta	matta?	did you wait long?; have you been waiting?	3	both
+c-social	p-goshinpai-naku	goshinpai naku	don't worry (about me); no need to worry	2	both
+c-social	p-aitakatta	aitakatta	I missed you; I wanted to see you	4	both
+c-social	p-yahhoo	yahhoo	hiya!; hey!	4	both
+c-social	p-renraku-shinakute-gomen	renraku shinakute gomen	sorry I haven't been in touch	4	say
+c-social	p-kyou-wa-arigatou	kyou wa arigatou	thanks for today	5	both
+c-social	p-tsuitara-rain-shite	tsuitara rain shite	text me when you get home	4	both
+c-social	p-warui-ne	warui ne	sorry for the trouble; thanks, I owe you	4	both
+c-social	p-watashi-ga-warukatta	watashi ga warukatta	it was my fault; my bad	4	say
+c-social	p-otagaisama-da-yo	otagaisama da yo	we're in the same boat; no need to thank me	4	both
+c-social	p-mata-ato-de	mata ato de	see you later (today); talk later	4	both
+c-social	p-mata-raishuu	mata raishuu	see you next week	3	both
+c-social	p-mata-asobou-ne	mata asobou ne	let's hang out again	4	both
+c-social	p-osaki-ni	osaki ni	I'm heading off (before you); after you	3	both
+c-social	p-ki-o-tsukete-kaette-ne	ki o tsukete kaette ne	get home safe	4	both
+c-social	p-oki-o-tsukete	oki o tsukete	take care; safe travels (polite)	2	both
+c-social	p-genki-de-ne	genki de ne	take care; look after yourself	3	both
+c-social	p-yoroshiku-tsutaete	yoroshiku tsutaete	say hi to them for me	3	both
+c-social	p-odekake-desu-ka	odekake desu ka	heading out?	2	hear
+c-social	p-tasukatta	tasukatta	that really helped; you saved me	4	say
+c-social	p-iroiro-arigatou	iroiro arigatou	thanks for everything	3	say
+c-social	p-osewa-ni-narimashita	osewa ni narimashita	thank you for all your help (at the end)	2	say
+c-social	p-otsukaresama-deshita	otsukaresama deshita	good work today; thanks for your hard work	3	both
+c-social	p-irasshai	irasshai	welcome!; come in	3	hear
+c-social	p-oagari-kudasai	oagari kudasai	please come in (into the house)	2	hear
+c-social	p-raku-ni-shite	raku ni shite	make yourself comfortable; relax	3	hear
+c-social	p-ojama-shimasu	ojama shimasu	sorry to intrude (on entering)	3	say
+c-social	p-ojama-shimashita	ojama shimashita	thanks for having me (on leaving)	3	say
+c-social	p-enryo-shinaide	enryo shinaide	don't be shy; go ahead	3	both
+c-social	p-enryo-naku	enryo naku	without holding back; I'll gladly take it	3	both
+c-social	p-okamai-naku	okamai naku	please don't go to any trouble	2	say
+c-social	p-osaki-ni-douzo	osaki ni douzo	after you; go ahead	2	both
+c-social	p-shitsurei-shimashita	shitsurei shimashita	excuse me; sorry (for that)	2	both
+c-social	p-tetsudaou-ka	tetsudaou ka	shall I help?; want a hand?	3	say
+c-social	p-douzo-douzo	douzo douzo	go ahead, please; after you	3	both
+c-social	p-nanika-attara-itte-ne	nanika attara itte ne	let me know if you need anything	3	both
+c-social	p-yokattara-douzo	yokattara douzo	help yourself if you like; please have some	3	both
+c-social	p-ki-o-tsukawanaide	ki o tsukawanaide	don't go to any trouble; you didn't have to	3	say
+c-social	p-warui-kedo	warui kedo	sorry, but...	4	say
+c-social	p-choudai	choudai	give me; please (after a -te verb)	3	both
+c-social	p-chotto-tetsudatte	chotto tetsudatte	give me a hand for a sec	3	say
+c-social	p-kanpai	kanpai	cheers!	4	both
+c-social	p-ogoru-yo	ogoru yo	it's on me; my treat	4	both
+c-social	p-rain-shite	rain shite	message me (on LINE); text me	3	say
+c-social	p-karada-ni-ki-o-tsukete	karada ni ki o tsukete	look after yourself; take care of your health	3	say
+c-social	p-kaze-hikanai-you-ni-ne	kaze hikanai you ni ne	don't catch a cold; stay warm	3	say
+c-social	p-otanjoubi-omedetou	otanjoubi omedetou	happy birthday	4	both
+c-social	p-kekkon-omedetou	kekkon omedetou	congratulations on your wedding	3	say
+c-social	p-goukaku-omedetou	goukaku omedetou	congrats on passing (an exam)	3	say
+c-social	p-sotsugyou-omedetou	sotsugyou omedetou	congrats on graduating	3	say
+c-social	p-ki-ga-kiku-ne	ki ga kiku ne	how thoughtful of you	4	say
+c-social	p-tte-yonde	... tte yonde	call me...	4	say
+c-social	p-nante-yobeba-ii	nante yobeba ii?	what should I call you?	4	both
+c-social	p-tameguchi-de-ii-yo	tameguchi de ii yo	you can talk casually with me	4	both
+c-social	p-suman	suman	sorry; my bad	3	both
+c-social	p-moushiwake-nai	moushiwake nai	I'm sorry; I feel terrible	2	both
+c-social	p-yurushite	yurushite	forgive me	3	both
+c-social	p-tanomu-yo	tanomu yo	please; I'm counting on you	3	both
+c-social	p-tanomu-kara	tanomu kara	please, I'm begging you	3	both
+c-social	p-onegai-dakara	onegai dakara	please, I'm begging you	3	say
+c-social	p-meshiagare	meshiagare	enjoy your meal; dig in	2	both
+c-social	p-gohan-da-yo	gohan da yo	food's ready!; dinner time!	2	both
+c-social	p-samenai-uchi-ni	samenai uchi ni	while it's still hot	2	both
+c-social	p-denwa-derarenakute-gomen	denwa derarenakute gomen	sorry I missed your call	3	say
+c-social	p-akemashite-omedetou	akemashite omedetou	happy New Year	3	both
+c-social	p-merii-kurisumasu	merii kurisumasu	Merry Christmas	3	both
+c-social	p-yoi-otoshi-o	yoi otoshi o	have a good New Year	3	both
+c-social	p-kotoshi-mo-yoroshiku-onegai-shimasu	kotoshi mo yoroshiku onegai shimasu	I look forward to another year with you	3	both
+c-social	p-kotoshi-mo-osewa-ni-narimashita	kotoshi mo osewa ni narimashita	thanks for everything this year	2	both
